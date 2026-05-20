@@ -6,23 +6,23 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 10,717 | 869 | Python | 48 | Secure, Fast, and Extensible Sandbox runtime for AI agents. | 2026-05-19 |
-| 2 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 10,469 | 839 | HTML | 6 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 2026-05-19 |
+| 1 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 10,718 | 869 | Python | 48 | Secure, Fast, and Extensible Sandbox runtime for AI agents. | 2026-05-19 |
+| 2 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 10,477 | 839 | HTML | 6 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 2026-05-19 |
 | 3 | [electric](https://github.com/electric-sql/electric) | 10,194 | 331 | TypeScript | 230 | The agent platform built on sync. | 2026-05-19 |
 | 4 | [deeplake](https://github.com/activeloopai/deeplake) | 9,129 | 710 | C++ | 54 | Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training. | 2026-05-12 |
-| 5 | [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6,198 | 2,356 | TypeScript | 6 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies. | 2026-05-19 |
+| 5 | [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6,200 | 2,356 | TypeScript | 6 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies. | 2026-05-19 |
 | 6 | [OpenShell](https://github.com/NVIDIA/OpenShell) | 6,106 | 714 | Rust | 123 | OpenShell is the safe, private runtime for autonomous AI agents. | 2026-05-20 |
 | 7 | [holaOS](https://github.com/holaboss-ai/holaOS) | 5,653 | 392 | TypeScript | 4 | Turn repeat work into running AI work-streams. | 2026-05-20 |
-| 8 | [archestra](https://github.com/archestra-ai/archestra) | 3,713 | 803 | TypeScript | 81 | Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator | 2026-05-20 |
+| 8 | [archestra](https://github.com/archestra-ai/archestra) | 3,712 | 803 | TypeScript | 81 | Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator | 2026-05-20 |
 | 9 | [neo](https://github.com/neomjs/neo) | 3,183 | 208 | JavaScript | 297 | The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time. | 2026-05-20 |
 | 10 | [china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 2,993 | 289 | HTML | 847 | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on ac... | 2026-02-05 |
 | 11 | [docker-agent](https://github.com/docker/docker-agent) | 2,925 | 360 | Go | 43 | AI Agent Builder and Runtime by Docker Engineering | 2026-05-20 |
 | 12 | [agentcore-samples](https://github.com/awslabs/agentcore-samples) | 2,835 | 1,118 | Jupyter Notebook | 165 | Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. | 2026-05-20 |
 | 13 | [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) | 2,593 | 524 | Java | 105 | Java unlimited redefinition of classes at runtime. | 2026-02-15 |
-| 14 | [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 2,260 | 274 | Go | 81 | agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes. | 2026-05-19 |
+| 14 | [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 2,261 | 274 | Go | 81 | agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes. | 2026-05-19 |
 | 15 | [trustgraph](https://github.com/trustgraph-ai/trustgraph) | 2,103 | 244 | Python | 31 | The agent runtime platform powered by context graphs. | 2026-05-19 |
 | 16 | [.github](https://github.com/gege-circle/.github) | 1,884 | 151 | - | 0 | 这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology, lifing and other t... | 2025-10-04 |
-| 17 | [cascadeflow](https://github.com/lemony-ai/cascadeflow) | 1,834 | 444 | Python | 1 | Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop. | 2026-05-16 |
+| 17 | [cascadeflow](https://github.com/lemony-ai/cascadeflow) | 1,835 | 444 | Python | 1 | Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop. | 2026-05-16 |
 | 18 | [harmonist](https://github.com/GammaLabTechnologies/harmonist) | 1,809 | 360 | Python | 0 | Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies. | 2026-04-23 |
 | 19 | [chidori](https://github.com/ThousandBirdsInc/chidori) | 1,344 | 55 | Rust | 2 | A reactive runtime for building durable AI agents | 2026-05-17 |
 | 20 | [bub](https://github.com/bubbuild/bub) | 1,343 | 129 | Python | 3 | Bub it. Build it. A hook-first runtime for agents that live alongside people. | 2026-05-18 |
@@ -101,7 +101,7 @@
 | 93 | [opencowork](https://github.com/LeonGaoHaining/opencowork) | 158 | 2 | TypeScript | 0 | Open-source, local-first desktop  Agent Runtime for turning business goals into executable, reusable, and auditable workflows. | 2026-05-19 |
 | 94 | [agentkit-sdk-python](https://github.com/volcengine/agentkit-sdk-python) | 153 | 8 | Python | 0 | An open-source Python SDK and CLI Starter Toolkit for deploying AI agents to Volcengine AgentKit Runtime. | 2026-03-04 |
 | 95 | [agentscope-runtime-java](https://github.com/agentscope-ai/agentscope-runtime-java) | 152 | 35 | Java | 19 | A Runtime Framework for Agent Deployment and Tool Sandbox. AgentScope Runtime Java Implementation. | 2026-05-07 |
-| 96 | [platform](https://github.com/agynio/platform) | 147 | 1 | TypeScript | 0 | Agyn is an open-source Kubernetes-native runtime that moves AI agents from laptops to company infrastructure with the controls enterprises need. | 2026-05-19 |
+| 96 | [platform](https://github.com/agynio/platform) | 147 | 1 | TypeScript | 0 | Agyn is an open-source Kubernetes-native runtime that moves AI agents like Claude Code and Codex from laptops to company infrastructure with the controls enterprises need. | 2026-05-19 |
 | 97 | [stoneforge](https://github.com/stoneforge-ai/stoneforge) | 146 | 24 | TypeScript | 48 | A web dashboard and runtime for orchestrating AI coding agents | 2026-05-05 |
 | 98 | [ouros](https://github.com/parcadei/ouros) | 141 | 12 | Rust | 4 | A sandboxed Python runtime for AI agents, written in Rust. | 2026-04-21 |
 | 99 | [llmvm](https://github.com/9600dev/llmvm) | 140 | 24 | Python | 1 | LLM <-> Python agentic runtime prototype | 2025-08-15 |
