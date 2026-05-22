@@ -6,14 +6,14 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [PageIndex](https://github.com/VectifyAI/PageIndex) | 31,950 | 2,751 | Python | 83 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-05-15 |
-| 2 | [WeKnora](https://github.com/Tencent/WeKnora) | 15,362 | 1,948 | Go | 168 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 2026-05-22 |
+| 1 | [PageIndex](https://github.com/VectifyAI/PageIndex) | 31,951 | 2,750 | Python | 83 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | 2026-05-15 |
+| 2 | [WeKnora](https://github.com/Tencent/WeKnora) | 15,362 | 1,947 | Go | 168 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | 2026-05-22 |
 | 3 | [clip-as-service](https://github.com/jina-ai/clip-as-service) | 12,835 | 2,067 | Python | 290 | 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP | 2024-01-23 |
 | 4 | [HRM](https://github.com/sapientinc/HRM) | 12,466 | 1,824 | Python | 61 | Hierarchical Reasoning Model Official Release | 2026-03-31 |
 | 5 | [MiniCPM](https://github.com/OpenBMB/MiniCPM) | 8,926 | 580 | Jupyter Notebook | 18 | MiniCPM4 & MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks | 2026-05-22 |
 | 6 | [KAG](https://github.com/OpenSPG/KAG) | 8,771 | 678 | Python | 161 | KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge base... | 2026-01-28 |
 | 7 | [Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) | 6,899 | 369 | - | 6 | A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques. | 2025-12-17 |
-| 8 | [pyspur](https://github.com/PySpur-Dev/pyspur) | 5,727 | 425 | TypeScript | 29 | A visual playground for agentic workflows: Iterate over your agents 10x faster | 2026-05-19 |
+| 8 | [pyspur](https://github.com/PySpur-Dev/pyspur) | 5,728 | 425 | TypeScript | 29 | A visual playground for agentic workflows: Iterate over your agents 10x faster | 2026-05-19 |
 | 9 | [deepreasoning](https://github.com/winfunc/deepreasoning) | 5,361 | 440 | Rust | 51 | A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. | 2025-10-07 |
 | 10 | [node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) | 5,174 | 452 | TypeScript | 47 | Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) | 2026-05-01 |
 | 11 | [ARC-AGI](https://github.com/fchollet/ARC-AGI) | 4,769 | 707 | JavaScript | 27 | The Abstraction and Reasoning Corpus | 2025-04-04 |
