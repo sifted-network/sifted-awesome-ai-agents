@@ -6,14 +6,14 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | 46,536 | 1,886 | PowerShell | 30 | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi... | 2026-05-20 |
+| 1 | [Win11Debloat](https://github.com/Raphire/Win11Debloat) | 46,537 | 1,886 | PowerShell | 30 | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi... | 2026-05-20 |
 | 2 | [vscodium](https://github.com/VSCodium/vscodium) | 31,541 | 1,716 | Shell | 106 | binary releases of VS Code without MS branding/telemetry/licensing | 2026-05-21 |
 | 3 | [dns-blocklists](https://github.com/hagezi/dns-blocklists) | 23,027 | 686 | Text | 4 | DNS-Blocklists: For a better internet - keep the internet clean! | 2026-05-22 |
-| 4 | [vector](https://github.com/vectordotdev/vector) | 21,885 | 2,138 | Rust | 2082 | A high-performance observability data pipeline. | 2026-05-21 |
-| 5 | [free-code](https://github.com/paoloanzn/free-code) | 8,373 | 1,991 | TypeScript | 8 | The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled. | 2026-04-01 |
+| 4 | [vector](https://github.com/vectordotdev/vector) | 21,885 | 2,139 | Rust | 2082 | A high-performance observability data pipeline. | 2026-05-21 |
+| 5 | [free-code](https://github.com/paoloanzn/free-code) | 8,372 | 1,991 | TypeScript | 8 | The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled. | 2026-04-01 |
 | 6 | [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 7,050 | 2,070 | Go | 618 | OpenTelemetry Collector | 2026-05-21 |
 | 7 | [Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) | 6,923 | 1,043 | C++ | 22 | Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.  | 2026-05-22 |
-| 8 | [fleet](https://github.com/fleetdm/fleet) | 6,387 | 885 | Go | 3281 | Open device management | 2026-05-22 |
+| 8 | [fleet](https://github.com/fleetdm/fleet) | 6,387 | 885 | Go | 3282 | Open device management | 2026-05-22 |
 | 9 | [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) | 5,122 | 384 | Go | 42 | Block spying and tracking on Windows | 2025-02-02 |
 | 10 | [Fast-F1](https://github.com/theOehrly/Fast-F1) | 5,054 | 460 | Python | 31 | FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry | 2026-05-19 |
 | 11 | [PureMac](https://github.com/momenbasel/PureMac) | 4,434 | 246 | Swift | 7 | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed. | 2026-05-14 |
@@ -27,7 +27,7 @@
 | 19 | [winscript](https://github.com/flick9000/winscript) | 2,466 | 151 | CSS | 3 | Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts. | 2026-05-21 |
 | 20 | [an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) | 2,116 | 84 | Fluent | 97 | An Anime Game launcher for Linux with telemetry disabling | 2026-05-20 |
 | 21 | [EDR-Telemetry](https://github.com/tsale/EDR-Telemetry) | 1,952 | 196 | Python | 1 | This project aims to compare and evaluate the telemetry of various EDR products. | 2026-05-17 |
-| 22 | [KillerPDF](https://github.com/SteveTheKiller/KillerPDF) | 1,915 | 107 | C# | 5 | PDF editor for Windows. Install or run portable. GPLv3. No account, no subscription, no telemetry. | 2026-05-21 |
+| 22 | [KillerPDF](https://github.com/SteveTheKiller/KillerPDF) | 1,917 | 107 | C# | 5 | PDF editor for Windows. Install or run portable. GPLv3. No account, no subscription, no telemetry. | 2026-05-21 |
 | 23 | [Oculess](https://github.com/ptrpaws/Oculess) | 1,867 | 75 | Kotlin | 17 | Removes account requirements and telemetry from Oculus Quest devices | 2025-09-23 |
 | 24 | [snap](https://github.com/intelsdi-x/snap) | 1,781 | 287 | Go | 146 | The open telemetry framework | 2022-11-07 |
 | 25 | [ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) | 1,615 | 339 | C++ | 0 | ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via ... | 2026-05-16 |
@@ -43,9 +43,9 @@
 | 35 | [langtrace](https://github.com/Scale3-Labs/langtrace) | 1,203 | 125 | TypeScript | 0 | Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorD... | 2025-11-17 |
 | 36 | [peekaping](https://github.com/0xfurai/peekaping) | 1,116 | 58 | Go | 65 | Open Source Uptime Kuma Alternative | 2026-04-10 |
 | 37 | [faro-web-sdk](https://github.com/grafana/faro-web-sdk) | 1,070 | 115 | TypeScript | 128 | The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign... | 2026-05-21 |
-| 38 | [opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) | 1,007 | 137 | C | 109 | OpenTelemetry Auto Instrumentation using eBPF | 2026-05-22 |
+| 38 | [opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) | 1,008 | 137 | C | 109 | OpenTelemetry Auto Instrumentation using eBPF | 2026-05-22 |
 | 39 | [the-honkers-railway-launcher](https://github.com/an-anime-team/the-honkers-railway-launcher) | 995 | 32 | Fluent | 150 | The Honkers Railway launcher for Linux with automatic patching and telemetry disabling | 2026-05-20 |
-| 40 | [openinference](https://github.com/Arize-ai/openinference) | 985 | 240 | Python | 134 | OpenTelemetry Instrumentation for AI Observability | 2026-05-21 |
+| 40 | [openinference](https://github.com/Arize-ai/openinference) | 986 | 240 | Python | 134 | OpenTelemetry Instrumentation for AI Observability | 2026-05-22 |
 | 41 | [gr-satellites](https://github.com/daniestevez/gr-satellites) | 937 | 198 | Jupyter Notebook | 20 | GNU Radio decoder for Amateur satellites | 2026-05-13 |
 | 42 | [DroneBridge](https://github.com/DroneBridge/DroneBridge) | 918 | 150 | C | 16 | DroneBridge is a system based on the WifiBroadcast approach. A bidirectional digital radio link between two endpoints is established using standard WiFi hardware and a custom protocol. DroneBridge is ... | 2022-01-07 |
 | 43 | [telemetry](https://github.com/beam-telemetry/telemetry) | 911 | 75 | Erlang | 6 | Dynamic dispatching library for metrics and instrumentations. | 2026-05-11 |
