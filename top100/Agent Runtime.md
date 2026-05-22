@@ -6,9 +6,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 11,209 | 881 | HTML | 6 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 2026-05-19 |
+| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 11,215 | 881 | HTML | 6 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 2026-05-19 |
 | 2 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 10,760 | 871 | Python | 49 | Secure, Fast, and Extensible Sandbox runtime for AI agents. | 2026-05-22 |
-| 3 | [electric](https://github.com/electric-sql/electric) | 10,201 | 331 | TypeScript | 234 | The agent platform built on sync. | 2026-05-21 |
+| 3 | [electric](https://github.com/electric-sql/electric) | 10,202 | 331 | TypeScript | 234 | The agent platform built on sync. | 2026-05-21 |
 | 4 | [deeplake](https://github.com/activeloopai/deeplake) | 9,131 | 710 | C++ | 54 | Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training. | 2026-05-21 |
 | 5 | [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) | 6,222 | 2,362 | TypeScript | 6 | From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies. | 2026-05-21 |
 | 6 | [OpenShell](https://github.com/NVIDIA/OpenShell) | 6,168 | 728 | Rust | 131 | OpenShell is the safe, private runtime for autonomous AI agents. | 2026-05-22 |
@@ -16,15 +16,15 @@
 | 8 | [archestra](https://github.com/archestra-ai/archestra) | 3,726 | 849 | TypeScript | 83 | Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator | 2026-05-22 |
 | 9 | [neo](https://github.com/neomjs/neo) | 3,183 | 209 | JavaScript | 278 | The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time. | 2026-05-22 |
 | 10 | [china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 3,001 | 289 | HTML | 849 | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on ac... | 2026-02-05 |
-| 11 | [docker-agent](https://github.com/docker/docker-agent) | 2,929 | 363 | Go | 46 | AI Agent Builder and Runtime by Docker Engineering | 2026-05-22 |
+| 11 | [docker-agent](https://github.com/docker/docker-agent) | 2,930 | 363 | Go | 46 | AI Agent Builder and Runtime by Docker Engineering | 2026-05-22 |
 | 12 | [agentcore-samples](https://github.com/awslabs/agentcore-samples) | 2,853 | 1,122 | Jupyter Notebook | 170 | Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. | 2026-05-21 |
 | 13 | [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) | 2,592 | 524 | Java | 105 | Java unlimited redefinition of classes at runtime. | 2026-02-15 |
 | 14 | [nono](https://github.com/always-further/nono) | 2,447 | 167 | Rust | 123 | Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency | 2026-05-22 |
 | 15 | [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 2,312 | 281 | Go | 85 | agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes. | 2026-05-21 |
 | 16 | [trustgraph](https://github.com/trustgraph-ai/trustgraph) | 2,109 | 243 | Python | 31 | The agent runtime platform powered by context graphs. | 2026-05-21 |
 | 17 | [.github](https://github.com/gege-circle/.github) | 1,887 | 152 | - | 0 | 这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology, lifing and other t... | 2025-10-04 |
-| 18 | [cascadeflow](https://github.com/lemony-ai/cascadeflow) | 1,880 | 458 | Python | 2 | Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop. | 2026-05-16 |
-| 19 | [harmonist](https://github.com/GammaLabTechnologies/harmonist) | 1,803 | 351 | Python | 0 | Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies. | 2026-04-23 |
+| 18 | [cascadeflow](https://github.com/lemony-ai/cascadeflow) | 1,881 | 458 | Python | 2 | Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop. | 2026-05-16 |
+| 19 | [harmonist](https://github.com/GammaLabTechnologies/harmonist) | 1,803 | 352 | Python | 0 | Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies. | 2026-04-23 |
 | 20 | [bub](https://github.com/bubbuild/bub) | 1,392 | 131 | Python | 3 | Bub it. Build it. A hook-first runtime for agents that live alongside people. | 2026-05-20 |
 | 21 | [chidori](https://github.com/ThousandBirdsInc/chidori) | 1,344 | 55 | Rust | 2 | A reactive runtime for building durable AI agents | 2026-05-17 |
 | 22 | [poco-claw](https://github.com/poco-ai/poco-claw) | 1,327 | 122 | Python | 0 | A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by ... | 2026-05-18 |
@@ -66,7 +66,7 @@
 | 58 | [china-dictatroship-7](https://github.com/cirosantilli/china-dictatroship-7) | 338 | 36 | HTML | 45 | 反中共政治宣传库。Anti Chinese government propaganda. https://github.com/cirosantilli/china-dictatorship 的备份backup. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件... | 2026-02-05 |
 | 59 | [kode-agent-sdk](https://github.com/shareAI-lab/kode-agent-sdk) | 333 | 63 | TypeScript | 5 | Open runtime for building Claude Code & Manus like Agent Product | 2026-05-11 |
 | 60 | [.config](https://github.com/zszszszsz/.config) | 331 | 99 | Shell | 37 | # # Automatically generated file; DO NOT EDIT. # OpenWrt Configuration # CONFIG_MODULES=y CONFIG_HAVE_DOT_CONFIG=y # CONFIG_TARGET_sunxi is not set # CONFIG_TARGET_apm821xx is not set # CONFIG_TARGET_... | 2023-10-05 |
-| 61 | [ax](https://github.com/google/ax) | 315 | 19 | Go | 6 | Google's open source distributed agent runtime | 2026-05-22 |
+| 61 | [ax](https://github.com/google/ax) | 317 | 19 | Go | 6 | Google's open source distributed agent runtime | 2026-05-22 |
 | 62 | [agentscope-samples](https://github.com/agentscope-ai/agentscope-samples) | 309 | 79 | Python | 8 | A collection of ready-to-use Python sample agents built with AgentScope and AgentScope Runtime, covering use cases from CLI tools to full-stack applications. | 2026-04-10 |
 | 63 | [iosm-cli](https://github.com/rokoss21/iosm-cli) | 307 | 2 | TypeScript | 0 | AI Engineering Runtime for Professional Developers — terminal coding agent with IOSM methodology, MCP, checkpoints, orchestration, and extensions | 2026-04-11 |
 | 64 | [marionette_mcp](https://github.com/leancodepl/marionette_mcp) | 295 | 28 | Dart | 5 | MCP server enabling AI agents to interact with Flutter apps at runtime - let them inspect widgets, simulate taps, enter text, scroll, and take screenshots. | 2026-05-17 |
