@@ -34,8 +34,6 @@
       "desc": "AI Coding Assistant",
       "topics": [
         "Coding Agent",
-        "AI Coding Assistant",
-        "Terminal Agent",
         "Self-Healing Code",
         "DevOps AI"
       ]
@@ -77,8 +75,7 @@
       "topics": [
         "Local LLM",
         "Inference Engine",
-        "Quantization",
-        "Serving"
+        "Quantization"
       ]
     },
     {
