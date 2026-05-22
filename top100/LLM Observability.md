@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [langfuse](https://github.com/langfuse/langfuse) | 27,691 | 2,829 | TypeScript | 317 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  | 2026-05-22 |
+| 1 | [langfuse](https://github.com/langfuse/langfuse) | 27,692 | 2,829 | TypeScript | 317 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  | 2026-05-22 |
 | 2 | [mlflow](https://github.com/mlflow/mlflow) | 26,056 | 5,768 | Python | 1524 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin... | 2026-05-22 |
 | 3 | [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 20,032 | 1,002 | Dockerfile | 21 | Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati... | 2025-06-27 |
 | 4 | [openobserve](https://github.com/openobserve/openobserve) | 18,922 | 822 | TypeScript | 537 | Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El... | 2026-05-22 |
