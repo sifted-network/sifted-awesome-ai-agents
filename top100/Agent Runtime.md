@@ -6,7 +6,7 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 11,433 | 892 | HTML | 6 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 2026-05-19 |
+| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 11,434 | 892 | HTML | 6 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 2026-05-19 |
 | 2 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 10,779 | 872 | Python | 49 | Secure, Fast, and Extensible Sandbox runtime for AI agents. | 2026-05-22 |
 | 3 | [electric](https://github.com/electric-sql/electric) | 10,205 | 332 | TypeScript | 236 | The agent platform built on sync. | 2026-05-22 |
 | 4 | [deeplake](https://github.com/activeloopai/deeplake) | 9,135 | 711 | C++ | 54 | Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training. | 2026-05-21 |
@@ -20,9 +20,9 @@
 | 12 | [agentcore-samples](https://github.com/awslabs/agentcore-samples) | 2,859 | 1,124 | Jupyter Notebook | 171 | Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. | 2026-05-23 |
 | 13 | [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) | 2,592 | 524 | Java | 105 | Java unlimited redefinition of classes at runtime. | 2026-02-15 |
 | 14 | [nono](https://github.com/always-further/nono) | 2,454 | 169 | Rust | 126 | Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency | 2026-05-22 |
-| 15 | [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 2,325 | 284 | Go | 85 | agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes. | 2026-05-22 |
+| 15 | [agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 2,326 | 284 | Go | 85 | agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes. | 2026-05-22 |
 | 16 | [trustgraph](https://github.com/trustgraph-ai/trustgraph) | 2,111 | 244 | Python | 31 | The agent runtime platform powered by context graphs. | 2026-05-21 |
-| 17 | [cascadeflow](https://github.com/lemony-ai/cascadeflow) | 2,022 | 484 | Python | 2 | Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop. | 2026-05-16 |
+| 17 | [cascadeflow](https://github.com/lemony-ai/cascadeflow) | 2,023 | 484 | Python | 2 | Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop. | 2026-05-16 |
 | 18 | [.github](https://github.com/gege-circle/.github) | 1,888 | 152 | - | 0 | 这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology, lifing and other t... | 2025-10-04 |
 | 19 | [harmonist](https://github.com/GammaLabTechnologies/harmonist) | 1,836 | 358 | Python | 0 | Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies. | 2026-04-23 |
 | 20 | [bub](https://github.com/bubbuild/bub) | 1,407 | 132 | Python | 3 | Bub it. Build it. A hook-first runtime for agents that live alongside people. | 2026-05-20 |
@@ -30,7 +30,7 @@
 | 22 | [poco-claw](https://github.com/poco-ai/poco-claw) | 1,326 | 122 | Python | 0 | A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by ... | 2026-05-18 |
 | 23 | [overstory](https://github.com/jayminwest/overstory) | 1,302 | 208 | TypeScript | 16 | Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more | 2026-05-16 |
 | 24 | [sre](https://github.com/SmythOS/sre) | 1,270 | 194 | TypeScript | 6 | The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across... | 2026-04-03 |
-| 25 | [ClawManager](https://github.com/Yuan-lab-LLM/ClawManager) | 1,169 | 135 | TypeScript | 6 | A Kubernetes-native control plane for AI agent instance management, with governed AI access, runtime orchestration, and reusable resources across multiple agent runtimes. | 2026-05-23 |
+| 25 | [ClawManager](https://github.com/Yuan-lab-LLM/ClawManager) | 1,170 | 135 | TypeScript | 6 | A Kubernetes-native control plane for AI agent instance management, with governed AI access, runtime orchestration, and reusable resources across multiple agent runtimes. | 2026-05-23 |
 | 26 | [archive](https://github.com/dp-archive/archive) | 1,104 | 99 | Python | 4 | Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI. | 2026-03-04 |
 | 27 | [compose-for-agents](https://github.com/docker/compose-for-agents) | 962 | 422 | TypeScript | 6 | Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestrating open-source LLMs, tools, and agent runtimes. | 2026-04-20 |
 | 28 | [Hexabot](https://github.com/hexabot-ai/Hexabot) | 959 | 214 | TypeScript | 19 | Hexabot v3 is an AI automation platform, combining workflows, actions, agents, and conversational channels in one runtime. | 2026-05-22 |
