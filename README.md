@@ -2,7 +2,7 @@
 
 <a name="top"></a>
 
-> Updated: 2026-05-23T10:16:39.534Z
+> Updated: 2026-05-23T10:21:58.522Z
 
 🔥 Auto-updated A curated list of the most starred AI agent-related repositories on GitHub.
 
@@ -60,14 +60,14 @@ Top 10 of [Top 100 AI Agents](top100/AI%20Agents.md)
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 184,467 | 46,227 | Python | 258 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | 2026-05-23 |
-| 2 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | 163,671 | 26,804 | Python | 4608 | The agent that grows with you | 2026-05-23 |
+| 2 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | 163,681 | 26,805 | Python | 4608 | The agent that grows with you | 2026-05-23 |
 | 3 | [langflow](https://github.com/langflow-ai/langflow) | 148,683 | 9,097 | Python | 243 | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | 2026-05-23 |
 | 4 | [dify](https://github.com/langgenius/dify) | 142,324 | 22,388 | TypeScript | 285 | Production-ready platform for agentic workflow development. | 2026-05-23 |
-| 5 | [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 138,122 | 34,425 | - | 91 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V... | 2026-05-18 |
+| 5 | [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 138,123 | 34,426 | - | 91 | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V... | 2026-05-18 |
 | 6 | [langchain](https://github.com/langchain-ai/langchain) | 137,454 | 22,738 | Python | 416 | The agent engineering platform. | 2026-05-23 |
-| 7 | [firecrawl](https://github.com/firecrawl/firecrawl) | 123,208 | 7,470 | TypeScript | 74 | 🔥 Search, scrape, and clean the web for AI agents. | 2026-05-23 |
-| 8 | [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 111,524 | 16,558 | Python | 2 | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. | 2026-05-23 |
-| 9 | [gemini-cli](https://github.com/google-gemini/gemini-cli) | 104,505 | 13,808 | TypeScript | 1230 | An open-source AI agent that brings the power of Gemini directly into your terminal. | 2026-05-22 |
+| 7 | [firecrawl](https://github.com/firecrawl/firecrawl) | 123,209 | 7,470 | TypeScript | 74 | 🔥 Search, scrape, and clean the web for AI agents. | 2026-05-23 |
+| 8 | [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 111,526 | 16,558 | Python | 2 | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. | 2026-05-23 |
+| 9 | [gemini-cli](https://github.com/google-gemini/gemini-cli) | 104,506 | 13,808 | TypeScript | 1230 | An open-source AI agent that brings the power of Gemini directly into your terminal. | 2026-05-22 |
 | 10 | [agency-agents](https://github.com/msitarzewski/agency-agents) | 104,370 | 17,163 | Shell | 58 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a... | 2026-04-12 |
 
 ### Agent Framework
@@ -78,9 +78,9 @@ Top 10 of [Top 100 Agent Framework](top100/Agent%20Framework.md)
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [superpowers](https://github.com/obra/superpowers) | 203,398 | 18,112 | Shell | 142 | An agentic skills framework & software development methodology that works. | 2026-05-21 |
+| 1 | [superpowers](https://github.com/obra/superpowers) | 203,402 | 18,112 | Shell | 142 | An agentic skills framework & software development methodology that works. | 2026-05-21 |
 | 2 | [langchain](https://github.com/langchain-ai/langchain) | 137,454 | 22,738 | Python | 416 | The agent engineering platform. | 2026-05-23 |
-| 3 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 78,726 | 15,342 | Python | 210 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 2026-05-17 |
+| 3 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 78,727 | 15,342 | Python | 210 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 2026-05-17 |
 | 4 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 68,225 | 8,693 | Python | 22 | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | 2026-01-21 |
 | 5 | [autogen](https://github.com/microsoft/autogen) | 58,307 | 8,806 | Python | 525 | A programming framework for agentic AI | 2026-04-15 |
 | 6 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,002 | 7,208 | Python | 36 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-23 |
@@ -97,14 +97,14 @@ Top 10 of [Top 100 Multi-Agent](top100/Multi-Agent.md)
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 78,726 | 15,342 | Python | 210 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 2026-05-17 |
+| 1 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 78,727 | 15,342 | Python | 210 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 2026-05-17 |
 | 2 | [deer-flow](https://github.com/bytedance/deer-flow) | 69,219 | 9,273 | Python | 532 | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta... | 2026-05-23 |
 | 3 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 68,225 | 8,693 | Python | 22 | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | 2026-01-21 |
-| 4 | [ruflo](https://github.com/ruvnet/ruflo) | 54,292 | 6,153 | TypeScript | 414 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-23 |
+| 4 | [ruflo](https://github.com/ruvnet/ruflo) | 54,291 | 6,153 | TypeScript | 414 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-23 |
 | 5 | [CowAgent](https://github.com/zhayujie/CowAgent) | 44,730 | 10,123 | Python | 287 | CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文... | 2026-05-22 |
 | 6 | [LibreChat](https://github.com/danny-avila/LibreChat) | 37,363 | 7,691 | TypeScript | 272 | Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se... | 2026-05-23 |
-| 7 | [agents](https://github.com/wshobson/agents) | 35,819 | 3,889 | Python | 1 | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI | 2026-05-22 |
-| 8 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 34,632 | 3,170 | TypeScript | 2 | Teams-first Multi-agent orchestration for Claude Code | 2026-05-23 |
+| 7 | [agents](https://github.com/wshobson/agents) | 35,820 | 3,889 | Python | 1 | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI | 2026-05-22 |
+| 8 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 34,634 | 3,170 | TypeScript | 2 | Teams-first Multi-agent orchestration for Claude Code | 2026-05-23 |
 | 9 | [ChatDev](https://github.com/OpenBMB/ChatDev) | 33,167 | 4,112 | Python | 37 | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration | 2026-05-12 |
 | 10 | [openai-agents-python](https://github.com/openai/openai-agents-python) | 26,594 | 4,078 | Python | 43 | A lightweight, powerful framework for multi-agent workflows | 2026-05-22 |
 
@@ -118,11 +118,11 @@ Top 10 of [Top 100 Agent Orchestration](top100/Agent%20Orchestration.md)
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [dify](https://github.com/langgenius/dify) | 142,324 | 22,388 | TypeScript | 285 | Production-ready platform for agentic workflow development. | 2026-05-23 |
 | 2 | [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 59,095 | 4,807 | TypeScript | 313 | omo; the best agent harness - previously oh-my-opencode | 2026-05-23 |
-| 3 | [ruflo](https://github.com/ruvnet/ruflo) | 54,292 | 6,153 | TypeScript | 414 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-23 |
+| 3 | [ruflo](https://github.com/ruvnet/ruflo) | 54,291 | 6,153 | TypeScript | 414 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-23 |
 | 4 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,002 | 7,208 | Python | 36 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-23 |
-| 5 | [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 44,589 | 3,837 | Python | 323 | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic | 2026-04-27 |
-| 6 | [agents](https://github.com/wshobson/agents) | 35,819 | 3,889 | Python | 1 | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI | 2026-05-22 |
-| 7 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 34,632 | 3,170 | TypeScript | 2 | Teams-first Multi-agent orchestration for Claude Code | 2026-05-23 |
+| 5 | [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 44,590 | 3,837 | Python | 323 | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic | 2026-04-27 |
+| 6 | [agents](https://github.com/wshobson/agents) | 35,820 | 3,889 | Python | 1 | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI | 2026-05-22 |
+| 7 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 34,634 | 3,170 | TypeScript | 2 | Teams-first Multi-agent orchestration for Claude Code | 2026-05-23 |
 | 8 | [sim](https://github.com/simstudioai/sim) | 28,586 | 3,619 | TypeScript | 100 | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. | 2026-05-23 |
 | 9 | [FastGPT](https://github.com/labring/FastGPT) | 28,126 | 7,104 | TypeScript | 167 | FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti... | 2026-05-23 |
 | 10 | [haystack](https://github.com/deepset-ai/haystack) | 25,349 | 2,804 | MDX | 87 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m... | 2026-05-22 |
@@ -135,8 +135,8 @@ Top 10 of [Top 100 Autonomous Agents](top100/Autonomous%20Agents.md)
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [cline](https://github.com/cline/cline) | 62,201 | 6,505 | TypeScript | 484 | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | 2026-05-23 |
-| 2 | [ruflo](https://github.com/ruvnet/ruflo) | 54,292 | 6,153 | TypeScript | 414 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-23 |
+| 1 | [cline](https://github.com/cline/cline) | 62,203 | 6,505 | TypeScript | 484 | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | 2026-05-23 |
+| 2 | [ruflo](https://github.com/ruvnet/ruflo) | 54,291 | 6,153 | TypeScript | 414 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-23 |
 | 3 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,002 | 7,208 | Python | 36 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-23 |
 | 4 | [cherry-studio](https://github.com/CherryHQ/cherry-studio) | 46,145 | 4,392 | TypeScript | 883 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | 2026-05-23 |
 | 5 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 36,118 | 9,347 | TypeScript | 132 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 2025-04-29 |
@@ -161,7 +161,7 @@ Top 10 of [Top 100 LLM Workflows](top100/LLM%20Workflows.md)
 | 5 | [openai-agents-python](https://github.com/openai/openai-agents-python) | 26,594 | 4,078 | Python | 43 | A lightweight, powerful framework for multi-agent workflows | 2026-05-22 |
 | 6 | [haystack](https://github.com/deepset-ai/haystack) | 25,349 | 2,804 | MDX | 87 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m... | 2026-05-22 |
 | 7 | [mastra](https://github.com/mastra-ai/mastra) | 24,222 | 2,108 | TypeScript | 215 | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. | 2026-05-23 |
-| 8 | [skyvern](https://github.com/Skyvern-AI/skyvern) | 21,701 | 2,019 | Python | 35 | Automate browser based workflows with AI | 2026-05-23 |
+| 8 | [skyvern](https://github.com/Skyvern-AI/skyvern) | 21,701 | 2,018 | Python | 35 | Automate browser based workflows with AI | 2026-05-23 |
 | 9 | [opik](https://github.com/comet-ml/opik) | 19,361 | 1,483 | Python | 85 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 2026-05-22 |
 | 10 | [unstructured](https://github.com/Unstructured-IO/unstructured) | 14,762 | 1,237 | HTML | 178 | Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to... | 2026-05-22 |
 
@@ -173,7 +173,7 @@ Top 10 of [Top 100 Agent Runtime](top100/Agent%20Runtime.md)
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 11,433 | 892 | HTML | 6 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 2026-05-19 |
+| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 11,434 | 892 | HTML | 6 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 2026-05-19 |
 | 2 | [OpenSandbox](https://github.com/alibaba/OpenSandbox) | 10,779 | 872 | Python | 49 | Secure, Fast, and Extensible Sandbox runtime for AI agents. | 2026-05-22 |
 | 3 | [electric](https://github.com/electric-sql/electric) | 10,205 | 332 | TypeScript | 236 | The agent platform built on sync. | 2026-05-22 |
 | 4 | [deeplake](https://github.com/activeloopai/deeplake) | 9,135 | 711 | C++ | 54 | Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training. | 2026-05-21 |
