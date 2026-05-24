@@ -14,7 +14,7 @@ count: 1
 ## 1. Google I/O showed how the path for AI-driven science is shifting
 
 **Author:** Grace Huckins  
-**Published:** 2026/5/22 18:00:00  
+**Published:** 5/22/2026, 10:00:00 AM  
 **Categories:** Artificial intelligence, App, artificial intelligence, Summary  
 
 During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t...
