@@ -14,7 +14,7 @@ count: 1
 ## 1. AdventHealth advances whole-person care with OpenAI
 
 **Author:** -  
-**Published:** 2026/5/21 20:00:00  
+**Published:** 5/21/2026, 12:00:00 PM  
 **Categories:** -  
 
 AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.
