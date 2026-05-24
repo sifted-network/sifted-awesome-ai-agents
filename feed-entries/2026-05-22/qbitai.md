@@ -2,12 +2,12 @@
 title: "qbitai - 2026-05-22"
 date: "2026-05-22"
 source: "qbitai"
-count: 3
+count: 2
 ---
 
 # qbitai - 2026-05-22
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ count: 3
 一个专门用来评测具身空间智能的新基准
 
 📖 [Read original article](https://www.qbitai.com/2026/05/422738.html)
-
----
-
-## 3. 融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅
-
-**Author:** 梦瑶  
-**Published:** 5/22/2026, 7:16:39 AM  
-**Categories:** 资讯, Deepseek  
-
-DeepSeek Code is Coming
-
-📖 [Read original article](https://www.qbitai.com/2026/05/422624.html)
 
 ---
