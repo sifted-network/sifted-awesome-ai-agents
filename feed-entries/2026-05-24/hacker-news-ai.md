@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. A maintainability ratchet for AI-assisted Python
+## 1. 2028: Two scenarios for global AI leadership
 
-**Author:** keynha  
-**Published:** 5/24/2026, 8:23:11 AM  
+**Author:** gmays  
+**Published:** 5/24/2026, 1:27:49 PM  
 **Categories:** -  
 
-Article URL: https://kayhan.dev/posts/014-letting-agents-write-code-without-ratcheting-up-risk/ Comments URL: https://news.ycombinator.com/item?id=48255553 Points: 1 # Comments: 0
+Article URL: https://www.anthropic.com/research/2028-ai-leadership Comments URL: https://news.ycombinator.com/item?id=48257135 Points: 4 # Comments: 0
 
-📖 [Read original article](https://kayhan.dev/posts/014-letting-agents-write-code-without-ratcheting-up-risk/)
+📖 [Read original article](https://www.anthropic.com/research/2028-ai-leadership)
 
 ---
 
-## 2. Why AI Hardware Is a Chip Layer Problem
+## 2. AI writes x86_64 asm and eBPF for fractals on /dev/fb0, in a browser VM
 
-**Author:** EnXu  
-**Published:** 5/24/2026, 8:16:04 AM  
+**Author:** zozo123-IB  
+**Published:** 5/24/2026, 1:22:40 PM  
 **Categories:** -  
 
-Article URL: https://www.easelinktech.com/why-every-electronic-product-may-need-to-be-rebuilt-for-on-device-ai-the-chip-layer-will-decide-the-next-hardware-wave/ Comments URL: https://news.ycombinator.com/item?id=48255516 Points: 1 # Comments: 0
+Article URL: https://zozo123.github.io/wolfram-fb0/ Comments URL: https://news.ycombinator.com/item?id=48257102 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.easelinktech.com/why-every-electronic-product-may-need-to-be-rebuilt-for-on-device-ai-the-chip-layer-will-decide-the-next-hardware-wave/)
+📖 [Read original article](https://zozo123.github.io/wolfram-fb0/)
 
 ---
 
-## 3. Ask HN: I mapped 6,494 AI engines into a taxonomy – anyone else tried this?
+## 3. Bursting the AI Bubble: Fed Could Take Away the \"Who Could Have Known?\" Defense
 
-**Author:** Developer_H  
-**Published:** 5/24/2026, 8:02:58 AM  
+**Author:** bediger4000  
+**Published:** 5/24/2026, 1:18:14 PM  
 **Categories:** -  
 
-Spent months verifying and classifying 6,494 active AI engines into 13 domains and 69 subcategories (GAIT 69). No such taxonomy existed before. Built a live app that auto-updates daily. Happy to share details or discuss methodology. https://ai-engine-app.vercel.app Comments URL: https://news.ycombin...
+Article URL: https://deanbaker22.substack.com/p/bursting-the-ai-bubble-the-fed-could Comments URL: https://news.ycombinator.com/item?id=48257074 Points: 3 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48255441)
+📖 [Read original article](https://deanbaker22.substack.com/p/bursting-the-ai-bubble-the-fed-could)
 
 ---
 
-## 4. China behind in LLM race but it can still win in AI, ex-Tencent AI lead says
+## 4. AI Proves Mathematicians Wrong
+
+**Author:** NicoHartmann  
+**Published:** 5/24/2026, 12:41:07 PM  
+**Categories:** -  
+
+Article URL: https://www.heise.de/en/news/AI-proves-mathematicians-wrong-11303022.html Comments URL: https://news.ycombinator.com/item?id=48256796 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.heise.de/en/news/AI-proves-mathematicians-wrong-11303022.html)
+
+---
+
+## 5. I built a free AI travel planner for budget Europe trips
+
+**Author:** supreethadev  
+**Published:** 5/24/2026, 12:34:34 PM  
+**Categories:** -  
+
+Built with Next.js and Claude API. Would love feedback from the HN community. Comments URL: https://news.ycombinator.com/item?id=48256767 Points: 2 # Comments: 2
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48256767)
+
+---
+
+## 6. Our AI just got better
+
+**Author:** thunderbong  
+**Published:** 5/24/2026, 12:31:54 PM  
+**Categories:** -  
+
+Article URL: https://blog.ecosia.org/improving-our-ai/ Comments URL: https://news.ycombinator.com/item?id=48256749 Points: 7 # Comments: 2
+
+📖 [Read original article](https://blog.ecosia.org/improving-our-ai/)
+
+---
+
+## 7. Integral Intelligence: a Catholic view of the AI debate
+
+**Author:** turing_complete  
+**Published:** 5/24/2026, 12:17:49 PM  
+**Categories:** -  
+
+Article URL: https://localoptimumai.substack.com/p/integral-intelligence-a-catholic Comments URL: https://news.ycombinator.com/item?id=48256670 Points: 2 # Comments: 0
+
+📖 [Read original article](https://localoptimumai.substack.com/p/integral-intelligence-a-catholic)
+
+---
+
+## 8. Pi-Mojo – A Mojo Port of Pi AI Agent Toolkit
+
+**Author:** amund  
+**Published:** 5/24/2026, 11:59:49 AM  
+**Categories:** -  
+
+Article URL: https://github.com/atveit/pi-mojo/tree/main Comments URL: https://news.ycombinator.com/item?id=48256552 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/atveit/pi-mojo/tree/main)
+
+---
+
+## 9. Autotrader – paper trading AI agent for Indian equities
+
+**Author:** akashtndn  
+**Published:** 5/24/2026, 11:55:38 AM  
+**Categories:** -  
+
+Article URL: https://github.com/analyticalmonk/autotrader Comments URL: https://news.ycombinator.com/item?id=48256526 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/analyticalmonk/autotrader)
+
+---
+
+## 10. The invisible fabric of AI: chips aren't a US-China war, but a 30-country chain
+
+**Author:** carlosortet  
+**Published:** 5/24/2026, 11:23:44 AM  
+**Categories:** -  
+
+Article URL: https://zoopa.es/en/innovation-technology/invisible-fabric-ai-chips-geopolitics/ Comments URL: https://news.ycombinator.com/item?id=48256396 Points: 2 # Comments: 1
+
+📖 [Read original article](https://zoopa.es/en/innovation-technology/invisible-fabric-ai-chips-geopolitics/)
+
+---
+
+## 11. Responsible Work with AI
+
+**Author:** satisfice  
+**Published:** 5/24/2026, 11:20:38 AM  
+**Categories:** -  
+
+Article URL: https://www.satisfice.com/responsible Comments URL: https://news.ycombinator.com/item?id=48256376 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.satisfice.com/responsible)
+
+---
+
+## 12. The AI Existential Crisis: Western AI Agents Will Win Commerce
+
+**Author:** vektormemory  
+**Published:** 5/24/2026, 11:18:24 AM  
+**Categories:** -  
+
+Article URL: https://medium.com/@vektormemory/the-ai-existential-crisis-western-ai-agents-will-win-finance-chinas-will-win-the-world-3945a70b3366 Comments URL: https://news.ycombinator.com/item?id=48256365 Points: 1 # Comments: 0
+
+📖 [Read original article](https://medium.com/@vektormemory/the-ai-existential-crisis-western-ai-agents-will-win-finance-chinas-will-win-the-world-3945a70b3366)
+
+---
+
+## 13. Orchestration problems hurt legal AI
+
+**Author:** alansaber  
+**Published:** 5/24/2026, 11:11:30 AM  
+**Categories:** -  
+
+Article URL: https://lexifina.com/blog/legal-ontologies-for-ai Comments URL: https://news.ycombinator.com/item?id=48256327 Points: 1 # Comments: 0
+
+📖 [Read original article](https://lexifina.com/blog/legal-ontologies-for-ai)
+
+---
+
+## 14. AI Stock Is the Ultimate Set-It-and-Forget-It Buy for Long-Term Investors
 
 **Author:** 01-_-  
-**Published:** 5/24/2026, 7:38:51 AM  
+**Published:** 5/24/2026, 11:03:19 AM  
 **Categories:** -  
 
-Article URL: https://www.scmp.com/tech/big-tech/article/3354394/china-losing-llm-race-it-can-still-win-ai-ex-tencent-ai-lead-says Comments URL: https://news.ycombinator.com/item?id=48255311 Points: 1 # Comments: 0
+Article URL: https://www.fool.com/investing/2026/05/19/this-ai-stock-is-the-ultimate-set-it-and-forget-it/ Comments URL: https://news.ycombinator.com/item?id=48256282 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.scmp.com/tech/big-tech/article/3354394/china-losing-llm-race-it-can-still-win-ai-ex-tencent-ai-lead-says)
+📖 [Read original article](https://www.fool.com/investing/2026/05/19/this-ai-stock-is-the-ultimate-set-it-and-forget-it/)
 
 ---
 
-## 5. Newsom signs order aimed at tackling AI job displacement
+## 15. South Korea's deputy PM says AI wealth must benefit the public
 
-**Author:** 01-_-  
-**Published:** 5/24/2026, 7:36:11 AM  
+**Author:** geox  
+**Published:** 5/24/2026, 11:00:52 AM  
 **Categories:** -  
 
-Article URL: https://thehill.com/policy/technology/5889582-california-ai-job-losses/ Comments URL: https://news.ycombinator.com/item?id=48255299 Points: 1 # Comments: 0
+Article URL: https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html Comments URL: https://news.ycombinator.com/item?id=48256265 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thehill.com/policy/technology/5889582-california-ai-job-losses/)
+📖 [Read original article](https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html)
 
 ---
 
-## 6. How AI is redefining Software Engineering
+## 16. Physicists create hybrid light-matter particles to replace electrons in AI cmpt
 
-**Author:** adlrocha  
-**Published:** 5/24/2026, 7:29:21 AM  
+**Author:** Ember_Wipe  
+**Published:** 5/24/2026, 10:41:59 AM  
 **Categories:** -  
 
-Article URL: https://adlrocha.substack.com/p/adlrocha-how-ai-is-redefining-software Comments URL: https://news.ycombinator.com/item?id=48255277 Points: 1 # Comments: 0
+Article URL: https://www.sciencedaily.com/releases/2026/05/260518041341.htm Comments URL: https://news.ycombinator.com/item?id=48256161 Points: 1 # Comments: 0
 
-📖 [Read original article](https://adlrocha.substack.com/p/adlrocha-how-ai-is-redefining-software)
+📖 [Read original article](https://www.sciencedaily.com/releases/2026/05/260518041341.htm)
 
 ---
 
-## 7. Hiro, AI job matching with real visa sponsorship data (550K jobs)
+## 17. State Explosion Security Problem in AI-Era Software Supply Chains
 
-**Author:** sharvenrane7  
-**Published:** 5/24/2026, 7:21:17 AM  
+**Author:** nirwandogra  
+**Published:** 5/24/2026, 9:43:59 AM  
 **Categories:** -  
 
-Article URL: https://hirocareers.com Comments URL: https://news.ycombinator.com/item?id=48255235 Points: 1 # Comments: 0
+Article URL: https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9...
 
-📖 [Read original article](https://hirocareers.com)
+📖 [Read original article](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue)
 
 ---
 
-## 8. For developers without design skills, how do you leverage AI for front end dev?
+## 18. ShannonBase: The Lightweight Semantic Layer for Enterprise AI SQL
 
-**Author:** boundless88  
-**Published:** 5/24/2026, 7:15:00 AM  
+**Author:** shannon-data-ai  
+**Published:** 5/24/2026, 9:27:09 AM  
 **Categories:** -  
 
-The best tool I've found so far is Open Design, which you can combine with any of the vibe coding tools you've been using for a long time, but it's still hard to collaborate on long term projects that involve multiple parties. I'd like to ask you all, if you're working on a formal complex UI related...
+Article URL: https://medium.com/@shannon.data.tech/shannonbase-the-lightweight-semantic-layer-for-enterprise-ai-sql-aac116b82a7e Comments URL: https://news.ycombinator.com/item?id=48255851 Points: 1 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48255197)
+📖 [Read original article](https://medium.com/@shannon.data.tech/shannonbase-the-lightweight-semantic-layer-for-enterprise-ai-sql-aac116b82a7e)
 
 ---
 
-## 9. The anatomy of AI power in 2026
+## 19. OpenAI and Nvidia Are Using Google's SynthID to Watermark AI Content
 
-**Author:** 7moritz7  
-**Published:** 5/24/2026, 7:13:46 AM  
+**Author:** steveharing1  
+**Published:** 5/24/2026, 9:04:49 AM  
 **Categories:** -  
 
-Article URL: https://wayneresearch.com/research/anatomy-of-ai-power/ Comments URL: https://news.ycombinator.com/item?id=48255193 Points: 1 # Comments: 0
+Article URL: https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/ Comments URL: https://news.ycombinator.com/item?id=48255746 Points: 2 # Comments: 0
 
-📖 [Read original article](https://wayneresearch.com/research/anatomy-of-ai-power/)
+📖 [Read original article](https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/)
 
 ---
 
-## 10. Turned ArXiv into an AI-Agent-Friendly Interface (No Browser Vision Needed)
+## 20. Karen Hao: AI creating a DESPERATE BASE OF WORKERS with no full-time employment
 
-**Author:** yooibox  
-**Published:** 5/24/2026, 6:33:27 AM  
+**Author:** chvid  
+**Published:** 5/24/2026, 8:45:13 AM  
 **Categories:** -  
 
-Article URL: https://mediause.dev/skills/arxiv Comments URL: https://news.ycombinator.com/item?id=48254958 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=E4Zd9ZXjkao Comments URL: https://news.ycombinator.com/item?id=48255657 Points: 6 # Comments: 1
 
-📖 [Read original article](https://mediause.dev/skills/arxiv)
-
----
-
-## 11. AI Can Do Anything
-
-**Author:** AmDab  
-**Published:** 5/24/2026, 5:17:23 AM  
-**Categories:** -  
-
-Article URL: https://clawdcursor.com Comments URL: https://news.ycombinator.com/item?id=48254618 Points: 3 # Comments: 0
-
-📖 [Read original article](https://clawdcursor.com)
-
----
-
-## 12. SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 5/24/2026, 5:07:07 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12 Comments URL: https://news.ycombinator.com/item?id=48254566 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12)
-
----
-
-## 13. Export chats from 11 AI platforms to PDF or Markdown locally
-
-**Author:** Rocke1001feller  
-**Published:** 5/24/2026, 4:23:45 AM  
-**Categories:** -  
-
-Article URL: https://chromewebstore.google.com/detail/ai-chat-exporter-sharer-p/eamemmejpblbiapnigdimieiblldhgoi Comments URL: https://news.ycombinator.com/item?id=48254348 Points: 2 # Comments: 3
-
-📖 [Read original article](https://chromewebstore.google.com/detail/ai-chat-exporter-sharer-p/eamemmejpblbiapnigdimieiblldhgoi)
-
----
-
-## 14. AI as a Design Medium
-
-**Author:** vinhnx  
-**Published:** 5/24/2026, 3:46:29 AM  
-**Categories:** -  
-
-Article URL: https://www.harvarddesignmagazine.org/articles/ai-as-a-design-medium-rodenbeck/ Comments URL: https://news.ycombinator.com/item?id=48254170 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.harvarddesignmagazine.org/articles/ai-as-a-design-medium-rodenbeck/)
-
----
-
-## 15. From Vibe Coding to AI-Assisted Engineering: Lessons from Real Projects
-
-**Author:** Eritsil  
-**Published:** 5/24/2026, 3:13:52 AM  
-**Categories:** -  
-
-Article URL: https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1 Comments URL: https://news.ycombinator.com/item?id=48253987 Points: 4 # Comments: 0
-
-📖 [Read original article](https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1)
-
----
-
-## 16. Shannon Got AI This Far. Kolmogorov Shows Where It Stops
-
-**Author:** dnw  
-**Published:** 5/24/2026, 1:58:46 AM  
-**Categories:** -  
-
-Article URL: https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-shows-where-it-stops-c81825f89ca0 Comments URL: https://news.ycombinator.com/item?id=48253580 Points: 4 # Comments: 0
-
-📖 [Read original article](https://medium.com/@vishalmisra/shannon-got-ai-this-far-kolmogorov-shows-where-it-stops-c81825f89ca0)
-
----
-
-## 17. A simple AI agent in Java
-
-**Author:** onesingleblast  
-**Published:** 5/24/2026, 1:35:48 AM  
-**Categories:** -  
-
-Article URL: https://github.com/machineswillrise/jagent Comments URL: https://news.ycombinator.com/item?id=48253474 Points: 4 # Comments: 0
-
-📖 [Read original article](https://github.com/machineswillrise/jagent)
-
----
-
-## 18. Scan any codebase in 3s, then verify what your AI builds
-
-**Author:** stealthyAF  
-**Published:** 5/24/2026, 1:30:26 AM  
-**Categories:** -  
-
-Article URL: https://github.com/anatomia-dev/anatomia Comments URL: https://news.ycombinator.com/item?id=48253446 Points: 5 # Comments: 0
-
-📖 [Read original article](https://github.com/anatomia-dev/anatomia)
-
----
-
-## 19. Joe Rogan accidentally exposed AI in four words [video][12 mins]
-
-**Author:** Bender  
-**Published:** 5/24/2026, 1:25:51 AM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=waFl4uBfXRA Comments URL: https://news.ycombinator.com/item?id=48253414 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=waFl4uBfXRA)
-
----
-
-## 20. AI didn't kill your junior pipeline. You did
-
-**Author:** MBCook  
-**Published:** 5/24/2026, 1:00:49 AM  
-**Categories:** -  
-
-Article URL: https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did Comments URL: https://news.ycombinator.com/item?id=48253237 Points: 10 # Comments: 2
-
-📖 [Read original article](https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did)
+📖 [Read original article](https://www.youtube.com/watch?v=E4Zd9ZXjkao)
 
 ---
