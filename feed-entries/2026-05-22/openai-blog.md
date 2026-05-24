@@ -14,7 +14,7 @@ count: 2
 ## 1. OpenAI named a Leader in enterprise coding agents by Gartner
 
 **Author:** -  
-**Published:** 2026/5/22 08:00:00  
+**Published:** 5/22/2026, 12:00:00 AM  
 **Categories:** AI Adoption  
 
 OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.
@@ -26,7 +26,7 @@ OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Co
 ## 2. How Virgin Atlantic ships faster with Codex
 
 **Author:** -  
-**Published:** 2026/5/22 08:00:00  
+**Published:** 5/22/2026, 12:00:00 AM  
 **Categories:** -  
 
 How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.
