@@ -6,13 +6,13 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [agent-browser](https://github.com/vercel-labs/agent-browser) | 34,225 | 2,144 | Rust | 253 | Browser automation CLI for AI agents | 2026-05-20 |
+| 1 | [agent-browser](https://github.com/vercel-labs/agent-browser) | 34,226 | 2,144 | Rust | 253 | Browser automation CLI for AI agents | 2026-05-20 |
 | 2 | [selenium](https://github.com/SeleniumHQ/selenium) | 34,100 | 8,685 | Java | 113 | A browser automation framework and ecosystem. | 2026-05-25 |
 | 3 | [browser](https://github.com/lightpanda-io/browser) | 30,543 | 1,357 | Zig | 78 | Lightpanda: the headless browser designed for AI and automation | 2026-05-25 |
 | 4 | [phantomjs](https://github.com/ariya/phantomjs) | 29,464 | 5,689 | C++ | 14 | Scriptable Headless Browser | 2022-11-26 |
 | 5 | [crawlee](https://github.com/apify/crawlee) | 23,387 | 1,385 | TypeScript | 140 | Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o... | 2026-05-22 |
 | 6 | [skyvern](https://github.com/Skyvern-AI/skyvern) | 21,721 | 2,020 | Python | 34 | Automate browser based workflows with AI | 2026-05-25 |
-| 7 | [automa](https://github.com/AutomaApp/automa) | 21,342 | 2,325 | Vue | 340 | A browser extension for automating your browser by connecting blocks | 2026-03-02 |
+| 7 | [automa](https://github.com/AutomaApp/automa) | 21,343 | 2,325 | Vue | 340 | A browser extension for automating your browser by connecting blocks | 2026-03-02 |
 | 8 | [nightmare](https://github.com/segment-boneyard/nightmare) | 19,769 | 1,065 | JavaScript | 177 | A high-level browser automation library. | 2024-04-20 |
 | 9 | [nanobrowser](https://github.com/nanobrowser/nanobrowser) | 13,041 | 1,372 | TypeScript | 44 | Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. | 2025-11-24 |
 | 10 | [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) | 12,647 | 1,338 | Python | 0 | Custom Selenium Chromedriver \| Zero-Config \| Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM) | 2025-07-05 |
@@ -35,7 +35,7 @@
 | 27 | [playwright-skill](https://github.com/lackeyjb/playwright-skill) | 2,667 | 189 | JavaScript | 7 | Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation. | 2025-12-19 |
 | 28 | [BotBrowser](https://github.com/botswin/BotBrowser) | 2,455 | 273 | TypeScript | 5 | Advanced Privacy Browser Core with Unified Fingerprint Defense: Cloudflare, Akamai, Kasada, Shape, DataDome, PerimeterX, hCaptcha, FunCaptcha, Imperva, reCAPTCHA, ThreatMetrix, Adscore | 2026-05-25 |
 | 29 | [MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension) | 2,399 | 272 | TypeScript | 8 | A browser extension that helps users publish content to multiple social media platforms with one click. | 2026-05-22 |
-| 30 | [any-auto-register](https://github.com/lxf746/any-auto-register) | 2,365 | 841 | Python | 9 | Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app | 2026-05-20 |
+| 30 | [any-auto-register](https://github.com/lxf746/any-auto-register) | 2,365 | 842 | Python | 9 | Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app | 2026-05-20 |
 | 31 | [xhs_ai_publisher](https://github.com/BetaStreetOmnis/xhs_ai_publisher) | 1,968 | 292 | Python | 6 | AI-powered Xiaohongshu/Rednote content creation and publishing tool with PyQt desktop UI, FastAPI service, login-state reuse, preview publish, and automated browser workflows. | 2026-04-06 |
 | 32 | [notte](https://github.com/nottelabs/notte) | 1,963 | 182 | Python | 5 | 🌸 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra. | 2026-05-23 |
 | 33 | [HeadlessX](https://github.com/saifyxpro/HeadlessX) | 1,942 | 245 | TypeScript | 2 | The undetected self-hosted browser automation platform. Powered by Camoufox (Firefox) for 0% detection rates. Built for speed, privacy, and scalability. | 2026-05-19 |
