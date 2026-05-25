@@ -10,7 +10,7 @@
 | 2 | [personal-security-checklist](https://github.com/lissy93/personal-security-checklist) | 21,513 | 1,447 | TypeScript | 56 | 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026 | 2026-02-28 |
 | 3 | [Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 14,380 | 2,032 | TypeScript | 109 | Agentic AI Infrastructure for magnifying HUMAN capabilities. | 2026-05-20 |
 | 4 | [personaplex](https://github.com/NVIDIA/personaplex) | 9,907 | 1,392 | Python | 35 | PersonaPlex code. | 2026-03-02 |
-| 5 | [vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) | 7,826 | 4,293 | HTML | 34 | vCard is a fully responsive personal portfolio website, responsive for all devices. | 2025-06-12 |
+| 5 | [vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) | 7,826 | 4,292 | HTML | 34 | vCard is a fully responsive personal portfolio website, responsive for all devices. | 2025-06-12 |
 | 6 | [personal-website](https://github.com/github/personal-website) | 7,608 | 6,561 | HTML | 0 | Code that'll help you kickstart a personal website that showcases your work as a software developer. | 2023-12-21 |
 | 7 | [TinyTroupe](https://github.com/microsoft/TinyTroupe) | 7,466 | 660 | Jupyter Notebook | 10 | LLM-powered multiagent persona simulation for imagination enhancement and business insights. | 2026-05-07 |
 | 8 | [big-AGI](https://github.com/enricoros/big-AGI) | 6,985 | 1,579 | TypeScript | 267 | AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, ... | 2026-05-23 |
