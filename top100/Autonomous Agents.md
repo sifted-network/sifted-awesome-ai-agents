@@ -6,9 +6,9 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [cline](https://github.com/cline/cline) | 62,267 | 6,513 | TypeScript | 483 | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | 2026-05-25 |
+| 1 | [cline](https://github.com/cline/cline) | 62,268 | 6,513 | TypeScript | 483 | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | 2026-05-25 |
 | 2 | [ruflo](https://github.com/ruvnet/ruflo) | 54,832 | 6,235 | TypeScript | 414 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archit... | 2026-05-25 |
-| 3 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,121 | 7,224 | Python | 35 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-23 |
+| 3 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,122 | 7,224 | Python | 35 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-23 |
 | 4 | [cherry-studio](https://github.com/CherryHQ/cherry-studio) | 46,233 | 4,397 | TypeScript | 880 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | 2026-05-25 |
 | 5 | [CowAgent](https://github.com/zhayujie/CowAgent) | 44,791 | 10,130 | Python | 284 | Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install ... | 2026-05-25 |
 | 6 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 36,121 | 9,347 | TypeScript | 132 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 2025-04-29 |
@@ -33,7 +33,7 @@
 | 25 | [gsd-2](https://github.com/gsd-build/gsd-2) | 7,742 | 780 | TypeScript | 1 | A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture | 2026-05-22 |
 | 26 | [yao](https://github.com/YaoApp/yao) | 7,540 | 684 | Go | 0 | ✨ Build AI agents and web apps — with a single binary. | 2026-05-23 |
 | 27 | [agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) | 7,254 | 984 | TypeScript | 453 |  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. | 2026-05-24 |
-| 28 | [inkos](https://github.com/Narcooo/inkos) | 6,497 | 1,232 | TypeScript | 137 | Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates | 2026-05-24 |
+| 28 | [inkos](https://github.com/Narcooo/inkos) | 6,498 | 1,232 | TypeScript | 137 | Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates | 2026-05-24 |
 | 29 | [OpenShell](https://github.com/NVIDIA/OpenShell) | 6,224 | 741 | Rust | 135 | OpenShell is the safe, private runtime for autonomous AI agents. | 2026-05-25 |
 | 30 | [agents](https://github.com/aiwaves-cn/agents) | 5,928 | 482 | Python | 40 | An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents | 2024-09-26 |
 | 31 | [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) | 5,620 | 782 | Python | 38 | Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas | 2025-08-20 |
