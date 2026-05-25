@@ -6,12 +6,12 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [superpowers](https://github.com/obra/superpowers) | 205,181 | 18,281 | Shell | 138 | An agentic skills framework & software development methodology that works. | 2026-05-24 |
+| 1 | [superpowers](https://github.com/obra/superpowers) | 205,183 | 18,281 | Shell | 138 | An agentic skills framework & software development methodology that works. | 2026-05-24 |
 | 2 | [langchain](https://github.com/langchain-ai/langchain) | 137,562 | 22,767 | Python | 418 | The agent engineering platform. | 2026-05-23 |
-| 3 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 79,286 | 15,456 | Python | 213 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 2026-05-17 |
+| 3 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 79,287 | 15,456 | Python | 213 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 2026-05-17 |
 | 4 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 68,262 | 8,698 | Python | 23 | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | 2026-01-21 |
 | 5 | [autogen](https://github.com/microsoft/autogen) | 58,367 | 8,808 | Python | 526 | A programming framework for agentic AI | 2026-04-15 |
-| 6 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,121 | 7,224 | Python | 35 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-23 |
+| 6 | [crewAI](https://github.com/crewAIInc/crewAI) | 52,122 | 7,224 | Python | 35 | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. | 2026-05-23 |
 | 7 | [llama_index](https://github.com/run-llama/llama_index) | 49,644 | 7,456 | Python | 186 | LlamaIndex is the leading document agent and OCR platform | 2026-05-20 |
 | 8 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | 33,021 | 2,272 | Python | 921 | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | 2026-05-23 |
 | 9 | [langgraph](https://github.com/langchain-ai/langgraph) | 32,852 | 5,556 | Python | 312 | Build resilient agents. | 2026-05-24 |
@@ -42,7 +42,7 @@
 | 34 | [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) | 9,543 | 946 | Python | 296 | An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL) | 2026-05-15 |
 | 35 | [AutoAgent](https://github.com/HKUDS/AutoAgent) | 9,342 | 1,314 | Python | 54 | "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" | 2025-10-16 |
 | 36 | [voltagent](https://github.com/VoltAgent/voltagent) | 9,129 | 933 | TypeScript | 25 | AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework | 2026-05-22 |
-| 37 | [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 8,473 | 1,067 | Python | 9 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop... | 2026-05-13 |
+| 37 | [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 8,475 | 1,067 | Python | 9 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop... | 2026-05-13 |
 | 38 | [PraisonAI](https://github.com/MervinPraison/PraisonAI) | 7,944 | 1,216 | Python | 74 | PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with bui... | 2026-05-24 |
 | 39 | [lamda](https://github.com/firerpa/lamda) | 7,803 | 1,046 | Python | 41 |  The most powerful Android RPA agent framework, next generation mobile automation. | 2026-03-24 |
 | 40 | [agent-squad](https://github.com/2FastLabs/agent-squad) | 7,638 | 720 | Python | 59 | Flexible and powerful framework for managing multiple AI agents and handling complex conversations | 2026-05-22 |
