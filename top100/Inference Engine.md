@@ -10,7 +10,7 @@
 | 2 | [web-llm](https://github.com/mlc-ai/web-llm) | 18,055 | 1,291 | TypeScript | 128 | High-performance In-browser LLM Inference Engine  | 2026-05-19 |
 | 3 | [ml-engineering](https://github.com/stas00/ml-engineering) | 17,974 | 1,142 | Python | 1 | Machine Learning Engineering Open Book | 2026-05-18 |
 | 4 | [MNN](https://github.com/alibaba/MNN) | 15,247 | 2,318 | C++ | 10 | MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI. | 2026-05-22 |
-| 5 | [ds4](https://github.com/antirez/ds4) | 11,709 | 995 | C | 36 | DeepSeek 4 Flash local inference engine for Metal and CUDA | 2026-05-24 |
+| 5 | [ds4](https://github.com/antirez/ds4) | 11,710 | 995 | C | 36 | DeepSeek 4 Flash local inference engine for Metal and CUDA | 2026-05-24 |
 | 6 | [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) | 7,256 | 1,627 | C++ | 63 | PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎） | 2026-04-27 |
 | 7 | [gemma.cpp](https://github.com/google/gemma.cpp) | 6,906 | 639 | C++ | 22 | lightweight, standalone C++ inference engine for Google's Gemma models. | 2026-05-18 |
 | 8 | [DALI](https://github.com/NVIDIA/DALI) | 5,694 | 665 | C++ | 203 | A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. | 2026-05-23 |
