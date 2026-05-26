@@ -2,131 +2,251 @@
 title: "Hacker News AI - 2026-05-26"
 date: "2026-05-26"
 source: "Hacker News AI"
-count: 10
+count: 20
 ---
 
 # Hacker News AI - 2026-05-26
 
-10 items collected.
+20 items collected.
 
 ---
 
-## 1. Show HN: AgentToolBench-Code – security benchmark for AI coding agents
+## 1. Pope Leo Compares AI Threat to Biblical 'Tower of Babel'
 
-**Author:** allenwu06  
-**Published:** 5/26/2026, 3:45:20 AM  
+**Author:** doener  
+**Published:** 5/26/2026, 9:56:02 AM  
 **Categories:** -  
 
-Article URL: https://gist.github.com/allenwu-blip/fa2bd0218b93a1d7aef765817e3c6608 Comments URL: https://news.ycombinator.com/item?id=48274727 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c Comments URL: https://news.ycombinator.com/item?id=48277442 Points: 1 # Comments: 0
 
-📖 [Read original article](https://gist.github.com/allenwu-blip/fa2bd0218b93a1d7aef765817e3c6608)
+📖 [Read original article](https://www.wsj.com/world/pope-leo-ai-encyclical-c5e1af6c)
 
 ---
 
-## 2. Argus – multi‑agent AI coding assistant that never gets stuc
+## 2. The state of AI voice assistants is bad but there's a clear winner
 
-**Author:** argustek  
-**Published:** 5/26/2026, 3:36:05 AM  
+**Author:** simianwords  
+**Published:** 5/26/2026, 9:53:00 AM  
 **Categories:** -  
 
-Article URL: https://github.com/argustek/Argus Comments URL: https://news.ycombinator.com/item?id=48274671 Points: 1 # Comments: 0
+Article URL: https://simianwords.bearblog.dev/the-state-of-ai-voice-assistants-is-bad-but-theres-a-clear-winner/ Comments URL: https://news.ycombinator.com/item?id=48277414 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/argustek/Argus)
+📖 [Read original article](https://simianwords.bearblog.dev/the-state-of-ai-voice-assistants-is-bad-but-theres-a-clear-winner/)
 
 ---
 
-## 3. Brockovich AI Data Center Reporting
+## 3. OpenClaw for Sales – Using Local-First AI Agents for Sales Workflows
 
-**Author:** cdrnsf  
-**Published:** 5/26/2026, 2:46:35 AM  
+**Author:** mjenul  
+**Published:** 5/26/2026, 8:34:23 AM  
 **Categories:** -  
 
-Article URL: https://www.brockovichdatacenter.com/ Comments URL: https://news.ycombinator.com/item?id=48274402 Points: 2 # Comments: 0
+Article URL: https://www.kickscale.com/en/blog/openclaw-sales-ai-agent-revolution Comments URL: https://news.ycombinator.com/item?id=48276845 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.brockovichdatacenter.com/)
+📖 [Read original article](https://www.kickscale.com/en/blog/openclaw-sales-ai-agent-revolution)
 
 ---
 
-## 4. Crypto code commits fall 75% as developers move to AI projects
+## 4. AI overly affirms users asking for personal advice
 
-**Author:** wslh  
-**Published:** 5/26/2026, 2:18:57 AM  
+**Author:** ofcyes  
+**Published:** 5/26/2026, 8:16:48 AM  
 **Categories:** -  
 
-Article URL: https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom Comments URL: https://news.ycombinator.com/item?id=48274215 Points: 5 # Comments: 0
+Article URL: https://vechron.com/2026/05/ai-overly-affirms-users-asking-for-personal-advice/ Comments URL: https://news.ycombinator.com/item?id=48276707 Points: 7 # Comments: 2
 
-📖 [Read original article](https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom)
+📖 [Read original article](https://vechron.com/2026/05/ai-overly-affirms-users-asking-for-personal-advice/)
 
 ---
 
-## 5. Cited AI Workspace: No More Re-Uploading Files
+## 5. Oak Ridge Starts Weaving Together a Quantum, Classical HPC, and AI System Stack
 
-**Author:** owjdie  
-**Published:** 5/26/2026, 2:18:46 AM  
+**Author:** rbanffy  
+**Published:** 5/26/2026, 8:13:57 AM  
 **Categories:** -  
 
-Article URL: https://uumuse.ai/en Comments URL: https://news.ycombinator.com/item?id=48274212 Points: 2 # Comments: 0
+Article URL: https://www.nextplatform.com/hpc/2026/05/21/oak-ridge-starts-weaving-together-a-quantum-classical-hpc-and-ai-system-stack/5244272 Comments URL: https://news.ycombinator.com/item?id=48276684 Points: 1 # Comments: 0
 
-📖 [Read original article](https://uumuse.ai/en)
+📖 [Read original article](https://www.nextplatform.com/hpc/2026/05/21/oak-ridge-starts-weaving-together-a-quantum-classical-hpc-and-ai-system-stack/5244272)
 
 ---
 
-## 6. AI SEO: compare with your competitor
+## 6. Citing Gandalf, Pope Leo says we must \"disarm\" AI
 
-**Author:** Creator-io  
-**Published:** 5/26/2026, 1:50:03 AM  
+**Author:** rbanffy  
+**Published:** 5/26/2026, 8:12:26 AM  
 **Categories:** -  
 
-Article URL: https://usefox.co/competitor-analyzer Comments URL: https://news.ycombinator.com/item?id=48274049 Points: 3 # Comments: 0
+Article URL: https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/ Comments URL: https://news.ycombinator.com/item?id=48276672 Points: 2 # Comments: 2
 
-📖 [Read original article](https://usefox.co/competitor-analyzer)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/)
 
 ---
 
-## 7. This big university system is embracing AI. Students and faculty aren't on board
+## 7. Improving Local Techdocs for Your AI Coding Agent
 
-**Author:** voxadam  
-**Published:** 5/26/2026, 1:48:23 AM  
+**Author:** rhazn  
+**Published:** 5/26/2026, 7:57:15 AM  
 **Categories:** -  
 
-Article URL: https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university Comments URL: https://news.ycombinator.com/item?id=48274042 Points: 3 # Comments: 0
+Article URL: https://www.heltweg.org/posts/improving-local-techdocs-for-your-ai-coding-agent/ Comments URL: https://news.ycombinator.com/item?id=48276548 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university)
+📖 [Read original article](https://www.heltweg.org/posts/improving-local-techdocs-for-your-ai-coding-agent/)
 
 ---
 
-## 8. Show HN: HN Audio to video AI generator
+## 8. The Open/Closed Problem in AI
 
-**Author:** audio_cleaner  
-**Published:** 5/26/2026, 1:24:16 AM  
+**Author:** vinhnx  
+**Published:** 5/26/2026, 7:43:33 AM  
 **Categories:** -  
 
-Turn audio into stunning AI videos in minutes. Upload MP3 or WAV files and generate lip sync videos, scene videos, or audio visualizer videos with AI subtitles, multilingual support, multiple aspect ratios, and HD export — no watermark or login required. Comments URL: https://news.ycombinator.com/it...
+Article URL: https://blog.mempko.com/the-open-closed-problem-in-ai/ Comments URL: https://news.ycombinator.com/item?id=48276432 Points: 2 # Comments: 0
 
-📖 [Read original article](https://audiocleaner.ai/audio-to-video-ai)
+📖 [Read original article](https://blog.mempko.com/the-open-closed-problem-in-ai/)
 
 ---
 
-## 9. ContextVault – Local-First AI Conversation Recorder for ChatGPT, Claude, Gemini
+## 9. Do I have AI Psychosis?
 
-**Author:** aliabdm  
-**Published:** 5/26/2026, 12:17:13 AM  
+**Author:** Curzel  
+**Published:** 5/26/2026, 7:41:03 AM  
 **Categories:** -  
 
-Article URL: https://context-vault-two.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48273448 Points: 1 # Comments: 0
+Article URL: https://curzel.it/blog/2026_05_26_do_i_have_ai_psychosis.html Comments URL: https://news.ycombinator.com/item?id=48276407 Points: 1 # Comments: 1
 
-📖 [Read original article](https://context-vault-two.vercel.app/)
+📖 [Read original article](https://curzel.it/blog/2026_05_26_do_i_have_ai_psychosis.html)
 
 ---
 
-## 10. Wyoming Company Uses High-Tech AI Sprinklers to Save Homes from Wildfire
+## 10. Show HN: AI agent token cost calculator for Codex and Claude Code loops
 
-**Author:** Bender  
-**Published:** 5/26/2026, 12:05:35 AM  
+**Author:** tinyopsstudio  
+**Published:** 5/26/2026, 7:34:28 AM  
 **Categories:** -  
 
-Article URL: https://cowboystatedaily.com/2026/05/25/wyoming-company-uses-high-tech-ai-sprinklers-to-save-homes-from-wildfire/ Comments URL: https://news.ycombinator.com/item?id=48273340 Points: 1 # Comments: 3
+Article URL: https://tinyopsstudio.com/ai-agent-token-cost-calculator Comments URL: https://news.ycombinator.com/item?id=48276358 Points: 1 # Comments: 0
 
-📖 [Read original article](https://cowboystatedaily.com/2026/05/25/wyoming-company-uses-high-tech-ai-sprinklers-to-save-homes-from-wildfire/)
+📖 [Read original article](https://tinyopsstudio.com/ai-agent-token-cost-calculator)
+
+---
+
+## 11. Show HN: Presentforme.ai – Make slide decks explain themselves
+
+**Author:** cheecheongfan  
+**Published:** 5/26/2026, 7:22:07 AM  
+**Categories:** -  
+
+I noticed slide decks become much less useful after meetings.People send PDFs around, but much of the information was spoken rather than written.I built PresentForMe.ai think of it as DocSend, but interactive.Upload a PDF or PowerPoint and instead of sharing a static deck, viewers get an AI presente...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48276264)
+
+---
+
+## 12. Cognitive Security as an AI Safety Cause Area
+
+**Author:** joozio  
+**Published:** 5/26/2026, 7:09:30 AM  
+**Categories:** -  
+
+Article URL: https://www.lesswrong.com/posts/KGcE7eAdfxHchk25X/cognitive-security-as-an-ai-safety-cause-area Comments URL: https://news.ycombinator.com/item?id=48276182 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.lesswrong.com/posts/KGcE7eAdfxHchk25X/cognitive-security-as-an-ai-safety-cause-area)
+
+---
+
+## 13. Orchestrating AI code review at scale
+
+**Author:** pramodbiligiri  
+**Published:** 5/26/2026, 7:06:28 AM  
+**Categories:** -  
+
+Article URL: https://blog.cloudflare.com/ai-code-review/ Comments URL: https://news.ycombinator.com/item?id=48276152 Points: 1 # Comments: 0
+
+📖 [Read original article](https://blog.cloudflare.com/ai-code-review/)
+
+---
+
+## 14. The first class of AI natives is graduating
+
+**Author:** FDETalkDotCom  
+**Published:** 5/26/2026, 6:58:18 AM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/tech/ai/ai-natives-graduates-job-cuts-6bab8ac9 Comments URL: https://news.ycombinator.com/item?id=48276079 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.wsj.com/tech/ai/ai-natives-graduates-job-cuts-6bab8ac9)
+
+---
+
+## 15. AI guardrails stripped from Meta and Google models in minutes
+
+**Author:** thunderbong  
+**Published:** 5/26/2026, 6:51:11 AM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e Comments URL: https://news.ycombinator.com/item?id=48276012 Points: 5 # Comments: 1
+
+📖 [Read original article](https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e)
+
+---
+
+## 16. Microsoft to Publishers: Don't Block the AI Bots
+
+**Author:** SVI  
+**Published:** 5/26/2026, 6:38:14 AM  
+**Categories:** -  
+
+Article URL: https://www.adexchanger.com/publishers/microsoft-to-publishers-dont-block-the-ai-bots/ Comments URL: https://news.ycombinator.com/item?id=48275902 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.adexchanger.com/publishers/microsoft-to-publishers-dont-block-the-ai-bots/)
+
+---
+
+## 17. AI Making Work Easy for Data Analysts and Founders
+
+**Author:** Sechele  
+**Published:** 5/26/2026, 6:34:50 AM  
+**Categories:** -  
+
+Article URL: https://anallyst.app/ Comments URL: https://news.ycombinator.com/item?id=48275871 Points: 1 # Comments: 0
+
+📖 [Read original article](https://anallyst.app/)
+
+---
+
+## 18. AI Gurus Are Charging Wall Street Banks $25,000 a Day
+
+**Author:** helsinkiandrew  
+**Published:** 5/26/2026, 6:33:00 AM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift Comments URL: https://news.ycombinator.com/item?id=48275849 Points: 6 # Comments: 1
+
+📖 [Read original article](https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift)
+
+---
+
+## 19. Joi AI is hiring masturbation consultants to test \"Daily Guided Masturbation\"
+
+**Author:** rjzzleep  
+**Published:** 5/26/2026, 6:30:39 AM  
+**Categories:** -  
+
+Article URL: https://twitter.com/joi___ai/status/2056518876243149258 Comments URL: https://news.ycombinator.com/item?id=48275827 Points: 2 # Comments: 0
+
+📖 [Read original article](https://twitter.com/joi___ai/status/2056518876243149258)
+
+---
+
+## 20. Show HN: Desktop GUI sandbox for AI agents and MCP servers
+
+**Author:** rednakta  
+**Published:** 5/26/2026, 5:08:26 AM  
+**Categories:** -  
+
+Article URL: https://github.com/rednakta/nilbox Comments URL: https://news.ycombinator.com/item?id=48275251 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/rednakta/nilbox)
 
 ---
