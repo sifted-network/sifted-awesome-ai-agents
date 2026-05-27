@@ -5,6 +5,7 @@ const vitePressConfigs = {
   title: 'Sifted AI News',
   description: 'Daily AI News',
   base: '/',
+  cleanUrls: true,
   sitemap: {
     hostname: 'https://aifeeds.sifted.network'
   },
