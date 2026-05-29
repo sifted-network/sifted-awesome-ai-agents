@@ -2,12 +2,12 @@
 title: "qbitai - 2026-05-28"
 date: "2026-05-28"
 source: "qbitai"
-count: 9
+count: 8
 ---
 
 # qbitai - 2026-05-28
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ count: 9
 复旦的顶尖人才版图
 
 📖 [Read original article](https://www.qbitai.com/2026/05/425959.html)
-
----
-
-## 9. 清华有了新老师：黄仁勋
-
-**Author:** Jay  
-**Published:** 5/28/2026, 4:39:41 AM  
-**Categories:** 资讯, 首页轮播  
-
-黄博好，黄博好。
-
-📖 [Read original article](https://www.qbitai.com/2026/05/425948.html)
 
 ---
