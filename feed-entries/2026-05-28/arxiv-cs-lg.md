@@ -545,7 +545,7 @@ arXiv:2605.27790v1 Announce Type: new Abstract: Recent advances in large languag
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CR  
 
-arXiv:2605.27809v1 Announce Type: new Abstract: Despite recent progress in backdoor attacks, existing methods remain susceptible to post-training defenses that erase the backdoor through fine-tuning or pruning. We revisit the core objectives of backdoor attacks and derive principled criteria charact...
+arXiv:2605.27809v2 Announce Type: new Abstract: Despite recent progress in backdoor attacks, existing methods remain susceptible to post-training defenses that erase the backdoor through fine-tuning or pruning. We revisit the core objectives of backdoor attacks and derive principled criteria charact...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27809)
 
@@ -665,7 +665,7 @@ arXiv:2605.27954v1 Announce Type: new Abstract: Agentic large language models ar
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, stat.ML  
 
-arXiv:2605.27975v1 Announce Type: new Abstract: Generative models, including diffusion models, are increasingly used as foundation models and adapted through sequential fine-tuning, making continual learning an essential problem setting. However, continual learning in such generative models remains ...
+arXiv:2605.27975v2 Announce Type: new Abstract: Generative models, including diffusion models, are increasingly used as foundation models and adapted through sequential fine-tuning, making continual learning an essential problem setting. However, continual learning in such generative models remains ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27975)
 
@@ -941,7 +941,7 @@ arXiv:2605.28165v1 Announce Type: new Abstract: The literature has proposed vari
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.28166v1 Announce Type: new Abstract: Irregular Multivariate Time Series (IMTS) are common in practice, yet their irregular sampling complicates effective modeling. Existing approaches typically either (i) design specialized architectures that limit the reuse of proven Multivariate Time Se...
+arXiv:2605.28166v2 Announce Type: new Abstract: Irregular Multivariate Time Series (IMTS) are common in practice, yet their irregular sampling complicates effective modeling. Existing approaches typically either (i) design specialized architectures that limit the reuse of proven Multivariate Time Se...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28166)
 
@@ -1097,7 +1097,7 @@ arXiv:2605.28290v1 Announce Type: new Abstract: We study bandit learning in matc
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.28293v1 Announce Type: new Abstract: Proactive Recommender Systems (PRSs) aim to guide user preference shift toward target items by generating paths of intermediate recommendations. Reinforcement learning (RL) provides a principled framework for optimizing such sequential decision tasks, ...
+arXiv:2605.28293v2 Announce Type: new Abstract: Proactive Recommender Systems (PRSs) aim to guide user preference shift toward target items by generating paths of intermediate recommendations. Reinforcement learning (RL) provides a principled framework for optimizing such sequential decision tasks, ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28293)
 
@@ -1229,7 +1229,7 @@ arXiv:2605.28358v1 Announce Type: new Abstract: Error-correcting codes enable re
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cond-mat.mtrl-sci, physics.app-ph  
 
-arXiv:2605.28368v1 Announce Type: new Abstract: World models have enabled interactive exploration of game environments and robotic manipulation, but physical engineering remains beyond their reach: real materials exhibit nonlinear constitutive laws, carry history-dependent internal state, undergo in...
+arXiv:2605.28368v2 Announce Type: new Abstract: World models have enabled interactive exploration of game environments and robotic manipulation, but physical engineering remains beyond their reach: real materials exhibit nonlinear constitutive laws, carry history-dependent internal state, undergo in...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28368)
 
@@ -1289,7 +1289,7 @@ arXiv:2605.28396v1 Announce Type: new Abstract: On-policy distillation (OPD) tra
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2605.28418v1 Announce Type: new Abstract: With the rise of tabular foundation models alongside traditional models still performing well on many tasks, choosing the right model for a tabular dataset remains difficult. We investigate whether dataset meta-features can explain performance gaps bet...
+arXiv:2605.28418v2 Announce Type: new Abstract: With the rise of tabular foundation models alongside traditional models still performing well on many tasks, choosing the right model for a tabular dataset remains difficult. We investigate whether dataset meta-features can explain performance gaps bet...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28418)
 
@@ -1697,7 +1697,7 @@ arXiv:2605.28705v1 Announce Type: new Abstract: In-context learning (ICL) derive
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2605.28711v1 Announce Type: new Abstract: The distortion-perception (D-P) tradeoff is a fundamental phenomenon of Bayesian inverse problems, which characterizes the inherent tension between distortion performance and perceptual quality. Enabling flexible traversal of the D-P tradeoff at infere...
+arXiv:2605.28711v2 Announce Type: new Abstract: The distortion-perception (D-P) tradeoff is a fundamental phenomenon of Bayesian inverse problems, which characterizes the inherent tension between distortion performance and perceptual quality. Enabling flexible traversal of the D-P tradeoff at infere...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28711)
 
@@ -1961,7 +1961,7 @@ arXiv:2605.27473v1 Announce Type: cross Abstract: Estimating how much an interve
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2605.27474v1 Announce Type: cross Abstract: Estimating how an outcome responds to a continuous treatment (the Average Dose-Response Function, or ADRF) is a core causal-inference primitive. However, when outcomes possess heavy tails, standard robust double machine learning (DML) deliberately su...
+arXiv:2605.27474v2 Announce Type: cross Abstract: Estimating how an outcome responds to a continuous treatment (the Average Dose-Response Function, or ADRF) is a core causal-inference primitive. However, when outcomes possess heavy tails, standard robust double machine learning (DML) deliberately su...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27474)
 
@@ -1985,7 +1985,7 @@ arXiv:2605.27477v1 Announce Type: cross Abstract: Causal-discovery algorithms re
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG, math.PR  
 
-arXiv:2605.27478v1 Announce Type: cross Abstract: We introduce Triangular-Reference Schr\"odinger Bridges for Time Series (TR-SBTS), a conservative extension of the SBTS framework in which the Brownian reference is replaced by an intervalwise frozen, possibly degenerate diffusion reference, triangul...
+arXiv:2605.27478v2 Announce Type: cross Abstract: We introduce Triangular-Reference Schr\"odinger Bridges for Time Series (TR-SBTS), a conservative extension of the SBTS framework in which the Brownian reference is replaced by an intervalwise frozen, possibly degenerate diffusion reference, triangul...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27478)
 
@@ -2273,7 +2273,7 @@ arXiv:2605.27690v1 Announce Type: cross Abstract: LLM agents increasingly operat
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2605.27696v1 Announce Type: cross Abstract: Discrete visual tokenizers translate images into ordered sequences of codes, providing a natural representation for structural description of scenes. Yet existing adaptive tokenizers either require post-hoc search or select among a discrete set of pr...
+arXiv:2605.27696v2 Announce Type: cross Abstract: Discrete visual tokenizers translate images into ordered sequences of codes, providing a natural representation for structural description of scenes. Yet existing adaptive tokenizers either require post-hoc search or select among a discrete set of pr...
 
 📖 [Read original article](https://arxiv.org/abs/2605.27696)
 
@@ -2873,7 +2873,7 @@ arXiv:2605.28295v1 Announce Type: cross Abstract: Reinforcement Learning with Ve
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG, q-fin.RM, stat.AP  
 
-arXiv:2605.28327v1 Announce Type: cross Abstract: Traditional insurance pricing relies on risk-based principles that ensure actuarial fairness and solvency but do not explicitly account for policyholders' price sensitivity. We formulate insurance pricing as a decision-making problem and study it usi...
+arXiv:2605.28327v2 Announce Type: cross Abstract: Traditional insurance pricing relies on risk-based principles that ensure actuarial fairness and solvency but do not explicitly account for policyholders' price sensitivity. We formulate insurance pricing as a decision-making problem and study it usi...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28327)
 
@@ -2969,7 +2969,7 @@ arXiv:2605.28487v1 Announce Type: cross Abstract: Materials process optimization
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG, math.ST, stat.TH  
 
-arXiv:2605.28488v1 Announce Type: cross Abstract: We study inference in stochastic block models (SBMs) through the lens of optimal transport (OT). We first establish that maximum likelihood variational inference (MLVI) can be interpreted as a semi-relaxed Gromov-Wasserstein (srGW) projection with en...
+arXiv:2605.28488v2 Announce Type: cross Abstract: We study inference in stochastic block models (SBMs) through the lens of optimal transport (OT). We first establish that maximum likelihood variational inference (MLVI) can be interpreted as a semi-relaxed Gromov-Wasserstein (srGW) projection with en...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28488)
 
@@ -3029,7 +3029,7 @@ arXiv:2605.28549v1 Announce Type: cross Abstract: The pursuit of humanoid athlet
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.GR, cs.LG  
 
-arXiv:2605.28551v1 Announce Type: cross Abstract: Many imaging problems require computing spatial transformations induced by spatially varying intensity, feature, or density fields. Canonical examples include distortion correction, deformable image registration, atlas-based segmentation, and deforma...
+arXiv:2605.28551v2 Announce Type: cross Abstract: Many imaging problems require computing spatial transformations induced by spatially varying intensity, feature, or density fields. Canonical examples include distortion correction, deformable image registration, atlas-based segmentation, and deforma...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28551)
 
@@ -3299,13 +3299,13 @@ arXiv:2307.06240v2 Announce Type: replace Abstract: The Drone Swarm Search proje
 
 ---
 
-## 275. Adversarial Fine-tuning of Compressed Neural Networks for Joint Improvement of Robustness and Efficiency
+## 275. An Empirical Study of the Influence of Adversarial Fine-Tuning on Compressed Neural Networks
 
 **Author:** Hallgrimur Thorsteinsson, Valdemar J Henriksen, Daniel I R Cruz, Raghavendra Selvan, Tong Chen  
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2403.09441v2 Announce Type: replace Abstract: As deep learning (DL) models are increasingly being integrated into our everyday lives, ensuring their safety by making them robust against adversarial attacks has become increasingly critical. DL models have been found to be susceptible to adversa...
+arXiv:2403.09441v3 Announce Type: replace Abstract: As deep learning (DL) models are increasingly being integrated into our everyday lives, ensuring their safety by making them robust against adversarial attacks has become increasingly critical. DL models have been found to be susceptible to adversa...
 
 📖 [Read original article](https://arxiv.org/abs/2403.09441)
 
@@ -3785,7 +3785,7 @@ arXiv:2511.02398v2 Announce Type: replace Abstract: We present a novel decentral
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2511.14584v3 Announce Type: replace Abstract: We present ReflexGrad, a dual-process architecture for within-episode failure recovery in LLM agents without demonstrations. When agents commit to a wrong approach early and exhaust the step budget, the post-failure trajectory contains the informat...
+arXiv:2511.14584v4 Announce Type: replace Abstract: We present ReflexGrad, a dual-process architecture for within-episode failure recovery in LLM agents without demonstrations. When agents commit to a wrong approach early and exhaust the step budget, the post-failure trajectory contains the informat...
 
 📖 [Read original article](https://arxiv.org/abs/2511.14584)
 
@@ -3893,7 +3893,7 @@ arXiv:2601.15015v2 Announce Type: replace Abstract: Reinforcement learning (RL) 
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CV  
 
-arXiv:2601.19947v2 Announce Type: replace Abstract: Learning from Noisy Labels (LNL) remains a fundamental challenge in deep learning because real-world datasets often contain corrupted annotations. Most existing methods rely on label correction or sample selection mechanisms. In contrast, we study ...
+arXiv:2601.19947v3 Announce Type: replace Abstract: Learning from Noisy Labels (LNL) remains a fundamental challenge in deep learning because real-world datasets often contain corrupted annotations. Most existing methods rely on label correction or sample selection mechanisms. In contrast, we study ...
 
 📖 [Read original article](https://arxiv.org/abs/2601.19947)
 
@@ -4193,7 +4193,7 @@ arXiv:2602.18982v4 Announce Type: replace Abstract: Common deep learning approac
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2603.07860v2 Announce Type: replace Abstract: Pretrained diffusion models are effective priors for Bayesian inverse problems, but posterior sampling with these priors is often costly because data-consistency guidance is applied throughout the full reverse trajectory. Existing methods have show...
+arXiv:2603.07860v3 Announce Type: replace Abstract: Pretrained diffusion models are effective priors for Bayesian inverse problems, but posterior sampling with these priors is often costly because data-consistency guidance is applied throughout the full reverse trajectory. Existing methods have show...
 
 📖 [Read original article](https://arxiv.org/abs/2603.07860)
 
@@ -4381,11 +4381,11 @@ arXiv:2604.23061v2 Announce Type: replace Abstract: Large language models (LLMs)
 
 ## 365. Graph Memory Transformer (GMT)
 
-**Author:** Nicola Zanarini, Niccol\`o Ferrari  
+**Author:** Nicola Zanarini, Niccol\`o Ferrari, Evelina Lamma  
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2604.23862v2 Announce Type: replace Abstract: We investigate whether the Feed-Forward Network (FFN) sublayer in a decoder-only transformer can be replaced by an explicit learned memory graph while preserving the surrounding autoregressive architecture. The proposed Graph Memory Transformer (GM...
+arXiv:2604.23862v3 Announce Type: replace Abstract: We investigate whether the Feed-Forward Network (FFN) sublayer in a decoder-only transformer can be replaced by an explicit learned memory graph while preserving the surrounding autoregressive architecture. The proposed Graph Memory Transformer (GM...
 
 📖 [Read original article](https://arxiv.org/abs/2604.23862)
 
@@ -4685,7 +4685,7 @@ arXiv:2605.25252v2 Announce Type: replace Abstract: Reinforcement learning with 
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.26092v2 Announce Type: replace Abstract: The deployment of Large Language Models (LLMs) and Vision Transformers (ViTs) on edge devices is significantly constrained by memory limitations and the critical timing bottlenecks introduced by dense Multiply-Accumulate (MAC) arrays. In the ultra-...
+arXiv:2605.26092v3 Announce Type: replace Abstract: The deployment of Large Language Models (LLMs) and Vision Transformers (ViTs) on edge devices is significantly constrained by memory limitations and the critical timing bottlenecks introduced by dense Multiply-Accumulate (MAC) arrays. In the ultra-...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26092)
 
@@ -5129,7 +5129,7 @@ arXiv:2601.01496v2 Announce Type: replace-cross Abstract: In this paper, we sett
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG, physics.comp-ph  
 
-arXiv:2601.04765v4 Announce Type: replace-cross Abstract: We study how syntactic and semantic information is encoded in inner layer representations of Large Language Models (LLMs), focusing on the very large DeepSeek-V3. We find that, by averaging hidden-representation vectors of sentences sharing s...
+arXiv:2601.04765v5 Announce Type: replace-cross Abstract: We study how syntactic and semantic information is encoded in inner layer representations of Large Language Models (LLMs), focusing on the very large DeepSeek-V3. We find that, by averaging hidden-representation vectors of sentences sharing s...
 
 📖 [Read original article](https://arxiv.org/abs/2601.04765)
 
@@ -5381,7 +5381,7 @@ arXiv:2604.04074v3 Announce Type: replace-cross Abstract: LLM-based reviewing sy
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2604.18518v3 Announce Type: replace-cross Abstract: Uniform Discrete Diffusion Model (UDM) has recently emerged as a promising paradigm for discrete generative modeling; however, its integration with reinforcement learning remains largely unexplored. We observe that naively applying GRPO to UD...
+arXiv:2604.18518v4 Announce Type: replace-cross Abstract: Uniform Discrete Diffusion Model (UDM) has recently emerged as a promising paradigm for discrete generative modeling; however, its integration with reinforcement learning remains largely unexplored. We observe that naively applying GRPO to UD...
 
 📖 [Read original article](https://arxiv.org/abs/2604.18518)
 
@@ -5573,7 +5573,7 @@ arXiv:2605.25567v2 Announce Type: replace-cross Abstract: We study denoising sco
 **Published:** 5/28/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2605.26064v2 Announce Type: replace-cross Abstract: We present Paris 2.0, the first video generation model pre-trained through decentralized computation. Its training recipe builds upon Paris 1.0 (arXiv:2510.03434), the first ever open-weight Decentralized Diffusion Model (DDM), which showed t...
+arXiv:2605.26064v3 Announce Type: replace-cross Abstract: We present Paris 2.0, the first video generation model pre-trained through decentralized computation. Its training recipe builds upon Paris 1.0 (arXiv:2510.03434), the first ever open-weight Decentralized Diffusion Model (DDM), which showed t...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26064)
 
