@@ -2,239 +2,251 @@
 title: "Hacker News AI - 2026-05-30"
 date: "2026-05-30"
 source: "Hacker News AI"
-count: 19
+count: 20
 ---
 
 # Hacker News AI - 2026-05-30
 
-19 items collected.
+20 items collected.
 
 ---
 
-## 1. A $2k AI-generated film will make its debut at Tribeca
+## 1. AI demand absorbs wafer capacity, crushing budget PC segment
 
-**Author:** fuzzythinker  
-**Published:** 5/30/2026, 7:45:03 AM  
+**Author:** Ember_Wipe  
+**Published:** 5/30/2026, 1:29:14 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca Comments URL: https://news.ycombinator.com/item?id=48333728 Points: 2 # Comments: 0
+Article URL: https://www.trendforce.com/presscenter/news/20260529-13068.html Comments URL: https://news.ycombinator.com/item?id=48335958 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca)
+📖 [Read original article](https://www.trendforce.com/presscenter/news/20260529-13068.html)
 
 ---
 
-## 2. Company Blew $500M on Claude AI in One Month Due to No Usage Limit on Licenses
+## 2. AI and Taste
 
-**Author:** dotcoma  
-**Published:** 5/30/2026, 6:21:27 AM  
+**Author:** sanj  
+**Published:** 5/30/2026, 1:15:15 PM  
 **Categories:** -  
 
-Article URL: https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month Comments URL: https://news.ycombinator.com/item?id=48333209 Points: 2 # Comments: 1
+Article URL: https://twitter.com/joulee/status/2054275672563175834 Comments URL: https://news.ycombinator.com/item?id=48335815 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month)
+📖 [Read original article](https://twitter.com/joulee/status/2054275672563175834)
 
 ---
 
-## 3. Nvidia says it has largely conceded China's AI chip market to Huawei
+## 3. QEMU mulls relaxing AI contribution ban
 
-**Author:** KnuthIsGod  
-**Published:** 5/30/2026, 6:16:53 AM  
+**Author:** Bender  
+**Published:** 5/30/2026, 1:11:54 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html Comments URL: https://news.ycombinator.com/item?id=48333181 Points: 2 # Comments: 0
+Article URL: https://www.theregister.com/ai-ml/2026/05/29/qemu-mulls-relaxing-ai-contribution-ban/5248638 Comments URL: https://news.ycombinator.com/item?id=48335784 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html)
+📖 [Read original article](https://www.theregister.com/ai-ml/2026/05/29/qemu-mulls-relaxing-ai-contribution-ban/5248638)
 
 ---
 
-## 4. The 12 Futures of AI
+## 4. The AI Takeover Has Arrived
 
-**Author:** andsoitis  
-**Published:** 5/30/2026, 5:32:10 AM  
+**Author:** ambientenv  
+**Published:** 5/30/2026, 12:55:41 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@butsch_79/the-12-futures-of-ai-a42d67bd9a20 Comments URL: https://news.ycombinator.com/item?id=48332942 Points: 2 # Comments: 0
+Article URL: https://thehonestsorcerer.substack.com/p/the-ai-takeover-has-arrived Comments URL: https://news.ycombinator.com/item?id=48335654 Points: 2 # Comments: 0
 
-📖 [Read original article](https://medium.com/@butsch_79/the-12-futures-of-ai-a42d67bd9a20)
+📖 [Read original article](https://thehonestsorcerer.substack.com/p/the-ai-takeover-has-arrived)
 
 ---
 
-## 5. The Biggest Tell That Something Was Written by AI
+## 5. Rust Will Save Linux from AI
 
-**Author:** nlawalker  
-**Published:** 5/30/2026, 5:31:05 AM  
+**Author:** firesteelrain  
+**Published:** 5/30/2026, 12:49:37 PM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/ Comments URL: https://news.ycombinator.com/item?id=48332936 Points: 9 # Comments: 5
+Article URL: https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/ Comments URL: https://news.ycombinator.com/item?id=48335614 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/)
+📖 [Read original article](https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/)
 
 ---
 
-## 6. Meta plans AI pendant, 'wearables for work' in hardware boost
+## 6. Corporate America Is Starting to Ration AI as Cost Skyrockets
 
-**Author:** jeffufl  
-**Published:** 5/30/2026, 4:08:36 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 5/30/2026, 12:17:33 PM  
 **Categories:** -  
 
-Article URL: https://economictimes.indiatimes.com/tech/technology/meta-plans-ai-pendant-wearables-for-work-in-hardware-boost-report/articleshow/131402525.cms?from=mdr Comments URL: https://news.ycombinator.com/item?id=48332473 Points: 2 # Comments: 2
+Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a Comments URL: https://news.ycombinator.com/item?id=48335388 Points: 21 # Comments: 12
 
-📖 [Read original article](https://economictimes.indiatimes.com/tech/technology/meta-plans-ai-pendant-wearables-for-work-in-hardware-boost-report/articleshow/131402525.cms?from=mdr)
+📖 [Read original article](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
 
 ---
 
-## 7. US judiciary asked to adopt rule to curb fake AI-generated cases in filings
+## 7. More State Data Laws Signal Companies to Act on AI and Privacy
 
-**Author:** droidjj  
-**Published:** 5/30/2026, 4:02:15 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 5/30/2026, 12:09:20 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/government/us-judiciary-asked-adopt-rule-curb-fake-ai-generated-cases-filings-2026-05-29/ Comments URL: https://news.ycombinator.com/item?id=48332432 Points: 7 # Comments: 0
+Article URL: https://news.bloomberglaw.com/us-law-week/more-state-data-laws-signal-companies-to-act-on-ai-and-privacy Comments URL: https://news.ycombinator.com/item?id=48335329 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/government/us-judiciary-asked-adopt-rule-curb-fake-ai-generated-cases-filings-2026-05-29/)
+📖 [Read original article](https://news.bloomberglaw.com/us-law-week/more-state-data-laws-signal-companies-to-act-on-ai-and-privacy)
 
 ---
 
-## 8. DeepSWE blows up AI coding leaderboard, crowns GPT-5.5, + ClaudeOpus loophole
+## 8. Is AI putting graduates out of work already?
 
-**Author:** BriStoller  
-**Published:** 5/30/2026, 3:44:07 AM  
+**Author:** wyclif  
+**Published:** 5/30/2026, 12:06:01 PM  
 **Categories:** -  
 
-Article URL: https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole Comments URL: https://news.ycombinator.com/item?id=48332339 Points: 3 # Comments: 1
+Article URL: https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already Comments URL: https://news.ycombinator.com/item?id=48335312 Points: 2 # Comments: 0
 
-📖 [Read original article](https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole)
+📖 [Read original article](https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already)
 
 ---
 
-## 9. Imece – a decentralized AI compute cooperative
+## 9. Open-source spectre haunts the AI feast
 
-**Author:** jstdv  
-**Published:** 5/30/2026, 3:43:02 AM  
+**Author:** petethomas  
+**Published:** 5/30/2026, 12:03:24 PM  
 **Categories:** -  
 
-Article URL: https://github.com/jstdv/imece Comments URL: https://news.ycombinator.com/item?id=48332332 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/ Comments URL: https://news.ycombinator.com/item?id=48335290 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/jstdv/imece)
+📖 [Read original article](https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/)
 
 ---
 
-## 10. AI Isn't Replacing Curious Developers
+## 10. AI Researchers, Ask Yourself These 6 Questions to Strengthen Your Moral Muscles
 
-**Author:** eigenBasis  
-**Published:** 5/30/2026, 3:32:55 AM  
+**Author:** yurivish  
+**Published:** 5/30/2026, 12:00:53 PM  
 **Categories:** -  
 
-Article URL: https://dataengineeringcentral.substack.com/p/ai-isnt-replacing-developers Comments URL: https://news.ycombinator.com/item?id=48332282 Points: 1 # Comments: 0
+Article URL: https://www.lesswrong.com/posts/w4ynu8L57dJP29p5c/ai-researchers-ask-yourself-these-6-questions-to-strengthen Comments URL: https://news.ycombinator.com/item?id=48335268 Points: 1 # Comments: 1
 
-📖 [Read original article](https://dataengineeringcentral.substack.com/p/ai-isnt-replacing-developers)
+📖 [Read original article](https://www.lesswrong.com/posts/w4ynu8L57dJP29p5c/ai-researchers-ask-yourself-these-6-questions-to-strengthen)
 
 ---
 
-## 11. Uber and the Bitter Truth About Low AI ROI
+## 11. A Famous Math Problem Stumped Humans for 80 Years. AI Just Cracked It
 
-**Author:** thegrandidiot  
-**Published:** 5/30/2026, 3:26:58 AM  
+**Author:** ktr  
+**Published:** 5/30/2026, 11:50:23 AM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48332242 Points: 1 # Comments: 0
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48332242)
-
----
-
-## 12. A Famous Math Problem Stumped Humans for 80 Years. AI Just Cracked It
-
-**Author:** bryan0  
-**Published:** 5/30/2026, 3:05:04 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84 Comments URL: https://news.ycombinator.com/item?id=48332080 Points: 2 # Comments: 1
+Article URL: https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84 Comments URL: https://news.ycombinator.com/item?id=48335195 Points: 2 # Comments: 1
 
 📖 [Read original article](https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84)
 
 ---
 
-## 13. Lessons from Shipping Persistent Memory for AI Agents
+## 12. LLMShare: Attackers are turning AI chatbot pages into malware delivery platforms
 
-**Author:** jinqueeny  
-**Published:** 5/30/2026, 2:59:43 AM  
+**Author:** croes  
+**Published:** 5/30/2026, 11:21:46 AM  
 **Categories:** -  
 
-Article URL: https://www.pingcap.com/blog/how-we-built-mem9-agent-memory-product/ Comments URL: https://news.ycombinator.com/item?id=48332053 Points: 1 # Comments: 1
+Article URL: https://pushsecurity.com/blog/llmshare-malvertising-campaign Comments URL: https://news.ycombinator.com/item?id=48335047 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.pingcap.com/blog/how-we-built-mem9-agent-memory-product/)
+📖 [Read original article](https://pushsecurity.com/blog/llmshare-malvertising-campaign)
 
 ---
 
-## 14. SpaceX has almost finished writing v1.0 of an in-house AI training stack in C
+## 13. AI Billionaires Brace for Pitchforks
 
-**Author:** SilverElfin  
-**Published:** 5/30/2026, 2:50:31 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 5/30/2026, 11:01:05 AM  
 **Categories:** -  
 
-Article URL: https://xcancel.com/elonmusk/status/2059884150187053488 Comments URL: https://news.ycombinator.com/item?id=48332000 Points: 2 # Comments: 2
+Article URL: https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth Comments URL: https://news.ycombinator.com/item?id=48334902 Points: 7 # Comments: 0
 
-📖 [Read original article](https://xcancel.com/elonmusk/status/2059884150187053488)
+📖 [Read original article](https://www.axios.com/2026/05/29/ai-billionaires-tech-taxes-wealth)
 
 ---
 
-## 15. Avai – your first AI antivirus
+## 14. Generalist AI – building general intelligence for the physical world
 
-**Author:** iklobato1  
-**Published:** 5/30/2026, 2:11:14 AM  
+**Author:** age123456gpg  
+**Published:** 5/30/2026, 10:12:21 AM  
 **Categories:** -  
 
-Article URL: https://github.com/iklobato/avai Comments URL: https://news.ycombinator.com/item?id=48331726 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/channel/UCwV9z8IGmbUQUb5D8KSv3mQ Comments URL: https://news.ycombinator.com/item?id=48334607 Points: 2 # Comments: 2
 
-📖 [Read original article](https://github.com/iklobato/avai)
+📖 [Read original article](https://www.youtube.com/channel/UCwV9z8IGmbUQUb5D8KSv3mQ)
 
 ---
 
-## 16. Aedis – An open-source macroeconomic framework for the AI transition Body
+## 15. Slow Journal app, with AI integration
 
-**Author:** Randal1964  
-**Published:** 5/30/2026, 1:39:46 AM  
+**Author:** djampodev  
+**Published:** 5/30/2026, 9:41:07 AM  
 **Categories:** -  
 
-Article URL: https://github.com/rand55/project-aedis-framework/tree/main Comments URL: https://news.ycombinator.com/item?id=48331506 Points: 1 # Comments: 0
+Article URL: https://nemejournal.app/ Comments URL: https://news.ycombinator.com/item?id=48334405 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/rand55/project-aedis-framework/tree/main)
+📖 [Read original article](https://nemejournal.app/)
 
 ---
 
-## 17. What a 98-Year Old Children's Book Teaches Us About AI
+## 16. AI coding agents ships at the cost of intuition and taste
 
-**Author:** caycep  
-**Published:** 5/30/2026, 1:05:38 AM  
+**Author:** shivekkhurana  
+**Published:** 5/30/2026, 9:33:05 AM  
 **Categories:** -  
 
-Article URL: https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/ Comments URL: https://news.ycombinator.com/item?id=48331320 Points: 5 # Comments: 1
+Article URL: https://shivekkhurana.com/blog/coding-agent-dopamine/ Comments URL: https://news.ycombinator.com/item?id=48334363 Points: 2 # Comments: 0
 
-📖 [Read original article](https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/)
+📖 [Read original article](https://shivekkhurana.com/blog/coding-agent-dopamine/)
 
 ---
 
-## 18. Tokens or Humans? The New AI Cost Trade-Off Reshaping Corporate Budgets [video]
+## 17. Three flavors of coding with AI agents
 
-**Author:** mgh2  
-**Published:** 5/30/2026, 12:24:04 AM  
+**Author:** seinecle  
+**Published:** 5/30/2026, 9:27:02 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=niBP4qhNSWw Comments URL: https://news.ycombinator.com/item?id=48331066 Points: 2 # Comments: 0
+Article URL: https://nocodefunctions.com/blog/three-flavors-agentic-coding/ Comments URL: https://news.ycombinator.com/item?id=48334332 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=niBP4qhNSWw)
+📖 [Read original article](https://nocodefunctions.com/blog/three-flavors-agentic-coding/)
 
 ---
 
-## 19. Software Architecture After AI
+## 18. Show HN: AI-org – org-mode powered by AI
 
-**Author:** bguthrie  
-**Published:** 5/30/2026, 12:03:50 AM  
+**Author:** mannders  
+**Published:** 5/30/2026, 8:59:47 AM  
 **Categories:** -  
 
-Article URL: https://brianguthrie.com/p/software-architecture-after-ai/ Comments URL: https://news.ycombinator.com/item?id=48330939 Points: 2 # Comments: 0
+Hey guys. I made an attempt at using AI agents to help organize your tasks and life.I liked orgmode before AI. But just wondered how it could look with AI.So I created ai-org, a non-taken name it seems.It's an opencode fork with a custom org agenda task view. (and a simple file browser). (wouldn't b...
 
-📖 [Read original article](https://brianguthrie.com/p/software-architecture-after-ai/)
+📖 [Read original article](https://ai-org.net/)
+
+---
+
+## 19. A $2k AI-generated film will make its debut at Tribeca
+
+**Author:** fuzzythinker  
+**Published:** 5/30/2026, 7:45:03 AM  
+**Categories:** -  
+
+Article URL: https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca Comments URL: https://news.ycombinator.com/item?id=48333728 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca)
+
+---
+
+## 20. Company Blew $500M on Claude AI in One Month Due to No Usage Limit on Licenses
+
+**Author:** dotcoma  
+**Published:** 5/30/2026, 6:21:27 AM  
+**Categories:** -  
+
+Article URL: https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month Comments URL: https://news.ycombinator.com/item?id=48333209 Points: 4 # Comments: 1
+
+📖 [Read original article](https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month)
 
 ---
