@@ -2,12 +2,12 @@
 title: "qbitai - 2026-05-29"
 date: "2026-05-29"
 source: "qbitai"
-count: 7
+count: 6
 ---
 
 # qbitai - 2026-05-29
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ count: 7
 下一波AI创作浪潮正在游戏领域发生
 
 📖 [Read original article](https://www.qbitai.com/2026/05/426447.html)
-
----
-
-## 7. 创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora
-
-**Author:** 闻乐  
-**Published:** 5/29/2026, 8:32:52 AM  
-**Categories:** 资讯, AI创意工具, 腾讯  
-
-一个人拥有整个创意工作室
-
-📖 [Read original article](https://www.qbitai.com/2026/05/426400.html)
 
 ---
