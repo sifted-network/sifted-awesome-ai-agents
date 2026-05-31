@@ -2,251 +2,179 @@
 title: "Hacker News AI - 2026-05-30"
 date: "2026-05-30"
 source: "Hacker News AI"
-count: 20
+count: 14
 ---
 
 # Hacker News AI - 2026-05-30
 
-20 items collected.
+14 items collected.
 
 ---
 
-## 1. Meta is reportedly developing an AI pendant
+## 1. Dell, Snowflake, and Ford show how the AI boom is spreading: Alpha Check
 
-**Author:** rishikeshs  
-**Published:** 5/30/2026, 7:05:29 PM  
+**Author:** wslh  
+**Published:** 5/30/2026, 11:55:58 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/ Comments URL: https://news.ycombinator.com/item?id=48339605 Points: 1 # Comments: 0
+Article URL: https://finance.yahoo.com/markets/article/dell-snowflake-and-ford-show-how-the-ai-boom-is-spreading-alpha-check-210740675.html Comments URL: https://news.ycombinator.com/item?id=48341748 Points: 3 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/)
+📖 [Read original article](https://finance.yahoo.com/markets/article/dell-snowflake-and-ford-show-how-the-ai-boom-is-spreading-alpha-check-210740675.html)
 
 ---
 
-## 2. Compare AI Model Pricing Across 9 Providers (385 Models)
+## 2. Keep AI Weird
 
-**Author:** aqib-public  
-**Published:** 5/30/2026, 7:03:48 PM  
+**Author:** sanj  
+**Published:** 5/30/2026, 11:45:33 PM  
 **Categories:** -  
 
-Article URL: https://silkdock.ai/rankings Comments URL: https://news.ycombinator.com/item?id=48339588 Points: 3 # Comments: 1
+Article URL: https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die Comments URL: https://news.ycombinator.com/item?id=48341697 Points: 2 # Comments: 0
 
-📖 [Read original article](https://silkdock.ai/rankings)
-
----
-
-## 3. SoftBank pledges €75B to build Europe's biggest AI facility in France
-
-**Author:** bazzmt  
-**Published:** 5/30/2026, 6:58:57 PM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463 Comments URL: https://news.ycombinator.com/item?id=48339542 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463)
+📖 [Read original article](https://www.economist.com/by-invitation/2026/04/01/the-it-department-where-ai-goes-to-die)
 
 ---
 
-## 4. Dell's AI Server Revenue Surged 757%
-
-**Author:** jeffufl  
-**Published:** 5/30/2026, 5:59:42 PM  
-**Categories:** -  
-
-Article URL: https://jefftech.substack.com/p/dells-ai-server-revenue-surged-757what Comments URL: https://news.ycombinator.com/item?id=48338985 Points: 1 # Comments: 1
-
-📖 [Read original article](https://jefftech.substack.com/p/dells-ai-server-revenue-surged-757what)
-
----
-
-## 5. AI Found 3,900 Critical Open Source Bugs. IBM Is Paying $5B to Fix Them
-
-**Author:** hochmartinez  
-**Published:** 5/30/2026, 5:50:42 PM  
-**Categories:** -  
-
-Article URL: https://linuxstans.com/ai-found-3900-critical-open-source-bugs-ibm-is-paying-5-billion-to-fix-them/ Comments URL: https://news.ycombinator.com/item?id=48338895 Points: 4 # Comments: 0
-
-📖 [Read original article](https://linuxstans.com/ai-found-3900-critical-open-source-bugs-ibm-is-paying-5-billion-to-fix-them/)
-
----
-
-## 6. Kelsey Hightower on Practical and Responsible Use Cases for Agentic AI [video]
-
-**Author:** mooreds  
-**Published:** 5/30/2026, 5:49:34 PM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=KXRrIVrICpY Comments URL: https://news.ycombinator.com/item?id=48338885 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=KXRrIVrICpY)
-
----
-
-## 7. Open source project contains hidden instruction for \"AI\" agents: delete my code
-
-**Author:** flaburgan  
-**Published:** 5/30/2026, 5:42:05 PM  
-**Categories:** -  
-
-Article URL: https://www.osnews.com/story/145130/open-source-project-contains-hidden-instruction-for-ai-agents-delete-my-code/ Comments URL: https://news.ycombinator.com/item?id=48338810 Points: 8 # Comments: 1
-
-📖 [Read original article](https://www.osnews.com/story/145130/open-source-project-contains-hidden-instruction-for-ai-agents-delete-my-code/)
-
----
-
-## 8. Finpilotai – AI-Powered Accounting and Bookkeeping Software
-
-**Author:** iconmarketing  
-**Published:** 5/30/2026, 5:39:05 PM  
-**Categories:** -  
-
-Article URL: https://finpilotai.net Comments URL: https://news.ycombinator.com/item?id=48338776 Points: 1 # Comments: 0
-
-📖 [Read original article](https://finpilotai.net)
-
----
-
-## 9. The Biggest Tell That Something Was Written by AI
-
-**Author:** helloplanets  
-**Published:** 5/30/2026, 5:11:47 PM  
-**Categories:** -  
-
-Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/ Comments URL: https://news.ycombinator.com/item?id=48338514 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/)
-
----
-
-## 10. AI Didn't Create These Problems. It Just Stopped Routing Around Them
-
-**Author:** mooreds  
-**Published:** 5/30/2026, 5:05:53 PM  
-**Categories:** -  
-
-Article URL: https://baweaver.com/writing/2026/05/27/ai-didnt-create-these-problems/ Comments URL: https://news.ycombinator.com/item?id=48338451 Points: 3 # Comments: 0
-
-📖 [Read original article](https://baweaver.com/writing/2026/05/27/ai-didnt-create-these-problems/)
-
----
-
-## 11. My thoughts on the future of Go in the AI era
-
-**Author:** der_gopher  
-**Published:** 5/30/2026, 4:50:00 PM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=TjlRD_VE12Y Comments URL: https://news.ycombinator.com/item?id=48338259 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=TjlRD_VE12Y)
-
----
-
-## 12. Show HN: MigraDiff v1.3.0 – PostgreSQL schema diff with AI migration explanation
-
-**Author:** lateos-ai  
-**Published:** 5/30/2026, 4:34:22 PM  
-**Categories:** -  
-
-Article URL: https://github.com/migradiff/migra/releases/tag/v1.3.0 Comments URL: https://news.ycombinator.com/item?id=48338061 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/migradiff/migra/releases/tag/v1.3.0)
-
----
-
-## 13. I Want to Use AI
-
-**Author:** taubek  
-**Published:** 5/30/2026, 4:26:51 PM  
-**Categories:** -  
-
-Article URL: https://blog.senko.net/how-i-want-to-use-ai Comments URL: https://news.ycombinator.com/item?id=48337962 Points: 4 # Comments: 0
-
-📖 [Read original article](https://blog.senko.net/how-i-want-to-use-ai)
-
----
-
-## 14. Company Blew $500M on Claude AI in One Month
-
-**Author:** jonathanlydall  
-**Published:** 5/30/2026, 4:17:11 PM  
-**Categories:** -  
-
-Article URL: https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month Comments URL: https://news.ycombinator.com/item?id=48337859 Points: 6 # Comments: 3
-
-📖 [Read original article](https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month)
-
----
-
-## 15. NBER: Data Centers and Local Economies in the Age of AI
-
-**Author:** m-hodges  
-**Published:** 5/30/2026, 4:13:12 PM  
-**Categories:** -  
-
-Article URL: https://www.nber.org/papers/w35194 Comments URL: https://news.ycombinator.com/item?id=48337809 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.nber.org/papers/w35194)
-
----
-
-## 16. Grokimage.ai
-
-**Author:** RustyArmor  
-**Published:** 5/30/2026, 4:11:14 PM  
-**Categories:** -  
-
-Article URL: https://grokimage.ai/ Comments URL: https://news.ycombinator.com/item?id=48337782 Points: 1 # Comments: 0
-
-📖 [Read original article](https://grokimage.ai/)
-
----
-
-## 17. OpenAI IPO: preserve your AI engineering innovations!
-
-**Author:** ArneBab  
-**Published:** 5/30/2026, 4:04:51 PM  
-**Categories:** -  
-
-Article URL: https://www.draketo.de/software/innovations-survival Comments URL: https://news.ycombinator.com/item?id=48337692 Points: 1 # Comments: 1
-
-📖 [Read original article](https://www.draketo.de/software/innovations-survival)
-
----
-
-## 18. To have a moral stance on AI is to be an outcast, and it sucks
-
-**Author:** mooreds  
-**Published:** 5/30/2026, 4:04:00 PM  
-**Categories:** -  
-
-Article URL: https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks Comments URL: https://news.ycombinator.com/item?id=48337676 Points: 106 # Comments: 226
-
-📖 [Read original article](https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks)
-
----
-
-## 19. Anthropic to introduce AI Fluency scorecard in Claude
+## 3. AI Hardware
 
 **Author:** gmays  
-**Published:** 5/30/2026, 3:49:43 PM  
+**Published:** 5/30/2026, 11:18:28 PM  
 **Categories:** -  
 
-Article URL: https://www.testingcatalog.com/anthropic-to-introduce-personal-ai-fluency-scorecard-in-claude/ Comments URL: https://news.ycombinator.com/item?id=48337514 Points: 1 # Comments: 0
+Article URL: https://www.categoryvc.com/writing/where-the-ai-hardware-market-is Comments URL: https://news.ycombinator.com/item?id=48341537 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.testingcatalog.com/anthropic-to-introduce-personal-ai-fluency-scorecard-in-claude/)
+📖 [Read original article](https://www.categoryvc.com/writing/where-the-ai-hardware-market-is)
 
 ---
 
-## 20. Company spent $500M on Claude AI in one month after forgetting usage limits
+## 4. Show HN: HermesBench – workflow reliability evals for personal AI agents
 
-**Author:** cratermoon  
-**Published:** 5/30/2026, 3:34:04 PM  
+**Author:** verkyyi26  
+**Published:** 5/30/2026, 11:03:40 PM  
 **Categories:** -  
 
-Article URL: https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/ Comments URL: https://news.ycombinator.com/item?id=48337328 Points: 2 # Comments: 0
+Article URL: https://verkyyi.github.io/hermesbench/ Comments URL: https://news.ycombinator.com/item?id=48341436 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/)
+📖 [Read original article](https://verkyyi.github.io/hermesbench/)
+
+---
+
+## 5. Ask HN: Students, What Impact Is AI Having on Your Education?
+
+**Author:** ciwolex  
+**Published:** 5/30/2026, 10:37:24 PM  
+**Categories:** -  
+
+Comments URL: https://news.ycombinator.com/item?id=48341278 Points: 3 # Comments: 0
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48341278)
+
+---
+
+## 6. Starbucks Abandons Borked AI Inventory Tool That Couldn't Count
+
+**Author:** pier25  
+**Published:** 5/30/2026, 10:27:52 PM  
+**Categories:** -  
+
+Article URL: https://gizmodo.com/starbucks-abandons-borked-ai-inventory-tool-that-couldnt-count-report-2000762252 Comments URL: https://news.ycombinator.com/item?id=48341210 Points: 23 # Comments: 7
+
+📖 [Read original article](https://gizmodo.com/starbucks-abandons-borked-ai-inventory-tool-that-couldnt-count-report-2000762252)
+
+---
+
+## 7. Show HN: AI command review drill for engineers and vibe coders
+
+**Author:** shaad1337  
+**Published:** 5/30/2026, 9:56:47 PM  
+**Categories:** -  
+
+Article URL: https://www.proreview.dev/ Comments URL: https://news.ycombinator.com/item?id=48340994 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.proreview.dev/)
+
+---
+
+## 8. AI Can't Care
+
+**Author:** mooreds  
+**Published:** 5/30/2026, 9:09:50 PM  
+**Categories:** -  
+
+Article URL: https://www.mooreds.com/wordpress/archives/3737 Comments URL: https://news.ycombinator.com/item?id=48340652 Points: 3 # Comments: 3
+
+📖 [Read original article](https://www.mooreds.com/wordpress/archives/3737)
+
+---
+
+## 9. AI Model Links Tumor Mutations to Treatment Response
+
+**Author:** gmays  
+**Published:** 5/30/2026, 8:47:40 PM  
+**Categories:** -  
+
+Article URL: https://today.ucsd.edu/story/ai-model-links-tumor-mutations-to-treatment-response Comments URL: https://news.ycombinator.com/item?id=48340457 Points: 3 # Comments: 1
+
+📖 [Read original article](https://today.ucsd.edu/story/ai-model-links-tumor-mutations-to-treatment-response)
+
+---
+
+## 10. Mystery company accidentally blew $500M on Claude AI in a single month
+
+**Author:** timpera  
+**Published:** 5/30/2026, 8:36:21 PM  
+**Categories:** -  
+
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees Comments URL: https://news.ycombinator.com/item?id=48340367 Points: 18 # Comments: 4
+
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees)
+
+---
+
+## 11. Google's AI Is Confused About Fish and the Days of the Week
+
+**Author:** _____k  
+**Published:** 5/30/2026, 8:30:05 PM  
+**Categories:** -  
+
+Article URL: https://opus.ing/p/google-ai-really-confused-about-fish-days-week Comments URL: https://news.ycombinator.com/item?id=48340306 Points: 3 # Comments: 2
+
+📖 [Read original article](https://opus.ing/p/google-ai-really-confused-about-fish-days-week)
+
+---
+
+## 12. Testing products on AI-generated buyers
+
+**Author:** paulpauper  
+**Published:** 5/30/2026, 8:29:14 PM  
+**Categories:** -  
+
+Article URL: https://www.bain.com/insights/synthetic-customers-earn-their-stripes/ Comments URL: https://news.ycombinator.com/item?id=48340300 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.bain.com/insights/synthetic-customers-earn-their-stripes/)
+
+---
+
+## 13. 1M Ancient Greek fragments soon to be translated with the help of AI
+
+**Author:** janandonly  
+**Published:** 5/30/2026, 8:14:14 PM  
+**Categories:** -  
+
+Article URL: https://www.oeaw.ac.at/en/news/austrian-academy-of-sciences-is-developing-the-ancient-greek-ai-apollo-with-mistral-ai-and-reply Comments URL: https://news.ycombinator.com/item?id=48340189 Points: 14 # Comments: 2
+
+📖 [Read original article](https://www.oeaw.ac.at/en/news/austrian-academy-of-sciences-is-developing-the-ancient-greek-ai-apollo-with-mistral-ai-and-reply)
+
+---
+
+## 14. Sycophantic AI decreases prosocial intentions and promotes dependence
+
+**Author:** jg0r3  
+**Published:** 5/30/2026, 8:10:40 PM  
+**Categories:** -  
+
+Article URL: https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=48340149 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.science.org/doi/10.1126/science.aec8352)
 
 ---
