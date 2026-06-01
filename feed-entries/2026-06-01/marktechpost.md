@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-01"
 date: "2026-06-01"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-06-01
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Meet Memory OS: A 6-Layer Open-Source Memory Stack Built on Top of Hermes Agent
+## 1. MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality, and Agentic Coding
+
+**Author:** Asif Razzaq  
+**Published:** 6/1/2026, 8:40:05 PM  
+**Categories:** Agentic AI, AI Agents, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Software Engineering, Staff, Tech News, Technology  
+
+MiniMax M3 introduces MiniMax Sparse Attention, a 1M-token context window, and native image, video, and computer use support. The post MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality, and Agentic Coding appeared first on MarkTechPost.
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/01/minimax-releases-minimax-m3-with-msa-architecture-supporting-1m-token-context-native-multimodality-and-agentic-coding/)
+
+---
+
+## 2. Meet Memory OS: A 6-Layer Open-Source Memory Stack Built on Top of Hermes Agent
 
 **Author:** Michal Sutter  
 **Published:** 6/1/2026, 4:53:07 PM  
@@ -23,7 +35,7 @@ The open-source project adds local persistent memory to Hermes Agent through six
 
 ---
 
-## 2. Parallax: A Parameterized Local Linear Attention That Keeps Softmax and Adds a Learned Covariance Correction Branch
+## 3. Parallax: A Parameterized Local Linear Attention That Keeps Softmax and Adds a Learned Covariance Correction Branch
 
 **Author:** Asif Razzaq  
 **Published:** 6/1/2026, 4:36:49 AM  
