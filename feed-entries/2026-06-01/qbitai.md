@@ -2,16 +2,28 @@
 title: "qbitai - 2026-06-01"
 date: "2026-06-01"
 source: "qbitai"
-count: 6
+count: 7
 ---
 
 # qbitai - 2026-06-01
 
-6 items collected.
+7 items collected.
 
 ---
 
-## 1. 近2亿美元！VAST完成新一轮融资，正式披露世界模型路线
+## 1. 清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖
+
+**Author:** 量子位的朋友们  
+**Published:** 6/1/2026, 10:34:31 AM  
+**Categories:** 资讯, 清智资本  
+
+已经投资了数个世界领先的AI科技公司
+
+📖 [Read original article](https://www.qbitai.com/2026/06/427530.html)
+
+---
+
+## 2. 近2亿美元！VAST完成新一轮融资，正式披露世界模型路线
 
 **Author:** 听雨  
 **Published:** 6/1/2026, 9:46:32 AM  
@@ -23,7 +35,7 @@ count: 6
 
 ---
 
-## 2. 德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店
+## 3. 德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店
 
 **Author:** 智能车参考  
 **Published:** 6/1/2026, 8:10:20 AM  
@@ -35,7 +47,7 @@ count: 6
 
 ---
 
-## 3. 今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手
+## 4. 今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手
 
 **Author:** 十三  
 **Published:** 6/1/2026, 7:57:16 AM  
@@ -47,7 +59,7 @@ count: 6
 
 ---
 
-## 4. OpenAI重返机器人赛道！四大核心岗位开招
+## 5. OpenAI重返机器人赛道！四大核心岗位开招
 
 **Author:** 闻乐  
 **Published:** 6/1/2026, 6:11:12 AM  
@@ -59,7 +71,7 @@ count: 6
 
 ---
 
-## 5. Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026
+## 6. Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026
 
 **Author:** 梦晨  
 **Published:** 6/1/2026, 5:32:24 AM  
@@ -71,7 +83,7 @@ Demo从来都不难做，难的是让它在企业生产环境里真正跑起来
 
 ---
 
-## 6. 材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破
+## 7. 材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破
 
 **Author:** 思邈  
 **Published:** 6/1/2026, 5:25:27 AM  
