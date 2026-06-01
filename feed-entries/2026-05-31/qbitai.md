@@ -2,12 +2,12 @@
 title: "qbitai - 2026-05-31"
 date: "2026-05-31"
 source: "qbitai"
-count: 4
+count: 3
 ---
 
 # qbitai - 2026-05-31
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ count: 4
 我们需要一台「印刷机」
 
 📖 [Read original article](https://www.qbitai.com/2026/05/426991.html)
-
----
-
-## 4. 机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品
-
-**Author:** 思邈  
-**Published:** 5/31/2026, 10:13:21 AM  
-**Categories:** 资讯, 世界动作模型, 复旦, 时空一体  
-
-半年斩获5轮融资
-
-📖 [Read original article](https://www.qbitai.com/2026/05/426984.html)
 
 ---
