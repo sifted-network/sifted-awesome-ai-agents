@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-05-29"
 date: "2026-05-29"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-05-29
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ NVIDIA's X-Token fixes two structural failures in GOLD and improves GSM8k accura
 StepFun releases Step 3.7 Flash, a 198B MoE model with native vision, 256k context, and Advisor Mode. The post StepFun Releases Step 3.7 Flash: A 198B MoE Vision-Language Model for Coding Agents and Search Workflows appeared first on MarkTechPost.
 
 📖 [Read original article](https://www.marktechpost.com/2026/05/29/stepfun-releases-step-3-7-flash-a-198b-moe-vision-language-model-for-coding-agents-and-search-workflows/)
-
----
-
-## 3. Meet mKernel: A Multi-GPU, Multi-Node Fused Kernel Library for GPU-Driven Communication
-
-**Author:** Asif Razzaq  
-**Published:** 5/29/2026, 8:43:32 AM  
-**Categories:** AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Machine Learning, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
-
-UC Berkeley's UCCL team releases mKernel, fusing intra-node NVLink, inter-node RDMA, and dense compute into a single persistent CUDA kernel. The post Meet mKernel: A Multi-GPU, Multi-Node Fused Kernel Library for GPU-Driven Communication appeared first on MarkTechPost.
-
-📖 [Read original article](https://www.marktechpost.com/2026/05/29/meet-mkernel-a-multi-gpu-multi-node-fused-kernel-library-for-gpu-driven-communication/)
 
 ---
