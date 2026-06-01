@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI was supposed to prevent downtime. Instead, it's creating new kinds of outages
+## 1. Amazon Shuts Down Internal AI Leaderboard After Employees Cheated
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/1/2026, 11:28:10 AM  
+**Author:** cdrnsf  
+**Published:** 6/1/2026, 5:31:57 PM  
 **Categories:** -  
 
-Article URL: https://www.fastcompany.com/91549985/ai-outages-splunk-report Comments URL: https://news.ycombinator.com/item?id=48355419 Points: 2 # Comments: 0
+Article URL: https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/ Comments URL: https://news.ycombinator.com/item?id=48359989 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.fastcompany.com/91549985/ai-outages-splunk-report)
+📖 [Read original article](https://www.404media.co/amazon-shuts-down-internal-ai-leaderboard-after-employees-cheated/)
 
 ---
 
-## 2. AI debt sales reshape global corporate bond markets
+## 2. Hackers Asked Meta AI to Give Them Access to Instagram Accounts. It Worked
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/1/2026, 11:25:21 AM  
+**Author:** pulisse  
+**Published:** 6/1/2026, 5:31:15 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/finance/ai-debt-sales-reshape-global-corporate-bond-markets-2026-06-01/ Comments URL: https://news.ycombinator.com/item?id=48355399 Points: 2 # Comments: 0
+Article URL: https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/ Comments URL: https://news.ycombinator.com/item?id=48359982 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/business/finance/ai-debt-sales-reshape-global-corporate-bond-markets-2026-06-01/)
+📖 [Read original article](https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/)
 
 ---
 
-## 3. Show HN: Vmette – hardware-isolated microVM sandbox for local AI agents (macOS)
+## 3. Upai.lat – Global AI-powered platform for startups and businesses
 
-**Author:** swiftugandan  
-**Published:** 6/1/2026, 11:09:32 AM  
+**Author:** deivst97  
+**Published:** 6/1/2026, 5:24:08 PM  
 **Categories:** -  
 
-Article URL: https://github.com/chamuka-inc/vmette Comments URL: https://news.ycombinator.com/item?id=48355282 Points: 1 # Comments: 0
+Article URL: https://upai.lat/ Comments URL: https://news.ycombinator.com/item?id=48359880 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/chamuka-inc/vmette)
+📖 [Read original article](https://upai.lat/)
 
 ---
 
-## 4. Show HN: An interactive fiction game about PR reviews, AI agents, team dynamics
+## 4. Nvidia unveils new superchip to bring AI functions into personal computers
 
-**Author:** mvellandi  
-**Published:** 6/1/2026, 11:02:56 AM  
+**Author:** nicfab  
+**Published:** 6/1/2026, 5:18:32 PM  
 **Categories:** -  
 
-Article URL: https://themerge.vellandi.net/ Comments URL: https://news.ycombinator.com/item?id=48355216 Points: 2 # Comments: 1
+Article URL: https://www.cbc.ca/news/business/nvidia-ai-personal-computer-9.7218820 Comments URL: https://news.ycombinator.com/item?id=48359788 Points: 1 # Comments: 0
 
-📖 [Read original article](https://themerge.vellandi.net/)
+📖 [Read original article](https://www.cbc.ca/news/business/nvidia-ai-personal-computer-9.7218820)
 
 ---
 
-## 5. AI Agent Discovery via DNS
+## 5. The AI Skepticism Map
 
-**Author:** oogali  
-**Published:** 6/1/2026, 10:56:34 AM  
+**Author:** swolpers  
+**Published:** 6/1/2026, 5:17:07 PM  
 **Categories:** -  
 
-Article URL: https://dns-aid.org/ Comments URL: https://news.ycombinator.com/item?id=48355160 Points: 1 # Comments: 0
+Article URL: https://tomtunguz.com/ai-shorts/ Comments URL: https://news.ycombinator.com/item?id=48359761 Points: 3 # Comments: 0
 
-📖 [Read original article](https://dns-aid.org/)
+📖 [Read original article](https://tomtunguz.com/ai-shorts/)
 
 ---
 
-## 6. When Background AI Agents Become a Security Boundary Problem
+## 6. AI code automation meets sabotage and strict governance
 
-**Author:** lucasluitjes  
-**Published:** 6/1/2026, 10:35:40 AM  
+**Author:** SVI  
+**Published:** 6/1/2026, 5:06:44 PM  
 **Categories:** -  
 
-Article URL: https://www.originhq.com/research/background-c2-agent Comments URL: https://news.ycombinator.com/item?id=48354985 Points: 1 # Comments: 0
+Article URL: https://www.developer-tech.com/news/ai-code-automation-meets-sabotage-strict-governance/ Comments URL: https://news.ycombinator.com/item?id=48359599 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.originhq.com/research/background-c2-agent)
+📖 [Read original article](https://www.developer-tech.com/news/ai-code-automation-meets-sabotage-strict-governance/)
 
 ---
 
-## 7. Nvidia announces new AI chip for personal computers
+## 7. Productivity Effects Across Generations of AI Coding Tools
 
-**Author:** rishikeshs  
-**Published:** 6/1/2026, 10:33:25 AM  
+**Author:** mooreds  
+**Published:** 6/1/2026, 5:02:55 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/crmp9mppvzro Comments URL: https://news.ycombinator.com/item?id=48354967 Points: 2 # Comments: 1
+Article URL: https://www.nber.org/papers/w35275 Comments URL: https://news.ycombinator.com/item?id=48359537 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/crmp9mppvzro)
+📖 [Read original article](https://www.nber.org/papers/w35275)
 
 ---
 
-## 8. Netflix Wiz creates app to slash AI bills, then open sources it
+## 8. Responsible Disclosure in the Age of AI: A Call for Urgent Action [pdf]
 
-**Author:** pseudolus  
-**Published:** 6/1/2026, 9:51:49 AM  
+**Author:** speckx  
+**Published:** 6/1/2026, 4:58:41 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702 Comments URL: https://news.ycombinator.com/item?id=48354695 Points: 6 # Comments: 0
+Article URL: https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss2/CDR_V11_N2_Hathaway.pdf Comments URL: https://news.ycombinator.com/item?id=48359474 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702)
+📖 [Read original article](https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss2/CDR_V11_N2_Hathaway.pdf)
 
 ---
 
-## 9. Are API keys too much friction for AI tools in teams?
+## 9. Elon x Dwarkesh / Collison: A 20-min breakdown of Musk's biggest claims about AI [video]
 
-**Author:** Intrascopeapp  
-**Published:** 6/1/2026, 9:50:08 AM  
+**Author:** betterhealth12  
+**Published:** 6/1/2026, 4:56:22 PM  
 **Categories:** -  
 
-Article URL: https://intrascope.app/ Comments URL: https://news.ycombinator.com/item?id=48354682 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=Pv-ppe-g_RE Comments URL: https://news.ycombinator.com/item?id=48359438 Points: 1 # Comments: 1
 
-📖 [Read original article](https://intrascope.app/)
+📖 [Read original article](https://www.youtube.com/watch?v=Pv-ppe-g_RE)
 
 ---
 
-## 10. Proveyouragent: Cryptographic identity for AI agents (Ed25519 and DPoP)
+## 10. AI Dark Output: The Visible Cost of Invisible Output
 
-**Author:** lujainkhalil  
-**Published:** 6/1/2026, 9:33:55 AM  
+**Author:** kjhughes  
+**Published:** 6/1/2026, 4:53:55 PM  
 **Categories:** -  
 
-Article URL: https://github.com/lujainkhalil/proveyouragent Comments URL: https://news.ycombinator.com/item?id=48354556 Points: 1 # Comments: 0
+Article URL: https://newsletter.semianalysis.com/p/ai-dark-output-the-visible-cost-of Comments URL: https://news.ycombinator.com/item?id=48359407 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/lujainkhalil/proveyouragent)
+📖 [Read original article](https://newsletter.semianalysis.com/p/ai-dark-output-the-visible-cost-of)
 
 ---
 
-## 11. AI fiction is the new fast food
+## 11. What Four Hours of Focused Human-AI Engineering Ships
 
-**Author:** KnuthIsGod  
-**Published:** 6/1/2026, 9:20:08 AM  
+**Author:** nickstinemates  
+**Published:** 6/1/2026, 4:43:31 PM  
 **Categories:** -  
 
-Article URL: https://www.washingtonpost.com/opinions/2026/05/31/ai-fiction-is-fast-food-human-mind/ Comments URL: https://news.ycombinator.com/item?id=48354447 Points: 3 # Comments: 2
+Article URL: https://canonical.agency/essays/what-four-hours-of-human-ai-engineering-actually-ships Comments URL: https://news.ycombinator.com/item?id=48359256 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.washingtonpost.com/opinions/2026/05/31/ai-fiction-is-fast-food-human-mind/)
+📖 [Read original article](https://canonical.agency/essays/what-four-hours-of-human-ai-engineering-actually-ships)
 
 ---
 
-## 12. Meta Fixes Instagram AI Flaw Used in Account Takeovers
+## 12. AI Agent Guidelines for CS336 at Stanford
 
-**Author:** mmsc  
-**Published:** 6/1/2026, 9:13:46 AM  
+**Author:** prakashqwerty  
+**Published:** 6/1/2026, 4:41:49 PM  
 **Categories:** -  
 
-Article URL: https://sqmagazine.co.uk/meta-fixes-instagram-ai-flaw-account-takeovers/ Comments URL: https://news.ycombinator.com/item?id=48354400 Points: 1 # Comments: 0
+Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 47 # Comments: 22
 
-📖 [Read original article](https://sqmagazine.co.uk/meta-fixes-instagram-ai-flaw-account-takeovers/)
+📖 [Read original article](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
 
 ---
 
-## 13. An AI native hedge fund
+## 13. DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms
 
-**Author:** satoshiclad  
-**Published:** 6/1/2026, 9:04:28 AM  
+**Author:** jaredwiener  
+**Published:** 6/1/2026, 4:33:59 PM  
 **Categories:** -  
 
-Article URL: https://github.com/achaljhawar/1rok Comments URL: https://news.ycombinator.com/item?id=48354335 Points: 2 # Comments: 0
+Article URL: https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/ Comments URL: https://news.ycombinator.com/item?id=48359130 Points: 160 # Comments: 83
 
-📖 [Read original article](https://github.com/achaljhawar/1rok)
+📖 [Read original article](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
 
 ---
 
-## 14. Tech overlords plan for conscious AI to conquer the cosmos. What could go wrong?
+## 14. We gave an AI agent eyes. It didn't even use them
 
-**Author:** contingencies  
-**Published:** 6/1/2026, 9:03:35 AM  
+**Author:** pmkelly4444  
+**Published:** 6/1/2026, 4:29:47 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai Comments URL: https://news.ycombinator.com/item?id=48354314 Points: 4 # Comments: 0
+Article URL: https://www.agentvoyagerproject.com/captains-log/2 Comments URL: https://news.ycombinator.com/item?id=48359075 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai)
+📖 [Read original article](https://www.agentvoyagerproject.com/captains-log/2)
 
 ---
 
-## 15. Concrete Ways I Use AI During a Normal Engineering Workday (Week 4 Roundup)
+## 15. AI Savings Misses 'Should Be Making Executives Uncomfortable,' Bain Says
 
-**Author:** talvardi7  
-**Published:** 6/1/2026, 9:00:57 AM  
+**Author:** toomuchtodo  
+**Published:** 6/1/2026, 4:25:55 PM  
 **Categories:** -  
 
-Article URL: https://theaileverageweekly.com/posts/8-concrete-ways-i-use-ai-during-a-normal-engineering-workday-week-4-ro.html Comments URL: https://news.ycombinator.com/item?id=48354296 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-06-01/bain-finds-corporate-ai-investments-based-on-returns-that-haven-t-arrived Comments URL: https://news.ycombinator.com/item?id=48359010 Points: 1 # Comments: 0
 
-📖 [Read original article](https://theaileverageweekly.com/posts/8-concrete-ways-i-use-ai-during-a-normal-engineering-workday-week-4-ro.html)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-01/bain-finds-corporate-ai-investments-based-on-returns-that-haven-t-arrived)
 
 ---
 
-## 16. AI driven analysis of brokerage account fees in the UK
+## 16. Cops Are Spying on People Who Criticize AI Data Centers Online
 
-**Author:** m101  
-**Published:** 6/1/2026, 8:27:53 AM  
+**Author:** cdrnsf  
+**Published:** 6/1/2026, 4:09:12 PM  
 **Categories:** -  
 
-Article URL: https://feesorted.com/ Comments URL: https://news.ycombinator.com/item?id=48354051 Points: 1 # Comments: 1
+Article URL: https://theintercept.com/2026/06/01/ai-data-center-protest-police-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48358757 Points: 2 # Comments: 0
 
-📖 [Read original article](https://feesorted.com/)
+📖 [Read original article](https://theintercept.com/2026/06/01/ai-data-center-protest-police-surveillance/)
 
 ---
 
-## 17. Hard-Won Lessons from a Year of Using AI
+## 17. OpenAI hit with lawsuit by Florida AG over AI risks
 
-**Author:** henrik_w  
-**Published:** 6/1/2026, 8:11:17 AM  
+**Author:** cyunker  
+**Published:** 6/1/2026, 4:02:04 PM  
 **Categories:** -  
 
-Article URL: https://spin.atomicobject.com/lessons-year-ai/ Comments URL: https://news.ycombinator.com/item?id=48353936 Points: 4 # Comments: 0
+Article URL: https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215 Comments URL: https://news.ycombinator.com/item?id=48358667 Points: 4 # Comments: 0
 
-📖 [Read original article](https://spin.atomicobject.com/lessons-year-ai/)
+📖 [Read original article](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
 
 ---
 
-## 18. Charities decry UK plan to use AI to assess age of young asylum seekers
+## 18. Scholarship in the Age of AI
 
-**Author:** beardyw  
-**Published:** 6/1/2026, 8:10:52 AM  
+**Author:** Pseudomanifold  
+**Published:** 6/1/2026, 3:57:36 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers Comments URL: https://news.ycombinator.com/item?id=48353932 Points: 4 # Comments: 0
+Article URL: https://bastian.rieck.me/blog/2026/scholarship/ Comments URL: https://news.ycombinator.com/item?id=48358602 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers)
+📖 [Read original article](https://bastian.rieck.me/blog/2026/scholarship/)
 
 ---
 
-## 19. FindMyPipe – Query Apple Find My from Linux for AI Agents
+## 19. A native macOS app for AI agents that run on local machine
 
-**Author:** AgataVire  
-**Published:** 6/1/2026, 8:02:23 AM  
+**Author:** geordee  
+**Published:** 6/1/2026, 3:52:10 PM  
 **Categories:** -  
 
-Article URL: https://github.com/corryl/FindMyPipe Comments URL: https://news.ycombinator.com/item?id=48353876 Points: 1 # Comments: 0
+Article URL: https://docs.osaurus.ai/ Comments URL: https://news.ycombinator.com/item?id=48358521 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/corryl/FindMyPipe)
+📖 [Read original article](https://docs.osaurus.ai/)
 
 ---
 
-## 20. RecruitMyself – AI job search copilot for resumes and applications
+## 20. Plots, love letters and remedies: The medieval secrets being revealed by AI
 
-**Author:** RahulAa  
-**Published:** 6/1/2026, 8:00:01 AM  
+**Author:** croes  
+**Published:** 6/1/2026, 3:24:38 PM  
 **Categories:** -  
 
-Article URL: https://recruitmyself.com Comments URL: https://news.ycombinator.com/item?id=48353865 Points: 1 # Comments: 0
+Article URL: https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai Comments URL: https://news.ycombinator.com/item?id=48358096 Points: 3 # Comments: 0
 
-📖 [Read original article](https://recruitmyself.com)
+📖 [Read original article](https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai)
 
 ---
