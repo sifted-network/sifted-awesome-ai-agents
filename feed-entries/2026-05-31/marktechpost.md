@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-05-31"
 date: "2026-05-31"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-05-31
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. A Coding Implementation on Loguru for Designing Robust, Structured, Concurrent, and Production-Ready Python Logging Pipelines
+## 1. An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls
+
+**Author:** Sana Hassan  
+**Published:** 5/31/2026, 8:07:01 PM  
+**Categories:** Agentic AI, Editors Pick, Staff, Tutorials  
+
+In this tutorial, we build a governed AI-agent workflow using Microsoft’s Agent Governance Toolkit as the reference point. We create a Colab-ready implementation where agents do not directly execute tools; instead, every action first passes through a governance layer that checks the agent’s identity...
+
+📖 [Read original article](https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-governance-toolkit-for-safe-ai-agent-tool-use-with-policies-approvals-audit-logs-and-risk-controls/)
+
+---
+
+## 2. A Coding Implementation on Loguru for Designing Robust, Structured, Concurrent, and Production-Ready Python Logging Pipelines
 
 **Author:** Sana Hassan  
 **Published:** 5/31/2026, 8:58:06 AM  
@@ -23,7 +35,7 @@ In this tutorial, we implement a practical use case with Loguru, a powerful, fle
 
 ---
 
-## 2. Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81× Experiment-Throughput Gain
+## 3. Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81× Experiment-Throughput Gain
 
 **Author:** Michal Sutter  
 **Published:** 5/31/2026, 2:04:01 AM  
@@ -35,7 +47,7 @@ Trajectory, working with UC Berkeley Sky Lab and Anyscale, built a concurrent mu
 
 ---
 
-## 3. Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning
+## 4. Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning
 
 **Author:** Sana Hassan  
 **Published:** 5/31/2026, 1:28:04 AM  
