@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-01"
 date: "2026-06-01"
 source: "MarkTechPost"
-count: 1
+count: 2
 ---
 
 # MarkTechPost - 2026-06-01
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. Parallax: A Parameterized Local Linear Attention That Keeps Softmax and Adds a Learned Covariance Correction Branch
+## 1. Meet Memory OS: A 6-Layer Open-Source Memory Stack Built on Top of Hermes Agent
+
+**Author:** Michal Sutter  
+**Published:** 6/1/2026, 4:53:07 PM  
+**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
+
+The open-source project adds local persistent memory to Hermes Agent through six layers, gated retrieval, and a wiki. The post Meet Memory OS: A 6-Layer Open-Source Memory Stack Built on Top of Hermes Agent appeared first on MarkTechPost.
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/01/meet-memory-os-a-6-layer-open-source-memory-stack-built-on-top-of-hermes-agent/)
+
+---
+
+## 2. Parallax: A Parameterized Local Linear Attention That Keeps Softmax and Adds a Learned Covariance Correction Branch
 
 **Author:** Asif Razzaq  
 **Published:** 6/1/2026, 4:36:49 AM  
