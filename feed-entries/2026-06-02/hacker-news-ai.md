@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-06-02"
 date: "2026-06-02"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-06-02
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. When Agentic AI Met the Common Law of Agency [pdf]
+## 1. Be a good cook when you use AI to edit your writing
 
-**Author:** droidjj  
-**Published:** 6/2/2026, 3:57:02 AM  
+**Author:** speckx  
+**Published:** 6/2/2026, 4:23:46 PM  
 **Categories:** -  
 
-Article URL: https://download.ssrn.com/2026/5/27/6838660.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFQaCXVzLWVhc3QtMSJGMEQCIGCqRt3E43JqumYgrLNdiLIHcwl4vS%2F0umJm5fj1DgvqAiAvib35M%2BdXgdaFDsjX4yKd3aeebKQLtbtu3Tt1hk8w0iq9BQgcEAQaDDMwODQ3NTMwMTI1NyIMCfQ8Rd3NIrLXpeB2Kp...
+Article URL: https://blog.avas.space/be-a-good-cook/ Comments URL: https://news.ycombinator.com/item?id=48372382 Points: 1 # Comments: 0
 
-📖 [Read original article](https://download.ssrn.com/2026/5/27/6838660.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFQaCXVzLWVhc3QtMSJGMEQCIGCqRt3E43JqumYgrLNdiLIHcwl4vS%2F0umJm5fj1DgvqAiAvib35M%2BdXgdaFDsjX4yKd3aeebKQLtbtu3Tt1hk8w0iq9BQgcEAQaDDMwODQ3NTMwMTI1NyIMCfQ8Rd3NIrLXpeB2KpoFBGQlbWI5fPXOWdOpXqA4IhMosTVZpVkxaHnIF%2FofUKhmHLnJ5N7pmpTc90IxtpKjzT%2FHTBXP7X5w7S4ood6VkvpC%2B8w6xfL4qxv85BgxPrUYQHCY4LcF%2FyP1wyhOYGi92R7A3Eb63lD84scBBlqpjX3EwoBslfOjUpL52x8SoCL1VR7ESR18%2B3Jp9ukCCCd%2BMez%2BoycAZMvG9zj5XB2irLTL6GQq%2F%2FGviowJ8TPQfjledMpnufc6jtHqxL2UDOWEBfSskj1fj4El1Z8CR9RMxHuiy%2FQHye2M3Rmte7ClWdCFeaIK7EAKi1uMwc3HTa4qgXkKcUSfs8sFCg6HgjscdO2Ft%2FxeR7MEeJ%2F4DpuvkgMT6JqPNdgyUNdlbjESL0P%2FVShFnySxLItbCIt9gk2BUADmKp0eSsaGakq%2Bsa0ux0ZnhS8O%2BmVg%2FUf%2F2KLx1JZ1yXZbZ0aKw5GaxJGeG7cHg9JrfkbKIZsWpwRfd01y0qmrnvF0RITxVJXxWbcGRPt%2B9juPBM3XLhjfh8agRuX7eOYWVqWKxo0OibuCTkAEF%2B9GumDpfSz0sxy43IAtu1bbHbb%2B9HprtD2J3QVJDpp4mGwKszjfJ%2BzMWjKjOmxTSFtaElhS4XeeZoOzI6zjUyc0ccL5Am3BeAy46d4hmMOBsSr0mYMAyPVHiHJze9fd9On8HeodJl1pV%2Fj%2F9O5dLTxIGGZM2ZMRdU3tgDTony4fN4C%2ByA%2BivgpaCBdy3JWalH1mosRLZkjJw8PYx%2FVtT84%2BROt62AKtszEt0EDdvlo%2FoVyChEKYWvuYTZVZ%2FHIyVqEBD77b0uNHvvYeGIHVklSFIDm%2BLQvckTYFyjIRQa%2BnM7Ih31jCkECto21D0tD1w%2B51oABYYD3JxCAjMPGX%2BdAGOrIBXbgCuhCyivu3m7cX9trkuy5Qime45cpnmPPTspQTVeSYzV1iMw4eHqlgP4%2FhHJhRqBgctBUBmrv8N7ZEXKbH9iRxq2VwMOrKcv23%2BfyJ1XcSEpHPuM7zv1pHeRj6%2FGRo2CQrxfD%2FNZYjw2lxF39YUdE74SblFUoRNxLeDfC9GJZ%2FGU1%2FFbK5qUWcLDajlPBw%2FbK60%2Btw7uLMAE4iojvJqw5jWytKOODyrcWGKiUsI14Tqw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260602T035615Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWE6DHJ6PFC%2F20260602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d3bd657ebc4c27abea99e0b6758554cf5465c68cf03dacf601d29cec139cbfbe&abstractId=6838660)
+📖 [Read original article](https://blog.avas.space/be-a-good-cook/)
 
 ---
 
-## 2. Bloc – Cursor for AI video (a canvas IDE, not a timeline)
+## 2. Top AI labs expand research into machine 'consciousness'
 
-**Author:** richardyangteki  
-**Published:** 6/2/2026, 3:52:05 AM  
+**Author:** bookofjoe  
+**Published:** 6/2/2026, 4:22:08 PM  
 **Categories:** -  
 
-Article URL: https://vidbloc.com/ Comments URL: https://news.ycombinator.com/item?id=48365802 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/53e14bcc-788c-4959-b260-7aee363594bc Comments URL: https://news.ycombinator.com/item?id=48372353 Points: 2 # Comments: 1
 
-📖 [Read original article](https://vidbloc.com/)
+📖 [Read original article](https://www.ft.com/content/53e14bcc-788c-4959-b260-7aee363594bc)
 
 ---
 
-## 3. AI can chart a course to disaster faster than humans can notice
+## 3. AI Investments Are 'Circular Bet' as ROI Disappoints, Bain Survey Shows
 
-**Author:** nickcotter  
-**Published:** 6/2/2026, 3:37:47 AM  
+**Author:** cdrnsf  
+**Published:** 6/2/2026, 4:18:19 PM  
 **Categories:** -  
 
-Article URL: https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/ Comments URL: https://news.ycombinator.com/item?id=48365704 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/newsletters/2026-06-01/bain-survey-ai-delivers-less-cost-reduction-than-many-firms-predicted Comments URL: https://news.ycombinator.com/item?id=48372305 Points: 2 # Comments: 0
 
-📖 [Read original article](https://thebulletin.org/2026/05/ai-can-chart-a-course-to-disaster-faster-than-humans-can-notice/)
+📖 [Read original article](https://www.bloomberg.com/news/newsletters/2026-06-01/bain-survey-ai-delivers-less-cost-reduction-than-many-firms-predicted)
 
 ---
 
-## 4. Introducing The American AI Sovereign Wealth Fund Act [video]
+## 4. Testing Google's Gemini Spark AI agent: it's incredible, and creepy
 
-**Author:** The_Gray  
-**Published:** 6/2/2026, 3:33:55 AM  
+**Author:** tambourine_man  
+**Published:** 6/2/2026, 4:14:19 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=VN4b4UCWMKI Comments URL: https://news.ycombinator.com/item?id=48365681 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning Comments URL: https://news.ycombinator.com/item?id=48372245 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=VN4b4UCWMKI)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning)
 
 ---
 
-## 5. Meta AI Support – full system prompt leaked
+## 5. Nathan Lambert Leaves Ai2 (Allen AI Institute)
 
-**Author:** alasdair_  
-**Published:** 6/2/2026, 3:17:26 AM  
+**Author:** pretext  
+**Published:** 6/2/2026, 4:03:08 PM  
 **Categories:** -  
 
-Article URL: https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md Comments URL: https://news.ycombinator.com/item?id=48365565 Points: 3 # Comments: 0
+Article URL: https://twitter.com/natolambert/status/2061813361848029631 Comments URL: https://news.ycombinator.com/item?id=48372044 Points: 3 # Comments: 0
+
+📖 [Read original article](https://twitter.com/natolambert/status/2061813361848029631)
+
+---
+
+## 6. The External Governance Layer – a reference architecture for AI agent governance
+
+**Author:** rami_mkheir  
+**Published:** 6/2/2026, 3:58:03 PM  
+**Categories:** -  
+
+Article URL: https://trust.aos-1.com/whitepapers/aos-1-governance Comments URL: https://news.ycombinator.com/item?id=48371951 Points: 1 # Comments: 0
+
+📖 [Read original article](https://trust.aos-1.com/whitepapers/aos-1-governance)
+
+---
+
+## 7. Meta AI Support System Prompt
+
+**Author:** yellow_lead  
+**Published:** 6/2/2026, 3:47:04 PM  
+**Categories:** -  
+
+Article URL: https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md Comments URL: https://news.ycombinator.com/item?id=48371798 Points: 1 # Comments: 0
 
 📖 [Read original article](https://github.com/michaelcummings12/meta-ai-support-prompt/blob/main/system-prompt.md)
 
 ---
 
-## 6. SpaceX Vow to Loft 1M AI Satellites Could Spark Doomsday Dive
+## 8. The Next Frontier of Visual AI Is Code
 
-**Author:** paulpauper  
-**Published:** 6/2/2026, 2:49:08 AM  
+**Author:** ykhli  
+**Published:** 6/2/2026, 3:45:31 PM  
 **Categories:** -  
 
-Article URL: https://www.forbes.com/sites/kevinholdenplatt/2026/05/31/spacex-vow-to-loft-1-million-ai-satellites-could-spark-doomsday-dive/ Comments URL: https://news.ycombinator.com/item?id=48365378 Points: 2 # Comments: 0
+Article URL: https://a16z.com/the-next-frontier-of-visual-ai-is-code/ Comments URL: https://news.ycombinator.com/item?id=48371777 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.forbes.com/sites/kevinholdenplatt/2026/05/31/spacex-vow-to-loft-1-million-ai-satellites-could-spark-doomsday-dive/)
+📖 [Read original article](https://a16z.com/the-next-frontier-of-visual-ai-is-code/)
 
 ---
 
-## 7. Show HN: Memex – A local-first AI journal that keeps everything as Markdown
+## 9. AI-Generated Papers in the NeurIPS 2026 Position Paper Track
 
-**Author:** sparkleMing  
-**Published:** 6/2/2026, 2:48:08 AM  
+**Author:** ad8e  
+**Published:** 6/2/2026, 3:42:26 PM  
 **Categories:** -  
 
-Article URL: https://github.com/memex-lab/memex Comments URL: https://news.ycombinator.com/item?id=48365371 Points: 1 # Comments: 0
+Article URL: https://blog.neurips.cc/2026/06/02/ai-generated-papers-in-the-neurips-2026-position-paper-track/ Comments URL: https://news.ycombinator.com/item?id=48371734 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/memex-lab/memex)
+📖 [Read original article](https://blog.neurips.cc/2026/06/02/ai-generated-papers-in-the-neurips-2026-position-paper-track/)
 
 ---
 
-## 8. X.org Server Starts June Nine New Security Vulnerabilities Discovered via AI
+## 10. AI Grifters Are Making Anti-Data Center Slop with AI
 
-**Author:** Bender  
-**Published:** 6/2/2026, 2:22:11 AM  
+**Author:** Brajeshwar  
+**Published:** 6/2/2026, 3:39:02 PM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI Comments URL: https://news.ycombinator.com/item?id=48365188 Points: 2 # Comments: 0
+Article URL: https://www.404media.co/ai-grifters-are-making-anti-data-center-slop-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48371681 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.phoronix.com/news/X.Org-9-Vulnerabilities-AI)
+📖 [Read original article](https://www.404media.co/ai-grifters-are-making-anti-data-center-slop-with-ai/)
 
 ---
 
-## 9. Starbucks retired its AI agent just months after deployment
+## 11. Americans don't know how to fight AI so they're fighting data centers
 
-**Author:** cdrnsf  
-**Published:** 6/2/2026, 1:44:20 AM  
+**Author:** stalfosknight  
+**Published:** 6/2/2026, 3:32:06 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/sectors/technology/articles/starbucks-quietly-retired-ai-agent-192259096.html Comments URL: https://news.ycombinator.com/item?id=48364899 Points: 1 # Comments: 2
+Article URL: https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash Comments URL: https://news.ycombinator.com/item?id=48371592 Points: 68 # Comments: 53
 
-📖 [Read original article](https://finance.yahoo.com/sectors/technology/articles/starbucks-quietly-retired-ai-agent-192259096.html)
+📖 [Read original article](https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash)
 
 ---
 
-## 10. DeepMind CEO says those cutting jobs because of AI 'lack imagination'
+## 12. Philly cops admit they're tracking \"First Amendment activity\" critical of AI
 
-**Author:** cpeterso  
-**Published:** 6/2/2026, 1:21:04 AM  
+**Author:** ripe  
+**Published:** 6/2/2026, 3:27:55 PM  
 **Categories:** -  
 
-Article URL: https://www.inc.com/jessica-stillman/nobel-prize-winner-demis-hassabis-says-ai-job-cuts-are-dumb-research-agrees/91348959 Comments URL: https://news.ycombinator.com/item?id=48364740 Points: 7 # Comments: 0
+Article URL: https://theintercept.com/2026/06/01/ai-data-center-protest-police-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48371544 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.inc.com/jessica-stillman/nobel-prize-winner-demis-hassabis-says-ai-job-cuts-are-dumb-research-agrees/91348959)
+📖 [Read original article](https://theintercept.com/2026/06/01/ai-data-center-protest-police-surveillance/)
 
 ---
 
-## 11. AI costs how much? GitHub Copilot users react to new usage-based pricing system
+## 13. Anthropic faces AI spending backlash before IPO
 
-**Author:** spenvo  
-**Published:** 6/2/2026, 1:17:14 AM  
+**Author:** Brajeshwar  
+**Published:** 6/2/2026, 3:20:18 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/ Comments URL: https://news.ycombinator.com/item?id=48364716 Points: 8 # Comments: 1
+Article URL: https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage Comments URL: https://news.ycombinator.com/item?id=48371432 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/)
+📖 [Read original article](https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage)
 
 ---
 
-## 12. Building an Open-Source Verilog Simulator with AI: 580K Lines in 43 Days
-
-**Author:** hasheddan  
-**Published:** 6/2/2026, 1:09:32 AM  
-**Categories:** -  
-
-Article URL: https://normalcomputing.com/blog/building-an-open-source-verilog-simulator-with-ai-580k-lines-in-43-days Comments URL: https://news.ycombinator.com/item?id=48364654 Points: 2 # Comments: 0
-
-📖 [Read original article](https://normalcomputing.com/blog/building-an-open-source-verilog-simulator-with-ai-580k-lines-in-43-days)
-
----
-
-## 13. Chinese firm developing AI to predict dissent, leaked documents show
-
-**Author:** wunderlotus  
-**Published:** 6/2/2026, 12:59:46 AM  
-**Categories:** -  
-
-Article URL: https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html Comments URL: https://news.ycombinator.com/item?id=48364576 Points: 4 # Comments: 2
-
-📖 [Read original article](https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html)
-
----
-
-## 14. aweskills: Let Your AI Agent Manage skills for You
-
-**Author:** mugpeng  
-**Published:** 6/2/2026, 12:56:22 AM  
-**Categories:** -  
-
-Article URL: https://aweskill.webioinfo.top/articles/let-your-ai-agent-manage-aweskill-for-you/ Comments URL: https://news.ycombinator.com/item?id=48364549 Points: 1 # Comments: 0
-
-📖 [Read original article](https://aweskill.webioinfo.top/articles/let-your-ai-agent-manage-aweskill-for-you/)
-
----
-
-## 15. Colorado Rolls Back Landmark AI Governance Law
+## 14. The future of creator businesses isn't more AI features
 
 **Author:** mooreds  
-**Published:** 6/2/2026, 12:53:17 AM  
+**Published:** 6/2/2026, 3:14:29 PM  
 **Categories:** -  
 
-Article URL: https://www.bankinfosecurity.com/colorado-rolls-back-landmark-ai-governance-law-a-31804 Comments URL: https://news.ycombinator.com/item?id=48364520 Points: 6 # Comments: 0
+Article URL: https://www.spencerfry.com/blog/the-future-of-creator-businesses Comments URL: https://news.ycombinator.com/item?id=48371351 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.bankinfosecurity.com/colorado-rolls-back-landmark-ai-governance-law-a-31804)
+📖 [Read original article](https://www.spencerfry.com/blog/the-future-of-creator-businesses)
 
 ---
 
-## 16. Vercel AI Gateway Appears to Block BYOK Requests When Account Balance Reaches $0
+## 15. Dressed/Daily – AI picks your outfit from your wardrobe based on today's weather
 
-**Author:** kaicianflone  
-**Published:** 6/2/2026, 12:07:24 AM  
+**Author:** ricardojst  
+**Published:** 6/2/2026, 2:55:29 PM  
 **Categories:** -  
 
-Article URL: https://github.com/vercel/ai/issues/11280 Comments URL: https://news.ycombinator.com/item?id=48364193 Points: 2 # Comments: 1
+Article URL: https://www.dressed-daily.app Comments URL: https://news.ycombinator.com/item?id=48371099 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/vercel/ai/issues/11280)
+📖 [Read original article](https://www.dressed-daily.app)
 
 ---
 
-## 17. Ask HN: Do you give AI agent the specs and have it start building unattended?
+## 16. Show HN: LocalSheets, a single-file spreadsheet with a local-only AI panel
 
-**Author:** bubbamack  
-**Published:** 6/2/2026, 12:03:00 AM  
+**Author:** zpusmani  
+**Published:** 6/2/2026, 2:53:52 PM  
 **Categories:** -  
 
-I use Cursor and I usually put it in plan mode and feed it the specs so I can review the plan and make sure the implementation will be done the way I want it to or to make sure the plan "feels" right.When I hear or see that people feed the specs, let agents handle things and then do some quick tests...
+Article URL: https://github.com/zohaibus/localsheets Comments URL: https://news.ycombinator.com/item?id=48371078 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48364162)
+📖 [Read original article](https://github.com/zohaibus/localsheets)
+
+---
+
+## 17. AI Workflows Need Topological Sort
+
+**Author:** random42  
+**Published:** 6/2/2026, 2:51:50 PM  
+**Categories:** -  
+
+Article URL: https://arpitbhayani.me/blogs/ai-topological-sort/ Comments URL: https://news.ycombinator.com/item?id=48371047 Points: 2 # Comments: 0
+
+📖 [Read original article](https://arpitbhayani.me/blogs/ai-topological-sort/)
+
+---
+
+## 18. Local AI handwriting recognition is usable now
+
+**Author:** surprisetalk  
+**Published:** 6/2/2026, 2:45:16 PM  
+**Categories:** -  
+
+Article URL: https://www.autodidacts.io/usable-local-ai-handwriting-recognition/ Comments URL: https://news.ycombinator.com/item?id=48370959 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.autodidacts.io/usable-local-ai-handwriting-recognition/)
+
+---
+
+## 19. AI Breaks Out of the Cloud: Computex 2026's Big Chip Demand Signal
+
+**Author:** haebom  
+**Published:** 6/2/2026, 2:44:25 PM  
+**Categories:** -  
+
+Article URL: https://www.ooooo.law/board/6?lang=en Comments URL: https://news.ycombinator.com/item?id=48370945 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.ooooo.law/board/6?lang=en)
+
+---
+
+## 20. We wanted to understand what the new \"AI enablement\" job is
+
+**Author:** eliportnoy  
+**Published:** 6/2/2026, 2:40:41 PM  
+**Categories:** -  
+
+Article URL: https://claudeschool.substack.com/p/the-hottest-new-job-in-corporate Comments URL: https://news.ycombinator.com/item?id=48370893 Points: 2 # Comments: 0
+
+📖 [Read original article](https://claudeschool.substack.com/p/the-hottest-new-job-in-corporate)
 
 ---
