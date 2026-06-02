@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-05-30"
 date: "2026-05-30"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-05-30
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Text-to-speech changed fast in 2026. This guide ranks the leading commercial and
 Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 between simulation and real-world robot rollouts, and reduces policy evaluation time from over 200 h...
 
 📖 [Read original article](https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/)
-
----
-
-## 3. Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4
-
-**Author:** Asif Razzaq  
-**Published:** 5/30/2026, 3:11:59 AM  
-**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Model Context Protocol (MCP), New Releases, Software Engineering, Staff, Tech News, Technology  
-
-Nous Research's Hermes Agent adds Tool Search to fix MCP context bloat using BM25 progressive schema disclosure. The post Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4 appeared first on MarkTechPost.
-
-📖 [Read original article](https://www.marktechpost.com/2026/05/29/hermes-agent-ships-tool-search-for-mcp-anthropic-evals-show-49-to-74-accuracy-gain-on-opus-4/)
 
 ---
