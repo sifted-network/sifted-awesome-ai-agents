@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-02"
 date: "2026-06-02"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-06-02
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -47,7 +47,19 @@ count: 10
 
 ---
 
-## 4. 字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手
+## 4. 滴滴2026Q1财报：国内基本盘稳固 国际业务成第二增长引擎
+
+**Author:** 量子位的朋友们  
+**Published:** 6/2/2026, 12:28:08 PM  
+**Categories:** 资讯, 滴滴出行  
+
+日均订单刷新历史纪录至3940万单
+
+📖 [Read original article](https://www.qbitai.com/2026/06/428331.html)
+
+---
+
+## 5. 字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手
 
 **Author:** 梦瑶  
 **Published:** 6/2/2026, 9:28:00 AM  
@@ -59,7 +71,7 @@ AI视频编辑先理解再动手
 
 ---
 
-## 5. “豆包汽车”，目标市场10万-20万
+## 6. “豆包汽车”，目标市场10万-20万
 
 **Author:** 杰西卡  
 **Published:** 6/2/2026, 8:12:10 AM  
@@ -71,7 +83,7 @@ AI视频编辑先理解再动手
 
 ---
 
-## 6. 百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA
+## 7. 百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA
 
 **Author:** 量子位的朋友们  
 **Published:** 6/2/2026, 7:47:30 AM  
@@ -83,7 +95,7 @@ AI视频编辑先理解再动手
 
 ---
 
-## 7. 机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑
+## 8. 机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑
 
 **Author:** 思邈  
 **Published:** 6/2/2026, 3:57:21 AM  
@@ -95,7 +107,7 @@ AI视频编辑先理解再动手
 
 ---
 
-## 8. Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件
+## 9. Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件
 
 **Author:** 量子位的朋友们  
 **Published:** 6/2/2026, 3:15:52 AM  
@@ -104,29 +116,5 @@ AI视频编辑先理解再动手
 Qwen3.7-Plus已上线阿里云百炼
 
 📖 [Read original article](https://www.qbitai.com/2026/06/427730.html)
-
----
-
-## 9. 云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路
-
-**Author:** 思邈  
-**Published:** 6/2/2026, 1:33:13 AM  
-**Categories:** 资讯, 云端模型, 具身智能, 招商局  
-
-从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？
-
-📖 [Read original article](https://www.qbitai.com/2026/06/427472.html)
-
----
-
-## 10. 老黄的Token经济学翻车了！微软亚马逊通通跳车
-
-**Author:** henry  
-**Published:** 6/2/2026, 12:33:17 AM  
-**Categories:** 资讯, token, 英伟达, 黄仁勋  
-
-token热潮开始降温
-
-📖 [Read original article](https://www.qbitai.com/2026/06/427541.html)
 
 ---
