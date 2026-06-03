@@ -27,7 +27,7 @@ The global health care sector is under increasing strain.&#160; Decades of chron
 
 **Author:** Peter Hall  
 **Published:** 6/2/2026, 9:00:00 AM  
-**Categories:** Artificial intelligence, App, aritficial intelligence  
+**Categories:** Artificial intelligence, App  
 
 This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu...
 
