@@ -2,16 +2,40 @@
 title: "MarkTechPost - 2026-06-03"
 date: "2026-06-03"
 source: "MarkTechPost"
-count: 3
+count: 5
 ---
 
 # MarkTechPost - 2026-06-03
 
-3 items collected.
+5 items collected.
 
 ---
 
-## 1. Nous Research Releases Hermes Desktop: A Native Cross-Platform Front End for Hermes Agent v0.15.2 with Streaming Tool Output
+## 1. How to Build a Document Intelligence Backend with iii Using Workers, Functions, and Cron Triggers
+
+**Author:** Sana Hassan  
+**Published:** 6/3/2026, 7:15:07 PM  
+**Categories:** AI Infrastructure, Applications, Artificial Intelligence, Editors Pick, Machine Learning, Staff, Technology, Tutorials  
+
+We build a document intelligence backend with iii by registering modular functions and reusing them across multiple triggers. The post How to Build a Document Intelligence Backend with iii Using Workers, Functions, and Cron Triggers appeared first on MarkTechPost.
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/03/how-to-build-a-document-intelligence-backend-with-iii-using-workers-functions-and-cron-triggers/)
+
+---
+
+## 2. Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop
+
+**Author:** Asif Razzaq  
+**Published:** 6/3/2026, 6:46:41 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Enterprise AI, Language Model, Large Language Model, Machine Learning, New Releases, Software Engineering, Staff, Tech News, Technology  
+
+Gemma 4 12B feeds vision and audio straight into the LLM backbone, running locally under an Apache 2.0 license. The post Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop appeared first on MarkTechPost.
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/)
+
+---
+
+## 3. Nous Research Releases Hermes Desktop: A Native Cross-Platform Front End for Hermes Agent v0.15.2 with Streaming Tool Output
 
 **Author:** Michal Sutter  
 **Published:** 6/3/2026, 9:38:32 AM  
@@ -23,7 +47,7 @@ Hermes Desktop is a no-terminal GUI sharing one agent core, skills, and memory w
 
 ---
 
-## 2. NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation
+## 4. NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation
 
 **Author:** Asif Razzaq  
 **Published:** 6/3/2026, 8:35:44 AM  
@@ -35,7 +59,7 @@ NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive 
 
 ---
 
-## 3. How to Fine-Tune LFM2 Using QLoRA and DPO: A Complete Step-by-Step Coding Tutorial on Google Colab
+## 5. How to Fine-Tune LFM2 Using QLoRA and DPO: A Complete Step-by-Step Coding Tutorial on Google Colab
 
 **Author:** Sana Hassan  
 **Published:** 6/3/2026, 12:51:10 AM  
