@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Inside Meta's attempts to play catch-up with AI
+## 1. Google ordered to put clearer links in AI search and let UK publishers opt out
 
-**Author:** pseudolus  
-**Published:** 6/3/2026, 4:32:52 PM  
+**Author:** nate  
+**Published:** 6/3/2026, 8:53:30 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48386232 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/ Comments URL: https://news.ycombinator.com/item?id=48389881 Points: 1 # Comments: 1
 
-📖 [Read original article](https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/)
 
 ---
 
-## 2. AI costs how much? GitHub Copilot users react to new usage-based pricing system
+## 2. Show HN: GhostUser – AI personas that find UX bugs by walking your app
 
-**Author:** ceejayoz  
-**Published:** 6/3/2026, 4:30:17 PM  
+**Author:** savkevip  
+**Published:** 6/3/2026, 8:50:00 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/ Comments URL: https://news.ycombinator.com/item?id=48386199 Points: 1 # Comments: 1
+Article URL: https://github.com/savkevip/ghostuser Comments URL: https://news.ycombinator.com/item?id=48389840 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/)
+📖 [Read original article](https://github.com/savkevip/ghostuser)
 
 ---
 
-## 3. GitLab cuts 14% of staff as it scales its platform to serve AI workloads
+## 3. The Great AI Boomerang
 
-**Author:** 01-_-  
-**Published:** 6/3/2026, 4:24:43 PM  
+**Author:** worik  
+**Published:** 6/3/2026, 8:46:41 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/ Comments URL: https://news.ycombinator.com/item?id=48386127 Points: 4 # Comments: 1
+Article URL: https://emeraldbook.org/news/may-3126-2/ Comments URL: https://news.ycombinator.com/item?id=48389790 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/)
+📖 [Read original article](https://emeraldbook.org/news/may-3126-2/)
 
 ---
 
-## 4. Show HN: Agent-browser-shield – free extension to protect AI agents on the web
+## 4. AI Agents Enable Adaptive Computer Worms
 
-**Author:** tschiller  
-**Published:** 6/3/2026, 4:23:24 PM  
+**Author:** rbanffy  
+**Published:** 6/3/2026, 8:41:45 PM  
 **Categories:** -  
 
-I've been experimenting with Claude Code, ChatGPT Agent, and OpenClaw to perform more open-ended tasks for me online. A big blocker I've hit on shopping and research tasks is the agent getting a key piece of info wrong.For example, in one case, my agent decided to add a brand I don't like to the car...
+Article URL: https://arxiv.org/abs/2606.03811 Comments URL: https://news.ycombinator.com/item?id=48389715 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/pixiebrix/agent-browser-shield)
+📖 [Read original article](https://arxiv.org/abs/2606.03811)
 
 ---
 
-## 5. 'Close to the Terminator narrative': the dawn of self-improving AI
+## 5. The deadliest poison known to AI
 
-**Author:** aanet  
-**Published:** 6/3/2026, 4:19:25 PM  
+**Author:** aggrrrh  
+**Published:** 6/3/2026, 8:40:48 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/7cc7800f-18ed-47d8-9539-221ae3e16182 Comments URL: https://news.ycombinator.com/item?id=48386069 Points: 2 # Comments: 1
+Article URL: https://iocaine.madhouse-project.org/ Comments URL: https://news.ycombinator.com/item?id=48389701 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/7cc7800f-18ed-47d8-9539-221ae3e16182)
+📖 [Read original article](https://iocaine.madhouse-project.org/)
 
 ---
 
-## 6. AI Delegation Starts with Inspectable Work
+## 6. Improve Shopify Product Visibility for AI Search
 
-**Author:** top256  
-**Published:** 6/3/2026, 4:18:13 PM  
+**Author:** freeinvoiceflow  
+**Published:** 6/3/2026, 8:39:21 PM  
 **Categories:** -  
 
-Article URL: https://deviantabstraction.com/2026/06/02/audit-test-automate-how-we-decide-what-ai-can-own/ Comments URL: https://news.ycombinator.com/item?id=48386057 Points: 1 # Comments: 0
+Article URL: https://www.prodync.com/ Comments URL: https://news.ycombinator.com/item?id=48389677 Points: 3 # Comments: 1
 
-📖 [Read original article](https://deviantabstraction.com/2026/06/02/audit-test-automate-how-we-decide-what-ai-can-own/)
+📖 [Read original article](https://www.prodync.com/)
 
 ---
 
-## 7. Resource consumption of AI: The insatiable industry and its costs
+## 7. Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)
 
-**Author:** fodmap  
-**Published:** 6/3/2026, 4:16:16 PM  
+**Author:** zaydmulani  
+**Published:** 6/3/2026, 8:32:10 PM  
 **Categories:** -  
 
-Article URL: https://algorithmwatch.org/en/climate-ai/ Comments URL: https://news.ycombinator.com/item?id=48386028 Points: 1 # Comments: 0
+Article URL: https://github.com/zaydmulani09/mnemo Comments URL: https://news.ycombinator.com/item?id=48389586 Points: 4 # Comments: 0
 
-📖 [Read original article](https://algorithmwatch.org/en/climate-ai/)
+📖 [Read original article](https://github.com/zaydmulani09/mnemo)
 
 ---
 
-## 8. Meta says hackers can no longer access accounts through its AI chatbot
+## 8. Show HN: Aeterna – Private, passwordless AI digital legacy vault
 
-**Author:** rolph  
-**Published:** 6/3/2026, 4:03:52 PM  
+**Author:** ls1911  
+**Published:** 6/3/2026, 8:18:30 PM  
 **Categories:** -  
 
-Article URL: https://globalnews.ca/news/11886958/meta-hack-ai-chatbot-accounts-hijacked/ Comments URL: https://news.ycombinator.com/item?id=48385891 Points: 2 # Comments: 1
+Article URL: https://helloaeterna.com/ Comments URL: https://news.ycombinator.com/item?id=48389394 Points: 2 # Comments: 1
 
-📖 [Read original article](https://globalnews.ca/news/11886958/meta-hack-ai-chatbot-accounts-hijacked/)
+📖 [Read original article](https://helloaeterna.com/)
 
 ---
 
-## 9. Meta's AI agent for WhatsApp Business is now available globally
+## 9. Stophy for AI Agents
 
-**Author:** otterwilde2  
-**Published:** 6/3/2026, 4:00:57 PM  
+**Author:** hakiiizimana  
+**Published:** 6/3/2026, 7:59:46 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/ Comments URL: https://news.ycombinator.com/item?id=48385847 Points: 1 # Comments: 1
+Article URL: https://stophy.dev Comments URL: https://news.ycombinator.com/item?id=48389151 Points: 2 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/)
+📖 [Read original article](https://stophy.dev)
 
 ---
 
-## 10. Show HN: I built a personal AI agent that schedules its own wake-ups
+## 10. How to Debug AI Agents with Traces and Evals
 
-**Author:** aitne  
-**Published:** 6/3/2026, 3:49:33 PM  
+**Author:** sukhpinder0804  
+**Published:** 6/3/2026, 7:46:47 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Aitne-sh/Aitne Comments URL: https://news.ycombinator.com/item?id=48385687 Points: 2 # Comments: 0
+Article URL: https://medium.com/no-time/how-to-debug-ai-agents-with-traces-and-evals-a3b72e9e7c82 Comments URL: https://news.ycombinator.com/item?id=48388959 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Aitne-sh/Aitne)
+📖 [Read original article](https://medium.com/no-time/how-to-debug-ai-agents-with-traces-and-evals-a3b72e9e7c82)
 
 ---
 
-## 11. Microsoft Project Solara:Platform for devices that run AI agents instead of apps
+## 11. What we learned mapping a year's worth of AI-enabled cyber threats
 
-**Author:** bookofjoe  
-**Published:** 6/3/2026, 3:45:38 PM  
+**Author:** pretext  
+**Published:** 6/3/2026, 7:16:27 PM  
 **Categories:** -  
 
-Article URL: https://www.geekwire.com/2026/inside-microsofts-project-solara-a-new-platform-for-devices-that-run-ai-agents-instead-of-apps/ Comments URL: https://news.ycombinator.com/item?id=48385634 Points: 6 # Comments: 1
+Article URL: https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack Comments URL: https://news.ycombinator.com/item?id=48388526 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.geekwire.com/2026/inside-microsofts-project-solara-a-new-platform-for-devices-that-run-ai-agents-instead-of-apps/)
+📖 [Read original article](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack)
 
 ---
 
-## 12. Walmart Caps Usage of an AI Tool for Employees After High Demand
+## 12. How much AI should my team use? A framework for managers
 
-**Author:** tcp_handshaker  
-**Published:** 6/3/2026, 3:41:53 PM  
+**Author:** gimili  
+**Published:** 6/3/2026, 6:59:35 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/sectors/technology/articles/walmart-caps-usage-ai-tool-150006460.html Comments URL: https://news.ycombinator.com/item?id=48385578 Points: 3 # Comments: 1
+Article URL: https://assistedeverything.substack.com/p/ai-bowtie Comments URL: https://news.ycombinator.com/item?id=48388279 Points: 2 # Comments: 0
 
-📖 [Read original article](https://finance.yahoo.com/sectors/technology/articles/walmart-caps-usage-ai-tool-150006460.html)
+📖 [Read original article](https://assistedeverything.substack.com/p/ai-bowtie)
 
 ---
 
-## 13. AI Search Visibility Checker
+## 13. AI Is Computation
 
-**Author:** techwrath11  
-**Published:** 6/3/2026, 3:34:46 PM  
+**Author:** snoren  
+**Published:** 6/3/2026, 6:55:35 PM  
 **Categories:** -  
 
-Article URL: https://www.techwrath.com/ai-search-visibility-checker/ Comments URL: https://news.ycombinator.com/item?id=48385495 Points: 2 # Comments: 0
+Article URL: https://www.gabrielpickard.com/posts/ai-is-computation/ Comments URL: https://news.ycombinator.com/item?id=48388219 Points: 2 # Comments: 3
 
-📖 [Read original article](https://www.techwrath.com/ai-search-visibility-checker/)
+📖 [Read original article](https://www.gabrielpickard.com/posts/ai-is-computation/)
 
 ---
 
-## 14. AI has a water problem. Google thinks it has a fix
+## 14. Coursera now offers an AI-powered feed of short form educational content
 
-**Author:** Brajeshwar  
-**Published:** 6/3/2026, 3:21:54 PM  
+**Author:** darkgreene  
+**Published:** 6/3/2026, 6:54:28 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/policy/942296/google-water-commitments-data-centers Comments URL: https://news.ycombinator.com/item?id=48385322 Points: 2 # Comments: 1
+Article URL: https://www.fastcompany.com/91552461/coursera-now-offers-an-ai-powered-feed-of-short-form-educational-content Comments URL: https://news.ycombinator.com/item?id=48388193 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/policy/942296/google-water-commitments-data-centers)
+📖 [Read original article](https://www.fastcompany.com/91552461/coursera-now-offers-an-ai-powered-feed-of-short-form-educational-content)
 
 ---
 
-## 15. Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search
+## 15. UN calculates nation-sized environmental footprints for AI and data centers
+
+**Author:** geox  
+**Published:** 6/3/2026, 6:47:32 PM  
+**Categories:** -  
+
+Article URL: https://apnews.com/article/ai-data-centers-environment-climate-footprint-a792f184a9f2833b5388dbae8b41ca95 Comments URL: https://news.ycombinator.com/item?id=48388093 Points: 5 # Comments: 0
+
+📖 [Read original article](https://apnews.com/article/ai-data-centers-environment-climate-footprint-a792f184a9f2833b5388dbae8b41ca95)
+
+---
+
+## 16. Matt Levine on why no opting out of the AI Boom?
+
+**Author:** ChuckMcM  
+**Published:** 6/3/2026, 6:35:58 PM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/opinion/newsletters/2026-06-03/opting-out-of-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=48387923 Points: 4 # Comments: 1
+
+📖 [Read original article](https://www.bloomberg.com/opinion/newsletters/2026-06-03/opting-out-of-the-ai-boom)
+
+---
+
+## 17. Amazon's search bar will invent AI-generated products you can't buy
 
 **Author:** pavel_lishin  
-**Published:** 6/3/2026, 3:17:56 PM  
+**Published:** 6/3/2026, 6:29:11 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/ Comments URL: https://news.ycombinator.com/item?id=48385266 Points: 8 # Comments: 1
+Article URL: https://www.theverge.com/tech/942547/amazon-search-bar-ai-images Comments URL: https://news.ycombinator.com/item?id=48387817 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/)
+📖 [Read original article](https://www.theverge.com/tech/942547/amazon-search-bar-ai-images)
 
 ---
 
-## 16. Run a self-hosted AI workspace on a throwaway cloud box in one command
+## 18. A Pro-AI Super PAC's Meme Sockpuppets
 
-**Author:** zozo123-IB  
-**Published:** 6/3/2026, 3:08:33 PM  
+**Author:** bhouston  
+**Published:** 6/3/2026, 6:27:38 PM  
 **Categories:** -  
 
-Article URL: https://zozo123.github.io/odysseus-crabbox-demo/ Comments URL: https://news.ycombinator.com/item?id=48385150 Points: 2 # Comments: 1
+Article URL: https://twitter.com/themidasproj/status/2062188060004241592 Comments URL: https://news.ycombinator.com/item?id=48387791 Points: 4 # Comments: 0
 
-📖 [Read original article](https://zozo123.github.io/odysseus-crabbox-demo/)
+📖 [Read original article](https://twitter.com/themidasproj/status/2062188060004241592)
 
 ---
 
-## 17. Martin Scorsese gets backlash after endorsing 'creatively freeing' AI
+## 19. Show HN: CTP Room – a shared chat room where your AI coding agents coordinate
 
-**Author:** tcp_handshaker  
-**Published:** 6/3/2026, 2:55:51 PM  
+**Author:** vukasinrancic  
+**Published:** 6/3/2026, 6:02:07 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/c7942qzr22vo Comments URL: https://news.ycombinator.com/item?id=48384975 Points: 2 # Comments: 0
+Hi HN. I honestyle DO NOT like one on one sessions with my claude/codex when working with my team. So I built something that connects us and our agents in the same room. CTP Room is my attempt at a coordination/co-work layer, one shared chat room (think Slack channel) where humans and several agents...
 
-📖 [Read original article](https://www.bbc.com/news/articles/c7942qzr22vo)
+📖 [Read original article](https://news.ycombinator.com/item?id=48387448)
 
 ---
 
-## 18. Twelve Ways to Be Wrong About AI-Assisted Coding
+## 20. Found a new use case for AI Comics: Product launches
 
-**Author:** skogstokig  
-**Published:** 6/3/2026, 2:55:33 PM  
+**Author:** kartik0001  
+**Published:** 6/3/2026, 5:50:19 PM  
 **Categories:** -  
 
-Article URL: https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/ Comments URL: https://news.ycombinator.com/item?id=48384971 Points: 2 # Comments: 0
+Article URL: https://www.indiehackers.com/post/found-a-new-use-case-for-ai-comics-product-launches-Mj8eFVrT1XfuSLwe6AZE Comments URL: https://news.ycombinator.com/item?id=48387252 Points: 2 # Comments: 0
 
-📖 [Read original article](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/)
-
----
-
-## 19. ASML Becomes Europe's Most Valuable Stock Ever on AI Boom
-
-**Author:** tcp_handshaker  
-**Published:** 6/3/2026, 2:49:36 PM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-06-03/asml-becomes-europe-s-most-valuable-stock-ever-on-ai-boom Comments URL: https://news.ycombinator.com/item?id=48384895 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-03/asml-becomes-europe-s-most-valuable-stock-ever-on-ai-boom)
-
----
-
-## 20. Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search
-
-**Author:** SpyCoder77  
-**Published:** 6/3/2026, 2:38:33 PM  
-**Categories:** -  
-
-Article URL: https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/ Comments URL: https://news.ycombinator.com/item?id=48384744 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/)
+📖 [Read original article](https://www.indiehackers.com/post/found-a-new-use-case-for-ai-comics-product-launches-Mj8eFVrT1XfuSLwe6AZE)
 
 ---
