@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-02"
 date: "2026-06-02"
 source: "qbitai"
-count: 7
+count: 6
 ---
 
 # qbitai - 2026-06-02
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ count: 7
 AI视频编辑先理解再动手
 
 📖 [Read original article](https://www.qbitai.com/2026/06/427810.html)
-
----
-
-## 7. “豆包汽车”，目标市场10万-20万
-
-**Author:** 杰西卡  
-**Published:** 6/2/2026, 8:12:10 AM  
-**Categories:** 智能车参考, 火山引擎, 赛力斯, 车圈最新认知  
-
-国资入主，赛力斯让权
-
-📖 [Read original article](https://www.qbitai.com/2026/06/427760.html)
 
 ---
