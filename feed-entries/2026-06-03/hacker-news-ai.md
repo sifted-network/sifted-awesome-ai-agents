@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Vim Classic debuts with its first release as a Vim fork without AI assistance
+## 1. Which LLM Memory for AI Agents?
 
-**Author:** bundie  
-**Published:** 6/3/2026, 4:04:55 AM  
+**Author:** grigio  
+**Published:** 6/3/2026, 10:45:40 AM  
 **Categories:** -  
 
-Article URL: https://www.neowin.net/news/vim-classic-debuts-with-its-first-release-as-a-vim-fork-without-ai-assistance/ Comments URL: https://news.ycombinator.com/item?id=48379768 Points: 4 # Comments: 0
+Article URL: https://grigio.org/w/ Comments URL: https://news.ycombinator.com/item?id=48382280 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.neowin.net/news/vim-classic-debuts-with-its-first-release-as-a-vim-fork-without-ai-assistance/)
+📖 [Read original article](https://grigio.org/w/)
 
 ---
 
-## 2. Type-Error Ablation and AI Coding Agents
+## 2. Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator
 
-**Author:** matt_d  
-**Published:** 6/3/2026, 3:51:34 AM  
+**Author:** berlianta  
+**Published:** 6/3/2026, 10:41:20 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2606.01522 Comments URL: https://news.ycombinator.com/item?id=48379694 Points: 1 # Comments: 0
+Article URL: https://red.anthropic.com/2026/attack-navigator/ Comments URL: https://news.ycombinator.com/item?id=48382242 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2606.01522)
+📖 [Read original article](https://red.anthropic.com/2026/attack-navigator/)
 
 ---
 
-## 3. U of T researchers demonstrate AI worm could target any online device
+## 3. AI and the Psychology of Cognitive Surrender
 
-**Author:** shscs911  
-**Published:** 6/3/2026, 3:47:21 AM  
+**Author:** xenophonf  
+**Published:** 6/3/2026, 10:37:43 AM  
 **Categories:** -  
 
-Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device Comments URL: https://news.ycombinator.com/item?id=48379664 Points: 2 # Comments: 0
+Article URL: https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-and-the-psychology-of-cognitive-surrender Comments URL: https://news.ycombinator.com/item?id=48382223 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
+📖 [Read original article](https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-and-the-psychology-of-cognitive-surrender)
 
 ---
 
-## 4. AI Overviews reduce clicks to the #1 result by 58%
+## 4. Why GPTHuman AI Is the Best AI Humanizer?
 
-**Author:** nreece  
-**Published:** 6/3/2026, 3:42:21 AM  
+**Author:** karl192001  
+**Published:** 6/3/2026, 10:37:19 AM  
 **Categories:** -  
 
-Article URL: https://twitter.com/timsoulo/status/2061796432534003866 Comments URL: https://news.ycombinator.com/item?id=48379626 Points: 2 # Comments: 0
+Article URL: https://gpthuman.ai/ Comments URL: https://news.ycombinator.com/item?id=48382213 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/timsoulo/status/2061796432534003866)
+📖 [Read original article](https://gpthuman.ai/)
 
 ---
 
-## 5. The Four Signals of AI Observability
+## 5. Zamicus+|+Dang.ai
 
-**Author:** iroha1203  
-**Published:** 6/3/2026, 3:13:42 AM  
+**Author:** VickyK09  
+**Published:** 6/3/2026, 10:31:52 AM  
 **Categories:** -  
 
-Article URL: https://thoughtbot.com/blog/the-four-signals-of-ai-observability Comments URL: https://news.ycombinator.com/item?id=48379461 Points: 2 # Comments: 0
+Article URL: https://dang.ai/tool/ai-marketing-intelligence-zamicus-com Comments URL: https://news.ycombinator.com/item?id=48382184 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thoughtbot.com/blog/the-four-signals-of-ai-observability)
+📖 [Read original article](https://dang.ai/tool/ai-marketing-intelligence-zamicus-com)
 
 ---
 
-## 6. Show HN: AI-Powered PDF to Markdown Converter
+## 6. The AI Question That No AI Person Asks [video]
 
-**Author:** QingWu  
-**Published:** 6/3/2026, 2:56:20 AM  
+**Author:** mantesso  
+**Published:** 6/3/2026, 10:30:47 AM  
 **Categories:** -  
 
-Turn complex PDFs into clean Markdown that people can review and AI tools can use. Comments URL: https://news.ycombinator.com/item?id=48379368 Points: 1 # Comments: 3
+Article URL: https://www.youtube.com/watch?v=o9Vbvp4awQU Comments URL: https://news.ycombinator.com/item?id=48382176 Points: 2 # Comments: 0
 
-📖 [Read original article](https://pdftomdconverter.com)
+📖 [Read original article](https://www.youtube.com/watch?v=o9Vbvp4awQU)
 
 ---
 
-## 7. Google's $80B equity raise adds to that giant AI sucking sound
+## 7. Google must let publishers opt out of AI Search features, rules UK
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/3/2026, 2:56:13 AM  
+**Author:** SockThief  
+**Published:** 6/3/2026, 10:21:07 AM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/2fe1fff9-f619-4a25-9b30-05bdc3bdea70 Comments URL: https://news.ycombinator.com/item?id=48379367 Points: 2 # Comments: 0
+Article URL: https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out Comments URL: https://news.ycombinator.com/item?id=48382126 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/2fe1fff9-f619-4a25-9b30-05bdc3bdea70)
+📖 [Read original article](https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out)
 
 ---
 
-## 8. AI Corporate Governance and Ben & Jerry's Risk
+## 8. What we learned mapping a year's worth of AI-enabled cyber threats
 
-**Author:** ChrisArchitect  
-**Published:** 6/3/2026, 2:53:01 AM  
+**Author:** surprisetalk  
+**Published:** 6/3/2026, 10:15:18 AM  
 **Categories:** -  
 
-Article URL: https://corpgov.law.harvard.edu/2026/05/11/ai-corporate-governance-and-ben-jerrys-risk/ Comments URL: https://news.ycombinator.com/item?id=48379349 Points: 1 # Comments: 1
+Article URL: https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack Comments URL: https://news.ycombinator.com/item?id=48382107 Points: 1 # Comments: 0
 
-📖 [Read original article](https://corpgov.law.harvard.edu/2026/05/11/ai-corporate-governance-and-ben-jerrys-risk/)
+📖 [Read original article](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack)
 
 ---
 
-## 9. More harmful than helpful': young people sour on AI
+## 9. You won't be talking to AI in natural language for too long
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/3/2026, 2:52:33 AM  
+**Author:** justanotheratom  
+**Published:** 6/3/2026, 10:12:12 AM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/73fc962e-ce68-4521-9c5d-841a666eed10 Comments URL: https://news.ycombinator.com/item?id=48379346 Points: 4 # Comments: 1
+Article URL: https://www.elicited.blog/posts/you-wont-be-talking-to-ai-in-natural-language-for-too-long Comments URL: https://news.ycombinator.com/item?id=48382088 Points: 2 # Comments: 3
 
-📖 [Read original article](https://www.ft.com/content/73fc962e-ce68-4521-9c5d-841a666eed10)
+📖 [Read original article](https://www.elicited.blog/posts/you-wont-be-talking-to-ai-in-natural-language-for-too-long)
 
 ---
 
-## 10. Show HN: LiteHarness – One SDK for Claude Agent, OpenAI Agent, Pi AI
+## 10. Mathematicians issue warning as AI rapidly gains ground
 
-**Author:** ij23  
-**Published:** 6/3/2026, 2:42:32 AM  
+**Author:** pseudolus  
+**Published:** 6/3/2026, 10:05:48 AM  
 **Categories:** -  
 
-We built this library because agent harnesses were too fragmented and we needed a simple abstraction to call multiple coding-agent SDKs.lite-harness has one function - query()import { query } from "@lite-harness/sdk";for await (const message of query({ prompt: "Fix the failing test", options: { // s...
+Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/item?id=48382052 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/LiteLLM-Labs/lite-harness)
+📖 [Read original article](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
 
 ---
 
-## 11. Show HN: SeaTicket – AI agent that resolve issues from GitHub, email and forums
+## 11. Gödel and Turing outlined the limits of AI
 
-**Author:** Daniel-Pan  
-**Published:** 6/3/2026, 2:38:31 AM  
+**Author:** bertman  
+**Published:** 6/3/2026, 9:54:05 AM  
 **Categories:** -  
 
-https://seaticket.ai/ Comments URL: https://news.ycombinator.com/item?id=48379253 Points: 1 # Comments: 1
+Article URL: https://www.heise.de/en/blog/How-Goedel-and-Turing-outlined-the-limits-of-AI-11313804.html Comments URL: https://news.ycombinator.com/item?id=48381981 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48379253)
+📖 [Read original article](https://www.heise.de/en/blog/How-Goedel-and-Turing-outlined-the-limits-of-AI-11313804.html)
 
 ---
 
-## 12. I left the Alan Turing Institute to join 'game-changer' AI lab
+## 12. Google Is Quietly Buying Code from Play Store Developers to Train AI
 
-**Author:** petethomas  
-**Published:** 6/3/2026, 2:31:21 AM  
+**Author:** beardyw  
+**Published:** 6/3/2026, 9:47:16 AM  
 **Categories:** -  
 
-Article URL: https://www.thetimes.com/business/technology/article/alan-turing-institute-new-ai-lab-nskdppnjb Comments URL: https://news.ycombinator.com/item?id=48379187 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.thetimes.com/business/technology/article/alan-turing-institute-new-ai-lab-nskdppnjb)
-
----
-
-## 13. Running an AI-native engineering org – Claude
-
-**Author:** ddl  
-**Published:** 6/3/2026, 2:28:10 AM  
-**Categories:** -  
-
-Article URL: https://claude.com/blog/running-an-ai-native-engineering-org Comments URL: https://news.ycombinator.com/item?id=48379164 Points: 2 # Comments: 0
-
-📖 [Read original article](https://claude.com/blog/running-an-ai-native-engineering-org)
-
----
-
-## 14. Ask HN: Feedback on an AI-driven \"Life RPG\" for real-world skill building?
-
-**Author:** MixasETH  
-**Published:** 6/3/2026, 2:19:27 AM  
-**Categories:** -  
-
-Hi, HN.I'm newbie here, but I'm getting the hang of things quickly. I'm currently working on a concept for an app that turns real-life self-development and skill leveling into a true RPG.I'm a tech specialist (I code in Python, creating AI assistants), and I'm tired of boring, dry task managers. I w...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48379087)
-
----
-
-## 15. Free daily AI brief from your Garmin data (Gemini and GitHub Actions)
-
-**Author:** deep0410xd  
-**Published:** 6/3/2026, 2:12:09 AM  
-**Categories:** -  
-
-Article URL: https://github.com/deep0410/garmin-ai-notifier Comments URL: https://news.ycombinator.com/item?id=48379018 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/deep0410/garmin-ai-notifier)
-
----
-
-## 16. Google is paying Play Store developers for code to train its AI
-
-**Author:** bundie  
-**Published:** 6/3/2026, 1:39:28 AM  
-**Categories:** -  
-
-Article URL: https://www.neowin.net/reports/google-wants-to-pay-play-store-developers-for-code-to-train-its-ai/ Comments URL: https://news.ycombinator.com/item?id=48378737 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.neowin.net/reports/google-wants-to-pay-play-store-developers-for-code-to-train-its-ai/)
-
----
-
-## 17. AI Dark Output: The Visible Cost of Invisible Output
-
-**Author:** paulpauper  
-**Published:** 6/3/2026, 1:18:21 AM  
-**Categories:** -  
-
-Article URL: https://newsletter.semianalysis.com/p/ai-dark-output-the-visible-cost-of Comments URL: https://news.ycombinator.com/item?id=48378551 Points: 1 # Comments: 0
-
-📖 [Read original article](https://newsletter.semianalysis.com/p/ai-dark-output-the-visible-cost-of)
-
----
-
-## 18. A cryptographically verifiable state-transition engine for AI systems
-
-**Author:** GregariousApe  
-**Published:** 6/3/2026, 12:56:04 AM  
-**Categories:** -  
-
-Article URL: https://github.com/Ghoti6098/AgenticOS Comments URL: https://news.ycombinator.com/item?id=48378312 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/Ghoti6098/AgenticOS)
-
----
-
-## 19. Instagram accounts hacked using Meta AI
-
-**Author:** mgh2  
-**Published:** 6/3/2026, 12:25:18 AM  
-**Categories:** -  
-
-Article URL: https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/ Comments URL: https://news.ycombinator.com/item?id=48378078 Points: 3 # Comments: 1
-
-📖 [Read original article](https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/)
-
----
-
-## 20. Google Is Quietly Buying Code from Play Store Developers to Train AI
-
-**Author:** SpyCoder77  
-**Published:** 6/3/2026, 12:19:11 AM  
-**Categories:** -  
-
-Article URL: https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=48378030 Points: 9 # Comments: 1
+Article URL: https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=48381922 Points: 3 # Comments: 1
 
 📖 [Read original article](https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/)
+
+---
+
+## 13. Tech CEOs Are Using AI as the Perfect Scapegoat for Mass Layoffs
+
+**Author:** robtherobber  
+**Published:** 6/3/2026, 9:39:43 AM  
+**Categories:** -  
+
+Article URL: https://www.gadgetreview.com/tech-ceos-are-using-ai-as-the-perfect-scapegoat-for-mass-layoffs Comments URL: https://news.ycombinator.com/item?id=48381875 Points: 4 # Comments: 1
+
+📖 [Read original article](https://www.gadgetreview.com/tech-ceos-are-using-ai-as-the-perfect-scapegoat-for-mass-layoffs)
+
+---
+
+## 14. AI-Generated Code Security Review Is Broken
+
+**Author:** rihabz  
+**Published:** 6/3/2026, 9:34:11 AM  
+**Categories:** -  
+
+Article URL: https://brunelly.com/ Comments URL: https://news.ycombinator.com/item?id=48381837 Points: 2 # Comments: 0
+
+📖 [Read original article](https://brunelly.com/)
+
+---
+
+## 15. Makerend – AI API
+
+**Author:** dustar  
+**Published:** 6/3/2026, 9:29:57 AM  
+**Categories:** -  
+
+Article URL: https://makerend.com Comments URL: https://news.ycombinator.com/item?id=48381814 Points: 1 # Comments: 1
+
+📖 [Read original article](https://makerend.com)
+
+---
+
+## 16. AI Won't Replace Your DevOps Pipeline – But It Will Expose How Fragile It Is
+
+**Author:** talvardi7  
+**Published:** 6/3/2026, 9:01:17 AM  
+**Categories:** -  
+
+Article URL: https://theaileverageweekly.com/posts/ai-won-t-replace-your-devops-pipeline-but-it-will-expose-how-fragile-i.html Comments URL: https://news.ycombinator.com/item?id=48381618 Points: 2 # Comments: 0
+
+📖 [Read original article](https://theaileverageweekly.com/posts/ai-won-t-replace-your-devops-pipeline-but-it-will-expose-how-fragile-i.html)
+
+---
+
+## 17. Cognizant CEO is hiring 20K+ graduates and says AI tokenmaxxing is vanity metric
+
+**Author:** Markoff  
+**Published:** 6/3/2026, 8:45:44 AM  
+**Categories:** -  
+
+Article URL: https://fortune.com/2026/06/01/cognizant-ceo-ravi-kumar-s-hiring-entry-level-tokenmaxxing-vanity-metric/ Comments URL: https://news.ycombinator.com/item?id=48381507 Points: 1 # Comments: 1
+
+📖 [Read original article](https://fortune.com/2026/06/01/cognizant-ceo-ravi-kumar-s-hiring-entry-level-tokenmaxxing-vanity-metric/)
+
+---
+
+## 18. Microsoft's Project Solara is an OS for AI agent gadgets
+
+**Author:** onel  
+**Published:** 6/3/2026, 8:41:11 AM  
+**Categories:** -  
+
+Article URL: https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets Comments URL: https://news.ycombinator.com/item?id=48381474 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets)
+
+---
+
+## 19. DigitalOcean says it is now an OpenRouter AI model provider
+
+**Author:** theanonymousone  
+**Published:** 6/3/2026, 8:25:50 AM  
+**Categories:** -  
+
+Article URL: https://runtimewire.com/article/digitalocean-openrouter-ai-model-provider Comments URL: https://news.ycombinator.com/item?id=48381374 Points: 1 # Comments: 0
+
+📖 [Read original article](https://runtimewire.com/article/digitalocean-openrouter-ai-model-provider)
+
+---
+
+## 20. Publishers in UK can opt out of Google AI search results
+
+**Author:** todd-davies  
+**Published:** 6/3/2026, 8:13:23 AM  
+**Categories:** -  
+
+Article URL: https://www.bbc.co.uk/news/articles/c775pp26yz5o Comments URL: https://news.ycombinator.com/item?id=48381299 Points: 8 # Comments: 5
+
+📖 [Read original article](https://www.bbc.co.uk/news/articles/c775pp26yz5o)
 
 ---
