@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. As AI gets better, it reveals an empty promise
+## 1. The Jo Language: Secure Programming for the AI Era
 
-**Author:** heyts  
-**Published:** 6/4/2026, 9:54:03 AM  
+**Author:** theanonymousone  
+**Published:** 6/4/2026, 3:14:13 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise Comments URL: https://news.ycombinator.com/item?id=48396354 Points: 1 # Comments: 0
+Article URL: https://jo-lang.org/ Comments URL: https://news.ycombinator.com/item?id=48399905 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise)
+📖 [Read original article](https://jo-lang.org/)
 
 ---
 
-## 2. Training Data for Bio AI Models
+## 2. AI Disrupted My YouTube Business. So I Got a Job [video]
 
-**Author:** sebg  
-**Published:** 6/4/2026, 9:52:00 AM  
+**Author:** chakintosh  
+**Published:** 6/4/2026, 3:09:13 PM  
 **Categories:** -  
 
-Article URL: https://research.dimensioncap.com/p/on-training-data-for-bio-ai-models Comments URL: https://news.ycombinator.com/item?id=48396340 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=AQVyHXZWILo Comments URL: https://news.ycombinator.com/item?id=48399834 Points: 1 # Comments: 0
 
-📖 [Read original article](https://research.dimensioncap.com/p/on-training-data-for-bio-ai-models)
+📖 [Read original article](https://www.youtube.com/watch?v=AQVyHXZWILo)
 
 ---
 
-## 3. Replacing Bash with Swift in an AI Harness
+## 3. Wiki Race Against AI
 
-**Author:** ianhxu  
-**Published:** 6/4/2026, 9:38:38 AM  
+**Author:** yarv  
+**Published:** 6/4/2026, 2:53:08 PM  
 **Categories:** -  
 
-Article URL: https://alejandromp.com/development/blog/replacing-bash-with-swift-in-an-ai-harness/ Comments URL: https://news.ycombinator.com/item?id=48396260 Points: 2 # Comments: 0
+Article URL: https://www.wikiraceai.com Comments URL: https://news.ycombinator.com/item?id=48399599 Points: 1 # Comments: 1
 
-📖 [Read original article](https://alejandromp.com/development/blog/replacing-bash-with-swift-in-an-ai-harness/)
+📖 [Read original article](https://www.wikiraceai.com)
 
 ---
 
-## 4. AI enthusiasts are in a race against time, AI skeptics in a race against entropy
+## 4. AI, Ashby Engineering, and the Future
 
-**Author:** adunk  
-**Published:** 6/4/2026, 9:15:03 AM  
+**Author:** fredley  
+**Published:** 6/4/2026, 2:48:44 PM  
 **Categories:** -  
 
-Article URL: https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against Comments URL: https://news.ycombinator.com/item?id=48396118 Points: 2 # Comments: 0
+Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 2 # Comments: 0
 
-📖 [Read original article](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against)
+📖 [Read original article](https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future)
 
 ---
 
-## 5. Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search
+## 5. Show HN: Black-box API bug detection across 7 AI systems
 
-**Author:** RobotToaster  
-**Published:** 6/4/2026, 8:41:23 AM  
+**Author:** riyajoshi  
+**Published:** 6/4/2026, 2:42:40 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/ Comments URL: https://news.ycombinator.com/item?id=48395905 Points: 4 # Comments: 1
+Article URL: https://resources.kusho.ai/ai-agent-benchmark-api-bug-detection Comments URL: https://news.ycombinator.com/item?id=48399429 Points: 8 # Comments: 4
 
-📖 [Read original article](https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/)
+📖 [Read original article](https://resources.kusho.ai/ai-agent-benchmark-api-bug-detection)
 
 ---
 
-## 6. Google to add sources in AI Searches, allow to opt out following UK ruling
+## 6. Solving the Worlds Hardest Problems with AI
 
-**Author:** xyzal  
-**Published:** 6/4/2026, 8:35:32 AM  
+**Author:** benzingtech  
+**Published:** 6/4/2026, 2:40:02 PM  
 **Categories:** -  
 
-Article URL: https://sfist.com/2026/06/03/google-to-add-clearer-attributions-to-ai-searches-allow-sites-to-opt-out-following-ruling-in-uk/ Comments URL: https://news.ycombinator.com/item?id=48395865 Points: 4 # Comments: 0
+Article URL: https://worldproblemssolved.com Comments URL: https://news.ycombinator.com/item?id=48399383 Points: 2 # Comments: 2
 
-📖 [Read original article](https://sfist.com/2026/06/03/google-to-add-clearer-attributions-to-ai-searches-allow-sites-to-opt-out-following-ruling-in-uk/)
+📖 [Read original article](https://worldproblemssolved.com)
 
 ---
 
-## 7. OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons
+## 7. Show HN: AgentKitten: Swift package for provider-agnostic AI agents
 
-**Author:** dangoldbj  
-**Published:** 6/4/2026, 8:30:22 AM  
+**Author:** fbeeper  
+**Published:** 6/4/2026, 2:37:55 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/ Comments URL: https://news.ycombinator.com/item?id=48395821 Points: 3 # Comments: 0
+Article URL: https://github.com/fbeeper/agentkitten Comments URL: https://news.ycombinator.com/item?id=48399345 Points: 6 # Comments: 1
 
-📖 [Read original article](https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/)
+📖 [Read original article](https://github.com/fbeeper/agentkitten)
 
 ---
 
-## 8. AgentRail. An AI-agent friendly layer for websites
+## 8. Show HN: Getting into Physical AI and Robotics
 
-**Author:** xgharibyan  
-**Published:** 6/4/2026, 8:22:32 AM  
+**Author:** airwarmedd  
+**Published:** 6/4/2026, 2:32:56 PM  
 **Categories:** -  
 
-Article URL: https://github.com/gharibyan/agentrail Comments URL: https://news.ycombinator.com/item?id=48395755 Points: 1 # Comments: 0
+I started reading about Build AI when I come across their launch in Feb and couldn't stop noticing all these new companies talking about selling data for robots.Would appreciate any thoughts on how I can learn more, link: https://x.com/airwarmedd/status/2051270391692497253 Comments URL: https://news...
 
-📖 [Read original article](https://github.com/gharibyan/agentrail)
+📖 [Read original article](https://news.ycombinator.com/item?id=48399271)
 
 ---
 
-## 9. Memory AI Server Aims to Shatter the Memory Wall
+## 9. AI as a Context Compiler
 
-**Author:** rbanffy  
-**Published:** 6/4/2026, 8:06:48 AM  
+**Author:** dominiek  
+**Published:** 6/4/2026, 2:30:43 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/huge-memory-ai-server Comments URL: https://news.ycombinator.com/item?id=48395641 Points: 2 # Comments: 0
+Article URL: https://dominiek.substack.com/p/ai-as-a-context-compiler Comments URL: https://news.ycombinator.com/item?id=48399229 Points: 2 # Comments: 0
 
-📖 [Read original article](https://spectrum.ieee.org/huge-memory-ai-server)
+📖 [Read original article](https://dominiek.substack.com/p/ai-as-a-context-compiler)
 
 ---
 
-## 10. Where AI agents pay off
+## 10. Hackers Asked Meta AI for Passwords. Meta AI Said Yes
 
-**Author:** ricokahler  
-**Published:** 6/4/2026, 7:31:25 AM  
+**Author:** rdstrtwlkr  
+**Published:** 6/4/2026, 2:21:27 PM  
 **Categories:** -  
 
-Article URL: https://rico.codes/agents Comments URL: https://news.ycombinator.com/item?id=48395362 Points: 1 # Comments: 0
+Article URL: https://medium.com/@tbelbek/hackers-asked-meta-ai-for-passwords-meta-ai-said-yes-b17c9129ce1b Comments URL: https://news.ycombinator.com/item?id=48399075 Points: 2 # Comments: 2
 
-📖 [Read original article](https://rico.codes/agents)
+📖 [Read original article](https://medium.com/@tbelbek/hackers-asked-meta-ai-for-passwords-meta-ai-said-yes-b17c9129ce1b)
 
 ---
 
-## 11. Gate – deterministic PII redaction for AI agent tool output (Rust)
+## 11. What Bun Can Tell Us About AI, Open Source and Anthropic
 
-**Author:** gzhuuu  
-**Published:** 6/4/2026, 7:28:09 AM  
+**Author:** mkeeter  
+**Published:** 6/4/2026, 2:15:39 PM  
 **Categories:** -  
 
-Article URL: https://github.com/GaaraZhu/gate Comments URL: https://news.ycombinator.com/item?id=48395321 Points: 1 # Comments: 0
+Article URL: https://redmonk.com/sogrady/2026/06/04/bun-two-lessons/ Comments URL: https://news.ycombinator.com/item?id=48399002 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/GaaraZhu/gate)
+📖 [Read original article](https://redmonk.com/sogrady/2026/06/04/bun-two-lessons/)
 
 ---
 
-## 12. More US Firms Turn to China's DeepSeek over Pricey Silicon Valley AI
+## 12. Sangam Tamil literature search engine with AI explanations
 
-**Author:** giuliomagnifico  
-**Published:** 6/4/2026, 7:18:28 AM  
+**Author:** laxmena  
+**Published:** 6/4/2026, 2:14:56 PM  
 **Categories:** -  
 
-Article URL: https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai Comments URL: https://news.ycombinator.com/item?id=48395232 Points: 2 # Comments: 0
+Article URL: http://sangam.tamilnlp.com/mp/json/ai.html Comments URL: https://news.ycombinator.com/item?id=48398995 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai)
+📖 [Read original article](http://sangam.tamilnlp.com/mp/json/ai.html)
 
 ---
 
-## 13. Asd: A fast, AI-native cat replacement written in Go
+## 13. First clinical pregnancy following AI-based sperm detection and recovery
 
-**Author:** vsmanu  
-**Published:** 6/4/2026, 7:17:25 AM  
+**Author:** smusamashah  
+**Published:** 6/4/2026, 2:14:12 PM  
 **Categories:** -  
 
-Article URL: https://github.com/orchestrator-dev/asd Comments URL: https://news.ycombinator.com/item?id=48395218 Points: 1 # Comments: 1
+Article URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01623-X/fulltext Comments URL: https://news.ycombinator.com/item?id=48398984 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/orchestrator-dev/asd)
+📖 [Read original article](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01623-X/fulltext)
 
 ---
 
-## 14. Ask HN: What are your AI assistants doing?
+## 14. Top AI CEOs Call for Law Protecting Against Biological Weapons
 
-**Author:** teekert  
-**Published:** 6/4/2026, 7:14:48 AM  
+**Author:** wrsh07  
+**Published:** 6/4/2026, 2:11:35 PM  
 **Categories:** -  
 
-I recently installed OpenClaw (on a Hetzner VM, far away from my things). The setup was pretty easy and we got chatting over Telegram quickly.At them moment it has some tasks, mostly periodic/cron:- Scan TenderNet (public procurement website of my government) API for new procurements. Match to my pr...
+Article URL: https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f Comments URL: https://news.ycombinator.com/item?id=48398939 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48395194)
+📖 [Read original article](https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f)
 
 ---
 
-## 15. My AI Agent Lives in My Notes App
+## 15. Let us filter AI slop, you cowards
 
-**Author:** wapasta  
-**Published:** 6/4/2026, 7:09:46 AM  
+**Author:** stalfosknight  
+**Published:** 6/4/2026, 2:08:40 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@amatyushentsev/my-ai-agent-lives-in-my-notes-app-7c5d79c72126 Comments URL: https://news.ycombinator.com/item?id=48395153 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok Comments URL: https://news.ycombinator.com/item?id=48398902 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@amatyushentsev/my-ai-agent-lives-in-my-notes-app-7c5d79c72126)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok)
 
 ---
 
-## 16. Companies' AI Bills Are Bigger Than Ever – and Coming Due
+## 16. Teradata CEO to staff: You're not getting a raise. We're spending on AI instead
 
-**Author:** petethomas  
-**Published:** 6/4/2026, 6:43:05 AM  
+**Author:** healsdata  
+**Published:** 6/4/2026, 1:56:41 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/opinion/articles/2026-06-04/the-ai-boom-s-next-test-is-the-roi-worth-the-cost Comments URL: https://news.ycombinator.com/item?id=48394923 Points: 3 # Comments: 0
+Article URL: https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6 Comments URL: https://news.ycombinator.com/item?id=48398718 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/opinion/articles/2026-06-04/the-ai-boom-s-next-test-is-the-roi-worth-the-cost)
+📖 [Read original article](https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6)
 
 ---
 
-## 17. Hscli – A Scriptable Help Scout CLI for Terminals, CI, and AI Agents
+## 17. Design and engineering solve different problems; AI is forgetting that
 
-**Author:** wavyx  
-**Published:** 6/4/2026, 6:34:11 AM  
+**Author:** speckx  
+**Published:** 6/4/2026, 1:45:13 PM  
 **Categories:** -  
 
-Article URL: https://wavyx.github.io/hscli/ Comments URL: https://news.ycombinator.com/item?id=48394847 Points: 1 # Comments: 0
+Article URL: https://www.jeana.dev/thoughts/2026/04/ai-for-designers/ Comments URL: https://news.ycombinator.com/item?id=48398583 Points: 2 # Comments: 0
 
-📖 [Read original article](https://wavyx.github.io/hscli/)
+📖 [Read original article](https://www.jeana.dev/thoughts/2026/04/ai-for-designers/)
 
 ---
 
-## 18. Law professors prefer AI over peer answers 75% of the time [pdf]
+## 18. Less than 4% Australians trust AI companies
 
-**Author:** jlaneve  
-**Published:** 6/4/2026, 6:22:21 AM  
+**Author:** soundworlds  
+**Published:** 6/4/2026, 1:40:19 PM  
 **Categories:** -  
 
-Article URL: https://law.stanford.edu/wp-content/uploads/2026/06/salinas_et_al.pdf Comments URL: https://news.ycombinator.com/item?id=48394750 Points: 1 # Comments: 0
+Article URL: https://www.abc.net.au/news/2026-06-04/artificial-intelligence-australians-trust-survey-pope-leo-ai/106745098 Comments URL: https://news.ycombinator.com/item?id=48398508 Points: 3 # Comments: 0
 
-📖 [Read original article](https://law.stanford.edu/wp-content/uploads/2026/06/salinas_et_al.pdf)
+📖 [Read original article](https://www.abc.net.au/news/2026-06-04/artificial-intelligence-australians-trust-survey-pope-leo-ai/106745098)
 
 ---
 
-## 19. Opting Out of the AI Boom
+## 19. Show HN: Hello Inbox – Your AI Email Deliverability Expert, Available 24/7
 
-**Author:** m-hodges  
-**Published:** 6/4/2026, 6:10:43 AM  
+**Author:** ismaelyws  
+**Published:** 6/4/2026, 1:38:55 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/opinion/newsletters/2026-06-03/opting-out-of-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=48394662 Points: 3 # Comments: 0
+Article URL: https://www.helloinbox.email/ Comments URL: https://news.ycombinator.com/item?id=48398490 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/opinion/newsletters/2026-06-03/opting-out-of-the-ai-boom)
+📖 [Read original article](https://www.helloinbox.email/)
 
 ---
 
-## 20. Embodied Cognition and Agentic AI
+## 20. Pairing AI with Optical Device to Correct Distorted Light for Sharper Imaging
 
-**Author:** signa11  
-**Published:** 6/4/2026, 6:07:33 AM  
+**Author:** geox  
+**Published:** 6/4/2026, 1:37:50 PM  
 **Categories:** -  
 
-Article URL: https://lemire.me/blog/2026/05/28/embodied-cognition-and-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=48394638 Points: 1 # Comments: 0
+Article URL: https://qi.ucsd.edu/uc-san-diego-team-pairs-ai-with-tiny-optical-device-to-correct-distorted-light-for-sharper-imaging/ Comments URL: https://news.ycombinator.com/item?id=48398476 Points: 1 # Comments: 0
 
-📖 [Read original article](https://lemire.me/blog/2026/05/28/embodied-cognition-and-agentic-ai/)
+📖 [Read original article](https://qi.ucsd.edu/uc-san-diego-team-pairs-ai-with-tiny-optical-device-to-correct-distorted-light-for-sharper-imaging/)
 
 ---
