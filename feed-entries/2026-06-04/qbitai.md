@@ -2,16 +2,52 @@
 title: "qbitai - 2026-06-04"
 date: "2026-06-04"
 source: "qbitai"
-count: 9
+count: 10
 ---
 
 # qbitai - 2026-06-04
 
-9 items collected.
+10 items collected.
 
 ---
 
-## 1. 连GitLab都开始裁程序员了
+## 1. 重估比亚迪，从智驾开始
+
+**Author:** 量子位的朋友们  
+**Published:** 6/4/2026, 1:10:19 PM  
+**Categories:** 资讯  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/06/429192.html)
+
+---
+
+## 2. 中国足球小将夺冠，比亚迪携手足球少年走向世界
+
+**Author:** 智能车参考  
+**Published:** 6/4/2026, 1:00:31 PM  
+**Categories:** 资讯  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/06/429186.html)
+
+---
+
+## 3. CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI
+
+**Author:** 贾浩楠  
+**Published:** 6/4/2026, 11:56:35 AM  
+**Categories:** 首页轮播  
+
+率先实现物理AI闭环飞轮
+
+📖 [Read original article](https://www.qbitai.com/2026/06/429130.html)
+
+---
+
+## 4. 连GitLab都开始裁程序员了
 
 **Author:** 一水  
 **Published:** 6/4/2026, 8:54:13 AM  
@@ -23,7 +59,7 @@ count: 9
 
 ---
 
-## 2. A股账户可以买Robotaxi了
+## 5. A股账户可以买Robotaxi了
 
 **Author:** 杰西卡  
 **Published:** 6/4/2026, 7:41:33 AM  
@@ -35,7 +71,7 @@ Robotaxi双雄同日官宣
 
 ---
 
-## 3. 英博数科亮相CCIG 2026，首次公开EBFlex私有化算力管理平台
+## 6. 英博数科亮相CCIG 2026，首次公开EBFlex私有化算力管理平台
 
 **Author:** 量子位的朋友们  
 **Published:** 6/4/2026, 7:25:26 AM  
@@ -47,7 +83,7 @@ Robotaxi双雄同日官宣
 
 ---
 
-## 4. 比亚迪与中国石化深化战略合作 共建智慧能源生态
+## 7. 比亚迪与中国石化深化战略合作 共建智慧能源生态
 
 **Author:** 量子位的朋友们  
 **Published:** 6/4/2026, 6:58:07 AM  
@@ -59,7 +95,7 @@ Robotaxi双雄同日官宣
 
 ---
 
-## 5. LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局
+## 8. LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局
 
 **Author:** 听雨  
 **Published:** 6/4/2026, 3:43:37 AM  
@@ -71,7 +107,7 @@ Robotaxi双雄同日官宣
 
 ---
 
-## 6. 一个GPT Plus会员的钱，够机器人跑一个月世界模型了
+## 9. 一个GPT Plus会员的钱，够机器人跑一个月世界模型了
 
 **Author:** henry  
 **Published:** 6/4/2026, 3:10:23 AM  
@@ -83,7 +119,7 @@ Robotaxi双雄同日官宣
 
 ---
 
-## 7. 戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型
+## 10. 戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型
 
 **Author:** 衡宇  
 **Published:** 6/4/2026, 3:06:59 AM  
@@ -92,29 +128,5 @@ Robotaxi双雄同日官宣
 甩开视觉内卷
 
 📖 [Read original article](https://www.qbitai.com/2026/06/428778.html)
-
----
-
-## 8. 扣子3.0实测：手机就能远程遥控你电脑里的Agent
-
-**Author:** 十三  
-**Published:** 6/4/2026, 1:37:49 AM  
-**Categories:** 资讯, 首页轮播, Vibe Coding, 扣子, 扣子3.0  
-
-桌面、电脑、手机，三端打通
-
-📖 [Read original article](https://www.qbitai.com/2026/06/428648.html)
-
----
-
-## 9. 刚刚，李飞飞亲自下场定义世界模型
-
-**Author:** 鱼羊  
-**Published:** 6/4/2026, 12:44:04 AM  
-**Categories:** 资讯, 世界模型, 李飞飞  
-
-渲染、模拟、规划，三大功能的边界正在消融
-
-📖 [Read original article](https://www.qbitai.com/2026/06/428752.html)
 
 ---
