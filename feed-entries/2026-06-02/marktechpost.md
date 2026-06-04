@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-02"
 date: "2026-06-02"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-06-02
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Qwen3.7-Plus is Alibaba's multimodal agent model on Bailian, understanding image
 JetBrains releases Mellum2 under Apache 2.0 — a 12B MoE model trained on 10.6 trillion tokens for AI workflows. The post JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines appeared first on MarkTechPost.
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/)
-
----
-
-## 4. How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp
-
-**Author:** Sana Hassan  
-**Published:** 6/2/2026, 1:39:13 AM  
-**Categories:** Applications, Artificial Intelligence, Deep Learning, Editors Pick, Machine Learning, Staff, Technology, Tutorials  
-
-We build NVIDIA Apex from source, detect fused kernels, and benchmark FusedAdam, FusedLayerNorm, and torch.amp in Transformer training. The post How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp appeared first on MarkTechPost.
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/)
 
 ---
