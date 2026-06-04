@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-02"
 date: "2026-06-02"
 source: "qbitai"
-count: 6
+count: 2
 ---
 
 # qbitai - 2026-06-02
 
-6 items collected.
+2 items collected.
 
 ---
 
@@ -32,53 +32,5 @@ count: 6
 还挖走了苏炜杰
 
 📖 [Read original article](https://www.qbitai.com/2026/06/428003.html)
-
----
-
-## 3. 头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！
-
-**Author:** 鹭羽  
-**Published:** 6/2/2026, 2:52:01 PM  
-**Categories:** 资讯, 首页轮播, Agent, 达人营销  
-
-平台入驻全球达人已超10万
-
-📖 [Read original article](https://www.qbitai.com/2026/06/427922.html)
-
----
-
-## 4. 橡木果发布“本能驱动”技术路线，开辟自下而上具身智能新范式
-
-**Author:** 量子位的朋友们  
-**Published:** 6/2/2026, 1:01:45 PM  
-**Categories:** 资讯, 橡木果  
-
-自下而上，从底层本能出发
-
-📖 [Read original article](https://www.qbitai.com/2026/06/428413.html)
-
----
-
-## 5. 滴滴2026Q1财报：国内基本盘稳固 国际业务成第二增长引擎
-
-**Author:** 量子位的朋友们  
-**Published:** 6/2/2026, 12:28:08 PM  
-**Categories:** 资讯, 滴滴出行  
-
-日均订单刷新历史纪录至3940万单
-
-📖 [Read original article](https://www.qbitai.com/2026/06/428331.html)
-
----
-
-## 6. 字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手
-
-**Author:** 梦瑶  
-**Published:** 6/2/2026, 9:28:00 AM  
-**Categories:** 资讯, 字节  
-
-AI视频编辑先理解再动手
-
-📖 [Read original article](https://www.qbitai.com/2026/06/427810.html)
 
 ---
