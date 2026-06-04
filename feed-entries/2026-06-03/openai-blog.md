@@ -35,19 +35,7 @@ See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, 
 
 ---
 
-## 3. A blueprint for democratic governance of frontier AI
-
-**Author:** -  
-**Published:** 6/3/2026, 10:00:00 AM  
-**Categories:** Global Affairs  
-
-OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.
-
-📖 [Read original article](https://openai.com/index/frontier-safety-blueprint)
-
----
-
-## 4. OpenAI public policy agenda
+## 3. OpenAI public policy agenda
 
 **Author:** -  
 **Published:** 6/3/2026, 10:00:00 AM  
@@ -56,5 +44,17 @@ OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a fede
 OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.
 
 📖 [Read original article](https://openai.com/index/public-policy-agenda)
+
+---
+
+## 4. A blueprint for democratic governance of frontier AI
+
+**Author:** -  
+**Published:** 6/3/2026, 10:00:00 AM  
+**Categories:** Global Affairs  
+
+OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.
+
+📖 [Read original article](https://openai.com/index/frontier-safety-blueprint)
 
 ---
