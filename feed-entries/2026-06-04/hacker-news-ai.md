@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Will OSS that does not use AI disappear?
+## 1. As AI gets better, it reveals an empty promise
 
-**Author:** kotauchisunsun  
-**Published:** 6/4/2026, 4:11:48 AM  
+**Author:** heyts  
+**Published:** 6/4/2026, 9:54:03 AM  
 **Categories:** -  
 
-Article URL: https://ai-coding.info/reports/articles/20260603 Comments URL: https://news.ycombinator.com/item?id=48393710 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise Comments URL: https://news.ycombinator.com/item?id=48396354 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ai-coding.info/reports/articles/20260603)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise)
 
 ---
 
-## 2. Show HN: X402-express. Pay-per-call HTTP 402 middleware for AI agents on Base L2
+## 2. Training Data for Bio AI Models
 
-**Author:** m2mcent  
-**Published:** 6/4/2026, 3:57:29 AM  
+**Author:** sebg  
+**Published:** 6/4/2026, 9:52:00 AM  
 **Categories:** -  
 
-Article URL: https://github.com/Evozim/m2mcent-sdk Comments URL: https://news.ycombinator.com/item?id=48393601 Points: 1 # Comments: 0
+Article URL: https://research.dimensioncap.com/p/on-training-data-for-bio-ai-models Comments URL: https://news.ycombinator.com/item?id=48396340 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Evozim/m2mcent-sdk)
+📖 [Read original article](https://research.dimensioncap.com/p/on-training-data-for-bio-ai-models)
 
 ---
 
-## 3. Show HN: Apertis – OpenAI-compatible API gateway for 470 AI models
+## 3. Replacing Bash with Swift in an AI Harness
 
-**Author:** thequert  
-**Published:** 6/4/2026, 3:54:35 AM  
+**Author:** ianhxu  
+**Published:** 6/4/2026, 9:38:38 AM  
 **Categories:** -  
 
-Article URL: https://apertis.ai/ Comments URL: https://news.ycombinator.com/item?id=48393576 Points: 1 # Comments: 0
+Article URL: https://alejandromp.com/development/blog/replacing-bash-with-swift-in-an-ai-harness/ Comments URL: https://news.ycombinator.com/item?id=48396260 Points: 2 # Comments: 0
 
-📖 [Read original article](https://apertis.ai/)
+📖 [Read original article](https://alejandromp.com/development/blog/replacing-bash-with-swift-in-an-ai-harness/)
 
 ---
 
-## 4. Trump signs AI order asking companies to give government early access to models
+## 4. AI enthusiasts are in a race against time, AI skeptics in a race against entropy
 
-**Author:** personjerry  
-**Published:** 6/4/2026, 3:54:29 AM  
+**Author:** adunk  
+**Published:** 6/4/2026, 9:15:03 AM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html Comments URL: https://news.ycombinator.com/item?id=48393575 Points: 2 # Comments: 1
+Article URL: https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against Comments URL: https://news.ycombinator.com/item?id=48396118 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html)
+📖 [Read original article](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against)
 
 ---
 
-## 5. The EU Cloud and AI Development Act: What It Gets Right, and What It Still Needs
+## 5. Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search
 
-**Author:** Tomte  
-**Published:** 6/4/2026, 3:48:03 AM  
+**Author:** RobotToaster  
+**Published:** 6/4/2026, 8:41:23 AM  
 **Categories:** -  
 
-Article URL: https://www.suse.com/c/eu-cloud-ai-development-act-open-source-first/ Comments URL: https://news.ycombinator.com/item?id=48393521 Points: 1 # Comments: 0
+Article URL: https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/ Comments URL: https://news.ycombinator.com/item?id=48395905 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.suse.com/c/eu-cloud-ai-development-act-open-source-first/)
+📖 [Read original article](https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/)
 
 ---
 
-## 6. Sam Altman has a proposition for startup founders: AI tokens for equity
+## 6. Google to add sources in AI Searches, allow to opt out following UK ruling
 
-**Author:** mgh2  
-**Published:** 6/4/2026, 3:42:12 AM  
+**Author:** xyzal  
+**Published:** 6/4/2026, 8:35:32 AM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/sam-altman-openai-offer-tokens-for-startup-equity-y-combinator-2026-5 Comments URL: https://news.ycombinator.com/item?id=48393473 Points: 3 # Comments: 1
+Article URL: https://sfist.com/2026/06/03/google-to-add-clearer-attributions-to-ai-searches-allow-sites-to-opt-out-following-ruling-in-uk/ Comments URL: https://news.ycombinator.com/item?id=48395865 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.businessinsider.com/sam-altman-openai-offer-tokens-for-startup-equity-y-combinator-2026-5)
+📖 [Read original article](https://sfist.com/2026/06/03/google-to-add-clearer-attributions-to-ai-searches-allow-sites-to-opt-out-following-ruling-in-uk/)
 
 ---
 
-## 7. Beware of infinite loops when using AI
+## 7. OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons
 
-**Author:** knocte  
-**Published:** 6/4/2026, 3:26:37 AM  
+**Author:** dangoldbj  
+**Published:** 6/4/2026, 8:30:22 AM  
 **Categories:** -  
 
-Article URL: https://github.com/shaftoe/pi-coding-agent-action/pull/260 Comments URL: https://news.ycombinator.com/item?id=48393369 Points: 1 # Comments: 0
+Article URL: https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/ Comments URL: https://news.ycombinator.com/item?id=48395821 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/shaftoe/pi-coding-agent-action/pull/260)
+📖 [Read original article](https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/)
 
 ---
 
-## 8. Top AI CEOs Call for Law Protecting Against Biological Weapons
+## 8. AgentRail. An AI-agent friendly layer for websites
 
-**Author:** whalee  
-**Published:** 6/4/2026, 3:00:55 AM  
+**Author:** xgharibyan  
+**Published:** 6/4/2026, 8:22:32 AM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f Comments URL: https://news.ycombinator.com/item?id=48393156 Points: 2 # Comments: 0
+Article URL: https://github.com/gharibyan/agentrail Comments URL: https://news.ycombinator.com/item?id=48395755 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f)
+📖 [Read original article](https://github.com/gharibyan/agentrail)
 
 ---
 
-## 9. Show HN: AI Agent that resolves all your support issues
+## 9. Memory AI Server Aims to Shatter the Memory Wall
 
-**Author:** Daniel-Pan  
-**Published:** 6/4/2026, 2:45:11 AM  
+**Author:** rbanffy  
+**Published:** 6/4/2026, 8:06:48 AM  
 **Categories:** -  
 
-https://seaticket.ai/ Comments URL: https://news.ycombinator.com/item?id=48393046 Points: 1 # Comments: 0
+Article URL: https://spectrum.ieee.org/huge-memory-ai-server Comments URL: https://news.ycombinator.com/item?id=48395641 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48393046)
+📖 [Read original article](https://spectrum.ieee.org/huge-memory-ai-server)
 
 ---
 
-## 10. SpaceX wins tax exemption for $55B AI chip plant despite local backlash
+## 10. Where AI agents pay off
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/4/2026, 2:35:31 AM  
+**Author:** ricokahler  
+**Published:** 6/4/2026, 7:31:25 AM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/86b2440a-60ce-4a5b-94ba-a6a4456ae574 Comments URL: https://news.ycombinator.com/item?id=48392967 Points: 1 # Comments: 0
+Article URL: https://rico.codes/agents Comments URL: https://news.ycombinator.com/item?id=48395362 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/86b2440a-60ce-4a5b-94ba-a6a4456ae574)
+📖 [Read original article](https://rico.codes/agents)
 
 ---
 
-## 11. Large AI Models in Dental Healthcare
+## 11. Gate – deterministic PII redaction for AI agent tool output (Rust)
 
-**Author:** berlianta  
-**Published:** 6/4/2026, 2:32:49 AM  
+**Author:** gzhuuu  
+**Published:** 6/4/2026, 7:28:09 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2606.02914 Comments URL: https://news.ycombinator.com/item?id=48392947 Points: 1 # Comments: 0
+Article URL: https://github.com/GaaraZhu/gate Comments URL: https://news.ycombinator.com/item?id=48395321 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2606.02914)
+📖 [Read original article](https://github.com/GaaraZhu/gate)
 
 ---
 
-## 12. Meta Is Reportedly Working on an AI Pendant and More Smart Glasses
+## 12. More US Firms Turn to China's DeepSeek over Pricey Silicon Valley AI
 
-**Author:** gmays  
-**Published:** 6/4/2026, 2:26:55 AM  
+**Author:** giuliomagnifico  
+**Published:** 6/4/2026, 7:18:28 AM  
 **Categories:** -  
 
-Article URL: https://www.engadget.com/2184224/meta-developing-ai-pendant-more-smart-glass-models/ Comments URL: https://news.ycombinator.com/item?id=48392911 Points: 1 # Comments: 0
+Article URL: https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai Comments URL: https://news.ycombinator.com/item?id=48395232 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.engadget.com/2184224/meta-developing-ai-pendant-more-smart-glass-models/)
+📖 [Read original article](https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai)
 
 ---
 
-## 13. Show HN: AI Gauge, a desktop monitor for Claude/Codex/Copilot usage limits
+## 13. Asd: A fast, AI-native cat replacement written in Go
 
-**Author:** jpajak  
-**Published:** 6/4/2026, 2:18:46 AM  
+**Author:** vsmanu  
+**Published:** 6/4/2026, 7:17:25 AM  
 **Categories:** -  
 
-Hi HN, new account but long-time reader. I built this for myself because I kept manually checking usage across Claude, Codex, and Copilot, and wanted to track the session and weekly usage all in one place.It's helping me better track and get the most out of my AI subscriptions. It's also a good test...
+Article URL: https://github.com/orchestrator-dev/asd Comments URL: https://news.ycombinator.com/item?id=48395218 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/jpajak/ai-gauge)
+📖 [Read original article](https://github.com/orchestrator-dev/asd)
 
 ---
 
-## 14. Father of VR: The best AI future nobody is talking about – Jaron Lanier [video]
+## 14. Ask HN: What are your AI assistants doing?
 
-**Author:** tartoran  
-**Published:** 6/4/2026, 2:05:54 AM  
+**Author:** teekert  
+**Published:** 6/4/2026, 7:14:48 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=v8f73ueeSTw Comments URL: https://news.ycombinator.com/item?id=48392762 Points: 2 # Comments: 0
+I recently installed OpenClaw (on a Hetzner VM, far away from my things). The setup was pretty easy and we got chatting over Telegram quickly.At them moment it has some tasks, mostly periodic/cron:- Scan TenderNet (public procurement website of my government) API for new procurements. Match to my pr...
 
-📖 [Read original article](https://www.youtube.com/watch?v=v8f73ueeSTw)
+📖 [Read original article](https://news.ycombinator.com/item?id=48395194)
 
 ---
 
-## 15. When IPOs go wrong: SpaceX, AI firms face a delicate process
+## 15. My AI Agent Lives in My Notes App
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/4/2026, 2:01:22 AM  
+**Author:** wapasta  
+**Published:** 6/4/2026, 7:09:46 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/transactional/when-ipos-go-wrong-spacex-ai-firms-face-delicate-process-2026-06-03/ Comments URL: https://news.ycombinator.com/item?id=48392735 Points: 2 # Comments: 1
+Article URL: https://medium.com/@amatyushentsev/my-ai-agent-lives-in-my-notes-app-7c5d79c72126 Comments URL: https://news.ycombinator.com/item?id=48395153 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/transactional/when-ipos-go-wrong-spacex-ai-firms-face-delicate-process-2026-06-03/)
+📖 [Read original article](https://medium.com/@amatyushentsev/my-ai-agent-lives-in-my-notes-app-7c5d79c72126)
 
 ---
 
-## 16. AI Conversations Are Not Yours. Yet
-
-**Author:** vektormemory  
-**Published:** 6/4/2026, 1:56:24 AM  
-**Categories:** -  
-
-Article URL: https://medium.com/@vektormemory/your-ai-conversations-are-not-yours-yet-cd1b7925e9cf Comments URL: https://news.ycombinator.com/item?id=48392696 Points: 2 # Comments: 0
-
-📖 [Read original article](https://medium.com/@vektormemory/your-ai-conversations-are-not-yours-yet-cd1b7925e9cf)
-
----
-
-## 17. AI has a water problem; Google thinks it has a fix
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/4/2026, 1:55:36 AM  
-**Categories:** -  
-
-Article URL: https://www.theverge.com/policy/942296/google-water-commitments-data-centers Comments URL: https://news.ycombinator.com/item?id=48392692 Points: 2 # Comments: 2
-
-📖 [Read original article](https://www.theverge.com/policy/942296/google-water-commitments-data-centers)
-
----
-
-## 18. Show HN: A rich, HTML-native document canvas for human <> AI collaboration
-
-**Author:** kadhirvelm  
-**Published:** 6/4/2026, 1:55:36 AM  
-**Categories:** -  
-
-We've spent the last several months iterating on a rich, HTML-native document canvas. We kept finding we wanted a shared space where we could work on a written artifact with our team while getting some AI assistance along the way.Lots of interesting and challenging problems when designing a document...
-
-📖 [Read original article](https://app.productnow.ai/app/home)
-
----
-
-## 19. A Famous Math Problem Stumped Humans for 80 Years. AI Just Cracked It
-
-**Author:** gmays  
-**Published:** 6/4/2026, 1:45:33 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84 Comments URL: https://news.ycombinator.com/item?id=48392638 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84)
-
----
-
-## 20. 'Close to the Terminator narrative': the dawn of self-improving AI
+## 16. Companies' AI Bills Are Bigger Than Ever – and Coming Due
 
 **Author:** petethomas  
-**Published:** 6/4/2026, 1:33:26 AM  
+**Published:** 6/4/2026, 6:43:05 AM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/7cc7800f-18ed-47d8-9539-221ae3e16182 Comments URL: https://news.ycombinator.com/item?id=48392577 Points: 3 # Comments: 0
+Article URL: https://www.bloomberg.com/opinion/articles/2026-06-04/the-ai-boom-s-next-test-is-the-roi-worth-the-cost Comments URL: https://news.ycombinator.com/item?id=48394923 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/7cc7800f-18ed-47d8-9539-221ae3e16182)
+📖 [Read original article](https://www.bloomberg.com/opinion/articles/2026-06-04/the-ai-boom-s-next-test-is-the-roi-worth-the-cost)
+
+---
+
+## 17. Hscli – A Scriptable Help Scout CLI for Terminals, CI, and AI Agents
+
+**Author:** wavyx  
+**Published:** 6/4/2026, 6:34:11 AM  
+**Categories:** -  
+
+Article URL: https://wavyx.github.io/hscli/ Comments URL: https://news.ycombinator.com/item?id=48394847 Points: 1 # Comments: 0
+
+📖 [Read original article](https://wavyx.github.io/hscli/)
+
+---
+
+## 18. Law professors prefer AI over peer answers 75% of the time [pdf]
+
+**Author:** jlaneve  
+**Published:** 6/4/2026, 6:22:21 AM  
+**Categories:** -  
+
+Article URL: https://law.stanford.edu/wp-content/uploads/2026/06/salinas_et_al.pdf Comments URL: https://news.ycombinator.com/item?id=48394750 Points: 1 # Comments: 0
+
+📖 [Read original article](https://law.stanford.edu/wp-content/uploads/2026/06/salinas_et_al.pdf)
+
+---
+
+## 19. Opting Out of the AI Boom
+
+**Author:** m-hodges  
+**Published:** 6/4/2026, 6:10:43 AM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/opinion/newsletters/2026-06-03/opting-out-of-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=48394662 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.bloomberg.com/opinion/newsletters/2026-06-03/opting-out-of-the-ai-boom)
+
+---
+
+## 20. Embodied Cognition and Agentic AI
+
+**Author:** signa11  
+**Published:** 6/4/2026, 6:07:33 AM  
+**Categories:** -  
+
+Article URL: https://lemire.me/blog/2026/05/28/embodied-cognition-and-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=48394638 Points: 1 # Comments: 0
+
+📖 [Read original article](https://lemire.me/blog/2026/05/28/embodied-cognition-and-agentic-ai/)
 
 ---
