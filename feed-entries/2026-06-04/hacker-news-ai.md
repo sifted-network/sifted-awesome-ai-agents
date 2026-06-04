@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The Jo Language: Secure Programming for the AI Era
+## 1. Europe has sovereign AI policy. It has no sovereign AI
 
-**Author:** theanonymousone  
-**Published:** 6/4/2026, 3:14:13 PM  
+**Author:** frag  
+**Published:** 6/4/2026, 8:01:11 PM  
 **Categories:** -  
 
-Article URL: https://jo-lang.org/ Comments URL: https://news.ycombinator.com/item?id=48399905 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=Xk0llAE8GoY Comments URL: https://news.ycombinator.com/item?id=48403859 Points: 2 # Comments: 0
 
-📖 [Read original article](https://jo-lang.org/)
+📖 [Read original article](https://www.youtube.com/watch?v=Xk0llAE8GoY)
 
 ---
 
-## 2. AI Disrupted My YouTube Business. So I Got a Job [video]
+## 2. Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk
 
-**Author:** chakintosh  
-**Published:** 6/4/2026, 3:09:13 PM  
+**Author:** joebuckwilliams  
+**Published:** 6/4/2026, 7:57:24 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=AQVyHXZWILo Comments URL: https://news.ycombinator.com/item?id=48399834 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73 Comments URL: https://news.ycombinator.com/item?id=48403827 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.youtube.com/watch?v=AQVyHXZWILo)
+📖 [Read original article](https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73)
 
 ---
 
-## 3. Wiki Race Against AI
+## 3. Show HN: Bot or Not – Spot AI-generated randomness
 
-**Author:** yarv  
-**Published:** 6/4/2026, 2:53:08 PM  
+**Author:** EvanZhouDev  
+**Published:** 6/4/2026, 7:56:57 PM  
 **Categories:** -  
 
-Article URL: https://www.wikiraceai.com Comments URL: https://news.ycombinator.com/item?id=48399599 Points: 1 # Comments: 1
+Article URL: https://play-bot-or-not.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48403821 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wikiraceai.com)
+📖 [Read original article](https://play-bot-or-not.vercel.app/)
 
 ---
 
-## 4. AI, Ashby Engineering, and the Future
+## 4. Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk
 
-**Author:** fredley  
-**Published:** 6/4/2026, 2:48:44 PM  
+**Author:** stefap2  
+**Published:** 6/4/2026, 7:53:53 PM  
 **Categories:** -  
 
-Article URL: https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future Comments URL: https://news.ycombinator.com/item?id=48399528 Points: 2 # Comments: 0
+WSJ Anthropic is calling for top artificial intelligence labs to weigh slowing the pace of development, suggesting that AI systems are advancing so rapidly that they may soon be able to improve themselves without human intervention in ways that could pose significant societal risks.The ability to sl...
 
-📖 [Read original article](https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future)
+📖 [Read original article](https://news.ycombinator.com/item?id=48403770)
 
 ---
 
-## 5. Show HN: Black-box API bug detection across 7 AI systems
+## 5. My Humble AI Market Prediction
 
-**Author:** riyajoshi  
-**Published:** 6/4/2026, 2:42:40 PM  
+**Author:** filup  
+**Published:** 6/4/2026, 7:41:40 PM  
 **Categories:** -  
 
-Article URL: https://resources.kusho.ai/ai-agent-benchmark-api-bug-detection Comments URL: https://news.ycombinator.com/item?id=48399429 Points: 8 # Comments: 4
+In 12 - 18 months we get local models that match the capabilities of 4.6.The overall capabilities will peak, and we all get highly efficient code forges in a box available in everyone's home. AI the is a generator, an advanced compiler, not a place for runtime. It's best used as a powerful hammer ai...
 
-📖 [Read original article](https://resources.kusho.ai/ai-agent-benchmark-api-bug-detection)
+📖 [Read original article](https://news.ycombinator.com/item?id=48403639)
 
 ---
 
-## 6. Solving the Worlds Hardest Problems with AI
+## 6. Enterprises start questioning the return on AI investments
 
-**Author:** benzingtech  
-**Published:** 6/4/2026, 2:40:02 PM  
+**Author:** root-parent  
+**Published:** 6/4/2026, 7:29:43 PM  
 **Categories:** -  
 
-Article URL: https://worldproblemssolved.com Comments URL: https://news.ycombinator.com/item?id=48399383 Points: 2 # Comments: 2
+Article URL: https://www.youtube.com/watch?v=Rn_UpO68WVU Comments URL: https://news.ycombinator.com/item?id=48403492 Points: 2 # Comments: 1
 
-📖 [Read original article](https://worldproblemssolved.com)
+📖 [Read original article](https://www.youtube.com/watch?v=Rn_UpO68WVU)
 
 ---
 
-## 7. Show HN: AgentKitten: Swift package for provider-agnostic AI agents
+## 7. Show HN: Nexus, ask AI about sensitive spreadsheets locally
 
-**Author:** fbeeper  
-**Published:** 6/4/2026, 2:37:55 PM  
+**Author:** scottbuilds  
+**Published:** 6/4/2026, 7:27:27 PM  
 **Categories:** -  
 
-Article URL: https://github.com/fbeeper/agentkitten Comments URL: https://news.ycombinator.com/item?id=48399345 Points: 6 # Comments: 1
+Article URL: https://github.com/scottshapiro142/nexuscli Comments URL: https://news.ycombinator.com/item?id=48403463 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/fbeeper/agentkitten)
+📖 [Read original article](https://github.com/scottshapiro142/nexuscli)
 
 ---
 
-## 8. Show HN: Getting into Physical AI and Robotics
+## 8. Show HN: Digger Solo – Local AI File Explorer
 
-**Author:** airwarmedd  
-**Published:** 6/4/2026, 2:32:56 PM  
+**Author:** sean_pedersen  
+**Published:** 6/4/2026, 7:25:48 PM  
 **Categories:** -  
 
-I started reading about Build AI when I come across their launch in Feb and couldn't stop noticing all these new companies talking about selling data for robots.Would appreciate any thoughts on how I can learn more, link: https://x.com/airwarmedd/status/2051270391692497253 Comments URL: https://news...
+After a lot of work I present Digger Solo 0.5.0 - the AI file explorer that respects your privacy (everything runs locally).Demo video: https://vimeo.com/1198414414New features: - LLM Chat with RAG (bring your own OpenAI compatible API key - ideally host a local model) - fresh redesign with light th...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48399271)
+📖 [Read original article](https://solo.digger.lol)
 
 ---
 
-## 9. AI as a Context Compiler
+## 9. The Biggest Tell That Something Was Written by AI
 
-**Author:** dominiek  
-**Published:** 6/4/2026, 2:30:43 PM  
+**Author:** andrewstuart  
+**Published:** 6/4/2026, 7:21:53 PM  
 **Categories:** -  
 
-Article URL: https://dominiek.substack.com/p/ai-as-a-context-compiler Comments URL: https://news.ycombinator.com/item?id=48399229 Points: 2 # Comments: 0
+Article URL: https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/ Comments URL: https://news.ycombinator.com/item?id=48403387 Points: 1 # Comments: 0
 
-📖 [Read original article](https://dominiek.substack.com/p/ai-as-a-context-compiler)
+📖 [Read original article](https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/)
 
 ---
 
-## 10. Hackers Asked Meta AI for Passwords. Meta AI Said Yes
+## 10. I built a native MAC AI app with lifetime access instead of another subscription
 
-**Author:** rdstrtwlkr  
-**Published:** 6/4/2026, 2:21:27 PM  
+**Author:** faiqbinimran  
+**Published:** 6/4/2026, 7:21:10 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@tbelbek/hackers-asked-meta-ai-for-passwords-meta-ai-said-yes-b17c9129ce1b Comments URL: https://news.ycombinator.com/item?id=48399075 Points: 2 # Comments: 2
+Article URL: https://apps.apple.com/us/app/cloudia-chat-ask-ai-anything/id6767834404?mt=12 Comments URL: https://news.ycombinator.com/item?id=48403374 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@tbelbek/hackers-asked-meta-ai-for-passwords-meta-ai-said-yes-b17c9129ce1b)
+📖 [Read original article](https://apps.apple.com/us/app/cloudia-chat-ask-ai-anything/id6767834404?mt=12)
 
 ---
 
-## 11. What Bun Can Tell Us About AI, Open Source and Anthropic
+## 11. Nvidia snaps up Kumo AI in latest acquisition
 
-**Author:** mkeeter  
-**Published:** 6/4/2026, 2:15:39 PM  
+**Author:** taubek  
+**Published:** 6/4/2026, 7:18:09 PM  
 **Categories:** -  
 
-Article URL: https://redmonk.com/sogrady/2026/06/04/bun-two-lessons/ Comments URL: https://news.ycombinator.com/item?id=48399002 Points: 1 # Comments: 0
+Article URL: https://fortune.com/2026/06/03/nvidia-snaps-up-kumo-ai-in-latest-acquisition/ Comments URL: https://news.ycombinator.com/item?id=48403334 Points: 1 # Comments: 0
 
-📖 [Read original article](https://redmonk.com/sogrady/2026/06/04/bun-two-lessons/)
+📖 [Read original article](https://fortune.com/2026/06/03/nvidia-snaps-up-kumo-ai-in-latest-acquisition/)
 
 ---
 
-## 12. Sangam Tamil literature search engine with AI explanations
-
-**Author:** laxmena  
-**Published:** 6/4/2026, 2:14:56 PM  
-**Categories:** -  
-
-Article URL: http://sangam.tamilnlp.com/mp/json/ai.html Comments URL: https://news.ycombinator.com/item?id=48398995 Points: 1 # Comments: 0
-
-📖 [Read original article](http://sangam.tamilnlp.com/mp/json/ai.html)
-
----
-
-## 13. First clinical pregnancy following AI-based sperm detection and recovery
-
-**Author:** smusamashah  
-**Published:** 6/4/2026, 2:14:12 PM  
-**Categories:** -  
-
-Article URL: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01623-X/fulltext Comments URL: https://news.ycombinator.com/item?id=48398984 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01623-X/fulltext)
-
----
-
-## 14. Top AI CEOs Call for Law Protecting Against Biological Weapons
-
-**Author:** wrsh07  
-**Published:** 6/4/2026, 2:11:35 PM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f Comments URL: https://news.ycombinator.com/item?id=48398939 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f)
-
----
-
-## 15. Let us filter AI slop, you cowards
-
-**Author:** stalfosknight  
-**Published:** 6/4/2026, 2:08:40 PM  
-**Categories:** -  
-
-Article URL: https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok Comments URL: https://news.ycombinator.com/item?id=48398902 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok)
-
----
-
-## 16. Teradata CEO to staff: You're not getting a raise. We're spending on AI instead
-
-**Author:** healsdata  
-**Published:** 6/4/2026, 1:56:41 PM  
-**Categories:** -  
-
-Article URL: https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6 Comments URL: https://news.ycombinator.com/item?id=48398718 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6)
-
----
-
-## 17. Design and engineering solve different problems; AI is forgetting that
-
-**Author:** speckx  
-**Published:** 6/4/2026, 1:45:13 PM  
-**Categories:** -  
-
-Article URL: https://www.jeana.dev/thoughts/2026/04/ai-for-designers/ Comments URL: https://news.ycombinator.com/item?id=48398583 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.jeana.dev/thoughts/2026/04/ai-for-designers/)
-
----
-
-## 18. Less than 4% Australians trust AI companies
-
-**Author:** soundworlds  
-**Published:** 6/4/2026, 1:40:19 PM  
-**Categories:** -  
-
-Article URL: https://www.abc.net.au/news/2026-06-04/artificial-intelligence-australians-trust-survey-pope-leo-ai/106745098 Comments URL: https://news.ycombinator.com/item?id=48398508 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.abc.net.au/news/2026-06-04/artificial-intelligence-australians-trust-survey-pope-leo-ai/106745098)
-
----
-
-## 19. Show HN: Hello Inbox – Your AI Email Deliverability Expert, Available 24/7
-
-**Author:** ismaelyws  
-**Published:** 6/4/2026, 1:38:55 PM  
-**Categories:** -  
-
-Article URL: https://www.helloinbox.email/ Comments URL: https://news.ycombinator.com/item?id=48398490 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.helloinbox.email/)
-
----
-
-## 20. Pairing AI with Optical Device to Correct Distorted Light for Sharper Imaging
+## 12. A narrowing window to understand AI
 
 **Author:** geox  
-**Published:** 6/4/2026, 1:37:50 PM  
+**Published:** 6/4/2026, 7:14:52 PM  
 **Categories:** -  
 
-Article URL: https://qi.ucsd.edu/uc-san-diego-team-pairs-ai-with-tiny-optical-device-to-correct-distorted-light-for-sharper-imaging/ Comments URL: https://news.ycombinator.com/item?id=48398476 Points: 1 # Comments: 0
+Article URL: https://www.science.org/doi/10.1126/science.aei3167 Comments URL: https://news.ycombinator.com/item?id=48403290 Points: 2 # Comments: 0
 
-📖 [Read original article](https://qi.ucsd.edu/uc-san-diego-team-pairs-ai-with-tiny-optical-device-to-correct-distorted-light-for-sharper-imaging/)
+📖 [Read original article](https://www.science.org/doi/10.1126/science.aei3167)
+
+---
+
+## 13. Xkcd-mural – in-browser AI builds a mural with elements from strips you read
+
+**Author:** gaigalas  
+**Published:** 6/4/2026, 7:13:52 PM  
+**Categories:** -  
+
+Article URL: https://alganet.github.io/xkcd-mural/ Comments URL: https://news.ycombinator.com/item?id=48403276 Points: 1 # Comments: 1
+
+📖 [Read original article](https://alganet.github.io/xkcd-mural/)
+
+---
+
+## 14. The real-world cost of AI
+
+**Author:** jethronethro  
+**Published:** 6/4/2026, 7:08:35 PM  
+**Categories:** -  
+
+Article URL: https://www.rnz.co.nz/news/science-and-technology/597181/the-real-world-cost-of-ai Comments URL: https://news.ycombinator.com/item?id=48403210 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.rnz.co.nz/news/science-and-technology/597181/the-real-world-cost-of-ai)
+
+---
+
+## 15. Show HN: FirstDraft – AI workers that claim Jira tickets and open PRs
+
+**Author:** gamerdrome  
+**Published:** 6/4/2026, 7:04:46 PM  
+**Categories:** -  
+
+I’ve been spending a lot of time with Codex at work like many people, and found myself doing the same thing over and over:- Pick a Jira ticket - Start an agent - Explain the task - Wait for it to finish - Open a PR - RepeatSo I built FirstDraft.A worker runs on a machine that already has access to y...
+
+📖 [Read original article](https://firstdraft.run)
+
+---
+
+## 16. Show HN: Revaiso – AI writing in Google Docs as native suggestions
+
+**Author:** roykishony  
+**Published:** 6/4/2026, 6:59:30 PM  
+**Categories:** -  
+
+Article URL: https://chromewebstore.google.com/detail/revaiso/pgadnhlihdcmplleikbcmippnmfpfbin Comments URL: https://news.ycombinator.com/item?id=48403096 Points: 3 # Comments: 0
+
+📖 [Read original article](https://chromewebstore.google.com/detail/revaiso/pgadnhlihdcmplleikbcmippnmfpfbin)
+
+---
+
+## 17. Show HN: Moss, an AI-led programming language experiment
+
+**Author:** Fujo930  
+**Published:** 6/4/2026, 6:22:44 PM  
+**Categories:** -  
+
+Article URL: https://github.com/Fujo930/moss-lang Comments URL: https://news.ycombinator.com/item?id=48402574 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/Fujo930/moss-lang)
+
+---
+
+## 18. Lying is Best. The Most Honest AI Won Anyway.
+
+**Author:** jamest  
+**Published:** 6/4/2026, 6:13:54 PM  
+**Categories:** -  
+
+Article URL: https://kradle.ai/research/four-bridges Comments URL: https://news.ycombinator.com/item?id=48402435 Points: 4 # Comments: 2
+
+📖 [Read original article](https://kradle.ai/research/four-bridges)
+
+---
+
+## 19. Vibe-coding phenomenon lifts AI startup Supabase to $10.5B valuation
+
+**Author:** samaysharma  
+**Published:** 6/4/2026, 6:08:26 PM  
+**Categories:** -  
+
+Article URL: https://www.cnbc.com/2026/06/04/database-startup-supabase-raises-500-million-10point5-billion-valuation.html Comments URL: https://news.ycombinator.com/item?id=48402354 Points: 1 # Comments: 3
+
+📖 [Read original article](https://www.cnbc.com/2026/06/04/database-startup-supabase-raises-500-million-10point5-billion-valuation.html)
+
+---
+
+## 20. Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search
+
+**Author:** taubek  
+**Published:** 6/4/2026, 6:07:25 PM  
+**Categories:** -  
+
+Article URL: https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/ Comments URL: https://news.ycombinator.com/item?id=48402339 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/)
 
 ---
