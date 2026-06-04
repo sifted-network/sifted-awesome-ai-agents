@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-06-03"
 date: "2026-06-03"
 source: "OpenAI Blog"
-count: 3
+count: 4
 ---
 
 # OpenAI Blog - 2026-06-03
 
-3 items collected.
+4 items collected.
 
 ---
 
@@ -23,7 +23,19 @@ GPT-Rosalind advances life sciences research with enhanced biological reasoning,
 
 ---
 
-## 2. A blueprint for democratic governance of frontier AI
+## 2. How Wasmer used Codex to build a Node.js runtime for the edge
+
+**Author:** -  
+**Published:** 6/3/2026, 12:00:00 PM  
+**Categories:** -  
+
+See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.
+
+📖 [Read original article](https://openai.com/index/wasmer)
+
+---
+
+## 3. A blueprint for democratic governance of frontier AI
 
 **Author:** -  
 **Published:** 6/3/2026, 10:00:00 AM  
@@ -35,7 +47,7 @@ OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a fede
 
 ---
 
-## 3. OpenAI public policy agenda
+## 4. OpenAI public policy agenda
 
 **Author:** -  
 **Published:** 6/3/2026, 10:00:00 AM  
