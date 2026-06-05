@@ -2,227 +2,251 @@
 title: "Hacker News AI - 2026-06-05"
 date: "2026-06-05"
 source: "Hacker News AI"
-count: 18
+count: 20
 ---
 
 # Hacker News AI - 2026-06-05
 
-18 items collected.
+20 items collected.
 
 ---
 
-## 1. Built a runtime layer so automation scripts and AI systems don't forget state
+## 1. OpenAI says it will comply with Trump's order requiring AI model reviews
 
-**Author:** StateflowsLabs  
-**Published:** 6/5/2026, 3:56:29 AM  
+**Author:** thm  
+**Published:** 6/5/2026, 9:33:49 AM  
 **Categories:** -  
 
-Article URL: https://stateflow-dev.github.io/stateflowlabs/ Comments URL: https://news.ycombinator.com/item?id=48407744 Points: 1 # Comments: 0
+Article URL: https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html Comments URL: https://news.ycombinator.com/item?id=48410136 Points: 1 # Comments: 0
 
-📖 [Read original article](https://stateflow-dev.github.io/stateflowlabs/)
+📖 [Read original article](https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html)
 
 ---
 
-## 2. agentgateway Joins AAIF as an Open Gateway for Agentic AI Infrastructure
+## 2. Preprint warns of catastrophic AI risks if no action is taken within five years
 
-**Author:** wicket  
-**Published:** 6/5/2026, 3:39:26 AM  
+**Author:** giuliomagnifico  
+**Published:** 6/5/2026, 9:33:00 AM  
 **Categories:** -  
 
-Article URL: https://aaif.io/blog/agentgateway-joins-aaif-as-an-open-gateway-for-agentic-ai-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=48407648 Points: 2 # Comments: 0
+Article URL: https://news.uq.edu.au/2026-06-global-experts-assess-risk-ai-catastrophes Comments URL: https://news.ycombinator.com/item?id=48410131 Points: 1 # Comments: 0
 
-📖 [Read original article](https://aaif.io/blog/agentgateway-joins-aaif-as-an-open-gateway-for-agentic-ai-infrastructure/)
+📖 [Read original article](https://news.uq.edu.au/2026-06-global-experts-assess-risk-ai-catastrophes)
 
 ---
 
-## 3. Anthropic Wants Worldwide AI Development Pause
+## 3. N8n-style tool chains for AI agents – custom design, or reinforced by what works
 
-**Author:** jonbaer  
-**Published:** 6/5/2026, 3:32:26 AM  
+**Author:** pssah4  
+**Published:** 6/5/2026, 9:19:59 AM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/finance/investing/anthropic-calls-for-global-slowdown-in-ai-development-4f2134f6 Comments URL: https://news.ycombinator.com/item?id=48407602 Points: 2 # Comments: 0
+Article URL: https://github.com/pssah4/stigmergy Comments URL: https://news.ycombinator.com/item?id=48410036 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/finance/investing/anthropic-calls-for-global-slowdown-in-ai-development-4f2134f6)
+📖 [Read original article](https://github.com/pssah4/stigmergy)
 
 ---
 
-## 4. The AI Treadmill
+## 4. Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk
+
+**Author:** andsoitis  
+**Published:** 6/5/2026, 8:41:01 AM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73 Comments URL: https://news.ycombinator.com/item?id=48409735 Points: 8 # Comments: 3
+
+📖 [Read original article](https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73)
+
+---
+
+## 5. Chip Capacity Constraints Put a Governor on AI Spending Growth
+
+**Author:** rbanffy  
+**Published:** 6/5/2026, 8:30:14 AM  
+**Categories:** -  
+
+Article URL: https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474 Comments URL: https://news.ycombinator.com/item?id=48409650 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474)
+
+---
+
+## 6. AI Agents Enable Adaptive Computer Worms
+
+**Author:** u1hcw9nx  
+**Published:** 6/5/2026, 8:19:08 AM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2606.03811 Comments URL: https://news.ycombinator.com/item?id=48409547 Points: 4 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2606.03811)
+
+---
+
+## 7. Ask HN: AI researchers – what's a recent paper that recently blew your mind?
+
+**Author:** bartek_gdn  
+**Published:** 6/5/2026, 8:04:13 AM  
+**Categories:** -  
+
+I often on the lookout for new and exiting papers in the ML space.Please share a few that you feel are worth sharingCheers! Comments URL: https://news.ycombinator.com/item?id=48409450 Points: 4 # Comments: 0
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48409450)
+
+---
+
+## 8. Senior U.S. Officials Eye Government Shares in AI Giants
+
+**Author:** littlexsparkee  
+**Published:** 6/5/2026, 8:01:39 AM  
+**Categories:** -  
+
+Article URL: https://www.notus.org/technology/trump-ai-stake-openai Comments URL: https://news.ycombinator.com/item?id=48409432 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.notus.org/technology/trump-ai-stake-openai)
+
+---
+
+## 9. Lihn – AI prospecting agent for freelancers, quick setup, <€20/mo
+
+**Author:** robn_nevira  
+**Published:** 6/5/2026, 7:57:27 AM  
+**Categories:** -  
+
+Article URL: https://lihn.fr Comments URL: https://news.ycombinator.com/item?id=48409407 Points: 1 # Comments: 0
+
+📖 [Read original article](https://lihn.fr)
+
+---
+
+## 10. Best AI web scraper tools I've tested in 2026 (free and paid)
+
+**Author:** joelolawanle  
+**Published:** 6/5/2026, 7:46:44 AM  
+**Categories:** -  
+
+Article URL: https://spidra.io/blog/best-ai-web-scrapers Comments URL: https://news.ycombinator.com/item?id=48409346 Points: 1 # Comments: 1
+
+📖 [Read original article](https://spidra.io/blog/best-ai-web-scrapers)
+
+---
+
+## 11. Cloudflare AI Gateway now supports spend limits
+
+**Author:** tjek  
+**Published:** 6/5/2026, 7:37:30 AM  
+**Categories:** -  
+
+Article URL: https://developers.cloudflare.com/ai-gateway/features/spend-limits/ Comments URL: https://news.ycombinator.com/item?id=48409284 Points: 2 # Comments: 0
+
+📖 [Read original article](https://developers.cloudflare.com/ai-gateway/features/spend-limits/)
+
+---
+
+## 12. Food for Agile Thought #547: AI's 1997 Internet Moment, Code Isn't Product
 
 **Author:** swolpers  
-**Published:** 6/5/2026, 3:23:15 AM  
+**Published:** 6/5/2026, 7:34:06 AM  
 **Categories:** -  
 
-Article URL: https://debliu.substack.com/p/the-ai-treadmill Comments URL: https://news.ycombinator.com/item?id=48407544 Points: 2 # Comments: 0
+Article URL: https://age-of-product.com/food-agile-thought-547-ais-1997-internet-moment/ Comments URL: https://news.ycombinator.com/item?id=48409253 Points: 1 # Comments: 0
 
-📖 [Read original article](https://debliu.substack.com/p/the-ai-treadmill)
+📖 [Read original article](https://age-of-product.com/food-agile-thought-547-ais-1997-internet-moment/)
 
 ---
 
-## 5. 'Please do not vibe f–- up this software': Broken backups spark AI coding row
+## 13. AI technology is nearing a point where it could develop without human input
 
-**Author:** Bender  
-**Published:** 6/5/2026, 3:15:00 AM  
+**Author:** reconnecting  
+**Published:** 6/5/2026, 7:26:56 AM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/06/04/please-do-not-vibe-f-up-this-software-broken-backups-spark-ai-coding-row-in-rsync-project/5251189 Comments URL: https://news.ycombinator.com/item?id=48407503 Points: 3 # Comments: 1
+Article URL: https://www.bbc.com/news/articles/cx2124z7g45o Comments URL: https://news.ycombinator.com/item?id=48409196 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/04/please-do-not-vibe-f-up-this-software-broken-backups-spark-ai-coding-row-in-rsync-project/5251189)
+📖 [Read original article](https://www.bbc.com/news/articles/cx2124z7g45o)
 
 ---
 
-## 6. Walmart investors reject AI workplace report as automation expands in the US
+## 14. New SoTA open source TTS model from Boson AI
 
-**Author:** petethomas  
-**Published:** 6/5/2026, 3:12:52 AM  
+**Author:** silinmeng  
+**Published:** 6/5/2026, 7:02:43 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/litigation/walmart-investors-reject-ai-workplace-report-automation-expands-us-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48407490 Points: 2 # Comments: 4
+Article URL: https://huggingface.co/bosonai/higgs-audio-v3-tts-4b Comments URL: https://news.ycombinator.com/item?id=48409001 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/litigation/walmart-investors-reject-ai-workplace-report-automation-expands-us-2026-06-04/)
+📖 [Read original article](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b)
 
 ---
 
-## 7. CEO to staff: You're not getting a raise. We're spending on AI instead
+## 15. The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets
 
-**Author:** ValentineC  
-**Published:** 6/5/2026, 2:54:33 AM  
+**Author:** joozio  
+**Published:** 6/5/2026, 7:01:02 AM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6 Comments URL: https://news.ycombinator.com/item?id=48407401 Points: 20 # Comments: 2
+Article URL: https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/ Comments URL: https://news.ycombinator.com/item?id=48408986 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6)
+📖 [Read original article](https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/)
 
 ---
 
-## 8. Aisop – Define AI agent workflows as Mermaid or JSON flow graphs
-
-**Author:** aisop  
-**Published:** 6/5/2026, 2:28:02 AM  
-**Categories:** -  
-
-Article URL: https://github.com/AIXP-Labs/AISOP Comments URL: https://news.ycombinator.com/item?id=48407235 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/AIXP-Labs/AISOP)
-
----
-
-## 9. A Vector Lakebase is all you need for all AI workloads
-
-**Author:** Fendy  
-**Published:** 6/5/2026, 2:20:54 AM  
-**Categories:** -  
-
-Article URL: https://zilliz.com/blog/from-vector-database-to-vector-lakebase Comments URL: https://news.ycombinator.com/item?id=48407201 Points: 1 # Comments: 0
-
-📖 [Read original article](https://zilliz.com/blog/from-vector-database-to-vector-lakebase)
-
----
-
-## 10. Dirk and Linus discuss AI and kernel development
+## 16. AI Optimists Race Clock; Skeptics Race Decay
 
 **Author:** signa11  
-**Published:** 6/5/2026, 1:54:39 AM  
+**Published:** 6/5/2026, 6:54:56 AM  
 **Categories:** -  
 
-Article URL: https://lwn.net/Articles/1073761/ Comments URL: https://news.ycombinator.com/item?id=48407061 Points: 1 # Comments: 0
+Article URL: https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against Comments URL: https://news.ycombinator.com/item?id=48408940 Points: 1 # Comments: 0
 
-📖 [Read original article](https://lwn.net/Articles/1073761/)
+📖 [Read original article](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against)
 
 ---
 
-## 11. Mathematicians warn of AI threats to profession as industry encroaches
+## 17. ZEC drops 30% after Anthropic AI finds Zcash counterfeit vulnerability
 
-**Author:** SegfaultSeagull  
-**Published:** 6/5/2026, 1:52:38 AM  
+**Author:** olalonde  
+**Published:** 6/5/2026, 6:52:41 AM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/ Comments URL: https://news.ycombinator.com/item?id=48407048 Points: 1 # Comments: 1
+Article URL: https://www.tradingview.com/news/cointelegraph:52f56f35b094b:0-zec-drops-30-after-anthropic-ai-finds-zcash-counterfeit-vulnerability/ Comments URL: https://news.ycombinator.com/item?id=48408925 Points: 12 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/)
+📖 [Read original article](https://www.tradingview.com/news/cointelegraph:52f56f35b094b:0-zec-drops-30-after-anthropic-ai-finds-zcash-counterfeit-vulnerability/)
 
 ---
 
-## 12. AI should earn its keep: Introducing the AI Productivity Guarantee
+## 18. Show HN: Snill.ai launched – describe your biz – get an internal app in seconds
 
-**Author:** nadis  
-**Published:** 6/5/2026, 1:51:29 AM  
+**Author:** kna63636  
+**Published:** 6/5/2026, 6:48:08 AM  
 **Categories:** -  
 
-Article URL: https://cognition.ai/blog/ai-guarantee Comments URL: https://news.ycombinator.com/item?id=48407036 Points: 2 # Comments: 1
+Article URL: https://snill.ai/ Comments URL: https://news.ycombinator.com/item?id=48408894 Points: 1 # Comments: 0
 
-📖 [Read original article](https://cognition.ai/blog/ai-guarantee)
+📖 [Read original article](https://snill.ai/)
 
 ---
 
-## 13. AI assistant shouldn't have your passwords
+## 19. Running an AI-native engineering org
 
-**Author:** adm4  
-**Published:** 6/5/2026, 1:29:41 AM  
+**Author:** kiyanwang  
+**Published:** 6/5/2026, 6:42:11 AM  
 **Categories:** -  
 
-Article URL: https://bitwarden.com/blog/how-bitwarden-helps-secure-agentic-ai-access-to-your-credentials/ Comments URL: https://news.ycombinator.com/item?id=48406909 Points: 1 # Comments: 0
+Article URL: https://claude.com/blog/running-an-ai-native-engineering-org Comments URL: https://news.ycombinator.com/item?id=48408846 Points: 1 # Comments: 0
 
-📖 [Read original article](https://bitwarden.com/blog/how-bitwarden-helps-secure-agentic-ai-access-to-your-credentials/)
+📖 [Read original article](https://claude.com/blog/running-an-ai-native-engineering-org)
 
 ---
 
-## 14. Anthropic calls for global pause in AI development before humans lose control
+## 20. Mark Zuckerberg's longest-serving employee on AI, jobs and her boss
 
-**Author:** patrickdavey  
-**Published:** 6/5/2026, 1:23:41 AM  
+**Author:** thm  
+**Published:** 6/5/2026, 6:40:07 AM  
 **Categories:** -  
 
-Article URL: https://siliconangle.com/2026/06/04/anthropic-calls-global-pause-ai-development-humans-lose-control/ Comments URL: https://news.ycombinator.com/item?id=48406873 Points: 4 # Comments: 3
+Article URL: https://www.bbc.com/news/articles/c5y71106g07o Comments URL: https://news.ycombinator.com/item?id=48408832 Points: 3 # Comments: 0
 
-📖 [Read original article](https://siliconangle.com/2026/06/04/anthropic-calls-global-pause-ai-development-humans-lose-control/)
-
----
-
-## 15. LLM AI Chatbots are letting me down every single day
-
-**Author:** postbase  
-**Published:** 6/5/2026, 1:13:11 AM  
-**Categories:** -  
-
-Article URL: https://umrashrf.github.io/llm-ai-chatbots-are-letting-me-down-every-single-day/ Comments URL: https://news.ycombinator.com/item?id=48406812 Points: 2 # Comments: 0
-
-📖 [Read original article](https://umrashrf.github.io/llm-ai-chatbots-are-letting-me-down-every-single-day/)
-
----
-
-## 16. Jo – Secure Programming for the AI Era
-
-**Author:** rguiscard  
-**Published:** 6/5/2026, 12:56:04 AM  
-**Categories:** -  
-
-Article URL: https://jo-lang.org/blog/2026-06-04-introducing-jo.html Comments URL: https://news.ycombinator.com/item?id=48406714 Points: 3 # Comments: 0
-
-📖 [Read original article](https://jo-lang.org/blog/2026-06-04-introducing-jo.html)
-
----
-
-## 17. Show HN: Bonsai –- Using agentic AI / browser / memory to replace ChatGPT
-
-**Author:** coolwulf  
-**Published:** 6/5/2026, 12:51:07 AM  
-**Categories:** -  
-
-Article URL: https://drive.google.com/drive/folders/1YUQ3tmcBSLEyBKLi5JdJgmod9mqXFTgl Comments URL: https://news.ycombinator.com/item?id=48406685 Points: 3 # Comments: 1
-
-📖 [Read original article](https://drive.google.com/drive/folders/1YUQ3tmcBSLEyBKLi5JdJgmod9mqXFTgl)
-
----
-
-## 18. Open Code Review – An AI-powered code review CLI tool
-
-**Author:** geoffbp  
-**Published:** 6/5/2026, 12:04:29 AM  
-**Categories:** -  
-
-Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 81 # Comments: 19
-
-📖 [Read original article](https://github.com/alibaba/open-code-review)
+📖 [Read original article](https://www.bbc.com/news/articles/c5y71106g07o)
 
 ---
