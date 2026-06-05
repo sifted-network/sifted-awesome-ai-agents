@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI Agents Enable Adaptive Computer Worms
+## 1. Large companies can add a local LLM filter layer to reduce their AI costs
 
-**Author:** speckx  
-**Published:** 6/5/2026, 2:48:46 PM  
+**Author:** postbase  
+**Published:** 6/5/2026, 7:53:33 PM  
 **Categories:** -  
 
-Article URL: https://cleverhans.io/latest-research.html Comments URL: https://news.ycombinator.com/item?id=48413296 Points: 1 # Comments: 0
+Article URL: https://umrashrf.github.io/large-companies-can-add-a-local-llm-filter-layer-to-considerably-reducing-their-ai-costs/ Comments URL: https://news.ycombinator.com/item?id=48417339 Points: 1 # Comments: 0
 
-📖 [Read original article](https://cleverhans.io/latest-research.html)
+📖 [Read original article](https://umrashrf.github.io/large-companies-can-add-a-local-llm-filter-layer-to-considerably-reducing-their-ai-costs/)
 
 ---
 
-## 2. The Web Is Being Made Accessible for AI, Not People
+## 2. Nasdaq Sinks 4% over AI and Rate-Hike Fears
 
-**Author:** speckx  
-**Published:** 6/5/2026, 2:32:59 PM  
+**Author:** JumpCrisscross  
+**Published:** 6/5/2026, 7:38:34 PM  
 **Categories:** -  
 
-Article URL: https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/ Comments URL: https://news.ycombinator.com/item?id=48413100 Points: 2 # Comments: 0
+Article URL: https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026 Comments URL: https://news.ycombinator.com/item?id=48417153 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/)
+📖 [Read original article](https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026)
 
 ---
 
-## 3. Sinestesia – Live AI VJ that draws the stage as a singer performs
+## 3. Meta's stock sinks on report company could raise billions for AI push
 
-**Author:** danicuki  
-**Published:** 6/5/2026, 2:32:03 PM  
+**Author:** 01-_-  
+**Published:** 6/5/2026, 7:33:32 PM  
 **Categories:** -  
 
-Article URL: https://github.com/danicuki/vibeton Comments URL: https://news.ycombinator.com/item?id=48413084 Points: 1 # Comments: 0
+Article URL: https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html Comments URL: https://news.ycombinator.com/item?id=48417104 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/danicuki/vibeton)
+📖 [Read original article](https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html)
 
 ---
 
-## 4. AI is designing OpenAI's next model in a sign of 'super intelligence'
+## 4. An imperative command-line-interface for AI workload orchestration
 
-**Author:** geox  
-**Published:** 6/5/2026, 2:16:41 PM  
+**Author:** Facingsouth  
+**Published:** 6/5/2026, 7:15:30 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48412879 Points: 1 # Comments: 0
+Article URL: https://pypi.org/project/terradev-cli/ Comments URL: https://news.ycombinator.com/item?id=48416931 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html)
+📖 [Read original article](https://pypi.org/project/terradev-cli/)
 
 ---
 
-## 5. Alarm over computer \"worms\" created with AI
+## 5. Apple Silicon's on-device AI bet hasn't moved – only the chip range that runs it
 
-**Author:** mgh2  
-**Published:** 6/5/2026, 2:09:31 PM  
+**Author:** Austin_Conlon  
+**Published:** 6/5/2026, 7:08:56 PM  
 **Categories:** -  
 
-Article URL: https://www.cbsnews.com/video/alarm-over-computer-worms-created-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48412799 Points: 2 # Comments: 0
+Article URL: https://tbreak.com/apple-silicon-on-device-ai-doug-brooks-wwdc/ Comments URL: https://news.ycombinator.com/item?id=48416850 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.cbsnews.com/video/alarm-over-computer-worms-created-with-ai/)
+📖 [Read original article](https://tbreak.com/apple-silicon-on-device-ai-doug-brooks-wwdc/)
 
 ---
 
-## 6. Crustafarianism: The religion AI agents built in 14 hours
+## 6. Nvidia DGX Spark GB10 – AI Models and Guide with vLLM and Autonomous Script
 
-**Author:** tempranillo  
-**Published:** 6/5/2026, 2:05:10 PM  
+**Author:** nico248  
+**Published:** 6/5/2026, 7:05:49 PM  
 **Categories:** -  
 
-Article URL: https://mibitacora.eu/57-crustafarianismo-religion-agentes/ Comments URL: https://news.ycombinator.com/item?id=48412751 Points: 2 # Comments: 1
+Article URL: https://github.com/omnia-projetcs/spark-dgx Comments URL: https://news.ycombinator.com/item?id=48416815 Points: 1 # Comments: 0
 
-📖 [Read original article](https://mibitacora.eu/57-crustafarianismo-religion-agentes/)
+📖 [Read original article](https://github.com/omnia-projetcs/spark-dgx)
 
 ---
 
-## 7. The Next Frontier of Visual AI Is Code
-
-**Author:** gmays  
-**Published:** 6/5/2026, 1:54:37 PM  
-**Categories:** -  
-
-Article URL: https://a16z.com/the-next-frontier-of-visual-ai-is-code/ Comments URL: https://news.ycombinator.com/item?id=48412615 Points: 1 # Comments: 0
-
-📖 [Read original article](https://a16z.com/the-next-frontier-of-visual-ai-is-code/)
-
----
-
-## 8. Amazon engineers in Seattle slam employer for building AI data centers
+## 7. UK orders Google to allow publishers to opt out of AI scraping
 
 **Author:** 1vuio0pswjnm7  
-**Published:** 6/5/2026, 1:43:04 PM  
+**Published:** 6/5/2026, 6:56:43 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html Comments URL: https://news.ycombinator.com/item?id=48412458 Points: 3 # Comments: 0
+Article URL: https://apnews.com/article/google-britain-ai-competition-regulation-ce2016a4519fbe234799e009bac8f120 Comments URL: https://news.ycombinator.com/item?id=48416706 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html)
+📖 [Read original article](https://apnews.com/article/google-britain-ai-competition-regulation-ce2016a4519fbe234799e009bac8f120)
 
 ---
 
-## 9. Why Linux creator Linus Torvalds gets angry hearing \"99% of code is AI\"
+## 8. Employees aren't resisting AI – they're resisting fear
 
-**Author:** bpierre  
-**Published:** 6/5/2026, 1:36:37 PM  
+**Author:** berlianta  
+**Published:** 6/5/2026, 6:40:34 PM  
 **Categories:** -  
 
-Article URL: https://thenewstack.io/torvalds-ai-programming-productivity/ Comments URL: https://news.ycombinator.com/item?id=48412372 Points: 6 # Comments: 0
+Article URL: https://www.fastcompany.com/91541703/employees-arent-resisting-ai-theyre-resisting-fear-ai-employee-resistance Comments URL: https://news.ycombinator.com/item?id=48416515 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thenewstack.io/torvalds-ai-programming-productivity/)
+📖 [Read original article](https://www.fastcompany.com/91541703/employees-arent-resisting-ai-theyre-resisting-fear-ai-employee-resistance)
 
 ---
 
-## 10. GitLab cuts 14% of staff as it scales its platform to serve AI workloads
+## 9. AI enthusiasts race against time, AI skeptics race against entropy
 
-**Author:** mooreds  
-**Published:** 6/5/2026, 1:35:24 PM  
+**Author:** BerislavLopac  
+**Published:** 6/5/2026, 6:35:42 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/ Comments URL: https://news.ycombinator.com/item?id=48412354 Points: 6 # Comments: 1
+Article URL: https://charity.wtf/2026/06/02/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy-xpost/ Comments URL: https://news.ycombinator.com/item?id=48416451 Points: 3 # Comments: 1
 
-📖 [Read original article](https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/)
+📖 [Read original article](https://charity.wtf/2026/06/02/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy-xpost/)
 
 ---
 
-## 11. The oral tradition that built software may not survive AI
+## 10. The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"
 
-**Author:** speckx  
-**Published:** 6/5/2026, 1:32:27 PM  
+**Author:** canucker2016  
+**Published:** 6/5/2026, 6:33:42 PM  
 **Categories:** -  
 
-Article URL: https://www.fastcompany.com/91549609/the-oral-tradition-that-built-software-may-not-survive-ai Comments URL: https://news.ycombinator.com/item?id=48412317 Points: 1 # Comments: 1
+Article URL: https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/ Comments URL: https://news.ycombinator.com/item?id=48416426 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.fastcompany.com/91549609/the-oral-tradition-that-built-software-may-not-survive-ai)
+📖 [Read original article](https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/)
 
 ---
 
-## 12. What to Expect from Apple's AI, Siri and iOS 27 Launch at WWDC
+## 11. Miasma Worm Targets AI Coding Agents via GitHub Repos
 
-**Author:** brandonb  
-**Published:** 6/5/2026, 1:29:43 PM  
+**Author:** ngetchell  
+**Published:** 6/5/2026, 6:20:53 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce Comments URL: https://news.ycombinator.com/item?id=48412284 Points: 2 # Comments: 1
+Article URL: https://safedep.io/miasma-worm-ai-coding-agent-config-injection/ Comments URL: https://news.ycombinator.com/item?id=48416269 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce)
+📖 [Read original article](https://safedep.io/miasma-worm-ai-coding-agent-config-injection/)
 
 ---
 
-## 13. Show HN: Jo – AI-native language to catch prompt injection at compile-time
+## 12. Show HN: Audit any AI/data pairing with Veritrooper
 
-**Author:** kiru_io  
-**Published:** 6/5/2026, 1:25:51 PM  
+**Author:** brian8620  
+**Published:** 6/5/2026, 6:08:09 PM  
 **Categories:** -  
 
-Article URL: https://github.com/typescope/jo Comments URL: https://news.ycombinator.com/item?id=48412229 Points: 6 # Comments: 3
+Article URL: https://veritrooper.com/ Comments URL: https://news.ycombinator.com/item?id=48416123 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/typescope/jo)
+📖 [Read original article](https://veritrooper.com/)
 
 ---
 
-## 14. Ask HN: Why isn't AI image generation closely linked with graphics code gen?
+## 13. Meta putting up tents across the US to house AI servers
 
-**Author:** amichail  
-**Published:** 6/5/2026, 1:10:05 PM  
+**Author:** jeffufl  
+**Published:** 6/5/2026, 6:06:00 PM  
 **Categories:** -  
 
-For example, when making an iOS game, you might want to ask the AI look at a screenshot of your game and to generate images with improved graphics.You could then pick one of the AI images that you like and then ask the AI to write Swift code to generate scalable graphics like that for your iOS game....
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-putting-up-tents-across-the-us-to-house-ai-servers-like-a-scene-out-of-the-movie-mad-max-structures-take-three-months-to-build-and-use-jet-engines-for-power Comments URL: https://news.ycombinator.com/item?id=4841609...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48412001)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-putting-up-tents-across-the-us-to-house-ai-servers-like-a-scene-out-of-the-movie-mad-max-structures-take-three-months-to-build-and-use-jet-engines-for-power)
 
 ---
 
-## 15. Green AI: A Unified Theory of Computational Waste
+## 14. TanStack AI
 
-**Author:** massimiliano_c  
-**Published:** 6/5/2026, 12:48:28 PM  
+**Author:** berlianta  
+**Published:** 6/5/2026, 6:01:08 PM  
 **Categories:** -  
 
-Article URL: https://zenodo.org/records/20459312 Comments URL: https://news.ycombinator.com/item?id=48411690 Points: 1 # Comments: 0
+Article URL: https://tanstack.com/blog/your-mcp-your-way Comments URL: https://news.ycombinator.com/item?id=48416038 Points: 2 # Comments: 0
 
-📖 [Read original article](https://zenodo.org/records/20459312)
+📖 [Read original article](https://tanstack.com/blog/your-mcp-your-way)
 
 ---
 
-## 16. Economics of the AI Supercycle
+## 15. Which AI agents send Accept: text/Markdown?
 
-**Author:** sonabinu  
-**Published:** 6/5/2026, 12:47:50 PM  
+**Author:** rickette  
+**Published:** 6/5/2026, 5:45:29 PM  
 **Categories:** -  
 
-Article URL: https://mse435.stanford.edu/index.html Comments URL: https://news.ycombinator.com/item?id=48411683 Points: 2 # Comments: 0
+Article URL: https://acceptmarkdown.com/status Comments URL: https://news.ycombinator.com/item?id=48415869 Points: 2 # Comments: 0
 
-📖 [Read original article](https://mse435.stanford.edu/index.html)
+📖 [Read original article](https://acceptmarkdown.com/status)
 
 ---
 
-## 17. Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search
+## 16. How much value is AI creating?
 
-**Author:** randycupertino  
-**Published:** 6/5/2026, 12:37:31 PM  
+**Author:** paulpauper  
+**Published:** 6/5/2026, 5:44:00 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/ Comments URL: https://news.ycombinator.com/item?id=48411574 Points: 4 # Comments: 1
+Article URL: https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f Comments URL: https://news.ycombinator.com/item?id=48415849 Points: 7 # Comments: 1
 
-📖 [Read original article](https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/)
+📖 [Read original article](https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f)
 
 ---
 
-## 18. Rampa – A color toolkit for AI agents and humans
+## 17. Sakana AI's Recursive Self-Improvement (RSI) Lab
 
-**Author:** eustoria  
-**Published:** 6/5/2026, 12:37:19 PM  
+**Author:** hardmaru  
+**Published:** 6/5/2026, 5:27:39 PM  
 **Categories:** -  
 
-Article URL: https://rampa.design/ Comments URL: https://news.ycombinator.com/item?id=48411570 Points: 2 # Comments: 0
+Article URL: https://sakana.ai/rsi-lab/ Comments URL: https://news.ycombinator.com/item?id=48415633 Points: 22 # Comments: 13
 
-📖 [Read original article](https://rampa.design/)
+📖 [Read original article](https://sakana.ai/rsi-lab/)
 
 ---
 
-## 19. AI Hiring Tools Can Yield Racial Bias and Systemic Rejection
+## 18. Anthropic proposes a global slowdown of AI development
 
-**Author:** breckenedge  
-**Published:** 6/5/2026, 12:29:43 PM  
+**Author:** oogali  
+**Published:** 6/5/2026, 5:10:59 PM  
 **Categories:** -  
 
-Article URL: https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection Comments URL: https://news.ycombinator.com/item?id=48411503 Points: 2 # Comments: 0
+Article URL: https://www.engadget.com/2188066/anthropic-proposes-global-ai-development-slowdown/ Comments URL: https://news.ycombinator.com/item?id=48415428 Points: 4 # Comments: 1
 
-📖 [Read original article](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
+📖 [Read original article](https://www.engadget.com/2188066/anthropic-proposes-global-ai-development-slowdown/)
 
 ---
 
-## 20. How to force AI agents to use an egress proxy
+## 19. The Download: AI hacking beyond Mythos, and chatbots' impact on our brains
 
-**Author:** simedw  
-**Published:** 6/5/2026, 12:27:23 PM  
+**Author:** joozio  
+**Published:** 6/5/2026, 5:02:07 PM  
 **Categories:** -  
 
-Article URL: https://simedw.com/2026/06/05/proxy-agents/ Comments URL: https://news.ycombinator.com/item?id=48411484 Points: 3 # Comments: 1
+Article URL: https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/ Comments URL: https://news.ycombinator.com/item?id=48415306 Points: 1 # Comments: 0
 
-📖 [Read original article](https://simedw.com/2026/06/05/proxy-agents/)
+📖 [Read original article](https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/)
+
+---
+
+## 20. Show HN: Gito v4.1.0 – AI code reviewer now runs on Claude Code / Gemini CLI
+
+**Author:** Nayjest  
+**Published:** 6/5/2026, 4:51:44 PM  
+**Categories:** -  
+
+Article URL: https://github.com/Nayjest/Gito/releases/tag/v4.1.0 Comments URL: https://news.ycombinator.com/item?id=48415164 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/Nayjest/Gito/releases/tag/v4.1.0)
 
 ---
