@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-06-02"
 date: "2026-06-02"
 source: "OpenAI Blog"
-count: 4
+count: 3
 ---
 
 # OpenAI Blog - 2026-06-02
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Discover new Codex plugins, sites, and annotations that help analysts, marketers
 OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.
 
 📖 [Read original article](https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership)
-
----
-
-## 4. Codex is becoming a productivity tool for everyone
-
-**Author:** -  
-**Published:** 6/2/2026, 2:00:00 AM  
-**Categories:** Global Affairs  
-
-The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.
-
-📖 [Read original article](https://openai.com/index/codex-for-knowledge-work)
 
 ---
