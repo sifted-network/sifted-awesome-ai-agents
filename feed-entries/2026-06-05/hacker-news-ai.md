@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. OpenAI says it will comply with Trump's order requiring AI model reviews
+## 1. AI Agents Enable Adaptive Computer Worms
 
-**Author:** thm  
-**Published:** 6/5/2026, 9:33:49 AM  
+**Author:** speckx  
+**Published:** 6/5/2026, 2:48:46 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html Comments URL: https://news.ycombinator.com/item?id=48410136 Points: 1 # Comments: 0
+Article URL: https://cleverhans.io/latest-research.html Comments URL: https://news.ycombinator.com/item?id=48413296 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html)
+📖 [Read original article](https://cleverhans.io/latest-research.html)
 
 ---
 
-## 2. Preprint warns of catastrophic AI risks if no action is taken within five years
+## 2. The Web Is Being Made Accessible for AI, Not People
 
-**Author:** giuliomagnifico  
-**Published:** 6/5/2026, 9:33:00 AM  
+**Author:** speckx  
+**Published:** 6/5/2026, 2:32:59 PM  
 **Categories:** -  
 
-Article URL: https://news.uq.edu.au/2026-06-global-experts-assess-risk-ai-catastrophes Comments URL: https://news.ycombinator.com/item?id=48410131 Points: 1 # Comments: 0
+Article URL: https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/ Comments URL: https://news.ycombinator.com/item?id=48413100 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.uq.edu.au/2026-06-global-experts-assess-risk-ai-catastrophes)
+📖 [Read original article](https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/)
 
 ---
 
-## 3. N8n-style tool chains for AI agents – custom design, or reinforced by what works
+## 3. Sinestesia – Live AI VJ that draws the stage as a singer performs
 
-**Author:** pssah4  
-**Published:** 6/5/2026, 9:19:59 AM  
+**Author:** danicuki  
+**Published:** 6/5/2026, 2:32:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/pssah4/stigmergy Comments URL: https://news.ycombinator.com/item?id=48410036 Points: 1 # Comments: 0
+Article URL: https://github.com/danicuki/vibeton Comments URL: https://news.ycombinator.com/item?id=48413084 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/pssah4/stigmergy)
+📖 [Read original article](https://github.com/danicuki/vibeton)
 
 ---
 
-## 4. Anthropic Urges Global Pause in AI Development, Flags 'Self-Improvement' Risk
+## 4. AI is designing OpenAI's next model in a sign of 'super intelligence'
 
-**Author:** andsoitis  
-**Published:** 6/5/2026, 8:41:01 AM  
+**Author:** geox  
+**Published:** 6/5/2026, 2:16:41 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73 Comments URL: https://news.ycombinator.com/item?id=48409735 Points: 8 # Comments: 3
+Article URL: https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html Comments URL: https://news.ycombinator.com/item?id=48412879 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73)
+📖 [Read original article](https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html)
 
 ---
 
-## 5. Chip Capacity Constraints Put a Governor on AI Spending Growth
+## 5. Alarm over computer \"worms\" created with AI
 
-**Author:** rbanffy  
-**Published:** 6/5/2026, 8:30:14 AM  
+**Author:** mgh2  
+**Published:** 6/5/2026, 2:09:31 PM  
 **Categories:** -  
 
-Article URL: https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474 Comments URL: https://news.ycombinator.com/item?id=48409650 Points: 1 # Comments: 0
+Article URL: https://www.cbsnews.com/video/alarm-over-computer-worms-created-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48412799 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474)
+📖 [Read original article](https://www.cbsnews.com/video/alarm-over-computer-worms-created-with-ai/)
 
 ---
 
-## 6. AI Agents Enable Adaptive Computer Worms
+## 6. Crustafarianism: The religion AI agents built in 14 hours
 
-**Author:** u1hcw9nx  
-**Published:** 6/5/2026, 8:19:08 AM  
+**Author:** tempranillo  
+**Published:** 6/5/2026, 2:05:10 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2606.03811 Comments URL: https://news.ycombinator.com/item?id=48409547 Points: 4 # Comments: 0
+Article URL: https://mibitacora.eu/57-crustafarianismo-religion-agentes/ Comments URL: https://news.ycombinator.com/item?id=48412751 Points: 2 # Comments: 1
 
-📖 [Read original article](https://arxiv.org/abs/2606.03811)
+📖 [Read original article](https://mibitacora.eu/57-crustafarianismo-religion-agentes/)
 
 ---
 
-## 7. Ask HN: AI researchers – what's a recent paper that recently blew your mind?
+## 7. The Next Frontier of Visual AI Is Code
 
-**Author:** bartek_gdn  
-**Published:** 6/5/2026, 8:04:13 AM  
+**Author:** gmays  
+**Published:** 6/5/2026, 1:54:37 PM  
 **Categories:** -  
 
-I often on the lookout for new and exiting papers in the ML space.Please share a few that you feel are worth sharingCheers! Comments URL: https://news.ycombinator.com/item?id=48409450 Points: 4 # Comments: 0
+Article URL: https://a16z.com/the-next-frontier-of-visual-ai-is-code/ Comments URL: https://news.ycombinator.com/item?id=48412615 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48409450)
+📖 [Read original article](https://a16z.com/the-next-frontier-of-visual-ai-is-code/)
 
 ---
 
-## 8. Senior U.S. Officials Eye Government Shares in AI Giants
+## 8. Amazon engineers in Seattle slam employer for building AI data centers
 
-**Author:** littlexsparkee  
-**Published:** 6/5/2026, 8:01:39 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 6/5/2026, 1:43:04 PM  
 **Categories:** -  
 
-Article URL: https://www.notus.org/technology/trump-ai-stake-openai Comments URL: https://news.ycombinator.com/item?id=48409432 Points: 4 # Comments: 0
+Article URL: https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html Comments URL: https://news.ycombinator.com/item?id=48412458 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.notus.org/technology/trump-ai-stake-openai)
+📖 [Read original article](https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html)
 
 ---
 
-## 9. Lihn – AI prospecting agent for freelancers, quick setup, <€20/mo
+## 9. Why Linux creator Linus Torvalds gets angry hearing \"99% of code is AI\"
 
-**Author:** robn_nevira  
-**Published:** 6/5/2026, 7:57:27 AM  
+**Author:** bpierre  
+**Published:** 6/5/2026, 1:36:37 PM  
 **Categories:** -  
 
-Article URL: https://lihn.fr Comments URL: https://news.ycombinator.com/item?id=48409407 Points: 1 # Comments: 0
+Article URL: https://thenewstack.io/torvalds-ai-programming-productivity/ Comments URL: https://news.ycombinator.com/item?id=48412372 Points: 6 # Comments: 0
 
-📖 [Read original article](https://lihn.fr)
+📖 [Read original article](https://thenewstack.io/torvalds-ai-programming-productivity/)
 
 ---
 
-## 10. Best AI web scraper tools I've tested in 2026 (free and paid)
+## 10. GitLab cuts 14% of staff as it scales its platform to serve AI workloads
 
-**Author:** joelolawanle  
-**Published:** 6/5/2026, 7:46:44 AM  
+**Author:** mooreds  
+**Published:** 6/5/2026, 1:35:24 PM  
 **Categories:** -  
 
-Article URL: https://spidra.io/blog/best-ai-web-scrapers Comments URL: https://news.ycombinator.com/item?id=48409346 Points: 1 # Comments: 1
+Article URL: https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/ Comments URL: https://news.ycombinator.com/item?id=48412354 Points: 6 # Comments: 1
 
-📖 [Read original article](https://spidra.io/blog/best-ai-web-scrapers)
+📖 [Read original article](https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/)
 
 ---
 
-## 11. Cloudflare AI Gateway now supports spend limits
+## 11. The oral tradition that built software may not survive AI
 
-**Author:** tjek  
-**Published:** 6/5/2026, 7:37:30 AM  
+**Author:** speckx  
+**Published:** 6/5/2026, 1:32:27 PM  
 **Categories:** -  
 
-Article URL: https://developers.cloudflare.com/ai-gateway/features/spend-limits/ Comments URL: https://news.ycombinator.com/item?id=48409284 Points: 2 # Comments: 0
+Article URL: https://www.fastcompany.com/91549609/the-oral-tradition-that-built-software-may-not-survive-ai Comments URL: https://news.ycombinator.com/item?id=48412317 Points: 1 # Comments: 1
 
-📖 [Read original article](https://developers.cloudflare.com/ai-gateway/features/spend-limits/)
+📖 [Read original article](https://www.fastcompany.com/91549609/the-oral-tradition-that-built-software-may-not-survive-ai)
 
 ---
 
-## 12. Food for Agile Thought #547: AI's 1997 Internet Moment, Code Isn't Product
+## 12. What to Expect from Apple's AI, Siri and iOS 27 Launch at WWDC
 
-**Author:** swolpers  
-**Published:** 6/5/2026, 7:34:06 AM  
+**Author:** brandonb  
+**Published:** 6/5/2026, 1:29:43 PM  
 **Categories:** -  
 
-Article URL: https://age-of-product.com/food-agile-thought-547-ais-1997-internet-moment/ Comments URL: https://news.ycombinator.com/item?id=48409253 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce Comments URL: https://news.ycombinator.com/item?id=48412284 Points: 2 # Comments: 1
 
-📖 [Read original article](https://age-of-product.com/food-agile-thought-547-ais-1997-internet-moment/)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce)
 
 ---
 
-## 13. AI technology is nearing a point where it could develop without human input
+## 13. Show HN: Jo – AI-native language to catch prompt injection at compile-time
 
-**Author:** reconnecting  
-**Published:** 6/5/2026, 7:26:56 AM  
+**Author:** kiru_io  
+**Published:** 6/5/2026, 1:25:51 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cx2124z7g45o Comments URL: https://news.ycombinator.com/item?id=48409196 Points: 2 # Comments: 1
+Article URL: https://github.com/typescope/jo Comments URL: https://news.ycombinator.com/item?id=48412229 Points: 6 # Comments: 3
 
-📖 [Read original article](https://www.bbc.com/news/articles/cx2124z7g45o)
+📖 [Read original article](https://github.com/typescope/jo)
 
 ---
 
-## 14. New SoTA open source TTS model from Boson AI
+## 14. Ask HN: Why isn't AI image generation closely linked with graphics code gen?
 
-**Author:** silinmeng  
-**Published:** 6/5/2026, 7:02:43 AM  
+**Author:** amichail  
+**Published:** 6/5/2026, 1:10:05 PM  
 **Categories:** -  
 
-Article URL: https://huggingface.co/bosonai/higgs-audio-v3-tts-4b Comments URL: https://news.ycombinator.com/item?id=48409001 Points: 3 # Comments: 0
+For example, when making an iOS game, you might want to ask the AI look at a screenshot of your game and to generate images with improved graphics.You could then pick one of the AI images that you like and then ask the AI to write Swift code to generate scalable graphics like that for your iOS game....
 
-📖 [Read original article](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b)
+📖 [Read original article](https://news.ycombinator.com/item?id=48412001)
 
 ---
 
-## 15. The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets
+## 15. Green AI: A Unified Theory of Computational Waste
 
-**Author:** joozio  
-**Published:** 6/5/2026, 7:01:02 AM  
+**Author:** massimiliano_c  
+**Published:** 6/5/2026, 12:48:28 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/ Comments URL: https://news.ycombinator.com/item?id=48408986 Points: 3 # Comments: 1
+Article URL: https://zenodo.org/records/20459312 Comments URL: https://news.ycombinator.com/item?id=48411690 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/)
+📖 [Read original article](https://zenodo.org/records/20459312)
 
 ---
 
-## 16. AI Optimists Race Clock; Skeptics Race Decay
+## 16. Economics of the AI Supercycle
 
-**Author:** signa11  
-**Published:** 6/5/2026, 6:54:56 AM  
+**Author:** sonabinu  
+**Published:** 6/5/2026, 12:47:50 PM  
 **Categories:** -  
 
-Article URL: https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against Comments URL: https://news.ycombinator.com/item?id=48408940 Points: 1 # Comments: 0
+Article URL: https://mse435.stanford.edu/index.html Comments URL: https://news.ycombinator.com/item?id=48411683 Points: 2 # Comments: 0
 
-📖 [Read original article](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against)
+📖 [Read original article](https://mse435.stanford.edu/index.html)
 
 ---
 
-## 17. ZEC drops 30% after Anthropic AI finds Zcash counterfeit vulnerability
+## 17. Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search
 
-**Author:** olalonde  
-**Published:** 6/5/2026, 6:52:41 AM  
+**Author:** randycupertino  
+**Published:** 6/5/2026, 12:37:31 PM  
 **Categories:** -  
 
-Article URL: https://www.tradingview.com/news/cointelegraph:52f56f35b094b:0-zec-drops-30-after-anthropic-ai-finds-zcash-counterfeit-vulnerability/ Comments URL: https://news.ycombinator.com/item?id=48408925 Points: 12 # Comments: 0
+Article URL: https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/ Comments URL: https://news.ycombinator.com/item?id=48411574 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.tradingview.com/news/cointelegraph:52f56f35b094b:0-zec-drops-30-after-anthropic-ai-finds-zcash-counterfeit-vulnerability/)
+📖 [Read original article](https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/)
 
 ---
 
-## 18. Show HN: Snill.ai launched – describe your biz – get an internal app in seconds
+## 18. Rampa – A color toolkit for AI agents and humans
 
-**Author:** kna63636  
-**Published:** 6/5/2026, 6:48:08 AM  
+**Author:** eustoria  
+**Published:** 6/5/2026, 12:37:19 PM  
 **Categories:** -  
 
-Article URL: https://snill.ai/ Comments URL: https://news.ycombinator.com/item?id=48408894 Points: 1 # Comments: 0
+Article URL: https://rampa.design/ Comments URL: https://news.ycombinator.com/item?id=48411570 Points: 2 # Comments: 0
 
-📖 [Read original article](https://snill.ai/)
+📖 [Read original article](https://rampa.design/)
 
 ---
 
-## 19. Running an AI-native engineering org
+## 19. AI Hiring Tools Can Yield Racial Bias and Systemic Rejection
 
-**Author:** kiyanwang  
-**Published:** 6/5/2026, 6:42:11 AM  
+**Author:** breckenedge  
+**Published:** 6/5/2026, 12:29:43 PM  
 **Categories:** -  
 
-Article URL: https://claude.com/blog/running-an-ai-native-engineering-org Comments URL: https://news.ycombinator.com/item?id=48408846 Points: 1 # Comments: 0
+Article URL: https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection Comments URL: https://news.ycombinator.com/item?id=48411503 Points: 2 # Comments: 0
 
-📖 [Read original article](https://claude.com/blog/running-an-ai-native-engineering-org)
+📖 [Read original article](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
 
 ---
 
-## 20. Mark Zuckerberg's longest-serving employee on AI, jobs and her boss
+## 20. How to force AI agents to use an egress proxy
 
-**Author:** thm  
-**Published:** 6/5/2026, 6:40:07 AM  
+**Author:** simedw  
+**Published:** 6/5/2026, 12:27:23 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/c5y71106g07o Comments URL: https://news.ycombinator.com/item?id=48408832 Points: 3 # Comments: 0
+Article URL: https://simedw.com/2026/06/05/proxy-agents/ Comments URL: https://news.ycombinator.com/item?id=48411484 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.bbc.com/news/articles/c5y71106g07o)
+📖 [Read original article](https://simedw.com/2026/06/05/proxy-agents/)
 
 ---
