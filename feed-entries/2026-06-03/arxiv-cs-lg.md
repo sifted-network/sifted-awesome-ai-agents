@@ -1513,7 +1513,7 @@ arXiv:2606.03794v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) hav
 
 ## 126. Trading Human Curation for Synthetic Augmentation in RLVR
 
-**Author:** Akshansh <last>, Leonardo Rosa Rodrigues, Michael Korostelev, Youssef Hassan, Mark E. Whiting  
+**Author:** Akshansh &lt;last&gt;, Leonardo Rosa Rodrigues, Michael Korostelev, Youssef Hassan, Mark E. Whiting  
 **Published:** 6/3/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
