@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-05"
 date: "2026-06-05"
 source: "MarkTechPost"
-count: 5
+count: 6
 ---
 
 # MarkTechPost - 2026-06-05
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Google DeepMind Releases Gemma 4 QAT Checkpoints: Q4_0 and a New Mobile Format Cut On-Device Memory
+## 1. A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment
+
+**Author:** Sana Hassan  
+**Published:** 6/5/2026, 10:32:51 PM  
+**Categories:** Artificial Intelligence, Computer Vision, Editors Pick, Staff, Technology, Tutorials  
+
+Set up Qualcomm AI Hub Models to run MobileNet-V2 inference, YOLOv7 detection, and compile models on real devices. The post A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment appeared first on MarkTechPost.
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/)
+
+---
+
+## 2. Google DeepMind Releases Gemma 4 QAT Checkpoints: Q4_0 and a New Mobile Format Cut On-Device Memory
 
 **Author:** Asif Razzaq  
 **Published:** 6/5/2026, 6:59:38 PM  
@@ -23,7 +35,7 @@ Compare Gemma 4 edge formats: BF16, Q4_0 QAT, and mobile QAT, on published memor
 
 ---
 
-## 2. NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes
+## 3. NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes
 
 **Author:** Asif Razzaq  
 **Published:** 6/5/2026, 10:23:12 AM  
@@ -35,7 +47,7 @@ NVIDIA Dynamo Snapshot checkpoints and restores vLLM inference workers on Kubern
 
 ---
 
-## 3. Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing
+## 4. Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing
 
 **Author:** Michal Sutter  
 **Published:** 6/5/2026, 9:44:39 AM  
@@ -47,7 +59,7 @@ Perplexity AI announces a hybrid local-server inference orchestrator for Persona
 
 ---
 
-## 4. Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint
+## 5. Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint
 
 **Author:** Sana Hassan  
 **Published:** 6/5/2026, 9:04:55 AM  
@@ -59,7 +71,7 @@ A hands-on guide to running Microsoft Fara in Colab, testing the browser agent l
 
 ---
 
-## 5. 15 Best Vibe Coding Tools in 2026 Compared: Pricing, Features, and Best Fit
+## 6. 15 Best Vibe Coding Tools in 2026 Compared: Pricing, Features, and Best Fit
 
 **Author:** Asif Razzaq  
 **Published:** 6/5/2026, 8:07:46 AM  
