@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-05"
 date: "2026-06-05"
 source: "qbitai"
-count: 6
+count: 5
 ---
 
 # qbitai - 2026-06-05
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Agentic AI的算力焦虑，英特尔给来了一剂「猛药」
 AI笔记不是聊天框，而是信息入口。
 
 📖 [Read original article](https://www.qbitai.com/2026/06/431014.html)
-
----
-
-## 6. 从超级个体到超级团队，腾讯云发布WorkBuddy企业版
-
-**Author:** 闻乐  
-**Published:** 6/5/2026, 8:55:29 AM  
-**Categories:** 资讯, 腾讯云  
-
-打造企业AI效率工具新标配
-
-📖 [Read original article](https://www.qbitai.com/2026/06/430758.html)
 
 ---
