@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Smack – AI personas that run UX tests on any URL local
+## 1. AI Memory Proves Inefficient: Tenure Project Detects 95% Error Rate
 
-**Author:** adiv_maimon  
-**Published:** 6/6/2026, 1:45:36 PM  
+**Author:** jflynt76  
+**Published:** 6/6/2026, 7:13:44 PM  
 **Categories:** -  
 
-Article URL: https://smck.ai/ Comments URL: https://news.ycombinator.com/item?id=48425088 Points: 1 # Comments: 0
+Article URL: https://zamin.uz/en/technology/205592-ai-memory-proves-inefficient-tenure-project-detects-95-error-rate.html Comments URL: https://news.ycombinator.com/item?id=48427988 Points: 2 # Comments: 0
 
-📖 [Read original article](https://smck.ai/)
+📖 [Read original article](https://zamin.uz/en/technology/205592-ai-memory-proves-inefficient-tenure-project-detects-95-error-rate.html)
 
 ---
 
-## 2. US House lawmakers release draft bill to prohibit state AI rules
+## 2. HIPAA Compliance – Shieldra.ai is live
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/6/2026, 1:40:22 PM  
+**Author:** shieldra  
+**Published:** 6/6/2026, 6:57:19 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/ Comments URL: https://news.ycombinator.com/item?id=48425031 Points: 1 # Comments: 0
+Article URL: https://www.shieldra.ai/ Comments URL: https://news.ycombinator.com/item?id=48427845 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/)
+📖 [Read original article](https://www.shieldra.ai/)
 
 ---
 
-## 3. Embodied Cognition and Agentic AI
+## 3. YC is helping Rick Rubin find an AI guru
 
-**Author:** tosh  
-**Published:** 6/6/2026, 1:36:00 PM  
+**Author:** IliaLitviak  
+**Published:** 6/6/2026, 6:40:46 PM  
 **Categories:** -  
 
-Article URL: https://lemire.me/blog/2026/05/28/embodied-cognition-and-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=48424981 Points: 1 # Comments: 0
+Article URL: https://events.ycombinator.com/qSAodVvxK Comments URL: https://news.ycombinator.com/item?id=48427696 Points: 2 # Comments: 1
 
-📖 [Read original article](https://lemire.me/blog/2026/05/28/embodied-cognition-and-agentic-ai/)
+📖 [Read original article](https://events.ycombinator.com/qSAodVvxK)
 
 ---
 
-## 4. Paper: A Persona-Based Evaluation Framework for Generative AI Alignment
+## 4. Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot
 
-**Author:** atahankaragoz  
-**Published:** 6/6/2026, 1:17:24 PM  
+**Author:** speckx  
+**Published:** 6/6/2026, 6:35:27 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2605.31021 Comments URL: https://news.ycombinator.com/item?id=48424813 Points: 1 # Comments: 0
+Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 19 # Comments: 6
 
-📖 [Read original article](https://arxiv.org/abs/2605.31021)
+📖 [Read original article](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 
 ---
 
-## 5. Trump says his team will 'look into' US taking stake in AI companies
+## 5. Law Professors Prefer AI over Peer Answers
 
-**Author:** YeGoblynQueenne  
-**Published:** 6/6/2026, 12:34:37 PM  
+**Author:** davidbarker  
+**Published:** 6/6/2026, 6:29:06 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/ Comments URL: https://news.ycombinator.com/item?id=48424449 Points: 5 # Comments: 1
+Article URL: https://law.stanford.edu/publications/law-professors-prefer-ai-over-peer-answers/ Comments URL: https://news.ycombinator.com/item?id=48427592 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/)
+📖 [Read original article](https://law.stanford.edu/publications/law-professors-prefer-ai-over-peer-answers/)
 
 ---
 
-## 6. Meta Keeps Delaying the Release of Its New AI Model to Developers
+## 6. AI Is Rewriting the Economics of Outsourcing
 
-**Author:** mekpro  
-**Published:** 6/6/2026, 12:15:59 PM  
+**Author:** fallinditch  
+**Published:** 6/6/2026, 6:13:05 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c Comments URL: https://news.ycombinator.com/item?id=48424252 Points: 11 # Comments: 0
+Article URL: https://hbr.org/2026/06/ai-is-rewriting-the-economics-of-outsourcing Comments URL: https://news.ycombinator.com/item?id=48427452 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c)
+📖 [Read original article](https://hbr.org/2026/06/ai-is-rewriting-the-economics-of-outsourcing)
 
 ---
 
-## 7. Best AI Agent Library
+## 7. My AI Robot Hates Me – Operation Pinocchio [video]
 
-**Author:** Pearlapp  
-**Published:** 6/6/2026, 11:56:29 AM  
+**Author:** joebig  
+**Published:** 6/6/2026, 6:05:41 PM  
 **Categories:** -  
 
-Do you have any particular place to browse for AI agents for your specific need or just whats available in the given LLM? Comments URL: https://news.ycombinator.com/item?id=48424069 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=zmznOPWMoeE Comments URL: https://news.ycombinator.com/item?id=48427391 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48424069)
+📖 [Read original article](https://www.youtube.com/watch?v=zmznOPWMoeE)
 
 ---
 
-## 8. AI Can't Care
+## 8. AI-designed universal coronavirus vaccine passes first human trial
 
-**Author:** mooreds  
-**Published:** 6/6/2026, 11:46:43 AM  
+**Author:** OutOfHere  
+**Published:** 6/6/2026, 5:41:19 PM  
 **Categories:** -  
 
-Article URL: https://www.mooreds.com/wordpress/archives/3737 Comments URL: https://news.ycombinator.com/item?id=48423995 Points: 3 # Comments: 0
+Article URL: https://www.sciencedaily.com/releases/2026/06/260605023357.htm Comments URL: https://news.ycombinator.com/item?id=48427187 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.mooreds.com/wordpress/archives/3737)
+📖 [Read original article](https://www.sciencedaily.com/releases/2026/06/260605023357.htm)
 
 ---
 
-## 9. Using AI for what it should be used for
+## 9. NotifyMe, a self-hosted beeper app for AI agents and service updates
 
-**Author:** peterbozso  
-**Published:** 6/6/2026, 11:13:37 AM  
+**Author:** lbj96347  
+**Published:** 6/6/2026, 5:39:45 PM  
 **Categories:** -  
 
-Article URL: https://blog.bozso.dev/posts/using-ai Comments URL: https://news.ycombinator.com/item?id=48423767 Points: 2 # Comments: 1
+Article URL: https://github.com/lbj96347/notifyme Comments URL: https://news.ycombinator.com/item?id=48427167 Points: 2 # Comments: 0
 
-📖 [Read original article](https://blog.bozso.dev/posts/using-ai)
+📖 [Read original article](https://github.com/lbj96347/notifyme)
 
 ---
 
-## 10. How much AI is too much?
+## 10. That's enough about AI replacing users in user research [pdf]
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/6/2026, 10:51:18 AM  
+**Author:** azhenley  
+**Published:** 6/6/2026, 5:38:25 PM  
 **Categories:** -  
 
-Article URL: https://www.irishtimes.com/technology/2026/06/04/how-much-ai-is-too-much/ Comments URL: https://news.ycombinator.com/item?id=48423609 Points: 2 # Comments: 0
+Article URL: https://ianarawjo.com/docs/Thats_Enough_About_AI_Replacing_Users_in_User_Research__Arawjo.pdf Comments URL: https://news.ycombinator.com/item?id=48427157 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.irishtimes.com/technology/2026/06/04/how-much-ai-is-too-much/)
+📖 [Read original article](https://ianarawjo.com/docs/Thats_Enough_About_AI_Replacing_Users_in_User_Research__Arawjo.pdf)
 
 ---
 
-## 11. Actual sensible and funny commentary on where AI is ATM
+## 11. The Author Who Saw AI Coming, Somehow [video]
 
-**Author:** lifeisstillgood  
-**Published:** 6/6/2026, 10:49:31 AM  
+**Author:** danboarder  
+**Published:** 6/6/2026, 5:06:31 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=lwjVjD3oQJg Comments URL: https://news.ycombinator.com/item?id=48423597 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=xe4nUZqX9Ec Comments URL: https://news.ycombinator.com/item?id=48426871 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=lwjVjD3oQJg)
+📖 [Read original article](https://www.youtube.com/watch?v=xe4nUZqX9Ec)
 
 ---
 
-## 12. Lessons from a weekend building local AI workflows
+## 12. 'More Harmful Than Helpful': Young People Sour on AI
 
-**Author:** stefanopetrilli  
-**Published:** 6/6/2026, 10:33:49 AM  
+**Author:** karakoram  
+**Published:** 6/6/2026, 4:55:41 PM  
 **Categories:** -  
 
-Article URL: http://stefano.petrilli.xyz/building-ai-workflows/ Comments URL: https://news.ycombinator.com/item?id=48423498 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/73fc962e-ce68-4521-9c5d-841a666eed10 Comments URL: https://news.ycombinator.com/item?id=48426771 Points: 7 # Comments: 1
 
-📖 [Read original article](http://stefano.petrilli.xyz/building-ai-workflows/)
+📖 [Read original article](https://www.ft.com/content/73fc962e-ce68-4521-9c5d-841a666eed10)
 
 ---
 
-## 13. Microsoft Patents a Built-In Windows Toggle for AI Data Collection Control
+## 13. How much value is AI creating?
 
-**Author:** patentlyze  
-**Published:** 6/6/2026, 10:21:56 AM  
+**Author:** thm  
+**Published:** 6/6/2026, 4:43:29 PM  
 **Categories:** -  
 
-Article URL: https://patentlyze.com/patent/microsoft-windows-ai-data-collection-toggle/ Comments URL: https://news.ycombinator.com/item?id=48423416 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f Comments URL: https://news.ycombinator.com/item?id=48426647 Points: 6 # Comments: 0
 
-📖 [Read original article](https://patentlyze.com/patent/microsoft-windows-ai-data-collection-toggle/)
+📖 [Read original article](https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f)
 
 ---
 
-## 14. What do you do when AI is working the project and sit down? [video]
+## 14. Slopper GitHub Action: Fighting AI Slop Contributions on Open Source Projects
 
-**Author:** emifo3  
-**Published:** 6/6/2026, 10:14:33 AM  
+**Author:** malvads  
+**Published:** 6/6/2026, 3:58:07 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=X99Rq2wIm4o Comments URL: https://news.ycombinator.com/item?id=48423375 Points: 1 # Comments: 1
+Article URL: https://github.com/malvads/Slopper Comments URL: https://news.ycombinator.com/item?id=48426225 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=X99Rq2wIm4o)
+📖 [Read original article](https://github.com/malvads/Slopper)
 
 ---
 
-## 15. The AI Layoff Trap and its UBI economic model
+## 15. The fourth law (on AI-generated supercustomized email marketing)
 
-**Author:** Matumio  
-**Published:** 6/6/2026, 9:48:40 AM  
+**Author:** brandur  
+**Published:** 6/6/2026, 3:55:39 PM  
 **Categories:** -  
 
-Article URL: https://briefing.forwardfuture.ai/p/economists-just-proved-ubi-can-t-stop-ai-layoffs-here-s-what-they-actually-proved Comments URL: https://news.ycombinator.com/item?id=48423195 Points: 1 # Comments: 0
+Article URL: https://www.robinsloan.com/lab/fourth-law/ Comments URL: https://news.ycombinator.com/item?id=48426201 Points: 3 # Comments: 1
 
-📖 [Read original article](https://briefing.forwardfuture.ai/p/economists-just-proved-ubi-can-t-stop-ai-layoffs-here-s-what-they-actually-proved)
+📖 [Read original article](https://www.robinsloan.com/lab/fourth-law/)
 
 ---
 
-## 16. UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI
+## 16. Every AI Agent Feature Is a Cache Invalidation Surface
 
-**Author:** vintagedave  
-**Published:** 6/6/2026, 9:35:04 AM  
+**Author:** gemHunter  
+**Published:** 6/6/2026, 3:38:12 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cm2p3j6lvn7o Comments URL: https://news.ycombinator.com/item?id=48423114 Points: 1 # Comments: 0
+Article URL: https://www.openclacky.com/engineering/cache-invalidation-surface Comments URL: https://news.ycombinator.com/item?id=48426050 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/cm2p3j6lvn7o)
+📖 [Read original article](https://www.openclacky.com/engineering/cache-invalidation-surface)
 
 ---
 
-## 17. Show HN: Akmon, verify what an AI agent did offline using only OpenSSL
+## 17. Police in England and Wales told to halt AI use in court statements
 
-**Author:** radotsvetkov  
-**Published:** 6/6/2026, 9:24:14 AM  
+**Author:** nmstoker  
+**Published:** 6/6/2026, 3:35:49 PM  
 **Categories:** -  
 
-Article URL: https://github.com/radotsvetkov/akmon Comments URL: https://news.ycombinator.com/item?id=48423037 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241 Comments URL: https://news.ycombinator.com/item?id=48426022 Points: 101 # Comments: 33
 
-📖 [Read original article](https://github.com/radotsvetkov/akmon)
+📖 [Read original article](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
 
 ---
 
-## 18. Tell HN: Pearl's \"useful\" PoW AI mining is vaporware
+## 18. AI didn't break the web. The dotcons did – AI just turned up the volume
 
-**Author:** secondary_op  
-**Published:** 6/6/2026, 8:45:40 AM  
+**Author:** speckx  
+**Published:** 6/6/2026, 3:30:13 PM  
 **Categories:** -  
 
-Hi folks, to further inflate GPU prices through stupidity and greed, it seems that right now certain entities are trying to resurrect the GPU mining craze. They are trying to reinvent PoW as something useful through AI compute, but it seems that what they ended up with is just snake oil and vaporwar...
+Article URL: https://hamishcampbell.com/ai-didnt-break-the-web-the-dotcons-did-ai-just-turned-up-the-volume/ Comments URL: https://news.ycombinator.com/item?id=48425983 Points: 18 # Comments: 8
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48422809)
+📖 [Read original article](https://hamishcampbell.com/ai-didnt-break-the-web-the-dotcons-did-ai-just-turned-up-the-volume/)
 
 ---
 
-## 19. Let us replace community with AI
+## 19. Agentic AI spurred a boom in mobile apps, but they aren't gaining traction
 
-**Author:** christianalfoni  
-**Published:** 6/6/2026, 8:24:55 AM  
+**Author:** rzk  
+**Published:** 6/6/2026, 3:03:45 PM  
 **Categories:** -  
 
-Article URL: https://marketplace.visualstudio.com/items?itemName=christianalfoni.stackoverflow-ai Comments URL: https://news.ycombinator.com/item?id=48422687 Points: 2 # Comments: 3
+Article URL: https://twitter.com/jenzhuscott/status/2063032701087883647 Comments URL: https://news.ycombinator.com/item?id=48425761 Points: 4 # Comments: 0
 
-📖 [Read original article](https://marketplace.visualstudio.com/items?itemName=christianalfoni.stackoverflow-ai)
+📖 [Read original article](https://twitter.com/jenzhuscott/status/2063032701087883647)
 
 ---
 
-## 20. AI is a Meteor. Don't be a Dinosaur
+## 20. China wants to use AI to promote Xi Jinping's thinking
 
-**Author:** vinhnx  
-**Published:** 6/6/2026, 8:21:55 AM  
+**Author:** m-hodges  
+**Published:** 6/6/2026, 2:59:55 PM  
 **Categories:** -  
 
-Article URL: https://windowsontheory.org/2026/05/30/ai-is-a-meteor-dont-be-a-dinosaur/ Comments URL: https://news.ycombinator.com/item?id=48422672 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/business/media-telecom/china-bets-ai-promote-president-xi-jinpings-thinking-2026-06-05/ Comments URL: https://news.ycombinator.com/item?id=48425726 Points: 5 # Comments: 1
 
-📖 [Read original article](https://windowsontheory.org/2026/05/30/ai-is-a-meteor-dont-be-a-dinosaur/)
+📖 [Read original article](https://www.reuters.com/business/media-telecom/china-bets-ai-promote-president-xi-jinpings-thinking-2026-06-05/)
 
 ---
