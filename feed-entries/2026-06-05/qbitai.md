@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-05"
 date: "2026-06-05"
 source: "qbitai"
-count: 10
+count: 6
 ---
 
 # qbitai - 2026-06-05
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ AI笔记不是聊天框，而是信息入口。
 打造企业AI效率工具新标配
 
 📖 [Read original article](https://www.qbitai.com/2026/06/430758.html)
-
----
-
-## 7. B站宣布启动AI创造公开赛 打造中国版Build in Public
-
-**Author:** 智能车参考  
-**Published:** 6/5/2026, 7:38:08 AM  
-**Categories:** 资讯  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/06/430752.html)
-
----
-
-## 8. 100亿砸向人形，不如先让10万台机器狗走进家庭
-
-**Author:** 田, 晏林  
-**Published:** 6/5/2026, 7:21:20 AM  
-**Categories:** 资讯  
-
-所有通用技术，最后都要回到消费市场。
-
-📖 [Read original article](https://www.qbitai.com/2026/06/429968.html)
-
----
-
-## 9. 活久见！奥特曼Dario哈萨比斯同仇敌忾：DNA得查了
-
-**Author:** 一水  
-**Published:** 6/5/2026, 6:56:03 AM  
-**Categories:** 资讯, OpenAI  
-
-科技领袖呼吁DNA安全立法
-
-📖 [Read original article](https://www.qbitai.com/2026/06/429711.html)
-
----
-
-## 10. 全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住
-
-**Author:** henry  
-**Published:** 6/5/2026, 6:33:37 AM  
-**Categories:** 资讯, 世界模型, 具身智能, 大晓机器人  
-
-具身智能的房地产开发商来了！
-
-📖 [Read original article](https://www.qbitai.com/2026/06/429349.html)
 
 ---
