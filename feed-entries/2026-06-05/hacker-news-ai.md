@@ -2,251 +2,95 @@
 title: "Hacker News AI - 2026-06-05"
 date: "2026-06-05"
 source: "Hacker News AI"
-count: 20
+count: 7
 ---
 
 # Hacker News AI - 2026-06-05
 
-20 items collected.
+7 items collected.
 
 ---
 
-## 1. Large companies can add a local LLM filter layer to reduce their AI costs
+## 1. Using an AI coding agent with oracle-based testing to build a game emulator
 
-**Author:** postbase  
-**Published:** 6/5/2026, 7:53:33 PM  
+**Author:** throwaway_2494  
+**Published:** 6/5/2026, 11:43:13 PM  
 **Categories:** -  
 
-Article URL: https://umrashrf.github.io/large-companies-can-add-a-local-llm-filter-layer-to-considerably-reducing-their-ai-costs/ Comments URL: https://news.ycombinator.com/item?id=48417339 Points: 1 # Comments: 0
+Article URL: https://keanw.com/2026/03/a-diary-of-an-agentic-retro-gamer-part-1.html Comments URL: https://news.ycombinator.com/item?id=48419824 Points: 1 # Comments: 0
 
-📖 [Read original article](https://umrashrf.github.io/large-companies-can-add-a-local-llm-filter-layer-to-considerably-reducing-their-ai-costs/)
+📖 [Read original article](https://keanw.com/2026/03/a-diary-of-an-agentic-retro-gamer-part-1.html)
 
 ---
 
-## 2. Nasdaq Sinks 4% over AI and Rate-Hike Fears
+## 2. Investment leaders share views on AI job displacement as next big risk (2021)
 
-**Author:** JumpCrisscross  
-**Published:** 6/5/2026, 7:38:34 PM  
+**Author:** thoughtpeddler  
+**Published:** 6/5/2026, 11:36:33 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026 Comments URL: https://news.ycombinator.com/item?id=48417153 Points: 2 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2021-01-12/what-do-wall-street-leaders-think-is-the-next-big-risk Comments URL: https://news.ycombinator.com/item?id=48419773 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2021-01-12/what-do-wall-street-leaders-think-is-the-next-big-risk)
 
 ---
 
-## 3. Meta's stock sinks on report company could raise billions for AI push
+## 3. Tell HN: AI software development workflow, stack-ranked from HN discussion
 
-**Author:** 01-_-  
-**Published:** 6/5/2026, 7:33:32 PM  
+**Author:** dv35z  
+**Published:** 6/5/2026, 11:25:56 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html Comments URL: https://news.ycombinator.com/item?id=48417104 Points: 3 # Comments: 0
+Article URL: https://codeberg.org/jro/Knowledge/src/branch/main/2026-06-05_ai-development-workflow-tools.md Comments URL: https://news.ycombinator.com/item?id=48419675 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html)
+📖 [Read original article](https://codeberg.org/jro/Knowledge/src/branch/main/2026-06-05_ai-development-workflow-tools.md)
 
 ---
 
-## 4. An imperative command-line-interface for AI workload orchestration
+## 4. AI is the major driver of innovation in Canada and around the world
 
-**Author:** Facingsouth  
-**Published:** 6/5/2026, 7:15:30 PM  
+**Author:** megamike  
+**Published:** 6/5/2026, 10:59:12 PM  
 **Categories:** -  
 
-Article URL: https://pypi.org/project/terradev-cli/ Comments URL: https://news.ycombinator.com/item?id=48416931 Points: 1 # Comments: 1
+Article URL: https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all Comments URL: https://news.ycombinator.com/item?id=48419440 Points: 3 # Comments: 0
 
-📖 [Read original article](https://pypi.org/project/terradev-cli/)
+📖 [Read original article](https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all)
 
 ---
 
-## 5. Apple Silicon's on-device AI bet hasn't moved – only the chip range that runs it
+## 5. Model alleges retailer used AI to generate likeness under 'minor edits' clause
 
-**Author:** Austin_Conlon  
-**Published:** 6/5/2026, 7:08:56 PM  
+**Author:** gdessau  
+**Published:** 6/5/2026, 10:49:46 PM  
 **Categories:** -  
 
-Article URL: https://tbreak.com/apple-silicon-on-device-ai-doug-brooks-wwdc/ Comments URL: https://news.ycombinator.com/item?id=48416850 Points: 3 # Comments: 0
+Article URL: https://medium.com/human-offset/minor-edits-09ad99aad0f4 Comments URL: https://news.ycombinator.com/item?id=48419347 Points: 2 # Comments: 0
 
-📖 [Read original article](https://tbreak.com/apple-silicon-on-device-ai-doug-brooks-wwdc/)
+📖 [Read original article](https://medium.com/human-offset/minor-edits-09ad99aad0f4)
 
 ---
 
-## 6. Nvidia DGX Spark GB10 – AI Models and Guide with vLLM and Autonomous Script
+## 6. Anthropic warns Claude AI is building itself faster than expected
 
-**Author:** nico248  
-**Published:** 6/5/2026, 7:05:49 PM  
+**Author:** corvettez0606  
+**Published:** 6/5/2026, 10:45:34 PM  
 **Categories:** -  
 
-Article URL: https://github.com/omnia-projetcs/spark-dgx Comments URL: https://news.ycombinator.com/item?id=48416815 Points: 1 # Comments: 0
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-now-writes-more-than-80-percent-of-its-merged-code Comments URL: https://news.ycombinator.com/item?id=48419307 Points: 1 # Comments: 2
 
-📖 [Read original article](https://github.com/omnia-projetcs/spark-dgx)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-now-writes-more-than-80-percent-of-its-merged-code)
 
 ---
 
-## 7. UK orders Google to allow publishers to opt out of AI scraping
+## 7. Understand how you build with AI
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/5/2026, 6:56:43 PM  
+**Author:** simonpure  
+**Published:** 6/5/2026, 10:42:32 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/google-britain-ai-competition-regulation-ce2016a4519fbe234799e009bac8f120 Comments URL: https://news.ycombinator.com/item?id=48416706 Points: 3 # Comments: 0
+Article URL: https://paxel.ycombinator.com/ Comments URL: https://news.ycombinator.com/item?id=48419288 Points: 3 # Comments: 0
 
-📖 [Read original article](https://apnews.com/article/google-britain-ai-competition-regulation-ce2016a4519fbe234799e009bac8f120)
-
----
-
-## 8. Employees aren't resisting AI – they're resisting fear
-
-**Author:** berlianta  
-**Published:** 6/5/2026, 6:40:34 PM  
-**Categories:** -  
-
-Article URL: https://www.fastcompany.com/91541703/employees-arent-resisting-ai-theyre-resisting-fear-ai-employee-resistance Comments URL: https://news.ycombinator.com/item?id=48416515 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.fastcompany.com/91541703/employees-arent-resisting-ai-theyre-resisting-fear-ai-employee-resistance)
-
----
-
-## 9. AI enthusiasts race against time, AI skeptics race against entropy
-
-**Author:** BerislavLopac  
-**Published:** 6/5/2026, 6:35:42 PM  
-**Categories:** -  
-
-Article URL: https://charity.wtf/2026/06/02/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy-xpost/ Comments URL: https://news.ycombinator.com/item?id=48416451 Points: 3 # Comments: 1
-
-📖 [Read original article](https://charity.wtf/2026/06/02/ai-enthusiasts-are-in-a-race-against-time-ai-skeptics-are-in-a-race-against-entropy-xpost/)
-
----
-
-## 10. The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"
-
-**Author:** canucker2016  
-**Published:** 6/5/2026, 6:33:42 PM  
-**Categories:** -  
-
-Article URL: https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/ Comments URL: https://news.ycombinator.com/item?id=48416426 Points: 2 # Comments: 0
-
-📖 [Read original article](https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/)
-
----
-
-## 11. Miasma Worm Targets AI Coding Agents via GitHub Repos
-
-**Author:** ngetchell  
-**Published:** 6/5/2026, 6:20:53 PM  
-**Categories:** -  
-
-Article URL: https://safedep.io/miasma-worm-ai-coding-agent-config-injection/ Comments URL: https://news.ycombinator.com/item?id=48416269 Points: 3 # Comments: 0
-
-📖 [Read original article](https://safedep.io/miasma-worm-ai-coding-agent-config-injection/)
-
----
-
-## 12. Show HN: Audit any AI/data pairing with Veritrooper
-
-**Author:** brian8620  
-**Published:** 6/5/2026, 6:08:09 PM  
-**Categories:** -  
-
-Article URL: https://veritrooper.com/ Comments URL: https://news.ycombinator.com/item?id=48416123 Points: 1 # Comments: 0
-
-📖 [Read original article](https://veritrooper.com/)
-
----
-
-## 13. Meta putting up tents across the US to house AI servers
-
-**Author:** jeffufl  
-**Published:** 6/5/2026, 6:06:00 PM  
-**Categories:** -  
-
-Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-putting-up-tents-across-the-us-to-house-ai-servers-like-a-scene-out-of-the-movie-mad-max-structures-take-three-months-to-build-and-use-jet-engines-for-power Comments URL: https://news.ycombinator.com/item?id=4841609...
-
-📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-putting-up-tents-across-the-us-to-house-ai-servers-like-a-scene-out-of-the-movie-mad-max-structures-take-three-months-to-build-and-use-jet-engines-for-power)
-
----
-
-## 14. TanStack AI
-
-**Author:** berlianta  
-**Published:** 6/5/2026, 6:01:08 PM  
-**Categories:** -  
-
-Article URL: https://tanstack.com/blog/your-mcp-your-way Comments URL: https://news.ycombinator.com/item?id=48416038 Points: 2 # Comments: 0
-
-📖 [Read original article](https://tanstack.com/blog/your-mcp-your-way)
-
----
-
-## 15. Which AI agents send Accept: text/Markdown?
-
-**Author:** rickette  
-**Published:** 6/5/2026, 5:45:29 PM  
-**Categories:** -  
-
-Article URL: https://acceptmarkdown.com/status Comments URL: https://news.ycombinator.com/item?id=48415869 Points: 2 # Comments: 0
-
-📖 [Read original article](https://acceptmarkdown.com/status)
-
----
-
-## 16. How much value is AI creating?
-
-**Author:** paulpauper  
-**Published:** 6/5/2026, 5:44:00 PM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f Comments URL: https://news.ycombinator.com/item?id=48415849 Points: 7 # Comments: 1
-
-📖 [Read original article](https://www.ft.com/content/8e9ae7a4-7209-4e2c-aa36-f3af77d6ce1f)
-
----
-
-## 17. Sakana AI's Recursive Self-Improvement (RSI) Lab
-
-**Author:** hardmaru  
-**Published:** 6/5/2026, 5:27:39 PM  
-**Categories:** -  
-
-Article URL: https://sakana.ai/rsi-lab/ Comments URL: https://news.ycombinator.com/item?id=48415633 Points: 22 # Comments: 13
-
-📖 [Read original article](https://sakana.ai/rsi-lab/)
-
----
-
-## 18. Anthropic proposes a global slowdown of AI development
-
-**Author:** oogali  
-**Published:** 6/5/2026, 5:10:59 PM  
-**Categories:** -  
-
-Article URL: https://www.engadget.com/2188066/anthropic-proposes-global-ai-development-slowdown/ Comments URL: https://news.ycombinator.com/item?id=48415428 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.engadget.com/2188066/anthropic-proposes-global-ai-development-slowdown/)
-
----
-
-## 19. The Download: AI hacking beyond Mythos, and chatbots' impact on our brains
-
-**Author:** joozio  
-**Published:** 6/5/2026, 5:02:07 PM  
-**Categories:** -  
-
-Article URL: https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/ Comments URL: https://news.ycombinator.com/item?id=48415306 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/)
-
----
-
-## 20. Show HN: Gito v4.1.0 – AI code reviewer now runs on Claude Code / Gemini CLI
-
-**Author:** Nayjest  
-**Published:** 6/5/2026, 4:51:44 PM  
-**Categories:** -  
-
-Article URL: https://github.com/Nayjest/Gito/releases/tag/v4.1.0 Comments URL: https://news.ycombinator.com/item?id=48415164 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/Nayjest/Gito/releases/tag/v4.1.0)
+📖 [Read original article](https://paxel.ycombinator.com/)
 
 ---
