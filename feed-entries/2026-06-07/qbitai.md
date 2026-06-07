@@ -2,16 +2,28 @@
 title: "qbitai - 2026-06-07"
 date: "2026-06-07"
 source: "qbitai"
-count: 4
+count: 5
 ---
 
 # qbitai - 2026-06-07
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. 马斯克39页SpaceX计划，人类史上最伟大的PPT
+## 1. 有余凯不投的地平线离职创业员工吗？
+
+**Author:** 田, 晏林  
+**Published:** 6/7/2026, 12:43:08 PM  
+**Categories:** 资讯, 余凯, 地平线  
+
+「放任」人才外流的反常操作，只是格局使然吗？
+
+📖 [Read original article](https://www.qbitai.com/2026/06/431931.html)
+
+---
+
+## 2. 马斯克39页SpaceX计划，人类史上最伟大的PPT
 
 **Author:** henry  
 **Published:** 6/7/2026, 12:13:16 PM  
@@ -23,7 +35,7 @@ count: 4
 
 ---
 
-## 2. OpenAI芯片核心叛逃Anthropic！就在量产前夜
+## 3. OpenAI芯片核心叛逃Anthropic！就在量产前夜
 
 **Author:** henry  
 **Published:** 6/7/2026, 12:07:44 PM  
@@ -35,7 +47,7 @@ count: 4
 
 ---
 
-## 3. 教你用AI一节课收17万，华尔街精英排着队付费
+## 4. 教你用AI一节课收17万，华尔街精英排着队付费
 
 **Author:** 克雷西  
 **Published:** 6/7/2026, 3:10:13 AM  
@@ -47,7 +59,7 @@ count: 4
 
 ---
 
-## 4. 5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队
+## 5. 5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队
 
 **Author:** 梦瑶  
 **Published:** 6/7/2026, 1:13:21 AM  
