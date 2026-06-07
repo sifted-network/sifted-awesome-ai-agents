@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-05"
 date: "2026-06-05"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-06-05
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Compare Gemma 4 edge formats: BF16, Q4_0 QAT, and mobile QAT, on published memor
 NVIDIA Dynamo Snapshot checkpoints and restores vLLM inference workers on Kubernetes using CRIU and cuda-checkpoint tools. The post NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes appeared first on MarkTechPost.
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/05/nvidia-ai-releases-dynamo-snapshot-a-criu-based-fast-startup-system-for-ai-inference-on-kubernetes/)
-
----
-
-## 4. Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing
-
-**Author:** Michal Sutter  
-**Published:** 6/5/2026, 9:44:39 AM  
-**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Artificial Intelligence, Editors Pick, New Releases, Staff, Tech News, Technology  
-
-Perplexity AI announces a hybrid local-server inference orchestrator for Personal Computer, automatically routing AI tasks between on-device and cloud models. The post Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routin...
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/05/perplexity-ai-introduces-hybrid-local-server-inference-orchestrator-for-personal-computer-automatic-on-device-and-cloud-task-routing/)
 
 ---
