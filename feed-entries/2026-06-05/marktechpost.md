@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-05"
 date: "2026-06-05"
 source: "MarkTechPost"
-count: 6
+count: 4
 ---
 
 # MarkTechPost - 2026-06-05
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ NVIDIA Dynamo Snapshot checkpoints and restores vLLM inference workers on Kubern
 Perplexity AI announces a hybrid local-server inference orchestrator for Personal Computer, automatically routing AI tasks between on-device and cloud models. The post Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routin...
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/05/perplexity-ai-introduces-hybrid-local-server-inference-orchestrator-for-personal-computer-automatic-on-device-and-cloud-task-routing/)
-
----
-
-## 5. Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint
-
-**Author:** Sana Hassan  
-**Published:** 6/5/2026, 9:04:55 AM  
-**Categories:** Agentic AI, Editors Pick, Software Engineering, Staff, Tutorials  
-
-A hands-on guide to running Microsoft Fara in Colab, testing the browser agent loop with a mock endpoint. The post Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint appeared first on MarkTechPost.
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/05/microsoft-fara-tutorial-run-a-browser-use-agent-in-google-colab-with-a-mock-openai-compatible-endpoint/)
-
----
-
-## 6. 15 Best Vibe Coding Tools in 2026 Compared: Pricing, Features, and Best Fit
-
-**Author:** Asif Razzaq  
-**Published:** 6/5/2026, 8:07:46 AM  
-**Categories:** Agentic AI, AI Agents, Editors Pick, Software Engineering, Top, Vibe Coding  
-
-Vibe coding turns plain language into working software. Explore 15 tools shaping how developers build apps in 2026. The post 15 Best Vibe Coding Tools in 2026 Compared: Pricing, Features, and Best Fit appeared first on MarkTechPost.
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/05/15-best-vibe-coding-tools-in-2026-compared-pricing-features-and-best-fit/)
 
 ---
