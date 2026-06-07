@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-07"
 date: "2026-06-07"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-06-07
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Best 21 Low-Code and No-Code AI Tools in 2026
+## 1. Building Reflective Prompt Optimization with GEPA: Multi-Component Prompts, Structured Feedback, and Held-Out Validation
+
+**Author:** Sana Hassan  
+**Published:** 6/7/2026, 5:05:04 PM  
+**Categories:** Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, Staff, Technology, Tutorials  
+
+In this tutorial, we use GEPA as a reflective prompt-evolution framework to improve how a small language model solves multi-step arithmetic word problems. We start from a weak seed prompt, build a deterministic benchmark, and define a structured evaluator that returns actionable feedback. A multi-co...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/07/building-reflective-prompt-optimization-with-gepa-multi-component-prompts-structured-feedback-and-held-out-validation/)
+
+---
+
+## 2. Best 21 Low-Code and No-Code AI Tools in 2026
 
 **Author:** Michal Sutter  
 **Published:** 6/7/2026, 8:40:25 AM  
@@ -23,7 +35,7 @@ Low-code and no-code AI platforms now turn a prompt into a working app, agent, o
 
 ---
 
-## 2. Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b
+## 3. Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b
 
 **Author:** Asif Razzaq  
 **Published:** 6/7/2026, 6:25:18 AM  
@@ -35,7 +47,7 @@ UIUC and Chroma's Harness-1 is a 20B retrieval subagent trained with reinforceme
 
 ---
 
-## 3. NVIDIA garak Tutorial: Build a Complete Defensive LLM Red-Teaming Workflow with Custom Probes and Detectors
+## 4. NVIDIA garak Tutorial: Build a Complete Defensive LLM Red-Teaming Workflow with Custom Probes and Detectors
 
 **Author:** Sana Hassan  
 **Published:** 6/7/2026, 5:11:09 AM  
