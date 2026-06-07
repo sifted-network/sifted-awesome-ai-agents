@@ -51,7 +51,7 @@ count: 5
 
 **Author:** 听雨  
 **Published:** 6/6/2026, 7:00:06 AM  
-**Categories:** 资讯, 首页轮播, AI  
+**Categories:** 资讯, AI  
 
 广东上大分！
 
