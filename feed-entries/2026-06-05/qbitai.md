@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-05"
 date: "2026-06-05"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-06-05
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Agentic AI的算力焦虑，英特尔给来了一剂「猛药」
 
 
 📖 [Read original article](https://www.qbitai.com/2026/06/430757.html)
-
----
-
-## 5. WPS笔记正式发布：AI贯穿记录、整理与复用全过程
-
-**Author:** 田, 晏林  
-**Published:** 6/5/2026, 9:16:04 AM  
-**Categories:** 资讯  
-
-AI笔记不是聊天框，而是信息入口。
-
-📖 [Read original article](https://www.qbitai.com/2026/06/431014.html)
 
 ---
