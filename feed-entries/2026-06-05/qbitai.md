@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-05"
 date: "2026-06-05"
 source: "qbitai"
-count: 4
+count: 3
 ---
 
 # qbitai - 2026-06-05
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Agentic AI的算力焦虑，英特尔给来了一剂「猛药」
 
 
 📖 [Read original article](https://www.qbitai.com/2026/06/431027.html)
-
----
-
-## 4. 国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态
-
-**Author:** 量子位的朋友们  
-**Published:** 6/5/2026, 9:40:44 AM  
-**Categories:** 资讯  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/06/430757.html)
 
 ---
