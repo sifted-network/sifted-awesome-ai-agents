@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-06"
 date: "2026-06-06"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-06-06
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents
+## 1. Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal
+
+**Author:** Asif Razzaq  
+**Published:** 6/6/2026, 10:07:34 PM  
+**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, For Devs, Machine Learning, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology, Uncategorized  
+
+Google released the Colab CLI, letting developers and AI agents run local code on remote Colab GPU and TPU runtime The post Google&#8217;s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal appeared first on MarkTechPost.
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/)
+
+---
+
+## 2. Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents
 
 **Author:** Michal Sutter  
 **Published:** 6/6/2026, 9:11:08 AM  
@@ -23,7 +35,7 @@ Kimi Code CLI is Moonshot AI's open-source terminal coding agent, written in Typ
 
 ---
 
-## 2. NVIDIA Releases Nemotron 3.5 ASR: A 600M-Parameter Cache-Aware Streaming Model Transcribing 40 Language-Locales in Real Time
+## 3. NVIDIA Releases Nemotron 3.5 ASR: A 600M-Parameter Cache-Aware Streaming Model Transcribing 40 Language-Locales in Real Time
 
 **Author:** Asif Razzaq  
 **Published:** 6/6/2026, 7:55:40 AM  
