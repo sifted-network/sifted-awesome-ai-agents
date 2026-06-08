@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-07"
 date: "2026-06-07"
 source: "qbitai"
-count: 4
+count: 2
 ---
 
 # qbitai - 2026-06-07
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ count: 4
 人类历史最大规模的IPO招股开始了！
 
 📖 [Read original article](https://www.qbitai.com/2026/06/431694.html)
-
----
-
-## 3. OpenAI芯片核心叛逃Anthropic！就在量产前夜
-
-**Author:** henry  
-**Published:** 6/7/2026, 12:07:44 PM  
-**Categories:** 资讯, Anthropic, OpenAI, 芯片  
-
-帮OpenAI从零造出第一颗芯片的人，转投Anthropic了
-
-📖 [Read original article](https://www.qbitai.com/2026/06/431499.html)
-
----
-
-## 4. 教你用AI一节课收17万，华尔街精英排着队付费
-
-**Author:** 克雷西  
-**Published:** 6/7/2026, 3:10:13 AM  
-**Categories:** 资讯  
-
-花旗美银都是客户
-
-📖 [Read original article](https://www.qbitai.com/2026/06/431487.html)
 
 ---
