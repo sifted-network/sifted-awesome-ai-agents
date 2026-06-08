@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Let us filter AI slop, you cowards
+## 1. AI Is Slowing Down
+
+**Author:** crescit_eundo  
+**Published:** 6/8/2026, 3:46:37 PM  
+**Categories:** -  
+
+Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.wheresyoured.at/ai-is-slowing-down/)
+
+---
+
+## 2. New AI espionage powers trigger Putin camera scare
+
+**Author:** Element_  
+**Published:** 6/8/2026, 3:45:56 PM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f Comments URL: https://news.ycombinator.com/item?id=48446885 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f)
+
+---
+
+## 3. How Confident Are AI Classifiers About Their Own Confidence?
+
+**Author:** apwheele  
+**Published:** 6/8/2026, 3:41:07 PM  
+**Categories:** -  
+
+Article URL: https://gmcirco.github.io/blog/posts/ai-calibration/calibration.html Comments URL: https://news.ycombinator.com/item?id=48446816 Points: 1 # Comments: 0
+
+📖 [Read original article](https://gmcirco.github.io/blog/posts/ai-calibration/calibration.html)
+
+---
+
+## 4. Show HN: A Highly Available Distributed Router for Global Realtime AI
+
+**Author:** wesrobin  
+**Published:** 6/8/2026, 3:33:24 PM  
+**Categories:** -  
+
+Article URL: https://cerebrium.ai/blog/thalamus-our-highly-available-distributed-router-for-global-realtime-ai-workloads Comments URL: https://news.ycombinator.com/item?id=48446710 Points: 2 # Comments: 0
+
+📖 [Read original article](https://cerebrium.ai/blog/thalamus-our-highly-available-distributed-router-for-global-realtime-ai-workloads)
+
+---
+
+## 5. Terry Tao Became an Evangelist for AI in Math
+
+**Author:** Tomte  
+**Published:** 6/8/2026, 3:30:09 PM  
+**Categories:** -  
+
+Article URL: https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/ Comments URL: https://news.ycombinator.com/item?id=48446673 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/)
+
+---
+
+## 6. AI and the invisible newcomer in open source
+
+**Author:** kgryte  
+**Published:** 6/8/2026, 3:20:57 PM  
+**Categories:** -  
+
+Article URL: https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/ Comments URL: https://news.ycombinator.com/item?id=48446543 Points: 2 # Comments: 0
+
+📖 [Read original article](https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/)
+
+---
+
+## 7. Amid a flood of AI advances astrophysicists are questioning soul of their field
+
+**Author:** bookofjoe  
+**Published:** 6/8/2026, 3:20:07 PM  
+**Categories:** -  
+
+Article URL: https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-field Comments URL: https://news.ycombinator.com/item?id=48446531 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-field)
+
+---
+
+## 8. Meta AI Instagram Hack Wasn't About Authentication. It Was About Authorization
+
+**Author:** mooreds  
+**Published:** 6/8/2026, 3:17:00 PM  
+**Categories:** -  
+
+Article URL: https://www.cybersecurity-insiders.com/the-meta-ai-instagram-hack-wasnt-about-authentication-it-was-about-authorization/ Comments URL: https://news.ycombinator.com/item?id=48446476 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.cybersecurity-insiders.com/the-meta-ai-instagram-hack-wasnt-about-authentication-it-was-about-authorization/)
+
+---
+
+## 9. \"a game of court intrigue where AI simulates the various courtiers\"
+
+**Author:** pavel_lishin  
+**Published:** 6/8/2026, 3:11:46 PM  
+**Categories:** -  
+
+Article URL: https://substack.com/@alicemaz/note/c-265000587 Comments URL: https://news.ycombinator.com/item?id=48446405 Points: 2 # Comments: 0
+
+📖 [Read original article](https://substack.com/@alicemaz/note/c-265000587)
+
+---
+
+## 10. AI costs are rising, but proving value is still a challenge
+
+**Author:** yakkomajuri  
+**Published:** 6/8/2026, 3:05:27 PM  
+**Categories:** -  
+
+Article URL: https://mattcasmith.net/2026/06/07/ai-costs-value Comments URL: https://news.ycombinator.com/item?id=48446328 Points: 3 # Comments: 0
+
+📖 [Read original article](https://mattcasmith.net/2026/06/07/ai-costs-value)
+
+---
+
+## 11. There should have been an op-ed here but you filed AI slop
+
+**Author:** AnodicElegy  
+**Published:** 6/8/2026, 3:04:04 PM  
+**Categories:** -  
+
+Article URL: https://www.cityam.com/there-should-have-been-an-op-ed-here-but-you-filed-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=48446305 Points: 6 # Comments: 0
+
+📖 [Read original article](https://www.cityam.com/there-should-have-been-an-op-ed-here-but-you-filed-ai-slop/)
+
+---
+
+## 12. AI \"content creators\" are getting harder to spot
+
+**Author:** randomint64  
+**Published:** 6/8/2026, 3:03:18 PM  
+**Categories:** -  
+
+Article URL: https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators Comments URL: https://news.ycombinator.com/item?id=48446298 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators)
+
+---
+
+## 13. How AI is reshaping discovery in maths and physics
+
+**Author:** Brajeshwar  
+**Published:** 6/8/2026, 2:59:27 PM  
+**Categories:** -  
+
+Article URL: https://www.nature.com/articles/d41586-026-01820-1 Comments URL: https://news.ycombinator.com/item?id=48446261 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.nature.com/articles/d41586-026-01820-1)
+
+---
+
+## 14. Show HN: RiskKernel – a kill switch and budgets for runaway AI agents
+
+**Author:** prashar32  
+**Published:** 6/8/2026, 2:48:51 PM  
+**Categories:** -  
+
+Article URL: https://github.com/prashar32/riskkernel Comments URL: https://news.ycombinator.com/item?id=48446146 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/prashar32/riskkernel)
+
+---
+
+## 15. OpenEvidence: An AI Copilot for Doctors
+
+**Author:** m-hodges  
+**Published:** 6/8/2026, 2:48:34 PM  
+**Categories:** -  
+
+Article URL: https://www.openevidence.com/ Comments URL: https://news.ycombinator.com/item?id=48446141 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.openevidence.com/)
+
+---
+
+## 16. AI is masking America's \"post-literate\" workforce
 
 **Author:** 1vuio0pswjnm7  
-**Published:** 6/8/2026, 10:55:21 AM  
+**Published:** 6/8/2026, 2:43:52 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok Comments URL: https://news.ycombinator.com/item?id=48443717 Points: 1 # Comments: 0
+Article URL: https://www.axios.com/2026/06/08/ai-america-literacy Comments URL: https://news.ycombinator.com/item?id=48446082 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok)
+📖 [Read original article](https://www.axios.com/2026/06/08/ai-america-literacy)
 
 ---
 
-## 2. Most AI at work is bullshit
+## 17. AI CostGuard – Local-first runtime safety layer for AI agents
 
-**Author:** bernardgmeyer  
-**Published:** 6/8/2026, 10:55:07 AM  
+**Author:** salim2006  
+**Published:** 6/8/2026, 2:43:23 PM  
 **Categories:** -  
 
-Article URL: https://www.fasterhorses.md/articles/most-ai-at-work-is-bullshit Comments URL: https://news.ycombinator.com/item?id=48443709 Points: 1 # Comments: 0
+Article URL: https://github.com/salimassili62-afk/ai-costguard Comments URL: https://news.ycombinator.com/item?id=48446076 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.fasterhorses.md/articles/most-ai-at-work-is-bullshit)
+📖 [Read original article](https://github.com/salimassili62-afk/ai-costguard)
 
 ---
 
-## 3. AI-Generated Papers in the NeurIPS 2026 Position Paper Track
+## 18. AI Can Reverse-Engineer Hardware. I Can't Turn Off My Own Alarm
 
-**Author:** cubefox  
-**Published:** 6/8/2026, 10:45:03 AM  
+**Author:** dimitri-vs  
+**Published:** 6/8/2026, 2:30:43 PM  
 **Categories:** -  
 
-Article URL: https://blog.neurips.cc/2026/06/02/ai-generated-papers-in-the-neurips-2026-position-paper-track/ Comments URL: https://news.ycombinator.com/item?id=48443647 Points: 1 # Comments: 1
+Article URL: https://www.sudomoin.com/p/ai-can-reverse-engineer-hardware-i-can-t-turn-off-my-own-alarm Comments URL: https://news.ycombinator.com/item?id=48445921 Points: 2 # Comments: 0
 
-📖 [Read original article](https://blog.neurips.cc/2026/06/02/ai-generated-papers-in-the-neurips-2026-position-paper-track/)
+📖 [Read original article](https://www.sudomoin.com/p/ai-can-reverse-engineer-hardware-i-can-t-turn-off-my-own-alarm)
 
 ---
 
-## 4. Free and private AI chat from DuckDuckGo
+## 19. Artists`re making antislop to rebel against AI:It's been rammed down our throats
 
-**Author:** strzibny  
-**Published:** 6/8/2026, 10:22:19 AM  
+**Author:** rndsignals  
+**Published:** 6/8/2026, 2:20:37 PM  
 **Categories:** -  
 
-Article URL: https://duck.ai/ Comments URL: https://news.ycombinator.com/item?id=48443469 Points: 5 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art Comments URL: https://news.ycombinator.com/item?id=48445770 Points: 3 # Comments: 0
 
-📖 [Read original article](https://duck.ai/)
+📖 [Read original article](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art)
 
 ---
 
-## 5. 'Poisoned' AI: the ChatGPT shopping scams that lead to fake websites
+## 20. Show HN: GitHub Copilot port of Anthropic's AI vulnerability discovery harness
 
-**Author:** 01-_-  
-**Published:** 6/8/2026, 10:21:21 AM  
+**Author:** dreis_sw  
+**Published:** 6/8/2026, 2:05:33 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites Comments URL: https://news.ycombinator.com/item?id=48443461 Points: 1 # Comments: 0
+Last week, Anthropic released https://github.com/anthropics/defending-code-reference-harne..., a reference harness for autonomous vulnerability discovery that uses Claude Code agents to find, verify, and patch memory-safety bugs. I wanted to use it but I only have access to GitHub Copilot.This is a ...
 
-📖 [Read original article](https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites)
-
----
-
-## 6. AI bills can be as big as a postdoc salary. Is the cost worth it?
-
-**Author:** giuliomagnifico  
-**Published:** 6/8/2026, 10:15:07 AM  
-**Categories:** -  
-
-Article URL: https://www.nature.com/articles/d41586-026-01369-z Comments URL: https://news.ycombinator.com/item?id=48443421 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.nature.com/articles/d41586-026-01369-z)
-
----
-
-## 7. Show HN: Veritrooper – find what your AI gets wrong about your own docs
-
-**Author:** brian8620  
-**Published:** 6/8/2026, 10:14:04 AM  
-**Categories:** -  
-
-Article URL: https://veritrooper.com/ Comments URL: https://news.ycombinator.com/item?id=48443409 Points: 1 # Comments: 0
-
-📖 [Read original article](https://veritrooper.com/)
-
----
-
-## 8. Seedream 5.0 Image and Video – create AI videos
-
-**Author:** zlonmask  
-**Published:** 6/8/2026, 9:50:48 AM  
-**Categories:** -  
-
-Article URL: https://seedream4.video/ Comments URL: https://news.ycombinator.com/item?id=48443245 Points: 1 # Comments: 0
-
-📖 [Read original article](https://seedream4.video/)
-
----
-
-## 9. Listable AI
-
-**Author:** PaulinMartin  
-**Published:** 6/8/2026, 9:47:54 AM  
-**Categories:** -  
-
-Article URL: https://www.listableai.com/ Comments URL: https://news.ycombinator.com/item?id=48443223 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.listableai.com/)
-
----
-
-## 10. Show HN: AI LinkedIn auto-apply that runs in your own browser session
-
-**Author:** Maazkhanxo  
-**Published:** 6/8/2026, 9:44:28 AM  
-**Categories:** -  
-
-Article URL: https://jobeasyapply.com Comments URL: https://news.ycombinator.com/item?id=48443204 Points: 2 # Comments: 2
-
-📖 [Read original article](https://jobeasyapply.com)
-
----
-
-## 11. Pizx – zx and Pi AI = shell scripting with 15 AI agent patterns
-
-**Author:** topce  
-**Published:** 6/8/2026, 9:43:58 AM  
-**Categories:** -  
-
-Article URL: https://github.com/topce/pizx Comments URL: https://news.ycombinator.com/item?id=48443198 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/topce/pizx)
-
----
-
-## 12. I run an AI girlfriend company. Here's why you shouldn't use it every day
-
-**Author:** zeshutmax  
-**Published:** 6/8/2026, 9:41:43 AM  
-**Categories:** -  
-
-Article URL: https://bae.ppl.studio/letter Comments URL: https://news.ycombinator.com/item?id=48443177 Points: 1 # Comments: 1
-
-📖 [Read original article](https://bae.ppl.studio/letter)
-
----
-
-## 13. Ask HN: What is the AI setup for an experienced dev starting on a new project?
-
-**Author:** postexitus  
-**Published:** 6/8/2026, 9:38:40 AM  
-**Categories:** -  
-
-I have been working as a software developer for more than 20 years now. Been around the block a few times. Thanks to generous allowances in my current place, I've dipped my toes into LLM world and am quite impressed with it. However, we are on a legacy code base, LLM impact is limited in a sense. If...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48443152)
-
----
-
-## 14. HOM Local- a memory kernel for AI agents with audit trail and source attribution
-
-**Author:** walldad2  
-**Published:** 6/8/2026, 9:27:13 AM  
-**Categories:** -  
-
-Article URL: https://github.com/wallidsaydi-creator/hom-local Comments URL: https://news.ycombinator.com/item?id=48443074 Points: 1 # Comments: 1
-
-📖 [Read original article](https://github.com/wallidsaydi-creator/hom-local)
-
----
-
-## 15. Show HN: Tool you give AI agents to sneak in prompts or connect multiple agents
-
-**Author:** mrtksn  
-**Published:** 6/8/2026, 9:15:18 AM  
-**Categories:** -  
-
-So, I was looking for ways on how to make Codex and Antigravity talk to each other and came up with "Promptgate", which is essentially a web server that does http long polling and slow releasing the data to keep agents happy and give you chat-like UI to publish data.It is useful when you give the HT...
-
-📖 [Read original article](https://apps.apple.com/us/app/promptgate/id6772730472)
-
----
-
-## 16. We Need the Friction of Existence (about AI and the fact that thought≠language)
-
-**Author:** tombarys  
-**Published:** 6/8/2026, 9:13:17 AM  
-**Categories:** -  
-
-Article URL: https://lifehacky.net/we-need-the-friction-of-existence-da8e27e94b27?source=friends_link&sk=71fe1679ea3a1584bc4e540675402efe Comments URL: https://news.ycombinator.com/item?id=48442980 Points: 1 # Comments: 1
-
-📖 [Read original article](https://lifehacky.net/we-need-the-friction-of-existence-da8e27e94b27?source=friends_link&sk=71fe1679ea3a1584bc4e540675402efe)
-
----
-
-## 17. Show HN: Email and identity stack for AI Agents
-
-**Author:** DannyHeng  
-**Published:** 6/8/2026, 8:59:48 AM  
-**Categories:** -  
-
-Article URL: https://mailgent.dev/ Comments URL: https://news.ycombinator.com/item?id=48442894 Points: 3 # Comments: 0
-
-📖 [Read original article](https://mailgent.dev/)
-
----
-
-## 18. Substrate vs. Broker: Two Emerging Strategies for Enterprise AI
-
-**Author:** alex-ivan  
-**Published:** 6/8/2026, 8:58:37 AM  
-**Categories:** -  
-
-Article URL: https://signal-memo.com/memo-salesforce-and-sap-are-making-opposite-bets-about-how-agents-will-use-enterprise-software-the-rest-of-the-stack-is-about-to-have-to-pick-a-side/ Comments URL: https://news.ycombinator.com/item?id=48442889 Points: 1 # Comments: 0
-
-📖 [Read original article](https://signal-memo.com/memo-salesforce-and-sap-are-making-opposite-bets-about-how-agents-will-use-enterprise-software-the-rest-of-the-stack-is-about-to-have-to-pick-a-side/)
-
----
-
-## 19. AI Has Come for Serif Fonts
-
-**Author:** unprovable  
-**Published:** 6/8/2026, 8:53:04 AM  
-**Categories:** -  
-
-Article URL: https://www.wired.com/story/ai-has-come-for-serif-fonts/ Comments URL: https://news.ycombinator.com/item?id=48442855 Points: 2 # Comments: 2
-
-📖 [Read original article](https://www.wired.com/story/ai-has-come-for-serif-fonts/)
-
----
-
-## 20. Dao Heart 3.13 a symbolic safety layer for value drift and AI alignment research
-
-**Author:** Mankirat47  
-**Published:** 6/8/2026, 8:14:15 AM  
-**Categories:** -  
-
-Article URL: https://github.com/Mankirat47/Dao-Heart-3.13 Comments URL: https://news.ycombinator.com/item?id=48442582 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/Mankirat47/Dao-Heart-3.13)
+📖 [Read original article](https://github.com/davidreis97/defending-code-reference-harness-copilot)
 
 ---
