@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI Is Slowing Down
+## 1. Lean – Two Claude Code skills that stop the AI from over-engineering
 
-**Author:** crescit_eundo  
-**Published:** 6/8/2026, 3:46:37 PM  
+**Author:** mamba99  
+**Published:** 6/8/2026, 7:53:11 PM  
 **Categories:** -  
 
-Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 4 # Comments: 0
+Article URL: https://github.com/albertobarnabo/lean Comments URL: https://news.ycombinator.com/item?id=48450852 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wheresyoured.at/ai-is-slowing-down/)
+📖 [Read original article](https://github.com/albertobarnabo/lean)
 
 ---
 
-## 2. New AI espionage powers trigger Putin camera scare
+## 2. HPE ProLiant Compute DL394 Gen12 Brings Nvidia Vera CPU to Agentic AI
 
-**Author:** Element_  
-**Published:** 6/8/2026, 3:45:56 PM  
+**Author:** rbanffy  
+**Published:** 6/8/2026, 7:52:29 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f Comments URL: https://news.ycombinator.com/item?id=48446885 Points: 1 # Comments: 0
+Article URL: https://www.storagereview.com/news/hpe-proliant-compute-dl394-gen12-brings-nvidia-vera-cpu-to-agentic-ai Comments URL: https://news.ycombinator.com/item?id=48450838 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f)
+📖 [Read original article](https://www.storagereview.com/news/hpe-proliant-compute-dl394-gen12-brings-nvidia-vera-cpu-to-agentic-ai)
 
 ---
 
-## 3. How Confident Are AI Classifiers About Their Own Confidence?
+## 3. DebugDuck – A desktop rubber duck with local AI
 
-**Author:** apwheele  
-**Published:** 6/8/2026, 3:41:07 PM  
+**Author:** CarlosVallejoR  
+**Published:** 6/8/2026, 7:42:15 PM  
 **Categories:** -  
 
-Article URL: https://gmcirco.github.io/blog/posts/ai-calibration/calibration.html Comments URL: https://news.ycombinator.com/item?id=48446816 Points: 1 # Comments: 0
+Article URL: https://github.com/CarlosVallejoRuiz/DebugDuck Comments URL: https://news.ycombinator.com/item?id=48450641 Points: 1 # Comments: 0
 
-📖 [Read original article](https://gmcirco.github.io/blog/posts/ai-calibration/calibration.html)
+📖 [Read original article](https://github.com/CarlosVallejoRuiz/DebugDuck)
 
 ---
 
-## 4. Show HN: A Highly Available Distributed Router for Global Realtime AI
+## 4. Ask HN: Why won't you be replaced by AI?
 
-**Author:** wesrobin  
-**Published:** 6/8/2026, 3:33:24 PM  
+**Author:** atleastoptimal  
+**Published:** 6/8/2026, 7:21:45 PM  
 **Categories:** -  
 
-Article URL: https://cerebrium.ai/blog/thalamus-our-highly-available-distributed-router-for-global-realtime-ai-workloads Comments URL: https://news.ycombinator.com/item?id=48446710 Points: 2 # Comments: 0
+AI models are rapidly getting better. The general public still hasn't seen the capabilities of Anthropic's Mythos model, which is already 4 months old at this point.I've seen many arguments about why certain jobs will always need a "human in the loop", or that certain skills aren't replaceable by LL...
 
-📖 [Read original article](https://cerebrium.ai/blog/thalamus-our-highly-available-distributed-router-for-global-realtime-ai-workloads)
+📖 [Read original article](https://news.ycombinator.com/item?id=48450261)
 
 ---
 
-## 5. Terry Tao Became an Evangelist for AI in Math
+## 5. Show HN: Guarden – Authorization for AI agent actions powered by OPA
 
-**Author:** Tomte  
-**Published:** 6/8/2026, 3:30:09 PM  
+**Author:** sakuraiben  
+**Published:** 6/8/2026, 7:20:01 PM  
 **Categories:** -  
 
-Article URL: https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/ Comments URL: https://news.ycombinator.com/item?id=48446673 Points: 5 # Comments: 0
+Article URL: https://github.com/las7/Guarden Comments URL: https://news.ycombinator.com/item?id=48450231 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/)
+📖 [Read original article](https://github.com/las7/Guarden)
 
 ---
 
-## 6. AI and the invisible newcomer in open source
+## 6. Apple reveals new AI architecture built around Google Gemini models
 
-**Author:** kgryte  
-**Published:** 6/8/2026, 3:20:57 PM  
+**Author:** unclefuzzy  
+**Published:** 6/8/2026, 7:14:47 PM  
 **Categories:** -  
 
-Article URL: https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/ Comments URL: https://news.ycombinator.com/item?id=48446543 Points: 2 # Comments: 0
+Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/ Comments URL: https://news.ycombinator.com/item?id=48450142 Points: 51 # Comments: 7
 
-📖 [Read original article](https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/)
+📖 [Read original article](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
 
 ---
 
-## 7. Amid a flood of AI advances astrophysicists are questioning soul of their field
+## 7. What Is AI Doing to Math?
 
-**Author:** bookofjoe  
-**Published:** 6/8/2026, 3:20:07 PM  
+**Author:** retupmoc01  
+**Published:** 6/8/2026, 7:10:47 PM  
 **Categories:** -  
 
-Article URL: https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-field Comments URL: https://news.ycombinator.com/item?id=48446531 Points: 1 # Comments: 0
+Article URL: https://www.nytimes.com/2026/06/05/podcasts/hardfork-ipo-math.html Comments URL: https://news.ycombinator.com/item?id=48450072 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-field)
+📖 [Read original article](https://www.nytimes.com/2026/06/05/podcasts/hardfork-ipo-math.html)
 
 ---
 
-## 8. Meta AI Instagram Hack Wasn't About Authentication. It Was About Authorization
+## 8. You are here on the AI change curve
 
-**Author:** mooreds  
-**Published:** 6/8/2026, 3:17:00 PM  
+**Author:** paulpauper  
+**Published:** 6/8/2026, 7:09:28 PM  
 **Categories:** -  
 
-Article URL: https://www.cybersecurity-insiders.com/the-meta-ai-instagram-hack-wasnt-about-authentication-it-was-about-authorization/ Comments URL: https://news.ycombinator.com/item?id=48446476 Points: 1 # Comments: 0
+Article URL: https://howfastis.ai/ Comments URL: https://news.ycombinator.com/item?id=48450052 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cybersecurity-insiders.com/the-meta-ai-instagram-hack-wasnt-about-authentication-it-was-about-authorization/)
+📖 [Read original article](https://howfastis.ai/)
 
 ---
 
-## 9. \"a game of court intrigue where AI simulates the various courtiers\"
+## 9. SlashDB ver. 2.2 /w DuckDB, advanced filter and AI
 
-**Author:** pavel_lishin  
-**Published:** 6/8/2026, 3:11:46 PM  
+**Author:** agilevic  
+**Published:** 6/8/2026, 7:07:16 PM  
 **Categories:** -  
 
-Article URL: https://substack.com/@alicemaz/note/c-265000587 Comments URL: https://news.ycombinator.com/item?id=48446405 Points: 2 # Comments: 0
+Article URL: https://www.slashdb.com/2026/06/08/slashdb-2-2-release-notes/ Comments URL: https://news.ycombinator.com/item?id=48450005 Points: 1 # Comments: 0
 
-📖 [Read original article](https://substack.com/@alicemaz/note/c-265000587)
+📖 [Read original article](https://www.slashdb.com/2026/06/08/slashdb-2-2-release-notes/)
 
 ---
 
-## 10. AI costs are rising, but proving value is still a challenge
+## 10. Apple Core AI Framework
 
-**Author:** yakkomajuri  
-**Published:** 6/8/2026, 3:05:27 PM  
+**Author:** hmokiguess  
+**Published:** 6/8/2026, 6:47:38 PM  
 **Categories:** -  
 
-Article URL: https://mattcasmith.net/2026/06/07/ai-costs-value Comments URL: https://news.ycombinator.com/item?id=48446328 Points: 3 # Comments: 0
+Article URL: https://developer.apple.com/documentation/coreai/ Comments URL: https://news.ycombinator.com/item?id=48449665 Points: 5 # Comments: 0
 
-📖 [Read original article](https://mattcasmith.net/2026/06/07/ai-costs-value)
+📖 [Read original article](https://developer.apple.com/documentation/coreai/)
 
 ---
 
-## 11. There should have been an op-ed here but you filed AI slop
+## 11. Experience using AI software to prove Euler sum results [pdf]
 
-**Author:** AnodicElegy  
-**Published:** 6/8/2026, 3:04:04 PM  
+**Author:** cpp_frog  
+**Published:** 6/8/2026, 6:42:01 PM  
 **Categories:** -  
 
-Article URL: https://www.cityam.com/there-should-have-been-an-op-ed-here-but-you-filed-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=48446305 Points: 6 # Comments: 0
+Article URL: https://www.davidhbailey.com/dhbpapers/Chatbots.pdf Comments URL: https://news.ycombinator.com/item?id=48449567 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cityam.com/there-should-have-been-an-op-ed-here-but-you-filed-ai-slop/)
+📖 [Read original article](https://www.davidhbailey.com/dhbpapers/Chatbots.pdf)
 
 ---
 
-## 12. AI \"content creators\" are getting harder to spot
+## 12. Why Isn't AI Taking Our Jobs?
 
-**Author:** randomint64  
-**Published:** 6/8/2026, 3:03:18 PM  
+**Author:** zdw  
+**Published:** 6/8/2026, 6:40:16 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators Comments URL: https://news.ycombinator.com/item?id=48446298 Points: 2 # Comments: 0
+Article URL: https://calnewport.com/why-isnt-ai-taking-our-jobs/ Comments URL: https://news.ycombinator.com/item?id=48449531 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators)
+📖 [Read original article](https://calnewport.com/why-isnt-ai-taking-our-jobs/)
 
 ---
 
-## 13. How AI is reshaping discovery in maths and physics
+## 13. Show HN: AI Pair Programmer for Emacs
 
-**Author:** Brajeshwar  
-**Published:** 6/8/2026, 2:59:27 PM  
+**Author:** jakewindle47  
+**Published:** 6/8/2026, 6:34:21 PM  
 **Categories:** -  
 
-Article URL: https://www.nature.com/articles/d41586-026-01820-1 Comments URL: https://news.ycombinator.com/item?id=48446261 Points: 1 # Comments: 0
+I built a pair programmer, using AI, but now am trying to go slow with new languages and paradigms using this package.I have noticed a decline in my programming skills, and wondered why I couldn't use AI as a pair programmer. Why can it watch what I'm doing over my shoulder and suggest changes? That...
 
-📖 [Read original article](https://www.nature.com/articles/d41586-026-01820-1)
+📖 [Read original article](https://github.com/jaketothepast/codetutor)
 
 ---
 
-## 14. Show HN: RiskKernel – a kill switch and budgets for runaway AI agents
+## 14. Client-side PDF audiobook reader with AI voice
 
-**Author:** prashar32  
-**Published:** 6/8/2026, 2:48:51 PM  
+**Author:** innovatorved  
+**Published:** 6/8/2026, 6:34:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/prashar32/riskkernel Comments URL: https://news.ycombinator.com/item?id=48446146 Points: 1 # Comments: 0
+Article URL: https://audiobook.vedgupta.in/ Comments URL: https://news.ycombinator.com/item?id=48449423 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/prashar32/riskkernel)
+📖 [Read original article](https://audiobook.vedgupta.in/)
 
 ---
 
-## 15. OpenEvidence: An AI Copilot for Doctors
+## 15. Show HN: Wallie – Open-source AI streamer that watches and hears your screen
 
-**Author:** m-hodges  
-**Published:** 6/8/2026, 2:48:34 PM  
+**Author:** Alrady  
+**Published:** 6/8/2026, 6:33:04 PM  
 **Categories:** -  
 
-Article URL: https://www.openevidence.com/ Comments URL: https://news.ycombinator.com/item?id=48446141 Points: 1 # Comments: 0
+Article URL: https://github.com/Alradyin/wallie-V2 Comments URL: https://news.ycombinator.com/item?id=48449399 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.openevidence.com/)
+📖 [Read original article](https://github.com/Alradyin/wallie-V2)
 
 ---
 
-## 16. AI is masking America's \"post-literate\" workforce
+## 16. Ask HN: What are tools you have made for yourself since the advent of AI?
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/8/2026, 2:43:52 PM  
+**Author:** aryamaan  
+**Published:** 6/8/2026, 6:22:39 PM  
 **Categories:** -  
 
-Article URL: https://www.axios.com/2026/06/08/ai-america-literacy Comments URL: https://news.ycombinator.com/item?id=48446082 Points: 2 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=48449187 Points: 37 # Comments: 45
 
-📖 [Read original article](https://www.axios.com/2026/06/08/ai-america-literacy)
+📖 [Read original article](https://news.ycombinator.com/item?id=48449187)
 
 ---
 
-## 17. AI CostGuard – Local-first runtime safety layer for AI agents
+## 17. Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27
 
-**Author:** salim2006  
-**Published:** 6/8/2026, 2:43:23 PM  
+**Author:** surprisetalk  
+**Published:** 6/8/2026, 6:17:59 PM  
 **Categories:** -  
 
-Article URL: https://github.com/salimassili62-afk/ai-costguard Comments URL: https://news.ycombinator.com/item?id=48446076 Points: 2 # Comments: 0
+Article URL: https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/ Comments URL: https://news.ycombinator.com/item?id=48449085 Points: 7 # Comments: 4
 
-📖 [Read original article](https://github.com/salimassili62-afk/ai-costguard)
+📖 [Read original article](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/)
 
 ---
 
-## 18. AI Can Reverse-Engineer Hardware. I Can't Turn Off My Own Alarm
+## 18. Siri AI
 
-**Author:** dimitri-vs  
-**Published:** 6/8/2026, 2:30:43 PM  
+**Author:** 0xedb  
+**Published:** 6/8/2026, 6:17:53 PM  
 **Categories:** -  
 
-Article URL: https://www.sudomoin.com/p/ai-can-reverse-engineer-hardware-i-can-t-turn-off-my-own-alarm Comments URL: https://news.ycombinator.com/item?id=48445921 Points: 2 # Comments: 0
+Article URL: https://www.apple.com/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48449084 Points: 136 # Comments: 117
 
-📖 [Read original article](https://www.sudomoin.com/p/ai-can-reverse-engineer-hardware-i-can-t-turn-off-my-own-alarm)
+📖 [Read original article](https://www.apple.com/apple-intelligence/)
 
 ---
 
-## 19. Artists`re making antislop to rebel against AI:It's been rammed down our throats
+## 19. Apple introduces Siri AI, a profoundly more capable and personal assistant
 
-**Author:** rndsignals  
-**Published:** 6/8/2026, 2:20:37 PM  
+**Author:** surprisetalk  
+**Published:** 6/8/2026, 6:17:37 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art Comments URL: https://news.ycombinator.com/item?id=48445770 Points: 3 # Comments: 0
+Article URL: https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/ Comments URL: https://news.ycombinator.com/item?id=48449081 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art)
+📖 [Read original article](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/)
 
 ---
 
-## 20. Show HN: GitHub Copilot port of Anthropic's AI vulnerability discovery harness
+## 20. Turn a $3M AI bill into $1.9M
 
-**Author:** dreis_sw  
-**Published:** 6/8/2026, 2:05:33 PM  
+**Author:** speckx  
+**Published:** 6/8/2026, 6:01:46 PM  
 **Categories:** -  
 
-Last week, Anthropic released https://github.com/anthropics/defending-code-reference-harne..., a reference harness for autonomous vulnerability discovery that uses Claude Code agents to find, verify, and patch memory-safety bugs. I wanted to use it but I only have access to GitHub Copilot.This is a ...
+Article URL: https://willhackett.com/opus-tax/ Comments URL: https://news.ycombinator.com/item?id=48448797 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/davidreis97/defending-code-reference-harness-copilot)
+📖 [Read original article](https://willhackett.com/opus-tax/)
 
 ---
