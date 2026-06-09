@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-07"
 date: "2026-06-07"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-06-07
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Low-code and no-code AI platforms now turn a prompt into a working app, agent, o
 UIUC and Chroma's Harness-1 is a 20B retrieval subagent trained with reinforcement learning inside a stateful search harness. The harness maintains the bookkeeping — candidate pool, importance-tagged curated set, evidence graph, verification records — while the policy decides what to search, curate,...
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b/)
-
----
-
-## 4. NVIDIA garak Tutorial: Build a Complete Defensive LLM Red-Teaming Workflow with Custom Probes and Detectors
-
-**Author:** Sana Hassan  
-**Published:** 6/7/2026, 5:11:09 AM  
-**Categories:** Agentic AI, AI Infrastructure, Applications, Artificial Intelligence, Editors Pick, Security, Software Engineering, Staff, Technology  
-
-This tutorial walks through NVIDIA garak as an end-to-end framework for defensive LLM red-teaming. It covers setup, plugin discovery, dry runs, real-model scans on a Hugging Face generator, and multi-probe evaluations. The workflow then analyzes safety scores and attack success rates, inspects flagg...
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/06/nvidia-garak-tutorial-build-a-complete-defensive-llm-red-teaming-workflow-with-custom-probes-and-detectors/)
 
 ---
