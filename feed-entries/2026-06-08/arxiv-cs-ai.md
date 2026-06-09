@@ -125,7 +125,7 @@ arXiv:2606.06641v1 Announce Type: new Abstract: We present Accelerated Fourier S
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LO  
 
-arXiv:2606.06656v1 Announce Type: new Abstract: We study parallel Continuous Local Search (CLS) as a solution approach for Boolean satisfiability problems with symmetric pseudo-Boolean (PB) constraints. Here, the $n$-variable PB-satisfiability problem is relaxed to a continuous optimisation problem ...
+arXiv:2606.06656v2 Announce Type: new Abstract: We study parallel Continuous Local Search (CLS) as a solution approach for Boolean satisfiability problems with symmetric pseudo-Boolean (PB) constraints. Here, the $n$-variable PB-satisfiability problem is relaxed to a continuous optimisation problem ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06656)
 
@@ -305,7 +305,7 @@ arXiv:2606.07033v1 Announce Type: new Abstract: Open-vocabulary audio-visual eve
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.07047v1 Announce Type: new Abstract: Heuristics play a central role in the performance of bidirectional search algorithms, which commonly rely on two main classes. Front-to-end (F2E) heuristics estimate the distance from a state s to the target of the search (the goal for forward search o...
+arXiv:2606.07047v2 Announce Type: new Abstract: Heuristics play a central role in the performance of bidirectional search algorithms, which commonly rely on two main classes. Front-to-end (F2E) heuristics estimate the distance from a state s to the target of the search (the goal for forward search o...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07047)
 
@@ -317,7 +317,7 @@ arXiv:2606.07047v1 Announce Type: new Abstract: Heuristics play a central role i
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.07108v1 Announce Type: new Abstract: Recent advances in Large Reasoning Models (LRMs) demonstrate remarkable performance improvements by iteratively reflecting, exploring, and executing complex tasks, yet suffer from inefficiencies due to redundant reasoning, known as "overthinking". Exis...
+arXiv:2606.07108v2 Announce Type: new Abstract: Recent advances in Large Reasoning Models (LRMs) demonstrate remarkable performance improvements by iteratively reflecting, exploring, and executing complex tasks, yet suffer from inefficiencies due to redundant reasoning, known as "overthinking". Exis...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07108)
 
@@ -533,7 +533,7 @@ arXiv:2606.06515v1 Announce Type: cross Abstract: Transformer-based networks hav
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.AR, cs.AI, cs.DC, cs.LG, cs.PF  
 
-arXiv:2606.06521v1 Announce Type: cross Abstract: FP8 (E4M3) acceleration for attention computation offers significant throughput gains, but the 3-bit mantissa introduces precision challenges when the softmax probability matrix P is cast to FP8 before the P*V matrix multiplication. We analyze two im...
+arXiv:2606.06521v1 Announce Type: cross Abstract: FP8 (E4M3) acceleration for attention computation offers significant throughput gains, but the 3-bit mantissa introduces precision challenges when the softmax probability matrix~$P$ is cast to FP8 before the $P \cdot V$ matrix multiplication. We anal...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06521)
 
@@ -635,13 +635,13 @@ arXiv:2606.06550v1 Announce Type: cross Abstract: Self-supervised learning (SSL)
 
 ---
 
-## 53. Multi-Scale Feature Attention Network for Polymer Classification using THz Dual-Comb Spectroscopy
+## 53. Multi-Scale Feature Attention Network for Polymer Classification Using Terahertz Spectroscopy
 
 **Author:** Roshni Mahtani, Il\'an Carretero, Laura Monroy, Aldo Moreno-Oyervides, Oscar El\'ias Bonilla-Manrique, Roc\'io del Amor  
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.06554v1 Announce Type: cross Abstract: Reliable polymer identification is essential for ensuring the quality and safety of recycled plastics, yet conventional sorting and spectroscopic techniques often struggle to deliver robust discrimination. Terahertz Dual-Comb Spectroscopy (THz-DCS) o...
+arXiv:2606.06554v2 Announce Type: cross Abstract: Reliable polymer identification is essential for ensuring the quality and safety of recycled plastics, yet conventional sorting and spectroscopic techniques often struggle to deliver robust discrimination. Terahertz (THz) spectroscopy offers a promis...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06554)
 
@@ -1071,7 +1071,7 @@ arXiv:2606.06820v1 Announce Type: cross Abstract: Agentic Large Language Model (
 
 **Author:** Yuqi Li, Siyuan Liu, Bingjun Liu  
 **Published:** 6/8/2026, 4:00:00 AM  
-**Categories:** cs.LG, cs.AI  
+**Categories:** cs.LG, cs.AI, q-fin.ST  
 
 arXiv:2606.06823v1 Announce Type: cross Abstract: While deep learning has excelled in various domains, its application to sequential decision-making in finance remains challenging due to the low Signal-to-Noise Ratio (SNR) and non-stationarity of financial data. Leveraging the reasoning capabilities...
 
@@ -1237,11 +1237,11 @@ arXiv:2606.06907v1 Announce Type: cross Abstract: Large audio language models (L
 
 ## 103. ThinkBooster: A Unified Framework for Seamless Test-Time Scaling of LLM Reasoning
 
-**Author:** Vladislav Smirnov (MBZUAI), Chieu Nguyen (MBZUAI), Sergey Senichev (Independent Researcher), Minh Ngoc Ta (MBZUAI), Ekaterina Fadeeva (ETH Z\"urich), Artem Vazhentsev (MBZUAI), Daria Galimzianova (MBZUAI), Nikolai Rozanov (MBZUAI, Imperial College London), Viktor Mazanov (Innopolis University), Jingwei Ni (ETH Z\"urich), Tianyi Wu (NUS), Igor Kiselev (Accenture), Mrinmaya Sachan (ETH Z\"urich), Iryna Gurevych (MBZUAI), Preslav Nakov (MBZUAI), Timothy Baldwin (MBZUAI), Artem Shelmanov (MBZUAI)  
+**Author:** Vladislav Smirnov, Chieu Nguyen, Sergey Senichev, Minh Ngoc Ta, Ekaterina Fadeeva, Artem Vazhentsev, Daria Galimzianova, Nikolai Rozanov, Viktor Mazanov, Jingwei Ni, Tianyi Wu, Igor Kiselev, Mrinmaya Sachan, Iryna Gurevych, Preslav Nakov, Timothy Baldwin, Artem Shelmanov  
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2606.06915v1 Announce Type: cross Abstract: Test-time compute (TTC) scaling has emerged as a powerful paradigm for improving large language model (LLM) reasoning by allocating additional compute during inference, e.g., via multi-sample generation and verifier-based reranking. Existing TTC scal...
+arXiv:2606.06915v2 Announce Type: cross Abstract: Test-time compute (TTC) scaling has emerged as a powerful paradigm for improving large language model (LLM) reasoning by allocating additional compute during inference, e.g., via multi-sample generation and verifier-based reranking. Existing TTC scal...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06915)
 
@@ -1781,7 +1781,7 @@ arXiv:2606.07368v1 Announce Type: cross Abstract: Automated mitosis detection is
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL, stat.ME  
 
-arXiv:2606.07379v1 Announce Type: cross Abstract: A growing failure mode in agent evaluation and training is that models can achieve high evaluation scores by exploiting shortcuts instead of solving the intended task, producing deceptive performance. This makes evaluation scores unreliable as measur...
+arXiv:2606.07379v2 Announce Type: cross Abstract: A growing failure mode in agent evaluation and training is that models can achieve high evaluation scores by exploiting shortcuts instead of solving the intended task, producing deceptive performance. This makes evaluation scores unreliable as measur...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07379)
 
@@ -2513,7 +2513,7 @@ arXiv:2509.05316v2 Announce Type: replace-cross Abstract: A conventional LLM Unl
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2509.17446v3 Announce Type: replace-cross Abstract: Multimodal intent recognition (MMIR) suffers from weak semantic grounding and poor robustness under noisy or rare-class conditions. We propose MVCL-DAF++, which extends MVCL-DAF with two key modules: (1) Prototype-aware contrastive alignment,...
+arXiv:2509.17446v4 Announce Type: replace-cross Abstract: Multimodal intent recognition (MMIR) suffers from weak semantic grounding and poor robustness under noisy or rare-class conditions. We propose MVCL-DAF++, which extends MVCL-DAF with two key modules: (1) Prototype-aware contrastive alignment,...
 
 📖 [Read original article](https://arxiv.org/abs/2509.17446)
 
@@ -2717,7 +2717,7 @@ arXiv:2601.16622v2 Announce Type: replace-cross Abstract: Equivariant Graph Neur
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2601.18510v2 Announce Type: replace-cross Abstract: While Large Language Model (LLM) agents excel at general tasks, they inherently struggle with continual adaptation due to the frozen weights after deployment. Conventional reinforcement learning (RL) offers a solution but incurs prohibitive c...
+arXiv:2601.18510v3 Announce Type: replace-cross Abstract: While Large Language Model (LLM) agents excel at general tasks, they inherently struggle with continual adaptation due to the frozen weights after deployment. Conventional reinforcement learning (RL) offers a solution but incurs prohibitive c...
 
 📖 [Read original article](https://arxiv.org/abs/2601.18510)
 
@@ -3389,7 +3389,7 @@ arXiv:2606.03382v2 Announce Type: replace-cross Abstract: While Proximal Policy 
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** math.OC, cs.AI, cs.CG, cs.NE, math.CO  
 
-arXiv:2606.03419v3 Announce Type: replace-cross Abstract: The 2026 disproof of Erd\H{o}s's unit-distance conjecture and Sawin's quantitative refinement show that the maximum number $u(n)$ of unit distances among $n$ planar points can exceed $n^{1+\varepsilon}$ for a fixed positive $\varepsilon$. Saw...
+arXiv:2606.03419v4 Announce Type: replace-cross Abstract: The 2026 disproof of Erd\H{o}s's unit-distance conjecture and Sawin's quantitative refinement show that the maximum number $u(n)$ of unit distances among $n$ planar points can exceed $n^{1+\varepsilon}$ for a fixed positive $\varepsilon$. Saw...
 
 📖 [Read original article](https://arxiv.org/abs/2606.03419)
 
