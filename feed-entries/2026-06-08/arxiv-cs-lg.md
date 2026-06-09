@@ -35,13 +35,13 @@ arXiv:2606.06547v1 Announce Type: new Abstract: Diffusion Large Language Models 
 
 ---
 
-## 3. Multi-Scale Feature Attention Network for Polymer Classification using THz Dual-Comb Spectroscopy
+## 3. Multi-Scale Feature Attention Network for Polymer Classification Using Terahertz Spectroscopy
 
 **Author:** Roshni Mahtani, Il\'an Carretero, Laura Monroy, Aldo Moreno-Oyervides, Oscar El\'ias Bonilla-Manrique, Roc\'io del Amor  
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.06554v1 Announce Type: new Abstract: Reliable polymer identification is essential for ensuring the quality and safety of recycled plastics, yet conventional sorting and spectroscopic techniques often struggle to deliver robust discrimination. Terahertz Dual-Comb Spectroscopy (THz-DCS) off...
+arXiv:2606.06554v2 Announce Type: new Abstract: Reliable polymer identification is essential for ensuring the quality and safety of recycled plastics, yet conventional sorting and spectroscopic techniques often struggle to deliver robust discrimination. Terahertz (THz) spectroscopy offers a promisin...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06554)
 
@@ -221,7 +221,7 @@ arXiv:2606.06694v1 Announce Type: new Abstract: Large language models (LLMs) are
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2606.06698v1 Announce Type: new Abstract: Production agentic systems routinely face evolving constraints and must comply from the very next interaction. Scenarios like a tool-call notification changing a compliance threshold or a policy update adding disclosure requirements fit this criteria, ...
+arXiv:2606.06698v2 Announce Type: new Abstract: Production agentic systems routinely face evolving constraints and must comply from the very next interaction. Scenarios like a tool-call notification changing a compliance threshold or a policy update adding disclosure requirements fit this criteria, ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06698)
 
@@ -363,7 +363,7 @@ arXiv:2606.06820v1 Announce Type: new Abstract: Agentic Large Language Model (LL
 
 **Author:** Yuqi Li, Siyuan Liu, Bingjun Liu  
 **Published:** 6/8/2026, 4:00:00 AM  
-**Categories:** cs.LG, cs.AI  
+**Categories:** cs.LG, cs.AI, q-fin.ST  
 
 arXiv:2606.06823v1 Announce Type: new Abstract: While deep learning has excelled in various domains, its application to sequential decision-making in finance remains challenging due to the low Signal-to-Noise Ratio (SNR) and non-stationarity of financial data. Leveraging the reasoning capabilities o...
 
@@ -977,7 +977,7 @@ arXiv:2606.07367v1 Announce Type: new Abstract: Large Language Models (LLMs) hav
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL, stat.ME  
 
-arXiv:2606.07379v1 Announce Type: new Abstract: A growing failure mode in agent evaluation and training is that models can achieve high evaluation scores by exploiting shortcuts instead of solving the intended task, producing deceptive performance. This makes evaluation scores unreliable as measures...
+arXiv:2606.07379v2 Announce Type: new Abstract: A growing failure mode in agent evaluation and training is that models can achieve high evaluation scores by exploiting shortcuts instead of solving the intended task, producing deceptive performance. This makes evaluation scores unreliable as measures...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07379)
 
@@ -1277,7 +1277,7 @@ arXiv:2606.06519v1 Announce Type: cross Abstract: Open-weight LLMs are increasin
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.AR, cs.AI, cs.DC, cs.LG, cs.PF  
 
-arXiv:2606.06521v1 Announce Type: cross Abstract: FP8 (E4M3) acceleration for attention computation offers significant throughput gains, but the 3-bit mantissa introduces precision challenges when the softmax probability matrix P is cast to FP8 before the P*V matrix multiplication. We analyze two im...
+arXiv:2606.06521v1 Announce Type: cross Abstract: FP8 (E4M3) acceleration for attention computation offers significant throughput gains, but the 3-bit mantissa introduces precision challenges when the softmax probability matrix~$P$ is cast to FP8 before the $P \cdot V$ matrix multiplication. We anal...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06521)
 
@@ -1319,13 +1319,13 @@ arXiv:2606.06526v1 Announce Type: cross Abstract: Large language models have mad
 
 ---
 
-## 110. Ablation Study of Block Size, Weight Precision, and Scale Precision in NVFP4 Inference for Low-Power Edge-Efficient Neural Networks
+## 110. Characterizing the Impact of NVFP4 Quantization for Low-Power Edge AI Deployment
 
 **Author:** Ovishake Sen, Venkata Nithin Kamineni, Daniel Lobo, Swarup Bhunia, Rickard Ewetz, Baibhab Chatterjee  
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.AR, cs.LG  
 
-arXiv:2606.06527v1 Announce Type: cross Abstract: Energy-efficient edge inference requires reducing arithmetic cost, memory traffic, and hardware overhead. This paper presents an ablation-focused study of NVFP4 LUT-based inference for edge-efficient neural networks. The proposed NVLUT framework comb...
+arXiv:2606.06527v2 Announce Type: cross Abstract: Energy-efficient neural-network inference at the edge requires reducing arithmetic cost, memory traffic, computation energy, and storage overhead while maintaining acceptable accuracy. This paper presents an ablation-focused study of NVFP4 quantizati...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06527)
 
@@ -1717,11 +1717,11 @@ arXiv:2606.06899v1 Announce Type: cross Abstract: Variations in illumination rem
 
 ## 143. ThinkBooster: A Unified Framework for Seamless Test-Time Scaling of LLM Reasoning
 
-**Author:** Vladislav Smirnov (MBZUAI), Chieu Nguyen (MBZUAI), Sergey Senichev (Independent Researcher), Minh Ngoc Ta (MBZUAI), Ekaterina Fadeeva (ETH Z\"urich), Artem Vazhentsev (MBZUAI), Daria Galimzianova (MBZUAI), Nikolai Rozanov (MBZUAI, Imperial College London), Viktor Mazanov (Innopolis University), Jingwei Ni (ETH Z\"urich), Tianyi Wu (NUS), Igor Kiselev (Accenture), Mrinmaya Sachan (ETH Z\"urich), Iryna Gurevych (MBZUAI), Preslav Nakov (MBZUAI), Timothy Baldwin (MBZUAI), Artem Shelmanov (MBZUAI)  
+**Author:** Vladislav Smirnov, Chieu Nguyen, Sergey Senichev, Minh Ngoc Ta, Ekaterina Fadeeva, Artem Vazhentsev, Daria Galimzianova, Nikolai Rozanov, Viktor Mazanov, Jingwei Ni, Tianyi Wu, Igor Kiselev, Mrinmaya Sachan, Iryna Gurevych, Preslav Nakov, Timothy Baldwin, Artem Shelmanov  
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2606.06915v1 Announce Type: cross Abstract: Test-time compute (TTC) scaling has emerged as a powerful paradigm for improving large language model (LLM) reasoning by allocating additional compute during inference, e.g., via multi-sample generation and verifier-based reranking. Existing TTC scal...
+arXiv:2606.06915v2 Announce Type: cross Abstract: Test-time compute (TTC) scaling has emerged as a powerful paradigm for improving large language model (LLM) reasoning by allocating additional compute during inference, e.g., via multi-sample generation and verifier-based reranking. Existing TTC scal...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06915)
 
@@ -1897,11 +1897,11 @@ arXiv:2606.07233v1 Announce Type: cross Abstract: LiDAR-based 3D Multi-Object Tr
 
 ## 158. FLOWREADER: Min-Cost Flow Optimization for Multi-Modal Long Document Q&A
 
-**Author:** Ambuj Mehrish, Sebatiano Vascon  
+**Author:** Ambuj Mehrish, Sebastiano Vascon  
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.LG  
 
-arXiv:2606.07235v1 Announce Type: cross Abstract: Long, multimodal documents force retrieval-augmented systems to assemble answers from evidence fragmented across text, tables, and slides broken across cells in a long table, spread over multiple slides, or split between a figure and its discussion. ...
+arXiv:2606.07235v2 Announce Type: cross Abstract: Long, multimodal documents force retrieval-augmented systems to assemble answers from evidence fragmented across text, tables, and slides broken across cells in a long table, spread over multiple slides, or split between a figure and its discussion. ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07235)
 
@@ -2345,7 +2345,7 @@ arXiv:2509.05316v2 Announce Type: replace Abstract: A conventional LLM Unlearnin
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2509.17446v3 Announce Type: replace Abstract: Multimodal intent recognition (MMIR) suffers from weak semantic grounding and poor robustness under noisy or rare-class conditions. We propose MVCL-DAF++, which extends MVCL-DAF with two key modules: (1) Prototype-aware contrastive alignment, align...
+arXiv:2509.17446v4 Announce Type: replace Abstract: Multimodal intent recognition (MMIR) suffers from weak semantic grounding and poor robustness under noisy or rare-class conditions. We propose MVCL-DAF++, which extends MVCL-DAF with two key modules: (1) Prototype-aware contrastive alignment, align...
 
 📖 [Read original article](https://arxiv.org/abs/2509.17446)
 
@@ -2549,7 +2549,7 @@ arXiv:2601.16622v2 Announce Type: replace Abstract: Equivariant Graph Neural Net
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2601.18510v2 Announce Type: replace Abstract: While Large Language Model (LLM) agents excel at general tasks, they inherently struggle with continual adaptation due to the frozen weights after deployment. Conventional reinforcement learning (RL) offers a solution but incurs prohibitive computa...
+arXiv:2601.18510v3 Announce Type: replace Abstract: While Large Language Model (LLM) agents excel at general tasks, they inherently struggle with continual adaptation due to the frozen weights after deployment. Conventional reinforcement learning (RL) offers a solution but incurs prohibitive computa...
 
 📖 [Read original article](https://arxiv.org/abs/2601.18510)
 
@@ -3689,7 +3689,7 @@ arXiv:2606.00279v2 Announce Type: replace-cross Abstract: Verifying claims about
 **Published:** 6/8/2026, 4:00:00 AM  
 **Categories:** cs.DS, cs.LG  
 
-arXiv:2606.01342v2 Announce Type: replace-cross Abstract: Learning-augmented paging has been extensively studied in recent years. A key advantage over naive ML-based approaches is \emph{bounded robustness}, which guarantees worst-case performance even when predictions are inaccurate, making these al...
+arXiv:2606.01342v3 Announce Type: replace-cross Abstract: Learning-augmented paging has been extensively studied in recent years. A key advantage over naive ML-based approaches is \emph{bounded robustness}, which guarantees worst-case performance even when predictions are inaccurate, making these al...
 
 📖 [Read original article](https://arxiv.org/abs/2606.01342)
 
