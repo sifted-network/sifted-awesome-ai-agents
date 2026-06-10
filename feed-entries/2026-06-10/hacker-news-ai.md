@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: SeaTicket – Resolve GitHub Issues Using AI Agent
+## 1. PRC-linked influence operations are targeting AI debates in the US
 
-**Author:** Daniel-Pan  
-**Published:** 6/10/2026, 9:54:59 AM  
+**Author:** amrrs  
+**Published:** 6/10/2026, 8:17:37 PM  
 **Categories:** -  
 
-https://seaticket.ai/github-issues-resolving/ Comments URL: https://news.ycombinator.com/item?id=48473925 Points: 2 # Comments: 0
+Article URL: https://openai.com/index/prc-linked-influence-operations-ai-debates/ Comments URL: https://news.ycombinator.com/item?id=48482043 Points: 4 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48473925)
+📖 [Read original article](https://openai.com/index/prc-linked-influence-operations-ai-debates/)
 
 ---
 
-## 2. More AI-generated code doesn't make your team faster. It might slow you down.
+## 2. An Overview of Modern AI Robotics from First Principles
 
-**Author:** latexr  
-**Published:** 6/10/2026, 9:52:48 AM  
+**Author:** jdkee  
+**Published:** 6/10/2026, 8:08:44 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/awscloud/status/2064449711155589396 Comments URL: https://news.ycombinator.com/item?id=48473910 Points: 2 # Comments: 1
+Article URL: https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles Comments URL: https://news.ycombinator.com/item?id=48481909 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/awscloud/status/2064449711155589396)
+📖 [Read original article](https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles)
 
 ---
 
-## 3. Show HN: Plug and AI – Slack bot for the whole team, not per-seat
+## 3. Why would someone want to learn code when AI does it better and faster?
 
-**Author:** coderai  
-**Published:** 6/10/2026, 9:29:29 AM  
+**Author:** manimonji  
+**Published:** 6/10/2026, 8:00:45 PM  
 **Categories:** -  
 
-Talk to any AI model inside Slack just by mentioning it like: @ai summarize this channel. The most innovative (among other Slack apps) is the business model: no per-seat (per user) settlements, but a global budget for your team. Comments URL: https://news.ycombinator.com/item?id=48473739 Points: 1 #...
+I know it sounds like I'm some sort of self-taught "prompt engineer" but actually I spent some time learning to code, and a mistake I made was focusing too much on learning different frameworks and syntax etc etc. But it's impossible to consistently program and only learn syntax and no problem solvi...
 
-📖 [Read original article](https://plugand.ai/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48481802)
 
 ---
 
-## 4. Claude Fable 5 silently degrades its own performance on frontier AI work
+## 4. What Investment Data Implies about the AI Transition
 
-**Author:** mkotlikov  
-**Published:** 6/10/2026, 9:29:21 AM  
+**Author:** paulpauper  
+**Published:** 6/10/2026, 7:59:59 PM  
 **Categories:** -  
 
-Article URL: https://mkotlikov.substack.com/p/fable-5-considered-harmful Comments URL: https://news.ycombinator.com/item?id=48473737 Points: 1 # Comments: 1
+Article URL: https://www.nber.org/papers/w35290 Comments URL: https://news.ycombinator.com/item?id=48481791 Points: 1 # Comments: 0
 
-📖 [Read original article](https://mkotlikov.substack.com/p/fable-5-considered-harmful)
+📖 [Read original article](https://www.nber.org/papers/w35290)
 
 ---
 
-## 5. Broadcom: The private cloud is where enterprise AI workloads are being deployed
+## 5. AI is eating the AI Engineering Loop
 
-**Author:** giuliomagnifico  
-**Published:** 6/10/2026, 9:18:07 AM  
+**Author:** gmays  
+**Published:** 6/10/2026, 7:59:57 PM  
 **Categories:** -  
 
-Article URL: https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point Comments URL: https://news.ycombinator.com/item?id=48473648 Points: 1 # Comments: 0
+Article URL: https://twitter.com/lotte_verheyden/status/2064415370761646410 Comments URL: https://news.ycombinator.com/item?id=48481789 Points: 1 # Comments: 0
 
-📖 [Read original article](https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point)
+📖 [Read original article](https://twitter.com/lotte_verheyden/status/2064415370761646410)
 
 ---
 
-## 6. Junior Devs Who Use AI Are Not Cheating – They're Training Smarter
+## 6. Thrindex – memory OS for AI agents (ranks, compresses and evolves agents memory)
 
-**Author:** talvardi7  
-**Published:** 6/10/2026, 9:01:23 AM  
+**Author:** teo-nomikos  
+**Published:** 6/10/2026, 7:59:35 PM  
 **Categories:** -  
 
-Article URL: https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html Comments URL: https://news.ycombinator.com/item?id=48473508 Points: 1 # Comments: 0
+Article URL: https://www.thrindex.com/ Comments URL: https://news.ycombinator.com/item?id=48481780 Points: 1 # Comments: 0
 
-📖 [Read original article](https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html)
+📖 [Read original article](https://www.thrindex.com/)
 
 ---
 
-## 7. Linux developers are using AI vibe coding to keep vintage AMD GPUs alive
+## 7. The Jqwik Anti-AI Affair
 
-**Author:** 01-_-  
-**Published:** 6/10/2026, 8:17:54 AM  
+**Author:** _____k  
+**Published:** 6/10/2026, 7:53:44 PM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life Comments URL: https://news.ycombinator.com/item?id=48473140 Points: 3 # Com...
+Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48481700 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life)
+📖 [Read original article](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)
 
 ---
 
-## 8. The Vibes Were Never the Point. On the Push-and-Pull of AI Usage
+## 8. Quick: An internal hosting platform for the AI era
 
-**Author:** ZacnyLos  
-**Published:** 6/10/2026, 8:16:07 AM  
+**Author:** okneil  
+**Published:** 6/10/2026, 7:38:22 PM  
 **Categories:** -  
 
-Article URL: https://blog.ewancroft.uk/3mnw2znjfbc22 Comments URL: https://news.ycombinator.com/item?id=48473126 Points: 2 # Comments: 0
+Article URL: https://shopify.engineering/quick Comments URL: https://news.ycombinator.com/item?id=48481517 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.ewancroft.uk/3mnw2znjfbc22)
+📖 [Read original article](https://shopify.engineering/quick)
 
 ---
 
-## 9. Purpose-built local AI agents
+## 9. If you build apps with AI tools, this is .uh concerning
 
-**Author:** shonkone  
-**Published:** 6/10/2026, 8:00:58 AM  
+**Author:** deecodameeko  
+**Published:** 6/10/2026, 7:25:01 PM  
 **Categories:** -  
 
-Article URL: https://samihonkonen.com/posts/purpose-built-local-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48473010 Points: 1 # Comments: 0
+Article URL: https://substack.com/profile/173863161-dan-cochran/note/c-274040959 Comments URL: https://news.ycombinator.com/item?id=48481349 Points: 2 # Comments: 0
 
-📖 [Read original article](https://samihonkonen.com/posts/purpose-built-local-ai-agents/)
+📖 [Read original article](https://substack.com/profile/173863161-dan-cochran/note/c-274040959)
 
 ---
 
-## 10. Get 800 free credits. Welcome to my AI image and video generation website.
+## 10. Ring-0 AI Interview Copilot
 
-**Author:** petebay  
-**Published:** 6/10/2026, 7:47:20 AM  
+**Author:** rosadoft  
+**Published:** 6/10/2026, 7:22:04 PM  
 **Categories:** -  
 
-The last time I posted here, I asked for help figuring out why the AI-generated website（voloshow). I had spent months building wasn’t getting any customers.I’m really grateful for all the replies I got. Many people shared their thoughts and pointed out technical issues and UX problems on the site, w...
+Article URL: https://aceloop.ai/ Comments URL: https://news.ycombinator.com/item?id=48481309 Points: 1 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48472902)
+📖 [Read original article](https://aceloop.ai/)
 
 ---
 
-## 11. Show HN: Eatmydata.ai – Local-First Question-to-SQL-to-Dashboard AI
+## 11. PR reviews were broken. AI just made it worse
 
-**Author:** dennis16384  
-**Published:** 6/10/2026, 7:43:21 AM  
+**Author:** argoeris  
+**Published:** 6/10/2026, 7:22:01 PM  
 **Categories:** -  
 
-Yet another "talk to your data and build a dashboard" app, where data does not leave your browser.You ask a question, agents produce multiple SQL queries to in-browser sqlite, never seeing results, and write dashboard configuration code. The data you analyze will be indexed with a local semantic ind...
+Article URL: https://leaddev.com/ai/pr-reviews-were-already-broken-ai-made-it-worse Comments URL: https://news.ycombinator.com/item?id=48481306 Points: 2 # Comments: 0
 
-📖 [Read original article](https://eatmydata.ai/)
+📖 [Read original article](https://leaddev.com/ai/pr-reviews-were-already-broken-ai-made-it-worse)
 
 ---
 
-## 12. Recovoly – AI-powered ink bleed removal for scanned documents
+## 12. The History of AI and Chatbots with Dr. Richard Wallace [video]
 
-**Author:** thisarajay  
-**Published:** 6/10/2026, 7:33:12 AM  
+**Author:** jonbaer  
+**Published:** 6/10/2026, 7:20:36 PM  
 **Categories:** -  
 
-Article URL: https://recovoly.com Comments URL: https://news.ycombinator.com/item?id=48472790 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=ENW3PL50yPw Comments URL: https://news.ycombinator.com/item?id=48481288 Points: 1 # Comments: 0
 
-📖 [Read original article](https://recovoly.com)
+📖 [Read original article](https://www.youtube.com/watch?v=ENW3PL50yPw)
 
 ---
 
-## 13. Claude Fable 5 Ultracode + AI medical diagnosis
+## 13. British media will be able to prevent content from feeding Google AI search
 
-**Author:** jph  
-**Published:** 6/10/2026, 7:19:45 AM  
+**Author:** jethronethro  
+**Published:** 6/10/2026, 7:19:37 PM  
 **Categories:** -  
 
-Article URL: https://github.com/joelparkerhenderson/ai-medical-diagnosis-examples/blob/main/doctor-perspective/claude-fable-5-ultracode/index.md Comments URL: https://news.ycombinator.com/item?id=48472677 Points: 1 # Comments: 1
+Article URL: https://voz.us/en/technology/260603/36246/british-media-will-be-able-to-prevent-their-content-from-feeding-google-s-ai-search.html Comments URL: https://news.ycombinator.com/item?id=48481283 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/joelparkerhenderson/ai-medical-diagnosis-examples/blob/main/doctor-perspective/claude-fable-5-ultracode/index.md)
+📖 [Read original article](https://voz.us/en/technology/260603/36246/british-media-will-be-able-to-prevent-their-content-from-feeding-google-s-ai-search.html)
 
 ---
 
-## 14. Compute-to-Surplus: Why AI Progress Doesn't Matter Until It Changes Economics
+## 14. 'AI-pilled' firms spend $7,500 per employee each month on AI
 
-**Author:** alex-ivan  
-**Published:** 6/10/2026, 7:01:12 AM  
+**Author:** evo_9  
+**Published:** 6/10/2026, 7:14:59 PM  
 **Categories:** -  
 
-Article URL: https://signal-memo.com/memo-the-compute-to-surplus-pipeline-is-a-product-spec-heres-how-to-ship-against-it/ Comments URL: https://news.ycombinator.com/item?id=48472507 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48481233 Points: 2 # Comments: 1
 
-📖 [Read original article](https://signal-memo.com/memo-the-compute-to-surplus-pipeline-is-a-product-spec-heres-how-to-ship-against-it/)
+📖 [Read original article](https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/)
 
 ---
 
-## 15. AI Is a Thing We Made
+## 15. Do AI agents need cryptographically verifiable decision receipts?
 
-**Author:** danboarder  
-**Published:** 6/10/2026, 5:04:31 AM  
+**Author:** abokenan444  
+**Published:** 6/10/2026, 7:14:24 PM  
 **Categories:** -  
 
-Article URL: https://thedailymemes.substack.com/p/ai-is-a-thing-we-made Comments URL: https://news.ycombinator.com/item?id=48471660 Points: 2 # Comments: 0
+Article URL: https://signatrust.net Comments URL: https://news.ycombinator.com/item?id=48481226 Points: 1 # Comments: 1
 
-📖 [Read original article](https://thedailymemes.substack.com/p/ai-is-a-thing-we-made)
+📖 [Read original article](https://signatrust.net)
 
 ---
 
-## 16. Microsoft's AI chief says superintelligence is near, but won't take your job
+## 16. Zero-boilerplate bridge between ML models and AI agents
 
-**Author:** gnabgib  
-**Published:** 6/10/2026, 3:51:48 AM  
+**Author:** ttawrites  
+**Published:** 6/10/2026, 7:06:39 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation Comments URL: https://news.ycombinator.com/item?id=48471209 Points: 3 # Comments: 1
+Article URL: https://github.com/Tejas-TA/predikit Comments URL: https://news.ycombinator.com/item?id=48481122 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation)
+📖 [Read original article](https://github.com/Tejas-TA/predikit)
 
 ---
 
-## 17. Microsoft AI boss no longer believes that AI will replace human workers
+## 17. Apple's interface monopoly wins in consumer AI with competing
 
-**Author:** bundie  
-**Published:** 6/10/2026, 3:50:27 AM  
+**Author:** meast  
+**Published:** 6/10/2026, 7:01:07 PM  
 **Categories:** -  
 
-Article URL: https://www.neowin.net/news/microsoft-ai-boss-no-longer-believes-that-ai-will-replace-human-workers/ Comments URL: https://news.ycombinator.com/item?id=48471201 Points: 1 # Comments: 1
+Article URL: https://www.matteast.io/competition-is-for-losers.html Comments URL: https://news.ycombinator.com/item?id=48481057 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.neowin.net/news/microsoft-ai-boss-no-longer-believes-that-ai-will-replace-human-workers/)
+📖 [Read original article](https://www.matteast.io/competition-is-for-losers.html)
 
 ---
 
-## 18. SafeAgentDB – Isolated databases for every AI agent branch
+## 18. Frontier AI: what you need to know
 
-**Author:** zarskia9  
-**Published:** 6/10/2026, 2:59:47 AM  
+**Author:** ColinWright  
+**Published:** 6/10/2026, 6:56:48 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Aidan945/SafeAgentDB Comments URL: https://news.ycombinator.com/item?id=48470846 Points: 2 # Comments: 0
+Article URL: https://www.ncsc.gov.uk/frontier-ai Comments URL: https://news.ycombinator.com/item?id=48481002 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/Aidan945/SafeAgentDB)
+📖 [Read original article](https://www.ncsc.gov.uk/frontier-ai)
 
 ---
 
-## 19. Show HN: Guildly, a Slack like interface to run a company of AI employees
+## 19. Visa plugs its payment network into ChatGPT, letting AI agents shop and pay
 
-**Author:** spiken23  
-**Published:** 6/10/2026, 2:56:38 AM  
+**Author:** thm  
+**Published:** 6/10/2026, 6:56:29 PM  
 **Categories:** -  
 
-If you're a solo founder running 5-6 claude code terminals and manually orchestrating work between them, this is for you. Comments URL: https://news.ycombinator.com/item?id=48470816 Points: 2 # Comments: 0
+Article URL: https://apnews.com/article/visa-chatgpt-openai-shopping-mastercard-d769dec86344cb4977c98789e8ec492f Comments URL: https://news.ycombinator.com/item?id=48480998 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.tryguildly.com/)
+📖 [Read original article](https://apnews.com/article/visa-chatgpt-openai-shopping-mastercard-d769dec86344cb4977c98789e8ec492f)
 
 ---
 
-## 20. Rich Sutton on AI creativity and discovery
+## 20. LinkedIn's AI content boom is creating a credibility problem for founders
 
-**Author:** yimby  
-**Published:** 6/10/2026, 2:25:24 AM  
+**Author:** islammidov  
+**Published:** 6/10/2026, 6:39:46 PM  
 **Categories:** -  
 
-https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 117 # Comments: 58
+Article URL: https://www.inc.com/netta-jenkins/linkedin-is-being-flooded-with-ai-content-and-a-new-problem-is-emerging/91354856 Comments URL: https://news.ycombinator.com/item?id=48480772 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/RichardSSutton/status/2061216087744946656)
+📖 [Read original article](https://www.inc.com/netta-jenkins/linkedin-is-being-flooded-with-ai-content-and-a-new-problem-is-emerging/91354856)
 
 ---
