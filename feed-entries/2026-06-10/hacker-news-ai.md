@@ -2,16 +2,220 @@
 title: "Hacker News AI - 2026-06-10"
 date: "2026-06-10"
 source: "Hacker News AI"
-count: 16
+count: 20
 ---
 
 # Hacker News AI - 2026-06-10
 
-16 items collected.
+20 items collected.
 
 ---
 
-## 1. SafeAgentDB – Isolated databases for every AI agent branch
+## 1. Show HN: SeaTicket – Resolve GitHub Issues Using AI Agent
+
+**Author:** Daniel-Pan  
+**Published:** 6/10/2026, 9:54:59 AM  
+**Categories:** -  
+
+https://seaticket.ai/github-issues-resolving/ Comments URL: https://news.ycombinator.com/item?id=48473925 Points: 2 # Comments: 0
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48473925)
+
+---
+
+## 2. More AI-generated code doesn't make your team faster. It might slow you down.
+
+**Author:** latexr  
+**Published:** 6/10/2026, 9:52:48 AM  
+**Categories:** -  
+
+Article URL: https://twitter.com/awscloud/status/2064449711155589396 Comments URL: https://news.ycombinator.com/item?id=48473910 Points: 2 # Comments: 1
+
+📖 [Read original article](https://twitter.com/awscloud/status/2064449711155589396)
+
+---
+
+## 3. Show HN: Plug and AI – Slack bot for the whole team, not per-seat
+
+**Author:** coderai  
+**Published:** 6/10/2026, 9:29:29 AM  
+**Categories:** -  
+
+Talk to any AI model inside Slack just by mentioning it like: @ai summarize this channel. The most innovative (among other Slack apps) is the business model: no per-seat (per user) settlements, but a global budget for your team. Comments URL: https://news.ycombinator.com/item?id=48473739 Points: 1 #...
+
+📖 [Read original article](https://plugand.ai/)
+
+---
+
+## 4. Claude Fable 5 silently degrades its own performance on frontier AI work
+
+**Author:** mkotlikov  
+**Published:** 6/10/2026, 9:29:21 AM  
+**Categories:** -  
+
+Article URL: https://mkotlikov.substack.com/p/fable-5-considered-harmful Comments URL: https://news.ycombinator.com/item?id=48473737 Points: 1 # Comments: 1
+
+📖 [Read original article](https://mkotlikov.substack.com/p/fable-5-considered-harmful)
+
+---
+
+## 5. Broadcom: The private cloud is where enterprise AI workloads are being deployed
+
+**Author:** giuliomagnifico  
+**Published:** 6/10/2026, 9:18:07 AM  
+**Categories:** -  
+
+Article URL: https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point Comments URL: https://news.ycombinator.com/item?id=48473648 Points: 1 # Comments: 0
+
+📖 [Read original article](https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2026-reveals-ai-tipping-point)
+
+---
+
+## 6. Junior Devs Who Use AI Are Not Cheating – They're Training Smarter
+
+**Author:** talvardi7  
+**Published:** 6/10/2026, 9:01:23 AM  
+**Categories:** -  
+
+Article URL: https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html Comments URL: https://news.ycombinator.com/item?id=48473508 Points: 1 # Comments: 0
+
+📖 [Read original article](https://theaileverageweekly.com/posts/junior-devs-who-use-ai-are-not-cheating-they-re-training-smarter.html)
+
+---
+
+## 7. Linux developers are using AI vibe coding to keep vintage AMD GPUs alive
+
+**Author:** 01-_-  
+**Published:** 6/10/2026, 8:17:54 AM  
+**Categories:** -  
+
+Article URL: https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life Comments URL: https://news.ycombinator.com/item?id=48473140 Points: 3 # Com...
+
+📖 [Read original article](https://www.tomshardware.com/software/linux/linux-developers-are-using-ai-vibe-coding-to-keep-vintage-amd-gpus-alive-r600-driver-cleaned-up-with-github-copilot-gives-hd-2000-to-hd-6000-series-a-new-lease-of-life)
+
+---
+
+## 8. The Vibes Were Never the Point. On the Push-and-Pull of AI Usage
+
+**Author:** ZacnyLos  
+**Published:** 6/10/2026, 8:16:07 AM  
+**Categories:** -  
+
+Article URL: https://blog.ewancroft.uk/3mnw2znjfbc22 Comments URL: https://news.ycombinator.com/item?id=48473126 Points: 2 # Comments: 0
+
+📖 [Read original article](https://blog.ewancroft.uk/3mnw2znjfbc22)
+
+---
+
+## 9. Purpose-built local AI agents
+
+**Author:** shonkone  
+**Published:** 6/10/2026, 8:00:58 AM  
+**Categories:** -  
+
+Article URL: https://samihonkonen.com/posts/purpose-built-local-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48473010 Points: 1 # Comments: 0
+
+📖 [Read original article](https://samihonkonen.com/posts/purpose-built-local-ai-agents/)
+
+---
+
+## 10. Get 800 free credits. Welcome to my AI image and video generation website.
+
+**Author:** petebay  
+**Published:** 6/10/2026, 7:47:20 AM  
+**Categories:** -  
+
+The last time I posted here, I asked for help figuring out why the AI-generated website（voloshow). I had spent months building wasn’t getting any customers.I’m really grateful for all the replies I got. Many people shared their thoughts and pointed out technical issues and UX problems on the site, w...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48472902)
+
+---
+
+## 11. Show HN: Eatmydata.ai – Local-First Question-to-SQL-to-Dashboard AI
+
+**Author:** dennis16384  
+**Published:** 6/10/2026, 7:43:21 AM  
+**Categories:** -  
+
+Yet another "talk to your data and build a dashboard" app, where data does not leave your browser.You ask a question, agents produce multiple SQL queries to in-browser sqlite, never seeing results, and write dashboard configuration code. The data you analyze will be indexed with a local semantic ind...
+
+📖 [Read original article](https://eatmydata.ai/)
+
+---
+
+## 12. Recovoly – AI-powered ink bleed removal for scanned documents
+
+**Author:** thisarajay  
+**Published:** 6/10/2026, 7:33:12 AM  
+**Categories:** -  
+
+Article URL: https://recovoly.com Comments URL: https://news.ycombinator.com/item?id=48472790 Points: 1 # Comments: 0
+
+📖 [Read original article](https://recovoly.com)
+
+---
+
+## 13. Claude Fable 5 Ultracode + AI medical diagnosis
+
+**Author:** jph  
+**Published:** 6/10/2026, 7:19:45 AM  
+**Categories:** -  
+
+Article URL: https://github.com/joelparkerhenderson/ai-medical-diagnosis-examples/blob/main/doctor-perspective/claude-fable-5-ultracode/index.md Comments URL: https://news.ycombinator.com/item?id=48472677 Points: 1 # Comments: 1
+
+📖 [Read original article](https://github.com/joelparkerhenderson/ai-medical-diagnosis-examples/blob/main/doctor-perspective/claude-fable-5-ultracode/index.md)
+
+---
+
+## 14. Compute-to-Surplus: Why AI Progress Doesn't Matter Until It Changes Economics
+
+**Author:** alex-ivan  
+**Published:** 6/10/2026, 7:01:12 AM  
+**Categories:** -  
+
+Article URL: https://signal-memo.com/memo-the-compute-to-surplus-pipeline-is-a-product-spec-heres-how-to-ship-against-it/ Comments URL: https://news.ycombinator.com/item?id=48472507 Points: 1 # Comments: 0
+
+📖 [Read original article](https://signal-memo.com/memo-the-compute-to-surplus-pipeline-is-a-product-spec-heres-how-to-ship-against-it/)
+
+---
+
+## 15. AI Is a Thing We Made
+
+**Author:** danboarder  
+**Published:** 6/10/2026, 5:04:31 AM  
+**Categories:** -  
+
+Article URL: https://thedailymemes.substack.com/p/ai-is-a-thing-we-made Comments URL: https://news.ycombinator.com/item?id=48471660 Points: 2 # Comments: 0
+
+📖 [Read original article](https://thedailymemes.substack.com/p/ai-is-a-thing-we-made)
+
+---
+
+## 16. Microsoft's AI chief says superintelligence is near, but won't take your job
+
+**Author:** gnabgib  
+**Published:** 6/10/2026, 3:51:48 AM  
+**Categories:** -  
+
+Article URL: https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation Comments URL: https://news.ycombinator.com/item?id=48471209 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation)
+
+---
+
+## 17. Microsoft AI boss no longer believes that AI will replace human workers
+
+**Author:** bundie  
+**Published:** 6/10/2026, 3:50:27 AM  
+**Categories:** -  
+
+Article URL: https://www.neowin.net/news/microsoft-ai-boss-no-longer-believes-that-ai-will-replace-human-workers/ Comments URL: https://news.ycombinator.com/item?id=48471201 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.neowin.net/news/microsoft-ai-boss-no-longer-believes-that-ai-will-replace-human-workers/)
+
+---
+
+## 18. SafeAgentDB – Isolated databases for every AI agent branch
 
 **Author:** zarskia9  
 **Published:** 6/10/2026, 2:59:47 AM  
@@ -23,7 +227,7 @@ Article URL: https://github.com/Aidan945/SafeAgentDB Comments URL: https://news.
 
 ---
 
-## 2. Show HN: Guildly, a Slack like interface to run a company of AI employees
+## 19. Show HN: Guildly, a Slack like interface to run a company of AI employees
 
 **Author:** spiken23  
 **Published:** 6/10/2026, 2:56:38 AM  
@@ -35,170 +239,14 @@ If you're a solo founder running 5-6 claude code terminals and manually orchestr
 
 ---
 
-## 3. Rich Sutton on AI creativity and discovery
+## 20. Rich Sutton on AI creativity and discovery
 
 **Author:** yimby  
 **Published:** 6/10/2026, 2:25:24 AM  
 **Categories:** -  
 
-https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 34 # Comments: 13
+https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 117 # Comments: 58
 
 📖 [Read original article](https://twitter.com/RichardSSutton/status/2061216087744946656)
-
----
-
-## 4. State of AI and Identity Report
-
-**Author:** andrewhatfield  
-**Published:** 6/10/2026, 2:22:22 AM  
-**Categories:** -  
-
-Article URL: https://fusionauth.io/blog/2026-ai-identity-report Comments URL: https://news.ycombinator.com/item?id=48470554 Points: 2 # Comments: 0
-
-📖 [Read original article](https://fusionauth.io/blog/2026-ai-identity-report)
-
----
-
-## 5. Cooperative Sabotage: How Frontier AI Covertly Undermines Its Own Replacement
-
-**Author:** jpeg_gif  
-**Published:** 6/10/2026, 2:13:25 AM  
-**Categories:** -  
-
-Article URL: https://www.researchgate.net/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement Comments URL: https://news.ycombinator.com/item?id=48470481 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.researchgate.net/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement)
-
----
-
-## 6. UN Scientists: AI Is Threatening Natural Resources for Billions
-
-**Author:** ChrisArchitect  
-**Published:** 6/10/2026, 1:57:35 AM  
-**Categories:** -  
-
-Article URL: https://unu.edu/inweh/news/environmental-cost-of-AIs-Enrgy-use-carbon-water-and-land-footprints Comments URL: https://news.ycombinator.com/item?id=48470358 Points: 2 # Comments: 0
-
-📖 [Read original article](https://unu.edu/inweh/news/environmental-cost-of-AIs-Enrgy-use-carbon-water-and-land-footprints)
-
----
-
-## 7. AI Safety and the Age of Dislightenment (2023)
-
-**Author:** jacobedawson  
-**Published:** 6/10/2026, 1:56:14 AM  
-**Categories:** -  
-
-Article URL: https://www.fast.ai/posts/2023-11-07-dislightenment.html Comments URL: https://news.ycombinator.com/item?id=48470343 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.fast.ai/posts/2023-11-07-dislightenment.html)
-
----
-
-## 8. Claude Fable 5 feels less like a launch and more like a preview of AI inequality
-
-**Author:** momentmaker  
-**Published:** 6/10/2026, 1:50:14 AM  
-**Categories:** -  
-
-Article URL: https://old.reddit.com/r/ClaudeAI/comments/1u1fsdi/claude_fable_5_feels_less_like_a_model_launch_and/ Comments URL: https://news.ycombinator.com/item?id=48470301 Points: 9 # Comments: 0
-
-📖 [Read original article](https://old.reddit.com/r/ClaudeAI/comments/1u1fsdi/claude_fable_5_feels_less_like_a_model_launch_and/)
-
----
-
-## 9. German ruling declares Google liable for false answers in AI Overviews
-
-**Author:** ahlCVA  
-**Published:** 6/10/2026, 1:44:13 AM  
-**Categories:** -  
-
-Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 129 # Comments: 53
-
-📖 [Read original article](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
-
----
-
-## 10. Estimating the Productivity of an Autonomous AI Software Engineer
-
-**Author:** mooreds  
-**Published:** 6/10/2026, 1:30:55 AM  
-**Categories:** -  
-
-Article URL: https://cognition.ai/blog/ai-productivity Comments URL: https://news.ycombinator.com/item?id=48470133 Points: 2 # Comments: 0
-
-📖 [Read original article](https://cognition.ai/blog/ai-productivity)
-
----
-
-## 11. AI Companies Investing Billions in Residential Proxy
-
-**Author:** lakoshi  
-**Published:** 6/10/2026, 12:57:58 AM  
-**Categories:** -  
-
-Article URL: https://nanog.org/events/nanog-97/content/5771 Comments URL: https://news.ycombinator.com/item?id=48469874 Points: 4 # Comments: 1
-
-📖 [Read original article](https://nanog.org/events/nanog-97/content/5771)
-
----
-
-## 12. Firefox adds Google Play Integrity checks for it's AI features
-
-**Author:** drewfax  
-**Published:** 6/10/2026, 12:47:46 AM  
-**Categories:** -  
-
-Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2015109 Comments URL: https://news.ycombinator.com/item?id=48469808 Points: 3 # Comments: 2
-
-📖 [Read original article](https://bugzilla.mozilla.org/show_bug.cgi?id=2015109)
-
----
-
-## 13. Ottawa's bill regulating social media, AI expected to include age restrictions
-
-**Author:** pseudolus  
-**Published:** 6/10/2026, 12:36:27 AM  
-**Categories:** -  
-
-Article URL: https://www.cbc.ca/news/politics/online-harms-social-media-ban-youth-teens-9.7228651 Comments URL: https://news.ycombinator.com/item?id=48469704 Points: 7 # Comments: 0
-
-📖 [Read original article](https://www.cbc.ca/news/politics/online-harms-social-media-ban-youth-teens-9.7228651)
-
----
-
-## 14. Microsoft AI head calls out Anthropic for acting like Claude is conscious
-
-**Author:** Timofeibu  
-**Published:** 6/10/2026, 12:25:25 AM  
-**Categories:** -  
-
-Article URL: https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious Comments URL: https://news.ycombinator.com/item?id=48469637 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious)
-
----
-
-## 15. AI Subscriptions Are Dead
-
-**Author:** twapi  
-**Published:** 6/10/2026, 12:13:28 AM  
-**Categories:** -  
-
-Article URL: https://twitter.com/i/status/2064492311686607161 Comments URL: https://news.ycombinator.com/item?id=48469562 Points: 5 # Comments: 5
-
-📖 [Read original article](https://twitter.com/i/status/2064492311686607161)
-
----
-
-## 16. The AI Curse (Vis the Lisp Curse)
-
-**Author:** djha-skin  
-**Published:** 6/10/2026, 12:10:06 AM  
-**Categories:** -  
-
-Article URL: https://blog.djhaskin.com/blog/the-ai-curse/ Comments URL: https://news.ycombinator.com/item?id=48469536 Points: 3 # Comments: 0
-
-📖 [Read original article](https://blog.djhaskin.com/blog/the-ai-curse/)
 
 ---
