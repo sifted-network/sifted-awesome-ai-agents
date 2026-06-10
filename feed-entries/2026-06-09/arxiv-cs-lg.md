@@ -173,7 +173,7 @@ arXiv:2606.07583v1 Announce Type: new Abstract: Self-healing smart grids can qui
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.AR, cs.MA  
 
-arXiv:2606.07586v1 Announce Type: new Abstract: Spatial neural processing units (NPUs) provide an energy-efficient platform for edge LLM inference, but efficiently deploying an LLM end-to-end on such hardware remains labor-intensive. Although AI coding agents have begun to lower this cost, existing ...
+arXiv:2606.07586v2 Announce Type: new Abstract: Spatial neural processing units (NPUs) provide an energy-efficient platform for edge LLM inference, but efficiently deploying an LLM end-to-end on such hardware remains labor-intensive. Although AI coding agents have begun to lower this cost, existing ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07586)
 
@@ -341,7 +341,7 @@ arXiv:2606.07604v1 Announce Type: new Abstract: Analyzing attention weights has 
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.07605v1 Announce Type: new Abstract: Fine-grained time series data with high temporal resolution is critical for accurate analytics across a wide range of applications. However, the acquisition of such data is often limited by cost and feasibility. This problem can be tackled by reconstru...
+arXiv:2606.07605v2 Announce Type: new Abstract: Fine-grained time series data with high temporal resolution is critical for accurate analytics across a wide range of applications. However, the acquisition of such data is often limited by cost and feasibility. This problem can be tackled by reconstru...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07605)
 
@@ -1057,11 +1057,11 @@ arXiv:2606.07982v1 Announce Type: new Abstract: High-dimensional transient heat 
 
 ## 88. Enhancing AI Interpretability and Safety through Localised Architectures
 
-**Author:** Ian Seet, Jonas Bozenhard, Simon Osterman  
+**Author:** Ian Seet, Jonas Bozenhard, Simon Ostermann  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.07998v1 Announce Type: new Abstract: Recent advances in generative AI, especially powerful Large Language Models (LLMs) and Large Reasoning Models (LRMs), raise concerns over the interpretability, safety and sustainability of these large and opaque AI models. The power of such architectur...
+arXiv:2606.07998v2 Announce Type: new Abstract: Recent advances in generative AI, especially powerful Large Language Models (LLMs) and Large Reasoning Models (LRMs), raise concerns over the interpretability, safety and sustainability of these large and opaque AI models. The power of such architectur...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07998)
 
@@ -2045,7 +2045,7 @@ arXiv:2606.08777v1 Announce Type: new Abstract: Visual Language Models (VLMs) ar
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.08779v1 Announce Type: new Abstract: Reinforcement Learning (RL) has emerged as a pivotal post-training paradigm, yet it frequently suffers from unpredictable sub-optimum performance or even training collapses. Recent findings attribute these failures to a hidden train-inference discrepan...
+arXiv:2606.08779v2 Announce Type: new Abstract: Reinforcement Learning (RL) has emerged as a pivotal post-training paradigm, yet it frequently suffers from unpredictable sub-optimum performance or even training collapses. Recent findings attribute these failures to a hidden train-inference discrepan...
 
 📖 [Read original article](https://arxiv.org/abs/2606.08779)
 
@@ -2309,7 +2309,7 @@ arXiv:2606.09012v1 Announce Type: new Abstract: Post-training quantization (PTQ)
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.09026v1 Announce Type: new Abstract: We ask whether structural properties of intermediate grid states predict whether a symbolic ARC-AGI solver will succeed, framed as a test of conditional mutual information I(X;Y|task) > 0. Across 44,800 runs spanning two architecturally distinct solver...
+arXiv:2606.09026v2 Announce Type: new Abstract: We ask whether structural properties of intermediate grid states predict whether a symbolic ARC-AGI solver will succeed, framed as a test of conditional mutual information I(X;Y|task) > 0. Across 44,800 runs spanning two architecturally distinct solver...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09026)
 
@@ -2437,11 +2437,11 @@ arXiv:2606.09078v1 Announce Type: new Abstract: Process Reward Models (PRMs) imp
 
 ## 203. FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention
 
-**Author:** Yan Wang, Qifan Zhang, Jiachen Yu, Tian Liang, Dongyang Ma, Xiang Hu, Zibo Lin, Chunyang Li, Zhichao Wang, Jia Li, Yujiu Yang, Haitao Mi, Dong Yu  
+**Author:** Yan Wang, Qifan Zhang, Jiachen Yu, Tian Liang, Dongyang Ma, Xiang Hu, Zibo Lin, Chunyang Li, Zhichao Wang, Miao Peng, Nuo Chen, Jia Li, Yujiu Yang, Haitao Mi, Dong Yu  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.09079v1 Announce Type: new Abstract: Conventional LLMs keep the full KV cache loaded during decoding, causing a severe GPU memory bottleneck for ultra-long context serving. In this report, we propose Lookahead Sparse Attention (LSA), a novel inference paradigm powered by a Neural Memory I...
+arXiv:2606.09079v2 Announce Type: new Abstract: Conventional LLMs keep the full KV cache loaded during decoding, causing a severe GPU memory bottleneck for ultra-long context serving. In this report, we propose Lookahead Sparse Attention (LSA), a novel inference paradigm powered by a Neural Memory I...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09079)
 
@@ -2753,7 +2753,7 @@ arXiv:2606.09348v1 Announce Type: new Abstract: Long-horizon agentic tasks pose 
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.09377v1 Announce Type: new Abstract: Formal neural network verification -- proving that a network satisfies safety properties for \emph{all} inputs in a specified domain -- is bounded in practice by GPU memory: standard implementations of bound-propagation algorithms (IBP, CROWN, $\alpha$...
+arXiv:2606.09377v2 Announce Type: new Abstract: Formal neural network verification -- proving that a network satisfies safety properties for *all* inputs in a specified domain -- is bounded in practice by GPU memory: standard implementations of bound-propagation algorithms (IBP, CROWN, $\alpha$-CROW...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09377)
 
@@ -2933,7 +2933,7 @@ arXiv:2606.09582v1 Announce Type: new Abstract: Recent work argues for using Gau
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.09601v1 Announce Type: new Abstract: Conditional generators provide a natural tool for controllable generation, including settings where the desired condition is a new composition of observed attributes or experimental factors. In many applications, especially in scientific domains, such ...
+arXiv:2606.09601v2 Announce Type: new Abstract: Conditional generators provide a natural tool for controllable generation, including settings where the desired condition is a new composition of observed attributes or experimental factors. In many applications, especially in scientific domains, such ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09601)
 
@@ -3113,7 +3113,7 @@ arXiv:2606.09731v1 Announce Type: new Abstract: We tightly characterize the VC d
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cond-mat.dis-nn  
 
-arXiv:2606.09744v1 Announce Type: new Abstract: We study feed-forward ReLU networks with fixed readout and quadratic loss. The aim is to rewrite gradient descent not primarily as a dynamics in weight space, but as a collective dynamics closed in terms of fields defined on the training-set space. For...
+arXiv:2606.09744v2 Announce Type: new Abstract: We study feed-forward ReLU networks with fixed readout and quadratic loss. The aim is to rewrite gradient descent not primarily as a dynamics in weight space, but as a collective dynamics closed in terms of fields defined on the training-set space. For...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09744)
 
@@ -4549,11 +4549,11 @@ arXiv:2606.08783v1 Announce Type: cross Abstract: Orthogonalized momentum update
 
 ## 379. Generalization in Nonlinear Least Squares via Learned Feature Geometry
 
-**Author:** Ayub Kharel, Ilja Kuzborski, Patrick Rebeschini, Yasin Abbasi-Yadkori  
+**Author:** Ayub Kharel, Ilja Kuzborskij, Patrick Rebeschini, Yasin Abbasi-Yadkori  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2606.08799v1 Announce Type: cross Abstract: We study the generalization of ridge-regularized nonlinear least-squares models via on-average algorithmic stability, deriving error bounds for local minimizers in terms of a data-dependent effective dimension that reflects the geometry of the gradie...
+arXiv:2606.08799v2 Announce Type: cross Abstract: We study the generalization of ridge-regularized nonlinear least-squares models via on-average algorithmic stability, deriving error bounds for local minimizers in terms of a data-dependent effective dimension that reflects the geometry of the gradie...
 
 📖 [Read original article](https://arxiv.org/abs/2606.08799)
 
@@ -4981,11 +4981,11 @@ arXiv:2606.09473v1 Announce Type: cross Abstract: Probabilistic forecasters are 
 
 ## 415. Emergent alignment and the projectability of ethical personas
 
-**Author:** Guillermo Del Pinal, Youngchan Lee, Cameron McNamara, Alejandro Perez Carballo  
+**Author:** Guillermo Del Pinal, Youngchan Lee, Calum McNamara, Alejandro Perez Carballo  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2606.09475v1 Announce Type: cross Abstract: Work on `emergent misalignment' shows that finetuning LLMs on narrow tasks can induce broadly misaligned behavior. This supports the `persona selection' (PSM) hypothesis: during pre-training, LLMs learn to simulate different characters and perspectiv...
+arXiv:2606.09475v2 Announce Type: cross Abstract: Work on `emergent misalignment' shows that finetuning LLMs on narrow tasks can induce broadly misaligned behavior. This supports the `persona selection' (PSM) hypothesis: during pre-training, LLMs learn to simulate different characters and perspectiv...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09475)
 
@@ -5825,7 +5825,7 @@ arXiv:2509.17446v4 Announce Type: replace Abstract: Multimodal intent recognitio
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2509.21925v2 Announce Type: replace Abstract: This paper investigates the theoretical behavior of generative models under finite training populations. Within the stochastic interpolation generative framework, we derive closed-form expressions for the optimal velocity field and score function w...
+arXiv:2509.21925v3 Announce Type: replace Abstract: This paper investigates the theoretical behavior of generative models under finite training populations. Within the stochastic interpolation generative framework, we derive closed-form expressions for the optimal velocity field and score function w...
 
 📖 [Read original article](https://arxiv.org/abs/2509.21925)
 
@@ -6113,7 +6113,7 @@ arXiv:2601.01665v2 Announce Type: replace Abstract: Deep reinforcement learning 
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2601.03093v2 Announce Type: replace Abstract: Recent work on activation and latent steering has demonstrated that modifying internal representations can effectively guide large language models (LLMs) toward improved reasoning and efficiency without updating model parameters. However, most exis...
+arXiv:2601.03093v3 Announce Type: replace Abstract: Recent work on activation and latent steering has demonstrated that modifying internal representations can effectively guide large language models (LLMs) toward improved reasoning and efficiency without updating model parameters. However, most exis...
 
 📖 [Read original article](https://arxiv.org/abs/2601.03093)
 
@@ -7325,7 +7325,7 @@ arXiv:2606.05797v2 Announce Type: replace Abstract: Longitudinal treatment decis
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.06021v2 Announce Type: replace Abstract: On-policy distillation (OPD) supervises the student only in output space by matching next-token probabilities. This output-only paradigm has two limits: (1) sampling variance from Monte Carlo KL estimates over large vocabularies (e.g., Qwen's ~150k...
+arXiv:2606.06021v3 Announce Type: replace Abstract: On-policy distillation (OPD) supervises the student only in output space by matching next-token probabilities. This output-only paradigm has two limits: (1) sampling variance from Monte Carlo KL estimates over large vocabularies (e.g., Qwen's ~150k...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06021)
 
@@ -7345,11 +7345,11 @@ arXiv:2606.06554v2 Announce Type: replace Abstract: Reliable polymer identificat
 
 ## 612. RECAP: Regression Evaluation for Continual Adaptation of Prompts
 
-**Author:** Harsh Deshpande, Kushal Chawla, Sangwoo Cho, William Campbell  
+**Author:** Harsh Deshpande, Kushal Chawla, Sangwoo Cho, William Campbell, Sambit Sahu  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2606.06698v2 Announce Type: replace Abstract: Production agentic systems routinely face evolving constraints and must comply from the very next interaction. Scenarios like a tool-call notification changing a compliance threshold or a policy update adding disclosure requirements fit this criter...
+arXiv:2606.06698v3 Announce Type: replace Abstract: Production agentic systems routinely face evolving constraints and must comply from the very next interaction. Scenarios like a tool-call notification changing a compliance threshold or a policy update adding disclosure requirements fit this criter...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06698)
 
@@ -8177,7 +8177,7 @@ arXiv:2603.04177v2 Announce Type: replace-cross Abstract: LLM coding agents can 
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.DS, cs.CC, cs.CG, cs.CY, cs.DB, cs.LG  
 
-arXiv:2603.04689v3 Announce Type: replace-cross Abstract: Fair top-$k$ selection, which ensures appropriate proportional representation of members from minority or historically disadvantaged groups among the top-$k$ selected candidates, has drawn significant attention. We study the problem of findin...
+arXiv:2603.04689v4 Announce Type: replace-cross Abstract: Fair top-$k$ selection, which ensures appropriate proportional representation of members from minority or historically disadvantaged groups among the top-$k$ selected candidates, has drawn significant attention. We study the problem of findin...
 
 📖 [Read original article](https://arxiv.org/abs/2603.04689)
 
@@ -8309,7 +8309,7 @@ arXiv:2604.06210v4 Announce Type: replace-cross Abstract: As LLMs are globally d
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2604.06893v3 Announce Type: replace-cross Abstract: Deep convolutional neural networks achieve remarkable performance by exhaustively processing dense spatial feature maps, yet this brute-force strategy introduces significant computational redundancy and encourages reliance on spurious backgro...
+arXiv:2604.06893v4 Announce Type: replace-cross Abstract: Deep convolutional neural networks achieve remarkable performance by exhaustively processing dense spatial feature maps, yet this brute-force strategy introduces significant computational redundancy and encourages reliance on spurious backgro...
 
 📖 [Read original article](https://arxiv.org/abs/2604.06893)
 
@@ -8897,7 +8897,7 @@ arXiv:2606.06407v2 Announce Type: replace-cross Abstract: Medical imaging artifi
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.LG  
 
-arXiv:2606.06493v2 Announce Type: replace-cross Abstract: For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial refe...
+arXiv:2606.06493v3 Announce Type: replace-cross Abstract: For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial refe...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06493)
 
