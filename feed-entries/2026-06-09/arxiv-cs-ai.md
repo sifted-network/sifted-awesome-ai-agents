@@ -519,7 +519,7 @@ arXiv:2606.08239v1 Announce Type: new Abstract: Multimodal large language models
 
 **Author:** Wisdom Dogah  
 **Published:** 6/9/2026, 4:00:00 AM  
-**Categories:** cs.AI  
+**Categories:** cs.AI, cs.DL  
 
 arXiv:2606.08256v1 Announce Type: new Abstract: Verifiability, attribution, and reproducibility are foundational requirements of scientific knowledge, yet current publishing infrastructure does not enforce them at scale. We introduce Traxia, an agent-native scientific publishing framework in which A...
 
@@ -1129,11 +1129,11 @@ arXiv:2606.08976v1 Announce Type: new Abstract: LLM-based RTL generation and rea
 
 ## 94. Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care
 
-**Author:** Aiyuan Yang, Chengfeng Dou, Da Pan, Dian Wang, Fan Yang, Fei Deng, Fei Li, Guangwei Ai, Hui Liu, Hongda Zhang, Jinyang Tai, Kai Lu, Lijun Liu, Linwei Chen, Linyu Li, Meiqing Guo, Peidong Guo, Qiang Ju, Rihui Xin, Shuai Wang, XinKai Ma, Xudong Chen, Yichuan Mo, Canbin Piao, Leyi Pan, Yihe Luo, Zian Wang  
+**Author:** Aiyuan Yang, Canbin Piao, Chengfeng Dou, Da Pan, Dian Wang, Fan Yang, Fei Deng, Fei Li, Guangwei Ai, Hui Liu, Hongda Zhang, Jinyang Tai, Kai Lu, Lijun Liu, Linwei Chen, Linyu Li, Meiqing Guo, Peidong Guo, Qiang Ju, Rihui Xin, Shuai Wang, XinKai Ma, Xudong Chen, Yichuan Mo, Yijie Zhou, Leyi Pan, Yihe Luo, Zian Wang  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.08982v1 Announce Type: new Abstract: Baichuan-M4 is Baichuan Intelligence's clinical-grade medical large model, designed for \emph{continuous care} rather than single-turn medical question answering. It is built as a coordinated medical agent system around three pillars: \textbf{Baichuan-...
+arXiv:2606.08982v2 Announce Type: new Abstract: Baichuan-M4 is Baichuan Intelligence's clinical-grade medical large model, designed for continuous care rather than single-turn medical question answering. It is built as a coordinated medical agent system around three pillars: Baichuan-Harness, a unif...
 
 📖 [Read original article](https://arxiv.org/abs/2606.08982)
 
@@ -1229,7 +1229,7 @@ arXiv:2606.09086v1 Announce Type: new Abstract: Dynamic origin-destination (OD) 
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.09105v1 Announce Type: new Abstract: Generating novel, feasible, and high-quality research ideas is an important yet challenging task in scientific discovery.Recent Large Language Model (LLM)-based methods often ground idea generation with retrieved literature, but the retrieved evidence ...
+arXiv:2606.09105v2 Announce Type: new Abstract: Generating novel, feasible, and high-quality research ideas is an important yet challenging task in scientific discovery. Recent Large Language Model (LLM)-based methods often ground idea generation with retrieved literature, but the retrieved evidence...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09105)
 
@@ -1337,7 +1337,7 @@ arXiv:2606.09311v1 Announce Type: new Abstract: Joint Embedding Predictive Archi
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.09316v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) enables agents to access external knowledge at inference time, but it primarily retrieves fragmented declarative evidence, leaving agents to repeatedly infer task procedures from passages, manuals, examples, logs, o...
+arXiv:2606.09316v2 Announce Type: new Abstract: Retrieval-augmented generation (RAG) enables agents to access external knowledge at inference time, but it primarily retrieves fragmented declarative evidence, leaving agents to repeatedly infer task procedures from passages, manuals, examples, logs, o...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09316)
 
@@ -1501,11 +1501,11 @@ arXiv:2606.09450v1 Announce Type: new Abstract: LLMs have recently achieved stro
 
 ## 125. Emergent alignment and the projectability of ethical personas
 
-**Author:** Guillermo Del Pinal, Youngchan Lee, Cameron McNamara, Alejandro Perez Carballo  
+**Author:** Guillermo Del Pinal, Youngchan Lee, Calum McNamara, Alejandro Perez Carballo  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2606.09475v1 Announce Type: new Abstract: Work on `emergent misalignment' shows that finetuning LLMs on narrow tasks can induce broadly misaligned behavior. This supports the `persona selection' (PSM) hypothesis: during pre-training, LLMs learn to simulate different characters and perspectives...
+arXiv:2606.09475v2 Announce Type: new Abstract: Work on `emergent misalignment' shows that finetuning LLMs on narrow tasks can induce broadly misaligned behavior. This supports the `persona selection' (PSM) hypothesis: during pre-training, LLMs learn to simulate different characters and perspectives...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09475)
 
@@ -1529,7 +1529,7 @@ arXiv:2606.09489v1 Announce Type: new Abstract: Objective: Conformance checking 
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.DL  
 
-arXiv:2606.09500v1 Announce Type: new Abstract: Objective. Large language models (LLMs) increasingly draft clinical research manuscripts, but their fluency can hide fabricated citations, numbers that drift from source tables, and unmet reporting-guideline items. Existing tools generate text without ...
+arXiv:2606.09500v2 Announce Type: new Abstract: As autonomous research agents and AI co-scientist systems push large language models (LLMs) from drafting toward end-to-end manuscript production, the bottleneck shifts from generation to verification. Fluent LLM output can hide fabricated citations, n...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09500)
 
@@ -1753,11 +1753,11 @@ arXiv:2606.09774v1 Announce Type: new Abstract: Advanced scientific simulators e
 
 ## 146. Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting
 
-**Author:** Avijit Ghosh, Anka Reuel, Jenny Chim, Wm. Matthew Kennedy, Srishti Yadav, Jennifer Mickel, Yanan Long, Andrew Tran, Anastassia Kornilova, Damian Stachura, Kevin Klyman, Felix Friedrich, Jeba Sania, Max Lamparth, Jan Batzner, Anoop Mishra, Eliya Habba, Yixiong Hao, Nathan Heath, Shalaleh Rismani, Usman Gohar, Andrea Loehr, David Manheim, Ruchira Dhar, Sree Harsha Nelaturu, Aarush Sinha, Leshem Choshen, Drishti Sharma, Ishan Khire, Amit Saha, Subramanyam Sahoo, Michael Hardy, Michael Alexander Riegler, Kabir Manghnani, Michelle Lin, Yanan Jiang, Yilin Huang, Asaf Yehudai, Jessica Ji, Aris Hofmann, Mubashara Akhtar, Nuno Moniz, Yacine Jernite, Stella Biderman, Zeerak Talat, Sanmi Koyejo, Mykel Kochenderfer, Irene Solaiman  
+**Author:** Avijit Ghosh, Anka Reuel, Jenny Chim, Wm. Matthew Kennedy, Srishti Yadav, Jennifer Mickel, Yanan Long, Andrew Tran, Anastassia Kornilova, Damian Stachura, Kevin Klyman, Felix Friedrich, Jeba Sania, Jan Batzner, Anoop Mishra, Eliya Habba, Yixiong Hao, Nathan Heath, Shalaleh Rismani, Usman Gohar, Andrea Loehr, David Manheim, Ruchira Dhar, Sree Harsha Nelaturu, Aarush Sinha, Leshem Choshen, Drishti Sharma, Ishan Khire, Amit Saha, Subramanyam Sahoo, Michael Hardy, Michael Alexander Riegler, Kabir Manghnani, Michelle Lin, Yanan Jiang, Yilin Huang, Asaf Yehudai, Jessica Ji, Aris Hofmann, Mubashara Akhtar, Max Lamparth, Nuno Moniz, Yacine Jernite, Stella Biderman, Zeerak Talat, Sanmi Koyejo, Mykel Kochenderfer, Irene Solaiman  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.09809v1 Announce Type: new Abstract: AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare results across sources, identify what a report omit...
+arXiv:2606.09809v2 Announce Type: new Abstract: AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare results across sources, identify what a report omit...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09809)
 
@@ -1919,13 +1919,13 @@ arXiv:2606.07531v1 Announce Type: cross Abstract: We introduce mllm-shap, an ope
 
 ---
 
-## 160. Principled Agent Debate: Adversarial Arbitration for Sycophancy Reduction in Large Language Models
+## 160. Durable Evaluation Framework: Adversarial Arbitration for Sycophancy Reduction in Large Language Models
 
 **Author:** Sam Ryan  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2606.07532v1 Announce Type: cross Abstract: RLHF-trained models are systematically biased toward agreement over accuracy, a structural property of the training process. We present Principled Agent Debate (PAD), a multi-agent architecture that mitigates identity-framed sycophancy by arbitrating...
+arXiv:2606.07532v2 Announce Type: cross Abstract: RLHF-trained models are systematically biased toward agreement over accuracy, a structural property of the training process. We present Durable Evaluation Framework (DEF) Arbitration, a multi-agent architecture that mitigates identity-framed sycophan...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07532)
 
@@ -2261,7 +2261,7 @@ arXiv:2606.07585v1 Announce Type: cross Abstract: This thesis addresses group em
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.AR, cs.MA  
 
-arXiv:2606.07586v1 Announce Type: cross Abstract: Spatial neural processing units (NPUs) provide an energy-efficient platform for edge LLM inference, but efficiently deploying an LLM end-to-end on such hardware remains labor-intensive. Although AI coding agents have begun to lower this cost, existin...
+arXiv:2606.07586v2 Announce Type: cross Abstract: Spatial neural processing units (NPUs) provide an energy-efficient platform for edge LLM inference, but efficiently deploying an LLM end-to-end on such hardware remains labor-intensive. Although AI coding agents have begun to lower this cost, existin...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07586)
 
@@ -2417,7 +2417,7 @@ arXiv:2606.07604v1 Announce Type: cross Abstract: Analyzing attention weights ha
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.07605v1 Announce Type: cross Abstract: Fine-grained time series data with high temporal resolution is critical for accurate analytics across a wide range of applications. However, the acquisition of such data is often limited by cost and feasibility. This problem can be tackled by reconst...
+arXiv:2606.07605v2 Announce Type: cross Abstract: Fine-grained time series data with high temporal resolution is critical for accurate analytics across a wide range of applications. However, the acquisition of such data is often limited by cost and feasibility. This problem can be tackled by reconst...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07605)
 
@@ -3401,7 +3401,7 @@ arXiv:2606.07924v1 Announce Type: cross Abstract: This paper presents our system
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2606.07936v1 Announce Type: cross Abstract: Human evaluation plays a critical role in assessing the quality of generated text. However, the reliability and reproducibility of these evaluations depend on transparent and well-documented protocols -- details that are frequently missing in current...
+arXiv:2606.07936v2 Announce Type: cross Abstract: Human evaluation plays a critical role in assessing the quality of generated text. However, the reliability and reproducibility of these evaluations depend on transparent and well-documented protocols -- details that are frequently missing in current...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07936)
 
@@ -3505,11 +3505,11 @@ arXiv:2606.07996v1 Announce Type: cross Abstract: Pretraining is fundamental to 
 
 ## 292. Enhancing AI Interpretability and Safety through Localised Architectures
 
-**Author:** Ian Seet, Jonas Bozenhard, Simon Osterman  
+**Author:** Ian Seet, Jonas Bozenhard, Simon Ostermann  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.07998v1 Announce Type: cross Abstract: Recent advances in generative AI, especially powerful Large Language Models (LLMs) and Large Reasoning Models (LRMs), raise concerns over the interpretability, safety and sustainability of these large and opaque AI models. The power of such architect...
+arXiv:2606.07998v2 Announce Type: cross Abstract: Recent advances in generative AI, especially powerful Large Language Models (LLMs) and Large Reasoning Models (LRMs), raise concerns over the interpretability, safety and sustainability of these large and opaque AI models. The power of such architect...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07998)
 
@@ -3941,7 +3941,7 @@ arXiv:2606.08247v1 Announce Type: cross Abstract: Acute asthma risk assessment r
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.CY, cs.AI  
 
-arXiv:2606.08251v1 Announce Type: cross Abstract: Bold projections that artificial intelligence will accelerate scientific discovery have raced ahead of evidence from working scientists, and the field still lacks large-scale, scientist-in-the-loop tests of these claims. Here we mount the largest suc...
+arXiv:2606.08251v2 Announce Type: cross Abstract: Bold projections that artificial intelligence will accelerate scientific discovery have raced ahead of evidence from working scientists, and the field still lacks large-scale, scientist-in-the-loop tests of these claims. Here we mount the largest suc...
 
 📖 [Read original article](https://arxiv.org/abs/2606.08251)
 
@@ -4565,7 +4565,7 @@ arXiv:2606.08661v1 Announce Type: cross Abstract: Data agents integrate LLM-driv
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2606.08674v1 Announce Type: cross Abstract: Existing video generation frameworks treat sequence duration as an externally prescribed parameter -- fixed frame counts or text prompts -- producing clips whose temporal boundaries are decoupled from the statistical structure of real behavioral data...
+arXiv:2606.08674v2 Announce Type: cross Abstract: Existing video generation frameworks treat sequence duration as an externally prescribed parameter -- fixed frame counts or text prompts -- producing clips whose temporal boundaries are decoupled from the statistical structure of real behavioral data...
 
 📖 [Read original article](https://arxiv.org/abs/2606.08674)
 
@@ -5137,11 +5137,11 @@ arXiv:2606.09073v1 Announce Type: cross Abstract: Reinforcement learning from hu
 
 ## 428. FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention
 
-**Author:** Yan Wang, Qifan Zhang, Jiachen Yu, Tian Liang, Dongyang Ma, Xiang Hu, Zibo Lin, Chunyang Li, Zhichao Wang, Jia Li, Yujiu Yang, Haitao Mi, Dong Yu  
+**Author:** Yan Wang, Qifan Zhang, Jiachen Yu, Tian Liang, Dongyang Ma, Xiang Hu, Zibo Lin, Chunyang Li, Zhichao Wang, Miao Peng, Nuo Chen, Jia Li, Yujiu Yang, Haitao Mi, Dong Yu  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.09079v1 Announce Type: cross Abstract: Conventional LLMs keep the full KV cache loaded during decoding, causing a severe GPU memory bottleneck for ultra-long context serving. In this report, we propose Lookahead Sparse Attention (LSA), a novel inference paradigm powered by a Neural Memory...
+arXiv:2606.09079v2 Announce Type: cross Abstract: Conventional LLMs keep the full KV cache loaded during decoding, causing a severe GPU memory bottleneck for ultra-long context serving. In this report, we propose Lookahead Sparse Attention (LSA), a novel inference paradigm powered by a Neural Memory...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09079)
 
@@ -5525,7 +5525,7 @@ arXiv:2606.09368v1 Announce Type: cross Abstract: Scene Graphs (SGs) provide str
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.09377v1 Announce Type: cross Abstract: Formal neural network verification -- proving that a network satisfies safety properties for \emph{all} inputs in a specified domain -- is bounded in practice by GPU memory: standard implementations of bound-propagation algorithms (IBP, CROWN, $\alph...
+arXiv:2606.09377v2 Announce Type: cross Abstract: Formal neural network verification -- proving that a network satisfies safety properties for *all* inputs in a specified domain -- is bounded in practice by GPU memory: standard implementations of bound-propagation algorithms (IBP, CROWN, $\alpha$-CR...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09377)
 
@@ -5933,7 +5933,7 @@ arXiv:2606.09671v1 Announce Type: cross Abstract: Alzheimer's disease (AD) progr
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** eess.AS, cs.AI  
 
-arXiv:2606.09677v1 Announce Type: cross Abstract: While discriminative models for multi-channel speech separation excel in reference-based metrics, they often exhibit suboptimal human listening quality. To address this, we propose a novel MeanFlow-based one-step generative corrector (MeCo). MeCo lea...
+arXiv:2606.09677v2 Announce Type: cross Abstract: While discriminative models for multi-channel speech separation excel in reference-based metrics, they often exhibit suboptimal human listening quality. To address this, we propose a novel MeanFlow-based one-step generative corrector (MeCo). MeCo lea...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09677)
 
@@ -6677,7 +6677,7 @@ arXiv:2605.16309v2 Announce Type: replace Abstract: LLM-based agents can recover
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2605.17254v3 Announce Type: replace Abstract: Property prediction and inverse structural design of catalytic materials are typically modeled as two independent tasks: the former predicts target properties from given structures, whereas the latter generates candidate structures according to des...
+arXiv:2605.17254v4 Announce Type: replace Abstract: Property prediction and inverse structural design of catalytic materials are typically modeled as two independent tasks: the former predicts target properties from given structures, whereas the latter generates candidate structures according to des...
 
 📖 [Read original article](https://arxiv.org/abs/2605.17254)
 
@@ -7097,7 +7097,7 @@ arXiv:2502.08266v3 Announce Type: replace-cross Abstract: Hate speech detection 
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2502.09928v2 Announce Type: replace-cross Abstract: Originating in quantum physics, tensor networks (TNs) have been widely adopted as exponential machines and parametric decomposers for recognition tasks. Typical TN models, such as Matrix Product States (MPS), have not yet achieved successful ...
+arXiv:2502.09928v3 Announce Type: replace-cross Abstract: Originating in quantum physics, tensor networks (TNs) have been widely adopted as exponential machines and parametric decomposers for recognition tasks. Typical TN models, such as Matrix Product States (MPS), have not yet achieved successful ...
 
 📖 [Read original article](https://arxiv.org/abs/2502.09928)
 
@@ -7373,7 +7373,7 @@ arXiv:2509.17455v2 Announce Type: replace-cross Abstract: State-of-the-art NLP b
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2509.21925v2 Announce Type: replace-cross Abstract: This paper investigates the theoretical behavior of generative models under finite training populations. Within the stochastic interpolation generative framework, we derive closed-form expressions for the optimal velocity field and score func...
+arXiv:2509.21925v3 Announce Type: replace-cross Abstract: This paper investigates the theoretical behavior of generative models under finite training populations. Within the stochastic interpolation generative framework, we derive closed-form expressions for the optimal velocity field and score func...
 
 📖 [Read original article](https://arxiv.org/abs/2509.21925)
 
@@ -8557,11 +8557,11 @@ arXiv:2605.06384v3 Announce Type: replace-cross Abstract: We introduce MinMax Re
 
 ## 713. From Detection to Recovery: Operational Analysis on LLM Pre-training with 504 GPUs
 
-**Author:** Daemyung Kang, Eunjin Hwang, Hanjeong Lee, HyeokJin Kim, Hyunhoi Koo, Jeongkyu Shin, Jeongseok Kang, Jihyun Kang, Joongi Kim, Junbum Lee, Jungseung Yang, Kyujin Cho, Youngsook Song  
+**Author:** Daemyung Kang, Eunjin Hwang, Hanjeong Lee, HyeokJin Kim, Hyunhoi Koo, Jeongkyu Shin, Jeongseok Kang, Jihyun Kang, Jinho Heo, Joongi Kim, Junbum Lee, Jungseung Yang, Kyujin Cho, Youngsook Song  
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.DC, cs.AI  
 
-arXiv:2605.09370v3 Announce Type: replace-cross Abstract: Large-scale AI training is now fundamentally a distributed systems problem, and hardware failures have become routine operating conditions rather than rare exceptions. Public operational evidence from production training clusters, however, re...
+arXiv:2605.09370v4 Announce Type: replace-cross Abstract: Large-scale AI training is fundamentally a distributed systems problem, where hardware failures are routine operating conditions rather than rare exceptions, yet public operational evidence from production training clusters remains limited. T...
 
 📖 [Read original article](https://arxiv.org/abs/2605.09370)
 
@@ -9077,7 +9077,7 @@ arXiv:2606.03328v2 Announce Type: replace-cross Abstract: Post-training pruning 
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** math.OC, cs.AI, cs.CG, cs.NE, math.CO  
 
-arXiv:2606.03419v4 Announce Type: replace-cross Abstract: The 2026 disproof of Erd\H{o}s's unit-distance conjecture and Sawin's quantitative refinement show that the maximum number $u(n)$ of unit distances among $n$ planar points can exceed $n^{1+\varepsilon}$ for a fixed positive $\varepsilon$. Saw...
+arXiv:2606.03419v5 Announce Type: replace-cross Abstract: The 2026 disproof of Erd\H{o}s's unit-distance conjecture and Sawin's quantitative refinement show that the maximum number $u(n)$ of unit distances among $n$ planar points can exceed $n^{1+\varepsilon}$ for a fixed positive $\varepsilon$. Saw...
 
 📖 [Read original article](https://arxiv.org/abs/2606.03419)
 
@@ -9173,7 +9173,7 @@ arXiv:2606.05816v2 Announce Type: replace-cross Abstract: T2I models cannot effe
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.06021v2 Announce Type: replace-cross Abstract: On-policy distillation (OPD) supervises the student only in output space by matching next-token probabilities. This output-only paradigm has two limits: (1) sampling variance from Monte Carlo KL estimates over large vocabularies (e.g., Qwen's...
+arXiv:2606.06021v3 Announce Type: replace-cross Abstract: On-policy distillation (OPD) supervises the student only in output space by matching next-token probabilities. This output-only paradigm has two limits: (1) sampling variance from Monte Carlo KL estimates over large vocabularies (e.g., Qwen's...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06021)
 
@@ -9185,7 +9185,7 @@ arXiv:2606.06021v2 Announce Type: replace-cross Abstract: On-policy distillation
 **Published:** 6/9/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.LG  
 
-arXiv:2606.06493v2 Announce Type: replace-cross Abstract: For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial refe...
+arXiv:2606.06493v3 Announce Type: replace-cross Abstract: For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial refe...
 
 📖 [Read original article](https://arxiv.org/abs/2606.06493)
 
