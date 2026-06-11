@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-08"
 date: "2026-06-08"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-06-08
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ In this tutorial, we explore the ClawHub Security Signals dataset to see how sca
 Xiaomi's MiMo team, with TileRT, released MiMo-V2.5-Pro-UltraSpeed, a serving mode for the MiMo-V2.5-Pro model. It decodes over 1000 tokens per second on a 1-trillion-parameter model using a single 8-GPU commodity node. The post Xiaomi MiMo and TileRT Push a 1-Trillion-Parameter Model Past 1000 Toke...
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/08/xiaomi-mimo-and-tilert-push-a-1-trillion-parameter-model-past-1000-tokens-per-second-on-commodity-gpus/)
-
----
-
-## 3. Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription
-
-**Author:** Asif Razzaq  
-**Published:** 6/8/2026, 8:56:49 AM  
-**Categories:** Agentic AI, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, New Releases, Software Engineering, Staff, Technology, Voice AI  
-
-Microsoft AI has released MAI-Transcribe-1.5, the second iteration of its in-house speech-to-text family. The model covers 43 languages, adds keyword (entity) biasing for domain-specific terms, posts a 2.4% Word-Error-Rate on the Artificial Analysis leaderboard, and transcribes an hour of audio in u...
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/08/microsoft-ai-introduces-mai-transcribe-1-5-2-4-wer-on-artificial-analysis-best-in-class-fleurs-accuracy-and-up-to-5x-faster-long-audio-transcription/)
 
 ---
