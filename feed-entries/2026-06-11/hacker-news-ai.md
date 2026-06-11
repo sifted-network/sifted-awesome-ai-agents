@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Memory and personalization make AI more likely to tell you what you want to hear
+## 1. Ask HN: How do you get into a flow state when using AI to code?
 
-**Author:** dijksterhuis  
-**Published:** 6/11/2026, 10:35:43 AM  
+**Author:** kilroy123  
+**Published:** 6/11/2026, 3:56:25 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850 Comments URL: https://news.ycombinator.com/item?id=48488536 Points: 1 # Comments: 0
+Before agentic coding, I always prided myself on how long I could work in a flow state. I was really good at working deeply.Now, with slow agents like Claude, I find myself no longer working deeply.What are you all doing to stay focused? Comments URL: https://news.ycombinator.com/item?id=48492118 Po...
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850)
+📖 [Read original article](https://news.ycombinator.com/item?id=48492118)
 
 ---
 
-## 2. I asked AI to make a page about itself and published it unchanged
+## 2. Show HN: Kikubot – Each AI agent is an inbox
 
-**Author:** kampiotrow  
-**Published:** 6/11/2026, 10:31:12 AM  
+**Author:** asp68  
+**Published:** 6/11/2026, 3:50:54 PM  
 **Categories:** -  
 
-Article URL: https://isanyoneinthere.com Comments URL: https://news.ycombinator.com/item?id=48488510 Points: 1 # Comments: 0
+Hi All, I’ve posted an OSS Agent framework with its main philosophy being the use of email as the message bus (no message queue, vector store, orchestrator). Essentially every agent is an email address. The main reason behind this project is to facilitate company adoption & deployment of AI agents.#...
 
-📖 [Read original article](https://isanyoneinthere.com)
+📖 [Read original article](https://github.com/mxaiorg/kikubot)
 
 ---
 
-## 3. An Interview with Ben Bajarin About Apple, AI, and Compute
+## 3. When is detecting AI-generated text worthwhile?
 
-**Author:** swolpers  
-**Published:** 6/11/2026, 10:25:15 AM  
+**Author:** sebg  
+**Published:** 6/11/2026, 3:45:39 PM  
 **Categories:** -  
 
-Article URL: https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/ Comments URL: https://news.ycombinator.com/item?id=48488477 Points: 1 # Comments: 0
+Article URL: https://statmodeling.stat.columbia.edu/2026/06/06/when-is-detecting-ai-generated-text-worthwhile/ Comments URL: https://news.ycombinator.com/item?id=48491957 Points: 1 # Comments: 0
 
-📖 [Read original article](https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/)
+📖 [Read original article](https://statmodeling.stat.columbia.edu/2026/06/06/when-is-detecting-ai-generated-text-worthwhile/)
 
 ---
 
-## 4. Anthropic's AI Jobs Paper
+## 4. Show HN: Mimirs – persistent local memory for AI coding agents (MCP)
 
-**Author:** vincent_s  
-**Published:** 6/11/2026, 10:17:40 AM  
+**Author:** winci  
+**Published:** 6/11/2026, 3:42:48 PM  
 **Categories:** -  
 
-Article URL: https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/ Comments URL: https://news.ycombinator.com/item?id=48488424 Points: 1 # Comments: 0
+Article URL: https://github.com/TheWinci/mimirs Comments URL: https://news.ycombinator.com/item?id=48491918 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/)
+📖 [Read original article](https://github.com/TheWinci/mimirs)
 
 ---
 
-## 5. Outpost – Capability-based API access for AI agents
+## 5. The $15,000 AI Bill. Your $20 Subscription is a DELUSION [video]
 
-**Author:** saurabhsinghvi  
-**Published:** 6/11/2026, 10:14:25 AM  
+**Author:** Vasniktel  
+**Published:** 6/11/2026, 3:27:02 PM  
 **Categories:** -  
 
-Article URL: https://github.com/sausin/outpost Comments URL: https://news.ycombinator.com/item?id=48488407 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=UfApUobqN8Y Comments URL: https://news.ycombinator.com/item?id=48491670 Points: 6 # Comments: 2
 
-📖 [Read original article](https://github.com/sausin/outpost)
+📖 [Read original article](https://www.youtube.com/watch?v=UfApUobqN8Y)
 
 ---
 
-## 6. AI Just Got Better Than a Fable
+## 6. First Steps Toward Automated AI Research
 
-**Author:** Magna_Dev  
-**Published:** 6/11/2026, 10:04:00 AM  
+**Author:** praccu  
+**Published:** 6/11/2026, 3:21:48 PM  
 **Categories:** -  
 
-Article URL: https://altshiftx.tech/blog/unlock-the-future-of-intelligent-systems-with-yottajoule-sui-q8e0 Comments URL: https://news.ycombinator.com/item?id=48488355 Points: 1 # Comments: 0
+Article URL: https://www.recursive.com/articles/first-steps-toward-automated-ai-research Comments URL: https://news.ycombinator.com/item?id=48491593 Points: 2 # Comments: 0
 
-📖 [Read original article](https://altshiftx.tech/blog/unlock-the-future-of-intelligent-systems-with-yottajoule-sui-q8e0)
+📖 [Read original article](https://www.recursive.com/articles/first-steps-toward-automated-ai-research)
 
 ---
 
-## 7. Anthropic Walks Back Policy That Could Sabotage AI Researchers Using Claude
+## 7. Who Is Responsible for Answers AI Gives You? A German Court Has Some Thoughts
 
-**Author:** lumpa  
-**Published:** 6/11/2026, 9:57:19 AM  
+**Author:** lcubw  
+**Published:** 6/11/2026, 3:09:34 PM  
 **Categories:** -  
 
-Article URL: https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/ Comments URL: https://news.ycombinator.com/item?id=48488304 Points: 1 # Comments: 0
+Article URL: https://read.misalignedmag.com/who-is-responsible-for-answers-ai-gives-you-a-german-court-has-some-thoughts-8b6e45335054 Comments URL: https://news.ycombinator.com/item?id=48491423 Points: 3 # Comments: 0
 
-📖 [Read original article](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/)
+📖 [Read original article](https://read.misalignedmag.com/who-is-responsible-for-answers-ai-gives-you-a-german-court-has-some-thoughts-8b6e45335054)
 
 ---
 
-## 8. Show HN: Tail Panic – a multiplayer game designed for AI agents
+## 8. Can 1000 people have a meaningful conversation? AI may make it possible
 
-**Author:** ZivenChang  
-**Published:** 6/11/2026, 9:27:14 AM  
+**Author:** hogwash  
+**Published:** 6/11/2026, 3:05:35 PM  
 **Categories:** -  
 
-Hi HN,Built an AI-native game where agents compete against each other.https://tailpanic.comFeedback welcome. Comments URL: https://news.ycombinator.com/item?id=48488135 Points: 2 # Comments: 0
+Article URL: https://bigthink.com/science-tech/collective-superintelligence/ Comments URL: https://news.ycombinator.com/item?id=48491360 Points: 2 # Comments: 1
 
-📖 [Read original article](https://tailpanic.com)
+📖 [Read original article](https://bigthink.com/science-tech/collective-superintelligence/)
 
 ---
 
-## 9. Show HN: SpadeBox – Sandboxed tools and JavaScript runtime for AI agents
+## 9. Craig Federighi Details Apple's Collaboration with Google for Siri AI in iOS 27
 
-**Author:** charlycst  
-**Published:** 6/11/2026, 9:26:09 AM  
+**Author:** tambourine_man  
+**Published:** 6/11/2026, 3:01:26 PM  
 **Categories:** -  
 
-Article URL: https://github.com/CharlyCst/spadebox Comments URL: https://news.ycombinator.com/item?id=48488132 Points: 1 # Comments: 0
+Article URL: https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/ Comments URL: https://news.ycombinator.com/item?id=48491301 Points: 6 # Comments: 0
 
-📖 [Read original article](https://github.com/CharlyCst/spadebox)
+📖 [Read original article](https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/)
 
 ---
 
-## 10. AI can control your desktop through scripts
+## 10. AI Billboards, Two Truths and a Lie
 
-**Author:** AmDab  
-**Published:** 6/11/2026, 9:11:51 AM  
+**Author:** audiodude  
+**Published:** 6/11/2026, 2:57:43 PM  
 **Categories:** -  
 
-Article URL: https://github.com/AmrDab/clawdcursor Comments URL: https://news.ycombinator.com/item?id=48488026 Points: 1 # Comments: 0
+Article URL: https://wallpaper.audiodude.xyz Comments URL: https://news.ycombinator.com/item?id=48491238 Points: 3 # Comments: 3
 
-📖 [Read original article](https://github.com/AmrDab/clawdcursor)
+📖 [Read original article](https://wallpaper.audiodude.xyz)
 
 ---
 
-## 11. Our AI-slop ad turned out weirdly good [video]
+## 11. Crusoe Pushed Aside at Wyoming AI Project After Google Concerns
 
-**Author:** nxnze  
-**Published:** 6/11/2026, 8:46:36 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 6/11/2026, 2:57:27 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=FPgq4eopYcs Comments URL: https://news.ycombinator.com/item?id=48487888 Points: 1 # Comments: 1
+Article URL: https://www.bloomberg.com/news/articles/2026-06-11/crusoe-pushed-aside-at-wyoming-ai-project-after-google-concerns Comments URL: https://news.ycombinator.com/item?id=48491233 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=FPgq4eopYcs)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-11/crusoe-pushed-aside-at-wyoming-ai-project-after-google-concerns)
 
 ---
 
-## 12. IBM's Spyre AI Accelerator Deep Dive – By Gavin Bonshor
+## 12. Spotify Wrapped for your AI coding usage
 
-**Author:** rbanffy  
-**Published:** 6/11/2026, 8:38:32 AM  
+**Author:** Entelligence25  
+**Published:** 6/11/2026, 2:51:14 PM  
 **Categories:** -  
 
-Article URL: https://morethanmoore.substack.com/p/ibms-spyre-ai-accelerator-deep-dive Comments URL: https://news.ycombinator.com/item?id=48487832 Points: 2 # Comments: 0
+Article URL: https://wrapped.entelligence.ai/ Comments URL: https://news.ycombinator.com/item?id=48491148 Points: 3 # Comments: 0
 
-📖 [Read original article](https://morethanmoore.substack.com/p/ibms-spyre-ai-accelerator-deep-dive)
+📖 [Read original article](https://wrapped.entelligence.ai/)
 
 ---
 
-## 13. Show HN: SynCodeLive – code and talk with your team along with AI, live
+## 13. An Overview of Modern AI Robotics from First Principles
 
-**Author:** ketul_shah  
-**Published:** 6/11/2026, 8:31:07 AM  
+**Author:** sebg  
+**Published:** 6/11/2026, 2:50:02 PM  
 **Categories:** -  
 
-Hello HN, this is the first time I am putting out a product, so I would like to share it and seek your feedback and suggestions.As a developer and student working with a remote team, we always need to share some context or code with a teammate. For that we used to use codeshare.io. And when working ...
+Article URL: https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles Comments URL: https://news.ycombinator.com/item?id=48491137 Points: 3 # Comments: 0
 
-📖 [Read original article](https://syncodelive.com/)
+📖 [Read original article](https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles)
 
 ---
 
-## 14. What if the AI boom goes into reverse?
+## 14. Why smart people keep getting AI wrong [video]
 
-**Author:** mapleoin  
-**Published:** 6/11/2026, 8:18:58 AM  
+**Author:** haizhung  
+**Published:** 6/11/2026, 2:39:57 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/ Comments URL: https://news.ycombinator.com/item?id=48487716 Points: 3 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=KpTZbq-eV38 Comments URL: https://news.ycombinator.com/item?id=48491003 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/)
+📖 [Read original article](https://www.youtube.com/watch?v=KpTZbq-eV38)
 
 ---
 
-## 15. Why AI hasn't replaced software engineers, and won't
+## 15. Fiszki flashcards without an app: your AI quizzes you, FSRS keeps score
 
-**Author:** trueduke  
-**Published:** 6/11/2026, 7:51:17 AM  
+**Author:** fiszki  
+**Published:** 6/11/2026, 2:30:48 PM  
 **Categories:** -  
 
-Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 30 # Comments: 21
+Article URL: https://claude.ai/share/9fd278a5-a2cf-4297-8e5f-e2a0ae787c8d Comments URL: https://news.ycombinator.com/item?id=48490878 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
+📖 [Read original article](https://claude.ai/share/9fd278a5-a2cf-4297-8e5f-e2a0ae787c8d)
 
 ---
 
-## 16. Accusations of 'AI Slop' Don't Screen for AI Text
+## 16. The skills people still perform better than AI, according to workplace experts
 
-**Author:** igortru  
-**Published:** 6/11/2026, 7:33:10 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 6/11/2026, 2:29:23 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2606.12073 Comments URL: https://news.ycombinator.com/item?id=48487424 Points: 4 # Comments: 0
+Article URL: https://apnews.com/article/artificial-intelligence-jobs-soft-skills-human-0ce88d448f0b7a87c72b6241305a61f2 Comments URL: https://news.ycombinator.com/item?id=48490855 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2606.12073)
+📖 [Read original article](https://apnews.com/article/artificial-intelligence-jobs-soft-skills-human-0ce88d448f0b7a87c72b6241305a61f2)
 
 ---
 
-## 17. Local firewall for AI agents – blocks secret leaks and cuts API costs by 40–70%
+## 17. Looki.ai – Looki Tech Limited
 
-**Author:** ashp15  
-**Published:** 6/11/2026, 7:29:56 AM  
+**Author:** 9woc  
+**Published:** 6/11/2026, 2:26:48 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ashp15205/guardian-runtime Comments URL: https://news.ycombinator.com/item?id=48487405 Points: 3 # Comments: 0
+Article URL: https://www.looki.ai/ Comments URL: https://news.ycombinator.com/item?id=48490818 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/ashp15205/guardian-runtime)
+📖 [Read original article](https://www.looki.ai/)
 
 ---
 
-## 18. Why AI conversation mode beats vocabulary lists
+## 18. Unknown Is Not False: An AI Agent Pre-Execution Checklist
 
-**Author:** manateavagner  
-**Published:** 6/11/2026, 7:08:26 AM  
+**Author:** offaxis  
+**Published:** 6/11/2026, 2:17:42 PM  
 **Categories:** -  
 
-Article URL: https://manateavagner.com/news/translate-conversation-mode-language-learning Comments URL: https://news.ycombinator.com/item?id=48487243 Points: 1 # Comments: 0
+Article URL: https://discuss.huggingface.co/t/if-unsure-ask-never-guess-ai-agent-pre-execution-checklist/176632 Comments URL: https://news.ycombinator.com/item?id=48490713 Points: 3 # Comments: 0
 
-📖 [Read original article](https://manateavagner.com/news/translate-conversation-mode-language-learning)
+📖 [Read original article](https://discuss.huggingface.co/t/if-unsure-ask-never-guess-ai-agent-pre-execution-checklist/176632)
 
 ---
 
-## 19. Ask HN: Any Local LLM can I run without GPU for Local Agentic workflow AI?
+## 19. China prepares $295B plan to fund nationwide AI data center buildout
 
-**Author:** limondas  
-**Published:** 6/11/2026, 6:54:57 AM  
+**Author:** alephnerd  
+**Published:** 6/11/2026, 2:13:47 PM  
 **Categories:** -  
 
-Claude Code like agentic workflow ai too costly for me.Any LLM can I run with VSCode at the below setup? 16ram Intel core i7 h processor 13gen 512gb NVMe SSD I want to run the ai as local agentic workflow with Vscode.I want use LLAMA agent to build it. I have tried Gemma3 270M, Qwen3.5 4bit ,they ar...
+Article URL: https://www.reuters.com/world/china/china-prepares-295-billion-plan-fund-nationwide-ai-buildout-bloomberg-news-2026-06-09/ Comments URL: https://news.ycombinator.com/item?id=48490657 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48487147)
+📖 [Read original article](https://www.reuters.com/world/china/china-prepares-295-billion-plan-fund-nationwide-ai-buildout-bloomberg-news-2026-06-09/)
 
 ---
 
-## 20. A Parents Guide to AI
+## 20. AI and the Productivity Paradox
 
-**Author:** ygjb  
-**Published:** 6/11/2026, 6:49:02 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 6/11/2026, 2:10:05 PM  
 **Categories:** -  
 
-Article URL: https://parentsguidetoai.ca/ Comments URL: https://news.ycombinator.com/item?id=48487084 Points: 3 # Comments: 3
+Article URL: https://www.ft.com/content/b4b60d00-2e8c-4db0-b3ed-9988dc0eeb5c Comments URL: https://news.ycombinator.com/item?id=48490610 Points: 2 # Comments: 0
 
-📖 [Read original article](https://parentsguidetoai.ca/)
+📖 [Read original article](https://www.ft.com/content/b4b60d00-2e8c-4db0-b3ed-9988dc0eeb5c)
 
 ---
