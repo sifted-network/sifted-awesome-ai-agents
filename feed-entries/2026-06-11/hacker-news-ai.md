@@ -2,203 +2,251 @@
 title: "Hacker News AI - 2026-06-11"
 date: "2026-06-11"
 source: "Hacker News AI"
-count: 16
+count: 20
 ---
 
 # Hacker News AI - 2026-06-11
 
-16 items collected.
+20 items collected.
 
 ---
 
-## 1. Tax, optimization math for equity comp your AI assistant can call (MCP, no auth)
+## 1. Memory and personalization make AI more likely to tell you what you want to hear
 
-**Author:** alphalatitude  
-**Published:** 6/11/2026, 3:59:30 AM  
+**Author:** dijksterhuis  
+**Published:** 6/11/2026, 10:35:43 AM  
 **Categories:** -  
 
-Article URL: https://github.com/AlvisoOculus/optionsahoy-mcp Comments URL: https://news.ycombinator.com/item?id=48486039 Points: 1 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850 Comments URL: https://news.ycombinator.com/item?id=48488536 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/AlvisoOculus/optionsahoy-mcp)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850)
 
 ---
 
-## 2. Canada introduces legislation to ban social media U16, regulate AI chatbots
+## 2. I asked AI to make a page about itself and published it unchanged
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/11/2026, 3:30:45 AM  
+**Author:** kampiotrow  
+**Published:** 6/11/2026, 10:31:12 AM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/news/canada-introduces-legislation-ban-social-205633582.html Comments URL: https://news.ycombinator.com/item?id=48485915 Points: 1 # Comments: 0
+Article URL: https://isanyoneinthere.com Comments URL: https://news.ycombinator.com/item?id=48488510 Points: 1 # Comments: 0
 
-📖 [Read original article](https://finance.yahoo.com/news/canada-introduces-legislation-ban-social-205633582.html)
+📖 [Read original article](https://isanyoneinthere.com)
 
 ---
 
-## 3. The backlash against AI, in 4 charts
+## 3. An Interview with Ben Bajarin About Apple, AI, and Compute
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/11/2026, 3:26:40 AM  
+**Author:** swolpers  
+**Published:** 6/11/2026, 10:25:15 AM  
 **Categories:** -  
 
-Article URL: https://www.fastcompany.com/91553925/the-backlash-against-ai-in-4-charts Comments URL: https://news.ycombinator.com/item?id=48485889 Points: 3 # Comments: 0
+Article URL: https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/ Comments URL: https://news.ycombinator.com/item?id=48488477 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.fastcompany.com/91553925/the-backlash-against-ai-in-4-charts)
+📖 [Read original article](https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/)
 
 ---
 
-## 4. Why Tech CEOs Are Quietly Cancelling Their AI Plans [video][9 Mins]
+## 4. Anthropic's AI Jobs Paper
 
-**Author:** Bender  
-**Published:** 6/11/2026, 3:03:01 AM  
+**Author:** vincent_s  
+**Published:** 6/11/2026, 10:17:40 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=NBtUgWn-nHs Comments URL: https://news.ycombinator.com/item?id=48485765 Points: 7 # Comments: 0
+Article URL: https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/ Comments URL: https://news.ycombinator.com/item?id=48488424 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=NBtUgWn-nHs)
+📖 [Read original article](https://www.vincentschmalbach.com/anthropics-ai-jobs-paper/)
 
 ---
 
-## 5. How to build a landing page with AI, no code [video]
+## 5. Outpost – Capability-based API access for AI agents
 
-**Author:** nongquy  
-**Published:** 6/11/2026, 2:50:01 AM  
+**Author:** saurabhsinghvi  
+**Published:** 6/11/2026, 10:14:25 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=06azxD5FOo8 Comments URL: https://news.ycombinator.com/item?id=48485688 Points: 3 # Comments: 0
+Article URL: https://github.com/sausin/outpost Comments URL: https://news.ycombinator.com/item?id=48488407 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=06azxD5FOo8)
+📖 [Read original article](https://github.com/sausin/outpost)
 
 ---
 
-## 6. Scarcity is driving AI innovation outside Silicon Valley
+## 6. AI Just Got Better Than a Fable
 
-**Author:** colinprince  
-**Published:** 6/11/2026, 2:27:54 AM  
+**Author:** Magna_Dev  
+**Published:** 6/11/2026, 10:04:00 AM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=48485558 Points: 2 # Comments: 0
+Article URL: https://altshiftx.tech/blog/unlock-the-future-of-intelligent-systems-with-yottajoule-sui-q8e0 Comments URL: https://news.ycombinator.com/item?id=48488355 Points: 1 # Comments: 0
 
-📖 [Read original article](https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/)
+📖 [Read original article](https://altshiftx.tech/blog/unlock-the-future-of-intelligent-systems-with-yottajoule-sui-q8e0)
 
 ---
 
-## 7. We Used Agentic AI to Fix Kong Gateway's Flakiest Tests
+## 7. Anthropic Walks Back Policy That Could Sabotage AI Researchers Using Claude
 
-**Author:** dndx  
-**Published:** 6/11/2026, 2:07:56 AM  
+**Author:** lumpa  
+**Published:** 6/11/2026, 9:57:19 AM  
 **Categories:** -  
 
-Article URL: https://konghq.com/blog/engineering/how-we-used-agentic-ai-to-fix-kong-gateways-flakiest-tests Comments URL: https://news.ycombinator.com/item?id=48485434 Points: 6 # Comments: 0
+Article URL: https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/ Comments URL: https://news.ycombinator.com/item?id=48488304 Points: 1 # Comments: 0
 
-📖 [Read original article](https://konghq.com/blog/engineering/how-we-used-agentic-ai-to-fix-kong-gateways-flakiest-tests)
+📖 [Read original article](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/)
 
 ---
 
-## 8. How AI Agents Reshape Knowledge Work
+## 8. Show HN: Tail Panic – a multiplayer game designed for AI agents
 
-**Author:** gmays  
-**Published:** 6/11/2026, 1:15:46 AM  
+**Author:** ZivenChang  
+**Published:** 6/11/2026, 9:27:14 AM  
 **Categories:** -  
 
-Article URL: https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work Comments URL: https://news.ycombinator.com/item?id=48485079 Points: 2 # Comments: 0
+Hi HN,Built an AI-native game where agents compete against each other.https://tailpanic.comFeedback welcome. Comments URL: https://news.ycombinator.com/item?id=48488135 Points: 2 # Comments: 0
 
-📖 [Read original article](https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work)
+📖 [Read original article](https://tailpanic.com)
 
 ---
 
-## 9. I Built a Hazel Alternative for Mac with AI Rule Generation
+## 9. Show HN: SpadeBox – Sandboxed tools and JavaScript runtime for AI agents
 
-**Author:** Gotoorbitapp  
-**Published:** 6/11/2026, 1:04:23 AM  
+**Author:** charlycst  
+**Published:** 6/11/2026, 9:26:09 AM  
 **Categories:** -  
 
-Article URL: https://medium.com/@jamal_davis/i-built-a-hazel-alternative-for-mac-with-ai-rule-generation-heres-what-i-learned-fb606bdc47cb Comments URL: https://news.ycombinator.com/item?id=48484986 Points: 2 # Comments: 0
+Article URL: https://github.com/CharlyCst/spadebox Comments URL: https://news.ycombinator.com/item?id=48488132 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@jamal_davis/i-built-a-hazel-alternative-for-mac-with-ai-rule-generation-heres-what-i-learned-fb606bdc47cb)
+📖 [Read original article](https://github.com/CharlyCst/spadebox)
 
 ---
 
-## 10. Shopee cuts jobs in Singapore amid AI push
+## 10. AI can control your desktop through scripts
 
-**Author:** kelt  
-**Published:** 6/11/2026, 12:18:56 AM  
+**Author:** AmDab  
+**Published:** 6/11/2026, 9:11:51 AM  
 **Categories:** -  
 
-Article URL: https://www.channelnewsasia.com/singapore/shopee-job-cuts-layoff-employees-software-engineers-6173816 Comments URL: https://news.ycombinator.com/item?id=48484652 Points: 2 # Comments: 0
+Article URL: https://github.com/AmrDab/clawdcursor Comments URL: https://news.ycombinator.com/item?id=48488026 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.channelnewsasia.com/singapore/shopee-job-cuts-layoff-employees-software-engineers-6173816)
+📖 [Read original article](https://github.com/AmrDab/clawdcursor)
 
 ---
 
-## 11. We Saw What AI Data Centers Don't Want You to See [video][22 Mins]
+## 11. Our AI-slop ad turned out weirdly good [video]
 
-**Author:** Bender  
-**Published:** 6/11/2026, 12:17:22 AM  
+**Author:** nxnze  
+**Published:** 6/11/2026, 8:46:36 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=5p426fSlYH4 Comments URL: https://news.ycombinator.com/item?id=48484641 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=FPgq4eopYcs Comments URL: https://news.ycombinator.com/item?id=48487888 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.youtube.com/watch?v=5p426fSlYH4)
+📖 [Read original article](https://www.youtube.com/watch?v=FPgq4eopYcs)
 
 ---
 
-## 12. Show HN: Pacman AI – Generated with Claude Fable 5
+## 12. IBM's Spyre AI Accelerator Deep Dive – By Gavin Bonshor
 
-**Author:** javierluraschi  
-**Published:** 6/11/2026, 12:15:48 AM  
+**Author:** rbanffy  
+**Published:** 6/11/2026, 8:38:32 AM  
 **Categories:** -  
 
-Article URL: https://pacmanai.com/ Comments URL: https://news.ycombinator.com/item?id=48484627 Points: 4 # Comments: 2
+Article URL: https://morethanmoore.substack.com/p/ibms-spyre-ai-accelerator-deep-dive Comments URL: https://news.ycombinator.com/item?id=48487832 Points: 2 # Comments: 0
 
-📖 [Read original article](https://pacmanai.com/)
+📖 [Read original article](https://morethanmoore.substack.com/p/ibms-spyre-ai-accelerator-deep-dive)
 
 ---
 
-## 13. Everything at Once: Social Media, AI – – – A Digital Safety Commission (Canada)
+## 13. Show HN: SynCodeLive – code and talk with your team along with AI, live
 
-**Author:** fidotron  
-**Published:** 6/11/2026, 12:14:05 AM  
+**Author:** ketul_shah  
+**Published:** 6/11/2026, 8:31:07 AM  
 **Categories:** -  
 
-Article URL: https://www.michaelgeist.ca/2026/06/everything-all-at-once-bill-c-34-combines-platform-duties-a-kids-social-media-ban-ai-chatbot-regulation-and-a-powerful-digital-safety-commission-into-a-risky-trust-us-bet/ Comments URL: https://news.ycombinator.com/item?id=48484616 Points: 3 # Comment...
+Hello HN, this is the first time I am putting out a product, so I would like to share it and seek your feedback and suggestions.As a developer and student working with a remote team, we always need to share some context or code with a teammate. For that we used to use codeshare.io. And when working ...
 
-📖 [Read original article](https://www.michaelgeist.ca/2026/06/everything-all-at-once-bill-c-34-combines-platform-duties-a-kids-social-media-ban-ai-chatbot-regulation-and-a-powerful-digital-safety-commission-into-a-risky-trust-us-bet/)
+📖 [Read original article](https://syncodelive.com/)
 
 ---
 
-## 14. OmniscientIQ–We Use AI to Bring AI to Your AI
+## 14. What if the AI boom goes into reverse?
 
-**Author:** jayveeone  
-**Published:** 6/11/2026, 12:11:45 AM  
+**Author:** mapleoin  
+**Published:** 6/11/2026, 8:18:58 AM  
 **Categories:** -  
 
-Article URL: https://omniscientiq.com/ Comments URL: https://news.ycombinator.com/item?id=48484597 Points: 2 # Comments: 0
+Article URL: https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/ Comments URL: https://news.ycombinator.com/item?id=48487716 Points: 3 # Comments: 0
 
-📖 [Read original article](https://omniscientiq.com/)
+📖 [Read original article](https://www.reuters.com/commentary/reuters-open-interest/what-if-ai-boom-goes-into-reverse-2026-05-29/)
 
 ---
 
-## 15. AI agent runs amok in Fedora and elsewhere
+## 15. Why AI hasn't replaced software engineers, and won't
 
-**Author:** tanelpoder  
-**Published:** 6/11/2026, 12:10:08 AM  
+**Author:** trueduke  
+**Published:** 6/11/2026, 7:51:17 AM  
 **Categories:** -  
 
-Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 195 # Comments: 52
+Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 30 # Comments: 21
 
-📖 [Read original article](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
+📖 [Read original article](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
 
 ---
 
-## 16. Palantir cofounder says CEOs are pretending layoffs are about 'AI productivity'
+## 16. Accusations of 'AI Slop' Don't Screen for AI Text
 
-**Author:** JimsonYang  
-**Published:** 6/11/2026, 12:05:13 AM  
+**Author:** igortru  
+**Published:** 6/11/2026, 7:33:10 AM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/ceos-pretend-layoffs-because-ai-productivity-palantir-cofounder-joe-lonsdale-2026-6 Comments URL: https://news.ycombinator.com/item?id=48484539 Points: 2 # Comments: 0
+Article URL: https://arxiv.org/abs/2606.12073 Comments URL: https://news.ycombinator.com/item?id=48487424 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.businessinsider.com/ceos-pretend-layoffs-because-ai-productivity-palantir-cofounder-joe-lonsdale-2026-6)
+📖 [Read original article](https://arxiv.org/abs/2606.12073)
+
+---
+
+## 17. Local firewall for AI agents – blocks secret leaks and cuts API costs by 40–70%
+
+**Author:** ashp15  
+**Published:** 6/11/2026, 7:29:56 AM  
+**Categories:** -  
+
+Article URL: https://github.com/ashp15205/guardian-runtime Comments URL: https://news.ycombinator.com/item?id=48487405 Points: 3 # Comments: 0
+
+📖 [Read original article](https://github.com/ashp15205/guardian-runtime)
+
+---
+
+## 18. Why AI conversation mode beats vocabulary lists
+
+**Author:** manateavagner  
+**Published:** 6/11/2026, 7:08:26 AM  
+**Categories:** -  
+
+Article URL: https://manateavagner.com/news/translate-conversation-mode-language-learning Comments URL: https://news.ycombinator.com/item?id=48487243 Points: 1 # Comments: 0
+
+📖 [Read original article](https://manateavagner.com/news/translate-conversation-mode-language-learning)
+
+---
+
+## 19. Ask HN: Any Local LLM can I run without GPU for Local Agentic workflow AI?
+
+**Author:** limondas  
+**Published:** 6/11/2026, 6:54:57 AM  
+**Categories:** -  
+
+Claude Code like agentic workflow ai too costly for me.Any LLM can I run with VSCode at the below setup? 16ram Intel core i7 h processor 13gen 512gb NVMe SSD I want to run the ai as local agentic workflow with Vscode.I want use LLAMA agent to build it. I have tried Gemma3 270M, Qwen3.5 4bit ,they ar...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48487147)
+
+---
+
+## 20. A Parents Guide to AI
+
+**Author:** ygjb  
+**Published:** 6/11/2026, 6:49:02 AM  
+**Categories:** -  
+
+Article URL: https://parentsguidetoai.ca/ Comments URL: https://news.ycombinator.com/item?id=48487084 Points: 3 # Comments: 3
+
+📖 [Read original article](https://parentsguidetoai.ca/)
 
 ---
