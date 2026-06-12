@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-11"
 date: "2026-06-11"
 source: "qbitai"
-count: 3
+count: 2
 ---
 
 # qbitai - 2026-06-11
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ count: 3
 前期做了40万AI考生压测
 
 📖 [Read original article](https://www.qbitai.com/2026/06/434558.html)
-
----
-
-## 3. 3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent
-
-**Author:** 梦瑶  
-**Published:** 6/11/2026, 4:18:34 AM  
-**Categories:** 资讯, 首页轮播, 3D  
-
-Meshy发布全球首个3D AI Agent
-
-📖 [Read original article](https://www.qbitai.com/2026/06/434317.html)
 
 ---
