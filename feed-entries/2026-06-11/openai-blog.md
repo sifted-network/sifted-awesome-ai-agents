@@ -11,15 +11,15 @@ count: 4
 
 ---
 
-## 1. How an astrophysicist uses Codex to help simulate black holes
+## 1. Supporting Europe’s work in ensuring a trustworthy AI ecosystem
 
 **Author:** -  
 **Published:** 6/11/2026, 12:00:00 AM  
-**Categories:** Applied AI  
+**Categories:** Global Affairs  
 
-Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.
+OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.
 
-📖 [Read original article](https://openai.com/index/using-codex-to-simulate-black-holes)
+📖 [Read original article](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)
 
 ---
 
@@ -35,15 +35,15 @@ Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with
 
 ---
 
-## 3. Supporting Europe’s work in ensuring a trustworthy AI ecosystem
+## 3. How an astrophysicist uses Codex to help simulate black holes
 
 **Author:** -  
 **Published:** 6/11/2026, 12:00:00 AM  
-**Categories:** Global Affairs  
+**Categories:** Applied AI  
 
-OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.
+Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.
 
-📖 [Read original article](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)
+📖 [Read original article](https://openai.com/index/using-codex-to-simulate-black-holes)
 
 ---
 
