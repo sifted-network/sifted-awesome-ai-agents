@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Agribrain / ag-int/nce for AI agents (weather, ET₀, GDD, spray windows, soil)
+## 1. Show HN: I had Fable clone a game, it turned it into an arena combat AI trainer
 
-**Author:** vasileiosts  
-**Published:** 6/12/2026, 10:04:38 AM  
+**Author:** rhgraysonii  
+**Published:** 6/12/2026, 2:55:15 PM  
 **Categories:** -  
 
-Article URL: https://github.com/VasileiosTs/agribrain Comments URL: https://news.ycombinator.com/item?id=48502078 Points: 2 # Comments: 0
+I started off with a simple goal: port the game Soldat to Typescript. I ended up not only with the game, but with a full system to train AI bots to play my own game, building a neural net to train new bot AIs from tens of thousands of simulated matches with different strategies. It also runs live al...
 
-📖 [Read original article](https://github.com/VasileiosTs/agribrain)
+📖 [Read original article](https://soldat.bobbby.online/)
 
 ---
 
-## 2. Show HN: LiveHere – AI Videos, Self-Hosted Nvidia Cosmos on H200 GPUs
+## 2. Stages of AI engineering maturity: a framework for teams
 
-**Author:** manas95  
-**Published:** 6/12/2026, 10:04:03 AM  
+**Author:** fabpot  
+**Published:** 6/12/2026, 2:52:40 PM  
 **Categories:** -  
 
-there is still time to submit - https://ship.builders/build something cool, and i would love to catchup on the yacht - if you are in sf and coming..----Yacht Hackathon by Composio, Nebius, Tavily - Product DemoPitch: 30 seconds. That's all a renter gives a listing before they swipe away. LiveHere tu...
+Article URL: https://upsun.com/blog/8-stages-ai-engineering-maturity/ Comments URL: https://news.ycombinator.com/item?id=48504959 Points: 4 # Comments: 1
 
-📖 [Read original article](https://twitter.com/manassharmahere/status/2065370878519468221)
+📖 [Read original article](https://upsun.com/blog/8-stages-ai-engineering-maturity/)
 
 ---
 
-## 3. From Telehealth MVP to Production-Ready AI Product
+## 3. Slightly reducing the sloppiness of AI generated front end
 
-**Author:** shymasen  
-**Published:** 6/12/2026, 10:00:45 AM  
+**Author:** FergusArgyll  
+**Published:** 6/12/2026, 2:48:38 PM  
 **Categories:** -  
 
-Article URL: https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap Comments URL: https://news.ycombinator.com/item?id=48502034 Points: 1 # Comments: 1
+Article URL: https://envs.net/~volpe/blog/posts/reduce-slop.html Comments URL: https://news.ycombinator.com/item?id=48504912 Points: 4 # Comments: 1
 
-📖 [Read original article](https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap)
+📖 [Read original article](https://envs.net/~volpe/blog/posts/reduce-slop.html)
 
 ---
 
-## 4. Debatable: Government Stakes in AI
+## 4. Show HN: TetherDust – Self-hosted AI Analytics Engineer (open source)
 
-**Author:** thm  
-**Published:** 6/12/2026, 9:43:32 AM  
+**Author:** masterpos  
+**Published:** 6/12/2026, 2:43:27 PM  
 **Categories:** -  
 
-Article URL: https://www.semafor.com/article/06/11/2026/debatable-government-stakes-in-ai-trump-sanders Comments URL: https://news.ycombinator.com/item?id=48501937 Points: 1 # Comments: 0
+Article URL: https://github.com/mpospirit-apps/TetherDust Comments URL: https://news.ycombinator.com/item?id=48504836 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.semafor.com/article/06/11/2026/debatable-government-stakes-in-ai-trump-sanders)
+📖 [Read original article](https://github.com/mpospirit-apps/TetherDust)
 
 ---
 
-## 5. HN AI Highlights – weekly digest of the best AI posts
+## 5. Siri won't be your AI girlfriend
 
-**Author:** floydax  
-**Published:** 6/12/2026, 9:40:12 AM  
+**Author:** CharlesW  
+**Published:** 6/12/2026, 2:42:08 PM  
 **Categories:** -  
 
-Article URL: https://hn-ai-newsletter.beehiiv.com/p/last-week-s-ai-highlights-from-hn-27 Comments URL: https://news.ycombinator.com/item?id=48501920 Points: 1 # Comments: 0
+Article URL: https://sixcolors.com/link/2026/06/siri-wont-be-your-ai-girlfriend/ Comments URL: https://news.ycombinator.com/item?id=48504822 Points: 2 # Comments: 0
 
-📖 [Read original article](https://hn-ai-newsletter.beehiiv.com/p/last-week-s-ai-highlights-from-hn-27)
+📖 [Read original article](https://sixcolors.com/link/2026/06/siri-wont-be-your-ai-girlfriend/)
 
 ---
 
-## 6. Ask HN: What's one thing you wish AI did well?
+## 6. Powerful Hivemind, Disempowered Individuals: Notes of a Conflicted AI Maximalist
 
-**Author:** akashwadhwani35  
-**Published:** 6/12/2026, 9:39:33 AM  
+**Author:** eighttrigrams  
+**Published:** 6/12/2026, 2:23:23 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48501916 Points: 1 # Comments: 0
+Article URL: https://eighttrigrams.net/article/38 Comments URL: https://news.ycombinator.com/item?id=48504572 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48501916)
+📖 [Read original article](https://eighttrigrams.net/article/38)
 
 ---
 
-## 7. OVH Grp enters into exclusive negotiations to acquire Gladia, expert in voice AI
+## 7. The Bear Case for Frontier AI Labs
 
-**Author:** qwertox  
-**Published:** 6/12/2026, 9:19:02 AM  
+**Author:** tworats  
+**Published:** 6/12/2026, 2:15:54 PM  
 **Categories:** -  
 
-Article URL: https://corporate.ovhcloud.com/en/newsroom/news/ovhgroupe-gladia-exclusive-negotiations-voice-ai/ Comments URL: https://news.ycombinator.com/item?id=48501779 Points: 1 # Comments: 0
+Article URL: https://www.parand.com/the-bear-case-for-frontier-ai-labs.html Comments URL: https://news.ycombinator.com/item?id=48504435 Points: 2 # Comments: 0
 
-📖 [Read original article](https://corporate.ovhcloud.com/en/newsroom/news/ovhgroupe-gladia-exclusive-negotiations-voice-ai/)
+📖 [Read original article](https://www.parand.com/the-bear-case-for-frontier-ai-labs.html)
 
 ---
 
-## 8. Show HN: I ported 11 model families to Apple's new on-device AI framework
+## 8. AI is about to get fast, and it's never going to slow down
 
-**Author:** mlboy  
-**Published:** 6/12/2026, 9:13:27 AM  
+**Author:** Mitchem  
+**Published:** 6/12/2026, 2:09:46 PM  
 **Categories:** -  
 
-Article URL: https://github.com/john-rocky/coreai-model-zoo Comments URL: https://news.ycombinator.com/item?id=48501723 Points: 2 # Comments: 1
+Article URL: https://medium.com/@NMitchem/ai-is-about-to-get-fast-and-its-never-going-to-slow-down-78e13e794375 Comments URL: https://news.ycombinator.com/item?id=48504325 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/john-rocky/coreai-model-zoo)
+📖 [Read original article](https://medium.com/@NMitchem/ai-is-about-to-get-fast-and-its-never-going-to-slow-down-78e13e794375)
 
 ---
 
-## 9. Show HN: LinkedIn Unfiltered – Turn AI slop into readable posts
+## 9. Bio input based, instead of vision based, physical AI for industrial bio
 
-**Author:** thunderdrag  
-**Published:** 6/12/2026, 9:13:19 AM  
+**Author:** digvijay0401  
+**Published:** 6/12/2026, 2:09:16 PM  
 **Categories:** -  
 
-I have also written a blog post about building it.https://www.kjhq.dev/blog/creating-linkedin-unfiltered Comments URL: https://news.ycombinator.com/item?id=48501720 Points: 1 # Comments: 0
+Article URL: https://diggest.substack.com/p/creating-a-benchmark-for-physical Comments URL: https://news.ycombinator.com/item?id=48504314 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/kjhq/linkedin-unfiltered)
+📖 [Read original article](https://diggest.substack.com/p/creating-a-benchmark-for-physical)
 
 ---
 
-## 10. We Cut Onboarding Time by 40% Using AI – Here's What We Did (Week 5 Roun
+## 10. Nvidia Is Developing an AI Healthcare Model with Startup Abridge
 
-**Author:** talvardi7  
-**Published:** 6/12/2026, 9:01:04 AM  
+**Author:** bookofjoe  
+**Published:** 6/12/2026, 1:58:12 PM  
 **Categories:** -  
 
-Article URL: https://theaileverageweekly.com/posts/we-cut-onboarding-time-by-40-using-ai-here-s-exactly-what-we-did-week.html Comments URL: https://news.ycombinator.com/item?id=48501653 Points: 2 # Comments: 0
+Article URL: https://www.wsj.com/cio-journal/nvidia-is-developing-an-ai-healthcare-model-with-startup-abridge-6db38c1b Comments URL: https://news.ycombinator.com/item?id=48504149 Points: 1 # Comments: 1
 
-📖 [Read original article](https://theaileverageweekly.com/posts/we-cut-onboarding-time-by-40-using-ai-here-s-exactly-what-we-did-week.html)
+📖 [Read original article](https://www.wsj.com/cio-journal/nvidia-is-developing-an-ai-healthcare-model-with-startup-abridge-6db38c1b)
 
 ---
 
-## 11. AI Engineering the Acceleration Whiplash
+## 11. Show HN: Memoriq – Private AI Memory for ChatGPT, Claude, Gemini and Grok
 
-**Author:** DareTheDev  
-**Published:** 6/12/2026, 8:36:26 AM  
+**Author:** giekaton  
+**Published:** 6/12/2026, 1:51:26 PM  
 **Categories:** -  
 
-Article URL: https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways Comments URL: https://news.ycombinator.com/item?id=48501483 Points: 2 # Comments: 0
+Article URL: https://memoriq.me/ Comments URL: https://news.ycombinator.com/item?id=48504064 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways)
+📖 [Read original article](https://memoriq.me/)
 
 ---
 
-## 12. KPMG report on benefits of AI contained AI hallucinations
+## 12. Bernie Sanders' AI Sovereign Wealth Fund Plan
 
-**Author:** calcifer  
-**Published:** 6/12/2026, 8:16:11 AM  
+**Author:** speckx  
+**Published:** 6/12/2026, 1:46:37 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f Comments URL: https://news.ycombinator.com/item?id=48501330 Points: 2 # Comments: 1
+Article URL: https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html Comments URL: https://news.ycombinator.com/item?id=48504004 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f)
+📖 [Read original article](https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html)
 
 ---
 
-## 13. When the Watcher Became the Confidant – How AI Befriends and Infers Our Children
+## 13. Trajeckt: a fail-closed gateway that enforces what AI agents can do (~1.6ms)
 
-**Author:** BlinkyPT  
-**Published:** 6/12/2026, 7:58:24 AM  
+**Author:** Bhuwan28  
+**Published:** 6/12/2026, 1:39:49 PM  
 **Categories:** -  
 
-Article URL: https://jorgepereiracampos.substack.com/p/when-the-watcher-became-the-confidant Comments URL: https://news.ycombinator.com/item?id=48501187 Points: 1 # Comments: 0
+Article URL: https://traject.tamor.ai/ Comments URL: https://news.ycombinator.com/item?id=48503930 Points: 1 # Comments: 0
 
-📖 [Read original article](https://jorgepereiracampos.substack.com/p/when-the-watcher-became-the-confidant)
+📖 [Read original article](https://traject.tamor.ai/)
 
 ---
 
-## 14. Pokémon Go data trained AI that could assist military drones in war zones
+## 14. Guardian Runtime – Local firewall for AI coding agents and runaway costs
 
-**Author:** beardyw  
-**Published:** 6/12/2026, 7:57:39 AM  
+**Author:** Prajwal_Hage  
+**Published:** 6/12/2026, 1:37:13 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones Comments URL: https://news.ycombinator.com/item?id=48501179 Points: 2 # Comments: 0
+Article URL: https://pypi.org/project/guardian-runtime/ Comments URL: https://news.ycombinator.com/item?id=48503911 Points: 6 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones)
+📖 [Read original article](https://pypi.org/project/guardian-runtime/)
 
 ---
 
-## 15. Europe 2031 – What getting AI wrong means for us
+## 15. Show HN: RedNotebook AI open-source AI data notebook for Trino, +12 SQL engines
 
-**Author:** sarusso  
-**Published:** 6/12/2026, 7:57:05 AM  
+**Author:** heruwala  
+**Published:** 6/12/2026, 1:34:14 PM  
 **Categories:** -  
 
-Article URL: https://europe2031.ai/ Comments URL: https://news.ycombinator.com/item?id=48501175 Points: 3 # Comments: 0
+Article URL: https://github.com/sanniheruwala/RedNotebookAI/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=48503888 Points: 1 # Comments: 0
 
-📖 [Read original article](https://europe2031.ai/)
+📖 [Read original article](https://github.com/sanniheruwala/RedNotebookAI/blob/main/README.md)
 
 ---
 
-## 16. India's workers are training AI robots to take their jobs
+## 16. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering
 
-**Author:** rustoo  
-**Published:** 6/12/2026, 7:43:25 AM  
+**Author:** sambcui  
+**Published:** 6/12/2026, 1:30:00 PM  
 **Categories:** -  
 
-Article URL: https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs Comments URL: https://news.ycombinator.com/item?id=48501078 Points: 2 # Comments: 2
+Article URL: https://developer.microsoft.com/blog/spec-driven-development-ai-native-engineering Comments URL: https://news.ycombinator.com/item?id=48503856 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs)
+📖 [Read original article](https://developer.microsoft.com/blog/spec-driven-development-ai-native-engineering)
 
 ---
 
-## 17. Deezer's new tool can identify AI music from Spotify, Apple Music, and others
+## 17. Death by a Thousand Cuts: the AI database failures that clear every gate
 
-**Author:** JeanKage  
-**Published:** 6/12/2026, 7:42:16 AM  
+**Author:** rtolkachev  
+**Published:** 6/12/2026, 1:25:08 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/ Comments URL: https://news.ycombinator.com/item?id=48501067 Points: 1 # Comments: 0
+Article URL: https://explainanalyze.com/p/death-by-a-thousand-cuts-the-ai-database-failure-you-cant-restore/ Comments URL: https://news.ycombinator.com/item?id=48503817 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/)
+📖 [Read original article](https://explainanalyze.com/p/death-by-a-thousand-cuts-the-ai-database-failure-you-cant-restore/)
 
 ---
 
-## 18. The Jqwik Anti-AI Affair
+## 18. Smart Thinking in the Age of AI
 
-**Author:** birdculture  
-**Published:** 6/12/2026, 7:41:51 AM  
+**Author:** speckx  
+**Published:** 6/12/2026, 1:19:05 PM  
 **Categories:** -  
 
-Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48501063 Points: 2 # Comments: 0
+Article URL: https://flowchainsensei.wordpress.com/2026/06/10/smart-thinking-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48503760 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)
+📖 [Read original article](https://flowchainsensei.wordpress.com/2026/06/10/smart-thinking-in-the-age-of-ai/)
 
 ---
 
-## 19. The Indian workers training AI robots to take their jobs
+## 19. Ramp Applied AI Solutions
 
-**Author:** TrackerFF  
-**Published:** 6/12/2026, 7:11:12 AM  
+**Author:** gmays  
+**Published:** 6/12/2026, 12:52:39 PM  
 **Categories:** -  
 
-Article URL: https://today.rtl.lu/news/world/the-indian-workers-training-ai-robots-to-take-their-jobs-459004114 Comments URL: https://news.ycombinator.com/item?id=48500825 Points: 1 # Comments: 0
+Article URL: https://ramp.com/blog/introducing-ramp-applied-ai-solutions Comments URL: https://news.ycombinator.com/item?id=48503507 Points: 3 # Comments: 0
 
-📖 [Read original article](https://today.rtl.lu/news/world/the-indian-workers-training-ai-robots-to-take-their-jobs-459004114)
+📖 [Read original article](https://ramp.com/blog/introducing-ramp-applied-ai-solutions)
 
 ---
 
-## 20. Show HN: Co-Authored-By Is a Lie: Cryptographic Provenance for AI Coding Agents
+## 20. The Future of Work and AI
 
-**Author:** rduffyuk  
-**Published:** 6/12/2026, 7:06:53 AM  
+**Author:** RickJWagner  
+**Published:** 6/12/2026, 12:46:47 PM  
 **Categories:** -  
 
-Article URL: https://blog.rduffy.uk/posts/co-authored-by-is-a-lie/ Comments URL: https://news.ycombinator.com/item?id=48500802 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9 Comments URL: https://news.ycombinator.com/item?id=48503443 Points: 4 # Comments: 0
 
-📖 [Read original article](https://blog.rduffy.uk/posts/co-authored-by-is-a-lie/)
+📖 [Read original article](https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9)
 
 ---
