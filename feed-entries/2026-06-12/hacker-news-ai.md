@@ -2,179 +2,251 @@
 title: "Hacker News AI - 2026-06-12"
 date: "2026-06-12"
 source: "Hacker News AI"
-count: 14
+count: 20
 ---
 
 # Hacker News AI - 2026-06-12
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. Engineers aren't afraid of AI – they're afraid of becoming junior again
+## 1. Agribrain / ag-int/nce for AI agents (weather, ET₀, GDD, spray windows, soil)
 
-**Author:** mopoke  
-**Published:** 6/12/2026, 3:28:23 AM  
+**Author:** vasileiosts  
+**Published:** 6/12/2026, 10:04:38 AM  
 **Categories:** -  
 
-Article URL: https://www.andykelk.net/leadership/your-engineers-arent-afraid-of-ai-theyre-afraid-of-being-junior-again/ Comments URL: https://news.ycombinator.com/item?id=48499585 Points: 3 # Comments: 0
+Article URL: https://github.com/VasileiosTs/agribrain Comments URL: https://news.ycombinator.com/item?id=48502078 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.andykelk.net/leadership/your-engineers-arent-afraid-of-ai-theyre-afraid-of-being-junior-again/)
+📖 [Read original article](https://github.com/VasileiosTs/agribrain)
 
 ---
 
-## 2. Show HN: MandoCode – local-first AI coding agent (.NET and Ollama)
+## 2. Show HN: LiveHere – AI Videos, Self-Hosted Nvidia Cosmos on H200 GPUs
 
-**Author:** devmando  
-**Published:** 6/12/2026, 3:22:10 AM  
+**Author:** manas95  
+**Published:** 6/12/2026, 10:04:03 AM  
 **Categories:** -  
 
-I built MandoCode, an open source CLI coding agent in .NET that runs against local Ollama models. No API keys, nothing leaves your machine (Ollama cloud models work too if you want them). It reads, edits, searches, plans, and browses the web across your codebase, and it supports MCP and Skills.Insta...
+there is still time to submit - https://ship.builders/build something cool, and i would love to catchup on the yacht - if you are in sf and coming..----Yacht Hackathon by Composio, Nebius, Tavily - Product DemoPitch: 30 seconds. That's all a renter gives a listing before they swipe away. LiveHere tu...
 
-📖 [Read original article](https://github.com/DevMando/MandoCode)
+📖 [Read original article](https://twitter.com/manassharmahere/status/2065370878519468221)
 
 ---
 
-## 3. Fylun.ai – All-in-one AI workspace (chat, notes, apps, automation, search)
+## 3. From Telehealth MVP to Production-Ready AI Product
 
-**Author:** im-tyler  
-**Published:** 6/12/2026, 2:59:45 AM  
+**Author:** shymasen  
+**Published:** 6/12/2026, 10:00:45 AM  
 **Categories:** -  
 
-Article URL: https://fylun.ai Comments URL: https://news.ycombinator.com/item?id=48499360 Points: 1 # Comments: 0
+Article URL: https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap Comments URL: https://news.ycombinator.com/item?id=48502034 Points: 1 # Comments: 1
 
-📖 [Read original article](https://fylun.ai)
+📖 [Read original article](https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap)
 
 ---
 
-## 4. Ex-Andreessen Horowitz partner: old firm, VCs 'political infiltration' on AI
+## 4. Debatable: Government Stakes in AI
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/12/2026, 2:53:21 AM  
+**Author:** thm  
+**Published:** 6/12/2026, 9:43:32 AM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/06/11/ex-a16z-partner-slams-old-firm-othes-political-infiltration-in-ai.html Comments URL: https://news.ycombinator.com/item?id=48499308 Points: 4 # Comments: 0
+Article URL: https://www.semafor.com/article/06/11/2026/debatable-government-stakes-in-ai-trump-sanders Comments URL: https://news.ycombinator.com/item?id=48501937 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/06/11/ex-a16z-partner-slams-old-firm-othes-political-infiltration-in-ai.html)
+📖 [Read original article](https://www.semafor.com/article/06/11/2026/debatable-government-stakes-in-ai-trump-sanders)
 
 ---
 
-## 5. LLM podcast addressing AI genocide of humanity
+## 5. HN AI Highlights – weekly digest of the best AI posts
 
-**Author:** maliapu  
-**Published:** 6/12/2026, 2:50:16 AM  
+**Author:** floydax  
+**Published:** 6/12/2026, 9:40:12 AM  
 **Categories:** -  
 
-Article URL: https://MachineDeposition.com Comments URL: https://news.ycombinator.com/item?id=48499288 Points: 1 # Comments: 1
+Article URL: https://hn-ai-newsletter.beehiiv.com/p/last-week-s-ai-highlights-from-hn-27 Comments URL: https://news.ycombinator.com/item?id=48501920 Points: 1 # Comments: 0
 
-📖 [Read original article](https://MachineDeposition.com)
+📖 [Read original article](https://hn-ai-newsletter.beehiiv.com/p/last-week-s-ai-highlights-from-hn-27)
 
 ---
 
-## 6. AI isn't making developers more productive – it's making them busier
+## 6. Ask HN: What's one thing you wish AI did well?
 
-**Author:** nreece  
-**Published:** 6/12/2026, 2:48:15 AM  
+**Author:** akashwadhwani35  
+**Published:** 6/12/2026, 9:39:33 AM  
 **Categories:** -  
 
-Article URL: https://leaddev.com/ai/ai-isnt-making-developers-more-productive-its-making-them-busier Comments URL: https://news.ycombinator.com/item?id=48499272 Points: 4 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=48501916 Points: 1 # Comments: 0
 
-📖 [Read original article](https://leaddev.com/ai/ai-isnt-making-developers-more-productive-its-making-them-busier)
+📖 [Read original article](https://news.ycombinator.com/item?id=48501916)
 
 ---
 
-## 7. Show HN: Approve an AI agent's wire with Face ID,then watch a forged one fail
+## 7. OVH Grp enters into exclusive negotiations to acquire Gladia, expert in voice AI
 
-**Author:** EmiliaStar  
-**Published:** 6/12/2026, 2:02:01 AM  
+**Author:** qwertox  
+**Published:** 6/12/2026, 9:19:02 AM  
 **Categories:** -  
 
-Article URL: https://www.emiliaprotocol.ai/try Comments URL: https://news.ycombinator.com/item?id=48498958 Points: 2 # Comments: 0
+Article URL: https://corporate.ovhcloud.com/en/newsroom/news/ovhgroupe-gladia-exclusive-negotiations-voice-ai/ Comments URL: https://news.ycombinator.com/item?id=48501779 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.emiliaprotocol.ai/try)
+📖 [Read original article](https://corporate.ovhcloud.com/en/newsroom/news/ovhgroupe-gladia-exclusive-negotiations-voice-ai/)
 
 ---
 
-## 8. Built SwiPR – swipe-to-review GitHub PRs with AI context
+## 8. Show HN: I ported 11 model families to Apple's new on-device AI framework
 
-**Author:** nochinxx  
-**Published:** 6/12/2026, 1:49:26 AM  
+**Author:** mlboy  
+**Published:** 6/12/2026, 9:13:27 AM  
 **Categories:** -  
 
-Article URL: https://github.com/nochinxx/SwiPR Comments URL: https://news.ycombinator.com/item?id=48498866 Points: 1 # Comments: 0
+Article URL: https://github.com/john-rocky/coreai-model-zoo Comments URL: https://news.ycombinator.com/item?id=48501723 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/nochinxx/SwiPR)
+📖 [Read original article](https://github.com/john-rocky/coreai-model-zoo)
 
 ---
 
-## 9. The Nerdy Escorts Cashing in on Silicon Valley's AI Boom
+## 9. Show HN: LinkedIn Unfiltered – Turn AI slop into readable posts
 
-**Author:** Anon84  
-**Published:** 6/12/2026, 1:49:07 AM  
+**Author:** thunderdrag  
+**Published:** 6/12/2026, 9:13:19 AM  
 **Categories:** -  
 
-Article URL: https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/ Comments URL: https://news.ycombinator.com/item?id=48498863 Points: 6 # Comments: 1
+I have also written a blog post about building it.https://www.kjhq.dev/blog/creating-linkedin-unfiltered Comments URL: https://news.ycombinator.com/item?id=48501720 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/)
+📖 [Read original article](https://github.com/kjhq/linkedin-unfiltered)
 
 ---
 
-## 10. Copyright – Right Answer for Open Source Code, Wrong Answer for Open Source AI?
+## 10. We Cut Onboarding Time by 40% Using AI – Here's What We Did (Week 5 Roun
 
-**Author:** totetsu  
-**Published:** 6/12/2026, 1:41:27 AM  
+**Author:** talvardi7  
+**Published:** 6/12/2026, 9:01:04 AM  
 **Categories:** -  
 
-Article URL: https://opensource.org/ai/webinars/copyright-right-answer-for-open-source-code-wrong-answer-for-open-source-ai Comments URL: https://news.ycombinator.com/item?id=48498806 Points: 1 # Comments: 0
+Article URL: https://theaileverageweekly.com/posts/we-cut-onboarding-time-by-40-using-ai-here-s-exactly-what-we-did-week.html Comments URL: https://news.ycombinator.com/item?id=48501653 Points: 2 # Comments: 0
 
-📖 [Read original article](https://opensource.org/ai/webinars/copyright-right-answer-for-open-source-code-wrong-answer-for-open-source-ai)
+📖 [Read original article](https://theaileverageweekly.com/posts/we-cut-onboarding-time-by-40-using-ai-here-s-exactly-what-we-did-week.html)
 
 ---
 
-## 11. Dealership revoked offer to buy back customer's BMW, blaming wayward AI chatbot
+## 11. AI Engineering the Acceleration Whiplash
 
-**Author:** pseudolus  
-**Published:** 6/12/2026, 1:37:05 AM  
+**Author:** DareTheDev  
+**Published:** 6/12/2026, 8:36:26 AM  
 **Categories:** -  
 
-Article URL: https://www.cbc.ca/news/business/ai-chatbot-bmw-dealership-9.7230226 Comments URL: https://news.ycombinator.com/item?id=48498778 Points: 6 # Comments: 0
+Article URL: https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways Comments URL: https://news.ycombinator.com/item?id=48501483 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cbc.ca/news/business/ai-chatbot-bmw-dealership-9.7230226)
+📖 [Read original article](https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways)
 
 ---
 
-## 12. Ask HN: What computer are you using for AI coding tools?
+## 12. KPMG report on benefits of AI contained AI hallucinations
 
-**Author:** willsmith72  
-**Published:** 6/12/2026, 1:35:21 AM  
+**Author:** calcifer  
+**Published:** 6/12/2026, 8:16:11 AM  
 **Categories:** -  
 
-I'm a heavy user of Claude code, had an M3 pro with 18gb ram for a few years. Until a few months ago it was always a beast.Now I'm spinning up more Claude code sessions (5-10), each with often 1-3 subagents going, as well as using chrome with playwright of claude-in-chrome for debugging/QA/styling.T...
+Article URL: https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f Comments URL: https://news.ycombinator.com/item?id=48501330 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48498766)
+📖 [Read original article](https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f)
 
 ---
 
-## 13. AI Cannot Desire
+## 13. When the Watcher Became the Confidant – How AI Befriends and Infers Our Children
 
-**Author:** ctw  
-**Published:** 6/12/2026, 1:19:23 AM  
+**Author:** BlinkyPT  
+**Published:** 6/12/2026, 7:58:24 AM  
 **Categories:** -  
 
-Article URL: https://www.troywolters.com/blog/ai-cannot-desire.html Comments URL: https://news.ycombinator.com/item?id=48498646 Points: 1 # Comments: 0
+Article URL: https://jorgepereiracampos.substack.com/p/when-the-watcher-became-the-confidant Comments URL: https://news.ycombinator.com/item?id=48501187 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.troywolters.com/blog/ai-cannot-desire.html)
+📖 [Read original article](https://jorgepereiracampos.substack.com/p/when-the-watcher-became-the-confidant)
 
 ---
 
-## 14. Show HN: AI Verdict – Run ChatGPT, Claude, Gemini and Perplexity Side-by-Side
+## 14. Pokémon Go data trained AI that could assist military drones in war zones
 
-**Author:** aiverdict  
-**Published:** 6/12/2026, 1:05:16 AM  
+**Author:** beardyw  
+**Published:** 6/12/2026, 7:57:39 AM  
 **Categories:** -  
 
-Article URL: https://aiverdict.github.io/ Comments URL: https://news.ycombinator.com/item?id=48498560 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones Comments URL: https://news.ycombinator.com/item?id=48501179 Points: 2 # Comments: 0
 
-📖 [Read original article](https://aiverdict.github.io/)
+📖 [Read original article](https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones)
+
+---
+
+## 15. Europe 2031 – What getting AI wrong means for us
+
+**Author:** sarusso  
+**Published:** 6/12/2026, 7:57:05 AM  
+**Categories:** -  
+
+Article URL: https://europe2031.ai/ Comments URL: https://news.ycombinator.com/item?id=48501175 Points: 3 # Comments: 0
+
+📖 [Read original article](https://europe2031.ai/)
+
+---
+
+## 16. India's workers are training AI robots to take their jobs
+
+**Author:** rustoo  
+**Published:** 6/12/2026, 7:43:25 AM  
+**Categories:** -  
+
+Article URL: https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs Comments URL: https://news.ycombinator.com/item?id=48501078 Points: 2 # Comments: 2
+
+📖 [Read original article](https://www.aljazeera.com/gallery/2026/6/11/photos-indias-workers-are-training-ai-robots-to-take-their-jobs)
+
+---
+
+## 17. Deezer's new tool can identify AI music from Spotify, Apple Music, and others
+
+**Author:** JeanKage  
+**Published:** 6/12/2026, 7:42:16 AM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/ Comments URL: https://news.ycombinator.com/item?id=48501067 Points: 1 # Comments: 0
+
+📖 [Read original article](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/)
+
+---
+
+## 18. The Jqwik Anti-AI Affair
+
+**Author:** birdculture  
+**Published:** 6/12/2026, 7:41:51 AM  
+**Categories:** -  
+
+Article URL: https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/ Comments URL: https://news.ycombinator.com/item?id=48501063 Points: 2 # Comments: 0
+
+📖 [Read original article](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)
+
+---
+
+## 19. The Indian workers training AI robots to take their jobs
+
+**Author:** TrackerFF  
+**Published:** 6/12/2026, 7:11:12 AM  
+**Categories:** -  
+
+Article URL: https://today.rtl.lu/news/world/the-indian-workers-training-ai-robots-to-take-their-jobs-459004114 Comments URL: https://news.ycombinator.com/item?id=48500825 Points: 1 # Comments: 0
+
+📖 [Read original article](https://today.rtl.lu/news/world/the-indian-workers-training-ai-robots-to-take-their-jobs-459004114)
+
+---
+
+## 20. Show HN: Co-Authored-By Is a Lie: Cryptographic Provenance for AI Coding Agents
+
+**Author:** rduffyuk  
+**Published:** 6/12/2026, 7:06:53 AM  
+**Categories:** -  
+
+Article URL: https://blog.rduffy.uk/posts/co-authored-by-is-a-lie/ Comments URL: https://news.ycombinator.com/item?id=48500802 Points: 1 # Comments: 0
+
+📖 [Read original article](https://blog.rduffy.uk/posts/co-authored-by-is-a-lie/)
 
 ---
