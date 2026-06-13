@@ -2,167 +2,251 @@
 title: "Hacker News AI - 2026-06-13"
 date: "2026-06-13"
 source: "Hacker News AI"
-count: 13
+count: 20
 ---
 
 # Hacker News AI - 2026-06-13
 
-13 items collected.
+20 items collected.
 
 ---
 
-## 1. CipherNode – An offline, self-correcting AI swarm compiled to a single .exe
+## 1. World Cup AI predictor now lets users ask daft what-ifs
 
-**Author:** CipherNode  
-**Published:** 6/13/2026, 2:52:37 AM  
+**Author:** kagaherk  
+**Published:** 6/13/2026, 1:59:29 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48512309 Points: 1 # Comments: 0
+Article URL: https://www.theregister.com/offbeat/2026/06/13/world-cup-ai-predictor-now-lets-users-ask-daft-what-ifs/5254853 Comments URL: https://news.ycombinator.com/item?id=48517421 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48512309)
+📖 [Read original article](https://www.theregister.com/offbeat/2026/06/13/world-cup-ai-predictor-now-lets-users-ask-daft-what-ifs/5254853)
 
 ---
 
-## 2. China cracks down on Western AI models while US companies flock to DeepSeek
+## 2. Google sues alleged Chinese cybercrime operation over AI-generated scam texts
 
-**Author:** giuliomagnifico  
-**Published:** 6/13/2026, 2:51:39 AM  
+**Author:** adam_rida  
+**Published:** 6/13/2026, 1:59:03 PM  
 **Categories:** -  
 
-Article URL: https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek Comments URL: https://news.ycombinator.com/item?id=48512298 Points: 4 # Comments: 0
+Article URL: https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/ Comments URL: https://news.ycombinator.com/item?id=48517417 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek)
+📖 [Read original article](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/)
 
 ---
 
-## 3. Open source AI must win
+## 3. Show HN: Wmux – a native Windows terminal multiplexer for AI agents
 
-**Author:** vednig  
-**Published:** 6/13/2026, 2:14:24 AM  
+**Author:** wong2kim  
+**Published:** 6/13/2026, 1:46:19 PM  
 **Categories:** -  
 
-Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 332 # Comments: 85
+Article URL: https://github.com/openwong2kim/wmux Comments URL: https://news.ycombinator.com/item?id=48517302 Points: 1 # Comments: 0
 
-📖 [Read original article](https://opensourceaimustwin.com/?share=v2)
+📖 [Read original article](https://github.com/openwong2kim/wmux)
 
 ---
 
-## 4. Hasta Pronto – An AI Farewell Letter and Interactive Memorial – Claude
+## 4. AI Breaks the Monopoly of Elegant Software
 
-**Author:** corvad  
-**Published:** 6/13/2026, 2:09:54 AM  
+**Author:** fforflo  
+**Published:** 6/13/2026, 1:42:50 PM  
 **Categories:** -  
 
-Article URL: https://claude.ai/public/artifacts/fcf36cd3-85f4-49f4-8ef1-5b767ff8ec55 Comments URL: https://news.ycombinator.com/item?id=48511857 Points: 4 # Comments: 0
+Article URL: https://tselai.com/ai-elegant-software-monopoly Comments URL: https://news.ycombinator.com/item?id=48517272 Points: 2 # Comments: 0
 
-📖 [Read original article](https://claude.ai/public/artifacts/fcf36cd3-85f4-49f4-8ef1-5b767ff8ec55)
+📖 [Read original article](https://tselai.com/ai-elegant-software-monopoly)
 
 ---
 
-## 5. Tell HN: I'm making 1K USD per hour with AI
+## 5. Has AI Killed How-To Nonfiction?
 
-**Author:** anongoogleuser  
-**Published:** 6/13/2026, 2:07:04 AM  
+**Author:** Michelangelo11  
+**Published:** 6/13/2026, 1:31:18 PM  
 **Categories:** -  
 
-Former front-end web developer/vibe coder here. I've started using AI tools to streamline my workflow. I'm now able to create marketing websites in under 2 hours and charge $1k-$2k per site. My hourly earnings have increased to around $1k USD. Thought I'd share my experience with the community. AMA....
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48511828)
-
----
-
-## 6. Samsung may make the next Google AI chip
-
-**Author:** joseph3553  
-**Published:** 6/13/2026, 2:02:22 AM  
-**Categories:** -  
-
-Article URL: https://www.koreaherald.com/article/10770505 Comments URL: https://news.ycombinator.com/item?id=48511778 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.koreaherald.com/article/10770505)
-
----
-
-## 7. Meta's months-old AI unit is a soul-crushing gulag
-
-**Author:** 0xedb  
-**Published:** 6/13/2026, 1:51:24 AM  
-**Categories:** -  
-
-Article URL: https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/ Comments URL: https://news.ycombinator.com/item?id=48511657 Points: 4 # Comments: 0
-
-📖 [Read original article](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/)
-
----
-
-## 8. SentinelMCP – An open-source firewall for AI agents that use MCP
-
-**Author:** technsoive  
-**Published:** 6/13/2026, 1:51:11 AM  
-**Categories:** -  
-
-Article URL: https://github.com/technosiveuk-ui/SentinelMCP Comments URL: https://news.ycombinator.com/item?id=48511652 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/technosiveuk-ui/SentinelMCP)
-
----
-
-## 9. Show HN: AccInt – a Work Model for AI coding agents
-
-**Author:** maxbaluev  
-**Published:** 6/13/2026, 1:25:10 AM  
-**Categories:** -  
-
-Article URL: https://accint.xyz/ Comments URL: https://news.ycombinator.com/item?id=48511393 Points: 2 # Comments: 0
-
-📖 [Read original article](https://accint.xyz/)
-
----
-
-## 10. Has AI Killed How-To Nonfiction?
-
-**Author:** igonvalue  
-**Published:** 6/13/2026, 1:14:13 AM  
-**Categories:** -  
-
-Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48511278 Points: 3 # Comments: 0
+Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48517169 Points: 2 # Comments: 0
 
 📖 [Read original article](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/)
 
 ---
 
-## 11. How to prepare for interview in the new AI era
+## 6. Making our AI coding agent the only way we build our product
 
-**Author:** amnito  
-**Published:** 6/13/2026, 12:35:50 AM  
+**Author:** nurdtechie98  
+**Published:** 6/13/2026, 1:30:29 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@amney.mounir/data-analyst-interviews-are-changing-with-ai-and-you-better-be-ready-6dc46e8172c4 Comments URL: https://news.ycombinator.com/item?id=48511002 Points: 2 # Comments: 2
+Article URL: https://anyframe.dev/blog/we-hired-an-intern-named-gilfoyle Comments URL: https://news.ycombinator.com/item?id=48517164 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@amney.mounir/data-analyst-interviews-are-changing-with-ai-and-you-better-be-ready-6dc46e8172c4)
+📖 [Read original article](https://anyframe.dev/blog/we-hired-an-intern-named-gilfoyle)
 
 ---
 
-## 12. The social consequences of AI delegation
+## 7. AI can control your Desktop
 
-**Author:** Anon84  
-**Published:** 6/13/2026, 12:35:40 AM  
+**Author:** AmDab  
+**Published:** 6/13/2026, 1:21:35 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2606.11058 Comments URL: https://news.ycombinator.com/item?id=48510999 Points: 2 # Comments: 0
+Article URL: https://clawdcursor.com Comments URL: https://news.ycombinator.com/item?id=48517079 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2606.11058)
+📖 [Read original article](https://clawdcursor.com)
 
 ---
 
-## 13. Oracle and the AI Boom's Hidden Debt Bomb
+## 8. Why do we need AI in project management software
 
-**Author:** PessimalDecimal  
-**Published:** 6/13/2026, 12:33:17 AM  
+**Author:** lb_john  
+**Published:** 6/13/2026, 12:34:26 PM  
 **Categories:** -  
 
-Article URL: https://www.inc.com/fast-company-2/oracle-ai-boom-hidden-debt-nvidia-jensen-huang/91357055 Comments URL: https://news.ycombinator.com/item?id=48510983 Points: 5 # Comments: 0
+Article URL: https://evergantt.com/blog/2026-ai-doesnt-need-to-be-in-everything/ Comments URL: https://news.ycombinator.com/item?id=48516669 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.inc.com/fast-company-2/oracle-ai-boom-hidden-debt-nvidia-jensen-huang/91357055)
+📖 [Read original article](https://evergantt.com/blog/2026-ai-doesnt-need-to-be-in-everything/)
+
+---
+
+## 9. Thoughts on AI and Jobs
+
+**Author:** k1m  
+**Published:** 6/13/2026, 12:21:18 PM  
+**Categories:** -  
+
+Article URL: https://blog.keyvan.net/p/thoughts-on-ai-and-jobs Comments URL: https://news.ycombinator.com/item?id=48516585 Points: 12 # Comments: 31
+
+📖 [Read original article](https://blog.keyvan.net/p/thoughts-on-ai-and-jobs)
+
+---
+
+## 10. DOE wants to build a single national platform for doing science with AI
+
+**Author:** pseudolus  
+**Published:** 6/13/2026, 12:18:19 PM  
+**Categories:** -  
+
+Article URL: https://cacm.acm.org/news/from-manhattan-to-genesis/ Comments URL: https://news.ycombinator.com/item?id=48516562 Points: 2 # Comments: 0
+
+📖 [Read original article](https://cacm.acm.org/news/from-manhattan-to-genesis/)
+
+---
+
+## 11. Yann LeCun: World Models: Enabling the Next AI Revolution
+
+**Author:** root-parent  
+**Published:** 6/13/2026, 12:14:03 PM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=72Xj8k5WQX4 Comments URL: https://news.ycombinator.com/item?id=48516530 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=72Xj8k5WQX4)
+
+---
+
+## 12. AI OSS tool repo goes archived over night after raising $7.3M Seed
+
+**Author:** hek2sch  
+**Published:** 6/13/2026, 12:10:47 PM  
+**Categories:** -  
+
+Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 53 # Comments: 24
+
+📖 [Read original article](https://github.com/tensorzero/tensorzero)
+
+---
+
+## 13. Cerebras chips rival Nvidia GPUs for AI [video]
+
+**Author:** binyu  
+**Published:** 6/13/2026, 12:01:16 PM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=qC_lCFTOJU0 Comments URL: https://news.ycombinator.com/item?id=48516437 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=qC_lCFTOJU0)
+
+---
+
+## 14. EU budget 2027 €200B: 75B for \"cohesion, resilience, and values\", €2.5B for AI
+
+**Author:** alecco  
+**Published:** 6/13/2026, 11:33:35 AM  
+**Categories:** -  
+
+Article URL: https://twitter.com/EU_Commission/status/2064733839272899056 Comments URL: https://news.ycombinator.com/item?id=48516191 Points: 3 # Comments: 2
+
+📖 [Read original article](https://twitter.com/EU_Commission/status/2064733839272899056)
+
+---
+
+## 15. To Thrive Alongside AI, Focus on Mindset – Not Skillset
+
+**Author:** vismit2000  
+**Published:** 6/13/2026, 11:17:11 AM  
+**Categories:** -  
+
+Article URL: https://hbr.org/2026/06/to-thrive-alongside-ai-focus-on-mindset-not-skillset Comments URL: https://news.ycombinator.com/item?id=48516079 Points: 1 # Comments: 0
+
+📖 [Read original article](https://hbr.org/2026/06/to-thrive-alongside-ai-focus-on-mindset-not-skillset)
+
+---
+
+## 16. Instrumental Convergence in AI Safety: Complete 2026 Guide
+
+**Author:** cyrc  
+**Published:** 6/13/2026, 11:10:20 AM  
+**Categories:** -  
+
+Article URL: https://aisecurityandsafety.org/en/guides/instrumental-convergence-guide/ Comments URL: https://news.ycombinator.com/item?id=48516025 Points: 1 # Comments: 0
+
+📖 [Read original article](https://aisecurityandsafety.org/en/guides/instrumental-convergence-guide/)
+
+---
+
+## 17. Equiv, check that an AI refactor did not change what your code does
+
+**Author:** Srinathprasanna  
+**Published:** 6/13/2026, 10:46:39 AM  
+**Categories:** -  
+
+Article URL: https://github.com/Neelagiri65/equiv Comments URL: https://news.ycombinator.com/item?id=48515830 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/Neelagiri65/equiv)
+
+---
+
+## 18. European Sovereign AI. Breakthrough Performance
+
+**Author:** doener  
+**Published:** 6/13/2026, 10:38:16 AM  
+**Categories:** -  
+
+Article URL: https://infercom.ai/ Comments URL: https://news.ycombinator.com/item?id=48515773 Points: 2 # Comments: 4
+
+📖 [Read original article](https://infercom.ai/)
+
+---
+
+## 19. KPMG's AI report turns into a demo of AI hallucinations
+
+**Author:** dijksterhuis  
+**Published:** 6/13/2026, 10:32:38 AM  
+**Categories:** -  
+
+Article URL: https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029 Comments URL: https://news.ycombinator.com/item?id=48515733 Points: 13 # Comments: 5
+
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029)
+
+---
+
+## 20. Zuckerberg says Meta made 'mistakes' in AI workforce shift
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 6/13/2026, 9:57:32 AM  
+**Categories:** -  
+
+Article URL: https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/ Comments URL: https://news.ycombinator.com/item?id=48515474 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/)
 
 ---
