@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-13"
 date: "2026-06-13"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-06-13
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order
+## 1. How to Build a QwenPaw Agent Workspace with Custom Skills, Model Providers, Console Access, and Streaming API Testing
+
+**Author:** Sana Hassan  
+**Published:** 6/13/2026, 5:27:22 PM  
+**Categories:** Agentic AI, AI Agents, Editors Pick, Staff, Tutorials  
+
+In this tutorial, we implement a QwenPaw workflow that provides a practical environment for building and testing an agent-powered assistant. We install and initialize QwenPaw, configure its working directory, set up authentication, connect optional model providers via Colab secrets, and create a str...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/)
+
+---
+
+## 2. Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order
 
 **Author:** Asif Razzaq  
 **Published:** 6/13/2026, 8:15:18 AM  
@@ -23,7 +35,7 @@ shutdown followed a US government export control directive citing national secur
 
 ---
 
-## 2. Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6
+## 3. Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6
 
 **Author:** Asif Razzaq  
 **Published:** 6/13/2026, 4:57:12 AM  
@@ -35,7 +47,7 @@ Moonshot AI has open-sourced Kimi K2.7-Code under a Modified MIT license. It is 
 
 ---
 
-## 3. A Coding Implementation on Spatial Graph Neural Networks for Urban Function Inference Using city2graph, OSMnx, and PyTorch Geometric
+## 4. A Coding Implementation on Spatial Graph Neural Networks for Urban Function Inference Using city2graph, OSMnx, and PyTorch Geometric
 
 **Author:** Sana Hassan  
 **Published:** 6/13/2026, 2:47:16 AM  
