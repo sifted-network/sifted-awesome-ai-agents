@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. World Cup AI predictor now lets users ask daft what-ifs
+## 1. Show HN: Local RAG memory system that AI can write directly to
 
-**Author:** kagaherk  
-**Published:** 6/13/2026, 1:59:29 PM  
+**Author:** ptobey  
+**Published:** 6/13/2026, 7:23:48 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/offbeat/2026/06/13/world-cup-ai-predictor-now-lets-users-ask-daft-what-ifs/5254853 Comments URL: https://news.ycombinator.com/item?id=48517421 Points: 1 # Comments: 0
+For me and my family, it get really annoying having to reshare information each time you create a new LLM chat.Therefore, I decided to create local-memory-mcp, a local MCP that allows LLMs to read and write to a RAG. It also has built in systems that help keep the system efficient like a max chunk s...
 
-📖 [Read original article](https://www.theregister.com/offbeat/2026/06/13/world-cup-ai-predictor-now-lets-users-ask-daft-what-ifs/5254853)
+📖 [Read original article](https://github.com/ptobey/local-memory-mcp)
 
 ---
 
-## 2. Google sues alleged Chinese cybercrime operation over AI-generated scam texts
+## 2. How Israel's AI surveillance breakthrough in Iran is reshaping global intel
 
-**Author:** adam_rida  
-**Published:** 6/13/2026, 1:59:03 PM  
+**Author:** myth_drannon  
+**Published:** 6/13/2026, 6:59:44 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/ Comments URL: https://news.ycombinator.com/item?id=48517417 Points: 1 # Comments: 0
+Article URL: https://www.calcalistech.com/ctechnews/article/h17rby8bge Comments URL: https://news.ycombinator.com/item?id=48520312 Points: 2 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/)
+📖 [Read original article](https://www.calcalistech.com/ctechnews/article/h17rby8bge)
 
 ---
 
-## 3. Show HN: Wmux – a native Windows terminal multiplexer for AI agents
+## 3. AI forgoes toxic positivity for neurodivergents
 
-**Author:** wong2kim  
-**Published:** 6/13/2026, 1:46:19 PM  
+**Author:** FDX2018  
+**Published:** 6/13/2026, 6:22:43 PM  
 **Categories:** -  
 
-Article URL: https://github.com/openwong2kim/wmux Comments URL: https://news.ycombinator.com/item?id=48517302 Points: 1 # Comments: 0
+Article URL: https://medium.com/@mantaman555/the-daily-exhaustion-of-waiting-mode-why-standard-productivity-systems-fail-adhd-and-autistic-95e61a6bf4b9 Comments URL: https://news.ycombinator.com/item?id=48520000 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/openwong2kim/wmux)
+📖 [Read original article](https://medium.com/@mantaman555/the-daily-exhaustion-of-waiting-mode-why-standard-productivity-systems-fail-adhd-and-autistic-95e61a6bf4b9)
 
 ---
 
-## 4. AI Breaks the Monopoly of Elegant Software
+## 4. Guru AI Lab
 
-**Author:** fforflo  
-**Published:** 6/13/2026, 1:42:50 PM  
+**Author:** POILCIAMILTON  
+**Published:** 6/13/2026, 6:16:04 PM  
 **Categories:** -  
 
-Article URL: https://tselai.com/ai-elegant-software-monopoly Comments URL: https://news.ycombinator.com/item?id=48517272 Points: 2 # Comments: 0
+Article URL: https://guruailab.com/ Comments URL: https://news.ycombinator.com/item?id=48519936 Points: 2 # Comments: 2
 
-📖 [Read original article](https://tselai.com/ai-elegant-software-monopoly)
+📖 [Read original article](https://guruailab.com/)
 
 ---
 
-## 5. Has AI Killed How-To Nonfiction?
+## 5. The Future of Work and AI
 
-**Author:** Michelangelo11  
-**Published:** 6/13/2026, 1:31:18 PM  
+**Author:** reconnecting  
+**Published:** 6/13/2026, 6:06:14 PM  
 **Categories:** -  
 
-Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48517169 Points: 2 # Comments: 0
+Article URL: https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9 Comments URL: https://news.ycombinator.com/item?id=48519814 Points: 3 # Comments: 0
 
-📖 [Read original article](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/)
+📖 [Read original article](https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9)
 
 ---
 
-## 6. Making our AI coding agent the only way we build our product
+## 6. Ask HN: Did we witness the \"Trinity moment\" for AI?
 
-**Author:** nurdtechie98  
-**Published:** 6/13/2026, 1:30:29 PM  
+**Author:** vld_chk  
+**Published:** 6/13/2026, 6:02:39 PM  
 **Categories:** -  
 
-Article URL: https://anyframe.dev/blog/we-hired-an-intern-named-gilfoyle Comments URL: https://news.ycombinator.com/item?id=48517164 Points: 1 # Comments: 0
+I don’t know if it’s just me, but yesterday’s US decision to ban access to the Fable model feels like an epochal shift in the “AI race,” something on the scale of the Trinity test.It is hard to count how many boxes were ticked yesterday:A government shutting down an AI model it doesn’t like? A gover...
 
-📖 [Read original article](https://anyframe.dev/blog/we-hired-an-intern-named-gilfoyle)
+📖 [Read original article](https://news.ycombinator.com/item?id=48519780)
 
 ---
 
-## 7. AI can control your Desktop
+## 7. Eywa: Local-first memory for AI agents, with a receipt for every fact
 
-**Author:** AmDab  
-**Published:** 6/13/2026, 1:21:35 PM  
+**Author:** agentseal  
+**Published:** 6/13/2026, 5:57:21 PM  
 **Categories:** -  
 
-Article URL: https://clawdcursor.com Comments URL: https://news.ycombinator.com/item?id=48517079 Points: 2 # Comments: 0
+Article URL: https://arxiv.org/abs/2605.30771 Comments URL: https://news.ycombinator.com/item?id=48519731 Points: 1 # Comments: 0
 
-📖 [Read original article](https://clawdcursor.com)
+📖 [Read original article](https://arxiv.org/abs/2605.30771)
 
 ---
 
-## 8. Why do we need AI in project management software
+## 8. Transcribing my old podcast locally with open-source AI
 
-**Author:** lb_john  
-**Published:** 6/13/2026, 12:34:26 PM  
+**Author:** Mojah  
+**Published:** 6/13/2026, 5:47:44 PM  
 **Categories:** -  
 
-Article URL: https://evergantt.com/blog/2026-ai-doesnt-need-to-be-in-everything/ Comments URL: https://news.ycombinator.com/item?id=48516669 Points: 3 # Comments: 0
+Article URL: https://ma.ttias.be/transcribing-syscast-with-local-ai/ Comments URL: https://news.ycombinator.com/item?id=48519611 Points: 2 # Comments: 1
 
-📖 [Read original article](https://evergantt.com/blog/2026-ai-doesnt-need-to-be-in-everything/)
+📖 [Read original article](https://ma.ttias.be/transcribing-syscast-with-local-ai/)
 
 ---
 
-## 9. Thoughts on AI and Jobs
+## 9. There should have been an op-ed here but you filed AI slop
 
-**Author:** k1m  
-**Published:** 6/13/2026, 12:21:18 PM  
+**Author:** jordemort  
+**Published:** 6/13/2026, 5:39:24 PM  
 **Categories:** -  
 
-Article URL: https://blog.keyvan.net/p/thoughts-on-ai-and-jobs Comments URL: https://news.ycombinator.com/item?id=48516585 Points: 12 # Comments: 31
+Article URL: https://www.cityam.com/there-should-have-been-an-op-ed-here-but-you-filed-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=48519523 Points: 8 # Comments: 1
 
-📖 [Read original article](https://blog.keyvan.net/p/thoughts-on-ai-and-jobs)
+📖 [Read original article](https://www.cityam.com/there-should-have-been-an-op-ed-here-but-you-filed-ai-slop/)
 
 ---
 
-## 10. DOE wants to build a single national platform for doing science with AI
+## 10. PwC Report: AI Making Medical Bills Higher
 
-**Author:** pseudolus  
-**Published:** 6/13/2026, 12:18:19 PM  
+**Author:** karakoram  
+**Published:** 6/13/2026, 5:39:14 PM  
 **Categories:** -  
 
-Article URL: https://cacm.acm.org/news/from-manhattan-to-genesis/ Comments URL: https://news.ycombinator.com/item?id=48516562 Points: 2 # Comments: 0
+Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 21 # Comments: 6
 
-📖 [Read original article](https://cacm.acm.org/news/from-manhattan-to-genesis/)
+📖 [Read original article](https://fortune.com/2026/06/12/ai-making-medical-bills-higher/)
 
 ---
 
-## 11. Yann LeCun: World Models: Enabling the Next AI Revolution
+## 11. What We're No Longer Seeing: AI and the Invisible Newcomer in Open Source
 
-**Author:** root-parent  
-**Published:** 6/13/2026, 12:14:03 PM  
+**Author:** aa_is_op  
+**Published:** 6/13/2026, 5:39:08 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=72Xj8k5WQX4 Comments URL: https://news.ycombinator.com/item?id=48516530 Points: 3 # Comments: 0
+Article URL: https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/ Comments URL: https://news.ycombinator.com/item?id=48519514 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=72Xj8k5WQX4)
+📖 [Read original article](https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/)
 
 ---
 
-## 12. AI OSS tool repo goes archived over night after raising $7.3M Seed
+## 12. I built a one click installer on token compression engine for AI tools
 
-**Author:** hek2sch  
-**Published:** 6/13/2026, 12:10:47 PM  
+**Author:** rachidalm  
+**Published:** 6/13/2026, 5:22:10 PM  
 **Categories:** -  
 
-Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 53 # Comments: 24
+the is nothing to explain about it , if I get some ups on my message I will make the tool free for all find it at https://slipstream.liOr skip the marketing and download https://github.com/slipstreamapp/slipstream-releases/releases/tag/v0.1.4 Comments URL: https://news.ycombinator.com/item?id=485193...
 
-📖 [Read original article](https://github.com/tensorzero/tensorzero)
+📖 [Read original article](https://news.ycombinator.com/item?id=48519350)
 
 ---
 
-## 13. Cerebras chips rival Nvidia GPUs for AI [video]
+## 13. Show HN: BizChecker AI – 6 competing AI models stress-test your business idea
 
-**Author:** binyu  
-**Published:** 6/13/2026, 12:01:16 PM  
+**Author:** CryptoAMLcheck  
+**Published:** 6/13/2026, 5:20:34 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=qC_lCFTOJU0 Comments URL: https://news.ycombinator.com/item?id=48516437 Points: 4 # Comments: 0
+Article URL: https://bizchecker.ai/ Comments URL: https://news.ycombinator.com/item?id=48519332 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=qC_lCFTOJU0)
+📖 [Read original article](https://bizchecker.ai/)
 
 ---
 
-## 14. EU budget 2027 €200B: 75B for \"cohesion, resilience, and values\", €2.5B for AI
+## 14. A case for AI-pragmatism – leverage cheap compute while it's here
 
-**Author:** alecco  
-**Published:** 6/13/2026, 11:33:35 AM  
+**Author:** quickthoughts  
+**Published:** 6/13/2026, 5:06:24 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/EU_Commission/status/2064733839272899056 Comments URL: https://news.ycombinator.com/item?id=48516191 Points: 3 # Comments: 2
+Article URL: https://quickthoughts.ca/posts/a-case-for-pragmatism-in-ai/ Comments URL: https://news.ycombinator.com/item?id=48519181 Points: 3 # Comments: 0
 
-📖 [Read original article](https://twitter.com/EU_Commission/status/2064733839272899056)
+📖 [Read original article](https://quickthoughts.ca/posts/a-case-for-pragmatism-in-ai/)
 
 ---
 
-## 15. To Thrive Alongside AI, Focus on Mindset – Not Skillset
+## 15. AI Coding at Home Without Going Broke
 
-**Author:** vismit2000  
-**Published:** 6/13/2026, 11:17:11 AM  
+**Author:** sbochins  
+**Published:** 6/13/2026, 4:45:03 PM  
 **Categories:** -  
 
-Article URL: https://hbr.org/2026/06/to-thrive-alongside-ai-focus-on-mindset-not-skillset Comments URL: https://news.ycombinator.com/item?id=48516079 Points: 1 # Comments: 0
+Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 117 # Comments: 103
 
-📖 [Read original article](https://hbr.org/2026/06/to-thrive-alongside-ai-focus-on-mindset-not-skillset)
+📖 [Read original article](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
 
 ---
 
-## 16. Instrumental Convergence in AI Safety: Complete 2026 Guide
+## 16. The Day the US Government Shut Down the Most Powerful AI
+
+**Author:** johnzoro107  
+**Published:** 6/13/2026, 4:34:29 PM  
+**Categories:** -  
+
+Article URL: https://www.pentesty.co/blog/fable5-mythos5-us-government-ban-cybersecurity Comments URL: https://news.ycombinator.com/item?id=48518859 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.pentesty.co/blog/fable5-mythos5-us-government-ban-cybersecurity)
+
+---
+
+## 17. Convoro - Forum software for the AI Age
+
+**Author:** ernestdefoe  
+**Published:** 6/13/2026, 4:29:33 PM  
+**Categories:** -  
+
+Article URL: https://convoro.co Comments URL: https://news.ycombinator.com/item?id=48518809 Points: 2 # Comments: 0
+
+📖 [Read original article](https://convoro.co)
+
+---
+
+## 18. The Mutualism Accord: a draft protocol for local-first, user-loyal AI agents
+
+**Author:** ravenpaige  
+**Published:** 6/13/2026, 4:23:53 PM  
+**Categories:** -  
+
+Article URL: https://mutualismaccord.org Comments URL: https://news.ycombinator.com/item?id=48518741 Points: 2 # Comments: 0
+
+📖 [Read original article](https://mutualismaccord.org)
+
+---
+
+## 19. SpaceX Just Made the AI Infrastructure War Public
 
 **Author:** cyrc  
-**Published:** 6/13/2026, 11:10:20 AM  
+**Published:** 6/13/2026, 4:19:39 PM  
 **Categories:** -  
 
-Article URL: https://aisecurityandsafety.org/en/guides/instrumental-convergence-guide/ Comments URL: https://news.ycombinator.com/item?id=48516025 Points: 1 # Comments: 0
+Article URL: https://www.forbes.com/sites/robertszczerba/2026/06/13/spacex-just-made-the-ai-infrastructure-war-public/ Comments URL: https://news.ycombinator.com/item?id=48518698 Points: 4 # Comments: 0
 
-📖 [Read original article](https://aisecurityandsafety.org/en/guides/instrumental-convergence-guide/)
+📖 [Read original article](https://www.forbes.com/sites/robertszczerba/2026/06/13/spacex-just-made-the-ai-infrastructure-war-public/)
 
 ---
 
-## 17. Equiv, check that an AI refactor did not change what your code does
+## 20. Show HN: Brightdeck – an OOXML-compatible AI presentation maker
 
-**Author:** Srinathprasanna  
-**Published:** 6/13/2026, 10:46:39 AM  
+**Author:** mfn-throw  
+**Published:** 6/13/2026, 4:14:58 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Neelagiri65/equiv Comments URL: https://news.ycombinator.com/item?id=48515830 Points: 1 # Comments: 0
+Article URL: https://brightdeck.ai/ Comments URL: https://news.ycombinator.com/item?id=48518648 Points: 8 # Comments: 1
 
-📖 [Read original article](https://github.com/Neelagiri65/equiv)
-
----
-
-## 18. European Sovereign AI. Breakthrough Performance
-
-**Author:** doener  
-**Published:** 6/13/2026, 10:38:16 AM  
-**Categories:** -  
-
-Article URL: https://infercom.ai/ Comments URL: https://news.ycombinator.com/item?id=48515773 Points: 2 # Comments: 4
-
-📖 [Read original article](https://infercom.ai/)
-
----
-
-## 19. KPMG's AI report turns into a demo of AI hallucinations
-
-**Author:** dijksterhuis  
-**Published:** 6/13/2026, 10:32:38 AM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029 Comments URL: https://news.ycombinator.com/item?id=48515733 Points: 13 # Comments: 5
-
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029)
-
----
-
-## 20. Zuckerberg says Meta made 'mistakes' in AI workforce shift
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/13/2026, 9:57:32 AM  
-**Categories:** -  
-
-Article URL: https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/ Comments URL: https://news.ycombinator.com/item?id=48515474 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/)
+📖 [Read original article](https://brightdeck.ai/)
 
 ---
