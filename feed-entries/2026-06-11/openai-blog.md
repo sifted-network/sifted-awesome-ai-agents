@@ -11,31 +11,19 @@ count: 4
 
 ---
 
-## 1. OpenAI to acquire Ona
+## 1. Supporting Europe’s work in ensuring a trustworthy AI ecosystem
 
 **Author:** -  
 **Published:** 6/11/2026, 12:00:00 AM  
-**Categories:** Company  
+**Categories:** Global Affairs  
 
-OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.
+OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.
 
-📖 [Read original article](https://openai.com/index/openai-to-acquire-ona)
-
----
-
-## 2. How an astrophysicist uses Codex to help simulate black holes
-
-**Author:** -  
-**Published:** 6/11/2026, 12:00:00 AM  
-**Categories:** Applied AI  
-
-Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.
-
-📖 [Read original article](https://openai.com/index/using-codex-to-simulate-black-holes)
+📖 [Read original article](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)
 
 ---
 
-## 3. BBVA puts AI at the core of banking with OpenAI
+## 2. BBVA puts AI at the core of banking with OpenAI
 
 **Author:** -  
 **Published:** 6/11/2026, 12:00:00 AM  
@@ -47,14 +35,26 @@ Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with
 
 ---
 
-## 4. Supporting Europe’s work in ensuring a trustworthy AI ecosystem
+## 3. OpenAI to acquire Ona
 
 **Author:** -  
 **Published:** 6/11/2026, 12:00:00 AM  
-**Categories:** Global Affairs  
+**Categories:** Company  
 
-OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.
+OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.
 
-📖 [Read original article](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)
+📖 [Read original article](https://openai.com/index/openai-to-acquire-ona)
+
+---
+
+## 4. How an astrophysicist uses Codex to help simulate black holes
+
+**Author:** -  
+**Published:** 6/11/2026, 12:00:00 AM  
+**Categories:** Applied AI  
+
+Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.
+
+📖 [Read original article](https://openai.com/index/using-codex-to-simulate-black-holes)
 
 ---
