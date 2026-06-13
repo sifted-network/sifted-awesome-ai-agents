@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-12"
 date: "2026-06-12"
 source: "qbitai"
-count: 8
+count: 6
 ---
 
 # qbitai - 2026-06-12
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ count: 8
 最难档通通零蛋
 
 📖 [Read original article](https://www.qbitai.com/2026/06/434774.html)
-
----
-
-## 7. BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道
-
-**Author:** 量子位的朋友们  
-**Published:** 6/12/2026, 4:11:02 AM  
-**Categories:** 资讯  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/06/434761.html)
-
----
-
-## 8. SpaceX一上市，连食堂阿姨都要成百万富翁了。。。
-
-**Author:** 鱼羊  
-**Published:** 6/12/2026, 12:26:58 AM  
-**Categories:** 资讯, SpaceX, 马斯克  
-
-光散户就给马斯克冲了700亿刀
-
-📖 [Read original article](https://www.qbitai.com/2026/06/434733.html)
 
 ---
