@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Police accused of misusing AI license-plate tracking systems
+## 1. What does high effort mean when AI has made everything low effort?
 
-**Author:** Soumya_Max  
-**Published:** 6/14/2026, 1:58:55 PM  
+**Author:** foxtrot8672  
+**Published:** 6/14/2026, 7:34:00 PM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/software/security-software/several-police-officers-arrested-for-using-controversial-flock-ai-license-plate-reader-system-to-stalk-romantic-partners-says-report-investigators-have-unearthed-at-least-18-such-cases-in-the-us-over-recent-years Comments URL: http...
+it's incredibly easy to ship code now. but, what does this mean when the number of good ideas are tried at levels never seen before? It's not that all AI's are shipping "slop", but it does mean that the number of less than stellar ideas are permeating the space. This is dragging down the average of ...
 
-📖 [Read original article](https://www.tomshardware.com/software/security-software/several-police-officers-arrested-for-using-controversial-flock-ai-license-plate-reader-system-to-stalk-romantic-partners-says-report-investigators-have-unearthed-at-least-18-such-cases-in-the-us-over-recent-years)
+📖 [Read original article](https://news.ycombinator.com/item?id=48531710)
 
 ---
 
-## 2. As Anthropic suspends access to new models, India debates its AI future
+## 2. KPMG report on AI found riddled with AI hallucinations
+
+**Author:** chrisjj  
+**Published:** 6/14/2026, 7:23:43 PM  
+**Categories:** -  
+
+Article URL: https://www.cityam.com/kpmg-report-on-ai-found-riddled-with-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48531568 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.cityam.com/kpmg-report-on-ai-found-riddled-with-ai-hallucinations/)
+
+---
+
+## 3. Frona v2026.6.0 – self-hosted personal AI assistant
+
+**Author:** syncerx  
+**Published:** 6/14/2026, 7:17:56 PM  
+**Categories:** -  
+
+Article URL: https://github.com/fronalabs/frona/releases/tag/v2026.6.0 Comments URL: https://news.ycombinator.com/item?id=48531500 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/fronalabs/frona/releases/tag/v2026.6.0)
+
+---
+
+## 4. Audit checklists for AI coding agents – 30 invariants, any language
+
+**Author:** danygiguere  
+**Published:** 6/14/2026, 7:02:17 PM  
+**Categories:** -  
+
+Article URL: https://github.com/danygiguere/audit-skills Comments URL: https://news.ycombinator.com/item?id=48531259 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/danygiguere/audit-skills)
+
+---
+
+## 5. The Millions of Songs Mashed into AI-Generated Music
+
+**Author:** fortran77  
+**Published:** 6/14/2026, 6:52:18 PM  
+**Categories:** -  
+
+Article URL: https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/ Comments URL: https://news.ycombinator.com/item?id=48531137 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/)
+
+---
+
+## 6. Nobody Is Measuring What Your AI Agents Are Worth
+
+**Author:** Idankogan  
+**Published:** 6/14/2026, 6:50:29 PM  
+**Categories:** -  
+
+Article URL: https://github.com/Idank96/agent-panorama Comments URL: https://news.ycombinator.com/item?id=48531114 Points: 1 # Comments: 1
+
+📖 [Read original article](https://github.com/Idank96/agent-panorama)
+
+---
+
+## 7. How to Share AI Riches
+
+**Author:** andsoitis  
+**Published:** 6/14/2026, 6:49:12 PM  
+**Categories:** -  
+
+Article URL: https://economist.com/finance-and-economics/2026/06/11/how-to-share-ai-riches Comments URL: https://news.ycombinator.com/item?id=48531099 Points: 1 # Comments: 0
+
+📖 [Read original article](https://economist.com/finance-and-economics/2026/06/11/how-to-share-ai-riches)
+
+---
+
+## 8. Genesis, U.S. Department of Energy wants to build a single national AI platform
+
+**Author:** FrustratedMonky  
+**Published:** 6/14/2026, 6:35:28 PM  
+**Categories:** -  
+
+Article URL: https://cacm.acm.org/news/from-manhattan-to-genesis/ Comments URL: https://news.ycombinator.com/item?id=48530912 Points: 1 # Comments: 1
+
+📖 [Read original article](https://cacm.acm.org/news/from-manhattan-to-genesis/)
+
+---
+
+## 9. Modeltell – The Linguistic Fingerprints of AI
+
+**Author:** jonbaer  
+**Published:** 6/14/2026, 6:28:29 PM  
+**Categories:** -  
+
+Article URL: https://modeltell.com/ Comments URL: https://news.ycombinator.com/item?id=48530829 Points: 1 # Comments: 0
+
+📖 [Read original article](https://modeltell.com/)
+
+---
+
+## 10. Welcome to the AGI era of AI governance
+
+**Author:** only_in_america  
+**Published:** 6/14/2026, 6:19:48 PM  
+**Categories:** -  
+
+Article URL: https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance Comments URL: https://news.ycombinator.com/item?id=48530709 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance)
+
+---
+
+## 11. AI job disruption is here, and most don't claim unemployment benefits
 
 **Author:** 01-_-  
-**Published:** 6/14/2026, 1:38:50 PM  
+**Published:** 6/14/2026, 6:03:59 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/ Comments URL: https://news.ycombinator.com/item?id=48527108 Points: 2 # Comments: 0
+Article URL: https://fortune.com/article/ai-layoffs-unemployment-benefits-eligibility-sam-altman-dario-amodei/ Comments URL: https://news.ycombinator.com/item?id=48530519 Points: 3 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)
+📖 [Read original article](https://fortune.com/article/ai-layoffs-unemployment-benefits-eligibility-sam-altman-dario-amodei/)
 
 ---
 
-## 3. Zuckerberg says Meta made 'mistakes' in AI workforce shift
+## 12. Burpwn – Burp Suite but its for AI agents (it works)
 
-**Author:** 01-_-  
-**Published:** 6/14/2026, 1:37:29 PM  
+**Author:** own2pwn-fr  
+**Published:** 6/14/2026, 5:54:29 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/sectors/technology/articles/zuckerberg-says-meta-made-mistakes-in-ai-workforce-shift-212324481.html Comments URL: https://news.ycombinator.com/item?id=48527095 Points: 3 # Comments: 0
+Article URL: https://github.com/own2pwn-fr/burpwn Comments URL: https://news.ycombinator.com/item?id=48530385 Points: 3 # Comments: 0
 
-📖 [Read original article](https://finance.yahoo.com/sectors/technology/articles/zuckerberg-says-meta-made-mistakes-in-ai-workforce-shift-212324481.html)
+📖 [Read original article](https://github.com/own2pwn-fr/burpwn)
 
 ---
 
-## 4. The AI Delegation Lifecycle: Your Team Has AI Outputs. Where Are the Decisions?
+## 13. Real-time tracker of AI-driven job displacement worldwide
 
-**Author:** swolpers  
-**Published:** 6/14/2026, 1:36:06 PM  
+**Author:** streamer45  
+**Published:** 6/14/2026, 5:45:16 PM  
 **Categories:** -  
 
-Article URL: https://age-of-product.com/delegation-lifecycle/ Comments URL: https://news.ycombinator.com/item?id=48527083 Points: 2 # Comments: 0
+Article URL: https://ailayoffs.live/ Comments URL: https://news.ycombinator.com/item?id=48530268 Points: 2 # Comments: 0
 
-📖 [Read original article](https://age-of-product.com/delegation-lifecycle/)
+📖 [Read original article](https://ailayoffs.live/)
 
 ---
 
-## 5. AI enables 1000 people to hold a thoughtful conversation
+## 14. Gemma 4 for Telephony: From Two AI Models to One – Until I Switched to Chinese
 
-**Author:** bonkerbits  
-**Published:** 6/14/2026, 1:26:36 PM  
+**Author:** fidotron  
+**Published:** 6/14/2026, 5:33:08 PM  
 **Categories:** -  
 
-Article URL: https://bigthink.com/science-tech/collective-superintelligence/ Comments URL: https://news.ycombinator.com/item?id=48527009 Points: 1 # Comments: 1
+Article URL: https://medium.com/@j.y.weng/gemma-4-for-telephony-i-replaced-two-ai-models-with-one-in-my-voice-phone-agent-until-i-switched-3f1bd1c91b2c Comments URL: https://news.ycombinator.com/item?id=48530091 Points: 3 # Comments: 0
 
-📖 [Read original article](https://bigthink.com/science-tech/collective-superintelligence/)
+📖 [Read original article](https://medium.com/@j.y.weng/gemma-4-for-telephony-i-replaced-two-ai-models-with-one-in-my-voice-phone-agent-until-i-switched-3f1bd1c91b2c)
 
 ---
 
-## 6. AI is revolutionising the stock market
+## 15. Show HN: Landmark AI and ML research explained, redrawn, animated
 
-**Author:** thm  
-**Published:** 6/14/2026, 12:58:40 PM  
+**Author:** mridul_sahu  
+**Published:** 6/14/2026, 5:29:26 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/b31f1e09-5aae-4cad-af15-97adb15dba70 Comments URL: https://news.ycombinator.com/item?id=48526801 Points: 1 # Comments: 0
+Article URL: https://research.rudrite.com/ Comments URL: https://news.ycombinator.com/item?id=48530036 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/b31f1e09-5aae-4cad-af15-97adb15dba70)
+📖 [Read original article](https://research.rudrite.com/)
 
 ---
 
-## 7. The origins of the AI age /s
+## 16. Fifteen short films about AI-era threats, made with Conan
 
-**Author:** kartik0001  
-**Published:** 6/14/2026, 12:47:00 PM  
+**Author:** mooreds  
+**Published:** 6/14/2026, 4:46:58 PM  
 **Categories:** -  
 
-Article URL: https://indiekartik.substack.com/p/the-origins-of-the-ai-age Comments URL: https://news.ycombinator.com/item?id=48526724 Points: 1 # Comments: 0
+Article URL: https://www.adaptivesecurity.com/conan Comments URL: https://news.ycombinator.com/item?id=48529448 Points: 2 # Comments: 0
 
-📖 [Read original article](https://indiekartik.substack.com/p/the-origins-of-the-ai-age)
+📖 [Read original article](https://www.adaptivesecurity.com/conan)
 
 ---
 
-## 8. Stop Monitoring AI Systems Like Web Services
+## 17. Local .NET multi-agent LLM pipeline AI therapist using a compact wire format
 
-**Author:** AurimasGr  
-**Published:** 6/14/2026, 12:27:23 PM  
+**Author:** paulomac1000  
+**Published:** 6/14/2026, 4:41:07 PM  
 **Categories:** -  
 
-Article URL: https://www.newsletter.swirlai.com/p/stop-monitoring-ai-systems-like-web Comments URL: https://news.ycombinator.com/item?id=48526569 Points: 4 # Comments: 0
+Article URL: https://github.com/paulomac1000/hand-codechttps://github.com/paulomac1000/hybrid-therapist-ai Comments URL: https://news.ycombinator.com/item?id=48529348 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.newsletter.swirlai.com/p/stop-monitoring-ai-systems-like-web)
+📖 [Read original article](https://github.com/paulomac1000/hand-codechttps://github.com/paulomac1000/hybrid-therapist-ai)
 
 ---
 
-## 9. Relent less AI self-evolution
+## 18. AI is code and can't be prompted into being smarter
 
-**Author:** proteus-design  
-**Published:** 6/14/2026, 11:29:23 AM  
+**Author:** adam_rida  
+**Published:** 6/14/2026, 4:27:17 PM  
 **Categories:** -  
 
-Article URL: https://github.com/001TMF/harness-forge Comments URL: https://news.ycombinator.com/item?id=48526233 Points: 1 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/ Comments URL: https://news.ycombinator.com/item?id=48529112 Points: 13 # Comments: 11
 
-📖 [Read original article](https://github.com/001TMF/harness-forge)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/)
 
 ---
 
-## 10. Has AI Killed How-To Nonfiction?
+## 19. Why Agents Don't Scale: It's an Engineering Problem, Not an AI Problem
 
-**Author:** jger15  
-**Published:** 6/14/2026, 11:22:14 AM  
+**Author:** dovelome  
+**Published:** 6/14/2026, 4:17:04 PM  
 **Categories:** -  
 
-Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48526190 Points: 1 # Comments: 0
+Article URL: https://blog.r-lopes.com/posts/2026-06-11-why-agents-dont-scale Comments URL: https://news.ycombinator.com/item?id=48528948 Points: 5 # Comments: 0
 
-📖 [Read original article](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/)
+📖 [Read original article](https://blog.r-lopes.com/posts/2026-06-11-why-agents-dont-scale)
 
 ---
 
-## 11. UK police officer under criminal investigation over alleged use of AI
+## 20. We Built AIventure, an AI-Powered Retro Dungeon
 
-**Author:** scrlk  
-**Published:** 6/14/2026, 10:53:13 AM  
+**Author:** simonpure  
+**Published:** 6/14/2026, 4:16:57 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/514bab88-788c-4d48-a140-03597860bdb6 Comments URL: https://news.ycombinator.com/item?id=48526028 Points: 7 # Comments: 2
+Article URL: https://bebechien.github.io/cozy-corner-future/posts/how-we-built-aiventure/ Comments URL: https://news.ycombinator.com/item?id=48528941 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/514bab88-788c-4d48-a140-03597860bdb6)
-
----
-
-## 12. Home Opus: Local Deployment of Frontier AI Weights (Post-Fable 5 Ban)
-
-**Author:** Zanirou  
-**Published:** 6/14/2026, 10:52:18 AM  
-**Categories:** -  
-
-Article URL: https://github.com/zanirou/home-opus-whitepaper Comments URL: https://news.ycombinator.com/item?id=48526025 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/zanirou/home-opus-whitepaper)
-
----
-
-## 13. Show HN: Velyr – an AI agent that finds and fixes conversion leaks on your site
-
-**Author:** flo_r  
-**Published:** 6/14/2026, 10:00:55 AM  
-**Categories:** -  
-
-Article URL: https://velyr.io/ Comments URL: https://news.ycombinator.com/item?id=48525761 Points: 4 # Comments: 0
-
-📖 [Read original article](https://velyr.io/)
-
----
-
-## 14. Ask HN: What problem did AI create at your company that didn't exist before?
-
-**Author:** Yatsui  
-**Published:** 6/14/2026, 9:50:34 AM  
-**Categories:** -  
-
-I've worked on a few AI-heavy projects recently and it feels like every team develops a new headache that didn't exist before AI. What was it for your company?What did you end up doing about it? Comments URL: https://news.ycombinator.com/item?id=48525718 Points: 9 # Comments: 9
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48525718)
-
----
-
-## 15. It Is Beginning: AI Improves Itself (auth: Sabine Hossenfelder) (+abridgement)
-
-**Author:** mdp2021  
-**Published:** 6/14/2026, 9:32:27 AM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=QADKN3hantI Comments URL: https://news.ycombinator.com/item?id=48525614 Points: 1 # Comments: 2
-
-📖 [Read original article](https://www.youtube.com/watch?v=QADKN3hantI)
-
----
-
-## 16. Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit
-
-**Author:** birdculture  
-**Published:** 6/14/2026, 9:27:42 AM  
-**Categories:** -  
-
-Article URL: https://slopscan.ava.pet/ Comments URL: https://news.ycombinator.com/item?id=48525586 Points: 1 # Comments: 1
-
-📖 [Read original article](https://slopscan.ava.pet/)
-
----
-
-## 17. ExpensePal - AI expense tracker & budget planner
-
-**Author:** sandeepannandi  
-**Published:** 6/14/2026, 9:03:46 AM  
-**Categories:** -  
-
-Article URL: https://play.google.com/store/apps/details?id=com.expenseiq.app&hl=en_US Comments URL: https://news.ycombinator.com/item?id=48525481 Points: 1 # Comments: 1
-
-📖 [Read original article](https://play.google.com/store/apps/details?id=com.expenseiq.app&hl=en_US)
-
----
-
-## 18. AI Slop flooding maths YouTube [video]
-
-**Author:** soupspaces  
-**Published:** 6/14/2026, 8:27:30 AM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=mRO_QonhC2c Comments URL: https://news.ycombinator.com/item?id=48525314 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=mRO_QonhC2c)
-
----
-
-## 19. General-purpose large language models outperform specialized clinical AI
-
-**Author:** doener  
-**Published:** 6/14/2026, 8:19:34 AM  
-**Categories:** -  
-
-Article URL: https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&utm_id=97757_v0_s00_e0_tv2_a1demone7v434p Comments URL: https://news.ycombinator.com/item?id=48525281 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&utm_id=97757_v0_s00_e0_tv2_a1demone7v434p)
-
----
-
-## 20. AI inequality: from GPU-poor to token-poor
-
-**Author:** adlrocha  
-**Published:** 6/14/2026, 8:10:11 AM  
-**Categories:** -  
-
-Article URL: https://adlrocha.substack.com/p/adlrocha-ai-inequality-from-gpu-poor Comments URL: https://news.ycombinator.com/item?id=48525226 Points: 1 # Comments: 0
-
-📖 [Read original article](https://adlrocha.substack.com/p/adlrocha-ai-inequality-from-gpu-poor)
+📖 [Read original article](https://bebechien.github.io/cozy-corner-future/posts/how-we-built-aiventure/)
 
 ---
