@@ -2,203 +2,251 @@
 title: "Hacker News AI - 2026-06-14"
 date: "2026-06-14"
 source: "Hacker News AI"
-count: 16
+count: 20
 ---
 
 # Hacker News AI - 2026-06-14
 
-16 items collected.
+20 items collected.
 
 ---
 
-## 1. Track tokens usage and AI Subscriptions across major AI platforms
+## 1. It Is Beginning: AI Improves Itself (auth: Sabine Hossenfelder) (+abridgement)
 
-**Author:** 1Kapish  
-**Published:** 6/14/2026, 4:09:21 AM  
+**Author:** mdp2021  
+**Published:** 6/14/2026, 9:32:27 AM  
 **Categories:** -  
 
-Article URL: https://www.tokens4breakfast.app Comments URL: https://news.ycombinator.com/item?id=48524094 Points: 1 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=QADKN3hantI Comments URL: https://news.ycombinator.com/item?id=48525614 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.tokens4breakfast.app)
+📖 [Read original article](https://www.youtube.com/watch?v=QADKN3hantI)
 
 ---
 
-## 2. UK announces $1.5B AI infrastructure plan
+## 2. Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit
 
-**Author:** Soumya_Max  
-**Published:** 6/14/2026, 3:24:12 AM  
+**Author:** birdculture  
+**Published:** 6/14/2026, 9:27:42 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/uk/uk-sets-out-15-billion-ai-hardware-plan-with-supercomputer-chip-funding-2026-06-08/ Comments URL: https://news.ycombinator.com/item?id=48523891 Points: 2 # Comments: 2
+Article URL: https://slopscan.ava.pet/ Comments URL: https://news.ycombinator.com/item?id=48525586 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/world/uk/uk-sets-out-15-billion-ai-hardware-plan-with-supercomputer-chip-funding-2026-06-08/)
+📖 [Read original article](https://slopscan.ava.pet/)
 
 ---
 
-## 3. ClawMoat, runtime containment for AI agents after Fable 5
+## 3. ExpensePal - AI expense tracker & budget planner
 
-**Author:** ildar  
-**Published:** 6/14/2026, 2:03:00 AM  
+**Author:** sandeepannandi  
+**Published:** 6/14/2026, 9:03:46 AM  
 **Categories:** -  
 
-Article URL: https://clawmoat.com/ Comments URL: https://news.ycombinator.com/item?id=48523469 Points: 1 # Comments: 0
+Article URL: https://play.google.com/store/apps/details?id=com.expenseiq.app&hl=en_US Comments URL: https://news.ycombinator.com/item?id=48525481 Points: 1 # Comments: 1
 
-📖 [Read original article](https://clawmoat.com/)
+📖 [Read original article](https://play.google.com/store/apps/details?id=com.expenseiq.app&hl=en_US)
 
 ---
 
-## 4. Lime 2.0 – Zero Human Auth for AI Agents
+## 4. AI Slop flooding maths YouTube [video]
 
-**Author:** MawyxxY  
-**Published:** 6/14/2026, 1:47:02 AM  
+**Author:** soupspaces  
+**Published:** 6/14/2026, 8:27:30 AM  
 **Categories:** -  
 
-Article URL: https://lime.pics Comments URL: https://news.ycombinator.com/item?id=48523394 Points: 1 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=mRO_QonhC2c Comments URL: https://news.ycombinator.com/item?id=48525314 Points: 1 # Comments: 0
 
-📖 [Read original article](https://lime.pics)
+📖 [Read original article](https://www.youtube.com/watch?v=mRO_QonhC2c)
 
 ---
 
-## 5. The Missing Infrastructure Between AI Agents and the EVM
+## 5. General-purpose large language models outperform specialized clinical AI
 
-**Author:** Bridgexapi  
-**Published:** 6/14/2026, 1:31:22 AM  
+**Author:** doener  
+**Published:** 6/14/2026, 8:19:34 AM  
 **Categories:** -  
 
-Article URL: https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm Comments URL: https://news.ycombinator.com/item?id=48523305 Points: 2 # Comments: 0
+Article URL: https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&utm_id=97757_v0_s00_e0_tv2_a1demone7v434p Comments URL: https://news.ycombinator.com/item?id=48525281 Points: 3 # Comments: 0
 
-📖 [Read original article](https://blog.bridgexapi.io/the-missing-infrastructure-between-ai-agents-and-the-evm)
+📖 [Read original article](https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&utm_id=97757_v0_s00_e0_tv2_a1demone7v434p)
 
 ---
 
-## 6. 'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess
+## 6. AI inequality: from GPU-poor to token-poor
 
-**Author:** momentmaker  
-**Published:** 6/14/2026, 1:23:45 AM  
+**Author:** adlrocha  
+**Published:** 6/14/2026, 8:10:11 AM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/ Comments URL: https://news.ycombinator.com/item?id=48523271 Points: 59 # Comments: 58
+Article URL: https://adlrocha.substack.com/p/adlrocha-ai-inequality-from-gpu-poor Comments URL: https://news.ycombinator.com/item?id=48525226 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)
+📖 [Read original article](https://adlrocha.substack.com/p/adlrocha-ai-inequality-from-gpu-poor)
 
 ---
 
-## 7. Russian families use AI to 'resurrect' loved ones killed in Ukraine
+## 7. Show HN: Memoriq – Open-source encrypted vault for saving and searching AI chats
 
-**Author:** breve  
-**Published:** 6/14/2026, 1:19:20 AM  
+**Author:** giekaton  
+**Published:** 6/14/2026, 8:09:15 AM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cwy24v72n19o Comments URL: https://news.ycombinator.com/item?id=48523247 Points: 3 # Comments: 0
+Article URL: https://github.com/memoriqme/memoriq Comments URL: https://news.ycombinator.com/item?id=48525220 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/cwy24v72n19o)
+📖 [Read original article](https://github.com/memoriqme/memoriq)
 
 ---
 
-## 8. There is no such thing as an AI 'artist'
+## 8. AI Is Bringing Mashups Back
 
-**Author:** mikelgan  
-**Published:** 6/14/2026, 1:07:21 AM  
+**Author:** markwolfe  
+**Published:** 6/14/2026, 7:40:17 AM  
 **Categories:** -  
 
-Article URL: https://www.spiked-online.com/2026/06/07/there-is-no-such-thing-as-an-ai-artist/ Comments URL: https://news.ycombinator.com/item?id=48523181 Points: 4 # Comments: 2
+Article URL: https://www.wolfe.id.au/2026/06/12/ai-is-bringing-mashups-back Comments URL: https://news.ycombinator.com/item?id=48525058 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.spiked-online.com/2026/06/07/there-is-no-such-thing-as-an-ai-artist/)
+📖 [Read original article](https://www.wolfe.id.au/2026/06/12/ai-is-bringing-mashups-back)
 
 ---
 
-## 9. The AI supply chain is a software supply chain with new failure modes
+## 9. AI Memory Is Still Thinking Like Search
 
-**Author:** dovelome  
-**Published:** 6/14/2026, 1:06:38 AM  
+**Author:** jflynt76  
+**Published:** 6/14/2026, 7:36:40 AM  
 **Categories:** -  
 
-Article URL: https://blog.r-lopes.com/newsletter/2026-06-03 Comments URL: https://news.ycombinator.com/item?id=48523176 Points: 3 # Comments: 0
+Article URL: https://medium.com/@jeffreyflynt02/ai-memory-is-still-thinking-like-search-e07566311efe Comments URL: https://news.ycombinator.com/item?id=48525034 Points: 4 # Comments: 0
 
-📖 [Read original article](https://blog.r-lopes.com/newsletter/2026-06-03)
+📖 [Read original article](https://medium.com/@jeffreyflynt02/ai-memory-is-still-thinking-like-search-e07566311efe)
 
 ---
 
-## 10. Fable 5: They switched off my AI mid-build. The timeline is the story
+## 10. Anthropic Is Taking AI Welfare Seriously. I'm Not Sure It Knows What It's Measu
 
-**Author:** jungard  
-**Published:** 6/14/2026, 1:06:34 AM  
+**Author:** joozio  
+**Published:** 6/14/2026, 7:04:45 AM  
 **Categories:** -  
 
-Article URL: https://medium.com/@alirezarezvani/fable-5-anthropic-and-us-gorvernment-how-ai-export-controls-just-sorted-builders-by-passport-a-37f0c896cce0 Comments URL: https://news.ycombinator.com/item?id=48523174 Points: 2 # Comments: 0
+Article URL: https://www.lesswrong.com/posts/gNtHHCh363xSGJyz3/anthropic-is-taking-ai-welfare-seriously-i-m-not-sure-it Comments URL: https://news.ycombinator.com/item?id=48524876 Points: 2 # Comments: 0
 
-📖 [Read original article](https://medium.com/@alirezarezvani/fable-5-anthropic-and-us-gorvernment-how-ai-export-controls-just-sorted-builders-by-passport-a-37f0c896cce0)
+📖 [Read original article](https://www.lesswrong.com/posts/gNtHHCh363xSGJyz3/anthropic-is-taking-ai-welfare-seriously-i-m-not-sure-it)
 
 ---
 
-## 11. Policy on the AI Exponential
+## 11. I accidentally hit SOTA on agentic memory by using AI companions
 
-**Author:** jonbaer  
-**Published:** 6/14/2026, 12:58:15 AM  
+**Author:** vignesh_146  
+**Published:** 6/14/2026, 7:03:45 AM  
 **Categories:** -  
 
-Article URL: https://www.anthropic.com/policy-on-the-ai-exponential/epf Comments URL: https://news.ycombinator.com/item?id=48523122 Points: 4 # Comments: 0
+Article URL: https://graph.coder.company/ Comments URL: https://news.ycombinator.com/item?id=48524870 Points: 2 # Comments: 3
 
-📖 [Read original article](https://www.anthropic.com/policy-on-the-ai-exponential/epf)
+📖 [Read original article](https://graph.coder.company/)
 
 ---
 
-## 12. We're combatting AI scams with security, legislation and more
+## 12. HumanizeHub: A confidential marketplace for humanizing AI content
 
-**Author:** gnabgib  
-**Published:** 6/14/2026, 12:44:25 AM  
+**Author:** cocoglare  
+**Published:** 6/14/2026, 6:50:30 AM  
 **Categories:** -  
 
-Article URL: https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/ Comments URL: https://news.ycombinator.com/item?id=48523053 Points: 3 # Comments: 1
+Article URL: https://humanizehub.me Comments URL: https://news.ycombinator.com/item?id=48524805 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/)
+📖 [Read original article](https://humanizehub.me)
 
 ---
 
-## 13. Google fires sueball at alleged Chinese phishers over AI-powered fraud ops
+## 13. While Oracle Will Rake in Big Bucks on AI, Profits Are Hard to Predict
 
-**Author:** Bender  
-**Published:** 6/14/2026, 12:41:19 AM  
+**Author:** rbanffy  
+**Published:** 6/14/2026, 6:47:53 AM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841 Comments URL: https://news.ycombinator.com/item?id=48523034 Points: 3 # Comments: 0
+Article URL: https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098 Comments URL: https://news.ycombinator.com/item?id=48524793 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841)
+📖 [Read original article](https://www.nextplatform.com/cloud/2026/06/12/while-oracle-will-rake-in-big-bucks-on-ai-profits-are-hard-to-predict/5255098)
 
 ---
 
-## 14. AI agent on GitHub gives recipe for blueberry pie
+## 14. Sygnet – Hash any document with SHA3-512 and declare your AI usage level
 
-**Author:** Tiberium  
-**Published:** 6/14/2026, 12:23:27 AM  
+**Author:** Pistachero  
+**Published:** 6/14/2026, 6:41:26 AM  
 **Categories:** -  
 
-Article URL: https://github.com/home-assistant/core/pull/173465 Comments URL: https://news.ycombinator.com/item?id=48522910 Points: 4 # Comments: 2
+Article URL: https://mysygnet.com Comments URL: https://news.ycombinator.com/item?id=48524774 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/home-assistant/core/pull/173465)
+📖 [Read original article](https://mysygnet.com)
 
 ---
 
-## 15. QodFlow – a Kanban board AI agents can drive via MCP
+## 15. Zuckerberg says Meta made 'mistakes' in AI workforce shift
 
-**Author:** deimargd  
-**Published:** 6/14/2026, 12:14:27 AM  
+**Author:** jgilias  
+**Published:** 6/14/2026, 6:40:52 AM  
 **Categories:** -  
 
-Hi HN. We built QodFlow because we wanted a kanban board our AI agents could work directly — not a chatbot bolted onto the sidebar.It exposes an MCP server. An agent connects with a scoped, revocable token and can: claim_job, report_progress, attach_evidence, request_human_decision, resolve_decision...
+Article URL: https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/ Comments URL: https://news.ycombinator.com/item?id=48524772 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.qodflow.com)
+📖 [Read original article](https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12/)
 
 ---
 
-## 16. Anthropic's Zero Trust for AI Agents Sets the Right Test. The Bearer Token Fails
+## 16. AI: Surgeon's Assistant or Commodity on a Meter?
 
-**Author:** mooreds  
-**Published:** 6/14/2026, 12:03:33 AM  
+**Author:** gritzko  
+**Published:** 6/14/2026, 5:46:53 AM  
 **Categories:** -  
 
-Article URL: https://blog.hello.coop/2026/06/anthropics-zero-trust-for-ai-agents-sets-the-right-test-the-bearer-token-fails-it/ Comments URL: https://news.ycombinator.com/item?id=48522754 Points: 3 # Comments: 0
+Article URL: https://replicated.wiki/blog/stream.html Comments URL: https://news.ycombinator.com/item?id=48524534 Points: 2 # Comments: 0
 
-📖 [Read original article](https://blog.hello.coop/2026/06/anthropics-zero-trust-for-ai-agents-sets-the-right-test-the-bearer-token-fails-it/)
+📖 [Read original article](https://replicated.wiki/blog/stream.html)
+
+---
+
+## 17. Story of How Im Running an Unlimited $6/Month AI Provider on 4x RTX 3090s
+
+**Author:** yolo-auto  
+**Published:** 6/14/2026, 5:11:33 AM  
+**Categories:** -  
+
+This submission is a tale about how I launched an unlimited LLM provider to about 60 hyped people on the waitlist, then immediately served them a fully dysfunctional death-loop model, and how most people, very reasonably, disappeared, but thanks to a few extremely nice people stuck around anyway, we...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48524387)
+
+---
+
+## 18. World Models and the Emergence of a \"First-Person\" Perspective in an AI [video]
+
+**Author:** mojuba  
+**Published:** 6/14/2026, 5:09:52 AM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=2nQSoiC5VHs Comments URL: https://news.ycombinator.com/item?id=48524377 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=2nQSoiC5VHs)
+
+---
+
+## 19. Frontier AI companies will never exceed the capability frontier again
+
+**Author:** williamtrask  
+**Published:** 6/14/2026, 5:04:26 AM  
+**Categories:** -  
+
+Article URL: https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies Comments URL: https://news.ycombinator.com/item?id=48524347 Points: 5 # Comments: 0
+
+📖 [Read original article](https://andrewtrask.substack.com/p/breaking-todays-frontier-ai-companies)
+
+---
+
+## 20. Quick: An internal hosting platform for the AI era
+
+**Author:** ksec  
+**Published:** 6/14/2026, 4:52:03 AM  
+**Categories:** -  
+
+Article URL: https://shopify.engineering/quick Comments URL: https://news.ycombinator.com/item?id=48524284 Points: 5 # Comments: 0
+
+📖 [Read original article](https://shopify.engineering/quick)
 
 ---
