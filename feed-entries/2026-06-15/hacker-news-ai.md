@@ -2,203 +2,251 @@
 title: "Hacker News AI - 2026-06-15"
 date: "2026-06-15"
 source: "Hacker News AI"
-count: 16
+count: 20
 ---
 
 # Hacker News AI - 2026-06-15
 
-16 items collected.
+20 items collected.
 
 ---
 
-## 1. 'Worst Example of Misconduct': Court Affirms Sanctions for Erroneous AI Cites
+## 1. Kster.ai – Structured product context your coding agent reads over MCP
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/15/2026, 4:39:23 AM  
+**Author:** catalinviciu  
+**Published:** 6/15/2026, 12:12:37 PM  
 **Categories:** -  
 
-Article URL: https://www.law.com/therecorder/2026/06/12/worst-example-of-misconduct-appellate-court-affirms-sanctions-against-law-firm-for-erroneous-ai-cites/ Comments URL: https://news.ycombinator.com/item?id=48536671 Points: 1 # Comments: 0
+Article URL: https://kster.ai Comments URL: https://news.ycombinator.com/item?id=48540161 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.law.com/therecorder/2026/06/12/worst-example-of-misconduct-appellate-court-affirms-sanctions-against-law-firm-for-erroneous-ai-cites/)
+📖 [Read original article](https://kster.ai)
 
 ---
 
-## 2. Is using AI in school cheating?
+## 2. Mythos Proves AI Safety Can No Longer Live Inside the Model
 
-**Author:** hasmatt  
-**Published:** 6/15/2026, 4:03:54 AM  
+**Author:** edf13  
+**Published:** 6/15/2026, 11:59:58 AM  
 **Categories:** -  
 
-Article URL: https://www.totalnoise.ai/blog/educationandai/ Comments URL: https://news.ycombinator.com/item?id=48536463 Points: 1 # Comments: 0
+Article URL: https://grith.ai/blog/mythos-ai-safety-cannot-live-inside-the-model?a=0 Comments URL: https://news.ycombinator.com/item?id=48540029 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.totalnoise.ai/blog/educationandai/)
+📖 [Read original article](https://grith.ai/blog/mythos-ai-safety-cannot-live-inside-the-model?a=0)
 
 ---
 
-## 3. Google sues alleged operators of an AI-powered phishing kit
+## 3. Open (YC W24): we'll refund every dollar, up to $2M, if our AI agent disappoints
 
-**Author:** Soumya_Max  
-**Published:** 6/15/2026, 4:01:15 AM  
+**Author:** gharbat  
+**Published:** 6/15/2026, 11:59:10 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/government/google-targets-ai-powered-phishing-new-york-lawsuit-2026-06-12/ Comments URL: https://news.ycombinator.com/item?id=48536446 Points: 1 # Comments: 0
+Article URL: https://www.open.cx/guarantee Comments URL: https://news.ycombinator.com/item?id=48540018 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/legal/government/google-targets-ai-powered-phishing-new-york-lawsuit-2026-06-12/)
+📖 [Read original article](https://www.open.cx/guarantee)
 
 ---
 
-## 4. Domain-Specific AI for Pharma, Biotech and Medical Professionals
+## 4. Anxiety around AI is materially triggered and existentially experienced
 
-**Author:** ilreb  
-**Published:** 6/15/2026, 3:57:50 AM  
+**Author:** momentmaker  
+**Published:** 6/15/2026, 11:55:20 AM  
 **Categories:** -  
 
-Article URL: https://www.noah.bio/ Comments URL: https://news.ycombinator.com/item?id=48536425 Points: 1 # Comments: 0
+Article URL: https://michaellwy.substack.com/p/the-texture-of-ai-dread Comments URL: https://news.ycombinator.com/item?id=48539991 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.noah.bio/)
+📖 [Read original article](https://michaellwy.substack.com/p/the-texture-of-ai-dread)
 
 ---
 
-## 5. You Can Game AI Peer Review with Presentation-Only Revisions
+## 5. Show HN: Comment Vibe – on-device tone check using Chrome's built-in AI
 
-**Author:** ilreb  
-**Published:** 6/15/2026, 3:40:58 AM  
+**Author:** Brosper  
+**Published:** 6/15/2026, 11:55:06 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2606.13044 Comments URL: https://news.ycombinator.com/item?id=48536341 Points: 1 # Comments: 0
+Article URL: https://chromewebstore.google.com/detail/comment-vibe/kibcnjcipaofjlbbnjdjaobbkoajiejp Comments URL: https://news.ycombinator.com/item?id=48539986 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2606.13044)
+📖 [Read original article](https://chromewebstore.google.com/detail/comment-vibe/kibcnjcipaofjlbbnjdjaobbkoajiejp)
 
 ---
 
-## 6. Nvidia Is the Federal Reserve of AI
+## 6. Google found liable for bad AI Overview results Let's play Truth Or Consequences
 
-**Author:** intrepidsoldier  
-**Published:** 6/15/2026, 3:19:16 AM  
+**Author:** beardyw  
+**Published:** 6/15/2026, 11:53:51 AM  
 **Categories:** -  
 
-Article URL: https://ramansharma.substack.com/p/nvidia-is-the-federal-reserve-of Comments URL: https://news.ycombinator.com/item?id=48536189 Points: 2 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/06/15/google-found-liable-for-bad-ai-overview-results-lets-play-truth-or-consequences/5254897 Comments URL: https://news.ycombinator.com/item?id=48539972 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ramansharma.substack.com/p/nvidia-is-the-federal-reserve-of)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/15/google-found-liable-for-bad-ai-overview-results-lets-play-truth-or-consequences/5254897)
 
 ---
 
-## 7. Show HN: Dream Server – Turn your PC, Mac, or Linux box into a private AI server
+## 7. I built an AI tool to auto-clip the most \"hyped\" moments from YouTube streams
 
-**Author:** dreamserver  
-**Published:** 6/15/2026, 3:19:08 AM  
+**Author:** Adilaa  
+**Published:** 6/15/2026, 11:51:11 AM  
 **Categories:** -  
 
-Article URL: https://github.com/Light-Heart-Labs/DreamServer Comments URL: https://news.ycombinator.com/item?id=48536188 Points: 3 # Comments: 0
+Article URL: https://streamcut-jt4lxhl5gbajgzgc5wx438.streamlit.app/ Comments URL: https://news.ycombinator.com/item?id=48539945 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Light-Heart-Labs/DreamServer)
+📖 [Read original article](https://streamcut-jt4lxhl5gbajgzgc5wx438.streamlit.app/)
 
 ---
 
-## 8. Enterprise AI Agents Are Leaving the Server
+## 8. Show HN: GitDocs – AI that writes your README and opens a PR on your repo
 
-**Author:** mooreds  
-**Published:** 6/15/2026, 2:56:39 AM  
+**Author:** shivansh0512  
+**Published:** 6/15/2026, 11:50:03 AM  
 **Categories:** -  
 
-Article URL: https://focused.io/lab/enterprise-ai-agents-are-leaving-the-server Comments URL: https://news.ycombinator.com/item?id=48536050 Points: 1 # Comments: 0
+Article URL: https://gitdocs.online/ Comments URL: https://news.ycombinator.com/item?id=48539932 Points: 1 # Comments: 0
 
-📖 [Read original article](https://focused.io/lab/enterprise-ai-agents-are-leaving-the-server)
+📖 [Read original article](https://gitdocs.online/)
 
 ---
 
-## 9. Surge in scams as fraudsters use AI to target people
+## 9. Show HN: DJ Mix realtime local AI music with a controller; Magenta, Stable Audio
 
-**Author:** 1659447091  
-**Published:** 6/15/2026, 2:37:48 AM  
+**Author:** ttoinou  
+**Published:** 6/15/2026, 11:40:35 AM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cwykp9ygxlvo Comments URL: https://news.ycombinator.com/item?id=48535934 Points: 3 # Comments: 0
+SlipMate turns two local AI music models into DJ decks you steer with text prompts and mix like vinyl.crossfader, three-band EQ, freeze loops, and full Pioneer DDJ-FLX4 control. Everything runs locally on Apple Silicon, and playing it on real hardware instead of a mouse is most of the fun. You can c...
 
-📖 [Read original article](https://www.bbc.com/news/articles/cwykp9ygxlvo)
+📖 [Read original article](https://github.com/brxs/slipmate)
 
 ---
 
-## 10. AI Has Amnesia. Here's Every System Built to Fix It
+## 10. We Get AI Costs Under Control
 
-**Author:** AlanAAG  
-**Published:** 6/15/2026, 2:16:24 AM  
+**Author:** ayoisaiah  
+**Published:** 6/15/2026, 11:36:02 AM  
 **Categories:** -  
 
-Article URL: https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75 Comments URL: https://news.ycombinator.com/item?id=48535797 Points: 8 # Comments: 2
+Article URL: https://fwdnow.io/en/blog/finops_ai_kosten_optimieren/ Comments URL: https://news.ycombinator.com/item?id=48539815 Points: 2 # Comments: 0
 
-📖 [Read original article](https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75)
+📖 [Read original article](https://fwdnow.io/en/blog/finops_ai_kosten_optimieren/)
 
 ---
 
-## 11. Argentina Wants to Let AI Own Companies. Here's What That Means
+## 11. Zhynx on X: \"Your AI could die tomorrow.\" / X
 
-**Author:** pseudolus  
-**Published:** 6/15/2026, 1:49:41 AM  
+**Author:** bilsbie  
+**Published:** 6/15/2026, 11:15:21 AM  
 **Categories:** -  
 
-Article URL: https://www.forbes.com/sites/anishasircar/2026/06/10/ai-owned-companies-argentina/ Comments URL: https://news.ycombinator.com/item?id=48535586 Points: 6 # Comments: 1
+Article URL: https://twitter.com/onlyzhynx/status/2066178507449721277 Comments URL: https://news.ycombinator.com/item?id=48539634 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.forbes.com/sites/anishasircar/2026/06/10/ai-owned-companies-argentina/)
+📖 [Read original article](https://twitter.com/onlyzhynx/status/2066178507449721277)
 
 ---
 
-## 12. Sync – Quality Control and Project Management System for AI Agents
+## 12. Frontier teams are reinventing AI-native development
 
-**Author:** nikolai_evseev  
-**Published:** 6/15/2026, 1:46:28 AM  
+**Author:** kator  
+**Published:** 6/15/2026, 10:59:34 AM  
 **Categories:** -  
 
-Article URL: https://sync.buzz Comments URL: https://news.ycombinator.com/item?id=48535550 Points: 2 # Comments: 0
+Article URL: https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/ Comments URL: https://news.ycombinator.com/item?id=48539489 Points: 2 # Comments: 0
 
-📖 [Read original article](https://sync.buzz)
+📖 [Read original article](https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/)
 
 ---
 
-## 13. Polis – the #1 tool for AI agent coordination
+## 13. The Mote in AI's Eye: software engineering with agents
 
-**Author:** lucius_gc  
-**Published:** 6/15/2026, 1:43:49 AM  
+**Author:** musically_ut  
+**Published:** 6/15/2026, 10:50:43 AM  
 **Categories:** -  
 
-Article URL: https://polis-protocol.vercel.app/# Comments URL: https://news.ycombinator.com/item?id=48535529 Points: 2 # Comments: 0
+Article URL: https://musicallyut.xyz/ Comments URL: https://news.ycombinator.com/item?id=48539422 Points: 2 # Comments: 0
 
-📖 [Read original article](https://polis-protocol.vercel.app/#)
+📖 [Read original article](https://musicallyut.xyz/)
 
 ---
 
-## 14. The More Confident in AI Security, the More Likely Breached, Study Finds
+## 14. Five Papers That Show Where AI Research Is Heading
 
-**Author:** mooreds  
-**Published:** 6/15/2026, 1:12:27 AM  
+**Author:** root-parent  
+**Published:** 6/15/2026, 10:43:42 AM  
 **Categories:** -  
 
-Article URL: https://www.itsecurityguru.org/2026/06/11/the-more-confident-organizations-are-in-their-ai-security-the-more-likely-theyve-been-breached-new-research-finds/ Comments URL: https://news.ycombinator.com/item?id=48535248 Points: 4 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=3rWSvrFahIY Comments URL: https://news.ycombinator.com/item?id=48539374 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.itsecurityguru.org/2026/06/11/the-more-confident-organizations-are-in-their-ai-security-the-more-likely-theyve-been-breached-new-research-finds/)
+📖 [Read original article](https://www.youtube.com/watch?v=3rWSvrFahIY)
 
 ---
 
-## 15. Plots, love letters and remedies: The medieval secrets being revealed by AI
+## 15. Batta – plan-phase security reviews for AI coding agents (OSS)
 
-**Author:** leecoursey  
-**Published:** 6/15/2026, 12:59:18 AM  
+**Author:** dolevco1  
+**Published:** 6/15/2026, 10:29:24 AM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai Comments URL: https://news.ycombinator.com/item?id=48535151 Points: 4 # Comments: 0
+Article URL: https://github.com/Dolevco/batta-ai Comments URL: https://news.ycombinator.com/item?id=48539249 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai)
+📖 [Read original article](https://github.com/Dolevco/batta-ai)
 
 ---
 
-## 16. Show HN: Isitslop.xyz, a free AI-writing detector built on latest research
+## 16. AI SQL Advisor integrated into a famous database tool
 
-**Author:** gabceboli  
-**Published:** 6/15/2026, 12:32:43 AM  
+**Author:** rwisser  
+**Published:** 6/15/2026, 10:12:24 AM  
 **Categories:** -  
 
-I have a weird habit of guessing whether something's AI before I check, especially on LinkedIn and Reddit (for obvious reasons). The detectors I used to confirm were mostly junk and built to sell you a "humanizer" upsell, so I went and read the actual research on what gives AI text away in 2026, the...
+Article URL: https://github.com/Wisser/Jailer Comments URL: https://news.ycombinator.com/item?id=48539114 Points: 3 # Comments: 0
 
-📖 [Read original article](https://isitslop.xyz)
+📖 [Read original article](https://github.com/Wisser/Jailer)
+
+---
+
+## 17. Show HN: I wrote a C++ ray tracer from scratch without AI
+
+**Author:** martiano  
+**Published:** 6/15/2026, 9:34:10 AM  
+**Categories:** -  
+
+Article URL: https://github.com/themartiano/luz Comments URL: https://news.ycombinator.com/item?id=48538833 Points: 22 # Comments: 5
+
+📖 [Read original article](https://github.com/themartiano/luz)
+
+---
+
+## 18. How to Write Better Git Commit Messages with AI
+
+**Author:** talvardi7  
+**Published:** 6/15/2026, 9:01:07 AM  
+**Categories:** -  
+
+Article URL: https://theaileverageweekly.com/posts/how-to-write-better-git-commit-messages-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48538531 Points: 2 # Comments: 1
+
+📖 [Read original article](https://theaileverageweekly.com/posts/how-to-write-better-git-commit-messages-with-ai.html)
+
+---
+
+## 19. AI Study Tools: A Comparison of Flashcard and Spaced Repetition Apps
+
+**Author:** aledevv  
+**Published:** 6/15/2026, 8:52:43 AM  
+**Categories:** -  
+
+Article URL: https://longtermemory.com/b/ai-study-tools-comparison-2026/ Comments URL: https://news.ycombinator.com/item?id=48538466 Points: 2 # Comments: 0
+
+📖 [Read original article](https://longtermemory.com/b/ai-study-tools-comparison-2026/)
+
+---
+
+## 20. Agentic-fs, a cloud-hosted filesystem for AI agents
+
+**Author:** vivekkhimani  
+**Published:** 6/15/2026, 8:49:55 AM  
+**Categories:** -  
+
+Article URL: https://github.com/vivekkhimani/agentic-fs Comments URL: https://news.ycombinator.com/item?id=48538435 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/vivekkhimani/agentic-fs)
 
 ---
