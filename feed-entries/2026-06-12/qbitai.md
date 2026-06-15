@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-12"
 date: "2026-06-12"
 source: "qbitai"
-count: 6
+count: 5
 ---
 
 # qbitai - 2026-06-12
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ count: 6
 7 月 17-18 日
 
 📖 [Read original article](https://www.qbitai.com/2026/06/435105.html)
-
----
-
-## 6. “智能体最后的考试”，Fable 5竟然不敌GPT 5.5
-
-**Author:** 一水  
-**Published:** 6/12/2026, 4:13:23 AM  
-**Categories:** 资讯  
-
-最难档通通零蛋
-
-📖 [Read original article](https://www.qbitai.com/2026/06/434774.html)
 
 ---
