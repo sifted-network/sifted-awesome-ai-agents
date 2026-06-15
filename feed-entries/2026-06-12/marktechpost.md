@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-12"
 date: "2026-06-12"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-06-12
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Moonshot AI's Kimi Work is a local desktop agent for macOS and Windows. It runs 
 Zyphra has released Zamba2-VL, a family of open vision-language models at 1.2B, 2.7B, and 7B parameters. The models use a hybrid Mamba2 state-space and Transformer backbone, shipping under Apache 2.0. They stay competitive with comparable Transformer VLMs while cutting time-to-first-token by about a...
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/)
-
----
-
-## 4. A Coding Implementation on MONAI for End-to-End 3D Spleen Segmentation Using UNet on Medical CT Volumes
-
-**Author:** Sana Hassan  
-**Published:** 6/12/2026, 7:10:00 AM  
-**Categories:** Applications, Artificial Intelligence, Deep Learning, Editors Pick, Staff, Technology, Tutorials  
-
-In this tutorial, we build an end-to-end 3D medical image segmentation pipeline using MONAI to segment the spleen on the Medical Segmentation Decathlon Task09 dataset. We work with volumetric CT scans, apply medical imaging transformations such as orientation alignment, voxel-spacing normalization, ...
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-monai-for-end-to-end-3d-spleen-segmentation-using-unet-on-medical-ct-volumes/)
 
 ---
