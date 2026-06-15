@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-13"
 date: "2026-06-13"
 source: "qbitai"
-count: 2
+count: 1
 ---
 
 # qbitai - 2026-06-13
 
-2 items collected.
+1 items collected.
 
 ---
 
@@ -20,17 +20,5 @@ count: 2
 模型参数量只有1B
 
 📖 [Read original article](https://www.qbitai.com/2026/06/435483.html)
-
----
-
-## 2. Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践
-
-**Author:** 一水  
-**Published:** 6/13/2026, 8:11:07 AM  
-**Categories:** 资讯, 华为云  
-
-一起构建下一代物理世界的智能系统
-
-📖 [Read original article](https://www.qbitai.com/2026/06/435455.html)
 
 ---
