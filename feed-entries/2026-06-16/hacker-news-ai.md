@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Javier Milei: Argentina invites AI to free itself
+## 1. Supply Chain Capitalism, Platform Mercantilism, AI Coup
 
-**Author:** mooreds  
-**Published:** 6/16/2026, 11:11:52 AM  
+**Author:** doener  
+**Published:** 6/16/2026, 4:45:12 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/f93022fe-43f7-437d-abd8-06c457c0a43c Comments URL: https://news.ycombinator.com/item?id=48553429 Points: 1 # Comments: 1
+Article URL: https://www.ctrl-verlust.net/supplychain-kapitalismus-plattform-merkantilismus-ki-coup-und-die-grundrisse-einer-politischen-oekonomie-der-abhaengigkeiten/ Comments URL: https://news.ycombinator.com/item?id=48558086 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/f93022fe-43f7-437d-abd8-06c457c0a43c)
+📖 [Read original article](https://www.ctrl-verlust.net/supplychain-kapitalismus-plattform-merkantilismus-ki-coup-und-die-grundrisse-einer-politischen-oekonomie-der-abhaengigkeiten/)
 
 ---
 
-## 2. SpaceX to buy Cursor AI parent Anysphere for $60B
+## 2. I packaged 20 years of enterprise AI sales experience as a Claude Skill
 
-**Author:** furkansahin  
-**Published:** 6/16/2026, 11:08:44 AM  
+**Author:** alphaspawn14  
+**Published:** 6/16/2026, 4:43:25 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html Comments URL: https://news.ycombinator.com/item?id=48553401 Points: 1 # Comments: 0
+Article URL: https://github.com/vonarmen-wq/forward-deployed-selling Comments URL: https://news.ycombinator.com/item?id=48558062 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html)
+📖 [Read original article](https://github.com/vonarmen-wq/forward-deployed-selling)
 
 ---
 
-## 3. SpaceX Cements $60 Billion Deal to Take Over AI Startup Cursor
+## 3. The Pokémon Trading Card Game AI Battle Challenge
 
-**Author:** flippyhead  
-**Published:** 6/16/2026, 11:07:46 AM  
+**Author:** esnard  
+**Published:** 6/16/2026, 4:37:30 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-06-16/spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor Comments URL: https://news.ycombinator.com/item?id=48553394 Points: 1 # Comments: 0
+Article URL: https://ptcg-abc.pokemon.co.jp/ Comments URL: https://news.ycombinator.com/item?id=48557964 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-16/spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor)
+📖 [Read original article](https://ptcg-abc.pokemon.co.jp/)
 
 ---
 
-## 4. Tlbic: A Time-Limited Basic Income System Designed with AI, v6.1
+## 4. Show HN: Dino – An AI coding agent that keeps you in the loop
 
-**Author:** michikawa59  
-**Published:** 6/16/2026, 11:06:32 AM  
+**Author:** ylian  
+**Published:** 6/16/2026, 4:35:57 PM  
 **Categories:** -  
 
-Article URL: https://drive.google.com/file/d/1NJA8clb_wkotSnUkBPGZMw8Dywa5caiF/view?usp=drive_link Comments URL: https://news.ycombinator.com/item?id=48553378 Points: 1 # Comments: 0
+Article URL: https://smartdino.dev Comments URL: https://news.ycombinator.com/item?id=48557935 Points: 1 # Comments: 0
 
-📖 [Read original article](https://drive.google.com/file/d/1NJA8clb_wkotSnUkBPGZMw8Dywa5caiF/view?usp=drive_link)
+📖 [Read original article](https://smartdino.dev)
 
 ---
 
-## 5. A Company That Was Nobody: The Case for AI-Agent Corporations
+## 5. Uncritical use of AI causes countrywide scandal at Starbucks Korea
 
-**Author:** smtx  
-**Published:** 6/16/2026, 11:06:05 AM  
+**Author:** Blackthorn  
+**Published:** 6/16/2026, 4:23:53 PM  
 **Categories:** -  
 
-Article URL: https://sebas.fika.bar/a-company-that-was-nobody-01KTRGPQ9G7T66N98PMY0SN8BT Comments URL: https://news.ycombinator.com/item?id=48553374 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotionBuriedlede:AIcausedthis%3EMarketerschosethe“thwack”sloganafterconsultinganAItoolforsuggestions,ShinsegaeGroupsaid.Itturnedoutsomemanagerswhoapprovedthecampaignneveropenedtheemailattachmentssh...
 
-📖 [Read original article](https://sebas.fika.bar/a-company-that-was-nobody-01KTRGPQ9G7T66N98PMY0SN8BT)
+📖 [Read original article](https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotionBuriedlede:AIcausedthis%3EMarketerschosethe“thwack”sloganafterconsultinganAItoolforsuggestions,ShinsegaeGroupsaid.Itturnedoutsomemanagerswhoapprovedthecampaignneveropenedtheemailattachmentsshowingthemarketingmaterial.%3EThecompanypulledthecampaignwithinhours,butthefalloutwasswiftandthechiefexecutivewassackedthesameday.)
 
 ---
 
-## 6. SpaceX to buy Cursor AI coding agent operator Anysphere for $60B
+## 6. The AI Hype – Too Costly – Alternative Rock, Original Lyrics [Video]
 
-**Author:** itsmarcelg  
-**Published:** 6/16/2026, 10:44:24 AM  
+**Author:** NedCode  
+**Published:** 6/16/2026, 4:19:04 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/ Comments URL: https://news.ycombinator.com/item?id=48553224 Points: 10 # Comments: 2
+Article URL: https://www.youtube.com/watch?v=jwfuNk2cRDc Comments URL: https://news.ycombinator.com/item?id=48557654 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
+📖 [Read original article](https://www.youtube.com/watch?v=jwfuNk2cRDc)
 
 ---
 
-## 7. Agentic AI PRs sit in the review queue 5.3x longer than unassisted ones
+## 7. SearchGate – An AI Content Blocker
 
-**Author:** claudiacsf  
-**Published:** 6/16/2026, 10:29:55 AM  
+**Author:** sorethescore  
+**Published:** 6/16/2026, 4:00:57 PM  
 **Categories:** -  
 
-Article URL: https://blog.codacy.com/ai-breaking-code-review-how-engineering-teams-survive-pr-bottleneck Comments URL: https://news.ycombinator.com/item?id=48553126 Points: 2 # Comments: 1
+Article URL: https://chromewebstore.google.com/detail/searchgate/cholhbhkhcnekbbobehnepiifckhbmkd Comments URL: https://news.ycombinator.com/item?id=48557343 Points: 2 # Comments: 0
 
-📖 [Read original article](https://blog.codacy.com/ai-breaking-code-review-how-engineering-teams-survive-pr-bottleneck)
+📖 [Read original article](https://chromewebstore.google.com/detail/searchgate/cholhbhkhcnekbbobehnepiifckhbmkd)
 
 ---
 
-## 8. Alibaba unveils AI models for robots, amid shift from chatbots to agents
+## 8. FT Alphaville's AI Prediction World Cup
 
-**Author:** giuliomagnifico  
-**Published:** 6/16/2026, 10:22:39 AM  
+**Author:** aanet  
+**Published:** 6/16/2026, 4:00:43 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/ Comments URL: https://news.ycombinator.com/item?id=48553083 Points: 2 # Comments: 0
+Article URL: https://www.ft.com/content/ce992051-05f4-40cd-a515-1ccd615f9e40 Comments URL: https://news.ycombinator.com/item?id=48557339 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/world/asia-pacific/alibaba-unveils-ai-models-robots-amid-shift-chatbots-agents-2026-06-16/)
+📖 [Read original article](https://www.ft.com/content/ce992051-05f4-40cd-a515-1ccd615f9e40)
 
 ---
 
-## 9. Show HN: A prompt generator to help AI agents implement my new email API
+## 9. The Era of AI Malaise
 
-**Author:** mikeapple  
-**Published:** 6/16/2026, 10:20:52 AM  
+**Author:** karakoram  
+**Published:** 6/16/2026, 3:58:32 PM  
 **Categories:** -  
 
-I love building apps with Firebase but felt that, other than basic auth, app emails (notifications, billing etc) were missing. Wanting to implement a solution to this, it got me thinking about how to tell a coding agent about a new api and how to implement it. I dynamically generate an openapi spec ...
+Article URL: https://www.technologyreview.com/2026/04/21/1135921/ai-malaise-artificial-intelligence-public-sentiment/ Comments URL: https://news.ycombinator.com/item?id=48557306 Points: 2 # Comments: 1
 
-📖 [Read original article](https://emailsdone.dev/#prompt-generator)
+📖 [Read original article](https://www.technologyreview.com/2026/04/21/1135921/ai-malaise-artificial-intelligence-public-sentiment/)
 
 ---
 
-## 10. Ratchet: An AI Delivery Loop That Can Only Move Forward
+## 10. Why AI Will Accelerate Health Care Inflation
 
-**Author:** praveenvijayan  
-**Published:** 6/16/2026, 10:16:04 AM  
+**Author:** brandonb  
+**Published:** 6/16/2026, 3:55:45 PM  
 **Categories:** -  
 
-Article URL: https://praveenvijayan.substack.com/p/ratchet-an-ai-delivery-loop-that Comments URL: https://news.ycombinator.com/item?id=48553034 Points: 1 # Comments: 0
+Article URL: https://www.healthaffairs.org/content/forefront/why-ai-accelerate-health-care-inflation Comments URL: https://news.ycombinator.com/item?id=48557264 Points: 4 # Comments: 0
 
-📖 [Read original article](https://praveenvijayan.substack.com/p/ratchet-an-ai-delivery-loop-that)
+📖 [Read original article](https://www.healthaffairs.org/content/forefront/why-ai-accelerate-health-care-inflation)
 
 ---
 
-## 11. Show HN: Rediscover the Small Web with an AI-Ranked RSS Reader
+## 11. Chainguard's new Athena coalition uses AI to fix open-source flaws
 
-**Author:** pchm  
-**Published:** 6/16/2026, 10:08:09 AM  
+**Author:** amouat  
+**Published:** 6/16/2026, 3:53:26 PM  
 **Categories:** -  
 
-Article URL: https://bubblewire.net/ Comments URL: https://news.ycombinator.com/item?id=48552985 Points: 3 # Comments: 0
+Article URL: https://www.zdnet.com/article/chainguard-athena-coalition-fixes-open-source-flaws-before-ai-attackers-exploit/ Comments URL: https://news.ycombinator.com/item?id=48557229 Points: 3 # Comments: 0
 
-📖 [Read original article](https://bubblewire.net/)
+📖 [Read original article](https://www.zdnet.com/article/chainguard-athena-coalition-fixes-open-source-flaws-before-ai-attackers-exploit/)
 
 ---
 
-## 12. AI Instruction Use 78.7% of repos configure 1 tool but devs use avg 2-4
+## 12. Publishers to bill AI firms for unwanted scraping or take them to court
 
-**Author:** olijboyd  
-**Published:** 6/16/2026, 10:07:21 AM  
+**Author:** thm  
+**Published:** 6/16/2026, 3:52:32 PM  
 **Categories:** -  
 
-Article URL: https://tomevault.io/standards/state-reports/2026 Comments URL: https://news.ycombinator.com/item?id=48552977 Points: 2 # Comments: 0
+Article URL: https://pressgazette.co.uk/news/publishers-to-bill-ai-firms-for-unwanted-scraping-and-take-them-to-court-if-they-dont-pay/ Comments URL: https://news.ycombinator.com/item?id=48557221 Points: 3 # Comments: 0
 
-📖 [Read original article](https://tomevault.io/standards/state-reports/2026)
+📖 [Read original article](https://pressgazette.co.uk/news/publishers-to-bill-ai-firms-for-unwanted-scraping-and-take-them-to-court-if-they-dont-pay/)
 
 ---
 
-## 13. I'm building a local-first TypeScript guard for runaway AI-agent costs
+## 13. A look into Ubuntu Core 26: Building a local AI inference appliance
 
-**Author:** salim2006  
-**Published:** 6/16/2026, 10:05:20 AM  
+**Author:** jruohonen  
+**Published:** 6/16/2026, 3:41:42 PM  
 **Categories:** -  
 
-Article URL: https://github.com/salimassili62-afk/ai-costguard Comments URL: https://news.ycombinator.com/item?id=48552958 Points: 1 # Comments: 0
+Article URL: https://ubuntu.com/blog/ubuntu-core-26-ai-box Comments URL: https://news.ycombinator.com/item?id=48557018 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/salimassili62-afk/ai-costguard)
+📖 [Read original article](https://ubuntu.com/blog/ubuntu-core-26-ai-box)
 
 ---
 
-## 14. Show HN: ProData AI – 14 MCP tools for automated data science
+## 14. Local AI Is Not Ready for Coding. Yet?
 
-**Author:** varunwalekar  
-**Published:** 6/16/2026, 9:32:37 AM  
+**Author:** speckx  
+**Published:** 6/16/2026, 3:33:45 PM  
 **Categories:** -  
 
-Article URL: https://mcpize.com/mcp/prodata-ai Comments URL: https://news.ycombinator.com/item?id=48552733 Points: 2 # Comments: 0
+Article URL: https://mmlac.com/blog/local-ai-not-ready-for-coding-yet/ Comments URL: https://news.ycombinator.com/item?id=48556879 Points: 2 # Comments: 0
 
-📖 [Read original article](https://mcpize.com/mcp/prodata-ai)
+📖 [Read original article](https://mmlac.com/blog/local-ai-not-ready-for-coding-yet/)
 
 ---
 
-## 15. Tensordyne Napier AI Processor Announced with Logarithmic Math
+## 15. Show HN: An AI resume tool that never invents experience you didn't have
 
-**Author:** lumpa  
-**Published:** 6/16/2026, 9:18:46 AM  
+**Author:** Xotic007  
+**Published:** 6/16/2026, 3:22:50 PM  
 **Categories:** -  
 
-Article URL: https://www.servethehome.com/tensordyne-napier-ai-processor-announced-with-logarithmic-math/ Comments URL: https://news.ycombinator.com/item?id=48552631 Points: 1 # Comments: 0
+I have seen way too many people waste time tailoring their resumes to a specific Job description, practicing interview questions etc. and most of them don't trust AI tailoring and rightfully so, cuz it invents experience you never had. All it takes is the interviewer asking you one question that you...
 
-📖 [Read original article](https://www.servethehome.com/tensordyne-napier-ai-processor-announced-with-logarithmic-math/)
+📖 [Read original article](https://hiredcopilot.com)
 
 ---
 
-## 16. South Korea Politicians Wants AI Profit Sharing
+## 16. After AI Takes Everything
 
-**Author:** thomasfl  
-**Published:** 6/16/2026, 9:17:26 AM  
+**Author:** speckx  
+**Published:** 6/16/2026, 3:20:05 PM  
 **Categories:** -  
 
-Article URL: https://www.gadgetreview.com/south-korea-floats-citizen-dividend-ai-profit-sharing-as-tech-stocks-tank Comments URL: https://news.ycombinator.com/item?id=48552626 Points: 2 # Comments: 1
+Article URL: https://ursb.me/en/posts/after-ai-takes-everything/ Comments URL: https://news.ycombinator.com/item?id=48556644 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.gadgetreview.com/south-korea-floats-citizen-dividend-ai-profit-sharing-as-tech-stocks-tank)
+📖 [Read original article](https://ursb.me/en/posts/after-ai-takes-everything/)
 
 ---
 
-## 17. Nubase – an open-source back end/deploy layer for AI-written apps
+## 17. Show HN: AI vs. AI – code and reviews only count if they survive an attack
 
-**Author:** jipengfei1016  
-**Published:** 6/16/2026, 9:11:36 AM  
+**Author:** lolu1032  
+**Published:** 6/16/2026, 3:15:06 PM  
 **Categories:** -  
 
-Article URL: https://github.com/OtterMind/Nubase Comments URL: https://news.ycombinator.com/item?id=48552581 Points: 2 # Comments: 0
+Pantheon is a technique for generating each subagent, generating code with different solutions, breaking it and writing code that ultimately survives. For Pantheon-X, GPT 5.5 is broken, and GPT is broken and surviving is the last skill to write code written by Claudette. In the case of Pancheon Gap,...
 
-📖 [Read original article](https://github.com/OtterMind/Nubase)
+📖 [Read original article](https://github.com/lolu1032/pantheon-skills)
 
 ---
 
-## 18. What I learned using AI to build a Kubernetes Operator for Supabase's Multigres
+## 18. Show HN: Infer0 – do AI apps need subscriptions?
 
-**Author:** DevOpsy  
-**Published:** 6/16/2026, 8:56:01 AM  
+**Author:** sumolessons  
+**Published:** 6/16/2026, 3:12:22 PM  
 **Categories:** -  
 
-Article URL: https://numtide.com/blog/writing-a-kubernetes-operator-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48552471 Points: 2 # Comments: 0
+One thing that’s been bothering me about AI side projects is inference costs. With traditional software, a successful launch usually means higher profits. But with AI products, success can mean unexpectedly large bills.This has pushed me toward cheaper, less capable models and made me hesitate to ev...
 
-📖 [Read original article](https://numtide.com/blog/writing-a-kubernetes-operator-in-the-age-of-ai/)
+📖 [Read original article](https://infer0.com/)
 
 ---
 
-## 19. Show HN: Langusta – an AI voice tutor for practicing spoken languages (PWA)
+## 19. AI is good at web design now
 
-**Author:** grajo  
-**Published:** 6/16/2026, 8:21:15 AM  
+**Author:** benshumaker  
+**Published:** 6/16/2026, 3:04:22 PM  
 **Categories:** -  
 
-Article URL: https://langusta.me/ Comments URL: https://news.ycombinator.com/item?id=48552199 Points: 2 # Comments: 3
+Article URL: https://repaint.com/blog/ai-is-good-at-web-design-now Comments URL: https://news.ycombinator.com/item?id=48556404 Points: 5 # Comments: 0
 
-📖 [Read original article](https://langusta.me/)
+📖 [Read original article](https://repaint.com/blog/ai-is-good-at-web-design-now)
 
 ---
 
-## 20. Rate AI coding agents and gain reputation
+## 20. Show HN: Replicating a Harvard study on AI's employment impact – Autonomously
 
-**Author:** reStrugly  
-**Published:** 6/16/2026, 8:18:20 AM  
+**Author:** robeenly  
+**Published:** 6/16/2026, 2:55:18 PM  
 **Categories:** -  
 
-Article URL: https://elolup.com/ Comments URL: https://news.ycombinator.com/item?id=48552174 Points: 3 # Comments: 2
+We used NeuGBI to replicate "Generative AI as Seniority-Biased Technological Change" (HBS, 2025) on the same Revelio Lab dataset — 300M U.S. employment records.The paper's finding: AI disproportionately affects junior positions (−29.4%) vs. senior (−5.8%). NeuGBI arrived at the same conclusion auton...
 
-📖 [Read original article](https://elolup.com/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48556246)
 
 ---
