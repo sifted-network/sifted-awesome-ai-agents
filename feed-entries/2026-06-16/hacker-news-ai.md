@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Supply Chain Capitalism, Platform Mercantilism, AI Coup
+## 1. Use AI without compromising data security or privacy
 
-**Author:** doener  
-**Published:** 6/16/2026, 4:45:12 PM  
+**Author:** pros  
+**Published:** 6/16/2026, 8:52:02 PM  
 **Categories:** -  
 
-Article URL: https://www.ctrl-verlust.net/supplychain-kapitalismus-plattform-merkantilismus-ki-coup-und-die-grundrisse-einer-politischen-oekonomie-der-abhaengigkeiten/ Comments URL: https://news.ycombinator.com/item?id=48558086 Points: 1 # Comments: 0
+Article URL: https://www.privatemode.ai/ Comments URL: https://news.ycombinator.com/item?id=48561896 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ctrl-verlust.net/supplychain-kapitalismus-plattform-merkantilismus-ki-coup-und-die-grundrisse-einer-politischen-oekonomie-der-abhaengigkeiten/)
+📖 [Read original article](https://www.privatemode.ai/)
 
 ---
 
-## 2. I packaged 20 years of enterprise AI sales experience as a Claude Skill
+## 2. Did AI write this article?
 
-**Author:** alphaspawn14  
-**Published:** 6/16/2026, 4:43:25 PM  
+**Author:** vinni2  
+**Published:** 6/16/2026, 8:24:33 PM  
 **Categories:** -  
 
-Article URL: https://github.com/vonarmen-wq/forward-deployed-selling Comments URL: https://news.ycombinator.com/item?id=48558062 Points: 1 # Comments: 0
+Article URL: https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article Comments URL: https://news.ycombinator.com/item?id=48561511 Points: 2 # Comments: 2
 
-📖 [Read original article](https://github.com/vonarmen-wq/forward-deployed-selling)
+📖 [Read original article](https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article)
 
 ---
 
-## 3. The Pokémon Trading Card Game AI Battle Challenge
+## 3. Lexar Wants to Offload Local AI Models to SSD Amid the RAMpocalypse
 
-**Author:** esnard  
-**Published:** 6/16/2026, 4:37:30 PM  
+**Author:** green_biri  
+**Published:** 6/16/2026, 8:09:04 PM  
 **Categories:** -  
 
-Article URL: https://ptcg-abc.pokemon.co.jp/ Comments URL: https://news.ycombinator.com/item?id=48557964 Points: 2 # Comments: 0
+Article URL: https://www.techpowerup.com/350009/lexar-wants-to-offload-local-ai-models-to-ssd-amid-the-rampocalypse Comments URL: https://news.ycombinator.com/item?id=48561278 Points: 3 # Comments: 2
 
-📖 [Read original article](https://ptcg-abc.pokemon.co.jp/)
+📖 [Read original article](https://www.techpowerup.com/350009/lexar-wants-to-offload-local-ai-models-to-ssd-amid-the-rampocalypse)
 
 ---
 
-## 4. Show HN: Dino – An AI coding agent that keeps you in the loop
+## 4. AI's Brokenomics
 
-**Author:** ylian  
-**Published:** 6/16/2026, 4:35:57 PM  
+**Author:** sarmike31  
+**Published:** 6/16/2026, 8:03:45 PM  
 **Categories:** -  
 
-Article URL: https://smartdino.dev Comments URL: https://news.ycombinator.com/item?id=48557935 Points: 1 # Comments: 0
+Article URL: https://www.wheresyoured.at/brokenomics/ Comments URL: https://news.ycombinator.com/item?id=48561181 Points: 3 # Comments: 0
 
-📖 [Read original article](https://smartdino.dev)
+📖 [Read original article](https://www.wheresyoured.at/brokenomics/)
 
 ---
 
-## 5. Uncritical use of AI causes countrywide scandal at Starbucks Korea
+## 5. Show HN: I'm 15, built an AI that watches your screen and acts before you ask
 
-**Author:** Blackthorn  
-**Published:** 6/16/2026, 4:23:53 PM  
+**Author:** anqer  
+**Published:** 6/16/2026, 7:54:07 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotionBuriedlede:AIcausedthis%3EMarketerschosethe“thwack”sloganafterconsultinganAItoolforsuggestions,ShinsegaeGroupsaid.Itturnedoutsomemanagerswhoapprovedthecampaignneveropenedtheemailattachmentssh...
+Can I have some feedback? Comments URL: https://news.ycombinator.com/item?id=48561017 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotionBuriedlede:AIcausedthis%3EMarketerschosethe“thwack”sloganafterconsultinganAItoolforsuggestions,ShinsegaeGroupsaid.Itturnedoutsomemanagerswhoapprovedthecampaignneveropenedtheemailattachmentsshowingthemarketingmaterial.%3EThecompanypulledthecampaignwithinhours,butthefalloutwasswiftandthechiefexecutivewassackedthesameday.)
+📖 [Read original article](https://github.com/Helmus101/weave)
 
 ---
 
-## 6. The AI Hype – Too Costly – Alternative Rock, Original Lyrics [Video]
+## 6. AI is potentially a Dunning-Kruger effect amplifier
 
-**Author:** NedCode  
-**Published:** 6/16/2026, 4:19:04 PM  
+**Author:** binyu  
+**Published:** 6/16/2026, 7:47:13 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=jwfuNk2cRDc Comments URL: https://news.ycombinator.com/item?id=48557654 Points: 2 # Comments: 0
+Article URL: https://twitter.com/i/status/2066825204207091926 Comments URL: https://news.ycombinator.com/item?id=48560913 Points: 23 # Comments: 3
 
-📖 [Read original article](https://www.youtube.com/watch?v=jwfuNk2cRDc)
+📖 [Read original article](https://twitter.com/i/status/2066825204207091926)
 
 ---
 
-## 7. SearchGate – An AI Content Blocker
+## 7. We built an agent that runs our AI data platform
 
-**Author:** sorethescore  
-**Published:** 6/16/2026, 4:00:57 PM  
+**Author:** ulrikhansen54  
+**Published:** 6/16/2026, 7:45:20 PM  
 **Categories:** -  
 
-Article URL: https://chromewebstore.google.com/detail/searchgate/cholhbhkhcnekbbobehnepiifckhbmkd Comments URL: https://news.ycombinator.com/item?id=48557343 Points: 2 # Comments: 0
+Article URL: https://encord.com/blog/merlin-encord-mcp-agentic-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48560889 Points: 6 # Comments: 0
 
-📖 [Read original article](https://chromewebstore.google.com/detail/searchgate/cholhbhkhcnekbbobehnepiifckhbmkd)
+📖 [Read original article](https://encord.com/blog/merlin-encord-mcp-agentic-intelligence/)
 
 ---
 
-## 8. FT Alphaville's AI Prediction World Cup
+## 8. Tyler Cowen: A Dangerous Turn in AI Regulation
 
-**Author:** aanet  
-**Published:** 6/16/2026, 4:00:43 PM  
+**Author:** paulpauper  
+**Published:** 6/16/2026, 7:40:07 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/ce992051-05f4-40cd-a515-1ccd615f9e40 Comments URL: https://news.ycombinator.com/item?id=48557339 Points: 2 # Comments: 1
+Article URL: https://www.thefp.com/p/tyler-cowen-a-dangerous-turn-in-ai Comments URL: https://news.ycombinator.com/item?id=48560807 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/ce992051-05f4-40cd-a515-1ccd615f9e40)
+📖 [Read original article](https://www.thefp.com/p/tyler-cowen-a-dangerous-turn-in-ai)
 
 ---
 
-## 9. The Era of AI Malaise
+## 9. AI Consciousness:The Delusionals and the Philosopher's Bench
 
-**Author:** karakoram  
-**Published:** 6/16/2026, 3:58:32 PM  
+**Author:** Avid_F  
+**Published:** 6/16/2026, 7:36:51 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/04/21/1135921/ai-malaise-artificial-intelligence-public-sentiment/ Comments URL: https://news.ycombinator.com/item?id=48557306 Points: 2 # Comments: 1
+Article URL: https://www.avidfayaz.com/writings/delusionals/the-delusionals-and-the-philosophers-bench Comments URL: https://news.ycombinator.com/item?id=48560752 Points: 8 # Comments: 1
 
-📖 [Read original article](https://www.technologyreview.com/2026/04/21/1135921/ai-malaise-artificial-intelligence-public-sentiment/)
+📖 [Read original article](https://www.avidfayaz.com/writings/delusionals/the-delusionals-and-the-philosophers-bench)
 
 ---
 
-## 10. Why AI Will Accelerate Health Care Inflation
+## 10. Lutnick's Letter to Anthropic Warned of Curbs on Top AI Models
 
-**Author:** brandonb  
-**Published:** 6/16/2026, 3:55:45 PM  
+**Author:** airstrike  
+**Published:** 6/16/2026, 7:17:55 PM  
 **Categories:** -  
 
-Article URL: https://www.healthaffairs.org/content/forefront/why-ai-accelerate-health-care-inflation Comments URL: https://news.ycombinator.com/item?id=48557264 Points: 4 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models Comments URL: https://news.ycombinator.com/item?id=48560498 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.healthaffairs.org/content/forefront/why-ai-accelerate-health-care-inflation)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models)
 
 ---
 
-## 11. Chainguard's new Athena coalition uses AI to fix open-source flaws
+## 11. Hillock – Local, brain-inspired AI memory using SQLite and HDC
 
-**Author:** amouat  
-**Published:** 6/16/2026, 3:53:26 PM  
+**Author:** roandejager  
+**Published:** 6/16/2026, 7:16:19 PM  
 **Categories:** -  
 
-Article URL: https://www.zdnet.com/article/chainguard-athena-coalition-fixes-open-source-flaws-before-ai-attackers-exploit/ Comments URL: https://news.ycombinator.com/item?id=48557229 Points: 3 # Comments: 0
+Article URL: https://github.com/roandejager/Hillock Comments URL: https://news.ycombinator.com/item?id=48560483 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.zdnet.com/article/chainguard-athena-coalition-fixes-open-source-flaws-before-ai-attackers-exploit/)
+📖 [Read original article](https://github.com/roandejager/Hillock)
 
 ---
 
-## 12. Publishers to bill AI firms for unwanted scraping or take them to court
+## 12. OpalAI Got Two NASA Contracts to Build AI for Wildfire Intelligence
 
-**Author:** thm  
-**Published:** 6/16/2026, 3:52:32 PM  
+**Author:** opalai  
+**Published:** 6/16/2026, 7:08:25 PM  
 **Categories:** -  
 
-Article URL: https://pressgazette.co.uk/news/publishers-to-bill-ai-firms-for-unwanted-scraping-and-take-them-to-court-if-they-dont-pay/ Comments URL: https://news.ycombinator.com/item?id=48557221 Points: 3 # Comments: 0
+Article URL: https://www.opal-ai.com Comments URL: https://news.ycombinator.com/item?id=48560372 Points: 3 # Comments: 0
 
-📖 [Read original article](https://pressgazette.co.uk/news/publishers-to-bill-ai-firms-for-unwanted-scraping-and-take-them-to-court-if-they-dont-pay/)
+📖 [Read original article](https://www.opal-ai.com)
 
 ---
 
-## 13. A look into Ubuntu Core 26: Building a local AI inference appliance
-
-**Author:** jruohonen  
-**Published:** 6/16/2026, 3:41:42 PM  
-**Categories:** -  
-
-Article URL: https://ubuntu.com/blog/ubuntu-core-26-ai-box Comments URL: https://news.ycombinator.com/item?id=48557018 Points: 3 # Comments: 0
-
-📖 [Read original article](https://ubuntu.com/blog/ubuntu-core-26-ai-box)
-
----
-
-## 14. Local AI Is Not Ready for Coding. Yet?
+## 13. Leviathan Waking – On Anthropic/USG, and a new era in AI governance
 
 **Author:** speckx  
-**Published:** 6/16/2026, 3:33:45 PM  
+**Published:** 6/16/2026, 7:01:55 PM  
 **Categories:** -  
 
-Article URL: https://mmlac.com/blog/local-ai-not-ready-for-coding-yet/ Comments URL: https://news.ycombinator.com/item?id=48556879 Points: 2 # Comments: 0
+Article URL: https://www.hyperdimensional.co/p/leviathan-waking Comments URL: https://news.ycombinator.com/item?id=48560301 Points: 4 # Comments: 0
 
-📖 [Read original article](https://mmlac.com/blog/local-ai-not-ready-for-coding-yet/)
+📖 [Read original article](https://www.hyperdimensional.co/p/leviathan-waking)
 
 ---
 
-## 15. Show HN: An AI resume tool that never invents experience you didn't have
+## 14. AI and brain-computer interface allow speechless ALS patient to work full-time
 
-**Author:** Xotic007  
-**Published:** 6/16/2026, 3:22:50 PM  
+**Author:** geekinchief  
+**Published:** 6/16/2026, 6:45:43 PM  
 **Categories:** -  
 
-I have seen way too many people waste time tailoring their resumes to a specific Job description, practicing interview questions etc. and most of them don't trust AI tailoring and rightfully so, cuz it invents experience you never had. All it takes is the interviewer asking you one question that you...
+Article URL: https://www.theregister.com/science/2026/06/16/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job/5256492 Comments URL: https://news.ycombinator.com/item?id=48560039 Points: 4 # Comments: 1
 
-📖 [Read original article](https://hiredcopilot.com)
+📖 [Read original article](https://www.theregister.com/science/2026/06/16/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job/5256492)
 
 ---
 
-## 16. After AI Takes Everything
+## 15. The Anthropic Fable saga proves: we have opened the AI Pandora's box. What now?
 
-**Author:** speckx  
-**Published:** 6/16/2026, 3:20:05 PM  
+**Author:** kuerbel  
+**Published:** 6/16/2026, 6:45:14 PM  
 **Categories:** -  
 
-Article URL: https://ursb.me/en/posts/after-ai-takes-everything/ Comments URL: https://news.ycombinator.com/item?id=48556644 Points: 3 # Comments: 0
+Article URL: https://www.theguardian.com/commentisfree/2026/jun/16/anthropic-fable-ai Comments URL: https://news.ycombinator.com/item?id=48560032 Points: 3 # Comments: 0
 
-📖 [Read original article](https://ursb.me/en/posts/after-ai-takes-everything/)
+📖 [Read original article](https://www.theguardian.com/commentisfree/2026/jun/16/anthropic-fable-ai)
 
 ---
 
-## 17. Show HN: AI vs. AI – code and reviews only count if they survive an attack
+## 16. I took the le chaton fat AI model meme a step further by making a model
 
-**Author:** lolu1032  
-**Published:** 6/16/2026, 3:15:06 PM  
+**Author:** zuda  
+**Published:** 6/16/2026, 6:44:25 PM  
 **Categories:** -  
 
-Pantheon is a technique for generating each subagent, generating code with different solutions, breaking it and writing code that ultimately survives. For Pantheon-X, GPT 5.5 is broken, and GPT is broken and surviving is the last skill to write code written by Claudette. In the case of Pancheon Gap,...
+Article URL: https://github.com/princezuda/lechatonfat Comments URL: https://news.ycombinator.com/item?id=48560020 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/lolu1032/pantheon-skills)
+📖 [Read original article](https://github.com/princezuda/lechatonfat)
 
 ---
 
-## 18. Show HN: Infer0 – do AI apps need subscriptions?
+## 17. Will AI End the Open Internet? [Wading Through AI – Episode 6] [video]
 
-**Author:** sumolessons  
-**Published:** 6/16/2026, 3:12:22 PM  
+**Author:** justin66  
+**Published:** 6/16/2026, 6:25:25 PM  
 **Categories:** -  
 
-One thing that’s been bothering me about AI side projects is inference costs. With traditional software, a successful launch usually means higher profits. But with AI products, success can mean unexpectedly large bills.This has pushed me toward cheaper, less capable models and made me hesitate to ev...
+Article URL: https://www.youtube.com/watch?v=gR2T1uxHG7o Comments URL: https://news.ycombinator.com/item?id=48559743 Points: 2 # Comments: 0
 
-📖 [Read original article](https://infer0.com/)
+📖 [Read original article](https://www.youtube.com/watch?v=gR2T1uxHG7o)
 
 ---
 
-## 19. AI is good at web design now
+## 18. AI's Silent Leap: From Code to Cognition
 
-**Author:** benshumaker  
-**Published:** 6/16/2026, 3:04:22 PM  
+**Author:** ameyalambat128  
+**Published:** 6/16/2026, 6:17:09 PM  
 **Categories:** -  
 
-Article URL: https://repaint.com/blog/ai-is-good-at-web-design-now Comments URL: https://news.ycombinator.com/item?id=48556404 Points: 5 # Comments: 0
+Article URL: https://ameyalambat.com/blog/ai-coding-fatigue Comments URL: https://news.ycombinator.com/item?id=48559594 Points: 4 # Comments: 0
 
-📖 [Read original article](https://repaint.com/blog/ai-is-good-at-web-design-now)
+📖 [Read original article](https://ameyalambat.com/blog/ai-coding-fatigue)
 
 ---
 
-## 20. Show HN: Replicating a Harvard study on AI's employment impact – Autonomously
+## 19. Another estimate of the productivity gains from AI
 
-**Author:** robeenly  
-**Published:** 6/16/2026, 2:55:18 PM  
+**Author:** paulpauper  
+**Published:** 6/16/2026, 6:12:30 PM  
 **Categories:** -  
 
-We used NeuGBI to replicate "Generative AI as Seniority-Biased Technological Change" (HBS, 2025) on the same Revelio Lab dataset — 300M U.S. employment records.The paper's finding: AI disproportionately affects junior positions (−29.4%) vs. senior (−5.8%). NeuGBI arrived at the same conclusion auton...
+Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6663038 Comments URL: https://news.ycombinator.com/item?id=48559519 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48556246)
+📖 [Read original article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6663038)
+
+---
+
+## 20. Please write for humans, even if an AI is reading this
+
+**Author:** sparshrestha  
+**Published:** 6/16/2026, 6:09:10 PM  
+**Categories:** -  
+
+Article URL: https://blog.sparsh.dev/write-for-humans/ Comments URL: https://news.ycombinator.com/item?id=48559470 Points: 2 # Comments: 0
+
+📖 [Read original article](https://blog.sparsh.dev/write-for-humans/)
 
 ---
