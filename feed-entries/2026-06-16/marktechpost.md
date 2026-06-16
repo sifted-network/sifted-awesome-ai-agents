@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-16"
 date: "2026-06-16"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-06-16
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Hermes Agent Adds Asynchronous Subagents, So Delegated Work No Longer Blocks the Parent Chat
+## 1. Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation
+
+**Author:** Asif Razzaq  
+**Published:** 6/16/2026, 4:51:19 PM  
+**Categories:** AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Physical AI, Robotics, Staff, Technology  
+
+We break down Qwen-RobotSuite, the Qwen team's three new embodied AI models. We cover RobotManip, a Vision-Language-Action model built on Qwen3.5-4B for manipulation. We cover RobotWorld, a language-conditioned video world model with a 60-layer MMDiT. We cover RobotNav, a navigation model built on Q...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/)
+
+---
+
+## 2. Hermes Agent Adds Asynchronous Subagents, So Delegated Work No Longer Blocks the Parent Chat
 
 **Author:** Michal Sutter  
 **Published:** 6/16/2026, 9:21:12 AM  
@@ -23,7 +35,7 @@ We look at Hermes Agent's new asynchronous subagents from Nous Research. The del
 
 ---
 
-## 2. Meet Atoms: A Vibe Coding Tool That Uses AI Agents to Build, Deploy, and Market Your App (No Code)
+## 3. Meet Atoms: A Vibe Coding Tool That Uses AI Agents to Build, Deploy, and Market Your App (No Code)
 
 **Author:** Michal Sutter  
 **Published:** 6/16/2026, 8:50:17 AM  
@@ -35,7 +47,7 @@ The concept of vibe coding is interesting; you don&#8217;t need to be a develope
 
 ---
 
-## 3. Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context
+## 4. Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context
 
 **Author:** Asif Razzaq  
 **Published:** 6/16/2026, 8:18:58 AM  
@@ -47,7 +59,7 @@ We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that 
 
 ---
 
-## 4. How to Build a Parsing Pipeline with Docling Parse for Layout-Aware Document Intelligence
+## 5. How to Build a Parsing Pipeline with Docling Parse for Layout-Aware Document Intelligence
 
 **Author:** Sana Hassan  
 **Published:** 6/16/2026, 7:20:08 AM  
