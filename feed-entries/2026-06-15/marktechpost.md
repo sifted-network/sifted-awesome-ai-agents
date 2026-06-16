@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-15"
 date: "2026-06-15"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-06-15
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs
+## 1. Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides
+
+**Author:** Asif Razzaq  
+**Published:** 6/15/2026, 10:32:50 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Enterprise AI, New Releases, Staff, Tech News, Technology, Uncategorized  
+
+Sakana AI's first commercial product runs autonomously for up to eight hours per task. It returns multi-page reports and slides, built on AB-MCTS and AI Scientist workflows. The post Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports Wit...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/)
+
+---
+
+## 2. Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs
 
 **Author:** Asif Razzaq  
 **Published:** 6/15/2026, 9:16:09 AM  
@@ -23,7 +35,7 @@ Flash-KMeans is an open-source, IO-aware implementation of standard Lloyd's k-me
 
 ---
 
-## 2. Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch
+## 3. Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch
 
 **Author:** Michal Sutter  
 **Published:** 6/15/2026, 6:10:23 AM  
@@ -35,7 +47,7 @@ Z.ai launched GLM-5.2 on June 13, 2026, across every GLM Coding Plan tier. The h
 
 ---
 
-## 3. Claude Code Guide 2026: 25 Features with Examples + Demo
+## 4. Claude Code Guide 2026: 25 Features with Examples + Demo
 
 **Author:** Michal Sutter  
 **Published:** 6/15/2026, 1:04:53 AM  
