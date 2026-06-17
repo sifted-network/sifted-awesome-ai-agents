@@ -11,7 +11,55 @@ count: 10
 
 ---
 
-## 1. 算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级
+## 1. 刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！
+
+**Author:** 十三  
+**Published:** 6/17/2026, 1:07:48 PM  
+**Categories:** 资讯, 首页轮播, token, Token工厂, 九章云极, 算力, 训练工厂  
+
+计划1000倍综合降本
+
+📖 [Read original article](https://www.qbitai.com/2026/06/436456.html)
+
+---
+
+## 2. AI转型最大的门槛，不是技术，是人
+
+**Author:** 克雷西  
+**Published:** 6/17/2026, 12:36:40 PM  
+**Categories:** 资讯, 浪潮信息  
+
+不主动改变，就只能等着被改变
+
+📖 [Read original article](https://www.qbitai.com/2026/06/436435.html)
+
+---
+
+## 3. 星海图创始人高继扬：具身智能三层技术路线，没有捷径可走
+
+**Author:** 田, 晏林  
+**Published:** 6/17/2026, 10:55:19 AM  
+**Categories:** 资讯  
+
+砸2亿只为“喂”数据？星海图在WDC上扔出三个信号弹。
+
+📖 [Read original article](https://www.qbitai.com/2026/06/436223.html)
+
+---
+
+## 4. 九章云极发布“AI工厂”战略 定义智能规模化新基建
+
+**Author:** 量子位的朋友们  
+**Published:** 6/17/2026, 10:51:07 AM  
+**Categories:** 资讯  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/06/436224.html)
+
+---
+
+## 5. 算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级
 
 **Author:** 量子位的朋友们  
 **Published:** 6/17/2026, 10:16:03 AM  
@@ -23,9 +71,9 @@ count: 10
 
 ---
 
-## 2. 为什么最有价值的AI讨论总发生在知乎？
+## 6. 为什么最有价值的AI讨论总发生在知乎？
 
-**Author:** 克雷西  
+**Author:** 允中  
 **Published:** 6/17/2026, 10:13:07 AM  
 **Categories:** 资讯, 知乎  
 
@@ -35,7 +83,7 @@ count: 10
 
 ---
 
-## 3. 困住医疗AI的死循环，终于有国产玩家跑通了
+## 7. 困住医疗AI的死循环，终于有国产玩家跑通了
 
 **Author:** 一水  
 **Published:** 6/17/2026, 8:13:50 AM  
@@ -47,7 +95,7 @@ count: 10
 
 ---
 
-## 4. 微信支付发布AI专属卡 WorkBuddy率先接入
+## 8. 微信支付发布AI专属卡 WorkBuddy率先接入
 
 **Author:** 闻乐  
 **Published:** 6/17/2026, 6:56:51 AM  
@@ -59,7 +107,7 @@ count: 10
 
 ---
 
-## 5. 头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投
+## 9. 头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投
 
 **Author:** henry  
 **Published:** 6/17/2026, 6:22:39 AM  
@@ -71,7 +119,7 @@ count: 10
 
 ---
 
-## 6. 林俊旸新公司卜拉格亮相！首轮估值135亿，腾讯高榕红杉全投了
+## 10. 林俊旸新公司卜拉格亮相！首轮估值135亿，腾讯高榕红杉全投了
 
 **Author:** henry  
 **Published:** 6/17/2026, 6:17:22 AM  
@@ -80,53 +128,5 @@ count: 10
 高榕创投与红杉中国联合领投，各出资1亿美元。腾讯跟投2000万美元
 
 📖 [Read original article](https://www.qbitai.com/2026/06/436138.html)
-
----
-
-## 7. Grok 4.3现已在Amazon Bedrock上正式可用
-
-**Author:** 量子位的朋友们  
-**Published:** 6/17/2026, 5:59:53 AM  
-**Categories:** 资讯, Amazon Bedrock, Grok 4.3, 亚马逊云科技  
-
-xAI正式成为Amazon Bedrock的模型供应商之一
-
-📖 [Read original article](https://www.qbitai.com/2026/06/436134.html)
-
----
-
-## 8. 六连冠！文远知行再度刷新中国智驾大赛连胜纪录
-
-**Author:** 量子位的朋友们  
-**Published:** 6/17/2026, 4:35:41 AM  
-**Categories:** 资讯, 文远知行, 智驾, 端到端自动驾驶  
-
-转载来源：文远知行 本文为量子位获授权转载，观点仅为原作者所有。
-
-📖 [Read original article](https://www.qbitai.com/2026/06/436130.html)
-
----
-
-## 9. 天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团
-
-**Author:** 量子位的朋友们  
-**Published:** 6/17/2026, 4:32:09 AM  
-**Categories:** 资讯, 天工  
-
-天工超级智能体的收入实现了三倍增长
-
-📖 [Read original article](https://www.qbitai.com/2026/06/436110.html)
-
----
-
-## 10. 刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！
-
-**Author:** 十三  
-**Published:** 6/17/2026, 2:42:10 AM  
-**Categories:** 资讯, 首页轮播, AI编程, GLM-5.2, 智谱  
-
-1M上下文
-
-📖 [Read original article](https://www.qbitai.com/2026/06/436085.html)
 
 ---
