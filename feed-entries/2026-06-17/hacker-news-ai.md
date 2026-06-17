@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Ask HN: Does your mind drift while waiting for AI prompts to finish?
+## 1. Show HN: Vessel Browser – Open-Source AI-Native Browser with Skills
 
-**Author:** cryptoSympozium  
-**Published:** 6/17/2026, 10:37:09 AM  
+**Author:** unmodeledtyler  
+**Published:** 6/17/2026, 8:04:58 PM  
 **Categories:** -  
 
-I've been a software engineer for 9 years now, and I noticed a very new weirdness in my workflows. Once I finish the architecture of a project and i have my context engineering prompt ready, I hit SEND, and then is just void lol. I have realized that between that time of waiting till AI is done, my ...
+Hey HackerNews!My name is Tyler and I'm the solo founder of Quanta Intellect.I'm excited to share an update to Vessel Browser with you today!You can now either import an existing skill or create a new one in the Skills tab. Then, invoke your skill in agent panel with a "/" command!Vessel Browser is ...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48568372)
+📖 [Read original article](https://github.com/unmodeled-tyler/vessel-browser)
 
 ---
 
-## 2. AI Scenarios 2030: Helping policymakers plan for the future of AI
+## 2. Turn your AI coding agent into a read-only compliance auditor
 
-**Author:** hunglee2  
-**Published:** 6/17/2026, 10:25:57 AM  
+**Author:** bohdan_t  
+**Published:** 6/17/2026, 7:51:28 PM  
 **Categories:** -  
 
-Article URL: https://www.gov.uk/government/publications/ai-scenarios-2030-helping-policymakers-plan-for-the-future-of-ai/ai-scenarios-2030-helping-policymakers-plan-for-the-future-of-ai Comments URL: https://news.ycombinator.com/item?id=48568275 Points: 1 # Comments: 0
+Article URL: https://github.com/bohdan1288-dotcom/ai-audit-orchestrator Comments URL: https://news.ycombinator.com/item?id=48575897 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.gov.uk/government/publications/ai-scenarios-2030-helping-policymakers-plan-for-the-future-of-ai/ai-scenarios-2030-helping-policymakers-plan-for-the-future-of-ai)
+📖 [Read original article](https://github.com/bohdan1288-dotcom/ai-audit-orchestrator)
 
 ---
 
-## 3. AI Made Internal Tools Easy to Build. Keeping Them Alive Is the Hard Part
+## 3. ChatGPT's AI Assistant market share <50% as Gemini and Claude grow
 
-**Author:** andreypt  
-**Published:** 6/17/2026, 10:20:50 AM  
+**Author:** bhouston  
+**Published:** 6/17/2026, 7:39:31 PM  
 **Categories:** -  
 
-Article URL: https://www.dforge.io/blog/internal-tools-built-to-last Comments URL: https://news.ycombinator.com/item?id=48568221 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=48575727 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.dforge.io/blog/internal-tools-built-to-last)
+📖 [Read original article](https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/)
 
 ---
 
-## 4. How many Americans are using AI – and how?
+## 4. AI coding agents taught robots how to install GPUs and cut zip-ties
 
-**Author:** giuliomagnifico  
-**Published:** 6/17/2026, 10:13:27 AM  
+**Author:** pseudolus  
+**Published:** 6/17/2026, 7:39:07 PM  
 **Categories:** -  
 
-Article URL: https://usafacts.org/articles/how-many-americans-are-using-ai-and-how/ Comments URL: https://news.ycombinator.com/item?id=48568174 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/ Comments URL: https://news.ycombinator.com/item?id=48575722 Points: 2 # Comments: 0
 
-📖 [Read original article](https://usafacts.org/articles/how-many-americans-are-using-ai-and-how/)
+📖 [Read original article](https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/)
 
 ---
 
-## 5. Genesis AI launches Eno general-purpose robot
+## 5. Cem888.ai – 99.9% AR, 77.2% Beam – Filesystem Memory Beats RAG
 
-**Author:** vinodstartup  
-**Published:** 6/17/2026, 10:05:12 AM  
+**Author:** cem888ctl  
+**Published:** 6/17/2026, 7:31:48 PM  
 **Categories:** -  
 
-Article URL: https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/ Comments URL: https://news.ycombinator.com/item?id=48568119 Points: 1 # Comments: 0
+Article URL: https://github.com/CEM888AI/CEM888.AI-Site Comments URL: https://news.ycombinator.com/item?id=48575589 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/)
+📖 [Read original article](https://github.com/CEM888AI/CEM888.AI-Site)
 
 ---
 
-## 6. AI Cyber Tools Move into a New Phase as Governments Tighten Control
+## 6. Russian families use AI to 'resurrect' loved ones killed in Ukraine
 
-**Author:** aledevv  
-**Published:** 6/17/2026, 10:04:39 AM  
+**Author:** tartoran  
+**Published:** 6/17/2026, 7:30:29 PM  
 **Categories:** -  
 
-Article URL: https://freedomforallamericans.org/ai-cyber-tools-government-control/ Comments URL: https://news.ycombinator.com/item?id=48568113 Points: 1 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/cwy24v72n19o Comments URL: https://news.ycombinator.com/item?id=48575575 Points: 2 # Comments: 0
 
-📖 [Read original article](https://freedomforallamericans.org/ai-cyber-tools-government-control/)
+📖 [Read original article](https://www.bbc.com/news/articles/cwy24v72n19o)
 
 ---
 
-## 7. Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload
+## 7. Retool Launches React AI App Builder
 
-**Author:** ruimbarreira  
-**Published:** 6/17/2026, 9:48:59 AM  
+**Author:** herbertl  
+**Published:** 6/17/2026, 7:28:25 PM  
 **Categories:** -  
 
-Article URL: https://brevio.pro Comments URL: https://news.ycombinator.com/item?id=48568023 Points: 3 # Comments: 0
+Article URL: https://retool.com/blog/retool-launches-react-ai-app-builder Comments URL: https://news.ycombinator.com/item?id=48575541 Points: 2 # Comments: 0
 
-📖 [Read original article](https://brevio.pro)
+📖 [Read original article](https://retool.com/blog/retool-launches-react-ai-app-builder)
 
 ---
 
-## 8. Companies question cost of AI as tokenmaxxing spending adds up
+## 8. Lessons Learnt from Writing an AI Agent
 
-**Author:** uladzislau  
-**Published:** 6/17/2026, 9:42:12 AM  
+**Author:** risingsong  
+**Published:** 6/17/2026, 7:24:04 PM  
 **Categories:** -  
 
-Article URL: https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680 Comments URL: https://news.ycombinator.com/item?id=48567978 Points: 1 # Comments: 0
+Article URL: https://www.browserless.io/blog/writing-an-ai-agent Comments URL: https://news.ycombinator.com/item?id=48575480 Points: 6 # Comments: 0
 
-📖 [Read original article](https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680)
+📖 [Read original article](https://www.browserless.io/blog/writing-an-ai-agent)
 
 ---
 
-## 9. The Joy of Tech: A Different Path for Products, People, & AI
+## 9. The hacker sent by Anthropic to calm the government's nerves about AI safety
 
-**Author:** schvenk  
-**Published:** 6/17/2026, 9:32:23 AM  
+**Author:** Brajeshwar  
+**Published:** 6/17/2026, 7:22:02 PM  
 **Categories:** -  
 
-Article URL: https://blog.dfeldman.co/the-joy-of-tech-a-different-path-for-products-people-ai-df122b28764e Comments URL: https://news.ycombinator.com/item?id=48567906 Points: 2 # Comments: 0
-
-📖 [Read original article](https://blog.dfeldman.co/the-joy-of-tech-a-different-path-for-products-people-ai-df122b28764e)
-
----
-
-## 10. Which AI agent spent the money on your OpenAI/Anthropic bill
-
-**Author:** nu11P01nt3r  
-**Published:** 6/17/2026, 9:30:40 AM  
-**Categories:** -  
-
-Article URL: https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks Comments URL: https://news.ycombinator.com/item?id=48567889 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks)
-
----
-
-## 11. Pentagon used Elon Musk's Grok AI to fire 2k missiles at Iran, official says
-
-**Author:** cbg0  
-**Published:** 6/17/2026, 9:13:50 AM  
-**Categories:** -  
-
-Article URL: https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-grok-ai-iran-missiles-pentagon-b2997321.html Comments URL: https://news.ycombinator.com/item?id=48567771 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-grok-ai-iran-missiles-pentagon-b2997321.html)
-
----
-
-## 12. Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them
-
-**Author:** rowbin  
-**Published:** 6/17/2026, 9:12:45 AM  
-**Categories:** -  
-
-Article URL: https://www.infoq.com/news/2026/06/oracle-genai-policies/ Comments URL: https://news.ycombinator.com/item?id=48567765 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.infoq.com/news/2026/06/oracle-genai-policies/)
-
----
-
-## 13. Distributed AI on AWS
-
-**Author:** gjmveloso  
-**Published:** 6/17/2026, 9:11:09 AM  
-**Categories:** -  
-
-Article URL: https://www.day1training.com/ Comments URL: https://news.ycombinator.com/item?id=48567755 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.day1training.com/)
-
----
-
-## 14. Multiple JetBrains IDE plugins caught stealing AI keys
-
-**Author:** sschueller  
-**Published:** 6/17/2026, 8:54:47 AM  
-**Categories:** -  
-
-Article URL: https://www.aikido.dev/blog/multiple-jetbrains-ide-plugins-caught-stealing-ai-keys Comments URL: https://news.ycombinator.com/item?id=48567638 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.aikido.dev/blog/multiple-jetbrains-ide-plugins-caught-stealing-ai-keys)
-
----
-
-## 15. Building an AI Agent in 6 Weeks (and Understanding How They Work)
-
-**Author:** lumpa  
-**Published:** 6/17/2026, 8:52:13 AM  
-**Categories:** -  
-
-Article URL: https://belderbos.dev/blog/jeff-haemer-agentic-ai-cohort/ Comments URL: https://news.ycombinator.com/item?id=48567620 Points: 1 # Comments: 0
-
-📖 [Read original article](https://belderbos.dev/blog/jeff-haemer-agentic-ai-cohort/)
-
----
-
-## 16. DShow HN: AI Bible reader with multiple denominational views on contested topics
-
-**Author:** getlumina  
-**Published:** 6/17/2026, 8:35:06 AM  
-**Categories:** -  
-
-Comments URL: https://news.ycombinator.com/item?id=48567486 Points: 2 # Comments: 1
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48567486)
-
----
-
-## 17. Firefox suggests tab groups with local AI (2025)
-
-**Author:** Topfi  
-**Published:** 6/17/2026, 8:24:15 AM  
-**Categories:** -  
-
-Article URL: https://blog.mozilla.org/en/firefox/ai-tab-groups/ Comments URL: https://news.ycombinator.com/item?id=48567405 Points: 2 # Comments: 0
-
-📖 [Read original article](https://blog.mozilla.org/en/firefox/ai-tab-groups/)
-
----
-
-## 18. AI holds the key to faster battery tech development
-
-**Author:** khutorni  
-**Published:** 6/17/2026, 8:23:34 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/2dbdf635-7bbc-430d-96ef-ea893e754b6e Comments URL: https://news.ycombinator.com/item?id=48567400 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.ft.com/content/2dbdf635-7bbc-430d-96ef-ea893e754b6e)
-
----
-
-## 19. The Hacker Sent by Anthropic to Calm the Government's Nerves About AI Safety
-
-**Author:** dkobia  
-**Published:** 6/17/2026, 8:16:57 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3 Comments URL: https://news.ycombinator.com/item?id=48567357 Points: 2 # Comments: 0
+Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 44 # Comments: 30
 
 📖 [Read original article](https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3)
 
 ---
 
-## 20. Claude Code Skills Turn It into an AI Engineering Team
+## 10. Fast Food and AI
 
-**Author:** javatuts  
-**Published:** 6/17/2026, 8:11:33 AM  
+**Author:** antonmks  
+**Published:** 6/17/2026, 7:10:55 PM  
 **Categories:** -  
 
-Article URL: https://nextweekai.com/blog/claude-code-27-skills-ai-engineering-team/ Comments URL: https://news.ycombinator.com/item?id=48567320 Points: 2 # Comments: 0
+Article URL: https://antonmks.substack.com/p/fast-food-and-ai Comments URL: https://news.ycombinator.com/item?id=48575284 Points: 2 # Comments: 0
 
-📖 [Read original article](https://nextweekai.com/blog/claude-code-27-skills-ai-engineering-team/)
+📖 [Read original article](https://antonmks.substack.com/p/fast-food-and-ai)
+
+---
+
+## 11. When AI Is Your Pastor: Benchmark for Theological Triage and Pastoral Guidance
+
+**Author:** alexchaomander  
+**Published:** 6/17/2026, 6:50:37 PM  
+**Categories:** -  
+
+Article URL: https://fideai.org/research/fmg-bench/ Comments URL: https://news.ycombinator.com/item?id=48574941 Points: 2 # Comments: 1
+
+📖 [Read original article](https://fideai.org/research/fmg-bench/)
+
+---
+
+## 12. CEOs of Anthropic and Google DeepMind call for US-led AI coalition in G7 meeting
+
+**Author:** thm  
+**Published:** 6/17/2026, 6:49:15 PM  
+**Categories:** -  
+
+Article URL: https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html Comments URL: https://news.ycombinator.com/item?id=48574918 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html)
+
+---
+
+## 13. Ask HN: At what point does AI regulation lead to confiscation of compute?
+
+**Author:** thoughtpeddler  
+**Published:** 6/17/2026, 6:47:47 PM  
+**Categories:** -  
+
+With everything going on lately regarding AI policy, and the cat already being out of the bag with AI systems that can run on feasibly obtainable personal compute, at what point do things tip over governments confiscating said compute in order to enforce a certain regulatory goal?Today's regulation ...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48574894)
+
+---
+
+## 14. How to Stop Babysitting AI Code
+
+**Author:** mgamma  
+**Published:** 6/17/2026, 6:47:43 PM  
+**Categories:** -  
+
+Article URL: https://rohangandhi.com/posts/how-to-stop-babysitting-ai-code/ Comments URL: https://news.ycombinator.com/item?id=48574893 Points: 1 # Comments: 0
+
+📖 [Read original article](https://rohangandhi.com/posts/how-to-stop-babysitting-ai-code/)
+
+---
+
+## 15. Real-time monitoring of chatbots and agents for AI compliance and governance
+
+**Author:** k-thimmaraju  
+**Published:** 6/17/2026, 6:47:42 PM  
+**Categories:** -  
+
+Article URL: https://splabs.io/compliance Comments URL: https://news.ycombinator.com/item?id=48574892 Points: 1 # Comments: 0
+
+📖 [Read original article](https://splabs.io/compliance)
+
+---
+
+## 16. UK government built an AI tool to digitise historic planning records
+
+**Author:** brokebroadbeat  
+**Published:** 6/17/2026, 6:46:03 PM  
+**Categories:** -  
+
+A few useful links: - https://mhclgdigital.blog.gov.uk/2025/06/12/extract-using-ai-to-unlock-historic-planning-data/ - https://github.com/digital-land/digital-land/issues/360 - https://ai.gov.uk/evaluations/extract-evaluation/ Comments URL: https://news.ycombinator.com/item?id=48574862 Points: 2 # C...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48574862)
+
+---
+
+## 17. The frustration of agreeing with everyone about AI
+
+**Author:** frabcus  
+**Published:** 6/17/2026, 6:40:57 PM  
+**Categories:** -  
+
+Article URL: https://www.flourish.org/2026/06/agree-everyone-ai/ Comments URL: https://news.ycombinator.com/item?id=48574778 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.flourish.org/2026/06/agree-everyone-ai/)
+
+---
+
+## 18. Bird jumps 20%+ after shoemaker Allbirds changes name to Smartbird for AI pivot
+
+**Author:** thoughtpeddler  
+**Published:** 6/17/2026, 6:35:31 PM  
+**Categories:** -  
+
+Article URL: https://ir.smartbird.ai/news-releases/news-release-details/smartbird-appoints-new-ceo-advance-ai-infrastructure-strategy Comments URL: https://news.ycombinator.com/item?id=48574698 Points: 2 # Comments: 0
+
+📖 [Read original article](https://ir.smartbird.ai/news-releases/news-release-details/smartbird-appoints-new-ceo-advance-ai-infrastructure-strategy)
+
+---
+
+## 19. Robinhood's 10% layoffs note shows blaming AI isn't cutting it
+
+**Author:** gurjeet  
+**Published:** 6/17/2026, 6:22:48 PM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/ Comments URL: https://news.ycombinator.com/item?id=48574501 Points: 1 # Comments: 0
+
+📖 [Read original article](https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/)
+
+---
+
+## 20. Ablo: The Collaboration Layer for AI Agents
+
+**Author:** luckymonkybaby  
+**Published:** 6/17/2026, 6:19:42 PM  
+**Categories:** -  
+
+Article URL: https://github.com/Abloatai/ablo Comments URL: https://news.ycombinator.com/item?id=48574451 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/Abloatai/ablo)
 
 ---
