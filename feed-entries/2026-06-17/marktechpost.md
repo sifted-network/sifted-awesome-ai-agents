@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-17"
 date: "2026-06-17"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-06-17
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. MiniMax Sparse Attention (MSA): a Two-Branch Block-Sparse Attention Trained on a 109B-Parameter MoE With a 3T-Token Budget
+## 1. Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities
+
+**Author:** Asif Razzaq  
+**Published:** 6/17/2026, 5:22:51 PM  
+**Categories:** Agentic AI, Editors Pick, New Releases, Open Source, Python, Software Engineering, Staff, Tech News, Technology  
+
+Vercel has open-sourced eve, an Apache-2.0 agent framework now in public preview. An agent is a directory of files, with durable execution, sandboxes, approvals, connections, channels, and evals built in. Scaffold with npx eve@latest init and deploy unchanged via vercel deploy. The post Vercel Relea...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/17/vercel-releases-eve/)
+
+---
+
+## 2. MiniMax Sparse Attention (MSA): a Two-Branch Block-Sparse Attention Trained on a 109B-Parameter MoE With a 3T-Token Budget
 
 **Author:** Asif Razzaq  
 **Published:** 6/17/2026, 7:44:54 AM  
@@ -23,7 +35,7 @@ MiniMax released MSA, a sparse attention built on Grouped Query Attention. A lig
 
 ---
 
-## 2. OpenAI’s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls
+## 3. OpenAI’s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls
 
 **Author:** Michal Sutter  
 **Published:** 6/17/2026, 5:49:54 AM  
@@ -35,7 +47,7 @@ OpenAI introduced Deployment Simulation on June 16, 2026. The method replays pas
 
 ---
 
-## 3. How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention
+## 4. How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention
 
 **Author:** Sana Hassan  
 **Published:** 6/17/2026, 12:02:25 AM  
