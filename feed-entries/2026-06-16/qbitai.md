@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-16"
 date: "2026-06-16"
 source: "qbitai"
-count: 9
+count: 7
 ---
 
 # qbitai - 2026-06-16
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ count: 9
 
 
 📖 [Read original article](https://www.qbitai.com/2026/06/435859.html)
-
----
-
-## 8. 沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台
-
-**Author:** 量子位的朋友们  
-**Published:** 6/16/2026, 2:47:51 AM  
-**Categories:** 资讯, 范式  
-
-成为全球领先的通用人工智能科技公司
-
-📖 [Read original article](https://www.qbitai.com/2026/06/435853.html)
-
----
-
-## 9. 上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界
-
-**Author:** 量子位的朋友们  
-**Published:** 6/16/2026, 1:32:25 AM  
-**Categories:** 资讯, AnySearch  
-
-专为 Agent 设计的 AI 搜索层服务
-
-📖 [Read original article](https://www.qbitai.com/2026/06/435861.html)
 
 ---
