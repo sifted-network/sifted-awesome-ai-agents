@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-17"
 date: "2026-06-17"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-06-17
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ count: 10
 半年三连发：从开源到端侧再到训练场
 
 📖 [Read original article](https://www.qbitai.com/2026/06/436148.html)
-
----
-
-## 10. 林俊旸新公司卜拉格亮相！首轮估值135亿，腾讯高榕红杉全投了
-
-**Author:** henry  
-**Published:** 6/17/2026, 6:17:22 AM  
-**Categories:** 资讯, AI, 林俊旸  
-
-高榕创投与红杉中国联合领投，各出资1亿美元。腾讯跟投2000万美元
-
-📖 [Read original article](https://www.qbitai.com/2026/06/436138.html)
 
 ---
