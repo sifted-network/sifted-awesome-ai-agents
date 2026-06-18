@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-17"
 date: "2026-06-17"
 source: "qbitai"
-count: 9
+count: 8
 ---
 
 # qbitai - 2026-06-17
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ count: 9
 用户可以在与智能体的对话中提出消费需求
 
 📖 [Read original article](https://www.qbitai.com/2026/06/436160.html)
-
----
-
-## 9. 头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投
-
-**Author:** henry  
-**Published:** 6/17/2026, 6:22:39 AM  
-**Categories:** 资讯, 世界模型, 具身智能, 大晓机器人  
-
-半年三连发：从开源到端侧再到训练场
-
-📖 [Read original article](https://www.qbitai.com/2026/06/436148.html)
 
 ---
