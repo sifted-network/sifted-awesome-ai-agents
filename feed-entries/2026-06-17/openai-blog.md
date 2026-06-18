@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-06-17"
 date: "2026-06-17"
 source: "OpenAI Blog"
-count: 1
+count: 2
 ---
 
 # OpenAI Blog - 2026-06-17
 
-1 items collected.
+2 items collected.
 
 ---
 
@@ -20,5 +20,17 @@ count: 1
 OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.
 
 📖 [Read original article](https://openai.com/index/ai-chemist-improves-reaction)
+
+---
+
+## 2. Introducing LifeSciBench
+
+**Author:** -  
+**Published:** 6/17/2026, 12:00:00 AM  
+**Categories:** Research  
+
+Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.
+
+📖 [Read original article](https://openai.com/index/introducing-life-sci-bench)
 
 ---
