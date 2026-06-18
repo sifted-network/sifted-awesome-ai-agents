@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-18"
 date: "2026-06-18"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-06-18
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric
+## 1. The KV Cache Compression Race: TurboQuant vs OSCAR vs EpiCache
+
+**Author:** Arnav Rai  
+**Published:** 6/18/2026, 9:14:31 AM  
+**Categories:** AI Infrastructure, Applications, Artificial Intelligence, Editors Pick, Machine Learning, Software Engineering, Staff, Technology  
+
+The KV cache now outweighs model weights at long context. Here's how TurboQuant, OSCAR, and EpiCache each attack that memory bottleneck — and why they're more complementary than competitive. The post The KV Cache Compression Race: TurboQuant vs OSCAR vs EpiCache appeared first on MarkTechPost.
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/18/the-kv-cache-compression-race-turboquant-vs-oscar-vs-epicache/)
+
+---
+
+## 2. OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric
 
 **Author:** Michal Sutter  
 **Published:** 6/18/2026, 2:28:22 AM  
@@ -23,7 +35,7 @@ OpenAI's LifeSciBench evaluates whether frontier AI can handle real life-science
 
 ---
 
-## 2. NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports
+## 3. NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports
 
 **Author:** Sana Hassan  
 **Published:** 6/18/2026, 1:35:19 AM  
