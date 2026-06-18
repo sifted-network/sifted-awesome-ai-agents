@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-06-18"
 date: "2026-06-18"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-06-18
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. AI Agents for Contractors
+## 1. Unreal Engine 5.8 adds MCP server for AI agents
 
-**Author:** khollow  
-**Published:** 6/18/2026, 3:27:16 AM  
+**Author:** bardonadam  
+**Published:** 6/18/2026, 10:12:16 AM  
 **Categories:** -  
 
-Article URL: https://dolfyn.ai/ Comments URL: https://news.ycombinator.com/item?id=48580402 Points: 1 # Comments: 1
+Article URL: https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available Comments URL: https://news.ycombinator.com/item?id=48583236 Points: 2 # Comments: 0
 
-📖 [Read original article](https://dolfyn.ai/)
+📖 [Read original article](https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available)
 
 ---
 
-## 2. The year designers stopped being just designers – AI in Design Report 2026
+## 2. The Enterprise AI Harness War
 
-**Author:** artificialstudi  
-**Published:** 6/18/2026, 3:24:10 AM  
+**Author:** simonjgreen  
+**Published:** 6/18/2026, 10:12:15 AM  
 **Categories:** -  
 
-Article URL: https://www.artificialstudio.ai/blog/ai-design-report-2026 Comments URL: https://news.ycombinator.com/item?id=48580378 Points: 1 # Comments: 1
+Article URL: https://sjg.io/writing/gen-5-ai-enterprise-harness-war/ Comments URL: https://news.ycombinator.com/item?id=48583235 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.artificialstudio.ai/blog/ai-design-report-2026)
+📖 [Read original article](https://sjg.io/writing/gen-5-ai-enterprise-harness-war/)
 
 ---
 
-## 3. Companies question cost of AI as tokenmaxxing spending adds up
+## 3. A self-organizing Obsidian Vault powered by autonomous AI agents
 
-**Author:** theanonymousone  
-**Published:** 6/18/2026, 3:11:08 AM  
+**Author:** koubeissy_i  
+**Published:** 6/18/2026, 10:04:59 AM  
 **Categories:** -  
 
-Article URL: https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680 Comments URL: https://news.ycombinator.com/item?id=48580282 Points: 2 # Comments: 1
+Article URL: https://github.com/ibrahimkobeissy/ai-second-brain-template Comments URL: https://news.ycombinator.com/item?id=48583182 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cbc.ca/news/business/ai-spending-ending-tokenmaxxing-tokenomics-9.7237680)
+📖 [Read original article](https://github.com/ibrahimkobeissy/ai-second-brain-template)
 
 ---
 
-## 4. Inside Rainbow's AI clash with its fashion models
+## 4. AI Tokenmaxxing and Hypomania
 
-**Author:** petethomas  
-**Published:** 6/18/2026, 2:59:10 AM  
+**Author:** karthikeyankc  
+**Published:** 6/18/2026, 9:59:48 AM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/rainbow-shops-fashion-models-ai-use-jobs-impact-2026-6 Comments URL: https://news.ycombinator.com/item?id=48580182 Points: 1 # Comments: 0
+Been thinking about the whole ‘tokenmaxxing’ thing going on within companies. Couldn’t shake the feeling that it has all the symptoms of a mass hypomania. Now that ideas are churned, validated, and even built at the speed of thought, it feels there’s a huge surplus of energy that keeps competing in ...
 
-📖 [Read original article](https://www.businessinsider.com/rainbow-shops-fashion-models-ai-use-jobs-impact-2026-6)
+📖 [Read original article](https://news.ycombinator.com/item?id=48583140)
 
 ---
 
-## 5. Personal AI Video Agent
+## 5. Agentic AI, Biology, and What Remains Human
 
-**Author:** akashwadhwani35  
-**Published:** 6/18/2026, 2:50:31 AM  
+**Author:** djif  
+**Published:** 6/18/2026, 9:54:49 AM  
 **Categories:** -  
 
-Article URL: https://elvalabs.ai Comments URL: https://news.ycombinator.com/item?id=48580110 Points: 1 # Comments: 2
+Article URL: https://dvitsios.org/2026/06/17/agentic-ai-biology-and-what-remains-human/ Comments URL: https://news.ycombinator.com/item?id=48583111 Points: 1 # Comments: 0
 
-📖 [Read original article](https://elvalabs.ai)
+📖 [Read original article](https://dvitsios.org/2026/06/17/agentic-ai-biology-and-what-remains-human/)
 
 ---
 
-## 6. Meta head of product for 'AI for work' transformation is leaving company
+## 6. Botsitting, botshitting, and the hidden human labor of AI at work
 
-**Author:** donohoe  
-**Published:** 6/18/2026, 2:49:25 AM  
+**Author:** trueduke  
+**Published:** 6/18/2026, 9:51:01 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/meta-head-product-ai-work-transformation-is-leaving-company-2026-06-17/ Comments URL: https://news.ycombinator.com/item?id=48580103 Points: 12 # Comments: 1
+Article URL: https://www.glean.com/work-ai-institute/reports/work-ai-index-report Comments URL: https://news.ycombinator.com/item?id=48583097 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/world/meta-head-product-ai-work-transformation-is-leaving-company-2026-06-17/)
+📖 [Read original article](https://www.glean.com/work-ai-institute/reports/work-ai-index-report)
 
 ---
 
-## 7. [x86] AI Compute Extensions (ACE) Specification
+## 7. \"I met a founder who writes 10k lines of code a day thanks to AI\"
 
-**Author:** matt_d  
-**Published:** 6/18/2026, 2:32:01 AM  
+**Author:** kklisura  
+**Published:** 6/18/2026, 9:45:34 AM  
 **Categories:** -  
 
-Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ Comments URL: https://news.ycombinator.com/item?id=48579913 Points: 13 # Comments: 5
+Article URL: https://xcancel.com/paulg/status/1953289830982664236 Comments URL: https://news.ycombinator.com/item?id=48583052 Points: 3 # Comments: 1
 
-📖 [Read original article](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
+📖 [Read original article](https://xcancel.com/paulg/status/1953289830982664236)
 
 ---
 
-## 8. Six Numbers from Running 1,500 AI Agents Simultaneously
+## 8. AI reshapes global labour market into two distinct paths, rewarding human skills
 
-**Author:** amitlimaye  
-**Published:** 6/18/2026, 2:22:59 AM  
+**Author:** layer8  
+**Published:** 6/18/2026, 9:39:17 AM  
 **Categories:** -  
 
-Article URL: https://amitlimaye1.substack.com/p/six-numbers-from-running-1500-ai Comments URL: https://news.ycombinator.com/item?id=48579822 Points: 2 # Comments: 0
+Article URL: https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html Comments URL: https://news.ycombinator.com/item?id=48583026 Points: 2 # Comments: 0
 
-📖 [Read original article](https://amitlimaye1.substack.com/p/six-numbers-from-running-1500-ai)
+📖 [Read original article](https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html)
 
 ---
 
-## 9. VNX+: Self-contained RF payload for hosting AI/ML applications out of the box
+## 9. I built a suite of 8 AI tools with $0/month in API costs using Nvidia Nim
 
-**Author:** teleforce  
-**Published:** 6/18/2026, 2:13:57 AM  
+**Author:** Maazkhanxo  
+**Published:** 6/18/2026, 9:35:09 AM  
 **Categories:** -  
 
-Article URL: https://epiqsolutions.com/products/sdr/vnx-development-platform Comments URL: https://news.ycombinator.com/item?id=48579758 Points: 2 # Comments: 2
+Article URL: https://jobeasyapply.com/blog/how-i-built-8-ai-tools-for-0-dollars-with-nvidia-nim Comments URL: https://news.ycombinator.com/item?id=48582980 Points: 1 # Comments: 0
 
-📖 [Read original article](https://epiqsolutions.com/products/sdr/vnx-development-platform)
+📖 [Read original article](https://jobeasyapply.com/blog/how-i-built-8-ai-tools-for-0-dollars-with-nvidia-nim)
 
 ---
 
-## 10. Show HN: Local personal data redaction for any AI tools
+## 10. TongFlow, a free open-source multi-modal AI workflow studio
 
-**Author:** unusual_typo  
-**Published:** 6/18/2026, 1:52:52 AM  
+**Author:** tong-io  
+**Published:** 6/18/2026, 9:09:39 AM  
 **Categories:** -  
 
-I built the desktop app that detects and redacts personal data (or PII) locally without sending any text to server. It supports rule-based filtering and AI model-based redaction (eg openai privacy filter). It's open source and free. Please check out the repo and https://pii-gui.vercel.app/ Comments ...
+Article URL: https://github.com/user-attachments/assets/407a7e7b-2d44-4c90-8016-33d0a9f5e7d5 Comments URL: https://news.ycombinator.com/item?id=48582806 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/sophia486/pii-gui)
+📖 [Read original article](https://github.com/user-attachments/assets/407a7e7b-2d44-4c90-8016-33d0a9f5e7d5)
 
 ---
 
-## 11. Vevey – AI game dev for kids to build games, together
+## 11. World leaders want American AI. They just don't want America to turn it off
 
-**Author:** dvdhutch  
-**Published:** 6/18/2026, 1:51:52 AM  
+**Author:** rajsuper123  
+**Published:** 6/18/2026, 8:58:39 AM  
 **Categories:** -  
 
-Article URL: https://www.vevey.ai/ Comments URL: https://news.ycombinator.com/item?id=48579582 Points: 1 # Comments: 1
+Article URL: https://www.techsentiments.com/article/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-tu-4f8d Comments URL: https://news.ycombinator.com/item?id=48582731 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.vevey.ai/)
+📖 [Read original article](https://www.techsentiments.com/article/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-tu-4f8d)
 
 ---
 
-## 12. Free calculators for creator income, freelance rates, AI tool ROI, and so on
+## 12. Midjourney Medical goes from AI image generation to full-body ultrasounds
 
-**Author:** iplaypc  
-**Published:** 6/18/2026, 1:28:57 AM  
+**Author:** JeanKage  
+**Published:** 6/18/2026, 8:48:01 AM  
 **Categories:** -  
 
-Article URL: https://richinto.com/ Comments URL: https://news.ycombinator.com/item?id=48579405 Points: 4 # Comments: 0
+Article URL: https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan Comments URL: https://news.ycombinator.com/item?id=48582630 Points: 1 # Comments: 0
 
-📖 [Read original article](https://richinto.com/)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan)
 
 ---
 
-## 13. Ask HN: AI models are built on all of us, should their weights act like patents?
+## 13. AI Dungeons: How Caching and Optimized Context Works
 
-**Author:** rhuber  
-**Published:** 6/18/2026, 1:24:02 AM  
+**Author:** doener  
+**Published:** 6/18/2026, 8:38:57 AM  
 **Categories:** -  
 
-These models are basically a compression of everything we already made. Our books, our code, every stack overflow answer, the dumb forum arguments we had at 2am. The companies creating these models didn't create that knowledge, they scraped it and compressed it, and what comes back out is mostly our...
+Article URL: https://old.reddit.com/r/AIDungeon/comments/1u6xn1n/how_caching_and_optimized_context_works/ Comments URL: https://news.ycombinator.com/item?id=48582551 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48579359)
+📖 [Read original article](https://old.reddit.com/r/AIDungeon/comments/1u6xn1n/how_caching_and_optimized_context_works/)
 
 ---
 
-## 14. Context intelligence for your data and AI agents at scale
+## 14. Show HN: Meeting Notes Sync – import transcripts and AI summaries into Obsidian
 
-**Author:** champagnepapi  
-**Published:** 6/18/2026, 12:56:34 AM  
+**Author:** andreagrandi  
+**Published:** 6/18/2026, 8:34:11 AM  
 **Categories:** -  
 
-Article URL: https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48579171 Points: 2 # Comments: 0
+Article URL: https://community.obsidian.md/plugins/meeting-notes-sync Comments URL: https://news.ycombinator.com/item?id=48582509 Points: 1 # Comments: 1
 
-📖 [Read original article](https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/)
+📖 [Read original article](https://community.obsidian.md/plugins/meeting-notes-sync)
 
 ---
 
-## 15. Sovereign AI: Why Owning the Full Stack Is the New Strategic Imperative
+## 15. A 7-person team stopped screenshotting their AI-generated HTML
 
-**Author:** HardAnchor  
-**Published:** 6/18/2026, 12:37:23 AM  
+**Author:** ottilves  
+**Published:** 6/18/2026, 8:25:44 AM  
 **Categories:** -  
 
-Article URL: https://www.forbes.com/sites/chuckbrooks/2026/04/22/sovereign-ai-why-owning-the-full-stack-is-the-new-strategic-imperative/ Comments URL: https://news.ycombinator.com/item?id=48579017 Points: 7 # Comments: 0
+Article URL: https://display.dev/customers/indigo-engineering Comments URL: https://news.ycombinator.com/item?id=48582440 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.forbes.com/sites/chuckbrooks/2026/04/22/sovereign-ai-why-owning-the-full-stack-is-the-new-strategic-imperative/)
+📖 [Read original article](https://display.dev/customers/indigo-engineering)
 
 ---
 
-## 16. AI in Cardiac CT
+## 16. The Iran War: A War with or Against the AI Sector
 
 **Author:** Alien1Being  
-**Published:** 6/18/2026, 12:23:11 AM  
+**Published:** 6/18/2026, 8:03:22 AM  
 **Categories:** -  
 
-Article URL: https://litfl.com/ai-in-cardiac-ct/ Comments URL: https://news.ycombinator.com/item?id=48578886 Points: 2 # Comments: 0
+Article URL: https://www.irregularwarfare.org/the-iran-war-a-war-with-or-against-the-ai-sector/ Comments URL: https://news.ycombinator.com/item?id=48582282 Points: 1 # Comments: 0
 
-📖 [Read original article](https://litfl.com/ai-in-cardiac-ct/)
+📖 [Read original article](https://www.irregularwarfare.org/the-iran-war-a-war-with-or-against-the-ai-sector/)
 
 ---
 
-## 17. AI CAD vs. AI CAD battle: Transfigure vs. Google Gemini Pro
+## 17. Show HN: Bonscape – Whiteboard for AI Chats
 
-**Author:** itstransfigure  
-**Published:** 6/18/2026, 12:17:24 AM  
+**Author:** __ali_asad__  
+**Published:** 6/18/2026, 8:01:46 AM  
 **Categories:** -  
 
-Article URL: https://www.instagram.com/reel/DZtOnedBDnu/ Comments URL: https://news.ycombinator.com/item?id=48578851 Points: 3 # Comments: 0
+Bonscape is visual canvas for interacting with AI chats, designed for visual thinkers. It aims to move beyond linear chat interfaces, providing a multidimensional experience for marketers, content writers, researchers, product managers, founders, and job seekers. Comments URL: https://news.ycombinat...
 
-📖 [Read original article](https://www.instagram.com/reel/DZtOnedBDnu/)
+📖 [Read original article](https://bonscape.com/)
+
+---
+
+## 18. Voicettav3, Voice AI platform built from 1M+ conv. ($50 free and free setup)
+
+**Author:** rafalflorek  
+**Published:** 6/18/2026, 8:00:55 AM  
+**Categories:** -  
+
+Article URL: https://app.voicetta.com Comments URL: https://news.ycombinator.com/item?id=48582264 Points: 2 # Comments: 0
+
+📖 [Read original article](https://app.voicetta.com)
+
+---
+
+## 19. Microsoft Makes Big AI Inroads in China by Selling OpenAI Models
+
+**Author:** 0in  
+**Published:** 6/18/2026, 7:03:23 AM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/news/articles/2026-06-17/microsoft-s-china-ai-business-grows-on-openai-model-sales Comments URL: https://news.ycombinator.com/item?id=48581794 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-17/microsoft-s-china-ai-business-grows-on-openai-model-sales)
+
+---
+
+## 20. \"Dangerous\" AI models are coming no matter what
+
+**Author:** joozio  
+**Published:** 6/18/2026, 7:02:59 AM  
+**Categories:** -  
+
+Article URL: https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/ Comments URL: https://news.ycombinator.com/item?id=48581788 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/)
 
 ---
