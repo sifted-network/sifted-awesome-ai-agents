@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-16"
 date: "2026-06-16"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-06-16
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ We look at Hermes Agent's new asynchronous subagents from Nous Research. The del
 The concept of vibe coding is interesting; you don&#8217;t need to be a developer or software engineer to build your own applications. You can describe your idea to an AI in plain language, and it will build, edit, and refine your applications so you don&#8217;t have to write code line by line. It s...
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/)
-
----
-
-## 4. Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context
-
-**Author:** Asif Razzaq  
-**Published:** 6/16/2026, 8:18:58 AM  
-**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Context Engineering, Editors Pick, For Devs, Machine Learning, New Releases, Software Engineering, Staff, Tech News, Technology  
-
-We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that formalizes the LLM-wiki pattern. We explain how a bundle works: a directory of markdown files with YAML frontmatter, where each concept needs only a type field. We cover the three design principles, the reference tools G...
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/)
 
 ---
