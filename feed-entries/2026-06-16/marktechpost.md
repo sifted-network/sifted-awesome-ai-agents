@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-16"
 date: "2026-06-16"
 source: "MarkTechPost"
-count: 5
+count: 4
 ---
 
 # MarkTechPost - 2026-06-16
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ The concept of vibe coding is interesting; you don&#8217;t need to be a develope
 We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that formalizes the LLM-wiki pattern. We explain how a bundle works: a directory of markdown files with YAML frontmatter, where each concept needs only a type field. We cover the three design principles, the reference tools G...
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/)
-
----
-
-## 5. How to Build a Parsing Pipeline with Docling Parse for Layout-Aware Document Intelligence
-
-**Author:** Sana Hassan  
-**Published:** 6/16/2026, 7:20:08 AM  
-**Categories:** AI Infrastructure, Artificial Intelligence, Editors Pick, Staff, Technology, Tutorials  
-
-In this tutorial, we build a workflow that uses Docling Parse to analyze PDF documents at a detailed structural level. We prepare a stable Python environment, handle common Colab dependency issues, and generate a custom multi-page PDF with text, columns, table-like content, vector shapes, and an emb...
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/16/how-to-build-a-parsing-pipeline-with-docling-parse-for-layout-aware-document-intelligence/)
 
 ---
