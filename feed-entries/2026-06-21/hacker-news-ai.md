@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Refloow Photo Studio – A local, offline photo editor with on-device AI
+## 1. Show HN: Lelu – catch AI agents when they're manipulated at runtime
 
-**Author:** refloow  
-**Published:** 6/21/2026, 2:04:34 PM  
+**Author:** Abenezer0923  
+**Published:** 6/21/2026, 7:35:33 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Refloow/Refloow-Photo-Studio Comments URL: https://news.ycombinator.com/item?id=48619100 Points: 1 # Comments: 0
+Article URL: https://github.com/lelu-auth/lelu Comments URL: https://news.ycombinator.com/item?id=48621882 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Refloow/Refloow-Photo-Studio)
+📖 [Read original article](https://github.com/lelu-auth/lelu)
 
 ---
 
-## 2. AI Under Trump's Control: Can France Still Avoid Digital Dependence?
+## 2. I'd Rather Risk Cancer Than See AI Move This Fast
 
-**Author:** laurentlof  
-**Published:** 6/21/2026, 1:51:31 PM  
+**Author:** fortran77  
+**Published:** 6/21/2026, 7:34:51 PM  
 **Categories:** -  
 
-Article URL: https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html Comments URL: https://news.ycombinator.com/item?id=48619005 Points: 5 # Comments: 1
+Article URL: https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/ Comments URL: https://news.ycombinator.com/item?id=48621872 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html)
+📖 [Read original article](https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/)
 
 ---
 
-## 3. Ask HN: Do you give AI coding agents their own GitHub account?
+## 3. The Carbon Footprint of AI (2020)
 
-**Author:** ahmd  
-**Published:** 6/21/2026, 1:49:08 PM  
+**Author:** reconnecting  
+**Published:** 6/21/2026, 7:26:57 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48618981 Points: 2 # Comments: 0
+Article URL: https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48621805 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48618981)
+📖 [Read original article](https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/)
 
 ---
 
-## 4. Block rolls out Builderbot, a new suite of AI-native tools
-
-**Author:** msolujic  
-**Published:** 6/21/2026, 1:48:34 PM  
-**Categories:** -  
-
-Article URL: https://block.xyz/inside/block-rolls-out-builderbot-a-new-suite-of-ai-native-tools-that-changes-the-way-we-ship Comments URL: https://news.ycombinator.com/item?id=48618973 Points: 1 # Comments: 1
-
-📖 [Read original article](https://block.xyz/inside/block-rolls-out-builderbot-a-new-suite-of-ai-native-tools-that-changes-the-way-we-ship)
-
----
-
-## 5. Show HN: Cloak – let AI agents use your API keys without ever seeing them
-
-**Author:** VarunMenon  
-**Published:** 6/21/2026, 1:41:29 PM  
-**Categories:** -  
-
-Article URL: https://github.com/cloakward/cloak Comments URL: https://news.ycombinator.com/item?id=48618904 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/cloakward/cloak)
-
----
-
-## 6. Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business
-
-**Author:** gmays  
-**Published:** 6/21/2026, 1:23:30 PM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9 Comments URL: https://news.ycombinator.com/item?id=48618768 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9)
-
----
-
-## 7. AI Boom Hits Labor Market Reality Check
-
-**Author:** mmeirovich  
-**Published:** 6/21/2026, 1:01:37 PM  
-**Categories:** -  
-
-Article URL: https://fivetakes.news/workers-are-emerging-as-the-next-big-ai-logjam Comments URL: https://news.ycombinator.com/item?id=48618600 Points: 2 # Comments: 1
-
-📖 [Read original article](https://fivetakes.news/workers-are-emerging-as-the-next-big-ai-logjam)
-
----
-
-## 8. AI Made Me Braver
-
-**Author:** neilkakkar  
-**Published:** 6/21/2026, 12:26:38 PM  
-**Categories:** -  
-
-Article URL: https://neilkakkar.com/ai-made-me-braver.html Comments URL: https://news.ycombinator.com/item?id=48618333 Points: 1 # Comments: 0
-
-📖 [Read original article](https://neilkakkar.com/ai-made-me-braver.html)
-
----
-
-## 9. A viral doomsday scenario aims to shake Europe out of its AI complacency
-
-**Author:** thm  
-**Published:** 6/21/2026, 12:22:21 PM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china Comments URL: https://news.ycombinator.com/item?id=48618312 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china)
-
----
-
-## 10. Show HN: An AI video prompt cookbook for image-to-video workflows
-
-**Author:** Ash_yasuomang  
-**Published:** 6/21/2026, 11:53:44 AM  
-**Categories:** -  
-
-Article URL: https://github.com/yasuomang/ai-video-prompt-cookbook Comments URL: https://news.ycombinator.com/item?id=48618111 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/yasuomang/ai-video-prompt-cookbook)
-
----
-
-## 11. Shall We? – A pre-engineering sanity check for AI-era feature bloat
-
-**Author:** tacsiazuma  
-**Published:** 6/21/2026, 11:37:07 AM  
-**Categories:** -  
-
-Article URL: https://github.com/Tacsiazuma/shall-we Comments URL: https://news.ycombinator.com/item?id=48617983 Points: 3 # Comments: 0
-
-📖 [Read original article](https://github.com/Tacsiazuma/shall-we)
-
----
-
-## 12. AI Warfare Is at the Point of No Return
+## 4. Secretive Wall Street Powerhouse Jane Street Seizes AI Spotlight
 
 **Author:** bookofjoe  
-**Published:** 6/21/2026, 11:32:07 AM  
+**Published:** 6/21/2026, 7:12:07 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/world/ai-warfare-ukraine-russia-anthropic-29945df9 Comments URL: https://news.ycombinator.com/item?id=48617952 Points: 1 # Comments: 1
+Article URL: https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a Comments URL: https://news.ycombinator.com/item?id=48621706 Points: 5 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/world/ai-warfare-ukraine-russia-anthropic-29945df9)
+📖 [Read original article](https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a)
 
 ---
 
-## 13. I Created a Minimalist Universal Language for AI
+## 5. AI has won another literary prize
 
-**Author:** Queen_Xiya  
-**Published:** 6/21/2026, 11:22:45 AM  
+**Author:** paulpauper  
+**Published:** 6/21/2026, 7:10:09 PM  
 **Categories:** -  
 
-Article URL: https://github.com/caihongfairys/QMP-Dynamic-Anchors Comments URL: https://news.ycombinator.com/item?id=48617894 Points: 2 # Comments: 0
+Article URL: https://twitter.com/nabeelqu/status/2068317401960026219 Comments URL: https://news.ycombinator.com/item?id=48621683 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/caihongfairys/QMP-Dynamic-Anchors)
+📖 [Read original article](https://twitter.com/nabeelqu/status/2068317401960026219)
 
 ---
 
-## 14. China tightens indium export checks as AI demand increases
+## 6. GreyFox – Free self-hosted AI proxy, token quotas, and local cache
 
-**Author:** 01-_-  
-**Published:** 6/21/2026, 11:01:22 AM  
+**Author:** SkilfulFox  
+**Published:** 6/21/2026, 7:09:52 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/china/china-tightens-indium-export-checks-ai-demand-increases-2026-06-19/ Comments URL: https://news.ycombinator.com/item?id=48617740 Points: 1 # Comments: 0
+Article URL: https://github.com/skillful-fox-studio/grey-fox-community Comments URL: https://news.ycombinator.com/item?id=48621680 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/world/china/china-tightens-indium-export-checks-ai-demand-increases-2026-06-19/)
+📖 [Read original article](https://github.com/skillful-fox-studio/grey-fox-community)
 
 ---
 
-## 15. Canyon Predict – road bike prototype with AI edge computing [video]
+## 7. Ask HN: Anyone notice World Cup video feeds look like AI?
 
-**Author:** jankar  
-**Published:** 6/21/2026, 10:58:44 AM  
+**Author:** TZubiri  
+**Published:** 6/21/2026, 7:03:46 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=7Wg894k6bqU Comments URL: https://news.ycombinator.com/item?id=48617721 Points: 2 # Comments: 0
+By AI I mean Image Generation models like stable difussion, but I had to make a short title.They look like Video Games sometimes too.This reminds me of that case of a scanner used in an architecture studio that was changing numbers for others, and it turns out they were using content aware compressi...
 
-📖 [Read original article](https://www.youtube.com/watch?v=7Wg894k6bqU)
+📖 [Read original article](https://news.ycombinator.com/item?id=48621628)
 
 ---
 
-## 16. Show HN: Didon – AI workday reports for productivity analysis
+## 8. A cheaper and safer agentic AI workflow
 
-**Author:** babakzy  
-**Published:** 6/21/2026, 10:46:54 AM  
+**Author:** danuker  
+**Published:** 6/21/2026, 6:39:21 PM  
 **Categories:** -  
 
-As an indie engineer, I wanted some real feedback on my productivity, like having an actual external boss. I tried using time trackers (even a physical timer), but they weren't good at tracking everything. So I built Didon, an AI time tracker that watches the screen periodically and generates work l...
+Article URL: https://danuker.go.ro/a-cheaper-and-safer-agentic-ai-workflow.html Comments URL: https://news.ycombinator.com/item?id=48621420 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.didon.app/)
+📖 [Read original article](https://danuker.go.ro/a-cheaper-and-safer-agentic-ai-workflow.html)
 
 ---
 
-## 17. KitaabAI AI book and thesis writer with native Urdu support
+## 9. Flic Mic for AI – The Wireless Voice Button
 
-**Author:** darweshpk  
-**Published:** 6/21/2026, 10:39:37 AM  
+**Author:** jamie4224  
+**Published:** 6/21/2026, 6:30:37 PM  
 **Categories:** -  
 
-Article URL: https://kitaabai.com Comments URL: https://news.ycombinator.com/item?id=48617594 Points: 1 # Comments: 0
+Article URL: https://mic.flic.io/ Comments URL: https://news.ycombinator.com/item?id=48621338 Points: 3 # Comments: 0
 
-📖 [Read original article](https://kitaabai.com)
+📖 [Read original article](https://mic.flic.io/)
 
 ---
 
-## 18. Brands using AI-generated influencers to promote products on social media
+## 10. Chatting with an AI Won't Make You a Top Programmer
 
-**Author:** pseudolus  
-**Published:** 6/21/2026, 10:31:18 AM  
+**Author:** jjgreen  
+**Published:** 6/21/2026, 6:19:34 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media Comments URL: https://news.ycombinator.com/item?id=48617532 Points: 2 # Comments: 0
+Article URL: https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/ Comments URL: https://news.ycombinator.com/item?id=48621227 Points: 6 # Comments: 2
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media)
+📖 [Read original article](https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/)
 
 ---
 
-## 19. What does it mean for AI to be democratic?
+## 11. Vexyn – browser-only privacy tools with local AI
 
-**Author:** jger15  
-**Published:** 6/21/2026, 9:51:43 AM  
+**Author:** andreicristi88  
+**Published:** 6/21/2026, 5:31:54 PM  
 **Categories:** -  
 
-Article URL: https://blog.andymasley.com/p/what-does-it-mean-for-ai-to-be-democratic Comments URL: https://news.ycombinator.com/item?id=48617311 Points: 1 # Comments: 0
+Article URL: https://vexyn.app/ Comments URL: https://news.ycombinator.com/item?id=48620808 Points: 2 # Comments: 0
 
-📖 [Read original article](https://blog.andymasley.com/p/what-does-it-mean-for-ai-to-be-democratic)
+📖 [Read original article](https://vexyn.app/)
 
 ---
 
-## 20. Form Before Data: The Real Bottleneck for Physical AI
+## 12. Two AI judges scored our agent's answer 0.85, but it never opened the file
 
-**Author:** adlrocha  
-**Published:** 6/21/2026, 9:20:21 AM  
+**Author:** jflynt76  
+**Published:** 6/21/2026, 5:23:57 PM  
 **Categories:** -  
 
-Article URL: https://adlrocha.substack.com/p/adlrocha-form-before-data-the-real Comments URL: https://news.ycombinator.com/item?id=48617124 Points: 2 # Comments: 0
+Article URL: https://tenureai.dev/writing/llm-as-judge-became-the-default-for-agent-evaluation/ Comments URL: https://news.ycombinator.com/item?id=48620731 Points: 6 # Comments: 0
 
-📖 [Read original article](https://adlrocha.substack.com/p/adlrocha-form-before-data-the-real)
+📖 [Read original article](https://tenureai.dev/writing/llm-as-judge-became-the-default-for-agent-evaluation/)
+
+---
+
+## 13. Show HN: Zither – paste JSON/CSV/a spreadsheet table, stats instantly, no AI
+
+**Author:** bluecomputing  
+**Published:** 6/21/2026, 4:39:16 PM  
+**Categories:** -  
+
+Article URL: https://zither-zeta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48620328 Points: 2 # Comments: 0
+
+📖 [Read original article](https://zither-zeta.vercel.app/)
+
+---
+
+## 14. Bonfires in the Dark: Ritual, Science, and AI as Compression Interfaces
+
+**Author:** grasant  
+**Published:** 6/21/2026, 4:37:12 PM  
+**Categories:** -  
+
+Article URL: https://bartoszlenart.com/blog/bonfires-in-the-dark Comments URL: https://news.ycombinator.com/item?id=48620314 Points: 4 # Comments: 0
+
+📖 [Read original article](https://bartoszlenart.com/blog/bonfires-in-the-dark)
+
+---
+
+## 15. Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis
+
+**Author:** white_tiger  
+**Published:** 6/21/2026, 4:20:46 PM  
+**Categories:** -  
+
+I write Abaqus UMAT subroutines as a graduate student in computational mechanics. These are complex multi-physics simulation models using Abaqus Fortran subroutines (UMAT ~ mechanical behavior, UMATHT ~ heat/diffusion and a lot more) that simulate how different material systems fail under high tempe...
+
+📖 [Read original article](https://jacobee.netlify.app/)
+
+---
+
+## 16. Tesla plans to sell modular AI data center hardware called 'Megapod'
+
+**Author:** dabinat  
+**Published:** 6/21/2026, 4:17:06 PM  
+**Categories:** -  
+
+Article URL: https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/ Comments URL: https://news.ycombinator.com/item?id=48620163 Points: 8 # Comments: 0
+
+📖 [Read original article](https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/)
+
+---
+
+## 17. Show HN: Atizar-AI agents where the server runs approved actions, not the model
+
+**Author:** Yarashuk  
+**Published:** 6/21/2026, 4:09:28 PM  
+**Categories:** -  
+
+Article URL: https://atizar.io Comments URL: https://news.ycombinator.com/item?id=48620103 Points: 2 # Comments: 0
+
+📖 [Read original article](https://atizar.io)
+
+---
+
+## 18. Neuralwatt: Energy-based pricing for AI inference. Efficient prompts cost less
+
+**Author:** ethanpil  
+**Published:** 6/21/2026, 4:09:18 PM  
+**Categories:** -  
+
+Article URL: https://portal.neuralwatt.com/ Comments URL: https://news.ycombinator.com/item?id=48620100 Points: 2 # Comments: 0
+
+📖 [Read original article](https://portal.neuralwatt.com/)
+
+---
+
+## 19. Supervising AI Agents
+
+**Author:** usefulsoftworks  
+**Published:** 6/21/2026, 4:05:03 PM  
+**Categories:** -  
+
+Article URL: https://github.com/usefulsoftworks/ai-agent-control-checklist Comments URL: https://news.ycombinator.com/item?id=48620058 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/usefulsoftworks/ai-agent-control-checklist)
+
+---
+
+## 20. Show HN: Askmaps.ai – Like ChatGPT with a Map
+
+**Author:** fabino  
+**Published:** 6/21/2026, 4:00:49 PM  
+**Categories:** -  
+
+Article URL: https://www.askmaps.ai Comments URL: https://news.ycombinator.com/item?id=48620028 Points: 3 # Comments: 3
+
+📖 [Read original article](https://www.askmaps.ai)
 
 ---
