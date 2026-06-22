@@ -2,251 +2,143 @@
 title: "Hacker News AI - 2026-06-21"
 date: "2026-06-21"
 source: "Hacker News AI"
-count: 20
+count: 11
 ---
 
 # Hacker News AI - 2026-06-21
 
-20 items collected.
+11 items collected.
 
 ---
 
-## 1. Show HN: Lelu – catch AI agents when they're manipulated at runtime
+## 1. Show HN: ANMA, boundary contracts for cheaper AI coding agents
 
-**Author:** Abenezer0923  
-**Published:** 6/21/2026, 7:35:33 PM  
+**Author:** nxy  
+**Published:** 6/21/2026, 11:41:02 PM  
 **Categories:** -  
 
-Article URL: https://github.com/lelu-auth/lelu Comments URL: https://news.ycombinator.com/item?id=48621882 Points: 1 # Comments: 0
+I built ANMA because I noticed that cheaper models would often ignore architecture rules. So I did several benchmarks using "Claude Haiku 4.5" with and without ANMA; without ANMA it ignored the "rules" 13 out of 19 runs, with ANMA, 0 out of 20 runs.What is "ANMA"? YAML contracts with CLAUDE.md, hook...
 
-📖 [Read original article](https://github.com/lelu-auth/lelu)
+📖 [Read original article](https://github.com/anma-labs/anma)
 
 ---
 
-## 2. I'd Rather Risk Cancer Than See AI Move This Fast
+## 2. Show HN: AI Colours
 
-**Author:** fortran77  
-**Published:** 6/21/2026, 7:34:51 PM  
+**Author:** __natty__  
+**Published:** 6/21/2026, 11:40:55 PM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/ Comments URL: https://news.ycombinator.com/item?id=48621872 Points: 1 # Comments: 0
+Article URL: https://github.com/pilotpirxie/ai-colours Comments URL: https://news.ycombinator.com/item?id=48623764 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/)
+📖 [Read original article](https://github.com/pilotpirxie/ai-colours)
 
 ---
 
-## 3. The Carbon Footprint of AI (2020)
+## 3. Show HN: PeekAI – Local-first observability for Python AI agents
 
-**Author:** reconnecting  
-**Published:** 6/21/2026, 7:26:57 PM  
+**Author:** ousskh63  
+**Published:** 6/21/2026, 11:38:15 PM  
 **Categories:** -  
 
-Article URL: https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48621805 Points: 3 # Comments: 0
+Article URL: https://github.com/oussamaKH63/peekai Comments URL: https://news.ycombinator.com/item?id=48623745 Points: 3 # Comments: 0
 
-📖 [Read original article](https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/)
+📖 [Read original article](https://github.com/oussamaKH63/peekai)
 
 ---
 
-## 4. Secretive Wall Street Powerhouse Jane Street Seizes AI Spotlight
+## 4. Tech Workers Are Fighting Against Silicon Valley's AI Push
 
-**Author:** bookofjoe  
-**Published:** 6/21/2026, 7:12:07 PM  
+**Author:** reasonableklout  
+**Published:** 6/21/2026, 11:29:51 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a Comments URL: https://news.ycombinator.com/item?id=48621706 Points: 5 # Comments: 1
+Article URL: https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/ Comments URL: https://news.ycombinator.com/item?id=48623695 Points: 25 # Comments: 8
 
-📖 [Read original article](https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a)
+📖 [Read original article](https://www.techpolicy.press/tech-workers-are-fighting-against-silicon-valleys-ai-push/)
 
 ---
 
-## 5. AI has won another literary prize
+## 5. China's Z.ai open-sourced a frontier coding model as Washington bans it rival
 
-**Author:** paulpauper  
-**Published:** 6/21/2026, 7:10:09 PM  
+**Author:** insanetech  
+**Published:** 6/21/2026, 11:28:26 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/nabeelqu/status/2068317401960026219 Comments URL: https://news.ycombinator.com/item?id=48621683 Points: 3 # Comments: 0
+Article URL: https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/ Comments URL: https://news.ycombinator.com/item?id=48623686 Points: 5 # Comments: 1
 
-📖 [Read original article](https://twitter.com/nabeelqu/status/2068317401960026219)
+📖 [Read original article](https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/)
 
 ---
 
-## 6. GreyFox – Free self-hosted AI proxy, token quotas, and local cache
+## 6. AI is making answers cheap. Curiosity is priceless
 
-**Author:** SkilfulFox  
-**Published:** 6/21/2026, 7:09:52 PM  
+**Author:** ohjeez  
+**Published:** 6/21/2026, 11:20:55 PM  
 **Categories:** -  
 
-Article URL: https://github.com/skillful-fox-studio/grey-fox-community Comments URL: https://news.ycombinator.com/item?id=48621680 Points: 2 # Comments: 0
+Article URL: https://www.fastcompany.com/91556703/ai-is-making-answers-cheap-curiosity-is-priceless Comments URL: https://news.ycombinator.com/item?id=48623636 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/skillful-fox-studio/grey-fox-community)
+📖 [Read original article](https://www.fastcompany.com/91556703/ai-is-making-answers-cheap-curiosity-is-priceless)
 
 ---
 
-## 7. Ask HN: Anyone notice World Cup video feeds look like AI?
+## 7. Norway Bans AI for Kids 6-13 in Schools
 
-**Author:** TZubiri  
-**Published:** 6/21/2026, 7:03:46 PM  
+**Author:** noida  
+**Published:** 6/21/2026, 11:12:29 PM  
 **Categories:** -  
 
-By AI I mean Image Generation models like stable difussion, but I had to make a short title.They look like Video Games sometimes too.This reminds me of that case of a scanner used in an architecture studio that was changing numbers for others, and it turns out they were using content aware compressi...
+Article URL: https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/ Comments URL: https://news.ycombinator.com/item?id=48623568 Points: 5 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48621628)
+📖 [Read original article](https://yipzap.com/norway-bans-ai-for-kids-6-13-in-schools-a-bold-move-against-tech-dependency/)
 
 ---
 
-## 8. A cheaper and safer agentic AI workflow
+## 8. Fast-tracked power plants fuel AI boom, with little public scrutiny
 
-**Author:** danuker  
-**Published:** 6/21/2026, 6:39:21 PM  
+**Author:** JumpCrisscross  
+**Published:** 6/21/2026, 11:11:06 PM  
 **Categories:** -  
 
-Article URL: https://danuker.go.ro/a-cheaper-and-safer-agentic-ai-workflow.html Comments URL: https://news.ycombinator.com/item?id=48621420 Points: 2 # Comments: 0
+Article URL: https://www.reuters.com/business/energy/fast-tracked-power-plants-fuel-ai-boom-with-little-public-scrutiny-2026-06-16/ Comments URL: https://news.ycombinator.com/item?id=48623560 Points: 4 # Comments: 0
 
-📖 [Read original article](https://danuker.go.ro/a-cheaper-and-safer-agentic-ai-workflow.html)
+📖 [Read original article](https://www.reuters.com/business/energy/fast-tracked-power-plants-fuel-ai-boom-with-little-public-scrutiny-2026-06-16/)
 
 ---
 
-## 9. Flic Mic for AI – The Wireless Voice Button
+## 9. Bill that would mandate AI chip location tracking gains industry support
 
-**Author:** jamie4224  
-**Published:** 6/21/2026, 6:30:37 PM  
+**Author:** elliotbnvl  
+**Published:** 6/21/2026, 11:03:15 PM  
 **Categories:** -  
 
-Article URL: https://mic.flic.io/ Comments URL: https://news.ycombinator.com/item?id=48621338 Points: 3 # Comments: 0
+Article URL: https://www.nbcnews.com/tech/tech-news/chips-security-act-gains-industry-support-letter-rcna350500 Comments URL: https://news.ycombinator.com/item?id=48623494 Points: 8 # Comments: 1
 
-📖 [Read original article](https://mic.flic.io/)
+📖 [Read original article](https://www.nbcnews.com/tech/tech-news/chips-security-act-gains-industry-support-letter-rcna350500)
 
 ---
 
-## 10. Chatting with an AI Won't Make You a Top Programmer
+## 10. Compass – guardrails and a hard budget cap for AI coding agents
 
-**Author:** jjgreen  
-**Published:** 6/21/2026, 6:19:34 PM  
+**Author:** chandu1221  
+**Published:** 6/21/2026, 10:38:35 PM  
 **Categories:** -  
 
-Article URL: https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/ Comments URL: https://news.ycombinator.com/item?id=48621227 Points: 6 # Comments: 2
+Article URL: https://github.com/dshakes/compass Comments URL: https://news.ycombinator.com/item?id=48623314 Points: 2 # Comments: 0
 
-📖 [Read original article](https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/)
+📖 [Read original article](https://github.com/dshakes/compass)
 
 ---
 
-## 11. Vexyn – browser-only privacy tools with local AI
+## 11. AI Is Discovering the Doorman Fallacy [video]
 
-**Author:** andreicristi88  
-**Published:** 6/21/2026, 5:31:54 PM  
+**Author:** CHB0403085482  
+**Published:** 6/21/2026, 10:14:48 PM  
 **Categories:** -  
 
-Article URL: https://vexyn.app/ Comments URL: https://news.ycombinator.com/item?id=48620808 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=f-QzIum9bNU Comments URL: https://news.ycombinator.com/item?id=48623152 Points: 3 # Comments: 1
 
-📖 [Read original article](https://vexyn.app/)
-
----
-
-## 12. Two AI judges scored our agent's answer 0.85, but it never opened the file
-
-**Author:** jflynt76  
-**Published:** 6/21/2026, 5:23:57 PM  
-**Categories:** -  
-
-Article URL: https://tenureai.dev/writing/llm-as-judge-became-the-default-for-agent-evaluation/ Comments URL: https://news.ycombinator.com/item?id=48620731 Points: 6 # Comments: 0
-
-📖 [Read original article](https://tenureai.dev/writing/llm-as-judge-became-the-default-for-agent-evaluation/)
-
----
-
-## 13. Show HN: Zither – paste JSON/CSV/a spreadsheet table, stats instantly, no AI
-
-**Author:** bluecomputing  
-**Published:** 6/21/2026, 4:39:16 PM  
-**Categories:** -  
-
-Article URL: https://zither-zeta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48620328 Points: 2 # Comments: 0
-
-📖 [Read original article](https://zither-zeta.vercel.app/)
-
----
-
-## 14. Bonfires in the Dark: Ritual, Science, and AI as Compression Interfaces
-
-**Author:** grasant  
-**Published:** 6/21/2026, 4:37:12 PM  
-**Categories:** -  
-
-Article URL: https://bartoszlenart.com/blog/bonfires-in-the-dark Comments URL: https://news.ycombinator.com/item?id=48620314 Points: 4 # Comments: 0
-
-📖 [Read original article](https://bartoszlenart.com/blog/bonfires-in-the-dark)
-
----
-
-## 15. Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis
-
-**Author:** white_tiger  
-**Published:** 6/21/2026, 4:20:46 PM  
-**Categories:** -  
-
-I write Abaqus UMAT subroutines as a graduate student in computational mechanics. These are complex multi-physics simulation models using Abaqus Fortran subroutines (UMAT ~ mechanical behavior, UMATHT ~ heat/diffusion and a lot more) that simulate how different material systems fail under high tempe...
-
-📖 [Read original article](https://jacobee.netlify.app/)
-
----
-
-## 16. Tesla plans to sell modular AI data center hardware called 'Megapod'
-
-**Author:** dabinat  
-**Published:** 6/21/2026, 4:17:06 PM  
-**Categories:** -  
-
-Article URL: https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/ Comments URL: https://news.ycombinator.com/item?id=48620163 Points: 8 # Comments: 0
-
-📖 [Read original article](https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/)
-
----
-
-## 17. Show HN: Atizar-AI agents where the server runs approved actions, not the model
-
-**Author:** Yarashuk  
-**Published:** 6/21/2026, 4:09:28 PM  
-**Categories:** -  
-
-Article URL: https://atizar.io Comments URL: https://news.ycombinator.com/item?id=48620103 Points: 2 # Comments: 0
-
-📖 [Read original article](https://atizar.io)
-
----
-
-## 18. Neuralwatt: Energy-based pricing for AI inference. Efficient prompts cost less
-
-**Author:** ethanpil  
-**Published:** 6/21/2026, 4:09:18 PM  
-**Categories:** -  
-
-Article URL: https://portal.neuralwatt.com/ Comments URL: https://news.ycombinator.com/item?id=48620100 Points: 2 # Comments: 0
-
-📖 [Read original article](https://portal.neuralwatt.com/)
-
----
-
-## 19. Supervising AI Agents
-
-**Author:** usefulsoftworks  
-**Published:** 6/21/2026, 4:05:03 PM  
-**Categories:** -  
-
-Article URL: https://github.com/usefulsoftworks/ai-agent-control-checklist Comments URL: https://news.ycombinator.com/item?id=48620058 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/usefulsoftworks/ai-agent-control-checklist)
-
----
-
-## 20. Show HN: Askmaps.ai – Like ChatGPT with a Map
-
-**Author:** fabino  
-**Published:** 6/21/2026, 4:00:49 PM  
-**Categories:** -  
-
-Article URL: https://www.askmaps.ai Comments URL: https://news.ycombinator.com/item?id=48620028 Points: 3 # Comments: 3
-
-📖 [Read original article](https://www.askmaps.ai)
+📖 [Read original article](https://www.youtube.com/watch?v=f-QzIum9bNU)
 
 ---
