@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-19"
 date: "2026-06-19"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-06-19
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kim
 Liquid AI's LFM2.5 Retrievers combine a dense bi-encoder and ColBERT late-interaction model for multilingual search on edge devices. The post Liquid AI Introduces LFM2.5-Embedding-350M and LFM2.5-ColBERT-350M: Dense Bi-Encoder and Late-Interaction Models for Fast Multilingual Search Across 11 Langua...
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/19/liquid-ai-introduces-lfm2-5-embedding-350m-and-lfm2-5-colbert-350m-dense-bi-encoder-and-late-interaction-models-for-fast-multilingual-search-across-11-languages/)
-
----
-
-## 4. Salesforce CodeGen Tutorial: Generate, Validate, and Rerank Python Functions With Unit Tests and Safety Checks
-
-**Author:** Sana Hassan  
-**Published:** 6/19/2026, 2:44:12 AM  
-**Categories:** Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Staff, Technology, Tutorials  
-
-We implement an end-to-end workflow for Salesforce CodeGen, loaded from Hugging Face. We move past basic inference by adding function extraction, syntax checking, static safety checks, and unit-test validation. We rerank best-of-N candidates, compose multi-turn program synthesis, and experiment with...
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks/)
 
 ---
