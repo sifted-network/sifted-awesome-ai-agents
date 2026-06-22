@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-20"
 date: "2026-06-20"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-06-20
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ count: 5
 Gemini 3.5 Pro呢？
 
 📖 [Read original article](https://www.qbitai.com/2026/06/436980.html)
-
----
-
-## 5. Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶
-
-**Author:** 听雨  
-**Published:** 6/20/2026, 9:36:31 AM  
-**Categories:** 资讯, AI  
-
-抢人最猛的Meta，似乎先从内部裂开了
-
-📖 [Read original article](https://www.qbitai.com/2026/06/436966.html)
 
 ---
