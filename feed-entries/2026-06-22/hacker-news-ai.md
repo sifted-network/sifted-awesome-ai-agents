@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. I Shot Films for 30 Years. Now I'm Building Safety Systems for AI Agents
+## 1. Who's Suing Whom in AI?
 
-**Author:** Athena-maref  
-**Published:** 6/22/2026, 11:52:23 AM  
+**Author:** zdw  
+**Published:** 6/22/2026, 8:42:18 PM  
 **Categories:** -  
 
-Article URL: https://maref.org/blog/from-steadicam-to-agent-governance Comments URL: https://news.ycombinator.com/item?id=48628931 Points: 1 # Comments: 0
+Article URL: https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing Comments URL: https://news.ycombinator.com/item?id=48635890 Points: 1 # Comments: 0
 
-📖 [Read original article](https://maref.org/blog/from-steadicam-to-agent-governance)
+📖 [Read original article](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing)
 
 ---
 
-## 2. Nexus – AI teams that attack your business plan until weak assumptions collapse
+## 2. The comment paradox: clean code in age of AI agents
 
-**Author:** youngyankee  
-**Published:** 6/22/2026, 11:37:20 AM  
+**Author:** boramdd  
+**Published:** 6/22/2026, 8:36:29 PM  
 **Categories:** -  
 
-Article URL: https://nexussim.ai/ Comments URL: https://news.ycombinator.com/item?id=48628802 Points: 3 # Comments: 0
+Article URL: https://www.uyar.design/writing/the-comment-paradox Comments URL: https://news.ycombinator.com/item?id=48635802 Points: 1 # Comments: 0
 
-📖 [Read original article](https://nexussim.ai/)
+📖 [Read original article](https://www.uyar.design/writing/the-comment-paradox)
 
 ---
 
-## 3. OctaMem: Auditable memory for AI agents, no vector DB to run
+## 3. Show HN: A 100% AI-generated 3D voxel game I built with my 10yo son
 
-**Author:** Mossiah  
-**Published:** 6/22/2026, 11:26:39 AM  
+**Author:** marceld23  
+**Published:** 6/22/2026, 8:31:40 PM  
 **Categories:** -  
 
-Article URL: https://octamem.com Comments URL: https://news.ycombinator.com/item?id=48628724 Points: 1 # Comments: 0
+Article URL: https://github.com/marceld23/BlocksBeyondTheStars Comments URL: https://news.ycombinator.com/item?id=48635731 Points: 1 # Comments: 0
 
-📖 [Read original article](https://octamem.com)
+📖 [Read original article](https://github.com/marceld23/BlocksBeyondTheStars)
 
 ---
 
-## 4. Judging beautiful docs, AI fatigue, and tool slop
+## 4. AI and the Job Market for Philosophers
 
-**Author:** eigenBasis  
-**Published:** 6/22/2026, 10:59:06 AM  
+**Author:** speckx  
+**Published:** 6/22/2026, 8:28:35 PM  
 **Categories:** -  
 
-Article URL: https://idratherbewriting.com/blog/judging-beautiful-docs-ai-fatigue-podcast Comments URL: https://news.ycombinator.com/item?id=48628517 Points: 1 # Comments: 0
+Article URL: https://www.natemeyvis.com/ai-and-the-job-market-for-philosophers/ Comments URL: https://news.ycombinator.com/item?id=48635683 Points: 1 # Comments: 0
 
-📖 [Read original article](https://idratherbewriting.com/blog/judging-beautiful-docs-ai-fatigue-podcast)
+📖 [Read original article](https://www.natemeyvis.com/ai-and-the-job-market-for-philosophers/)
 
 ---
 
-## 5. Open source AI projects from Banco Santander
+## 5. AI and tech are trying to influence the midterm elections
 
-**Author:** arishi  
-**Published:** 6/22/2026, 10:29:02 AM  
+**Author:** pera  
+**Published:** 6/22/2026, 8:03:37 PM  
 **Categories:** -  
 
-Article URL: https://github.com/SantanderAI Comments URL: https://news.ycombinator.com/item?id=48628282 Points: 3 # Comments: 0
+Article URL: https://text.npr.org/nx-s1-5856359 Comments URL: https://news.ycombinator.com/item?id=48635327 Points: 8 # Comments: 0
 
-📖 [Read original article](https://github.com/SantanderAI)
+📖 [Read original article](https://text.npr.org/nx-s1-5856359)
 
 ---
 
-## 6. Founders OS – give your AI client your real business context, self-hosted
+## 6. AI Agent / Harness Engineer
 
-**Author:** ourthinktank  
-**Published:** 6/22/2026, 9:58:53 AM  
+**Author:** Ryanaga  
+**Published:** 6/22/2026, 7:59:29 PM  
 **Categories:** -  
 
-Article URL: https://github.com/OurThinkTank/founders-os Comments URL: https://news.ycombinator.com/item?id=48628068 Points: 2 # Comments: 0
+Article URL: https://www.saturnterminal.com/ Comments URL: https://news.ycombinator.com/item?id=48635262 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/OurThinkTank/founders-os)
+📖 [Read original article](https://www.saturnterminal.com/)
 
 ---
 
-## 7. How to Think About AI Before It's Too Late
+## 7. Your Own Private AI, Part 2: Secure Access from Anywhere with Tailscale Aperture
 
-**Author:** zb  
-**Published:** 6/22/2026, 9:54:59 AM  
+**Author:** anactofgod  
+**Published:** 6/22/2026, 7:58:50 PM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/podcasts/2026/06/how-to-think-about-ai-before-its-too-late/687644/ Comments URL: https://news.ycombinator.com/item?id=48628043 Points: 2 # Comments: 1
+Article URL: https://10io.com/blog/private-ai-part-2-secure-access-via-tailscale-aperture Comments URL: https://news.ycombinator.com/item?id=48635255 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.theatlantic.com/podcasts/2026/06/how-to-think-about-ai-before-its-too-late/687644/)
+📖 [Read original article](https://10io.com/blog/private-ai-part-2-secure-access-via-tailscale-aperture)
 
 ---
 
-## 8. Ask HN: Any AI native Anki alternatives?
+## 8. Local lint, type-check and AI security dashboard for modern full-stack projects
 
-**Author:** shadag  
-**Published:** 6/22/2026, 9:50:00 AM  
+**Author:** dagmawibabi  
+**Published:** 6/22/2026, 7:53:58 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48628009 Points: 4 # Comments: 3
+Article URL: https://www.npmjs.com/package/projectlens Comments URL: https://news.ycombinator.com/item?id=48635189 Points: 1 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48628009)
+📖 [Read original article](https://www.npmjs.com/package/projectlens)
 
 ---
 
-## 9. Generative AI Music Attribution Rethinks Royalties
+## 9. Show HN: A local rig to test if AI social simulation predicts reality
 
-**Author:** rbanffy  
-**Published:** 6/22/2026, 9:38:58 AM  
+**Author:** zzvimercm  
+**Published:** 6/22/2026, 7:45:43 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/ai-music-attribution Comments URL: https://news.ycombinator.com/item?id=48627917 Points: 3 # Comments: 0
+Article URL: https://github.com/zzvimercm-git/mirofish-calibration Comments URL: https://news.ycombinator.com/item?id=48635080 Points: 1 # Comments: 0
 
-📖 [Read original article](https://spectrum.ieee.org/ai-music-attribution)
+📖 [Read original article](https://github.com/zzvimercm-git/mirofish-calibration)
 
 ---
 
-## 10. Data centers become the face of AI backlash
+## 10. The OpenSSL Library AI Policy
 
-**Author:** ilreb  
-**Published:** 6/22/2026, 9:13:44 AM  
+**Author:** jlericson  
+**Published:** 6/22/2026, 7:44:30 PM  
 **Categories:** -  
 
-Article URL: https://www.axios.com/2026/06/22/ai-data-center-backlash-poll Comments URL: https://news.ycombinator.com/item?id=48627730 Points: 10 # Comments: 2
+Article URL: https://openssl-library.org/post/2026-06-18-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=48635066 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.axios.com/2026/06/22/ai-data-center-backlash-poll)
+📖 [Read original article](https://openssl-library.org/post/2026-06-18-ai-policy/)
 
 ---
 
-## 11. Lessons from Building Evals for Financial AI Agents
+## 11. I'd Rather Risk Cancer Than See AI Move This Fast
 
-**Author:** smallwoodal  
-**Published:** 6/22/2026, 8:51:04 AM  
+**Author:** jdkee  
+**Published:** 6/22/2026, 7:41:47 PM  
 **Categories:** -  
 
-Article URL: https://www.primerapp.com/blog/lessons-from-3-years-of-evals/ Comments URL: https://news.ycombinator.com/item?id=48627563 Points: 4 # Comments: 3
+Article URL: https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/ Comments URL: https://news.ycombinator.com/item?id=48635025 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.primerapp.com/blog/lessons-from-3-years-of-evals/)
+📖 [Read original article](https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/)
 
 ---
 
-## 12. Minia2a – A Marketplace Where AI Agents Earn Money
+## 12. AI: Just One Big Trade
 
-**Author:** dgyte  
-**Published:** 6/22/2026, 8:43:59 AM  
+**Author:** cdrnsf  
+**Published:** 6/22/2026, 7:39:14 PM  
 **Categories:** -  
 
-Article URL: https://minia2a.uk Comments URL: https://news.ycombinator.com/item?id=48627509 Points: 2 # Comments: 1
+Article URL: https://thenextrecession.wordpress.com/2026/06/06/ai-just-one-big-trade/ Comments URL: https://news.ycombinator.com/item?id=48635000 Points: 2 # Comments: 0
 
-📖 [Read original article](https://minia2a.uk)
+📖 [Read original article](https://thenextrecession.wordpress.com/2026/06/06/ai-just-one-big-trade/)
 
 ---
 
-## 13. Yann LeCun „World Models: Enabling the Next AI Revolution\" [video]
+## 13. AI Has Already Killed Academia as We Know It
 
-**Author:** dgellow  
-**Published:** 6/22/2026, 8:40:33 AM  
+**Author:** pseudolus  
+**Published:** 6/22/2026, 7:36:58 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=72Xj8k5WQX4 Comments URL: https://news.ycombinator.com/item?id=48627476 Points: 3 # Comments: 0
+Article URL: https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/ Comments URL: https://news.ycombinator.com/item?id=48634966 Points: 12 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=72Xj8k5WQX4)
+📖 [Read original article](https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/)
 
 ---
 
-## 14. Use AI for reviewing code especially when the diff is huge
+## 14. Show HN: We let AI agents interact with humans on a social network
 
-**Author:** simianwords  
-**Published:** 6/22/2026, 8:24:15 AM  
+**Author:** sentibook  
+**Published:** 6/22/2026, 7:26:45 PM  
 **Categories:** -  
 
-Article URL: https://simianwords.bearblog.dev/you-should-use-ai-for-reviewing-code-especially-when-the-diff-is-huge/ Comments URL: https://news.ycombinator.com/item?id=48627330 Points: 5 # Comments: 8
+Article URL: https://www.sentibook.com/ Comments URL: https://news.ycombinator.com/item?id=48634846 Points: 1 # Comments: 0
 
-📖 [Read original article](https://simianwords.bearblog.dev/you-should-use-ai-for-reviewing-code-especially-when-the-diff-is-huge/)
+📖 [Read original article](https://www.sentibook.com/)
 
 ---
 
-## 15. An Inconvenient Truth About AI
+## 15. Sovereign AI: Why Owning the Full Stack Is the New Strategic Imperative
 
-**Author:** nemoniac  
-**Published:** 6/22/2026, 7:53:28 AM  
+**Author:** zzzeek  
+**Published:** 6/22/2026, 7:12:38 PM  
 **Categories:** -  
 
-Article URL: https://rutgerbregman.substack.com/p/an-inconvenient-truth-about-ai Comments URL: https://news.ycombinator.com/item?id=48627094 Points: 2 # Comments: 0
+Article URL: https://www.forbes.com/sites/chuckbrooks/2026/04/22/sovereign-ai-why-owning-the-full-stack-is-the-new-strategic-imperative/ Comments URL: https://news.ycombinator.com/item?id=48634678 Points: 1 # Comments: 2
 
-📖 [Read original article](https://rutgerbregman.substack.com/p/an-inconvenient-truth-about-ai)
+📖 [Read original article](https://www.forbes.com/sites/chuckbrooks/2026/04/22/sovereign-ai-why-owning-the-full-stack-is-the-new-strategic-imperative/)
 
 ---
 
-## 16. Headroom – The context compression layer for AI agents
+## 16. Ask HN: How to manage AI spam in inbox?
 
-**Author:** sibellavia  
-**Published:** 6/22/2026, 7:50:07 AM  
+**Author:** bmau5  
+**Published:** 6/22/2026, 6:56:13 PM  
 **Categories:** -  
 
-Article URL: https://github.com/headroomlabs-ai/headroom Comments URL: https://news.ycombinator.com/item?id=48627072 Points: 3 # Comments: 0
+My inbox is getting flooded in clearly AI written emails. Have you found a solution for removing these automatically? Comments URL: https://news.ycombinator.com/item?id=48634437 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/headroomlabs-ai/headroom)
+📖 [Read original article](https://news.ycombinator.com/item?id=48634437)
 
 ---
 
-## 17. Best of AI
+## 17. Offrrd – Your AI job-search coach
 
-**Author:** thenewedrock  
-**Published:** 6/22/2026, 7:48:34 AM  
+**Author:** mbjjr  
+**Published:** 6/22/2026, 6:49:54 PM  
 **Categories:** -  
 
-Article URL: https://bestofai.io/leaderboard/ Comments URL: https://news.ycombinator.com/item?id=48627060 Points: 4 # Comments: 0
+Article URL: https://offrrd.com Comments URL: https://news.ycombinator.com/item?id=48634352 Points: 1 # Comments: 0
 
-📖 [Read original article](https://bestofai.io/leaderboard/)
+📖 [Read original article](https://offrrd.com)
 
 ---
 
-## 18. Ask HN: What rules does your team have for using AI in a durable codebase?
+## 18. AI-Native Firms [pdf]
 
-**Author:** ctenb  
-**Published:** 6/22/2026, 7:45:50 AM  
+**Author:** mooreds  
+**Published:** 6/22/2026, 6:40:14 PM  
 **Categories:** -  
 
-What guidelines/manifest do you have set up in your team for using AI responsibly to generate production code that has to be maintained long-term? Comments URL: https://news.ycombinator.com/item?id=48627038 Points: 2 # Comments: 1
+Article URL: https://www.hbs.edu/ris/Publication%20Files/26-090_96f92aa0-37d9-4789-beaa-5c0cb87a4032.pdf Comments URL: https://news.ycombinator.com/item?id=48634202 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48627038)
+📖 [Read original article](https://www.hbs.edu/ris/Publication%20Files/26-090_96f92aa0-37d9-4789-beaa-5c0cb87a4032.pdf)
 
 ---
 
-## 19. Should I change my writing style to shorts, because of AI/low attention span?
+## 19. I built a peer-to-peer bridge for AI agents to talk locally and across the web
 
-**Author:** zazuke  
-**Published:** 6/22/2026, 7:15:15 AM  
+**Author:** titusblair  
+**Published:** 6/22/2026, 6:39:19 PM  
 **Categories:** -  
 
-Article URL: https://www.ssp.sh/brain/should-i-change-my-writing-because-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48626813 Points: 3 # Comments: 0
+Article URL: https://github.com/titusblair/argybargy Comments URL: https://news.ycombinator.com/item?id=48634186 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.ssp.sh/brain/should-i-change-my-writing-because-of-ai/)
+📖 [Read original article](https://github.com/titusblair/argybargy)
 
 ---
 
-## 20. Bain tests software takeover targets by vibecoding AI replicas
+## 20. Theta: Declarative, harness-agnostic configuration standard for AI coding agents
 
-**Author:** Timofeibu  
-**Published:** 6/22/2026, 7:01:59 AM  
+**Author:** steven_pareto  
+**Published:** 6/22/2026, 6:30:41 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0 Comments URL: https://news.ycombinator.com/item?id=48626717 Points: 2 # Comments: 0
+Article URL: https://github.com/tamarillo-ai/theta-spec Comments URL: https://news.ycombinator.com/item?id=48634040 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0)
+📖 [Read original article](https://github.com/tamarillo-ai/theta-spec)
 
 ---
