@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-22"
 date: "2026-06-22"
 source: "MarkTechPost"
-count: 1
+count: 2
 ---
 
 # MarkTechPost - 2026-06-22
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. How to Design Python-First Interactive Dashboards with Prefab Reactive UI Components and Static HTML Export
+## 1. MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode
+
+**Author:** Asif Razzaq  
+**Published:** 6/22/2026, 7:13:49 AM  
+**Categories:** AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
+
+The HIP kernel uses one-instruction asm wrappers and an eight-wave pipeline to outperform AMD's AITER v3 on MI300X. The post MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode appeared first on MarkTechPost.
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/)
+
+---
+
+## 2. How to Design Python-First Interactive Dashboards with Prefab Reactive UI Components and Static HTML Export
 
 **Author:** Sana Hassan  
 **Published:** 6/22/2026, 12:13:29 AM  
