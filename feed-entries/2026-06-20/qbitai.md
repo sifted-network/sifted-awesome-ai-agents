@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-20"
 date: "2026-06-20"
 source: "qbitai"
-count: 4
+count: 3
 ---
 
 # qbitai - 2026-06-20
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ count: 4
 速度快7倍，成本只有Veo 3的1/2000
 
 📖 [Read original article](https://www.qbitai.com/2026/06/436996.html)
-
----
-
-## 4. 诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将
-
-**Author:** 听雨  
-**Published:** 6/20/2026, 9:42:18 AM  
-**Categories:** 资讯, 首页轮播, AI  
-
-Gemini 3.5 Pro呢？
-
-📖 [Read original article](https://www.qbitai.com/2026/06/436980.html)
 
 ---
