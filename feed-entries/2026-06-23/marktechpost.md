@@ -2,16 +2,40 @@
 title: "MarkTechPost - 2026-06-23"
 date: "2026-06-23"
 source: "MarkTechPost"
-count: 2
+count: 4
 ---
 
 # MarkTechPost - 2026-06-23
 
-2 items collected.
+4 items collected.
 
 ---
 
-## 1. Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads
+## 1. Datalab Releases lift: A 9B Open-Weights Vision Model That Extracts Structured JSON From PDFs Using Schemas
+
+**Author:** Asif Razzaq  
+**Published:** 6/23/2026, 7:35:33 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Computer Vision, Editors Pick, Generative AI, Language Model, Large Language Model, Machine Learning, New Releases, OCR, Open Source, Promote, Software Engineering, Sponsored, Staff, Tech News, Technology  
+
+Datalab released lift, a 9B open-weights vision model that turns PDFs and images into schema-matching JSON. It uses schema-constrained decoding for valid structure and trained abstention to return null instead of hallucinating absent fields, scoring 90.2% field accuracy on a 225-document benchmark. ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/23/datalab-releases-lift-a-9b-open-weights-vision-model-that-extracts-structured-json-from-pdfs-using-schemas/)
+
+---
+
+## 2. How to Use NVIDIA Canary-1B-v2 for ASR, Translation, and Automatic SRT Subtitle Export in Python
+
+**Author:** Sana Hassan  
+**Published:** 6/23/2026, 6:31:36 PM  
+**Categories:** Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, Staff, Technology, Tutorials, Voice AI  
+
+In this tutorial, we build a multilingual ASR and speech translation pipeline with NVIDIA Canary-1B-v2. We load the model on a GPU-enabled runtime, prepare audio into 16 kHz mono, and run English ASR. We then translate speech into French, German, Spanish, and Italian, and extract word and segment ti...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/23/how-to-use-nvidia-canary-1b-v2-for-asr-translation-and-automatic-srt-subtitle-export-in-python/)
+
+---
+
+## 3. Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads
 
 **Author:** Asif Razzaq  
 **Published:** 6/23/2026, 7:20:44 AM  
@@ -23,7 +47,7 @@ Prime Intellect has released prime-rl 0.6.0, an open framework for asynchronous 
 
 ---
 
-## 2. GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval
+## 4. GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval
 
 **Author:** Sana Hassan  
 **Published:** 6/23/2026, 6:35:05 AM  
