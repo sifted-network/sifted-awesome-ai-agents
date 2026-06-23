@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-22"
 date: "2026-06-22"
 source: "qbitai"
-count: 4
+count: 2
 ---
 
 # qbitai - 2026-06-22
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ count: 4
 同时拿下天猫、抖音、京东三大平台 AI 录音设备销量第一
 
 📖 [Read original article](https://www.qbitai.com/2026/06/437308.html)
-
----
-
-## 3. DeepSeek缺Agent人才缺疯了！负责人各种贴广告
-
-**Author:** Jay  
-**Published:** 6/22/2026, 5:09:27 AM  
-**Categories:** 资讯  
-
-DeepSeek正在全力押注
-
-📖 [Read original article](https://www.qbitai.com/2026/06/437249.html)
-
----
-
-## 4. 入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习
-
-**Author:** 思邈  
-**Published:** 6/22/2026, 3:48:38 AM  
-**Categories:** 资讯, 开源, 清华, 空间智能, 空间模型  
-
-120分钟长视频一边看一边记
-
-📖 [Read original article](https://www.qbitai.com/2026/06/437235.html)
 
 ---
