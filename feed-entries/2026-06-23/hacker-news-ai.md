@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Agent Ready – a tool that'll show how an AI agent reads your website
+## 1. Show HN: Proctor – signed isolation bundles for AI coding-agent benchmarks
 
-**Author:** sharath39  
-**Published:** 6/23/2026, 2:50:16 PM  
+**Author:** dp12  
+**Published:** 6/23/2026, 7:48:28 PM  
 **Categories:** -  
 
-Article URL: https://agent-ready.co/ Comments URL: https://news.ycombinator.com/item?id=48645912 Points: 1 # Comments: 0
+Article URL: https://github.com/dylanp12/proctor Comments URL: https://news.ycombinator.com/item?id=48650355 Points: 2 # Comments: 0
 
-📖 [Read original article](https://agent-ready.co/)
+📖 [Read original article](https://github.com/dylanp12/proctor)
 
 ---
 
-## 2. Show HN: AI Agents the Unix Way – built with bash, curl, and jq
+## 2. Show HN: Persist OS – Durable decisions for AI code
 
-**Author:** cloudkj  
-**Published:** 6/23/2026, 2:38:29 PM  
+**Author:** karthickrmchn  
+**Published:** 6/23/2026, 7:48:10 PM  
 **Categories:** -  
 
-While working on an educational exercise tinkering with local models and trying my hand at setting up agents, I went down a rabbit hole: to see how far I could build a custom agent loop using exclusively command-line building blocks and stripping out dependencies wherever possible.It turns out you c...
+In the past few months, I’ve been building and shipping things extremely fast. Some of the MVPs that I built for my friends were completely vibe-coded and shipped within a day to show a demo.While it was a great experience working with AI tools, I wanted to make sure some basics were followed, decis...
 
-📖 [Read original article](https://github.com/cloudkj/llayer)
+📖 [Read original article](https://github.com/Karthick-Ramachandran/persist-os)
 
 ---
 
-## 3. How to Use WindowSill with Ollama for Private AI Writing
+## 3. Does AI Adoption Improve Productivity? Effects over the First Three Years
 
-**Author:** veler  
-**Published:** 6/23/2026, 2:35:45 PM  
+**Author:** b-man  
+**Published:** 6/23/2026, 7:39:39 PM  
 **Categories:** -  
 
-Article URL: https://getwindowsill.app/blog/windowsill-ollama-private-ai-writing Comments URL: https://news.ycombinator.com/item?id=48645640 Points: 1 # Comments: 0
+Article URL: https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&menuNo=400409 Comments URL: https://news.ycombinator.com/item?id=48650242 Points: 1 # Comments: 0
 
-📖 [Read original article](https://getwindowsill.app/blog/windowsill-ollama-private-ai-writing)
+📖 [Read original article](https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&menuNo=400409)
 
 ---
 
-## 4. Show HN: Find and fix issues in your AI Agents (MIT, open source)
+## 4. Why smarter models won't lead to AI co-workers
 
-**Author:** paulaq  
-**Published:** 6/23/2026, 2:30:54 PM  
+**Author:** plaidthunder  
+**Published:** 6/23/2026, 7:33:59 PM  
 **Categories:** -  
 
-Article URL: https://github.com/latitude-dev/latitude-llm Comments URL: https://news.ycombinator.com/item?id=48645555 Points: 2 # Comments: 0
+Article URL: https://usize.github.io/blog/2026/april/why-no-ai-coworkers.html Comments URL: https://news.ycombinator.com/item?id=48650166 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/latitude-dev/latitude-llm)
+📖 [Read original article](https://usize.github.io/blog/2026/april/why-no-ai-coworkers.html)
 
 ---
 
-## 5. Pew Research: AI adoption is rising. Trust isn't
+## 5. Sakana AI Releases 'Fugu Ultra' to Match Frontier Performance
 
-**Author:** dd-sharma  
-**Published:** 6/23/2026, 2:27:27 PM  
+**Author:** saikatsg  
+**Published:** 6/23/2026, 7:28:44 PM  
 **Categories:** -  
 
-Article URL: https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/ Comments URL: https://news.ycombinator.com/item?id=48645494 Points: 1 # Comments: 1
+Article URL: https://sakana.ai/fugu-release/ Comments URL: https://news.ycombinator.com/item?id=48650106 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/)
+📖 [Read original article](https://sakana.ai/fugu-release/)
 
 ---
 
-## 6. The AI Code Agent Hype: Real Progress vs. Expectations
+## 6. AI's Reliability Gap
 
-**Author:** jawuilp  
-**Published:** 6/23/2026, 2:23:49 PM  
+**Author:** zygmunt417  
+**Published:** 6/23/2026, 7:25:13 PM  
 **Categories:** -  
 
-Article URL: https://jawuil.dev/en/blog/the-ai-code-agent-hype-real-progress-vs-expectations/ Comments URL: https://news.ycombinator.com/item?id=48645432 Points: 1 # Comments: 0
+Article URL: https://arachnemag.substack.com/p/ais-reliability-gap Comments URL: https://news.ycombinator.com/item?id=48650054 Points: 1 # Comments: 0
 
-📖 [Read original article](https://jawuil.dev/en/blog/the-ai-code-agent-hype-real-progress-vs-expectations/)
+📖 [Read original article](https://arachnemag.substack.com/p/ais-reliability-gap)
 
 ---
 
-## 7. The AI-powered World Cup runs on thousands of data workers
+## 7. Mistral CEO: AI companies should pay a content levy in Europe
 
-**Author:** jyunwai  
-**Published:** 6/23/2026, 2:17:56 PM  
+**Author:** Teever  
+**Published:** 6/23/2026, 7:21:34 PM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/fifa-world-cup-ai-data-workers/ Comments URL: https://news.ycombinator.com/item?id=48645364 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/d63d6291-687f-4e05-8b23-4d545d78c64a Comments URL: https://news.ycombinator.com/item?id=48650003 Points: 1 # Comments: 0
 
-📖 [Read original article](https://restofworld.org/2026/fifa-world-cup-ai-data-workers/)
+📖 [Read original article](https://www.ft.com/content/d63d6291-687f-4e05-8b23-4d545d78c64a)
 
 ---
 
-## 8. OctoPunk – a full-featured, AI-integrated GitHub client
+## 8. Genesis Workbench: Generative AI for Life Sciences
 
-**Author:** ldelossa  
-**Published:** 6/23/2026, 2:17:47 PM  
+**Author:** ilreb  
+**Published:** 6/23/2026, 7:08:03 PM  
 **Categories:** -  
 
-Article URL: https://www.octopunk.io/ Comments URL: https://news.ycombinator.com/item?id=48645362 Points: 1 # Comments: 1
+Article URL: https://www.databricks.com/solutions/accelerators/genesis-workbench Comments URL: https://news.ycombinator.com/item?id=48649829 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.octopunk.io/)
+📖 [Read original article](https://www.databricks.com/solutions/accelerators/genesis-workbench)
 
 ---
 
-## 9. Show HN: Saymade – AI app builder for complex software
+## 9. Exposing the 'brute force' of AI that is 'trying to make humans redundant'
 
-**Author:** domag  
-**Published:** 6/23/2026, 2:15:20 PM  
+**Author:** billybuckwheat  
+**Published:** 6/23/2026, 7:07:52 PM  
 **Categories:** -  
 
-Article URL: https://saymade.com Comments URL: https://news.ycombinator.com/item?id=48645331 Points: 1 # Comments: 0
+Article URL: https://www.rnz.co.nz/news/in-depth/618503/karen-hao-exposing-the-brute-force-of-ai-that-is-trying-to-make-humans-redundant Comments URL: https://news.ycombinator.com/item?id=48649825 Points: 6 # Comments: 0
 
-📖 [Read original article](https://saymade.com)
+📖 [Read original article](https://www.rnz.co.nz/news/in-depth/618503/karen-hao-exposing-the-brute-force-of-ai-that-is-trying-to-make-humans-redundant)
 
 ---
 
-## 10. Does AI Adoption Improve Productivity? Effects over the First Three Years
+## 10. Advocating for fixes to California AI Transparency Act to protect open source
 
-**Author:** toomuchtodo  
-**Published:** 6/23/2026, 2:12:35 PM  
+**Author:** mlinksva  
+**Published:** 6/23/2026, 7:07:31 PM  
 **Categories:** -  
 
-Article URL: https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&menuNo=400409&relate=Y&depth=400409&programType=newsDataEng Comments URL: https://news.ycombinator.com/item?id=48645294 Points: 1 # Comments: 1
+Article URL: https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/ Comments URL: https://news.ycombinator.com/item?id=48649820 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&menuNo=400409&relate=Y&depth=400409&programType=newsDataEng)
+📖 [Read original article](https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/)
 
 ---
 
-## 11. Noemra, AI that builds and runs a company from one prompt
+## 11. AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian
 
-**Author:** Yasib  
-**Published:** 6/23/2026, 2:10:36 PM  
+**Author:** sizzle  
+**Published:** 6/23/2026, 6:56:19 PM  
 **Categories:** -  
 
-Article URL: https://noemra.co Comments URL: https://news.ycombinator.com/item?id=48645255 Points: 1 # Comments: 0
+Article URL: https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection Comments URL: https://news.ycombinator.com/item?id=48649673 Points: 14 # Comments: 1
 
-📖 [Read original article](https://noemra.co)
+📖 [Read original article](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
 
 ---
 
-## 12. Ask HN: Am I missing something with AI
+## 12. AI Didn't Make Us Faster It Demoted Us
 
-**Author:** vasko  
-**Published:** 6/23/2026, 1:57:23 PM  
+**Author:** lizsteelman  
+**Published:** 6/23/2026, 6:54:35 PM  
 **Categories:** -  
 
-I constantly hear developers around me talk about how AI has completely changed their life and how they don't even program anymore, they just prompt. But any time I've used it, the output has always been off. And when the output is off I have to go and read through everything, learn how it works and...
+Article URL: https://www.askable.com/blog/ai-didnt-speed-us-up-it-demoted-us Comments URL: https://news.ycombinator.com/item?id=48649645 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48645072)
+📖 [Read original article](https://www.askable.com/blog/ai-didnt-speed-us-up-it-demoted-us)
 
 ---
 
-## 13. Show HN: Legant gives AI agents bounded authority to act on your behalf
+## 13. The first AI marketing benchmark
 
-**Author:** baris_erdem  
-**Published:** 6/23/2026, 1:56:37 PM  
+**Author:** Jibran12345  
+**Published:** 6/23/2026, 6:44:09 PM  
 **Categories:** -  
 
-Article URL: https://github.com/legant-dev/legant Comments URL: https://news.ycombinator.com/item?id=48645063 Points: 1 # Comments: 0
+Article URL: https://viralbench.ai/ Comments URL: https://news.ycombinator.com/item?id=48649490 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/legant-dev/legant)
+📖 [Read original article](https://viralbench.ai/)
 
 ---
 
-## 14. Google's online dominance is showing signs of cracking in AI era
+## 14. AI Models Soccer Tournament [video]
 
-**Author:** pseudolus  
-**Published:** 6/23/2026, 1:56:25 PM  
+**Author:** ajdrevrel  
+**Published:** 6/23/2026, 6:22:30 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html Comments URL: https://news.ycombinator.com/item?id=48645060 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=OQV0CcjBF2Y Comments URL: https://news.ycombinator.com/item?id=48649151 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html)
+📖 [Read original article](https://www.youtube.com/watch?v=OQV0CcjBF2Y)
 
 ---
 
-## 15. Show HN: Free tools to audit a landing page and check if AI recommends you
+## 15. Yet Another Piece of AI-Pilled Speculative Fiction Has Gone Dangerously Viral
 
-**Author:** Jxcques  
-**Published:** 6/23/2026, 1:54:04 PM  
+**Author:** speckx  
+**Published:** 6/23/2026, 6:22:03 PM  
 **Categories:** -  
 
-Article URL: https://www.ismylandingpagevalid.com Comments URL: https://news.ycombinator.com/item?id=48645033 Points: 1 # Comments: 0
+Article URL: https://gizmodo.com/yet-another-piece-of-ai-pilled-speculative-fiction-has-gone-dangerously-viral-2000774895 Comments URL: https://news.ycombinator.com/item?id=48649141 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ismylandingpagevalid.com)
+📖 [Read original article](https://gizmodo.com/yet-another-piece-of-ai-pilled-speculative-fiction-has-gone-dangerously-viral-2000774895)
 
 ---
 
-## 16. Free EU AI Act Article 50 compliance checker for indie SaaS
+## 16. TDD is how I trust the code AI agents write [video]
 
-**Author:** coollooc  
-**Published:** 6/23/2026, 1:53:46 PM  
+**Author:** douglas_waugh  
+**Published:** 6/23/2026, 6:21:31 PM  
 **Categories:** -  
 
-Article URL: https://aiact.bridgeai.one/ Comments URL: https://news.ycombinator.com/item?id=48645030 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=d5x38FCSCyM Comments URL: https://news.ycombinator.com/item?id=48649129 Points: 4 # Comments: 1
 
-📖 [Read original article](https://aiact.bridgeai.one/)
+📖 [Read original article](https://www.youtube.com/watch?v=d5x38FCSCyM)
 
 ---
 
-## 17. ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation
+## 17. Show HN: We Help Voice AI Handle Group Conversations
 
-**Author:** thm  
-**Published:** 6/23/2026, 1:50:27 PM  
+**Author:** betweenDan  
+**Published:** 6/23/2026, 6:20:00 PM  
 **Categories:** -  
 
-Article URL: https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/ Comments URL: https://news.ycombinator.com/item?id=48644976 Points: 1 # Comments: 0
+Hey folks. We built SAA (Selective Auditory Attention) after trying to find ways to make a good experience with multiple robots/multiple agents. What typically ended up happening is they'd never stop talking.This is an SDK you can put before your STT. It lets you know when your device is being spoke...
 
-📖 [Read original article](https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/)
+📖 [Read original article](https://github.com/attenlabs/saa-sdk)
 
 ---
 
-## 18. The AI Last Mile Is the First Mile
+## 18. Lethe – Brain-Centric AI Assistant
 
-**Author:** spo81rty  
-**Published:** 6/23/2026, 1:43:39 PM  
+**Author:** ghgr  
+**Published:** 6/23/2026, 6:16:37 PM  
 **Categories:** -  
 
-Article URL: https://newsletter.productdriven.com/p/the-ai-last-mile-is-actually-the Comments URL: https://news.ycombinator.com/item?id=48644886 Points: 1 # Comments: 0
+Article URL: https://lethe.gg/ Comments URL: https://news.ycombinator.com/item?id=48649054 Points: 2 # Comments: 0
 
-📖 [Read original article](https://newsletter.productdriven.com/p/the-ai-last-mile-is-actually-the)
+📖 [Read original article](https://lethe.gg/)
 
 ---
 
-## 19. Your AI Agent Should Go to Therapy
+## 19. Ukraine's Drone Commander on Drone Warfare and Use of AI [Dutch]
 
-**Author:** apattichis  
-**Published:** 6/23/2026, 1:42:58 PM  
+**Author:** digi_monkey  
+**Published:** 6/23/2026, 6:13:52 PM  
 **Categories:** -  
 
-Article URL: https://www.encurtador.dev/redirecionamento/zi2zj1c Comments URL: https://news.ycombinator.com/item?id=48644878 Points: 1 # Comments: 0
+Article URL: https://www.nrc.nl/nieuws/2026/06/21/het-belangrijkste-element-van-onbemande-oorlogvoering-is-dat-de-risicos-voor-onze-militairen-omlaag-gaan-a4930367 Comments URL: https://news.ycombinator.com/item?id=48649019 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.encurtador.dev/redirecionamento/zi2zj1c)
+📖 [Read original article](https://www.nrc.nl/nieuws/2026/06/21/het-belangrijkste-element-van-onbemande-oorlogvoering-is-dat-de-risicos-voor-onze-militairen-omlaag-gaan-a4930367)
 
 ---
 
-## 20. A simple physics-inspired model sheds light on how AI learns
+## 20. Semgrep Guardian: Security for AI-Generated Code
 
-**Author:** doener  
-**Published:** 6/23/2026, 1:37:58 PM  
+**Author:** ajbt200128  
+**Published:** 6/23/2026, 6:06:17 PM  
 **Categories:** -  
 
-Article URL: https://techxplore.com/news/2026-05-simple-physics-ai.html Comments URL: https://news.ycombinator.com/item?id=48644810 Points: 1 # Comments: 0
+Article URL: https://semgrep.dev/blog/2026/introducing-semgrep-guardian-real-time-security-for-ai-written-code/ Comments URL: https://news.ycombinator.com/item?id=48648871 Points: 1 # Comments: 1
 
-📖 [Read original article](https://techxplore.com/news/2026-05-simple-physics-ai.html)
+📖 [Read original article](https://semgrep.dev/blog/2026/introducing-semgrep-guardian-real-time-security-for-ai-written-code/)
 
 ---
