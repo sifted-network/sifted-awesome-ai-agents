@@ -2,16 +2,52 @@
 title: "qbitai - 2026-06-24"
 date: "2026-06-24"
 source: "qbitai"
-count: 7
+count: 10
 ---
 
 # qbitai - 2026-06-24
 
-7 items collected.
+10 items collected.
 
 ---
 
-## 1. 物理AI第一块万亿市场，在公路货运先跑通闭环了
+## 1. 百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型
+
+**Author:** 量子位的朋友们  
+**Published:** 6/24/2026, 11:09:51 AM  
+**Categories:** 资讯, 百度千帆  
+
+已率先完成智谱GLM-5.2适配
+
+📖 [Read original article](https://www.qbitai.com/2026/06/438174.html)
+
+---
+
+## 2. 1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器
+
+**Author:** 量子位的朋友们  
+**Published:** 6/24/2026, 10:38:38 AM  
+**Categories:** 资讯  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/06/438166.html)
+
+---
+
+## 3. Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026
+
+**Author:** 量子位的朋友们  
+**Published:** 6/24/2026, 9:58:38 AM  
+**Categories:** 资讯, waic2026  
+
+报名通道已开启。
+
+📖 [Read original article](https://www.qbitai.com/2026/06/438157.html)
+
+---
+
+## 4. 物理AI第一块万亿市场，在公路货运先跑通闭环了
 
 **Author:** 杰西卡  
 **Published:** 6/24/2026, 6:06:29 AM  
@@ -23,7 +59,7 @@ count: 7
 
 ---
 
-## 2. 华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖
+## 5. 华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖
 
 **Author:** 思邈  
 **Published:** 6/24/2026, 5:30:20 AM  
@@ -35,7 +71,7 @@ count: 7
 
 ---
 
-## 3. 阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折
+## 6. 阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折
 
 **Author:** 量子位的朋友们  
 **Published:** 6/24/2026, 4:34:00 AM  
@@ -47,7 +83,7 @@ count: 7
 
 ---
 
-## 4. 刚刚，Claude Code大升级！卡帕西：LLM第三次变革
+## 7. 刚刚，Claude Code大升级！卡帕西：LLM第三次变革
 
 **Author:** henry  
 **Published:** 6/24/2026, 3:56:02 AM  
@@ -59,7 +95,7 @@ count: 7
 
 ---
 
-## 5. 周鸿祎ISC宣布打造中国版Mythos，360联手信创巨头发起“磐石之盾”安全协作计划
+## 8. 周鸿祎ISC宣布打造中国版Mythos，360联手信创巨头发起“磐石之盾”安全协作计划
 
 **Author:** 量子位的朋友们  
 **Published:** 6/24/2026, 3:45:50 AM  
@@ -71,7 +107,7 @@ count: 7
 
 ---
 
-## 6. 2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布
+## 9. 2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布
 
 **Author:** 量子位的朋友们  
 **Published:** 6/24/2026, 3:14:41 AM  
@@ -83,7 +119,7 @@ count: 7
 
 ---
 
-## 7. 智能座舱之王「转身」物理AI，高通需要被重估了
+## 10. 智能座舱之王「转身」物理AI，高通需要被重估了
 
 **Author:** 贾浩楠  
 **Published:** 6/24/2026, 12:26:07 AM  
