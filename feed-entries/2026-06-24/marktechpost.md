@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-24"
 date: "2026-06-24"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-06-24
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations
+## 1. How to Design an OpenHarness Style Agent Runtime with Tools, Memory, Permissions, Skills, and Multi-Agent Coordination
+
+**Author:** Sana Hassan  
+**Published:** 6/24/2026, 7:08:36 PM  
+**Categories:** Agentic AI, Editors Pick, Staff, Tutorials  
+
+In this tutorial, we build an OpenHarness style agent harness from scratch to see how a practical agent system works. We recreate the core building blocks: tool use, typed tool schemas, permissions, lifecycle hooks, memory, skills, context compaction, retry logic, cost tracking, and multi-agent coor...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/)
+
+---
+
+## 2. Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations
 
 **Author:** Sana Hassan  
 **Published:** 6/24/2026, 9:36:59 AM  
@@ -23,7 +35,7 @@ In this tutorial, we build a fully offline Graphify pipeline that turns a multi-
 
 ---
 
-## 2. Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md
+## 3. Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md
 
 **Author:** Asif Razzaq  
 **Published:** 6/24/2026, 9:21:49 AM  
@@ -35,7 +47,7 @@ Nous Research has added /learn to the Hermes Agent Skills System. The command au
 
 ---
 
-## 3. 16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit
+## 4. 16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit
 
 **Author:** Michal Sutter  
 **Published:** 6/24/2026, 8:12:27 AM  
@@ -47,7 +59,7 @@ Generative AI has reshaped how software gets built. What began as line-by-line a
 
 ---
 
-## 4. DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell
+## 5. DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell
 
 **Author:** Asif Razzaq  
 **Published:** 6/24/2026, 7:21:10 AM  
