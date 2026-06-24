@@ -443,13 +443,13 @@ arXiv:2606.20724v1 Announce Type: new Abstract: Long-horizon web agents often fa
 
 ---
 
-## 37. Repeated Shared Access Enables Grokking, but Edit Propagation Depends on a Fine-Grained Addressable Memory
+## 37. Repeated Shared Access Enables Grokking, but Edit Propagation Depends on an Addressable Memory
 
 **Author:** Yanan Niu  
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2606.20737v1 Announce Type: new Abstract: We study factual edit propagation in a controlled synthetic knowledge-graph QA setting, comparing four architectures that cross loop recurrence with shared memory access: dense (Dense), looped (Loop), dense with shared memory (Dense+Mem), and looped wi...
+arXiv:2606.20737v2 Announce Type: new Abstract: We study factual edit propagation in a controlled synthetic knowledge-graph QA setting using a 2x2 grid that crosses loop recurrence with shared-memory access: a dense transformer (Dense), a looped transformer (Loop), a dense backbone with shared memor...
 
 📖 [Read original article](https://arxiv.org/abs/2606.20737)
 
@@ -1297,7 +1297,7 @@ arXiv:2606.22488v1 Announce Type: new Abstract: Recent works have explored integ
 
 ## 108. Deep Learning-Based Sign Language Recognition from Videos and Cross-Lingual Translation to Indian Vernaculars
 
-**Author:** Chandranath Adak, Ramesh Nandipalli  
+**Author:** Ramesh Nandipalli, Chandranath Adak  
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
@@ -1721,7 +1721,7 @@ arXiv:2606.22959v1 Announce Type: new Abstract: Latent diffusion approaches to s
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.22974v1 Announce Type: new Abstract: Recent work on preference elicitation in large language models (LLMs) has demonstrated that, when given a series of choices between two outcomes, LLMs reveal a coherent, model-specific utility structure. Notably, this structure often includes preferenc...
+arXiv:2606.22974v2 Announce Type: new Abstract: Recent work on preference elicitation in large language models (LLMs) has demonstrated that, when given a series of choices between two outcomes, LLMs reveal a coherent, model-specific utility structure. Notably, this structure often includes preferenc...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22974)
 
@@ -1769,7 +1769,7 @@ arXiv:2606.23029v1 Announce Type: new Abstract: Analogical proportions link four
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.AI, q-fin.GN  
 
-arXiv:2606.23032v1 Announce Type: new Abstract: Finance Agent v2 (by Vals AI) has emerged as the reference benchmark for evaluating both Anthropic Claude and OpenAI ChatGPT frontier language models on financial tasks. However, it narrowly deals with periodic reporting from publicly traded companies ...
+arXiv:2606.23032v2 Announce Type: new Abstract: Finance Agent v2 (by Vals AI) has emerged as the reference benchmark for evaluating both Anthropic Claude and OpenAI ChatGPT frontier language models on financial tasks. However, it narrowly deals with periodic reporting from publicly traded companies ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23032)
 
@@ -1889,7 +1889,7 @@ arXiv:2606.23219v1 Announce Type: new Abstract: Physical-structure priors such a
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.23238v1 Announce Type: new Abstract: Logical reasoning is essential for reliable AI, yet existing benchmarks are largely first-order-logic-centric, focusing on object-level deduction over fixed predicates. This misses many realistic scenarios where models must reason over rules, predicate...
+arXiv:2606.23238v2 Announce Type: new Abstract: Logical reasoning is essential for reliable AI, yet existing benchmarks are largely first-order-logic-centric, focusing on object-level deduction over fixed predicates. This misses many realistic scenarios where models must reason over rules, predicate...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23238)
 
@@ -3821,7 +3821,7 @@ arXiv:2606.21267v1 Announce Type: cross Abstract: Early detection of aphid infes
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.21295v1 Announce Type: cross Abstract: Existing sequence models, including RNNs, LSTMs, continuous-time networks, and Transformers, share a common structural principle: layer-wise dynamics, where all neurons in the same layer co-evolve through a shared parameterized operator, leaving indi...
+arXiv:2606.21295v2 Announce Type: cross Abstract: Existing sequence models, including RNNs, LSTMs, continuous-time networks, and Transformers, share a common structural principle: layer-wise dynamics, where all neurons in the same layer co-evolve through a shared parameterized operator, leaving indi...
 
 📖 [Read original article](https://arxiv.org/abs/2606.21295)
 
@@ -3913,11 +3913,11 @@ arXiv:2606.21365v1 Announce Type: cross Abstract: Recent advances in generative 
 
 ## 326. Sexualised synthetic personas encode and amplify gendered power asymmetries through voice
 
-**Author:** Alice Ross, Ariadna Sanchez, Elin Kanhov, Catherine Lai, Eva Szekely  
+**Author:** Alice Ross, Ariadna Sanchez, Elin Kanhov, Catherine Lai, \'Eva Sz\'ekely  
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** eess.AS, cs.AI, cs.CL  
 
-arXiv:2606.21366v1 Announce Type: cross Abstract: This work examines sexualised AI-generated English-speaking voices offered by a popular commercial platform. New technologies may enable sexual empowerment and greater diversity in gender expression, yet toxic masculinity, heteronormativity, and the ...
+arXiv:2606.21366v2 Announce Type: cross Abstract: This work examines sexualised AI-generated English-speaking voices offered by a popular commercial platform. New technologies may enable sexual empowerment and greater diversity in gender expression, yet toxic masculinity, heteronormativity, and the ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.21366)
 
@@ -4013,7 +4013,7 @@ arXiv:2606.21419v1 Announce Type: cross Abstract: Despite recent progress in Vis
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.PF, cs.AI  
 
-arXiv:2606.21428v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) language models are often described as ideal for resource-constrained inference. Each token activates only a small subset of experts, so the per-token compute cost, in floating-point operations (FLOPs), resembles that of a mu...
+arXiv:2606.21428v2 Announce Type: cross Abstract: Mixture-of-Experts (MoE) language models are often described as ideal for resource-constrained inference. Each token activates only a small subset of experts, so the per-token compute cost, in floating-point operations (FLOPs), resembles that of a mu...
 
 📖 [Read original article](https://arxiv.org/abs/2606.21428)
 
@@ -4541,7 +4541,7 @@ arXiv:2606.21890v1 Announce Type: cross Abstract: In-context learning (ICL) with
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI  
 
-arXiv:2606.21894v1 Announce Type: cross Abstract: As coding agents are rapidly changing software engineering, a natural question is: what are the core skills needed by future software engineers? To identify where software engineering is headed and thus what skills will be needed, we summarize the re...
+arXiv:2606.21894v2 Announce Type: cross Abstract: As coding agents are rapidly changing software engineering, a natural question is: what are the core skills needed by future software engineers? To identify where software engineering is headed and thus what skills will be needed, we summarize the re...
 
 📖 [Read original article](https://arxiv.org/abs/2606.21894)
 
@@ -4715,13 +4715,13 @@ arXiv:2606.22061v1 Announce Type: cross Abstract: Block-based programming enviro
 
 ---
 
-## 393. New Smooth Loss functions for Robust Regression that Closely Approximate Absolute Error and Provide Improved Performance on Datasets With Significant Outliers
+## 393. Alternate loss functions and regression models that achieve robustness to outliers by modulating the learning rate
 
 **Author:** Mathew Mithra Noel, Arindam Banerjee, Yug D. Oswal, Geraldine Bessie Amali D, Venkataraman Muthiah-Nakarajan  
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.22068v1 Announce Type: cross Abstract: The performance of supervised machine learning models is directly related to the quality of the training dataset. In particular, the presence of significantly many outliers in the training data can lead to low accuracy because popular loss function l...
+arXiv:2606.22068v2 Announce Type: cross Abstract: Most real-world datasets used for training supervised learning models are contaminated with noisy data and outliers leading to large prediction errors. This paper proposes a new approach for achieving robustness where the learning rate is modulated b...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22068)
 
@@ -4955,13 +4955,13 @@ arXiv:2606.22218v1 Announce Type: cross Abstract: In this paper, we investigate 
 
 ---
 
-## 413. MultiMem: Measuring and Mitigating Memorization in Multi-Modal Contrastive Learninga
+## 413. MultiMem: Measuring and Mitigating Memorization in Multi-Modal Contrastive Learning
 
 **Author:** Wenhao Wang, Franziska Boenisch, Michael Backes, Adam Dziedzic  
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2606.22220v1 Announce Type: cross Abstract: Memorization in machine learning models enables high performance on rare in-distribution samples by capturing their atypical patterns. However, it also causes harmful retention of noise and outliers, degrading generalization. While memorization has b...
+arXiv:2606.22220v2 Announce Type: cross Abstract: Memorization in machine learning models enables high performance on rare in-distribution samples by capturing their atypical patterns. However, it also causes harmful retention of noise and outliers, degrading generalization. While memorization has b...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22220)
 
@@ -5105,7 +5105,7 @@ arXiv:2606.22307v1 Announce Type: cross Abstract: Data augmentation (DA) has bee
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CV  
 
-arXiv:2606.22314v1 Announce Type: cross Abstract: Path-based attribution methods such as Integrated Gradients (IG) are widely adopted for their strong axiomatic properties and effectiveness in attributing model predictions to input features by integrating gradients along a path from a baseline to th...
+arXiv:2606.22314v2 Announce Type: cross Abstract: Path-based attribution methods such as Integrated Gradients (IG) are widely adopted for their strong axiomatic properties and effectiveness in attributing model predictions to input features by integrating gradients along a path from a baseline to th...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22314)
 
@@ -5477,7 +5477,7 @@ arXiv:2606.22581v1 Announce Type: cross Abstract: Host intrusion detection syste
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.22600v1 Announce Type: cross Abstract: On-Policy Distillation (OPD) improves the learning efficiency of standard reinforcement learning through dense, token-level supervision from teachers. In the standard KL objective of OPD, token-level losses are uniformly averaged, implying equal weig...
+arXiv:2606.22600v2 Announce Type: cross Abstract: On-Policy Distillation (OPD) improves the learning efficiency of standard reinforcement learning through dense, token-level supervision from teachers. In the standard KL objective of OPD, token-level losses are uniformly averaged, implying equal weig...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22600)
 
@@ -5669,7 +5669,7 @@ arXiv:2606.22728v1 Announce Type: cross Abstract: The trustworthiness of a retri
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.CY  
 
-arXiv:2606.22748v1 Announce Type: cross Abstract: Some professional authors are beginning to use AI tools to help produce their fiction writing. Are readers using AI to generate fiction, too? This paper examines how large language models are reshaping the production and consumption of fiction by ena...
+arXiv:2606.22748v2 Announce Type: cross Abstract: Some professional authors are beginning to use AI tools to help produce their fiction writing. Are readers using AI to generate fiction, too? Drawing on over 500,000 anonymized, English-language ChatGPT-user conversations (arXiv:2405.01470), we find ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22748)
 
@@ -6701,7 +6701,7 @@ arXiv:2606.23588v1 Announce Type: cross Abstract: Traffic microsimulators rely o
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2606.23604v1 Announce Type: cross Abstract: The tracking-by-detection paradigm in multi-object tracking (MOT) typically relies on static appearance descriptors to complement motion estimation. However, these descriptors are frame-independent, limiting their robustness as visual cues. Since suc...
+arXiv:2606.23604v2 Announce Type: cross Abstract: The tracking-by-detection paradigm in multi-object tracking (MOT) typically relies on static appearance descriptors to complement motion estimation. However, these descriptors are frame-independent, limiting their robustness as visual cues. Since suc...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23604)
 
@@ -6917,7 +6917,7 @@ arXiv:2506.06843v3 Announce Type: replace Abstract: Large Language Models (LLMs)
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG, cs.SY, eess.SY, q-fin.CP  
 
-arXiv:2506.08026v3 Announce Type: replace Abstract: Real-time market prediction services need correct predictions before a decision deadline; a correct prediction delivered late is not a usable service output. TIP-Search studies time-predictable inference scheduling over fixed market predictors unde...
+arXiv:2506.08026v4 Announce Type: replace Abstract: Real-time market prediction services need correct predictions before a decision deadline; a correct prediction delivered late is not usable. TIP-Search studies time-predictable inference scheduling over fixed market predictors under uncertain load....
 
 📖 [Read original article](https://arxiv.org/abs/2506.08026)
 
@@ -7513,11 +7513,11 @@ arXiv:2606.19538v2 Announce Type: replace Abstract: Convolutional networks, recu
 
 ## 626. BIM-Edit: Benchmarking Large Language Models for IFC-Based Building Information Modeling
 
-**Author:** Bharathi Kannan Nithyanantham, Clemens Kujat, Tobias Sesterhenn, Stefan Telgmann, J\"orn Pl\"onnigs, Christian Bartelt, Stefan L\"udtke  
+**Author:** Bharathi Kannan Nithyanantham, Clemens Kujat, Tobias Sesterhenn, Stefan Telgmann, Ashwin Nedungadi, J\"orn Pl\"onnigs, Christian Bartelt, Stefan L\"udtke  
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.20146v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly applied to computer-aided design (CAD) to generate design artifacts from textual instructions. In engineering practice, this requires more than creating new geometry, models must also understand existin...
+arXiv:2606.20146v3 Announce Type: replace Abstract: Large language models (LLMs) are increasingly applied to computer-aided design (CAD) to generate design artifacts from textual instructions. In engineering practice, this requires more than creating new geometry, models must also understand existin...
 
 📖 [Read original article](https://arxiv.org/abs/2606.20146)
 
@@ -7825,11 +7825,11 @@ arXiv:2505.11579v3 Announce Type: replace-cross Abstract: As AI systems evolve f
 
 ## 652. Render-FM: Feedforward Model for Real-time Photorealistic Volumetric Rendering
 
-**Author:** Zhongpai Gao, Benjamin Planche, Meng Zheng, Anwesa Choudhuri, Terrence Chen, Ziyan Wu  
+**Author:** Zhongpai Gao, Benjamin Planche, Meng Zheng, Anwesa Choudhuri, Van Nguyen Nguyen, Terrence Chen, Ziyan Wu  
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2505.17338v2 Announce Type: replace-cross Abstract: Photorealistic volumetric rendering of CT scans greatly benefits clinical workflows, yet neural approaches such as Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS) require prohibitive per-scan optimization (hours for NeRF, about...
+arXiv:2505.17338v3 Announce Type: replace-cross Abstract: Photorealistic volumetric rendering of CT scans greatly benefits clinical workflows, yet neural approaches such as Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS) require prohibitive per-scan optimization (hours for NeRF, about...
 
 📖 [Read original article](https://arxiv.org/abs/2505.17338)
 
@@ -9773,7 +9773,7 @@ arXiv:2606.13007v2 Announce Type: replace-cross Abstract: Clustering is fundamen
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** hep-ex, cs.AI, hep-ph  
 
-arXiv:2606.13535v2 Announce Type: replace-cross Abstract: Particle physics collider experiments provide Rivet routines as part of the analysis preservation strategy for model-independent measurements. Rivet is a C++ toolkit that allow new theoretical models to be compared to the measurements, thus a...
+arXiv:2606.13535v3 Announce Type: replace-cross Abstract: Particle physics collider experiments provide Rivet routines as part of the analysis preservation strategy for model-independent measurements. Rivet is a C++ toolkit that allow new theoretical models to be compared to the measurements, thus a...
 
 📖 [Read original article](https://arxiv.org/abs/2606.13535)
 
@@ -9845,7 +9845,7 @@ arXiv:2606.15549v2 Announce Type: replace-cross Abstract: The adoption of AI age
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.15623v2 Announce Type: replace-cross Abstract: Pairwise comparison is the gold standard for subjective ranking tasks; however, exhaustive annotation requires a massive number of human comparisons ($O(n^2)$). While sorting-based methods have reduced this burden to $O(n\log n)$, they still ...
+arXiv:2606.15623v3 Announce Type: replace-cross Abstract: Pairwise comparison is the gold standard for subjective ranking tasks; however, exhaustive annotation requires a massive number of human comparisons ($O(n^2)$). While sorting-based methods have reduced this burden to $O(n\log n)$, they still ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.15623)
 
@@ -10037,7 +10037,7 @@ arXiv:2606.19025v2 Announce Type: replace-cross Abstract: Pre-training Large Lan
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.19164v2 Announce Type: replace-cross Abstract: Model merging aims to enable multi-task learning by integrating the capabilities of multiple models fine-tuned from the same pre-trained checkpoint into a single model. Its core challenge is inter-task interference among task-specific paramet...
+arXiv:2606.19164v3 Announce Type: replace-cross Abstract: Model merging aims to enable multi-task learning by integrating the capabilities of multiple models fine-tuned from the same pre-trained checkpoint into a single model. Its core challenge is inter-task interference among task-specific paramet...
 
 📖 [Read original article](https://arxiv.org/abs/2606.19164)
 
@@ -10169,7 +10169,7 @@ arXiv:2606.20177v2 Announce Type: replace-cross Abstract: Multimodal Large Langu
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.RO  
 
-arXiv:2606.20189v2 Announce Type: replace-cross Abstract: Leveraging Vision Foundation Models (VFMs) for camera-to-LiDAR knowledge distillation offers a promising solution to the scarcity of annotated data needed to represent the immense geometric and kinematic diversity of real-world autonomous dri...
+arXiv:2606.20189v3 Announce Type: replace-cross Abstract: Leveraging Vision Foundation Models (VFMs) for camera-to-LiDAR knowledge distillation offers a promising solution to the scarcity of annotated data needed to represent the immense geometric and kinematic diversity of real-world autonomous dri...
 
 📖 [Read original article](https://arxiv.org/abs/2606.20189)
 
