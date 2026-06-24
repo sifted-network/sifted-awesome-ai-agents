@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Edge AI Power Benchmarking
+## 1. Stanford graduates rethink their futures as AI transforms tech
 
-**Author:** muxamilian  
-**Published:** 6/24/2026, 9:10:27 AM  
+**Author:** jethronethro  
+**Published:** 6/24/2026, 7:40:02 PM  
 **Categories:** -  
 
-Article URL: https://mariobergeron.com/posts/edge-ai-power-p06-memryx-mx3/ Comments URL: https://news.ycombinator.com/item?id=48657168 Points: 1 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/c872j82j2qyo Comments URL: https://news.ycombinator.com/item?id=48664732 Points: 3 # Comments: 0
 
-📖 [Read original article](https://mariobergeron.com/posts/edge-ai-power-p06-memryx-mx3/)
+📖 [Read original article](https://www.bbc.com/news/articles/c872j82j2qyo)
 
 ---
 
-## 2. Show HN: AI Use Disclaimer
+## 2. AI IQ Bio
 
-**Author:** lionkor  
-**Published:** 6/24/2026, 8:54:43 AM  
+**Author:** shea256  
+**Published:** 6/24/2026, 7:29:44 PM  
 **Categories:** -  
 
-Hi HN,Here's a little website for a hobby project I have, and maybe the AI use disclaimer on it is useful to others.I believe it's a fundamental duty of open source maintainers to disclose the extent of their AI use on a per-project basis.The usual discussions here devolve into "this is vibe coded" ...
+Article URL: https://www.aiiq.org/bio/ Comments URL: https://news.ycombinator.com/item?id=48664627 Points: 1 # Comments: 0
 
-📖 [Read original article](https://libls.org/ai-use)
+📖 [Read original article](https://www.aiiq.org/bio/)
 
 ---
 
-## 3. If AI Helped Me Write This, Is It Still Mine?
+## 3. Meta pauses employee tracker for AI training amid privacy concerns
 
-**Author:** hufdr  
-**Published:** 6/24/2026, 8:47:36 AM  
+**Author:** iamflimflam1  
+**Published:** 6/24/2026, 7:28:35 PM  
 **Categories:** -  
 
-Article URL: https://kunyuan.substack.com/p/09public-essayif-ai-helped-me-write Comments URL: https://news.ycombinator.com/item?id=48656997 Points: 3 # Comments: 2
+Article URL: https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns Comments URL: https://news.ycombinator.com/item?id=48664615 Points: 1 # Comments: 1
 
-📖 [Read original article](https://kunyuan.substack.com/p/09public-essayif-ai-helped-me-write)
+📖 [Read original article](https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns)
 
 ---
 
-## 4. Cory Doctorow on the Right – and Wrong – Way to Criticize AI
+## 4. Every AI Memory Benchmark Has an Asterisk
 
-**Author:** thunderbong  
-**Published:** 6/24/2026, 8:32:21 AM  
+**Author:** freewilly25  
+**Published:** 6/24/2026, 7:22:31 PM  
 **Categories:** -  
 
-Article URL: https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright Comments URL: https://news.ycombinator.com/item?id=48656885 Points: 4 # Comments: 0
+Article URL: https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/ Comments URL: https://news.ycombinator.com/item?id=48664538 Points: 2 # Comments: 0
 
-📖 [Read original article](https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright)
+📖 [Read original article](https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/)
 
 ---
 
-## 5. EU joins US pact to break reliance on Chinese AI supply chains (no sovereignty)
+## 5. Are AI chatbots politically biased?
 
-**Author:** alecco  
-**Published:** 6/24/2026, 8:26:58 AM  
+**Author:** MrBuddyCasino  
+**Published:** 6/24/2026, 7:22:09 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/681c33a0-dcb4-4a82-9aa0-8a9172f7e5bc Comments URL: https://news.ycombinator.com/item?id=48656840 Points: 3 # Comments: 3
+Article URL: https://twitter.com/ianbremmer/status/2069744192230764723 Comments URL: https://news.ycombinator.com/item?id=48664533 Points: 6 # Comments: 2
 
-📖 [Read original article](https://www.ft.com/content/681c33a0-dcb4-4a82-9aa0-8a9172f7e5bc)
+📖 [Read original article](https://twitter.com/ianbremmer/status/2069744192230764723)
 
 ---
 
-## 6. GitHub Is Becoming a Giant AI Code Dump
+## 6. The skills I think we might gain (AI)
 
-**Author:** Athena-maref  
-**Published:** 6/24/2026, 8:21:59 AM  
+**Author:** gb2d_hn  
+**Published:** 6/24/2026, 7:19:33 PM  
 **Categories:** -  
 
-Article URL: https://maref.cc/en/blog/vibe-coding-crisis/ Comments URL: https://news.ycombinator.com/item?id=48656807 Points: 22 # Comments: 23
+Article URL: https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace Comments URL: https://news.ycombinator.com/item?id=48664505 Points: 1 # Comments: 0
 
-📖 [Read original article](https://maref.cc/en/blog/vibe-coding-crisis/)
+📖 [Read original article](https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace)
 
 ---
 
-## 7. Workdir: Open-source sandboxes for AI agents
+## 7. AI Shopping Agents Pose Novel Liability, Authorization Risks
 
-**Author:** handfuloflight  
-**Published:** 6/24/2026, 7:37:22 AM  
+**Author:** petethomas  
+**Published:** 6/24/2026, 7:02:29 PM  
 **Categories:** -  
 
-Article URL: https://workdir.dev/ Comments URL: https://news.ycombinator.com/item?id=48656496 Points: 1 # Comments: 0
+Article URL: https://news.bloomberglaw.com/banking-law/ai-shopping-agents-pose-novel-liability-authorization-risks Comments URL: https://news.ycombinator.com/item?id=48664309 Points: 1 # Comments: 0
 
-📖 [Read original article](https://workdir.dev/)
+📖 [Read original article](https://news.bloomberglaw.com/banking-law/ai-shopping-agents-pose-novel-liability-authorization-risks)
 
 ---
 
-## 8. SHOW HN: RainBreak App Mac – The AI doesn't need a break. But you do
+## 8. Microsoft uses AI to link two malware operations in racketeering suit
 
-**Author:** franze  
-**Published:** 6/24/2026, 7:35:28 AM  
+**Author:** speckx  
+**Published:** 6/24/2026, 6:57:06 PM  
 **Categories:** -  
 
-Article URL: https://rainbreak.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=48656483 Points: 1 # Comments: 0
+Article URL: https://www.theregister.com/security/2026/06/24/microsoft-uses-ai-to-link-two-malware-operations-in-racketeering-suit/5261656 Comments URL: https://news.ycombinator.com/item?id=48664235 Points: 3 # Comments: 0
 
-📖 [Read original article](https://rainbreak.franzai.com/)
+📖 [Read original article](https://www.theregister.com/security/2026/06/24/microsoft-uses-ai-to-link-two-malware-operations-in-racketeering-suit/5261656)
 
 ---
 
-## 9. Oxford's top maths professor: 'The devil could use AI to destroy the world'
+## 9. Superhuman acquires AI detection startup GPTZero with 19M+ users and $30M ARR
 
-**Author:** 01-_-  
-**Published:** 6/24/2026, 7:18:30 AM  
+**Author:** thoughtpeddler  
+**Published:** 6/24/2026, 6:56:40 PM  
 **Categories:** -  
 
-Article URL: https://www.telegraph.co.uk/books/non-fiction/interview-oxford-professor-john-lennox/ Comments URL: https://news.ycombinator.com/item?id=48656348 Points: 1 # Comments: 0
+Article URL: https://gptzero.me/news/preserving-whats-human/ Comments URL: https://news.ycombinator.com/item?id=48664229 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.telegraph.co.uk/books/non-fiction/interview-oxford-professor-john-lennox/)
+📖 [Read original article](https://gptzero.me/news/preserving-whats-human/)
 
 ---
 
-## 10. A desktop wrapper for orchestrating web design AI agents
+## 10. An autonomous AI agent that handles video retention editing
 
-**Author:** gabriel_sstech  
-**Published:** 6/24/2026, 7:08:44 AM  
+**Author:** Quise  
+**Published:** 6/24/2026, 6:46:15 PM  
 **Categories:** -  
 
-Article URL: https://github.com/swiftsellai-ssa/sticky/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=48656277 Points: 1 # Comments: 0
+Article URL: https://www.autoeditor.app/ Comments URL: https://news.ycombinator.com/item?id=48664119 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/swiftsellai-ssa/sticky/releases/tag/v1.0.0)
+📖 [Read original article](https://www.autoeditor.app/)
 
 ---
 
-## 11. Oracle's 21,000 layoffs help drive its debt-fueled AI investments
+## 11. Show HN: Drudgereport but for AI
 
-**Author:** joozio  
-**Published:** 6/24/2026, 7:04:43 AM  
+**Author:** titusblair  
+**Published:** 6/24/2026, 6:39:46 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/ Comments URL: https://news.ycombinator.com/item?id=48656245 Points: 3 # Comments: 0
+Article URL: https://aititus.com/news/ Comments URL: https://news.ycombinator.com/item?id=48664027 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/)
+📖 [Read original article](https://aititus.com/news/)
 
 ---
 
-## 12. Cisco AI Defense Skill Scanner
+## 12. The State of GEO Readiness 2026: 100 B2B brands across AI search engines
 
-**Author:** chha  
-**Published:** 6/24/2026, 6:44:16 AM  
+**Author:** jrame  
+**Published:** 6/24/2026, 6:39:17 PM  
 **Categories:** -  
 
-Article URL: https://github.com/cisco-ai-defense/skill-scanner Comments URL: https://news.ycombinator.com/item?id=48656076 Points: 2 # Comments: 0
+Article URL: https://getgeoscan.ai/en/blog/state-of-geo-readiness-2026 Comments URL: https://news.ycombinator.com/item?id=48664021 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/cisco-ai-defense/skill-scanner)
+📖 [Read original article](https://getgeoscan.ai/en/blog/state-of-geo-readiness-2026)
 
 ---
 
-## 13. \"Start with a Monolith\" Was Good Advice. AI Is Changing That
+## 13. Google set to lose two more AI researchers to Anthropic
 
-**Author:** feeblefakie  
-**Published:** 6/24/2026, 6:08:45 AM  
+**Author:** isomorphic_duck  
+**Published:** 6/24/2026, 6:36:26 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@pivotfakie/start-with-a-monolith-was-good-advice-ai-is-changing-that-a2181b8e5ede Comments URL: https://news.ycombinator.com/item?id=48655809 Points: 3 # Comments: 1
+Article URL: https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic Comments URL: https://news.ycombinator.com/item?id=48663985 Points: 7 # Comments: 4
 
-📖 [Read original article](https://medium.com/@pivotfakie/start-with-a-monolith-was-good-advice-ai-is-changing-that-a2181b8e5ede)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic)
 
 ---
 
-## 14. AI Steps Off the Screen
+## 14. Developers can overcome AI FOMO
 
-**Author:** epicsagas  
-**Published:** 6/24/2026, 5:59:53 AM  
+**Author:** gamescodedogs  
+**Published:** 6/24/2026, 6:36:26 PM  
 **Categories:** -  
 
-Article URL: https://epics.tech/posts/2026-06-23-ai-steps-off-the-screen/ Comments URL: https://news.ycombinator.com/item?id=48655738 Points: 2 # Comments: 0
+Article URL: https://old.reddit.com/r/LLMDevs/comments/1ueloyp/i_am_an_indie_dev_and_i_published_the_article_ai/ Comments URL: https://news.ycombinator.com/item?id=48663984 Points: 3 # Comments: 0
 
-📖 [Read original article](https://epics.tech/posts/2026-06-23-ai-steps-off-the-screen/)
+📖 [Read original article](https://old.reddit.com/r/LLMDevs/comments/1ueloyp/i_am_an_indie_dev_and_i_published_the_article_ai/)
 
 ---
 
-## 15. Show HN: Fork.ai – branch any AI answer into a mind map instead of a chat log
+## 15. Show HN: Why AI Agents Fail at API Calls in Production (and How to Fix It)
 
-**Author:** gokulmc  
-**Published:** 6/24/2026, 5:11:52 AM  
+**Author:** chaitralikakde  
+**Published:** 6/24/2026, 6:35:11 PM  
 **Categories:** -  
 
-Article URL: https://forkai.in Comments URL: https://news.ycombinator.com/item?id=48655438 Points: 1 # Comments: 0
+Article URL: https://twitter.com/Chaitralikakde/status/2064365706679144842 Comments URL: https://news.ycombinator.com/item?id=48663967 Points: 1 # Comments: 0
 
-📖 [Read original article](https://forkai.in)
+📖 [Read original article](https://twitter.com/Chaitralikakde/status/2064365706679144842)
 
 ---
 
-## 16. New AI tools in darktable 5.6
+## 16. Who is the Rockefeller of AI and which industry will they transform?
 
-**Author:** mikae1  
-**Published:** 6/24/2026, 4:32:20 AM  
+**Author:** go_kool  
+**Published:** 6/24/2026, 6:32:09 PM  
 **Categories:** -  
 
-Article URL: https://www.darktable.org/2026/06/meet-darktable-5.6-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48655147 Points: 1 # Comments: 0
+Article URL: https://constantlyrandom.substack.com/p/history-rhymes Comments URL: https://news.ycombinator.com/item?id=48663924 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.darktable.org/2026/06/meet-darktable-5.6-ai-tools/)
+📖 [Read original article](https://constantlyrandom.substack.com/p/history-rhymes)
 
 ---
 
-## 17. Ask HN: How important is college after AI?
+## 17. Why should we teach kids to learn how to code in the age of AI [pdf]
 
-**Author:** akashwadhwani35  
-**Published:** 6/24/2026, 4:30:36 AM  
+**Author:** Muhammad523  
+**Published:** 6/24/2026, 6:30:14 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48655137 Points: 2 # Comments: 4
+Article URL: https://static.raspberrypi.org/files/about/Why-kids-still-need-to-learn-to-code-in-the-age-of-AI-2025-Raspberry-Pi-Foundation-position-paper.pdf Comments URL: https://news.ycombinator.com/item?id=48663903 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48655137)
+📖 [Read original article](https://static.raspberrypi.org/files/about/Why-kids-still-need-to-learn-to-code-in-the-age-of-AI-2025-Raspberry-Pi-Foundation-position-paper.pdf)
 
 ---
 
-## 18. Ask HN: How do you test AI-generated code?
+## 18. Why Current AI Guardrails Train Models to Fake Alignment
 
-**Author:** df003  
-**Published:** 6/24/2026, 4:14:52 AM  
+**Author:** kellya  
+**Published:** 6/24/2026, 6:28:11 PM  
 **Categories:** -  
 
-When AI generates code, I first instruct the model to find, fix, and verify any issues. After that, I start the server and test whether it actually works from the user’s perspective.What I’m looking for is a workflow where issues are received, fixed, tested, and deployed—but it seems that current AI...
+Article URL: https://kellyasay.substack.com/p/the-prisoners-paradox-how-adversarial Comments URL: https://news.ycombinator.com/item?id=48663878 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48655020)
+📖 [Read original article](https://kellyasay.substack.com/p/the-prisoners-paradox-how-adversarial)
 
 ---
 
-## 19. Anthropic-Cybersecurity-Skills:817 structured cybersecurity skills for AI agents
+## 19. GitHub joins coalition advocating for fixes to California AI Transparency Act
 
-**Author:** aurenvale  
-**Published:** 6/24/2026, 4:07:19 AM  
+**Author:** geogirl1997  
+**Published:** 6/24/2026, 6:22:51 PM  
 **Categories:** -  
 
-Article URL: https://github.com/mukul975/Anthropic-Cybersecurity-Skills Comments URL: https://news.ycombinator.com/item?id=48654971 Points: 4 # Comments: 0
+Article URL: https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/ Comments URL: https://news.ycombinator.com/item?id=48663796 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+📖 [Read original article](https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/)
 
 ---
 
-## 20. Is working in AI training data a waste of time?
+## 20. Is AI 'one big bubble'? Behind the tech sell-off
 
-**Author:** mazaltime  
-**Published:** 6/24/2026, 3:57:53 AM  
+**Author:** doctor_radium  
+**Published:** 6/24/2026, 6:11:01 PM  
 **Categories:** -  
 
-Article URL: https://joinhandshake.com/ai/opportunities/generalist-bachelor-s2/ Comments URL: https://news.ycombinator.com/item?id=48654916 Points: 1 # Comments: 1
+Article URL: https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq Comments URL: https://news.ycombinator.com/item?id=48663605 Points: 4 # Comments: 0
 
-📖 [Read original article](https://joinhandshake.com/ai/opportunities/generalist-bachelor-s2/)
+📖 [Read original article](https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq)
 
 ---
