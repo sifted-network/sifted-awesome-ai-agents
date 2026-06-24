@@ -245,7 +245,7 @@ arXiv:2606.20937v1 Announce Type: new Abstract: We study internalization process
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.20945v1 Announce Type: new Abstract: Self-attention is central to Transformer performance and is often the most expensive part of the Transformer at long context lengths because its pairwise token interactions scale quadratically with sequence length. Standard dense attention also applies...
+arXiv:2606.20945v2 Announce Type: new Abstract: Self-attention is central to Transformer performance and is often the most expensive part of the Transformer at long context lengths because its pairwise token interactions scale quadratically with sequence length. Standard dense attention also applies...
 
 📖 [Read original article](https://arxiv.org/abs/2606.20945)
 
@@ -521,7 +521,7 @@ arXiv:2606.21212v1 Announce Type: new Abstract: Causal discovery is critical for
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.21228v1 Announce Type: new Abstract: The capabilities of frontier Large Language Models (LLMs) continue to advance, with different providers increasingly specializing in distinct domains. This raises a natural next objective: how to combine the individual specializations of various LLMs i...
+arXiv:2606.21228v2 Announce Type: new Abstract: The capabilities of frontier Large Language Models (LLMs) continue to advance, with different providers increasingly specializing in distinct domains. This raises a natural next objective: how to combine the individual specializations of various LLMs i...
 
 📖 [Read original article](https://arxiv.org/abs/2606.21228)
 
@@ -617,7 +617,7 @@ arXiv:2606.21289v1 Announce Type: new Abstract: Nondestructive detection methods
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.21295v1 Announce Type: new Abstract: Existing sequence models, including RNNs, LSTMs, continuous-time networks, and Transformers, share a common structural principle: layer-wise dynamics, where all neurons in the same layer co-evolve through a shared parameterized operator, leaving indivi...
+arXiv:2606.21295v2 Announce Type: new Abstract: Existing sequence models, including RNNs, LSTMs, continuous-time networks, and Transformers, share a common structural principle: layer-wise dynamics, where all neurons in the same layer co-evolve through a shared parameterized operator, leaving indivi...
 
 📖 [Read original article](https://arxiv.org/abs/2606.21295)
 
@@ -1001,7 +1001,7 @@ arXiv:2606.21564v1 Announce Type: new Abstract: Transformers achieve strong perf
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.IT, math.DG, math.IT, math.ST, stat.TH  
 
-arXiv:2606.21585v1 Announce Type: new Abstract: We equip the space of beliefs with a cost geometry (what it costs to pass from one belief to another): optimal transport in Wasserstein space, reweighted conformally by Fisher information (the price of the precision at stake), distinct from the Fisher-...
+arXiv:2606.21585v2 Announce Type: new Abstract: A finite machine's digital twin of a system observes the territory through finite, noisy sensors; we model its coherent output as a belief, a probability density over states, the Bayes posterior, never a point. Certainty, the perfect twin, is denied tw...
 
 📖 [Read original article](https://arxiv.org/abs/2606.21585)
 
@@ -1547,13 +1547,13 @@ arXiv:2606.22056v1 Announce Type: new Abstract: Adversarial imitation learning (
 
 ---
 
-## 129. New Smooth Loss functions for Robust Regression that Closely Approximate Absolute Error and Provide Improved Performance on Datasets With Significant Outliers
+## 129. Alternate loss functions and regression models that achieve robustness to outliers by modulating the learning rate
 
 **Author:** Mathew Mithra Noel, Arindam Banerjee, Yug D. Oswal, Geraldine Bessie Amali D, Venkataraman Muthiah-Nakarajan  
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.22068v1 Announce Type: new Abstract: The performance of supervised machine learning models is directly related to the quality of the training dataset. In particular, the presence of significantly many outliers in the training data can lead to low accuracy because popular loss function lik...
+arXiv:2606.22068v2 Announce Type: new Abstract: Most real-world datasets used for training supervised learning models are contaminated with noisy data and outliers leading to large prediction errors. This paper proposes a new approach for achieving robustness where the learning rate is modulated by ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22068)
 
@@ -1817,7 +1817,7 @@ arXiv:2606.22307v1 Announce Type: new Abstract: Data augmentation (DA) has been 
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CV  
 
-arXiv:2606.22314v1 Announce Type: new Abstract: Path-based attribution methods such as Integrated Gradients (IG) are widely adopted for their strong axiomatic properties and effectiveness in attributing model predictions to input features by integrating gradients along a path from a baseline to the ...
+arXiv:2606.22314v2 Announce Type: new Abstract: Path-based attribution methods such as Integrated Gradients (IG) are widely adopted for their strong axiomatic properties and effectiveness in attributing model predictions to input features by integrating gradients along a path from a baseline to the ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22314)
 
@@ -1913,7 +1913,7 @@ arXiv:2606.22389v1 Announce Type: new Abstract: Singular Learning Theory leverag
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.IT, math.IT, stat.ML  
 
-arXiv:2606.22406v1 Announce Type: new Abstract: Attention mechanisms have demonstrated remarkable empirical success in identifying relevant information from large collections of tokens, yet the theoretical principles underlying this behavior remain poorly understood. We study a stylized softmax-atte...
+arXiv:2606.22406v2 Announce Type: new Abstract: Attention mechanisms have demonstrated remarkable empirical success in identifying relevant information from large collections of tokens, yet the theoretical principles underlying this behavior remain poorly understood. We study a stylized softmax-atte...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22406)
 
@@ -2081,7 +2081,7 @@ arXiv:2606.22589v1 Announce Type: new Abstract: Ever since the advent of foundat
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.22600v1 Announce Type: new Abstract: On-Policy Distillation (OPD) improves the learning efficiency of standard reinforcement learning through dense, token-level supervision from teachers. In the standard KL objective of OPD, token-level losses are uniformly averaged, implying equal weight...
+arXiv:2606.22600v2 Announce Type: new Abstract: On-Policy Distillation (OPD) improves the learning efficiency of standard reinforcement learning through dense, token-level supervision from teachers. In the standard KL objective of OPD, token-level losses are uniformly averaged, implying equal weight...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22600)
 
@@ -3875,13 +3875,13 @@ arXiv:2606.20729v1 Announce Type: cross Abstract: Quantum chemistry simulations 
 
 ---
 
-## 323. Repeated Shared Access Enables Grokking, but Edit Propagation Depends on a Fine-Grained Addressable Memory
+## 323. Repeated Shared Access Enables Grokking, but Edit Propagation Depends on an Addressable Memory
 
 **Author:** Yanan Niu  
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2606.20737v1 Announce Type: cross Abstract: We study factual edit propagation in a controlled synthetic knowledge-graph QA setting, comparing four architectures that cross loop recurrence with shared memory access: dense (Dense), looped (Loop), dense with shared memory (Dense+Mem), and looped ...
+arXiv:2606.20737v2 Announce Type: cross Abstract: We study factual edit propagation in a controlled synthetic knowledge-graph QA setting using a 2x2 grid that crosses loop recurrence with shared-memory access: a dense transformer (Dense), a looped transformer (Loop), a dense backbone with shared mem...
 
 📖 [Read original article](https://arxiv.org/abs/2606.20737)
 
@@ -4025,7 +4025,7 @@ arXiv:2606.20832v1 Announce Type: cross Abstract: Astrophysical simulations freq
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.GR, cs.LG  
 
-arXiv:2606.20856v1 Announce Type: cross Abstract: Multi-view surface reconstruction is a core problem in computer vision. One prominent line of work represents the surface implicitly as a signed distance field (SDF), optimizing it based on the photometric loss between rendered and observed pixel col...
+arXiv:2606.20856v2 Announce Type: cross Abstract: Multi-view surface reconstruction is a core problem in computer vision. One prominent line of work represents the surface implicitly as a signed distance field (SDF), optimizing it based on the photometric loss between rendered and observed pixel col...
 
 📖 [Read original article](https://arxiv.org/abs/2606.20856)
 
@@ -4637,7 +4637,7 @@ arXiv:2606.21683v1 Announce Type: cross Abstract: We consider the parameter esti
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.CL, cs.LG  
 
-arXiv:2606.21690v1 Announce Type: cross Abstract: Phishing is a multi-modal threat. We present a hybrid pipeline that scores each modality with its own engine and fuses the results. Three engines are built, deployed, and independently benchmarked: a four-stage URL stack (Domain Guard, lexical model,...
+arXiv:2606.21690v2 Announce Type: cross Abstract: Phishing is a multi-modal threat. We present a hybrid pipeline that scores each modality with its own engine and fuses the results. Three engines are built, deployed, and independently benchmarked: a four-stage URL stack (Domain Guard, lexical model,...
 
 📖 [Read original article](https://arxiv.org/abs/2606.21690)
 
@@ -4901,7 +4901,7 @@ arXiv:2606.22043v1 Announce Type: cross Abstract: Reinforcement learning with ve
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** eess.SP, cs.LG  
 
-arXiv:2606.22054v1 Announce Type: cross Abstract: Detectors for GNSS radio-frequency impairments (jamming, spoofing, multipath) are usually reported with a single AUC measured on the distribution they were tuned on. That number falls once conditions move, and the size of the drop is rarely known in ...
+arXiv:2606.22054v2 Announce Type: cross Abstract: Detectors for GNSS radio-frequency impairments (jamming, spoofing, multipath) are usually reported with a single AUC measured on the distribution they were tuned on. That number falls once conditions move, and the size of the drop is rarely known in ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22054)
 
@@ -5063,13 +5063,13 @@ arXiv:2606.22218v1 Announce Type: cross Abstract: In this paper, we investigate 
 
 ---
 
-## 422. MultiMem: Measuring and Mitigating Memorization in Multi-Modal Contrastive Learninga
+## 422. MultiMem: Measuring and Mitigating Memorization in Multi-Modal Contrastive Learning
 
 **Author:** Wenhao Wang, Franziska Boenisch, Michael Backes, Adam Dziedzic  
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2606.22220v1 Announce Type: cross Abstract: Memorization in machine learning models enables high performance on rare in-distribution samples by capturing their atypical patterns. However, it also causes harmful retention of noise and outliers, degrading generalization. While memorization has b...
+arXiv:2606.22220v2 Announce Type: cross Abstract: Memorization in machine learning models enables high performance on rare in-distribution samples by capturing their atypical patterns. However, it also causes harmful retention of noise and outliers, degrading generalization. While memorization has b...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22220)
 
@@ -5365,7 +5365,7 @@ arXiv:2606.22475v1 Announce Type: cross Abstract: Modern web applications increa
 
 ## 447. Deep Learning-Based Sign Language Recognition from Videos and Cross-Lingual Translation to Indian Vernaculars
 
-**Author:** Chandranath Adak, Ramesh Nandipalli  
+**Author:** Ramesh Nandipalli, Chandranath Adak  
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
@@ -5573,7 +5573,7 @@ arXiv:2606.22765v1 Announce Type: cross Abstract: Biological systems maintain fu
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** stat.ME, cs.LG  
 
-arXiv:2606.22775v1 Announce Type: cross Abstract: Distribution shift between training and deployment is a pervasive challenge for modern AI systems. In many cases, the target marginals of covariates and response are known or specified through population-level observations, boundary conditions, prope...
+arXiv:2606.22775v2 Announce Type: cross Abstract: Distribution shift between training and deployment is a pervasive challenge for modern AI systems. In many cases, the target marginals of covariates and response are known or specified through population-level observations, boundary conditions, prope...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22775)
 
@@ -5669,7 +5669,7 @@ arXiv:2606.22952v1 Announce Type: cross Abstract: This technical report presents
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cond-mat.dis-nn, cond-mat.stat-mech, cs.LG  
 
-arXiv:2606.22984v1 Announce Type: cross Abstract: Efficient sampling of the Boltzmann distribution in frustrated spin glasses is central to statistical mechanics and combinatorial optimization. Despite advances in machine-learning-based approaches, two issues persist: limited understanding of why va...
+arXiv:2606.22984v2 Announce Type: cross Abstract: Efficient sampling of the Boltzmann distribution in frustrated spin glasses is central to statistical mechanics and combinatorial optimization. Despite advances in machine-learning-based approaches, two issues persist: limited understanding of why va...
 
 📖 [Read original article](https://arxiv.org/abs/2606.22984)
 
@@ -5897,7 +5897,7 @@ arXiv:2606.23436v1 Announce Type: cross Abstract: Unsupervised video object trac
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.LG  
 
-arXiv:2606.23444v1 Announce Type: cross Abstract: Accurate dynamics models are critical for informed decision-making in robotic systems, particularly for agile aerial vehicles operating under uncertainty. Neural network dynamics models are attractive for capturing complex nonlinear effects, but exis...
+arXiv:2606.23444v2 Announce Type: cross Abstract: Accurate dynamics models are critical for informed decision-making in robotic systems, particularly for agile aerial vehicles operating under uncertainty. Neural network dynamics models are attractive for capturing complex nonlinear effects, but exis...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23444)
 
@@ -6149,7 +6149,7 @@ arXiv:2606.23689v1 Announce Type: cross Abstract: Learning robust dexterous gras
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.NA, math.NA  
 
-arXiv:2106.06998v4 Announce Type: replace Abstract: Training convolutional neural networks at scale demands substantial memory, largely because intermediate activations must be stored for backpropagation. Existing remedies (checkpointing, invertible architectures, or gradient-approximation methods s...
+arXiv:2106.06998v5 Announce Type: replace Abstract: Training convolutional neural networks at scale demands substantial memory, largely because intermediate activations must be stored for backpropagation. Existing remedies (checkpointing, invertible architectures, or gradient-approximation methods s...
 
 📖 [Read original article](https://arxiv.org/abs/2106.06998)
 
@@ -6581,7 +6581,7 @@ arXiv:2508.05469v4 Announce Type: replace Abstract: We evaluate artificial intel
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2508.12042v2 Announce Type: replace Abstract: Federated learning (FL) allows collaborative training of machine learning models across multiple parties without sharing raw data. However, heterogeneous data can cause some clients to have disproportionate influence on the global model, leading to...
+arXiv:2508.12042v3 Announce Type: replace Abstract: Federated learning (FL) allows collaborative training of machine learning models across multiple parties without sharing raw data. However, heterogeneous data can cause some clients to have disproportionate influence on the global model, leading to...
 
 📖 [Read original article](https://arxiv.org/abs/2508.12042)
 
@@ -8093,7 +8093,7 @@ arXiv:2606.15127v2 Announce Type: replace Abstract: Reasoning models are increas
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.15623v2 Announce Type: replace Abstract: Pairwise comparison is the gold standard for subjective ranking tasks; however, exhaustive annotation requires a massive number of human comparisons ($O(n^2)$). While sorting-based methods have reduced this burden to $O(n\log n)$, they still requir...
+arXiv:2606.15623v3 Announce Type: replace Abstract: Pairwise comparison is the gold standard for subjective ranking tasks; however, exhaustive annotation requires a massive number of human comparisons ($O(n^2)$). While sorting-based methods have reduced this burden to $O(n\log n)$, they still requir...
 
 📖 [Read original article](https://arxiv.org/abs/2606.15623)
 
@@ -8201,7 +8201,7 @@ arXiv:2606.18487v2 Announce Type: replace Abstract: The standard heuristic of se
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.18627v2 Announce Type: replace Abstract: Model merging has emerged as a training-free alternative to multi-task learning, aiming to combine multiple task-specific fine-tuned models into a single multi-task model. Most existing model merging approaches follow the Task Arithmetic paradigm, ...
+arXiv:2606.18627v3 Announce Type: replace Abstract: Model merging has emerged as a training-free alternative to multi-task learning, aiming to combine multiple task-specific fine-tuned models into a single multi-task model. Most existing model merging approaches follow the Task Arithmetic paradigm, ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.18627)
 
@@ -8261,7 +8261,7 @@ arXiv:2606.19120v2 Announce Type: replace Abstract: On-policy self-distillation 
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.19164v2 Announce Type: replace Abstract: Model merging aims to enable multi-task learning by integrating the capabilities of multiple models fine-tuned from the same pre-trained checkpoint into a single model. Its core challenge is inter-task interference among task-specific parameter upd...
+arXiv:2606.19164v3 Announce Type: replace Abstract: Model merging aims to enable multi-task learning by integrating the capabilities of multiple models fine-tuned from the same pre-trained checkpoint into a single model. Its core challenge is inter-task interference among task-specific parameter upd...
 
 📖 [Read original article](https://arxiv.org/abs/2606.19164)
 
@@ -8429,7 +8429,7 @@ arXiv:2405.10231v3 Announce Type: replace-cross Abstract: Social media influence
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** quant-ph, cs.LG  
 
-arXiv:2406.07884v2 Announce Type: replace-cross Abstract: Using partial knowledge of a quantum state to control multiqubit entanglement is a largely unexplored paradigm in the emerging field of quantum interactive dynamics with the potential to address outstanding challenges in quantum state prepara...
+arXiv:2406.07884v3 Announce Type: replace-cross Abstract: Using partial knowledge of a quantum state to control multiqubit entanglement is a largely unexplored paradigm in the emerging field of quantum interactive dynamics with the potential to address outstanding challenges in quantum state prepara...
 
 📖 [Read original article](https://arxiv.org/abs/2406.07884)
 
@@ -8669,7 +8669,7 @@ arXiv:2506.04018v3 Announce Type: replace-cross Abstract: As Large Language Mode
 **Published:** 6/23/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG, cs.SY, eess.SY, q-fin.CP  
 
-arXiv:2506.08026v3 Announce Type: replace-cross Abstract: Real-time market prediction services need correct predictions before a decision deadline; a correct prediction delivered late is not a usable service output. TIP-Search studies time-predictable inference scheduling over fixed market predictor...
+arXiv:2506.08026v4 Announce Type: replace-cross Abstract: Real-time market prediction services need correct predictions before a decision deadline; a correct prediction delivered late is not usable. TIP-Search studies time-predictable inference scheduling over fixed market predictors under uncertain...
 
 📖 [Read original article](https://arxiv.org/abs/2506.08026)
 
