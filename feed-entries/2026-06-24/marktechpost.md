@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-24"
 date: "2026-06-24"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-06-24
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md
+## 1. Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations
+
+**Author:** Sana Hassan  
+**Published:** 6/24/2026, 9:36:59 AM  
+**Categories:** Agentic AI, Editors Pick, Software Engineering, Staff, Tutorials  
+
+In this tutorial, we build a fully offline Graphify pipeline that turns a multi-module Python application into a knowledge graph. We install Graphify, generate a connected sample app, and extract the graph locally using tree-sitter, with no API key or LLM backend. We load graph.json into NetworkX an...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/)
+
+---
+
+## 2. Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md
 
 **Author:** Asif Razzaq  
 **Published:** 6/24/2026, 9:21:49 AM  
@@ -23,7 +35,7 @@ Nous Research has added /learn to the Hermes Agent Skills System. The command au
 
 ---
 
-## 2. 16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit
+## 3. 16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit
 
 **Author:** Michal Sutter  
 **Published:** 6/24/2026, 8:12:27 AM  
@@ -35,7 +47,7 @@ Generative AI has reshaped how software gets built. What began as line-by-line a
 
 ---
 
-## 3. DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell
+## 4. DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell
 
 **Author:** Asif Razzaq  
 **Published:** 6/24/2026, 7:21:10 AM  
