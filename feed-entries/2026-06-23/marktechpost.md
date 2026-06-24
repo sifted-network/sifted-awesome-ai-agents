@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-23"
 date: "2026-06-23"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-06-23
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Datalab Releases lift: A 9B Open-Weights Vision Model That Extracts Structured JSON From PDFs Using Schemas
+## 1. Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines
+
+**Author:** Asif Razzaq  
+**Published:** 6/23/2026, 11:43:43 PM  
+**Categories:** Agentic AI, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, New Releases, OCR, Staff, Technology  
+
+Mistral AI released OCR 4 on June 23, 2026, moving from clean text extraction to structured document output. Each block returns a bounding box, a typed classification, and per-page and per-word confidence scores. The model supports 170 languages, runs in a single self-hosted container, and feeds cit...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/23/mistral-ocr-4/)
+
+---
+
+## 2. Datalab Releases lift: A 9B Open-Weights Vision Model That Extracts Structured JSON From PDFs Using Schemas
 
 **Author:** Asif Razzaq  
 **Published:** 6/23/2026, 7:35:33 PM  
@@ -23,7 +35,7 @@ Datalab released lift, a 9B open-weights vision model that turns PDFs and images
 
 ---
 
-## 2. How to Use NVIDIA Canary-1B-v2 for ASR, Translation, and Automatic SRT Subtitle Export in Python
+## 3. How to Use NVIDIA Canary-1B-v2 for ASR, Translation, and Automatic SRT Subtitle Export in Python
 
 **Author:** Sana Hassan  
 **Published:** 6/23/2026, 6:31:36 PM  
@@ -35,7 +47,7 @@ In this tutorial, we build a multilingual ASR and speech translation pipeline wi
 
 ---
 
-## 3. Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads
+## 4. Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads
 
 **Author:** Asif Razzaq  
 **Published:** 6/23/2026, 7:20:44 AM  
@@ -47,7 +59,7 @@ Prime Intellect has released prime-rl 0.6.0, an open framework for asynchronous 
 
 ---
 
-## 4. GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval
+## 5. GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval
 
 **Author:** Sana Hassan  
 **Published:** 6/23/2026, 6:35:05 AM  
