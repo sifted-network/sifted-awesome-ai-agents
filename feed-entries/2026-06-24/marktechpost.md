@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-24"
 date: "2026-06-24"
 source: "MarkTechPost"
-count: 5
+count: 6
 ---
 
 # MarkTechPost - 2026-06-24
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. How to Design an OpenHarness Style Agent Runtime with Tools, Memory, Permissions, Skills, and Multi-Agent Coordination
+## 1. Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency
+
+**Author:** Asif Razzaq  
+**Published:** 6/24/2026, 8:00:21 PM  
+**Categories:** Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, New Releases, Staff, Technology, Voice AI  
+
+Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradi...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/)
+
+---
+
+## 2. How to Design an OpenHarness Style Agent Runtime with Tools, Memory, Permissions, Skills, and Multi-Agent Coordination
 
 **Author:** Sana Hassan  
 **Published:** 6/24/2026, 7:08:36 PM  
@@ -23,7 +35,7 @@ In this tutorial, we build an OpenHarness style agent harness from scratch to se
 
 ---
 
-## 2. Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations
+## 3. Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations
 
 **Author:** Sana Hassan  
 **Published:** 6/24/2026, 9:36:59 AM  
@@ -35,7 +47,7 @@ In this tutorial, we build a fully offline Graphify pipeline that turns a multi-
 
 ---
 
-## 3. Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md
+## 4. Nous Research Adds /learn to Hermes Agent’s Skills System, Capturing Workflows as Slash Commands Without Hand-Writing SKILL.md
 
 **Author:** Asif Razzaq  
 **Published:** 6/24/2026, 9:21:49 AM  
@@ -47,7 +59,7 @@ Nous Research has added /learn to the Hermes Agent Skills System. The command au
 
 ---
 
-## 4. 16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit
+## 5. 16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit
 
 **Author:** Michal Sutter  
 **Published:** 6/24/2026, 8:12:27 AM  
@@ -59,7 +71,7 @@ Generative AI has reshaped how software gets built. What began as line-by-line a
 
 ---
 
-## 5. DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell
+## 6. DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell
 
 **Author:** Asif Razzaq  
 **Published:** 6/24/2026, 7:21:10 AM  
