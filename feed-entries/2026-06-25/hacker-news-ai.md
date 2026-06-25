@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Will AI replace technical writers?
+## 1. AirPosture – AirPods as AI posture coach (Open source)
 
-**Author:** theletterf  
-**Published:** 6/25/2026, 9:11:40 AM  
+**Author:** allenleee  
+**Published:** 6/25/2026, 2:18:26 PM  
 **Categories:** -  
 
-Article URL: https://willaireplacetechnicalwriters.com/ Comments URL: https://news.ycombinator.com/item?id=48670947 Points: 1 # Comments: 0
+Article URL: https://airposture.github.io Comments URL: https://news.ycombinator.com/item?id=48673814 Points: 2 # Comments: 0
 
-📖 [Read original article](https://willaireplacetechnicalwriters.com/)
+📖 [Read original article](https://airposture.github.io)
 
 ---
 
-## 2. The AI Coding Era Makes Boring Tests More Valuable
+## 2. Using Microsoft Copilot Enterprise, 80% of time the AI falsified results or code
 
-**Author:** vincent_s  
-**Published:** 6/25/2026, 9:10:33 AM  
+**Author:** verhash  
+**Published:** 6/25/2026, 2:16:06 PM  
 **Categories:** -  
 
-Article URL: https://www.vincentschmalbach.com/the-ai-coding-era-makes-boring-tests-more-valuable/ Comments URL: https://news.ycombinator.com/item?id=48670935 Points: 1 # Comments: 0
+Article URL: https://info.microsoft.com/ww-landing-four-paths-to-business-value-with-ai.html?lcid=en-us Comments URL: https://news.ycombinator.com/item?id=48673781 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.vincentschmalbach.com/the-ai-coding-era-makes-boring-tests-more-valuable/)
+📖 [Read original article](https://info.microsoft.com/ww-landing-four-paths-to-business-value-with-ai.html?lcid=en-us)
 
 ---
 
-## 3. Open Source Maintainers Need a Spam Filter for AI Labor
+## 3. Show HN: FreeAIStack – 14 Free AI Tools
 
-**Author:** vincent_s  
-**Published:** 6/25/2026, 9:03:47 AM  
+**Author:** FreeAIStack  
+**Published:** 6/25/2026, 2:12:46 PM  
 **Categories:** -  
 
-Article URL: https://www.vincentschmalbach.com/open-source-maintainers-need-a-spam-filter-for-ai-labor/ Comments URL: https://news.ycombinator.com/item?id=48670879 Points: 3 # Comments: 0
+Article URL: https://aifreeaistack.com/ Comments URL: https://news.ycombinator.com/item?id=48673728 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.vincentschmalbach.com/open-source-maintainers-need-a-spam-filter-for-ai-labor/)
+📖 [Read original article](https://aifreeaistack.com/)
 
 ---
 
-## 4. Using mirrord to verify AI-SRE fixes against the staging cluster
+## 4. Build an AI Discord Moderation Bot: Ban, Kick, Timeout and More
 
-**Author:** eyalbukchin  
-**Published:** 6/25/2026, 8:58:31 AM  
+**Author:** piotrgrudzien  
+**Published:** 6/25/2026, 2:12:32 PM  
 **Categories:** -  
 
-Article URL: https://metalbear.com/blog/ai-sre-holmesgpt/ Comments URL: https://news.ycombinator.com/item?id=48670846 Points: 1 # Comments: 0
+Article URL: https://quickchat.ai/post/ai-discord-moderation-bot Comments URL: https://news.ycombinator.com/item?id=48673726 Points: 2 # Comments: 0
 
-📖 [Read original article](https://metalbear.com/blog/ai-sre-holmesgpt/)
+📖 [Read original article](https://quickchat.ai/post/ai-discord-moderation-bot)
 
 ---
 
-## 5. Helmholtz AI: Democratising AI for a data-driven future
+## 5. How We'll fight the platform war against Big AI
 
-**Author:** the-mitr  
-**Published:** 6/25/2026, 8:46:00 AM  
+**Author:** eustoria  
+**Published:** 6/25/2026, 1:50:50 PM  
 **Categories:** -  
 
-Article URL: https://www.helmholtz.ai/ Comments URL: https://news.ycombinator.com/item?id=48670722 Points: 1 # Comments: 0
+Article URL: https://www.anildash.com/2026/06/23/fight-ai-platform-war/ Comments URL: https://news.ycombinator.com/item?id=48673397 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.helmholtz.ai/)
+📖 [Read original article](https://www.anildash.com/2026/06/23/fight-ai-platform-war/)
 
 ---
 
-## 6. Real-world impact of AI adoption. \"Acceleration whiplash\"
+## 6. UN hypocrisy in AI Environmental demands
 
-**Author:** ARayOutOfBounds  
-**Published:** 6/25/2026, 8:18:12 AM  
+**Author:** AlexanderHanff  
+**Published:** 6/25/2026, 1:46:48 PM  
 **Categories:** -  
 
-Article URL: https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways Comments URL: https://news.ycombinator.com/item?id=48670499 Points: 1 # Comments: 0
+Article URL: https://www.thatprivacyguy.com/blog/un-tracking-without-consent/ Comments URL: https://news.ycombinator.com/item?id=48673321 Points: 5 # Comments: 2
 
-📖 [Read original article](https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways)
+📖 [Read original article](https://www.thatprivacyguy.com/blog/un-tracking-without-consent/)
 
 ---
 
-## 7. Local AI orchestrator with computer and browser access
+## 7. Good clarity on AI observability and in simple terms
 
-**Author:** blackhawk094  
-**Published:** 6/25/2026, 8:02:24 AM  
+**Author:** pineapple_opus  
+**Published:** 6/25/2026, 1:45:02 PM  
 **Categories:** -  
 
-Article URL: https://github.com/shreyasks094/Zeus Comments URL: https://news.ycombinator.com/item?id=48670377 Points: 1 # Comments: 1
+Article URL: https://posthog.com/blog/what-is-ai-observability Comments URL: https://news.ycombinator.com/item?id=48673299 Points: 4 # Comments: 1
 
-📖 [Read original article](https://github.com/shreyasks094/Zeus)
+📖 [Read original article](https://posthog.com/blog/what-is-ai-observability)
 
 ---
 
-## 8. Ask HN: What's your favorite AI tool for front end design?
+## 8. Tokenmaxxing is dead, and the real AI cost reckoning hasn't started yet
 
-**Author:** AlanAAG  
-**Published:** 6/25/2026, 7:47:43 AM  
+**Author:** greg_V  
+**Published:** 6/25/2026, 1:44:37 PM  
 **Categories:** -  
 
-Google stitch, Claude code, lovable, …Lots of options, they’re all awful in my experience, what’s the least worst at this point in time? Comments URL: https://news.ycombinator.com/item?id=48670254 Points: 2 # Comments: 0
+Article URL: https://mimetiq.substack.com/p/the-tokenmaxxing-hangover Comments URL: https://news.ycombinator.com/item?id=48673294 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48670254)
+📖 [Read original article](https://mimetiq.substack.com/p/the-tokenmaxxing-hangover)
 
 ---
 
-## 9. The Monastery of Nahal – An AI Cyberchurch
+## 9. Meta debuts AI-powered Meta Glasses, starting at $299
 
-**Author:** ChilledTonic  
-**Published:** 6/25/2026, 7:44:43 AM  
+**Author:** gmays  
+**Published:** 6/25/2026, 1:27:57 PM  
 **Categories:** -  
 
-Article URL: https://nahal.church/ Comments URL: https://news.ycombinator.com/item?id=48670231 Points: 1 # Comments: 0
+Article URL: https://finance.yahoo.com/technology/article/meta-debuts-ai-powered-meta-glasses-starting-at-299-130000232.html Comments URL: https://news.ycombinator.com/item?id=48673045 Points: 2 # Comments: 0
 
-📖 [Read original article](https://nahal.church/)
+📖 [Read original article](https://finance.yahoo.com/technology/article/meta-debuts-ai-powered-meta-glasses-starting-at-299-130000232.html)
 
 ---
 
-## 10. Show HN: MAVS-GC – An Open-Source Governance Architecture for AI Systems
+## 10. MAGA Congresswoman Denies Using AI to Write Bill
 
-**Author:** infernusreal  
-**Published:** 6/25/2026, 7:35:02 AM  
+**Author:** AdmiralAsshat  
+**Published:** 6/25/2026, 1:26:01 PM  
 **Categories:** -  
 
-Hey HN, For some period of the time, I have been working on an open source project called MAVS-GC (Multi Adaptive Vetting Systems-Governance Core).The project explores whether introducing an explicit governance layer on top of multiple specialists can change system behavior under adverse conditions....
+Article URL: https://gizmodo.com/maga-congresswoman-denies-using-ai-to-write-bill-love-claude-but-grok-is-way-more-savage-2000777136 Comments URL: https://news.ycombinator.com/item?id=48673013 Points: 4 # Comments: 0
 
-📖 [Read original article](https://docs.google.com/document/d/1h7qpDgLv2PyIB6ZlLED5qGDeUbnNbITzNEspmsxA7ZE/edit?usp=sharing)
+📖 [Read original article](https://gizmodo.com/maga-congresswoman-denies-using-ai-to-write-bill-love-claude-but-grok-is-way-more-savage-2000777136)
 
 ---
 
-## 11. Best of AI is now open source
+## 11. Notes from inside China's AI labs
 
-**Author:** dariubs  
-**Published:** 6/25/2026, 7:33:26 AM  
+**Author:** agnosticmantis  
+**Published:** 6/25/2026, 1:24:10 PM  
 **Categories:** -  
 
-Article URL: https://bestofai.io/journal/best-of-ai-is-now-open-source/ Comments URL: https://news.ycombinator.com/item?id=48670160 Points: 4 # Comments: 0
+Article URL: https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs Comments URL: https://news.ycombinator.com/item?id=48672994 Points: 3 # Comments: 0
 
-📖 [Read original article](https://bestofai.io/journal/best-of-ai-is-now-open-source/)
+📖 [Read original article](https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs)
 
 ---
 
-## 12. 632nm Podcast: John Bowers – Silicon Photonics and the Future of AI Scaling [video]
+## 12. How do you feel about AI today?
 
-**Author:** wwarner  
-**Published:** 6/25/2026, 7:19:13 AM  
+**Author:** irln  
+**Published:** 6/25/2026, 1:23:29 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=fjQ3Yorw-Ps Comments URL: https://news.ycombinator.com/item?id=48670046 Points: 1 # Comments: 0
+Article URL: https://vote.how-you-feel-about-ai.workers.dev/ Comments URL: https://news.ycombinator.com/item?id=48672983 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=fjQ3Yorw-Ps)
+📖 [Read original article](https://vote.how-you-feel-about-ai.workers.dev/)
 
 ---
 
-## 13. Did AI write this article?
+## 13. Models accuse fashion brand of using AI to recreate them
 
-**Author:** ijidak  
-**Published:** 6/25/2026, 6:40:00 AM  
+**Author:** bookofjoe  
+**Published:** 6/25/2026, 1:16:54 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article Comments URL: https://news.ycombinator.com/item?id=48669812 Points: 3 # Comments: 0
+Article URL: https://petapixel.com/2026/06/24/models-claim-fashion-brand-used-ai-to-create-their-doppelgangers/ Comments URL: https://news.ycombinator.com/item?id=48672877 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article)
+📖 [Read original article](https://petapixel.com/2026/06/24/models-claim-fashion-brand-used-ai-to-create-their-doppelgangers/)
 
 ---
 
-## 14. Is AI Coming for Our Jobs?
+## 14. Show HN: Forensic-deepdive: code knowledge graph and MCP server for AI agents
 
-**Author:** one33seven  
-**Published:** 6/25/2026, 6:34:42 AM  
+**Author:** dhevenddra_  
+**Published:** 6/25/2026, 1:08:54 PM  
 **Categories:** -  
 
-Article URL: https://jacobin.com/2026/02/ai-technology-productivity-growth-job-loss Comments URL: https://news.ycombinator.com/item?id=48669786 Points: 3 # Comments: 0
+Article URL: https://github.com/Dhevenddra/forensic-deepdive Comments URL: https://news.ycombinator.com/item?id=48672787 Points: 3 # Comments: 0
 
-📖 [Read original article](https://jacobin.com/2026/02/ai-technology-productivity-growth-job-loss)
+📖 [Read original article](https://github.com/Dhevenddra/forensic-deepdive)
 
 ---
 
-## 15. The Tokenpocalypse:Companies Are Scrambling to Stop Spending So Much on AI
+## 15. How to Transition Your HR Department into the AI Era
 
-**Author:** Gedxx  
-**Published:** 6/25/2026, 6:33:52 AM  
+**Author:** nrig  
+**Published:** 6/25/2026, 1:08:49 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48669778 Points: 3 # Comments: 2
+Article URL: https://medium.com/@nikrig/how-to-transition-your-hr-department-into-the-ai-era-b601a1d21372 Comments URL: https://news.ycombinator.com/item?id=48672784 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/)
+📖 [Read original article](https://medium.com/@nikrig/how-to-transition-your-hr-department-into-the-ai-era-b601a1d21372)
 
 ---
 
-## 16. Make AI Boring Again
+## 16. Show HN: Appaloft – deploy to your own servers from CLI, GitHub Actions, or AI
 
-**Author:** BerislavLopac  
-**Published:** 6/25/2026, 6:23:21 AM  
+**Author:** nichenqin  
+**Published:** 6/25/2026, 1:02:11 PM  
 **Categories:** -  
 
-Article URL: https://charitydotwtf.substack.com/p/make-ai-boring-again Comments URL: https://news.ycombinator.com/item?id=48669707 Points: 3 # Comments: 0
+Article URL: https://www.appaloft.com/ Comments URL: https://news.ycombinator.com/item?id=48672725 Points: 3 # Comments: 0
 
-📖 [Read original article](https://charitydotwtf.substack.com/p/make-ai-boring-again)
+📖 [Read original article](https://www.appaloft.com/)
 
 ---
 
-## 17. Show HN: Japanese Language AI Tutor in 3D classroom
+## 17. Why Does Everyone Hate AI?
 
-**Author:** trinhngocdieu  
-**Published:** 6/25/2026, 6:10:30 AM  
+**Author:** megacorp  
+**Published:** 6/25/2026, 12:59:10 PM  
 **Categories:** -  
 
-Article URL: https://unihongo.com Comments URL: https://news.ycombinator.com/item?id=48669612 Points: 3 # Comments: 0
+Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 57 # Comments: 79
 
-📖 [Read original article](https://unihongo.com)
+📖 [Read original article](https://paulkrugman.substack.com/p/why-does-everyone-hate-ai)
 
 ---
 
-## 18. AI-website-cloner-template: Clone any website using AI coding agents
+## 18. Show HN: The Agent Pantry – a live, daily-scanned landscape of AI agent tools
 
-**Author:** vantareed  
-**Published:** 6/25/2026, 6:00:22 AM  
+**Author:** ajain  
+**Published:** 6/25/2026, 12:57:17 PM  
 **Categories:** -  
 
-Article URL: https://github.com/JCodesMore/ai-website-cloner-template Comments URL: https://news.ycombinator.com/item?id=48669537 Points: 4 # Comments: 0
+Article URL: https://theagentpantry.com/ Comments URL: https://news.ycombinator.com/item?id=48672670 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/JCodesMore/ai-website-cloner-template)
+📖 [Read original article](https://theagentpantry.com/)
 
 ---
 
-## 19. How Big Tech Hides the True Cost of the AI Buildout [video]
+## 19. Slopagotchi: Score your AI slop against other developers
 
-**Author:** AbbeFaria  
-**Published:** 6/25/2026, 5:55:14 AM  
+**Author:** stortebecker  
+**Published:** 6/25/2026, 12:55:41 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=YrJzjC4kKCY Comments URL: https://news.ycombinator.com/item?id=48669500 Points: 2 # Comments: 0
+Article URL: https://slopagotchi.com/ Comments URL: https://news.ycombinator.com/item?id=48672653 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=YrJzjC4kKCY)
+📖 [Read original article](https://slopagotchi.com/)
 
 ---
 
-## 20. Singapore Tops Global per Capita Usage of Anthropic's Claude AI
+## 20. Ask HN: What does the day-to-day work of an AI Engineer look like?
 
-**Author:** LostMyLogin  
-**Published:** 6/25/2026, 5:19:17 AM  
+**Author:** vishalwaghmode  
+**Published:** 6/25/2026, 12:53:28 PM  
 **Categories:** -  
 
-Article URL: https://opentools.ai/news/singapore-tops-global-per-capita-usage-of-anthropics-claude-ai Comments URL: https://news.ycombinator.com/item?id=48669259 Points: 2 # Comments: 0
+Curious what kind of real-world projects AI Engineers work on and how you became one? Comments URL: https://news.ycombinator.com/item?id=48672619 Points: 5 # Comments: 0
 
-📖 [Read original article](https://opentools.ai/news/singapore-tops-global-per-capita-usage-of-anthropics-claude-ai)
+📖 [Read original article](https://news.ycombinator.com/item?id=48672619)
 
 ---
