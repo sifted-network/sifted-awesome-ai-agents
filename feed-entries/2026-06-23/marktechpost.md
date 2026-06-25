@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-23"
 date: "2026-06-23"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-06-23
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Datalab released lift, a 9B open-weights vision model that turns PDFs and images
 In this tutorial, we build a multilingual ASR and speech translation pipeline with NVIDIA Canary-1B-v2. We load the model on a GPU-enabled runtime, prepare audio into 16 kHz mono, and run English ASR. We then translate speech into French, German, Spanish, and Italian, and extract word and segment ti...
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/23/how-to-use-nvidia-canary-1b-v2-for-asr-translation-and-automatic-srt-subtitle-export-in-python/)
-
----
-
-## 4. Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads
-
-**Author:** Asif Razzaq  
-**Published:** 6/23/2026, 7:20:44 AM  
-**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Machine Learning, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
-
-Prime Intellect has released prime-rl 0.6.0, an open framework for asynchronous reinforcement learning on trillion-parameter Mixture-of-Experts models. It trained GLM-5 on SWE tasks at up to 131k sequence length, with sub-5-minute step times and 256 rollouts, on 28 H200 nodes. This breakdown covers ...
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/)
 
 ---
