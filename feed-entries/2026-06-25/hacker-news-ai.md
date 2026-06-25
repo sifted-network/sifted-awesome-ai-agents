@@ -2,179 +2,251 @@
 title: "Hacker News AI - 2026-06-25"
 date: "2026-06-25"
 source: "Hacker News AI"
-count: 14
+count: 20
 ---
 
 # Hacker News AI - 2026-06-25
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. Bernie Sanders Wants a U.S. Sovereign Wealth Fund for AI
+## 1. Will AI replace technical writers?
 
-**Author:** hentrep  
-**Published:** 6/25/2026, 3:41:44 AM  
+**Author:** theletterf  
+**Published:** 6/25/2026, 9:11:40 AM  
 **Categories:** -  
 
-Article URL: https://www.forbes.com/sites/jamesbroughel/2026/06/22/bernie-sanders-wants-a-us-sovereign-wealth-fund-for-ai/ Comments URL: https://news.ycombinator.com/item?id=48668581 Points: 1 # Comments: 0
+Article URL: https://willaireplacetechnicalwriters.com/ Comments URL: https://news.ycombinator.com/item?id=48670947 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.forbes.com/sites/jamesbroughel/2026/06/22/bernie-sanders-wants-a-us-sovereign-wealth-fund-for-ai/)
+📖 [Read original article](https://willaireplacetechnicalwriters.com/)
 
 ---
 
-## 2. IatroBench: Pre-Registered Evidence of Iatrogenic Harm from AI Safety Measures
+## 2. The AI Coding Era Makes Boring Tests More Valuable
 
-**Author:** NavinF  
-**Published:** 6/25/2026, 3:36:55 AM  
+**Author:** vincent_s  
+**Published:** 6/25/2026, 9:10:33 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2604.07709 Comments URL: https://news.ycombinator.com/item?id=48668552 Points: 1 # Comments: 0
+Article URL: https://www.vincentschmalbach.com/the-ai-coding-era-makes-boring-tests-more-valuable/ Comments URL: https://news.ycombinator.com/item?id=48670935 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2604.07709)
+📖 [Read original article](https://www.vincentschmalbach.com/the-ai-coding-era-makes-boring-tests-more-valuable/)
 
 ---
 
-## 3. Loop engineering, latest AI buzzword, still needs humans in the loop
+## 3. Open Source Maintainers Need a Spam Filter for AI Labor
 
-**Author:** Bender  
-**Published:** 6/25/2026, 3:32:58 AM  
+**Author:** vincent_s  
+**Published:** 6/25/2026, 9:03:47 AM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/06/24/loop-engineering-latest-ai-buzzword-still-needs-humans-in-the-loop/5261735 Comments URL: https://news.ycombinator.com/item?id=48668521 Points: 1 # Comments: 0
+Article URL: https://www.vincentschmalbach.com/open-source-maintainers-need-a-spam-filter-for-ai-labor/ Comments URL: https://news.ycombinator.com/item?id=48670879 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/24/loop-engineering-latest-ai-buzzword-still-needs-humans-in-the-loop/5261735)
+📖 [Read original article](https://www.vincentschmalbach.com/open-source-maintainers-need-a-spam-filter-for-ai-labor/)
 
 ---
 
-## 4. Companies are not looking before they're leaping into the AI playpen
+## 4. Using mirrord to verify AI-SRE fixes against the staging cluster
 
-**Author:** Bender  
-**Published:** 6/25/2026, 3:32:33 AM  
+**Author:** eyalbukchin  
+**Published:** 6/25/2026, 8:58:31 AM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/devops/2026/06/24/companies-are-not-looking-before-theyre-leaping-into-the-ai-playpen/5261819 Comments URL: https://news.ycombinator.com/item?id=48668512 Points: 2 # Comments: 0
+Article URL: https://metalbear.com/blog/ai-sre-holmesgpt/ Comments URL: https://news.ycombinator.com/item?id=48670846 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/devops/2026/06/24/companies-are-not-looking-before-theyre-leaping-into-the-ai-playpen/5261819)
+📖 [Read original article](https://metalbear.com/blog/ai-sre-holmesgpt/)
 
 ---
 
-## 5. This One's Not AI
+## 5. Helmholtz AI: Democratising AI for a data-driven future
 
-**Author:** tacoda  
-**Published:** 6/25/2026, 2:49:43 AM  
+**Author:** the-mitr  
+**Published:** 6/25/2026, 8:46:00 AM  
 **Categories:** -  
 
-Article URL: https://blog.tacoda.dev/this-ones-not-ai-992c95537790 Comments URL: https://news.ycombinator.com/item?id=48668240 Points: 2 # Comments: 2
+Article URL: https://www.helmholtz.ai/ Comments URL: https://news.ycombinator.com/item?id=48670722 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.tacoda.dev/this-ones-not-ai-992c95537790)
+📖 [Read original article](https://www.helmholtz.ai/)
 
 ---
 
-## 6. Show HN: Drive your already-logged-in Chrome from any AI agent
+## 6. Real-world impact of AI adoption. \"Acceleration whiplash\"
 
-**Author:** leeguoo  
-**Published:** 6/25/2026, 2:32:15 AM  
+**Author:** ARayOutOfBounds  
+**Published:** 6/25/2026, 8:18:12 AM  
 **Categories:** -  
 
-Article URL: https://github.com/leeguooooo/chrome-use Comments URL: https://news.ycombinator.com/item?id=48668131 Points: 1 # Comments: 0
+Article URL: https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways Comments URL: https://news.ycombinator.com/item?id=48670499 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/leeguooooo/chrome-use)
+📖 [Read original article](https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways)
 
 ---
 
-## 7. TronBrowser is an open-source, privacy-first, AI-native web browser
+## 7. Local AI orchestrator with computer and browser access
 
-**Author:** buffer_overlord  
-**Published:** 6/25/2026, 2:01:01 AM  
+**Author:** blackhawk094  
+**Published:** 6/25/2026, 8:02:24 AM  
 **Categories:** -  
 
-Article URL: https://tronbrowser.dev/ Comments URL: https://news.ycombinator.com/item?id=48667923 Points: 1 # Comments: 1
+Article URL: https://github.com/shreyasks094/Zeus Comments URL: https://news.ycombinator.com/item?id=48670377 Points: 1 # Comments: 1
 
-📖 [Read original article](https://tronbrowser.dev/)
+📖 [Read original article](https://github.com/shreyasks094/Zeus)
 
 ---
 
-## 8. The Carwash Problem: Why Your IT Organization Isn't Ready for AI-Generated Code
+## 8. Ask HN: What's your favorite AI tool for front end design?
 
-**Author:** atkatana  
-**Published:** 6/25/2026, 1:33:13 AM  
+**Author:** AlanAAG  
+**Published:** 6/25/2026, 7:47:43 AM  
 **Categories:** -  
 
-Article URL: https://atkatana.com/blog/hyper-loops-draft.html Comments URL: https://news.ycombinator.com/item?id=48667742 Points: 1 # Comments: 0
+Google stitch, Claude code, lovable, …Lots of options, they’re all awful in my experience, what’s the least worst at this point in time? Comments URL: https://news.ycombinator.com/item?id=48670254 Points: 2 # Comments: 0
 
-📖 [Read original article](https://atkatana.com/blog/hyper-loops-draft.html)
+📖 [Read original article](https://news.ycombinator.com/item?id=48670254)
 
 ---
 
-## 9. Calling everything AI-generated is lazy
+## 9. The Monastery of Nahal – An AI Cyberchurch
 
-**Author:** anotherevan  
-**Published:** 6/25/2026, 1:22:18 AM  
+**Author:** ChilledTonic  
+**Published:** 6/25/2026, 7:44:43 AM  
 **Categories:** -  
 
-Article URL: https://00f.net/2026/06/25/stop-calling-everything-ai-generated/ Comments URL: https://news.ycombinator.com/item?id=48667655 Points: 4 # Comments: 2
+Article URL: https://nahal.church/ Comments URL: https://news.ycombinator.com/item?id=48670231 Points: 1 # Comments: 0
 
-📖 [Read original article](https://00f.net/2026/06/25/stop-calling-everything-ai-generated/)
+📖 [Read original article](https://nahal.church/)
 
 ---
 
-## 10. Show HN: Promptctl – Git for your AI prompts
+## 10. Show HN: MAVS-GC – An Open-Source Governance Architecture for AI Systems
 
-**Author:** shawnaya101  
-**Published:** 6/25/2026, 1:09:05 AM  
+**Author:** infernusreal  
+**Published:** 6/25/2026, 7:35:02 AM  
 **Categories:** -  
 
-Article URL: https://github.com/naya-ai/promptctl Comments URL: https://news.ycombinator.com/item?id=48667544 Points: 2 # Comments: 0
+Hey HN, For some period of the time, I have been working on an open source project called MAVS-GC (Multi Adaptive Vetting Systems-Governance Core).The project explores whether introducing an explicit governance layer on top of multiple specialists can change system behavior under adverse conditions....
 
-📖 [Read original article](https://github.com/naya-ai/promptctl)
+📖 [Read original article](https://docs.google.com/document/d/1h7qpDgLv2PyIB6ZlLED5qGDeUbnNbITzNEspmsxA7ZE/edit?usp=sharing)
 
 ---
 
-## 11. Halyard – open AI work ledger for developers (time, tokens, cost, invoices)
+## 11. Best of AI is now open source
 
-**Author:** mcamaj  
-**Published:** 6/25/2026, 12:47:03 AM  
+**Author:** dariubs  
+**Published:** 6/25/2026, 7:33:26 AM  
 **Categories:** -  
 
-Article URL: https://github.com/Kormiloio/Halyard Comments URL: https://news.ycombinator.com/item?id=48667366 Points: 2 # Comments: 0
+Article URL: https://bestofai.io/journal/best-of-ai-is-now-open-source/ Comments URL: https://news.ycombinator.com/item?id=48670160 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/Kormiloio/Halyard)
+📖 [Read original article](https://bestofai.io/journal/best-of-ai-is-now-open-source/)
 
 ---
 
-## 12. We'll fight the platform war against Big AI
+## 12. 632nm Podcast: John Bowers – Silicon Photonics and the Future of AI Scaling [video]
 
-**Author:** aendruk  
-**Published:** 6/25/2026, 12:07:47 AM  
+**Author:** wwarner  
+**Published:** 6/25/2026, 7:19:13 AM  
 **Categories:** -  
 
-Article URL: https://www.anildash.com/2026/06/23/fight-ai-platform-war/ Comments URL: https://news.ycombinator.com/item?id=48667112 Points: 6 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=fjQ3Yorw-Ps Comments URL: https://news.ycombinator.com/item?id=48670046 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.anildash.com/2026/06/23/fight-ai-platform-war/)
+📖 [Read original article](https://www.youtube.com/watch?v=fjQ3Yorw-Ps)
 
 ---
 
-## 13. Show HN: A durable filesystem layer for AI agents
+## 13. Did AI write this article?
 
-**Author:** theaniketmaurya  
-**Published:** 6/25/2026, 12:05:53 AM  
+**Author:** ijidak  
+**Published:** 6/25/2026, 6:40:00 AM  
 **Categories:** -  
 
-I run AI agents on my laptop and cloud. Often I wish to synchronize the memory markdowns created on multiple platforms. So I built a S3 based durable filesystem which can be mounted anywhere.It is implemented in Rust with SDK in both Python, TypeScript and a CLI for agents. Comments URL: https://new...
+Article URL: https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article Comments URL: https://news.ycombinator.com/item?id=48669812 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/CelestoAI/smolfs)
+📖 [Read original article](https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article)
 
 ---
 
-## 14. Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models
+## 14. Is AI Coming for Our Jobs?
 
-**Author:** ryanmerket  
-**Published:** 6/25/2026, 12:02:41 AM  
+**Author:** one33seven  
+**Published:** 6/25/2026, 6:34:42 AM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models Comments URL: https://news.ycombinator.com/item?id=48667069 Points: 16 # Comments: 9
+Article URL: https://jacobin.com/2026/02/ai-technology-productivity-growth-job-loss Comments URL: https://news.ycombinator.com/item?id=48669786 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models)
+📖 [Read original article](https://jacobin.com/2026/02/ai-technology-productivity-growth-job-loss)
+
+---
+
+## 15. The Tokenpocalypse:Companies Are Scrambling to Stop Spending So Much on AI
+
+**Author:** Gedxx  
+**Published:** 6/25/2026, 6:33:52 AM  
+**Categories:** -  
+
+Article URL: https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48669778 Points: 3 # Comments: 2
+
+📖 [Read original article](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/)
+
+---
+
+## 16. Make AI Boring Again
+
+**Author:** BerislavLopac  
+**Published:** 6/25/2026, 6:23:21 AM  
+**Categories:** -  
+
+Article URL: https://charitydotwtf.substack.com/p/make-ai-boring-again Comments URL: https://news.ycombinator.com/item?id=48669707 Points: 3 # Comments: 0
+
+📖 [Read original article](https://charitydotwtf.substack.com/p/make-ai-boring-again)
+
+---
+
+## 17. Show HN: Japanese Language AI Tutor in 3D classroom
+
+**Author:** trinhngocdieu  
+**Published:** 6/25/2026, 6:10:30 AM  
+**Categories:** -  
+
+Article URL: https://unihongo.com Comments URL: https://news.ycombinator.com/item?id=48669612 Points: 3 # Comments: 0
+
+📖 [Read original article](https://unihongo.com)
+
+---
+
+## 18. AI-website-cloner-template: Clone any website using AI coding agents
+
+**Author:** vantareed  
+**Published:** 6/25/2026, 6:00:22 AM  
+**Categories:** -  
+
+Article URL: https://github.com/JCodesMore/ai-website-cloner-template Comments URL: https://news.ycombinator.com/item?id=48669537 Points: 4 # Comments: 0
+
+📖 [Read original article](https://github.com/JCodesMore/ai-website-cloner-template)
+
+---
+
+## 19. How Big Tech Hides the True Cost of the AI Buildout [video]
+
+**Author:** AbbeFaria  
+**Published:** 6/25/2026, 5:55:14 AM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=YrJzjC4kKCY Comments URL: https://news.ycombinator.com/item?id=48669500 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=YrJzjC4kKCY)
+
+---
+
+## 20. Singapore Tops Global per Capita Usage of Anthropic's Claude AI
+
+**Author:** LostMyLogin  
+**Published:** 6/25/2026, 5:19:17 AM  
+**Categories:** -  
+
+Article URL: https://opentools.ai/news/singapore-tops-global-per-capita-usage-of-anthropics-claude-ai Comments URL: https://news.ycombinator.com/item?id=48669259 Points: 2 # Comments: 0
+
+📖 [Read original article](https://opentools.ai/news/singapore-tops-global-per-capita-usage-of-anthropics-claude-ai)
 
 ---
