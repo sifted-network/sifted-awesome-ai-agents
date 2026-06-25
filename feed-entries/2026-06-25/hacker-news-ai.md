@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AirPosture – AirPods as AI posture coach (Open source)
+## 1. AI Surveillance: Age Verification Meets Your Chat Logs
 
-**Author:** allenleee  
-**Published:** 6/25/2026, 2:18:26 PM  
+**Author:** pavel_lishin  
+**Published:** 6/25/2026, 7:52:53 PM  
 **Categories:** -  
 
-Article URL: https://airposture.github.io Comments URL: https://news.ycombinator.com/item?id=48673814 Points: 2 # Comments: 0
+Article URL: https://techtrenches.dev/p/the-cost-of-reading-everyone-just Comments URL: https://news.ycombinator.com/item?id=48678388 Points: 1 # Comments: 0
 
-📖 [Read original article](https://airposture.github.io)
+📖 [Read original article](https://techtrenches.dev/p/the-cost-of-reading-everyone-just)
 
 ---
 
-## 2. Using Microsoft Copilot Enterprise, 80% of time the AI falsified results or code
+## 2. Applied AI Implementation Engineer Freelance
 
-**Author:** verhash  
-**Published:** 6/25/2026, 2:16:06 PM  
+**Author:** awongsem  
+**Published:** 6/25/2026, 7:43:53 PM  
 **Categories:** -  
 
-Article URL: https://info.microsoft.com/ww-landing-four-paths-to-business-value-with-ai.html?lcid=en-us Comments URL: https://news.ycombinator.com/item?id=48673781 Points: 4 # Comments: 1
+Open to Work I build production AI systems that add intelligence to processes. My work includes Closed-Loop AI-native systems, RAG, AI agents, agentic evaluations, guardrails, and enterprise integrations using Python, TypeScript, React, Node.js, Vertex AI, Gemini, OpenAI, Claude, Redis, Postgres, an...
 
-📖 [Read original article](https://info.microsoft.com/ww-landing-four-paths-to-business-value-with-ai.html?lcid=en-us)
+📖 [Read original article](https://news.ycombinator.com/item?id=48678286)
 
 ---
 
-## 3. Show HN: FreeAIStack – 14 Free AI Tools
+## 3. AI Is Designing Radio Chips That Humans Couldn't Even Imagine
 
-**Author:** FreeAIStack  
-**Published:** 6/25/2026, 2:12:46 PM  
+**Author:** pseudolus  
+**Published:** 6/25/2026, 7:39:38 PM  
 **Categories:** -  
 
-Article URL: https://aifreeaistack.com/ Comments URL: https://news.ycombinator.com/item?id=48673728 Points: 2 # Comments: 0
+Article URL: https://spectrum.ieee.org/ai-radio-chip-design Comments URL: https://news.ycombinator.com/item?id=48678240 Points: 2 # Comments: 0
 
-📖 [Read original article](https://aifreeaistack.com/)
+📖 [Read original article](https://spectrum.ieee.org/ai-radio-chip-design)
 
 ---
 
-## 4. Build an AI Discord Moderation Bot: Ban, Kick, Timeout and More
+## 4. Show HN: OnBuzz – an open-source workspace for AI agent teams
 
-**Author:** piotrgrudzien  
-**Published:** 6/25/2026, 2:12:32 PM  
+**Author:** Dantlv  
+**Published:** 6/25/2026, 7:37:48 PM  
 **Categories:** -  
 
-Article URL: https://quickchat.ai/post/ai-discord-moderation-bot Comments URL: https://news.ycombinator.com/item?id=48673726 Points: 2 # Comments: 0
+Article URL: https://github.com/Loxia-ai/onbuzz-community Comments URL: https://news.ycombinator.com/item?id=48678218 Points: 2 # Comments: 0
 
-📖 [Read original article](https://quickchat.ai/post/ai-discord-moderation-bot)
+📖 [Read original article](https://github.com/Loxia-ai/onbuzz-community)
 
 ---
 
-## 5. How We'll fight the platform war against Big AI
+## 5. Study: Governed AI retrieval – 97% pass rate, 67% fewer tokens (Emory, IBM)
 
-**Author:** eustoria  
-**Published:** 6/25/2026, 1:50:50 PM  
+**Author:** sparkystacey  
+**Published:** 6/25/2026, 7:35:43 PM  
 **Categories:** -  
 
-Article URL: https://www.anildash.com/2026/06/23/fight-ai-platform-war/ Comments URL: https://news.ycombinator.com/item?id=48673397 Points: 3 # Comments: 1
+Article URL: https://promptowl.ai/resources/verifiable-context-governance/ Comments URL: https://news.ycombinator.com/item?id=48678194 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.anildash.com/2026/06/23/fight-ai-platform-war/)
+📖 [Read original article](https://promptowl.ai/resources/verifiable-context-governance/)
 
 ---
 
-## 6. UN hypocrisy in AI Environmental demands
+## 6. Show HN: OpenPhone – new open source, customized AI-native Android OS
 
-**Author:** AlexanderHanff  
-**Published:** 6/25/2026, 1:46:48 PM  
+**Author:** talboren  
+**Published:** 6/25/2026, 7:33:23 PM  
 **Categories:** -  
 
-Article URL: https://www.thatprivacyguy.com/blog/un-tracking-without-consent/ Comments URL: https://news.ycombinator.com/item?id=48673321 Points: 5 # Comments: 2
+Article URL: https://github.com/secondly-com/openphone Comments URL: https://news.ycombinator.com/item?id=48678160 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.thatprivacyguy.com/blog/un-tracking-without-consent/)
+📖 [Read original article](https://github.com/secondly-com/openphone)
 
 ---
 
-## 7. Good clarity on AI observability and in simple terms
+## 7. Cargo thieves are following the AI boom
 
-**Author:** pineapple_opus  
-**Published:** 6/25/2026, 1:45:02 PM  
+**Author:** crescit_eundo  
+**Published:** 6/25/2026, 7:31:40 PM  
 **Categories:** -  
 
-Article URL: https://posthog.com/blog/what-is-ai-observability Comments URL: https://news.ycombinator.com/item?id=48673299 Points: 4 # Comments: 1
+Article URL: https://www.freightwaves.com/news/cargo-thieves-are-following-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=48678143 Points: 2 # Comments: 0
 
-📖 [Read original article](https://posthog.com/blog/what-is-ai-observability)
+📖 [Read original article](https://www.freightwaves.com/news/cargo-thieves-are-following-the-ai-boom)
 
 ---
 
-## 8. Tokenmaxxing is dead, and the real AI cost reckoning hasn't started yet
+## 8. Open-Source AI Tools That Feel Like Cheating in 2026
 
-**Author:** greg_V  
-**Published:** 6/25/2026, 1:44:37 PM  
+**Author:** sukhpinder0804  
+**Published:** 6/25/2026, 7:31:09 PM  
 **Categories:** -  
 
-Article URL: https://mimetiq.substack.com/p/the-tokenmaxxing-hangover Comments URL: https://news.ycombinator.com/item?id=48673294 Points: 3 # Comments: 0
+Article URL: https://medium.com/open-ai/7-open-source-ai-tools-that-feel-like-cheating-2026-b6e1587bd0e6 Comments URL: https://news.ycombinator.com/item?id=48678137 Points: 2 # Comments: 0
 
-📖 [Read original article](https://mimetiq.substack.com/p/the-tokenmaxxing-hangover)
+📖 [Read original article](https://medium.com/open-ai/7-open-source-ai-tools-that-feel-like-cheating-2026-b6e1587bd0e6)
 
 ---
 
-## 9. Meta debuts AI-powered Meta Glasses, starting at $299
+## 9. Show HN: Plansera AI, E-2 visa business plans, drafted by an AI
 
-**Author:** gmays  
-**Published:** 6/25/2026, 1:27:57 PM  
+**Author:** attorney-omer  
+**Published:** 6/25/2026, 7:30:29 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/technology/article/meta-debuts-ai-powered-meta-glasses-starting-at-299-130000232.html Comments URL: https://news.ycombinator.com/item?id=48673045 Points: 2 # Comments: 0
+Article URL: https://plansera.ai/ Comments URL: https://news.ycombinator.com/item?id=48678128 Points: 2 # Comments: 0
 
-📖 [Read original article](https://finance.yahoo.com/technology/article/meta-debuts-ai-powered-meta-glasses-starting-at-299-130000232.html)
+📖 [Read original article](https://plansera.ai/)
 
 ---
 
-## 10. MAGA Congresswoman Denies Using AI to Write Bill
+## 10. Claude Skills that turn your AI agent into an expert business operator
 
-**Author:** AdmiralAsshat  
-**Published:** 6/25/2026, 1:26:01 PM  
+**Author:** quanzar  
+**Published:** 6/25/2026, 7:22:42 PM  
 **Categories:** -  
 
-Article URL: https://gizmodo.com/maga-congresswoman-denies-using-ai-to-write-bill-love-claude-but-grok-is-way-more-savage-2000777136 Comments URL: https://news.ycombinator.com/item?id=48673013 Points: 4 # Comments: 0
+Article URL: https://github.com/adatarwa/operator-skills Comments URL: https://news.ycombinator.com/item?id=48678036 Points: 2 # Comments: 0
 
-📖 [Read original article](https://gizmodo.com/maga-congresswoman-denies-using-ai-to-write-bill-love-claude-but-grok-is-way-more-savage-2000777136)
+📖 [Read original article](https://github.com/adatarwa/operator-skills)
 
 ---
 
-## 11. Notes from inside China's AI labs
+## 11. YouTube Content Creators Are Winning the AI Search Game, Jellyfish Data Finds
 
-**Author:** agnosticmantis  
-**Published:** 6/25/2026, 1:24:10 PM  
+**Author:** thm  
+**Published:** 6/25/2026, 7:13:32 PM  
 **Categories:** -  
 
-Article URL: https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs Comments URL: https://news.ycombinator.com/item?id=48672994 Points: 3 # Comments: 0
+Article URL: https://www.adweek.com/media/youtube-content-creators-are-winning-the-ai-search-game-jellyfish-data-finds/ Comments URL: https://news.ycombinator.com/item?id=48677946 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs)
+📖 [Read original article](https://www.adweek.com/media/youtube-content-creators-are-winning-the-ai-search-game-jellyfish-data-finds/)
 
 ---
 
-## 12. How do you feel about AI today?
+## 12. Ask HN: What is one thing about AI that annoys you the most?
 
-**Author:** irln  
-**Published:** 6/25/2026, 1:23:29 PM  
+**Author:** akashwadhwani35  
+**Published:** 6/25/2026, 7:10:54 PM  
 **Categories:** -  
 
-Article URL: https://vote.how-you-feel-about-ai.workers.dev/ Comments URL: https://news.ycombinator.com/item?id=48672983 Points: 2 # Comments: 0
+Sometimes I’ll ask Claude to think through a problem with me, and instead of talking, it immediately starts editing files and writing code.Like… bro, I’m not asking you to do it yet. Let’s think first. Comments URL: https://news.ycombinator.com/item?id=48677917 Points: 3 # Comments: 2
 
-📖 [Read original article](https://vote.how-you-feel-about-ai.workers.dev/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48677917)
 
 ---
 
-## 13. Models accuse fashion brand of using AI to recreate them
+## 13. Show HN: I made a social media scheduler with API for AI Agents
 
-**Author:** bookofjoe  
-**Published:** 6/25/2026, 1:16:54 PM  
+**Author:** schedpilot  
+**Published:** 6/25/2026, 7:08:27 PM  
 **Categories:** -  
 
-Article URL: https://petapixel.com/2026/06/24/models-claim-fashion-brand-used-ai-to-create-their-doppelgangers/ Comments URL: https://news.ycombinator.com/item?id=48672877 Points: 2 # Comments: 0
+The app is a traditional social media scheduler but has a fully featured API and I have personally used it with OpenClaw and Hermes ai agents with the included API keys Comments URL: https://news.ycombinator.com/item?id=48677897 Points: 2 # Comments: 0
 
-📖 [Read original article](https://petapixel.com/2026/06/24/models-claim-fashion-brand-used-ai-to-create-their-doppelgangers/)
+📖 [Read original article](https://schedpilot.com/)
 
 ---
 
-## 14. Show HN: Forensic-deepdive: code knowledge graph and MCP server for AI agents
+## 14. AI transformation is a systems problem: a conversation with Justin Reock, DX
 
-**Author:** dhevenddra_  
-**Published:** 6/25/2026, 1:08:54 PM  
+**Author:** mooreds  
+**Published:** 6/25/2026, 7:06:13 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Dhevenddra/forensic-deepdive Comments URL: https://news.ycombinator.com/item?id=48672787 Points: 3 # Comments: 0
+Article URL: https://www.augmentcode.com/blog/ai-transformation-is-a-systems-problem Comments URL: https://news.ycombinator.com/item?id=48677877 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/Dhevenddra/forensic-deepdive)
+📖 [Read original article](https://www.augmentcode.com/blog/ai-transformation-is-a-systems-problem)
 
 ---
 
-## 15. How to Transition Your HR Department into the AI Era
+## 15. Epic Games boss calls Steam AI disclosures \"irresponsible of Valve\"
 
-**Author:** nrig  
-**Published:** 6/25/2026, 1:08:49 PM  
+**Author:** anonymousab  
+**Published:** 6/25/2026, 6:53:24 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@nikrig/how-to-transition-your-hr-department-into-the-ai-era-b601a1d21372 Comments URL: https://news.ycombinator.com/item?id=48672784 Points: 2 # Comments: 0
+Article URL: https://www.gamesradar.com/games/epic-games-boss-calls-steam-ai-disclosures-really-irresponsible-of-valve-as-they-make-it-much-much-much-harder-for-a-game-developer-to-have-a-chance-of-success/ Comments URL: https://news.ycombinator.com/item?id=48677710 Points: 2 # Comments: 1
 
-📖 [Read original article](https://medium.com/@nikrig/how-to-transition-your-hr-department-into-the-ai-era-b601a1d21372)
+📖 [Read original article](https://www.gamesradar.com/games/epic-games-boss-calls-steam-ai-disclosures-really-irresponsible-of-valve-as-they-make-it-much-much-much-harder-for-a-game-developer-to-have-a-chance-of-success/)
 
 ---
 
-## 16. Show HN: Appaloft – deploy to your own servers from CLI, GitHub Actions, or AI
+## 16. Show HN: CartAI – Checkout API for AI agents and apps
 
-**Author:** nichenqin  
-**Published:** 6/25/2026, 1:02:11 PM  
+**Author:** maniluppal  
+**Published:** 6/25/2026, 6:49:12 PM  
 **Categories:** -  
 
-Article URL: https://www.appaloft.com/ Comments URL: https://news.ycombinator.com/item?id=48672725 Points: 3 # Comments: 0
+Article URL: https://www.cartai.ai/ Comments URL: https://news.ycombinator.com/item?id=48677647 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.appaloft.com/)
+📖 [Read original article](https://www.cartai.ai/)
 
 ---
 
-## 17. Why Does Everyone Hate AI?
+## 17. America's data-centre backlash puts the AI boom at risk
 
-**Author:** megacorp  
-**Published:** 6/25/2026, 12:59:10 PM  
+**Author:** edward  
+**Published:** 6/25/2026, 6:47:55 PM  
 **Categories:** -  
 
-Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai Comments URL: https://news.ycombinator.com/item?id=48672694 Points: 57 # Comments: 79
+Article URL: https://www.economist.com/business/2026/06/23/americas-data-centre-backlash-puts-the-ai-boom-at-risk Comments URL: https://news.ycombinator.com/item?id=48677630 Points: 5 # Comments: 1
 
-📖 [Read original article](https://paulkrugman.substack.com/p/why-does-everyone-hate-ai)
+📖 [Read original article](https://www.economist.com/business/2026/06/23/americas-data-centre-backlash-puts-the-ai-boom-at-risk)
 
 ---
 
-## 18. Show HN: The Agent Pantry – a live, daily-scanned landscape of AI agent tools
+## 18. Congress wants Big Tech to pay AI's power bills
 
-**Author:** ajain  
-**Published:** 6/25/2026, 12:57:17 PM  
+**Author:** Lihh27  
+**Published:** 6/25/2026, 6:43:01 PM  
 **Categories:** -  
 
-Article URL: https://theagentpantry.com/ Comments URL: https://news.ycombinator.com/item?id=48672670 Points: 2 # Comments: 0
+Article URL: https://thenextweb.com/news/house-bill-ai-data-centre-energy-costs-big-tech Comments URL: https://news.ycombinator.com/item?id=48677573 Points: 5 # Comments: 0
 
-📖 [Read original article](https://theagentpantry.com/)
+📖 [Read original article](https://thenextweb.com/news/house-bill-ai-data-centre-energy-costs-big-tech)
 
 ---
 
-## 19. Slopagotchi: Score your AI slop against other developers
+## 19. 2027 Macs to Get AI-Focused M7 Chips as Apple Skips High-End M6
 
-**Author:** stortebecker  
-**Published:** 6/25/2026, 12:55:41 PM  
+**Author:** tosh  
+**Published:** 6/25/2026, 6:42:14 PM  
 **Categories:** -  
 
-Article URL: https://slopagotchi.com/ Comments URL: https://news.ycombinator.com/item?id=48672653 Points: 2 # Comments: 0
+Article URL: https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/ Comments URL: https://news.ycombinator.com/item?id=48677563 Points: 3 # Comments: 0
 
-📖 [Read original article](https://slopagotchi.com/)
+📖 [Read original article](https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/)
 
 ---
 
-## 20. Ask HN: What does the day-to-day work of an AI Engineer look like?
+## 20. To Cut AI Costs, Start with Cloud Spend
 
-**Author:** vishalwaghmode  
-**Published:** 6/25/2026, 12:53:28 PM  
+**Author:** mooreds  
+**Published:** 6/25/2026, 6:41:15 PM  
 **Categories:** -  
 
-Curious what kind of real-world projects AI Engineers work on and how you became one? Comments URL: https://news.ycombinator.com/item?id=48672619 Points: 5 # Comments: 0
+Article URL: https://www.unite.ai/ai-compute-crisis-cloud-cost-optimization/ Comments URL: https://news.ycombinator.com/item?id=48677551 Points: 4 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48672619)
+📖 [Read original article](https://www.unite.ai/ai-compute-crisis-cloud-cost-optimization/)
 
 ---
