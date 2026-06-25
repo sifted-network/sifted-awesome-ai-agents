@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-23"
 date: "2026-06-23"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-06-23
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Mistral AI released OCR 4 on June 23, 2026, moving from clean text extraction to
 Datalab released lift, a 9B open-weights vision model that turns PDFs and images into schema-matching JSON. It uses schema-constrained decoding for valid structure and trained abstention to return null instead of hallucinating absent fields, scoring 90.2% field accuracy on a 225-document benchmark. ...
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/23/datalab-releases-lift-a-9b-open-weights-vision-model-that-extracts-structured-json-from-pdfs-using-schemas/)
-
----
-
-## 3. How to Use NVIDIA Canary-1B-v2 for ASR, Translation, and Automatic SRT Subtitle Export in Python
-
-**Author:** Sana Hassan  
-**Published:** 6/23/2026, 6:31:36 PM  
-**Categories:** Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, Staff, Technology, Tutorials, Voice AI  
-
-In this tutorial, we build a multilingual ASR and speech translation pipeline with NVIDIA Canary-1B-v2. We load the model on a GPU-enabled runtime, prepare audio into 16 kHz mono, and run English ASR. We then translate speech into French, German, Spanish, and Italian, and extract word and segment ti...
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/23/how-to-use-nvidia-canary-1b-v2-for-asr-translation-and-automatic-srt-subtitle-export-in-python/)
 
 ---
