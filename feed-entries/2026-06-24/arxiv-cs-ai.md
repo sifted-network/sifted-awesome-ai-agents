@@ -221,7 +221,7 @@ arXiv:2606.24169v1 Announce Type: new Abstract: Adapting a streaming speech reco
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.24196v1 Announce Type: new Abstract: Modern AIGC pipelines deliver high-fidelity images and videos but presuppose a well-formed creation instruction, while end users rarely articulate visual details, leaving generators misaligned with user demand. We study personalized content generation,...
+arXiv:2606.24196v2 Announce Type: new Abstract: Modern AIGC pipelines deliver high-fidelity images and videos but presuppose a well-formed creation instruction, while end users rarely articulate visual details, leaving generators misaligned with user demand. We study personalized content generation,...
 
 📖 [Read original article](https://arxiv.org/abs/2606.24196)
 
@@ -341,7 +341,7 @@ arXiv:2606.24347v1 Announce Type: new Abstract: Accurate short-term PM$_{2.5}$ f
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.DC, cs.NI, cs.PF  
 
-arXiv:2606.24369v1 Announce Type: new Abstract: Reinforcement learning (RL) has become a dominant post-training paradigm, driving the emergence of high-performance RL systems such as veRL for autoregressive large language models (LLMs). In parallel, diffusion-oriented RL algorithms, e.g., DanceGRPO ...
+arXiv:2606.24369v2 Announce Type: new Abstract: Reinforcement learning (RL) has become a dominant post-training paradigm, driving the emergence of high-performance RL systems such as veRL for autoregressive large language models (LLMs). In parallel, diffusion-oriented RL algorithms, e.g., DanceGRPO ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.24369)
 
@@ -747,7 +747,7 @@ arXiv:2606.24752v1 Announce Type: new Abstract: The loss of plasticity - the abi
 
 **Author:** Adhitya Charan, Adwaid Suresh, Anuj Kumar, Aparna A, Dhanakumar K, Dharun M S, Dinesh G, Goutham Kumar Reddy K, Harshini V M, Jenifa D, Jona Delcy C A, Kathirvel S, Killi Uma Maheswara Rao, Kiruthik Kanna M, Kurra Vishnu Sai, Madhumithaa G K, Navin Kumar V, Ram Charan Golla, Revathi T, Rishikkanth R, Sanjay Krishna M V, Surendra Vendra  
 **Published:** 6/24/2026, 4:00:00 AM  
-**Categories:** cs.AI  
+**Categories:** cs.AI, cs.LG  
 
 arXiv:2606.24780v1 Announce Type: new Abstract: Progress in deep learning is, at scale, more a matter of systems engineering than of modelling: the behaviour of a model in training (its throughput, its memory footprint, and the numerical fidelity of the result) is determined less by the architecture...
 
@@ -1061,7 +1061,7 @@ arXiv:2606.23742v1 Announce Type: cross Abstract: Physical neural networks promi
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2606.23743v1 Announce Type: cross Abstract: Modern video diffusion models achieve higher generation quality through scaling, but this also increases inference cost. Although many acceleration methods have been proposed, a central challenge is that the most effective acceleration strategy is hi...
+arXiv:2606.23743v2 Announce Type: cross Abstract: Modern video diffusion models achieve higher generation quality through scaling, but this also increases inference cost. Although many acceleration methods have been proposed, a central challenge is that the most effective acceleration strategy is hi...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23743)
 
@@ -1097,7 +1097,7 @@ arXiv:2606.23757v1 Announce Type: cross Abstract: Extracting interpretable gover
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.23758v1 Announce Type: cross Abstract: Domain generalization learns from multiple source domains to generalize to unseen target domains. However, it often neglects the realistic case of label mismatch between source and target. Open set domain generalization is then proposed to recognize ...
+arXiv:2606.23758v2 Announce Type: cross Abstract: Domain generalization learns from multiple source domains to generalize to unseen target domains. However, it often neglects the realistic case of label mismatch between source and target. Open set domain generalization is then proposed to recognize ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23758)
 
@@ -1121,7 +1121,7 @@ arXiv:2606.23759v1 Announce Type: cross Abstract: Verilog debugging remains one 
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.MA, cs.SE  
 
-arXiv:2606.23760v1 Announce Type: cross Abstract: Engineering reliable autonomous systems is an important and growing topic in computer science. As autonomous systems become more prevalent, easy-to-use techniques for building them reliably are increasingly important. This workshop report captures an...
+arXiv:2606.23760v2 Announce Type: cross Abstract: Engineering reliable autonomous systems is an important and growing topic in computer science. As autonomous systems become more prevalent, easy-to-use techniques for building them reliably are increasingly important. This workshop report captures an...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23760)
 
@@ -1441,11 +1441,11 @@ arXiv:2606.23992v1 Announce Type: cross Abstract: Clinical value sets define the
 
 ## 120. Learning to Trigger: Reinforcement Learning at the Large Hadron Collider
 
-**Author:** Zixin Ding, Shaghayegh Emam, Giovanna Salvi, Cecilia Tosciri, Abhijith Gandrakota, Jennifer Ngadiuba, Nhan Tran, Christian Herwig, David W. Miller, Yuxin Chen  
+**Author:** Zixin Ding, Shaghayegh Emami, Giovanna Salvi, Cecilia Tosciri, Abhijith Gandrakota, Jennifer Ngadiuba, Nhan Tran, Christian Herwig, David W. Miller, Yuxin Chen  
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, hep-ex  
 
-arXiv:2606.23993v1 Announce Type: cross Abstract: High-throughput scientific facilities such as the Large Hadron Collider depend on real-time event filtering (\textit{triggering}) under tight constraints on bandwidth, latency, and storage. In practice, trigger menus are largely static and hand-tuned...
+arXiv:2606.23993v2 Announce Type: cross Abstract: High-throughput scientific facilities such as the Large Hadron Collider depend on real-time event filtering (\textit{triggering}) under tight constraints on bandwidth, latency, and storage. In practice, trigger menus are largely static and hand-tuned...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23993)
 
@@ -1805,7 +1805,7 @@ arXiv:2606.24206v1 Announce Type: cross Abstract: Recent breakthroughs in 3D gen
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.CR  
 
-arXiv:2606.24245v1 Announce Type: cross Abstract: Large language model (LLM) agents increasingly automate complex tasks by integrating language models with external tools and environments. However, their autonomy poses significant safety risks: agents may execute destructive commands, leak sensitive...
+arXiv:2606.24245v2 Announce Type: cross Abstract: Large language model (LLM) agents increasingly automate complex tasks by integrating language models with external tools and environments. However, their autonomy poses significant safety risks: agents may execute destructive commands, leak sensitive...
 
 📖 [Read original article](https://arxiv.org/abs/2606.24245)
 
@@ -2189,7 +2189,7 @@ arXiv:2606.24655v1 Announce Type: cross Abstract: The explosive growth and compl
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.24679v1 Announce Type: cross Abstract: Data preparation pipelines improve data quality in machine learning by transforming raw tables into learning-ready data through sequential cleaning and feature transformation operators. However, automatically constructing such pipelines is computatio...
+arXiv:2606.24679v2 Announce Type: cross Abstract: Data preparation pipelines improve data quality in machine learning by transforming raw tables into learning-ready data through sequential cleaning and feature transformation operators. However, automatically constructing such pipelines is computatio...
 
 📖 [Read original article](https://arxiv.org/abs/2606.24679)
 
@@ -3173,7 +3173,7 @@ arXiv:2604.23989v2 Announce Type: replace-cross Abstract: Recent work on large l
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI  
 
-arXiv:2605.00327v3 Announce Type: replace-cross Abstract: In large language model (LLM)-based recommendation systems, direct preference optimization (DPO) effectively aligns recommendations with user preferences, requiring multi-negative objective functions to leverage abundant implicit-feedback neg...
+arXiv:2605.00327v4 Announce Type: replace-cross Abstract: In large language model (LLM)-based recommendation systems, direct preference optimization (DPO) effectively aligns recommendations with user preferences, requiring multi-negative objective functions to leverage abundant implicit-feedback neg...
 
 📖 [Read original article](https://arxiv.org/abs/2605.00327)
 
