@@ -77,7 +77,7 @@ arXiv:2606.23757v1 Announce Type: new Abstract: Extracting interpretable governi
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.23758v1 Announce Type: new Abstract: Domain generalization learns from multiple source domains to generalize to unseen target domains. However, it often neglects the realistic case of label mismatch between source and target. Open set domain generalization is then proposed to recognize un...
+arXiv:2606.23758v2 Announce Type: new Abstract: Domain generalization learns from multiple source domains to generalize to unseen target domains. However, it often neglects the realistic case of label mismatch between source and target. Open set domain generalization is then proposed to recognize un...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23758)
 
@@ -123,7 +123,7 @@ arXiv:2606.23833v1 Announce Type: new Abstract: Terrestrial water storage (TWS) 
 
 **Author:** T. Lucas Makinen, Deaglan J. Bartlett, Niall Jeffrey, Benjamin D. Wandelt  
 **Published:** 6/24/2026, 4:00:00 AM  
-**Categories:** cs.LG, physics.comp-ph, physics.data-an, stat.ML  
+**Categories:** cs.LG, astro-ph.IM, physics.comp-ph, physics.data-an, stat.ML  
 
 arXiv:2606.23838v1 Announce Type: new Abstract: When two or more parameters or labels produce similar data, they are degenerate, or hard to distinguish. Degeneracies render both label prediction and inverse problems difficult, since both machine learning algorithms and probabilistic samplers rely on...
 
@@ -149,7 +149,7 @@ arXiv:2606.23851v1 Announce Type: new Abstract: This work investigates the imple
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.23856v1 Announce Type: new Abstract: Generative molecular models for drug design are a promising direction with much active research. In the next phase of computational drug design, such models will need to understand small molecule structure and protein-ligand interactions, and they will...
+arXiv:2606.23856v2 Announce Type: new Abstract: Generative molecular models for drug design are a promising direction with much active research. In the next phase of computational drug design, such models will need to understand small molecule structure and protein-ligand interactions, and they will...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23856)
 
@@ -337,11 +337,11 @@ arXiv:2606.23978v1 Announce Type: new Abstract: We present an offline reinforcem
 
 ## 28. Learning to Trigger: Reinforcement Learning at the Large Hadron Collider
 
-**Author:** Zixin Ding, Shaghayegh Emam, Giovanna Salvi, Cecilia Tosciri, Abhijith Gandrakota, Jennifer Ngadiuba, Nhan Tran, Christian Herwig, David W. Miller, Yuxin Chen  
+**Author:** Zixin Ding, Shaghayegh Emami, Giovanna Salvi, Cecilia Tosciri, Abhijith Gandrakota, Jennifer Ngadiuba, Nhan Tran, Christian Herwig, David W. Miller, Yuxin Chen  
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, hep-ex  
 
-arXiv:2606.23993v1 Announce Type: new Abstract: High-throughput scientific facilities such as the Large Hadron Collider depend on real-time event filtering (\textit{triggering}) under tight constraints on bandwidth, latency, and storage. In practice, trigger menus are largely static and hand-tuned a...
+arXiv:2606.23993v2 Announce Type: new Abstract: High-throughput scientific facilities such as the Large Hadron Collider depend on real-time event filtering (\textit{triggering}) under tight constraints on bandwidth, latency, and storage. In practice, trigger menus are largely static and hand-tuned a...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23993)
 
@@ -473,7 +473,7 @@ arXiv:2606.24087v1 Announce Type: new Abstract: Reconstructing continuous speech
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.24113v1 Announce Type: new Abstract: Federated unlearning (FU) is critical for complying with legal mandates like the right to be forgotten in decentralized systems, yet current methods face a persistent dilemma between non-target knowledge loss and high request latency. To resolve these ...
+arXiv:2606.24113v2 Announce Type: new Abstract: Federated unlearning (FU) is critical for complying with legal mandates like the right to be forgotten in decentralized systems, yet current methods face a persistent dilemma between non-target knowledge loss and high request latency. To resolve these ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.24113)
 
@@ -509,7 +509,7 @@ arXiv:2606.24133v1 Announce Type: new Abstract: The composition of training data
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.24140v1 Announce Type: new Abstract: Discrete flow matching (DFM) provides a principled framework for generative modeling on discrete state spaces via continuous-time Markov chain dynamics. In practice, sampling for DFM commonly employs discretizations such as $\tau$-leaping, yet efficien...
+arXiv:2606.24140v2 Announce Type: new Abstract: Discrete flow matching (DFM) provides a principled framework for generative modeling on discrete state spaces via continuous-time Markov chain dynamics. In practice, sampling for DFM commonly employs discretizations such as $\tau$-leaping, yet efficien...
 
 📖 [Read original article](https://arxiv.org/abs/2606.24140)
 
@@ -653,7 +653,7 @@ arXiv:2606.24625v1 Announce Type: new Abstract: Class imbalance poses a signific
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.24679v1 Announce Type: new Abstract: Data preparation pipelines improve data quality in machine learning by transforming raw tables into learning-ready data through sequential cleaning and feature transformation operators. However, automatically constructing such pipelines is computationa...
+arXiv:2606.24679v2 Announce Type: new Abstract: Data preparation pipelines improve data quality in machine learning by transforming raw tables into learning-ready data through sequential cleaning and feature transformation operators. However, automatically constructing such pipelines is computationa...
 
 📖 [Read original article](https://arxiv.org/abs/2606.24679)
 
@@ -689,7 +689,7 @@ arXiv:2606.24851v1 Announce Type: new Abstract: Fourier Neural Operators (FNO) l
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.LG, cs.OS  
 
-arXiv:2606.23001v1 Announce Type: cross Abstract: On-device LLM inference is increasingly attractive for privacy-preserving, reliable, and cost-effective deployment, yet its energy and thermal costs remain a critical bottleneck. Existing systems primarily optimize for decoding speed, implicitly assu...
+arXiv:2606.23001v2 Announce Type: cross Abstract: On-device LLM inference is increasingly attractive for privacy-preserving, reliable, and cost-effective deployment, yet its energy and thermal costs remain a critical bottleneck. Existing systems primarily optimize for decoding speed, implicitly assu...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23001)
 
@@ -797,7 +797,7 @@ arXiv:2606.23725v1 Announce Type: cross Abstract: Machine-learning screens for b
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2606.23743v1 Announce Type: cross Abstract: Modern video diffusion models achieve higher generation quality through scaling, but this also increases inference cost. Although many acceleration methods have been proposed, a central challenge is that the most effective acceleration strategy is hi...
+arXiv:2606.23743v2 Announce Type: cross Abstract: Modern video diffusion models achieve higher generation quality through scaling, but this also increases inference cost. Although many acceleration methods have been proposed, a central challenge is that the most effective acceleration strategy is hi...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23743)
 
@@ -1259,13 +1259,13 @@ arXiv:2606.24696v1 Announce Type: cross Abstract: Physics-informed surrogate mod
 
 ---
 
-## 105. Model selection with proper scoring rules on data sets of time series
+## 105. Model selection with proper scoring rules on data sets of time series: prefer the mean scaled score
 
 **Author:** Giorgio Corani, Stefano Damato, Dario Azzimonti, Lorenzo Zambon  
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2606.24715v1 Announce Type: cross Abstract: We consider the problem of model selection between probabilistic models on data sets of time series. Chosen a proper scoring rule, we denote by the term \textit{score} the average value of the scoring rule on the test of an individual time series. Fo...
+arXiv:2606.24715v2 Announce Type: cross Abstract: We study the problem of model selection among probabilistic forecasting models evaluated on datasets of multiple time series. The performance of a model on a single time series is quantified by the average value (score) of a proper scoring rule over ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.24715)
 
@@ -1565,7 +1565,7 @@ arXiv:2509.24118v2 Announce Type: replace Abstract: Electronic health Records (E
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2510.00866v3 Announce Type: replace Abstract: Large-scale models are pretrained on massive web-crawled datasets containing documents of mixed quality, making data filtering essential. A popular method is Classifier-based Quality Filtering (CQF), which trains a binary classifier to distinguish ...
+arXiv:2510.00866v4 Announce Type: replace Abstract: Large-scale models are pretrained on massive web-crawled datasets containing documents of mixed quality, making data filtering essential. A popular method is Classifier-based Quality Filtering (CQF), which trains a binary classifier to distinguish ...
 
 📖 [Read original article](https://arxiv.org/abs/2510.00866)
 
@@ -1787,13 +1787,13 @@ arXiv:2603.15510v2 Announce Type: replace Abstract: The synthesis of inductive l
 
 ---
 
-## 149. Polaris: A Godel Agent Framework for Small Language Models through Experience-Abstracted Policy Repair
+## 149. Polaris: A G\\\"odel Agent Framework for Small Language Models through Experience-Abstracted Policy Repair
 
 **Author:** Aditya Kakade, Vivek Srivastava, Shirish Karande  
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2603.23129v3 Announce Type: replace Abstract: G\"odel agent realize recursive self-improvement: an agent inspects its own policy and traces and then modifies that policy in a tested loop. We introduce Polaris, a G\"odel agent for compact models that performs policy repair via experience abstra...
+arXiv:2603.23129v4 Announce Type: replace Abstract: G\"odel agent realize recursive self-improvement: an agent inspects its own policy and traces and then modifies that policy in a tested loop. We introduce Polaris, G\"odel agent for compact models that performs policy repair via experience abstract...
 
 📖 [Read original article](https://arxiv.org/abs/2603.23129)
 
@@ -2081,7 +2081,7 @@ arXiv:2606.21295v2 Announce Type: replace Abstract: Existing sequence models, in
 **Published:** 6/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.IT, math.DG, math.IT, math.ST, stat.TH  
 
-arXiv:2606.21585v2 Announce Type: replace Abstract: A finite machine's digital twin of a system observes the territory through finite, noisy sensors; we model its coherent output as a belief, a probability density over states, the Bayes posterior, never a point. Certainty, the perfect twin, is denie...
+arXiv:2606.21585v3 Announce Type: replace Abstract: A finite agent, a machine's digital twin, or any bounded reasoner, sees a fixed, noisy world only through finite sensors, so its coherent output is not a point but a belief: a probability density over states (the Bayes posterior). Certainty is deni...
 
 📖 [Read original article](https://arxiv.org/abs/2606.21585)
 
