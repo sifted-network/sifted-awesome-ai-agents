@@ -593,7 +593,7 @@ arXiv:2606.25004v1 Announce Type: new Abstract: In machine learning, model certi
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.25006v1 Announce Type: new Abstract: Target-specific peptide design requires sequence and structure co-design under full atom geometric constraints. Latent generative frameworks offer an effective route for this problem by compressing fine grained atomic structures into block level latent...
+arXiv:2606.25006v2 Announce Type: new Abstract: Target-specific peptide design requires sequence and structure co-design under full atom geometric constraints. Latent generative frameworks offer an effective route for this problem by compressing fine grained atomic structures into block level latent...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25006)
 
@@ -1001,7 +1001,7 @@ arXiv:2606.25342v1 Announce Type: new Abstract: Lifelong continual learning rema
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CV  
 
-arXiv:2606.25347v1 Announce Type: new Abstract: Exemplar-free class-incremental learning (EFCIL) requires stable decision boundaries within a shifting feature space. While maintaining class-conditional Gaussian statistics provides a principled classification strategy, these parametric summaries rema...
+arXiv:2606.25347v2 Announce Type: new Abstract: Exemplar-free class-incremental learning (EFCIL) requires stable decision boundaries within a shifting feature space. While maintaining class-conditional Gaussian statistics provides a principled classification strategy, these parametric summaries rema...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25347)
 
@@ -1097,7 +1097,7 @@ arXiv:2606.25447v1 Announce Type: new Abstract: Tool-integrated LLM agents are o
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2606.25450v1 Announce Type: new Abstract: Traditional evaluations measure a learning algorithm's final performance on an i.i.d. test set, reducing learning to a single aggregate score. This approach obscures a fundamental question: to what extent does learning from a specific example generaliz...
+arXiv:2606.25450v2 Announce Type: new Abstract: Traditional evaluations measure a learning algorithm's final performance on an i.i.d. test set, reducing learning to a single aggregate score. This approach obscures a fundamental question: to what extent does learning from a specific example generaliz...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25450)
 
@@ -1337,7 +1337,7 @@ arXiv:2606.25800v1 Announce Type: new Abstract: Effective online adaptation of v
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.25832v1 Announce Type: new Abstract: Achieving strong optimization generalization across diverse optimization problems while requiring limited training resources remains a challenging problem for optimization-oriented large language models (LLMs). Existing approaches typically rely on lar...
+arXiv:2606.25832v2 Announce Type: new Abstract: Achieving strong optimization generalization across diverse optimization problems while requiring limited training resources remains a challenging problem for optimization-oriented large language models (LLMs). Existing approaches typically rely on lar...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25832)
 
@@ -1913,7 +1913,7 @@ arXiv:2606.25473v1 Announce Type: cross Abstract: Autoregressive video diffusion
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.CR, cs.LG  
 
-arXiv:2606.25487v1 Announce Type: cross Abstract: Almost every paper on LLM jailbreaks and prompt injection reports an attack-success rate (ASR), and that number is assigned not by people but by an automated judge: either a safety classifier trained for the task, or a general chat model prompted to ...
+arXiv:2606.25487v2 Announce Type: cross Abstract: Almost every paper on LLM jailbreaks and prompt injection reports an attack-success rate (ASR), and that number is assigned not by people but by an automated judge: either a safety classifier trained for the task, or a general chat model prompted to ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25487)
 
@@ -2177,7 +2177,7 @@ arXiv:2606.25989v1 Announce Type: cross Abstract: Automated classification of ma
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG  
 
-arXiv:2606.25996v1 Announce Type: cross Abstract: We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist agent, so that it learns to create even stronger ...
+arXiv:2606.25996v2 Announce Type: cross Abstract: We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist agent, so that it learns to create even stronger ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25996)
 
@@ -2969,7 +2969,7 @@ arXiv:2605.23434v2 Announce Type: replace Abstract: Approximate inference over i
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.LG, cond-mat.stat-mech, cs.IT, math.IT, math.OC, math.ST, stat.TH  
 
-arXiv:2606.11171v4 Announce Type: replace Abstract: We develop Bellman-sufficient information complexity, a formal representation-level framework for sequential decision making. The primitive benchmark is a fixed-truth environment space $\Omega$ with unrestricted nonanticipating algorithms. The intr...
+arXiv:2606.11171v5 Announce Type: replace Abstract: We develop Bellman-sufficient information complexity, a formal representation-level framework for sequential decision making. The primitive benchmark is a fixed-truth environment space $\Omega$ with unrestricted nonanticipating algorithms. The intr...
 
 📖 [Read original article](https://arxiv.org/abs/2606.11171)
 
