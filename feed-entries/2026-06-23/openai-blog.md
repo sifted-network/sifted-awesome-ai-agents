@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-06-23"
 date: "2026-06-23"
 source: "OpenAI Blog"
-count: 3
+count: 2
 ---
 
 # OpenAI Blog - 2026-06-23
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T
 OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.
 
 📖 [Read original article](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)
-
----
-
-## 3. How Omio is building the future of conversational travel
-
-**Author:** -  
-**Published:** 6/23/2026, 12:00:00 AM  
-**Categories:** -  
-
-Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.
-
-📖 [Read original article](https://openai.com/index/omio)
 
 ---
