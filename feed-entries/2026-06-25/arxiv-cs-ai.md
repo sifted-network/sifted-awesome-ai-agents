@@ -233,7 +233,7 @@ arXiv:2606.25519v1 Announce Type: new Abstract: Quantization is widely used to r
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2606.25524v1 Announce Type: new Abstract: Large language models (LLMs) reach high accuracy in mathematical reasoning, but individual traces on the same problem diverge; some arrive at the correct answer while others fail. Prior work analyzes failure at the step, chunk, or sentence level, or at...
+arXiv:2606.25524v2 Announce Type: new Abstract: Large language models (LLMs) reach high accuracy in mathematical reasoning, but individual traces on the same problem diverge; some arrive at the correct answer while others fail. Prior work analyzes failure at the step, chunk, or sentence level, or at...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25524)
 
@@ -365,7 +365,7 @@ arXiv:2606.25984v1 Announce Type: new Abstract: Large language models are increa
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG  
 
-arXiv:2606.25996v1 Announce Type: new Abstract: We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist agent, so that it learns to create even stronger da...
+arXiv:2606.25996v2 Announce Type: new Abstract: We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist agent, so that it learns to create even stronger da...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25996)
 
@@ -389,7 +389,7 @@ arXiv:2606.26057v1 Announce Type: new Abstract: AI agents are granted access to 
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.CY  
 
-arXiv:2606.24890v1 Announce Type: cross Abstract: Can a small group of volunteers shape how AI systems discuss animal welfare, just by editing Wikipedia? We show that they can. Wikipedia appears in nearly every major language model training dataset and is weighted more heavily than web-crawled text....
+arXiv:2606.24890v2 Announce Type: cross Abstract: Can a small group of volunteers shape how AI systems discuss animal welfare, just by editing Wikipedia? We show that they can. Wikipedia appears in nearly every major language model training dataset and is weighted more heavily than web-crawled text....
 
 📖 [Read original article](https://arxiv.org/abs/2606.24890)
 
@@ -833,7 +833,7 @@ arXiv:2606.25001v1 Announce Type: cross Abstract: Machine unlearning (MU) is com
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2606.25009v1 Announce Type: cross Abstract: Ultrasound is a non-invasive, real-time, and cost-effective imaging technique widely used in clinical diagnosis. However, its diagnostic efficacy is often compromised by inherent speckle noise that degrades image quality and obscures underlying anato...
+arXiv:2606.25009v2 Announce Type: cross Abstract: Ultrasound is a non-invasive, real-time, and cost-effective imaging technique widely used in clinical diagnosis. However, its diagnostic efficacy is often compromised by inherent speckle noise that degrades image quality and obscures underlying anato...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25009)
 
@@ -877,11 +877,11 @@ arXiv:2606.25039v1 Announce Type: cross Abstract: Recovering governing Ordinary 
 
 ## 73. Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models
 
-**Author:** Lianghua Huang, Zhifan Wu, Wei Wang, Yupeng Shi, Mengyang Feng, Junjie He, Chenwei Xie, Yu Liu, Jingren Zhou, Ang Wang, Bang Zhang, Baole Ai, Chen Liang, Cheng Yu, Chongyang Zhong, Jinwei Qi, Kai Zhu, Pandeng Li, Peng Zhang, Wenyuan Zhang, Xinhua Cheng, Yitong Huang, Yun Zheng, Zoubin Bi  
+**Author:** Lianghua Huang, Zhi-Fan Wu, Wei Wang, Yupeng Shi, Mengyang Feng, Junjie He, Chen-Wei Xie, Yu Liu, Jingren Zhou, Ang Wang, Bang Zhang, Baole Ai, Chen Liang, Cheng Yu, Chongyang Zhong, Jinwei Qi, Kai Zhu, Pandeng Li, Peng Zhang, Wenyuan Zhang, Xinhua Cheng, Yitong Huang, Yun Zheng, Zoubin Bi  
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.GR, cs.SD  
 
-arXiv:2606.25041v1 Announce Type: cross Abstract: We present Wan-Streamer, a native-streaming, end-to-end interactive foundation model designed from the ground up for real-time, low-latency, full-duplex audio-visual interaction. Wan-Streamer seamlessly models language, audio, and video as both input...
+arXiv:2606.25041v2 Announce Type: cross Abstract: We present Wan-Streamer, a native-streaming, end-to-end interactive foundation model designed from the ground up for real-time, low-latency, full-duplex audio-visual interaction. Wan-Streamer seamlessly models language, audio, and video as both input...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25041)
 
@@ -1335,7 +1335,7 @@ arXiv:2606.25366v1 Announce Type: cross Abstract: Deep-space missions need onboa
 
 **Author:** Lianbo Liu, Shiao Zhu, Kai Washizaki, Reo Yoneyama, Haesung Jeon, Mengjie Zhao, Yusuke Fujita, Hao Shi, Nao Yoshida, Yuan Gao, Roman Koshkin, Yukiya Hono, Yui Sudo  
 **Published:** 6/25/2026, 4:00:00 AM  
-**Categories:** cs.SD, cs.AI, cs.CL  
+**Categories:** cs.SD, cs.AI, cs.CL, eess.AS  
 
 arXiv:2606.25369v1 Announce Type: cross Abstract: While large language model (LLM)-based text-to-speech (TTS) systems have achieved high-quality speech synthesis, most existing systems focus on English and Chinese. Japanese, however, remains under-explored, and its unique linguistic challenges, such...
 
@@ -1853,7 +1853,7 @@ arXiv:2606.25821v1 Announce Type: cross Abstract: Sparse Mixture-of-Experts (MoE
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.25832v1 Announce Type: cross Abstract: Achieving strong optimization generalization across diverse optimization problems while requiring limited training resources remains a challenging problem for optimization-oriented large language models (LLMs). Existing approaches typically rely on l...
+arXiv:2606.25832v2 Announce Type: cross Abstract: Achieving strong optimization generalization across diverse optimization problems while requiring limited training resources remains a challenging problem for optimization-oriented large language models (LLMs). Existing approaches typically rely on l...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25832)
 
@@ -2249,7 +2249,7 @@ arXiv:2602.05143v2 Announce Type: replace Abstract: Retrieval augmented generati
 **Published:** 6/25/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.IR  
 
-arXiv:2602.17663v2 Announce Type: replace Abstract: HIPE-2026 is a CLEF evaluation lab dedicated to person-place relation extraction from noisy, multilingual historical texts. Building on the HIPE-2020 and HIPE-2022 campaigns, it extends the series toward semantic relation extraction by targeting th...
+arXiv:2602.17663v3 Announce Type: replace Abstract: HIPE-2026 is a CLEF evaluation lab dedicated to person-place relation extraction from noisy, multilingual historical texts. Building on the HIPE-2020 and HIPE-2022 campaigns, it extends the series toward semantic relation extraction by targeting th...
 
 📖 [Read original article](https://arxiv.org/abs/2602.17663)
 
