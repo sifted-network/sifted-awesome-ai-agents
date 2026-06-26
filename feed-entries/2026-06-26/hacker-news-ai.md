@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Intelligence per Watt: A Unified Metric for the AI Era
+## 1. The Shift to Agentic AI: Evidence from Codex [pdf]
 
-**Author:** ilreb  
-**Published:** 6/26/2026, 9:26:26 AM  
+**Author:** gmays  
+**Published:** 6/26/2026, 2:11:31 PM  
 **Categories:** -  
 
-Article URL: https://www.intelligence-per-watt.ai/ Comments URL: https://news.ycombinator.com/item?id=48684366 Points: 1 # Comments: 0
+Article URL: https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf Comments URL: https://news.ycombinator.com/item?id=48686845 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.intelligence-per-watt.ai/)
+📖 [Read original article](https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf)
 
 ---
 
-## 2. Everyone suddenly sells themselves as \"AI-native\" on LinkedIn
+## 2. What One Year in AI Security and Governance Changed About How I See AI
 
-**Author:** garn810  
-**Published:** 6/26/2026, 9:20:55 AM  
+**Author:** shivc  
+**Published:** 6/26/2026, 2:08:42 PM  
 **Categories:** -  
 
-Article URL: https://write.as/7e9847vzuyxkx Comments URL: https://news.ycombinator.com/item?id=48684339 Points: 2 # Comments: 0
+Article URL: https://codebynight.dev/posts/one-year-ai-security-governance-see-ai-differently/ Comments URL: https://news.ycombinator.com/item?id=48686812 Points: 2 # Comments: 0
 
-📖 [Read original article](https://write.as/7e9847vzuyxkx)
+📖 [Read original article](https://codebynight.dev/posts/one-year-ai-security-governance-see-ai-differently/)
 
 ---
 
-## 3. California State Government Launches AI Job Loss Tracker as Layoff Fears Grow
+## 3. History Lens – AI-powered historical artifact and monument identifier
 
-**Author:** thm  
-**Published:** 6/26/2026, 9:10:31 AM  
+**Author:** erayy  
+**Published:** 6/26/2026, 2:06:47 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-06-25/california-state-government-launches-ai-job-loss-tracker-as-layoff-fears-grow Comments URL: https://news.ycombinator.com/item?id=48684258 Points: 1 # Comments: 0
+Article URL: https://apps.apple.com/us/app/history-lens-ai-identifier/id6757669028 Comments URL: https://news.ycombinator.com/item?id=48686796 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-25/california-state-government-launches-ai-job-loss-tracker-as-layoff-fears-grow)
+📖 [Read original article](https://apps.apple.com/us/app/history-lens-ai-identifier/id6757669028)
 
 ---
 
-## 4. AI 2027 Tracker
+## 4. Show Casing Kohinoor AI, Kohinoorai.in
 
-**Author:** merksittich  
-**Published:** 6/26/2026, 8:48:26 AM  
+**Author:** Arjun_Fernandes  
+**Published:** 6/26/2026, 2:03:00 PM  
 **Categories:** -  
 
-Article URL: https://ai2027-tracker.com/ Comments URL: https://news.ycombinator.com/item?id=48684103 Points: 3 # Comments: 0
+this is an ai I made, it is to try and lessen tuition fees by using the ai study. Comments URL: https://news.ycombinator.com/item?id=48686764 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ai2027-tracker.com/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48686764)
 
 ---
 
-## 5. Google Vids: AI-Powered Video Creator and Editor
+## 5. Local AI detectors rated a 2013 Paul Graham essay as more AI than actual slop
 
-**Author:** tilt  
-**Published:** 6/26/2026, 8:28:15 AM  
+**Author:** nate  
+**Published:** 6/26/2026, 1:59:57 PM  
 **Categories:** -  
 
-Article URL: https://workspace.google.com/products/vids/ Comments URL: https://news.ycombinator.com/item?id=48683953 Points: 2 # Comments: 0
+Article URL: https://ninjasandrobots.com/paul-graham-flagged-for-ai-use Comments URL: https://news.ycombinator.com/item?id=48686737 Points: 4 # Comments: 0
 
-📖 [Read original article](https://workspace.google.com/products/vids/)
+📖 [Read original article](https://ninjasandrobots.com/paul-graham-flagged-for-ai-use)
 
 ---
 
-## 6. Samsung readies $648B bet, report says, as AI boom reshapes South Korea
+## 6. Show HN: NexisSearch – Fast AI Search
 
-**Author:** JumpCrisscross  
-**Published:** 6/26/2026, 7:08:07 AM  
+**Author:** annrap1d  
+**Published:** 6/26/2026, 1:53:44 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/asia-pacific/samsung-invest-1000-trillion-won-south-korea-media-report-says-2026-06-25/ Comments URL: https://news.ycombinator.com/item?id=48683323 Points: 1 # Comments: 0
+Article URL: https://nexisearch.com Comments URL: https://news.ycombinator.com/item?id=48686676 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/world/asia-pacific/samsung-invest-1000-trillion-won-south-korea-media-report-says-2026-06-25/)
+📖 [Read original article](https://nexisearch.com)
 
 ---
 
-## 7. Notion killing Skiff-influenced email app since most users use AI agents instead
+## 7. Food for Agile Thought 550: Make AI Boring, Everyone's a Product Manager Soon
 
-**Author:** joozio  
-**Published:** 6/26/2026, 7:02:48 AM  
+**Author:** swolpers  
+**Published:** 6/26/2026, 1:41:51 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/ Comments URL: https://news.ycombinator.com/item?id=48683281 Points: 1 # Comments: 0
+Article URL: https://age-of-product.com/food-agile-thought-550-make-ai-boring/ Comments URL: https://news.ycombinator.com/item?id=48686564 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/)
+📖 [Read original article](https://age-of-product.com/food-agile-thought-550-make-ai-boring/)
 
 ---
 
-## 8. Ask HN: Why does every AI demo sound perfect but real world deployment always
+## 8. Hey HN, I built local char an open source local AI platform like character AI
 
-**Author:** VaderAi  
-**Published:** 6/26/2026, 6:44:37 AM  
+**Author:** KishaWeb  
+**Published:** 6/26/2026, 1:34:03 PM  
 **Categories:** -  
 
-disappoints? Working on AI voice for small businesses. The gap between what AI can do in a controlled demo vs messy real world phone calls is eye opening. Comments URL: https://news.ycombinator.com/item?id=48683172 Points: 3 # Comments: 2
+Article URL: https://github.com/KishaWeb/local-char Comments URL: https://news.ycombinator.com/item?id=48686474 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48683172)
+📖 [Read original article](https://github.com/KishaWeb/local-char)
 
 ---
 
-## 9. I made a Claude Code skill to check if AI crawlers can read your site
+## 9. Multi-harness session monitoring app for heavy AI users
 
-**Author:** novaesystems  
-**Published:** 6/26/2026, 6:42:49 AM  
+**Author:** st0012  
+**Published:** 6/26/2026, 1:33:11 PM  
 **Categories:** -  
 
-Article URL: https://github.com/MerqryLabs/ai-crawler-visibility Comments URL: https://news.ycombinator.com/item?id=48683149 Points: 2 # Comments: 0
+Article URL: https://cctop.app/ Comments URL: https://news.ycombinator.com/item?id=48686466 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/MerqryLabs/ai-crawler-visibility)
+📖 [Read original article](https://cctop.app/)
 
 ---
 
-## 10. Fivy – AI review management for small businesses (Google reviews)
+## 10. AI and Liability
 
-**Author:** mesqfel  
-**Published:** 6/26/2026, 6:41:52 AM  
+**Author:** simonw  
+**Published:** 6/26/2026, 1:31:36 PM  
 **Categories:** -  
 
-Article URL: https://www.fivy.com.au Comments URL: https://news.ycombinator.com/item?id=48683143 Points: 1 # Comments: 0
+Article URL: https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html Comments URL: https://news.ycombinator.com/item?id=48686446 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.fivy.com.au)
+📖 [Read original article](https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html)
 
 ---
 
-## 11. Ask HN: How are you solving long-term memory for production AI agents in 2026?
+## 11. AI inference is obviously profitable
 
-**Author:** xSingh16  
-**Published:** 6/26/2026, 6:41:36 AM  
+**Author:** medbar  
+**Published:** 6/26/2026, 1:29:09 PM  
 **Categories:** -  
 
-Specifically interested in teams who moved past demos into real production workloads. Mem0, Zep, custom solutions — what's actually working and what keeps breaking? Comments URL: https://news.ycombinator.com/item?id=48683139 Points: 1 # Comments: 1
+Article URL: https://www.seangoedecke.com/ai-inference-is-obviously-profitable/ Comments URL: https://news.ycombinator.com/item?id=48686412 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48683139)
+📖 [Read original article](https://www.seangoedecke.com/ai-inference-is-obviously-profitable/)
 
 ---
 
-## 12. Ask HN: What do you still love most about AI?
+## 12. I Wish I Knew This Before Building an AI Second Brain
 
-**Author:** akashwadhwani35  
-**Published:** 6/26/2026, 5:35:39 AM  
+**Author:** majidfekri  
+**Published:** 6/26/2026, 1:27:47 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48682713 Points: 3 # Comments: 2
+Article URL: https://pub.towardsai.net/i-wish-i-knew-this-before-building-an-ai-second-brain-6179aa439aef Comments URL: https://news.ycombinator.com/item?id=48686390 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48682713)
+📖 [Read original article](https://pub.towardsai.net/i-wish-i-knew-this-before-building-an-ai-second-brain-6179aa439aef)
 
 ---
 
-## 13. A Charter School Spent $500k on AI-Powered Humanoid Robots. Was It Worth It?
+## 13. Adobe is buying Topaz Labs, the AI video enhancer
 
-**Author:** the-mitr  
-**Published:** 6/26/2026, 5:35:10 AM  
+**Author:** microflash  
+**Published:** 6/26/2026, 1:14:01 PM  
 **Categories:** -  
 
-Article URL: https://voiceofsandiego.org/2026/06/24/a-charter-school-spent-500000-on-ai-powered-humanoid-robots-was-it-worth-it/ Comments URL: https://news.ycombinator.com/item?id=48682709 Points: 2 # Comments: 0
+Article URL: https://thenextweb.com/news/adobe-acquires-topaz-labs-ai-enhancement Comments URL: https://news.ycombinator.com/item?id=48686246 Points: 2 # Comments: 0
 
-📖 [Read original article](https://voiceofsandiego.org/2026/06/24/a-charter-school-spent-500000-on-ai-powered-humanoid-robots-was-it-worth-it/)
+📖 [Read original article](https://thenextweb.com/news/adobe-acquires-topaz-labs-ai-enhancement)
 
 ---
 
-## 14. Reading AI Model Compilation in MLIR Through the Lens of Formal Theories
+## 14. AI Makes Bad Product Decisions Look Like Finished Software
 
-**Author:** matt_d  
-**Published:** 6/26/2026, 5:18:05 AM  
+**Author:** vincent_s  
+**Published:** 6/26/2026, 1:13:11 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2606.25244 Comments URL: https://news.ycombinator.com/item?id=48682592 Points: 2 # Comments: 0
+Article URL: https://www.vincentschmalbach.com/ai-makes-bad-product-decisions-look-like-finished-software-cost-quality-test/ Comments URL: https://news.ycombinator.com/item?id=48686237 Points: 1 # Comments: 1
 
-📖 [Read original article](https://arxiv.org/abs/2606.25244)
+📖 [Read original article](https://www.vincentschmalbach.com/ai-makes-bad-product-decisions-look-like-finished-software-cost-quality-test/)
 
 ---
 
-## 15. Context loss is the real reason AI coding slows down engineering teams
+## 15. The AI backlash is only getting started
 
-**Author:** RihabAI  
-**Published:** 6/26/2026, 5:17:19 AM  
+**Author:** andsoitis  
+**Published:** 6/26/2026, 1:12:04 PM  
 **Categories:** -  
 
-Article URL: https://brunelly.com/ Comments URL: https://news.ycombinator.com/item?id=48682585 Points: 3 # Comments: 0
+Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219 Points: 5 # Comments: 2
 
-📖 [Read original article](https://brunelly.com/)
+📖 [Read original article](https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started)
 
 ---
 
-## 16. AI in research: we need to stop treating every AI-related issue as misconduct
+## 16. Guardrails for Offensive AI Agents
 
-**Author:** giuliomagnifico  
-**Published:** 6/26/2026, 5:11:56 AM  
+**Author:** escape_42  
+**Published:** 6/26/2026, 12:52:06 PM  
 **Categories:** -  
 
-Article URL: https://www.frontiersin.org/news/2026/06/26/ai-in-research-why-we-need-to-stop-treating-every-ai-related-issue-as-misconduct Comments URL: https://news.ycombinator.com/item?id=48682567 Points: 2 # Comments: 0
+Article URL: https://dest.host/b/guardrails-for-offensive-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48686060 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.frontiersin.org/news/2026/06/26/ai-in-research-why-we-need-to-stop-treating-every-ai-related-issue-as-misconduct)
+📖 [Read original article](https://dest.host/b/guardrails-for-offensive-ai-agents/)
 
 ---
 
-## 17. How the DeepMind mafia brought the AI boom to London
+## 17. Show HN: Jargo – a Golang port of Pipecat for conversational-AI apps
 
-**Author:** mmarian  
-**Published:** 6/26/2026, 5:11:35 AM  
+**Author:** fallais  
+**Published:** 6/26/2026, 12:50:06 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/6a3a46b9-4725-469e-a909-917768a74afb Comments URL: https://news.ycombinator.com/item?id=48682564 Points: 2 # Comments: 1
+A WebRTC-native, audio-first conversational-AI framework for Go.Pipecat is great, and jargo is a port of it — the architecture and many design decisions are Pipecat's.But, I prefer Golang. Comments URL: https://news.ycombinator.com/item?id=48686042 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/6a3a46b9-4725-469e-a909-917768a74afb)
+📖 [Read original article](https://github.com/gojargo/jargo)
 
 ---
 
-## 18. AI coding will be more expensive than human developers
+## 18. Codex AI Agent Skill Development for UI Design and Development
 
-**Author:** slow_typist  
-**Published:** 6/26/2026, 5:09:58 AM  
+**Author:** greenpau  
+**Published:** 6/26/2026, 12:31:46 PM  
 **Categories:** -  
 
-Article URL: https://www.heise.de/en/news/Forecast-By-2028-AI-coding-will-be-more-expensive-than-human-developers-11343901.html Comments URL: https://news.ycombinator.com/item?id=48682554 Points: 1 # Comments: 0
+Article URL: https://rapidkt.com/pages/blog/codex_ai_agent_skill_development_for_ui_design_and_development Comments URL: https://news.ycombinator.com/item?id=48685888 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.heise.de/en/news/Forecast-By-2028-AI-coding-will-be-more-expensive-than-human-developers-11343901.html)
+📖 [Read original article](https://rapidkt.com/pages/blog/codex_ai_agent_skill_development_for_ui_design_and_development)
 
 ---
 
-## 19. Supercomplete.ai
+## 19. VCupid Skills – AI Fundraising Toolkit for Founders
 
-**Author:** ishener  
-**Published:** 6/26/2026, 4:57:10 AM  
+**Author:** maxoliverbr  
+**Published:** 6/26/2026, 12:28:16 PM  
 **Categories:** -  
 
-Article URL: https://www.supercomplete.ai/ Comments URL: https://news.ycombinator.com/item?id=48682480 Points: 3 # Comments: 0
+Article URL: https://github.com/maxoliverbr/vcupid-plugin Comments URL: https://news.ycombinator.com/item?id=48685860 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.supercomplete.ai/)
+📖 [Read original article](https://github.com/maxoliverbr/vcupid-plugin)
 
 ---
 
-## 20. Show HN: Appaca – AI Workspace for Operators
+## 20. How to Set Up and Deploy an OpenClaw AI Agent on a VPS
 
-**Author:** susros  
-**Published:** 6/26/2026, 4:54:29 AM  
+**Author:** Liriel  
+**Published:** 6/26/2026, 12:26:17 PM  
 **Categories:** -  
 
-Appaca is my third pivot.A couple of years ago, I started working on an idea on no-code platform that generates code. The goal is to help devs and agencies ship products faster for their clients. I went through Antler startup accelerator and got initial funding. I was working on the right problem, b...
+Article URL: https://3hcloud.com/blog/how-to-set-up-and-deploy-an-openclaw-ai-agent-on-a-vps Comments URL: https://news.ycombinator.com/item?id=48685838 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.appaca.ai/)
+📖 [Read original article](https://3hcloud.com/blog/how-to-set-up-and-deploy-an-openclaw-ai-agent-on-a-vps)
 
 ---
