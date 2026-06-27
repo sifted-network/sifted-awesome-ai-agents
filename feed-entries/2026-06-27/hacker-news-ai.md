@@ -11,7 +11,187 @@ count: 20
 
 ---
 
-## 1. Show HN: Brytlog – AI logger
+## 1. Show HN: Hyoomn – We'll constructively roast your AI coded B2B SaaS
+
+**Author:** krm01  
+**Published:** 6/27/2026, 1:27:57 PM  
+**Categories:** -  
+
+Article URL: https://hyoomn.com/ Comments URL: https://news.ycombinator.com/item?id=48698115 Points: 1 # Comments: 0
+
+📖 [Read original article](https://hyoomn.com/)
+
+---
+
+## 2. It's 11:00 pm. Do you know where your AI agent is?
+
+**Author:** megamike  
+**Published:** 6/27/2026, 1:12:34 PM  
+**Categories:** -  
+
+Article URL: https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/ Comments URL: https://news.ycombinator.com/item?id=48697978 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/)
+
+---
+
+## 3. Asian AI startups launch Mythos-like models
+
+**Author:** bogdiyan  
+**Published:** 6/27/2026, 1:10:21 PM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 3 # Comments: 0
+
+📖 [Read original article](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
+
+---
+
+## 4. Show HN: Nirnam – a browser-native message bus and AI agent framework for MFEs
+
+**Author:** shauryaSP  
+**Published:** 6/27/2026, 12:27:25 PM  
+**Categories:** -  
+
+Communication hub to make communication easier for MFEs, Browser Worker threads, Browser-native Agents. And an Agent framework to make it easier to build browser native multi-agent system. Comments URL: https://news.ycombinator.com/item?id=48697653 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/shaurcasm/nirnam)
+
+---
+
+## 5. Ask HN: Is there a quiet market for 'no enforced AI' dev jobs?
+
+**Author:** reinhardt  
+**Published:** 6/27/2026, 12:05:10 PM  
+**Categories:** -  
+
+It seems to me that the dissenting voices from software engineers burned out after having the AI hype shoved down their throats have been growing louder lately. Just this week I read several posts both here (e.g. [1], [2]) and on Reddit (e.g. [3], [4]) with hundreds of comments from devs who have lo...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48697527)
+
+---
+
+## 6. Gnome AI Assistant Adds Image Generation Support
+
+**Author:** mehmetoguzderin  
+**Published:** 6/27/2026, 11:59:38 AM  
+**Categories:** -  
+
+Article URL: https://www.phoronix.com/news/GNOME-Newelle-Image-Gen Comments URL: https://news.ycombinator.com/item?id=48697487 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.phoronix.com/news/GNOME-Newelle-Image-Gen)
+
+---
+
+## 7. India: Factory workers told to film themselves for AI/robot training
+
+**Author:** KellyCriterion  
+**Published:** 6/27/2026, 11:37:50 AM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots Comments URL: https://news.ycombinator.com/item?id=48697363 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots)
+
+---
+
+## 8. Everyone Will Have an AI Coding Agent
+
+**Author:** horatiucode  
+**Published:** 6/27/2026, 11:04:39 AM  
+**Categories:** -  
+
+Article URL: https://github.com/HoratiuCode/Clawie Comments URL: https://news.ycombinator.com/item?id=48697174 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/HoratiuCode/Clawie)
+
+---
+
+## 9. How a New York race became the first front in the AI industry's midterm war
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 6/27/2026, 11:04:20 AM  
+**Categories:** -  
+
+Article URL: https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/ Comments URL: https://news.ycombinator.com/item?id=48697173 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/)
+
+---
+
+## 10. U.S. government restricts access to OpenAI's new AI model
+
+**Author:** chelm  
+**Published:** 6/27/2026, 10:44:33 AM  
+**Categories:** -  
+
+Article URL: https://www.zeit.de/digital/2026-06/openai-gpt-5-6-ki-modell-sol-usa Comments URL: https://news.ycombinator.com/item?id=48697064 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.zeit.de/digital/2026-06/openai-gpt-5-6-ki-modell-sol-usa)
+
+---
+
+## 11. Show HN: PreFlight – A local AST background daemon to catch AI code drift
+
+**Author:** Avenassh  
+**Published:** 6/27/2026, 10:43:22 AM  
+**Categories:** -  
+
+Article URL: https://preflight-vibe.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48697052 Points: 1 # Comments: 0
+
+📖 [Read original article](https://preflight-vibe.vercel.app/)
+
+---
+
+## 12. Properties of AI
+
+**Author:** vinhnx  
+**Published:** 6/27/2026, 10:28:29 AM  
+**Categories:** -  
+
+Article URL: https://claude.com/resources/tutorials/the-4-properties-of-ai Comments URL: https://news.ycombinator.com/item?id=48696977 Points: 2 # Comments: 0
+
+📖 [Read original article](https://claude.com/resources/tutorials/the-4-properties-of-ai)
+
+---
+
+## 13. AI data centers are supercharging a new battery market
+
+**Author:** bookofjoe  
+**Published:** 6/27/2026, 10:22:18 AM  
+**Categories:** -  
+
+Article URL: https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/06/24/ai-data-centers-are-supercharging-new-battery-market/ Comments URL: https://news.ycombinator.com/item?id=48696939 Points: 2 # Comments: 1
+
+📖 [Read original article](https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/06/24/ai-data-centers-are-supercharging-new-battery-market/)
+
+---
+
+## 14. Ask HN: What GUI/desktop app do you use to keep track of different AI sessions?
+
+**Author:** howToTestFE  
+**Published:** 6/27/2026, 9:44:16 AM  
+**Categories:** -  
+
+What GUI apps do you use to manage different AI sessions?Command line (on Claude Code etc) is great but it is so hard to keep track of different sessions.I've tried the official apps (like Codex or Claude desktop), is there anything that is better? Comments URL: https://news.ycombinator.com/item?id=...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48696704)
+
+---
+
+## 15. What Everyone Gets Wrong About AI and Learning [video]
+
+**Author:** thunderbong  
+**Published:** 6/27/2026, 8:48:41 AM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=0xS68sl2D70 Comments URL: https://news.ycombinator.com/item?id=48696399 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=0xS68sl2D70)
+
+---
+
+## 16. Show HN: Brytlog – AI logger
 
 **Author:** guy-sela  
 **Published:** 6/27/2026, 8:06:02 AM  
@@ -23,7 +203,7 @@ Article URL: https://github.com/Guy-Sela/brytlog Comments URL: https://news.ycom
 
 ---
 
-## 2. The Calculator Discipline – AI-Assisted Disclosure Hallucinations
+## 17. The Calculator Discipline – AI-Assisted Disclosure Hallucinations
 
 **Author:** ethical  
 **Published:** 6/27/2026, 7:52:47 AM  
@@ -35,7 +215,7 @@ Article URL: https://zenodo.org/records/20393083 Comments URL: https://news.ycom
 
 ---
 
-## 3. There's Been a Subtle Shift in the AI Zeitgeist
+## 18. There's Been a Subtle Shift in the AI Zeitgeist
 
 **Author:** Alien1Being  
 **Published:** 6/27/2026, 6:30:52 AM  
@@ -47,7 +227,7 @@ Article URL: https://www.bloomberg.com/news/newsletters/2026-06-26/there-s-been-
 
 ---
 
-## 4. Tug: An IDE for AI Coding
+## 19. Tug: An IDE for AI Coding
 
 **Author:** azhenley  
 **Published:** 6/27/2026, 6:30:47 AM  
@@ -59,7 +239,7 @@ Article URL: https://github.com/tugtool/tugtool Comments URL: https://news.ycomb
 
 ---
 
-## 5. Why SpaceX Is the McDonald's of AI
+## 20. Why SpaceX Is the McDonald's of AI
 
 **Author:** mikelgan  
 **Published:** 6/27/2026, 6:30:07 AM  
@@ -68,185 +248,5 @@ Article URL: https://github.com/tugtool/tugtool Comments URL: https://news.ycomb
 Article URL: https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html Comments URL: https://news.ycombinator.com/item?id=48695727 Points: 2 # Comments: 1
 
 📖 [Read original article](https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html)
-
----
-
-## 6. Democrats and Republicans agree: AI is scary
-
-**Author:** andsoitis  
-**Published:** 6/27/2026, 5:43:21 AM  
-**Categories:** -  
-
-Article URL: https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary Comments URL: https://news.ycombinator.com/item?id=48695504 Points: 2 # Comments: 0
-
-📖 [Read original article](https://economist.com/united-states/2026/06/25/democrats-and-republicans-agree-ai-is-scary)
-
----
-
-## 7. Ford execs say they made a mistake when they replaced human engineers with AI
-
-**Author:** gscott  
-**Published:** 6/27/2026, 5:38:46 AM  
-**Categories:** -  
-
-Article URL: https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48695489 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.neowin.net/news/ford-execs-say-they-made-a-mistake-when-they-replaced-human-engineers-with-ai/)
-
----
-
-## 8. We measured whether AI obeys architecture rules. Even Opus ignored them 60%
-
-**Author:** davesheffer  
-**Published:** 6/27/2026, 5:38:30 AM  
-**Categories:** -  
-
-Article URL: https://hunch-pi.vercel.app/blog/post?slug=ai-ignores-your-architecture Comments URL: https://news.ycombinator.com/item?id=48695487 Points: 3 # Comments: 0
-
-📖 [Read original article](https://hunch-pi.vercel.app/blog/post?slug=ai-ignores-your-architecture)
-
----
-
-## 9. Show HN: OpenClaw Launch – deploy a managed OpenClaw AI agent in 30s
-
-**Author:** zackchew  
-**Published:** 6/27/2026, 5:37:36 AM  
-**Categories:** -  
-
-Article URL: https://openclawlaunch.com Comments URL: https://news.ycombinator.com/item?id=48695480 Points: 1 # Comments: 1
-
-📖 [Read original article](https://openclawlaunch.com)
-
----
-
-## 10. What Is an AI Intelligence Layer for Business Data?
-
-**Author:** corpusiq_io  
-**Published:** 6/27/2026, 5:31:30 AM  
-**Categories:** -  
-
-Article URL: https://www.corpusiq.io/blog/what-is-ai-intelligence-layer-business-data Comments URL: https://news.ycombinator.com/item?id=48695444 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.corpusiq.io/blog/what-is-ai-intelligence-layer-business-data)
-
----
-
-## 11. AI glasses help students cheat in exams – test-obsessed Asia is ground zero
-
-**Author:** billybuckwheat  
-**Published:** 6/27/2026, 4:53:07 AM  
-**Categories:** -  
-
-Article URL: https://www.rnz.co.nz/news/world/628396/ai-glasses-are-helping-students-cheat-in-exams-test-obsessed-asia-is-ground-zero Comments URL: https://news.ycombinator.com/item?id=48695248 Points: 5 # Comments: 1
-
-📖 [Read original article](https://www.rnz.co.nz/news/world/628396/ai-glasses-are-helping-students-cheat-in-exams-test-obsessed-asia-is-ground-zero)
-
----
-
-## 12. Promptetheus – Trace, detect, and auto-repair AI agent failures
-
-**Author:** tar-ive  
-**Published:** 6/27/2026, 4:37:00 AM  
-**Categories:** -  
-
-Article URL: https://github.com/obro79/promptetheus Comments URL: https://news.ycombinator.com/item?id=48695176 Points: 1 # Comments: 1
-
-📖 [Read original article](https://github.com/obro79/promptetheus)
-
----
-
-## 13. Isn't US Government trying to monopolize AI as a super power?
-
-**Author:** StizzurpXDD  
-**Published:** 6/27/2026, 3:57:33 AM  
-**Categories:** -  
-
-The US government recently gave a directive to OpenAI to delay the launch of it Fable 5 rival GPT 5.6 Sol. This comes after they have already put on hold the global public release of Claude Fable 5. Isn't this just creating an AI monopoly, where the most powerful AI models are restricted to only 'tr...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48694991)
-
----
-
-## 14. Find the right AI agents to build
-
-**Author:** mattmerrick  
-**Published:** 6/27/2026, 3:38:06 AM  
-**Categories:** -  
-
-Article URL: https://www.agentideahub.com Comments URL: https://news.ycombinator.com/item?id=48694897 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.agentideahub.com)
-
----
-
-## 15. US allows Anthropic to release Mythos AI to 'trusted' US organizations
-
-**Author:** swolpers  
-**Published:** 6/27/2026, 3:35:55 AM  
-**Categories:** -  
-
-Article URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/ Comments URL: https://news.ycombinator.com/item?id=48694885 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)
-
----
-
-## 16. Love Conquers Fear: Humanity, AI, and the Age of Abundance for All
-
-**Author:** ilreb  
-**Published:** 6/27/2026, 3:08:42 AM  
-**Categories:** -  
-
-Article URL: https://www.amazon.com/Love-Conquers-Fear-Humanity-Abundance-ebook/dp/B0GX32NPX5 Comments URL: https://news.ycombinator.com/item?id=48694760 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.amazon.com/Love-Conquers-Fear-Humanity-Abundance-ebook/dp/B0GX32NPX5)
-
----
-
-## 17. Threats to US payment rails helped trigger Bessent's AI worries
-
-**Author:** tiahura  
-**Published:** 6/27/2026, 3:02:28 AM  
-**Categories:** -  
-
-Article URL: https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails Comments URL: https://news.ycombinator.com/item?id=48694728 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.semafor.com/article/06/26/2026/bessent-engaged-on-ai-following-warnings-about-fed-payment-rails)
-
----
-
-## 18. AI Erodes a Legacy of Reading
-
-**Author:** domhudson  
-**Published:** 6/27/2026, 1:39:43 AM  
-**Categories:** -  
-
-Article URL: https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading Comments URL: https://news.ycombinator.com/item?id=48694322 Points: 11 # Comments: 4
-
-📖 [Read original article](https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading)
-
----
-
-## 19. Show HN: Boot a tiny app-making OS inside an AI chat
-
-**Author:** logn  
-**Published:** 6/27/2026, 1:28:33 AM  
-**Categories:** -  
-
-Article URL: https://hollingsworthd.github.io/RAu/ Comments URL: https://news.ycombinator.com/item?id=48694257 Points: 1 # Comments: 1
-
-📖 [Read original article](https://hollingsworthd.github.io/RAu/)
-
----
-
-## 20. Enterprise AI customers pulling back from OpenAI and Anthropic as costs mount
-
-**Author:** toomuchtodo  
-**Published:** 6/27/2026, 1:10:03 AM  
-**Categories:** -  
-
-Article URL: https://qz.com/enterprise-ai-spending-openai-anthropic-roi-pullback-062626 Comments URL: https://news.ycombinator.com/item?id=48694123 Points: 5 # Comments: 5
-
-📖 [Read original article](https://qz.com/enterprise-ai-spending-openai-anthropic-roi-pullback-062626)
 
 ---
