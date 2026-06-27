@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-26"
 date: "2026-06-26"
 source: "qbitai"
-count: 9
+count: 8
 ---
 
 # qbitai - 2026-06-26
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -27,7 +27,7 @@ count: 9
 
 **Author:** Jay  
 **Published:** 6/26/2026, 8:05:07 AM  
-**Categories:** 资讯, 首页轮播  
+**Categories:** 资讯  
 
 Coding为王
 
@@ -104,17 +104,5 @@ Coding为王
 
 
 📖 [Read original article](https://www.qbitai.com/2026/06/438698.html)
-
----
-
-## 9. 库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了
-
-**Author:** 衡宇  
-**Published:** 6/26/2026, 1:26:27 AM  
-**Categories:** 资讯, iPad, iPhone, 消费电子, 苹果  
-
-Macbook涨了2500元
-
-📖 [Read original article](https://www.qbitai.com/2026/06/438690.html)
 
 ---
