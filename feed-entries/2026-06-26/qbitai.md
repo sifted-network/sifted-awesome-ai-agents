@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-26"
 date: "2026-06-26"
 source: "qbitai"
-count: 8
+count: 5
 ---
 
 # qbitai - 2026-06-26
 
-8 items collected.
+5 items collected.
 
 ---
 
@@ -68,41 +68,5 @@ Coding为王
 共建工业物理智能“数据底座与智能大脑”
 
 📖 [Read original article](https://www.qbitai.com/2026/06/438741.html)
-
----
-
-## 6. 让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题
-
-**Author:** 思邈  
-**Published:** 6/26/2026, 3:47:08 AM  
-**Categories:** 资讯, 它石智航, 精细操作, 预判接触  
-
-提前200毫秒预判
-
-📖 [Read original article](https://www.qbitai.com/2026/06/438701.html)
-
----
-
-## 7. 英伟达MoE新开源：一行import，微调加速3.7倍
-
-**Author:** 鱼羊  
-**Published:** 6/26/2026, 3:23:35 AM  
-**Categories:** 资讯, MoE, 英伟达  
-
-在Transformers v5的基础上，增加了专家并行、DeepEP和TransformerEngine
-
-📖 [Read original article](https://www.qbitai.com/2026/06/438703.html)
-
----
-
-## 8. WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！
-
-**Author:** 量子位的朋友们  
-**Published:** 6/26/2026, 2:58:50 AM  
-**Categories:** 资讯, 36氪, WAVES  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/06/438698.html)
 
 ---
