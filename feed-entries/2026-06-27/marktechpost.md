@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-27"
 date: "2026-06-27"
 source: "MarkTechPost"
-count: 1
+count: 2
 ---
 
 # MarkTechPost - 2026-06-27
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. Building Supervised Fine-Tuning Data from NVIDIA Open-SWE-Traces: Trajectory Parsing, Patch Analysis, Token Budgets, and Tool-Use Metrics
+## 1. Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read
+
+**Author:** Asif Razzaq  
+**Published:** 6/27/2026, 8:38:26 AM  
+**Categories:** Agentic AI, AI Agents, Editors Pick, New Releases, Software Engineering, Staff, Tech News  
+
+Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both engineers and AI agents build using the same API. The project is in Beta, MIT-licensed, and grew inside Meta over eight years. The post Meta&#8217;s Astr...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/)
+
+---
+
+## 2. Building Supervised Fine-Tuning Data from NVIDIA Open-SWE-Traces: Trajectory Parsing, Patch Analysis, Token Budgets, and Tool-Use Metrics
 
 **Author:** Sana Hassan  
 **Published:** 6/27/2026, 12:02:33 AM  
