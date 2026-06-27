@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-26"
 date: "2026-06-26"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-06-26
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows
+## 1. Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro
+
+**Author:** Asif Razzaq  
+**Published:** 6/26/2026, 11:31:29 PM  
+**Categories:** Agentic AI, AI Agents, Editors Pick, Software Engineering, Staff, Tech News  
+
+A Cursor study shows coding agents retrieve known fixes instead of deriving them, inflating SWE-bench Pro scores through runtime contamination. The post Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro appeared first on MarkTechPost.
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro/)
+
+---
+
+## 2. Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows
 
 **Author:** Michal Sutter  
 **Published:** 6/26/2026, 7:31:21 PM  
@@ -23,7 +35,7 @@ Perplexity's Computer for Counsel extends Perplexity Computer to legal teams. It
 
 ---
 
-## 2. OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access
+## 3. OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access
 
 **Author:** Michal Sutter  
 **Published:** 6/26/2026, 7:18:58 PM  
@@ -35,7 +47,7 @@ OpenAI's GPT-5.6 family adds tiered models with max and ultra reasoning. Here is
 
 ---
 
-## 3. Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon
+## 4. Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon
 
 **Author:** Asif Razzaq  
 **Published:** 6/26/2026, 8:48:39 AM  
@@ -47,7 +59,7 @@ Apple released container 1.0, an open-source Swift tool running Linux containers
 
 ---
 
-## 4. Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers
+## 5. Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers
 
 **Author:** Sana Hassan  
 **Published:** 6/26/2026, 8:00:07 AM  
