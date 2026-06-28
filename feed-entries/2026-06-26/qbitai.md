@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-26"
 date: "2026-06-26"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-06-26
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Coding为王
 精准识别设计系统
 
 📖 [Read original article](https://www.qbitai.com/2026/06/438750.html)
-
----
-
-## 5. 华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”
-
-**Author:** 量子位的朋友们  
-**Published:** 6/26/2026, 4:00:59 AM  
-**Categories:** 资讯, 华勤技术, 正行创新  
-
-共建工业物理智能“数据底座与智能大脑”
-
-📖 [Read original article](https://www.qbitai.com/2026/06/438741.html)
 
 ---
