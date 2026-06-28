@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-26"
 date: "2026-06-26"
 source: "qbitai"
-count: 2
+count: 1
 ---
 
 # qbitai - 2026-06-26
 
-2 items collected.
+1 items collected.
 
 ---
 
@@ -20,17 +20,5 @@ count: 2
 
 
 📖 [Read original article](https://www.qbitai.com/2026/06/438887.html)
-
----
-
-## 2. 谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的
-
-**Author:** Jay  
-**Published:** 6/26/2026, 8:05:07 AM  
-**Categories:** 资讯  
-
-Coding为王
-
-📖 [Read original article](https://www.qbitai.com/2026/06/438848.html)
 
 ---
