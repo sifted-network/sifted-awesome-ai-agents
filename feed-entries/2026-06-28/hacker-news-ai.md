@@ -11,7 +11,223 @@ count: 20
 
 ---
 
-## 1. Google rejects claims of AI in Search hurting web traffic
+## 1. Google limits Meta's use of its Gemini AI models
+
+**Author:** root-parent  
+**Published:** 6/28/2026, 1:30:06 PM  
+**Categories:** -  
+
+Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)
+
+---
+
+## 2. China companies Z.Ai,China 360 claim having cybersec AI models to match Mythos
+
+**Author:** king_zee  
+**Published:** 6/28/2026, 1:28:10 PM  
+**Categories:** -  
+
+Article URL: https://www.reuters.com/legal/litigation/chinas-360-says-it-has-developed-tools-match-anthropics-mythos-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48707090 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.reuters.com/legal/litigation/chinas-360-says-it-has-developed-tools-match-anthropics-mythos-2026-06-24/)
+
+---
+
+## 3. Revenue at Risk from AI Displacement
+
+**Author:** tas101  
+**Published:** 6/28/2026, 12:57:45 PM  
+**Categories:** -  
+
+Article URL: https://zenodo.org/records/20999945 Comments URL: https://news.ycombinator.com/item?id=48706896 Points: 1 # Comments: 0
+
+📖 [Read original article](https://zenodo.org/records/20999945)
+
+---
+
+## 4. After the AI Hype – What's Real, and What's Next – Richard Campbell – 2026
+
+**Author:** tcp_handshaker  
+**Published:** 6/28/2026, 12:38:24 PM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=uWnUnMphmPM Comments URL: https://news.ycombinator.com/item?id=48706777 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=uWnUnMphmPM)
+
+---
+
+## 5. Guy in his basement creates a drug to treat Alzheimer's disease using AI
+
+**Author:** binyu  
+**Published:** 6/28/2026, 12:23:25 PM  
+**Categories:** -  
+
+Article URL: https://twitter.com/DouglasYaoDY/status/2070904914050797582 Comments URL: https://news.ycombinator.com/item?id=48706690 Points: 18 # Comments: 21
+
+📖 [Read original article](https://twitter.com/DouglasYaoDY/status/2070904914050797582)
+
+---
+
+## 6. NASA tests AI medic for astronauts too far from Earth to call a doctor
+
+**Author:** LorenDB  
+**Published:** 6/28/2026, 12:23:07 PM  
+**Categories:** -  
+
+Article URL: https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828 Comments URL: https://news.ycombinator.com/item?id=48706688 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828)
+
+---
+
+## 7. Nearly Three-Quarters of Dutch Responses to EU Tobacco Rules Were AI-Generated
+
+**Author:** stefanvdw1  
+**Published:** 6/28/2026, 12:04:39 PM  
+**Categories:** -  
+
+Article URL: https://pointer.kro-ncrv.nl/meerderheid-nederlandse-inspraak-op-strengere-eu-tabakswet-afkomstig-van-ai-tool-philip-morris Comments URL: https://news.ycombinator.com/item?id=48706616 Points: 4 # Comments: 0
+
+📖 [Read original article](https://pointer.kro-ncrv.nl/meerderheid-nederlandse-inspraak-op-strengere-eu-tabakswet-afkomstig-van-ai-tool-philip-morris)
+
+---
+
+## 8. Show HN: Genius AI Detector
+
+**Author:** Rudism  
+**Published:** 6/28/2026, 11:43:19 AM  
+**Categories:** -  
+
+Article URL: https://geniusaidetector.com/ Comments URL: https://news.ycombinator.com/item?id=48706490 Points: 2 # Comments: 0
+
+📖 [Read original article](https://geniusaidetector.com/)
+
+---
+
+## 9. Pelican playing a violin. How to create SVGs with AI
+
+**Author:** furstenheim  
+**Published:** 6/28/2026, 11:24:05 AM  
+**Categories:** -  
+
+Article URL: https://furstenheim.substack.com/p/creating-svgs-with-ai Comments URL: https://news.ycombinator.com/item?id=48706394 Points: 2 # Comments: 0
+
+📖 [Read original article](https://furstenheim.substack.com/p/creating-svgs-with-ai)
+
+---
+
+## 10. Cate Blanchett is taking on AI
+
+**Author:** CWhiting  
+**Published:** 6/28/2026, 11:09:45 AM  
+**Categories:** -  
+
+Article URL: https://www.euronews.com/culture/2026/06/24/cate-blanchett-launches-free-tool-to-help-people-protect-identity-from-ai Comments URL: https://news.ycombinator.com/item?id=48706321 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.euronews.com/culture/2026/06/24/cate-blanchett-launches-free-tool-to-help-people-protect-identity-from-ai)
+
+---
+
+## 11. Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement
+
+**Author:** Mohil_Sharma  
+**Published:** 6/28/2026, 11:09:20 AM  
+**Categories:** -  
+
+Hi HN, I’m a solo developer and built AgentWatch to solve a problem I kept running into while building AI agents: preventing runaway loops and unexpected LLM spend before requests reach the model. AgentWatch sits in front of OpenAI, Anthropic, Gemini, Bedrock, Azure OpenAI, Groq, and others to enfor...
+
+📖 [Read original article](https://agent-watch.dev/)
+
+---
+
+## 12. YC AI Investment Trends 2026: Where the US AI Market Is Heading
+
+**Author:** aishwaryashthe  
+**Published:** 6/28/2026, 10:54:28 AM  
+**Categories:** -  
+
+Article URL: https://medium.com/@aishwaryaadyanthaya1994/yc-ai-investment-trends-2026-where-the-us-ai-market-is-heading-07ea828cecf8 Comments URL: https://news.ycombinator.com/item?id=48706228 Points: 2 # Comments: 0
+
+📖 [Read original article](https://medium.com/@aishwaryaadyanthaya1994/yc-ai-investment-trends-2026-where-the-us-ai-market-is-heading-07ea828cecf8)
+
+---
+
+## 13. Show HN: role-model, a router for hybrid local/cloud AI
+
+**Author:** try-working  
+**Published:** 6/28/2026, 10:46:08 AM  
+**Categories:** -  
+
+Hey everyone, I'm launching role-model today: a routing protocol, a reference router runtime, and an extension for Pi that allows for better informed routing decisions.role-model is mostly deterministic, with fallback to a controller model, that routes requests based on a chosen routing strategy. th...
+
+📖 [Read original article](https://github.com/try-works/role-model)
+
+---
+
+## 14. Cambium AI
+
+**Author:** pkjaslam  
+**Published:** 6/28/2026, 10:24:05 AM  
+**Categories:** -  
+
+Article URL: https://github.com/pkjaslam/Cambium_AI Comments URL: https://news.ycombinator.com/item?id=48706088 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/pkjaslam/Cambium_AI)
+
+---
+
+## 15. China Has Matched Anthropic in Cybersecurity, Resetting AI Race
+
+**Author:** watchdogtimer  
+**Published:** 6/28/2026, 10:22:14 AM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2 Comments URL: https://news.ycombinator.com/item?id=48706080 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2)
+
+---
+
+## 16. Software Taste vs. Slop in the Age of AI – TWSoftwareDev26
+
+**Author:** gherlein  
+**Published:** 6/28/2026, 9:51:28 AM  
+**Categories:** -  
+
+Article URL: https://blog.herlein.com/post/wisdom-in-specs/ Comments URL: https://news.ycombinator.com/item?id=48705898 Points: 2 # Comments: 1
+
+📖 [Read original article](https://blog.herlein.com/post/wisdom-in-specs/)
+
+---
+
+## 17. If You Can Facilitate a Retrospective, You Can Audit Your AI
+
+**Author:** swolpers  
+**Published:** 6/28/2026, 9:21:55 AM  
+**Categories:** -  
+
+Article URL: https://age-of-product.com/ai-delegation-audit/ Comments URL: https://news.ycombinator.com/item?id=48705737 Points: 2 # Comments: 0
+
+📖 [Read original article](https://age-of-product.com/ai-delegation-audit/)
+
+---
+
+## 18. You can now run Max AI models on Apple Silicon
+
+**Author:** melodyogonna  
+**Published:** 6/28/2026, 8:55:28 AM  
+**Categories:** -  
+
+Article URL: https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283 Comments URL: https://news.ycombinator.com/item?id=48705585 Points: 1 # Comments: 0
+
+📖 [Read original article](https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283)
+
+---
+
+## 19. Google rejects claims of AI in Search hurting web traffic
 
 **Author:** vednig  
 **Published:** 6/28/2026, 8:27:32 AM  
@@ -23,230 +239,14 @@ Article URL: https://indianexpress.com/article/technology/artificial-intelligenc
 
 ---
 
-## 2. The Real Cost of Using AI in 2026
+## 20. The Real Cost of Using AI in 2026
 
 **Author:** adlrocha  
 **Published:** 6/28/2026, 8:14:38 AM  
 **Categories:** -  
 
-Article URL: https://adlrocha.substack.com/p/adlrocha-the-real-cost-of-using-ai Comments URL: https://news.ycombinator.com/item?id=48705401 Points: 1 # Comments: 0
+Article URL: https://adlrocha.substack.com/p/adlrocha-the-real-cost-of-using-ai Comments URL: https://news.ycombinator.com/item?id=48705401 Points: 3 # Comments: 0
 
 📖 [Read original article](https://adlrocha.substack.com/p/adlrocha-the-real-cost-of-using-ai)
-
----
-
-## 3. Policymakers can prep for a potential AI job apocalypse
-
-**Author:** m-hodges  
-**Published:** 6/28/2026, 8:01:01 AM  
-**Categories:** -  
-
-Article URL: https://www.wordsinsearchlight.org/p/how-policymakers-can-prep-for-a-potential Comments URL: https://news.ycombinator.com/item?id=48705339 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.wordsinsearchlight.org/p/how-policymakers-can-prep-for-a-potential)
-
----
-
-## 4. AI Is the Best Thing to Happen to Security
-
-**Author:** ilreb  
-**Published:** 6/28/2026, 7:28:33 AM  
-**Categories:** -  
-
-Article URL: https://badshah.io/blog/ai-is-the-best-thing-to-happen-to-security/ Comments URL: https://news.ycombinator.com/item?id=48705198 Points: 2 # Comments: 0
-
-📖 [Read original article](https://badshah.io/blog/ai-is-the-best-thing-to-happen-to-security/)
-
----
-
-## 5. Pentagon Sees Bigger Role for AI in Setting Military Targets
-
-**Author:** yurivish  
-**Published:** 6/28/2026, 6:38:05 AM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-06-25/pentagon-sees-broader-role-for-ai-in-setting-military-targets Comments URL: https://news.ycombinator.com/item?id=48704962 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-25/pentagon-sees-broader-role-for-ai-in-setting-military-targets)
-
----
-
-## 6. AI Assistant for Amazon
-
-**Author:** aniruddhaikhar  
-**Published:** 6/28/2026, 6:32:42 AM  
-**Categories:** -  
-
-Article URL: https://chromewebstore.google.com/detail/ai-assistant-for-amazon/ohpekhndmbmkpdoikmphbmdpailacjeo Comments URL: https://news.ycombinator.com/item?id=48704938 Points: 2 # Comments: 0
-
-📖 [Read original article](https://chromewebstore.google.com/detail/ai-assistant-for-amazon/ohpekhndmbmkpdoikmphbmdpailacjeo)
-
----
-
-## 7. Aileadgenr.com – AI lead generation tool for finding potential B2B customers
-
-**Author:** kilincarslan  
-**Published:** 6/28/2026, 6:13:58 AM  
-**Categories:** -  
-
-Article URL: https://aileadgenr.com/en Comments URL: https://news.ycombinator.com/item?id=48704870 Points: 2 # Comments: 0
-
-📖 [Read original article](https://aileadgenr.com/en)
-
----
-
-## 8. Google caps Meta's Gemini use as AI demand strains capacity
-
-**Author:** uxhacker  
-**Published:** 6/28/2026, 6:05:37 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378 Comments URL: https://news.ycombinator.com/item?id=48704836 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378)
-
----
-
-## 9. AI is creating America's next underclass
-
-**Author:** theanonymousone  
-**Published:** 6/28/2026, 5:49:53 AM  
-**Categories:** -  
-
-Article URL: https://thehill.com/opinion/technology/5942757-ai-demands-new-social-norms/ Comments URL: https://news.ycombinator.com/item?id=48704759 Points: 2 # Comments: 1
-
-📖 [Read original article](https://thehill.com/opinion/technology/5942757-ai-demands-new-social-norms/)
-
----
-
-## 10. Oracle stock worst week since 2001 dot-com bust, AI financing concerns escalate
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 6/28/2026, 5:41:20 AM  
-**Categories:** -  
-
-Article URL: https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html Comments URL: https://news.ycombinator.com/item?id=48704720 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html)
-
----
-
-## 11. How to Spot AI Maps
-
-**Author:** bulla  
-**Published:** 6/28/2026, 4:55:24 AM  
-**Categories:** -  
-
-Article URL: https://warmapper.substack.com/p/how-to-spot-ai-maps Comments URL: https://news.ycombinator.com/item?id=48704490 Points: 3 # Comments: 0
-
-📖 [Read original article](https://warmapper.substack.com/p/how-to-spot-ai-maps)
-
----
-
-## 12. I made a game that teaches you how AI works
-
-**Author:** tylersuard  
-**Published:** 6/28/2026, 4:50:27 AM  
-**Categories:** -  
-
-Article URL: https://github.com/Tylersuard/Synapse_neural_net_training_game/tree/main Comments URL: https://news.ycombinator.com/item?id=48704463 Points: 2 # Comments: 1
-
-📖 [Read original article](https://github.com/Tylersuard/Synapse_neural_net_training_game/tree/main)
-
----
-
-## 13. Cerberus – a local firewall for AI agents' tool calls
-
-**Author:** cerberussec  
-**Published:** 6/28/2026, 4:49:30 AM  
-**Categories:** -  
-
-Article URL: https://github.com/Adirdabush1/cerberus Comments URL: https://news.ycombinator.com/item?id=48704458 Points: 3 # Comments: 0
-
-📖 [Read original article](https://github.com/Adirdabush1/cerberus)
-
----
-
-## 14. An AI Chief of Staff
-
-**Author:** bsuhas  
-**Published:** 6/28/2026, 4:32:05 AM  
-**Categories:** -  
-
-Article URL: https://github.com/suhasbhairav/ai-chief-of-staff Comments URL: https://news.ycombinator.com/item?id=48704381 Points: 3 # Comments: 0
-
-📖 [Read original article](https://github.com/suhasbhairav/ai-chief-of-staff)
-
----
-
-## 15. AI Berkshire
-
-**Author:** grajmanu  
-**Published:** 6/28/2026, 4:20:17 AM  
-**Categories:** -  
-
-Article URL: https://github.com/xbtlin/ai-berkshire Comments URL: https://news.ycombinator.com/item?id=48704305 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/xbtlin/ai-berkshire)
-
----
-
-## 16. AI Is Making Silicon Valley Productive, Anxious and Afraid to Log Off
-
-**Author:** uzyn  
-**Published:** 6/28/2026, 4:13:55 AM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers Comments URL: https://news.ycombinator.com/item?id=48704271 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers)
-
----
-
-## 17. I wrote a free book about Scripture, AI, and language
-
-**Author:** seomister7  
-**Published:** 6/28/2026, 4:13:07 AM  
-**Categories:** -  
-
-Article URL: https://wordnamefire.com/ Comments URL: https://news.ycombinator.com/item?id=48704265 Points: 2 # Comments: 0
-
-📖 [Read original article](https://wordnamefire.com/)
-
----
-
-## 18. Virtual AI police chief introduced in Osaka amid rising imposter scams
-
-**Author:** rawgabbit  
-**Published:** 6/28/2026, 3:47:13 AM  
-**Categories:** -  
-
-Article URL: https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c Comments URL: https://news.ycombinator.com/item?id=48704142 Points: 2 # Comments: 0
-
-📖 [Read original article](https://mainichi.jp/english/articles/20260627/p2g/00m/0na/029000c)
-
----
-
-## 19. AI Realtime Commentator for the World Cup
-
-**Author:** aurenvale  
-**Published:** 6/28/2026, 3:31:04 AM  
-**Categories:** -  
-
-Article URL: https://twitter.com/zicohacks/status/2070401037018788301 Comments URL: https://news.ycombinator.com/item?id=48704059 Points: 4 # Comments: 0
-
-📖 [Read original article](https://twitter.com/zicohacks/status/2070401037018788301)
-
----
-
-## 20. We can't retrain our way out of AI's economic disruption
-
-**Author:** keeda  
-**Published:** 6/28/2026, 3:10:54 AM  
-**Categories:** -  
-
-Article URL: https://mollykinder2.substack.com/p/we-cant-retrain-our-way-out-of-ais Comments URL: https://news.ycombinator.com/item?id=48703971 Points: 3 # Comments: 0
-
-📖 [Read original article](https://mollykinder2.substack.com/p/we-cant-retrain-our-way-out-of-ais)
 
 ---
