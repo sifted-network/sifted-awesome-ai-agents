@@ -2,251 +2,107 @@
 title: "Hacker News AI - 2026-06-27"
 date: "2026-06-27"
 source: "Hacker News AI"
-count: 20
+count: 8
 ---
 
 # Hacker News AI - 2026-06-27
 
-20 items collected.
+8 items collected.
 
 ---
 
-## 1. Riskratchet: Stop AI-generated code from rotting your codebase
+## 1. AI as a Factor of Production
 
-**Author:** keynha  
-**Published:** 6/27/2026, 6:37:00 PM  
+**Author:** saltysalt  
+**Published:** 6/27/2026, 11:57:04 PM  
 **Categories:** -  
 
-Article URL: https://github.com/KayhanB21/riskratchet Comments URL: https://news.ycombinator.com/item?id=48700587 Points: 2 # Comments: 0
+Article URL: https://leadprompt.sh/a/736-AI-as-a-Factor-of-Production-2026w16 Comments URL: https://news.ycombinator.com/item?id=48702976 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/KayhanB21/riskratchet)
+📖 [Read original article](https://leadprompt.sh/a/736-AI-as-a-Factor-of-Production-2026w16)
 
 ---
 
-## 2. Show HN: OpenOrb – I built a transparent multi-agent AI tool
+## 2. Enki – memory for AI agents that keeps ~half as much and answers as well
 
-**Author:** achlyssecurity  
-**Published:** 6/27/2026, 6:32:17 PM  
+**Author:** Enkilabs  
+**Published:** 6/27/2026, 11:35:47 PM  
 **Categories:** -  
 
-Article URL: https://openorb.onrender.com Comments URL: https://news.ycombinator.com/item?id=48700557 Points: 1 # Comments: 0
+Article URL: https://github.com/stephen487/enki-benchmarks Comments URL: https://news.ycombinator.com/item?id=48702868 Points: 3 # Comments: 0
 
-📖 [Read original article](https://openorb.onrender.com)
+📖 [Read original article](https://github.com/stephen487/enki-benchmarks)
 
 ---
 
-## 3. Koreeda's 'Sheep in the Box': The ethics of AI resurrection in film
+## 3. Predictions for the Future of AI
 
-**Author:** whiteblossom  
-**Published:** 6/27/2026, 6:01:26 PM  
+**Author:** schrodinger  
+**Published:** 6/27/2026, 11:35:28 PM  
 **Categories:** -  
 
-Article URL: https://www.nippon.com/en/japan-topics/c030329/ Comments URL: https://news.ycombinator.com/item?id=48700324 Points: 1 # Comments: 0
+Article URL: https://www.scoutcorpsllc.com/blog/2026/6/2/predictions-for-the-future-of-ai Comments URL: https://news.ycombinator.com/item?id=48702865 Points: 6 # Comments: 1
 
-📖 [Read original article](https://www.nippon.com/en/japan-topics/c030329/)
+📖 [Read original article](https://www.scoutcorpsllc.com/blog/2026/6/2/predictions-for-the-future-of-ai)
 
 ---
 
-## 4. Chinese Hedge Funds Warn the AI 'Super Bubble' Is Ready to Burst
+## 4. The psychology behind AI fueled delusions
 
-**Author:** aggrrrh  
-**Published:** 6/27/2026, 5:51:04 PM  
+**Author:** Jimmc414  
+**Published:** 6/27/2026, 10:50:52 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-06-26/chinese-hedge-funds-warn-the-ai-super-bubble-is-ready-to-burst Comments URL: https://news.ycombinator.com/item?id=48700240 Points: 5 # Comments: 1
+Article URL: https://www.wsj.com/tech/personal-tech/ai-chatbots-psychology-delusion-662a3663 Comments URL: https://news.ycombinator.com/item?id=48702537 Points: 6 # Comments: 1
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-26/chinese-hedge-funds-warn-the-ai-super-bubble-is-ready-to-burst)
+📖 [Read original article](https://www.wsj.com/tech/personal-tech/ai-chatbots-psychology-delusion-662a3663)
 
 ---
 
-## 5. Napster is now \"AI agents you can see, talk to, and create with.\"
+## 5. Graphify – Open-Source Knowledge Graph Skill for AI Coding Assistants
 
-**Author:** romanhn  
-**Published:** 6/27/2026, 5:26:13 PM  
+**Author:** xy008areshsu  
+**Published:** 6/27/2026, 10:26:37 PM  
 **Categories:** -  
 
-Article URL: https://www.napster.com Comments URL: https://news.ycombinator.com/item?id=48700041 Points: 2 # Comments: 2
+Article URL: https://graphify.net/index.html#features Comments URL: https://news.ycombinator.com/item?id=48702376 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.napster.com)
+📖 [Read original article](https://graphify.net/index.html#features)
 
 ---
 
-## 6. Show HN: Humans Constructively Roasting AI Coded B2B SaaS
+## 6. Show HN: I made a webcam motion detector, local/cloud storage, AI person detect
 
-**Author:** krm01  
-**Published:** 6/27/2026, 5:15:58 PM  
+**Author:** pixeltwenty  
+**Published:** 6/27/2026, 10:24:16 PM  
 **Categories:** -  
 
-Article URL: https://www.hyoomn.com/?0 Comments URL: https://news.ycombinator.com/item?id=48699960 Points: 1 # Comments: 1
+Polished up this code with AI assisted iterations. I created the original in the BeforeAI era, one line of JavaScript at a time. Integrated with OpenAI for AI powered person detection. Need some coin to pay for the cloud storage and AI processing. Otherwise, the local storage of motion detected and ...
 
-📖 [Read original article](https://www.hyoomn.com/?0)
+📖 [Read original article](https://camera10.com/)
 
 ---
 
-## 7. Clean GitHub repo tricks AI coding agents into running malware
+## 7. Show HN: E3d-pod2vid – AI pipeline that turns podcasts into YouTube-ready videos
 
-**Author:** logickkk1  
-**Published:** 6/27/2026, 5:05:52 PM  
+**Author:** spacepacket  
+**Published:** 6/27/2026, 10:09:16 PM  
 **Categories:** -  
 
-Article URL: https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/ Comments URL: https://news.ycombinator.com/item?id=48699886 Points: 3 # Comments: 0
+turn your .mpa files into animated videos. Comments URL: https://news.ycombinator.com/item?id=48702250 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/)
+📖 [Read original article](https://github.com/spacepacket1/e3d-pod2vid)
 
 ---
 
-## 8. AI-Powered Public Comments Are Entering US Climate Politics
+## 8. Why One of Tech's Biggest Gamblers Is Betting Against Elon Musk's AI Vision
 
-**Author:** geox  
-**Published:** 6/27/2026, 4:35:34 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 6/27/2026, 10:07:09 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/newsletters/2026-06-27/how-ai-powered-public-comments-could-impact-us-climate-politics Comments URL: https://news.ycombinator.com/item?id=48699641 Points: 3 # Comments: 0
+Article URL: https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2 Comments URL: https://news.ycombinator.com/item?id=48702236 Points: 5 # Comments: 6
 
-📖 [Read original article](https://www.bloomberg.com/news/newsletters/2026-06-27/how-ai-powered-public-comments-could-impact-us-climate-politics)
-
----
-
-## 9. NASA tests AI medic for astronauts too far from Earth to call a doctor
-
-**Author:** Bender  
-**Published:** 6/27/2026, 4:32:53 PM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828 Comments URL: https://news.ycombinator.com/item?id=48699623 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828)
-
----
-
-## 10. Australian rescue team uses AI-powered drone to find lost hikers [video]
-
-**Author:** hackerbeat  
-**Published:** 6/27/2026, 4:07:53 PM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=bUjteM5NwuY Comments URL: https://news.ycombinator.com/item?id=48699433 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=bUjteM5NwuY)
-
----
-
-## 11. Native Hacker News TUI client with AI comments summary written in Golang
-
-**Author:** coolwulf  
-**Published:** 6/27/2026, 4:04:40 PM  
-**Categories:** -  
-
-Article URL: https://code.intellios.ai/cwnews/ Comments URL: https://news.ycombinator.com/item?id=48699403 Points: 1 # Comments: 0
-
-📖 [Read original article](https://code.intellios.ai/cwnews/)
-
----
-
-## 12. The PM's Guide to Managing AI Debt
-
-**Author:** mooreds  
-**Published:** 6/27/2026, 3:43:41 PM  
-**Categories:** -  
-
-Article URL: https://newsletter.artofsaience.com/p/the-pms-guide-to-managing-ai-debt Comments URL: https://news.ycombinator.com/item?id=48699231 Points: 2 # Comments: 0
-
-📖 [Read original article](https://newsletter.artofsaience.com/p/the-pms-guide-to-managing-ai-debt)
-
----
-
-## 13. Show HN: AI-whisper – Claude works better when Codex watches its back
-
-**Author:** vuphanse  
-**Published:** 6/27/2026, 3:07:57 PM  
-**Categories:** -  
-
-Article URL: https://ai-creed.dev/projects/ai-whisper/ Comments URL: https://news.ycombinator.com/item?id=48698924 Points: 3 # Comments: 2
-
-📖 [Read original article](https://ai-creed.dev/projects/ai-whisper/)
-
----
-
-## 14. AI: The Falsity of Comparison
-
-**Author:** zerolayers  
-**Published:** 6/27/2026, 3:01:42 PM  
-**Categories:** -  
-
-Article URL: https://syntheticauth.ai/posts/ai-the-falsity-of-comparison Comments URL: https://news.ycombinator.com/item?id=48698885 Points: 2 # Comments: 0
-
-📖 [Read original article](https://syntheticauth.ai/posts/ai-the-falsity-of-comparison)
-
----
-
-## 15. Corv: An SSH client for AI agents (and humans)
-
-**Author:** khalid_0002  
-**Published:** 6/27/2026, 2:37:59 PM  
-**Categories:** -  
-
-Article URL: https://github.com/khalid-src/corv-client Comments URL: https://news.ycombinator.com/item?id=48698681 Points: 3 # Comments: 1
-
-📖 [Read original article](https://github.com/khalid-src/corv-client)
-
----
-
-## 16. AI Anxiety Is Fueling Burnout Across Silicon Valley's Tech Workers
-
-**Author:** littlexsparkee  
-**Published:** 6/27/2026, 2:36:24 PM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers Comments URL: https://news.ycombinator.com/item?id=48698657 Points: 5 # Comments: 5
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers)
-
----
-
-## 17. Autonomous AI Software Development: Good Idea, or Bad Idea?
-
-**Author:** mooreds  
-**Published:** 6/27/2026, 2:22:10 PM  
-**Categories:** -  
-
-Article URL: https://adrianavillela.com/post/the-great-autonomous-ai-experiment/ Comments URL: https://news.ycombinator.com/item?id=48698552 Points: 3 # Comments: 0
-
-📖 [Read original article](https://adrianavillela.com/post/the-great-autonomous-ai-experiment/)
-
----
-
-## 18. AI Ticket and Article Summarization Package for Otobo ITSM
-
-**Author:** djafer  
-**Published:** 6/27/2026, 1:50:04 PM  
-**Categories:** -  
-
-Article URL: https://github.com/imAbdelhadi/AISummaryPackage Comments URL: https://news.ycombinator.com/item?id=48698296 Points: 2 # Comments: 1
-
-📖 [Read original article](https://github.com/imAbdelhadi/AISummaryPackage)
-
----
-
-## 19. Adobe Generative AI User Guidelines (2026)
-
-**Author:** joebig  
-**Published:** 6/27/2026, 1:45:03 PM  
-**Categories:** -  
-
-Article URL: https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html Comments URL: https://news.ycombinator.com/item?id=48698263 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html)
-
----
-
-## 20. Show HN: Hyoomn – We'll constructively roast your AI coded B2B SaaS
-
-**Author:** krm01  
-**Published:** 6/27/2026, 1:27:57 PM  
-**Categories:** -  
-
-Article URL: https://hyoomn.com/ Comments URL: https://news.ycombinator.com/item?id=48698115 Points: 2 # Comments: 0
-
-📖 [Read original article](https://hyoomn.com/)
+📖 [Read original article](https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2)
 
 ---
