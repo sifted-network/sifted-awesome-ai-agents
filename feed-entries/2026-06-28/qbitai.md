@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-28"
 date: "2026-06-28"
 source: "qbitai"
-count: 4
+count: 3
 ---
 
 # qbitai - 2026-06-28
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ count: 4
 GitHub 20k Star
 
 📖 [Read original article](https://www.qbitai.com/2026/06/439515.html)
-
----
-
-## 4. 一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员
-
-**Author:** 林樾  
-**Published:** 6/28/2026, 6:04:17 AM  
-**Categories:** 资讯, OCR, 百度  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/06/439464.html)
 
 ---
