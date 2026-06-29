@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-06-29"
 date: "2026-06-29"
 source: "MarkTechPost"
-count: 1
+count: 2
 ---
 
 # MarkTechPost - 2026-06-29
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills
+## 1. NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery
+
+**Author:** Asif Razzaq  
+**Published:** 6/29/2026, 7:06:47 PM  
+**Categories:** Agentic AI, AI Agents, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Software Engineering, Staff  
+
+NVIDIA's open-source BioNeMo Agent Toolkit turns biomolecular models like OpenFold3, DiffDock, and GenMol into documented, callable skills for AI agents. Each skill describes a model's purpose, inputs, artifacts, and failure modes, so an agent can select, run, and interpret it. In NVIDIA's benchmark...
+
+📖 [Read original article](https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/)
+
+---
+
+## 2. Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills
 
 **Author:** Asif Razzaq  
 **Published:** 6/29/2026, 10:42:47 AM  
