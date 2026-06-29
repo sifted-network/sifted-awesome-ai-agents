@@ -2,12 +2,12 @@
 title: "qbitai - 2026-06-27"
 date: "2026-06-27"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-06-27
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ VLM- R1之后再次出手！全球首个端侧流式多模态来了！
 28页干货爆炸
 
 📖 [Read original article](https://www.qbitai.com/2026/06/439032.html)
-
----
-
-## 5. GPT-5.6突然发布！Fable5痛失最强基模王座
-
-**Author:** 梦瑶  
-**Published:** 6/27/2026, 1:53:27 AM  
-**Categories:** 资讯, OpenAI  
-
-一口气端出三款GPT 5.6系列模型
-
-📖 [Read original article](https://www.qbitai.com/2026/06/438895.html)
 
 ---
