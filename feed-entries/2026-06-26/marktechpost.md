@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-26"
 date: "2026-06-26"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-06-26
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Perplexity's Computer for Counsel extends Perplexity Computer to legal teams. It
 OpenAI's GPT-5.6 family adds tiered models with max and ultra reasoning. Here is what early-level engineers should know. The post OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access appeared first on MarkTechPost.
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/)
-
----
-
-## 4. Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon
-
-**Author:** Asif Razzaq  
-**Published:** 6/26/2026, 8:48:39 AM  
-**Categories:** AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Python, Software Engineering, Staff, Tech News, Technology  
-
-Apple released container 1.0, an open-source Swift tool running Linux containers as lightweight virtual machines on Apple silicon. The post Meet container: Apple&#8217;s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon appeared first on MarkTechPost.
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/)
 
 ---
