@@ -27,7 +27,7 @@ arXiv:2606.27382v1 Announce Type: new Abstract: While the primary function of co
 
 **Author:** Aryan Keluskar, Amrita Bhattacharjee, Huan Liu  
 **Published:** 6/29/2026, 4:00:00 AM  
-**Categories:** cs.AI  
+**Categories:** cs.AI, cs.CL  
 
 arXiv:2606.27443v1 Announce Type: new Abstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-explored. Prior work shows that agents prompted with low agreeableness produce adversarial language, wh...
 
@@ -197,7 +197,7 @@ arXiv:2606.28024v1 Announce Type: new Abstract: Lifted inference exploits indist
 **Published:** 6/29/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.28070v1 Announce Type: new Abstract: JD.com, one of the world's largest e-commerce platforms, serves over 700 million active users and millions of merchants, with a catalog of tens of billions of SKUs. At this scale, high-quality, structured item knowledge underpins a better consumer expe...
+arXiv:2606.28070v2 Announce Type: new Abstract: JD$.$com, one of the world's largest e-commerce platforms, serves over 700 million active users and millions of merchants, with a catalog of tens of billions of SKUs. At this scale, high-quality, structured item knowledge underpins a better consumer ex...
 
 📖 [Read original article](https://arxiv.org/abs/2606.28070)
 
@@ -809,7 +809,7 @@ arXiv:2606.27743v1 Announce Type: cross Abstract: Large Language Models (LLMs) i
 **Published:** 6/29/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.27748v1 Announce Type: cross Abstract: Transformer models rely on attention mechanism to capture long-range dependencies but suffer from quadratic complexity, limiting their scalability to long sequences. Kernel-based linear attention reduces this complexity but typically relies on fixed ...
+arXiv:2606.27748v2 Announce Type: cross Abstract: Transformer models rely on attention mechanism to capture long-range dependencies but suffer from quadratic complexity, limiting their scalability to long sequences. Kernel-based linear attention reduces this complexity but typically relies on fixed ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.27748)
 
@@ -941,7 +941,7 @@ arXiv:2606.27821v1 Announce Type: cross Abstract: Traffic matrices (TMs) capture
 **Published:** 6/29/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.27824v1 Announce Type: cross Abstract: Peptides are a promising therapeutic modality that combine the chemical tunability of small molecules with the target specificity of macromolecular therapeutics. However, designing antigen-specific binding peptides while avoiding toxicity remains a m...
+arXiv:2606.27824v2 Announce Type: cross Abstract: Peptides are a promising therapeutic modality that combine the chemical tunability of small molecules with the target specificity of macromolecular therapeutics. However, designing antigen-specific binding peptides while avoiding toxicity remains a m...
 
 📖 [Read original article](https://arxiv.org/abs/2606.27824)
 
@@ -1073,7 +1073,7 @@ arXiv:2606.27918v1 Announce Type: cross Abstract: As a prominent symptom of Park
 **Published:** 6/29/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2606.27922v1 Announce Type: cross Abstract: Current multimodal reflection mechanisms for long video understanding predominantly rely on closed-loop self-reflection within internal parameters. Lacking objective external evidence, models are frequently trapped in blind confidence and often fail ...
+arXiv:2606.27922v2 Announce Type: cross Abstract: Current multimodal reflection mechanisms for long video understanding predominantly rely on closed-loop self-reflection within internal parameters. Lacking objective external evidence, models are frequently trapped in blind confidence and often fail ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.27922)
 
@@ -1081,11 +1081,11 @@ arXiv:2606.27922v1 Announce Type: cross Abstract: Current multimodal reflection 
 
 ## 90. Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design
 
-**Author:** Yiyun Fei, Guoqiu Li, Jin Song, Chuqiao Wu, Delong Wu, Hong Wu, Ziru Zeng, Haohui Chen, YinDong Kong, Jing Li, Qi Wu, Feng Zhang  
+**Author:** Yiyun Fei, Guoqiu Li, Jin Song, Chuqiao Wu, Delong Wu, Hong Wu, Ziru Zeng, Haohui Chen, Yindong Kong, Jing Li, Qi Wu, Feng Zhang, Jianan Jiang, Ruigao Yang  
 **Published:** 6/29/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2606.27923v1 Announce Type: cross Abstract: We present Home3D 1.0, a modular image-to-3D generation system that produces high-quality 3D assets from a single reference image, targeting interior design and e-commerce applications. Given a photograph of a furniture or decor item, the system outp...
+arXiv:2606.27923v2 Announce Type: cross Abstract: We present Home3D 1.0, a modular image-to-3D generation system that produces high-quality 3D assets from a single reference image, targeting interior design and e-commerce applications. Given a photograph of a furniture or decor item, the system outp...
 
 📖 [Read original article](https://arxiv.org/abs/2606.27923)
 
@@ -1397,7 +1397,7 @@ arXiv:2606.28149v1 Announce Type: cross Abstract: In-context segmentation (ICS) 
 **Published:** 6/29/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI  
 
-arXiv:2606.28153v1 Announce Type: cross Abstract: Jailbreak attacks bypass LLM safety alignment, yet their mechanisms remain poorly understood. We provide evidence that attacks do not comprehensively eliminate safety features, but instead selectively suppress specific attention heads. We identify tw...
+arXiv:2606.28153v2 Announce Type: cross Abstract: Jailbreak attacks bypass LLM safety alignment, yet their mechanisms remain poorly understood. We provide evidence that attacks do not comprehensively eliminate safety features, but instead selectively suppress specific attention heads. We identify tw...
 
 📖 [Read original article](https://arxiv.org/abs/2606.28153)
 
@@ -1841,7 +1841,7 @@ arXiv:2606.09774v2 Announce Type: replace Abstract: Configuring an advanced scie
 **Published:** 6/29/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.15708v2 Announce Type: replace Abstract: Welcome to the ninth edition of the AI Index report. As AI continues to advance rapidly, the question becomes whether the systems built around it can keep up. Governance frameworks, evaluation methods, education systems, and the data infrastructure...
+arXiv:2606.15708v3 Announce Type: replace Abstract: Welcome to the ninth edition of the AI Index report. As AI continues to advance rapidly, the question becomes whether the systems built around it can keep up. Governance frameworks, evaluation methods, education systems, and the data infrastructure...
 
 📖 [Read original article](https://arxiv.org/abs/2606.15708)
 
@@ -2007,7 +2007,7 @@ arXiv:2502.06577v3 Announce Type: replace-cross Abstract: Causal knowledge can b
 
 **Author:** Xuanfan Ni, Liyan Xu, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li  
 **Published:** 6/29/2026, 4:00:00 AM  
-**Categories:** cs.CL, cs.AI  
+**Categories:** cs.CL, cs.AI, cs.LG  
 
 arXiv:2502.16886v4 Announce Type: replace-cross Abstract: To reduce memory consumption during LLM inference, a handful of methods have been proposed for KV cache pruning. While these techniques can accomplish lossless memory reduction on many datasets, they often hinge on an under-emphasized conditi...
 
