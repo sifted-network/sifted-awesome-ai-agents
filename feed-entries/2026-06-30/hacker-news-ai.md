@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Stop asking writers about \"AI\"
+## 1. Why AI Hasn't Cured Anything yet [video]
 
-**Author:** platzhirsch  
-**Published:** 6/30/2026, 2:11:44 PM  
+**Author:** gurjeet  
+**Published:** 6/30/2026, 7:55:08 PM  
 **Categories:** -  
 
-Article URL: https://benjaminhollon.com/musings/stop-asking-writers-about-ai/ Comments URL: https://news.ycombinator.com/item?id=48732998 Points: 4 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=n-hWHV2ZKOA Comments URL: https://news.ycombinator.com/item?id=48738356 Points: 1 # Comments: 0
 
-📖 [Read original article](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/)
+📖 [Read original article](https://www.youtube.com/watch?v=n-hWHV2ZKOA)
 
 ---
 
-## 2. The Web Is Being Made Accessible for AI, Not People
+## 2. Skill.md AI Crawler Visibility
 
-**Author:** cdrnsf  
-**Published:** 6/30/2026, 2:07:51 PM  
+**Author:** novaesystems  
+**Published:** 6/30/2026, 7:53:45 PM  
 **Categories:** -  
 
-Article URL: https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/ Comments URL: https://news.ycombinator.com/item?id=48732954 Points: 3 # Comments: 0
+Article URL: https://github.com/MerqryLabs/ai-crawler-visibility Comments URL: https://news.ycombinator.com/item?id=48738340 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/)
+📖 [Read original article](https://github.com/MerqryLabs/ai-crawler-visibility)
 
 ---
 
-## 3. I can prove you wrong about AI in about 30 seconds
+## 3. Show HN: Frontier AI Lab Jobs – Open Jobs by Function at OpenAI, Anthropic
 
-**Author:** monkeymagick  
-**Published:** 6/30/2026, 2:02:18 PM  
+**Author:** te_ch  
+**Published:** 6/30/2026, 7:48:55 PM  
 **Categories:** -  
 
-Article URL: https://muddyum.net/ai-still-cant-do-the-one-thing-that-matters-4cad5a08308e?sk=909ac14c3071092a3f567a3a8d1fa326 Comments URL: https://news.ycombinator.com/item?id=48732882 Points: 2 # Comments: 0
+I built this website while exploring job opportunities at AI companies. Coming from an economics & policy background (I've done a good deal of research on the business/economics side gen AI, quantum and other emerging tech but I'm not an AI engineer), I wanted to understand how different roles fit t...
 
-📖 [Read original article](https://muddyum.net/ai-still-cant-do-the-one-thing-that-matters-4cad5a08308e?sk=909ac14c3071092a3f567a3a8d1fa326)
+📖 [Read original article](https://frontierjobs.org/)
 
 ---
 
-## 4. Do AI Agents Make ML Compilers Obsolete?
+## 4. AI Could Be the Railroad of the 21st Century. Brace Yourself
 
-**Author:** spenrose  
-**Published:** 6/30/2026, 1:47:30 PM  
+**Author:** simonebrunozzi  
+**Published:** 6/30/2026, 7:42:01 PM  
 **Categories:** -  
 
-Article URL: https://maderix.substack.com/p/the-compiler-strikes-back Comments URL: https://news.ycombinator.com/item?id=48732724 Points: 2 # Comments: 0
+Article URL: https://www.derekthompson.org/p/artificial-intelligence-could-be Comments URL: https://news.ycombinator.com/item?id=48738197 Points: 2 # Comments: 0
 
-📖 [Read original article](https://maderix.substack.com/p/the-compiler-strikes-back)
+📖 [Read original article](https://www.derekthompson.org/p/artificial-intelligence-could-be)
 
 ---
 
-## 5. The AI jobs debate just got messier
+## 5. OrgForge: The Next Step in Enterprise AI Simulation
 
-**Author:** evo_9  
-**Published:** 6/30/2026, 1:46:30 PM  
+**Author:** decorner  
+**Published:** 6/30/2026, 7:29:20 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/ Comments URL: https://news.ycombinator.com/item?id=48732708 Points: 2 # Comments: 0
+Article URL: https://www.machinebrief.com/news/orgforge-the-next-step-in-enterprise-ai-simulation-u364 Comments URL: https://news.ycombinator.com/item?id=48738040 Points: 2 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/)
+📖 [Read original article](https://www.machinebrief.com/news/orgforge-the-next-step-in-enterprise-ai-simulation-u364)
 
 ---
 
-## 6. Show HN: TinySearch – token-efficient web research for local AI agents
+## 6. The AI Mirage or Why I Think the Hype Can't Sustain Itself
 
-**Author:** MarcBuilds01  
-**Published:** 6/30/2026, 1:36:52 PM  
+**Author:** louwrentius  
+**Published:** 6/30/2026, 7:14:04 PM  
 **Categories:** -  
 
-Article URL: https://github.com/MarcellM01/TinySearch Comments URL: https://news.ycombinator.com/item?id=48732588 Points: 1 # Comments: 0
+Article URL: https://louwrentius.com/the-ai-mirage-or-why-i-think-the-hype-cant-sustain-itself.html Comments URL: https://news.ycombinator.com/item?id=48737847 Points: 4 # Comments: 8
 
-📖 [Read original article](https://github.com/MarcellM01/TinySearch)
+📖 [Read original article](https://louwrentius.com/the-ai-mirage-or-why-i-think-the-hype-cant-sustain-itself.html)
 
 ---
 
-## 7. Show HN: SUNWÆE – your life's AI OS
+## 7. Demystifying Security Risks of AI-Powered Applications on Pre-Trained Model Hubs
 
-**Author:** dvdxnss  
-**Published:** 6/30/2026, 1:21:31 PM  
+**Author:** runningmike  
+**Published:** 6/30/2026, 7:10:31 PM  
 **Categories:** -  
 
-app url: https://app.sunwaee.comhey, so I never really stuck with chatgpt or claude web apps because to me they always felt like a slightly-more-personalized google search but far from actually knowing who I am, plus I also want access to the best models but with the release frequency of new models ...
+Article URL: https://arxiv.org/abs/2606.30373 Comments URL: https://news.ycombinator.com/item?id=48737797 Points: 3 # Comments: 2
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48732413)
+📖 [Read original article](https://arxiv.org/abs/2606.30373)
 
 ---
 
-## 8. The AI Productivity Trap
+## 8. A New Look at AI's Impact on Jobs
 
-**Author:** i0exception  
-**Published:** 6/30/2026, 1:17:19 PM  
+**Author:** in-silico  
+**Published:** 6/30/2026, 7:06:08 PM  
 **Categories:** -  
 
-Article URL: https://i0exception.substack.com/p/doing-more-shipping-less Comments URL: https://news.ycombinator.com/item?id=48732361 Points: 2 # Comments: 0
+Article URL: https://ramp.com/data/ai-jobs-impact Comments URL: https://news.ycombinator.com/item?id=48737736 Points: 3 # Comments: 0
 
-📖 [Read original article](https://i0exception.substack.com/p/doing-more-shipping-less)
+📖 [Read original article](https://ramp.com/data/ai-jobs-impact)
 
 ---
 
-## 9. AI and Us: It's Complicated
+## 9. Show HN: Can you tell the difference between AI vs human-made fonts?
 
-**Author:** zerolayers  
-**Published:** 6/30/2026, 1:15:08 PM  
+**Author:** justswim  
+**Published:** 6/30/2026, 7:00:35 PM  
 **Categories:** -  
 
-Article URL: https://syntheticauth.ai/posts/ai-the-falsity-of-comparison Comments URL: https://news.ycombinator.com/item?id=48732326 Points: 1 # Comments: 0
+Article URL: https://www.mixfont.com/ai-font-quiz Comments URL: https://news.ycombinator.com/item?id=48737639 Points: 1 # Comments: 1
 
-📖 [Read original article](https://syntheticauth.ai/posts/ai-the-falsity-of-comparison)
+📖 [Read original article](https://www.mixfont.com/ai-font-quiz)
 
 ---
 
-## 10. AI Compass: which archetype are you?
+## 10. Will AI make companies outsource more, or less?
 
-**Author:** meander_water  
-**Published:** 6/30/2026, 1:07:01 PM  
+**Author:** paulpauper  
+**Published:** 6/30/2026, 7:00:33 PM  
 **Categories:** -  
 
-Article URL: https://bambamramfan.github.io/ai-compass/ Comments URL: https://news.ycombinator.com/item?id=48732217 Points: 2 # Comments: 0
+Article URL: https://www.noahpinion.blog/p/will-ai-make-companies-outsource Comments URL: https://news.ycombinator.com/item?id=48737637 Points: 1 # Comments: 0
 
-📖 [Read original article](https://bambamramfan.github.io/ai-compass/)
+📖 [Read original article](https://www.noahpinion.blog/p/will-ai-make-companies-outsource)
 
 ---
 
-## 11. Show HN: CiteReady – check if your site can be cited by AI search engines
+## 11. AI Is Making Us Lose Our Individuality
 
-**Author:** grenzfrei  
-**Published:** 6/30/2026, 1:00:02 PM  
+**Author:** emmettbt  
+**Published:** 6/30/2026, 6:56:00 PM  
 **Categories:** -  
 
-Article URL: https://citeready.sprytools.com/ Comments URL: https://news.ycombinator.com/item?id=48732134 Points: 2 # Comments: 0
+Article URL: https://emmettbuckthompson.com/blog/ai-is-making-us-lose-our-individuality Comments URL: https://news.ycombinator.com/item?id=48737575 Points: 3 # Comments: 0
 
-📖 [Read original article](https://citeready.sprytools.com/)
+📖 [Read original article](https://emmettbuckthompson.com/blog/ai-is-making-us-lose-our-individuality)
 
 ---
 
-## 12. EDDI – sovereign AI orchestrator, now OpenSSF Gold and a UN (UNIDO) partner
+## 12. Ask HN: Where did the terminology (AI) \"System Card\" come from?
 
-**Author:** ginccc  
-**Published:** 6/30/2026, 12:55:53 PM  
+**Author:** dv35z  
+**Published:** 6/30/2026, 6:52:28 PM  
 **Categories:** -  
 
-Article URL: https://eddi.labs.ai/ Comments URL: https://news.ycombinator.com/item?id=48732078 Points: 1 # Comments: 0
+There is some terminology/jargon associated with AI technology that I'm curious where it comes from. Like "System card", "Alignment", "Safety".Perhaps in this thread, people can share their own "What does X mean, and why is called that?" questions about confusing terminology around this subject, and...
 
-📖 [Read original article](https://eddi.labs.ai/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48737512)
 
 ---
 
-## 13. AI agents finish a third of the job, and the math says why
+## 13. Agentic AI and the End of Static Information
 
-**Author:** ermantrout  
-**Published:** 6/30/2026, 12:50:39 PM  
+**Author:** throwawayamzn1  
+**Published:** 6/30/2026, 6:29:17 PM  
 **Categories:** -  
 
-Article URL: https://okaneland.com/study/do-ai-agents-work-yet/ Comments URL: https://news.ycombinator.com/item?id=48732019 Points: 2 # Comments: 1
+Article URL: https://ajaishar.github.io/blog/2026/the-end-of-static-information/ Comments URL: https://news.ycombinator.com/item?id=48737137 Points: 1 # Comments: 0
 
-📖 [Read original article](https://okaneland.com/study/do-ai-agents-work-yet/)
+📖 [Read original article](https://ajaishar.github.io/blog/2026/the-end-of-static-information/)
 
 ---
 
-## 14. Show HN: NodePad – AI agent on a canvas instead of a linear chat
+## 14. What AI Will Do to Art
 
-**Author:** palazski  
-**Published:** 6/30/2026, 12:47:52 PM  
+**Author:** paulpauper  
+**Published:** 6/30/2026, 6:22:48 PM  
 **Categories:** -  
 
-Article URL: https://node-pad.com/ Comments URL: https://news.ycombinator.com/item?id=48731991 Points: 2 # Comments: 0
+Article URL: https://www.theatlantic.com/magazine/2026/08/ai-art-holly-herndon-mat-dryhurst/687619/ Comments URL: https://news.ycombinator.com/item?id=48737028 Points: 2 # Comments: 0
 
-📖 [Read original article](https://node-pad.com/)
+📖 [Read original article](https://www.theatlantic.com/magazine/2026/08/ai-art-holly-herndon-mat-dryhurst/687619/)
 
 ---
 
-## 15. Show HN: GSV – a personal AI computer that unifies your machines
+## 15. Embedding Forbidden Text in Spyware to Discourage AI Analysis
 
-**Author:** deathbyknowledg  
-**Published:** 6/30/2026, 12:44:12 PM  
+**Author:** eric_h  
+**Published:** 6/30/2026, 6:19:33 PM  
 **Categories:** -  
 
-Back in April I left the Agents team at Cloudflare because even though I loved the work, I always had the drive to build the apps rather than the libraries. I felt like nobody was building the ideas that I wanted to exist.My biggest drive was wanting my agents to run fully on “the cloud” yet having ...
+Article URL: https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html Comments URL: https://news.ycombinator.com/item?id=48736971 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/deathbyknowledge/gsv)
+📖 [Read original article](https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html)
 
 ---
 
-## 16. What's slowing down the AI buildout
+## 16. How the AI bubble could pop and take down the global economy according to BIS
 
-**Author:** speckx  
-**Published:** 6/30/2026, 12:39:41 PM  
+**Author:** Bender  
+**Published:** 6/30/2026, 6:16:07 PM  
 **Categories:** -  
 
-Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48731894 Points: 3 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793 Comments URL: https://news.ycombinator.com/item?id=48736911 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793)
 
 ---
 
-## 17. Show HN: Framein – a local work-state layer that keeps AI agents in context
+## 17. Vega: Zero-knowledge proofs for digital identity in the age of AI
 
-**Author:** BonPPa  
-**Published:** 6/30/2026, 12:36:49 PM  
+**Author:** thunderbong  
+**Published:** 6/30/2026, 6:15:53 PM  
 **Categories:** -  
 
-Article URL: https://www.framein.dev/ Comments URL: https://news.ycombinator.com/item?id=48731852 Points: 1 # Comments: 0
+Article URL: https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48736902 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.framein.dev/)
+📖 [Read original article](https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/)
 
 ---
 
-## 18. x86 AI Compute Extensions (Ace) Specification [pdf]
+## 18. AI coding tools should reach beyond the editor
 
-**Author:** ksec  
-**Published:** 6/30/2026, 12:36:18 PM  
+**Author:** mineti  
+**Published:** 6/30/2026, 6:14:47 PM  
 **Categories:** -  
 
-Article URL: https://x86ecosystem.org/wp-content/uploads/2026/06/ACE_v1_Specification_public_1_15.pdf Comments URL: https://news.ycombinator.com/item?id=48731848 Points: 1 # Comments: 0
+Article URL: https://mineti.dev/articles/ai-beyond-the-editor/ Comments URL: https://news.ycombinator.com/item?id=48736879 Points: 2 # Comments: 0
 
-📖 [Read original article](https://x86ecosystem.org/wp-content/uploads/2026/06/ACE_v1_Specification_public_1_15.pdf)
+📖 [Read original article](https://mineti.dev/articles/ai-beyond-the-editor/)
 
 ---
 
-## 19. The Layers of AI Experience
+## 19. Show HN: Pacific Slate – a self-hosted, model-agnostic multi-agent AI assistant
 
-**Author:** thm  
-**Published:** 6/30/2026, 12:35:44 PM  
+**Author:** badwx  
+**Published:** 6/30/2026, 5:59:28 PM  
 **Categories:** -  
 
-Article URL: https://emilycampbell.co/writing/layers-of-ai-experience Comments URL: https://news.ycombinator.com/item?id=48731841 Points: 1 # Comments: 0
+Article URL: https://pacslate.com Comments URL: https://news.ycombinator.com/item?id=48736591 Points: 1 # Comments: 0
 
-📖 [Read original article](https://emilycampbell.co/writing/layers-of-ai-experience)
+📖 [Read original article](https://pacslate.com)
 
 ---
 
-## 20. Clustering AI conversations signals for codebase improvements
+## 20. Connect any self-hosted WordPress site to your AI
 
-**Author:** blumeCodes  
-**Published:** 6/30/2026, 12:30:26 PM  
+**Author:** luispa  
+**Published:** 6/30/2026, 5:52:51 PM  
 **Categories:** -  
 
-Article URL: https://blume.codes/blog/how-blume-codebase-improvements-work Comments URL: https://news.ycombinator.com/item?id=48731786 Points: 1 # Comments: 0
+Article URL: https://wpvibe.ai/start/ Comments URL: https://news.ycombinator.com/item?id=48736468 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blume.codes/blog/how-blume-codebase-improvements-work)
+📖 [Read original article](https://wpvibe.ai/start/)
 
 ---
