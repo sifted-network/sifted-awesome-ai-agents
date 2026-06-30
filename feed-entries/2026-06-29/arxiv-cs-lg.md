@@ -413,7 +413,7 @@ arXiv:2606.27739v1 Announce Type: new Abstract: Process reward models (PRMs) enh
 **Published:** 6/29/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.27748v1 Announce Type: new Abstract: Transformer models rely on attention mechanism to capture long-range dependencies but suffer from quadratic complexity, limiting their scalability to long sequences. Kernel-based linear attention reduces this complexity but typically relies on fixed or...
+arXiv:2606.27748v2 Announce Type: new Abstract: Transformer models rely on attention mechanism to capture long-range dependencies but suffer from quadratic complexity, limiting their scalability to long sequences. Kernel-based linear attention reduces this complexity but typically relies on fixed or...
 
 📖 [Read original article](https://arxiv.org/abs/2606.27748)
 
@@ -497,7 +497,7 @@ arXiv:2606.27802v1 Announce Type: new Abstract: Hierarchical predictive coding p
 **Published:** 6/29/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.27824v1 Announce Type: new Abstract: Peptides are a promising therapeutic modality that combine the chemical tunability of small molecules with the target specificity of macromolecular therapeutics. However, designing antigen-specific binding peptides while avoiding toxicity remains a maj...
+arXiv:2606.27824v2 Announce Type: new Abstract: Peptides are a promising therapeutic modality that combine the chemical tunability of small molecules with the target specificity of macromolecular therapeutics. However, designing antigen-specific binding peptides while avoiding toxicity remains a maj...
 
 📖 [Read original article](https://arxiv.org/abs/2606.27824)
 
@@ -1381,11 +1381,11 @@ arXiv:2606.27821v1 Announce Type: cross Abstract: Traffic matrices (TMs) capture
 
 ## 115. A Unified Framework for Vision Transformers Equivariant to Discrete Subgroups of $\\mathrm{O}(2)$
 
-**Author:** T\={\i}kun \^Ong, Georg B\"okman  
+**Author:** T\=ikun \^Ong, Georg B\"okman  
 **Published:** 6/29/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2606.27864v1 Announce Type: cross Abstract: Vision transformers have become a dominant architecture for visual recognition. However, standard models do not explicitly encode the planar symmetries that arise in many vision domains. We introduce a family of vision transformers equivariant to arb...
+arXiv:2606.27864v2 Announce Type: cross Abstract: Vision transformers have become a dominant architecture for visual recognition. However, standard models do not explicitly encode the planar symmetries that arise in many vision domains. We introduce a family of vision transformers equivariant to arb...
 
 📖 [Read original article](https://arxiv.org/abs/2606.27864)
 
@@ -2655,7 +2655,7 @@ arXiv:2604.13072v2 Announce Type: replace-cross Abstract: OpenClaw-style persona
 
 **Author:** Grace T. Bai, Brandon B. Le  
 **Published:** 6/29/2026, 4:00:00 AM  
-**Categories:** cond-mat.soft, cs.LG  
+**Categories:** cond-mat.soft, cond-mat.stat-mech, cs.LG  
 
 arXiv:2604.28167v2 Announce Type: replace-cross Abstract: The Vicsek model is a minimal model of collective motion, capturing how local alignment interactions can generate macroscopic nonequilibrium order in systems such as bird flocks. In this work, we use active learning to map the Vicsek phase di...
 
@@ -2705,7 +2705,7 @@ arXiv:2605.17482v3 Announce Type: replace-cross Abstract: We study Relational Se
 **Published:** 6/29/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.LG  
 
-arXiv:2606.02004v2 Announce Type: replace-cross Abstract: Consumer-price measurement increasingly draws on alternative data sources -- scanner, web-scraped, and transaction/receipt data -- whose product descriptions are short, noisy, and carry no standard product code, so each item must first be map...
+arXiv:2606.02004v3 Announce Type: replace-cross Abstract: Consumer-price measurement increasingly draws on alternative data sources -- scanner, web-scraped, and transaction/receipt data -- whose product descriptions are short, noisy, and carry no standard product code, so each item must first be map...
 
 📖 [Read original article](https://arxiv.org/abs/2606.02004)
 
