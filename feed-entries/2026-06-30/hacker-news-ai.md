@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: A Free AI Visibility Tracker
+## 1. Stop asking writers about \"AI\"
 
-**Author:** pastamania  
-**Published:** 6/30/2026, 9:33:57 AM  
+**Author:** platzhirsch  
+**Published:** 6/30/2026, 2:11:44 PM  
 **Categories:** -  
 
-It annoyed me how much all the AI tracking services were charging, so I made my own.It's free, downloadable, runs on Windows and Mac, and is a bring-your-own-API-keys alternative to the likes of Peec and Profound. It tracks AI visibility across ChatGPT, Gemini, Claude, Perplexity, and Google's AI Ov...
+Article URL: https://benjaminhollon.com/musings/stop-asking-writers-about-ai/ Comments URL: https://news.ycombinator.com/item?id=48732998 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.archytasdigital.com/)
+📖 [Read original article](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/)
 
 ---
 
-## 2. Show HN: Crosswalk mapping AI-agent design controls to NIST, ISO 42001, OWASP
+## 2. The Web Is Being Made Accessible for AI, Not People
 
-**Author:** stoicstoic  
-**Published:** 6/30/2026, 8:57:38 AM  
+**Author:** cdrnsf  
+**Published:** 6/30/2026, 2:07:51 PM  
 **Categories:** -  
 
-Article URL: https://www.agent-kits.com/agentaz-crosswalk Comments URL: https://news.ycombinator.com/item?id=48730140 Points: 1 # Comments: 0
+Article URL: https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/ Comments URL: https://news.ycombinator.com/item?id=48732954 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.agent-kits.com/agentaz-crosswalk)
+📖 [Read original article](https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/)
 
 ---
 
-## 3. Show HN: Mocca – A Mac email client powered by local AI
+## 3. I can prove you wrong about AI in about 30 seconds
 
-**Author:** brighbun  
-**Published:** 6/30/2026, 8:33:41 AM  
+**Author:** monkeymagick  
+**Published:** 6/30/2026, 2:02:18 PM  
 **Categories:** -  
 
-Hey HN!I recently built an app called Mocca(https://mocca.run), an email client where all the AI runs locally on your Mac. No cloud and API keys. The model is bundled and runs offline.I made it as an experiment to see whether local AI has actually gotten good enough to power a real, everyday product...
+Article URL: https://muddyum.net/ai-still-cant-do-the-one-thing-that-matters-4cad5a08308e?sk=909ac14c3071092a3f567a3a8d1fa326 Comments URL: https://news.ycombinator.com/item?id=48732882 Points: 2 # Comments: 0
 
-📖 [Read original article](https://mocca.run/)
+📖 [Read original article](https://muddyum.net/ai-still-cant-do-the-one-thing-that-matters-4cad5a08308e?sk=909ac14c3071092a3f567a3a8d1fa326)
 
 ---
 
-## 4. Show HN: Not Another AI Platform
+## 4. Do AI Agents Make ML Compilers Obsolete?
 
-**Author:** hayden_k  
-**Published:** 6/30/2026, 8:15:14 AM  
+**Author:** spenrose  
+**Published:** 6/30/2026, 1:47:30 PM  
 **Categories:** -  
 
-I'm 15 and this is my AI workspace platform that I have building as a side-project. I really wanted an AI platform that had all the latest features like tool-calling, web search, advanced reasoning etc. along with really nice ui/ux - like custom elements for email drafts, flashcards, instructions an...
+Article URL: https://maderix.substack.com/p/the-compiler-strikes-back Comments URL: https://news.ycombinator.com/item?id=48732724 Points: 2 # Comments: 0
 
-📖 [Read original article](https://tryhello.app)
+📖 [Read original article](https://maderix.substack.com/p/the-compiler-strikes-back)
 
 ---
 
-## 5. AI and Mathematics Research – Yikes (N.J. Wildberger)
+## 5. The AI jobs debate just got messier
 
-**Author:** nyc111  
-**Published:** 6/30/2026, 7:56:31 AM  
+**Author:** evo_9  
+**Published:** 6/30/2026, 1:46:30 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=-QlC4C6mPIw Comments URL: https://news.ycombinator.com/item?id=48729719 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/ Comments URL: https://news.ycombinator.com/item?id=48732708 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=-QlC4C6mPIw)
+📖 [Read original article](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/)
 
 ---
 
-## 6. The cost of AI is someone else's time
+## 6. Show HN: TinySearch – token-efficient web research for local AI agents
 
-**Author:** ilreb  
-**Published:** 6/30/2026, 7:56:04 AM  
+**Author:** MarcBuilds01  
+**Published:** 6/30/2026, 1:36:52 PM  
 **Categories:** -  
 
-Article URL: https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/ Comments URL: https://news.ycombinator.com/item?id=48729716 Points: 2 # Comments: 0
+Article URL: https://github.com/MarcellM01/TinySearch Comments URL: https://news.ycombinator.com/item?id=48732588 Points: 1 # Comments: 0
 
-📖 [Read original article](https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/)
+📖 [Read original article](https://github.com/MarcellM01/TinySearch)
 
 ---
 
-## 7. Show HN: Ask your AI what changed across your competitors
+## 7. Show HN: SUNWÆE – your life's AI OS
 
-**Author:** IndustryLens  
-**Published:** 6/30/2026, 7:47:26 AM  
+**Author:** dvdxnss  
+**Published:** 6/30/2026, 1:21:31 PM  
 **Categories:** -  
 
-Article URL: https://industry-lens.com/mcp Comments URL: https://news.ycombinator.com/item?id=48729669 Points: 1 # Comments: 0
+app url: https://app.sunwaee.comhey, so I never really stuck with chatgpt or claude web apps because to me they always felt like a slightly-more-personalized google search but far from actually knowing who I am, plus I also want access to the best models but with the release frequency of new models ...
 
-📖 [Read original article](https://industry-lens.com/mcp)
+📖 [Read original article](https://news.ycombinator.com/item?id=48732413)
 
 ---
 
-## 8. AI-native Formik alternative form library
+## 8. The AI Productivity Trap
 
-**Author:** trialerror123  
-**Published:** 6/30/2026, 7:40:52 AM  
+**Author:** i0exception  
+**Published:** 6/30/2026, 1:17:19 PM  
 **Categories:** -  
 
-Article URL: https://fillament.dev Comments URL: https://news.ycombinator.com/item?id=48729639 Points: 1 # Comments: 0
+Article URL: https://i0exception.substack.com/p/doing-more-shipping-less Comments URL: https://news.ycombinator.com/item?id=48732361 Points: 2 # Comments: 0
 
-📖 [Read original article](https://fillament.dev)
+📖 [Read original article](https://i0exception.substack.com/p/doing-more-shipping-less)
 
 ---
 
-## 9. Real Estate AI Reverse Image Search
+## 9. AI and Us: It's Complicated
 
-**Author:** steveharrison  
-**Published:** 6/30/2026, 7:29:11 AM  
+**Author:** zerolayers  
+**Published:** 6/30/2026, 1:15:08 PM  
 **Categories:** -  
 
-Article URL: https://jitty.com/post/reverse-image-search Comments URL: https://news.ycombinator.com/item?id=48729565 Points: 1 # Comments: 1
+Article URL: https://syntheticauth.ai/posts/ai-the-falsity-of-comparison Comments URL: https://news.ycombinator.com/item?id=48732326 Points: 1 # Comments: 0
 
-📖 [Read original article](https://jitty.com/post/reverse-image-search)
+📖 [Read original article](https://syntheticauth.ai/posts/ai-the-falsity-of-comparison)
 
 ---
 
-## 10. Ask HN: ASICs made GPU crypto mining obsolete. Will ASICs for AI be a thing?
+## 10. AI Compass: which archetype are you?
 
-**Author:** unpopularopp  
-**Published:** 6/30/2026, 7:19:04 AM  
+**Author:** meander_water  
+**Published:** 6/30/2026, 1:07:01 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48729505 Points: 1 # Comments: 1
+Article URL: https://bambamramfan.github.io/ai-compass/ Comments URL: https://news.ycombinator.com/item?id=48732217 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48729505)
+📖 [Read original article](https://bambamramfan.github.io/ai-compass/)
 
 ---
 
-## 11. Elementor cuts 100 jobs, 30% of workforce, as AI reshapes website building
+## 11. Show HN: CiteReady – check if your site can be cited by AI search engines
 
-**Author:** taubek  
-**Published:** 6/30/2026, 7:17:07 AM  
+**Author:** grenzfrei  
+**Published:** 6/30/2026, 1:00:02 PM  
 **Categories:** -  
 
-Article URL: https://www.calcalistech.com/ctechnews/article/sycgn6yxze Comments URL: https://news.ycombinator.com/item?id=48729496 Points: 1 # Comments: 1
+Article URL: https://citeready.sprytools.com/ Comments URL: https://news.ycombinator.com/item?id=48732134 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.calcalistech.com/ctechnews/article/sycgn6yxze)
+📖 [Read original article](https://citeready.sprytools.com/)
 
 ---
 
-## 12. A GitHub-compatible Git service built for AI agents
+## 12. EDDI – sovereign AI orchestrator, now OpenSSF Gold and a UN (UNIDO) partner
 
-**Author:** shenli3514  
-**Published:** 6/30/2026, 7:05:44 AM  
+**Author:** ginccc  
+**Published:** 6/30/2026, 12:55:53 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ngaut/agent-git-service Comments URL: https://news.ycombinator.com/item?id=48729434 Points: 1 # Comments: 0
+Article URL: https://eddi.labs.ai/ Comments URL: https://news.ycombinator.com/item?id=48732078 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/ngaut/agent-git-service)
+📖 [Read original article](https://eddi.labs.ai/)
 
 ---
 
-## 13. AI Tools Accelerates Coding, but Not Overall Software Delivery
+## 13. AI agents finish a third of the job, and the math says why
 
-**Author:** msolujic  
-**Published:** 6/30/2026, 7:03:41 AM  
+**Author:** ermantrout  
+**Published:** 6/30/2026, 12:50:39 PM  
 **Categories:** -  
 
-Article URL: https://www.infoq.com/news/2026/06/ai-coding-outpaces-governance/ Comments URL: https://news.ycombinator.com/item?id=48729424 Points: 1 # Comments: 0
+Article URL: https://okaneland.com/study/do-ai-agents-work-yet/ Comments URL: https://news.ycombinator.com/item?id=48732019 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.infoq.com/news/2026/06/ai-coding-outpaces-governance/)
+📖 [Read original article](https://okaneland.com/study/do-ai-agents-work-yet/)
 
 ---
 
-## 14. AI agents are not your \"coworkers\"
+## 14. Show HN: NodePad – AI agent on a canvas instead of a linear chat
 
-**Author:** joozio  
-**Published:** 6/30/2026, 7:02:06 AM  
+**Author:** palazski  
+**Published:** 6/30/2026, 12:47:52 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/ Comments URL: https://news.ycombinator.com/item?id=48729411 Points: 2 # Comments: 0
+Article URL: https://node-pad.com/ Comments URL: https://news.ycombinator.com/item?id=48731991 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/)
+📖 [Read original article](https://node-pad.com/)
 
 ---
 
-## 15. Heavy corporate AI spenders add staff faster than peers
+## 15. Show HN: GSV – a personal AI computer that unifies your machines
 
-**Author:** uxhacker  
-**Published:** 6/30/2026, 6:39:29 AM  
+**Author:** deathbyknowledg  
+**Published:** 6/30/2026, 12:44:12 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/8026eac6-16ad-467d-b8c3-c48c5af684e6 Comments URL: https://news.ycombinator.com/item?id=48729244 Points: 2 # Comments: 0
+Back in April I left the Agents team at Cloudflare because even though I loved the work, I always had the drive to build the apps rather than the libraries. I felt like nobody was building the ideas that I wanted to exist.My biggest drive was wanting my agents to run fully on “the cloud” yet having ...
 
-📖 [Read original article](https://www.ft.com/content/8026eac6-16ad-467d-b8c3-c48c5af684e6)
+📖 [Read original article](https://github.com/deathbyknowledge/gsv)
 
 ---
 
-## 16. The state of the AI economy from bottom up
+## 16. What's slowing down the AI buildout
 
-**Author:** damethos  
-**Published:** 6/30/2026, 6:21:24 AM  
+**Author:** speckx  
+**Published:** 6/30/2026, 12:39:41 PM  
 **Categories:** -  
 
-Article URL: https://www.exponentialview.co/p/the-state-of-the-ai-economy Comments URL: https://news.ycombinator.com/item?id=48729130 Points: 1 # Comments: 0
+Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48731894 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.exponentialview.co/p/the-state-of-the-ai-economy)
+📖 [Read original article](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid)
 
 ---
 
-## 17. AI Policy Update
+## 17. Show HN: Framein – a local work-state layer that keeps AI agents in context
 
-**Author:** ilreb  
-**Published:** 6/30/2026, 6:08:24 AM  
+**Author:** BonPPa  
+**Published:** 6/30/2026, 12:36:49 PM  
 **Categories:** -  
 
-Article URL: https://blog.freecad.org/2026/06/29/ai-policy-update/ Comments URL: https://news.ycombinator.com/item?id=48729041 Points: 1 # Comments: 0
+Article URL: https://www.framein.dev/ Comments URL: https://news.ycombinator.com/item?id=48731852 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.freecad.org/2026/06/29/ai-policy-update/)
+📖 [Read original article](https://www.framein.dev/)
 
 ---
 
-## 18. Vega: Zero-knowledge proofs for digital identity in the age of AI
+## 18. x86 AI Compute Extensions (Ace) Specification [pdf]
 
-**Author:** tosh  
-**Published:** 6/30/2026, 6:04:56 AM  
+**Author:** ksec  
+**Published:** 6/30/2026, 12:36:18 PM  
 **Categories:** -  
 
-Article URL: https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48729021 Points: 2 # Comments: 0
+Article URL: https://x86ecosystem.org/wp-content/uploads/2026/06/ACE_v1_Specification_public_1_15.pdf Comments URL: https://news.ycombinator.com/item?id=48731848 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/)
+📖 [Read original article](https://x86ecosystem.org/wp-content/uploads/2026/06/ACE_v1_Specification_public_1_15.pdf)
 
 ---
 
-## 19. I built 25 executable skills for my AI agent � all open source
+## 19. The Layers of AI Experience
 
-**Author:** ChrisLamDev118  
-**Published:** 6/30/2026, 6:03:48 AM  
+**Author:** thm  
+**Published:** 6/30/2026, 12:35:44 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ChrisLamDev/hermes-core-skills Comments URL: https://news.ycombinator.com/item?id=48729011 Points: 1 # Comments: 0
+Article URL: https://emilycampbell.co/writing/layers-of-ai-experience Comments URL: https://news.ycombinator.com/item?id=48731841 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/ChrisLamDev/hermes-core-skills)
+📖 [Read original article](https://emilycampbell.co/writing/layers-of-ai-experience)
 
 ---
 
-## 20. Zero Trace AI – private AI chat with nothing to subpoena
+## 20. Clustering AI conversations signals for codebase improvements
 
-**Author:** OrPrivacyGuy  
-**Published:** 6/30/2026, 5:21:08 AM  
+**Author:** blumeCodes  
+**Published:** 6/30/2026, 12:30:26 PM  
 **Categories:** -  
 
-Article URL: https://zerotraceai.org Comments URL: https://news.ycombinator.com/item?id=48728758 Points: 2 # Comments: 0
+Article URL: https://blume.codes/blog/how-blume-codebase-improvements-work Comments URL: https://news.ycombinator.com/item?id=48731786 Points: 1 # Comments: 0
 
-📖 [Read original article](https://zerotraceai.org)
+📖 [Read original article](https://blume.codes/blog/how-blume-codebase-improvements-work)
 
 ---
