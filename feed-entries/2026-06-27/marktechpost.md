@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-06-27"
 date: "2026-06-27"
 source: "MarkTechPost"
-count: 2
+count: 1
 ---
 
 # MarkTechPost - 2026-06-27
 
-2 items collected.
+1 items collected.
 
 ---
 
@@ -20,17 +20,5 @@ count: 2
 DeepSeek open-sourced DSpark, a speculative decoding framework that attaches a draft module to existing DeepSeek-V4 weights. It pairs a parallel draft backbone with a lightweight Markov head to cut suffix decay, then adds confidence-scheduled verification that tailors how many tokens get checked to ...
 
 📖 [Read original article](https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/)
-
----
-
-## 2. Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read
-
-**Author:** Asif Razzaq  
-**Published:** 6/27/2026, 8:38:26 AM  
-**Categories:** Agentic AI, AI Agents, Editors Pick, New Releases, Software Engineering, Staff, Tech News  
-
-Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both engineers and AI agents build using the same API. The project is in Beta, MIT-licensed, and grew inside Meta over eight years. The post Meta&#8217;s Astr...
-
-📖 [Read original article](https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/)
 
 ---
