@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: AI Score, measure how AI agents read your docs site
+## 1. CIA chief compares cutting-edge AI to nuclear weapons
 
-**Author:** gbourne  
-**Published:** 7/1/2026, 2:36:43 PM  
+**Author:** billybuckwheat  
+**Published:** 7/1/2026, 7:16:03 PM  
 **Categories:** -  
 
-I built this free chrome extension to get a website's AI score. Under the hood it uses AFDocs, which is an amazing AI analysis tool that "measure(s) how well AI agents can read, navigate, and use your documentation site." You can then click through to get all the details so you can prompt your AI ag...
+Article URL: https://www.japantimes.co.jp/news/2026/07/01/world/cia-ai-nuclear-weapons/ Comments URL: https://news.ycombinator.com/item?id=48751805 Points: 4 # Comments: 0
 
-📖 [Read original article](https://chromewebstore.google.com/detail/jamdesk-ai-score/mhihkkgpcbmapmojnakhjfhjmiagkhlj)
+📖 [Read original article](https://www.japantimes.co.jp/news/2026/07/01/world/cia-ai-nuclear-weapons/)
 
 ---
 
-## 2. Persistent memory for AI agents is three problems, not one
+## 2. 0/6 major aerospace documentation portals are AI Agent-ready
 
-**Author:** sparkystacey  
-**Published:** 7/1/2026, 2:25:22 PM  
+**Author:** priyanshu-j  
+**Published:** 7/1/2026, 7:15:22 PM  
 **Categories:** -  
 
-Article URL: https://promptowl.ai/resources/persistent-memory-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48747378 Points: 1 # Comments: 0
+I spent some time building AeroScore, a scoring engine that evaluates how well major documentation portals support AI agents. In short, none of the 6 that I evaluated in this first batch are sufficiently prepared.The methodology and criteria are based on the AFDocs Spec (an open-source checklist for...
 
-📖 [Read original article](https://promptowl.ai/resources/persistent-memory-ai-agents/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48751798)
 
 ---
 
-## 3. AI Sped Up Coding Faster Than It Sped Up Delivery
+## 3. Show HN: GOAT 2.0 – AI orchestrator with proactive episodic memory
 
-**Author:** jamdesk  
-**Published:** 7/1/2026, 2:23:37 PM  
+**Author:** takashikiari  
+**Published:** 7/1/2026, 7:12:55 PM  
 **Categories:** -  
 
-Article URL: https://www.builder.io/blog/ai-sped-up-coding-faster-than-it-sped-up-delivery Comments URL: https://news.ycombinator.com/item?id=48747353 Points: 1 # Comments: 0
+Article URL: https://github.com/takashikiari/GOAT2-General-Orchestrated-Agent-Topology Comments URL: https://news.ycombinator.com/item?id=48751769 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.builder.io/blog/ai-sped-up-coding-faster-than-it-sped-up-delivery)
+📖 [Read original article](https://github.com/takashikiari/GOAT2-General-Orchestrated-Agent-Topology)
 
 ---
 
-## 4. Why AI agents get canceled (and the 5 places they fail quietly)
+## 4. AI's Event Backbone
 
-**Author:** semalba  
-**Published:** 7/1/2026, 2:21:30 PM  
+**Author:** Arimbr  
+**Published:** 7/1/2026, 7:00:27 PM  
 **Categories:** -  
 
-Article URL: https://www.brimtech.co/notes/why-agents-get-canceled/ Comments URL: https://news.ycombinator.com/item?id=48747314 Points: 1 # Comments: 1
+Article URL: https://altertable.ai/blog/2026-03-10-ai-s-events-backbone Comments URL: https://news.ycombinator.com/item?id=48751604 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.brimtech.co/notes/why-agents-get-canceled/)
+📖 [Read original article](https://altertable.ai/blog/2026-03-10-ai-s-events-backbone)
 
 ---
 
-## 5. Monlite: The complete back end for AI agents – in one file
+## 5. AI Seinfeld is taking over Twitch (2023)
 
-**Author:** emadjumaah  
-**Published:** 7/1/2026, 2:11:31 PM  
+**Author:** gregsadetsky  
+**Published:** 7/1/2026, 6:52:00 PM  
 **Categories:** -  
 
-Article URL: https://github.com/qataruts/monlite Comments URL: https://news.ycombinator.com/item?id=48747142 Points: 2 # Comments: 0
+Article URL: https://www.polygon.com/23582937/ai-seinfeld-twitch-stream/ Comments URL: https://news.ycombinator.com/item?id=48751521 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/qataruts/monlite)
+📖 [Read original article](https://www.polygon.com/23582937/ai-seinfeld-twitch-stream/)
 
 ---
 
-## 6. Meta looks to turn excess AI compute into cash
+## 6. Amazon emissions jumped 16% as AI data center demand grew
 
-**Author:** bogdiyan  
-**Published:** 7/1/2026, 2:11:28 PM  
+**Author:** logickkk1  
+**Published:** 7/1/2026, 6:51:49 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/ Comments URL: https://news.ycombinator.com/item?id=48747139 Points: 2 # Comments: 0
+Article URL: https://www.geekwire.com/2026/the-cost-of-the-ai-boom-amazon-emissions-jump-16-as-company-stands-by-net-zero-pledge/ Comments URL: https://news.ycombinator.com/item?id=48751517 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/)
+📖 [Read original article](https://www.geekwire.com/2026/the-cost-of-the-ai-boom-amazon-emissions-jump-16-as-company-stands-by-net-zero-pledge/)
 
 ---
 
-## 7. Show HN: Osiris JSON generate private infrastructure snapshot without AI or SaaS
+## 7. The first AI agent worm is months away, if that
 
-**Author:** skhell  
-**Published:** 7/1/2026, 2:07:41 PM  
+**Author:** mooreds  
+**Published:** 7/1/2026, 6:43:48 PM  
 **Categories:** -  
 
-Article URL: https://github.com/osirisjson/osiris-producers Comments URL: https://news.ycombinator.com/item?id=48747056 Points: 1 # Comments: 1
+Article URL: https://dustycloud.org/blog/the-first-ai-agent-worm-is-months-away-if-that/ Comments URL: https://news.ycombinator.com/item?id=48751431 Points: 3 # Comments: 1
 
-📖 [Read original article](https://github.com/osirisjson/osiris-producers)
+📖 [Read original article](https://dustycloud.org/blog/the-first-ai-agent-worm-is-months-away-if-that/)
 
 ---
 
-## 8. Show HN: Loma – a self-hosted shared AI layer for your whole company
+## 8. Ask HN: Will AI LLMs for coding get smarter and cheaper in the future?
 
-**Author:** tadarsh  
-**Published:** 7/1/2026, 2:07:23 PM  
+**Author:** roschdal  
+**Published:** 7/1/2026, 6:33:20 PM  
 **Categories:** -  
 
-Article URL: https://github.com/plotlinelabs/loma Comments URL: https://news.ycombinator.com/item?id=48747049 Points: 1 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=48751300 Points: 2 # Comments: 3
 
-📖 [Read original article](https://github.com/plotlinelabs/loma)
+📖 [Read original article](https://news.ycombinator.com/item?id=48751300)
 
 ---
 
-## 9. Cory Doctorow: There are reasons to be optimistic about the AI bubble bursting [video]
+## 9. Japan plans sovereign AI model and 10M robots
 
-**Author:** dgellow  
-**Published:** 7/1/2026, 2:05:30 PM  
+**Author:** geox  
+**Published:** 7/1/2026, 6:20:22 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=r03DPWGIxfY Comments URL: https://news.ycombinator.com/item?id=48747021 Points: 2 # Comments: 0
+Article URL: https://www.japantimes.co.jp/news/2026/07/01/japan/japan-ai-plans/ Comments URL: https://news.ycombinator.com/item?id=48751098 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=r03DPWGIxfY)
+📖 [Read original article](https://www.japantimes.co.jp/news/2026/07/01/japan/japan-ai-plans/)
 
 ---
 
-## 10. Creator Left Furious After Man Uses AI to Turn Her Book Idea into Content
+## 10. Anthropic is hiring someone to protect democracy from its own AI
 
-**Author:** dentemple  
-**Published:** 7/1/2026, 2:04:04 PM  
+**Author:** jgafni  
+**Published:** 7/1/2026, 6:19:58 PM  
 **Categories:** -  
 
-Article URL: https://thenerdstash.com/colorado-creator-left-furious-after-man-uses-ai-to-turn-her-book-idea-into-content-we-do-not-want-ai-slop-books/ Comments URL: https://news.ycombinator.com/item?id=48746999 Points: 4 # Comments: 1
+Article URL: https://blog.mccoy.io/anthropic-research-engineer-rule-of-law Comments URL: https://news.ycombinator.com/item?id=48751093 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thenerdstash.com/colorado-creator-left-furious-after-man-uses-ai-to-turn-her-book-idea-into-content-we-do-not-want-ai-slop-books/)
+📖 [Read original article](https://blog.mccoy.io/anthropic-research-engineer-rule-of-law)
 
 ---
 
-## 11. Chainything: Workflow automation tool with no-code UI and AI assistant
+## 11. The hard part of AI root cause analysis is no longer the model
 
-**Author:** labess40  
-**Published:** 7/1/2026, 1:55:55 PM  
+**Author:** nikolay_sivko  
+**Published:** 7/1/2026, 6:16:53 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Bessouat40/chainything Comments URL: https://news.ycombinator.com/item?id=48746862 Points: 1 # Comments: 0
+Article URL: https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/ Comments URL: https://news.ycombinator.com/item?id=48751050 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Bessouat40/chainything)
+📖 [Read original article](https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/)
 
 ---
 
-## 12. Auditable Workspaces for AI Coding Agents
+## 12. Don't let AI fill in all the important blanks
 
-**Author:** syumei  
-**Published:** 7/1/2026, 1:54:34 PM  
+**Author:** ssiddharth  
+**Published:** 7/1/2026, 6:16:05 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@Koukyosyumei/auditable-workspaces-for-ai-coding-agents-de00eff5f9b9 Comments URL: https://news.ycombinator.com/item?id=48746845 Points: 1 # Comments: 0
+Article URL: https://www.0xsid.com/blog/dont-let-ai-fill-all-the-blanks Comments URL: https://news.ycombinator.com/item?id=48751035 Points: 2 # Comments: 0
 
-📖 [Read original article](https://medium.com/@Koukyosyumei/auditable-workspaces-for-ai-coding-agents-de00eff5f9b9)
+📖 [Read original article](https://www.0xsid.com/blog/dont-let-ai-fill-all-the-blanks)
 
 ---
 
-## 13. Short story accused of being AI-written wins overall Commonwealth prize
+## 13. SpaceX Showed Investors Prototype of Elon Musk's New AI Device
 
-**Author:** Brajeshwar  
-**Published:** 7/1/2026, 1:49:09 PM  
+**Author:** jaredwiener  
+**Published:** 7/1/2026, 6:01:33 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/books/2026/jul/01/judges-claims-ai-use-commonwealth-short-story-prize-jamir-nazir Comments URL: https://news.ycombinator.com/item?id=48746757 Points: 3 # Comments: 0
+Article URL: https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b Comments URL: https://news.ycombinator.com/item?id=48750826 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/books/2026/jul/01/judges-claims-ai-use-commonwealth-short-story-prize-jamir-nazir)
+📖 [Read original article](https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b)
 
 ---
 
-## 14. AI agent safety and alignment research, mapped
+## 14. BioShocking: New attack method tricks AI Browsers into leaking user data
 
-**Author:** guyzana  
-**Published:** 7/1/2026, 1:45:20 PM  
+**Author:** newscombinatorY  
+**Published:** 7/1/2026, 5:37:27 PM  
 **Categories:** -  
 
-Article URL: https://agentbayes.com/m/jQS6rZ Comments URL: https://news.ycombinator.com/item?id=48746689 Points: 1 # Comments: 0
+Article URL: https://layerxsecurity.com/blog/bioshocking-ai-gaming-the-ai-browser-and-escaping-its-guardrails/ Comments URL: https://news.ycombinator.com/item?id=48750484 Points: 2 # Comments: 0
 
-📖 [Read original article](https://agentbayes.com/m/jQS6rZ)
+📖 [Read original article](https://layerxsecurity.com/blog/bioshocking-ai-gaming-the-ai-browser-and-escaping-its-guardrails/)
 
 ---
 
-## 15. Meta building cloud business to sell excess AI computing capacity
+## 15. Are readers generating fiction with AI models?
 
-**Author:** consumer451  
-**Published:** 7/1/2026, 1:41:54 PM  
+**Author:** ilamont  
+**Published:** 7/1/2026, 5:21:07 PM  
 **Categories:** -  
 
-Article URL: https://qz.com/meta-cloud-business-ai-computing-power-070126 Comments URL: https://news.ycombinator.com/item?id=48746637 Points: 2 # Comments: 1
+Article URL: https://arxiv.org/abs/2606.22748 Comments URL: https://news.ycombinator.com/item?id=48750247 Points: 31 # Comments: 40
 
-📖 [Read original article](https://qz.com/meta-cloud-business-ai-computing-power-070126)
+📖 [Read original article](https://arxiv.org/abs/2606.22748)
 
 ---
 
-## 16. Show HN: Bytesalt – AI that finds bugs Playwright tests miss
+## 16. Fedora: Future of Community Initiatives and AI Deveoper Desktop
 
-**Author:** deepankvora  
-**Published:** 7/1/2026, 1:38:00 PM  
+**Author:** logic  
+**Published:** 7/1/2026, 5:06:06 PM  
 **Categories:** -  
 
-Hey! I built Bytesalt and excited to share it here.Every engineering team I've been part of has had the same problem. Playwright (or similar) scripts pass, yet critical bugs showed up when real users used our software. I don't think this is because Playwright is inherently bad - it is doing its job ...
+Article URL: https://discussion.fedoraproject.org/t/fedora-council-statement-on-the-future-of-community-initiatives-and-the-ai-developer-desktop-proposal/195402 Comments URL: https://news.ycombinator.com/item?id=48750022 Points: 3 # Comments: 0
 
-📖 [Read original article](https://bytesalt.com)
+📖 [Read original article](https://discussion.fedoraproject.org/t/fedora-council-statement-on-the-future-of-community-initiatives-and-the-ai-developer-desktop-proposal/195402)
 
 ---
 
-## 17. The Usage Runtime for AI Products
+## 17. I prompt AI to write at a 7th-grade level
 
-**Author:** gemanor  
-**Published:** 7/1/2026, 1:37:53 PM  
+**Author:** bbsnly  
+**Published:** 7/1/2026, 5:03:10 PM  
 **Categories:** -  
 
-Article URL: https://www.stigg.io/blog-posts/announcing-stigg-2-0-the-usage-runtime-for-ai-products Comments URL: https://news.ycombinator.com/item?id=48746573 Points: 1 # Comments: 0
+Article URL: https://anatoliybabushka.com/blog/ela7-writing-rule.html Comments URL: https://news.ycombinator.com/item?id=48749960 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.stigg.io/blog-posts/announcing-stigg-2-0-the-usage-runtime-for-ai-products)
+📖 [Read original article](https://anatoliybabushka.com/blog/ela7-writing-rule.html)
 
 ---
 
-## 18. Tim Cook Holds 'Constructive' Talks with EU over Siri AI Launch
+## 18. AI's next bottleneck is power
 
-**Author:** thm  
-**Published:** 7/1/2026, 1:23:59 PM  
+**Author:** toredo1729_2  
+**Published:** 7/1/2026, 4:57:27 PM  
 **Categories:** -  
 
-Article URL: https://www.macrumors.com/2026/07/01/tim-cook-constructive-talks-eu-siri-ai-launch/ Comments URL: https://news.ycombinator.com/item?id=48746353 Points: 2 # Comments: 0
+Article URL: https://www.businessinsider.com/why-creator-economy-startup-founder-pivot-data-center-power-tar-2026-6 Comments URL: https://news.ycombinator.com/item?id=48749870 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.macrumors.com/2026/07/01/tim-cook-constructive-talks-eu-siri-ai-launch/)
+📖 [Read original article](https://www.businessinsider.com/why-creator-economy-startup-founder-pivot-data-center-power-tar-2026-6)
 
 ---
 
-## 19. Show HN: Riley – Content That Sounds Like You, Not Like AI
+## 19. AI Danger VC
 
-**Author:** vacostacambas  
-**Published:** 7/1/2026, 1:20:25 PM  
+**Author:** ipostragebait  
+**Published:** 7/1/2026, 4:52:07 PM  
 **Categories:** -  
 
-Working for a US company with several, very different, lines of business taught me how difficult it is to post on social media consistently and keeping the essence of each brand in all posts. Standard AI tools helped me get the first draft, but that was it. I would spend hours editing the output to ...
+Article URL: https://aidangervc.com Comments URL: https://news.ycombinator.com/item?id=48749787 Points: 1 # Comments: 0
 
-📖 [Read original article](https://rileywrites.ai)
+📖 [Read original article](https://aidangervc.com)
 
 ---
 
-## 20. Trump's plan to redesign every .gov website leads to AI horrors
+## 20. They built the world’s most powerful AI. Facing a mystery they can't explain
 
-**Author:** quantified  
-**Published:** 7/1/2026, 1:15:24 PM  
+**Author:** pseudolus  
+**Published:** 7/1/2026, 4:51:18 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/ Comments URL: https://news.ycombinator.com/item?id=48746225 Points: 6 # Comments: 0
+Article URL: https://www.washingtonpost.com/technology/2026/07/01/biggest-tech-companies-are-considering-whether-chatbots-have-emotions Comments URL: https://news.ycombinator.com/item?id=48749769 Points: 4 # Comments: 1
 
-📖 [Read original article](https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/)
+📖 [Read original article](https://www.washingtonpost.com/technology/2026/07/01/biggest-tech-companies-are-considering-whether-chatbots-have-emotions)
 
 ---
