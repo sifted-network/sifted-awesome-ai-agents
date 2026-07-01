@@ -15,7 +15,7 @@ count: 2
 
 **Author:** Grace Huckins  
 **Published:** 6/30/2026, 9:50:04 PM  
-**Categories:** Artificial intelligence, App, artificial intelligence  
+**Categories:** Artificial intelligence, App, artificial intelligence, Summary  
 
 At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c...
 
