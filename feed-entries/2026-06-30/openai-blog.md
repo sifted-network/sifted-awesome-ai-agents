@@ -23,7 +23,19 @@ New OpenAI Signals data shows how ChatGPT adoption is growing globally, with use
 
 ---
 
-## 2. Introducing GeneBench-Pro
+## 2. Inside Genebench-Pro
+
+**Author:** -  
+**Published:** 6/30/2026, 12:00:00 AM  
+**Categories:** -  
+
+
+
+📖 [Read original article](https://openai.com/index/genebench-pro/case-studies)
+
+---
+
+## 3. Introducing GeneBench-Pro
 
 **Author:** -  
 **Published:** 6/30/2026, 12:00:00 AM  
@@ -35,7 +47,7 @@ Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, b
 
 ---
 
-## 3. Core dump epidemiology: fixing an 18-year-old bug
+## 4. Core dump epidemiology: fixing an 18-year-old bug
 
 **Author:** -  
 **Published:** 6/30/2026, 12:00:00 AM  
@@ -44,17 +56,5 @@ Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, b
 OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.
 
 📖 [Read original article](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug)
-
----
-
-## 4. Inside Genebench-Pro
-
-**Author:** -  
-**Published:** 6/30/2026, 12:00:00 AM  
-**Categories:** -  
-
-
-
-📖 [Read original article](https://openai.com/index/genebench-pro/case-studies)
 
 ---
