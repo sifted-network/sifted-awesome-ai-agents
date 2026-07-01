@@ -2,179 +2,251 @@
 title: "Hacker News AI - 2026-07-01"
 date: "2026-07-01"
 source: "Hacker News AI"
-count: 14
+count: 20
 ---
 
 # Hacker News AI - 2026-07-01
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. America can switch off AI. Europe must switch gears before it's too late
+## 1. AI Engineering Roadmap
 
-**Author:** TMWNN  
-**Published:** 7/1/2026, 3:34:53 AM  
+**Author:** rohitghumare  
+**Published:** 7/1/2026, 9:48:29 AM  
 **Categories:** -  
 
-Article URL: https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late Comments URL: https://news.ycombinator.com/item?id=48741943 Points: 4 # Comments: 0
+Article URL: https://aiengineeringfromscratch.com/prereqs.html Comments URL: https://news.ycombinator.com/item?id=48744391 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late)
+📖 [Read original article](https://aiengineeringfromscratch.com/prereqs.html)
 
 ---
 
-## 2. Kaist AI reads mouse gestures as language
+## 2. AI Agent vs. Cron
 
-**Author:** geox  
-**Published:** 7/1/2026, 3:25:35 AM  
+**Author:** vasanthps  
+**Published:** 7/1/2026, 9:45:55 AM  
 **Categories:** -  
 
-Article URL: https://news.nate.com/view/20260701n15527?mid=n1101 Comments URL: https://news.ycombinator.com/item?id=48741900 Points: 1 # Comments: 0
+Most use cases that ai agents are suggested for can be done with a cron that calls LLM for processing. I understand there are genuine use cases, but I dont get why all the fervor is about Comments URL: https://news.ycombinator.com/item?id=48744381 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.nate.com/view/20260701n15527?mid=n1101)
+📖 [Read original article](https://news.ycombinator.com/item?id=48744381)
 
 ---
 
-## 3. How to talk about \"AI\" without adding to the anthropomorphization
+## 3. Show HN: Bol.ai – Extract structured data from Bills of Lading
 
-**Author:** measurablefunc  
-**Published:** 7/1/2026, 3:01:20 AM  
+**Author:** dutchcode  
+**Published:** 7/1/2026, 9:39:18 AM  
 **Categories:** -  
 
-Article URL: https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/ Comments URL: https://news.ycombinator.com/item?id=48741809 Points: 1 # Comments: 0
+Article URL: https://bol.ai/ Comments URL: https://news.ycombinator.com/item?id=48744342 Points: 1 # Comments: 0
 
-📖 [Read original article](https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/)
+📖 [Read original article](https://bol.ai/)
 
 ---
 
-## 4. Anthropic: US has lifted export controls on Fable and Mythos AI models [ ]
+## 4. Show HN: Petabyte-scale storage for AI agent sandboxes
 
-**Author:** swolpers  
-**Published:** 7/1/2026, 2:26:50 AM  
+**Author:** theaniketmaurya  
+**Published:** 7/1/2026, 9:25:15 AM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted Comments URL: https://news.ycombinator.com/item?id=48741655 Points: 1 # Comments: 0
+We enabled Petabyte scale durable storage for Celesto sandboxes, useful for coding agents, harnesses and store large files. Comments URL: https://news.ycombinator.com/item?id=48744270 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted)
+📖 [Read original article](https://twitter.com/aniketmaurya/status/2072249879573754225)
 
 ---
 
-## 5. Xiaomi Clip-On Earbuds Review: Stability, Sound, and AI in One Open-Ear Package
+## 5. Building AI for Production Requires More Engineering Than AI
 
-**Author:** takumi123  
-**Published:** 7/1/2026, 2:12:11 AM  
+**Author:** Max536752  
+**Published:** 7/1/2026, 9:13:07 AM  
 **Categories:** -  
 
-Article URL: https://www.gizmoweek.com/xiaomi-clip-on-earbuds/ Comments URL: https://news.ycombinator.com/item?id=48741603 Points: 2 # Comments: 0
+Article URL: https://geekyants.com/blog/the-hidden-cost-of-delaying-ai-product-modernization-in-enterprise-businesses Comments URL: https://news.ycombinator.com/item?id=48744173 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.gizmoweek.com/xiaomi-clip-on-earbuds/)
+📖 [Read original article](https://geekyants.com/blog/the-hidden-cost-of-delaying-ai-product-modernization-in-enterprise-businesses)
 
 ---
 
-## 6. AI smart contract auditor paste Solidity, get a vulnerability report in seconds
+## 6. 34,266 repos were scanned: 1 in 4 orgs showed gaps in AI agent config files
 
-**Author:** ninjafromqueens  
-**Published:** 7/1/2026, 2:07:47 AM  
+**Author:** claudiacsf  
+**Published:** 7/1/2026, 9:02:40 AM  
 **Categories:** -  
 
-Article URL: https://smartcontractauditor.ai/ Comments URL: https://news.ycombinator.com/item?id=48741579 Points: 1 # Comments: 0
+Article URL: https://blog.codacy.com/we-scanned-34266-repos.-1-in-4-orgs-showed-gaps-in-ai-agent-config-files Comments URL: https://news.ycombinator.com/item?id=48744080 Points: 1 # Comments: 0
 
-📖 [Read original article](https://smartcontractauditor.ai/)
+📖 [Read original article](https://blog.codacy.com/we-scanned-34266-repos.-1-in-4-orgs-showed-gaps-in-ai-agent-config-files)
 
 ---
 
-## 7. Show HN: Sibyl – self-hosted cross-agent memory for AI coding agents
+## 7. Siplinx AI Meeting Notetaker for Zoom, Google Meet
 
-**Author:** hyperb1iss  
-**Published:** 7/1/2026, 2:03:01 AM  
+**Author:** aman-flyprox  
+**Published:** 7/1/2026, 8:50:29 AM  
 **Categories:** -  
 
-I realized last year that I needed a better shared substrate for all the parallel coding (and other) agents I run if I wanted all my ADHD agentically-engineered dreams to come true. It started off as a simple Kanban board for agents with a crawler and rag, but it's long since evolved into a high per...
+Article URL: https://siplinx.com Comments URL: https://news.ycombinator.com/item?id=48743973 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/hyperb1iss/sibyl)
+📖 [Read original article](https://siplinx.com)
 
 ---
 
-## 8. AI Adoption Across the United States
+## 8. Palantir on AI Sovereignty
 
-**Author:** gmays  
-**Published:** 7/1/2026, 1:31:37 AM  
+**Author:** tosh  
+**Published:** 7/1/2026, 8:36:05 AM  
 **Categories:** -  
 
-Article URL: https://www.microsoft.com/en-us/corporate-responsibility/topics/ai-economy-institute/reports/us-ai-adoption-2026-q1/ Comments URL: https://news.ycombinator.com/item?id=48741390 Points: 3 # Comments: 2
+Article URL: https://twitter.com/PalantirTech/status/2072114267776491695 Comments URL: https://news.ycombinator.com/item?id=48743853 Points: 5 # Comments: 2
 
-📖 [Read original article](https://www.microsoft.com/en-us/corporate-responsibility/topics/ai-economy-institute/reports/us-ai-adoption-2026-q1/)
+📖 [Read original article](https://twitter.com/PalantirTech/status/2072114267776491695)
 
 ---
 
-## 9. San Francisco supervisors balk at 362-page, AI-assisted city code rewrite
+## 9. Best AI Coding Token Plans in 2026: A Practical Comparison for Developers
 
-**Author:** tastyface  
-**Published:** 7/1/2026, 1:15:00 AM  
+**Author:** Timmyzzz  
+**Published:** 7/1/2026, 8:19:58 AM  
 **Categories:** -  
 
-Article URL: https://missionlocal.org/2026/06/s-f-supervisors-balk-at-362-page-city-code-rewrite/ Comments URL: https://news.ycombinator.com/item?id=48741316 Points: 6 # Comments: 2
+Article URL: https://medium.com/@VibeHacker/best-ai-coding-token-plans-in-2026-a-practical-comparison-for-developers-78c9e12f6c60 Comments URL: https://news.ycombinator.com/item?id=48743714 Points: 1 # Comments: 0
 
-📖 [Read original article](https://missionlocal.org/2026/06/s-f-supervisors-balk-at-362-page-city-code-rewrite/)
+📖 [Read original article](https://medium.com/@VibeHacker/best-ai-coding-token-plans-in-2026-a-practical-comparison-for-developers-78c9e12f6c60)
 
 ---
 
-## 10. Show HN: Agentic OS – the operating system for AI agents
+## 10. Contributor Poker and Zig's AI Ban
 
-**Author:** nickpismenkov  
-**Published:** 7/1/2026, 1:08:47 AM  
+**Author:** birdculture  
+**Published:** 7/1/2026, 7:55:28 AM  
 **Categories:** -  
 
-Meet Agentic OS - your proactive AI assistant that seamlessly automates tasks, scheduling, and files Comments URL: https://news.ycombinator.com/item?id=48741277 Points: 2 # Comments: 0
+Article URL: https://kristoff.it/blog/contributor-poker-and-ai/ Comments URL: https://news.ycombinator.com/item?id=48743547 Points: 2 # Comments: 0
 
-📖 [Read original article](https://aos.injecting.ai/)
+📖 [Read original article](https://kristoff.it/blog/contributor-poker-and-ai/)
 
 ---
 
-## 11. Serving Local AI on My Jetson Through Durable Streams
+## 11. Godot will no longer accept AI-authored code contributions
 
-**Author:** shikhar  
-**Published:** 7/1/2026, 1:00:03 AM  
+**Author:** pjmlp  
+**Published:** 7/1/2026, 7:43:22 AM  
 **Categories:** -  
 
-Article URL: https://s2.dev/blog/local-ai Comments URL: https://news.ycombinator.com/item?id=48741231 Points: 2 # Comments: 0
+Article URL: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/ Comments URL: https://news.ycombinator.com/item?id=48743472 Points: 122 # Comments: 64
 
-📖 [Read original article](https://s2.dev/blog/local-ai)
+📖 [Read original article](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 
 ---
 
-## 12. US lifts curbs on Anthropic's Fable, Mythos AI models
+## 12. Supervised vs. Unsupervised AI-generated code
 
-**Author:** lossolo  
-**Published:** 7/1/2026, 12:59:09 AM  
+**Author:** tommyjepsen  
+**Published:** 7/1/2026, 7:34:43 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/us-lift-export-controls-anthropics-fable-ai-model-tuesday-source-says-2026-06-30/ Comments URL: https://news.ycombinator.com/item?id=48741226 Points: 7 # Comments: 1
+Article URL: https://www.tommyjepsen.com/blog/supervised-vs-unsupervised-ai-code Comments URL: https://news.ycombinator.com/item?id=48743411 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/business/us-lift-export-controls-anthropics-fable-ai-model-tuesday-source-says-2026-06-30/)
+📖 [Read original article](https://www.tommyjepsen.com/blog/supervised-vs-unsupervised-ai-code)
 
 ---
 
-## 13. Anthropic launches Claude Science: an AI workbench for scientists (2026)
+## 13. Voice of Gene Wilder recreated by AI for new Wonka-themed Netflix series
 
-**Author:** isfttr  
-**Published:** 7/1/2026, 12:58:22 AM  
+**Author:** austinallegro  
+**Published:** 7/1/2026, 7:17:10 AM  
 **Categories:** -  
 
-Article URL: https://lucasaguiar.xyz/pt/posts/claude-science-ai-workbench-cientistas-2026/ Comments URL: https://news.ycombinator.com/item?id=48741218 Points: 4 # Comments: 0
+Article URL: https://news.sky.com/story/voice-of-gene-wilder-recreated-by-ai-for-new-wonka-themed-netflix-series-13559391 Comments URL: https://news.ycombinator.com/item?id=48743292 Points: 3 # Comments: 1
 
-📖 [Read original article](https://lucasaguiar.xyz/pt/posts/claude-science-ai-workbench-cientistas-2026/)
+📖 [Read original article](https://news.sky.com/story/voice-of-gene-wilder-recreated-by-ai-for-new-wonka-themed-netflix-series-13559391)
 
 ---
 
-## 14. Guardians of the Agents Formal verification of AI workflows. (Dec 2025)
+## 14. New attack provides one more reason why AI browsers are a bad idea
 
-**Author:** steilpass  
-**Published:** 7/1/2026, 12:49:12 AM  
+**Author:** joozio  
+**Published:** 7/1/2026, 7:04:49 AM  
 **Categories:** -  
 
-Article URL: https://cacm.acm.org/practice/guardians-of-the-agents/ Comments URL: https://news.ycombinator.com/item?id=48741157 Points: 2 # Comments: 0
+Article URL: https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/ Comments URL: https://news.ycombinator.com/item?id=48743211 Points: 6 # Comments: 0
 
-📖 [Read original article](https://cacm.acm.org/practice/guardians-of-the-agents/)
+📖 [Read original article](https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/)
+
+---
+
+## 15. Liquid AI releases a 230M model optimized for phones, Raspberry Pi, and robots
+
+**Author:** mpfect  
+**Published:** 7/1/2026, 7:03:12 AM  
+**Categories:** -  
+
+Article URL: https://www.liquid.ai/blog/lfm2-5-230m Comments URL: https://news.ycombinator.com/item?id=48743203 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.liquid.ai/blog/lfm2-5-230m)
+
+---
+
+## 16. DProvenanceKit: Execution Provenance for AI Systems
+
+**Author:** DPK890  
+**Published:** 7/1/2026, 6:35:10 AM  
+**Categories:** -  
+
+Article URL: https://github.com/Therealdk8890/DProvenanceKitPython Comments URL: https://news.ycombinator.com/item?id=48743043 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/Therealdk8890/DProvenanceKitPython)
+
+---
+
+## 17. Changing AI math could reduce the hardware burden
+
+**Author:** galaxyLogic  
+**Published:** 7/1/2026, 6:12:37 AM  
+**Categories:** -  
+
+Article URL: https://www.theregister.com/ai-and-ml/2026/06/30/changing-ai-math-could-reduce-the-hardware-burden-researchers-show/5264609 Comments URL: https://news.ycombinator.com/item?id=48742903 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/30/changing-ai-math-could-reduce-the-hardware-burden-researchers-show/5264609)
+
+---
+
+## 18. Show HN: Aegize (trying to mitigate the risk of AI)
+
+**Author:** ggaswint  
+**Published:** 7/1/2026, 5:52:23 AM  
+**Categories:** -  
+
+Hi! I, among many, have been quite stressed out about all the uncertainty in the future of AI. Though i generally think our world will become a better place, the fact that there is a non-zero chance of an AI apocalypse, has made me uneasy.That's why i started this open-source project called Aegize. ...
+
+📖 [Read original article](https://www.aegize.com/playground/)
+
+---
+
+## 19. Mag 7 value shrinks by $2.3T amid AI spending jitters
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/1/2026, 5:30:45 AM  
+**Categories:** -  
+
+Article URL: https://www.cnbc.com/2026/06/30/magnificent-7-stocks-sell-off-investors-grow-jittery-on-ai-spending.html Comments URL: https://news.ycombinator.com/item?id=48742630 Points: 7 # Comments: 0
+
+📖 [Read original article](https://www.cnbc.com/2026/06/30/magnificent-7-stocks-sell-off-investors-grow-jittery-on-ai-spending.html)
+
+---
+
+## 20. AI systems out-persuade expert humans
+
+**Author:** heyimada  
+**Published:** 7/1/2026, 5:11:26 AM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2606.16475 Comments URL: https://news.ycombinator.com/item?id=48742499 Points: 4 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2606.16475)
 
 ---
