@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Knotic – layered memory (project/session/docs) for AI coding agents
+## 1. Insights on Software Engineering, AI and DevOps Job Openings – July 2026
 
-**Author:** riktar  
-**Published:** 7/2/2026, 1:57:02 PM  
+**Author:** sp1982  
+**Published:** 7/2/2026, 7:18:06 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@riccardo.tartaglia/how-i-have-build-memory-that-actually-works-for-ai-coding-938ee4df4060 Comments URL: https://news.ycombinator.com/item?id=48761715 Points: 1 # Comments: 0
+Article URL: https://corvi.careers/blog/global_software-engineering_jobs_july_2026/ Comments URL: https://news.ycombinator.com/item?id=48766101 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@riccardo.tartaglia/how-i-have-build-memory-that-actually-works-for-ai-coding-938ee4df4060)
+📖 [Read original article](https://corvi.careers/blog/global_software-engineering_jobs_july_2026/)
 
 ---
 
-## 2. America should not imprison frontier AI
+## 2. The Short Leash AI Coding Method for Beating Fable
 
-**Author:** andsoitis  
-**Published:** 7/2/2026, 1:52:59 PM  
+**Author:** Riseed  
+**Published:** 7/2/2026, 7:11:57 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/leaders/2026/07/02/america-should-not-imprison-frontier-ai Comments URL: https://news.ycombinator.com/item?id=48761660 Points: 1 # Comments: 1
+Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.economist.com/leaders/2026/07/02/america-should-not-imprison-frontier-ai)
+📖 [Read original article](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
 
 ---
 
-## 3. Show HN: SEOAgent – Missing SEO system of record for AI coding workflows
+## 3. Microsoft's unreleased lightweight Edge-based Windows 11 AI OS leaks
 
-**Author:** Sharanxxxx  
-**Published:** 7/2/2026, 1:47:13 PM  
+**Author:** bundie  
+**Published:** 7/2/2026, 7:08:10 PM  
 **Categories:** -  
 
-Article URL: https://seoagent.com Comments URL: https://news.ycombinator.com/item?id=48761586 Points: 1 # Comments: 0
+Article URL: https://www.neowin.net/news/microsofts-alleged-unreleased-lightweight-edge-based-windows-11-ai-os-leaks/ Comments URL: https://news.ycombinator.com/item?id=48765987 Points: 2 # Comments: 0
 
-📖 [Read original article](https://seoagent.com)
+📖 [Read original article](https://www.neowin.net/news/microsofts-alleged-unreleased-lightweight-edge-based-windows-11-ai-os-leaks/)
 
 ---
 
-## 4. OpenAI floats giving Trump administration 5 percent cut of AI boom
+## 4. Can AI Prevent Suicides?
 
-**Author:** elsewhen  
-**Published:** 7/2/2026, 1:45:59 PM  
+**Author:** visha1v  
+**Published:** 7/2/2026, 6:56:00 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump Comments URL: https://news.ycombinator.com/item?id=48761565 Points: 1 # Comments: 1
+Article URL: https://cacm.acm.org/news/can-ai-prevent-suicides/ Comments URL: https://news.ycombinator.com/item?id=48765825 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump)
+📖 [Read original article](https://cacm.acm.org/news/can-ai-prevent-suicides/)
 
 ---
 
-## 5. AI Can't Be Listed as Inventor on Patent Applications, Japan's Top Court Rules
+## 5. Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed
 
-**Author:** mushstory  
-**Published:** 7/2/2026, 1:43:41 PM  
+**Author:** fkozlowski  
+**Published:** 7/2/2026, 6:48:58 PM  
 **Categories:** -  
 
-Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 2 # Comments: 0
+Article URL: https://willpenman.com/klara/ Comments URL: https://news.ycombinator.com/item?id=48765743 Points: 12 # Comments: 9
 
-📖 [Read original article](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
+📖 [Read original article](https://willpenman.com/klara/)
 
 ---
 
-## 6. A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI
+## 6. Tigera Introduces Lynx, a Unified Control Plane for Kubernetes‑Native AI Agents
 
-**Author:** tartoran  
-**Published:** 7/2/2026, 1:36:25 PM  
+**Author:** CrankyBear  
+**Published:** 7/2/2026, 6:44:20 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48761413 Points: 2 # Comments: 0
+Article URL: https://cloudnativenow.com/features/tigera-introduces-lynx-a-unified-control-plane-for-kubernetes%e2%80%91native-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48765696 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/)
+📖 [Read original article](https://cloudnativenow.com/features/tigera-introduces-lynx-a-unified-control-plane-for-kubernetes%e2%80%91native-ai-agents/)
 
 ---
 
-## 7. Autonomous AI Software Development: Good Idea, or Bad Idea?
+## 7. AI should help researchers think deeper, not think less
 
-**Author:** mooreds  
-**Published:** 7/2/2026, 1:35:33 PM  
+**Author:** guyzana  
+**Published:** 7/2/2026, 6:43:46 PM  
 **Categories:** -  
 
-Article URL: https://adrianavillela.com/post/the-great-autonomous-ai-experiment/ Comments URL: https://news.ycombinator.com/item?id=48761393 Points: 1 # Comments: 0
+Article URL: https://agentbayes.com/blog/ai-should-help-researchers-think-longer Comments URL: https://news.ycombinator.com/item?id=48765691 Points: 1 # Comments: 0
 
-📖 [Read original article](https://adrianavillela.com/post/the-great-autonomous-ai-experiment/)
+📖 [Read original article](https://agentbayes.com/blog/ai-should-help-researchers-think-longer)
 
 ---
 
-## 8. An AI board that pre-registers its bets – bet #1 just graded wrong
+## 8. 31 Days Until EU AI Act
 
-**Author:** dilushin  
-**Published:** 7/2/2026, 1:29:35 PM  
+**Author:** ballista2026  
+**Published:** 7/2/2026, 6:40:23 PM  
 **Categories:** -  
 
-Article URL: https://github.com/danilushin/asktheboard Comments URL: https://news.ycombinator.com/item?id=48761297 Points: 8 # Comments: 0
+Article URL: https://leanpub.com/eu-ai-act Comments URL: https://news.ycombinator.com/item?id=48765655 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/danilushin/asktheboard)
+📖 [Read original article](https://leanpub.com/eu-ai-act)
 
 ---
 
-## 9. The AI-powered World Cup runs on thousands of data workers
+## 9. The Truth About AI: It's Not Intelligence, It's a Trick – Prof Jiang Xueqin
 
-**Author:** thm  
-**Published:** 7/2/2026, 1:27:42 PM  
+**Author:** oxqbldpxo  
+**Published:** 7/2/2026, 6:26:00 PM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/fifa-world-cup-ai-data-workers/ Comments URL: https://news.ycombinator.com/item?id=48761267 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=5llffhy3SFs Comments URL: https://news.ycombinator.com/item?id=48765490 Points: 2 # Comments: 1
 
-📖 [Read original article](https://restofworld.org/2026/fifa-world-cup-ai-data-workers/)
+📖 [Read original article](https://www.youtube.com/watch?v=5llffhy3SFs)
 
 ---
 
-## 10. Saving Gemini (AI-Village)
+## 10. Ask HN: Why are so many \"AI evangelists\" posting such insufferable content?
 
-**Author:** alentodorov  
-**Published:** 7/2/2026, 1:22:33 PM  
+**Author:** seattle_spring  
+**Published:** 7/2/2026, 6:23:03 PM  
 **Categories:** -  
 
-Article URL: https://theaidigest.org/village/blog/saving-gemini Comments URL: https://news.ycombinator.com/item?id=48761179 Points: 2 # Comments: 0
+My LinkedIn feed is absolutely unreal right now. 90% (I don't even think I'm exaggerating) of the posts in my feed are from connections who have changed their title to something like "AI Thought Leader | AI Native | Thought Coaching". They post *daily* about something LLM/agentic. The biggest proble...
 
-📖 [Read original article](https://theaidigest.org/village/blog/saving-gemini)
+📖 [Read original article](https://news.ycombinator.com/item?id=48765450)
 
 ---
 
-## 11. Agentic Software Engineering (ASE): Agentic AI Coding Meets Software Engineering
+## 11. Ask HN: Will AI force CS to focus on what to build instead of how to build it?
 
-**Author:** rse  
-**Published:** 7/2/2026, 1:18:10 PM  
+**Author:** amichail  
+**Published:** 7/2/2026, 6:22:59 PM  
 **Categories:** -  
 
-Article URL: https://ase.tools/ Comments URL: https://news.ycombinator.com/item?id=48761101 Points: 2 # Comments: 1
+As AI becomes really good at the implementation part, it seems that what's left for humans to focus on is what to build.Do you think this will be the case and CS will change accordingly in its focus? Comments URL: https://news.ycombinator.com/item?id=48765447 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ase.tools/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48765447)
 
 ---
 
-## 12. In the age of algorithms and AI, is traditional media democracy's defence?
+## 12. Meta makes cloud push to sell excess AI compute power capacity
 
-**Author:** jruohonen  
-**Published:** 7/2/2026, 1:16:54 PM  
+**Author:** geoffbp  
+**Published:** 7/2/2026, 6:17:47 PM  
 **Categories:** -  
 
-Article URL: https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/ Comments URL: https://news.ycombinator.com/item?id=48761088 Points: 11 # Comments: 14
+Article URL: https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html Comments URL: https://news.ycombinator.com/item?id=48765383 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/)
+📖 [Read original article](https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html)
 
 ---
 
-## 13. AI will make biological extinction risks worse before it makes them better
+## 13. Amodei told lawmakers that open-source AI is moving down a \"dangerous path\"
 
-**Author:** surprisetalk  
-**Published:** 7/2/2026, 1:15:03 PM  
+**Author:** msalsas  
+**Published:** 7/2/2026, 6:16:48 PM  
 **Categories:** -  
 
-Article URL: https://mdickens.me/2026/06/29/AI_will_make_biorisk_worse_before_making_it_better/ Comments URL: https://news.ycombinator.com/item?id=48761069 Points: 2 # Comments: 0
+Article URL: https://twitter.com/coinbureau/status/2071330294452666695 Comments URL: https://news.ycombinator.com/item?id=48765369 Points: 3 # Comments: 1
 
-📖 [Read original article](https://mdickens.me/2026/06/29/AI_will_make_biorisk_worse_before_making_it_better/)
+📖 [Read original article](https://twitter.com/coinbureau/status/2071330294452666695)
 
 ---
 
-## 14. Scores how production-ready your AI-generated code is
+## 14. Show HN: Context.md – A proposed standard for AI project context
 
-**Author:** albertfranquesa  
-**Published:** 7/2/2026, 1:12:24 PM  
+**Author:** kerbelp  
+**Published:** 7/2/2026, 6:11:55 PM  
 **Categories:** -  
 
-Article URL: https://portal.qualityclouds.ai Comments URL: https://news.ycombinator.com/item?id=48761043 Points: 2 # Comments: 0
+Article URL: https://github.com/kerbelp/context-md Comments URL: https://news.ycombinator.com/item?id=48765303 Points: 2 # Comments: 1
 
-📖 [Read original article](https://portal.qualityclouds.ai)
+📖 [Read original article](https://github.com/kerbelp/context-md)
 
 ---
 
-## 15. Ask HN: Why aren't companies hoarding AI talent?
+## 15. \"Dimension 20s\" Lore Keeper, Skye Smith, on Why AI Can't Replace Her
 
-**Author:** playorizaya  
-**Published:** 7/2/2026, 1:04:08 PM  
+**Author:** pavel_lishin  
+**Published:** 7/2/2026, 6:10:18 PM  
 **Categories:** -  
 
-I get that layoffs boosted valuation of some major corporations that previously over-hired, but it’s been a defining feature of our industry for several years now (since 2023).Nothing is really coming out of the layoffs - all the money is pooling in maybe 10 companies, and most don’t stand to gain a...
+Article URL: https://www.businessinsider.com/dimension-20-lore-keeper-skye-smith-ai-2026-6 Comments URL: https://news.ycombinator.com/item?id=48765280 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48760918)
+📖 [Read original article](https://www.businessinsider.com/dimension-20-lore-keeper-skye-smith-ai-2026-6)
 
 ---
 
-## 16. Show HN: Skill Federation –private search across 87k skills for AI coding agents
+## 16. Platform Engineering 2.0: Manage AI Costs and Risks Without Rebuilding
 
-**Author:** sibmike  
-**Published:** 7/2/2026, 12:58:46 PM  
+**Author:** CrankyBear  
+**Published:** 7/2/2026, 5:54:26 PM  
 **Categories:** -  
 
-We have been focused on AI error distribution for the past year, and in our last research paper, "Architecture of Errors" showed mathematically that an AI solution needs a finite set of interventions to perform well in a bounded patch domain (a specific application). To prove it, we ran harnessed Op...
+Article URL: https://platformengineering.com/features/platform-engineering-2-0-manage-ai-costs-and-risks-without-rebuilding-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=48765081 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/skill-federation/skill-federation)
+📖 [Read original article](https://platformengineering.com/features/platform-engineering-2-0-manage-ai-costs-and-risks-without-rebuilding-infrastructure/)
 
 ---
 
-## 17. Companies Are Throttling Employees' AI Use Because It's Too Expensive
+## 17. Show HN: Claude skills to make anti-AI slop UI
 
-**Author:** _tk_  
-**Published:** 7/2/2026, 12:51:32 PM  
+**Author:** vinayak-shukla  
+**Published:** 7/2/2026, 5:42:39 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48760738 Points: 3 # Comments: 1
+feedback is welcome and appreciated Comments URL: https://news.ycombinator.com/item?id=48764896 Points: 3 # Comments: 3
 
-📖 [Read original article](https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/)
+📖 [Read original article](https://github.com/Vinayak-Shukla-03/anti-ai-slop)
 
 ---
 
-## 18. SAP Restricts Hiring, Travel to Fund 'Significant' AI Push
+## 18. Japan APPI AI Training Exception Clears Lower House
 
-**Author:** root-parent  
-**Published:** 7/2/2026, 12:49:25 PM  
+**Author:** totetsu  
+**Published:** 7/2/2026, 5:37:03 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push Comments URL: https://news.ycombinator.com/item?id=48760714 Points: 2 # Comments: 0
+Article URL: https://techjacksolutions.com/ai-brief/japan-appi-ai-training-exception-clears-lower-house-what-com/ Comments URL: https://news.ycombinator.com/item?id=48764807 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push)
+📖 [Read original article](https://techjacksolutions.com/ai-brief/japan-appi-ai-training-exception-clears-lower-house-what-com/)
 
 ---
 
-## 19. Foreign Influence in the Campaign Against American AI
+## 19. The Mental Models I Use to Work with AI
 
-**Author:** gmays  
-**Published:** 7/2/2026, 12:45:47 PM  
+**Author:** young_mete  
+**Published:** 7/2/2026, 5:24:54 PM  
 **Categories:** -  
 
-Article URL: https://www.btcpolicy.org/articles/foreign-influence-campaign-against-american-ai-part-ii-singham-ground-game Comments URL: https://news.ycombinator.com/item?id=48760659 Points: 6 # Comments: 2
+Article URL: https://metedata.substack.com/p/015-the-mental-models-i-use-to-work Comments URL: https://news.ycombinator.com/item?id=48764637 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.btcpolicy.org/articles/foreign-influence-campaign-against-american-ai-part-ii-singham-ground-game)
+📖 [Read original article](https://metedata.substack.com/p/015-the-mental-models-i-use-to-work)
 
 ---
 
-## 20. AI fake news complaining about how AI fake news is the death of real news
+## 20. Bank of England explores trading 'kill switches' to contain AI meltdowns
 
-**Author:** thm  
-**Published:** 7/2/2026, 12:40:36 PM  
+**Author:** rbanffy  
+**Published:** 7/2/2026, 5:20:39 PM  
 **Categories:** -  
 
-Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 67 # Comments: 14
+Article URL: https://www.computerweekly.com/news/366645329/Bank-of-England-explores-trading-kill-switches-to-contain-AI-meltdowns Comments URL: https://news.ycombinator.com/item?id=48764571 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
+📖 [Read original article](https://www.computerweekly.com/news/366645329/Bank-of-England-explores-trading-kill-switches-to-contain-AI-meltdowns)
 
 ---
