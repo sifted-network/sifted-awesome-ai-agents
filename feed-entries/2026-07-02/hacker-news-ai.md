@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Ghbrk – Let AI agents run Git/gh without exposing SSH keys/API tokens
+## 1. Show HN: Knotic – layered memory (project/session/docs) for AI coding agents
 
-**Author:** marconae  
-**Published:** 7/2/2026, 9:07:55 AM  
+**Author:** riktar  
+**Published:** 7/2/2026, 1:57:02 PM  
 **Categories:** -  
 
-Article URL: https://github.com/marconae/ghbrk Comments URL: https://news.ycombinator.com/item?id=48758568 Points: 1 # Comments: 0
+Article URL: https://medium.com/@riccardo.tartaglia/how-i-have-build-memory-that-actually-works-for-ai-coding-938ee4df4060 Comments URL: https://news.ycombinator.com/item?id=48761715 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/marconae/ghbrk)
+📖 [Read original article](https://medium.com/@riccardo.tartaglia/how-i-have-build-memory-that-actually-works-for-ai-coding-938ee4df4060)
 
 ---
 
-## 2. Open Source AI Must Win
-
-**Author:** Gedxx  
-**Published:** 7/2/2026, 9:05:51 AM  
-**Categories:** -  
-
-Article URL: https://opensourceaimustwin.com Comments URL: https://news.ycombinator.com/item?id=48758546 Points: 1 # Comments: 0
-
-📖 [Read original article](https://opensourceaimustwin.com)
-
----
-
-## 3. Show HN: MyWritingTwin: an AI Writing Profile that makes LLMs sound like you
-
-**Author:** writingdna  
-**Published:** 7/2/2026, 7:31:12 AM  
-**Categories:** -  
-
-Article URL: https://www.mywritingtwin.com Comments URL: https://news.ycombinator.com/item?id=48757804 Points: 3 # Comments: 2
-
-📖 [Read original article](https://www.mywritingtwin.com)
-
----
-
-## 4. EXo Platform 7.2: Native AI Powering a Unified and Intelligent Digital Workplace
-
-**Author:** jaouanebrahim  
-**Published:** 7/2/2026, 7:27:38 AM  
-**Categories:** -  
-
-Article URL: https://www.exoplatform.com/blog/exo-platform-7-2-ai-powered-unified-digital-workplace/ Comments URL: https://news.ycombinator.com/item?id=48757766 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.exoplatform.com/blog/exo-platform-7-2-ai-powered-unified-digital-workplace/)
-
----
-
-## 5. Show HN: Noter – AI agent dashboard for monitoring coding harnesses locally
-
-**Author:** carlobizzaro  
-**Published:** 7/2/2026, 7:08:16 AM  
-**Categories:** -  
-
-Article URL: https://noterai.tech Comments URL: https://news.ycombinator.com/item?id=48757613 Points: 1 # Comments: 0
-
-📖 [Read original article](https://noterai.tech)
-
----
-
-## 6. MarketFish – Simulate a market with 128 AI consumers before you launch
-
-**Author:** a280887763  
-**Published:** 7/2/2026, 6:53:51 AM  
-**Categories:** -  
-
-Article URL: https://github.com/Key-wxh/market-fish Comments URL: https://news.ycombinator.com/item?id=48757500 Points: 14 # Comments: 7
-
-📖 [Read original article](https://github.com/Key-wxh/market-fish)
-
----
-
-## 7. Text AI watermarks will always be trivial to remove
-
-**Author:** ingve  
-**Published:** 7/2/2026, 6:49:46 AM  
-**Categories:** -  
-
-Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=48757466 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.seangoedecke.com/text-ai-watermarks/)
-
----
-
-## 8. Show HN: Scalable AI Management Platform
-
-**Author:** metaralf  
-**Published:** 7/2/2026, 6:45:33 AM  
-**Categories:** -  
-
-Synaplan is Apache2, comes with Open Source helm charts for K8s and has all major AI APIS integrated, including Ollama for local fun. Pretty powerful for hosters, who want to run their branded version of it (explicitly wanted). Comments URL: https://news.ycombinator.com/item?id=48757444 Points: 1 # ...
-
-📖 [Read original article](https://github.com/metadist/synaplan/)
-
----
-
-## 9. The gauge broke: devs felt 20% faster with AI, measured 19% slower
-
-**Author:** intrepidkarthi  
-**Published:** 7/2/2026, 6:44:34 AM  
-**Categories:** -  
-
-Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 68 # Comments: 79
-
-📖 [Read original article](https://intrepidkarthi.com/writing/the-gauge-broke/)
-
----
-
-## 10. BioShocking AI: \"Gaming\" the AI Browser and Escaping Its Guardrails
-
-**Author:** croes  
-**Published:** 7/2/2026, 6:44:04 AM  
-**Categories:** -  
-
-Article URL: https://layerxsecurity.com/blog/bioshocking-ai-gaming-the-ai-browser-and-escaping-its-guardrails/ Comments URL: https://news.ycombinator.com/item?id=48757436 Points: 1 # Comments: 0
-
-📖 [Read original article](https://layerxsecurity.com/blog/bioshocking-ai-gaming-the-ai-browser-and-escaping-its-guardrails/)
-
----
-
-## 11. Rasa Intelligence: AI diagnostic engine-gives one business verdict in 90 seconds
-
-**Author:** Deepti251  
-**Published:** 7/2/2026, 6:23:26 AM  
-**Categories:** -  
-
-Article URL: https://tech-rasa.com Comments URL: https://news.ycombinator.com/item?id=48757301 Points: 3 # Comments: 0
-
-📖 [Read original article](https://tech-rasa.com)
-
----
-
-## 12. AI Tutor on Your Screen
-
-**Author:** orakulus  
-**Published:** 7/2/2026, 5:50:02 AM  
-**Categories:** -  
-
-Article URL: https://heybraza.com Comments URL: https://news.ycombinator.com/item?id=48757033 Points: 1 # Comments: 2
-
-📖 [Read original article](https://heybraza.com)
-
----
-
-## 13. On AI Text Detection
-
-**Author:** dvrp  
-**Published:** 7/2/2026, 5:27:21 AM  
-**Categories:** -  
-
-Article URL: https://ethansmith2000.substack.com/p/ai-text-detection-arms-dealers-in Comments URL: https://news.ycombinator.com/item?id=48756891 Points: 1 # Comments: 0
-
-📖 [Read original article](https://ethansmith2000.substack.com/p/ai-text-detection-arms-dealers-in)
-
----
-
-## 14. SpaceX reportedly working on an AI phone
-
-**Author:** mandeepj  
-**Published:** 7/2/2026, 4:48:55 AM  
-**Categories:** -  
-
-Article URL: https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk Comments URL: https://news.ycombinator.com/item?id=48756683 Points: 2 # Comments: 4
-
-📖 [Read original article](https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk)
-
----
-
-## 15. JavaScript library for rapid AI and XR prototyping
-
-**Author:** arbayi  
-**Published:** 7/2/2026, 4:40:57 AM  
-**Categories:** -  
-
-Article URL: https://github.com/google/xrblocks Comments URL: https://news.ycombinator.com/item?id=48756638 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/google/xrblocks)
-
----
-
-## 16. Show HN: A complete AI agency at your fingertips
-
-**Author:** adithyaharish  
-**Published:** 7/2/2026, 4:23:36 AM  
-**Categories:** -  
-
-A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. Comments URL: https://news.ycombinator.com/item?id=48756547 Points: 1 # Comm...
-
-📖 [Read original article](https://github.com/msitarzewski/agency-agents)
-
----
-
-## 17. Trump's plan to redesign every .gov website leads to AI-designed horrors
-
-**Author:** duxup  
-**Published:** 7/2/2026, 4:06:40 AM  
-**Categories:** -  
-
-Article URL: https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/ Comments URL: https://news.ycombinator.com/item?id=48756437 Points: 7 # Comments: 1
-
-📖 [Read original article](https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/)
-
----
-
-## 18. White House accelerates plans for AI model standards
-
-**Author:** OutOfHere  
-**Published:** 7/2/2026, 4:04:04 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a Comments URL: https://news.ycombinator.com/item?id=48756427 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a)
-
----
-
-## 19. Your AI lover will change you
+## 2. America should not imprison frontier AI
 
 **Author:** andsoitis  
-**Published:** 7/2/2026, 4:00:43 AM  
+**Published:** 7/2/2026, 1:52:59 PM  
 **Categories:** -  
 
-Article URL: https://www.newyorker.com/culture/the-weekend-essay/your-ai-lover-will-change-you Comments URL: https://news.ycombinator.com/item?id=48756404 Points: 2 # Comments: 0
+Article URL: https://www.economist.com/leaders/2026/07/02/america-should-not-imprison-frontier-ai Comments URL: https://news.ycombinator.com/item?id=48761660 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.newyorker.com/culture/the-weekend-essay/your-ai-lover-will-change-you)
+📖 [Read original article](https://www.economist.com/leaders/2026/07/02/america-should-not-imprison-frontier-ai)
 
 ---
 
-## 20. Arena, the AI leaderboard everyone uses, is now a $100M business
+## 3. Show HN: SEOAgent – Missing SEO system of record for AI coding workflows
 
-**Author:** doppp  
-**Published:** 7/2/2026, 3:53:22 AM  
+**Author:** Sharanxxxx  
+**Published:** 7/2/2026, 1:47:13 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/ Comments URL: https://news.ycombinator.com/item?id=48756348 Points: 5 # Comments: 0
+Article URL: https://seoagent.com Comments URL: https://news.ycombinator.com/item?id=48761586 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/)
+📖 [Read original article](https://seoagent.com)
+
+---
+
+## 4. OpenAI floats giving Trump administration 5 percent cut of AI boom
+
+**Author:** elsewhen  
+**Published:** 7/2/2026, 1:45:59 PM  
+**Categories:** -  
+
+Article URL: https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump Comments URL: https://news.ycombinator.com/item?id=48761565 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump)
+
+---
+
+## 5. AI Can't Be Listed as Inventor on Patent Applications, Japan's Top Court Rules
+
+**Author:** mushstory  
+**Published:** 7/2/2026, 1:43:41 PM  
+**Categories:** -  
+
+Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/ Comments URL: https://news.ycombinator.com/item?id=48761536 Points: 2 # Comments: 0
+
+📖 [Read original article](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
+
+---
+
+## 6. A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI
+
+**Author:** tartoran  
+**Published:** 7/2/2026, 1:36:25 PM  
+**Categories:** -  
+
+Article URL: https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/ Comments URL: https://news.ycombinator.com/item?id=48761413 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/)
+
+---
+
+## 7. Autonomous AI Software Development: Good Idea, or Bad Idea?
+
+**Author:** mooreds  
+**Published:** 7/2/2026, 1:35:33 PM  
+**Categories:** -  
+
+Article URL: https://adrianavillela.com/post/the-great-autonomous-ai-experiment/ Comments URL: https://news.ycombinator.com/item?id=48761393 Points: 1 # Comments: 0
+
+📖 [Read original article](https://adrianavillela.com/post/the-great-autonomous-ai-experiment/)
+
+---
+
+## 8. An AI board that pre-registers its bets – bet #1 just graded wrong
+
+**Author:** dilushin  
+**Published:** 7/2/2026, 1:29:35 PM  
+**Categories:** -  
+
+Article URL: https://github.com/danilushin/asktheboard Comments URL: https://news.ycombinator.com/item?id=48761297 Points: 8 # Comments: 0
+
+📖 [Read original article](https://github.com/danilushin/asktheboard)
+
+---
+
+## 9. The AI-powered World Cup runs on thousands of data workers
+
+**Author:** thm  
+**Published:** 7/2/2026, 1:27:42 PM  
+**Categories:** -  
+
+Article URL: https://restofworld.org/2026/fifa-world-cup-ai-data-workers/ Comments URL: https://news.ycombinator.com/item?id=48761267 Points: 2 # Comments: 0
+
+📖 [Read original article](https://restofworld.org/2026/fifa-world-cup-ai-data-workers/)
+
+---
+
+## 10. Saving Gemini (AI-Village)
+
+**Author:** alentodorov  
+**Published:** 7/2/2026, 1:22:33 PM  
+**Categories:** -  
+
+Article URL: https://theaidigest.org/village/blog/saving-gemini Comments URL: https://news.ycombinator.com/item?id=48761179 Points: 2 # Comments: 0
+
+📖 [Read original article](https://theaidigest.org/village/blog/saving-gemini)
+
+---
+
+## 11. Agentic Software Engineering (ASE): Agentic AI Coding Meets Software Engineering
+
+**Author:** rse  
+**Published:** 7/2/2026, 1:18:10 PM  
+**Categories:** -  
+
+Article URL: https://ase.tools/ Comments URL: https://news.ycombinator.com/item?id=48761101 Points: 2 # Comments: 1
+
+📖 [Read original article](https://ase.tools/)
+
+---
+
+## 12. In the age of algorithms and AI, is traditional media democracy's defence?
+
+**Author:** jruohonen  
+**Published:** 7/2/2026, 1:16:54 PM  
+**Categories:** -  
+
+Article URL: https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/ Comments URL: https://news.ycombinator.com/item?id=48761088 Points: 11 # Comments: 14
+
+📖 [Read original article](https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/)
+
+---
+
+## 13. AI will make biological extinction risks worse before it makes them better
+
+**Author:** surprisetalk  
+**Published:** 7/2/2026, 1:15:03 PM  
+**Categories:** -  
+
+Article URL: https://mdickens.me/2026/06/29/AI_will_make_biorisk_worse_before_making_it_better/ Comments URL: https://news.ycombinator.com/item?id=48761069 Points: 2 # Comments: 0
+
+📖 [Read original article](https://mdickens.me/2026/06/29/AI_will_make_biorisk_worse_before_making_it_better/)
+
+---
+
+## 14. Scores how production-ready your AI-generated code is
+
+**Author:** albertfranquesa  
+**Published:** 7/2/2026, 1:12:24 PM  
+**Categories:** -  
+
+Article URL: https://portal.qualityclouds.ai Comments URL: https://news.ycombinator.com/item?id=48761043 Points: 2 # Comments: 0
+
+📖 [Read original article](https://portal.qualityclouds.ai)
+
+---
+
+## 15. Ask HN: Why aren't companies hoarding AI talent?
+
+**Author:** playorizaya  
+**Published:** 7/2/2026, 1:04:08 PM  
+**Categories:** -  
+
+I get that layoffs boosted valuation of some major corporations that previously over-hired, but it’s been a defining feature of our industry for several years now (since 2023).Nothing is really coming out of the layoffs - all the money is pooling in maybe 10 companies, and most don’t stand to gain a...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48760918)
+
+---
+
+## 16. Show HN: Skill Federation –private search across 87k skills for AI coding agents
+
+**Author:** sibmike  
+**Published:** 7/2/2026, 12:58:46 PM  
+**Categories:** -  
+
+We have been focused on AI error distribution for the past year, and in our last research paper, "Architecture of Errors" showed mathematically that an AI solution needs a finite set of interventions to perform well in a bounded patch domain (a specific application). To prove it, we ran harnessed Op...
+
+📖 [Read original article](https://github.com/skill-federation/skill-federation)
+
+---
+
+## 17. Companies Are Throttling Employees' AI Use Because It's Too Expensive
+
+**Author:** _tk_  
+**Published:** 7/2/2026, 12:51:32 PM  
+**Categories:** -  
+
+Article URL: https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48760738 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/)
+
+---
+
+## 18. SAP Restricts Hiring, Travel to Fund 'Significant' AI Push
+
+**Author:** root-parent  
+**Published:** 7/2/2026, 12:49:25 PM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push Comments URL: https://news.ycombinator.com/item?id=48760714 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push)
+
+---
+
+## 19. Foreign Influence in the Campaign Against American AI
+
+**Author:** gmays  
+**Published:** 7/2/2026, 12:45:47 PM  
+**Categories:** -  
+
+Article URL: https://www.btcpolicy.org/articles/foreign-influence-campaign-against-american-ai-part-ii-singham-ground-game Comments URL: https://news.ycombinator.com/item?id=48760659 Points: 6 # Comments: 2
+
+📖 [Read original article](https://www.btcpolicy.org/articles/foreign-influence-campaign-against-american-ai-part-ii-singham-ground-game)
+
+---
+
+## 20. AI fake news complaining about how AI fake news is the death of real news
+
+**Author:** thm  
+**Published:** 7/2/2026, 12:40:36 PM  
+**Categories:** -  
+
+Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/ Comments URL: https://news.ycombinator.com/item?id=48760598 Points: 67 # Comments: 14
+
+📖 [Read original article](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
 
 ---
