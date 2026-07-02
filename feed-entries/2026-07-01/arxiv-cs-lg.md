@@ -101,7 +101,7 @@ arXiv:2606.30788v1 Announce Type: new Abstract: Language models are often adapte
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.LG, stat.ML  
 
-arXiv:2606.30789v1 Announce Type: new Abstract: Group Relative Policy Optimization (GRPO) has become a standard tool for improving the reasoning ability of large language models, yet its training dynamics are still described empirically: reward trajectories are fit with low-parameter functional form...
+arXiv:2606.30789v2 Announce Type: new Abstract: We develop a first-principles reduced-order model of these dynamics. Under a single mean-field assumption that summarizes the policy by its expected reward, we reduce the GRPO update to a stochastically-forced damped oscillator whose mass, damping, and...
 
 📖 [Read original article](https://arxiv.org/abs/2606.30789)
 
@@ -281,7 +281,7 @@ arXiv:2606.31036v1 Announce Type: new Abstract: Specialist epilepsy expertise is
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.RO  
 
-arXiv:2606.31043v1 Announce Type: new Abstract: Residual reinforcement learning adapts a pretrained robot policy by learning an additive correction to its actions. While effective when adaptation amounts to shifting the base policy's action distribution, additive corrections cannot change the distri...
+arXiv:2606.31043v2 Announce Type: new Abstract: Residual reinforcement learning adapts a pretrained robot policy by learning an additive correction to its actions. While effective when adaptation amounts to shifting the base policy's action distribution, additive corrections cannot change the distri...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31043)
 
@@ -305,7 +305,7 @@ arXiv:2606.31048v1 Announce Type: new Abstract: This paper investigates knowledg
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.31092v1 Announce Type: new Abstract: Full fine-tuning adapts large language models to new tasks but can erode capabilities they already possess. Existing remedies protect through proxies such as parameter distances, importance penalties, output matching, or dominant singular directions of...
+arXiv:2606.31092v2 Announce Type: new Abstract: Full fine-tuning adapts large language models to new tasks but can erode capabilities they already possess. Existing remedies protect through proxies such as parameter distances, importance penalties, output matching, or dominant singular directions of...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31092)
 
@@ -377,7 +377,7 @@ arXiv:2606.31154v1 Announce Type: new Abstract: Creating and editing slides is a
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2606.31163v1 Announce Type: new Abstract: Large language models deployed in regulated industries operate under two constraints: compliance enforcement and cost efficiency. Personally identifiable information (PII) in user queries can reach model endpoints before the system determines whether t...
+arXiv:2606.31163v2 Announce Type: new Abstract: Large language models deployed in regulated industries operate under two constraints: compliance enforcement and cost efficiency. Personally identifiable information (PII) in user queries can reach model endpoints before the system determines whether t...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31163)
 
@@ -413,7 +413,7 @@ arXiv:2606.31184v1 Announce Type: new Abstract: Adaptive experiments for average
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.31191v1 Announce Type: new Abstract: We propose Intelligent Schema Memory (ISM), a self-evolving memory-augmented system that improves mathematical reasoning for a frozen LLM under continual learning with hard episodic resets. ISM maintains a compact, self-refined bank of strategy schemas...
+arXiv:2606.31191v2 Announce Type: new Abstract: We propose Intelligent Schema Memory (ISM), a self-evolving memory-augmented system that improves mathematical reasoning for a frozen LLM under continual learning with hard episodic resets. ISM maintains a compact, self-refined bank of strategy schemas...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31191)
 
@@ -685,11 +685,11 @@ arXiv:2606.31524v1 Announce Type: new Abstract: The Self-Improving Alignment (SA
 
 ## 57. Beyond the Expressivity-Trainability Paradox: A Dynamical Lie Algebra Perspective on Navigating Barren Plateaus in Quantum Machine Learning
 
-**Author:** Kung-Ming Lan  
+**Author:** Kung-Ming Lan, Edward Huang  
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.LG, quant-ph  
 
-arXiv:2606.31536v1 Announce Type: new Abstract: As Quantum Machine Learning (QML) transitions toward practical implementation, the field faces a critical architectural bottleneck that challenges the fundamental assumptions of classical statistical learning theory. In classical deep learning, increas...
+arXiv:2606.31536v2 Announce Type: new Abstract: As Quantum Machine Learning (QML) transitions toward practical implementation, the field faces a critical architectural bottleneck that challenges the fundamental assumptions of classical statistical learning theory. In classical deep learning, increas...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31536)
 
@@ -917,7 +917,7 @@ arXiv:2606.31904v1 Announce Type: new Abstract: The generation of synthetic rela
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.NA, math.NA  
 
-arXiv:2606.31921v1 Announce Type: new Abstract: Cohesive Zone Models (CZMs) are widely used to simulate interface fracture, delamination, adhesive failure, and fiber--matrix debonding in aerospace composite structures. In implicit quasi-static finite element analyses, cohesive softening may introduc...
+arXiv:2606.31921v2 Announce Type: new Abstract: Cohesive Zone Models (CZMs) are widely used to simulate interface fracture, delamination, adhesive failure, and fiber--matrix debonding in aerospace composite structures. In implicit quasi-static finite element analyses, cohesive softening may introduc...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31921)
 
@@ -1301,7 +1301,7 @@ arXiv:2606.30902v1 Announce Type: cross Abstract: T cell receptor (TCR)-epitope 
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG, cs.MA  
 
-arXiv:2606.30911v1 Announce Type: cross Abstract: ML engineering agents waste compute rediscovering known techniques because every competition is a cold start. We present HASTE, a hierarchical multi-agent system that organizes cross-competition knowledge into three scope tiers (global, domain, and c...
+arXiv:2606.30911v2 Announce Type: cross Abstract: ML engineering agents waste compute rediscovering known techniques because every competition is a cold start. We present HASTE, a hierarchical multi-agent system that organizes cross-competition knowledge into three scope tiers (global, domain, and c...
 
 📖 [Read original article](https://arxiv.org/abs/2606.30911)
 
@@ -2777,7 +2777,7 @@ arXiv:2606.16620v3 Announce Type: replace Abstract: Inference-time scaling has b
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.21295v4 Announce Type: replace Abstract: Existing sequence models, including RNNs, LSTMs, continuous-time networks, and Transformers, share a common structural principle: layer-wise dynamics, where all neurons in the same layer co-evolve through a shared parameterized operator, leaving in...
+arXiv:2606.21295v5 Announce Type: replace Abstract: Existing sequence models, including RNNs, LSTMs, continuous-time networks, and Transformers, share a common structural principle: layer-wise dynamics, where all neurons in the same layer co-evolve through a shared parameterized operator, leaving in...
 
 📖 [Read original article](https://arxiv.org/abs/2606.21295)
 
