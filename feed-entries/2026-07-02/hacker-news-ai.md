@@ -2,239 +2,251 @@
 title: "Hacker News AI - 2026-07-02"
 date: "2026-07-02"
 source: "Hacker News AI"
-count: 19
+count: 20
 ---
 
 # Hacker News AI - 2026-07-02
 
-19 items collected.
+20 items collected.
 
 ---
 
-## 1. Why is Apple asking me to pay more for Big Tech's AI obsession?
+## 1. Show HN: Ghbrk – Let AI agents run Git/gh without exposing SSH keys/API tokens
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/2/2026, 3:05:38 AM  
+**Author:** marconae  
+**Published:** 7/2/2026, 9:07:55 AM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech Comments URL: https://news.ycombinator.com/item?id=48756002 Points: 3 # Comments: 2
+Article URL: https://github.com/marconae/ghbrk Comments URL: https://news.ycombinator.com/item?id=48758568 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)
+📖 [Read original article](https://github.com/marconae/ghbrk)
 
 ---
 
-## 2. Fable Is Back: This Safeguard Has Some AI in It
+## 2. Open Source AI Must Win
 
-**Author:** swolpers  
-**Published:** 7/2/2026, 3:03:32 AM  
+**Author:** Gedxx  
+**Published:** 7/2/2026, 9:05:51 AM  
 **Categories:** -  
 
-Article URL: https://www.thealgorithmicbridge.com/p/fable-is-back-this-safeguard-has Comments URL: https://news.ycombinator.com/item?id=48755986 Points: 1 # Comments: 0
+Article URL: https://opensourceaimustwin.com Comments URL: https://news.ycombinator.com/item?id=48758546 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.thealgorithmicbridge.com/p/fable-is-back-this-safeguard-has)
+📖 [Read original article](https://opensourceaimustwin.com)
 
 ---
 
-## 3. Fedora Council Seeks to Shutdown Current Discussions over AI Developer Desktop
+## 3. Show HN: MyWritingTwin: an AI Writing Profile that makes LLMs sound like you
 
-**Author:** Bender  
-**Published:** 7/2/2026, 2:42:27 AM  
+**Author:** writingdna  
+**Published:** 7/2/2026, 7:31:12 AM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/news/Fedora-Council-AI-Desktop Comments URL: https://news.ycombinator.com/item?id=48755811 Points: 2 # Comments: 0
+Article URL: https://www.mywritingtwin.com Comments URL: https://news.ycombinator.com/item?id=48757804 Points: 3 # Comments: 2
 
-📖 [Read original article](https://www.phoronix.com/news/Fedora-Council-AI-Desktop)
+📖 [Read original article](https://www.mywritingtwin.com)
 
 ---
 
-## 4. Will AI spark a scientific Renaissance – or a diffuse monoculture?
+## 4. EXo Platform 7.2: Native AI Powering a Unified and Intelligent Digital Workplace
 
-**Author:** zaikunzhang  
-**Published:** 7/2/2026, 2:23:50 AM  
+**Author:** jaouanebrahim  
+**Published:** 7/2/2026, 7:27:38 AM  
 **Categories:** -  
 
-Article URL: https://www.nature.com/articles/d41586-026-01954-2 Comments URL: https://news.ycombinator.com/item?id=48755682 Points: 5 # Comments: 2
+Article URL: https://www.exoplatform.com/blog/exo-platform-7-2-ai-powered-unified-digital-workplace/ Comments URL: https://news.ycombinator.com/item?id=48757766 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.nature.com/articles/d41586-026-01954-2)
+📖 [Read original article](https://www.exoplatform.com/blog/exo-platform-7-2-ai-powered-unified-digital-workplace/)
 
 ---
 
-## 5. Reached 440+ stars: Auditable sandbox to record what AI agents did
+## 5. Show HN: Noter – AI agent dashboard for monitoring coding harnesses locally
 
-**Author:** syumei  
-**Published:** 7/2/2026, 2:23:29 AM  
+**Author:** carlobizzaro  
+**Published:** 7/2/2026, 7:08:16 AM  
 **Categories:** -  
 
-Article URL: https://old.reddit.com/r/SideProject/comments/1ul5fe9/reached_440_stars_built_an_auditable_sandbox_that/ Comments URL: https://news.ycombinator.com/item?id=48755675 Points: 2 # Comments: 0
+Article URL: https://noterai.tech Comments URL: https://news.ycombinator.com/item?id=48757613 Points: 1 # Comments: 0
 
-📖 [Read original article](https://old.reddit.com/r/SideProject/comments/1ul5fe9/reached_440_stars_built_an_auditable_sandbox_that/)
+📖 [Read original article](https://noterai.tech)
 
 ---
 
-## 6. PanelSpec – design UI on real devices, export layout prompts for AI codegen
+## 6. MarketFish – Simulate a market with 128 AI consumers before you launch
 
-**Author:** RobCrane  
-**Published:** 7/2/2026, 1:56:20 AM  
+**Author:** a280887763  
+**Published:** 7/2/2026, 6:53:51 AM  
 **Categories:** -  
 
-Article URL: https://www.ismartbase.com/designer/ Comments URL: https://news.ycombinator.com/item?id=48755509 Points: 1 # Comments: 4
+Article URL: https://github.com/Key-wxh/market-fish Comments URL: https://news.ycombinator.com/item?id=48757500 Points: 14 # Comments: 7
 
-📖 [Read original article](https://www.ismartbase.com/designer/)
+📖 [Read original article](https://github.com/Key-wxh/market-fish)
 
 ---
 
-## 7. I'm Begging You to Leave Your AI Note-Taker at Home
+## 7. Text AI watermarks will always be trivial to remove
 
-**Author:** cratermoon  
-**Published:** 7/2/2026, 1:46:59 AM  
+**Author:** ingve  
+**Published:** 7/2/2026, 6:49:46 AM  
 **Categories:** -  
 
-Article URL: https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note Comments URL: https://news.ycombinator.com/item?id=48755439 Points: 10 # Comments: 12
+Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=48757466 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note)
+📖 [Read original article](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
-## 8. WebDeck – AI-powered PPT to interactive HTML converter
+## 8. Show HN: Scalable AI Management Platform
 
-**Author:** lzytttttt  
-**Published:** 7/2/2026, 1:38:01 AM  
+**Author:** metaralf  
+**Published:** 7/2/2026, 6:45:33 AM  
 **Categories:** -  
 
-Article URL: https://github.com/lzytttttt/WebDeck Comments URL: https://news.ycombinator.com/item?id=48755374 Points: 2 # Comments: 0
+Synaplan is Apache2, comes with Open Source helm charts for K8s and has all major AI APIS integrated, including Ollama for local fun. Pretty powerful for hosters, who want to run their branded version of it (explicitly wanted). Comments URL: https://news.ycombinator.com/item?id=48757444 Points: 1 # ...
 
-📖 [Read original article](https://github.com/lzytttttt/WebDeck)
+📖 [Read original article](https://github.com/metadist/synaplan/)
 
 ---
 
-## 9. Tips for scaling AI from founders to organization leaders
+## 9. The gauge broke: devs felt 20% faster with AI, measured 19% slower
 
-**Author:** davenportjw  
-**Published:** 7/2/2026, 1:29:48 AM  
+**Author:** intrepidkarthi  
+**Published:** 7/2/2026, 6:44:34 AM  
 **Categories:** -  
 
-Article URL: https://davenporter.substack.com/p/ai-sdlc-scaling-framework Comments URL: https://news.ycombinator.com/item?id=48755319 Points: 1 # Comments: 0
+Article URL: https://intrepidkarthi.com/writing/the-gauge-broke/ Comments URL: https://news.ycombinator.com/item?id=48757440 Points: 68 # Comments: 79
 
-📖 [Read original article](https://davenporter.substack.com/p/ai-sdlc-scaling-framework)
+📖 [Read original article](https://intrepidkarthi.com/writing/the-gauge-broke/)
 
 ---
 
-## 10. That Sounds Like AI: The Last Refuge of the Intellectually Insolvent
+## 10. BioShocking AI: \"Gaming\" the AI Browser and Escaping Its Guardrails
 
-**Author:** themondayafter  
-**Published:** 7/2/2026, 1:25:42 AM  
+**Author:** croes  
+**Published:** 7/2/2026, 6:44:04 AM  
 **Categories:** -  
 
-Article URL: https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6 Comments URL: https://news.ycombinator.com/item?id=48755283 Points: 3 # Comments: 1
+Article URL: https://layerxsecurity.com/blog/bioshocking-ai-gaming-the-ai-browser-and-escaping-its-guardrails/ Comments URL: https://news.ycombinator.com/item?id=48757436 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@ryanlocklear2025/that-sounds-like-ai-the-last-refuge-of-the-intellectually-insolvent-80ffe8cc89d6)
+📖 [Read original article](https://layerxsecurity.com/blog/bioshocking-ai-gaming-the-ai-browser-and-escaping-its-guardrails/)
 
 ---
 
-## 11. More AI – Open-source model-agnostic AI desktop
+## 11. Rasa Intelligence: AI diagnostic engine-gives one business verdict in 90 seconds
 
-**Author:** DougTrier  
-**Published:** 7/2/2026, 1:23:13 AM  
+**Author:** Deepti251  
+**Published:** 7/2/2026, 6:23:26 AM  
 **Categories:** -  
 
-Article URL: https://github.com/DougTrier/MoreAI Comments URL: https://news.ycombinator.com/item?id=48755267 Points: 1 # Comments: 1
+Article URL: https://tech-rasa.com Comments URL: https://news.ycombinator.com/item?id=48757301 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/DougTrier/MoreAI)
+📖 [Read original article](https://tech-rasa.com)
 
 ---
 
-## 12. Float Runs an AI Energy Company on a 3-Person Team with Tiger Data
+## 12. AI Tutor on Your Screen
 
-**Author:** nreece  
-**Published:** 7/2/2026, 1:23:05 AM  
+**Author:** orakulus  
+**Published:** 7/2/2026, 5:50:02 AM  
 **Categories:** -  
 
-Article URL: https://www.tigerdata.com/blog/how-float-runs-ai-energy-company-3-person-team-tiger-data Comments URL: https://news.ycombinator.com/item?id=48755265 Points: 1 # Comments: 0
+Article URL: https://heybraza.com Comments URL: https://news.ycombinator.com/item?id=48757033 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.tigerdata.com/blog/how-float-runs-ai-energy-company-3-person-team-tiger-data)
+📖 [Read original article](https://heybraza.com)
 
 ---
 
-## 13. AI and Operators
+## 13. On AI Text Detection
 
-**Author:** Floukie  
-**Published:** 7/2/2026, 1:15:15 AM  
+**Author:** dvrp  
+**Published:** 7/2/2026, 5:27:21 AM  
 **Categories:** -  
 
-Article URL: https://vektorgeist.com/market Comments URL: https://news.ycombinator.com/item?id=48755190 Points: 1 # Comments: 0
+Article URL: https://ethansmith2000.substack.com/p/ai-text-detection-arms-dealers-in Comments URL: https://news.ycombinator.com/item?id=48756891 Points: 1 # Comments: 0
 
-📖 [Read original article](https://vektorgeist.com/market)
+📖 [Read original article](https://ethansmith2000.substack.com/p/ai-text-detection-arms-dealers-in)
 
 ---
 
-## 14. Show HN: A local AI-powered Bloomberg terminal for German meme stocks
+## 14. SpaceX reportedly working on an AI phone
 
-**Author:** bsommerfeld  
-**Published:** 7/2/2026, 1:15:03 AM  
+**Author:** mandeepj  
+**Published:** 7/2/2026, 4:48:55 AM  
 **Categories:** -  
 
-Article URL: https://github.com/bsommerfeld/wsbg-terminal Comments URL: https://news.ycombinator.com/item?id=48755188 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk Comments URL: https://news.ycombinator.com/item?id=48756683 Points: 2 # Comments: 4
 
-📖 [Read original article](https://github.com/bsommerfeld/wsbg-terminal)
+📖 [Read original article](https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk)
 
 ---
 
-## 15. Show HN: Open-source Deterministic Guardrails Against AI Duplicated Code
+## 15. JavaScript library for rapid AI and XR prototyping
 
-**Author:** rafaepta  
-**Published:** 7/2/2026, 1:03:55 AM  
+**Author:** arbayi  
+**Published:** 7/2/2026, 4:40:57 AM  
 **Categories:** -  
 
-Article URL: https://github.com/Rafaelpta/dupehound Comments URL: https://news.ycombinator.com/item?id=48755100 Points: 1 # Comments: 0
+Article URL: https://github.com/google/xrblocks Comments URL: https://news.ycombinator.com/item?id=48756638 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/Rafaelpta/dupehound)
+📖 [Read original article](https://github.com/google/xrblocks)
 
 ---
 
-## 16. The AI industrial revolution: why US faces a historic tech reckoning from China
+## 16. Show HN: A complete AI agency at your fingertips
 
-**Author:** outrunner  
-**Published:** 7/2/2026, 1:01:53 AM  
+**Author:** adithyaharish  
+**Published:** 7/2/2026, 4:23:36 AM  
 **Categories:** -  
 
-Article URL: https://www.scmp.com/tech/article/3358925/great-ai-reckoning-how-china-flipping-script-us-new-industrial-revolution Comments URL: https://news.ycombinator.com/item?id=48755083 Points: 2 # Comments: 0
+A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. Comments URL: https://news.ycombinator.com/item?id=48756547 Points: 1 # Comm...
 
-📖 [Read original article](https://www.scmp.com/tech/article/3358925/great-ai-reckoning-how-china-flipping-script-us-new-industrial-revolution)
+📖 [Read original article](https://github.com/msitarzewski/agency-agents)
 
 ---
 
-## 17. Kling AI nears US$3B round at US$18B valuation: sources
+## 17. Trump's plan to redesign every .gov website leads to AI-designed horrors
 
-**Author:** merlioncity  
-**Published:** 7/2/2026, 1:00:41 AM  
+**Author:** duxup  
+**Published:** 7/2/2026, 4:06:40 AM  
 **Categories:** -  
 
-Article URL: https://www.scmp.com/tech/big-tech/article/3359059/chinas-kling-ai-nears-us3-billion-round-us18-billion-valuation-sources Comments URL: https://news.ycombinator.com/item?id=48755077 Points: 3 # Comments: 0
+Article URL: https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/ Comments URL: https://news.ycombinator.com/item?id=48756437 Points: 7 # Comments: 1
 
-📖 [Read original article](https://www.scmp.com/tech/big-tech/article/3359059/chinas-kling-ai-nears-us3-billion-round-us18-billion-valuation-sources)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/)
 
 ---
 
-## 18. Palantir CEO Alex Karp says 'something has gone wrong' with how AI is sold
+## 18. White House accelerates plans for AI model standards
 
-**Author:** king_zee  
-**Published:** 7/2/2026, 1:00:28 AM  
+**Author:** OutOfHere  
+**Published:** 7/2/2026, 4:04:04 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=0A3sGymV6kY Comments URL: https://news.ycombinator.com/item?id=48755074 Points: 3 # Comments: 2
+Article URL: https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a Comments URL: https://news.ycombinator.com/item?id=48756427 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=0A3sGymV6kY)
+📖 [Read original article](https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a)
 
 ---
 
-## 19. I have a theory about AI fake news site The Editorial
+## 19. Your AI lover will change you
 
-**Author:** benwerd  
-**Published:** 7/2/2026, 12:34:08 AM  
+**Author:** andsoitis  
+**Published:** 7/2/2026, 4:00:43 AM  
 **Categories:** -  
 
-Article URL: https://werd.io/i-have-a-theory-about-ai-fake-news-site-the-editorial/ Comments URL: https://news.ycombinator.com/item?id=48754929 Points: 1 # Comments: 0
+Article URL: https://www.newyorker.com/culture/the-weekend-essay/your-ai-lover-will-change-you Comments URL: https://news.ycombinator.com/item?id=48756404 Points: 2 # Comments: 0
 
-📖 [Read original article](https://werd.io/i-have-a-theory-about-ai-fake-news-site-the-editorial/)
+📖 [Read original article](https://www.newyorker.com/culture/the-weekend-essay/your-ai-lover-will-change-you)
+
+---
+
+## 20. Arena, the AI leaderboard everyone uses, is now a $100M business
+
+**Author:** doppp  
+**Published:** 7/2/2026, 3:53:22 AM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/ Comments URL: https://news.ycombinator.com/item?id=48756348 Points: 5 # Comments: 0
+
+📖 [Read original article](https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/)
 
 ---
