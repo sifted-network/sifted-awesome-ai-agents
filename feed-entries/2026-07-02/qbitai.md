@@ -11,7 +11,67 @@ count: 10
 
 ---
 
-## 1. 钉钉A1录音卡入选Gartner AI可穿戴设备报告
+## 1. 让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施
+
+**Author:** 量子位的朋友们  
+**Published:** 7/2/2026, 11:28:36 AM  
+**Categories:** 资讯, AReaL  
+
+与社区共同推进自演进智能体生态发展
+
+📖 [Read original article](https://www.qbitai.com/2026/07/442134.html)
+
+---
+
+## 2. 全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货
+
+**Author:** 闻乐  
+**Published:** 7/2/2026, 10:56:23 AM  
+**Categories:** 资讯, 首页轮播, LongCat, 美团AI  
+
+霸榜OpenR ou
+
+📖 [Read original article](https://www.qbitai.com/2026/07/442047.html)
+
+---
+
+## 3. 科大讯飞举办智能交互生态发布会，三大平台同步升级
+
+**Author:** 量子位的朋友们  
+**Published:** 7/2/2026, 10:45:31 AM  
+**Categories:** 资讯  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/07/442048.html)
+
+---
+
+## 4. 论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭
+
+**Author:** 量子位的朋友们  
+**Published:** 7/2/2026, 10:29:03 AM  
+**Categories:** 资讯, waic2026  
+
+7月17日至7月20日
+
+📖 [Read original article](https://www.qbitai.com/2026/07/442037.html)
+
+---
+
+## 5. 天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊
+
+**Author:** 量子位的朋友们  
+**Published:** 7/2/2026, 10:24:32 AM  
+**Categories:** 资讯, 天工AI  
+
+和人并肩工作
+
+📖 [Read original article](https://www.qbitai.com/2026/07/442030.html)
+
+---
+
+## 6. 钉钉A1录音卡入选Gartner AI可穿戴设备报告
 
 **Author:** 梦晨  
 **Published:** 7/2/2026, 8:03:00 AM  
@@ -23,7 +83,7 @@ AI 硬件的终局不是比拼参数，而是比拼背后有没有一个真正�
 
 ---
 
-## 2. 招募｜量子位RSS’26专题策划
+## 7. 招募｜量子位RSS’26专题策划
 
 **Author:** 量子位的朋友们  
 **Published:** 7/2/2026, 7:33:10 AM  
@@ -35,7 +95,7 @@ AI 硬件的终局不是比拼参数，而是比拼背后有没有一个真正�
 
 ---
 
-## 3. 一个广告营销老炮，率先冲刺A股无人驾驶第一股
+## 8. 一个广告营销老炮，率先冲刺A股无人驾驶第一股
 
 **Author:** 杰西卡  
 **Published:** 7/2/2026, 7:16:15 AM  
@@ -47,7 +107,7 @@ AI 硬件的终局不是比拼参数，而是比拼背后有没有一个真正�
 
 ---
 
-## 4. 天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进
+## 9. 天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进
 
 **Author:** 量子位的朋友们  
 **Published:** 7/2/2026, 6:23:10 AM  
@@ -59,7 +119,7 @@ AI 硬件的终局不是比拼参数，而是比拼背后有没有一个真正�
 
 ---
 
-## 5. 训练世界模型，开始从人类的肌肉和脑子里偷师了
+## 10. 训练世界模型，开始从人类的肌肉和脑子里偷师了
 
 **Author:** 思邈  
 **Published:** 7/2/2026, 5:44:25 AM  
@@ -68,65 +128,5 @@ AI 硬件的终局不是比拼参数，而是比拼背后有没有一个真正�
 具身智能数采迎来了新范式
 
 📖 [Read original article](https://www.qbitai.com/2026/07/441725.html)
-
----
-
-## 6. 2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！
-
-**Author:** 量子位的朋友们  
-**Published:** 7/2/2026, 5:33:37 AM  
-**Categories:** 资讯, Token供需, 中国智算产业大会, 中国智算产业生态发展年会, 算力生态  
-
-AI入场景，Token大时代。
-
-📖 [Read original article](https://www.qbitai.com/2026/07/441586.html)
-
----
-
-## 7. 世界模型来了因果技术标杆！具身大脑真要长脑子了
-
-**Author:** 林, 方舟  
-**Published:** 7/2/2026, 4:36:47 AM  
-**Categories:** 资讯, 世界模型, 具身大脑, 因果  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/441490.html)
-
----
-
-## 8. AI眼镜不再依赖手机！这次真要单飞了
-
-**Author:** 梦瑶  
-**Published:** 7/2/2026, 4:20:47 AM  
-**Categories:** 资讯, AI眼镜  
-
-AI时代自己的操作系统来了
-
-📖 [Read original article](https://www.qbitai.com/2026/07/441491.html)
-
----
-
-## 9. 7月14日悉尼RSS’26，线下Social Mixer晚宴报名中！
-
-**Author:** 量子位的朋友们  
-**Published:** 7/2/2026, 4:07:27 AM  
-**Categories:** 资讯, RSS 2026  
-
-机器人顶会RSS 2026就要来了！
-
-📖 [Read original article](https://www.qbitai.com/2026/07/441479.html)
-
----
-
-## 10. 人才黑洞！UC伯克利系主任都加入A社了
-
-**Author:** 鱼羊  
-**Published:** 7/2/2026, 3:49:58 AM  
-**Categories:** 资讯, Anthropic, UC伯克利  
-
-加盟预训练团队
-
-📖 [Read original article](https://www.qbitai.com/2026/07/441447.html)
 
 ---
