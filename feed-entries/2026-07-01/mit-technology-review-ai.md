@@ -15,7 +15,7 @@ count: 1
 
 **Author:** Will Douglas Heaven  
 **Published:** 7/1/2026, 2:35:16 PM  
-**Categories:** Artificial intelligence, App  
+**Categories:** Artificial intelligence, App, Summary  
 
 Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;
 
