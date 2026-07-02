@@ -77,7 +77,7 @@ arXiv:2606.30852v1 Announce Type: new Abstract: Reasoning models spend different
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.30863v1 Announce Type: new Abstract: Agents typically assume an expert user -- one with well-formed preferences about what they want -- and default to clarifying questions whenever the task is underspecified. We argue this assumption is unrealistic. Users often lack the domain knowledge t...
+arXiv:2606.30863v2 Announce Type: new Abstract: Agents typically assume an expert user -- one with well-formed preferences about what they want -- and default to clarifying questions whenever the task is underspecified. We argue this assumption is unrealistic. Users often lack the domain knowledge t...
 
 📖 [Read original article](https://arxiv.org/abs/2606.30863)
 
@@ -101,7 +101,7 @@ arXiv:2606.30906v1 Announce Type: new Abstract: Artificial Intelligence is incre
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG, cs.MA  
 
-arXiv:2606.30911v1 Announce Type: new Abstract: ML engineering agents waste compute rediscovering known techniques because every competition is a cold start. We present HASTE, a hierarchical multi-agent system that organizes cross-competition knowledge into three scope tiers (global, domain, and com...
+arXiv:2606.30911v2 Announce Type: new Abstract: ML engineering agents waste compute rediscovering known techniques because every competition is a cold start. We present HASTE, a hierarchical multi-agent system that organizes cross-competition knowledge into three scope tiers (global, domain, and com...
 
 📖 [Read original article](https://arxiv.org/abs/2606.30911)
 
@@ -541,11 +541,11 @@ arXiv:2606.31404v1 Announce Type: new Abstract: Human swarm intelligence demonst
 
 ## 45. Xiaomi-GUI-0 Technical Report
 
-**Author:** Wanxia Cao, Chengzhen Duan, Pei Fu, Pengzhi Gao, Niu Lian, Fazhan Liu, Hui Liu, Heng Qu, Qinzhuo Wu, Zhehao Yu, Tongbo Chen, Shiqi Cui, Anan Du, Shukai Jia, Yuanfa Li, Yike Liu, Wenchao Lu, Haoyuan Sun, Jiatong Sun, Cheng Tan, Yajie Wang, Changqiao Wu, Tao Xiong, Jiahui Yang, Yuxuan Yuan, Ruoceng Zhang, Shaojie Zhang, Jian Zhu, Jian Luan, Cong Zou  
+**Author:** Wanxia Cao, Chengzhen Duan, Pei Fu, Pengzhi Gao, Niu Lian, Fazhan Liu, Hui Liu, Heng Qu, Qinzhuo Wu, Zhehao Yu, Tongbo Chen, Shiqi Cui, Anan Du, Shukai Jia, Yuanfa Li, Wei Liu, Yike Liu, Wenchao Lu, Zhenbo Luo, Haoyuan Sun, Jiatong Sun, Cheng Tan, Yajie Wang, Changqiao Wu, Tao Xiong, Jiahui Yang, Yuxuan Yuan, Ruoceng Zhang, Shaojie Zhang, Jian Zhu, Jian Luan, Cong Zou  
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.31410v1 Announce Type: new Abstract: Graphical user interface (GUI) agents build on vision-language models to complete user tasks end-to-end in real applications through interface actions such as tapping, swiping, text entry, and navigation. However, existing GUI agents are trained and ev...
+arXiv:2606.31410v2 Announce Type: new Abstract: Graphical user interface (GUI) agents build on vision-language models to complete user tasks end-to-end in real applications through interface actions such as tapping, swiping, text entry, and navigation. However, existing GUI agents are trained and ev...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31410)
 
@@ -1633,11 +1633,11 @@ arXiv:2606.31080v1 Announce Type: cross Abstract: Counterfactual explanation in 
 
 ## 136. When Reranking Hurts: Uncertainty-Based Gating for Few-Shot Reranking
 
-**Author:** Orian Dabod, Amir Cohen, Gabriel Stanovsky  
+**Author:** Orian Dabod, Amir DN Cohen, Gabriel Stanovsky  
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2606.31087v1 Announce Type: cross Abstract: Few-shot selection typically assumes that reranking retrieved examples always improves performance. We challenge this view by identifying that the expensive reranking step can in fact degrade performance. Instead, we propose \emph{Training-Free Gated...
+arXiv:2606.31087v2 Announce Type: cross Abstract: Few-shot selection typically assumes that reranking retrieved examples always improves performance. We challenge this view by identifying that the expensive reranking step can in fact degrade performance. Instead, we propose \emph{Training-Free Gated...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31087)
 
@@ -1757,7 +1757,7 @@ arXiv:2606.31158v1 Announce Type: cross Abstract: The quest for intuitive and na
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2606.31163v1 Announce Type: cross Abstract: Large language models deployed in regulated industries operate under two constraints: compliance enforcement and cost efficiency. Personally identifiable information (PII) in user queries can reach model endpoints before the system determines whether...
+arXiv:2606.31163v2 Announce Type: cross Abstract: Large language models deployed in regulated industries operate under two constraints: compliance enforcement and cost efficiency. Personally identifiable information (PII) in user queries can reach model endpoints before the system determines whether...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31163)
 
@@ -1949,7 +1949,7 @@ arXiv:2606.31311v1 Announce Type: cross Abstract: Testing a new visual-analytics
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2606.31329v1 Announce Type: cross Abstract: Hierarchical Vision-Language-Action (VLA) models decouple high-level planning from low-level control to improve generalization in robot manipulation. Recent work in this paradigm uses 2D end-effector trajectories predicted by a Vision-Language Model ...
+arXiv:2606.31329v2 Announce Type: cross Abstract: Hierarchical Vision-Language-Action (VLA) models decouple high-level planning from low-level control to improve generalization in robot manipulation. Recent work in this paradigm uses 2D end-effector trajectories predicted by a Vision-Language Model ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31329)
 
@@ -2129,7 +2129,7 @@ arXiv:2606.31494v1 Announce Type: cross Abstract: Humans and animals exhibit rem
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2606.31522v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly deployed as autonomous financial agents initialized with explicit behavioral mandates such as "preserve capital" or "avoid speculative bets" that are meant to govern every decision throughout deployment. ...
+arXiv:2606.31522v2 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly deployed as autonomous financial agents initialized with explicit behavioral mandates such as "preserve capital" or "avoid speculative bets" that are meant to govern every decision throughout deployment. ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31522)
 
@@ -2945,7 +2945,7 @@ arXiv:2604.14790v2 Announce Type: replace Abstract: Interactive Evolutionary Com
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2604.17931v3 Announce Type: replace Abstract: Reinforcement Learning (RL) has emerged as a powerful training paradigm for LLM-based agents. However, scaling agentic RL for deep research remains constrained by two coupled challenges: hand-crafted synthetic data fails to elicit genuine real-worl...
+arXiv:2604.17931v4 Announce Type: replace Abstract: Reinforcement Learning (RL) has emerged as a powerful training paradigm for LLM-based agents. However, scaling agentic RL for deep research remains constrained by two coupled challenges: hand-crafted synthetic data fails to elicit genuine real-worl...
 
 📖 [Read original article](https://arxiv.org/abs/2604.17931)
 
@@ -2969,7 +2969,7 @@ arXiv:2605.09045v2 Announce Type: replace Abstract: Agentic frameworks are the s
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2605.24661v2 Announce Type: replace Abstract: LLMs have achieved remarkable success in complex reasoning tasks, yet current evaluation approaches predominantly rely on final-answer correctness, offering limited insight into the underlying reasoning processes that produce those answers. To addr...
+arXiv:2605.24661v3 Announce Type: replace Abstract: Despite remarkable progress on reasoning benchmarks, current LLM evaluation practice remains anchored to final-answer correctness, providing limited insight into how models reason, how reliably they behave under contextual variation, or how efficie...
 
 📖 [Read original article](https://arxiv.org/abs/2605.24661)
 
@@ -3001,11 +3001,11 @@ arXiv:2606.00970v2 Announce Type: replace Abstract: We study risk-neutral contro
 
 ## 250. Reasoning4Sciences: Bridging Reasoning Language Models to All Scientific Branches
 
-**Author:** Teddy Ferdinan, Bart{\l}omiej Koptyra, Miko{\l}aj Langner, Tomasz Adamczyk, {\L}ukasz Radli\'nski, Maciej Markiewicz, Aleksander Szcz\k{e}sny, Stanis{\l}aw Wo\'zniak, Tymoteusz Romanowicz, Dzmitry Pihulski, Mateusz Zbrocki, Mateusz \'Smigielski, Micha{\l} Rajkowski, Mateusz Biedka, Konrad Kie{\l}czy\'nski, Konrad Wojtasik, Jacek Duszenko, Jan Eliasz, Piotr Matys, Micha{\l} Bernacki-Janson, Maria Bellaniar Ismiati, Latius Hermawan, Wiktoria Mieleszczenko-Kowszewicz, Anna Kubicka-Sowi\'nska, Grzegorz Chodak, Karol Postawa, Pawe{\l} Zyblewski, Tomasz Szanda{\l}a, {\L}ukasz Sterczewski, Adrian Chajec, Pawe{\l} Niewiadomski, Piotr Gruber, Marcin Wdowikowski, S{\l}awomir Czarnecki, Bart{\l}omiej Kryszak, Dominik Drabik, Tomasz Kajdanowicz, Kamil Mamak, Pawe{\l} Pre\'s, Katarzyna Paczkowska, Joachim Sobczuk, Tomasz Zi\k{e}ba, Jan Koco\'n, Maciej Piasecki, Przemys{\l}aw Kazienko  
+**Author:** Teddy Ferdinan, Bart{\l}omiej Koptyra, Miko{\l}aj Langner, Tomasz Adamczyk, {\L}ukasz Radli\'nski, Maciej Markiewicz, Aleksander Szcz\k{e}sny, Stanis{\l}aw Wo\'zniak, Tymoteusz Romanowicz, Dzmitry Pihulski, Mateusz Zbrocki, Mateusz \'Smigielski, Micha{\l} Rajkowski, Mateusz Biedka, Konrad Kie{\l}czy\'nski, Konrad Wojtasik, Jacek Duszenko, Jan Eliasz, Piotr Matys, Maria Bellaniar Ismiati, Latius Hermawan, Wiktoria Mieleszczenko-Kowszewicz, Anna Kubicka-Sowi\'nska, Grzegorz Chodak, Karol Postawa, Pawe{\l} Zyblewski, Tomasz Szanda{\l}a, {\L}ukasz Sterczewski, Adrian Chajec, Pawe{\l} Niewiadomski, Piotr Gruber, Marcin Wdowikowski, S{\l}awomir Czarnecki, Bart{\l}omiej Kryszak, Dominik Drabik, Tomasz Kajdanowicz, Kamil Mamak, Pawe{\l} Pre\'s, Katarzyna Paczkowska, Joachim Sobczuk, Tomasz Zi\k{e}ba, Jan Koco\'n, Maciej Piasecki, Przemys{\l}aw Kazienko  
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.01145v3 Announce Type: replace Abstract: While Reasoning Language Models (RLMs) are rapidly emerging as powerful tools for scientific research, their impact is primarily concentrated in "hard science" fields. The slow -- or lack of -- adoption of RLMs in other branches of science is causi...
+arXiv:2606.01145v4 Announce Type: replace Abstract: While Reasoning Language Models (RLMs) are rapidly emerging as powerful tools for scientific research, their impact is primarily concentrated in "hard science" fields. The slow -- or lack of -- adoption of RLMs in other branches of science is causi...
 
 📖 [Read original article](https://arxiv.org/abs/2606.01145)
 
@@ -3157,11 +3157,11 @@ arXiv:2606.29180v2 Announce Type: replace Abstract: A Knowledge Graph (KG) repre
 
 ## 263. Beyond Triplet Plausibility: Relation Set Completion in Knowledge Graphs
 
-**Author:** Zihao Zheng, Borui Cai, Yao Zhao, Keshav Sood, Yong Xiang  
+**Author:** Zihao Zheng, Borui Cai, Yao Zhao, Xin Han, Mengqi Ji  
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.29860v2 Announce Type: replace Abstract: Knowledge graphs (KGs) organize real-world knowledge as triplets and underpin many downstream applications. Due to their inherent incompleteness, knowledge graph completion (KGC) is widely studied and is typically formulated as triplet prediction, ...
+arXiv:2606.29860v3 Announce Type: replace Abstract: Knowledge graphs (KGs) organize real-world knowledge as triplets and underpin many downstream applications. Due to their inherent incompleteness, knowledge graph completion (KGC) is widely studied and is typically formulated as triplet prediction, ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.29860)
 
@@ -3287,13 +3287,13 @@ arXiv:2504.12557v3 Announce Type: replace-cross Abstract: Ensuring safe behavior
 
 ---
 
-## 274. A Reproducible Benchmark of Lightweight CNNs: Accuracy, Efficiency, and the Impact of Pretrained Initialization
+## 274. Comparative Analysis of Lightweight CNNs for Resource-Constrained Devices: Predictive Performance, Efficiency Trade-offs, and Initialization Effects
 
 **Author:** Tasnim Shahriar  
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2505.03303v3 Announce Type: replace-cross Abstract: Lightweight convolutional neural networks are often compared using results obtained with different training recipes, input settings, and pretrained checkpoints. Such differences make architecture rankings difficult to interpret. This study pr...
+arXiv:2505.03303v4 Announce Type: replace-cross Abstract: Lightweight convolutional neural networks are often compared using results obtained with different training recipes, input settings, and pretrained checkpoints. Such differences make architecture rankings difficult to interpret. This study pr...
 
 📖 [Read original article](https://arxiv.org/abs/2505.03303)
 
@@ -3941,7 +3941,7 @@ arXiv:2605.23995v4 Announce Type: replace-cross Abstract: Self-supervised learni
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI  
 
-arXiv:2605.26542v3 Announce Type: replace-cross Abstract: Tool-using agents increasingly operate in open-ended deployment environments, where they compose file systems, web APIs, code interpreters, and enterprise services at runtime. This creates a safety gap in tool composition: an agent can satisf...
+arXiv:2605.26542v4 Announce Type: replace-cross Abstract: Tool-using agents increasingly operate in open-ended deployment environments, where they compose file systems, web APIs, code interpreters, and enterprise services at runtime. This creates a safety gap in tool composition: an agent can satisf...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26542)
 
@@ -4045,11 +4045,11 @@ arXiv:2606.16620v3 Announce Type: replace-cross Abstract: Inference-time scaling
 
 ## 337. PSCT-Net: Geometry-Aware Pediatric Skull CT Reconstruction via Differentiable Back-Projection and Attention-Guided Refinement
 
-**Author:** Dong Yeong Kim, Jaewon Choi, Youmin Shin, Jungyu Lee, Myeongseop Kim, Jinwook Choi, Joo Whan Kim, Young-Gon Kim  
+**Author:** Dong Yeong Kim, Jaewon Choi, Youmin Shin, JunGyu Lee, Myeongseop Kim, Jinwook Choi, Joo Whan Kim, Young-Gon Kim  
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2606.19867v2 Announce Type: replace-cross Abstract: Computed Tomography (CT) is essential for diagnosing pediatric craniofacial abnormalities, yet poses radiation risks to developing anatomies. Reconstructing 3D CT from sparse bi-planar X-rays offers a low-dose alternative but is severely ill-...
+arXiv:2606.19867v3 Announce Type: replace-cross Abstract: Computed Tomography (CT) is essential for diagnosing pediatric craniofacial abnormalities, yet poses radiation risks to developing anatomies. Reconstructing 3D CT from sparse bi-planar X-rays offers a low-dose alternative but is severely ill-...
 
 📖 [Read original article](https://arxiv.org/abs/2606.19867)
 
@@ -4061,7 +4061,7 @@ arXiv:2606.19867v2 Announce Type: replace-cross Abstract: Computed Tomography (C
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.21295v4 Announce Type: replace-cross Abstract: Existing sequence models, including RNNs, LSTMs, continuous-time networks, and Transformers, share a common structural principle: layer-wise dynamics, where all neurons in the same layer co-evolve through a shared parameterized operator, leav...
+arXiv:2606.21295v5 Announce Type: replace-cross Abstract: Existing sequence models, including RNNs, LSTMs, continuous-time networks, and Transformers, share a common structural principle: layer-wise dynamics, where all neurons in the same layer co-evolve through a shared parameterized operator, leav...
 
 📖 [Read original article](https://arxiv.org/abs/2606.21295)
 
@@ -4121,7 +4121,7 @@ arXiv:2606.23375v2 Announce Type: replace-cross Abstract: While the wider applic
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2606.23884v2 Announce Type: replace-cross Abstract: General-purpose large language models (LLMs) are increasingly used for mental health-related conversations, yet safety guardrails remain inadequate and inconsistent across clinical conditions. This study evaluates eight proprietary LLMs acros...
+arXiv:2606.23884v3 Announce Type: replace-cross Abstract: General-purpose large language models (LLMs) are increasingly used for mental health-related conversations, yet safety guardrails remain inadequate and inconsistent across clinical conditions. This study evaluates eight proprietary LLMs acros...
 
 📖 [Read original article](https://arxiv.org/abs/2606.23884)
 
@@ -4241,7 +4241,7 @@ arXiv:2606.28787v2 Announce Type: replace-cross Abstract: Multi-Frequency Electr
 **Published:** 7/1/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI  
 
-arXiv:2606.29088v2 Announce Type: replace-cross Abstract: There are various benchmarks to evaluate bugfixing capabilities of Large Language Models. However, most widespread benchmarks do not fully reflect real-world bugfixing practices. They are small, weakening statistical reliability, and the bugg...
+arXiv:2606.29088v3 Announce Type: replace-cross Abstract: There are various benchmarks to evaluate bugfixing capabilities of Large Language Models. However, most widespread benchmarks do not fully reflect real-world bugfixing practices. They are small, weakening statistical reliability, and the bugg...
 
 📖 [Read original article](https://arxiv.org/abs/2606.29088)
 
