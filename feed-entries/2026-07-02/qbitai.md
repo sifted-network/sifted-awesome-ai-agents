@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-02"
 date: "2026-07-02"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-07-02
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ AI 硬件的终局不是比拼参数，而是比拼背后有没有一个真正�
 其中AI短剧平台业务ARR超过7亿美元
 
 📖 [Read original article](https://www.qbitai.com/2026/07/441786.html)
-
----
-
-## 10. 训练世界模型，开始从人类的肌肉和脑子里偷师了
-
-**Author:** 思邈  
-**Published:** 7/2/2026, 5:44:25 AM  
-**Categories:** 资讯, FaceMind, 世界模型, 具身智能, 脸谱心智  
-
-具身智能数采迎来了新范式
-
-📖 [Read original article](https://www.qbitai.com/2026/07/441725.html)
 
 ---
