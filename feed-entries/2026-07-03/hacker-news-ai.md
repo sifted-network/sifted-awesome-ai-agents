@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Godot says bye bye AI, bans vibe-coded contributions
+## 1. Microsoft commits $2.5B and 6k employees to new AI implementation unit
 
-**Author:** taubek  
-**Published:** 7/3/2026, 8:59:23 AM  
+**Author:** bookofjoe  
+**Published:** 7/3/2026, 1:49:42 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344 Comments URL: https://news.ycombinator.com/item?id=48772645 Points: 2 # Comments: 0
+Article URL: https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html Comments URL: https://news.ycombinator.com/item?id=48775036 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344)
+📖 [Read original article](https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html)
 
 ---
 
-## 2. How to Build an AI Chat Endpoint in Node.js with the Telnyx AI Assistants API
+## 2. Trispe: Building an AI Prediction Exchange Without Human Traders
 
-**Author:** harpreetseehra  
-**Published:** 7/3/2026, 8:57:34 AM  
+**Author:** chainbuilder  
+**Published:** 7/3/2026, 1:48:33 PM  
 **Categories:** -  
 
-Article URL: https://old.reddit.com/r/Telnyx/comments/1ukn7n3/how_to_build_an_ai_chat_endpoint_in_nodejs_with/ Comments URL: https://news.ycombinator.com/item?id=48772630 Points: 1 # Comments: 1
+Article URL: https://trispe.com/ Comments URL: https://news.ycombinator.com/item?id=48775016 Points: 1 # Comments: 0
 
-📖 [Read original article](https://old.reddit.com/r/Telnyx/comments/1ukn7n3/how_to_build_an_ai_chat_endpoint_in_nodejs_with/)
+📖 [Read original article](https://trispe.com/)
 
 ---
 
-## 3. The AI Superforecasters Are Here
+## 3. CorvinOS – a self-hosted agentic OS which enforce EU AI Act 2026 by design
 
-**Author:** Michelangelo11  
-**Published:** 7/3/2026, 8:52:00 AM  
+**Author:** shumway  
+**Published:** 7/3/2026, 1:34:31 PM  
 **Categories:** -  
 
-Article URL: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Comments URL: https://news.ycombinator.com/item?id=48772586 Points: 1 # Comments: 0
+Article URL: https://github.com/CorvinLabs/CorvinOS Comments URL: https://news.ycombinator.com/item?id=48774845 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.astralcodexten.com/p/the-ai-superforecasters-are-here)
+📖 [Read original article](https://github.com/CorvinLabs/CorvinOS)
 
 ---
 
-## 4. Giotto.ai: \"A Swiss lab with European heart\"
+## 4. Show HN: Handpicked AI jobs from 170 AI companies, sourced from career pages
 
-**Author:** theanonymousone  
-**Published:** 7/3/2026, 8:22:32 AM  
+**Author:** lanmao  
+**Published:** 7/3/2026, 1:32:59 PM  
 **Categories:** -  
 
-Article URL: https://www.giotto.ai/#about Comments URL: https://news.ycombinator.com/item?id=48772379 Points: 1 # Comments: 0
+no aggregator spam, direct employer links Comments URL: https://news.ycombinator.com/item?id=48774826 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.giotto.ai/#about)
+📖 [Read original article](https://job.careers/)
 
 ---
 
-## 5. NVCF: Deploy and Route GPU-Accelerated AI Workloads at Scale
+## 5. Simulating Tradeoffs in AI Organisation
 
-**Author:** mastabadtomm  
-**Published:** 7/3/2026, 8:18:02 AM  
+**Author:** rando77  
+**Published:** 7/3/2026, 1:20:35 PM  
 **Categories:** -  
 
-Article URL: https://github.com/NVIDIA/nvcf Comments URL: https://news.ycombinator.com/item?id=48772345 Points: 1 # Comments: 0
+Currently there doesn't seem to be anyone trying to simulate the tradeoffs between a singleton and a multipolar setup. Or looking at other tradeoffs like hidden and known agents, homogenous vs diverse agents and others.With LLMs it seems like we have a sandbox to test some of these things.Is this wr...
 
-📖 [Read original article](https://github.com/NVIDIA/nvcf)
+📖 [Read original article](https://news.ycombinator.com/item?id=48774713)
 
 ---
 
-## 6. We sell digital assets built on AI-powered business models
+## 6. Meta's Zuckerberg says AI agent tech progressing slower than expected
 
-**Author:** kilincarslan  
-**Published:** 7/3/2026, 7:58:32 AM  
+**Author:** ssram  
+**Published:** 7/3/2026, 1:13:09 PM  
 **Categories:** -  
 
-Article URL: https://digitvest.com/en Comments URL: https://news.ycombinator.com/item?id=48772198 Points: 1 # Comments: 0
+Article URL: https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html Comments URL: https://news.ycombinator.com/item?id=48774626 Points: 2 # Comments: 1
 
-📖 [Read original article](https://digitvest.com/en)
+📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html)
 
 ---
 
-## 7. Achieving Operational Excellence with AI
+## 7. Show HN: Foundera – AI-powered founder and startup feedback platform
 
-**Author:** joozio  
-**Published:** 7/3/2026, 7:04:21 AM  
+**Author:** toyji  
+**Published:** 7/3/2026, 1:07:28 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48771800 Points: 2 # Comments: 0
+As a long time technical founder and startup accelerator program manager, I always thought there have to be a way to gather the early stage startup ecosystem together to help founders in a single platform. We have built Foundera that combines founder profiles, AI startup tools, and ecosystem matchin...
 
-📖 [Read original article](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/)
+📖 [Read original article](https://foundera.app/)
 
 ---
 
-## 8. The Day I Played Hide-and-Seek with an AI
+## 8. Semantic Manifest – An open specification for AI crawler ingestion
 
-**Author:** dexmac221  
-**Published:** 7/3/2026, 7:01:11 AM  
+**Author:** CKL75  
+**Published:** 7/3/2026, 1:02:42 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@gianlucabailo/the-day-i-played-hide-and-seek-with-an-ai-7a1ee189b5ff Comments URL: https://news.ycombinator.com/item?id=48771783 Points: 2 # Comments: 1
+Article URL: https://github.com/CKL75/semantic-manifest-specification Comments URL: https://news.ycombinator.com/item?id=48774528 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@gianlucabailo/the-day-i-played-hide-and-seek-with-an-ai-7a1ee189b5ff)
+📖 [Read original article](https://github.com/CKL75/semantic-manifest-specification)
 
 ---
 
-## 9. The Data Recipe for Teaching AI New Skills [video]
+## 9. When AI Comes to the Workplace: Ethics, Employee Empowerment and Privacy
 
-**Author:** aborovykh  
-**Published:** 7/3/2026, 6:51:21 AM  
+**Author:** lcubw  
+**Published:** 7/3/2026, 1:02:25 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=I9F_VFfLTmM Comments URL: https://news.ycombinator.com/item?id=48771721 Points: 2 # Comments: 1
+Article URL: https://read.misalignedmag.com/when-ai-comes-to-the-workplace-ethics-employee-empowerment-and-privacy-7e9bb45cd7e4 Comments URL: https://news.ycombinator.com/item?id=48774523 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=I9F_VFfLTmM)
+📖 [Read original article](https://read.misalignedmag.com/when-ai-comes-to-the-workplace-ethics-employee-empowerment-and-privacy-7e9bb45cd7e4)
 
 ---
 
-## 10. Obsidian AI Setup – A production-ready onboarding skill for AI agents
+## 10. Show HN: I built a website showing the likelihood of the AI bubble to pop
 
-**Author:** javatuts  
-**Published:** 7/3/2026, 6:47:55 AM  
+**Author:** laurentiurad  
+**Published:** 7/3/2026, 12:55:34 PM  
 **Categories:** -  
 
-Article URL: https://github.com/anliberant/obsidian-ai-setup Comments URL: https://news.ycombinator.com/item?id=48771700 Points: 1 # Comments: 0
+I built a web page that aggregates data about data center buildup, sovereign fund investments into AI and bottlenecks. The objective is to predict AI race cooldown by looking at a potential decrease of activity involving these elements. The website looks at the quarterly forms from the 5 biggest hyp...
 
-📖 [Read original article](https://github.com/anliberant/obsidian-ai-setup)
+📖 [Read original article](https://laurentiugabriel.github.io/is-ai-hype-cooling-down/)
 
 ---
 
-## 11. Google's AI buildout drove 37% increase in electricity use in 2025
+## 11. Embodied.cpp: A Portable Inference Runtime of Embodied AI Models
 
-**Author:** mpfect  
-**Published:** 7/3/2026, 6:36:59 AM  
+**Author:** chrsw  
+**Published:** 7/3/2026, 12:55:02 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/ Comments URL: https://news.ycombinator.com/item?id=48771627 Points: 6 # Comments: 0
+Article URL: https://arxiv.org/abs/2607.02501 Comments URL: https://news.ycombinator.com/item?id=48774455 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/)
+📖 [Read original article](https://arxiv.org/abs/2607.02501)
 
 ---
 
-## 12. Show HN: Opplic AI growth employees for web agencies
+## 12. Show HN: Spark KNE Verify – Verify selected AI claims in the browser
 
-**Author:** sanketta  
-**Published:** 7/3/2026, 6:35:38 AM  
+**Author:** knespark  
+**Published:** 7/3/2026, 12:53:24 PM  
 **Categories:** -  
 
-Hi HN,I am building opplic.com an AI employee that you can hire for each of your client. The idea is simple, if you are an agency and managing 10 clients it becomes hectic to manage all if you are doing alone, you might need to hire a SEO guy but wait, 90k per anuum for a single guy !? Think if you ...
+Article URL: https://chromewebstore.google.com/detail/spark-kne-verify/ncegakjnphdojnjlohobacncplbkbfdc Comments URL: https://news.ycombinator.com/item?id=48774438 Points: 1 # Comments: 0
 
-📖 [Read original article](https://opplic.com)
+📖 [Read original article](https://chromewebstore.google.com/detail/spark-kne-verify/ncegakjnphdojnjlohobacncplbkbfdc)
 
 ---
 
-## 13. Ford rehires human engineers after AI fails to match quality checks
+## 13. My Students Hate AI. But They Can't Stop Using It
 
-**Author:** gmargari  
-**Published:** 7/3/2026, 6:15:17 AM  
+**Author:** sseagull  
+**Published:** 7/3/2026, 12:53:06 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cgrkd41n2v9o Comments URL: https://news.ycombinator.com/item?id=48771466 Points: 3 # Comments: 1
+Article URL: https://www.chronicle.com/article/my-students-hate-ai-but-they-cant-stop-using-it Comments URL: https://news.ycombinator.com/item?id=48774433 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.bbc.com/news/articles/cgrkd41n2v9o)
+📖 [Read original article](https://www.chronicle.com/article/my-students-hate-ai-but-they-cant-stop-using-it)
 
 ---
 
-## 14. Ask HN: What does a good day at work look like in the AI era?
+## 14. Please stop the AI confidence theater
 
-**Author:** akashwadhwani35  
-**Published:** 7/3/2026, 6:10:21 AM  
+**Author:** skadamat  
+**Published:** 7/3/2026, 12:51:17 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48771421 Points: 2 # Comments: 1
+Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 74 # Comments: 36
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48771421)
+📖 [Read original article](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater)
 
 ---
 
-## 15. Understanding AI with Soumitra Dutta
+## 15. KathaGPT – private AI desktop app
 
-**Author:** davidwilliam26  
-**Published:** 7/3/2026, 5:48:40 AM  
+**Author:** santosh_premi  
+**Published:** 7/3/2026, 12:49:18 PM  
 **Categories:** -  
 
-Article URL: https://soumitradutta.gt.tc Comments URL: https://news.ycombinator.com/item?id=48771271 Points: 1 # Comments: 0
+Article URL: https://santoshpremi.github.io/KathaGPT/ Comments URL: https://news.ycombinator.com/item?id=48774390 Points: 1 # Comments: 1
 
-📖 [Read original article](https://soumitradutta.gt.tc)
+📖 [Read original article](https://santoshpremi.github.io/KathaGPT/)
 
 ---
 
-## 16. AI is punishing game developers [video]
+## 16. AI Data Centers Use More Water Than Most Tech Giants Report
 
-**Author:** frag  
-**Published:** 7/3/2026, 5:41:39 AM  
+**Author:** bradleyjg  
+**Published:** 7/3/2026, 12:33:20 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=59XdUJRzRxc Comments URL: https://news.ycombinator.com/item?id=48771229 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902 Comments URL: https://news.ycombinator.com/item?id=48774246 Points: 25 # Comments: 22
 
-📖 [Read original article](https://www.youtube.com/watch?v=59XdUJRzRxc)
+📖 [Read original article](https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902)
 
 ---
 
-## 17. Agentrc – Dockerfile-shaped, governed packaging for AI agents
+## 17. Why AI Tokens are so Expensive [video]
 
-**Author:** adeelahmadch  
-**Published:** 7/3/2026, 5:36:32 AM  
+**Author:** jonbaer  
+**Published:** 7/3/2026, 12:28:54 PM  
 **Categories:** -  
 
-Article URL: https://agentrc.ai/ Comments URL: https://news.ycombinator.com/item?id=48771202 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=-0HRzXk8vlk Comments URL: https://news.ycombinator.com/item?id=48774208 Points: 2 # Comments: 0
 
-📖 [Read original article](https://agentrc.ai/)
+📖 [Read original article](https://www.youtube.com/watch?v=-0HRzXk8vlk)
 
 ---
 
-## 18. I still enjoy building websites without AI
+## 18. DaisyUI uses AI generated images AND ART to sell merchandising
 
-**Author:** alprado50  
-**Published:** 7/3/2026, 5:08:34 AM  
+**Author:** manuel_png  
+**Published:** 7/3/2026, 12:17:32 PM  
 **Categories:** -  
 
-Article URL: https://alprado.com/blog/i-still-enjoy-building-websites-without-ai/ Comments URL: https://news.ycombinator.com/item?id=48771003 Points: 4 # Comments: 1
+Article URL: https://swag.daisyui.com/en-eur/products/html-scientist-t-shirt Comments URL: https://news.ycombinator.com/item?id=48774127 Points: 1 # Comments: 1
 
-📖 [Read original article](https://alprado.com/blog/i-still-enjoy-building-websites-without-ai/)
+📖 [Read original article](https://swag.daisyui.com/en-eur/products/html-scientist-t-shirt)
 
 ---
 
-## 19. AI dev platform that keeps project context across the whole codebase lifecycle
+## 19. Show HN: Diff two versions of an AI agent and catch silent permission changes
 
-**Author:** RihabAI  
-**Published:** 7/3/2026, 4:27:59 AM  
+**Author:** stoicstoic  
+**Published:** 7/3/2026, 12:12:24 PM  
 **Categories:** -  
 
-Article URL: https://brunelly.com/ Comments URL: https://news.ycombinator.com/item?id=48770705 Points: 2 # Comments: 0
+Article URL: https://www.agent-kits.com/drift Comments URL: https://news.ycombinator.com/item?id=48774077 Points: 1 # Comments: 0
 
-📖 [Read original article](https://brunelly.com/)
+📖 [Read original article](https://www.agent-kits.com/drift)
 
 ---
 
-## 20. How to avoid AI in as many places as possible
+## 20. Feedback about a Visualping alternative using AI to monitor websites
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/3/2026, 4:10:49 AM  
+**Author:** arthurdelerue  
+**Published:** 7/3/2026, 12:03:04 PM  
 **Categories:** -  
 
-Article URL: https://www.fastcompany.com/91566861/how-to-avoid-ai-in-as-many-places-as-possible Comments URL: https://news.ycombinator.com/item?id=48770606 Points: 6 # Comments: 1
+I'm launching an alternative to Visualing called Page Deltas ( https://pagedeltas.com ) to monitor websites using LLMs.The idea is to ask AI which part of a webpage you want to monitor, and let it summarize detected changes for you.Useful to monitor your competitors for example (their pricing, produ...
 
-📖 [Read original article](https://www.fastcompany.com/91566861/how-to-avoid-ai-in-as-many-places-as-possible)
+📖 [Read original article](https://news.ycombinator.com/item?id=48774008)
 
 ---
