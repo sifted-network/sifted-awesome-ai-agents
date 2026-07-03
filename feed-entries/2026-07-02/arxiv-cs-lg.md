@@ -869,7 +869,7 @@ arXiv:2607.01082v1 Announce Type: new Abstract: Spatio-temporal point-process mo
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.01083v1 Announce Type: new Abstract: High-throughput RLHF systems often decouple rollout generation from policy optimization, leading to the use of stale rollouts during learner updates. In this work, we study the effect of such staleness in asynchronous GRPO. We make the behavior policy ...
+arXiv:2607.01083v2 Announce Type: new Abstract: High-throughput RLHF systems often decouple rollout generation from policy optimization, leading to the use of stale rollouts during learner updates. In this work, we study the effect of such staleness in asynchronous GRPO. We make the behavior policy ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.01083)
 
@@ -1025,7 +1025,7 @@ arXiv:2607.01185v1 Announce Type: new Abstract: Combinatorial optimization (CO) 
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.01197v1 Announce Type: new Abstract: Quantum computing has emerged as a promising computational paradigm for machine learning (ML), with the potential to offer computational advantages over classical approaches. At this stage, the evidence supporting the performance and advantages of quan...
+arXiv:2607.01197v2 Announce Type: new Abstract: Quantum computing has emerged as a promising computational paradigm for machine learning (ML), with the potential to offer computational advantages over classical approaches. At this stage, the evidence supporting the performance and advantages of quan...
 
 📖 [Read original article](https://arxiv.org/abs/2607.01197)
 
@@ -1061,7 +1061,7 @@ arXiv:2607.01225v1 Announce Type: new Abstract: Prior work on imitation learning
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2607.01232v1 Announce Type: new Abstract: Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model paramete...
+arXiv:2607.01232v2 Announce Type: new Abstract: Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model paramete...
 
 📖 [Read original article](https://arxiv.org/abs/2607.01232)
 
@@ -1193,7 +1193,7 @@ arXiv:2607.00208v1 Announce Type: cross Abstract: Reinforcement learning for dif
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** math.ST, cs.IT, cs.LG, math.IT, stat.ML, stat.TH  
 
-arXiv:2607.00224v1 Announce Type: cross Abstract: Watermarking promises a statistical trace of large language model (LLM) use, but real documents, after editing or paraphrasing, rarely arrive as purely human-written or purely machine-generated. This motivates a quantitative question beyond detection...
+arXiv:2607.00224v2 Announce Type: cross Abstract: Watermarking promises statistical traceability of large language model (LLM) uses, but real documents rarely arrive as purely human-written or purely LLM-generated. This motivates a quantitative question beyond detection: what proportion of a documen...
 
 📖 [Read original article](https://arxiv.org/abs/2607.00224)
 
@@ -1541,7 +1541,7 @@ arXiv:2607.00858v1 Announce Type: cross Abstract: Contrastive pre-training has p
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.DS, cs.CR, cs.LG  
 
-arXiv:2607.00876v1 Announce Type: cross Abstract: Private continual counting is a fundamental problem in differential privacy: given a binary stream of length $n$, where each $1$ corresponds to the contribution of one individual, the goal is to release all running counts while protecting the privacy...
+arXiv:2607.00876v2 Announce Type: cross Abstract: Private continual counting is a fundamental problem in differential privacy: given a binary stream of length $n$, where each $1$ corresponds to the contribution of one individual, the goal is to release all running counts while protecting the privacy...
 
 📖 [Read original article](https://arxiv.org/abs/2607.00876)
 
@@ -1741,11 +1741,11 @@ arXiv:2607.01218v1 Announce Type: cross Abstract: Transformers use the same forw
 
 ## 145. Theoria: Rewrite-Acceptability Verification over Informal Reasoning States
 
-**Author:** Ben Slivinski, Michael Saldivar  
+**Author:** Michael Saldivar, Ben Slivinski  
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG, cs.LO, cs.SE  
 
-arXiv:2607.01223v1 Announce Type: cross Abstract: When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fact and are subject ...
+arXiv:2607.01223v2 Announce Type: cross Abstract: When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fact and are subject ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.01223)
 
@@ -2165,7 +2165,7 @@ arXiv:2604.17289v2 Announce Type: replace Abstract: Supervised fine-tuning of la
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2604.25421v2 Announce Type: replace Abstract: Federated fine-tuning provides a practical route to adapt large language models (LLMs) on edge devices without centralizing private data, yet in mobile deployments the training wall-clock is often bottlenecked by straggler-limited uplink communicat...
+arXiv:2604.25421v3 Announce Type: replace Abstract: Federated fine-tuning provides a practical route to adapt large language models (LLMs) on edge devices without centralizing private data. However, in mobile deployments, the training wall-clock is often dominated by straggler-limited uplink communi...
 
 📖 [Read original article](https://arxiv.org/abs/2604.25421)
 
@@ -2357,7 +2357,7 @@ arXiv:2606.31163v2 Announce Type: replace Abstract: Large language models deploy
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2606.31191v2 Announce Type: replace Abstract: We propose Intelligent Schema Memory (ISM), a self-evolving memory-augmented system that improves mathematical reasoning for a frozen LLM under continual learning with hard episodic resets. ISM maintains a compact, self-refined bank of strategy sch...
+arXiv:2606.31191v3 Announce Type: replace Abstract: We propose Intelligent Schema Memory (ISM), a self-evolving memory-augmented system that improves mathematical reasoning for a frozen LLM under continual learning with hard episodic resets. ISM maintains a compact, self-refined bank of strategy sch...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31191)
 
@@ -2369,7 +2369,7 @@ arXiv:2606.31191v2 Announce Type: replace Abstract: We propose Intelligent Schem
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, quant-ph  
 
-arXiv:2606.31536v2 Announce Type: replace Abstract: As Quantum Machine Learning (QML) transitions toward practical implementation, the field faces a critical architectural bottleneck that challenges the fundamental assumptions of classical statistical learning theory. In classical deep learning, inc...
+arXiv:2606.31536v3 Announce Type: replace Abstract: As Quantum Machine Learning (QML) transitions toward practical implementation, the field faces a critical architectural bottleneck that challenges the fundamental assumptions of classical statistical learning theory. In classical deep learning, inc...
 
 📖 [Read original article](https://arxiv.org/abs/2606.31536)
 
@@ -2813,7 +2813,7 @@ arXiv:2606.24976v2 Announce Type: replace-cross Abstract: Foundation-model agent
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** math.ST, cs.LG, stat.TH  
 
-arXiv:2606.25169v2 Announce Type: replace-cross Abstract: Sampling from an unnormalized target by reversing an Ornstein-Uhlenbeck diffusion requires the score of each noise-perturbed marginal. Tweedie's identity and a target-score identity give unbiased finite-reference estimators for this score. Sc...
+arXiv:2606.25169v2 Announce Type: replace-cross Abstract: Sampling from an unnormalized target density by reversing an Ornstein-Uhlenbeck diffusion requires the score of each noise-perturbed marginal law. Two exact identities are available: Tweedie's identity and a target-score identity, each yieldi...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25169)
 
