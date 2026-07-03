@@ -2,179 +2,251 @@
 title: "Hacker News AI - 2026-07-03"
 date: "2026-07-03"
 source: "Hacker News AI"
-count: 14
+count: 20
 ---
 
 # Hacker News AI - 2026-07-03
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. Reducing AI costs with smart pricing
+## 1. Godot says bye bye AI, bans vibe-coded contributions
 
-**Author:** millereffect  
-**Published:** 7/3/2026, 3:19:26 AM  
+**Author:** taubek  
+**Published:** 7/3/2026, 8:59:23 AM  
 **Categories:** -  
 
-Working with a customer to implement RevTurbine (revturbine.com). We are implementing a reverse trial which is triggered by the key onboarding action (connecting the user's trading account), i.e. used as an incentive to complete it.The trial is on a separate non-public tier (subset of lowest paid pl...
+Article URL: https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344 Comments URL: https://news.ycombinator.com/item?id=48772645 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48770323)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344)
 
 ---
 
-## 2. AI coding is a nightmare. Am I the only one experiencing this?
+## 2. How to Build an AI Chat Endpoint in Node.js with the Telnyx AI Assistants API
 
-**Author:** sollawen  
-**Published:** 7/3/2026, 3:18:42 AM  
+**Author:** harpreetseehra  
+**Published:** 7/3/2026, 8:57:34 AM  
 **Categories:** -  
 
-Here are my biggest gripes with AI coding assistants right now: Obsessed with reinventing the wheel. You'll often find it writing three duplicate functions for the exact same feature in a single file. Why? Because it's terrified of blowing up the context window, so it only reads a fraction of a larg...
+Article URL: https://old.reddit.com/r/Telnyx/comments/1ukn7n3/how_to_build_an_ai_chat_endpoint_in_nodejs_with/ Comments URL: https://news.ycombinator.com/item?id=48772630 Points: 1 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48770319)
+📖 [Read original article](https://old.reddit.com/r/Telnyx/comments/1ukn7n3/how_to_build_an_ai_chat_endpoint_in_nodejs_with/)
 
 ---
 
-## 3. Moneyball for Physical AI
+## 3. The AI Superforecasters Are Here
 
-**Author:** gmays  
-**Published:** 7/3/2026, 2:52:44 AM  
+**Author:** Michelangelo11  
+**Published:** 7/3/2026, 8:52:00 AM  
 **Categories:** -  
 
-Article URL: https://praxiscurrents.substack.com/p/moneyball-for-physical-ai Comments URL: https://news.ycombinator.com/item?id=48770157 Points: 2 # Comments: 0
+Article URL: https://www.astralcodexten.com/p/the-ai-superforecasters-are-here Comments URL: https://news.ycombinator.com/item?id=48772586 Points: 1 # Comments: 0
 
-📖 [Read original article](https://praxiscurrents.substack.com/p/moneyball-for-physical-ai)
+📖 [Read original article](https://www.astralcodexten.com/p/the-ai-superforecasters-are-here)
 
 ---
 
-## 4. Why AI Is Collapsing: How China Is Winning. [video]
+## 4. Giotto.ai: \"A Swiss lab with European heart\"
 
-**Author:** Bender  
-**Published:** 7/3/2026, 1:51:03 AM  
+**Author:** theanonymousone  
+**Published:** 7/3/2026, 8:22:32 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=JXJf7vL8k94 Comments URL: https://news.ycombinator.com/item?id=48769755 Points: 2 # Comments: 1
+Article URL: https://www.giotto.ai/#about Comments URL: https://news.ycombinator.com/item?id=48772379 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=JXJf7vL8k94)
+📖 [Read original article](https://www.giotto.ai/#about)
 
 ---
 
-## 5. AI is 'not smart' so what's next in artificial intelligence?
+## 5. NVCF: Deploy and Route GPU-Accelerated AI Workloads at Scale
+
+**Author:** mastabadtomm  
+**Published:** 7/3/2026, 8:18:02 AM  
+**Categories:** -  
+
+Article URL: https://github.com/NVIDIA/nvcf Comments URL: https://news.ycombinator.com/item?id=48772345 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/NVIDIA/nvcf)
+
+---
+
+## 6. We sell digital assets built on AI-powered business models
+
+**Author:** kilincarslan  
+**Published:** 7/3/2026, 7:58:32 AM  
+**Categories:** -  
+
+Article URL: https://digitvest.com/en Comments URL: https://news.ycombinator.com/item?id=48772198 Points: 1 # Comments: 0
+
+📖 [Read original article](https://digitvest.com/en)
+
+---
+
+## 7. Achieving Operational Excellence with AI
+
+**Author:** joozio  
+**Published:** 7/3/2026, 7:04:21 AM  
+**Categories:** -  
+
+Article URL: https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48771800 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/)
+
+---
+
+## 8. The Day I Played Hide-and-Seek with an AI
+
+**Author:** dexmac221  
+**Published:** 7/3/2026, 7:01:11 AM  
+**Categories:** -  
+
+Article URL: https://medium.com/@gianlucabailo/the-day-i-played-hide-and-seek-with-an-ai-7a1ee189b5ff Comments URL: https://news.ycombinator.com/item?id=48771783 Points: 2 # Comments: 1
+
+📖 [Read original article](https://medium.com/@gianlucabailo/the-day-i-played-hide-and-seek-with-an-ai-7a1ee189b5ff)
+
+---
+
+## 9. The Data Recipe for Teaching AI New Skills [video]
+
+**Author:** aborovykh  
+**Published:** 7/3/2026, 6:51:21 AM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=I9F_VFfLTmM Comments URL: https://news.ycombinator.com/item?id=48771721 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.youtube.com/watch?v=I9F_VFfLTmM)
+
+---
+
+## 10. Obsidian AI Setup – A production-ready onboarding skill for AI agents
+
+**Author:** javatuts  
+**Published:** 7/3/2026, 6:47:55 AM  
+**Categories:** -  
+
+Article URL: https://github.com/anliberant/obsidian-ai-setup Comments URL: https://news.ycombinator.com/item?id=48771700 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/anliberant/obsidian-ai-setup)
+
+---
+
+## 11. Google's AI buildout drove 37% increase in electricity use in 2025
+
+**Author:** mpfect  
+**Published:** 7/3/2026, 6:36:59 AM  
+**Categories:** -  
+
+Article URL: https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/ Comments URL: https://news.ycombinator.com/item?id=48771627 Points: 6 # Comments: 0
+
+📖 [Read original article](https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/)
+
+---
+
+## 12. Show HN: Opplic AI growth employees for web agencies
+
+**Author:** sanketta  
+**Published:** 7/3/2026, 6:35:38 AM  
+**Categories:** -  
+
+Hi HN,I am building opplic.com an AI employee that you can hire for each of your client. The idea is simple, if you are an agency and managing 10 clients it becomes hectic to manage all if you are doing alone, you might need to hire a SEO guy but wait, 90k per anuum for a single guy !? Think if you ...
+
+📖 [Read original article](https://opplic.com)
+
+---
+
+## 13. Ford rehires human engineers after AI fails to match quality checks
+
+**Author:** gmargari  
+**Published:** 7/3/2026, 6:15:17 AM  
+**Categories:** -  
+
+Article URL: https://www.bbc.com/news/articles/cgrkd41n2v9o Comments URL: https://news.ycombinator.com/item?id=48771466 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.bbc.com/news/articles/cgrkd41n2v9o)
+
+---
+
+## 14. Ask HN: What does a good day at work look like in the AI era?
+
+**Author:** akashwadhwani35  
+**Published:** 7/3/2026, 6:10:21 AM  
+**Categories:** -  
+
+Comments URL: https://news.ycombinator.com/item?id=48771421 Points: 2 # Comments: 1
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48771421)
+
+---
+
+## 15. Understanding AI with Soumitra Dutta
+
+**Author:** davidwilliam26  
+**Published:** 7/3/2026, 5:48:40 AM  
+**Categories:** -  
+
+Article URL: https://soumitradutta.gt.tc Comments URL: https://news.ycombinator.com/item?id=48771271 Points: 1 # Comments: 0
+
+📖 [Read original article](https://soumitradutta.gt.tc)
+
+---
+
+## 16. AI is punishing game developers [video]
+
+**Author:** frag  
+**Published:** 7/3/2026, 5:41:39 AM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=59XdUJRzRxc Comments URL: https://news.ycombinator.com/item?id=48771229 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=59XdUJRzRxc)
+
+---
+
+## 17. Agentrc – Dockerfile-shaped, governed packaging for AI agents
+
+**Author:** adeelahmadch  
+**Published:** 7/3/2026, 5:36:32 AM  
+**Categories:** -  
+
+Article URL: https://agentrc.ai/ Comments URL: https://news.ycombinator.com/item?id=48771202 Points: 1 # Comments: 0
+
+📖 [Read original article](https://agentrc.ai/)
+
+---
+
+## 18. I still enjoy building websites without AI
+
+**Author:** alprado50  
+**Published:** 7/3/2026, 5:08:34 AM  
+**Categories:** -  
+
+Article URL: https://alprado.com/blog/i-still-enjoy-building-websites-without-ai/ Comments URL: https://news.ycombinator.com/item?id=48771003 Points: 4 # Comments: 1
+
+📖 [Read original article](https://alprado.com/blog/i-still-enjoy-building-websites-without-ai/)
+
+---
+
+## 19. AI dev platform that keeps project context across the whole codebase lifecycle
+
+**Author:** RihabAI  
+**Published:** 7/3/2026, 4:27:59 AM  
+**Categories:** -  
+
+Article URL: https://brunelly.com/ Comments URL: https://news.ycombinator.com/item?id=48770705 Points: 2 # Comments: 0
+
+📖 [Read original article](https://brunelly.com/)
+
+---
+
+## 20. How to avoid AI in as many places as possible
 
 **Author:** 1vuio0pswjnm7  
-**Published:** 7/3/2026, 1:42:40 AM  
+**Published:** 7/3/2026, 4:10:49 AM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cj6gr0xkyr3o Comments URL: https://news.ycombinator.com/item?id=48769696 Points: 5 # Comments: 1
+Article URL: https://www.fastcompany.com/91566861/how-to-avoid-ai-in-as-many-places-as-possible Comments URL: https://news.ycombinator.com/item?id=48770606 Points: 6 # Comments: 1
 
-📖 [Read original article](https://www.bbc.com/news/articles/cj6gr0xkyr3o)
-
----
-
-## 6. How AI Became More Expensive Than the Workers It Replaced [video]
-
-**Author:** Bender  
-**Published:** 7/3/2026, 1:38:03 AM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=cfaZZPjA3g0 Comments URL: https://news.ycombinator.com/item?id=48769645 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=cfaZZPjA3g0)
-
----
-
-## 7. The World's Top Economists Are Sounding the Alarm on AI
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/3/2026, 12:49:55 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/the-worlds-top-economists-are-sounding-the-alarm-on-ai-d99055b6 Comments URL: https://news.ycombinator.com/item?id=48769316 Points: 5 # Comments: 2
-
-📖 [Read original article](https://www.wsj.com/tech/ai/the-worlds-top-economists-are-sounding-the-alarm-on-ai-d99055b6)
-
----
-
-## 8. LawZero: Safety from Honesty in a Disinterested AI Predictor
-
-**Author:** KingKunta  
-**Published:** 7/3/2026, 12:42:32 AM  
-**Categories:** -  
-
-Article URL: https://arxiv.org/abs/2606.29657 Comments URL: https://news.ycombinator.com/item?id=48769266 Points: 3 # Comments: 0
-
-📖 [Read original article](https://arxiv.org/abs/2606.29657)
-
----
-
-## 9. In Defense of AI Mandates
-
-**Author:** cyndunlop  
-**Published:** 7/3/2026, 12:40:33 AM  
-**Categories:** -  
-
-Article URL: https://charitydotwtf.substack.com/p/in-defense-of-ai-mandates Comments URL: https://news.ycombinator.com/item?id=48769250 Points: 3 # Comments: 0
-
-📖 [Read original article](https://charitydotwtf.substack.com/p/in-defense-of-ai-mandates)
-
----
-
-## 10. What is agentic AI today, and what do we want it to be?
-
-**Author:** sudo_cowsay  
-**Published:** 7/3/2026, 12:40:24 AM  
-**Categories:** -  
-
-Article URL: https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630 Comments URL: https://news.ycombinator.com/item?id=48769247 Points: 3 # Comments: 2
-
-📖 [Read original article](https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630)
-
----
-
-## 11. Sebastian Mallaby: The AI Race Nobody Can Win, Foreign Affairs Interview [video]
-
-**Author:** verdverm  
-**Published:** 7/3/2026, 12:38:52 AM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=QQC6V8T8ry4 Comments URL: https://news.ycombinator.com/item?id=48769238 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=QQC6V8T8ry4)
-
----
-
-## 12. The Age of Suspicion: Why AI Made Authenticity Expensive
-
-**Author:** surprisefox  
-**Published:** 7/3/2026, 12:29:25 AM  
-**Categories:** -  
-
-Article URL: https://bennorthmore.com/journals/welcome-to-the-suspicion-economy/ Comments URL: https://news.ycombinator.com/item?id=48769181 Points: 4 # Comments: 0
-
-📖 [Read original article](https://bennorthmore.com/journals/welcome-to-the-suspicion-economy/)
-
----
-
-## 13. \"An AI Job Apocalypse?\" – Goldman Sachs Report [pdf]
-
-**Author:** aanet  
-**Published:** 7/3/2026, 12:18:11 AM  
-**Categories:** -  
-
-Article URL: https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer= Comments URL: https://news.ycombinator.com/item?id=48769110 Points: 22 # Comments: 58
-
-📖 [Read original article](https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=)
-
----
-
-## 14. Startup sues Palo Alto Networks' Koi Security due to AI-hallucinated report
-
-**Author:** dijksterhuis  
-**Published:** 7/3/2026, 12:02:57 AM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201 Comments URL: https://news.ycombinator.com/item?id=48769007 Points: 5 # Comments: 2
-
-📖 [Read original article](https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201)
+📖 [Read original article](https://www.fastcompany.com/91566861/how-to-avoid-ai-in-as-many-places-as-possible)
 
 ---
