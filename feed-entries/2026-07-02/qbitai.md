@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-02"
 date: "2026-07-02"
 source: "qbitai"
-count: 9
+count: 4
 ---
 
 # qbitai - 2026-07-02
 
-9 items collected.
+4 items collected.
 
 ---
 
@@ -39,9 +39,9 @@ count: 9
 
 **Author:** 量子位的朋友们  
 **Published:** 7/2/2026, 10:45:31 AM  
-**Categories:** 资讯  
+**Categories:** 资讯, 科大讯飞  
 
-
+7月2日，2026科大讯飞智能交互生态发布会在深圳举行。
 
 📖 [Read original article](https://www.qbitai.com/2026/07/442048.html)
 
@@ -56,65 +56,5 @@ count: 9
 7月17日至7月20日
 
 📖 [Read original article](https://www.qbitai.com/2026/07/442037.html)
-
----
-
-## 5. 天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊
-
-**Author:** 量子位的朋友们  
-**Published:** 7/2/2026, 10:24:32 AM  
-**Categories:** 资讯, 天工AI  
-
-和人并肩工作
-
-📖 [Read original article](https://www.qbitai.com/2026/07/442030.html)
-
----
-
-## 6. 钉钉A1录音卡入选Gartner AI可穿戴设备报告
-
-**Author:** 梦晨  
-**Published:** 7/2/2026, 8:03:00 AM  
-**Categories:** 资讯, 钉钉  
-
-AI 硬件的终局不是比拼参数，而是比拼背后有没有一个真正的企业级 AI 协作平台
-
-📖 [Read original article](https://www.qbitai.com/2026/07/442024.html)
-
----
-
-## 7. 招募｜量子位RSS’26专题策划
-
-**Author:** 量子位的朋友们  
-**Published:** 7/2/2026, 7:33:10 AM  
-**Categories:** 资讯, RSS 2026  
-
-7月13-17日，澳大利亚悉尼
-
-📖 [Read original article](https://www.qbitai.com/2026/07/442016.html)
-
----
-
-## 8. 一个广告营销老炮，率先冲刺A股无人驾驶第一股
-
-**Author:** 杰西卡  
-**Published:** 7/2/2026, 7:16:15 AM  
-**Categories:** 智能车参考, 无人车往哪里开？, 穿透财报招股书, 车圈最新认知  
-
-最大客户赛力斯，一单贡献全年三成收入
-
-📖 [Read original article](https://www.qbitai.com/2026/07/441790.html)
-
----
-
-## 9. 天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进
-
-**Author:** 量子位的朋友们  
-**Published:** 7/2/2026, 6:23:10 AM  
-**Categories:** 资讯, 天工AI  
-
-其中AI短剧平台业务ARR超过7亿美元
-
-📖 [Read original article](https://www.qbitai.com/2026/07/441786.html)
 
 ---
