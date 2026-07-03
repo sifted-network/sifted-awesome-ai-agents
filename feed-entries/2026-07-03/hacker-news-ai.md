@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Microsoft commits $2.5B and 6k employees to new AI implementation unit
+## 1. A political belief changed how AI analysts read the same data
 
-**Author:** bookofjoe  
-**Published:** 7/3/2026, 1:49:42 PM  
+**Author:** thatsgcasey  
+**Published:** 7/3/2026, 7:00:12 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html Comments URL: https://news.ycombinator.com/item?id=48775036 Points: 1 # Comments: 1
+Article URL: https://arxiv.org/abs/2607.01507 Comments URL: https://news.ycombinator.com/item?id=48778651 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html)
+📖 [Read original article](https://arxiv.org/abs/2607.01507)
 
 ---
 
-## 2. Trispe: Building an AI Prediction Exchange Without Human Traders
+## 2. An AI Koan
 
-**Author:** chainbuilder  
-**Published:** 7/3/2026, 1:48:33 PM  
+**Author:** rcanand2025  
+**Published:** 7/3/2026, 6:49:27 PM  
 **Categories:** -  
 
-Article URL: https://trispe.com/ Comments URL: https://news.ycombinator.com/item?id=48775016 Points: 1 # Comments: 0
+If 1 pour my heart soul sweat blood tears into crafting the perfect one shot prompt, and get a perfect response, is that still vibe coding? Comments URL: https://news.ycombinator.com/item?id=48778522 Points: 1 # Comments: 0
 
-📖 [Read original article](https://trispe.com/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48778522)
 
 ---
 
-## 3. CorvinOS – a self-hosted agentic OS which enforce EU AI Act 2026 by design
+## 3. Ask HN: Are any startups hiring front-end developers, or are they just using AI?
 
-**Author:** shumway  
-**Published:** 7/3/2026, 1:34:31 PM  
+**Author:** Kathan2651  
+**Published:** 7/3/2026, 6:35:12 PM  
 **Categories:** -  
 
-Article URL: https://github.com/CorvinLabs/CorvinOS Comments URL: https://news.ycombinator.com/item?id=48774845 Points: 1 # Comments: 0
+I have 4+ years of experience in React and Next.js when I got out of my last contract role, I thought it was the right time to look for a remote job. But, it feels like the market gave up on me. When many companies were hiring, I didn’t have enough experience. Now that I do have experience, it feels...
 
-📖 [Read original article](https://github.com/CorvinLabs/CorvinOS)
+📖 [Read original article](https://news.ycombinator.com/item?id=48778312)
 
 ---
 
-## 4. Show HN: Handpicked AI jobs from 170 AI companies, sourced from career pages
+## 4. SaaS Economics in the AI Era
 
-**Author:** lanmao  
-**Published:** 7/3/2026, 1:32:59 PM  
+**Author:** hsrada93  
+**Published:** 7/3/2026, 6:25:44 PM  
 **Categories:** -  
 
-no aggregator spam, direct employer links Comments URL: https://news.ycombinator.com/item?id=48774826 Points: 1 # Comments: 0
+Article URL: https://medium.com/@adarshdeepsingh/saas-economics-in-the-ai-era-39b63acfaae7 Comments URL: https://news.ycombinator.com/item?id=48778194 Points: 1 # Comments: 0
 
-📖 [Read original article](https://job.careers/)
+📖 [Read original article](https://medium.com/@adarshdeepsingh/saas-economics-in-the-ai-era-39b63acfaae7)
 
 ---
 
-## 5. Simulating Tradeoffs in AI Organisation
+## 5. AI turned every engineer into three. Now companies need more product thinkers
 
-**Author:** rando77  
-**Published:** 7/3/2026, 1:20:35 PM  
+**Author:** gmays  
+**Published:** 7/3/2026, 6:24:02 PM  
 **Categories:** -  
 
-Currently there doesn't seem to be anyone trying to simulate the tradeoffs between a singleton and a multipolar setup. Or looking at other tradeoffs like hidden and known agents, homogenous vs diverse agents and others.With LLMs it seems like we have a sandbox to test some of these things.Is this wr...
+Article URL: https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers Comments URL: https://news.ycombinator.com/item?id=48778176 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48774713)
+📖 [Read original article](https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers)
 
 ---
 
-## 6. Meta's Zuckerberg says AI agent tech progressing slower than expected
+## 6. Physics informed generative AI for semiconductor manufacturing
 
-**Author:** ssram  
-**Published:** 7/3/2026, 1:13:09 PM  
+**Author:** Jimmc414  
+**Published:** 7/3/2026, 6:17:31 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html Comments URL: https://news.ycombinator.com/item?id=48774626 Points: 2 # Comments: 1
+Article URL: https://arxiv.org/abs/2606.11247 Comments URL: https://news.ycombinator.com/item?id=48778089 Points: 2 # Comments: 0
 
-📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html)
+📖 [Read original article](https://arxiv.org/abs/2606.11247)
 
 ---
 
-## 7. Show HN: Foundera – AI-powered founder and startup feedback platform
+## 7. Show HN: Solace – A quiet, local AI companion for Android with long-term memory
 
-**Author:** toyji  
-**Published:** 7/3/2026, 1:07:28 PM  
+**Author:** redhotcookerr  
+**Published:** 7/3/2026, 5:54:24 PM  
 **Categories:** -  
 
-As a long time technical founder and startup accelerator program manager, I always thought there have to be a way to gather the early stage startup ecosystem together to help founders in a single platform. We have built Foundera that combines founder profiles, AI startup tools, and ecosystem matchin...
+Article URL: https://play.google.com/store/apps/details?id=com.solace.bot&hl=en_US Comments URL: https://news.ycombinator.com/item?id=48777831 Points: 1 # Comments: 0
 
-📖 [Read original article](https://foundera.app/)
+📖 [Read original article](https://play.google.com/store/apps/details?id=com.solace.bot&hl=en_US)
 
 ---
 
-## 8. Semantic Manifest – An open specification for AI crawler ingestion
+## 8. Token prices collapsing, regulation rising, AI's pricing power looks fragile
 
-**Author:** CKL75  
-**Published:** 7/3/2026, 1:02:42 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/3/2026, 5:37:05 PM  
 **Categories:** -  
 
-Article URL: https://github.com/CKL75/semantic-manifest-specification Comments URL: https://news.ycombinator.com/item?id=48774528 Points: 1 # Comments: 0
+Article URL: https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile Comments URL: https://news.ycombinator.com/item?id=48777617 Points: 6 # Comments: 0
 
-📖 [Read original article](https://github.com/CKL75/semantic-manifest-specification)
+📖 [Read original article](https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile)
 
 ---
 
-## 9. When AI Comes to the Workplace: Ethics, Employee Empowerment and Privacy
+## 9. Flora: A Diagram Library Built with (and for) AI
 
-**Author:** lcubw  
-**Published:** 7/3/2026, 1:02:25 PM  
+**Author:** jillcates  
+**Published:** 7/3/2026, 5:36:06 PM  
 **Categories:** -  
 
-Article URL: https://read.misalignedmag.com/when-ai-comes-to-the-workplace-ethics-employee-empowerment-and-privacy-7e9bb45cd7e4 Comments URL: https://news.ycombinator.com/item?id=48774523 Points: 2 # Comments: 0
+Article URL: https://www.normallydistributed.dev/introducing-flora-a-diagram-library-built-with-and-for-ai/ Comments URL: https://news.ycombinator.com/item?id=48777597 Points: 1 # Comments: 0
 
-📖 [Read original article](https://read.misalignedmag.com/when-ai-comes-to-the-workplace-ethics-employee-empowerment-and-privacy-7e9bb45cd7e4)
+📖 [Read original article](https://www.normallydistributed.dev/introducing-flora-a-diagram-library-built-with-and-for-ai/)
 
 ---
 
-## 10. Show HN: I built a website showing the likelihood of the AI bubble to pop
+## 10. Patagonia Vests Are \"Out\" with AI Crowd
 
-**Author:** laurentiurad  
-**Published:** 7/3/2026, 12:55:34 PM  
+**Author:** runamuck  
+**Published:** 7/3/2026, 5:29:09 PM  
 **Categories:** -  
 
-I built a web page that aggregates data about data center buildup, sovereign fund investments into AI and bottlenecks. The objective is to predict AI race cooldown by looking at a potential decrease of activity involving these elements. The website looks at the quarterly forms from the 5 biggest hyp...
+Article URL: https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7 Comments URL: https://news.ycombinator.com/item?id=48777527 Points: 1 # Comments: 2
 
-📖 [Read original article](https://laurentiugabriel.github.io/is-ai-hype-cooling-down/)
+📖 [Read original article](https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7)
 
 ---
 
-## 11. Embodied.cpp: A Portable Inference Runtime of Embodied AI Models
+## 11. The $1.3 million theft that exposed AI's blind spot
 
-**Author:** chrsw  
-**Published:** 7/3/2026, 12:55:02 PM  
+**Author:** Brajeshwar  
+**Published:** 7/3/2026, 5:29:04 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2607.02501 Comments URL: https://news.ycombinator.com/item?id=48774455 Points: 1 # Comments: 0
+Article URL: https://thenewstack.io/ai-infrastructure-cargo-theft/ Comments URL: https://news.ycombinator.com/item?id=48777526 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2607.02501)
+📖 [Read original article](https://thenewstack.io/ai-infrastructure-cargo-theft/)
 
 ---
 
-## 12. Show HN: Spark KNE Verify – Verify selected AI claims in the browser
+## 12. Jersey Mike's IPO illustrates how bad the AI hype has become
 
-**Author:** knespark  
-**Published:** 7/3/2026, 12:53:24 PM  
+**Author:** Brajeshwar  
+**Published:** 7/3/2026, 5:28:40 PM  
 **Categories:** -  
 
-Article URL: https://chromewebstore.google.com/detail/spark-kne-verify/ncegakjnphdojnjlohobacncplbkbfdc Comments URL: https://news.ycombinator.com/item?id=48774438 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/ Comments URL: https://news.ycombinator.com/item?id=48777523 Points: 3 # Comments: 1
 
-📖 [Read original article](https://chromewebstore.google.com/detail/spark-kne-verify/ncegakjnphdojnjlohobacncplbkbfdc)
+📖 [Read original article](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/)
 
 ---
 
-## 13. My Students Hate AI. But They Can't Stop Using It
+## 13. AI's Volatile Power Use Quietly Tests Grid Limits
 
-**Author:** sseagull  
-**Published:** 7/3/2026, 12:53:06 PM  
+**Author:** Brajeshwar  
+**Published:** 7/3/2026, 5:27:05 PM  
 **Categories:** -  
 
-Article URL: https://www.chronicle.com/article/my-students-hate-ai-but-they-cant-stop-using-it Comments URL: https://news.ycombinator.com/item?id=48774433 Points: 4 # Comments: 1
+Article URL: https://spectrum.ieee.org/data-centers-grid-instability Comments URL: https://news.ycombinator.com/item?id=48777505 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.chronicle.com/article/my-students-hate-ai-but-they-cant-stop-using-it)
+📖 [Read original article](https://spectrum.ieee.org/data-centers-grid-instability)
 
 ---
 
-## 14. Please stop the AI confidence theater
+## 14. AI's $2.2T deficit fix is already half fake, economists say
 
-**Author:** skadamat  
-**Published:** 7/3/2026, 12:51:17 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/3/2026, 5:21:59 PM  
 **Categories:** -  
 
-Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater Comments URL: https://news.ycombinator.com/item?id=48774414 Points: 74 # Comments: 36
+Article URL: https://fortune.com/2026/07/02/ai-productivity-deficit-national-debt-brookings-fed-study/ Comments URL: https://news.ycombinator.com/item?id=48777450 Points: 7 # Comments: 1
 
-📖 [Read original article](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater)
+📖 [Read original article](https://fortune.com/2026/07/02/ai-productivity-deficit-national-debt-brookings-fed-study/)
 
 ---
 
-## 15. KathaGPT – private AI desktop app
+## 15. Ask HN: Procrastination with AI?
 
-**Author:** santosh_premi  
-**Published:** 7/3/2026, 12:49:18 PM  
+**Author:** caprock  
+**Published:** 7/3/2026, 5:10:49 PM  
 **Categories:** -  
 
-Article URL: https://santoshpremi.github.io/KathaGPT/ Comments URL: https://news.ycombinator.com/item?id=48774390 Points: 1 # Comments: 1
+For software engineers and related fields, I know what procrastination has traditionally looked like, and how it manifests.Now, things like codex, cursor, claude code can remove some kinds of friction but also change workflows.So are you procrastinating less? More? Differently?What does it look like...
 
-📖 [Read original article](https://santoshpremi.github.io/KathaGPT/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48777321)
 
 ---
 
-## 16. AI Data Centers Use More Water Than Most Tech Giants Report
+## 16. The Mental Models I Use to Work with AI
 
-**Author:** bradleyjg  
-**Published:** 7/3/2026, 12:33:20 PM  
+**Author:** young_mete  
+**Published:** 7/3/2026, 5:08:35 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902 Comments URL: https://news.ycombinator.com/item?id=48774246 Points: 25 # Comments: 22
+Article URL: https://metedata.substack.com/p/015-the-mental-models-i-use-to-work Comments URL: https://news.ycombinator.com/item?id=48777302 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902)
+📖 [Read original article](https://metedata.substack.com/p/015-the-mental-models-i-use-to-work)
 
 ---
 
-## 17. Why AI Tokens are so Expensive [video]
+## 17. AI saves about 3% of your hours, and almost none of it reaches the money
 
-**Author:** jonbaer  
-**Published:** 7/3/2026, 12:28:54 PM  
+**Author:** ermantrout  
+**Published:** 7/3/2026, 5:03:22 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=-0HRzXk8vlk Comments URL: https://news.ycombinator.com/item?id=48774208 Points: 2 # Comments: 0
+Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 63 # Comments: 68
 
-📖 [Read original article](https://www.youtube.com/watch?v=-0HRzXk8vlk)
+📖 [Read original article](https://okaneland.com/study/ai-productivity-roi-at-work/)
 
 ---
 
-## 18. DaisyUI uses AI generated images AND ART to sell merchandising
+## 18. The AI coding maturity scale
 
-**Author:** manuel_png  
-**Published:** 7/3/2026, 12:17:32 PM  
+**Author:** claudiacsf  
+**Published:** 7/3/2026, 5:01:56 PM  
 **Categories:** -  
 
-Article URL: https://swag.daisyui.com/en-eur/products/html-scientist-t-shirt Comments URL: https://news.ycombinator.com/item?id=48774127 Points: 1 # Comments: 1
+Article URL: https://blog.codacy.com/the-ai-coding-maturity-scale-the-path-to-loop-engineering Comments URL: https://news.ycombinator.com/item?id=48777236 Points: 1 # Comments: 0
 
-📖 [Read original article](https://swag.daisyui.com/en-eur/products/html-scientist-t-shirt)
+📖 [Read original article](https://blog.codacy.com/the-ai-coding-maturity-scale-the-path-to-loop-engineering)
 
 ---
 
-## 19. Show HN: Diff two versions of an AI agent and catch silent permission changes
+## 19. The future of AI is Dumb and Dirty
 
-**Author:** stoicstoic  
-**Published:** 7/3/2026, 12:12:24 PM  
+**Author:** salarkhannn  
+**Published:** 7/3/2026, 4:56:42 PM  
 **Categories:** -  
 
-Article URL: https://www.agent-kits.com/drift Comments URL: https://news.ycombinator.com/item?id=48774077 Points: 1 # Comments: 0
+Article URL: https://sal4rkhn.substack.com/p/why-the-future-of-ai-is-dumb-and Comments URL: https://news.ycombinator.com/item?id=48777178 Points: 5 # Comments: 1
 
-📖 [Read original article](https://www.agent-kits.com/drift)
+📖 [Read original article](https://sal4rkhn.substack.com/p/why-the-future-of-ai-is-dumb-and)
 
 ---
 
-## 20. Feedback about a Visualping alternative using AI to monitor websites
+## 20. How AI Learned to Speak
 
-**Author:** arthurdelerue  
-**Published:** 7/3/2026, 12:03:04 PM  
+**Author:** mridul_sahu  
+**Published:** 7/3/2026, 4:56:07 PM  
 **Categories:** -  
 
-I'm launching an alternative to Visualing called Page Deltas ( https://pagedeltas.com ) to monitor websites using LLMs.The idea is to ask AI which part of a webpage you want to monitor, and let it summarize detected changes for you.Useful to monitor your competitors for example (their pricing, produ...
+Article URL: https://www.youtube.com/watch?v=8W_qiZqocwo Comments URL: https://news.ycombinator.com/item?id=48777170 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48774008)
+📖 [Read original article](https://www.youtube.com/watch?v=8W_qiZqocwo)
 
 ---
