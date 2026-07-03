@@ -41,7 +41,7 @@ arXiv:2607.00002v1 Announce Type: new Abstract: Moral cognition has traditionall
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.00032v1 Announce Type: new Abstract: Many information systems are built around documents: self-contained units optimised for print production and linear reading. While effective for large-scale dissemination, the document-centric organisation constrains how knowledge can be structured, up...
+arXiv:2607.00032v2 Announce Type: new Abstract: Many information systems are built around documents: self-contained units optimised for print production and linear reading. While effective for large-scale dissemination, the document-centric organisation constrains how knowledge can be structured, up...
 
 📖 [Read original article](https://arxiv.org/abs/2607.00032)
 
@@ -361,11 +361,11 @@ arXiv:2607.01188v1 Announce Type: new Abstract: In autonomous laboratories, AI a
 
 ## 30. Theoria: Rewrite-Acceptability Verification over Informal Reasoning States
 
-**Author:** Ben Slivinski, Michael Saldivar  
+**Author:** Michael Saldivar, Ben Slivinski  
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG, cs.LO, cs.SE  
 
-arXiv:2607.01223v1 Announce Type: new Abstract: When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fact and are subject to...
+arXiv:2607.01223v2 Announce Type: new Abstract: When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fact and are subject to...
 
 📖 [Read original article](https://arxiv.org/abs/2607.01223)
 
@@ -455,13 +455,13 @@ arXiv:2607.00006v1 Announce Type: cross Abstract: Beckmann & Butlin's (2026) ont
 
 ---
 
-## 38. BaRA: BFS-and-Reflection Web Data Collection Agent
+## 38. BaRA: Budget-constrained and Reliable Web Data Collection Agent
 
 **Author:** Soojeong Lee, Joseph Lee, Yongseong Cho, Sunjae Kim, Youngwoo Moon, Kyungwoo Song  
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI  
 
-arXiv:2607.00007v1 Announce Type: cross Abstract: Large language model (LLM)-based web agents reduce manual scripting for web data collection, yet on live websites, they often miss relevant pages, return incomplete multimodal outputs, or return media URLs that are not directly downloadable. We prese...
+arXiv:2607.00007v2 Announce Type: cross Abstract: Large language model (LLM)-based web agents automate web navigation and data collection. However, live web data collection demands capabilities beyond task completion: agents must discover site-internal pages and retrieve text, image, and video artif...
 
 📖 [Read original article](https://arxiv.org/abs/2607.00007)
 
@@ -569,7 +569,7 @@ arXiv:2607.00016v1 Announce Type: cross Abstract: Information localization withi
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI, cs.CL  
 
-arXiv:2607.00017v1 Announce Type: cross Abstract: Long-term conversational agents are expected to remember past interactions, but memory is useful only when the right evidence is recalled for the right user. Existing memory-augmented LLM agents have made progress in building compact memory banks, ye...
+arXiv:2607.00017v2 Announce Type: cross Abstract: Long-term conversational agents are expected to remember past interactions, but memory is useful only when the right evidence is recalled for the right user. Existing memory-augmented LLM agents have made progress in building compact memory banks, ye...
 
 📖 [Read original article](https://arxiv.org/abs/2607.00017)
 
@@ -713,7 +713,7 @@ arXiv:2607.00053v1 Announce Type: cross Abstract: Large language models (LLMs) e
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.IT, cs.AI, cs.MA, cs.NI, math.IT  
 
-arXiv:2607.00056v1 Announce Type: cross Abstract: This paper studies energy efficient tracking of power-limited mobile users with the assistance of a Reconfigurable Intelligent Surface (RIS). Since localization pilot transmissions dominate the energy budget of power-constrained devices, we introduce...
+arXiv:2607.00056v2 Announce Type: cross Abstract: This paper studies energy efficient tracking of power-limited mobile users with the assistance of a Reconfigurable Intelligent Surface (RIS). Since localization pilot transmissions dominate the energy budget of power-constrained devices, we introduce...
 
 📖 [Read original article](https://arxiv.org/abs/2607.00056)
 
@@ -749,7 +749,7 @@ arXiv:2607.00062v1 Announce Type: cross Abstract: High pass rates on established
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** quant-ph, cs.AI  
 
-arXiv:2607.00063v1 Announce Type: cross Abstract: This paper studies how spectral geometry emerges in quantum learning models and how it can be diagnosed with physically grounded probes. In graph-regularized quantum networks, training reorganizes the output similarity graph, increases the effective ...
+arXiv:2607.00063v2 Announce Type: cross Abstract: This paper studies how spectral geometry emerges in quantum learning models and how it can be diagnosed with physically grounded probes. In graph-regularized quantum networks, training reorganizes the output similarity graph, increases the effective ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.00063)
 
@@ -1745,7 +1745,7 @@ arXiv:2607.00832v1 Announce Type: cross Abstract: A single panorama captures the
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.SY, eess.SY  
 
-arXiv:2607.00836v1 Announce Type: cross Abstract: World models are increasingly used in embodied intelligence and generative simulation, yet their scope remains ambiguous across communities. This tutorial presents a design-space view of world models as action-conditioned predictive models that estim...
+arXiv:2607.00836v2 Announce Type: cross Abstract: World models are increasingly used in embodied intelligence and generative simulation, yet their scope remains ambiguous across communities. This tutorial presents a design-space view of world models as action-conditioned predictive models that estim...
 
 📖 [Read original article](https://arxiv.org/abs/2607.00836)
 
@@ -1985,7 +1985,7 @@ arXiv:2607.01043v1 Announce Type: cross Abstract: Memory-based discrete vision-l
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI  
 
-arXiv:2607.01071v1 Announce Type: cross Abstract: Memory has emerged as a cornerstone of modern LLM-based agents, supporting their evolution from single-turn assistants to long-term collaborators. However, memory is not always beneficial: retrieved memories often induce a critical issue of sycophanc...
+arXiv:2607.01071v2 Announce Type: cross Abstract: Memory has emerged as a cornerstone of modern LLM-based agents, supporting their evolution from single-turn assistants to long-term collaborators. However, memory is not always beneficial: retrieved memories often induce a critical issue of sycophanc...
 
 📖 [Read original article](https://arxiv.org/abs/2607.01071)
 
@@ -1997,7 +1997,7 @@ arXiv:2607.01071v1 Announce Type: cross Abstract: Memory has emerged as a corner
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.01083v1 Announce Type: cross Abstract: High-throughput RLHF systems often decouple rollout generation from policy optimization, leading to the use of stale rollouts during learner updates. In this work, we study the effect of such staleness in asynchronous GRPO. We make the behavior polic...
+arXiv:2607.01083v2 Announce Type: cross Abstract: High-throughput RLHF systems often decouple rollout generation from policy optimization, leading to the use of stale rollouts during learner updates. In this work, we study the effect of such staleness in asynchronous GRPO. We make the behavior polic...
 
 📖 [Read original article](https://arxiv.org/abs/2607.01083)
 
@@ -2657,7 +2657,7 @@ arXiv:2503.13445v3 Announce Type: replace-cross Abstract: When asked to explain 
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2505.03303v4 Announce Type: replace-cross Abstract: Lightweight convolutional neural networks are often compared using results obtained with different training recipes, input settings, and pretrained checkpoints. Such differences make architecture rankings difficult to interpret. This study pr...
+arXiv:2505.03303v5 Announce Type: replace-cross Abstract: Lightweight convolutional neural networks are often compared using results obtained with different training recipes, input settings, and pretrained checkpoints. Such differences make architecture rankings difficult to interpret. This study pr...
 
 📖 [Read original article](https://arxiv.org/abs/2505.03303)
 
@@ -3185,7 +3185,7 @@ arXiv:2604.14262v2 Announce Type: replace-cross Abstract: GUI grounding models r
 **Published:** 7/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2604.25421v2 Announce Type: replace-cross Abstract: Federated fine-tuning provides a practical route to adapt large language models (LLMs) on edge devices without centralizing private data, yet in mobile deployments the training wall-clock is often bottlenecked by straggler-limited uplink comm...
+arXiv:2604.25421v3 Announce Type: replace-cross Abstract: Federated fine-tuning provides a practical route to adapt large language models (LLMs) on edge devices without centralizing private data. However, in mobile deployments, the training wall-clock is often dominated by straggler-limited uplink c...
 
 📖 [Read original article](https://arxiv.org/abs/2604.25421)
 
