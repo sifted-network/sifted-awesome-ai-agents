@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-03"
 date: "2026-07-03"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-07-03
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ count: 10
 第三方测评超越OpenAI最强旗舰GPT-5.6 Sol
 
 📖 [Read original article](https://www.qbitai.com/2026/07/442311.html)
-
----
-
-## 10. 基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？
-
-**Author:** 量子位的朋友们  
-**Published:** 7/3/2026, 3:36:19 AM  
-**Categories:** 资讯, WAIC 2026  
-
-7月17-7月20
-
-📖 [Read original article](https://www.qbitai.com/2026/07/442167.html)
 
 ---
