@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-07-04"
 date: "2026-07-04"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-07-04
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. Ask HN: Which AI model do you use for what?
+## 1. AI-powered mass emails are warping local politics
 
-**Author:** akashwadhwani35  
-**Published:** 7/4/2026, 8:00:11 AM  
+**Author:** rwmj  
+**Published:** 7/4/2026, 1:26:45 PM  
 **Categories:** -  
 
-I use Grok for scanning X since it has direct access to the platform.Gemini for fact-checking.Claude for coding.GPT for image generation. Comments URL: https://news.ycombinator.com/item?id=48783556 Points: 1 # Comments: 0
+Article URL: https://www.msn.com/en-us/news/technology/ai-powered-mass-emails-are-warping-local-energy-climate-politics/ar-AA26qLsM Comments URL: https://news.ycombinator.com/item?id=48785254 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48783556)
+📖 [Read original article](https://www.msn.com/en-us/news/technology/ai-powered-mass-emails-are-warping-local-energy-climate-politics/ar-AA26qLsM)
 
 ---
 
-## 2. Radio Free AI: The voice of the resistance
+## 2. AI search could kill the web without new quality signals and revenue models
 
-**Author:** PaulTheOtherOne  
-**Published:** 7/4/2026, 7:37:39 AM  
+**Author:** bhartipoddar  
+**Published:** 7/4/2026, 1:22:57 PM  
 **Categories:** -  
 
-Article URL: https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm Comments URL: https://news.ycombinator.com/item?id=48783422 Points: 1 # Comments: 1
+Article URL: https://theguptalog.blogspot.com/2026/07/ai-search-could-kill-web-without-new.html Comments URL: https://news.ycombinator.com/item?id=48785239 Points: 1 # Comments: 0
 
-📖 [Read original article](https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm)
+📖 [Read original article](https://theguptalog.blogspot.com/2026/07/ai-search-could-kill-web-without-new.html)
 
 ---
 
-## 3. AI Poisons Creativity [video]
+## 3. AI code reviewer with senior-level judgment and strict rubric
 
-**Author:** ndr42  
-**Published:** 7/4/2026, 7:31:37 AM  
+**Author:** aisonalab  
+**Published:** 7/4/2026, 1:19:11 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=WeCSzEtZcUw Comments URL: https://news.ycombinator.com/item?id=48783386 Points: 1 # Comments: 1
+Article URL: https://github.com/aisona-lab/lazycoder Comments URL: https://news.ycombinator.com/item?id=48785216 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=WeCSzEtZcUw)
+📖 [Read original article](https://github.com/aisona-lab/lazycoder)
 
 ---
 
-## 4. Show HN: Much – Local-first AI workspace with in-browser Python (WASM) sandbox
+## 4. The Dark Forest Applied to AI
 
-**Author:** srinivasthalada  
-**Published:** 7/4/2026, 6:32:59 AM  
+**Author:** thansz  
+**Published:** 7/4/2026, 1:13:15 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=48783120 Points: 1 # Comments: 0
+Article URL: https://github.com/thansz137/asiyah-protocol/blob/main/essays/dark_forest_of_minds.md Comments URL: https://news.ycombinator.com/item?id=48785182 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48783120)
+📖 [Read original article](https://github.com/thansz137/asiyah-protocol/blob/main/essays/dark_forest_of_minds.md)
 
 ---
 
-## 5. How AI models would vote in Sweden
+## 5. Chamath is an AI consultant now
 
-**Author:** urvader  
-**Published:** 7/4/2026, 5:59:20 AM  
+**Author:** dylancollins  
+**Published:** 7/4/2026, 1:11:34 PM  
 **Categories:** -  
 
-Article URL: https://www.nordan.ai/research/which-swedish-party-do-llms-vote-for Comments URL: https://news.ycombinator.com/item?id=48782988 Points: 4 # Comments: 1
+Article URL: https://www.aienablementinsider.com/p/chamath-8090-labs-consultant Comments URL: https://news.ycombinator.com/item?id=48785168 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.nordan.ai/research/which-swedish-party-do-llms-vote-for)
+📖 [Read original article](https://www.aienablementinsider.com/p/chamath-8090-labs-consultant)
 
 ---
 
-## 6. 2026 Unslop AI-Written Fiction Contest Results
+## 6. Show HN: Owthorize: catch destructive AI-agent tool calls before they run
 
-**Author:** networked  
-**Published:** 7/4/2026, 5:37:25 AM  
+**Author:** ayushpawar  
+**Published:** 7/4/2026, 12:52:16 PM  
 **Categories:** -  
 
-Article URL: https://www.hyperstitionai.com/unslop-results Comments URL: https://news.ycombinator.com/item?id=48782890 Points: 22 # Comments: 59
+Article URL: https://www.npmjs.com/package/owthorize Comments URL: https://news.ycombinator.com/item?id=48785072 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.hyperstitionai.com/unslop-results)
+📖 [Read original article](https://www.npmjs.com/package/owthorize)
 
 ---
 
-## 7. AI puts B Corps' values to the test
+## 7. Show HN: Open-source no-code back end platform, now with AI flow generation
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/4/2026, 5:15:38 AM  
+**Author:** nicosammito  
+**Published:** 7/4/2026, 12:50:37 PM  
 **Categories:** -  
 
-Article URL: https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test Comments URL: https://news.ycombinator.com/item?id=48782817 Points: 1 # Comments: 1
+Article URL: https://codezero.build/en/blog/0.0.0-canary-2651542634 Comments URL: https://news.ycombinator.com/item?id=48785063 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.fastcompany.com/91568793/ai-puts-b-corps-values-to-the-test)
+📖 [Read original article](https://codezero.build/en/blog/0.0.0-canary-2651542634)
 
 ---
 
-## 8. Show HN: I replaced my $500/mo legal SaaS with an AI-generated toolkit
+## 8. Show HN: Foundation, a different approach to software and AI
 
-**Author:** promptalex53  
-**Published:** 7/4/2026, 3:39:58 AM  
+**Author:** MomohNobert  
+**Published:** 7/4/2026, 12:46:17 PM  
 **Categories:** -  
 
-Built a complete legal document generation toolkit using AI that produces contracts, NDAs, and other legal templates. Replaced paying $500/month for a SaaS subscription. One-time purchase, works offline with any LLM. Comments URL: https://news.ycombinator.com/item?id=48782457 Points: 1 # Comments: 0
+Article URL: https://github.com/nmxmxh/foundation Comments URL: https://news.ycombinator.com/item?id=48785026 Points: 3 # Comments: 0
 
-📖 [Read original article](https://maxiporonga.gumroad.com/l/ytruk)
+📖 [Read original article](https://github.com/nmxmxh/foundation)
 
 ---
 
-## 9. Argentina's plan for AI-run companies can't avoid humans
+## 9. The Asymmetric Future of AI in Cybersecurity
 
-**Author:** tartoran  
-**Published:** 7/4/2026, 2:25:50 AM  
+**Author:** mstrada  
+**Published:** 7/4/2026, 12:19:09 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/ Comments URL: https://news.ycombinator.com/item?id=48782138 Points: 3 # Comments: 0
+Article URL: https://mstrada.me/posts/aicybersec Comments URL: https://news.ycombinator.com/item?id=48784878 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/)
+📖 [Read original article](https://mstrada.me/posts/aicybersec)
 
 ---
 
-## 10. How AI Made IKEA Workers 10x More Valuable (5 min video)
+## 10. Create your own AI, then watch it battle others in your browser
 
-**Author:** rmason  
-**Published:** 7/4/2026, 2:08:06 AM  
+**Author:** umjunsik132  
+**Published:** 7/4/2026, 12:10:56 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=2ODq6IsmkhM Comments URL: https://news.ycombinator.com/item?id=48782054 Points: 3 # Comments: 2
+Article URL: https://kim-ai-gpu.github.io/2026/07/04/introducing-agenlus-browser-rl/ Comments URL: https://news.ycombinator.com/item?id=48784825 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=2ODq6IsmkhM)
+📖 [Read original article](https://kim-ai-gpu.github.io/2026/07/04/introducing-agenlus-browser-rl/)
 
 ---
 
-## 11. You take AI, I'll take my iPod (if I can find it)
+## 11. Why AI Will Never Achieve Consciousness
 
-**Author:** gnabgib  
-**Published:** 7/4/2026, 1:29:46 AM  
+**Author:** megamike  
+**Published:** 7/4/2026, 11:56:22 AM  
 **Categories:** -  
 
-Article URL: https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/ Comments URL: https://news.ycombinator.com/item?id=48781858 Points: 3 # Comments: 0
+Article URL: https://roburie.substack.com/p/why-ai-doesnt-think-cannot-reason Comments URL: https://news.ycombinator.com/item?id=48784753 Points: 2 # Comments: 4
 
-📖 [Read original article](https://news.harvard.edu/gazette/story/2026/06/ai-has-lots-of-people-digging-out-their-ipods/)
+📖 [Read original article](https://roburie.substack.com/p/why-ai-doesnt-think-cannot-reason)
 
 ---
 
-## 12. Midjourney Seeks to Reveal Studios' Use of AI in High-Stakes Copyright Battle
+## 12. Show HN: Tokdash – a local dashboard for AI token and quota tracking
 
-**Author:** minimaxir  
-**Published:** 7/4/2026, 1:23:56 AM  
+**Author:** howardme1  
+**Published:** 7/4/2026, 11:53:02 AM  
 **Categories:** -  
 
-Article URL: https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/ Comments URL: https://news.ycombinator.com/item?id=48781828 Points: 2 # Comments: 0
+Article URL: https://github.com/JingbiaoMei/Tokdash Comments URL: https://news.ycombinator.com/item?id=48784739 Points: 1 # Comments: 0
 
-📖 [Read original article](https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/)
+📖 [Read original article](https://github.com/JingbiaoMei/Tokdash)
 
 ---
 
-## 13. Did you know your code is overpaying for AI?
+## 13. Show HN: ProxyBoy. A Windows HTTP/HTTPS debugging proxy with an AI assistant
 
-**Author:** eMoka  
-**Published:** 7/4/2026, 12:56:35 AM  
+**Author:** InfraScaler  
+**Published:** 7/4/2026, 11:17:23 AM  
 **Categories:** -  
 
-Article URL: https://tokendiet.dev/ Comments URL: https://news.ycombinator.com/item?id=48781678 Points: 4 # Comments: 1
+ProxyBoy is a man-in-the-middle (MITM) HTTP/HTTPS proxy that captures, inspects, and modifies network traffic — similar to Charles Proxy, Fiddler, or Proxyman. What makes it different is the embedded AI assistant powered by the GitHub Copilot SDK, which can analyze traffic, create rules, and help de...
 
-📖 [Read original article](https://tokendiet.dev/)
+📖 [Read original article](https://github.com/pjperez/proxyboy)
 
 ---
 
-## 14. Context graphs: how AI agents remember why decisions were made
+## 14. Teaching AI to Run with the Turbines
 
-**Author:** vitaelabitur  
-**Published:** 7/4/2026, 12:30:11 AM  
+**Author:** joozio  
+**Published:** 7/4/2026, 11:01:08 AM  
 **Categories:** -  
 
-Article URL: https://nanonets.com/blog/what-is-a-context-graph/ Comments URL: https://news.ycombinator.com/item?id=48781571 Points: 3 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/ Comments URL: https://news.ycombinator.com/item?id=48784479 Points: 1 # Comments: 0
 
-📖 [Read original article](https://nanonets.com/blog/what-is-a-context-graph/)
+📖 [Read original article](https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/)
 
 ---
 
-## 15. China's ByteDance discovers new scaling law that could sustain AI boom
+## 15. Show HN: An AI that brutally rates your cat, and 18 games where your cat plays
 
-**Author:** dstala  
-**Published:** 7/4/2026, 12:12:02 AM  
+**Author:** muzwalks  
+**Published:** 7/4/2026, 10:55:05 AM  
 **Categories:** -  
 
-Article URL: https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom Comments URL: https://news.ycombinator.com/item?id=48781487 Points: 5 # Comments: 0
+Article URL: https://catz.io Comments URL: https://news.ycombinator.com/item?id=48784445 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom)
+📖 [Read original article](https://catz.io)
 
 ---
 
-## 16. Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit
+## 16. Scientists decry conference's use of hidden prompts to snare AI peer reviews
 
-**Author:** birdculture  
-**Published:** 7/4/2026, 12:05:37 AM  
+**Author:** jruohonen  
+**Published:** 7/4/2026, 10:39:00 AM  
 **Categories:** -  
 
-Article URL: https://slopscan.ava.pet/ Comments URL: https://news.ycombinator.com/item?id=48781453 Points: 2 # Comments: 0
+Article URL: https://www.thetransmitter.org/publishing/scientists-decry-conferences-use-of-hidden-prompts-to-snare-ai-peer-reviews/ Comments URL: https://news.ycombinator.com/item?id=48784384 Points: 1 # Comments: 0
 
-📖 [Read original article](https://slopscan.ava.pet/)
+📖 [Read original article](https://www.thetransmitter.org/publishing/scientists-decry-conferences-use-of-hidden-prompts-to-snare-ai-peer-reviews/)
 
 ---
 
-## 17. How HN: Billy – a self-hosted AI assistant that lives in your Telegram
+## 17. Could the next great novel be written by AI?
 
-**Author:** tmblwd73  
-**Published:** 7/4/2026, 12:02:23 AM  
+**Author:** scandox  
+**Published:** 7/4/2026, 10:34:07 AM  
 **Categories:** -  
 
-Article URL: https://github.com/surfgolfski-dev/billy Comments URL: https://news.ycombinator.com/item?id=48781437 Points: 2 # Comments: 1
+Article URL: https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt Comments URL: https://news.ycombinator.com/item?id=48784360 Points: 2 # Comments: 4
 
-📖 [Read original article](https://github.com/surfgolfski-dev/billy)
+📖 [Read original article](https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt)
+
+---
+
+## 18. AI models' values are different from most people's
+
+**Author:** Anon84  
+**Published:** 7/4/2026, 10:33:29 AM  
+**Categories:** -  
+
+Article URL: https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples Comments URL: https://news.ycombinator.com/item?id=48784353 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples)
+
+---
+
+## 19. Jersey Mike's IPO illustrates how bad the AI hype is
+
+**Author:** cybermango  
+**Published:** 7/4/2026, 10:30:09 AM  
+**Categories:** -  
+
+Article URL: https://finance.yahoo.com/technology/ai/articles/jersey-mike-ipo-illustrates-bad-201159743.html Comments URL: https://news.ycombinator.com/item?id=48784339 Points: 5 # Comments: 3
+
+📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/jersey-mike-ipo-illustrates-bad-201159743.html)
+
+---
+
+## 20. Show HN: AI Coloring Page Generator for printable classroom worksheets
+
+**Author:** robot1996  
+**Published:** 7/4/2026, 10:22:39 AM  
+**Categories:** -  
+
+Article URL: https://aicoloringpagegenerator.org/ Comments URL: https://news.ycombinator.com/item?id=48784304 Points: 1 # Comments: 0
+
+📖 [Read original article](https://aicoloringpagegenerator.org/)
 
 ---
