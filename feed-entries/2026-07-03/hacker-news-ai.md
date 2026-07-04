@@ -2,251 +2,143 @@
 title: "Hacker News AI - 2026-07-03"
 date: "2026-07-03"
 source: "Hacker News AI"
-count: 20
+count: 11
 ---
 
 # Hacker News AI - 2026-07-03
 
-20 items collected.
+11 items collected.
 
 ---
 
-## 1. A political belief changed how AI analysts read the same data
+## 1. Forget the AI bubble. The IMF says the real threat is the mountain of debt
 
-**Author:** thatsgcasey  
-**Published:** 7/3/2026, 7:00:12 PM  
+**Author:** petethomas  
+**Published:** 7/3/2026, 11:50:21 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2607.01507 Comments URL: https://news.ycombinator.com/item?id=48778651 Points: 1 # Comments: 0
+Article URL: https://www.msn.com/en-us/money/other/forget-the-ai-bubble-the-imf-says-the-real-threat-is-the-mountain-of-debt-behind-it-and-60-of-planned-data-centers-haven-t-even-broken-ground/ar-AA278Tti Comments URL: https://news.ycombinator.com/item?id=48781375 Points: 5 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2607.01507)
+📖 [Read original article](https://www.msn.com/en-us/money/other/forget-the-ai-bubble-the-imf-says-the-real-threat-is-the-mountain-of-debt-behind-it-and-60-of-planned-data-centers-haven-t-even-broken-ground/ar-AA278Tti)
 
 ---
 
-## 2. An AI Koan
+## 2. Give your AI agent its own email inbox – MailKite
 
-**Author:** rcanand2025  
-**Published:** 7/3/2026, 6:49:27 PM  
+**Author:** bucabay  
+**Published:** 7/3/2026, 11:47:29 PM  
 **Categories:** -  
 
-If 1 pour my heart soul sweat blood tears into crafting the perfect one shot prompt, and get a perfect response, is that still vibe coding? Comments URL: https://news.ycombinator.com/item?id=48778522 Points: 1 # Comments: 0
+Article URL: https://mailkite.dev/blog/give-your-agent-an-inbox/ Comments URL: https://news.ycombinator.com/item?id=48781354 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48778522)
+📖 [Read original article](https://mailkite.dev/blog/give-your-agent-an-inbox/)
 
 ---
 
-## 3. Ask HN: Are any startups hiring front-end developers, or are they just using AI?
+## 3. Coding without AI: a revolutionary new way to work
 
-**Author:** Kathan2651  
-**Published:** 7/3/2026, 6:35:12 PM  
+**Author:** encyclopedism  
+**Published:** 7/3/2026, 11:34:28 PM  
 **Categories:** -  
 
-I have 4+ years of experience in React and Next.js when I got out of my last contract role, I thought it was the right time to look for a remote job. But, it feels like the market gave up on me. When many companies were hiring, I didn’t have enough experience. Now that I do have experience, it feels...
+Article URL: https://isaaclyman.com/blog/posts/code-review/ Comments URL: https://news.ycombinator.com/item?id=48781256 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48778312)
+📖 [Read original article](https://isaaclyman.com/blog/posts/code-review/)
 
 ---
 
-## 4. SaaS Economics in the AI Era
+## 4. Show HN: StayThere.ai - Book directly at over 96k short term rentals
 
-**Author:** hsrada93  
-**Published:** 7/3/2026, 6:25:44 PM  
+**Author:** wthayer  
+**Published:** 7/3/2026, 11:07:51 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@adarshdeepsingh/saas-economics-in-the-ai-era-39b63acfaae7 Comments URL: https://news.ycombinator.com/item?id=48778194 Points: 1 # Comments: 0
+Hi HN,I manage short term rentals and always send guests my direct booking. I see others constantly post on reddit asking for tips for direct booking and how to do it.So I have been aggregating the free direct booking sites PMS's give their hosts into one large booking site with a shared map.Airbnb,...
 
-📖 [Read original article](https://medium.com/@adarshdeepsingh/saas-economics-in-the-ai-era-39b63acfaae7)
+📖 [Read original article](https://staythere.ai/)
 
 ---
 
-## 5. AI turned every engineer into three. Now companies need more product thinkers
+## 5. Coding without AI: a revolutionary new way to work
 
-**Author:** gmays  
-**Published:** 7/3/2026, 6:24:02 PM  
+**Author:** aard  
+**Published:** 7/3/2026, 10:26:47 PM  
 **Categories:** -  
 
-Article URL: https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers Comments URL: https://news.ycombinator.com/item?id=48778176 Points: 1 # Comments: 0
+Article URL: https://isaaclyman.com/blog/posts/coding-without-ai/ Comments URL: https://news.ycombinator.com/item?id=48780754 Points: 21 # Comments: 5
 
-📖 [Read original article](https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers)
+📖 [Read original article](https://isaaclyman.com/blog/posts/coding-without-ai/)
 
 ---
 
-## 6. Physics informed generative AI for semiconductor manufacturing
+## 6. AI Trade Is Losing One of Its Key Signals
 
-**Author:** Jimmc414  
-**Published:** 7/3/2026, 6:17:31 PM  
+**Author:** cybermango  
+**Published:** 7/3/2026, 10:03:03 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2606.11247 Comments URL: https://news.ycombinator.com/item?id=48778089 Points: 2 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock Comments URL: https://news.ycombinator.com/item?id=48780540 Points: 5 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2606.11247)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock)
 
 ---
 
-## 7. Show HN: Solace – A quiet, local AI companion for Android with long-term memory
+## 7. The Termi Protocol: Watch AI Coding Agents Build in 3D
 
-**Author:** redhotcookerr  
-**Published:** 7/3/2026, 5:54:24 PM  
+**Author:** jonbaer  
+**Published:** 7/3/2026, 9:47:53 PM  
 **Categories:** -  
 
-Article URL: https://play.google.com/store/apps/details?id=com.solace.bot&hl=en_US Comments URL: https://news.ycombinator.com/item?id=48777831 Points: 1 # Comments: 0
+Article URL: https://termiprotocol.com/ Comments URL: https://news.ycombinator.com/item?id=48780405 Points: 3 # Comments: 1
 
-📖 [Read original article](https://play.google.com/store/apps/details?id=com.solace.bot&hl=en_US)
+📖 [Read original article](https://termiprotocol.com/)
 
 ---
 
-## 8. Token prices collapsing, regulation rising, AI's pricing power looks fragile
+## 8. Show HN: Durable AI agents without the workflow engine
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/3/2026, 5:37:05 PM  
+**Author:** iacguy  
+**Published:** 7/3/2026, 9:47:10 PM  
 **Categories:** -  
 
-Article URL: https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile Comments URL: https://news.ycombinator.com/item?id=48777617 Points: 6 # Comments: 0
+Article URL: https://www.noworkflows.dev/ Comments URL: https://news.ycombinator.com/item?id=48780400 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile)
+📖 [Read original article](https://www.noworkflows.dev/)
 
 ---
 
-## 9. Flora: A Diagram Library Built with (and for) AI
+## 9. AI First: How the Federal Government Is Prioritizing AI over People and Planet
 
-**Author:** jillcates  
-**Published:** 7/3/2026, 5:36:06 PM  
+**Author:** eatox  
+**Published:** 7/3/2026, 9:21:08 PM  
 **Categories:** -  
 
-Article URL: https://www.normallydistributed.dev/introducing-flora-a-diagram-library-built-with-and-for-ai/ Comments URL: https://news.ycombinator.com/item?id=48777597 Points: 1 # Comments: 0
+Article URL: https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first Comments URL: https://news.ycombinator.com/item?id=48780128 Points: 29 # Comments: 24
 
-📖 [Read original article](https://www.normallydistributed.dev/introducing-flora-a-diagram-library-built-with-and-for-ai/)
+📖 [Read original article](https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first)
 
 ---
 
-## 10. Patagonia Vests Are \"Out\" with AI Crowd
+## 10. AI inference is obviously profitable
 
-**Author:** runamuck  
-**Published:** 7/3/2026, 5:29:09 PM  
+**Author:** emirb  
+**Published:** 7/3/2026, 9:14:33 PM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7 Comments URL: https://news.ycombinator.com/item?id=48777527 Points: 1 # Comments: 2
+Article URL: https://www.seangoedecke.com/ai-inference-is-obviously-profitable/ Comments URL: https://news.ycombinator.com/item?id=48780033 Points: 11 # Comments: 9
 
-📖 [Read original article](https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7)
+📖 [Read original article](https://www.seangoedecke.com/ai-inference-is-obviously-profitable/)
 
 ---
 
-## 11. The $1.3 million theft that exposed AI's blind spot
+## 11. Collabora Office 26.04 Keeps AI Optional and Refines Writer and Calc
 
-**Author:** Brajeshwar  
-**Published:** 7/3/2026, 5:29:04 PM  
+**Author:** mmarian  
+**Published:** 7/3/2026, 9:01:20 PM  
 **Categories:** -  
 
-Article URL: https://thenewstack.io/ai-infrastructure-cargo-theft/ Comments URL: https://news.ycombinator.com/item?id=48777526 Points: 1 # Comments: 0
+Article URL: https://itsfoss.com/news/collabora-office-26-04/ Comments URL: https://news.ycombinator.com/item?id=48779911 Points: 3 # Comments: 0
 
-📖 [Read original article](https://thenewstack.io/ai-infrastructure-cargo-theft/)
-
----
-
-## 12. Jersey Mike's IPO illustrates how bad the AI hype has become
-
-**Author:** Brajeshwar  
-**Published:** 7/3/2026, 5:28:40 PM  
-**Categories:** -  
-
-Article URL: https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/ Comments URL: https://news.ycombinator.com/item?id=48777523 Points: 3 # Comments: 1
-
-📖 [Read original article](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/)
-
----
-
-## 13. AI's Volatile Power Use Quietly Tests Grid Limits
-
-**Author:** Brajeshwar  
-**Published:** 7/3/2026, 5:27:05 PM  
-**Categories:** -  
-
-Article URL: https://spectrum.ieee.org/data-centers-grid-instability Comments URL: https://news.ycombinator.com/item?id=48777505 Points: 1 # Comments: 0
-
-📖 [Read original article](https://spectrum.ieee.org/data-centers-grid-instability)
-
----
-
-## 14. AI's $2.2T deficit fix is already half fake, economists say
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/3/2026, 5:21:59 PM  
-**Categories:** -  
-
-Article URL: https://fortune.com/2026/07/02/ai-productivity-deficit-national-debt-brookings-fed-study/ Comments URL: https://news.ycombinator.com/item?id=48777450 Points: 7 # Comments: 1
-
-📖 [Read original article](https://fortune.com/2026/07/02/ai-productivity-deficit-national-debt-brookings-fed-study/)
-
----
-
-## 15. Ask HN: Procrastination with AI?
-
-**Author:** caprock  
-**Published:** 7/3/2026, 5:10:49 PM  
-**Categories:** -  
-
-For software engineers and related fields, I know what procrastination has traditionally looked like, and how it manifests.Now, things like codex, cursor, claude code can remove some kinds of friction but also change workflows.So are you procrastinating less? More? Differently?What does it look like...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48777321)
-
----
-
-## 16. The Mental Models I Use to Work with AI
-
-**Author:** young_mete  
-**Published:** 7/3/2026, 5:08:35 PM  
-**Categories:** -  
-
-Article URL: https://metedata.substack.com/p/015-the-mental-models-i-use-to-work Comments URL: https://news.ycombinator.com/item?id=48777302 Points: 2 # Comments: 0
-
-📖 [Read original article](https://metedata.substack.com/p/015-the-mental-models-i-use-to-work)
-
----
-
-## 17. AI saves about 3% of your hours, and almost none of it reaches the money
-
-**Author:** ermantrout  
-**Published:** 7/3/2026, 5:03:22 PM  
-**Categories:** -  
-
-Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/ Comments URL: https://news.ycombinator.com/item?id=48777257 Points: 63 # Comments: 68
-
-📖 [Read original article](https://okaneland.com/study/ai-productivity-roi-at-work/)
-
----
-
-## 18. The AI coding maturity scale
-
-**Author:** claudiacsf  
-**Published:** 7/3/2026, 5:01:56 PM  
-**Categories:** -  
-
-Article URL: https://blog.codacy.com/the-ai-coding-maturity-scale-the-path-to-loop-engineering Comments URL: https://news.ycombinator.com/item?id=48777236 Points: 1 # Comments: 0
-
-📖 [Read original article](https://blog.codacy.com/the-ai-coding-maturity-scale-the-path-to-loop-engineering)
-
----
-
-## 19. The future of AI is Dumb and Dirty
-
-**Author:** salarkhannn  
-**Published:** 7/3/2026, 4:56:42 PM  
-**Categories:** -  
-
-Article URL: https://sal4rkhn.substack.com/p/why-the-future-of-ai-is-dumb-and Comments URL: https://news.ycombinator.com/item?id=48777178 Points: 5 # Comments: 1
-
-📖 [Read original article](https://sal4rkhn.substack.com/p/why-the-future-of-ai-is-dumb-and)
-
----
-
-## 20. How AI Learned to Speak
-
-**Author:** mridul_sahu  
-**Published:** 7/3/2026, 4:56:07 PM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=8W_qiZqocwo Comments URL: https://news.ycombinator.com/item?id=48777170 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=8W_qiZqocwo)
+📖 [Read original article](https://itsfoss.com/news/collabora-office-26-04/)
 
 ---
