@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-03"
 date: "2026-07-03"
 source: "qbitai"
-count: 7
+count: 4
 ---
 
 # qbitai - 2026-07-03
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ count: 7
 
 
 📖 [Read original article](https://www.qbitai.com/2026/07/442517.html)
-
----
-
-## 5. 比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”
-
-**Author:** 量子位的朋友们  
-**Published:** 7/3/2026, 10:26:36 AM  
-**Categories:** 资讯, 比亚迪  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/442503.html)
-
----
-
-## 6. 蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”
-
-**Author:** 杰西卡  
-**Published:** 7/3/2026, 7:40:44 AM  
-**Categories:** 智能车参考, 李斌, 蔚来, 车圈最新认知  
-
-创业30年，6次低谷
-
-📖 [Read original article](https://www.qbitai.com/2026/07/442224.html)
-
----
-
-## 7. AI找出4种全新超导体，只用28个GPU时！人类此前完全未知
-
-**Author:** 衡宇  
-**Published:** 7/3/2026, 7:35:58 AM  
-**Categories:** 资讯, 首页轮播, Agent, AI发现, 超导体材料  
-
-超越人类超导体发现100年效率
-
-📖 [Read original article](https://www.qbitai.com/2026/07/442452.html)
 
 ---
