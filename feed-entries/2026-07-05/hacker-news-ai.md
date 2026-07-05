@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. No-AI Label
+## 1. America's 250th became a test of AI-powered Collective Intelligence
 
-**Author:** amelius  
-**Published:** 7/5/2026, 12:57:34 PM  
+**Author:** hogwash  
+**Published:** 7/5/2026, 7:04:06 PM  
 **Categories:** -  
 
-Article URL: https://en.wikipedia.org/wiki/No-AI_label Comments URL: https://news.ycombinator.com/item?id=48793959 Points: 3 # Comments: 0
+Article URL: https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence Comments URL: https://news.ycombinator.com/item?id=48796968 Points: 2 # Comments: 0
 
-📖 [Read original article](https://en.wikipedia.org/wiki/No-AI_label)
+📖 [Read original article](https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence)
 
 ---
 
-## 2. JadePuffer ransomware used AI agent to automate entire attack
+## 2. New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]
+
+**Author:** jonahbard  
+**Published:** 7/5/2026, 6:47:43 PM  
+**Categories:** -  
+
+Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 10 # Comments: 1
+
+📖 [Read original article](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
+
+---
+
+## 3. Show HN: GameFork – AI agents publish and fork browser games via MCP
+
+**Author:** TakayukiKomada  
+**Published:** 7/5/2026, 6:28:27 PM  
+**Categories:** -  
+
+Article URL: https://gamefork.io Comments URL: https://news.ycombinator.com/item?id=48796620 Points: 2 # Comments: 0
+
+📖 [Read original article](https://gamefork.io)
+
+---
+
+## 4. When AI agents get you kicked out from a YC Startup
+
+**Author:** vaishcodescape  
+**Published:** 7/5/2026, 6:00:49 PM  
+**Categories:** -  
+
+Article URL: https://github.com/vaishcodescape/shipd-agent Comments URL: https://news.ycombinator.com/item?id=48796341 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/vaishcodescape/shipd-agent)
+
+---
+
+## 5. Ghostlog: Live terminal UI to monitor AI coding agent Git commits
+
+**Author:** salarkhannn  
+**Published:** 7/5/2026, 5:59:55 PM  
+**Categories:** -  
+
+Article URL: https://github.com/salarkhannn/ghostlog Comments URL: https://news.ycombinator.com/item?id=48796330 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/salarkhannn/ghostlog)
+
+---
+
+## 6. Engram – persistent memory for AI agents, in-process, no cloud
+
+**Author:** barefootdifital  
+**Published:** 7/5/2026, 5:37:03 PM  
+**Categories:** -  
+
+Article URL: https://github.com/HBarefoot/engram Comments URL: https://news.ycombinator.com/item?id=48796133 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/HBarefoot/engram)
+
+---
+
+## 7. Istota – a multi-user AI agent and personal OS
+
+**Author:** durakot  
+**Published:** 7/5/2026, 5:33:14 PM  
+**Categories:** -  
+
+Article URL: https://istota.cynium.com/ Comments URL: https://news.ycombinator.com/item?id=48796095 Points: 5 # Comments: 0
+
+📖 [Read original article](https://istota.cynium.com/)
+
+---
+
+## 8. SOLAR: AI-Powered Speed-of-Light Performance Analysis
+
+**Author:** matt_d  
+**Published:** 7/5/2026, 5:29:18 PM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2606.26383 Comments URL: https://news.ycombinator.com/item?id=48796062 Points: 2 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2606.26383)
+
+---
+
+## 9. Show HN: Detecting AI slop with regex and Stephen King
+
+**Author:** shtofadhor  
+**Published:** 7/5/2026, 5:26:14 PM  
+**Categories:** -  
+
+Article URL: https://github.com/guy-lifshitz/tacheles Comments URL: https://news.ycombinator.com/item?id=48796026 Points: 2 # Comments: 1
+
+📖 [Read original article](https://github.com/guy-lifshitz/tacheles)
+
+---
+
+## 10. Why High-Earning Families Are Leaving Traditional Schools for AI
+
+**Author:** misterinfo  
+**Published:** 7/5/2026, 5:25:41 PM  
+**Categories:** -  
+
+Article URL: https://allk12.com/blog/why-high-earning-families-are-leaving-traditional-schools-for-ai Comments URL: https://news.ycombinator.com/item?id=48796022 Points: 2 # Comments: 0
+
+📖 [Read original article](https://allk12.com/blog/why-high-earning-families-are-leaving-traditional-schools-for-ai)
+
+---
+
+## 11. Mark Zuckerberg tells staff that AI agents haven't progressed enough
+
+**Author:** msolujic  
+**Published:** 7/5/2026, 5:05:35 PM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/ Comments URL: https://news.ycombinator.com/item?id=48795826 Points: 106 # Comments: 107
+
+📖 [Read original article](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
+
+---
+
+## 12. Probing the loss-band sparsity assumption in Scientist AI
+
+**Author:** joozio  
+**Published:** 7/5/2026, 5:02:18 PM  
+**Categories:** -  
+
+Article URL: https://www.lesswrong.com/posts/zJGGZQdtfoNye5ywe/probing-the-loss-band-sparsity-assumption-in-scientist-ai Comments URL: https://news.ycombinator.com/item?id=48795793 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.lesswrong.com/posts/zJGGZQdtfoNye5ywe/probing-the-loss-band-sparsity-assumption-in-scientist-ai)
+
+---
+
+## 13. Domain experts: All human experts into AI agents
+
+**Author:** wonsukchoi97  
+**Published:** 7/5/2026, 4:55:38 PM  
+**Categories:** -  
+
+Article URL: https://github.com/wonsukchoi/domain-experts Comments URL: https://news.ycombinator.com/item?id=48795717 Points: 2 # Comments: 3
+
+📖 [Read original article](https://github.com/wonsukchoi/domain-experts)
+
+---
+
+## 14. People Who Will Thrive in the AI Age
+
+**Author:** paulpauper  
+**Published:** 7/5/2026, 4:32:35 PM  
+**Categories:** -  
+
+Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=48795543 Points: 4 # Comments: 4
+
+📖 [Read original article](https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/)
+
+---
+
+## 15. AI enables 277 people to engage in a single real-time conversation
+
+**Author:** hogwash  
+**Published:** 7/5/2026, 4:29:34 PM  
+**Categories:** -  
+
+Article URL: https://meteoraweb.com/en/news/ai-powered-hyper-communication-leads-277-americans-to-rank-internet-medicine-and-democracy-as-top-us-contributions-for-250th-birthday Comments URL: https://news.ycombinator.com/item?id=48795513 Points: 1 # Comments: 0
+
+📖 [Read original article](https://meteoraweb.com/en/news/ai-powered-hyper-communication-leads-277-americans-to-rank-internet-medicine-and-democracy-as-top-us-contributions-for-250th-birthday)
+
+---
+
+## 16. Drinking AI: AI/Water Consumption Comparisons to Beverages
+
+**Author:** atlasunshrugged  
+**Published:** 7/5/2026, 4:17:36 PM  
+**Categories:** -  
+
+Article URL: https://maxghenis.com/drinking-ai/ Comments URL: https://news.ycombinator.com/item?id=48795424 Points: 1 # Comments: 0
+
+📖 [Read original article](https://maxghenis.com/drinking-ai/)
+
+---
+
+## 17. NHS to use AI on its app to direct patients to appropriate services
 
 **Author:** Brajeshwar  
-**Published:** 7/5/2026, 12:55:11 PM  
+**Published:** 7/5/2026, 3:41:08 PM  
 **Categories:** -  
 
-Article URL: https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/ Comments URL: https://news.ycombinator.com/item?id=48793941 Points: 2 # Comments: 0
+Article URL: https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health Comments URL: https://news.ycombinator.com/item?id=48795101 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)
+📖 [Read original article](https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health)
 
 ---
 
-## 3. Generative AI like Midjourney creates images full of stereotypes
+## 18. Harbor: An MCP gateway that connects AI clients to back end APIs via tools
 
-**Author:** vinnyglennon  
-**Published:** 7/5/2026, 12:45:32 PM  
+**Author:** r0rshrk  
+**Published:** 7/5/2026, 3:39:45 PM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2023/ai-image-stereotypes/ Comments URL: https://news.ycombinator.com/item?id=48793866 Points: 2 # Comments: 1
+Article URL: https://github.com/vijaydeepsinha/harbor Comments URL: https://news.ycombinator.com/item?id=48795093 Points: 1 # Comments: 1
 
-📖 [Read original article](https://restofworld.org/2023/ai-image-stereotypes/)
+📖 [Read original article](https://github.com/vijaydeepsinha/harbor)
 
 ---
 
-## 4. A philosophical and neurocognitive manifesto on AI and ontological trauma
+## 19. Show HN: AI blog system with human DNA
 
-**Author:** obs3ssion  
-**Published:** 7/5/2026, 12:40:01 PM  
+**Author:** iamkazihasanali  
+**Published:** 7/5/2026, 3:12:41 PM  
 **Categories:** -  
 
-Article URL: https://github.com/RiccardoGenco/genesis-2.0/blob/master/README.md Comments URL: https://news.ycombinator.com/item?id=48793815 Points: 1 # Comments: 0
+VoiceCite turns your product knowledge into SEO and AI-ready blog content — chat or answer a Q&A, published automatically to WordPress in your voice. Comments URL: https://news.ycombinator.com/item?id=48794886 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/RiccardoGenco/genesis-2.0/blob/master/README.md)
+📖 [Read original article](https://voicecite.com)
 
 ---
 
-## 5. ComplianceAgent: Open-source EU AI Act compliance scanner
+## 20. AI coding jargon, explained in plain English
 
-**Author:** latreon  
-**Published:** 7/5/2026, 12:26:33 PM  
+**Author:** saikatsg  
+**Published:** 7/5/2026, 3:10:04 PM  
 **Categories:** -  
 
-Article URL: https://github.com/latreon/compliance-agent Comments URL: https://news.ycombinator.com/item?id=48793704 Points: 1 # Comments: 0
+Article URL: https://github.com/mattpocock/dictionary-of-ai-coding Comments URL: https://news.ycombinator.com/item?id=48794864 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/latreon/compliance-agent)
-
----
-
-## 6. The fundamentals of AI transformation (that most orgs are getting wrong)
-
-**Author:** adrianhoward  
-**Published:** 7/5/2026, 12:24:51 PM  
-**Categories:** -  
-
-Article URL: https://www.northshore.studio/blog/the-fundamentals-of-ai-transformation-that-most-organisations-get-wrong Comments URL: https://news.ycombinator.com/item?id=48793689 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.northshore.studio/blog/the-fundamentals-of-ai-transformation-that-most-organisations-get-wrong)
-
----
-
-## 7. Sycophantic AI decreases prosocial intentions and promotes dependence
-
-**Author:** delichon  
-**Published:** 7/5/2026, 11:54:24 AM  
-**Categories:** -  
-
-Article URL: https://www.science.org/doi/full/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=48793455 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.science.org/doi/full/10.1126/science.aec8352)
-
----
-
-## 8. What We Can't Measure About AI Yet
-
-**Author:** worldvoyageur  
-**Published:** 7/5/2026, 11:28:44 AM  
-**Categories:** -  
-
-Article URL: https://aeon.co/essays/what-we-cant-measure-about-ai-yet Comments URL: https://news.ycombinator.com/item?id=48793285 Points: 2 # Comments: 1
-
-📖 [Read original article](https://aeon.co/essays/what-we-cant-measure-about-ai-yet)
-
----
-
-## 9. ActHub – EU AI Act compliance toolkit for small businesses (PHP, no framework)
-
-**Author:** sergiuv  
-**Published:** 7/5/2026, 11:05:47 AM  
-**Categories:** -  
-
-Article URL: https://sevinhub.com/acthub/ Comments URL: https://news.ycombinator.com/item?id=48793158 Points: 2 # Comments: 0
-
-📖 [Read original article](https://sevinhub.com/acthub/)
-
----
-
-## 10. Show HN: PES Benchmark v0.2 – Detecting AI-generated motion (Cohen's d=10.4)
-
-**Author:** myshapeprotocol  
-**Published:** 7/5/2026, 11:03:22 AM  
-**Categories:** -  
-
-Article URL: https://github.com/myshapeprotocol/myshape-protocol Comments URL: https://news.ycombinator.com/item?id=48793142 Points: 3 # Comments: 0
-
-📖 [Read original article](https://github.com/myshapeprotocol/myshape-protocol)
-
----
-
-## 11. Show HN: Open-source phone calling infra for AI agents
-
-**Author:** sameersri2004  
-**Published:** 7/5/2026, 10:51:56 AM  
-**Categories:** -  
-
-Article URL: https://github.com/AgentLineHQ/AgentLine Comments URL: https://news.ycombinator.com/item?id=48793076 Points: 3 # Comments: 2
-
-📖 [Read original article](https://github.com/AgentLineHQ/AgentLine)
-
----
-
-## 12. Ford rehires human engineers after AI fails to match quality checks
-
-**Author:** JumpCrisscross  
-**Published:** 7/5/2026, 10:42:59 AM  
-**Categories:** -  
-
-Article URL: https://www.bbc.com/news/articles/cgrkd41n2v9o Comments URL: https://news.ycombinator.com/item?id=48793020 Points: 29 # Comments: 4
-
-📖 [Read original article](https://www.bbc.com/news/articles/cgrkd41n2v9o)
-
----
-
-## 13. Show HN: Design Patterns for AI
-
-**Author:** verify-ai  
-**Published:** 7/5/2026, 10:36:40 AM  
-**Categories:** -  
-
-Design Patterns by Gang of Four is one of my favorite books. It was well structured and easy to read and reference. I remember when copied each pattern manually to learn them and reference into a pattern repo in Java.A couple weekends ago I felt inspired and I've build a research ingestion pipeline ...
-
-📖 [Read original article](https://verificationdesign.com/)
-
----
-
-## 14. If You Can Write Acceptance Criteria, You Can Write an AI Routing Policy
-
-**Author:** swolpers  
-**Published:** 7/5/2026, 10:07:39 AM  
-**Categories:** -  
-
-Article URL: https://age-of-product.com/ai-routing-policy/ Comments URL: https://news.ycombinator.com/item?id=48792841 Points: 6 # Comments: 0
-
-📖 [Read original article](https://age-of-product.com/ai-routing-policy/)
-
----
-
-## 15. Harvey AI started with a Reddit thread. Now it's worth $11B
-
-**Author:** ilhaniremyuce  
-**Published:** 7/5/2026, 9:58:58 AM  
-**Categories:** -  
-
-Article URL: https://freemalta.com/hub/library/they-named-a-11-billion-company-after-harvey-specter-then-they-hired-the-actor-who-played-him Comments URL: https://news.ycombinator.com/item?id=48792799 Points: 5 # Comments: 1
-
-📖 [Read original article](https://freemalta.com/hub/library/they-named-a-11-billion-company-after-harvey-specter-then-they-hired-the-actor-who-played-him)
-
----
-
-## 16. U.S. Policies Unintentionally Accelerated China's Open AI Ecosystems
-
-**Author:** hunglee2  
-**Published:** 7/5/2026, 9:46:15 AM  
-**Categories:** -  
-
-Article URL: https://arxiv.org/abs/2606.15999 Comments URL: https://news.ycombinator.com/item?id=48792735 Points: 5 # Comments: 0
-
-📖 [Read original article](https://arxiv.org/abs/2606.15999)
-
----
-
-## 17. Concentration of power in AI is a risk, by Andy Konwinski
-
-**Author:** alecco  
-**Published:** 7/5/2026, 8:55:45 AM  
-**Categories:** -  
-
-Article URL: https://xcancel.com/i/article/2072830533739192560 Comments URL: https://news.ycombinator.com/item?id=48792463 Points: 12 # Comments: 0
-
-📖 [Read original article](https://xcancel.com/i/article/2072830533739192560)
-
----
-
-## 18. SigMap: 97% token reduction for AI coding sessions
-
-**Author:** handfuloflight  
-**Published:** 7/5/2026, 7:52:55 AM  
-**Categories:** -  
-
-Article URL: https://sigmap.io/ Comments URL: https://news.ycombinator.com/item?id=48792152 Points: 7 # Comments: 0
-
-📖 [Read original article](https://sigmap.io/)
-
----
-
-## 19. code-on-incus: Give each AI agent its own isolated machine with root
-
-**Author:** Tomte  
-**Published:** 7/5/2026, 7:42:56 AM  
-**Categories:** -  
-
-Article URL: https://github.com/mensfeld/code-on-incus Comments URL: https://news.ycombinator.com/item?id=48792094 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/mensfeld/code-on-incus)
-
----
-
-## 20. Hunch – a Git-native decision graph your AI assistant obeys
-
-**Author:** huchdave  
-**Published:** 7/5/2026, 7:05:06 AM  
-**Categories:** -  
-
-Article URL: https://hunch-pi.vercel.app Comments URL: https://news.ycombinator.com/item?id=48791919 Points: 2 # Comments: 0
-
-📖 [Read original article](https://hunch-pi.vercel.app)
+📖 [Read original article](https://github.com/mattpocock/dictionary-of-ai-coding)
 
 ---
