@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-03"
 date: "2026-07-03"
 source: "qbitai"
-count: 9
+count: 7
 ---
 
 # qbitai - 2026-07-03
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ count: 9
 超越人类超导体发现100年效率
 
 📖 [Read original article](https://www.qbitai.com/2026/07/442452.html)
-
----
-
-## 8. WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter
-
-**Author:** 量子位的朋友们  
-**Published:** 7/3/2026, 7:12:27 AM  
-**Categories:** 资讯, WorldClaw, 百度智能云  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/442447.html)
-
----
-
-## 9. 黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室
-
-**Author:** 一水  
-**Published:** 7/3/2026, 5:24:06 AM  
-**Categories:** 资讯, 首页轮播, 涌生智能  
-
-第三方测评超越OpenAI最强旗舰GPT-5.6 Sol
-
-📖 [Read original article](https://www.qbitai.com/2026/07/442311.html)
 
 ---
