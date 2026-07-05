@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-05"
 date: "2026-07-05"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-07-05
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026
+## 1. LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools
+
+**Author:** Michal Sutter  
+**Published:** 7/5/2026, 7:50:19 AM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Open Source, Tech News, Technology  
+
+LlamaIndex’s legal-kb is a public reference app that gives agents filesystem-style access to a document knowledge base on Index v2. It exposes retrieve (hybrid semantic search), find, read, and grep as tools, with automatic per-file versioning and visual citations. The stack is TanStack Start, AI SD...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/)
+
+---
+
+## 2. Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026
 
 **Author:** Michal Sutter  
 **Published:** 7/5/2026, 3:02:08 AM  
@@ -23,7 +35,7 @@ Most enterprise data still sits inside PDFs, scans, and slide decks. Large langu
 
 ---
 
-## 2. Qwen’s Former Lead on What Hybrid Thinking Got Wrong — and Why He Now Backs Agents
+## 3. Qwen’s Former Lead on What Hybrid Thinking Got Wrong — and Why He Now Backs Agents
 
 **Author:** Michal Sutter  
 **Published:** 7/5/2026, 2:31:14 AM  
