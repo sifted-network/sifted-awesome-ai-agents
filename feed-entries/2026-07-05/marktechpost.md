@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-05"
 date: "2026-07-05"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-07-05
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools
+## 1. Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention
+
+**Author:** Asif Razzaq  
+**Published:** 7/5/2026, 9:25:10 PM  
+**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Software Engineering, Staff, Tech News, Technology  
+
+Meituan has released LongCat-2.0, a 1.6 trillion-parameter Mixture-of-Experts model that activates about 48 billion parameters per token. It pairs a native 1-million-token context, built on LongCat Sparse Attention, with training and serving run end-to-end on domestic AI ASIC superpods. Here is the ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/)
+
+---
+
+## 2. LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools
 
 **Author:** Michal Sutter  
 **Published:** 7/5/2026, 7:50:19 AM  
@@ -23,7 +35,7 @@ LlamaIndex’s legal-kb is a public reference app that gives agents filesystem-s
 
 ---
 
-## 2. Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026
+## 3. Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026
 
 **Author:** Michal Sutter  
 **Published:** 7/5/2026, 3:02:08 AM  
@@ -35,7 +47,7 @@ Most enterprise data still sits inside PDFs, scans, and slide decks. Large langu
 
 ---
 
-## 3. Qwen’s Former Lead on What Hybrid Thinking Got Wrong — and Why He Now Backs Agents
+## 4. Qwen’s Former Lead on What Hybrid Thinking Got Wrong — and Why He Now Backs Agents
 
 **Author:** Michal Sutter  
 **Published:** 7/5/2026, 2:31:14 AM  
