@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-05"
 date: "2026-07-05"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-07-05
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ count: 5
 迈向持续学习的世界模型
 
 📖 [Read original article](https://www.qbitai.com/2026/07/442964.html)
-
----
-
-## 5. 别争了！香农老婆，才是世界上第一个大语言模型
-
-**Author:** henry  
-**Published:** 7/5/2026, 3:51:37 AM  
-**Categories:** 资讯, 首页轮播, 香农  
-
-70年前，香农就拥有了端侧私人定制大语言模型
-
-📖 [Read original article](https://www.qbitai.com/2026/07/443241.html)
 
 ---
