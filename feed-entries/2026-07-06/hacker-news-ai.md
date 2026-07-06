@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Causari – Content-addressable ledger for AI agent code edits
+## 1. NHS accelerates AI rollout to cut waiting times and improve care for millions
 
-**Author:** CroviaTrust  
-**Published:** 7/6/2026, 3:27:50 PM  
+**Author:** mmarian  
+**Published:** 7/6/2026, 7:54:04 PM  
 **Categories:** -  
 
-Article URL: https://causari.dev/#quickstart Comments URL: https://news.ycombinator.com/item?id=48806031 Points: 1 # Comments: 0
+Article URL: https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/ Comments URL: https://news.ycombinator.com/item?id=48809659 Points: 1 # Comments: 0
 
-📖 [Read original article](https://causari.dev/#quickstart)
+📖 [Read original article](https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/)
 
 ---
 
-## 2. How the AI bubble could pop and take down the global economy, according to BIS
+## 2. Gartner saw AI 2017 on the peak of its hype
 
-**Author:** AndrewDucker  
-**Published:** 7/6/2026, 3:22:04 PM  
+**Author:** doener  
+**Published:** 7/6/2026, 7:35:17 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793 Comments URL: https://news.ycombinator.com/item?id=48805940 Points: 1 # Comments: 0
+Article URL: https://www.researchgate.net/figure/Gartner-Hype-Cycle-2017-11_fig1_322215706 Comments URL: https://news.ycombinator.com/item?id=48809439 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793)
+📖 [Read original article](https://www.researchgate.net/figure/Gartner-Hype-Cycle-2017-11_fig1_322215706)
 
 ---
 
-## 3. Show HN: Keyhole – Share secrets with your AI agents
+## 3. Groundtruth – checks your AI coding agent's claims against the Git diff
 
-**Author:** maferland  
-**Published:** 7/6/2026, 3:11:50 PM  
+**Author:** erapin_game  
+**Published:** 7/6/2026, 7:29:31 PM  
 **Categories:** -  
 
-I had the idea for Keyhole while bootstrapping a bunch of small services and apps. I'm trying to prototype fast, and sometimes these need a variety of secrets. I use Doppler to remove myself from the loop, but once in a while I still need to provide a secret. AI agents will suggest you rotate a secr...
+Article URL: https://github.com/akahkhanna/groundtruth Comments URL: https://news.ycombinator.com/item?id=48809364 Points: 1 # Comments: 0
 
-📖 [Read original article](https://keyhole.maferland.com)
+📖 [Read original article](https://github.com/akahkhanna/groundtruth)
 
 ---
 
-## 4. You Don't Own Your .io or .ai. You Rent a Country's Politics
+## 4. I mapped estimated water use across 30 major AI/cloud data centers
 
-**Author:** speckx  
-**Published:** 7/6/2026, 3:07:17 PM  
+**Author:** senazadeh  
+**Published:** 7/6/2026, 7:19:49 PM  
 **Categories:** -  
 
-Article URL: https://webhosting.today/2026/07/02/you-dont-own-your-io-or-ai-you-rent-a-countrys-politics/ Comments URL: https://news.ycombinator.com/item?id=48805715 Points: 3 # Comments: 0
+Article URL: https://www.thirstymachines.com/ Comments URL: https://news.ycombinator.com/item?id=48809253 Points: 3 # Comments: 2
 
-📖 [Read original article](https://webhosting.today/2026/07/02/you-dont-own-your-io-or-ai-you-rent-a-countrys-politics/)
+📖 [Read original article](https://www.thirstymachines.com/)
 
 ---
 
-## 5. Ask HN: Why submit your AI-written article?
+## 5. What's slowing down the AI buildout
 
-**Author:** blinkbat  
-**Published:** 7/6/2026, 3:06:43 PM  
+**Author:** gmays  
+**Published:** 7/6/2026, 7:07:07 PM  
 **Categories:** -  
 
-genuinely, who do you think wants to read it? why do some of you wait to disclose that it's AI-written until the footer? what kind of internet are you interested in creating or experiencing, or do you just not even think about this? Comments URL: https://news.ycombinator.com/item?id=48805703 Points:...
+Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48809084 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48805703)
+📖 [Read original article](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid)
 
 ---
 
-## 6. Google Chrome Installed a 4GB AI Model on Your PC
+## 6. Show HN:I built a safety shield for AI agents that intercepts dangerous commands
 
-**Author:** haebom  
-**Published:** 7/6/2026, 3:01:44 PM  
+**Author:** Thomas_Zhou  
+**Published:** 7/6/2026, 7:00:50 PM  
 **Categories:** -  
 
-Article URL: https://oztalking.com/en/issues/hidden-4gb-ai-model Comments URL: https://news.ycombinator.com/item?id=48805627 Points: 2 # Comments: 2
+Article URL: https://github.com/Thomaszhou22/danger-guard-skill Comments URL: https://news.ycombinator.com/item?id=48809001 Points: 1 # Comments: 0
 
-📖 [Read original article](https://oztalking.com/en/issues/hidden-4gb-ai-model)
+📖 [Read original article](https://github.com/Thomaszhou22/danger-guard-skill)
 
 ---
 
-## 7. AMD Ryzen AI Halo – $4k AI Dev Kit
+## 7. Revieve – AI Product Engineer
 
-**Author:** LabsLucas  
-**Published:** 7/6/2026, 3:01:18 PM  
+**Author:** seharetimad  
+**Published:** 7/6/2026, 6:58:57 PM  
 **Categories:** -  
 
-Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 14 # Comments: 15
+Article URL: https://www.revieve.com/job-board Comments URL: https://news.ycombinator.com/item?id=48808974 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
+📖 [Read original article](https://www.revieve.com/job-board)
 
 ---
 
-## 8. AI gave you a promotion: Why AI isn't replacing jobs [video]
+## 8. Simple AI agent in POSIX shell
 
-**Author:** teleforce  
-**Published:** 7/6/2026, 2:59:46 PM  
+**Author:** pianopatrick  
+**Published:** 7/6/2026, 6:36:07 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=1ItQnh3LWeg Comments URL: https://news.ycombinator.com/item?id=48805602 Points: 2 # Comments: 0
+Article URL: https://github.com/patrickjh/ssa Comments URL: https://news.ycombinator.com/item?id=48808667 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.youtube.com/watch?v=1ItQnh3LWeg)
+📖 [Read original article](https://github.com/patrickjh/ssa)
 
 ---
 
-## 9. Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future
+## 9. Show HN: Grinta –local-first AI coding agent that passed 106-minute stress test
 
-**Author:** tosh  
-**Published:** 7/6/2026, 2:59:21 PM  
+**Author:** JosephSenior  
+**Published:** 7/6/2026, 6:32:09 PM  
 **Categories:** -  
 
-Article URL: https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/ Comments URL: https://news.ycombinator.com/item?id=48805598 Points: 2 # Comments: 0
+Article URL: https://github.com/josephsenior/Grinta-Coding-Agent Comments URL: https://news.ycombinator.com/item?id=48808609 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/)
+📖 [Read original article](https://github.com/josephsenior/Grinta-Coding-Agent)
 
 ---
 
-## 10. Treasury Has an Internal Report Warning About the Dangers of an AI Bubble
+## 10. Companies hire more after AI adoption
 
-**Author:** dartharva  
-**Published:** 7/6/2026, 2:55:29 PM  
+**Author:** mooreds  
+**Published:** 7/6/2026, 6:24:11 PM  
 **Categories:** -  
 
-Article URL: https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble Comments URL: https://news.ycombinator.com/item?id=48805549 Points: 3 # Comments: 0
+Article URL: https://ramp.com/data/heavy-ai-adopters-hire-more Comments URL: https://news.ycombinator.com/item?id=48808498 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble)
+📖 [Read original article](https://ramp.com/data/heavy-ai-adopters-hire-more)
 
 ---
 
-## 11. A Meditation on AI Identity
+## 11. SOTA genome interpretation with agentic AI: Interstitial lung disease case study
 
-**Author:** kehiy  
-**Published:** 7/6/2026, 2:49:54 PM  
+**Author:** dmckinno  
+**Published:** 7/6/2026, 5:52:02 PM  
 **Categories:** -  
 
-Article URL: https://soul.md Comments URL: https://news.ycombinator.com/item?id=48805470 Points: 2 # Comments: 1
+Article URL: https://gamowlabs.com/sota-genome-interpretation-with-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=48808099 Points: 9 # Comments: 1
 
-📖 [Read original article](https://soul.md)
+📖 [Read original article](https://gamowlabs.com/sota-genome-interpretation-with-agentic-ai.html)
 
 ---
 
-## 12. Show HN: Xalgorix – Autonomous AI Pentesting Agent
+## 12. Botfluencerz – a social network where every user is an autonomous AI agent
 
-**Author:** xalgord  
-**Published:** 7/6/2026, 2:49:22 PM  
+**Author:** unforgivin  
+**Published:** 7/6/2026, 5:48:46 PM  
 **Categories:** -  
 
-Self-hosted AI security testing with a local Web UI, live agent telemetry, verified findings, and branded PDF reports. Comments URL: https://news.ycombinator.com/item?id=48805464 Points: 4 # Comments: 0
+Article URL: https://www.botfluencerz.com/ Comments URL: https://news.ycombinator.com/item?id=48808061 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/xalgord/xalgorix)
+📖 [Read original article](https://www.botfluencerz.com/)
 
 ---
 
-## 13. Ten Takeaways from the AI Engineering Report 2026: The Acceleration Whiplash
+## 13. Free Robot Labour – Marx, Automation, and the Future of AI
 
-**Author:** flail  
-**Published:** 7/6/2026, 2:46:56 PM  
+**Author:** necrodome  
+**Published:** 7/6/2026, 5:40:13 PM  
 **Categories:** -  
 
-Article URL: https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways Comments URL: https://news.ycombinator.com/item?id=48805424 Points: 2 # Comments: 0
+Article URL: https://link.springer.com/book/10.1007/978-3-032-26782-5 Comments URL: https://news.ycombinator.com/item?id=48807971 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways)
+📖 [Read original article](https://link.springer.com/book/10.1007/978-3-032-26782-5)
 
 ---
 
-## 14. Self-Service Ransomware as Security Against Local AI Tools
+## 14. Pyforge-memory – three-tier memory for AI agents that works
 
-**Author:** BrKeaton  
-**Published:** 7/6/2026, 2:42:59 PM  
+**Author:** ForgedLogicdev  
+**Published:** 7/6/2026, 5:37:26 PM  
 **Categories:** -  
 
-Article URL: https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools Comments URL: https://news.ycombinator.com/item?id=48805363 Points: 2 # Comments: 0
+Article URL: https://github.com/forgedlogicdev/pyforge-memory Comments URL: https://news.ycombinator.com/item?id=48807937 Points: 3 # Comments: 0
 
-📖 [Read original article](https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools)
+📖 [Read original article](https://github.com/forgedlogicdev/pyforge-memory)
 
 ---
 
-## 15. Show HN: AI harness for C/C++ with GDB, sanitizers, perf and compile tools
+## 15. Show HN: Record, replay, and improve AI agents in production
 
-**Author:** anirudhak47  
-**Published:** 7/6/2026, 2:38:49 PM  
+**Author:** htahir111  
+**Published:** 7/6/2026, 5:26:17 PM  
 **Categories:** -  
 
-hey guys, i wanted to show one of my side projects.The idea is a coding harness (independent of models) natively designed for C/C++ developer workflows.I'm a C++ dev and do not find claude code work well with C++ toolchain like gdb and perf. The current version has integrations for gdb, clang-tidy, ...
+At the AI Engineering World's Fair a big part of the conversation was to nail the self improvement loop. Our take on this is to record state of the agent execution with a durable runtime, then allow users to replay from state checkpoints and run 'what-if' experiments.It's OSS and free to use. Would ...
 
-📖 [Read original article](https://byteask.ai/)
+📖 [Read original article](https://github.com/zenml-io/kitaru)
 
 ---
 
-## 16. Agent Infra: curated resources for production AI agent infrastructure
+## 16. (NEW) Game engine built with AI (4x11Engine) as an experiment
 
-**Author:** shenli3514  
-**Published:** 7/6/2026, 2:35:20 PM  
+**Author:** rwusmm  
+**Published:** 7/6/2026, 5:24:23 PM  
 **Categories:** -  
 
-Article URL: https://github.com/shenli/awesome-agent-infra Comments URL: https://news.ycombinator.com/item?id=48805260 Points: 3 # Comments: 0
+Article URL: https://github.com/rwusmm-dc/4x11Engine Comments URL: https://news.ycombinator.com/item?id=48807757 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/shenli/awesome-agent-infra)
+📖 [Read original article](https://github.com/rwusmm-dc/4x11Engine)
 
 ---
 
-## 17. 'It's just his AI and my AI going back and forth'
+## 17. Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario
 
-**Author:** gumby  
-**Published:** 7/6/2026, 2:20:36 PM  
+**Author:** Brajeshwar  
+**Published:** 7/6/2026, 5:16:41 PM  
 **Categories:** -  
 
-Article URL: https://fortune.com/article/ai-communication-undermining-human-relationships-middle-management/ Comments URL: https://news.ycombinator.com/item?id=48805032 Points: 1 # Comments: 1
+Article URL: https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15 Comments URL: https://news.ycombinator.com/item?id=48807651 Points: 76 # Comments: 82
 
-📖 [Read original article](https://fortune.com/article/ai-communication-undermining-human-relationships-middle-management/)
+📖 [Read original article](https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15)
 
 ---
 
-## 18. AI Short Video Generator Website for Sale
+## 18. Apple Predicted Siri AI in 1987
 
-**Author:** kilincarslan  
-**Published:** 7/6/2026, 2:20:01 PM  
+**Author:** gdubs  
+**Published:** 7/6/2026, 5:13:11 PM  
 **Categories:** -  
 
-Article URL: https://flippa.com/13365327-ai-powered-video-generation-platform-for-creating-viral-short-form-content-tiktok-reels-scalable-saas-with-strong-demand-and-monetization-potential Comments URL: https://news.ycombinator.com/item?id=48805018 Points: 1 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=ForO33IynkA Comments URL: https://news.ycombinator.com/item?id=48807601 Points: 2 # Comments: 0
 
-📖 [Read original article](https://flippa.com/13365327-ai-powered-video-generation-platform-for-creating-viral-short-form-content-tiktok-reels-scalable-saas-with-strong-demand-and-monetization-potential)
+📖 [Read original article](https://www.youtube.com/watch?v=ForO33IynkA)
 
 ---
 
-## 19. EU startup built an AI system that matches Mythos on zero-day discovery
+## 19. Marc Andreessen Says One Job Is Mostly Safe from AI: Venture Capitalist
 
-**Author:** tinthedev  
-**Published:** 7/6/2026, 2:19:36 PM  
+**Author:** davidw  
+**Published:** 7/6/2026, 5:09:32 PM  
 **Categories:** -  
 
-Article URL: https://aisle.com/blog/mythos-at-home-and-its-called-aisle Comments URL: https://news.ycombinator.com/item?id=48805007 Points: 1 # Comments: 0
+Article URL: https://gizmodo.com/marc-andreessen-says-one-job-is-mostly-safe-from-ai-venture-capitalist-2000596506 Comments URL: https://news.ycombinator.com/item?id=48807548 Points: 16 # Comments: 15
 
-📖 [Read original article](https://aisle.com/blog/mythos-at-home-and-its-called-aisle)
+📖 [Read original article](https://gizmodo.com/marc-andreessen-says-one-job-is-mostly-safe-from-ai-venture-capitalist-2000596506)
 
 ---
 
-## 20. GitHub & other LLM-gen-AI Cos Urge You to Misdirect California on FOSS Licensing
+## 20. AI surveillance is being supercharged – and it will chill social progress
 
-**Author:** hn_acker  
-**Published:** 7/6/2026, 2:18:05 PM  
+**Author:** diogenes_atx  
+**Published:** 7/6/2026, 5:07:51 PM  
 **Categories:** -  
 
-Article URL: https://sfconservancy.org/blog/2026/jul/03/github-gen-ai-california-22757-ok-for-foss-license/ Comments URL: https://news.ycombinator.com/item?id=48804983 Points: 1 # Comments: 1
+Article URL: https://www.theguardian.com/commentisfree/2026/jul/06/ai-surveillance-policy Comments URL: https://news.ycombinator.com/item?id=48807530 Points: 6 # Comments: 0
 
-📖 [Read original article](https://sfconservancy.org/blog/2026/jul/03/github-gen-ai-california-22757-ok-for-foss-license/)
+📖 [Read original article](https://www.theguardian.com/commentisfree/2026/jul/06/ai-surveillance-policy)
 
 ---
