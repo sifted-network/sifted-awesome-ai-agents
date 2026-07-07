@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Graphenium – Local Trust Layer for AI Agents (Rust, Datalog, Salsa)
+## 1. The power of APIs: The unsung hero of AI interface
 
-**Author:** Graphenium  
-**Published:** 7/7/2026, 9:29:16 AM  
+**Author:** losgehts  
+**Published:** 7/7/2026, 2:33:35 PM  
 **Categories:** -  
 
-Article URL: https://github.com/lambda-alpha-labs/Graphenium Comments URL: https://news.ycombinator.com/item?id=48815458 Points: 1 # Comments: 0
+Article URL: https://www.collabora.com/news-and-blog/blog/2026/07/07/the-power-of-apis-the-unsung-hero-of-ai-interface/ Comments URL: https://news.ycombinator.com/item?id=48818447 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/lambda-alpha-labs/Graphenium)
+📖 [Read original article](https://www.collabora.com/news-and-blog/blog/2026/07/07/the-power-of-apis-the-unsung-hero-of-ai-interface/)
 
 ---
 
-## 2. AI coding assistant is quietly shipping your secrets
+## 2. Treasury Has an Internal Report Warning About the Dangers of an AI Bubble
 
-**Author:** k1r111  
-**Published:** 7/7/2026, 9:28:08 AM  
+**Author:** petethomas  
+**Published:** 7/7/2026, 2:26:16 PM  
 **Categories:** -  
 
-Article URL: https://reykur.io/blog/ai-coding-assistant-shipping-secrets/ Comments URL: https://news.ycombinator.com/item?id=48815447 Points: 1 # Comments: 0
+Article URL: https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble Comments URL: https://news.ycombinator.com/item?id=48818351 Points: 4 # Comments: 0
 
-📖 [Read original article](https://reykur.io/blog/ai-coding-assistant-shipping-secrets/)
+📖 [Read original article](https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble)
 
 ---
 
-## 3. Show HN: I Built PixelGlass – An AI Agent for Building Ghost Themes
+## 3. Build an AI Audiobook Narrator with Telnyx AI Inference, TTS, and Cloud Storage
 
-**Author:** ronaldl93  
-**Published:** 7/7/2026, 9:15:05 AM  
+**Author:** harpreetseehra  
+**Published:** 7/7/2026, 2:17:18 PM  
 **Categories:** -  
 
-Article URL: https://pixelglass.co/ Comments URL: https://news.ycombinator.com/item?id=48815350 Points: 2 # Comments: 0
+Article URL: https://lowlatencyclub.ai/blog/posts/ai-audiobook-narrator-python Comments URL: https://news.ycombinator.com/item?id=48818235 Points: 1 # Comments: 0
 
-📖 [Read original article](https://pixelglass.co/)
+📖 [Read original article](https://lowlatencyclub.ai/blog/posts/ai-audiobook-narrator-python)
 
 ---
 
-## 4. We're Living Through the AI Utopia and Can't See It
+## 4. AI Data Centers' Hidden Water Use Alarms Korea
 
-**Author:** evizero  
-**Published:** 7/7/2026, 8:52:04 AM  
+**Author:** _____k  
+**Published:** 7/7/2026, 2:14:29 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/christofsalis/status/2073375047939395671 Comments URL: https://news.ycombinator.com/item?id=48815183 Points: 3 # Comments: 1
+Article URL: https://www.chosun.com/english/industry-en/2026/07/07/RQAGC7X4BNEYHD4IJFXKHG5Z5Q/ Comments URL: https://news.ycombinator.com/item?id=48818191 Points: 2 # Comments: 0
 
-📖 [Read original article](https://twitter.com/christofsalis/status/2073375047939395671)
+📖 [Read original article](https://www.chosun.com/english/industry-en/2026/07/07/RQAGC7X4BNEYHD4IJFXKHG5Z5Q/)
 
 ---
 
-## 5. YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood
+## 5. AI Content and the Social Contract
 
-**Author:** theanonymousone  
-**Published:** 7/7/2026, 8:39:51 AM  
+**Author:** malfist  
+**Published:** 7/7/2026, 2:10:56 PM  
 **Categories:** -  
 
-Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 Points: 40 # Comments: 27
+Article URL: https://www.jeromehollon.com/projects/ai-writing-social-contract/ Comments URL: https://news.ycombinator.com/item?id=48818153 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
+📖 [Read original article](https://www.jeromehollon.com/projects/ai-writing-social-contract/)
 
 ---
 
-## 6. The first AI safety letter was sent in 1949
+## 6. Show HN: New Search MCP Using Cloudflare AI Search
 
-**Author:** indynz  
-**Published:** 7/7/2026, 8:38:26 AM  
+**Author:** skyphusion  
+**Published:** 7/7/2026, 2:00:27 PM  
 **Categories:** -  
 
-Article URL: https://vanuan.github.io/blog/2026-02-28-wiener/ Comments URL: https://news.ycombinator.com/item?id=48815104 Points: 1 # Comments: 0
+Hello,So I got sick of my agents not having ready access to information they needed about projects that I'm working on ready and at hand so I built a new AGPL-3.0 (free forever) MCP that utilizes Cloudflare AI Search to index your repos and anything else you want to feed into it. It also includes a ...
 
-📖 [Read original article](https://vanuan.github.io/blog/2026-02-28-wiener/)
+📖 [Read original article](https://github.com/skyphusion-labs/search-mcp)
 
 ---
 
-## 7. Ryzen AI Developer Platform: AMD's Own Linux Distribution Built Atop Debian
+## 7. My AI Agents Were Working, but I Had No Visibility
 
-**Author:** rbanffy  
-**Published:** 7/7/2026, 8:17:40 AM  
+**Author:** hsantana8  
+**Published:** 7/7/2026, 2:00:04 PM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/review/ryzen-ai-linux-os Comments URL: https://news.ycombinator.com/item?id=48814980 Points: 1 # Comments: 0
+Article URL: https://theapplied.substack.com/p/my-ai-agents-were-working-but-i-had Comments URL: https://news.ycombinator.com/item?id=48817994 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.phoronix.com/review/ryzen-ai-linux-os)
+📖 [Read original article](https://theapplied.substack.com/p/my-ai-agents-were-working-but-i-had)
 
 ---
 
-## 8. Zhipu AI, MiniMax shares for Hong Kong investors as lock-ups end
+## 8. Show HN: Savva – Health Superapp powered by on-device AI
 
-**Author:** Alien1Being  
-**Published:** 7/7/2026, 7:59:51 AM  
+**Author:** shahamitj  
+**Published:** 7/7/2026, 1:41:48 PM  
 **Categories:** -  
 
-Article URL: https://www.scmp.com/business/markets/article/3359697/zhipu-ai-minimax-shares-provide-gut-check-hong-kong-investors-lock-ups-end Comments URL: https://news.ycombinator.com/item?id=48814886 Points: 2 # Comments: 1
+Savva is a health superapp where you track medical records (OCR and patient portal), fitness, GLP-1, weight, blood pressure, and more with AI to give you feedback and insights. We offer 2B and 4B models, depending on device capability, that run on-device along with frontier models through us - no ac...
 
-📖 [Read original article](https://www.scmp.com/business/markets/article/3359697/zhipu-ai-minimax-shares-provide-gut-check-hong-kong-investors-lock-ups-end)
+📖 [Read original article](https://www.savva.ai)
 
 ---
 
-## 9. Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake [ ]
+## 9. The AI UGC ad math: $2 a video, and the bill nobody prices in
 
-**Author:** swolpers  
-**Published:** 7/7/2026, 7:55:22 AM  
+**Author:** ermantrout  
+**Published:** 7/7/2026, 1:40:07 PM  
 **Categories:** -  
 
-Article URL: https://newsletter.semianalysis.com/p/nvidia-gpu-debt-backstop-unleashes Comments URL: https://news.ycombinator.com/item?id=48814866 Points: 1 # Comments: 0
+Article URL: https://okaneland.com/study/ai-ugc-ad-economics/ Comments URL: https://news.ycombinator.com/item?id=48817698 Points: 1 # Comments: 0
 
-📖 [Read original article](https://newsletter.semianalysis.com/p/nvidia-gpu-debt-backstop-unleashes)
+📖 [Read original article](https://okaneland.com/study/ai-ugc-ad-economics/)
 
 ---
 
-## 10. Generating 3D assets with AI [video]
+## 10. AI Still Can't Get Mario's Mustache Right
 
-**Author:** K0IN  
-**Published:** 7/7/2026, 7:48:04 AM  
+**Author:** nnehdi  
+**Published:** 7/7/2026, 1:32:40 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=YwoPuZa8N_g Comments URL: https://news.ycombinator.com/item?id=48814820 Points: 1 # Comments: 1
+Article URL: https://mustache-perfect.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48817579 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.youtube.com/watch?v=YwoPuZa8N_g)
+📖 [Read original article](https://mustache-perfect.vercel.app/)
 
 ---
 
-## 11. Romania's \"Palantir\": the entrepreneur selling \"sovereign AI\" to secret services
+## 11. Observability Design for the AI Era – App, Infra, CI, LLM (Part 1)
 
-**Author:** robtherobber  
-**Published:** 7/7/2026, 7:47:20 AM  
+**Author:** ryantsuji  
+**Published:** 7/7/2026, 1:24:03 PM  
 **Categories:** -  
 
-Article URL: https://eualive.net/romanias-palantir-the-entrepreneur-selling-sovereign-ai-to-the-countrys-intelligence-services/ Comments URL: https://news.ycombinator.com/item?id=48814810 Points: 1 # Comments: 0
+Article URL: https://ryantsuji.dev/posts/ai-observability-design Comments URL: https://news.ycombinator.com/item?id=48817455 Points: 1 # Comments: 0
 
-📖 [Read original article](https://eualive.net/romanias-palantir-the-entrepreneur-selling-sovereign-ai-to-the-countrys-intelligence-services/)
+📖 [Read original article](https://ryantsuji.dev/posts/ai-observability-design)
 
 ---
 
-## 12. AI models already ‘doing things their creators never intended’
+## 12. China's DeepSeek developing its own AI chip, sources say
 
-**Author:** 01-_-  
-**Published:** 7/7/2026, 7:45:37 AM  
+**Author:** limoce  
+**Published:** 7/7/2026, 1:19:56 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended Comments URL: https://news.ycombinator.com/item?id=48814795 Points: 2 # Comments: 1
+Article URL: https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48817389 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended)
+📖 [Read original article](https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/)
 
 ---
 
-## 13. The Widening Gap: The Benefits and Harms of Generative AI for Novice Programmers
+## 13. Show HN: DocFlow – AI documentation updates for GitHub pull requests
 
-**Author:** ctenb  
-**Published:** 7/7/2026, 7:35:37 AM  
+**Author:** Aldasams  
+**Published:** 7/7/2026, 1:12:56 PM  
 **Categories:** -  
 
-Article URL: https://dl.acm.org/doi/10.1145/3632620.3671116 Comments URL: https://news.ycombinator.com/item?id=48814743 Points: 1 # Comments: 0
+Article URL: https://aicodedocumentationgenerator.com/ Comments URL: https://news.ycombinator.com/item?id=48817300 Points: 1 # Comments: 0
 
-📖 [Read original article](https://dl.acm.org/doi/10.1145/3632620.3671116)
+📖 [Read original article](https://aicodedocumentationgenerator.com/)
 
 ---
 
-## 14. What AI does to the minds of novice coders [video]
+## 14. CorvinOS – an agentic OS where GDPR/EU AI Act compliance can't be switched off
 
-**Author:** ctenb  
-**Published:** 7/7/2026, 7:34:48 AM  
+**Author:** shumway  
+**Published:** 7/7/2026, 1:07:50 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=HTUh0OO6Kmo Comments URL: https://news.ycombinator.com/item?id=48814736 Points: 2 # Comments: 1
+Article URL: https://github.com/CorvinLabs/CorvinOS Comments URL: https://news.ycombinator.com/item?id=48817249 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=HTUh0OO6Kmo)
+📖 [Read original article](https://github.com/CorvinLabs/CorvinOS)
 
 ---
 
-## 15. AI 2027
+## 15. Most AI Work Can Wait
 
-**Author:** StefanBatory  
-**Published:** 7/7/2026, 7:32:06 AM  
+**Author:** speckx  
+**Published:** 7/7/2026, 1:04:41 PM  
 **Categories:** -  
 
-Article URL: https://ai-2027.com Comments URL: https://news.ycombinator.com/item?id=48814720 Points: 1 # Comments: 0
+Article URL: https://tomtunguz.com/ai-execution-routing/ Comments URL: https://news.ycombinator.com/item?id=48817209 Points: 2 # Comments: 0
 
-📖 [Read original article](https://ai-2027.com)
+📖 [Read original article](https://tomtunguz.com/ai-execution-routing/)
 
 ---
 
-## 16. AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says
+## 16. Show HN: SigMap – deterministic repo maps for AI coding agents
 
-**Author:** adithyaharish  
-**Published:** 7/7/2026, 6:45:50 AM  
+**Author:** cees007  
+**Published:** 7/7/2026, 12:57:24 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-2026-07-06/ Comments URL: https://news.ycombinator.com/item?id=48814419 Points: 1 # Comments: 0
+Article URL: https://sigmap.io Comments URL: https://news.ycombinator.com/item?id=48817100 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-2026-07-06/)
+📖 [Read original article](https://sigmap.io)
 
 ---
 
-## 17. AI and Liability
+## 17. Amazon Returns to US Bond Market to Fund AI Infrastructure Build
 
-**Author:** ColinWright  
-**Published:** 7/7/2026, 6:42:44 AM  
+**Author:** thm  
+**Published:** 7/7/2026, 12:53:02 PM  
 **Categories:** -  
 
-Article URL: https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html Comments URL: https://news.ycombinator.com/item?id=48814398 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build Comments URL: https://news.ycombinator.com/item?id=48817052 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build)
 
 ---
 
-## 18. The Industry of Lies, or What Leaders Need to Know About AI
+## 18. Entering the Agentocene: A Statistical Investigation of AI-Era Coding
 
-**Author:** doener  
-**Published:** 7/7/2026, 6:34:41 AM  
+**Author:** hgn  
+**Published:** 7/7/2026, 12:44:37 PM  
 **Categories:** -  
 
-Article URL: https://msukhareva.substack.com/p/the-industry-of-lies-or-what-leaders Comments URL: https://news.ycombinator.com/item?id=48814348 Points: 2 # Comments: 0
+Article URL: https://jauu.net/posts/2026-07-05-entering-the-agentocene/ Comments URL: https://news.ycombinator.com/item?id=48816947 Points: 1 # Comments: 0
 
-📖 [Read original article](https://msukhareva.substack.com/p/the-industry-of-lies-or-what-leaders)
+📖 [Read original article](https://jauu.net/posts/2026-07-05-entering-the-agentocene/)
 
 ---
 
-## 19. AI agents accessing production data
+## 19. Show HN: AI Trading Agent via WhatsApp
 
-**Author:** Socrates06  
-**Published:** 7/7/2026, 6:30:04 AM  
+**Author:** joalavedra  
+**Published:** 7/7/2026, 12:22:20 PM  
 **Categories:** -  
 
-We are building an ai agent for a dental firm. So while building we face this issue of what the agents should actually see.If anyone built similar systems or worked on this would you help like. I mean any insights or learnings.The issue is actually there is no granular enforcement of what the agents...
+Article URL: https://getfarao.com/orus Comments URL: https://news.ycombinator.com/item?id=48816737 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48814323)
+📖 [Read original article](https://getfarao.com/orus)
 
 ---
 
-## 20. Ask HN: If there would be millions of AI models in future
+## 20. Coaxing quality (writing) output from generative AI
 
-**Author:** mzubairtahir  
-**Published:** 7/7/2026, 6:05:22 AM  
+**Author:** noelwelsh  
+**Published:** 7/7/2026, 12:09:22 PM  
 **Categories:** -  
 
-If we imagine future it is clear that there would be millions of ai models. then how we would navigate them? Comments URL: https://news.ycombinator.com/item?id=48814163 Points: 1 # Comments: 1
+Article URL: https://www.scala-lang.org/blog/2026/07/06/quality-from-genai.html Comments URL: https://news.ycombinator.com/item?id=48816619 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48814163)
+📖 [Read original article](https://www.scala-lang.org/blog/2026/07/06/quality-from-genai.html)
 
 ---
