@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-06"
 date: "2026-07-06"
 source: "qbitai"
-count: 2
+count: 1
 ---
 
 # qbitai - 2026-07-06
 
-2 items collected.
+1 items collected.
 
 ---
 
@@ -20,17 +20,5 @@ count: 2
 
 
 📖 [Read original article](https://www.qbitai.com/2026/07/444733.html)
-
----
-
-## 2. 极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文
-
-**Author:** 量子位的朋友们  
-**Published:** 7/6/2026, 10:33:45 AM  
-**Categories:** 资讯, 清华大学, 阿里巴巴  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/444721.html)
 
 ---
