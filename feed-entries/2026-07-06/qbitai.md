@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-06"
 date: "2026-07-06"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-07-06
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ count: 10
 大模型越来越强，为什么企业没有跟着变强
 
 📖 [Read original article](https://www.qbitai.com/2026/07/443842.html)
-
----
-
-## 10. 字节Seedance，正在占领好莱坞
-
-**Author:** 听雨  
-**Published:** 7/6/2026, 7:49:13 AM  
-**Categories:** 资讯, AI  
-
-美国电影人：好东西不问出处
-
-📖 [Read original article](https://www.qbitai.com/2026/07/443665.html)
 
 ---
