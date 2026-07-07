@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The power of APIs: The unsung hero of AI interface
+## 1. Creative Directing AI Built SaaS, as a Service
 
-**Author:** losgehts  
-**Published:** 7/7/2026, 2:33:35 PM  
+**Author:** krm01  
+**Published:** 7/7/2026, 7:44:20 PM  
 **Categories:** -  
 
-Article URL: https://www.collabora.com/news-and-blog/blog/2026/07/07/the-power-of-apis-the-unsung-hero-of-ai-interface/ Comments URL: https://news.ycombinator.com/item?id=48818447 Points: 2 # Comments: 0
+Article URL: https://www.hyoomn.com/?ai Comments URL: https://news.ycombinator.com/item?id=48822738 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.collabora.com/news-and-blog/blog/2026/07/07/the-power-of-apis-the-unsung-hero-of-ai-interface/)
+📖 [Read original article](https://www.hyoomn.com/?ai)
 
 ---
 
-## 2. Treasury Has an Internal Report Warning About the Dangers of an AI Bubble
+## 2. Neuronpedia, an open source platform for AI interpretability
+
+**Author:** rzk  
+**Published:** 7/7/2026, 7:42:12 PM  
+**Categories:** -  
+
+Article URL: https://www.neuronpedia.org/ Comments URL: https://news.ycombinator.com/item?id=48822724 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.neuronpedia.org/)
+
+---
+
+## 3. Quit trying to keep up with every new AI tool and keep building
+
+**Author:** mooreds  
+**Published:** 7/7/2026, 7:42:03 PM  
+**Categories:** -  
+
+Article URL: https://www.dynatrace.com/news/blog/quit-trying-to-keep-up-with-every-new-ai-tool-and-keep-building/ Comments URL: https://news.ycombinator.com/item?id=48822723 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.dynatrace.com/news/blog/quit-trying-to-keep-up-with-every-new-ai-tool-and-keep-building/)
+
+---
+
+## 4. Abnormal.ai Response to Anthropic Lawsuit
+
+**Author:** babelfish  
+**Published:** 7/7/2026, 7:40:13 PM  
+**Categories:** -  
+
+Article URL: https://abnormal.ai/blog/abnormal-response-to-anthropic-lawsuit Comments URL: https://news.ycombinator.com/item?id=48822694 Points: 1 # Comments: 0
+
+📖 [Read original article](https://abnormal.ai/blog/abnormal-response-to-anthropic-lawsuit)
+
+---
+
+## 5. Code is overpaying for AI. /tokendiet finds where
+
+**Author:** eMoka  
+**Published:** 7/7/2026, 7:37:36 PM  
+**Categories:** -  
+
+Article URL: https://tokendiet.dev/ Comments URL: https://news.ycombinator.com/item?id=48822657 Points: 1 # Comments: 2
+
+📖 [Read original article](https://tokendiet.dev/)
+
+---
+
+## 6. Sets up your AI agent for Cloudflare
+
+**Author:** gurjeet  
+**Published:** 7/7/2026, 7:36:52 PM  
+**Categories:** -  
+
+Article URL: https://developers.cloudflare.com/agent-setup/prompt.md Comments URL: https://news.ycombinator.com/item?id=48822641 Points: 1 # Comments: 0
+
+📖 [Read original article](https://developers.cloudflare.com/agent-setup/prompt.md)
+
+---
+
+## 7. AI Neovim
+
+**Author:** s2xon  
+**Published:** 7/7/2026, 7:32:05 PM  
+**Categories:** -  
+
+Article URL: https://github.com/s2xon/aeovim/ Comments URL: https://news.ycombinator.com/item?id=48822567 Points: 1 # Comments: 1
+
+📖 [Read original article](https://github.com/s2xon/aeovim/)
+
+---
+
+## 8. Show HN: Last EHR – AI agent over a FHIR back end with human approval on writes
+
+**Author:** betzsoftware  
+**Published:** 7/7/2026, 7:30:42 PM  
+**Categories:** -  
+
+Article URL: https://www.lastehr.com Comments URL: https://news.ycombinator.com/item?id=48822546 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.lastehr.com)
+
+---
+
+## 9. Policy Statement Concerning the Suppression of Accuracy in AI Systems
 
 **Author:** petethomas  
-**Published:** 7/7/2026, 2:26:16 PM  
+**Published:** 7/7/2026, 7:25:37 PM  
 **Categories:** -  
 
-Article URL: https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble Comments URL: https://news.ycombinator.com/item?id=48818351 Points: 4 # Comments: 0
+Article URL: https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems Comments URL: https://news.ycombinator.com/item?id=48822482 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble)
+📖 [Read original article](https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems)
 
 ---
 
-## 3. Build an AI Audiobook Narrator with Telnyx AI Inference, TTS, and Cloud Storage
+## 10. Show HN: Tessera – an AI agent that refuses to answer without evidence
 
-**Author:** harpreetseehra  
-**Published:** 7/7/2026, 2:17:18 PM  
+**Author:** robert-vetter  
+**Published:** 7/7/2026, 7:24:07 PM  
 **Categories:** -  
 
-Article URL: https://lowlatencyclub.ai/blog/posts/ai-audiobook-narrator-python Comments URL: https://news.ycombinator.com/item?id=48818235 Points: 1 # Comments: 0
+Article URL: https://github.com/robert-vetter/tessera Comments URL: https://news.ycombinator.com/item?id=48822458 Points: 2 # Comments: 0
 
-📖 [Read original article](https://lowlatencyclub.ai/blog/posts/ai-audiobook-narrator-python)
+📖 [Read original article](https://github.com/robert-vetter/tessera)
 
 ---
 
-## 4. AI Data Centers' Hidden Water Use Alarms Korea
-
-**Author:** _____k  
-**Published:** 7/7/2026, 2:14:29 PM  
-**Categories:** -  
-
-Article URL: https://www.chosun.com/english/industry-en/2026/07/07/RQAGC7X4BNEYHD4IJFXKHG5Z5Q/ Comments URL: https://news.ycombinator.com/item?id=48818191 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.chosun.com/english/industry-en/2026/07/07/RQAGC7X4BNEYHD4IJFXKHG5Z5Q/)
-
----
-
-## 5. AI Content and the Social Contract
-
-**Author:** malfist  
-**Published:** 7/7/2026, 2:10:56 PM  
-**Categories:** -  
-
-Article URL: https://www.jeromehollon.com/projects/ai-writing-social-contract/ Comments URL: https://news.ycombinator.com/item?id=48818153 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.jeromehollon.com/projects/ai-writing-social-contract/)
-
----
-
-## 6. Show HN: New Search MCP Using Cloudflare AI Search
-
-**Author:** skyphusion  
-**Published:** 7/7/2026, 2:00:27 PM  
-**Categories:** -  
-
-Hello,So I got sick of my agents not having ready access to information they needed about projects that I'm working on ready and at hand so I built a new AGPL-3.0 (free forever) MCP that utilizes Cloudflare AI Search to index your repos and anything else you want to feed into it. It also includes a ...
-
-📖 [Read original article](https://github.com/skyphusion-labs/search-mcp)
-
----
-
-## 7. My AI Agents Were Working, but I Had No Visibility
-
-**Author:** hsantana8  
-**Published:** 7/7/2026, 2:00:04 PM  
-**Categories:** -  
-
-Article URL: https://theapplied.substack.com/p/my-ai-agents-were-working-but-i-had Comments URL: https://news.ycombinator.com/item?id=48817994 Points: 2 # Comments: 0
-
-📖 [Read original article](https://theapplied.substack.com/p/my-ai-agents-were-working-but-i-had)
-
----
-
-## 8. Show HN: Savva – Health Superapp powered by on-device AI
-
-**Author:** shahamitj  
-**Published:** 7/7/2026, 1:41:48 PM  
-**Categories:** -  
-
-Savva is a health superapp where you track medical records (OCR and patient portal), fitness, GLP-1, weight, blood pressure, and more with AI to give you feedback and insights. We offer 2B and 4B models, depending on device capability, that run on-device along with frontier models through us - no ac...
-
-📖 [Read original article](https://www.savva.ai)
-
----
-
-## 9. The AI UGC ad math: $2 a video, and the bill nobody prices in
-
-**Author:** ermantrout  
-**Published:** 7/7/2026, 1:40:07 PM  
-**Categories:** -  
-
-Article URL: https://okaneland.com/study/ai-ugc-ad-economics/ Comments URL: https://news.ycombinator.com/item?id=48817698 Points: 1 # Comments: 0
-
-📖 [Read original article](https://okaneland.com/study/ai-ugc-ad-economics/)
-
----
-
-## 10. AI Still Can't Get Mario's Mustache Right
-
-**Author:** nnehdi  
-**Published:** 7/7/2026, 1:32:40 PM  
-**Categories:** -  
-
-Article URL: https://mustache-perfect.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48817579 Points: 1 # Comments: 2
-
-📖 [Read original article](https://mustache-perfect.vercel.app/)
-
----
-
-## 11. Observability Design for the AI Era – App, Infra, CI, LLM (Part 1)
-
-**Author:** ryantsuji  
-**Published:** 7/7/2026, 1:24:03 PM  
-**Categories:** -  
-
-Article URL: https://ryantsuji.dev/posts/ai-observability-design Comments URL: https://news.ycombinator.com/item?id=48817455 Points: 1 # Comments: 0
-
-📖 [Read original article](https://ryantsuji.dev/posts/ai-observability-design)
-
----
-
-## 12. China's DeepSeek developing its own AI chip, sources say
-
-**Author:** limoce  
-**Published:** 7/7/2026, 1:19:56 PM  
-**Categories:** -  
-
-Article URL: https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/ Comments URL: https://news.ycombinator.com/item?id=48817389 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/)
-
----
-
-## 13. Show HN: DocFlow – AI documentation updates for GitHub pull requests
-
-**Author:** Aldasams  
-**Published:** 7/7/2026, 1:12:56 PM  
-**Categories:** -  
-
-Article URL: https://aicodedocumentationgenerator.com/ Comments URL: https://news.ycombinator.com/item?id=48817300 Points: 1 # Comments: 0
-
-📖 [Read original article](https://aicodedocumentationgenerator.com/)
-
----
-
-## 14. CorvinOS – an agentic OS where GDPR/EU AI Act compliance can't be switched off
-
-**Author:** shumway  
-**Published:** 7/7/2026, 1:07:50 PM  
-**Categories:** -  
-
-Article URL: https://github.com/CorvinLabs/CorvinOS Comments URL: https://news.ycombinator.com/item?id=48817249 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/CorvinLabs/CorvinOS)
-
----
-
-## 15. Most AI Work Can Wait
+## 11. I use AI in creating my newsletter
 
 **Author:** speckx  
-**Published:** 7/7/2026, 1:04:41 PM  
+**Published:** 7/7/2026, 7:22:03 PM  
 **Categories:** -  
 
-Article URL: https://tomtunguz.com/ai-execution-routing/ Comments URL: https://news.ycombinator.com/item?id=48817209 Points: 2 # Comments: 0
+Article URL: https://petergasston.co.uk/how-i-use-ai-in-creating-my-newsletter/ Comments URL: https://news.ycombinator.com/item?id=48822422 Points: 2 # Comments: 2
 
-📖 [Read original article](https://tomtunguz.com/ai-execution-routing/)
+📖 [Read original article](https://petergasston.co.uk/how-i-use-ai-in-creating-my-newsletter/)
 
 ---
 
-## 16. Show HN: SigMap – deterministic repo maps for AI coding agents
+## 12. Muse Image: Free AI Image Generator – Museimage.io
 
-**Author:** cees007  
-**Published:** 7/7/2026, 12:57:24 PM  
+**Author:** sarkory  
+**Published:** 7/7/2026, 7:21:46 PM  
 **Categories:** -  
 
-Article URL: https://sigmap.io Comments URL: https://news.ycombinator.com/item?id=48817100 Points: 2 # Comments: 1
+Article URL: https://museimage.io/http:/localhost:3000 Comments URL: https://news.ycombinator.com/item?id=48822419 Points: 1 # Comments: 0
 
-📖 [Read original article](https://sigmap.io)
+📖 [Read original article](https://museimage.io/http:/localhost:3000)
 
 ---
 
-## 17. Amazon Returns to US Bond Market to Fund AI Infrastructure Build
+## 13. AI recommends crap travel services
 
-**Author:** thm  
-**Published:** 7/7/2026, 12:53:02 PM  
+**Author:** mikelgan  
+**Published:** 7/7/2026, 7:18:31 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build Comments URL: https://news.ycombinator.com/item?id=48817052 Points: 3 # Comments: 0
+Article URL: https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints Comments URL: https://news.ycombinator.com/item?id=48822363 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build)
+📖 [Read original article](https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints)
 
 ---
 
-## 18. Entering the Agentocene: A Statistical Investigation of AI-Era Coding
+## 14. Show HN: Bike4Mind – open-core AI workbench; any model, agents, RAG, self-host
 
-**Author:** hgn  
-**Published:** 7/7/2026, 12:44:37 PM  
+**Author:** erikbethke  
+**Published:** 7/7/2026, 7:17:34 PM  
 **Categories:** -  
 
-Article URL: https://jauu.net/posts/2026-07-05-entering-the-agentocene/ Comments URL: https://news.ycombinator.com/item?id=48816947 Points: 1 # Comments: 0
+Hi HN, I am Erik Bethke, game dev that has been making online games for 30+ years (Starfleet Command, GoPets, FarmVille, Mafia Wars).For the last 3 years I have been building Bike4Mind and now I have to put my big boy pants on and 'go to market'. Ugh, it would be so much more cozy to fire up a few m...
 
-📖 [Read original article](https://jauu.net/posts/2026-07-05-entering-the-agentocene/)
+📖 [Read original article](https://github.com/Bike4Mind/bike4mind)
 
 ---
 
-## 19. Show HN: AI Trading Agent via WhatsApp
+## 15. Local AI is re-reading its own prompt
 
-**Author:** joalavedra  
-**Published:** 7/7/2026, 12:22:20 PM  
+**Author:** thekiraproject  
+**Published:** 7/7/2026, 7:15:23 PM  
 **Categories:** -  
 
-Article URL: https://getfarao.com/orus Comments URL: https://news.ycombinator.com/item?id=48816737 Points: 1 # Comments: 0
+Article URL: https://github.com/thekiraproject/kira-project-site/blob/main/posts/2026-07-06-prefill-tax.md Comments URL: https://news.ycombinator.com/item?id=48822323 Points: 1 # Comments: 0
 
-📖 [Read original article](https://getfarao.com/orus)
+📖 [Read original article](https://github.com/thekiraproject/kira-project-site/blob/main/posts/2026-07-06-prefill-tax.md)
 
 ---
 
-## 20. Coaxing quality (writing) output from generative AI
+## 16. Anthropic is now a banned vendor at comma_AI
 
-**Author:** noelwelsh  
-**Published:** 7/7/2026, 12:09:22 PM  
+**Author:** sk4rekr0w  
+**Published:** 7/7/2026, 7:12:29 PM  
 **Categories:** -  
 
-Article URL: https://www.scala-lang.org/blog/2026/07/06/quality-from-genai.html Comments URL: https://news.ycombinator.com/item?id=48816619 Points: 2 # Comments: 0
+Article URL: https://twitter.com/___Harald___/status/2074561342539956403 Comments URL: https://news.ycombinator.com/item?id=48822276 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.scala-lang.org/blog/2026/07/06/quality-from-genai.html)
+📖 [Read original article](https://twitter.com/___Harald___/status/2074561342539956403)
+
+---
+
+## 17. Nvidia CEO blasts bosses using AI as a layoff excuse: 'We're scaring people'
+
+**Author:** haritha1313  
+**Published:** 7/7/2026, 7:07:08 PM  
+**Categories:** -  
+
+Article URL: https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-blasts-bosses-using-070000315.html Comments URL: https://news.ycombinator.com/item?id=48822183 Points: 3 # Comments: 0
+
+📖 [Read original article](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-blasts-bosses-using-070000315.html)
+
+---
+
+## 18. Codeberg proposing prohibitting sharing of AI-generated code
+
+**Author:** monneyboi  
+**Published:** 7/7/2026, 7:06:23 PM  
+**Categories:** -  
+
+Article URL: https://codeberg.org/Codeberg/org/pulls/1253/files Comments URL: https://news.ycombinator.com/item?id=48822172 Points: 3 # Comments: 1
+
+📖 [Read original article](https://codeberg.org/Codeberg/org/pulls/1253/files)
+
+---
+
+## 19. The Second Derivative: Why No One Understands the AI Boom
+
+**Author:** samizdis  
+**Published:** 7/7/2026, 7:06:14 PM  
+**Categories:** -  
+
+Article URL: https://www.groundbrkr.com/p/the-second-derivative-why-no-one Comments URL: https://news.ycombinator.com/item?id=48822167 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.groundbrkr.com/p/the-second-derivative-why-no-one)
+
+---
+
+## 20. Show HN: Strays – See the ports and AI coding sessions your Mac is running
+
+**Author:** kordio  
+**Published:** 7/7/2026, 7:01:10 PM  
+**Categories:** -  
+
+Article URL: https://github.com/mayur-25-cd/strays Comments URL: https://news.ycombinator.com/item?id=48822092 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/mayur-25-cd/strays)
 
 ---
