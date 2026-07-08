@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Grillr, AI that interrogates your startup idea then holds you to real deadlines
+## 1. Pro Max Ultra Fable Sol: AI Model Names Have Escaped Containment
 
-**Author:** alecavaz  
-**Published:** 7/8/2026, 1:47:39 PM  
+**Author:** ritzaco  
+**Published:** 7/8/2026, 7:16:09 PM  
 **Categories:** -  
 
-Article URL: https://www.grillr.io Comments URL: https://news.ycombinator.com/item?id=48831931 Points: 1 # Comments: 1
+Article URL: https://techstackups.com/articles/ai-model-naming-is-a-mess/ Comments URL: https://news.ycombinator.com/item?id=48836200 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.grillr.io)
+📖 [Read original article](https://techstackups.com/articles/ai-model-naming-is-a-mess/)
 
 ---
 
-## 2. Outcry as Meta lets users make AI images from public Instagram profile pics
+## 2. Show HN: Nino – a dedicated CFP/CPA team and AI to manage your financial life
 
-**Author:** tcp_handshaker  
-**Published:** 7/8/2026, 1:40:54 PM  
+**Author:** jonlerner  
+**Published:** 7/8/2026, 7:04:28 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cp9lee19y1yo Comments URL: https://news.ycombinator.com/item?id=48831854 Points: 2 # Comments: 0
+Nino is a dedicated CFP and CPA team, backed by an AI platform that connects your taxes, equity, investments, cash, and real estate into one always-current plan.In 2014, I pitched YC partners on an idea I called Nino, a personal assistant that could actually get things done for you. I got a rejectio...
 
-📖 [Read original article](https://www.bbc.com/news/articles/cp9lee19y1yo)
+📖 [Read original article](https://www.usenino.com/)
 
 ---
 
-## 3. We just figured out how AI works (J-Space) [video]
+## 3. Claude Fable 5: Why Anthropic's Most Powerful AI Was Suspended?
 
-**Author:** amichail  
-**Published:** 7/8/2026, 1:39:53 PM  
+**Author:** TheProbe  
+**Published:** 7/8/2026, 7:01:54 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=bjHuGNo3spk Comments URL: https://news.ycombinator.com/item?id=48831837 Points: 1 # Comments: 0
+Why it was suspended? can Claude Mythos and Fable 5 create what we have in imagination? I believe Security, Firewall is the issues. Because it can breach these two things, then i can guess that anyone can solve any problem.I want to know if Anthropic reduced the power and capacity of Fable 5 and Myt...
 
-📖 [Read original article](https://www.youtube.com/watch?v=bjHuGNo3spk)
+📖 [Read original article](https://news.ycombinator.com/item?id=48836009)
 
 ---
 
-## 4. NexSub: The First Offline AI Video Subtitle Translator
+## 4. Open Source AI Gap Map
 
-**Author:** billqu0001  
-**Published:** 7/8/2026, 1:39:07 PM  
+**Author:** geoffeg  
+**Published:** 7/8/2026, 7:00:54 PM  
 **Categories:** -  
 
-Article URL: https://steelsoft.site/software/NexSub_home.html Comments URL: https://news.ycombinator.com/item?id=48831827 Points: 1 # Comments: 0
+Article URL: https://map.currentai.org/ Comments URL: https://news.ycombinator.com/item?id=48835998 Points: 1 # Comments: 0
 
-📖 [Read original article](https://steelsoft.site/software/NexSub_home.html)
+📖 [Read original article](https://map.currentai.org/)
 
 ---
 
-## 5. Show HN: Design a component visually, get spec-grade prompts for AI tools
+## 5. Show HN: Genbuzz – An agent-driven news aggregator for AI filmmaking
 
-**Author:** yingyenliu  
-**Published:** 7/8/2026, 1:38:26 PM  
+**Author:** yobfountain  
+**Published:** 7/8/2026, 6:57:14 PM  
 **Categories:** -  
 
-Article URL: https://uiprompt-olive.vercel.app Comments URL: https://news.ycombinator.com/item?id=48831820 Points: 1 # Comments: 0
+This is a site for anyone interested in keeping track of what's happening in AI Filmmaking and other forms of generative production. You can sign up for the weekly newsletter if you like or just visit the site.The site is managed agenticly: discovering news sources, classifying articles and all edit...
 
-📖 [Read original article](https://uiprompt-olive.vercel.app)
+📖 [Read original article](https://genbuzz.news)
 
 ---
 
-## 6. The AI boom is coming for the bond market
+## 6. AI Slop as a Social Immune Response
 
-**Author:** andsoitis  
-**Published:** 7/8/2026, 1:35:10 PM  
+**Author:** pwmglenn  
+**Published:** 7/8/2026, 6:49:41 PM  
 **Categories:** -  
 
-Article URL: https://economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next Comments URL: https://news.ycombinator.com/item?id=48831775 Points: 4 # Comments: 0
+Article URL: https://thepatrickglenn.substack.com/p/on-ai-slop Comments URL: https://news.ycombinator.com/item?id=48835831 Points: 2 # Comments: 0
 
-📖 [Read original article](https://economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next)
+📖 [Read original article](https://thepatrickglenn.substack.com/p/on-ai-slop)
 
 ---
 
-## 7. What AI Sandboxing Means
+## 7. What is wrong with AI services businesses
 
-**Author:** ktrychon1  
-**Published:** 7/8/2026, 1:27:15 PM  
+**Author:** rcarrol6  
+**Published:** 7/8/2026, 6:37:37 PM  
 **Categories:** -  
 
-Article URL: https://kenhuangus.substack.com/p/the-untrusted-tenant-rethinking-infrastructure Comments URL: https://news.ycombinator.com/item?id=48831681 Points: 2 # Comments: 1
+AI services businesses do not feel durable, what are they doing wrong? Comments URL: https://news.ycombinator.com/item?id=48835673 Points: 1 # Comments: 0
 
-📖 [Read original article](https://kenhuangus.substack.com/p/the-untrusted-tenant-rethinking-infrastructure)
+📖 [Read original article](https://news.ycombinator.com/item?id=48835673)
 
 ---
 
-## 8. Can AI equalize political campaign ads – or will it remain for spreading lies?
+## 8. Meta tests 'super sensing' AI glasses that can capture every moment
 
-**Author:** beardyw  
-**Published:** 7/8/2026, 1:25:38 PM  
+**Author:** ortusdux  
+**Published:** 7/8/2026, 6:27:54 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns Comments URL: https://news.ycombinator.com/item?id=48831667 Points: 2 # Comments: 1
+Article URL: https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a Comments URL: https://news.ycombinator.com/item?id=48835525 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns)
+📖 [Read original article](https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a)
 
 ---
 
-## 9. AI agents accessing production database
+## 9. AI-Enhanced Writing
 
-**Author:** Eapz_06  
-**Published:** 7/8/2026, 1:19:37 PM  
+**Author:** nyoki  
+**Published:** 7/8/2026, 6:23:59 PM  
 **Categories:** -  
 
-So we have arrived at a point, our agent neeeds to interact with real production database.So if you have implemented agents beyond the prototype stage, 1. what does your architecture is like, 2. any guardrails or runtime we need to custom build and 3. problems you have faced when it reached producti...
+Article URL: https://enocc.com/blog/2026-04-09-on-ai-enhanced-writing.html Comments URL: https://news.ycombinator.com/item?id=48835482 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48831580)
+📖 [Read original article](https://enocc.com/blog/2026-04-09-on-ai-enhanced-writing.html)
 
 ---
 
-## 10. Ask HN: Why aren't we collaborating on the prompts we give to our AI agents?
+## 10. Microsoft joins AI cost-cutting trend by relying more on its own models
 
-**Author:** ilbert  
-**Published:** 7/8/2026, 1:04:41 PM  
+**Author:** Brajeshwar  
+**Published:** 7/8/2026, 6:15:10 PM  
 **Categories:** -  
 
-Now that code is so cheap, I feel like the real work is the spec, the context, the plan (aka the prompt) you hand over to the AI agent. That's where you decide what's actually getting built and how.That step still seems to be completely individual. You write it alone, the plan you formulate is local...
+Article URL: https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/ Comments URL: https://news.ycombinator.com/item?id=48835342 Points: 4 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48831425)
+📖 [Read original article](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/)
 
 ---
 
-## 11. I had 25 AI agents try to kill 25 startup ideas. They killed 22
+## 11. Discord admits AI moderation bug wrongfully banned users over harmless images
 
-**Author:** billyholevas  
-**Published:** 7/8/2026, 1:03:42 PM  
+**Author:** OrvalWintermute  
+**Published:** 7/8/2026, 6:13:27 PM  
 **Categories:** -  
 
-Article URL: https://thatsbuddy.com/blog/kill-test Comments URL: https://news.ycombinator.com/item?id=48831410 Points: 2 # Comments: 1
+Article URL: https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/ Comments URL: https://news.ycombinator.com/item?id=48835307 Points: 3 # Comments: 2
 
-📖 [Read original article](https://thatsbuddy.com/blog/kill-test)
+📖 [Read original article](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/)
 
 ---
 
-## 12. Show HN: AIfunc – Call AI as a function, not as an agent
+## 12. Show HN: Makoto – blocks AI agent claims that contradict its logged actions
 
-**Author:** GildenEye  
-**Published:** 7/8/2026, 1:00:43 PM  
+**Author:** Present_Flow  
+**Published:** 7/8/2026, 6:11:17 PM  
 **Categories:** -  
 
-Article URL: https://github.com/aifunc-dev/aifunc/ Comments URL: https://news.ycombinator.com/item?id=48831383 Points: 1 # Comments: 0
+Article URL: https://github.com/Clear-Sights/Makoto Comments URL: https://news.ycombinator.com/item?id=48835278 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/aifunc-dev/aifunc/)
+📖 [Read original article](https://github.com/Clear-Sights/Makoto)
 
 ---
 
-## 13. Brown Professor Suspects Majority of His Class Used AI to Cheat
+## 13. IBM and Red Hat launch Lightwell to defend open-source code from AI attacks
 
-**Author:** cdrnsf  
-**Published:** 7/8/2026, 1:00:04 PM  
+**Author:** CrankyBear  
+**Published:** 7/8/2026, 6:06:58 PM  
 **Categories:** -  
 
-Article URL: https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat Comments URL: https://news.ycombinator.com/item?id=48831373 Points: 3 # Comments: 0
+Article URL: https://www.zdnet.com/article/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product/ Comments URL: https://news.ycombinator.com/item?id=48835195 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat)
+📖 [Read original article](https://www.zdnet.com/article/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product/)
 
 ---
 
-## 14. Meta Now Lets Anyone Use Your Instagram Photos in AI Images–Unless You Opt Out
+## 14. Why the rise of open source AI isn't hurting Anthropic yet
 
-**Author:** kordlessagain  
-**Published:** 7/8/2026, 12:59:41 PM  
+**Author:** Brajeshwar  
+**Published:** 7/8/2026, 5:53:54 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/ Comments URL: https://news.ycombinator.com/item?id=48831365 Points: 2 # Comments: 3
+Article URL: https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/ Comments URL: https://news.ycombinator.com/item?id=48835032 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/)
+📖 [Read original article](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)
 
 ---
 
-## 15. AI – five stages of accepting the inevitable
+## 15. Show HN: Monogram, AI app with on the fly generation
 
-**Author:** vldmrs  
-**Published:** 7/8/2026, 12:56:53 PM  
+**Author:** edouard1234567  
+**Published:** 7/8/2026, 5:53:18 PM  
 **Categories:** -  
 
-Article URL: https://vldmir.com/posts/ai/ Comments URL: https://news.ycombinator.com/item?id=48831332 Points: 1 # Comments: 0
+Article URL: https://www.monogram.ai/ Comments URL: https://news.ycombinator.com/item?id=48835018 Points: 8 # Comments: 3
 
-📖 [Read original article](https://vldmir.com/posts/ai/)
+📖 [Read original article](https://www.monogram.ai/)
 
 ---
 
-## 16. Cinchor – Control what an AI agent can do, and prove what it did
+## 16. The Gmail API Alternative for AI Agents – MailKite
 
-**Author:** foh_quarters  
-**Published:** 7/8/2026, 12:39:06 PM  
+**Author:** fijiwebdesign  
+**Published:** 7/8/2026, 5:50:20 PM  
 **Categories:** -  
 
-Article URL: https://cinchor.com Comments URL: https://news.ycombinator.com/item?id=48831168 Points: 1 # Comments: 0
+Article URL: https://mailkite.dev/blog/gmail-api-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48834975 Points: 2 # Comments: 0
 
-📖 [Read original article](https://cinchor.com)
+📖 [Read original article](https://mailkite.dev/blog/gmail-api-for-ai-agents/)
 
 ---
 
-## 17. Is AI making us dumber?
+## 17. Ask HN: Another \"Hacker News\" with less AI and more human-focused hacking news?
 
-**Author:** amichail  
-**Published:** 7/8/2026, 12:37:32 PM  
+**Author:** weird_trousers  
+**Published:** 7/8/2026, 5:48:41 PM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/ai-making-us-dumber-research-2026-7 Comments URL: https://news.ycombinator.com/item?id=48831149 Points: 2 # Comments: 0
+I am done with articles stating "I used this LLM to do that", or "Look, this agent did that in 2 minutes!". I want content more user-centric, less openai / anthropic, and more "human-in-the-loop" articles.Any other website to recommend? I think lobste.rs was a good hacker news aggregator, but I don'...
 
-📖 [Read original article](https://www.businessinsider.com/ai-making-us-dumber-research-2026-7)
+📖 [Read original article](https://news.ycombinator.com/item?id=48834961)
 
 ---
 
-## 18. How AI Embeddings Cut Cloud Costs by 50% While Boosting Matching by 65%
+## 18. Show HN: Microsoft releases Flint, a visualization language for AI agents
 
-**Author:** wmg  
-**Published:** 7/8/2026, 12:26:03 PM  
+**Author:** chenglong-hn  
+**Published:** 7/8/2026, 5:46:12 PM  
 **Categories:** -  
 
-Article URL: https://tech.wmg.com/breaking-the-black-box-how-ai-embeddings-cut-cloud-costs-by-50-while-boosting-matching-by-65-5d4e4f28a08a Comments URL: https://news.ycombinator.com/item?id=48831045 Points: 1 # Comments: 0
+Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; - complex chart specs with explicit det...
 
-📖 [Read original article](https://tech.wmg.com/breaking-the-black-box-how-ai-embeddings-cut-cloud-costs-by-50-while-boosting-matching-by-65-5d4e4f28a08a)
+📖 [Read original article](https://microsoft.github.io/flint-chart/#/)
 
 ---
 
-## 19. China warns about AI risks with Anthropic's Claude Code
+## 19. An AI coal mine security camera network powered by plaintext passwords
 
-**Author:** cramer4next  
-**Published:** 7/8/2026, 12:21:26 PM  
+**Author:** EatonZ  
+**Published:** 7/8/2026, 5:20:31 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html Comments URL: https://news.ycombinator.com/item?id=48831001 Points: 3 # Comments: 1
+Article URL: https://eaton-works.com/2026/07/08/coal-india-camera-hack/ Comments URL: https://news.ycombinator.com/item?id=48834611 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html)
+📖 [Read original article](https://eaton-works.com/2026/07/08/coal-india-camera-hack/)
 
 ---
 
-## 20. The Second Derivative: Why No One Understands the AI Boom
+## 20. Meta AI glasses disable the camera if the capture LED is destroyed
 
-**Author:** ericwaller  
-**Published:** 7/8/2026, 12:17:40 PM  
+**Author:** p_stuart82  
+**Published:** 7/8/2026, 5:15:57 PM  
 **Categories:** -  
 
-Article URL: https://www.groundbrkr.com/p/the-second-derivative-why-no-one Comments URL: https://news.ycombinator.com/item?id=48830961 Points: 5 # Comments: 0
+Article URL: https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/ Comments URL: https://news.ycombinator.com/item?id=48834548 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.groundbrkr.com/p/the-second-derivative-why-no-one)
+📖 [Read original article](https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/)
 
 ---
