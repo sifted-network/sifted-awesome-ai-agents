@@ -2,251 +2,131 @@
 title: "Hacker News AI - 2026-07-07"
 date: "2026-07-07"
 source: "Hacker News AI"
-count: 20
+count: 10
 ---
 
 # Hacker News AI - 2026-07-07
 
-20 items collected.
+10 items collected.
 
 ---
 
-## 1. Creative Directing AI Built SaaS, as a Service
+## 1. Anthropic Expands In Manhattan, Part of an AI Boom in New York
 
-**Author:** krm01  
-**Published:** 7/7/2026, 7:44:20 PM  
+**Author:** jbegley  
+**Published:** 7/7/2026, 11:57:33 PM  
 **Categories:** -  
 
-Article URL: https://www.hyoomn.com/?ai Comments URL: https://news.ycombinator.com/item?id=48822738 Points: 1 # Comments: 0
+Article URL: https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html Comments URL: https://news.ycombinator.com/item?id=48825666 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.hyoomn.com/?ai)
+📖 [Read original article](https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html)
 
 ---
 
-## 2. Neuronpedia, an open source platform for AI interpretability
+## 2. Free 100M AI tokens for Kimi and MiniMax models
 
-**Author:** rzk  
-**Published:** 7/7/2026, 7:42:12 PM  
+**Author:** litppicho  
+**Published:** 7/7/2026, 11:45:03 PM  
 **Categories:** -  
 
-Article URL: https://www.neuronpedia.org/ Comments URL: https://news.ycombinator.com/item?id=48822724 Points: 1 # Comments: 0
+Article URL: https://inference.dahl.global/ Comments URL: https://news.ycombinator.com/item?id=48825545 Points: 7 # Comments: 5
 
-📖 [Read original article](https://www.neuronpedia.org/)
-
----
-
-## 3. Quit trying to keep up with every new AI tool and keep building
-
-**Author:** mooreds  
-**Published:** 7/7/2026, 7:42:03 PM  
-**Categories:** -  
-
-Article URL: https://www.dynatrace.com/news/blog/quit-trying-to-keep-up-with-every-new-ai-tool-and-keep-building/ Comments URL: https://news.ycombinator.com/item?id=48822723 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.dynatrace.com/news/blog/quit-trying-to-keep-up-with-every-new-ai-tool-and-keep-building/)
+📖 [Read original article](https://inference.dahl.global/)
 
 ---
 
-## 4. Abnormal.ai Response to Anthropic Lawsuit
-
-**Author:** babelfish  
-**Published:** 7/7/2026, 7:40:13 PM  
-**Categories:** -  
-
-Article URL: https://abnormal.ai/blog/abnormal-response-to-anthropic-lawsuit Comments URL: https://news.ycombinator.com/item?id=48822694 Points: 1 # Comments: 0
-
-📖 [Read original article](https://abnormal.ai/blog/abnormal-response-to-anthropic-lawsuit)
-
----
-
-## 5. Code is overpaying for AI. /tokendiet finds where
-
-**Author:** eMoka  
-**Published:** 7/7/2026, 7:37:36 PM  
-**Categories:** -  
-
-Article URL: https://tokendiet.dev/ Comments URL: https://news.ycombinator.com/item?id=48822657 Points: 1 # Comments: 2
-
-📖 [Read original article](https://tokendiet.dev/)
-
----
-
-## 6. Sets up your AI agent for Cloudflare
-
-**Author:** gurjeet  
-**Published:** 7/7/2026, 7:36:52 PM  
-**Categories:** -  
-
-Article URL: https://developers.cloudflare.com/agent-setup/prompt.md Comments URL: https://news.ycombinator.com/item?id=48822641 Points: 1 # Comments: 0
-
-📖 [Read original article](https://developers.cloudflare.com/agent-setup/prompt.md)
-
----
-
-## 7. AI Neovim
-
-**Author:** s2xon  
-**Published:** 7/7/2026, 7:32:05 PM  
-**Categories:** -  
-
-Article URL: https://github.com/s2xon/aeovim/ Comments URL: https://news.ycombinator.com/item?id=48822567 Points: 1 # Comments: 1
-
-📖 [Read original article](https://github.com/s2xon/aeovim/)
-
----
-
-## 8. Show HN: Last EHR – AI agent over a FHIR back end with human approval on writes
-
-**Author:** betzsoftware  
-**Published:** 7/7/2026, 7:30:42 PM  
-**Categories:** -  
-
-Article URL: https://www.lastehr.com Comments URL: https://news.ycombinator.com/item?id=48822546 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.lastehr.com)
-
----
-
-## 9. Policy Statement Concerning the Suppression of Accuracy in AI Systems
+## 3. The \"Merge\" with AI Has Begun
 
 **Author:** petethomas  
-**Published:** 7/7/2026, 7:25:37 PM  
+**Published:** 7/7/2026, 11:40:49 PM  
 **Categories:** -  
 
-Article URL: https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems Comments URL: https://news.ycombinator.com/item?id=48822482 Points: 3 # Comments: 0
+Article URL: https://www.thenation.com/article/society/the-merge-with-ai-has-already-begun/ Comments URL: https://news.ycombinator.com/item?id=48825516 Points: 4 # Comments: 2
 
-📖 [Read original article](https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems)
+📖 [Read original article](https://www.thenation.com/article/society/the-merge-with-ai-has-already-begun/)
 
 ---
 
-## 10. Show HN: Tessera – an AI agent that refuses to answer without evidence
+## 4. Ask HN: How do you keep documentation up to date with AI generated code?
 
-**Author:** robert-vetter  
-**Published:** 7/7/2026, 7:24:07 PM  
+**Author:** ghosts_  
+**Published:** 7/7/2026, 11:31:20 PM  
 **Categories:** -  
 
-Article URL: https://github.com/robert-vetter/tessera Comments URL: https://news.ycombinator.com/item?id=48822458 Points: 2 # Comments: 0
+I've seen numbers like 75% of code at Google is AI generated, huge %s of code overall is AI generated, open source projects overwhelmed with "slop" PR requests.It's pretty undeniable that AI code is here to stay - so on your teams / companies how are you managing staying up on PR reviews, and docume...
 
-📖 [Read original article](https://github.com/robert-vetter/tessera)
+📖 [Read original article](https://news.ycombinator.com/item?id=48825447)
 
 ---
 
-## 11. I use AI in creating my newsletter
+## 5. How OpenAI Delivers Low-Latency Voice AI for 900M Users
 
-**Author:** speckx  
-**Published:** 7/7/2026, 7:22:03 PM  
+**Author:** gmays  
+**Published:** 7/7/2026, 11:26:38 PM  
 **Categories:** -  
 
-Article URL: https://petergasston.co.uk/how-i-use-ai-in-creating-my-newsletter/ Comments URL: https://news.ycombinator.com/item?id=48822422 Points: 2 # Comments: 2
+Article URL: https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice Comments URL: https://news.ycombinator.com/item?id=48825411 Points: 3 # Comments: 0
 
-📖 [Read original article](https://petergasston.co.uk/how-i-use-ai-in-creating-my-newsletter/)
+📖 [Read original article](https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice)
 
 ---
 
-## 12. Muse Image: Free AI Image Generator – Museimage.io
+## 6. Why the rise of open source AI isn't hurting Anthropic yet
 
-**Author:** sarkory  
-**Published:** 7/7/2026, 7:21:46 PM  
+**Author:** jack1689  
+**Published:** 7/7/2026, 11:06:37 PM  
 **Categories:** -  
 
-Article URL: https://museimage.io/http:/localhost:3000 Comments URL: https://news.ycombinator.com/item?id=48822419 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/ Comments URL: https://news.ycombinator.com/item?id=48825221 Points: 3 # Comments: 0
 
-📖 [Read original article](https://museimage.io/http:/localhost:3000)
+📖 [Read original article](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)
 
 ---
 
-## 13. AI recommends crap travel services
+## 7. Qualcomm acquires Nexa AI, open-sources GenAI runtime for Hexagon NPUs
 
-**Author:** mikelgan  
-**Published:** 7/7/2026, 7:18:31 PM  
+**Author:** BUFU  
+**Published:** 7/7/2026, 10:44:11 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints Comments URL: https://news.ycombinator.com/item?id=48822363 Points: 1 # Comments: 1
+Article URL: https://github.com/qualcomm/GenieX Comments URL: https://news.ycombinator.com/item?id=48825032 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints)
+📖 [Read original article](https://github.com/qualcomm/GenieX)
 
 ---
 
-## 14. Show HN: Bike4Mind – open-core AI workbench; any model, agents, RAG, self-host
+## 8. EU AI Act becomes applicable Aug 2: an engineering checklist
 
-**Author:** erikbethke  
-**Published:** 7/7/2026, 7:17:34 PM  
+**Author:** stevalsoto  
+**Published:** 7/7/2026, 10:39:17 PM  
 **Categories:** -  
 
-Hi HN, I am Erik Bethke, game dev that has been making online games for 30+ years (Starfleet Command, GoPets, FarmVille, Mafia Wars).For the last 3 years I have been building Bike4Mind and now I have to put my big boy pants on and 'go to market'. Ugh, it would be so much more cozy to fire up a few m...
+Article URL: https://conformityengineering.com/playbook/ Comments URL: https://news.ycombinator.com/item?id=48824992 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/Bike4Mind/bike4mind)
+📖 [Read original article](https://conformityengineering.com/playbook/)
 
 ---
 
-## 15. Local AI is re-reading its own prompt
+## 9. Show HN: I built an AI spritesheet generator for game developers
 
-**Author:** thekiraproject  
-**Published:** 7/7/2026, 7:15:23 PM  
+**Author:** autosprite  
+**Published:** 7/7/2026, 10:26:14 PM  
 **Categories:** -  
 
-Article URL: https://github.com/thekiraproject/kira-project-site/blob/main/posts/2026-07-06-prefill-tax.md Comments URL: https://news.ycombinator.com/item?id=48822323 Points: 1 # Comments: 0
+Article URL: https://www.autosprite.io Comments URL: https://news.ycombinator.com/item?id=48824854 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/thekiraproject/kira-project-site/blob/main/posts/2026-07-06-prefill-tax.md)
+📖 [Read original article](https://www.autosprite.io)
 
 ---
 
-## 16. Anthropic is now a banned vendor at comma_AI
+## 10. AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share
 
-**Author:** sk4rekr0w  
-**Published:** 7/7/2026, 7:12:29 PM  
+**Author:** Jimmc414  
+**Published:** 7/7/2026, 10:19:53 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/___Harald___/status/2074561342539956403 Comments URL: https://news.ycombinator.com/item?id=48822276 Points: 3 # Comments: 0
+Article URL: https://www.wsj.com/tech/ai/ai-giants-are-handing-out-tons-of-free-computing-power-to-grab-startup-share-c00a5c5c Comments URL: https://news.ycombinator.com/item?id=48824768 Points: 6 # Comments: 3
 
-📖 [Read original article](https://twitter.com/___Harald___/status/2074561342539956403)
-
----
-
-## 17. Nvidia CEO blasts bosses using AI as a layoff excuse: 'We're scaring people'
-
-**Author:** haritha1313  
-**Published:** 7/7/2026, 7:07:08 PM  
-**Categories:** -  
-
-Article URL: https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-blasts-bosses-using-070000315.html Comments URL: https://news.ycombinator.com/item?id=48822183 Points: 3 # Comments: 0
-
-📖 [Read original article](https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-blasts-bosses-using-070000315.html)
-
----
-
-## 18. Codeberg proposing prohibitting sharing of AI-generated code
-
-**Author:** monneyboi  
-**Published:** 7/7/2026, 7:06:23 PM  
-**Categories:** -  
-
-Article URL: https://codeberg.org/Codeberg/org/pulls/1253/files Comments URL: https://news.ycombinator.com/item?id=48822172 Points: 3 # Comments: 1
-
-📖 [Read original article](https://codeberg.org/Codeberg/org/pulls/1253/files)
-
----
-
-## 19. The Second Derivative: Why No One Understands the AI Boom
-
-**Author:** samizdis  
-**Published:** 7/7/2026, 7:06:14 PM  
-**Categories:** -  
-
-Article URL: https://www.groundbrkr.com/p/the-second-derivative-why-no-one Comments URL: https://news.ycombinator.com/item?id=48822167 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.groundbrkr.com/p/the-second-derivative-why-no-one)
-
----
-
-## 20. Show HN: Strays – See the ports and AI coding sessions your Mac is running
-
-**Author:** kordio  
-**Published:** 7/7/2026, 7:01:10 PM  
-**Categories:** -  
-
-Article URL: https://github.com/mayur-25-cd/strays Comments URL: https://news.ycombinator.com/item?id=48822092 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/mayur-25-cd/strays)
+📖 [Read original article](https://www.wsj.com/tech/ai/ai-giants-are-handing-out-tons-of-free-computing-power-to-grab-startup-share-c00a5c5c)
 
 ---
