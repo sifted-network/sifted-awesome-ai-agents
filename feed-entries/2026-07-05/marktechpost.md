@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-07-05"
 date: "2026-07-05"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-07-05
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Meituan has released LongCat-2.0, a 1.6 trillion-parameter Mixture-of-Experts mo
 LlamaIndex’s legal-kb is a public reference app that gives agents filesystem-style access to a document knowledge base on Index v2. It exposes retrieve (hybrid semantic search), find, read, and grep as tools, with automatic per-file versioning and visual citations. The stack is TanStack Start, AI SD...
 
 📖 [Read original article](https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/)
-
----
-
-## 3. Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026
-
-**Author:** Michal Sutter  
-**Published:** 7/5/2026, 3:02:08 AM  
-**Categories:** Artificial Intelligence, Editors Pick, Language Model, OCR, Open Source, Software Engineering, Staff, Technology, Top  
-
-Most enterprise data still sits inside PDFs, scans, and slide decks. Large language models and agents cannot use that data until it becomes structured JSON. Open-source document extraction has become the standard way to do that conversion on your own hardware. Two different problems hide under the p...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/04/structured-pdf-to-json-a-guide-to-open-source-extraction-models-in-2026/)
 
 ---
