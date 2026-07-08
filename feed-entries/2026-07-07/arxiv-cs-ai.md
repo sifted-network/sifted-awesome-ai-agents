@@ -641,7 +641,7 @@ arXiv:2607.04336v1 Announce Type: new Abstract: Modern video games are becoming 
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.04371v1 Announce Type: new Abstract: We present Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super optimized for interactive deployment. We designed the model to maximize server throughput under high user throughput constraints. In interactive serving workloads on a ...
+arXiv:2607.04371v2 Announce Type: new Abstract: We present Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super optimized for interactive deployment. We designed the model to maximize server throughput under high user throughput constraints. In interactive serving workloads on a ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04371)
 
@@ -683,13 +683,13 @@ arXiv:2607.04412v1 Announce Type: new Abstract: Reinforcement learning (RL) for 
 
 ---
 
-## 57. Agent Step Value: State-Transition Measurement with State-Grounded LLM Evaluators
+## 57. Agent Step Value: Probing the Observer Effect in Black-Box Traces
 
 **Author:** Andrew Zhang, Chengzhan Li  
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.04419v1 Announce Type: new Abstract: Most agent evaluations collapse a multi-step trace into a final answer, a success flag, or a trajectory-level score. These aggregates obscure the diagnostic question developers need most: which action changed the state in a useful direction? We introdu...
+arXiv:2607.04419v2 Announce Type: new Abstract: Final-answer scores hide which agent transitions helped or harmed a trace. We introduce Agent Step Value (ASV), a replay framework that scores before/after states with a stateless LLM evaluator over a fixed candidate set. ASV reports entropy movement a...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04419)
 
@@ -1145,7 +1145,7 @@ arXiv:2607.05363v1 Announce Type: new Abstract: Personal agents are becoming per
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG, cs.MA, cs.RO  
 
-arXiv:2607.05391v1 Announce Type: new Abstract: Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. ...
+arXiv:2607.05391v2 Announce Type: new Abstract: Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05391)
 
@@ -1193,7 +1193,7 @@ arXiv:2606.20691v1 Announce Type: cross Abstract: Ontologies are useful structur
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** quant-ph, cs.AI, hep-ex  
 
-arXiv:2607.02289v1 Announce Type: cross Abstract: Three-dimensional superconducting radio-frequency (SRF) cavities provide exceptionally long-lived electromagnetic modes and, when coupled to nonlinear elements such as transmon qubits, become promising architectures for bosonic quantum information pr...
+arXiv:2607.02289v2 Announce Type: cross Abstract: Three-dimensional superconducting radio-frequency (SRF) cavities provide exceptionally long-lived electromagnetic modes and, when coupled to nonlinear elements such as transmon qubits, become promising architectures for bosonic quantum information pr...
 
 📖 [Read original article](https://arxiv.org/abs/2607.02289)
 
@@ -1319,13 +1319,13 @@ arXiv:2607.02564v1 Announce Type: cross Abstract: Computational models of the hu
 
 ---
 
-## 110. CRODA-ST: Single-Target Cross-Receiver Open-Set Radio Fingerprint Recognition
+## 110. Cross-Receiver Open-Set Radio Frequency Fingerprinting via Structure-First Adaptation
 
 **Author:** Fengchong Yao, Jianbing Li, Qing Liu, Kefeng Song, Haitao Li, Song Wang, Feixiang Wang  
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** eess.SP, cs.AI  
 
-arXiv:2607.02567v1 Announce Type: cross Abstract: Radio frequency fingerprint identification (RFFI) provides a physical-layer credential for Internet of Things devices, but open-set decisions become fragile when a threshold calibrated on a source receiver is transferred to a target receiver. Receive...
+arXiv:2607.02567v2 Announce Type: cross Abstract: Radio frequency fingerprint identification (RFFI) provides a physical-layer credential for Internet of Things devices, but open-set decisions become fragile when a threshold calibrated on a source receiver is applied to a target receiver. Receiver sh...
 
 📖 [Read original article](https://arxiv.org/abs/2607.02567)
 
@@ -1565,7 +1565,7 @@ arXiv:2607.02703v1 Announce Type: cross Abstract: In this paper, we describe LLM
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI  
 
-arXiv:2607.02714v1 Announce Type: cross Abstract: There is no doubt that safety alignment is an essential step in LLM training. However, conceptually it does not distinguish between various domains and the level of potential harm of a query, which creates significant complications in the fields like...
+arXiv:2607.02714v2 Announce Type: cross Abstract: There is no doubt that safety alignment is an essential step in LLM training. However, conceptually it does not distinguish between various domains and the level of potential harm of a query, which creates significant complications in the fields like...
 
 📖 [Read original article](https://arxiv.org/abs/2607.02714)
 
@@ -2003,13 +2003,13 @@ arXiv:2607.02995v1 Announce Type: cross Abstract: Vision-language models can exh
 
 ---
 
-## 167. CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training
+## 167. CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training
 
 **Author:** Max Van Puyvelde, Halil Ibrahim Gulluk, Wim Van Criekinge, Olivier Gevaert  
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2607.02998v1 Announce Type: cross Abstract: Controllable generative models of 3D medical images can synthesize volumes with specified clinical attributes, but this demands samples that are simultaneously high-fidelity, natively 3D, and faithful to the requested conditioning. We present CONFLUX...
+arXiv:2607.02998v2 Announce Type: cross Abstract: Controllable generative models of 3D medical images can synthesize volumes with specified clinical attributes, but this demands samples that are simultaneously high-fidelity, natively 3D, and faithful to the requested conditioning. We present CONFLUX...
 
 📖 [Read original article](https://arxiv.org/abs/2607.02998)
 
@@ -2189,7 +2189,7 @@ arXiv:2607.03103v1 Announce Type: cross Abstract: Clinical cardiac imaging pipel
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.03126v1 Announce Type: cross Abstract: Reinforcement Learning (RL) has substantially improved the reasoning ability of large language models (LLMs), but sparse outcome rewards still make token-level credit assignment difficult. Existing scalable RL methods typically assign trajectory-leve...
+arXiv:2607.03126v2 Announce Type: cross Abstract: Reinforcement Learning (RL) has substantially improved the reasoning ability of large language models (LLMs), but sparse outcome rewards still make token-level credit assignment difficult. Existing scalable RL methods typically assign trajectory-leve...
 
 📖 [Read original article](https://arxiv.org/abs/2607.03126)
 
@@ -2513,7 +2513,7 @@ arXiv:2607.03316v1 Announce Type: cross Abstract: Agentic code review, where aut
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** eess.SY, cs.AI, cs.SY  
 
-arXiv:2607.03324v1 Announce Type: cross Abstract: Eco-friendly energy management for artificial intelligence data centers (AIDCs) is crucial because of the significant increase in energy consumption-induced carbon emissions from AIDCs resulting from the rapid expansion of AI applications. This paper...
+arXiv:2607.03324v2 Announce Type: cross Abstract: Eco-friendly energy management for artificial intelligence data centers (AIDCs) is crucial because of the significant increase in energy consumption-induced carbon emissions from AIDCs resulting from the rapid expansion of AI applications. This paper...
 
 📖 [Read original article](https://arxiv.org/abs/2607.03324)
 
@@ -3221,7 +3221,7 @@ arXiv:2607.03806v1 Announce Type: cross Abstract: Audio foundation models are wi
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.GR, cs.AI  
 
-arXiv:2607.03819v1 Announce Type: cross Abstract: Challenges remain in ego-centric 3D scene generation due to limited view overlap and the dominant influence of individual perspectives on scene interpretation. These factors hinder the creation of viewpoint-consistent and semantically aligned visual ...
+arXiv:2607.03819v2 Announce Type: cross Abstract: Challenges remain in ego-centric 3D scene generation due to limited view overlap and the dominant influence of individual perspectives on scene interpretation. These factors hinder the creation of viewpoint-consistent and semantically aligned visual ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.03819)
 
@@ -3845,7 +3845,7 @@ arXiv:2607.04163v1 Announce Type: cross Abstract: Large Vision-Language Models (
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI  
 
-arXiv:2607.04166v1 Announce Type: cross Abstract: I propose a new methodology to attack the fascinating Gilbreath's conjecture about prime numbers, first posted in 1878 and unsolved to this day. The problem statement is rudimentary: kids can understand it. However, despite decades of research, almos...
+arXiv:2607.04166v2 Announce Type: cross Abstract: I propose a new methodology to attack the fascinating Gilbreath's conjecture about prime numbers, first posted in 1878 and unsolved to this day. The problem statement is rudimentary: kids can understand it. However, despite decades of research, almos...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04166)
 
@@ -4073,7 +4073,7 @@ arXiv:2607.04422v1 Announce Type: cross Abstract: Recent NVFP4 pretraining metho
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2607.04423v1 Announce Type: cross Abstract: Unified Multimodal Models (UMMs) integrate image understanding and generation within a single architecture, yet how the two tasks interact remains understudied. We investigate $\boldsymbol{\mathsf{transferability}}$ in UMMs: whether training a capabi...
+arXiv:2607.04423v2 Announce Type: cross Abstract: Unified Multimodal Models (UMMs) integrate image understanding and generation within a single architecture, yet how the two tasks interact remains understudied. We investigate $\boldsymbol{\mathsf{transferability}}$ in UMMs: whether training a capabi...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04423)
 
@@ -4141,11 +4141,11 @@ arXiv:2607.04432v1 Announce Type: cross Abstract: A student model trained on pur
 
 ## 345. RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies
 
-**Author:** Tianxing Chen, Yue Chen, Zixuan Li, Junyuan Tang, Kailun Su, Weijie Wan, Baijun Chen, Haoran Lu, Haowen Yan, Honghao Su, Zhiyang Dou, Kaixuan Wang, Dandan Zhang, Yunze Liu, Yan Qin, Qiwei Liang, Qiwei Wu, Zijian Lin, Wenwei Lin, Yuran Wang, Minghua He, Tianshu Wu, Ruihai Wu, Jingquan Zhou, Kai-Chong Lei, Haibao Yu, Yuanfeng Ji, Weiyang Jin, Guanyu Lin, Xiaofan Li, Qi Xiong, Renjing Xu, Zhongyu Li, Wenhao Chai, Enze Xie, Ziwei Wang, Yao Mu, Hao Dong, Wojciech Matusik, Mingyu Ding, Wenbo Ding, Ping Luo, Masayoshi Tomizuka  
+**Author:** Tianxing Chen, Yue Chen, Zixuan Li, Junyuan Tang, Kailun Su, Haoran Lu, Weijie Wan, Baijun Chen, Songling Liu, Haowen Yan, Honghao Su, Zhiyang Dou, Kaixuan Wang, Dandan Zhang, Yunze Liu, Yan Qin, Qiwei Liang, Qiwei Wu, Zijian Lin, Wenwei Lin, Yuran Wang, Minghua He, Tianshu Wu, Ruihai Wu, Jingquan Zhou, Kai-Chong Lei, Haibao Yu, Yuanfeng Ji, Weiyang Jin, Guanyu Lin, Xiaofan Li, Qi Xiong, Renjing Xu, Zhongyu Li, Wenhao Chai, Enze Xie, Ziwei Wang, Yao Mu, Hao Dong, Wojciech Matusik, Mingyu Ding, Wenbo Ding, Ping Luo, Masayoshi Tomizuka  
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.CV, cs.GR  
 
-arXiv:2607.04434v1 Announce Type: cross Abstract: Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narrow tasks with limited capability coverage, and are ...
+arXiv:2607.04434v2 Announce Type: cross Abstract: Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narrow tasks with limited capability coverage, and are ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04434)
 
@@ -4193,7 +4193,7 @@ arXiv:2607.04440v1 Announce Type: cross Abstract: Seismic wavefield simulation i
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.GR, cs.LG  
 
-arXiv:2607.04443v1 Announce Type: cross Abstract: We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive output stream from 192x336 to 640x368 while preserving...
+arXiv:2607.04443v2 Announce Type: cross Abstract: We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive output stream from 192x336 to 640x368 while preserving...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04443)
 
@@ -4937,7 +4937,7 @@ arXiv:2607.04993v1 Announce Type: cross Abstract: Many phenomena of deep learnin
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI, cs.LG, cs.MA  
 
-arXiv:2607.05001v1 Announce Type: cross Abstract: Cyber Threat Intelligence (CTI) reports are predominantly unstructured, heterogeneous, and noisy, which limits their direct usability for automated analysis and reasoning. Cybersecurity Knowledge Graphs (CSKGs) provide a structured representation of ...
+arXiv:2607.05001v2 Announce Type: cross Abstract: Cyber Threat Intelligence (CTI) reports are predominantly unstructured, heterogeneous, and noisy, which limits their direct usability for automated analysis and reasoning. Cybersecurity Knowledge Graphs (CSKGs) provide a structured representation of ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05001)
 
@@ -5141,7 +5141,7 @@ arXiv:2607.05189v1 Announce Type: cross Abstract: Persistent personal agents com
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG, cs.SD, eess.AS  
 
-arXiv:2607.05196v1 Announce Type: cross Abstract: Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM...
+arXiv:2607.05196v2 Announce Type: cross Abstract: Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05196)
 
@@ -5255,13 +5255,13 @@ arXiv:2607.05292v1 Announce Type: cross Abstract: Super-resolving coarse atmosph
 
 ---
 
-## 438. Topological Shape Representation for Aneurysm -- Bifurcation Detection
+## 438. Shape Over Intensity: Directional Topological Encoding for False Positive Reduction in Intracranial Aneurysm Detection
 
-**Author:** Akshay Gokhale (Sardar Patel Institute of Technology, Mumbai), Mansi Dhamne (Sardar Patel Institute of Technology, Mumbai)  
+**Author:** Akshay Gokhale, Mansi Dhamne  
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2607.05317v1 Announce Type: cross Abstract: Automated detection of intracranial aneurysms (IAs) from CT angiography (CTA) is severely hindered by high false-positive rates. Convolutional neural networks (CNNs) rely on local pixel intensities, causing systematic confusion between saccular aneur...
+arXiv:2607.05317v2 Announce Type: cross Abstract: Automated detection of intracranial aneurysms (IAs) from CT angiography (CTA) is severely hindered by high false-positive rates. Convolutional neural networks (CNNs) rely on local pixel intensities, causing systematic confusion between saccular aneur...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05317)
 
@@ -5293,11 +5293,11 @@ arXiv:2607.05339v1 Announce Type: cross Abstract: Group Relative Policy Optimiza
 
 ## 441. Multiplayer Interactive World Models with Representation Autoencoders
 
-**Author:** Anthony Hu, V\'aclav Volhejn, Adrien Ramanana Rahary, Chris Mulder, Aditya Makkar, Am\'elie Royer, Manu Orsini, Alyx Liao, Adam Jelley, Eloi Alonso, Florian Laurent, Fredrik Nor\'en, James Swingos, Jan H\"unermann, Kent Rollins, Lucas Hosseini, Matthieu Le Cauchois, Maxim Peter, Pim de Witte, Tim Brown, Vincent Micheli, Moritz B\"ohle, Gabriel de Marmiesse, Viktoriia Sharmanska, Lucia Specia, Michael Black, Patrick P\'erez  
+**Author:** Anthony Hu, V\'aclav Volhejn, Adrien Ramanana Rahary, Chris Mulder, Aditya Makkar, Alyx Liao, Am\'elie Royer, Manu Orsini, Adam Jelley, Eloi Alonso, Florian Laurent, Fredrik Nor\'en, James Swingos, Jan H\"unermann, Kent Rollins, Lucas Hosseini, Matthieu Le Cauchois, Maxim Peter, Pim de Witte, Tim Brown, Vincent Micheli, Moritz B\"ohle, Gabriel de Marmiesse, Viktoriia Sharmanska, Lucia Specia, Michael Black, Patrick P\'erez  
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2607.05352v1 Announce Type: cross Abstract: We introduce the first multiplayer world model for highly dynamic environments governed by complex physical interactions. Whereas single-player world models treat the other agents as part of the environment, ours conditions on the action streams of m...
+arXiv:2607.05352v2 Announce Type: cross Abstract: We introduce the first multiplayer world model for highly dynamic environments governed by complex physical interactions. Whereas single-player world models treat the other agents as part of the environment, ours conditions on the action streams of m...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05352)
 
@@ -6053,7 +6053,7 @@ arXiv:2606.09426v3 Announce Type: replace Abstract: Computer-use agents (CUAs) i
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.AR  
 
-arXiv:2606.12742v3 Announce Type: replace Abstract: Wearable healthcare devices are the fastest-growing Internet of Things (IoT) sector. Many automated healthcare services rely on two crucial biological signals, namely ECG and EEG, which reflect the activity of the heart and brain, respectively. Alt...
+arXiv:2606.12742v4 Announce Type: replace Abstract: Wearable healthcare devices are the fastest-growing Internet of Things (IoT) sector. Many automated healthcare services rely on two crucial biological signals, namely ECG and EEG, which reflect the activity of the heart and brain, respectively. Alt...
 
 📖 [Read original article](https://arxiv.org/abs/2606.12742)
 
@@ -6197,7 +6197,7 @@ arXiv:2606.29014v2 Announce Type: replace Abstract: Recent advancements in gener
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.29431v3 Announce Type: replace Abstract: Despite the impressive capabilities of Large Vision-Language Models (LVLMs), they remain susceptible to hallucination, generating content inconsistent with the input image. Recent studies attribute this to the dominance of language priors over visu...
+arXiv:2606.29431v4 Announce Type: replace Abstract: Despite the impressive capabilities of Large Vision-Language Models (LVLMs), they remain susceptible to hallucination, generating content inconsistent with the input image. Recent studies attribute this to the dominance of language priors over visu...
 
 📖 [Read original article](https://arxiv.org/abs/2606.29431)
 
@@ -6677,7 +6677,7 @@ arXiv:2503.10496v2 Announce Type: replace-cross Abstract: Modeling natural pheno
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI  
 
-arXiv:2503.10954v2 Announce Type: replace-cross Abstract: Large Language Model (LLM) agents can solve *any* computational problem *without* an algorithm in a runtime *independent* of the computational complexity of that problem. Instead of specifying precisely how to solve problem instance using *pr...
+arXiv:2503.10954v3 Announce Type: replace-cross Abstract: Large Language Models (LLM) can solve *any* computational problem *without* an algorithm in a runtime *independent* of the computational complexity of that problem. Instead of specifying precisely how to solve problem instance using *programm...
 
 📖 [Read original article](https://arxiv.org/abs/2503.10954)
 
@@ -7239,7 +7239,7 @@ arXiv:2509.25533v2 Announce Type: replace-cross Abstract: As Vision Language Mod
 
 **Author:** Sam Ganzfried  
 **Published:** 7/7/2026, 4:00:00 AM  
-**Categories:** cs.GT, cs.AI, cs.MA  
+**Categories:** cs.GT, cs.AI, cs.MA, math.OC  
 
 arXiv:2509.25618v3 Announce Type: replace-cross Abstract: There has been significant recent progress in algorithms for approximation of Nash equilibrium in large two-player zero-sum imperfect-information games and exact computation of Nash equilibrium in multiplayer strategic-form games. While count...
 
