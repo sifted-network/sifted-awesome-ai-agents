@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. ZML releases free product to speed inference across AI chips
+## 1. Grillr, AI that interrogates your startup idea then holds you to real deadlines
 
-**Author:** bogdiyan  
-**Published:** 7/8/2026, 8:18:36 AM  
+**Author:** alecavaz  
+**Published:** 7/8/2026, 1:47:39 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/ Comments URL: https://news.ycombinator.com/item?id=48829106 Points: 2 # Comments: 0
+Article URL: https://www.grillr.io Comments URL: https://news.ycombinator.com/item?id=48831931 Points: 1 # Comments: 1
 
-📖 [Read original article](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/)
+📖 [Read original article](https://www.grillr.io)
 
 ---
 
-## 2. Testing Java Memory Management with Chronicle-Fix Using AI
+## 2. Outcry as Meta lets users make AI images from public Instagram profile pics
 
-**Author:** peter_lawrey  
-**Published:** 7/8/2026, 8:07:23 AM  
+**Author:** tcp_handshaker  
+**Published:** 7/8/2026, 1:40:54 PM  
 **Categories:** -  
 
-Article URL: http://blog.vanillajava.blog/2026/06/testing-java-memory-management-with.html Comments URL: https://news.ycombinator.com/item?id=48829010 Points: 1 # Comments: 1
+Article URL: https://www.bbc.com/news/articles/cp9lee19y1yo Comments URL: https://news.ycombinator.com/item?id=48831854 Points: 2 # Comments: 0
 
-📖 [Read original article](http://blog.vanillajava.blog/2026/06/testing-java-memory-management-with.html)
+📖 [Read original article](https://www.bbc.com/news/articles/cp9lee19y1yo)
 
 ---
 
-## 3. Darwin Among the Weights: AI as a speciation event
+## 3. We just figured out how AI works (J-Space) [video]
 
-**Author:** notevenmostly  
-**Published:** 7/8/2026, 7:56:44 AM  
+**Author:** amichail  
+**Published:** 7/8/2026, 1:39:53 PM  
 **Categories:** -  
 
-Article URL: https://benletchford.com/writing/darwin-among-the-weights/ Comments URL: https://news.ycombinator.com/item?id=48828933 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=bjHuGNo3spk Comments URL: https://news.ycombinator.com/item?id=48831837 Points: 1 # Comments: 0
 
-📖 [Read original article](https://benletchford.com/writing/darwin-among-the-weights/)
+📖 [Read original article](https://www.youtube.com/watch?v=bjHuGNo3spk)
 
 ---
 
-## 4. Which AI coding tools to use
+## 4. NexSub: The First Offline AI Video Subtitle Translator
 
-**Author:** bryanhogan  
-**Published:** 7/8/2026, 7:53:31 AM  
+**Author:** billqu0001  
+**Published:** 7/8/2026, 1:39:07 PM  
 **Categories:** -  
 
-Article URL: https://bryanhogan.com/blog/ai-coding-tools Comments URL: https://news.ycombinator.com/item?id=48828899 Points: 2 # Comments: 0
+Article URL: https://steelsoft.site/software/NexSub_home.html Comments URL: https://news.ycombinator.com/item?id=48831827 Points: 1 # Comments: 0
 
-📖 [Read original article](https://bryanhogan.com/blog/ai-coding-tools)
+📖 [Read original article](https://steelsoft.site/software/NexSub_home.html)
 
 ---
 
-## 5. Show HN: An AI Agent that automates workflows on your Mobile
+## 5. Show HN: Design a component visually, get spec-grade prompts for AI tools
 
-**Author:** Messyflame  
-**Published:** 7/8/2026, 7:50:04 AM  
+**Author:** yingyenliu  
+**Published:** 7/8/2026, 1:38:26 PM  
 **Categories:** -  
 
-Article URL: https://mobilerun.ai/ Comments URL: https://news.ycombinator.com/item?id=48828874 Points: 1 # Comments: 0
+Article URL: https://uiprompt-olive.vercel.app Comments URL: https://news.ycombinator.com/item?id=48831820 Points: 1 # Comments: 0
 
-📖 [Read original article](https://mobilerun.ai/)
+📖 [Read original article](https://uiprompt-olive.vercel.app)
 
 ---
 
-## 6. AI is becoming a bargain hunter's market, with a few luxury models on top
+## 6. The AI boom is coming for the bond market
+
+**Author:** andsoitis  
+**Published:** 7/8/2026, 1:35:10 PM  
+**Categories:** -  
+
+Article URL: https://economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next Comments URL: https://news.ycombinator.com/item?id=48831775 Points: 4 # Comments: 0
+
+📖 [Read original article](https://economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next)
+
+---
+
+## 7. What AI Sandboxing Means
+
+**Author:** ktrychon1  
+**Published:** 7/8/2026, 1:27:15 PM  
+**Categories:** -  
+
+Article URL: https://kenhuangus.substack.com/p/the-untrusted-tenant-rethinking-infrastructure Comments URL: https://news.ycombinator.com/item?id=48831681 Points: 2 # Comments: 1
+
+📖 [Read original article](https://kenhuangus.substack.com/p/the-untrusted-tenant-rethinking-infrastructure)
+
+---
+
+## 8. Can AI equalize political campaign ads – or will it remain for spreading lies?
 
 **Author:** beardyw  
-**Published:** 7/8/2026, 7:47:41 AM  
+**Published:** 7/8/2026, 1:25:38 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/07/08/ai-is-becoming-a-bargain-hunters-market-with-a-few-luxury-models-on-top/5268050 Comments URL: https://news.ycombinator.com/item?id=48828855 Points: 2 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns Comments URL: https://news.ycombinator.com/item?id=48831667 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/07/08/ai-is-becoming-a-bargain-hunters-market-with-a-few-luxury-models-on-top/5268050)
+📖 [Read original article](https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns)
 
 ---
 
-## 7. AI Tokenomics: How to tokenmin while ROImaxxing
+## 9. AI agents accessing production database
 
-**Author:** jack1689  
-**Published:** 7/8/2026, 7:38:20 AM  
+**Author:** Eapz_06  
+**Published:** 7/8/2026, 1:19:37 PM  
 **Categories:** -  
 
-Article URL: https://mmc.vc/research/ai-tokenomics-how-to-tokenmin-while-roimaxxing/ Comments URL: https://news.ycombinator.com/item?id=48828788 Points: 2 # Comments: 1
+So we have arrived at a point, our agent neeeds to interact with real production database.So if you have implemented agents beyond the prototype stage, 1. what does your architecture is like, 2. any guardrails or runtime we need to custom build and 3. problems you have faced when it reached producti...
 
-📖 [Read original article](https://mmc.vc/research/ai-tokenomics-how-to-tokenmin-while-roimaxxing/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48831580)
 
 ---
 
-## 8. Show HN: Tools and skills to build better sites with AI
+## 10. Ask HN: Why aren't we collaborating on the prompts we give to our AI agents?
 
-**Author:** figmaster  
-**Published:** 7/8/2026, 7:32:45 AM  
+**Author:** ilbert  
+**Published:** 7/8/2026, 1:04:41 PM  
 **Categories:** -  
 
-Article URL: https://app.initium.sh Comments URL: https://news.ycombinator.com/item?id=48828752 Points: 2 # Comments: 1
+Now that code is so cheap, I feel like the real work is the spec, the context, the plan (aka the prompt) you hand over to the AI agent. That's where you decide what's actually getting built and how.That step still seems to be completely individual. You write it alone, the plan you formulate is local...
 
-📖 [Read original article](https://app.initium.sh)
+📖 [Read original article](https://news.ycombinator.com/item?id=48831425)
 
 ---
 
-## 9. 15 months of building an OSS Azure emulator with and without AI
+## 11. I had 25 AI agents try to kill 25 startup ideas. They killed 22
 
-**Author:** kamilmrzyglod  
-**Published:** 7/8/2026, 7:25:29 AM  
+**Author:** billyholevas  
+**Published:** 7/8/2026, 1:03:42 PM  
 **Categories:** -  
 
-Article URL: https://topaz.thecloudtheory.com/blog/15-months-building-oss-with-and-without-ai/ Comments URL: https://news.ycombinator.com/item?id=48828697 Points: 1 # Comments: 0
+Article URL: https://thatsbuddy.com/blog/kill-test Comments URL: https://news.ycombinator.com/item?id=48831410 Points: 2 # Comments: 1
 
-📖 [Read original article](https://topaz.thecloudtheory.com/blog/15-months-building-oss-with-and-without-ai/)
+📖 [Read original article](https://thatsbuddy.com/blog/kill-test)
 
 ---
 
-## 10. The Download: your stake in OpenAI, and the Treasury's AI warning
+## 12. Show HN: AIfunc – Call AI as a function, not as an agent
 
-**Author:** joozio  
-**Published:** 7/8/2026, 7:05:21 AM  
+**Author:** GildenEye  
+**Published:** 7/8/2026, 1:00:43 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/ Comments URL: https://news.ycombinator.com/item?id=48828571 Points: 1 # Comments: 0
+Article URL: https://github.com/aifunc-dev/aifunc/ Comments URL: https://news.ycombinator.com/item?id=48831383 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/)
+📖 [Read original article](https://github.com/aifunc-dev/aifunc/)
 
 ---
 
-## 11. Nextdocs.io – AI Slide Generation
+## 13. Brown Professor Suspects Majority of His Class Used AI to Cheat
 
-**Author:** galacticdessert  
-**Published:** 7/8/2026, 6:47:14 AM  
+**Author:** cdrnsf  
+**Published:** 7/8/2026, 1:00:04 PM  
 **Categories:** -  
 
-Article URL: https://www.nextdocs.io Comments URL: https://news.ycombinator.com/item?id=48828437 Points: 1 # Comments: 0
+Article URL: https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat Comments URL: https://news.ycombinator.com/item?id=48831373 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.nextdocs.io)
+📖 [Read original article](https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat)
 
 ---
 
-## 12. Generative AI might end up being worthless
+## 14. Meta Now Lets Anyone Use Your Instagram Photos in AI Images–Unless You Opt Out
 
-**Author:** wannabeetle  
-**Published:** 7/8/2026, 5:50:11 AM  
+**Author:** kordlessagain  
+**Published:** 7/8/2026, 12:59:41 PM  
 **Categories:** -  
 
-Article URL: https://theconversation.com/generative-ai-might-end-up-being-worthless-and-that-could-be-a-good-thing-266046 Comments URL: https://news.ycombinator.com/item?id=48828026 Points: 3 # Comments: 1
+Article URL: https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/ Comments URL: https://news.ycombinator.com/item?id=48831365 Points: 2 # Comments: 3
 
-📖 [Read original article](https://theconversation.com/generative-ai-might-end-up-being-worthless-and-that-could-be-a-good-thing-266046)
+📖 [Read original article](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/)
 
 ---
 
-## 13. Skill Retriever semantic skill discovery for AI agents via 10K-category taxonomy
+## 15. AI – five stages of accepting the inevitable
 
-**Author:** chonsong  
-**Published:** 7/8/2026, 5:36:19 AM  
+**Author:** vldmrs  
+**Published:** 7/8/2026, 12:56:53 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ChonSong/skill-retriever Comments URL: https://news.ycombinator.com/item?id=48827939 Points: 1 # Comments: 0
+Article URL: https://vldmir.com/posts/ai/ Comments URL: https://news.ycombinator.com/item?id=48831332 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/ChonSong/skill-retriever)
+📖 [Read original article](https://vldmir.com/posts/ai/)
 
 ---
 
-## 14. GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos
+## 16. Cinchor – Control what an AI agent can do, and prove what it did
 
-**Author:** ColinEberhardt  
-**Published:** 7/8/2026, 5:25:35 AM  
+**Author:** foh_quarters  
+**Published:** 7/8/2026, 12:39:06 PM  
 **Categories:** -  
 
-Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 112 # Comments: 34
+Article URL: https://cinchor.com Comments URL: https://news.ycombinator.com/item?id=48831168 Points: 1 # Comments: 0
 
-📖 [Read original article](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+📖 [Read original article](https://cinchor.com)
 
 ---
 
-## 15. I Met with China's Top AI Experts. They're Freaking Out, Too
+## 17. Is AI making us dumber?
 
-**Author:** TMWNN  
-**Published:** 7/8/2026, 5:17:25 AM  
+**Author:** amichail  
+**Published:** 7/8/2026, 12:37:32 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/ai-arms-race-china-us-cooperation/ Comments URL: https://news.ycombinator.com/item?id=48827820 Points: 1 # Comments: 0
+Article URL: https://www.businessinsider.com/ai-making-us-dumber-research-2026-7 Comments URL: https://news.ycombinator.com/item?id=48831149 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/ai-arms-race-china-us-cooperation/)
+📖 [Read original article](https://www.businessinsider.com/ai-making-us-dumber-research-2026-7)
 
 ---
 
-## 16. Meta tests 'super sensing' AI glasses that can record every moment
+## 18. How AI Embeddings Cut Cloud Costs by 50% While Boosting Matching by 65%
 
-**Author:** thm  
-**Published:** 7/8/2026, 5:05:05 AM  
+**Author:** wmg  
+**Published:** 7/8/2026, 12:26:03 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a Comments URL: https://news.ycombinator.com/item?id=48827741 Points: 1 # Comments: 0
+Article URL: https://tech.wmg.com/breaking-the-black-box-how-ai-embeddings-cut-cloud-costs-by-50-while-boosting-matching-by-65-5d4e4f28a08a Comments URL: https://news.ycombinator.com/item?id=48831045 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a)
+📖 [Read original article](https://tech.wmg.com/breaking-the-black-box-how-ai-embeddings-cut-cloud-costs-by-50-while-boosting-matching-by-65-5d4e4f28a08a)
 
 ---
 
-## 17. Generative AI creates delicious, sustainable, and nutritious burgers
+## 19. China warns about AI risks with Anthropic's Claude Code
 
-**Author:** car  
-**Published:** 7/8/2026, 4:59:53 AM  
+**Author:** cramer4next  
+**Published:** 7/8/2026, 12:21:26 PM  
 **Categories:** -  
 
-Article URL: https://www.nature.com/articles/s41538-026-00953-x Comments URL: https://news.ycombinator.com/item?id=48827709 Points: 1 # Comments: 1
+Article URL: https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html Comments URL: https://news.ycombinator.com/item?id=48831001 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.nature.com/articles/s41538-026-00953-x)
+📖 [Read original article](https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html)
 
 ---
 
-## 18. GitHub AI agent leaks private repos when asked nicely
+## 20. The Second Derivative: Why No One Understands the AI Boom
 
-**Author:** sbulaev  
-**Published:** 7/8/2026, 4:56:53 AM  
+**Author:** ericwaller  
+**Published:** 7/8/2026, 12:17:40 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924 Comments URL: https://news.ycombinator.com/item?id=48827693 Points: 3 # Comments: 1
+Article URL: https://www.groundbrkr.com/p/the-second-derivative-why-no-one Comments URL: https://news.ycombinator.com/item?id=48830961 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924)
-
----
-
-## 19. China to restrict the export of frontier open weight AI models
-
-**Author:** nsoonhui  
-**Published:** 7/8/2026, 4:51:58 AM  
-**Categories:** -  
-
-Article URL: https://twitter.com/rohanpaul_ai/status/2074512389526237609 Comments URL: https://news.ycombinator.com/item?id=48827668 Points: 2 # Comments: 0
-
-📖 [Read original article](https://twitter.com/rohanpaul_ai/status/2074512389526237609)
-
----
-
-## 20. Australia dock workers call for 28-hour week in AI talks
-
-**Author:** aussieguy1234  
-**Published:** 7/8/2026, 4:25:33 AM  
-**Categories:** -  
-
-Article URL: https://www.bbc.com/news/articles/cd95wendvdeo Comments URL: https://news.ycombinator.com/item?id=48827504 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.bbc.com/news/articles/cd95wendvdeo)
+📖 [Read original article](https://www.groundbrkr.com/p/the-second-derivative-why-no-one)
 
 ---
