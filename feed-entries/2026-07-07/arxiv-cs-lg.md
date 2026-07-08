@@ -341,7 +341,7 @@ arXiv:2607.02964v1 Announce Type: new Abstract: A central goal of mechanistic in
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.NE  
 
-arXiv:2607.02967v1 Announce Type: new Abstract: Large language models remain limited as continual learning systems, motivating renewed interest in Sparse Distributed Memory (SDM) as an explicit online episodic memory. CALM (Nechesov and Ruponen, 2025) identifies its threshold-binary encoder as an op...
+arXiv:2607.02967v2 Announce Type: new Abstract: Large language models remain limited as continual learning systems, motivating renewed interest in Sparse Distributed Memory (SDM) as an explicit online episodic memory. CALM (Nechesov and Ruponen, 2025) identifies its threshold-binary encoder as an op...
 
 📖 [Read original article](https://arxiv.org/abs/2607.02967)
 
@@ -545,7 +545,7 @@ arXiv:2607.03125v1 Announce Type: new Abstract: Deep reinforcement learning (DRL
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.03126v1 Announce Type: new Abstract: Reinforcement Learning (RL) has substantially improved the reasoning ability of large language models (LLMs), but sparse outcome rewards still make token-level credit assignment difficult. Existing scalable RL methods typically assign trajectory-level ...
+arXiv:2607.03126v2 Announce Type: new Abstract: Reinforcement Learning (RL) has substantially improved the reasoning ability of large language models (LLMs), but sparse outcome rewards still make token-level credit assignment difficult. Existing scalable RL methods typically assign trajectory-level ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.03126)
 
@@ -809,7 +809,7 @@ arXiv:2607.03426v1 Announce Type: new Abstract: Large language models (LLMs) exh
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.03436v1 Announce Type: new Abstract: Routing among large language models (LLMs) promises better quality at lower cost, motivated by the reported gap between learned routers and a per-instance oracle. But that oracle is computed from a single correctness label per (query, model), so under ...
+arXiv:2607.03436v2 Announce Type: new Abstract: On real open-model pools, 12--36% of the reported router-to-oracle gap is single-draw label noise that no single-commit router can capture, while the majority is genuine, recoverable specialist advantage; this work proves why (a recoverability asymmetr...
 
 📖 [Read original article](https://arxiv.org/abs/2607.03436)
 
@@ -1069,11 +1069,11 @@ arXiv:2607.03680v1 Announce Type: new Abstract: Recent AI-generated text detecti
 
 ## 89. PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling
 
-**Author:** Varvara Nazarenkko, Timur Lidzhiev, Alexander Tarakanov  
+**Author:** Varvara Nazarenko, Timur Lidzhiev, Alexander Tarakanov  
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.NA, math.NA, math.ST, stat.TH  
 
-arXiv:2607.03692v1 Announce Type: new Abstract: Spectral methods are widely used to construct representations from the geometry of data, but they often rely on a fixed kernel, graph Laplacian, or manually selected feature scaling. We propose Physics-Informed Eigenfunction Features with Learnable Sca...
+arXiv:2607.03692v2 Announce Type: new Abstract: Spectral methods are widely used to construct representations from the geometry of data, but they often rely on a fixed kernel, graph Laplacian, or manually selected feature scaling. We propose Physics-Informed Eigenfunction Features with Learnable Sca...
 
 📖 [Read original article](https://arxiv.org/abs/2607.03692)
 
@@ -1613,7 +1613,7 @@ arXiv:2607.04218v1 Announce Type: new Abstract: The growing demand for privacy-p
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.04244v1 Announce Type: new Abstract: This report describes our approach to the Efficient Qwen Competition, where the goal is to enable low-latency serving of Qwen3.5-4B on a resource-constrained NVIDIA A10G GPU. Our system combines a quantized target model with speculative decoding. To re...
+arXiv:2607.04244v2 Announce Type: new Abstract: This report describes our approach to the Efficient Qwen Competition, where the goal is to enable low-latency serving of Qwen3.5-4B on a resource-constrained NVIDIA A10G GPU. Our system combines a quantized target model with speculative decoding. To re...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04244)
 
@@ -1757,7 +1757,7 @@ arXiv:2607.04409v1 Announce Type: new Abstract: Learning and planning in imagina
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.04416v1 Announce Type: new Abstract: Sri Lanka has experienced a decade of progressive forest degradation and rising atmospheric pollution, yet district-level respiratory admissions have paradoxically declined, pointing to the confounding role of healthcare access. This study addresses th...
+arXiv:2607.04416v2 Announce Type: new Abstract: Sri Lanka has experienced a decade of progressive forest degradation and rising atmospheric pollution, yet district-level respiratory admissions have paradoxically declined, pointing to the confounding role of healthcare access. This study addresses th...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04416)
 
@@ -2341,11 +2341,11 @@ arXiv:2607.04987v1 Announce Type: new Abstract: Cell-type deconvolution, the tas
 
 ## 195. Non-Convex Sparse Reinforcement Learning via Non-Monotone Inclusions
 
-**Author:** Kyohei Suzuki, onstantinos Slavakis  
+**Author:** Kyohei Suzuki, Konstantinos Slavakis  
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.04990v1 Announce Type: new Abstract: This work delivers two key contributions: one to efficient feature selection in reinforcement learning (RL), the other to the theory of non-monotone inclusions. On the RL side, the estimation bias inherent in conventional regularization schemes is addr...
+arXiv:2607.04990v2 Announce Type: new Abstract: This work delivers two key contributions: one to efficient feature selection in reinforcement learning (RL), the other to the theory of non-monotone inclusions. On the RL side, the estimation bias inherent in conventional regularization schemes is addr...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04990)
 
@@ -2393,7 +2393,7 @@ arXiv:2607.05017v1 Announce Type: new Abstract: The performance of deep learning
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CV  
 
-arXiv:2607.05019v1 Announce Type: new Abstract: In multimodal classification, late-fusion approaches classify concatenated modality-specific features extracted by unimodal neural networks. When modality imbalance is pronounced, various regularization techniques have been proposed to balance the lear...
+arXiv:2607.05019v2 Announce Type: new Abstract: In multimodal classification, late-fusion approaches classify concatenated modality-specific features extracted by unimodal neural networks. When modality imbalance is pronounced, various regularization techniques have been proposed to balance the lear...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05019)
 
@@ -2427,7 +2427,7 @@ arXiv:2607.05046v1 Announce Type: new Abstract: Evaluating generative AI models 
 
 **Author:** Lukas Hauzenberger, Niklas Schmidinger, Anamaria-Roberta Hartl, David Stap, Thomas Schmied, Sebastian B\"ock, G\"unter Klambauer, Sepp Hochreiter  
 **Published:** 7/7/2026, 4:00:00 AM  
-**Categories:** cs.LG  
+**Categories:** cs.LG, cs.AI  
 
 arXiv:2607.05061v1 Announce Type: new Abstract: Key-value (KV) cache growth is a major bottleneck in autoregressive decoding, as memory and bandwidth scale linearly with context length. Existing KV eviction methods often rely on static heuristics or proxy scores, which poorly track future token util...
 
@@ -2585,7 +2585,7 @@ arXiv:2607.05179v1 Announce Type: new Abstract: In liberalised railway systems, 
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AR  
 
-arXiv:2607.05187v1 Announce Type: new Abstract: As CMOS technology scales into the deep nanometer regime, digital circuit reliability is increasingly threatened by the combined stochastic effects of Bias Temperature Instability (BTI) and Process Variation (PV). Traditional reliability analysis metho...
+arXiv:2607.05187v2 Announce Type: new Abstract: As CMOS technology scales into the deep nanometer regime, digital circuit reliability is increasingly threatened by the combined stochastic effects of Bias Temperature Instability (BTI) and Process Variation (PV). Traditional reliability analysis metho...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05187)
 
@@ -3275,13 +3275,13 @@ arXiv:2607.02959v1 Announce Type: cross Abstract: We introduce VSeek, an agentic
 
 ---
 
-## 273. CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training
+## 273. CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training
 
 **Author:** Max Van Puyvelde, Halil Ibrahim Gulluk, Wim Van Criekinge, Olivier Gevaert  
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2607.02998v1 Announce Type: cross Abstract: Controllable generative models of 3D medical images can synthesize volumes with specified clinical attributes, but this demands samples that are simultaneously high-fidelity, natively 3D, and faithful to the requested conditioning. We present CONFLUX...
+arXiv:2607.02998v2 Announce Type: cross Abstract: Controllable generative models of 3D medical images can synthesize volumes with specified clinical attributes, but this demands samples that are simultaneously high-fidelity, natively 3D, and faithful to the requested conditioning. We present CONFLUX...
 
 📖 [Read original article](https://arxiv.org/abs/2607.02998)
 
@@ -4229,7 +4229,7 @@ arXiv:2607.04233v1 Announce Type: cross Abstract: Gradient based optimization me
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2607.04236v1 Announce Type: cross Abstract: Bayes-assisted conformal prediction combines the strengths of Bayesian modelling with exact, distribution-free frequentist coverage guarantees. Although conformal validity is preserved even when the Bayesian working model (BWM) is misspecified, the s...
+arXiv:2607.04236v2 Announce Type: cross Abstract: Bayes-assisted conformal prediction combines the strengths of Bayesian modelling with exact, distribution-free frequentist coverage guarantees. Although conformal validity is preserved even when the Bayesian working model (BWM) is misspecified, the s...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04236)
 
@@ -4397,7 +4397,7 @@ arXiv:2607.04442v1 Announce Type: cross Abstract: Diffusion models (DMs) are a s
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.GR, cs.LG  
 
-arXiv:2607.04443v1 Announce Type: cross Abstract: We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive output stream from 192x336 to 640x368 while preserving...
+arXiv:2607.04443v2 Announce Type: cross Abstract: We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive output stream from 192x336 to 640x368 while preserving...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04443)
 
@@ -4805,7 +4805,7 @@ arXiv:2607.05000v1 Announce Type: cross Abstract: Canonical quantization provide
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI, cs.LG, cs.MA  
 
-arXiv:2607.05001v1 Announce Type: cross Abstract: Cyber Threat Intelligence (CTI) reports are predominantly unstructured, heterogeneous, and noisy, which limits their direct usability for automated analysis and reasoning. Cybersecurity Knowledge Graphs (CSKGs) provide a structured representation of ...
+arXiv:2607.05001v2 Announce Type: cross Abstract: Cyber Threat Intelligence (CTI) reports are predominantly unstructured, heterogeneous, and noisy, which limits their direct usability for automated analysis and reasoning. Cybersecurity Knowledge Graphs (CSKGs) provide a structured representation of ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05001)
 
@@ -4841,7 +4841,7 @@ arXiv:2607.05052v1 Announce Type: cross Abstract: Human value detection is commo
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** physics.chem-ph, cs.LG  
 
-arXiv:2607.05127v1 Announce Type: cross Abstract: Understanding the physics of many-body complex dynamical systems is typically non-trivial. High-dimensional analysis approaches are often deemed necessary to prevent losing important information. Typically, these use order parameters or descriptors c...
+arXiv:2607.05127v2 Announce Type: cross Abstract: Understanding the physics of many-body complex dynamical systems may be a non-trivial task. High-dimensional analysis approaches are often deemed necessary to prevent losing important information. Typically, these use order parameters or descriptors ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05127)
 
@@ -4889,7 +4889,7 @@ arXiv:2607.05184v1 Announce Type: cross Abstract: Self-distillation is a promisi
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG, cs.SD, eess.AS  
 
-arXiv:2607.05196v1 Announce Type: cross Abstract: Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM...
+arXiv:2607.05196v2 Announce Type: cross Abstract: Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05196)
 
@@ -5027,13 +5027,13 @@ arXiv:2607.05316v1 Announce Type: cross Abstract: Large language models generate
 
 ---
 
-## 419. Topological Shape Representation for Aneurysm -- Bifurcation Detection
+## 419. Shape Over Intensity: Directional Topological Encoding for False Positive Reduction in Intracranial Aneurysm Detection
 
-**Author:** Akshay Gokhale (Sardar Patel Institute of Technology, Mumbai), Mansi Dhamne (Sardar Patel Institute of Technology, Mumbai)  
+**Author:** Akshay Gokhale, Mansi Dhamne  
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2607.05317v1 Announce Type: cross Abstract: Automated detection of intracranial aneurysms (IAs) from CT angiography (CTA) is severely hindered by high false-positive rates. Convolutional neural networks (CNNs) rely on local pixel intensities, causing systematic confusion between saccular aneur...
+arXiv:2607.05317v2 Announce Type: cross Abstract: Automated detection of intracranial aneurysms (IAs) from CT angiography (CTA) is severely hindered by high false-positive rates. Convolutional neural networks (CNNs) rely on local pixel intensities, causing systematic confusion between saccular aneur...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05317)
 
@@ -5041,11 +5041,11 @@ arXiv:2607.05317v1 Announce Type: cross Abstract: Automated detection of intracr
 
 ## 420. Multiplayer Interactive World Models with Representation Autoencoders
 
-**Author:** Anthony Hu, V\'aclav Volhejn, Adrien Ramanana Rahary, Chris Mulder, Aditya Makkar, Am\'elie Royer, Manu Orsini, Alyx Liao, Adam Jelley, Eloi Alonso, Florian Laurent, Fredrik Nor\'en, James Swingos, Jan H\"unermann, Kent Rollins, Lucas Hosseini, Matthieu Le Cauchois, Maxim Peter, Pim de Witte, Tim Brown, Vincent Micheli, Moritz B\"ohle, Gabriel de Marmiesse, Viktoriia Sharmanska, Lucia Specia, Michael Black, Patrick P\'erez  
+**Author:** Anthony Hu, V\'aclav Volhejn, Adrien Ramanana Rahary, Chris Mulder, Aditya Makkar, Alyx Liao, Am\'elie Royer, Manu Orsini, Adam Jelley, Eloi Alonso, Florian Laurent, Fredrik Nor\'en, James Swingos, Jan H\"unermann, Kent Rollins, Lucas Hosseini, Matthieu Le Cauchois, Maxim Peter, Pim de Witte, Tim Brown, Vincent Micheli, Moritz B\"ohle, Gabriel de Marmiesse, Viktoriia Sharmanska, Lucia Specia, Michael Black, Patrick P\'erez  
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2607.05352v1 Announce Type: cross Abstract: We introduce the first multiplayer world model for highly dynamic environments governed by complex physical interactions. Whereas single-player world models treat the other agents as part of the environment, ours conditions on the action streams of m...
+arXiv:2607.05352v2 Announce Type: cross Abstract: We introduce the first multiplayer world model for highly dynamic environments governed by complex physical interactions. Whereas single-player world models treat the other agents as part of the environment, ours conditions on the action streams of m...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05352)
 
@@ -5105,7 +5105,7 @@ arXiv:2607.05375v1 Announce Type: cross Abstract: Occupancy ratios correct distr
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG, cs.MA, cs.RO  
 
-arXiv:2607.05391v1 Announce Type: cross Abstract: Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis...
+arXiv:2607.05391v2 Announce Type: cross Abstract: Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05391)
 
@@ -5177,7 +5177,7 @@ arXiv:2310.00505v3 Announce Type: replace Abstract: Fetal health classification 
 **Published:** 7/7/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2311.07461v3 Announce Type: replace Abstract: Autonomous systems (AS) often rely on Deep Neural Network (DNN) classifiers to operate in complex and dynamically changing environments. However, during operation, these classifiers may encounter domains that differ from those seen during developme...
+arXiv:2311.07461v4 Announce Type: replace Abstract: Autonomous systems (AS) often rely on Deep Neural Network (DNN) classifiers to operate in complex and dynamically changing environments. However, during operation, these classifiers may encounter domains that differ from those seen during developme...
 
 📖 [Read original article](https://arxiv.org/abs/2311.07461)
 
