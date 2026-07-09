@@ -2,167 +2,251 @@
 title: "Hacker News AI - 2026-07-09"
 date: "2026-07-09"
 source: "Hacker News AI"
-count: 13
+count: 20
 ---
 
 # Hacker News AI - 2026-07-09
 
-13 items collected.
+20 items collected.
 
 ---
 
-## 1. AI could keep poor countries poor
+## 1. Show HN: Chat Privacy – hide AI chat history while screen sharing
 
-**Author:** zaik  
-**Published:** 7/9/2026, 3:20:08 AM  
+**Author:** jcwsw129  
+**Published:** 7/9/2026, 9:32:45 AM  
 **Categories:** -  
 
-Article URL: https://newsletter.deenamousa.com/p/ai-could-keep-poor-countries-poor Comments URL: https://news.ycombinator.com/item?id=48840572 Points: 1 # Comments: 0
+Article URL: https://chromewebstore.google.com/detail/chat-privacy/piakgcdlbcadfnhgmpfpfejfmmpmnmkp Comments URL: https://news.ycombinator.com/item?id=48843231 Points: 1 # Comments: 0
 
-📖 [Read original article](https://newsletter.deenamousa.com/p/ai-could-keep-poor-countries-poor)
+📖 [Read original article](https://chromewebstore.google.com/detail/chat-privacy/piakgcdlbcadfnhgmpfpfejfmmpmnmkp)
 
 ---
 
-## 2. Character AI Alternative for Roleplay
+## 2. Tooling for AI agents to build KiCad project from simple circuit description
 
-**Author:** henrypissler  
-**Published:** 7/9/2026, 3:16:27 AM  
+**Author:** oxplot  
+**Published:** 7/9/2026, 9:07:50 AM  
 **Categories:** -  
 
-Article URL: https://chatbrat.ai/bratlog/best-character-ai-alternatives-2026 Comments URL: https://news.ycombinator.com/item?id=48840543 Points: 1 # Comments: 0
+Article URL: https://github.com/oxplot/burn2kicad Comments URL: https://news.ycombinator.com/item?id=48843037 Points: 1 # Comments: 0
 
-📖 [Read original article](https://chatbrat.ai/bratlog/best-character-ai-alternatives-2026)
+📖 [Read original article](https://github.com/oxplot/burn2kicad)
 
 ---
 
-## 3. Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds
+## 3. $100k to keep CTFs competitive in the age of AI
 
-**Author:** Jimmc414  
-**Published:** 7/9/2026, 3:12:24 AM  
+**Author:** stuxf  
+**Published:** 7/9/2026, 8:48:48 AM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/ Comments URL: https://news.ycombinator.com/item?id=48840514 Points: 1 # Comments: 0
+Article URL: https://osec.io/blog/save-ctfs-fund/ Comments URL: https://news.ycombinator.com/item?id=48842872 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/)
+📖 [Read original article](https://osec.io/blog/save-ctfs-fund/)
 
 ---
 
-## 4. AI models' values are different from most people's
+## 4. Google patched AI chatbot flaw that could expose customer conversations
 
-**Author:** Khaine  
-**Published:** 7/9/2026, 2:49:35 AM  
+**Author:** crowd51  
+**Published:** 7/9/2026, 8:46:20 AM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples Comments URL: https://news.ycombinator.com/item?id=48840388 Points: 1 # Comments: 0
+Article URL: https://www.axios.com/2026/07/07/varonis-google-ai-agent-chatbot-security? Comments URL: https://news.ycombinator.com/item?id=48842845 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples)
+📖 [Read original article](https://www.axios.com/2026/07/07/varonis-google-ai-agent-chatbot-security?)
 
 ---
 
-## 5. Ask HN: Would you pay to discuss a book with an official AI clone of its author?
+## 5. The math behind \"AI will take your job\" is wrong [video]
 
-**Author:** briangao  
-**Published:** 7/9/2026, 2:46:03 AM  
+**Author:** parasti  
+**Published:** 7/9/2026, 8:44:36 AM  
 **Categories:** -  
 
-When you're deep in a dense book, do you ever wish you could just ask the author something?If each author had an official AI version of themselves, one they licensed and approved, trained on their books, talks, and interviews, with revenue going back to them and you could pay $15 per book to talk it...
+Article URL: https://www.youtube.com/watch?v=sQGZXrzykpU Comments URL: https://news.ycombinator.com/item?id=48842830 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48840370)
+📖 [Read original article](https://www.youtube.com/watch?v=sQGZXrzykpU)
 
 ---
 
-## 6. Show HN: SlopWatch - A browser extension to rate webpages with AI content
+## 6. Databricks Data and AI Summit 2026 as it was
 
-**Author:** HademLeFashie  
-**Published:** 7/9/2026, 2:41:49 AM  
+**Author:** protmaks  
+**Published:** 7/9/2026, 8:36:36 AM  
 **Categories:** -  
 
-Hey guys!With an increase in AI-generated content (a.k.a "Slop"), I made a Chrome extension to help people identify it online.It's sort of a like a rating system on how "slop"-y a page is, and you get to see other people's ratings to determine if the content is AI or not.Go ahead and check it out on...
+Article URL: https://medium.com/data-engineer-things/databricks-data-and-ai-summit-2026-as-it-was-2e146b77912a Comments URL: https://news.ycombinator.com/item?id=48842739 Points: 1 # Comments: 0
 
-📖 [Read original article](https://chromewebstore.google.com/detail/slopwatch-the-online-watc/nihlmmcfkabobchdpjimenhcfmaoglkj)
+📖 [Read original article](https://medium.com/data-engineer-things/databricks-data-and-ai-summit-2026-as-it-was-2e146b77912a)
 
 ---
 
-## 7. AI Stack Gap Map
+## 7. AI as a weapon of mass cognitive destruction
 
-**Author:** colinprince  
-**Published:** 7/9/2026, 2:25:54 AM  
+**Author:** baranul  
+**Published:** 7/9/2026, 8:33:38 AM  
 **Categories:** -  
 
-Article URL: https://www.currentai.org/blogs/introducing-the-gap-map-v0-1 Comments URL: https://news.ycombinator.com/item?id=48840224 Points: 2 # Comments: 0
+Article URL: https://taoofmac.com/space/blog/2026/07/08/2130 Comments URL: https://news.ycombinator.com/item?id=48842713 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.currentai.org/blogs/introducing-the-gap-map-v0-1)
+📖 [Read original article](https://taoofmac.com/space/blog/2026/07/08/2130)
 
 ---
 
-## 8. The AI Hype Reckoning Is Upon Us
+## 8. CEO and Creator of Ethos Engine for AI
 
-**Author:** cratermoon  
-**Published:** 7/9/2026, 2:09:44 AM  
+**Author:** frajaro  
+**Published:** 7/9/2026, 8:00:33 AM  
 **Categories:** -  
 
-Article URL: https://karlbode.com/the-ai-hype-reckoning-is-upon-us/ Comments URL: https://news.ycombinator.com/item?id=48840092 Points: 3 # Comments: 1
+Francisco Javier Roldán Velásquez is the Founder and CEO of Ethos Engine, a deterministic AI safety infrastructure solving the "circular supervision" problem. It acts as an external governance module, using proprietary mathematical indices and a multi-civilizational knowledge graph to ensure complia...
 
-📖 [Read original article](https://karlbode.com/the-ai-hype-reckoning-is-upon-us/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48842416)
 
 ---
 
-## 9. Nobel-winning chemist leaves US to direct AI materials lab in China
+## 9. Timeline Studio – browser AI voiceover editor running ONNX locally
 
-**Author:** sbulaev  
-**Published:** 7/9/2026, 2:02:53 AM  
+**Author:** martindelophy  
+**Published:** 7/9/2026, 7:59:01 AM  
 **Categories:** -  
 
-Article URL: https://www.nature.com/articles/d41586-026-02143-x Comments URL: https://news.ycombinator.com/item?id=48840035 Points: 3 # Comments: 2
+Article URL: https://video-editor.ai-creator.top/ Comments URL: https://news.ycombinator.com/item?id=48842401 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.nature.com/articles/d41586-026-02143-x)
+📖 [Read original article](https://video-editor.ai-creator.top/)
 
 ---
 
-## 10. StoryScope: Investigating Idiosyncrasies in AI Fiction
+## 10. Before AI Ships Code, Show Me the Receipts
 
-**Author:** cratermoon  
-**Published:** 7/9/2026, 1:10:08 AM  
+**Author:** mlashcorp  
+**Published:** 7/9/2026, 7:56:21 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2604.03136 Comments URL: https://news.ycombinator.com/item?id=48839656 Points: 2 # Comments: 0
+Article URL: https://www.pagerduty.com/eng/before-ai-ships-code-show-me-the-receipts/ Comments URL: https://news.ycombinator.com/item?id=48842378 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2604.03136)
+📖 [Read original article](https://www.pagerduty.com/eng/before-ai-ships-code-show-me-the-receipts/)
 
 ---
 
-## 11. The AI factory: the rewiring of India's tech industry [video]
+## 11. The AI didn't get smarter about my project. My notes did
 
-**Author:** petethomas  
-**Published:** 7/9/2026, 1:10:08 AM  
+**Author:** airbuzz  
+**Published:** 7/9/2026, 7:54:36 AM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/video/5a5733ea-f8fa-488f-906d-418584b8bc36 Comments URL: https://news.ycombinator.com/item?id=48839655 Points: 1 # Comments: 0
+Article URL: https://www.syncpen.io/blog/your-ai-doesn-t-get-better-your-workspace-does Comments URL: https://news.ycombinator.com/item?id=48842370 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/video/5a5733ea-f8fa-488f-906d-418584b8bc36)
+📖 [Read original article](https://www.syncpen.io/blog/your-ai-doesn-t-get-better-your-workspace-does)
 
 ---
 
-## 12. Show HN:Ghost – real-time AI that tells you what to say during job interviews
+## 12. World Tour Finals 2026 Algorithm: Human vs. AI Exhibition Match
 
-**Author:** ABO_Studios  
-**Published:** 7/9/2026, 12:51:57 AM  
+**Author:** limoce  
+**Published:** 7/9/2026, 7:46:00 AM  
 **Categories:** -  
 
-Article URL: https://ghostinterview.dev Comments URL: https://news.ycombinator.com/item?id=48839534 Points: 1 # Comments: 0
+Article URL: https://atcoder.jp/login?continue=https%3A%2F%2Fatcoder.jp%2Fcontests%2Fawtf2026algo%2Fstandings%2Fexhibition Comments URL: https://news.ycombinator.com/item?id=48842296 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ghostinterview.dev)
+📖 [Read original article](https://atcoder.jp/login?continue=https%3A%2F%2Fatcoder.jp%2Fcontests%2Fawtf2026algo%2Fstandings%2Fexhibition)
 
 ---
 
-## 13. AI bills are baffling the C-suite after shift to usage-based pricing
+## 13. I built a $10M run rate AI Startup in 150 days [video]
 
-**Author:** appreciatorBus  
-**Published:** 7/9/2026, 12:19:18 AM  
+**Author:** zetamax  
+**Published:** 7/9/2026, 7:31:59 AM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383 Comments URL: https://news.ycombinator.com/item?id=48839285 Points: 8 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=VMyHC7qUrhI Comments URL: https://news.ycombinator.com/item?id=48842190 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383)
+📖 [Read original article](https://www.youtube.com/watch?v=VMyHC7qUrhI)
+
+---
+
+## 14. Greppy – A drop-in grep with code-nav subcommands for AI agents
+
+**Author:** metricspaceai  
+**Published:** 7/9/2026, 6:52:17 AM  
+**Categories:** -  
+
+Article URL: https://github.com/metric-space-ai/greppy Comments URL: https://news.ycombinator.com/item?id=48841902 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/metric-space-ai/greppy)
+
+---
+
+## 15. Facebook takes no action on AI far-right influence campaign flagged a month ago
+
+**Author:** vrganj  
+**Published:** 7/9/2026, 6:46:49 AM  
+**Categories:** -  
+
+Article URL: https://www.independent.co.uk/news/uk/home-news/facebook-far-right-ai-video-life-in-britain-b3004975.html Comments URL: https://news.ycombinator.com/item?id=48841855 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.independent.co.uk/news/uk/home-news/facebook-far-right-ai-video-life-in-britain-b3004975.html)
+
+---
+
+## 16. Cybersecurity AI (CAI) Dataset
+
+**Author:** vinothkumarnaga  
+**Published:** 7/9/2026, 6:20:23 AM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2605.28146 Comments URL: https://news.ycombinator.com/item?id=48841688 Points: 1 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2605.28146)
+
+---
+
+## 17. What founders should evaluate before launching an AI-built app
+
+**Author:** Krishnaswaroop  
+**Published:** 7/9/2026, 6:15:26 AM  
+**Categories:** -  
+
+Article URL: https://geekyants.com/blog/what-founders-must-evaluate-before-launching-an-ai-built-app Comments URL: https://news.ycombinator.com/item?id=48841653 Points: 4 # Comments: 1
+
+📖 [Read original article](https://geekyants.com/blog/what-founders-must-evaluate-before-launching-an-ai-built-app)
+
+---
+
+## 18. AI changes the economics of software rewrites
+
+**Author:** cinooo  
+**Published:** 7/9/2026, 5:46:50 AM  
+**Categories:** -  
+
+Article URL: https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/ Comments URL: https://news.ycombinator.com/item?id=48841446 Points: 38 # Comments: 57
+
+📖 [Read original article](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
+
+---
+
+## 19. AI is creating economic winners, says IMF
+
+**Author:** TMWNN  
+**Published:** 7/9/2026, 5:37:17 AM  
+**Categories:** -  
+
+Article URL: https://www.axios.com/2026/07/08/imf-ai-energy-iran Comments URL: https://news.ycombinator.com/item?id=48841396 Points: 6 # Comments: 1
+
+📖 [Read original article](https://www.axios.com/2026/07/08/imf-ai-energy-iran)
+
+---
+
+## 20. An off switch for dual use knowledge in AI models
+
+**Author:** DeveloperErrata  
+**Published:** 7/9/2026, 5:22:52 AM  
+**Categories:** -  
+
+Article URL: https://www.anthropic.com/research/off-switch-dual-use Comments URL: https://news.ycombinator.com/item?id=48841308 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.anthropic.com/research/off-switch-dual-use)
 
 ---
