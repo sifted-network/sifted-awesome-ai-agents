@@ -1037,7 +1037,7 @@ arXiv:2607.05805v1 Announce Type: cross Abstract: Dilution refrigerators are the
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.GT, cs.LG  
 
-arXiv:2607.05813v1 Announce Type: cross Abstract: We study repeated contextual procurement auctions in which the platform must learn context-dependent product values from bandit feedback. We give an exactly truthful explore-then-commit mechanism with $\widetilde O((ng)^{1/3}T^{2/3})$ regret. We also...
+arXiv:2607.05813v2 Announce Type: cross Abstract: We study repeated contextual procurement auctions in which producers have private costs and the platform must learn context-dependent product values from bandit feedback. The objective is welfare rather than revenue or a virtual-cost surrogate: regre...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05813)
 
@@ -1049,7 +1049,7 @@ arXiv:2607.05813v1 Announce Type: cross Abstract: We study repeated contextual p
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** quant-ph, cs.ET, cs.LG  
 
-arXiv:2607.05814v1 Announce Type: cross Abstract: Real-time decoding is a major bottleneck in scaling quantum error correction (QEC) from noisy intermediate-scale quantum (NISQ) devices to fault-tolerant quantum computing. We present an adaptive confidence-gated decoding framework for the rotated su...
+arXiv:2607.05814v2 Announce Type: cross Abstract: Real-time decoding is a major bottleneck in scaling quantum error correction (QEC) from noisy intermediate-scale quantum (NISQ) devices to fault-tolerant quantum computing. We present an adaptive confidence-gated decoding framework for the rotated su...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05814)
 
@@ -2669,7 +2669,7 @@ arXiv:2607.04236v2 Announce Type: replace-cross Abstract: Bayes-assisted conform
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.GR, cs.LG  
 
-arXiv:2607.04443v2 Announce Type: replace-cross Abstract: We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive output stream from 192x336 to 640x368 while pr...
+arXiv:2607.04443v3 Announce Type: replace-cross Abstract: We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive output stream from 192x336 to 640x368 while pr...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04443)
 
@@ -2693,7 +2693,7 @@ arXiv:2607.05001v2 Announce Type: replace-cross Abstract: Cyber Threat Intellige
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** physics.chem-ph, cs.LG  
 
-arXiv:2607.05127v2 Announce Type: replace-cross Abstract: Understanding the physics of many-body complex dynamical systems may be a non-trivial task. High-dimensional analysis approaches are often deemed necessary to prevent losing important information. Typically, these use order parameters or desc...
+arXiv:2607.05127v3 Announce Type: replace-cross Abstract: Understanding the physics of many-body complex dynamical systems may be a non-trivial task. High-dimensional analysis approaches are often deemed necessary to prevent losing important information. Typically, these use order parameters or desc...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05127)
 
