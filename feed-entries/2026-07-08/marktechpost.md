@@ -2,16 +2,40 @@
 title: "MarkTechPost - 2026-07-08"
 date: "2026-07-08"
 source: "MarkTechPost"
-count: 5
+count: 7
 ---
 
 # MarkTechPost - 2026-07-08
 
-5 items collected.
+7 items collected.
 
 ---
 
-## 1. Google AI Studio Adds ‘Import from GitHub’ to Build Mode, Turning an Existing Repo Into an Editable, Deployable App
+## 1. SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work at $2/M Input
+
+**Author:** Michal Sutter  
+**Published:** 7/8/2026, 11:54:28 PM  
+**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Software Engineering, Staff, Tech News, Technology, Uncategorized  
+
+SpaceXAI released Grok 4.5, a Cursor-trained model for coding, agentic tasks, and knowledge work. It serves at 80 TPS, costs $2/$6 per million tokens, and ranks #1 on Harvey's Legal Agent Benchmark. The post SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/)
+
+---
+
+## 2. Netflix AI Team Cuts Wide-Partition Read Latency from Seconds to Milliseconds by Splitting Cassandra Partitions Per ID
+
+**Author:** Asif Razzaq  
+**Published:** 7/8/2026, 9:00:58 PM  
+**Categories:** AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Hardware, Language Model, Large Language Model, Machine Learning, Software Engineering, Staff, Tech News, Technology  
+
+Netflix engineers detailed how they handle wide partitions in Apache Cassandra for the TimeSeries Abstraction. Two approaches work together: Time Slice re-partitioning tunes future partitions at the table level, while dynamic partitioning detects and splits oversized partitions per TimeSeries ID on ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/)
+
+---
+
+## 3. Google AI Studio Adds ‘Import from GitHub’ to Build Mode, Turning an Existing Repo Into an Editable, Deployable App
 
 **Author:** Michal Sutter  
 **Published:** 7/8/2026, 6:41:57 PM  
@@ -23,7 +47,7 @@ Google AI Studio is rolling out Import from GitHub in Build mode. It transforms 
 
 ---
 
-## 2. OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5
+## 4. OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5
 
 **Author:** Michal Sutter  
 **Published:** 7/8/2026, 6:08:21 PM  
@@ -35,7 +59,7 @@ OpenAI released GPT-Live, a new generation of voice models now powering ChatGPT 
 
 ---
 
-## 3. NVIDIA’s Cosmos-Framework Tutorial: Designing a Colab-Friendly Miniature of Cosmos 3 World Models with Omnimodal Mixture-of-Transformers
+## 5. NVIDIA’s Cosmos-Framework Tutorial: Designing a Colab-Friendly Miniature of Cosmos 3 World Models with Omnimodal Mixture-of-Transformers
 
 **Author:** Sana Hassan  
 **Published:** 7/8/2026, 7:15:35 AM  
@@ -47,11 +71,11 @@ In this tutorial, we explore NVIDIA's cosmos-framework from a practical Colab an
 
 ---
 
-## 4. Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception
+## 6. Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception
 
 **Author:** Asif Razzaq  
 **Published:** 7/8/2026, 3:03:22 AM  
-**Categories:** AI Infrastructure, AI Paper Summary, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology, Vision Language Model  
+**Categories:** AI Infrastructure, AI Paper Summary, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, New Releases, Open Source, Promote, Software Engineering, Sponsored, Staff, Tech News, Technology, Vision Language Model  
 
 Ant Group's Robbyant open-sourced LingBot-Vision, a self-supervised ViT family for dense spatial perception. Masked boundary modeling makes image boundaries a native training signal. The 1B backbone matches or surpasses larger models, and initializes LingBot-Depth 2.0. The post Ant Group’s Robbyant ...
 
@@ -59,7 +83,7 @@ Ant Group's Robbyant open-sourced LingBot-Vision, a self-supervised ViT family f
 
 ---
 
-## 5. NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone
+## 7. NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone
 
 **Author:** Asif Razzaq  
 **Published:** 7/8/2026, 12:50:26 AM  
