@@ -2,16 +2,40 @@
 title: "qbitai - 2026-07-09"
 date: "2026-07-09"
 source: "qbitai"
-count: 9
+count: 10
 ---
 
 # qbitai - 2026-07-09
 
-9 items collected.
+10 items collected.
 
 ---
 
-## 1. 「没了李开复，零一万物还有什么？」一个敢问一个敢答
+## 1. Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出
+
+**Author:** 衡宇  
+**Published:** 7/9/2026, 12:18:17 PM  
+**Categories:** 资讯, 首页轮播, DM0.5, 具身智能, 原力灵机  
+
+“已经出现泛化涌现”
+
+📖 [Read original article](https://www.qbitai.com/2026/07/447508.html)
+
+---
+
+## 2. 第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元
+
+**Author:** 量子位的朋友们  
+**Published:** 7/9/2026, 9:48:29 AM  
+**Categories:** 资讯, 空天界  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/07/446843.html)
+
+---
+
+## 3. 「没了李开复，零一万物还有什么？」一个敢问一个敢答
 
 **Author:** Jay  
 **Published:** 7/9/2026, 7:34:25 AM  
@@ -23,7 +47,7 @@ count: 9
 
 ---
 
-## 2. 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴
+## 4. 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴
 
 **Author:** henry  
 **Published:** 7/9/2026, 6:29:30 AM  
@@ -35,7 +59,7 @@ To safe AGI.
 
 ---
 
-## 3. 刚刚，全球首个具身专属的MoE视频模型，开源了！
+## 5. 刚刚，全球首个具身专属的MoE视频模型，开源了！
 
 **Author:** 十三  
 **Published:** 7/9/2026, 5:47:05 AM  
@@ -47,7 +71,7 @@ To safe AGI.
 
 ---
 
-## 4. 2026年世界人工智能大会，7月17-7月20上海举办
+## 6. 2026年世界人工智能大会，7月17-7月20上海举办
 
 **Author:** 量子位的朋友们  
 **Published:** 7/9/2026, 5:33:28 AM  
@@ -59,7 +83,7 @@ To safe AGI.
 
 ---
 
-## 5. 获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good
+## 7. 获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good
 
 **Author:** 量子位的朋友们  
 **Published:** 7/9/2026, 3:56:06 AM  
@@ -71,7 +95,7 @@ To safe AGI.
 
 ---
 
-## 6. 世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互
+## 8. 世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互
 
 **Author:** 量子位的朋友们  
 **Published:** 7/9/2026, 3:39:41 AM  
@@ -83,7 +107,7 @@ To safe AGI.
 
 ---
 
-## 7. 蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！
+## 9. 蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！
 
 **Author:** 量子位的朋友们  
 **Published:** 7/9/2026, 3:19:15 AM  
@@ -95,7 +119,7 @@ To safe AGI.
 
 ---
 
-## 8. 从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路
+## 10. 从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路
 
 **Author:** 量子位的朋友们  
 **Published:** 7/9/2026, 2:32:01 AM  
@@ -104,17 +128,5 @@ To safe AGI.
 
 
 📖 [Read original article](https://www.qbitai.com/2026/07/446435.html)
-
----
-
-## 9. 同声传译一夜失业！GPT-Live瞬间翻译，老太太现场抬杠AI看傻全网
-
-**Author:** Jay  
-**Published:** 7/9/2026, 1:54:44 AM  
-**Categories:** 资讯  
-
-变成你最常用的入口
-
-📖 [Read original article](https://www.qbitai.com/2026/07/446425.html)
 
 ---
