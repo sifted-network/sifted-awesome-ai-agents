@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-07-08"
 date: "2026-07-08"
 source: "MarkTechPost"
-count: 7
+count: 6
 ---
 
 # MarkTechPost - 2026-07-08
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ Netflix engineers detailed how they handle wide partitions in Apache Cassandra f
 
 ---
 
-## 3. Google AI Studio Adds ‘Import from GitHub’ to Build Mode, Turning an Existing Repo Into an Editable, Deployable App
-
-**Author:** Michal Sutter  
-**Published:** 7/8/2026, 6:41:57 PM  
-**Categories:** Agentic AI, Editors Pick, New Releases, Software Engineering, Vibe Coding  
-
-Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatible format. You can then iterate on it, deploy it, and more. Here is what changes for developers. The post Google AI Studio Adds &#8216;Import from GitHub&#8217; to Build Mode, Turn...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/08/google-ai-studio-adds-import-from-github-to-build-mode/)
-
----
-
-## 4. OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5
+## 3. OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5
 
 **Author:** Michal Sutter  
 **Published:** 7/8/2026, 6:08:21 PM  
@@ -59,7 +47,7 @@ OpenAI released GPT-Live, a new generation of voice models now powering ChatGPT 
 
 ---
 
-## 5. NVIDIA’s Cosmos-Framework Tutorial: Designing a Colab-Friendly Miniature of Cosmos 3 World Models with Omnimodal Mixture-of-Transformers
+## 4. NVIDIA’s Cosmos-Framework Tutorial: Designing a Colab-Friendly Miniature of Cosmos 3 World Models with Omnimodal Mixture-of-Transformers
 
 **Author:** Sana Hassan  
 **Published:** 7/8/2026, 7:15:35 AM  
@@ -71,7 +59,7 @@ In this tutorial, we explore NVIDIA's cosmos-framework from a practical Colab an
 
 ---
 
-## 6. Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception
+## 5. Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception
 
 **Author:** Asif Razzaq  
 **Published:** 7/8/2026, 3:03:22 AM  
@@ -83,7 +71,7 @@ Ant Group's Robbyant open-sourced LingBot-Vision, a self-supervised ViT family f
 
 ---
 
-## 7. NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone
+## 6. NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone
 
 **Author:** Asif Razzaq  
 **Published:** 7/8/2026, 12:50:26 AM  
