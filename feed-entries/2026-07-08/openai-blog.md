@@ -2,16 +2,40 @@
 title: "OpenAI Blog - 2026-07-08"
 date: "2026-07-08"
 source: "OpenAI Blog"
-count: 2
+count: 4
 ---
 
 # OpenAI Blog - 2026-07-08
 
-2 items collected.
+4 items collected.
 
 ---
 
-## 1. Helping K–12 educators build practical AI skills
+## 1. Our approach to government and national security partnerships
+
+**Author:** -  
+**Published:** 7/8/2026, 1:30:00 PM  
+**Categories:** Global Affairs  
+
+Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.
+
+📖 [Read original article](https://openai.com/index/government-national-security-partnerships)
+
+---
+
+## 2. Separating signal from noise in coding evaluations
+
+**Author:** -  
+**Published:** 7/8/2026, 1:00:00 PM  
+**Categories:** Research  
+
+A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.
+
+📖 [Read original article](https://openai.com/index/separating-signal-from-noise-coding-evaluations)
+
+---
+
+## 3. Helping K–12 educators build practical AI skills
 
 **Author:** -  
 **Published:** 7/8/2026, 10:00:00 AM  
@@ -23,7 +47,7 @@ OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills 
 
 ---
 
-## 2. Introducing GPT-Live
+## 4. Introducing GPT-Live
 
 **Author:** -  
 **Published:** 7/8/2026, 12:00:00 AM  
