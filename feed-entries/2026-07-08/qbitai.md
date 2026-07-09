@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-08"
 date: "2026-07-08"
 source: "qbitai"
-count: 10
+count: 8
 ---
 
 # qbitai - 2026-07-08
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ Hugging Face论文月榜第一
 
 
 📖 [Read original article](https://www.qbitai.com/2026/07/445946.html)
-
----
-
-## 9. 智能伙伴 共创未来！WAIC 2026即将举行并首发主题片
-
-**Author:** 量子位的朋友们  
-**Published:** 7/8/2026, 7:33:50 AM  
-**Categories:** 资讯, WAIC 2026  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/445904.html)
-
----
-
-## 10. DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开
-
-**Author:** 梦晨  
-**Published:** 7/8/2026, 4:47:04 AM  
-**Categories:** 资讯, Deepseek  
-
-已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽
-
-📖 [Read original article](https://www.qbitai.com/2026/07/445883.html)
 
 ---
