@@ -113,7 +113,7 @@ arXiv:2607.05708v1 Announce Type: new Abstract: Recent LLM-based agent systems c
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.GR  
 
-arXiv:2607.05750v1 Announce Type: new Abstract: Computer-aided design (CAD) for industrial components requires long-horizon procedural modeling, robust feature dependencies, editable parametric geometry, and production-grade B-Rep execution. Existing text-to-CAD methods have made promising progress ...
+arXiv:2607.05750v2 Announce Type: new Abstract: Computer-aided design (CAD) for industrial components requires long-horizon procedural modeling, robust feature dependencies, editable parametric geometry, and production-grade B-Rep execution. Existing text-to-CAD methods have made promising progress ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05750)
 
@@ -473,7 +473,7 @@ arXiv:2607.06435v1 Announce Type: new Abstract: Data from Singapore indicated th
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.MA  
 
-arXiv:2607.06447v1 Announce Type: new Abstract: Recent LLM-based mathematical reasoning agents have begun to tackle research-level problems and, in several cases, have contributed to the resolution of open problems. However, scaling and orchestrating such agents effectively remains challenging, due ...
+arXiv:2607.06447v2 Announce Type: new Abstract: Recent LLM-based mathematical reasoning agents have begun to tackle research-level problems and, in several cases, have contributed to the resolution of open problems. However, scaling and orchestrating such agents effectively remains challenging, due ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.06447)
 
@@ -769,11 +769,11 @@ arXiv:2607.05412v1 Announce Type: cross Abstract: STEM education faces challenge
 
 ## 64. Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks
 
-**Author:** Ahmed Y. Radwan, Hina Tabassum, Fahad Syed Muhammad, Matthew Baker  
+**Author:** Ahmed Y. Radwan, Fahad Syed Muhammad, Matthew Baker, Hina Tabassum  
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.IT, cs.AI, eess.SP, math.IT  
 
-arXiv:2607.05419v1 Announce Type: cross Abstract: Accurate and timely channel state information (CSI) is essential for next-generation wireless systems, yet existing works treat CSI compression and CSI prediction as separate problems, both in academia and in current 3GPP studies. Consequently, chann...
+arXiv:2607.05419v2 Announce Type: cross Abstract: Accurate and timely channel state information (CSI) is essential for next-generation wireless systems, yet existing works treat CSI compression and CSI prediction as separate problems, both in academia and in current 3GPP studies. Consequently, chann...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05419)
 
@@ -1457,7 +1457,7 @@ arXiv:2607.05830v1 Announce Type: cross Abstract: The increasing uncertainty fro
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** math.AG, cs.AI, math.CO  
 
-arXiv:2607.05835v1 Announce Type: cross Abstract: For every loopless matroid $M$ and every Feichtner--Yuzvinsky building set $\mathcal{G}$ containing the top flat, we construct an integral tangent class $T_{M,\mathcal{G}}^{\mathbb{Z}}\in K_{\mathbb{Z}}(M,\mathcal{G})$; in the realizable case it spec...
+arXiv:2607.05835v2 Announce Type: cross Abstract: For every loopless matroid $M$ and every Feichtner--Yuzvinsky building set $\mathcal{G}$ containing the top flat, we construct an integral tangent class $T_{M,\mathcal{G}}^{\mathbb{Z}}\in K_{\mathbb{Z}}(M,\mathcal{G})$; in the realizable case it spec...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05835)
 
@@ -1529,7 +1529,7 @@ arXiv:2607.05866v1 Announce Type: cross Abstract: Under a fixed privacy budget, 
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.PF, cs.AI, cs.DC  
 
-arXiv:2607.05876v1 Announce Type: cross Abstract: LLM serving optimization typically benchmarks many configurations and reaches for heavy profilers when latency targets are missed. We argue for the reverse discipline: estimation is the analytical layer of profiling -- without it, optimization degene...
+arXiv:2607.05876v2 Announce Type: cross Abstract: LLM serving optimization typically benchmarks many configurations and reaches for heavy profilers when latency targets are missed. We argue for the reverse discipline: estimation is the analytical layer of profiling -- without it, optimization degene...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05876)
 
@@ -1937,7 +1937,7 @@ arXiv:2607.06179v1 Announce Type: cross Abstract: There are some datasets of var
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.DC, cs.AI, cs.NI  
 
-arXiv:2607.06202v1 Announce Type: cross Abstract: The deployment of Mixture-of-Experts (MoE) models on production high-bandwidth superpods, such as NVIDIA's NVL72/576 and Huawei's CloudMatrix384, introduces critical challenges beyond raw interconnect bandwidth. While these systems provide unified gl...
+arXiv:2607.06202v2 Announce Type: cross Abstract: The deployment of Mixture-of-Experts (MoE) models on production high-bandwidth superpods, such as NVIDIA's NVL72/576 and Huawei's CloudMatrix384, introduces critical challenges beyond raw interconnect bandwidth. While these systems provide unified gl...
 
 📖 [Read original article](https://arxiv.org/abs/2607.06202)
 
@@ -2237,7 +2237,7 @@ arXiv:2409.06067v3 Announce Type: replace Abstract: Previous studies on federate
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2508.01109v3 Announce Type: replace Abstract: We investigate whether socioeconomic indicators, like household wealth, leave recoverable informational imprints in both satellite imagery (capturing features like buildings and roads) and Internet-sourced text (reflecting historical, cultural, and...
+arXiv:2508.01109v4 Announce Type: replace Abstract: We investigate whether socioeconomic indicators, like household wealth, leave recoverable informational imprints in both satellite imagery (capturing features like buildings and roads) and Internet-sourced text (reflecting historical, cultural, and...
 
 📖 [Read original article](https://arxiv.org/abs/2508.01109)
 
@@ -2437,11 +2437,11 @@ arXiv:2606.29431v4 Announce Type: replace Abstract: Despite the impressive capab
 
 ## 203. HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment
 
-**Author:** Shei Pern Chua, Hao Wu, Fangzhao Wu  
+**Author:** Shei Pern Chua, Hao Wu, Qianli Ma, Fangzhao Wu  
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CR  
 
-arXiv:2607.00572v2 Announce Type: replace Abstract: Understanding how aligned LLMs internally represent safety is critical for diagnosing alignment vulnerabilities, as it explains why jailbreaks succeed and informs the design of robust alignment strategies. Prior work shows that aligned LLMs encode ...
+arXiv:2607.00572v3 Announce Type: replace Abstract: Understanding how aligned LLMs internally represent safety is critical for diagnosing alignment vulnerabilities, as it explains why jailbreaks succeed and informs the design of robust alignment strategies. Prior work shows that aligned LLMs encode ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.00572)
 
@@ -2933,7 +2933,7 @@ arXiv:2604.23931v2 Announce Type: replace-cross Abstract: Variational quantum ci
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.CL  
 
-arXiv:2604.24222v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) have achieved strong performance on general code generation, but their effectiveness drops sharply in enterprise settings where software development relies on internal private libraries absent from public pre-trai...
+arXiv:2604.24222v3 Announce Type: replace-cross Abstract: Large Language Models (LLMs) have achieved strong performance on general code generation, but their effectiveness drops sharply in enterprise settings where software development relies on internal private libraries absent from public pre-trai...
 
 📖 [Read original article](https://arxiv.org/abs/2604.24222)
 
@@ -2993,7 +2993,7 @@ arXiv:2605.18419v2 Announce Type: replace-cross Abstract: Vision-language models
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2605.19723v2 Announce Type: replace-cross Abstract: Mathematical reasoning is essential for problem-solving in education, science, and industry, serving as a crucial benchmark for evaluating artificial intelligence systems. As Large Language Models (LLMs) improve their reasoning capabilities, ...
+arXiv:2605.19723v3 Announce Type: replace-cross Abstract: Mathematical reasoning is essential for problem-solving in education, science, and industry, serving as a crucial benchmark for evaluating artificial intelligence systems. As Large Language Models (LLMs) improve their reasoning capabilities, ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.19723)
 
@@ -3197,7 +3197,7 @@ arXiv:2607.02289v2 Announce Type: replace-cross Abstract: Three-dimensional supe
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** eess.SP, cs.AI  
 
-arXiv:2607.02567v2 Announce Type: replace-cross Abstract: Radio frequency fingerprint identification (RFFI) provides a physical-layer credential for Internet of Things devices, but open-set decisions become fragile when a threshold calibrated on a source receiver is applied to a target receiver. Rec...
+arXiv:2607.02567v3 Announce Type: replace-cross Abstract: Radio frequency fingerprint identification (RFFI) provides a physical-layer credential for Internet of Things devices, but open-set decisions become fragile when a threshold calibrated on a source receiver is applied to a target receiver. Rec...
 
 📖 [Read original article](https://arxiv.org/abs/2607.02567)
 
@@ -3293,7 +3293,7 @@ arXiv:2607.04423v2 Announce Type: replace-cross Abstract: Unified Multimodal Mod
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.CV, cs.GR  
 
-arXiv:2607.04434v2 Announce Type: replace-cross Abstract: Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narrow tasks with limited capability coverage, ...
+arXiv:2607.04434v3 Announce Type: replace-cross Abstract: Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narrow tasks with limited capability coverage, ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04434)
 
@@ -3305,7 +3305,7 @@ arXiv:2607.04434v2 Announce Type: replace-cross Abstract: Generalist robot manip
 **Published:** 7/8/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.GR, cs.LG  
 
-arXiv:2607.04443v2 Announce Type: replace-cross Abstract: We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive output stream from 192x336 to 640x368 while pr...
+arXiv:2607.04443v3 Announce Type: replace-cross Abstract: We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive output stream from 192x336 to 640x368 while pr...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04443)
 
