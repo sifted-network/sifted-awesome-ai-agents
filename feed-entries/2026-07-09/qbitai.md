@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-09"
 date: "2026-07-09"
 source: "qbitai"
-count: 7
+count: 3
 ---
 
 # qbitai - 2026-07-09
 
-7 items collected.
+3 items collected.
 
 ---
 
@@ -44,53 +44,5 @@ count: 7
 李开复笑着回应了
 
 📖 [Read original article](https://www.qbitai.com/2026/07/446778.html)
-
----
-
-## 4. 刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴
-
-**Author:** henry  
-**Published:** 7/9/2026, 6:29:30 AM  
-**Categories:** 资讯, OpenAI  
-
-To safe AGI.
-
-📖 [Read original article](https://www.qbitai.com/2026/07/446658.html)
-
----
-
-## 5. 刚刚，全球首个具身专属的MoE视频模型，开源了！
-
-**Author:** 十三  
-**Published:** 7/9/2026, 5:47:05 AM  
-**Categories:** 资讯, 首页轮播, LingBot-Video, 具身智能, 蚂蚁灵波, 视频生成  
-
-视频生成的下一站，或是机器人大脑
-
-📖 [Read original article](https://www.qbitai.com/2026/07/446568.html)
-
----
-
-## 6. 2026年世界人工智能大会，7月17-7月20上海举办
-
-**Author:** 量子位的朋友们  
-**Published:** 7/9/2026, 5:33:28 AM  
-**Categories:** 资讯, 首页轮播, waic2026  
-
-180家企业携成果入驻
-
-📖 [Read original article](https://www.qbitai.com/2026/07/436498.html)
-
----
-
-## 7. 获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good
-
-**Author:** 量子位的朋友们  
-**Published:** 7/9/2026, 3:56:06 AM  
-**Categories:** 资讯, AI教育, 天立启鸣  
-
-“一生一案”书写优质教育
-
-📖 [Read original article](https://www.qbitai.com/2026/07/446562.html)
 
 ---
