@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-07-08"
 date: "2026-07-08"
 source: "MarkTechPost"
-count: 4
+count: 2
 ---
 
 # MarkTechPost - 2026-07-08
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ SpaceXAI released Grok 4.5, a Cursor-trained model for coding, agentic tasks, an
 Netflix engineers detailed how they handle wide partitions in Apache Cassandra for the TimeSeries Abstraction. Two approaches work together: Time Slice re-partitioning tunes future partitions at the table level, while dynamic partitioning detects and splits oversized partitions per TimeSeries ID on ...
 
 📖 [Read original article](https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/)
-
----
-
-## 3. OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5
-
-**Author:** Michal Sutter  
-**Published:** 7/8/2026, 6:08:21 PM  
-**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, Large Language Model, Staff, Tech News, Technology, Voice AI  
-
-OpenAI released GPT-Live, a new generation of voice models now powering ChatGPT Voice. It uses a full-duplex architecture to listen and speak at once, and delegates search and reasoning to GPT-5.5. The post OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper R...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/)
-
----
-
-## 4. NVIDIA’s Cosmos-Framework Tutorial: Designing a Colab-Friendly Miniature of Cosmos 3 World Models with Omnimodal Mixture-of-Transformers
-
-**Author:** Sana Hassan  
-**Published:** 7/8/2026, 7:15:35 AM  
-**Categories:** Artificial Intelligence, Computer Vision, Editors Pick, Staff, Technology, Tutorials  
-
-In this tutorial, we explore NVIDIA's cosmos-framework from a practical Colab angle while staying honest about the hardware needed for real Cosmos 3 checkpoints. We probe the runtime, then use the framework's real structure, CLI surface, and input schema as a foundation. We build and train a compact...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/08/nvidias-cosmos-framework-tutorial-designing-a-colab-friendly-miniature-of-cosmos-3-world-models-with-omnimodal-mixture-of-transformers/)
 
 ---
