@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Drag boxes around and watch a layout engine infer the Flexbox (no AI)
+## 1. AI progress should upgrade our view of the human brain – not devalue it
 
-**Author:** drzivil  
-**Published:** 7/10/2026, 9:17:34 AM  
+**Author:** samuell  
+**Published:** 7/10/2026, 2:26:38 PM  
 **Categories:** -  
 
-Article URL: https://wpconverters.com/playground/ Comments URL: https://news.ycombinator.com/item?id=48857637 Points: 1 # Comments: 0
+Article URL: https://livingsystems.substack.com/p/ai-progress-should-upgrade-our-view Comments URL: https://news.ycombinator.com/item?id=48860443 Points: 1 # Comments: 0
 
-📖 [Read original article](https://wpconverters.com/playground/)
+📖 [Read original article](https://livingsystems.substack.com/p/ai-progress-should-upgrade-our-view)
 
 ---
 
-## 2. Ramblings on technological pursuits of AI systems
+## 2. Patreon Blocks Crawlers from Stealing Creators' Work for AI Training
 
-**Author:** KaushikR2  
-**Published:** 7/10/2026, 8:33:26 AM  
+**Author:** Brajeshwar  
+**Published:** 7/10/2026, 2:21:17 PM  
 **Categories:** -  
 
-Article URL: https://blog.knravish.me/thoughts-ai-reality-brain/ Comments URL: https://news.ycombinator.com/item?id=48857325 Points: 1 # Comments: 0
+Article URL: https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=48860346 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.knravish.me/thoughts-ai-reality-brain/)
+📖 [Read original article](https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/)
 
 ---
 
-## 3. Open AI No. 2 Exec at OpenAI Fidji Simo is leaving the company
+## 3. OpenAI and Google sell AI models to blacklisted China groups
 
-**Author:** jeffhwang  
-**Published:** 7/10/2026, 8:05:43 AM  
+**Author:** speckx  
+**Published:** 7/10/2026, 2:20:39 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/ Comments URL: https://news.ycombinator.com/item?id=48857121 Points: 3 # Comments: 1
+Article URL: https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f Comments URL: https://news.ycombinator.com/item?id=48860335 Points: 2 # Comments: 1
 
-📖 [Read original article](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/)
+📖 [Read original article](https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f)
 
 ---
 
-## 4. Record and Replay, teach AI agents desktop workflows by showing them once
+## 4. Ask HN: Illustration Themes in AI Apps?
 
-**Author:** ashu_trv  
-**Published:** 7/10/2026, 8:04:05 AM  
+**Author:** davidajackson  
+**Published:** 7/10/2026, 2:19:50 PM  
 **Categories:** -  
 
-Article URL: https://github.com/video-db/open-record-replay Comments URL: https://news.ycombinator.com/item?id=48857109 Points: 1 # Comments: 0
+Have any of you been successful in generating authentic drawing styles via AI apps? Drawing design/scribble/actual good looking hand drawings. Comments URL: https://news.ycombinator.com/item?id=48860327 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/video-db/open-record-replay)
+📖 [Read original article](https://news.ycombinator.com/item?id=48860327)
 
 ---
 
-## 5. The triage is the product: running AI agents against Ethereum's protocol code
+## 5. Ask HN: Thoughts on a MCP to manage cloud and AI spend?
 
-**Author:** quantumgarbage  
-**Published:** 7/10/2026, 7:52:35 AM  
+**Author:** edifil  
+**Published:** 7/10/2026, 2:08:35 PM  
 **Categories:** -  
 
-Article URL: https://blog.ethereum.org/2026/07/09/triage-is-the-product Comments URL: https://news.ycombinator.com/item?id=48857022 Points: 2 # Comments: 0
+Been thinking about how crazy cost to deliver and cost of tokens is going to get, especially after seeing open ai financials. Would anyone be interested in an mcp that manages/fixes, and controls your agents from spending too much? or is that overzealous Comments URL: https://news.ycombinator.com/it...
 
-📖 [Read original article](https://blog.ethereum.org/2026/07/09/triage-is-the-product)
+📖 [Read original article](https://news.ycombinator.com/item?id=48860172)
 
 ---
 
-## 6. AI-generated videos to maximally drive a target brain region
+## 6. Show HN: CiteReady – Can AI search (ChatGPT, Perplexity) cite your site?
 
-**Author:** smusamashah  
-**Published:** 7/10/2026, 7:39:11 AM  
+**Author:** grenzfrei  
+**Published:** 7/10/2026, 2:07:24 PM  
 **Categories:** -  
 
-Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 48 # Comments: 46
+Article URL: https://citeready.sprytools.com/ Comments URL: https://news.ycombinator.com/item?id=48860155 Points: 1 # Comments: 0
 
-📖 [Read original article](https://nevo-project.epfl.ch/)
+📖 [Read original article](https://citeready.sprytools.com/)
 
 ---
 
-## 7. Verity – Chrome extension that auto fact-checks AI responses with cited sources
+## 7. The AI Picbreeder Experiment
 
-**Author:** HalaDefense  
-**Published:** 7/10/2026, 7:32:18 AM  
+**Author:** hardmaru  
+**Published:** 7/10/2026, 2:02:29 PM  
 **Categories:** -  
 
-Article URL: https://chromewebstore.google.com/detail/verity-â-ai-truth-reveale/pdobceidjkciljhdglpmkkjdbjnaljoo Comments URL: https://news.ycombinator.com/item?id=48856846 Points: 1 # Comments: 1
+Article URL: https://pub.sakana.ai/picbreeder-vlm/ Comments URL: https://news.ycombinator.com/item?id=48860083 Points: 1 # Comments: 0
 
-📖 [Read original article](https://chromewebstore.google.com/detail/verity-â-ai-truth-reveale/pdobceidjkciljhdglpmkkjdbjnaljoo)
+📖 [Read original article](https://pub.sakana.ai/picbreeder-vlm/)
 
 ---
 
-## 8. Show HN: AI Humanizer – Rewrite AI text into natural copy
+## 8. Why Human+AI collaboration beats AI-only automation
 
-**Author:** oliviamy  
-**Published:** 7/10/2026, 6:40:24 AM  
+**Author:** ilreb  
+**Published:** 7/10/2026, 2:00:54 PM  
 **Categories:** -  
 
-Article URL: https://ai-humanizer.space/ Comments URL: https://news.ycombinator.com/item?id=48856516 Points: 1 # Comments: 2
+Article URL: https://www.techradar.com/pro/why-human-ai-collaboration-beats-ai-only-automation Comments URL: https://news.ycombinator.com/item?id=48860063 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ai-humanizer.space/)
+📖 [Read original article](https://www.techradar.com/pro/why-human-ai-collaboration-beats-ai-only-automation)
 
 ---
 
-## 9. Show HN: Makoto the Claude Code plugin that keeps the AI honest
+## 9. The Spec Ceiling: Why AI Coding Speed Moves the Bottleneck to Product Discovery
 
-**Author:** Present_Flow  
-**Published:** 7/10/2026, 6:31:37 AM  
+**Author:** vinhnx  
+**Published:** 7/10/2026, 1:53:58 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Clear-Sights/Makoto Comments URL: https://news.ycombinator.com/item?id=48856473 Points: 1 # Comments: 0
+Article URL: https://magnus919.com/2026/07/the-spec-ceiling-why-ai-coding-speed-moves-the-bottleneck-to-product-discovery/ Comments URL: https://news.ycombinator.com/item?id=48859961 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Clear-Sights/Makoto)
+📖 [Read original article](https://magnus919.com/2026/07/the-spec-ceiling-why-ai-coding-speed-moves-the-bottleneck-to-product-discovery/)
 
 ---
 
-## 10. China may restrict foreign access to Chinese open-source AI models
+## 10. AI Web Design (Opus vs. Sol)
 
-**Author:** crowd51  
-**Published:** 7/10/2026, 6:22:06 AM  
+**Author:** brryant  
+**Published:** 7/10/2026, 1:49:07 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/ Comments URL: https://news.ycombinator.com/item?id=48856412 Points: 35 # Comments: 0
+Article URL: https://ploy.ai/blog/ai-web-design-with-opus-and-sol Comments URL: https://news.ycombinator.com/item?id=48859893 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/)
+📖 [Read original article](https://ploy.ai/blog/ai-web-design-with-opus-and-sol)
 
 ---
 
-## 11. Can AI Answer the $3T Question?
+## 11. Record Companies Push to Label AI Songs on Streaming Platforms
 
-**Author:** mjs06  
-**Published:** 7/10/2026, 6:22:01 AM  
+**Author:** ilreb  
+**Published:** 7/10/2026, 1:46:34 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/ Comments URL: https://news.ycombinator.com/item?id=48856411 Points: 2 # Comments: 1
+Article URL: https://www.wsj.com/tech/ai/record-companies-push-to-label-ai-songs-on-streaming-platforms-103aa392 Comments URL: https://news.ycombinator.com/item?id=48859860 Points: 2 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/)
+📖 [Read original article](https://www.wsj.com/tech/ai/record-companies-push-to-label-ai-songs-on-streaming-platforms-103aa392)
 
 ---
 
-## 12. Why Industry 5.0 is more than AI-powered analytics
+## 12. The hard part of AI root cause analysis is no longer the model
 
-**Author:** Krishnaswaroop  
-**Published:** 7/10/2026, 6:05:47 AM  
+**Author:** valyala  
+**Published:** 7/10/2026, 1:42:06 PM  
 **Categories:** -  
 
-Article URL: https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026 Comments URL: https://news.ycombinator.com/item?id=48856300 Points: 2 # Comments: 1
+Article URL: https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/ Comments URL: https://news.ycombinator.com/item?id=48859808 Points: 2 # Comments: 0
 
-📖 [Read original article](https://geekyants.com/blog/industry-40-built-visibility-industry-50-must-automate-decisions-says-geekyants-ceo-at-et-now-business-conclave-2026)
+📖 [Read original article](https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/)
 
 ---
 
-## 13. Turn off this Meta setting before someone generates AI images of you
+## 13. Older adults know AI is slop. They just like it
 
-**Author:** taubek  
-**Published:** 7/10/2026, 5:54:13 AM  
+**Author:** cdrnsf  
+**Published:** 7/10/2026, 1:41:20 PM  
 **Categories:** -  
 
-Article URL: https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you Comments URL: https://news.ycombinator.com/item?id=48856237 Points: 5 # Comments: 2
+Article URL: https://restofworld.org/2026/china-seniors-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=48859800 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you)
+📖 [Read original article](https://restofworld.org/2026/china-seniors-ai-slop/)
 
 ---
 
-## 14. AI subscriptions cut quotas and raised prices in early 2026
+## 14. Why Fear Matters in Governing Military AI
 
-**Author:** Tint6666  
-**Published:** 7/10/2026, 5:51:42 AM  
+**Author:** cdrnsf  
+**Published:** 7/10/2026, 1:41:11 PM  
 **Categories:** -  
 
-Article URL: https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/ Comments URL: https://news.ycombinator.com/item?id=48856213 Points: 1 # Comments: 0
+Article URL: https://www.techpolicy.press/why-fear-matters-in-governing-military-ai/ Comments URL: https://news.ycombinator.com/item?id=48859797 Points: 2 # Comments: 0
 
-📖 [Read original article](https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/)
+📖 [Read original article](https://www.techpolicy.press/why-fear-matters-in-governing-military-ai/)
 
 ---
 
-## 15. The great AI data centre cover-up
+## 15. Show HN: Pay-per-call MCP server with 47 AI endpoints, micropayments via x402
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/10/2026, 5:27:03 AM  
+**Author:** 13639366668  
+**Published:** 7/10/2026, 1:35:54 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4 Comments URL: https://news.ycombinator.com/item?id=48856042 Points: 3 # Comments: 1
+Article URL: https://goldbean-api.xyz Comments URL: https://news.ycombinator.com/item?id=48859732 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4)
+📖 [Read original article](https://goldbean-api.xyz)
 
 ---
 
-## 16. AI Investors Buying Accounting Companies and Force Them to Use OpenAI [video]
+## 16. Show HN: My AI agent has 1 hour to earn €10 – it shipped this page itself
 
-**Author:** xbmcuser  
-**Published:** 7/10/2026, 5:23:53 AM  
+**Author:** parweb  
+**Published:** 7/10/2026, 1:27:01 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=2dp98vEGWq0 Comments URL: https://news.ycombinator.com/item?id=48856019 Points: 3 # Comments: 1
+Article URL: https://1h-money.vercel.app Comments URL: https://news.ycombinator.com/item?id=48859632 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.youtube.com/watch?v=2dp98vEGWq0)
+📖 [Read original article](https://1h-money.vercel.app)
 
 ---
 
-## 17. Italy privacy watchdog fines Character.ai owner over age-check failures
+## 17. How do you use Vim in the era of AI?
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/10/2026, 5:21:28 AM  
+**Author:** rstagi  
+**Published:** 7/10/2026, 1:11:30 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/italy-privacy-watchdog-fines-characterai-owner-over-age-check-failures-2026-07-09/ Comments URL: https://news.ycombinator.com/item?id=48856004 Points: 2 # Comments: 0
+I'm a heavy vim user, but now that I look at the code less and less I'm wondering if it still makes sense. Comments URL: https://news.ycombinator.com/item?id=48859439 Points: 23 # Comments: 37
 
-📖 [Read original article](https://www.reuters.com/business/italy-privacy-watchdog-fines-characterai-owner-over-age-check-failures-2026-07-09/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48859439)
 
 ---
 
-## 18. Ask HN: How do I get immoral AI?
+## 18. AI Transport v0.5.0: durable execution with Steps
 
-**Author:** nasaok  
-**Published:** 7/10/2026, 5:09:49 AM  
+**Author:** zknill  
+**Published:** 7/10/2026, 1:08:13 PM  
 **Categories:** -  
 
-I have a project for which I require AI to drop its guidelines and process immoral requests with reasoning turned on without the usual "I can't respond to that request".If you know a consistent way to turn off "moral" in AI let's talk :)DM me nasaoks@gmail.com Comments URL: https://news.ycombinator....
+Article URL: https://ably.com/blog/ai-transport-durable-execution-steps Comments URL: https://news.ycombinator.com/item?id=48859396 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48855952)
+📖 [Read original article](https://ably.com/blog/ai-transport-durable-execution-steps)
 
 ---
 
-## 19. Mercor acquires Deeptune to build AI training environments
+## 19. Give Your AI Assistant a Private Memory
 
-**Author:** doppp  
-**Published:** 7/10/2026, 4:58:03 AM  
+**Author:** mstef  
+**Published:** 7/10/2026, 12:52:28 PM  
 **Categories:** -  
 
-Article URL: https://www.mercor.com/blog/mercor-to-acquire-deeptune/ Comments URL: https://news.ycombinator.com/item?id=48855897 Points: 1 # Comments: 0
+Article URL: https://hister.org/posts/give-your-ai-assistant-a-private-memory Comments URL: https://news.ycombinator.com/item?id=48859214 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.mercor.com/blog/mercor-to-acquire-deeptune/)
+📖 [Read original article](https://hister.org/posts/give-your-ai-assistant-a-private-memory)
 
 ---
 
-## 20. UN digital tech agency launches initiative to improve trust in AI agents
+## 20. \"Rights for robots\" and the AI slavery fantasy
 
-**Author:** giuliomagnifico  
-**Published:** 7/10/2026, 4:57:57 AM  
+**Author:** hn_acker  
+**Published:** 7/10/2026, 12:50:49 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/litigation/un-digital-tech-agency-launches-initiative-improve-trust-ai-agents-2026-07-09/ Comments URL: https://news.ycombinator.com/item?id=48855896 Points: 2 # Comments: 0
+Article URL: https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/ Comments URL: https://news.ycombinator.com/item?id=48859189 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/litigation/un-digital-tech-agency-launches-initiative-improve-trust-ai-agents-2026-07-09/)
+📖 [Read original article](https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/)
 
 ---
