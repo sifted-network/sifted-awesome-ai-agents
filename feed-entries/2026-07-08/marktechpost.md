@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-07-08"
 date: "2026-07-08"
 source: "MarkTechPost"
-count: 6
+count: 4
 ---
 
 # MarkTechPost - 2026-07-08
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ OpenAI released GPT-Live, a new generation of voice models now powering ChatGPT 
 In this tutorial, we explore NVIDIA's cosmos-framework from a practical Colab angle while staying honest about the hardware needed for real Cosmos 3 checkpoints. We probe the runtime, then use the framework's real structure, CLI surface, and input schema as a foundation. We build and train a compact...
 
 📖 [Read original article](https://www.marktechpost.com/2026/07/08/nvidias-cosmos-framework-tutorial-designing-a-colab-friendly-miniature-of-cosmos-3-world-models-with-omnimodal-mixture-of-transformers/)
-
----
-
-## 5. Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception
-
-**Author:** Asif Razzaq  
-**Published:** 7/8/2026, 3:03:22 AM  
-**Categories:** AI Infrastructure, AI Paper Summary, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, New Releases, Open Source, Promote, Software Engineering, Sponsored, Staff, Tech News, Technology, Vision Language Model  
-
-Ant Group's Robbyant open-sourced LingBot-Vision, a self-supervised ViT family for dense spatial perception. Masked boundary modeling makes image boundaries a native training signal. The 1B backbone matches or surpasses larger models, and initializes LingBot-Depth 2.0. The post Ant Group’s Robbyant ...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception/)
-
----
-
-## 6. NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone
-
-**Author:** Asif Razzaq  
-**Published:** 7/8/2026, 12:50:26 AM  
-**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Software Engineering, Staff, Tech News, Technology, Voice AI  
-
-NVIDIA's Nemotron-Labs-Audex-30B-A3B unifies audio understanding, speech recognition, translation, TTS, and audio generation in one MoE model. It keeps the text intelligence of its Nemotron-Cascade-2 backbone with marginal regression. The post NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A U...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/)
 
 ---
