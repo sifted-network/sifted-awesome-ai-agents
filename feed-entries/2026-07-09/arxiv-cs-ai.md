@@ -1441,11 +1441,11 @@ arXiv:2607.07368v1 Announce Type: cross Abstract: AI control is a family of tech
 
 ## 120. Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report
 
-**Author:** Xufeng Zhao, Fuzhi Yang, Jianhui Chen, Li Gao, Zhang Meng, Jie Gao, Yao Zheng, Wenyu Liu, Menglin Yang, Minqi Gu, Yaru Zhao, Honglin Han, Shihui Su, Zixiao Tang, Liu Liu, Mu Xu, Yang Cai, Wenbin Tang  
+**Author:** Xufeng Zhao, Fuzhi Yang, Jianhui Chen, Li Gao, Zhang Meng, Jie Gao, Yao Zheng, Congyang Zhao, Tianxiong Lv, Menglin Yang, Minqi Gu, Yaru Zhao, Wenyu Liu, Honglin Han, Shihui Su, Zixiao Tang, Liu Liu, Mu Xu, Yang Cai, Wenbin Tang  
 **Published:** 7/9/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.HC, cs.LG  
 
-arXiv:2607.07370v1 Announce Type: cross Abstract: In embodied intelligence systems, the motion controller serves as the critical bridge between semantic reasoning and physical execution. Humanoid control has progressed rapidly through large-scale human motion-capture data and motion-tracking paradig...
+arXiv:2607.07370v2 Announce Type: cross Abstract: The motion controller is one of the most fundamental modules in embodied intelligence systems. Driven by large-scale human motion-capture data and the motion-tracking paradigm, humanoid control has achieved remarkable progress in recent years. Howeve...
 
 📖 [Read original article](https://arxiv.org/abs/2607.07370)
 
@@ -2677,11 +2677,11 @@ arXiv:2607.02567v3 Announce Type: replace-cross Abstract: Radio frequency finger
 
 ## 223. Phase-Preserving Trimodal Transformer for Tropical Forest Biomass Estimation Using Optical and PolInSAR Data
 
-**Author:** Luiz Felipe Parente Santiago (Instituto de Computa\c{c}\~ao, Universidade Federal do Amazonas, Instituto de Pesquisas do Ex\'ercito na Amaz\^onia), Felipe Ferrari (Instituto Militar de Engenharia), Daniel Rodrigues dos Santos (Instituto Militar de Engenharia), Rosiane Rodrigues de Freitas (Instituto de Computa\c{c}\~ao, Universidade Federal do Amazonas)  
+**Author:** Luiz Felipe Parente Santiago (Instituto de Computa\c{c}\~ao, Universidade Federal do Amazonas, Instituto de Pesquisas do Ex\'ercito na Amaz\^onia), Felipe Ferrari (Instituto Militar de Engenharia), Daniel Rodrigues dos Santos (Instituto Militar de Engenharia), Rosiane de Freitas (Instituto de Computa\c{c}\~ao, Universidade Federal do Amazonas)  
 **Published:** 7/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CV  
 
-arXiv:2607.03663v2 Announce Type: replace-cross Abstract: The accurate estimation of Above-Ground Biomass (AGB) in mature tropical forests remains a critical challenge in remote sensing, primarily due to the saturation of Synthetic Aperture Radar (SAR) signals in high-density areas and persistent cl...
+arXiv:2607.03663v3 Announce Type: replace-cross Abstract: The accurate estimation of Above-Ground Biomass (AGB) in mature tropical forests remains a critical challenge in remote sensing, primarily due to the saturation of Synthetic Aperture Radar (SAR) signals in high-density areas and persistent cl...
 
 📖 [Read original article](https://arxiv.org/abs/2607.03663)
 
@@ -2717,7 +2717,7 @@ arXiv:2607.04443v3 Announce Type: replace-cross Abstract: We present Wan-Streame
 **Published:** 7/9/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2607.05382v2 Announce Type: replace-cross Abstract: Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutoff events, and more. This world-knowledge b...
+arXiv:2607.05382v3 Announce Type: replace-cross Abstract: Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutoff events, and more. This world-knowledge b...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05382)
 
