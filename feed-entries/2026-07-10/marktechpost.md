@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-10"
 date: "2026-07-10"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-07-10
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data
+## 1. How to Build a T4-Friendly Autonomous Data Science Agent with DeepAnalyze-8B, Sandboxed Code Execution, and Iterative Analysis
+
+**Author:** Sana Hassan  
+**Published:** 7/10/2026, 7:24:00 PM  
+**Categories:** Agentic AI, Applications, Artificial Intelligence, Editors Pick, Staff, Technology, Tutorials  
+
+We build an autonomous data science agent around DeepAnalyze-8B and run it end to end. We prepare a stable Colab runtime, install the machine-learning dependencies, and load the tokenizer and model in 4-bit mode to fit limited GPU memory. We add a sandboxed execution environment that lets the model ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/10/how-to-build-a-t4-friendly-autonomous-data-science-agent-with-deepanalyze-8b-sandboxed-code-execution-and-iterative-analysis/)
+
+---
+
+## 2. Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data
 
 **Author:** Michal Sutter  
 **Published:** 7/10/2026, 8:52:04 AM  
@@ -23,7 +35,7 @@ SensorFM, a wearable health foundation model from Google Research, Google DeepMi
 
 ---
 
-## 2. Meet LingBot-World-Infinity: An Open Causal World Model With An Agentic Harness
+## 3. Meet LingBot-World-Infinity: An Open Causal World Model With An Agentic Harness
 
 **Author:** Asif Razzaq  
 **Published:** 7/10/2026, 4:38:20 AM  
