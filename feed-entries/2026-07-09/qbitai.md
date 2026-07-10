@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-09"
 date: "2026-07-09"
 source: "qbitai"
-count: 10
+count: 7
 ---
 
 # qbitai - 2026-07-09
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ To safe AGI.
 “一生一案”书写优质教育
 
 📖 [Read original article](https://www.qbitai.com/2026/07/446562.html)
-
----
-
-## 8. 世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互
-
-**Author:** 量子位的朋友们  
-**Published:** 7/9/2026, 3:39:41 AM  
-**Categories:** 资讯, 蚂蚁灵波  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/446548.html)
-
----
-
-## 9. 蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！
-
-**Author:** 量子位的朋友们  
-**Published:** 7/9/2026, 3:19:15 AM  
-**Categories:** 资讯, 蚂蚁灵波  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/446458.html)
-
----
-
-## 10. 从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路
-
-**Author:** 量子位的朋友们  
-**Published:** 7/9/2026, 2:32:01 AM  
-**Categories:** 资讯, 量化派  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/446435.html)
 
 ---
