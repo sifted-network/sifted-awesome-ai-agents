@@ -23,7 +23,19 @@ Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities acr
 
 ---
 
-## 2. ChatGPT is now a partner for your most ambitious work
+## 2. GPT-5.6: Frontier intelligence that scales with your ambition
+
+**Author:** -  
+**Published:** 7/9/2026, 10:00:00 AM  
+**Categories:** Product  
+
+More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
+
+📖 [Read original article](https://openai.com/index/gpt-5-6)
+
+---
+
+## 3. ChatGPT is now a partner for your most ambitious work
 
 **Author:** -  
 **Published:** 7/9/2026, 10:00:00 AM  
@@ -35,7 +47,7 @@ ChatGPT Work is an agent that can take action across your apps and files, stay w
 
 ---
 
-## 3. GPT-5.5 Bio Bug Bounty
+## 4. GPT-5.5 Bio Bug Bounty
 
 **Author:** -  
 **Published:** 7/9/2026, 10:00:00 AM  
@@ -44,17 +56,5 @@ ChatGPT Work is an agent that can take action across your apps and files, stay w
 Details about the OpenAI Bio Bounty program
 
 📖 [Read original article](https://openai.com/index/bio-bug-bounty)
-
----
-
-## 4. GPT-5.6: Frontier intelligence that scales with your ambition
-
-**Author:** -  
-**Published:** 7/9/2026, 10:00:00 AM  
-**Categories:** Product  
-
-More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
-
-📖 [Read original article](https://openai.com/index/gpt-5-6)
 
 ---
