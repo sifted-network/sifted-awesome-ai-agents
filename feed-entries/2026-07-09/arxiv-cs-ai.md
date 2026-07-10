@@ -2,124 +2,16 @@
 title: "arXiv cs.AI - 2026-07-09"
 date: "2026-07-09"
 source: "arXiv cs.AI"
-count: 231
+count: 222
 ---
 
 # arXiv cs.AI - 2026-07-09
 
-231 items collected.
+222 items collected.
 
 ---
 
-## 1. AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation
-
-**Author:** Andrey Podivilov, Vadim Lomshakov, Sergey Savin, Matvei Startsev, Roman Pozharskiy, Maksim Parshin, Sergey Nikolenko  
-**Published:** 7/9/2026, 4:00:00 AM  
-**Categories:** cs.AI, cs.LG, cs.SE  
-
-arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the a...
-
-📖 [Read original article](https://arxiv.org/abs/2607.06624)
-
----
-
-## 2. When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning
-
-**Author:** Yotam Wolf, Noam Wies, Amnon Shashua  
-**Published:** 7/9/2026, 4:00:00 AM  
-**Categories:** cs.AI, cs.CL  
-
-arXiv:2607.06720v1 Announce Type: new Abstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by modeling it as approxim...
-
-📖 [Read original article](https://arxiv.org/abs/2607.06720)
-
----
-
-## 3. LLM-powered reasoning in agent-based modeling
-
-**Author:** Sifat Afroj Moon, Dakotah Maguire, Adam Spannaus, Joe Tuccillo, Maksudul Alam, Sudip K. Seal, John Gounley, Heidi Hanson  
-**Published:** 7/9/2026, 4:00:00 AM  
-**Categories:** cs.AI, cs.MA  
-
-arXiv:2607.06757v1 Announce Type: new Abstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time chan...
-
-📖 [Read original article](https://arxiv.org/abs/2607.06757)
-
----
-
-## 4. QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron
-
-**Author:** Bayram Yuksel Eker, Suayb S. Arslan, Ozgur Nazli, Mustafa Serhat Demirgil, Furkan Deligoz  
-**Published:** 7/9/2026, 4:00:00 AM  
-**Categories:** cs.AI, quant-ph  
-
-arXiv:2607.06760v1 Announce Type: new Abstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update service in that loop: it receives a prior and an observation model, estimates the rare-event evidenc...
-
-📖 [Read original article](https://arxiv.org/abs/2607.06760)
-
----
-
-## 5. Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1
-
-**Author:** Kabir Moghe, Peter Chin  
-**Published:** 7/9/2026, 4:00:00 AM  
-**Categories:** cs.AI  
-
-arXiv:2607.06764v1 Announce Type: new Abstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier models (evolutionary search, exhaustive sampling, extended chain-of-thought), or benchmark-specific training in which sma...
-
-📖 [Read original article](https://arxiv.org/abs/2607.06764)
-
----
-
-## 6. Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics
-
-**Author:** Pavel Snopov, German Magai  
-**Published:** 7/9/2026, 4:00:00 AM  
-**Categories:** cs.AI  
-
-arXiv:2607.06820v1 Announce Type: new Abstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Computer Algebra Systems (CAS) in agentic LLM workflows underexplored. We propose a ReAct-style agentic setup that combines LLM rea...
-
-📖 [Read original article](https://arxiv.org/abs/2607.06820)
-
----
-
-## 7. The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI
-
-**Author:** Muayad Sayed Ali, Aliaksandra Novik, Anji Boddupally, Artem Yavorskyi, Chris Nickerson, Daniel Rica, Emily DuGranrut, Felix Leung, Garrett Prince, Grace Barnett, Heath Robinson, Hosain Al Ahmad, Jesse Resnick, Juan Carlos Farah, Jyothi Swaroop Meruga, Leonid Kuznetsov, Luke Gorham, Marie Schmoll, Michael Paciullo, Saumya Das, Sharath Sheripally, Tommy Griscom, Mykyta Osadchyi, Neha Mantri, Nick Westrum, Olivia Benowitz, Parikshith Kulkarni, Radik Chernyshov, Rakshith Vasudev, Rohith Nadimpally, Vikas Gangadevi, Waseem AlShikh  
-**Published:** 7/9/2026, 4:00:00 AM  
-**Categories:** cs.AI  
-
-arXiv:2607.06906v1 Announce Type: new Abstract: Agentic AI development today runs on token maxing: buying capability with tokens -- longer reasoning traces, more turns, wider tool payloads, bigger replayed contexts -- so tokens per task grow faster than task value. Falling per-token prices mask the ...
-
-📖 [Read original article](https://arxiv.org/abs/2607.06906)
-
----
-
-## 8. Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix
-
-**Author:** Yufeng Wang, Lu Wei, Haibin Ling  
-**Published:** 7/9/2026, 4:00:00 AM  
-**Categories:** cs.AI  
-
-arXiv:2607.06925v1 Announce Type: new Abstract: Compact world models that condition on a language goal promise to ground relations such as ``put the red block left of the blue block'' using a sparse set of explicit \emph{reference anchors}. We ask when such references actually ground a relation, and...
-
-📖 [Read original article](https://arxiv.org/abs/2607.06925)
-
----
-
-## 9. Large Behavior Model: A Promptable Digital Twin of the Retail Customer
-
-**Author:** Wachiravit Modecrua, Krittin Pachtrachai, Touchapon Kraisingkorn  
-**Published:** 7/9/2026, 4:00:00 AM  
-**Categories:** cs.AI  
-
-arXiv:2607.06993v1 Announce Type: new Abstract: Customer behavior modeling underpins recommendation, marketing, and decision support, yet existing approaches either optimize predictive accuracy without explaining decisions or simulate users without grounding them in real behavioral data. We present ...
-
-📖 [Read original article](https://arxiv.org/abs/2607.06993)
-
----
-
-## 10. Learning social norms enhances compatibility in dynamic human-AI coordination
+## 1. Learning social norms enhances compatibility in dynamic human-AI coordination
 
 **Author:** Yi Yang, Siyuan Liu, Xin Gao, Huamu Sun, Chao Liu, Qing Zhou, Bingbing Nie  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -131,7 +23,7 @@ arXiv:2607.07021v1 Announce Type: new Abstract: Humans continuously coordinate w
 
 ---
 
-## 11. Measuring Intelligence Beyond Human Scale
+## 2. Measuring Intelligence Beyond Human Scale
 
 **Author:** Jerry Han, Rafael Moschopoulos, Ella Colby, Vishrut Goyal, Andrew Tu, Kia Ghods, Mark Braverman, Elad Hazan  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -143,7 +35,7 @@ arXiv:2607.07040v1 Announce Type: new Abstract: How can we measure intelligence 
 
 ---
 
-## 12. Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety
+## 3. Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety
 
 **Author:** Lifei Liu, Haoran Yu, Xiaochong Jiang, Su Wang, Pin Qian, Yihang Chen  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -155,7 +47,7 @@ arXiv:2607.07097v1 Announce Type: new Abstract: Safety evaluations of multi-agen
 
 ---
 
-## 13. Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks
+## 4. Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks
 
 **Author:** Ethan Chung, Chuanjun Zheng, Jasper Tan, Jingxi Li, Haopeng Zhang, Huaijin Chen  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -167,7 +59,7 @@ arXiv:2607.07189v1 Announce Type: new Abstract: Vision-language models (VLMs) an
 
 ---
 
-## 14. Reasoning Consistency Scanning: A Framework for Auditing Chain-of-Thought Validity in AI Safety Evaluations
+## 5. Reasoning Consistency Scanning: A Framework for Auditing Chain-of-Thought Validity in AI Safety Evaluations
 
 **Author:** Silvia Santano  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -179,7 +71,7 @@ arXiv:2607.07229v1 Announce Type: new Abstract: Prior work has shown that chain-
 
 ---
 
-## 15. From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents
+## 6. From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents
 
 **Author:** Haipeng Ding, Yuexiang Xie, Zhewei Wei, Yaliang Li, Bolin Ding  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -191,7 +83,7 @@ arXiv:2607.07321v1 Announce Type: new Abstract: Tool utilization enables Large L
 
 ---
 
-## 16. Physics-Audited Agentic Discovery in Scientific Machine Learning
+## 7. Physics-Audited Agentic Discovery in Scientific Machine Learning
 
 **Author:** Diab W. Abueidda, Bilal Ahmed, Panos Pantidis, Mostafa E. Mobasher  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -203,7 +95,7 @@ arXiv:2607.07379v1 Announce Type: new Abstract: In agentic scientific machine le
 
 ---
 
-## 17. MIRA-Math: A Benchmark for Minimal Information Requesting and Mathematical Reasoning
+## 8. MIRA-Math: A Benchmark for Minimal Information Requesting and Mathematical Reasoning
 
 **Author:** Charbel Al Bateh, Samer Saab Jr  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -215,7 +107,7 @@ arXiv:2607.07391v1 Announce Type: new Abstract: Mathematical reasoning benchmark
 
 ---
 
-## 18. Agentic Data Environments
+## 9. Agentic Data Environments
 
 **Author:** Elaine Ang, Chenxi Huang, Georgios Liargkovas, Jerry Liu, Jinhui Liu, Nikos Pagonas, Charlie Summers, Haonan Wang, Jiakai Xu, Tianle Zhou, Yusen Zhang, Zhou Yu, Zhuo Zhang, Tianyi Peng, Kostis Kaffes, Eugene Wu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -227,7 +119,7 @@ arXiv:2607.07397v1 Announce Type: new Abstract: Autonomous agents promise substa
 
 ---
 
-## 19. Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents
+## 10. Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents
 
 **Author:** Vikas Reddy, Sumanth Reddy Challaram, Abhishek Basu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -239,7 +131,7 @@ arXiv:2607.07405v1 Announce Type: new Abstract: Tool-using LLM agents can violat
 
 ---
 
-## 20. InductWave: Inductive Multi-Hop Logical Query Answering on Knowledge Graphs
+## 11. InductWave: Inductive Multi-Hop Logical Query Answering on Knowledge Graphs
 
 **Author:** Mayank Kharbanda, Michael Cochez, Rajiv Ratn Shah, Raghava Mutharaju  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -251,7 +143,7 @@ arXiv:2607.07422v1 Announce Type: new Abstract: Logical Multi-Hop Query Answerin
 
 ---
 
-## 21. The Blind Curator: How a Biased Judge Silently Disables Skill Retirement in Self-Evolving Agents
+## 12. The Blind Curator: How a Biased Judge Silently Disables Skill Retirement in Self-Evolving Agents
 
 **Author:** Xing Zhang, Yanwei Cui, Guanghui Wang, Ziyuan Li, Wei Qiu, Bing Zhu, Peiyang He  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -263,7 +155,7 @@ arXiv:2607.07436v1 Announce Type: new Abstract: A self-evolving agent retires it
 
 ---
 
-## 22. SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis
+## 13. SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis
 
 **Author:** Songhan Wang, Haoang Chi, He Li, Zhiheng Zhang, Jiayan Yuan, Cheems Wang, Hao Peng, Xinwang Liu, Wenjing Yang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -275,7 +167,7 @@ arXiv:2607.07467v1 Announce Type: new Abstract: Spatial and Single-cell transcri
 
 ---
 
-## 23. Search, Fail, Recover: A Training Framework for Correction-Aware Reasoning
+## 14. Search, Fail, Recover: A Training Framework for Correction-Aware Reasoning
 
 **Author:** Dmitry Beresnev, Vladimir Makharev, Roman Khalikov, Ivan Oseledets, Petr Anokhin  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -287,7 +179,7 @@ arXiv:2607.07492v1 Announce Type: new Abstract: Many reasoning tasks are not wel
 
 ---
 
-## 24. Do LLM-Generated Skills Make Better AI Data Scientists? A Component Ablation Across Data-Science Workflows
+## 15. Do LLM-Generated Skills Make Better AI Data Scientists? A Component Ablation Across Data-Science Workflows
 
 **Author:** Wei-Jung Huang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -299,7 +191,7 @@ arXiv:2607.07504v1 Announce Type: new Abstract: Product data scientists often as
 
 ---
 
-## 25. RL Post-Training Builds Compositional Reasoning Strategies
+## 16. RL Post-Training Builds Compositional Reasoning Strategies
 
 **Author:** Azwar Abdulsalam, Nishil Patel, Andrew Saxe  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -311,7 +203,7 @@ arXiv:2607.07646v1 Announce Type: new Abstract: Does RL post-training merely amp
 
 ---
 
-## 26. Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops
+## 17. Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops
 
 **Author:** Mingguang Chen, Licheng Wang, Bo Qu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -323,7 +215,7 @@ arXiv:2607.07663v1 Announce Type: new Abstract: AI systems increasingly particip
 
 ---
 
-## 27. SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents
+## 18. SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents
 
 **Author:** Tianming Sha, Yue Zhao, Lichao Sun, Yushun Dong  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -335,7 +227,7 @@ arXiv:2607.07676v1 Announce Type: new Abstract: Autonomous AI agents can execute
 
 ---
 
-## 28. Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety
+## 19. Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety
 
 **Author:** Yujiao Chen  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -347,7 +239,7 @@ arXiv:2607.07695v1 Announce Type: new Abstract: We introduce institutional red-t
 
 ---
 
-## 29. Can Reinforcement Learning Efficiently Discover Price Manipulation?
+## 20. Can Reinforcement Learning Efficiently Discover Price Manipulation?
 
 **Author:** Ioanna-Yvonni Tsaknaki, Andrea Macr\`i, Fabrizio Lillo  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -359,7 +251,7 @@ arXiv:2607.06121v1 Announce Type: cross Abstract: In this paper, we investigate 
 
 ---
 
-## 30. LipSSD: Lipschitz-Constrained Single-Shot Detection for Adversarially Robust Object Detection
+## 21. LipSSD: Lipschitz-Constrained Single-Shot Detection for Adversarially Robust Object Detection
 
 **Author:** Vincent L\'eb\'e (IRIT, DTIPG - SNCF, UT3), Yannick Prudent (IRIT, DTIPG - SNCF, UT3), Corentin Friedrich (IRIT, DTIPG - SNCF, UT3), Thomas Massena (IRIT, DTIPG - SNCF, UT3), Ronan Sicre (IRIT), Franck Mamalet  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -371,7 +263,7 @@ arXiv:2607.06592v1 Announce Type: cross Abstract: Object detectors have many app
 
 ---
 
-## 31. When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents
+## 22. When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents
 
 **Author:** George Torres, Sharad Shrestha, Satyajayant Misra  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -383,7 +275,7 @@ arXiv:2607.06595v1 Announce Type: cross Abstract: Personal AI agents powered by 
 
 ---
 
-## 32. Non-contact, Real-time, Heart-rate Measurement using Image Processing with Commodity Cameras and AI Agents
+## 23. Non-contact, Real-time, Heart-rate Measurement using Image Processing with Commodity Cameras and AI Agents
 
 **Author:** Kelly Li, Fulu Li  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -395,7 +287,7 @@ arXiv:2607.06598v1 Announce Type: cross Abstract: Heart rate measurement is one 
 
 ---
 
-## 33. MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices
+## 24. MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices
 
 **Author:** Parsa Hassani Shariat Panahi, Amir Hossein Jalilvand, M. Hassan Najafi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -407,7 +299,7 @@ arXiv:2607.06600v1 Announce Type: cross Abstract: Line segment detection is a ke
 
 ---
 
-## 34. TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation
+## 25. TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation
 
 **Author:** Andrii Balashov, Olena Ponomarova  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -419,7 +311,7 @@ arXiv:2607.06601v1 Announce Type: cross Abstract: Conditional computation can de
 
 ---
 
-## 35. Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study
+## 26. Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study
 
 **Author:** Sangwon Jung, Sumin Yu, Sanghyuk Chun, Taesup Moon  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -431,7 +323,7 @@ arXiv:2607.06603v1 Announce Type: cross Abstract: The notion of algorithmic fair
 
 ---
 
-## 36. NEST: Tackling Dataset-Level Distribution Shifts via Regime-Oriented Mixture-of-Experts
+## 27. NEST: Tackling Dataset-Level Distribution Shifts via Regime-Oriented Mixture-of-Experts
 
 **Author:** Lanhao Li, Bingshu Xie, Lijun Sun, Xin Xue, Haoyi Zhou, Jianxin Li  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -443,7 +335,7 @@ arXiv:2607.06607v1 Announce Type: cross Abstract: Accurate long-term forecasting
 
 ---
 
-## 37. Security and Privacy in Agentic AI: Grand Challenges and Future Directions
+## 28. Security and Privacy in Agentic AI: Grand Challenges and Future Directions
 
 **Author:** Adam Jenkins, Agnieszka Kitkowska, Caterina Maidhof, Diego Paracuellos, Francesco Sovrano, Gonzalo Gabriel Mendez, Guillermo Suarez-Tangil, Hana Kopecka, Isabel Wagner, Isabel Barbera, Javier Carnerero-Cano, Jide Edu, Jose Luis Martin-Navarro, Jose Such, Josep Domingo-Ferrer, Juan Carlos Carrillo, Kopo Marvin Ramokapane, Mark Cote, Pablo Vellosillo, Ramon Ruiz-Dolz, Rongjun Ma, Ruba Abu-Salma, Sameer Patil, William Seymour, Xiao Zhan  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -455,7 +347,7 @@ arXiv:2607.06608v1 Announce Type: cross Abstract: We present key challenges and 
 
 ---
 
-## 38. D2PO: Optimizing Diffusion Samplers via Dynamic Preference
+## 29. D2PO: Optimizing Diffusion Samplers via Dynamic Preference
 
 **Author:** Jinkyu Kim, Jinyoung Choi, Bohyung Han  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -467,7 +359,7 @@ arXiv:2607.06609v1 Announce Type: cross Abstract: We propose D2PO (Dynamic Direc
 
 ---
 
-## 39. Deep Reinforcement Learning for Reliability Based Bi-Objective Portfolio Optimization
+## 30. Deep Reinforcement Learning for Reliability Based Bi-Objective Portfolio Optimization
 
 **Author:** Sounaq Das, Tanmay Sen, Raghu Nandan Sengupta, Aditya Gupta  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -479,7 +371,7 @@ arXiv:2607.06610v1 Announce Type: cross Abstract: Portfolio optimization under u
 
 ---
 
-## 40. Audio Sentiment Analysis via Distillation and Cross-Modal Integration of Generated Multilingual Transcripts
+## 31. Audio Sentiment Analysis via Distillation and Cross-Modal Integration of Generated Multilingual Transcripts
 
 **Author:** Andrei-George Durdun, Victor Constantinescu, Radu Tudor Ionescu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -491,7 +383,7 @@ arXiv:2607.06611v1 Announce Type: cross Abstract: Automatically recognizing the 
 
 ---
 
-## 41. PRoVeFL: Private Robust and Verifiable Aggregation in Federated Learning
+## 32. PRoVeFL: Private Robust and Verifiable Aggregation in Federated Learning
 
 **Author:** Harsh Kasyap, Anil Kumar Pradhan, Ugur Ilker Atmaca, Graham Cormode, Carsten Maple  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -503,7 +395,7 @@ arXiv:2607.06612v1 Announce Type: cross Abstract: Federated Learning (FL) enable
 
 ---
 
-## 42. STAGformer: A Spatio-temporal Agent Graph Transformer for Micro Mobility Demand Forecasting
+## 33. STAGformer: A Spatio-temporal Agent Graph Transformer for Micro Mobility Demand Forecasting
 
 **Author:** Ye Zihao  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -515,7 +407,7 @@ arXiv:2607.06614v1 Announce Type: cross Abstract: Accurate station-level demand 
 
 ---
 
-## 43. WHERE to Generate Matters: Budget-Aware Synthetic Augmentation for Label Skewed Federated Learning
+## 34. WHERE to Generate Matters: Budget-Aware Synthetic Augmentation for Label Skewed Federated Learning
 
 **Author:** Sangwoo Lee, Sunghwan Park, Jaewoo Lee  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -527,7 +419,7 @@ arXiv:2607.06616v1 Announce Type: cross Abstract: Label skew in federated learni
 
 ---
 
-## 44. Inertia-1: An Open Exploration of Wearable Motion Foundation Models
+## 35. Inertia-1: An Open Exploration of Wearable Motion Foundation Models
 
 **Author:** Zongzhe Xu, Aakarsh Anand, Sarah Jiang, Chuntung Zhuang, Zitao Shuai, Sriram Sankararaman, Yuzhe Yang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -539,7 +431,7 @@ arXiv:2607.06617v1 Announce Type: cross Abstract: Wearable motion sensing provid
 
 ---
 
-## 45. Overview of the NLPCC 2026 Shared Task 1: Difficulty-Aware Multilingual and Multimodal Medical Instructional Video Understanding Evaluation
+## 36. Overview of the NLPCC 2026 Shared Task 1: Difficulty-Aware Multilingual and Multimodal Medical Instructional Video Understanding Evaluation
 
 **Author:** Shenxi Liu, Kan Li, Mingyang Zhao, Yuhang Tian, Bin Li  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -551,7 +443,7 @@ arXiv:2607.06618v1 Announce Type: cross Abstract: Following the CMIVQA, MMI-VQA,
 
 ---
 
-## 46. SpaR3D-MoE: Adaptive 3D Spatial Reasoning from Sparse Views Meets Geometry-Inductive Mixture-of-Experts
+## 37. SpaR3D-MoE: Adaptive 3D Spatial Reasoning from Sparse Views Meets Geometry-Inductive Mixture-of-Experts
 
 **Author:** Haida Feng, Hao Wei, Haolin Wang, Shiwei Li, Chade Li, Yihong Wu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -563,7 +455,7 @@ arXiv:2607.06620v1 Announce Type: cross Abstract: Recent Multimodal Large Langua
 
 ---
 
-## 47. LLM-Guided Task-Semantic Field Factorization for Industrial Process Forecasting
+## 38. LLM-Guided Task-Semantic Field Factorization for Industrial Process Forecasting
 
 **Author:** Youcheng Zong, Runda Jia, Mingxuan Ren, Dakuo He  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -575,7 +467,7 @@ arXiv:2607.06623v1 Announce Type: cross Abstract: Process industries rely on tim
 
 ---
 
-## 48. Open-Ended Scenario Reasoning for Specialist Model Adaptation
+## 39. Open-Ended Scenario Reasoning for Specialist Model Adaptation
 
 **Author:** Youcheng Zong, Runda Jia, Ranmeng Lin, Mingxuan Ren, Dakuo He  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -587,7 +479,7 @@ arXiv:2607.06625v1 Announce Type: cross Abstract: Process industries have accumu
 
 ---
 
-## 49. Cross-Trajectory Chimera Interventions Reveal Dissociable Roles of Weight Magnitude and Direction in Grokking
+## 40. Cross-Trajectory Chimera Interventions Reveal Dissociable Roles of Weight Magnitude and Direction in Grokking
 
 **Author:** Truong Xuan Khanh  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -599,7 +491,7 @@ arXiv:2607.06628v1 Announce Type: cross Abstract: Which properties of a partiall
 
 ---
 
-## 50. Dynamic-in-Few-Step: Unifying Dynamic Computation and Few-Step Distillation for Efficient Video Generation
+## 41. Dynamic-in-Few-Step: Unifying Dynamic Computation and Few-Step Distillation for Efficient Video Generation
 
 **Author:** Yu Cheng, Siyue Yao, Zhongang Qi, Shanyan Guan, Wei Li, Fajie Yuan  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -611,7 +503,7 @@ arXiv:2607.06631v1 Announce Type: cross Abstract: Video Diffusion Models (VDMs) 
 
 ---
 
-## 51. ProMoE-FL: Prototype-conditioned Mixture of Experts for Multimodal Federated Learning with Missing Modalities
+## 42. ProMoE-FL: Prototype-conditioned Mixture of Experts for Multimodal Federated Learning with Missing Modalities
 
 **Author:** Aavash Chhetri, Bibek Niroula, Eduard Vazquez, Yash Raj Shrestha, Prashnna Gyawali, Loris Bazzani, Binod Bhattarai  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -623,7 +515,7 @@ arXiv:2607.06633v1 Announce Type: cross Abstract: In this paper, we address the 
 
 ---
 
-## 52. Specification Grounding Drives Test Effectiveness for LLM Code
+## 43. Specification Grounding Drives Test Effectiveness for LLM Code
 
 **Author:** Amin Haeri, Mahdi Ghelichi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -635,7 +527,7 @@ arXiv:2607.06636v1 Announce Type: cross Abstract: Large language models frequent
 
 ---
 
-## 53. At-Grok Is Not Converged:A Measurement-Validity Audit for Grokking Representation Metrics
+## 44. At-Grok Is Not Converged:A Measurement-Validity Audit for Grokking Representation Metrics
 
 **Author:** Truong Xuan Khanh  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -647,7 +539,7 @@ arXiv:2607.06639v1 Announce Type: cross Abstract: On modular arithmetic, a netwo
 
 ---
 
-## 54. The Rank-One Corner: How Much Value Equivalence Does a Task Need from a World Model?
+## 45. The Rank-One Corner: How Much Value Equivalence Does a Task Need from a World Model?
 
 **Author:** Donna Vakalis  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -659,7 +551,7 @@ arXiv:2607.06640v1 Announce Type: cross Abstract: A learned world model is usual
 
 ---
 
-## 55. Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering
+## 46. Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering
 
 **Author:** Felix Feldman, Joshua Harris, Timothy Laurence, Leo Loman, Ollie Higgins, Fan Grayson, Poonam Soma, Bethany Pace-Bonello, Michael Borowitz, Toby Nonnenmacher  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -671,7 +563,7 @@ arXiv:2607.06641v1 Announce Type: cross Abstract: Large language models (LLMs) a
 
 ---
 
-## 56. Diffusion enabled Optimal Transport distances for graph matching
+## 47. Diffusion enabled Optimal Transport distances for graph matching
 
 **Author:** Iman Seyedi, Francesco Archetti  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -683,7 +575,7 @@ arXiv:2607.06646v1 Announce Type: cross Abstract: This paper introduces Diffusio
 
 ---
 
-## 57. Digital Fragmentation and Generative AI Use Across 103 Million Application Events
+## 48. Digital Fragmentation and Generative AI Use Across 103 Million Application Events
 
 **Author:** Sumer S. Vaid, Ashley V. Whillans  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -695,7 +587,7 @@ arXiv:2607.06681v1 Announce Type: cross Abstract: Knowledge workers switch betwe
 
 ---
 
-## 58. tsbootstrap: Distribution-Free Uncertainty Quantification and Conformal Prediction for Time Series
+## 49. tsbootstrap: Distribution-Free Uncertainty Quantification and Conformal Prediction for Time Series
 
 **Author:** Sankalp Gilda  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -707,7 +599,7 @@ arXiv:2607.06690v1 Announce Type: cross Abstract: Finance, sensing, and demand s
 
 ---
 
-## 59. SPEAR: A Simulator for Photorealistic Embodied AI Research
+## 50. SPEAR: A Simulator for Photorealistic Embodied AI Research
 
 **Author:** Mike Roberts, Renhan Wang, Rushikesh Zawar, Rachith Dey-Prakash, Quentin Leboutet, Stephan R. Richter, Matthias M\"uller, German Ros, Rui Tang, Stefan Leutenegger, Yannick Hold-Geoffroy, Kalyan Sunkavalli, Vladlen Koltun  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -719,7 +611,7 @@ arXiv:2607.06701v1 Announce Type: cross Abstract: Interactive simulators have be
 
 ---
 
-## 60. Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review
+## 51. Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review
 
 **Author:** Inkyu Sa, Chanoh Park, Hea-Min Lee, Donghee Noh, Ho Seok Ahn  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -731,7 +623,7 @@ arXiv:2607.06706v1 Announce Type: cross Abstract: Vision Language Action (VLA) m
 
 ---
 
-## 61. Reliable and Developer-Aligned Evaluation of Agents for Software Engineering
+## 52. Reliable and Developer-Aligned Evaluation of Agents for Software Engineering
 
 **Author:** Razvan Mihai Popescu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -743,7 +635,7 @@ arXiv:2607.06713v1 Announce Type: cross Abstract: Large language models are rapi
 
 ---
 
-## 62. A Continual Learning Framework for Adaptive Control of Modular Soft Robots
+## 53. A Continual Learning Framework for Adaptive Control of Modular Soft Robots
 
 **Author:** Nilay Kushawaha, Muhammad Sunny Nazeer, Baljinder Singh Bal, Cecilia Laschi, Egidio Falotico  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -755,7 +647,7 @@ arXiv:2607.06740v1 Announce Type: cross Abstract: Soft robots have attracted sig
 
 ---
 
-## 63. SmartHomeSecure: Automated Detection and Repair of Smart Home Configuration Errors Using Large Language Models
+## 54. SmartHomeSecure: Automated Detection and Repair of Smart Home Configuration Errors Using Large Language Models
 
 **Author:** Yizhi Wang, Xinghua Gao, Reachsak Ly, Alireza Shojaei  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -767,7 +659,7 @@ arXiv:2607.06748v1 Announce Type: cross Abstract: Smart home automation platform
 
 ---
 
-## 64. AirPASS: Over-the-Air Federated Learning via Pinching Antenna Systems
+## 55. AirPASS: Over-the-Air Federated Learning via Pinching Antenna Systems
 
 **Author:** Seyed Mohammad Azimi-Abarghouyi, Christopher G. Brinton  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -779,7 +671,7 @@ arXiv:2607.06768v1 Announce Type: cross Abstract: This paper investigates over-t
 
 ---
 
-## 65. From Agentic to Autogenic Network Management for AI-Native 6G and Beyond: A Standards Perspective
+## 56. From Agentic to Autogenic Network Management for AI-Native 6G and Beyond: A Standards Perspective
 
 **Author:** Petar Djukic, Sudipta Acharya, Takai Eddine Kennouche, Burak Kantarci  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -791,7 +683,7 @@ arXiv:2607.06786v1 Announce Type: cross Abstract: Standards bodies, including TM
 
 ---
 
-## 66. Enhancing deep learning models for time series classification via knowledge distillation
+## 57. Enhancing deep learning models for time series classification via knowledge distillation
 
 **Author:** Javidan Abdullayev, Maxime Devanne, Jonathan Weber, Germain Forestier  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -803,7 +695,7 @@ arXiv:2607.06796v1 Announce Type: cross Abstract: Deep learning has achieved rem
 
 ---
 
-## 67. What Predicts Correctness in Text-to-SQL? A Selective-Prediction Study
+## 58. What Predicts Correctness in Text-to-SQL? A Selective-Prediction Study
 
 **Author:** Robert Richardson  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -815,7 +707,7 @@ arXiv:2607.06799v1 Announce Type: cross Abstract: Evaluating uncertainty in AI-g
 
 ---
 
-## 68. A Multi-Analyst LLM Pipeline for Auditable Rule Discovery Across 68 Public Physiological Corpora
+## 59. A Multi-Analyst LLM Pipeline for Auditable Rule Discovery Across 68 Public Physiological Corpora
 
 **Author:** Dovy Paukstys  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -827,7 +719,7 @@ arXiv:2607.06802v1 Announce Type: cross Abstract: Open physiological corpora are
 
 ---
 
-## 69. When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems
+## 60. When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems
 
 **Author:** Haowen Xu, Xue Tan, Lei Ma, Zhihao Zhang, Chao Wang, Qingze Wang, Ping Chen, Jun Dai, Xiaoyan Sun  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -839,7 +731,7 @@ arXiv:2607.06807v1 Announce Type: cross Abstract: While enabling effective colla
 
 ---
 
-## 70. Ad Headline Generation using Self-Critical Masked Language Model
+## 61. Ad Headline Generation using Self-Critical Masked Language Model
 
 **Author:** Yashal Shakti Kanungo, Sumit Negi, Aruna Rajan  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -851,7 +743,7 @@ arXiv:2607.06818v1 Announce Type: cross Abstract: For any E-commerce website it 
 
 ---
 
-## 71. Gradient-Based Speech-to-Text Alignment for Any ASR Model: From CTC to Speech LLMs
+## 62. Gradient-Based Speech-to-Text Alignment for Any ASR Model: From CTC to Speech LLMs
 
 **Author:** Albert Zeyer, Ralf Schl\"uter, Hermann Ney  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -863,7 +755,7 @@ arXiv:2607.06831v1 Announce Type: cross Abstract: Speech-to-text alignment means
 
 ---
 
-## 72. A Gold-Standard Study of What Makes a Lightweight Game-Playing Agent Strong
+## 63. A Gold-Standard Study of What Makes a Lightweight Game-Playing Agent Strong
 
 **Author:** Nima Kelidari, Mohammadsaeed Haghi, Mahdi Salmani  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -875,7 +767,7 @@ arXiv:2607.06854v1 Announce Type: cross Abstract: Reinforcement learning agents 
 
 ---
 
-## 73. GemNav: Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model
+## 64. GemNav: Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model
 
 **Author:** Peter Bohm, Saimunur Rahman, Abdelwahed Khamis, Sagun Man Singh Shrestha, Chris McCool, Peyman Moghadam  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -887,7 +779,7 @@ arXiv:2607.06882v1 Announce Type: cross Abstract: Visual navigation policies bui
 
 ---
 
-## 74. ReMoDEx: A Local-to-Global Relevance-Based Model Decision Explainability Framework for large-Scale Image Datasets
+## 65. ReMoDEx: A Local-to-Global Relevance-Based Model Decision Explainability Framework for large-Scale Image Datasets
 
 **Author:** Abhay Kumar Pathak, Mrityunjay Chaubey, Manjari Gupta  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -899,7 +791,7 @@ arXiv:2607.06889v1 Announce Type: cross Abstract: Deep learning image classifier
 
 ---
 
-## 75. Computing with Stochastic Oracles in AI-Augmented Computation
+## 66. Computing with Stochastic Oracles in AI-Augmented Computation
 
 **Author:** Jie Wang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -911,7 +803,7 @@ arXiv:2607.06893v1 Announce Type: cross Abstract: The Stochastic-Oracle Turing M
 
 ---
 
-## 76. LoCA: Spatially-Aware Low-Rank Convolutional Adaptation of Vision Foundation Models
+## 67. LoCA: Spatially-Aware Low-Rank Convolutional Adaptation of Vision Foundation Models
 
 **Author:** Sojung An, Junha Lee, Sujeong You, Nam Ik Cho, Donghyun Kim  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -923,7 +815,7 @@ arXiv:2607.06918v1 Announce Type: cross Abstract: Pre-trained Vision Foundation 
 
 ---
 
-## 77. MADB: A Large-Scale Music Aesthetics Dataset with Professional and Multi-Dimensional Annotations
+## 68. MADB: A Large-Scale Music Aesthetics Dataset with Professional and Multi-Dimensional Annotations
 
 **Author:** Sirui Zhang, Tianle Wang, Xinyi Tong, Peiyang Yu, Jishang Chen, Liangke Zhao, Haoxin Zhang, Duo Xu, Xin Jin, Feng Yu, Songchun Zhu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -935,7 +827,7 @@ arXiv:2607.06929v1 Announce Type: cross Abstract: Music aesthetic assessment is 
 
 ---
 
-## 78. Imputation Meets Clustering: Exploiting Latent Subgroup Structure for Missing Data Recovery
+## 69. Imputation Meets Clustering: Exploiting Latent Subgroup Structure for Missing Data Recovery
 
 **Author:** Chuyao Zhang, E Li, Taochen Chen, Yiqun Zhang, Yuzhu Ji, Shuping Zhao, Peng Liu, Yiu-ming Cheung  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -947,7 +839,7 @@ arXiv:2607.06930v1 Announce Type: cross Abstract: Missing data is prevalent in p
 
 ---
 
-## 79. Comprehensive Evaluation of Large Language Model Responses: A Multi-Factor Scoring System
+## 70. Comprehensive Evaluation of Large Language Model Responses: A Multi-Factor Scoring System
 
 **Author:** Yiming Gai, Junde Lu, Xuefei Huang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -959,7 +851,7 @@ arXiv:2607.06940v1 Announce Type: cross Abstract: The remarkable performance of 
 
 ---
 
-## 80. Self-Supervised Pretraining Improves Cross-Site and Cross-Scale Robustness of Point Cloud Leaf-Wood Segmentation
+## 71. Self-Supervised Pretraining Improves Cross-Site and Cross-Scale Robustness of Point Cloud Leaf-Wood Segmentation
 
 **Author:** Heeju Mun, Tackang Yang, Yunsoo Nam, Changhyun Choi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -971,7 +863,7 @@ arXiv:2607.06948v1 Announce Type: cross Abstract: The accuracy of existing leaf-
 
 ---
 
-## 81. Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies
+## 72. Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies
 
 **Author:** Kiarash Ahi, Saeed Valizadeh  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -983,7 +875,7 @@ arXiv:2607.06963v1 Announce Type: cross Abstract: Large Language Models (LLMs) a
 
 ---
 
-## 82. End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent
+## 73. End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent
 
 **Author:** Amin Tabrizian, Arsyi Aziz, Aarifah Ullah, Mahyar Ghazanfari, Pouria Razzaghi, Peng Wei  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -995,7 +887,7 @@ arXiv:2607.06964v1 Announce Type: cross Abstract: Bridging the gap between human
 
 ---
 
-## 83. Hybrid Least Squares/Gradient Descent Methods for MIONets
+## 74. Hybrid Least Squares/Gradient Descent Methods for MIONets
 
 **Author:** Jun Choi, Chang-Ock Lee, Minam Moon  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1007,7 +899,7 @@ arXiv:2607.06976v1 Announce Type: cross Abstract: In this paper, we propose an e
 
 ---
 
-## 84. WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time
+## 75. WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time
 
 **Author:** Yusen Feng, Bingchen Han, Jiangran Lyu, Kai Liu, Yixin Zheng, Yuxuan Wan, Weiheng Liu, Sun Han, Ruiqin Li, Yulong Zhang, Fangfu Liu, Xuesong Shi, Libin Liu, Yizhou Wang, Zhizheng Zhang, He Wang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1019,7 +911,7 @@ arXiv:2607.06988v1 Announce Type: cross Abstract: Steering robot foundation mode
 
 ---
 
-## 85. Physics-guided spatiotemporal neural models for fuel density prediction
+## 76. Physics-guided spatiotemporal neural models for fuel density prediction
 
 **Author:** Tolga Caglar, Jaynil Jaiswal, Saqib Azim, Yudhir Gala, Mai H. Nguyen, Ilkay Altintas  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1031,7 +923,7 @@ arXiv:2607.06999v1 Announce Type: cross Abstract: This paper presents a physics-
 
 ---
 
-## 86. Multimodal Spatiotemporal-Frequency Fusion with Peak Enhancement for Cellular Traffic Forecasting
+## 77. Multimodal Spatiotemporal-Frequency Fusion with Peak Enhancement for Cellular Traffic Forecasting
 
 **Author:** Qingzhong Li, Yue Hu, Hui Ma, Yajun Zhang, Xinjun Pei, Ming Yan, Fei Xing  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1043,7 +935,7 @@ arXiv:2607.07016v1 Announce Type: cross Abstract: Accurate forecasting of cellul
 
 ---
 
-## 87. Latent graph encoding of multimodal neuroimaging features with generative AI architectures
+## 78. Latent graph encoding of multimodal neuroimaging features with generative AI architectures
 
 **Author:** Ishaan Batta, Meenu Ajith, Vince Calhoun  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1055,7 +947,7 @@ arXiv:2607.07027v1 Announce Type: cross Abstract: While generative models enable
 
 ---
 
-## 88. Gimitest: A Comprehensive Tool for Testing Reinforcement Learning Policies
+## 79. Gimitest: A Comprehensive Tool for Testing Reinforcement Learning Policies
 
 **Author:** Dennis Gross, Quentin Mazouni, Helge Spieker, Arnaud Gotlieb  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1067,7 +959,7 @@ arXiv:2607.07029v1 Announce Type: cross Abstract: Reinforcement learning (RL) po
 
 ---
 
-## 89. AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning
+## 80. AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning
 
 **Author:** Kyuan Oh, Bumsoo Kim  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1079,7 +971,7 @@ arXiv:2607.07033v1 Announce Type: cross Abstract: Large vision-language models i
 
 ---
 
-## 90. Intrinsic Green's Learning: Supervised Learning on Manifolds via Inverse PDE
+## 81. Intrinsic Green's Learning: Supervised Learning on Manifolds via Inverse PDE
 
 **Author:** Alexandre Quemy  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1091,7 +983,7 @@ arXiv:2607.07034v1 Announce Type: cross Abstract: We introduce Intrinsic Green's
 
 ---
 
-## 91. On the Principles of Deep Feedforward ReLU Networks
+## 82. On the Principles of Deep Feedforward ReLU Networks
 
 **Author:** Changcun Huang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1103,7 +995,7 @@ arXiv:2607.07035v1 Announce Type: cross Abstract: The architecture of deep feedf
 
 ---
 
-## 92. Riemannian Geometry for Pre-trained Language Model Embeddings
+## 83. Riemannian Geometry for Pre-trained Language Model Embeddings
 
 **Author:** Szczepan Konior, Alexandre Quemy, Przemys{\l}aw Klocek, Gr\'egoire Cattan, Bart{\l}omiej Sobieski  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1115,7 +1007,7 @@ arXiv:2607.07047v1 Announce Type: cross Abstract: Understanding the geometric st
 
 ---
 
-## 93. Making Implicit Preservation Intent Explicit in Conversational Image Editing
+## 84. Making Implicit Preservation Intent Explicit in Conversational Image Editing
 
 **Author:** Soomin Han, Jihyung Ahn, Bumsoo Kim, Buru Chang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1127,7 +1019,7 @@ arXiv:2607.07051v1 Announce Type: cross Abstract: Conversational image editing r
 
 ---
 
-## 94. Progressive Crystallization: Turning Agent Exploration into Deterministic, Lower-Cost Workflows in Production
+## 85. Progressive Crystallization: Turning Agent Exploration into Deterministic, Lower-Cost Workflows in Production
 
 **Author:** Arun Malik  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1139,7 +1031,7 @@ arXiv:2607.07052v1 Announce Type: cross Abstract: AI agents deployed for IT oper
 
 ---
 
-## 95. Complexity-Budgeted, Interaction-Aware Interpretable Model for Tabular Data
+## 86. Complexity-Budgeted, Interaction-Aware Interpretable Model for Tabular Data
 
 **Author:** Srikumar Krishnamoorthy  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1151,7 +1043,7 @@ arXiv:2607.07060v1 Announce Type: cross Abstract: Inherently interpretable class
 
 ---
 
-## 96. Multiplication Beyond Groups: Stratified Fourier Mechanisms in Transformer Circuits
+## 87. Multiplication Beyond Groups: Stratified Fourier Mechanisms in Transformer Circuits
 
 **Author:** Zitong Andrew Chen, Junaid Hasan, Akhil Srinivasan, Hemkesh Bandi, Jarod Alper  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1163,7 +1055,7 @@ arXiv:2607.07066v1 Announce Type: cross Abstract: Transformers have demonstrated
 
 ---
 
-## 97. Navigating Hierarchy: Hyperbolic Learning on Brain Graphs for Disorder Diagnosis
+## 88. Navigating Hierarchy: Hyperbolic Learning on Brain Graphs for Disorder Diagnosis
 
 **Author:** Yapeng Li, Bo Jiang, Ziyan Zhang, Dongdong Chen, Zhengzheng Tu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1175,7 +1067,7 @@ arXiv:2607.07077v1 Announce Type: cross Abstract: Functional brain networks exhi
 
 ---
 
-## 98. AT-Attn: Temporal-Aware Cross-Attention for Longitudinal Multimodal Alzheimer's Disease Diagnosis
+## 89. AT-Attn: Temporal-Aware Cross-Attention for Longitudinal Multimodal Alzheimer's Disease Diagnosis
 
 **Author:** Xinyue Du, Yibo Liu, Zhenglei Zhou, Xuancheng Yao, Weimin Zhong, Qiuhui Chen  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1187,7 +1079,7 @@ arXiv:2607.07091v1 Announce Type: cross Abstract: In longitudinal Alzheimer's di
 
 ---
 
-## 99. GeoProp: Grounding Robot State in Vision for Generalist Manipulation
+## 90. GeoProp: Grounding Robot State in Vision for Generalist Manipulation
 
 **Author:** Guoyang Zhao, Quanhao Qian, Gongjie Zhang, Wenhao Li, Jiuniu Wang, Xiaowei Lu, Deli Zhao, Ran Xu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1199,7 +1091,7 @@ arXiv:2607.07101v1 Announce Type: cross Abstract: Proprioception is fundamental 
 
 ---
 
-## 100. Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning
+## 91. Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning
 
 **Author:** Stepanida Alekseeva, Jenifer Kalafatovich, Seong-Whan Lee  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1211,7 +1103,7 @@ arXiv:2607.07117v1 Announce Type: cross Abstract: In text-to-image in-context le
 
 ---
 
-## 101. Entropy Pacing Policy Optimization for Multi-Task Agentic Reinforcement Learning
+## 92. Entropy Pacing Policy Optimization for Multi-Task Agentic Reinforcement Learning
 
 **Author:** Zetian Hu, Shunyu Liu, Junjie Zhang, Yongcheng Jing, Ting-En Lin, Yongbin Li, Dacheng Tao  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1223,7 +1115,7 @@ arXiv:2607.07178v1 Announce Type: cross Abstract: Recent breakthroughs of Reinfo
 
 ---
 
-## 102. Predicting LLM Safety Before Release by Simulating Deployment
+## 93. Predicting LLM Safety Before Release by Simulating Deployment
 
 **Author:** Marcus Williams, Hannah Sheahan, Cameron Raymond, Tomek Korbak, Deng Pan, Peilin Yang, Leon Maksin, Ningyi Xie, Phillip Guo, Ian Kivlichan, Micah Carroll  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1235,7 +1127,7 @@ arXiv:2607.07184v1 Announce Type: cross Abstract: Pre-deployment safety evaluati
 
 ---
 
-## 103. Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators
+## 94. Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators
 
 **Author:** Christian Oefinger, Finn Rasmus Sch\"afer, Korbinian Moller, Mattia Piccinini, Johannes Betz  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1247,7 +1139,7 @@ arXiv:2607.07196v1 Announce Type: cross Abstract: Across robotics, World Models 
 
 ---
 
-## 104. Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency
+## 95. Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency
 
 **Author:** Satoshi Matsuoka  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1259,7 +1151,7 @@ arXiv:2607.07207v1 Announce Type: cross Abstract: We analyze how four forces res
 
 ---
 
-## 105. Vision Foundation Models in Radiology: A Scoping Review of Data, Methodology, Evaluation and Clinical Translation
+## 96. Vision Foundation Models in Radiology: A Scoping Review of Data, Methodology, Evaluation and Clinical Translation
 
 **Author:** Alejandro Vergara-Richart (Quantitative Imaging Biomarkers in Medicine, Quibim S.L., Val\`encia, Spain, Universitat Polit\`ecnica de Val\`encia, Val\`encia, Spain), Xavier Rafael-Palou (Quantitative Imaging Biomarkers in Medicine, Quibim S.L., Val\`encia, Spain), Almudena Fuster-Matanzo (Quantitative Imaging Biomarkers in Medicine, Quibim S.L., Val\`encia, Spain), Ignacio Iborra Roncales (Quantitative Imaging Biomarkers in Medicine, Quibim S.L., Val\`encia, Spain), \'Angel Alberich-Bayarri (Quantitative Imaging Biomarkers in Medicine, Quibim S.L., Val\`encia, Spain), Ana Jim\'enez-Pastor (Quantitative Imaging Biomarkers in Medicine, Quibim S.L., Val\`encia, Spain)  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1271,7 +1163,7 @@ arXiv:2607.07219v1 Announce Type: cross Abstract: Vision foundation models (VFMs
 
 ---
 
-## 106. DiPhon: Diffusion on Graphons for Scalable Graph Generation
+## 97. DiPhon: Diffusion on Graphons for Scalable Graph Generation
 
 **Author:** Sergio Rozada, Yiming Qin, Manuel Madeira, Pascal Frossard, Alejandro Ribeiro  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1283,7 +1175,7 @@ arXiv:2607.07232v1 Announce Type: cross Abstract: Diffusion models represent a l
 
 ---
 
-## 107. ORCAID: Oblique Rule-Based Continuous-Action Interpretation for Deep RL Policies
+## 98. ORCAID: Oblique Rule-Based Continuous-Action Interpretation for Deep RL Policies
 
 **Author:** Ignacio D. Lopez-Miguel, Ezio Bartocci, Thomas Eiter, Martin Tappler  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1295,7 +1187,7 @@ arXiv:2607.07235v1 Announce Type: cross Abstract: Explainability remains a key i
 
 ---
 
-## 108. FMMVCC: Fuzzy Mamba-based Multi-View Contrastive Clustering for Univariate Time Series
+## 99. FMMVCC: Fuzzy Mamba-based Multi-View Contrastive Clustering for Univariate Time Series
 
 **Author:** Donato Cerciello, Leonardo Schiavo, Angel Panizo-LLedot, Javier Huertas Tato, David Camacho  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1307,7 +1199,7 @@ arXiv:2607.07258v1 Announce Type: cross Abstract: In many realistic scenarios, l
 
 ---
 
-## 109. Bayesian Optimization of Genetic Algorithm Hyperparameters in a Multi-Fidelity Framework for Efficient Lattice Material Design
+## 100. Bayesian Optimization of Genetic Algorithm Hyperparameters in a Multi-Fidelity Framework for Efficient Lattice Material Design
 
 **Author:** Sergei Zorkaltsev, Maciej Haranczyk, Christina Schenk  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1319,7 +1211,7 @@ arXiv:2607.07289v1 Announce Type: cross Abstract: This study presents a multi-fi
 
 ---
 
-## 110. CarbonCLIP: Enhance Carbon Prediction from Satellite Imagery via Integrated Street-View Semantics and Temporal Context Training
+## 101. CarbonCLIP: Enhance Carbon Prediction from Satellite Imagery via Integrated Street-View Semantics and Temporal Context Training
 
 **Author:** Zeru Yang, Fang-Ying Gong, Steve H. L. Yim, Chau Yuen  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1331,7 +1223,7 @@ arXiv:2607.07292v1 Announce Type: cross Abstract: Accurately estimating urban ca
 
 ---
 
-## 111. Multimodal Voice Activity Projection for Turn-Taking in Social Robots with Voice-Activity-Related Pretrained Encoders
+## 102. Multimodal Voice Activity Projection for Turn-Taking in Social Robots with Voice-Activity-Related Pretrained Encoders
 
 **Author:** Antonio Cano, Guillermo P\'erez, Luis Merino, Randy Gomez  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1343,7 +1235,7 @@ arXiv:2607.07294v1 Announce Type: cross Abstract: Turn-taking prediction is a ke
 
 ---
 
-## 112. POO-LPSP: Parallel Osprey Optimized Least Penalty-Squared Prioritization Methods for Priority Derivation in the Analytic Hierarchy Process
+## 103. POO-LPSP: Parallel Osprey Optimized Least Penalty-Squared Prioritization Methods for Priority Derivation in the Analytic Hierarchy Process
 
 **Author:** Kevin Kam Fung Yuen  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1355,7 +1247,7 @@ arXiv:2607.07313v1 Announce Type: cross Abstract: Pairwise comparison (PC) via p
 
 ---
 
-## 113. FedCVESA: Taking Away Training Data in Federated Learning via Correlation Value Encoding and Segmented Aggregation
+## 104. FedCVESA: Taking Away Training Data in Federated Learning via Correlation Value Encoding and Segmented Aggregation
 
 **Author:** Chongkai Li, Bang Zhang, Wenjian Luo  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1367,7 +1259,7 @@ arXiv:2607.07314v1 Announce Type: cross Abstract: Federated learning (FL) avoids
 
 ---
 
-## 114. HAJJv2-CrowdCount: Zero-Shot Benchmark for Dense Crowd Counting
+## 105. HAJJv2-CrowdCount: Zero-Shot Benchmark for Dense Crowd Counting
 
 **Author:** Reem AlYabis, Fares AlTuwaim, AlJawharh AlOtaibi, Mohamed Eltahir  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1379,7 +1271,7 @@ arXiv:2607.07322v1 Announce Type: cross Abstract: Automated crowd counting in Ha
 
 ---
 
-## 115. Hypergraph Neural Stochastic Diffusion: An SDE Framework for Uncertainty Estimation
+## 106. Hypergraph Neural Stochastic Diffusion: An SDE Framework for Uncertainty Estimation
 
 **Author:** Zhiheng Zhou, Mengyao Zhou, Dengyi Zhao, Xingqin Qi, Guiying Yan  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1391,7 +1283,7 @@ arXiv:2607.07330v1 Announce Type: cross Abstract: Hypergraph neural networks hav
 
 ---
 
-## 116. Quantum simulation of real-world nonlinear dynamics via Koopman method
+## 107. Quantum simulation of real-world nonlinear dynamics via Koopman method
 
 **Author:** Baoyang Zhang, Dong An, Zhaoyuan Meng, Yefei Yu, Xiaoxiao Xiao, Zhen Lu, Yue Yang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1403,7 +1295,7 @@ arXiv:2607.07338v1 Announce Type: cross Abstract: Nonlinear dynamics is ubiquito
 
 ---
 
-## 117. Latency-Aware Bid Acceptance under Operational Feasibility: A Public Benchmark with Hindsight Ceilings
+## 108. Latency-Aware Bid Acceptance under Operational Feasibility: A Public Benchmark with Hindsight Ceilings
 
 **Author:** Aswin Chandrasekaran  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1415,7 +1307,7 @@ arXiv:2607.07343v1 Announce Type: cross Abstract: Online truckload bid acceptanc
 
 ---
 
-## 118. HumAIN: Human-Aware Implicit Social Robot Navigation
+## 109. HumAIN: Human-Aware Implicit Social Robot Navigation
 
 **Author:** Daeun Song, Nhat Le, Jeffrey Chen, Mohammad Nazeri, Amirreza Payandeh, Rohan Chandra, Reuth Mirsky, Ross Mead, Ling Xiao, Xuesu Xiao  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1427,7 +1319,7 @@ arXiv:2607.07357v1 Announce Type: cross Abstract: Effective social robot navigat
 
 ---
 
-## 119. Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors
+## 110. Multi-Agent AI Control: Distributed Attacks Hamper Per-Instance Monitors
 
 **Author:** Oliver Makins, Orazio Angelini, Zohreh Shams, Mary Phuong  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1439,7 +1331,7 @@ arXiv:2607.07368v1 Announce Type: cross Abstract: AI control is a family of tech
 
 ---
 
-## 120. Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report
+## 111. Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report
 
 **Author:** Xufeng Zhao, Fuzhi Yang, Jianhui Chen, Li Gao, Zhang Meng, Jie Gao, Yao Zheng, Congyang Zhao, Tianxiong Lv, Menglin Yang, Minqi Gu, Yaru Zhao, Wenyu Liu, Honglin Han, Shihui Su, Zixiao Tang, Liu Liu, Mu Xu, Yang Cai, Wenbin Tang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1451,7 +1343,7 @@ arXiv:2607.07370v2 Announce Type: cross Abstract: The motion controller is one o
 
 ---
 
-## 121. On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces
+## 112. On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces
 
 **Author:** Chethan Krishnamurthy Ramanaik, Tobias Callies, Michael Hecht, Eirini Ntoutsi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1463,7 +1355,7 @@ arXiv:2607.07375v1 Announce Type: cross Abstract: Adversarial vulnerability in d
 
 ---
 
-## 122. When Prompts Ignore Structure: Graph-Based Attribute Reasoning for Calibrated VLMs
+## 113. When Prompts Ignore Structure: Graph-Based Attribute Reasoning for Calibrated VLMs
 
 **Author:** Tanay Sodha, Aditya Sharma, Ramya Hebbalaguppe, Vinti Agarwal, Pranav Murthy Yeluripaty  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1475,7 +1367,7 @@ arXiv:2607.07395v1 Announce Type: cross Abstract: Reliable confidence estimation
 
 ---
 
-## 123. Heterogeneity-Adaptive Diffusion Schrodinger Bridge for PET-Guided Whole-Body MRI Translation
+## 114. Heterogeneity-Adaptive Diffusion Schrodinger Bridge for PET-Guided Whole-Body MRI Translation
 
 **Author:** Chengbo Wang, Jiacheng Yu, Linjie Bian, Ming Qi, Xiaosheng Liu, Tongtong Che, Jichang Zhang, Shuyu Li, Shaoli Song, Xiuying Wang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1487,7 +1379,7 @@ arXiv:2607.07401v1 Announce Type: cross Abstract: While whole-body multimodal me
 
 ---
 
-## 124. RLVP: Penalize the Path, Reward the Outcome
+## 115. RLVP: Penalize the Path, Reward the Outcome
 
 **Author:** Bojie Li, Noah Shi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1499,7 +1391,7 @@ arXiv:2607.07435v1 Announce Type: cross Abstract: Agents acting on our behalf in
 
 ---
 
-## 125. SynthAVE: Scalable Synthetic Labeling for E-Commerce with LLM-Arena Validation
+## 116. SynthAVE: Scalable Synthetic Labeling for E-Commerce with LLM-Arena Validation
 
 **Author:** Andrea Scarinci, Virginia Negri, Brayan Impata, Suleiman Khan, Victor Martinez, Marcello Federico  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1511,7 +1403,7 @@ arXiv:2607.07469v1 Announce Type: cross Abstract: Fine-tuning large language mod
 
 ---
 
-## 126. Where to Intervene? Benchmarking Fairness-Aware Learning on Differentially Private Synthetic Tabular Data
+## 117. Where to Intervene? Benchmarking Fairness-Aware Learning on Differentially Private Synthetic Tabular Data
 
 **Author:** Vin\'icius Gabriel Angelozzi, H\'eber H. Arcolezi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1523,7 +1415,7 @@ arXiv:2607.07471v1 Announce Type: cross Abstract: Machine learning models are in
 
 ---
 
-## 127. Beyond Attack-Success Rate: Action-Graded Severity Scale for Tool-Using AI Agents
+## 118. Beyond Attack-Success Rate: Action-Graded Severity Scale for Tool-Using AI Agents
 
 **Author:** Harry Owiredu-Ashley  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1535,7 +1427,7 @@ arXiv:2607.07474v1 Announce Type: cross Abstract: Agentic red-teaming benchmarks
 
 ---
 
-## 128. Reward-Adaptive Iterative Discovery: A Case Study on Automated Game Testing for NHL26
+## 119. Reward-Adaptive Iterative Discovery: A Case Study on Automated Game Testing for NHL26
 
 **Author:** Florian Fuchs, Jessy Gosselin-Grant, Boris Skuin, Michele Petteni, Alessandro Sestini, Joakim Bergdahl, Amir Baghi, Linus Gissl\'en  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1547,7 +1439,7 @@ arXiv:2607.07498v1 Announce Type: cross Abstract: Testing is a major effort for 
 
 ---
 
-## 129. TimEE: End-to-end Time Series Classification via In-Context Learning
+## 120. TimEE: End-to-end Time Series Classification via In-Context Learning
 
 **Author:** Jaris K\"uken, Shi Bin Hoo, Martin Mr\'az, Frank Hutter, Lennart Purucker  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1559,7 +1451,7 @@ arXiv:2607.07500v1 Announce Type: cross Abstract: Time series classification (TS
 
 ---
 
-## 130. HIVE: Understanding Post-Hallucination Reasoning in Vision Language Models
+## 121. HIVE: Understanding Post-Hallucination Reasoning in Vision Language Models
 
 **Author:** Feng He, Zhenting Wang, Qifan Wang, Qiang Guan, Dongfang Liu, Ruixiang Tang, Qiankun Li  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1571,7 +1463,7 @@ arXiv:2607.07507v1 Announce Type: cross Abstract: Hallucinations in vision langu
 
 ---
 
-## 131. Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning
+## 122. Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning
 
 **Author:** Zhenyu Hou, Yujiang Li, Jie Tang, Yuxiao Dong  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1583,7 +1475,7 @@ arXiv:2607.07508v1 Announce Type: cross Abstract: Reinforcement learning (RL) is
 
 ---
 
-## 132. Stability of Flow Models for Graph Signals
+## 123. Stability of Flow Models for Graph Signals
 
 **Author:** Martin Schmidt, Gonzalo Mateos  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1595,7 +1487,7 @@ arXiv:2607.07510v1 Announce Type: cross Abstract: Generating signals on graphs r
 
 ---
 
-## 133. Creativity from Friction: Human-AI Interaction for Exploratory Structural Design
+## 124. Creativity from Friction: Human-AI Interaction for Exploratory Structural Design
 
 **Author:** Ricardo Maia Avelino, Rita Sevastjanova, Tom Van Mele, Philippe Block, Mennatallah El-Assady  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1607,7 +1499,7 @@ arXiv:2607.07521v1 Announce Type: cross Abstract: AI agents that generate final 
 
 ---
 
-## 134. Collaborative Synthetic Data Generation for Knowledge Transfer in Federated Learning
+## 125. Collaborative Synthetic Data Generation for Knowledge Transfer in Federated Learning
 
 **Author:** Maximilian Andreas Hoefler, Karsten Mueller, Wojciech Samek  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1619,7 +1511,7 @@ arXiv:2607.07565v1 Announce Type: cross Abstract: One-shot federated learning (O
 
 ---
 
-## 135. CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis
+## 126. CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis
 
 **Author:** Kaicong Huang, Meng Ma, Ruimin Ke  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1631,7 +1523,7 @@ arXiv:2607.07601v1 Announce Type: cross Abstract: Safety evaluation for autonomo
 
 ---
 
-## 136. Towards Agentic AI Governance: A Preliminary Assessment
+## 127. Towards Agentic AI Governance: A Preliminary Assessment
 
 **Author:** Mubarak Raji, Masooda Bashir  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1643,7 +1535,7 @@ arXiv:2607.07612v1 Announce Type: cross Abstract: Artificial intelligence is rap
 
 ---
 
-## 137. Future Confidence Distillation in Large Language Models
+## 128. Future Confidence Distillation in Large Language Models
 
 **Author:** Sahil Kale  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1655,7 +1547,7 @@ arXiv:2607.07626v1 Announce Type: cross Abstract: Reliable confidence estimation
 
 ---
 
-## 138. QCNN with Rough Path Signature Kernels
+## 129. QCNN with Rough Path Signature Kernels
 
 **Author:** Leonardo Nogueira Falabella, Vasily Sazonov  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1667,7 +1559,7 @@ arXiv:2607.07634v1 Announce Type: cross Abstract: Time series analysis plays a v
 
 ---
 
-## 139. ALER-TI: Aligned Latent Embedding Retrieval for Time Series Imputation
+## 130. ALER-TI: Aligned Latent Embedding Retrieval for Time Series Imputation
 
 **Author:** Xuan-Thong Truong, Trung-Kien Le, Tung Kieu, Thi-Thu Nguyen, Nhat-Hai Nguyen  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1679,7 +1571,7 @@ arXiv:2607.07640v1 Announce Type: cross Abstract: Deep learning has significantl
 
 ---
 
-## 140. DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation
+## 131. DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation
 
 **Author:** Jordan Painter, Dipankar Srirag, Adarsh Kappiyath, Diptesh Kanojia, Aditya Joshi, Lu Yin  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1691,7 +1583,7 @@ arXiv:2607.07669v1 Announce Type: cross Abstract: Large language models increasi
 
 ---
 
-## 141. Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning
+## 132. Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning
 
 **Author:** Vladislav Beliaev  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1703,7 +1595,7 @@ arXiv:2607.07690v1 Announce Type: cross Abstract: Reinforcement learning from ve
 
 ---
 
-## 142. Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF
+## 133. Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF
 
 **Author:** Eric Zhu, Abhinav Shrivastava, Soumik Mukhopadhyay  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1715,7 +1607,7 @@ arXiv:2607.07693v1 Announce Type: cross Abstract: Reinforcement learning from hu
 
 ---
 
-## 143. Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass
+## 134. Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass
 
 **Author:** Victor Giannakouris, Immanuel Trummer  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1727,7 +1619,7 @@ arXiv:2607.07696v1 Announce Type: cross Abstract: Analytical workloads operating
 
 ---
 
-## 144. Co-LMLM: Continuous-Query Limited Memory Language Models
+## 135. Co-LMLM: Continuous-Query Limited Memory Language Models
 
 **Author:** Yair Feldman, Linxi Zhao, Nathan Godey, Dongyoung Go, Yilun Hua, Kilian Q. Weinberger, Jennifer J. Sun, Yoav Artzi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1739,7 +1631,7 @@ arXiv:2607.07707v1 Announce Type: cross Abstract: Limited memory language models
 
 ---
 
-## 145. Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning
+## 136. Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning
 
 **Author:** Chen Tang, Yizhou Wang, Jianyu Wu, Lintao Wang, Shixiang Tang, Pengze Li, Encheng Su, Jun Yao, Jiabei Xiao, Yuqi Shi, Jielan Li, Hongxia Hao, Zhangyang Gao, Fang Wu, Ben Fei, Xiangyu Yue, Pan Tan, Bozitao Zhong, Jinouwen Zhang, Aoran Wang, Yan Lu, Jiaheng Liu, Xinzhu Ma, Liang Hong, Mingyue Zheng, Phil Torr, Bowen Zhou, Wanli Ouyang, Lei Bai  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1751,7 +1643,7 @@ arXiv:2607.07708v1 Announce Type: cross Abstract: Structure-property relationshi
 
 ---
 
-## 146. Successor-Generator Planning with LLM-generated Heuristics
+## 137. Successor-Generator Planning with LLM-generated Heuristics
 
 **Author:** Alexander Tuisov, Yonatan Vernik, Alexander Shleyfman  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1763,7 +1655,7 @@ arXiv:2501.18784v5 Announce Type: replace Abstract: Heuristics are a central com
 
 ---
 
-## 147. Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control
+## 138. Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control
 
 **Author:** Laurens Engwegen, Max Weltevrede, Caroline Horsch, Daan Brinks, Wendelin B\"ohmer  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1775,7 +1667,7 @@ arXiv:2506.08630v3 Announce Type: replace Abstract: A universal controller for a
 
 ---
 
-## 148. Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?
+## 139. Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?
 
 **Author:** Satiyabooshan Murugaboopathy, Connor T. Jerzak, Adel Daoud  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1787,7 +1679,7 @@ arXiv:2508.01109v4 Announce Type: replace Abstract: We investigate whether socio
 
 ---
 
-## 149. LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?
+## 140. LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?
 
 **Author:** Kaijian Zou, Aaron Xiong, Yunxiang Zhang, Frederick Zhang, Yueqi Ren, Jirong Yang, Ayoung Lee, Shitanshu Bhushan, Lu Wang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1799,7 +1691,7 @@ arXiv:2510.09595v3 Announce Type: replace Abstract: Competitive programming prob
 
 ---
 
-## 150. AGAPI-Agents: An Open-Access Agentic AI Platform for Accelerated Materials Design on AtomGPT.org
+## 141. AGAPI-Agents: An Open-Access Agentic AI Platform for Accelerated Materials Design on AtomGPT.org
 
 **Author:** Jaehyung Lee, Justin Ely, Kent Zhang, Akshaya Ajith, Charles Rhys Campbell, Kamal Choudhary  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1811,7 +1703,7 @@ arXiv:2512.11935v2 Announce Type: replace Abstract: Agentic AI systems increasin
 
 ---
 
-## 151. Neutral Substrates: A Design Constraint for Shared Records Under Persistent Interpretive Disagreement
+## 142. Neutral Substrates: A Design Constraint for Shared Records Under Persistent Interpretive Disagreement
 
 **Author:** Denise M. Case  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1823,7 +1715,7 @@ arXiv:2601.14271v2 Announce Type: replace Abstract: Shared accountability record
 
 ---
 
-## 152. SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care
+## 143. SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care
 
 **Author:** Dongshen Peng, Yi Wang, Austin Schoeffler, Sun-ha Hong, Brian Suffoletto, David Kim, Carl Preiksaitis, Christian Rose  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1835,7 +1727,7 @@ arXiv:2601.16529v4 Announce Type: replace Abstract: Large language models (LLMs)
 
 ---
 
-## 153. Framing Instability in LLM Ethical Stance: Auditing Negation Sensitivity in Moral Dilemmas
+## 144. Framing Instability in LLM Ethical Stance: Auditing Negation Sensitivity in Moral Dilemmas
 
 **Author:** Katherine Elkins, Jon Chun  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1847,7 +1739,7 @@ arXiv:2601.21433v2 Announce Type: replace Abstract: Language models are increasi
 
 ---
 
-## 154. AI Chatbot Suicide Risk Detection and Response: Human Validation Study of the Open-Source VERA-MH Safety Evaluation
+## 145. AI Chatbot Suicide Risk Detection and Response: Human Validation Study of the Open-Source VERA-MH Safety Evaluation
 
 **Author:** Kate H. Bentley, Luca Belli, Adam M. Chekroud, Emily J. Ward, Emily R. Dworkin, Emily Van Ark, Kelly M. Johnston, Will Alexander, Millard Brown, Matt Hawrilenko  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1859,7 +1751,7 @@ arXiv:2602.05088v4 Announce Type: replace Abstract: Millions of people now use g
 
 ---
 
-## 155. An Adaptive Differentially Private Federated Learning Framework
+## 146. An Adaptive Differentially Private Federated Learning Framework
 
 **Author:** Jin Wang, Hui Ma, Yajun Zhang, Xinjun Pei, Ming Yan, Fei Xing, Yikun Chen  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1871,7 +1763,7 @@ arXiv:2602.06838v3 Announce Type: replace Abstract: Federated learning enables c
 
 ---
 
-## 156. SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps
+## 147. SOMtime the World Ain$'$t Fair: Violating Fairness Using Self-Organizing Maps
 
 **Author:** Joseph Bingham, Netanel Arussy, Dvir Aran  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1883,7 +1775,7 @@ arXiv:2602.18201v2 Announce Type: replace Abstract: Unsupervised representations
 
 ---
 
-## 157. Power and Limitations of Aggregation in Compound AI Systems
+## 148. Power and Limitations of Aggregation in Compound AI Systems
 
 **Author:** Nivasini Ananthakrishnan, Meena Jagadeesan  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1895,7 +1787,7 @@ arXiv:2602.21556v2 Announce Type: replace Abstract: When designing compound AI s
 
 ---
 
-## 158. EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models
+## 149. EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models
 
 **Author:** Yiyang Fang, Wenke Huang, Pei Fu, Yihao Yang, Kehua Su, Zhenbo Luo, Jian Luan, Mang Ye  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1907,7 +1799,7 @@ arXiv:2602.23802v2 Announce Type: replace Abstract: Multimodal Large Language Mo
 
 ---
 
-## 159. Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows
+## 150. Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows
 
 **Author:** David Baumgartner, Eliezer de Souza da Silva, I\~nigo Urteaga  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1919,7 +1811,7 @@ arXiv:2603.11756v2 Announce Type: replace Abstract: Deep generative models for a
 
 ---
 
-## 160. Measuring the metacognition of AI
+## 151. Measuring the metacognition of AI
 
 **Author:** Richard Servajean, Philippe Servajean  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1931,7 +1823,7 @@ arXiv:2603.29693v3 Announce Type: replace Abstract: A robust decision-making pro
 
 ---
 
-## 161. Participatory provenance as representational auditing for AI-mediated public consultation
+## 152. Participatory provenance as representational auditing for AI-mediated public consultation
 
 **Author:** Sachit Mahajan  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1943,7 +1835,7 @@ arXiv:2604.20711v2 Announce Type: replace Abstract: Artificial intelligence is i
 
 ---
 
-## 162. Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?
+## 153. Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?
 
 **Author:** Spandan Garg, Vikram Nitin, Yufan Huang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1955,7 +1847,7 @@ arXiv:2605.03195v2 Announce Type: replace Abstract: Modern coding agents increas
 
 ---
 
-## 163. M$^3$: Reframing Training Measures for Discretized Physical Simulations
+## 154. M$^3$: Reframing Training Measures for Discretized Physical Simulations
 
 **Author:** Yuan Mei, Xingyu Song, Xiaowen Song, Naoya Takeishi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1967,7 +1859,7 @@ arXiv:2605.08843v2 Announce Type: replace Abstract: Neural surrogate models for 
 
 ---
 
-## 164. When Summaries Distort Decisions: Information Fidelity in LLM-Compressed Financial Analysis
+## 155. When Summaries Distort Decisions: Information Fidelity in LLM-Compressed Financial Analysis
 
 **Author:** Hoyoung Lee, Suhwan Park, Seunghan Lee, Jun Seo, Jaehoon Lee, Sungdong Yoo, Minjae Kim, CheolWon Na, Zhangyang Wang, Zach Golkhou, Minkyu Kim, Sotirios Sabanis, Alejandro Lopez-Lira, Dhagash Mehta, Soonyoung Lee, Chanyeol Choi, Wonbin Ahn, Yongjae Lee  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1979,7 +1871,7 @@ arXiv:2606.29251v2 Announce Type: replace Abstract: Financial decision-makers fa
 
 ---
 
-## 165. HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment
+## 156. HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment
 
 **Author:** Shei Pern Chua, Hao Wu, Qianli Ma, Fangzhao Wu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -1991,7 +1883,7 @@ arXiv:2607.00572v3 Announce Type: replace Abstract: Understanding how aligned LL
 
 ---
 
-## 166. A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory
+## 157. A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory
 
 **Author:** Zitong Shi, Yixuan Tang, Anthony Kum Hoe Tung  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2003,7 +1895,7 @@ arXiv:2607.01935v2 Announce Type: replace Abstract: Long term memory lets LLM ag
 
 ---
 
-## 167. AgenticPD: A Stage-Aware Agentic Framework for Physical Design QoR Optimization
+## 158. AgenticPD: A Stage-Aware Agentic Framework for Physical Design QoR Optimization
 
 **Author:** Shuo Ren, Zijin Cheng, Yaohui Han, Libo Shen, Leilei Jin, Wanting Tian, Rongliang Fu, Chao Wang, Bei Yu, Tsung-Yi Ho  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2015,7 +1907,7 @@ arXiv:2607.04758v2 Announce Type: replace Abstract: Physical design quality-of-r
 
 ---
 
-## 168. ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation
+## 159. ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation
 
 **Author:** Yunhan Xu, Qifeng Wu, Xunjin Li, Yuanwei Bin, Qingsong Yao, Jianghang Gu, Guan Wang, Weihao Lv, Huiyu Yang, Wenfa Luo, Jiao Xiang, Yuntian Chen, Shiyi Chen  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2027,7 +1919,7 @@ arXiv:2607.05750v2 Announce Type: replace Abstract: Computer-aided design (CAD) 
 
 ---
 
-## 169. Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory
+## 160. Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory
 
 **Author:** Jihao Liu, Guoxiong Gao, Zeming Sun, Bin Wu, Shurui Liu, Jiedong Jiang, Haocheng Ju, Leheng Chen, Ronnie Cheng, Xiping Zhang, Bin Dong  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2039,7 +1931,7 @@ arXiv:2607.06447v2 Announce Type: replace Abstract: Recent LLM-based mathematica
 
 ---
 
-## 170. Faster and Simpler Greedy Algorithm for $k$-Median and $k$-Means
+## 161. Faster and Simpler Greedy Algorithm for $k$-Median and $k$-Means
 
 **Author:** Max Dupr\'e la Tour, David Saulpic  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2051,7 +1943,7 @@ arXiv:2407.11217v4 Announce Type: replace-cross Abstract: Clustering problems su
 
 ---
 
-## 171. ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts
+## 162. ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts
 
 **Author:** Jinho Chang, Changsun Lee, Hyungjin Chung, Jong Chul Ye  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2063,7 +1955,7 @@ arXiv:2411.17077v2 Announce Type: replace-cross Abstract: As Classifier-Free Gui
 
 ---
 
-## 172. The Minimal Search Space for Conditional Causal Bandits
+## 163. The Minimal Search Space for Conditional Causal Bandits
 
 **Author:** Francisco N. F. Q. Simoes, Itai Feigenbaum, Mehdi Dastani, Thijs van Ommen  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2075,7 +1967,7 @@ arXiv:2502.06577v4 Announce Type: replace-cross Abstract: Causal knowledge can b
 
 ---
 
-## 173. Silent Neuron Theory and Plasticity Preservation for Deep Reinforcement Learning in Adaptive Video Streaming
+## 164. Silent Neuron Theory and Plasticity Preservation for Deep Reinforcement Learning in Adaptive Video Streaming
 
 **Author:** Zhiqiang He, Zhi Liu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2087,7 +1979,7 @@ arXiv:2505.01584v4 Announce Type: replace-cross Abstract: Adaptive video streami
 
 ---
 
-## 174. VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting
+## 165. VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting
 
 **Author:** Juyi Lin, Amir Taherin, Arash Akbari, Arman Akbari, Lei Lu, Guangyu Chen, Taskin Padir, Xiaomeng Yang, Weiwei Chen, Yiqian Li, Xue Lin, David Kaeli, Pu Zhao, Yanzhi Wang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2099,7 +1991,7 @@ arXiv:2507.05116v5 Announce Type: replace-cross Abstract: Recent large-scale Vis
 
 ---
 
-## 175. Understanding Two-Layer Neural Networks with Smooth Activation Functions
+## 166. Understanding Two-Layer Neural Networks with Smooth Activation Functions
 
 **Author:** Changcun Huang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2111,7 +2003,7 @@ arXiv:2507.14177v2 Announce Type: replace-cross Abstract: This paper aims to und
 
 ---
 
-## 176. L-GTA: Latent Generative Modeling for Time Series Augmentation
+## 167. L-GTA: Latent Generative Modeling for Time Series Augmentation
 
 **Author:** Luis Roque, Vitor Cerqueira, Carlos Soares, Luis Torgo  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2123,7 +2015,7 @@ arXiv:2507.23615v2 Announce Type: replace-cross Abstract: Data augmentation is b
 
 ---
 
-## 177. A Study of Commonsense Reasoning over Visual Object Properties
+## 168. A Study of Commonsense Reasoning over Visual Object Properties
 
 **Author:** Abhishek Kolari, Mohammadhossein Khojasteh, Yifan Jiang, Floris den Hengst, Filip Ilievski  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2135,7 +2027,7 @@ arXiv:2508.10956v3 Announce Type: replace-cross Abstract: Inspired by human cate
 
 ---
 
-## 178. LHM-Humanoid: Long-Horizon Human Motion Control for Continuous Object Transport in Cluttered Scenes
+## 169. LHM-Humanoid: Long-Horizon Human Motion Control for Continuous Object Transport in Cluttered Scenes
 
 **Author:** Haozhuo Zhang, Jingkai Sun, Michele Caprio, Angelo Cangelosi, Jian Tang, Shanghang Zhang, Qiang Zhang, Wei Pan  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2147,7 +2039,7 @@ arXiv:2508.16943v3 Announce Type: replace-cross Abstract: Physics-based human mo
 
 ---
 
-## 179. Explain Before You Answer: A Survey on Compositional Visual Reasoning
+## 170. Explain Before You Answer: A Survey on Compositional Visual Reasoning
 
 **Author:** Fucai Ke, Joy Hsu, Zhixi Cai, Zixian Ma, Xin Zheng, Xindi Wu, Sukai Huang, Weiqing Wang, Pari Delir Haghighi, Gholamreza Haffari, Ranjay Krishna, Jiajun Wu, Hamid Rezatofighi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2159,7 +2051,7 @@ arXiv:2508.17298v3 Announce Type: replace-cross Abstract: Compositional visual r
 
 ---
 
-## 180. NonTextual Target Attack
+## 171. NonTextual Target Attack
 
 **Author:** Xinzhe Huang, Wenjing Hu, Tianhang Zheng, Kedong Xiu, Hongsheng Hu, Xiaojun Jia, Di Wang, Zhan Qin, Kui Ren  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2171,7 +2063,7 @@ arXiv:2510.02999v5 Announce Type: replace-cross Abstract: Existing gradient-base
 
 ---
 
-## 181. Rapidly Learning Soft Robot Control via Implicit Time-Stepping
+## 172. Rapidly Learning Soft Robot Control via Implicit Time-Stepping
 
 **Author:** Andrew Choi, Dezhong Tong, Xiaonan Huang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2183,7 +2075,7 @@ arXiv:2511.06667v2 Announce Type: replace-cross Abstract: With the explosive gro
 
 ---
 
-## 182. Refine Thought: A Test-Time Inference Method for Embedding Model Reasoning
+## 173. Refine Thought: A Test-Time Inference Method for Embedding Model Reasoning
 
 **Author:** Guangzhi Wang, Kai Li, Yinghao Jiao, Zhi Liu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2195,7 +2087,7 @@ arXiv:2511.13726v2 Announce Type: replace-cross Abstract: We propose RT (Refine 
 
 ---
 
-## 183. T2T-VICL: Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs
+## 174. T2T-VICL: Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs
 
 **Author:** Shao-Jun Xia, Huixin Zhang, Zhengzhong Tu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2207,7 +2099,7 @@ arXiv:2511.16107v3 Announce Type: replace-cross Abstract: Visual in-context lear
 
 ---
 
-## 184. Thinking Ahead: Foresight Intelligence in MLLMs and World Model
+## 175. Thinking Ahead: Foresight Intelligence in MLLMs and World Model
 
 **Author:** Zhantao Gong, Liaoyuan Fan, Qing Guo, Xun Xu, Xulei Yang, Shijie Li  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2219,7 +2111,7 @@ arXiv:2511.18735v3 Announce Type: replace-cross Abstract: In this work, we defin
 
 ---
 
-## 185. FDRMFL: Multimodal Federated Feature Extraction Model Based on Information Maximization and Contrastive Learning
+## 176. FDRMFL: Multimodal Federated Feature Extraction Model Based on Information Maximization and Contrastive Learning
 
 **Author:** Haozhe Wu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2231,7 +2123,7 @@ arXiv:2512.02076v2 Announce Type: replace-cross Abstract: We propose FDRMFL, a t
 
 ---
 
-## 186. HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies
+## 177. HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies
 
 **Author:** Zhiying Du, Bei Liu, Yaobo Liang, Yichao Shen, Haidong Cao, Xiangyu Zheng, Zhiyuan Feng, Zuxuan Wu, Jiaolong Yang, Yu-Gang Jiang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2243,7 +2135,7 @@ arXiv:2512.05693v2 Announce Type: replace-cross Abstract: Generalist vision--lan
 
 ---
 
-## 187. HiDVFS: Hierarchical Multi-Agent DVFS for Real-Time OpenMP DAG Workloads
+## 178. HiDVFS: Hierarchical Multi-Agent DVFS for Real-Time OpenMP DAG Workloads
 
 **Author:** Mohammad Pivezhandi, Abusayeed Saifullah, Ali Jannesari  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2255,7 +2147,7 @@ arXiv:2601.06425v2 Announce Type: replace-cross Abstract: Leakage power in multi
 
 ---
 
-## 188. ButterflyMoE: Compression-Scalable Ternary Experts via Structured Butterfly Orbits
+## 179. ButterflyMoE: Compression-Scalable Ternary Experts via Structured Butterfly Orbits
 
 **Author:** Aryan Karmore  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2267,7 +2159,7 @@ arXiv:2601.13563v5 Announce Type: replace-cross Abstract: In current Mixture of 
 
 ---
 
-## 189. Spatiotemporal Semantic V2X Framework for Cooperative Collision Prediction
+## 180. Spatiotemporal Semantic V2X Framework for Cooperative Collision Prediction
 
 **Author:** Murat Arda Onsu, Poonam Lohan, Burak Kantarci, Aisha Syed, Matthew Andrews, Sean Kennedy  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2279,7 +2171,7 @@ arXiv:2601.17216v3 Announce Type: replace-cross Abstract: Intelligent Transporta
 
 ---
 
-## 190. Can We Really Learn One Representation to Optimize All Rewards?
+## 181. Can We Really Learn One Representation to Optimize All Rewards?
 
 **Author:** Chongyi Zheng, Royina Karegoudra Jayanth, Benjamin Eysenbach  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2291,7 +2183,7 @@ arXiv:2602.11399v2 Announce Type: replace-cross Abstract: As unsupervised pretra
 
 ---
 
-## 191. Named-Entity Recognition in the Crime Domain (CrimeNER): Case Study and Dataset
+## 182. Named-Entity Recognition in the Crime Domain (CrimeNER): Case Study and Dataset
 
 **Author:** Miguel Lopez-Duran, Julian Fierrez, Aythami Morales, Daniel DeAlcala, Gonzalo Mancera, Javier Irigoyen, Ruben Tolosana, Oscar Delgado, Francisco Jurado, Alvaro Ortigosa  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2303,7 +2195,7 @@ arXiv:2603.02150v2 Announce Type: replace-cross Abstract: The extraction of crit
 
 ---
 
-## 192. DASH: Dynamic Audio-Driven Semantic Chunking for Efficient Omnimodal Token Compression
+## 183. DASH: Dynamic Audio-Driven Semantic Chunking for Efficient Omnimodal Token Compression
 
 **Author:** Bingzhou Li, Tao Huang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2315,7 +2207,7 @@ arXiv:2603.15685v2 Announce Type: replace-cross Abstract: Omnimodal large langua
 
 ---
 
-## 193. CompDiff: Hierarchical Compositional Diffusion for Fair and Zero-Shot Intersectional Medical Image Generation
+## 184. CompDiff: Hierarchical Compositional Diffusion for Fair and Zero-Shot Intersectional Medical Image Generation
 
 **Author:** Mahmoud Ibrahim, Bart Elen, Chang Sun, Gokhan Ertaylan, Michel Dumontier  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2327,7 +2219,7 @@ arXiv:2603.16551v2 Announce Type: replace-cross Abstract: Generative models are 
 
 ---
 
-## 194. Effective Strategies for Asynchronous Software Engineering Agents
+## 185. Effective Strategies for Asynchronous Software Engineering Agents
 
 **Author:** Jiayi Geng, Graham Neubig  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2339,7 +2231,7 @@ arXiv:2603.21489v2 Announce Type: replace-cross Abstract: AI agents have become 
 
 ---
 
-## 195. Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection
+## 186. Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection
 
 **Author:** Abhishek Paudel, Abhish Khanal, Raihan I. Arnob, Shahriar Hossain, Gregory J. Stein  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2351,7 +2243,7 @@ arXiv:2603.23800v2 Announce Type: replace-cross Abstract: We present a novel LLM
 
 ---
 
-## 196. From Content to Audience: A Multimodal Annotation Framework for Broadcast Television Analytics
+## 187. From Content to Audience: A Multimodal Annotation Framework for Broadcast Television Analytics
 
 **Author:** Paolo Cupini, Francesco Pierri  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2363,7 +2255,7 @@ arXiv:2603.26772v2 Announce Type: replace-cross Abstract: Automated semantic ann
 
 ---
 
-## 197. Exploration of Fast-Slow Latent Recurrence for Train-Short, Test-Long Generalization
+## 188. Exploration of Fast-Slow Latent Recurrence for Train-Short, Test-Long Generalization
 
 **Author:** Shota Takashiro, Masanori Koyama, Takeru Miyato, Yusuke Iwasawa, Yutaka Matsuo, Kohei Hayashi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2375,7 +2267,7 @@ arXiv:2604.01577v3 Announce Type: replace-cross Abstract: We study out of distri
 
 ---
 
-## 198. Diversity Without Fidelity: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation Simulation
+## 189. Diversity Without Fidelity: A Solver-Sampler Mismatch in Multi-Agent LLM Negotiation Simulation
 
 **Author:** Sandro Andric  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2387,7 +2279,7 @@ arXiv:2604.11840v3 Announce Type: replace-cross Abstract: Language models are in
 
 ---
 
-## 199. AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection
+## 190. AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection
 
 **Author:** Zijie Zhao, Chenyuan Yang, Weidong Wang, Yihan Yang, Ziqi Zhang, Lingming Zhang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2399,7 +2291,7 @@ arXiv:2604.11950v2 Announce Type: replace-cross Abstract: While recent LLM-based
 
 ---
 
-## 200. Learning from Execution: Self-Evolving Memory for Private-Library Code Generation
+## 191. Learning from Execution: Self-Evolving Memory for Private-Library Code Generation
 
 **Author:** Mofei Li, Taozhi Chen, Guowei Yang, Jia Li  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2411,7 +2303,7 @@ arXiv:2604.24222v3 Announce Type: replace-cross Abstract: Large Language Models 
 
 ---
 
-## 201. Health System Scale Semantic Search Across Unstructured Clinical Notes
+## 192. Health System Scale Semantic Search Across Unstructured Clinical Notes
 
 **Author:** Faith Wavinya Mutinda, Spandana Makeneni, Anna Lin, Shivaji Dutta, Irit R. Rasooly, Patrick Dibussolo, Shivani Kamath Belman, Hessam Shahriari, Kevin Murphy, Alex B. Ruan, Barbara H. Chaiyachati, Sanjay Chainani, Robert W. Grundmeier, Scott M. Haag, Jeffrey M. Miller, Heather M. Griffis, Ian M. Campbell  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2423,7 +2315,7 @@ arXiv:2604.25605v2 Announce Type: replace-cross Abstract: Introduction: Semantic
 
 ---
 
-## 202. From Beats to Breaches:How Offensive AI Infers Sensitive User Information from Playlists
+## 193. From Beats to Breaches:How Offensive AI Infers Sensitive User Information from Playlists
 
 **Author:** Stefano Cecconello, Mauro Conti, Luca Pajola, Luca Pasa, Pier Paolo Tricomi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2435,7 +2327,7 @@ arXiv:2605.04724v2 Announce Type: replace-cross Abstract: The pervasive integrat
 
 ---
 
-## 203. Optimal FALQON for Quantum Approximate Optimization via Layer-wise Parameter Tuning
+## 194. Optimal FALQON for Quantum Approximate Optimization via Layer-wise Parameter Tuning
 
 **Author:** Michael Mancini, Shabnam Sodagari  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2447,7 +2339,7 @@ arXiv:2605.08332v2 Announce Type: replace-cross Abstract: Feedback-based adaptiv
 
 ---
 
-## 204. Structured Belief State and the First Precision-Aware Benchmark for LLM Memory Retrieval
+## 195. Structured Belief State and the First Precision-Aware Benchmark for LLM Memory Retrieval
 
 **Author:** Jeffrey Flynt  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2459,7 +2351,7 @@ arXiv:2605.11325v3 Announce Type: replace-cross Abstract: Current LLM memory ben
 
 ---
 
-## 205. Mathematical Reasoning in Large Language Models: Benchmarks, Architectures, Evaluation, and Open Challenges
+## 196. Mathematical Reasoning in Large Language Models: Benchmarks, Architectures, Evaluation, and Open Challenges
 
 **Author:** Husnain Amjad, Raja Khurram Shahzad, Aamir Shahzad, Mehwish Fatima  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2471,7 +2363,7 @@ arXiv:2605.19723v3 Announce Type: replace-cross Abstract: Mathematical reasoning
 
 ---
 
-## 206. CogAdapt: Adapting Clinical ECG Foundation Models for Wearable Cognitive Load Assessment
+## 197. CogAdapt: Adapting Clinical ECG Foundation Models for Wearable Cognitive Load Assessment
 
 **Author:** Amir Mousavi, Erfan Nourbakhsh, Mohammad Sadegh Sirjani, Mimi Xie, Rocky Slavin, Leslie Neely, John Davis, John Quarles  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2483,7 +2375,7 @@ arXiv:2605.22774v4 Announce Type: replace-cross Abstract: Assessing cognitive lo
 
 ---
 
-## 207. Cast a Wider Net: Coordinated Pass@K Policy Optimization for Code Reasoning
+## 198. Cast a Wider Net: Coordinated Pass@K Policy Optimization for Code Reasoning
 
 **Author:** Yilong Li, Suman Banerjee, Tong Che  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2495,7 +2387,7 @@ arXiv:2605.27000v3 Announce Type: replace-cross Abstract: Repeated sampling with
 
 ---
 
-## 208. Informing AI Policy Assessment using Large-Scale Simulation of Interventions
+## 199. Informing AI Policy Assessment using Large-Scale Simulation of Interventions
 
 **Author:** Julia Barnett, Kimon Kieslich, Natali Helberger, Nicholas Diakopoulos  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2507,7 +2399,7 @@ arXiv:2605.27395v2 Announce Type: replace-cross Abstract: As the rapid prolifera
 
 ---
 
-## 209. Trading Human Curation for Synthetic Augmentation in RLVR
+## 200. Trading Human Curation for Synthetic Augmentation in RLVR
 
 **Author:** Akshansh, Leonardo Rosa Rodrigues, Michael Korostelev, Youssef Hassan, Mark E. Whiting  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2519,7 +2411,7 @@ arXiv:2606.03800v2 Announce Type: replace-cross Abstract: The supply of high-qua
 
 ---
 
-## 210. Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation
+## 201. Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation
 
 **Author:** Rohan N. Pradhan, Steve Goley  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2531,7 +2423,7 @@ arXiv:2606.05403v2 Announce Type: replace-cross Abstract: Language models increa
 
 ---
 
-## 211. TLA-Prover: Verifiable TLA+ Specification Synthesis via Preference-Optimized Low-Rank Adaptation
+## 202. TLA-Prover: Verifiable TLA+ Specification Synthesis via Preference-Optimized Low-Rank Adaptation
 
 **Author:** Eric Spencer, Arslan Bisharat, Brian Ortiz, Khushboo Bhadauria, Mujtaba Nazari, TaiNing Wang, George K. Thiruvathukal, Konstantin Laufer, Mohammed Abuhamad  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2543,7 +2435,7 @@ arXiv:2606.06133v3 Announce Type: replace-cross Abstract: TLA+ is a formal speci
 
 ---
 
-## 212. MetaConfigurator: AI-Assisted RDF Authoring from JSON Data
+## 203. MetaConfigurator: AI-Assisted RDF Authoring from JSON Data
 
 **Author:** Felix Neubauer, Mahdi Jafarkhani, Kenichi Endo, J\"urgen Pleiss, Benjamin Uekermann  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2555,7 +2447,7 @@ arXiv:2606.07094v2 Announce Type: replace-cross Abstract: Scientific workflows i
 
 ---
 
-## 213. The Signs Were Always There: Training-Free Concept Detection and Steering in Raw Transformer Dimensions
+## 204. The Signs Were Always There: Training-Free Concept Detection and Steering in Raw Transformer Dimensions
 
 **Author:** Varun Reddy Nalagatla  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2567,7 +2459,7 @@ arXiv:2606.12629v3 Announce Type: replace-cross Abstract: The standard basis of 
 
 ---
 
-## 214. Feynman Kac Reweighted Schr\\\"odinger Bridge Matching for Surface-Based Tau PET Harmonization
+## 205. Feynman Kac Reweighted Schr\\\"odinger Bridge Matching for Surface-Based Tau PET Harmonization
 
 **Author:** Jianwei Zhang, Xinyu Nie, Jiaxin Yue, Yonggang Shi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2579,7 +2471,7 @@ arXiv:2606.17420v2 Announce Type: replace-cross Abstract: Tau positron emission 
 
 ---
 
-## 215. NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization
+## 206. NeuralMUSIC: A Hybrid Neural-Subspace Framework for Robot Sound Source Localization
 
 **Author:** Yizhuo Yang, Junqiao Fan, Shenghai Yuan, Lihua Xie  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2591,7 +2483,7 @@ arXiv:2606.18664v3 Announce Type: replace-cross Abstract: Reliable sound source 
 
 ---
 
-## 216. Where Did the Variability Go? From Vibe Coding to Product Lines by Regeneration
+## 207. Where Did the Variability Go? From Vibe Coding to Product Lines by Regeneration
 
 **Author:** Xhevahire T\"ernava  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2603,7 +2495,7 @@ arXiv:2606.19042v2 Announce Type: replace-cross Abstract: In vibe coding, an eme
 
 ---
 
-## 217. Polycepta: Object-Centric Appearance Estimation for Multi-Object Tracking
+## 208. Polycepta: Object-Centric Appearance Estimation for Multi-Object Tracking
 
 **Author:** Mohamed Nagy, Naoufel Werghi, Jorge Dias, Majid Khonji  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2615,7 +2507,7 @@ arXiv:2606.23604v3 Announce Type: replace-cross Abstract: The tracking-by-detect
 
 ---
 
-## 218. RWGBench: Evaluating Scholarly Positioning in Related Work Generation
+## 209. RWGBench: Evaluating Scholarly Positioning in Related Work Generation
 
 **Author:** Anzhe Xie, Weihang Su, Jiaxin Mao, Yiqun Liu, Shaoping Ma, Qingyao Ai  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2627,7 +2519,7 @@ arXiv:2606.24894v2 Announce Type: replace-cross Abstract: Large language models 
 
 ---
 
-## 219. Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem
+## 210. Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem
 
 **Author:** Xihan Xiong, Zelin Li, Wei Wei, Qin Wang, William Knottenbelt, Zhipeng Wang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2639,7 +2531,7 @@ arXiv:2606.26028v2 Announce Type: replace-cross Abstract: As autonomous AI agent
 
 ---
 
-## 220. JuZhou 1.0 Technical Report: The First Edge-Native Text-to-Image Foundation Model Trained Entirely on China-Developed AI Accelerators
+## 211. JuZhou 1.0 Technical Report: The First Edge-Native Text-to-Image Foundation Model Trained Entirely on China-Developed AI Accelerators
 
 **Author:** Ce Chen, Congrui Wang, Yonglin Li, Zhenchen Wan, Mingyang Geng, Junhao Xiao, Zhengpeng Xing, Yaqing Hu, Yao Wu, Zhaoyang Qu, Long Lan, Xinwang Liu, Yingqi Peng, Shijia Li, Zufeng Zhang, Chen Ma, Jingjing Zhou, Xingyu Wang, Qilin Lu, Bin Jiang, Qilin Sun, Shanzhi Gu, Yaoguang Jin, Tongliang Liu, Kede Ma, Yifan Peng  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2651,7 +2543,7 @@ arXiv:2606.28421v2 Announce Type: replace-cross Abstract: Text-to-image (T2I) di
 
 ---
 
-## 221. MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering
+## 212. MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering
 
 **Author:** Dang Quang Thien Tran, Quang V. Dang, Vinamra Tyagi, Sai Soorya Rao Veeravalli, Trang Nguyen, Ryan A. Rossi, Franck Dernoncourt, Nedim Lipka, Koustava Goswami, Samyadeep Basu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2663,7 +2555,7 @@ arXiv:2607.01420v3 Announce Type: replace-cross Abstract: As grounded QA systems
 
 ---
 
-## 222. Cross-Receiver Open-Set Radio Frequency Fingerprinting via Structure-First Adaptation
+## 213. Cross-Receiver Open-Set Radio Frequency Fingerprinting via Structure-First Adaptation
 
 **Author:** Fengchong Yao, Jianbing Li, Qing Liu, Kefeng Song, Haitao Li, Song Wang, Feixiang Wang  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2675,7 +2567,7 @@ arXiv:2607.02567v3 Announce Type: replace-cross Abstract: Radio frequency finger
 
 ---
 
-## 223. Phase-Preserving Trimodal Transformer for Tropical Forest Biomass Estimation Using Optical and PolInSAR Data
+## 214. Phase-Preserving Trimodal Transformer for Tropical Forest Biomass Estimation Using Optical and PolInSAR Data
 
 **Author:** Luiz Felipe Parente Santiago (Instituto de Computa\c{c}\~ao, Universidade Federal do Amazonas, Instituto de Pesquisas do Ex\'ercito na Amaz\^onia), Felipe Ferrari (Instituto Militar de Engenharia), Daniel Rodrigues dos Santos (Instituto Militar de Engenharia), Rosiane de Freitas (Instituto de Computa\c{c}\~ao, Universidade Federal do Amazonas)  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2687,7 +2579,7 @@ arXiv:2607.03663v3 Announce Type: replace-cross Abstract: The accurate estimatio
 
 ---
 
-## 224. RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies
+## 215. RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies
 
 **Author:** Tianxing Chen, Yue Chen, Zixuan Li, Junyuan Tang, Kailun Su, Haoran Lu, Weijie Wan, Baijun Chen, Songling Liu, Haowen Yan, Honghao Su, Zhiyang Dou, Kaixuan Wang, Dandan Zhang, Yunze Liu, Yan Qin, Qiwei Liang, Qiwei Wu, Zijian Lin, Wenwei Lin, Yuran Wang, Minghua He, Tianshu Wu, Ruihai Wu, Jingquan Zhou, Kai-Chong Lei, Haibao Yu, Yuanfeng Ji, Weiyang Jin, Guanyu Lin, Xiaofan Li, Qi Xiong, Renjing Xu, Zhongyu Li, Wenhao Chai, Enze Xie, Ziwei Wang, Yao Mu, Hao Dong, Wojciech Matusik, Mingyu Ding, Wenbo Ding, Ping Luo, Masayoshi Tomizuka  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2699,7 +2591,7 @@ arXiv:2607.04434v3 Announce Type: replace-cross Abstract: Generalist robot manip
 
 ---
 
-## 225. Wan-Streamer v0.2: Higher Resolution, Same Latency
+## 216. Wan-Streamer v0.2: Higher Resolution, Same Latency
 
 **Author:** Lianghua Huang, Zhi-Fan Wu, Yupeng Shi, Wei Wang, Mengyang Feng, Junjie He, Chen-Wei Xie, Yu Liu, Jingren Zhou, Ang Wang, Bang Zhang, Baole Ai, Chen Liang, Cheng Yu, Chongyang Zhong, Jinwei Qi, Kai Zhu, Pandeng Li, Peng Zhang, Wenyuan Zhang, Xinhua Cheng, Yitong Huang, Yun Zheng, Yuxiang Bao, Yuzheng Wang, Zoubin Bi  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2711,7 +2603,7 @@ arXiv:2607.04443v3 Announce Type: replace-cross Abstract: We present Wan-Streame
 
 ---
 
-## 226. Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation
+## 217. Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation
 
 **Author:** Haozhe Wang, Weijia Feng, Jinpeng Yu, Che Liu, Ping Nie, Fangzhen Lin, Jiaming Liu, Ruihua Huang, Jimmy Lin, Wenhu Chen, Cong Wei  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2723,7 +2615,7 @@ arXiv:2607.05382v3 Announce Type: replace-cross Abstract: Visual generators exce
 
 ---
 
-## 227. Weak-to-Strong Generalization via Direct On-Policy Distillation
+## 218. Weak-to-Strong Generalization via Direct On-Policy Distillation
 
 **Author:** Shiyuan Feng, Huan-ang Gao, Haohan Chi, Hanlin Wu, Zhilong Zhang, Zheng Jiang, Bingxiang He, Wei-Ying Ma, Ya-Qin Zhang, Hao Zhou  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2735,7 +2627,7 @@ arXiv:2607.05394v2 Announce Type: replace-cross Abstract: Reinforcement learning
 
 ---
 
-## 228. Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks
+## 219. Contrastive Predictive Coding with Compression for Enhanced Channel State Feedback in Wireless Networks
 
 **Author:** Ahmed Y. Radwan, Fahad Syed Muhammad, Matthew Baker, Hina Tabassum  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2747,7 +2639,7 @@ arXiv:2607.05419v2 Announce Type: replace-cross Abstract: Accurate and timely ch
 
 ---
 
-## 229. Tangent classes of matroids and wonderful compactifications
+## 220. Tangent classes of matroids and wonderful compactifications
 
 **Author:** Ronnie Cheng, Shurui Liu, Guoxiong Gao  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2759,7 +2651,7 @@ arXiv:2607.05835v2 Announce Type: replace-cross Abstract: For every loopless mat
 
 ---
 
-## 230. Think Before You Grid-Search: Floor-First Triage for LLM Serving
+## 221. Think Before You Grid-Search: Floor-First Triage for LLM Serving
 
 **Author:** Yihua Liu  
 **Published:** 7/9/2026, 4:00:00 AM  
@@ -2771,7 +2663,7 @@ arXiv:2607.05876v2 Announce Type: replace-cross Abstract: LLM serving optimizati
 
 ---
 
-## 231. UBEP: Re-architecting Expert Parallelism Communication Library for Production Superpods
+## 222. UBEP: Re-architecting Expert Parallelism Communication Library for Production Superpods
 
 **Author:** Yipeng Liu, Chang Liu, Si Shen, Jiaqi Zheng, Mingfan Li, Yuyang Yang, Guanhua Li, Yuquan Zhang, Yimeng Xu, Zhongzhe Hu, Zhiyuan Huang, Qihang Duan, Junsong Wang, Wenkai Ling, Baochuan Yang, Xianzhi Yu, Han Bao, Yijie Chen, Guihai Chen  
 **Published:** 7/9/2026, 4:00:00 AM  
