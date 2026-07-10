@@ -173,7 +173,7 @@ arXiv:2607.06628v1 Announce Type: new Abstract: Which properties of a partially 
 **Published:** 7/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, q-bio.NC  
 
-arXiv:2607.06629v1 Announce Type: new Abstract: Brain age -- the age inferred from a physiological recording -- is an emerging biomarker whose deviation from chronological age tracks neurological and psychiatric burden, and EEG is an attractive substrate for it because it is cheap, portable, and tem...
+arXiv:2607.06629v2 Announce Type: new Abstract: Brain age - the age inferred from a physiological recording - is an emerging biomarker whose deviation from chronological age tracks neurological and psychiatric burden, and EEG is an attractive substrate for it because it is cheap, portable, and tempo...
 
 📖 [Read original article](https://arxiv.org/abs/2607.06629)
 
@@ -365,7 +365,7 @@ arXiv:2607.06763v1 Announce Type: new Abstract: Speculative decoding greatly inc
 **Published:** 7/9/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.06772v1 Announce Type: new Abstract: Learned optimization aims to improve upon hand-designed optimizers (e.g., Adam and Muon) by meta-learning small neural network optimizers over a distribution of tasks. While recent work has greatly advanced the architectural design and inductive biases...
+arXiv:2607.06772v2 Announce Type: new Abstract: Learned optimization aims to improve upon hand-designed optimizers (e.g., Adam and Muon) by meta-learning small neural network optimizers over a distribution of tasks. While recent work has greatly advanced the architectural design and inductive biases...
 
 📖 [Read original article](https://arxiv.org/abs/2607.06772)
 
@@ -1553,7 +1553,7 @@ arXiv:2607.06649v1 Announce Type: cross Abstract: Multimodal Large Language Mode
 **Published:** 7/9/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.LG  
 
-arXiv:2607.06655v1 Announce Type: cross Abstract: In this report, we present Pelican-VLA 0.5, a unified VLA model that integrates vision-language understanding, future-frame generation, and action prediction within a single architecture. Pelican-VLA 0.5 achieves attention-level generalization: witho...
+arXiv:2607.06655v2 Announce Type: cross Abstract: In this report, we present Pelican-VLA 0.5, a unified VLA model that integrates vision-language understanding, future-frame generation, and action prediction within a single architecture. Pelican-VLA 0.5 achieves attention-level generalization: witho...
 
 📖 [Read original article](https://arxiv.org/abs/2607.06655)
 
@@ -1779,7 +1779,7 @@ arXiv:2607.06919v1 Announce Type: cross Abstract: Artificial intelligence (AI) a
 
 **Author:** Denis Belomestny, Alexander Gasnikov, Egor Gladin, Alexey Naumov, Artemy Rubtsov, Yuri Sapronov, Daniil Tiapkin, Nikita Yudin  
 **Published:** 7/9/2026, 4:00:00 AM  
-**Categories:** math.OC, cs.LG  
+**Categories:** math.OC, cs.LG, stat.ML  
 
 arXiv:2607.06935v1 Announce Type: cross Abstract: Reinforcement learning (RL) is increasingly grounded in tools from probability, optimization, and operator theory. This survey organizes the mathematical structures that underpin the design and analysis of modern algorithms in RL. We begin from Marko...
 
@@ -1981,11 +1981,11 @@ arXiv:2607.07318v1 Announce Type: cross Abstract: Rigorous content moderation is
 
 ## 165. Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report
 
-**Author:** Xufeng Zhao, Fuzhi Yang, Jianhui Chen, Li Gao, Zhang Meng, Jie Gao, Yao Zheng, Wenyu Liu, Menglin Yang, Minqi Gu, Yaru Zhao, Honglin Han, Shihui Su, Zixiao Tang, Liu Liu, Mu Xu, Yang Cai, Wenbin Tang  
+**Author:** Xufeng Zhao, Fuzhi Yang, Jianhui Chen, Li Gao, Zhang Meng, Jie Gao, Yao Zheng, Congyang Zhao, Tianxiong Lv, Menglin Yang, Minqi Gu, Yaru Zhao, Wenyu Liu, Honglin Han, Shihui Su, Zixiao Tang, Liu Liu, Mu Xu, Yang Cai, Wenbin Tang  
 **Published:** 7/9/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.HC, cs.LG  
 
-arXiv:2607.07370v1 Announce Type: cross Abstract: In embodied intelligence systems, the motion controller serves as the critical bridge between semantic reasoning and physical execution. Humanoid control has progressed rapidly through large-scale human motion-capture data and motion-tracking paradig...
+arXiv:2607.07370v2 Announce Type: cross Abstract: The motion controller is one of the most fundamental modules in embodied intelligence systems. Driven by large-scale human motion-capture data and the motion-tracking paradigm, humanoid control has achieved remarkable progress in recent years. Howeve...
 
 📖 [Read original article](https://arxiv.org/abs/2607.07370)
 
@@ -2327,13 +2327,13 @@ arXiv:2505.01584v4 Announce Type: replace Abstract: Adaptive video streaming opt
 
 ---
 
-## 194. Protocol Models: Scaling Decentralized Training with Communication-Efficient Model Parallelism
+## 194. Subspace Networks: Scaling Decentralized Training with Communication-Efficient Model Parallelism
 
 **Author:** Sameera Ramasinghe, Thalaiyasingam Ajanthan, Gil Avraham, Yan Zuo, Alexander Long  
 **Published:** 7/9/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2506.01260v2 Announce Type: replace Abstract: Scaling models has led to significant advancements in deep learning, but training these models in decentralized settings remains challenging due to communication bottlenecks. While existing compression techniques are effective in data-parallel, the...
+arXiv:2506.01260v3 Announce Type: replace Abstract: Scaling models has led to significant advancements in deep learning, but training these models in decentralized settings remains challenging due to communication bottlenecks. While existing compression techniques are effective in data-parallel, the...
 
 📖 [Read original article](https://arxiv.org/abs/2506.01260)
 
@@ -2797,11 +2797,11 @@ arXiv:2606.31126v2 Announce Type: replace Abstract: Predicting biomolecular prop
 
 ## 233. Phase-Preserving Trimodal Transformer for Tropical Forest Biomass Estimation Using Optical and PolInSAR Data
 
-**Author:** Luiz Felipe Parente Santiago (Instituto de Computa\c{c}\~ao, Universidade Federal do Amazonas, Instituto de Pesquisas do Ex\'ercito na Amaz\^onia), Felipe Ferrari (Instituto Militar de Engenharia), Daniel Rodrigues dos Santos (Instituto Militar de Engenharia), Rosiane Rodrigues de Freitas (Instituto de Computa\c{c}\~ao, Universidade Federal do Amazonas)  
+**Author:** Luiz Felipe Parente Santiago (Instituto de Computa\c{c}\~ao, Universidade Federal do Amazonas, Instituto de Pesquisas do Ex\'ercito na Amaz\^onia), Felipe Ferrari (Instituto Militar de Engenharia), Daniel Rodrigues dos Santos (Instituto Militar de Engenharia), Rosiane de Freitas (Instituto de Computa\c{c}\~ao, Universidade Federal do Amazonas)  
 **Published:** 7/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CV  
 
-arXiv:2607.03663v2 Announce Type: replace Abstract: The accurate estimation of Above-Ground Biomass (AGB) in mature tropical forests remains a critical challenge in remote sensing, primarily due to the saturation of Synthetic Aperture Radar (SAR) signals in high-density areas and persistent cloud co...
+arXiv:2607.03663v3 Announce Type: replace Abstract: The accurate estimation of Above-Ground Biomass (AGB) in mature tropical forests remains a critical challenge in remote sensing, primarily due to the saturation of Synthetic Aperture Radar (SAR) signals in high-density areas and persistent cloud co...
 
 📖 [Read original article](https://arxiv.org/abs/2607.03663)
 
