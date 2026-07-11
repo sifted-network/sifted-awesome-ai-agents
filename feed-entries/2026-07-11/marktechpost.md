@@ -15,7 +15,7 @@ count: 1
 
 **Author:** Asif Razzaq  
 **Published:** 7/11/2026, 7:56:11 AM  
-**Categories:** AI Infrastructure, AI Paper Summary, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Physical AI, Robotics, Staff, Tech News, Technology, Uncategorized  
+**Categories:** AI Infrastructure, AI Paper Summary, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Physical AI, Promote, Robotics, Sponsored, Staff, Tech News, Technology, Uncategorized  
 
 Ant Group's Robbyant has released the LingBot-VA 2.0 technical report — a Physical AI video-action foundation model built from scratch for embodiment rather than fine-tuned from a video generator. It predicts future states ahead of execution through Foresight Reasoning, re-grounds on every real obse...
 
