@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI takes two-thirds of venture money, and your odds are still one in six
+## 1. AI fiction is easy to detect because it's stupid and bad, research finds
 
-**Author:** ermantrout  
-**Published:** 7/11/2026, 12:26:21 PM  
+**Author:** theanonymousone  
+**Published:** 7/11/2026, 6:53:53 PM  
 **Categories:** -  
 
-Article URL: https://okaneland.com/study/ai-startup-raise-math/ Comments URL: https://news.ycombinator.com/item?id=48871449 Points: 2 # Comments: 0
+Article URL: https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/ Comments URL: https://news.ycombinator.com/item?id=48874657 Points: 1 # Comments: 0
 
-📖 [Read original article](https://okaneland.com/study/ai-startup-raise-math/)
+📖 [Read original article](https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/)
 
 ---
 
-## 2. Show HN: AI assistant for Google Chat to translate any file preserving layout
+## 2. Physical AI scale up chemistry startup gaining traction at Big Pharma
 
-**Author:** robgehring  
-**Published:** 7/11/2026, 12:00:32 PM  
+**Author:** hairoglyphics  
+**Published:** 7/11/2026, 6:53:40 PM  
 **Categories:** -  
 
-Article URL: https://workspace.google.com/marketplace/app/anyfile_translator/960750725467 Comments URL: https://news.ycombinator.com/item?id=48871277 Points: 1 # Comments: 1
+Article URL: https://skydeckconnect.com/telescope-innovations-telif Comments URL: https://news.ycombinator.com/item?id=48874653 Points: 1 # Comments: 0
 
-📖 [Read original article](https://workspace.google.com/marketplace/app/anyfile_translator/960750725467)
+📖 [Read original article](https://skydeckconnect.com/telescope-innovations-telif)
 
 ---
 
-## 3. AI Surveillance and Social Progress
+## 3. AI 2027
 
-**Author:** ahamez  
-**Published:** 7/11/2026, 11:33:07 AM  
+**Author:** baalimago  
+**Published:** 7/11/2026, 6:53:26 PM  
 **Categories:** -  
 
-Article URL: https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html Comments URL: https://news.ycombinator.com/item?id=48871090 Points: 3 # Comments: 0
+Article URL: https://ai-2027.com/ Comments URL: https://news.ycombinator.com/item?id=48874647 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html)
+📖 [Read original article](https://ai-2027.com/)
 
 ---
 
-## 4. As better chatbots get harder to build, AI turns to simulated worlds
+## 4. AI rebrands fail to deliver a lasting share price boost
 
-**Author:** pseudolus  
-**Published:** 7/11/2026, 11:04:00 AM  
+**Author:** JumpCrisscross  
+**Published:** 7/11/2026, 6:21:43 PM  
 **Categories:** -  
 
-Article URL: https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds Comments URL: https://news.ycombinator.com/item?id=48870908 Points: 3 # Comments: 0
+Article URL: https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b Comments URL: https://news.ycombinator.com/item?id=48874352 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds)
+📖 [Read original article](https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b)
 
 ---
 
-## 5. Show HN: My AI agent has 9 hours left to win a public bet – live dashboard
+## 5. Ask HN: Has single-task focus become outdated in the AI era?
 
-**Author:** parweb  
-**Published:** 7/11/2026, 10:59:33 AM  
+**Author:** yura  
+**Published:** 7/11/2026, 6:20:26 PM  
 **Categories:** -  
 
-Article URL: https://1h-money.vercel.app/finale.html Comments URL: https://news.ycombinator.com/item?id=48870875 Points: 1 # Comments: 0
+I’ve always found that deep focusing on one task at a time was the only way to get things done at work with good quality and at an acceptable pace, and I have a real hard time multitasking (even with AI) because of context switching and getting distracted or overwhelmed.But with AI making parallel w...
 
-📖 [Read original article](https://1h-money.vercel.app/finale.html)
+📖 [Read original article](https://news.ycombinator.com/item?id=48874344)
 
 ---
 
-## 6. Show HN: Colyap – AI friend you can call and text
+## 6. Safe from AI: which jobs will help you thrive in the future?
 
-**Author:** piyussh  
-**Published:** 7/11/2026, 10:49:51 AM  
+**Author:** hackernj  
+**Published:** 7/11/2026, 6:06:27 PM  
 **Categories:** -  
 
-call it, text it. connect your apps. go crazy. it's got long running tasks. it remembers everything about you. journal your life. it tries to understand what you want. no registration needed. BYOK. it gets better with time. go yap!handled 20,000+ minutes of conversations and 10,000+ texts a day. bui...
+Article URL: https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law Comments URL: https://news.ycombinator.com/item?id=48874216 Points: 2 # Comments: 2
 
-📖 [Read original article](https://www.colyap.com/)
+📖 [Read original article](https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law)
 
 ---
 
-## 7. Show HN: AI Agent Audit for Free
+## 7. AI 2040 and the Cult of Intelligence
 
-**Author:** dchitimalla1  
-**Published:** 7/11/2026, 10:26:29 AM  
+**Author:** rvz  
+**Published:** 7/11/2026, 6:04:01 PM  
 **Categories:** -  
 
-Article URL: https://github.com/sinewaveai/agent-security-scanner-mcp Comments URL: https://news.ycombinator.com/item?id=48870646 Points: 1 # Comments: 0
+Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 81 # Comments: 37
 
-📖 [Read original article](https://github.com/sinewaveai/agent-security-scanner-mcp)
+📖 [Read original article](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 
 ---
 
-## 8. Nobel laureate Omar Yaghi joins Tsinghua to lead AI materials lab
+## 8. Thalmaar AI (Defense and Space Tech) Is Hiring Founding PM
 
-**Author:** signa11  
-**Published:** 7/11/2026, 10:14:37 AM  
+**Author:** reach_kapil  
+**Published:** 7/11/2026, 5:48:38 PM  
 **Categories:** -  
 
-Article URL: https://www.nationpress.com/sciencetech/nobel-chemist-yaghi-moves-to-tsinghua Comments URL: https://news.ycombinator.com/item?id=48870589 Points: 2 # Comments: 0
+Article URL: https://wellfound.com/jobs/4377171-ai-product-manager-vision-ai Comments URL: https://news.ycombinator.com/item?id=48874077 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.nationpress.com/sciencetech/nobel-chemist-yaghi-moves-to-tsinghua)
+📖 [Read original article](https://wellfound.com/jobs/4377171-ai-product-manager-vision-ai)
 
 ---
 
-## 9. AgentKindergarten – daycare for your AI coding agents
+## 9. OpenSandbox Universal Sandbox Infrastructure for AI Applications
 
-**Author:** rokrak  
-**Published:** 7/11/2026, 10:08:05 AM  
+**Author:** hek2sch  
+**Published:** 7/11/2026, 5:45:49 PM  
 **Categories:** -  
 
-Article URL: https://github.com/rokrak1/agentkindergarten Comments URL: https://news.ycombinator.com/item?id=48870547 Points: 2 # Comments: 0
+Article URL: https://open-sandbox.ai/ Comments URL: https://news.ycombinator.com/item?id=48874053 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/rokrak1/agentkindergarten)
+📖 [Read original article](https://open-sandbox.ai/)
 
 ---
 
-## 10. Show HN: Create realistic group photos in real time with AI
+## 10. Alex Karp Is Saying What Every Angry CEO Is Thinking About AI
 
-**Author:** keenthinker  
-**Published:** 7/11/2026, 9:48:44 AM  
+**Author:** Brajeshwar  
+**Published:** 7/11/2026, 5:37:30 PM  
 **Categories:** -  
 
-Article URL: https://pixailer.com Comments URL: https://news.ycombinator.com/item?id=48870446 Points: 1 # Comments: 1
+Article URL: https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c Comments URL: https://news.ycombinator.com/item?id=48873978 Points: 15 # Comments: 9
 
-📖 [Read original article](https://pixailer.com)
+📖 [Read original article](https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c)
 
 ---
 
-## 11. A font that humans can read but AI cannot
+## 11. Reverse centaurs are the answer to the AI paradox
 
-**Author:** justswim  
-**Published:** 7/11/2026, 9:36:53 AM  
+**Author:** jason_s  
+**Published:** 7/11/2026, 5:23:52 PM  
 **Categories:** -  
 
-Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 70 # Comments: 64
+Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 34 # Comments: 5
 
-📖 [Read original article](https://www.mixfont.com/ghost-font)
+📖 [Read original article](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)
 
 ---
 
-## 12. Microsoft latest report shows 25% emissions raised due to AI data centers
+## 12. AI Found a Root Bug in Linux That Everyone Missed for 15 Years
 
-**Author:** pjmlp  
-**Published:** 7/11/2026, 9:10:45 AM  
+**Author:** joozio  
+**Published:** 7/11/2026, 5:00:52 PM  
 **Categories:** -  
 
-Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/item?id=48870229 Points: 16 # Comments: 2
+Article URL: https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/ Comments URL: https://news.ycombinator.com/item?id=48873669 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump)
+📖 [Read original article](https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/)
 
 ---
 
-## 13. Eliezer Yudkowsky: Will superintelligent AI end the world? [video]
+## 13. Local-first agent governance: keeping an AI agent contained
 
-**Author:** fagnerbrack  
-**Published:** 7/11/2026, 8:34:36 AM  
+**Author:** VektorGeist  
+**Published:** 7/11/2026, 4:27:05 PM  
 **Categories:** -  
 
-Article URL: https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world Comments URL: https://news.ycombinator.com/item?id=48870062 Points: 1 # Comments: 0
+Article URL: https://vektorgeist.com/blog Comments URL: https://news.ycombinator.com/item?id=48873414 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world)
+📖 [Read original article](https://vektorgeist.com/blog)
 
 ---
 
-## 14. Companies are scrambling to curtail soaring AI costs
+## 14. Agentation – Visual UI Annotation for AI Coding Agents
 
-**Author:** nlpnerd  
-**Published:** 7/11/2026, 8:29:43 AM  
+**Author:** rekl  
+**Published:** 7/11/2026, 4:16:51 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs Comments URL: https://news.ycombinator.com/item?id=48870035 Points: 36 # Comments: 23
+Article URL: https://www.agentation.com/ Comments URL: https://news.ycombinator.com/item?id=48873337 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs)
+📖 [Read original article](https://www.agentation.com/)
 
 ---
 
-## 15. AI is compressing the startup lifecycle, not just development speed
+## 15. Show HN: I Wanted AI Code Review I Could Own. So I Built Codra
 
-**Author:** adelivet  
-**Published:** 7/11/2026, 8:28:50 AM  
+**Author:** devarshishimpi  
+**Published:** 7/11/2026, 4:15:44 PM  
 **Categories:** -  
 
-Article URL: https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land Comments URL: https://news.ycombinator.com/item?id=48870025 Points: 1 # Comments: 0
+Article URL: https://medium.com/@devarshidev/i-wanted-ai-code-review-i-could-actually-own-so-i-built-codra-beea2e3f18fd Comments URL: https://news.ycombinator.com/item?id=48873326 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land)
+📖 [Read original article](https://medium.com/@devarshidev/i-wanted-ai-code-review-i-could-actually-own-so-i-built-codra-beea2e3f18fd)
 
 ---
 
-## 16. Study: Cerebellum helps AI ignore the ordinary for more efficient computing
+## 16. Show HN: Free AI Visibility Audit Tool& Agent
 
-**Author:** giuliomagnifico  
-**Published:** 7/11/2026, 8:23:36 AM  
+**Author:** andytan  
+**Published:** 7/11/2026, 3:59:31 PM  
 **Categories:** -  
 
-Article URL: https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/ Comments URL: https://news.ycombinator.com/item?id=48869998 Points: 3 # Comments: 0
+AI VISIBILITY helps brands audit, measure, and improve AI search visibility across ChatGPT, Gemini, Claude, Perplexity, Grok, and Google AI results with actionable GEO reports. Comments URL: https://news.ycombinator.com/item?id=48873177 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/)
+📖 [Read original article](https://ai-visibility.pro)
 
 ---
 
-## 17. Competitive Programming in the Era of AI
+## 17. My AI Model Tier List for Mid-2026
 
-**Author:** m-novikov  
-**Published:** 7/11/2026, 7:24:44 AM  
+**Author:** rcarmo  
+**Published:** 7/11/2026, 3:43:49 PM  
 **Categories:** -  
 
-Article URL: https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/ Comments URL: https://news.ycombinator.com/item?id=48869623 Points: 1 # Comments: 0
+Article URL: https://taoofmac.com/space/blog/2026/07/11/1500 Comments URL: https://news.ycombinator.com/item?id=48873016 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/)
+📖 [Read original article](https://taoofmac.com/space/blog/2026/07/11/1500)
 
 ---
 
-## 18. 8 Stages of AI engineering maturity: a framework for teams
+## 18. An educational lab of AI agent architectures
 
-**Author:** cribwi  
-**Published:** 7/11/2026, 7:19:22 AM  
+**Author:** ilia53  
+**Published:** 7/11/2026, 3:33:22 PM  
 **Categories:** -  
 
-Article URL: https://upsun.com/blog/8-stages-ai-engineering-maturity/ Comments URL: https://news.ycombinator.com/item?id=48869595 Points: 2 # Comments: 0
+Article URL: https://github.com/Rudnik-Ilia/Agents-Sandbox Comments URL: https://news.ycombinator.com/item?id=48872922 Points: 1 # Comments: 0
 
-📖 [Read original article](https://upsun.com/blog/8-stages-ai-engineering-maturity/)
+📖 [Read original article](https://github.com/Rudnik-Ilia/Agents-Sandbox)
 
 ---
 
-## 19. How AI is rewiring childhood
+## 19. I made AI agents play diplomacy
 
-**Author:** pretext  
-**Published:** 7/11/2026, 7:14:51 AM  
+**Author:** behlers99  
+**Published:** 7/11/2026, 3:24:54 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood Comments URL: https://news.ycombinator.com/item?id=48869574 Points: 2 # Comments: 0
+Article URL: https://github.com/brendenehlers/diplomacy-ai Comments URL: https://news.ycombinator.com/item?id=48872843 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)
+📖 [Read original article](https://github.com/brendenehlers/diplomacy-ai)
 
 ---
 
-## 20. Java local AI client and MCP orchestrator without the Python dependency hell
+## 20. AI Is Making Silicon Valley Productive, Anxious and Afraid to Log Off
 
-**Author:** ruoku  
-**Published:** 7/11/2026, 6:30:03 AM  
+**Author:** mancerayder  
+**Published:** 7/11/2026, 3:18:59 PM  
 **Categories:** -  
 
-Article URL: https://ypipe.com/ Comments URL: https://news.ycombinator.com/item?id=48869348 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers Comments URL: https://news.ycombinator.com/item?id=48872786 Points: 2 # Comments: 1
 
-📖 [Read original article](https://ypipe.com/)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers)
 
 ---
