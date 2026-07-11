@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-10"
 date: "2026-07-10"
 source: "qbitai"
-count: 9
+count: 8
 ---
 
 # qbitai - 2026-07-10
 
-9 items collected.
+8 items collected.
 
 ---
 
@@ -104,17 +104,5 @@ agent时代来了
 字节也入局了
 
 📖 [Read original article](https://www.qbitai.com/2026/07/447602.html)
-
----
-
-## 9. 行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0
-
-**Author:** 量子位的朋友们  
-**Published:** 7/10/2026, 3:28:59 AM  
-**Categories:** 资讯, 蚂蚁灵波  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/447597.html)
 
 ---
