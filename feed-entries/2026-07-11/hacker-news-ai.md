@@ -11,7 +11,235 @@ count: 20
 
 ---
 
-## 1. Java local AI client and MCP orchestrator without the Python dependency hell
+## 1. AI takes two-thirds of venture money, and your odds are still one in six
+
+**Author:** ermantrout  
+**Published:** 7/11/2026, 12:26:21 PM  
+**Categories:** -  
+
+Article URL: https://okaneland.com/study/ai-startup-raise-math/ Comments URL: https://news.ycombinator.com/item?id=48871449 Points: 2 # Comments: 0
+
+📖 [Read original article](https://okaneland.com/study/ai-startup-raise-math/)
+
+---
+
+## 2. Show HN: AI assistant for Google Chat to translate any file preserving layout
+
+**Author:** robgehring  
+**Published:** 7/11/2026, 12:00:32 PM  
+**Categories:** -  
+
+Article URL: https://workspace.google.com/marketplace/app/anyfile_translator/960750725467 Comments URL: https://news.ycombinator.com/item?id=48871277 Points: 1 # Comments: 1
+
+📖 [Read original article](https://workspace.google.com/marketplace/app/anyfile_translator/960750725467)
+
+---
+
+## 3. AI Surveillance and Social Progress
+
+**Author:** ahamez  
+**Published:** 7/11/2026, 11:33:07 AM  
+**Categories:** -  
+
+Article URL: https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html Comments URL: https://news.ycombinator.com/item?id=48871090 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html)
+
+---
+
+## 4. As better chatbots get harder to build, AI turns to simulated worlds
+
+**Author:** pseudolus  
+**Published:** 7/11/2026, 11:04:00 AM  
+**Categories:** -  
+
+Article URL: https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds Comments URL: https://news.ycombinator.com/item?id=48870908 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds)
+
+---
+
+## 5. Show HN: My AI agent has 9 hours left to win a public bet – live dashboard
+
+**Author:** parweb  
+**Published:** 7/11/2026, 10:59:33 AM  
+**Categories:** -  
+
+Article URL: https://1h-money.vercel.app/finale.html Comments URL: https://news.ycombinator.com/item?id=48870875 Points: 1 # Comments: 0
+
+📖 [Read original article](https://1h-money.vercel.app/finale.html)
+
+---
+
+## 6. Show HN: Colyap – AI friend you can call and text
+
+**Author:** piyussh  
+**Published:** 7/11/2026, 10:49:51 AM  
+**Categories:** -  
+
+call it, text it. connect your apps. go crazy. it's got long running tasks. it remembers everything about you. journal your life. it tries to understand what you want. no registration needed. BYOK. it gets better with time. go yap!handled 20,000+ minutes of conversations and 10,000+ texts a day. bui...
+
+📖 [Read original article](https://www.colyap.com/)
+
+---
+
+## 7. Show HN: AI Agent Audit for Free
+
+**Author:** dchitimalla1  
+**Published:** 7/11/2026, 10:26:29 AM  
+**Categories:** -  
+
+Article URL: https://github.com/sinewaveai/agent-security-scanner-mcp Comments URL: https://news.ycombinator.com/item?id=48870646 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/sinewaveai/agent-security-scanner-mcp)
+
+---
+
+## 8. Nobel laureate Omar Yaghi joins Tsinghua to lead AI materials lab
+
+**Author:** signa11  
+**Published:** 7/11/2026, 10:14:37 AM  
+**Categories:** -  
+
+Article URL: https://www.nationpress.com/sciencetech/nobel-chemist-yaghi-moves-to-tsinghua Comments URL: https://news.ycombinator.com/item?id=48870589 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.nationpress.com/sciencetech/nobel-chemist-yaghi-moves-to-tsinghua)
+
+---
+
+## 9. AgentKindergarten – daycare for your AI coding agents
+
+**Author:** rokrak  
+**Published:** 7/11/2026, 10:08:05 AM  
+**Categories:** -  
+
+Article URL: https://github.com/rokrak1/agentkindergarten Comments URL: https://news.ycombinator.com/item?id=48870547 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/rokrak1/agentkindergarten)
+
+---
+
+## 10. Show HN: Create realistic group photos in real time with AI
+
+**Author:** keenthinker  
+**Published:** 7/11/2026, 9:48:44 AM  
+**Categories:** -  
+
+Article URL: https://pixailer.com Comments URL: https://news.ycombinator.com/item?id=48870446 Points: 1 # Comments: 1
+
+📖 [Read original article](https://pixailer.com)
+
+---
+
+## 11. A font that humans can read but AI cannot
+
+**Author:** justswim  
+**Published:** 7/11/2026, 9:36:53 AM  
+**Categories:** -  
+
+Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 70 # Comments: 64
+
+📖 [Read original article](https://www.mixfont.com/ghost-font)
+
+---
+
+## 12. Microsoft latest report shows 25% emissions raised due to AI data centers
+
+**Author:** pjmlp  
+**Published:** 7/11/2026, 9:10:45 AM  
+**Categories:** -  
+
+Article URL: https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump Comments URL: https://news.ycombinator.com/item?id=48870229 Points: 16 # Comments: 2
+
+📖 [Read original article](https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump)
+
+---
+
+## 13. Eliezer Yudkowsky: Will superintelligent AI end the world? [video]
+
+**Author:** fagnerbrack  
+**Published:** 7/11/2026, 8:34:36 AM  
+**Categories:** -  
+
+Article URL: https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world Comments URL: https://news.ycombinator.com/item?id=48870062 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.ted.com/talks/eliezer_yudkowsky_will_superintelligent_ai_end_the_world)
+
+---
+
+## 14. Companies are scrambling to curtail soaring AI costs
+
+**Author:** nlpnerd  
+**Published:** 7/11/2026, 8:29:43 AM  
+**Categories:** -  
+
+Article URL: https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs Comments URL: https://news.ycombinator.com/item?id=48870035 Points: 36 # Comments: 23
+
+📖 [Read original article](https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs)
+
+---
+
+## 15. AI is compressing the startup lifecycle, not just development speed
+
+**Author:** adelivet  
+**Published:** 7/11/2026, 8:28:50 AM  
+**Categories:** -  
+
+Article URL: https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land Comments URL: https://news.ycombinator.com/item?id=48870025 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.alexdelivet.com/insights/the-end-of-zombie-startup-land)
+
+---
+
+## 16. Study: Cerebellum helps AI ignore the ordinary for more efficient computing
+
+**Author:** giuliomagnifico  
+**Published:** 7/11/2026, 8:23:36 AM  
+**Categories:** -  
+
+Article URL: https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/ Comments URL: https://news.ycombinator.com/item?id=48869998 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.mccormick.northwestern.edu/news/articles/2026/07/ai-gets-a-cerebellum/)
+
+---
+
+## 17. Competitive Programming in the Era of AI
+
+**Author:** m-novikov  
+**Published:** 7/11/2026, 7:24:44 AM  
+**Categories:** -  
+
+Article URL: https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/ Comments URL: https://news.ycombinator.com/item?id=48869623 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.vibhaas.net/posts/Competitive-Programming-in-the-era-of-AI/)
+
+---
+
+## 18. 8 Stages of AI engineering maturity: a framework for teams
+
+**Author:** cribwi  
+**Published:** 7/11/2026, 7:19:22 AM  
+**Categories:** -  
+
+Article URL: https://upsun.com/blog/8-stages-ai-engineering-maturity/ Comments URL: https://news.ycombinator.com/item?id=48869595 Points: 2 # Comments: 0
+
+📖 [Read original article](https://upsun.com/blog/8-stages-ai-engineering-maturity/)
+
+---
+
+## 19. How AI is rewiring childhood
+
+**Author:** pretext  
+**Published:** 7/11/2026, 7:14:51 AM  
+**Categories:** -  
+
+Article URL: https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood Comments URL: https://news.ycombinator.com/item?id=48869574 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)
+
+---
+
+## 20. Java local AI client and MCP orchestrator without the Python dependency hell
 
 **Author:** ruoku  
 **Published:** 7/11/2026, 6:30:03 AM  
@@ -20,233 +248,5 @@ count: 20
 Article URL: https://ypipe.com/ Comments URL: https://news.ycombinator.com/item?id=48869348 Points: 1 # Comments: 0
 
 📖 [Read original article](https://ypipe.com/)
-
----
-
-## 2. Create high-converting AI UGC ads in minutes
-
-**Author:** mrguo  
-**Published:** 7/11/2026, 5:58:14 AM  
-**Categories:** -  
-
-Article URL: https://aiugcads.net/ Comments URL: https://news.ycombinator.com/item?id=48869187 Points: 1 # Comments: 0
-
-📖 [Read original article](https://aiugcads.net/)
-
----
-
-## 3. The Conversation We're Not Having About AI in Peer Review
-
-**Author:** azhenley  
-**Published:** 7/11/2026, 5:36:37 AM  
-**Categories:** -  
-
-Article URL: https://cabird.com/ide/posts/ai-in-peer-review Comments URL: https://news.ycombinator.com/item?id=48869086 Points: 1 # Comments: 0
-
-📖 [Read original article](https://cabird.com/ide/posts/ai-in-peer-review)
-
----
-
-## 4. AI Limit, Social Divide
-
-**Author:** valand  
-**Published:** 7/11/2026, 5:22:06 AM  
-**Categories:** -  
-
-Article URL: https://valand.dev/blog/post/ai-limit-divide Comments URL: https://news.ycombinator.com/item?id=48869008 Points: 1 # Comments: 0
-
-📖 [Read original article](https://valand.dev/blog/post/ai-limit-divide)
-
----
-
-## 5. Meta removes AI feature on Instagram after global backlash
-
-**Author:** billybuckwheat  
-**Published:** 7/11/2026, 4:19:14 AM  
-**Categories:** -  
-
-Article URL: https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash Comments URL: https://news.ycombinator.com/item?id=48868705 Points: 8 # Comments: 2
-
-📖 [Read original article](https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash)
-
----
-
-## 6. Managing a small local AI budget (Mac M2 16gb)
-
-**Author:** winding  
-**Published:** 7/11/2026, 4:17:19 AM  
-**Categories:** -  
-
-Article URL: https://millfolio.com/blog/local-ai-infra-tags/ Comments URL: https://news.ycombinator.com/item?id=48868694 Points: 2 # Comments: 0
-
-📖 [Read original article](https://millfolio.com/blog/local-ai-infra-tags/)
-
----
-
-## 7. SpaceX's near-term AI payoff seen tethered to Earth, not outer space
-
-**Author:** adithyaharish  
-**Published:** 7/11/2026, 3:56:36 AM  
-**Categories:** -  
-
-Article URL: https://www.reuters.com/science/spacexs-near-term-ai-payoff-seen-tethered-earth-not-outer-space-2026-07-10/ Comments URL: https://news.ycombinator.com/item?id=48868581 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.reuters.com/science/spacexs-near-term-ai-payoff-seen-tethered-earth-not-outer-space-2026-07-10/)
-
----
-
-## 8. Big Tech Doubles Debt Load to $350B in AI Spending Spree
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/11/2026, 3:30:12 AM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree Comments URL: https://news.ycombinator.com/item?id=48868449 Points: 9 # Comments: 2
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree)
-
----
-
-## 9. Show HN: NoiseRemover.ai – Remove background noise from audio
-
-**Author:** nadermx  
-**Published:** 7/11/2026, 2:40:29 AM  
-**Categories:** -  
-
-Article URL: https://noiseremover.ai/ Comments URL: https://news.ycombinator.com/item?id=48868137 Points: 1 # Comments: 1
-
-📖 [Read original article](https://noiseremover.ai/)
-
----
-
-## 10. Haves, have-nots and know-nots: Inside AI's new class divide
-
-**Author:** 0in  
-**Published:** 7/11/2026, 2:37:07 AM  
-**Categories:** -  
-
-Article URL: https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos Comments URL: https://news.ycombinator.com/item?id=48868109 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos)
-
----
-
-## 11. AI makes Pompeii victim's final moments look real
-
-**Author:** gmays  
-**Published:** 7/11/2026, 2:35:08 AM  
-**Categories:** -  
-
-Article URL: https://www.popsci.com/science/ai-pompeii-victim-with-mortar-recreation/ Comments URL: https://news.ycombinator.com/item?id=48868096 Points: 1 # Comments: 1
-
-📖 [Read original article](https://www.popsci.com/science/ai-pompeii-victim-with-mortar-recreation/)
-
----
-
-## 12. Apple sues OpenAI, alleging the AI company stole trade secrets
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/11/2026, 2:34:45 AM  
-**Categories:** -  
-
-Article URL: https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/ Comments URL: https://news.ycombinator.com/item?id=48868094 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/)
-
----
-
-## 13. AI models' values are different from most people's
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/11/2026, 2:13:37 AM  
-**Categories:** -  
-
-Article URL: https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples Comments URL: https://news.ycombinator.com/item?id=48867923 Points: 1 # Comments: 1
-
-📖 [Read original article](https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples)
-
----
-
-## 14. Show HN: I made Claude explain like I'm 5, and AI fatigue disappeared
-
-**Author:** amebahead  
-**Published:** 7/11/2026, 1:51:48 AM  
-**Categories:** -  
-
-I was burning out reading AI output. So I created the ELI5 Rule, ELI5 Rule is "explain-like-iam-five"It's simple. Try it.https://github.com/amebahead/explain-like-iam-five-rules Comments URL: https://news.ycombinator.com/item?id=48867766 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/amebahead/explain-like-iam-five-rules)
-
----
-
-## 15. OpenAI and Google sell AI models to blacklisted China groups
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/11/2026, 1:49:13 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f Comments URL: https://news.ycombinator.com/item?id=48867753 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f)
-
----
-
-## 16. DeepSeek-AI/DeepSeek-v3.2
-
-**Author:** ASHOKGOUDK  
-**Published:** 7/11/2026, 1:44:28 AM  
-**Categories:** -  
-
-Article URL: https://huggingbay.xyz/artifact/hf-model-deepseek-ai-deepseek-v3-2 Comments URL: https://news.ycombinator.com/item?id=48867720 Points: 1 # Comments: 2
-
-📖 [Read original article](https://huggingbay.xyz/artifact/hf-model-deepseek-ai-deepseek-v3-2)
-
----
-
-## 17. Show HN: Schedule tasks for your AI agents from Google Calendar
-
-**Author:** matt413  
-**Published:** 7/11/2026, 1:37:51 AM  
-**Categories:** -  
-
-Article URL: https://agentcaly.com/ Comments URL: https://news.ycombinator.com/item?id=48867674 Points: 2 # Comments: 0
-
-📖 [Read original article](https://agentcaly.com/)
-
----
-
-## 18. Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach
-
-**Author:** eigenBasis  
-**Published:** 7/11/2026, 12:43:39 AM  
-**Categories:** -  
-
-Article URL: https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/ Comments URL: https://news.ycombinator.com/item?id=48867261 Points: 13 # Comments: 0
-
-📖 [Read original article](https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/)
-
----
-
-## 19. Meta pulls new AI image feature after days of backlash
-
-**Author:** cdrnsf  
-**Published:** 7/11/2026, 12:40:36 AM  
-**Categories:** -  
-
-Article URL: https://www.bbc.com/news/articles/c2dy6e8klw0o Comments URL: https://news.ycombinator.com/item?id=48867233 Points: 42 # Comments: 14
-
-📖 [Read original article](https://www.bbc.com/news/articles/c2dy6e8klw0o)
-
----
-
-## 20. AI2Web: Open protocol to make any website work with every AI agent
-
-**Author:** rolandfarkas  
-**Published:** 7/11/2026, 12:15:13 AM  
-**Categories:** -  
-
-Article URL: https://ai2web.dev/ Comments URL: https://news.ycombinator.com/item?id=48867039 Points: 4 # Comments: 0
-
-📖 [Read original article](https://ai2web.dev/)
 
 ---
