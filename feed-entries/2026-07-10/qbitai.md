@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-10"
 date: "2026-07-10"
 source: "qbitai"
-count: 8
+count: 7
 ---
 
 # qbitai - 2026-07-10
 
-8 items collected.
+7 items collected.
 
 ---
 
@@ -92,17 +92,5 @@ agent时代来了
 开源第四弹：LingBot-VA 2.0
 
 📖 [Read original article](https://www.qbitai.com/2026/07/447627.html)
-
----
-
-## 8. AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」
-
-**Author:** Jay  
-**Published:** 7/10/2026, 4:44:38 AM  
-**Categories:** 资讯  
-
-字节也入局了
-
-📖 [Read original article](https://www.qbitai.com/2026/07/447602.html)
 
 ---
