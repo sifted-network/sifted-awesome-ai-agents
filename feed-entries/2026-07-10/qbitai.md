@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-10"
 date: "2026-07-10"
 source: "qbitai"
-count: 7
+count: 5
 ---
 
 # qbitai - 2026-07-10
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ AI变为研发流程的“组织者”
 
 
 📖 [Read original article](https://www.qbitai.com/2026/07/447682.html)
-
----
-
-## 6. 日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布
-
-**Author:** 听雨  
-**Published:** 7/10/2026, 9:27:52 AM  
-**Categories:** 资讯, AI  
-
-agent时代来了
-
-📖 [Read original article](https://www.qbitai.com/2026/07/447681.html)
-
----
-
-## 7. 全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！
-
-**Author:** 十三  
-**Published:** 7/10/2026, 8:01:00 AM  
-**Categories:** 资讯, 首页轮播, LingBot-VA 2.0, 具身智能, 蚂蚁灵波  
-
-开源第四弹：LingBot-VA 2.0
-
-📖 [Read original article](https://www.qbitai.com/2026/07/447627.html)
 
 ---
