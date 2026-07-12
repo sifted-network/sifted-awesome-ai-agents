@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-10"
 date: "2026-07-10"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-07-10
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ AI变为研发流程的“组织者”
 
 
 📖 [Read original article](https://www.qbitai.com/2026/07/447691.html)
-
----
-
-## 5. AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名
-
-**Author:** 量子位的朋友们  
-**Published:** 7/10/2026, 9:32:09 AM  
-**Categories:** 资讯, WAIC 2026  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/447682.html)
 
 ---
