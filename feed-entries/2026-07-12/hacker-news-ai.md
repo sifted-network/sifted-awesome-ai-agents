@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Meta's New AI Photo Tool Feature Removed
+## 1. 'Ziplink Is Now Froggle': The Story Behind the Fake AI Ads That Went Viral
 
-**Author:** etothet  
-**Published:** 7/12/2026, 1:09:07 PM  
+**Author:** pinewurst  
+**Published:** 7/12/2026, 7:01:42 PM  
 **Categories:** -  
 
-Article URL: https://gizmodo.com/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already-2000784400 Comments URL: https://news.ycombinator.com/item?id=48880908 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-07-10/comedians-create-fake-companies-to-mock-ai-ads-on-new-york-london-subways Comments URL: https://news.ycombinator.com/item?id=48883591 Points: 2 # Comments: 1
 
-📖 [Read original article](https://gizmodo.com/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already-2000784400)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-10/comedians-create-fake-companies-to-mock-ai-ads-on-new-york-london-subways)
 
 ---
 
-## 2. India's TCS plans up to 8,900 AI deployment engineers, seeks AI acquisitions
+## 2. Show HN: Kote – Capture and reuse engineering context from AI chats and Git
 
-**Author:** rustoo  
-**Published:** 7/12/2026, 12:48:49 PM  
+**Author:** pedrodduarte  
+**Published:** 7/12/2026, 6:56:12 PM  
 **Categories:** -  
 
-Article URL: https://www.channelnewsasia.com/business/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-acquisitions-6249086 Comments URL: https://news.ycombinator.com/item?id=48880764 Points: 2 # Comments: 1
+I kept running into the same problem: I'd solve something with the help of an AI assistant, spend time debugging an issue, or make an architectural decision... and a few weeks later I couldn't remember where that information was. Most of the time I simply didn't bother saving it anywhere.So I built ...
 
-📖 [Read original article](https://www.channelnewsasia.com/business/indias-tata-consultancy-services-plans-up-8900-ai-deployment-engineers-seeks-ai-acquisitions-6249086)
+📖 [Read original article](https://github.com/pedroaugusto04/Kote)
 
 ---
 
-## 3. SlimeBallBench · AI models play slime soccer
+## 3. The One-Step Trap (In AI Research)
 
-**Author:** erikwiffin  
-**Published:** 7/12/2026, 12:36:36 PM  
+**Author:** jxmorris12  
+**Published:** 7/12/2026, 6:41:15 PM  
 **Categories:** -  
 
-Article URL: https://slimeballbench.com/ Comments URL: https://news.ycombinator.com/item?id=48880686 Points: 1 # Comments: 0
+Article URL: http://incompleteideas.net/IncIdeas/OneStepTrap.html Comments URL: https://news.ycombinator.com/item?id=48883415 Points: 2 # Comments: 0
 
-📖 [Read original article](https://slimeballbench.com/)
+📖 [Read original article](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
 
 ---
 
-## 4. The impressive AI demo is dead. Here's what actually reaches production
+## 4. Dari AI – An all-in-one AI assistant for macOS that runs on-device
 
-**Author:** Brajeshwar  
-**Published:** 7/12/2026, 12:19:44 PM  
+**Author:** KZ_AI  
+**Published:** 7/12/2026, 6:32:44 PM  
 **Categories:** -  
 
-Article URL: https://thenewstack.io/ai-production-data-problem/ Comments URL: https://news.ycombinator.com/item?id=48880578 Points: 1 # Comments: 0
+Article URL: https://apps.apple.com/kz/app/dari-ai/id6779357765?mt=12 Comments URL: https://news.ycombinator.com/item?id=48883349 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thenewstack.io/ai-production-data-problem/)
+📖 [Read original article](https://apps.apple.com/kz/app/dari-ai/id6779357765?mt=12)
 
 ---
 
-## 5. Show HN: Avoid codebase sloppification and AI-generated spaghetti code
+## 5. AI and the Fall of Writing
 
-**Author:** Graphenium  
-**Published:** 7/12/2026, 11:59:08 AM  
+**Author:** Flundstrom2  
+**Published:** 7/12/2026, 6:08:48 PM  
 **Categories:** -  
 
-Article URL: https://github.com/lambda-alpha-labs/Graphenium Comments URL: https://news.ycombinator.com/item?id=48880444 Points: 2 # Comments: 0
+We can all spot an AI written text Not by its hallucinations - because it generally isn't any. Not by poor grammar - because it isn't.In fact, that's the problem. The text IS perfect. Having been trained on loads of written texts - including a gazillion books - AI written texts contains all hallmark...
 
-📖 [Read original article](https://github.com/lambda-alpha-labs/Graphenium)
+📖 [Read original article](https://news.ycombinator.com/item?id=48883122)
 
 ---
 
-## 6. AI rebrands fail to deliver a lasting share price boost
+## 6. The Most Famous AI Writing Tic Is Also the Most Mysterious
 
-**Author:** sbulaev  
-**Published:** 7/12/2026, 11:49:11 AM  
+**Author:** tekdude  
+**Published:** 7/12/2026, 5:49:53 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b Comments URL: https://news.ycombinator.com/item?id=48880381 Points: 4 # Comments: 0
+Article URL: https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/ Comments URL: https://news.ycombinator.com/item?id=48882972 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b)
+📖 [Read original article](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/)
 
 ---
 
-## 7. AI backlash hits university: laptops and phones banned for law students
+## 7. Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company
 
-**Author:** 01-_-  
-**Published:** 7/12/2026, 11:25:18 AM  
+**Author:** newusertoday  
+**Published:** 7/12/2026, 5:49:05 PM  
 **Categories:** -  
 
-Article URL: https://www.foxnews.com/media/ai-backlash-reaches-major-university-bold-ban-laptops-phones-students Comments URL: https://news.ycombinator.com/item?id=48880247 Points: 3 # Comments: 0
+Article URL: https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro Comments URL: https://news.ycombinator.com/item?id=48882968 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.foxnews.com/media/ai-backlash-reaches-major-university-bold-ban-laptops-phones-students)
+📖 [Read original article](https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro)
 
 ---
 
-## 8. Mnema: A local, encrypted memory layer for AI agents
+## 8. Soulless – List of AI Artists Hiding on Spotify
 
-**Author:** MerlijnW70  
-**Published:** 7/12/2026, 11:09:35 AM  
+**Author:** ChrisArchitect  
+**Published:** 7/12/2026, 5:46:57 PM  
 **Categories:** -  
 
-Article URL: https://github.com/MerlijnW70/mnema Comments URL: https://news.ycombinator.com/item?id=48880167 Points: 1 # Comments: 0
+Article URL: https://soullessmusic.com/ Comments URL: https://news.ycombinator.com/item?id=48882955 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/MerlijnW70/mnema)
+📖 [Read original article](https://soullessmusic.com/)
 
 ---
 
-## 9. Show HN: Dr. Wong – an AI space for journaling and self-reflection
+## 9. AI-Powered Multi Tenant Platform
 
-**Author:** superyuan  
-**Published:** 7/12/2026, 11:07:09 AM  
+**Author:** kilincarslan  
+**Published:** 7/12/2026, 5:38:36 PM  
 **Categories:** -  
 
-Article URL: https://www.drwongai.com Comments URL: https://news.ycombinator.com/item?id=48880152 Points: 2 # Comments: 0
+Article URL: https://svoxx.com/int/en Comments URL: https://news.ycombinator.com/item?id=48882899 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.drwongai.com)
+📖 [Read original article](https://svoxx.com/int/en)
 
 ---
 
-## 10. Scientists' Side Hustle? Using AI and Quantum Computing to Generate New Peptides
+## 10. Show HN: Free AI travel destination search across Asia
 
-**Author:** joozio  
-**Published:** 7/12/2026, 11:00:52 AM  
+**Author:** developeron29  
+**Published:** 7/12/2026, 5:34:56 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/ Comments URL: https://news.ycombinator.com/item?id=48880117 Points: 2 # Comments: 0
+Article URL: https://asianexpats.com Comments URL: https://news.ycombinator.com/item?id=48882871 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/)
+📖 [Read original article](https://asianexpats.com)
 
 ---
 
-## 11. AI Agents Are About to Change Payments Operations
+## 11. Whats the Hardest Challenges in AI?
 
-**Author:** siroj  
-**Published:** 7/12/2026, 10:59:38 AM  
+**Author:** debpalash  
+**Published:** 7/12/2026, 5:17:09 PM  
 **Categories:** -  
 
-Article URL: https://open.spotify.com/episode/41kRSmDW5IKhvamyzlPxqq Comments URL: https://news.ycombinator.com/item?id=48880105 Points: 2 # Comments: 1
+As the time of ai passing the cradle to vast amount of new contributors i'm here wondering about things agentic/ai researchers are pulling hair about. Comments URL: https://news.ycombinator.com/item?id=48882749 Points: 2 # Comments: 1
 
-📖 [Read original article](https://open.spotify.com/episode/41kRSmDW5IKhvamyzlPxqq)
+📖 [Read original article](https://news.ycombinator.com/item?id=48882749)
 
 ---
 
-## 12. 25% long-form social media posts appear AI-generated
+## 12. Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper
 
-**Author:** u1hcw9nx  
-**Published:** 7/12/2026, 10:58:27 AM  
+**Author:** brryant  
+**Published:** 7/12/2026, 5:13:07 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/07/09/ai-slop-writing-has-taken-over-the-internet-particularly-linkedin-and-x/5269525 Comments URL: https://news.ycombinator.com/item?id=48880101 Points: 3 # Comments: 1
+Article URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6 Comments URL: https://news.ycombinator.com/item?id=48882716 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/07/09/ai-slop-writing-has-taken-over-the-internet-particularly-linkedin-and-x/5269525)
+📖 [Read original article](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 
 ---
 
-## 13. Databricks AI Agent Genie Code Is No Longer Free. Now You Have to Pay as You Go
+## 13. Show HN: Wisp – open-source private desktop AI overlay with MCP support
 
-**Author:** protmaks  
-**Published:** 7/12/2026, 10:52:58 AM  
+**Author:** WispAIOverlay  
+**Published:** 7/12/2026, 5:09:58 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/databrickscommunity/databricks-ai-agent-genie-code-is-no-longer-free-now-you-have-to-pay-as-you-go-1d40bf8a4aad Comments URL: https://news.ycombinator.com/item?id=48880078 Points: 2 # Comments: 0
+I built Wisp because I kept alt-tabbing between my editor/browser/docs and chat apps, copying context over, waiting for an answer, then copying the result back.Wisp is a desktop overlay for using AI from whatever app you are already in.-You can prompt with your choice of context (Text, screenshot, s...
 
-📖 [Read original article](https://medium.com/databrickscommunity/databricks-ai-agent-genie-code-is-no-longer-free-now-you-have-to-pay-as-you-go-1d40bf8a4aad)
+📖 [Read original article](https://github.com/SunnyLich/Wisp-AI-Assistant)
 
 ---
 
-## 14. Databricks News: CLI v1.0.0, AI-tools, Docker, DABs UI sync, mutators
+## 14. AI Fuels Startup Boom Across the US
 
-**Author:** protmaks  
-**Published:** 7/12/2026, 10:52:42 AM  
+**Author:** Teever  
+**Published:** 7/12/2026, 5:03:58 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/databrickscommunity/databricks-news-cli-v-1-0-0-ai-tools-last-updated-25th-may-767ef39abe8a Comments URL: https://news.ycombinator.com/item?id=48880076 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/features/2026-07-10/ai-powered-entrepreneurs-set-to-launch-record-number-of-new-businesses Comments URL: https://news.ycombinator.com/item?id=48882643 Points: 2 # Comments: 1
 
-📖 [Read original article](https://medium.com/databrickscommunity/databricks-news-cli-v-1-0-0-ai-tools-last-updated-25th-may-767ef39abe8a)
+📖 [Read original article](https://www.bloomberg.com/news/features/2026-07-10/ai-powered-entrepreneurs-set-to-launch-record-number-of-new-businesses)
 
 ---
 
-## 15. Chasing new skills, going back to basics: how software engineers adapting to AI
+## 15. Apple's failed self-driving car program left a legacy of powerful AI chips
 
-**Author:** beardyw  
-**Published:** 7/12/2026, 10:50:11 AM  
+**Author:** droidjj  
+**Published:** 7/12/2026, 5:03:49 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai Comments URL: https://news.ycombinator.com/item?id=48880063 Points: 2 # Comments: 0
+Article URL: https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra Comments URL: https://news.ycombinator.com/item?id=48882640 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai)
+📖 [Read original article](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra)
 
 ---
 
-## 16. An AI gateway that signs a receipt for every LLM response
+## 16. OpenAI's AI Beating Every Human at AtCoder
 
-**Author:** axiorank  
-**Published:** 7/12/2026, 10:44:45 AM  
+**Author:** amai  
+**Published:** 7/12/2026, 4:54:02 PM  
 **Categories:** -  
 
-Article URL: https://github.com/AxioRank/gateway/tree/main Comments URL: https://news.ycombinator.com/item?id=48880034 Points: 1 # Comments: 0
+Article URL: https://mlq.ai/news/openais-ai-sweeps-all-five-problems-at-atcoder-world-tour-finals-beating-every-human/ Comments URL: https://news.ycombinator.com/item?id=48882547 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/AxioRank/gateway/tree/main)
+📖 [Read original article](https://mlq.ai/news/openais-ai-sweeps-all-five-problems-at-atcoder-world-tour-finals-beating-every-human/)
 
 ---
 
-## 17. Show HN: Sanbox, batteries included sandboxes for AI agents
+## 17. AI and the Future of Writing-roundtable of authors discuss ramifications for art
 
-**Author:** oryx1729  
-**Published:** 7/12/2026, 10:16:21 AM  
+**Author:** pseudolus  
+**Published:** 7/12/2026, 4:50:50 PM  
 **Categories:** -  
 
-Hi HN,We are building Sanbox, a platform for running AI agents in isolated and resumable sandboxes.We use the OpenCode SDK as the harness, support reusable templates, and have a CLI that works with Codex, Claude Code, Cursor, CI, or your terminal. Each sandbox has MicroVM isolation, a persistent fil...
+Article URL: https://yalereview.org/article/ai-and-the-future-of-writing Comments URL: https://news.ycombinator.com/item?id=48882522 Points: 3 # Comments: 0
 
-📖 [Read original article](https://sanbox.cloud)
+📖 [Read original article](https://yalereview.org/article/ai-and-the-future-of-writing)
 
 ---
 
-## 18. I built an AI strength coach because I wanted my training backed by real studies
+## 18. Using AI to Let History Speak About Bank Runs
 
-**Author:** clementrx  
-**Published:** 7/12/2026, 10:11:34 AM  
+**Author:** gnabgib  
+**Published:** 7/12/2026, 4:40:23 PM  
 **Categories:** -  
 
-Article URL: https://github.com/clementrx/Performance-agent/tree/main Comments URL: https://news.ycombinator.com/item?id=48879889 Points: 2 # Comments: 1
+Article URL: https://libertystreeteconomics.newyorkfed.org/2026/07/using-ai-to-let-history-speak-about-bank-runs/ Comments URL: https://news.ycombinator.com/item?id=48882442 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/clementrx/Performance-agent/tree/main)
+📖 [Read original article](https://libertystreeteconomics.newyorkfed.org/2026/07/using-ai-to-let-history-speak-about-bank-runs/)
 
 ---
 
-## 19. CEO Pleads with AI Industry to Stop Charging So Much to Replace Human Labor
+## 19. Ask HN: How do you review AI code?
 
-**Author:** latexr  
-**Published:** 7/12/2026, 10:09:45 AM  
+**Author:** wonderfuly  
+**Published:** 7/12/2026, 4:23:53 PM  
 **Categories:** -  
 
-Article URL: https://futurism.com/future-society/palo-alto-ceo-ai-arora-automation-labor Comments URL: https://news.ycombinator.com/item?id=48879884 Points: 4 # Comments: 0
+This is important, but I haven't seen enough discussion about it. Comments URL: https://news.ycombinator.com/item?id=48882310 Points: 4 # Comments: 2
 
-📖 [Read original article](https://futurism.com/future-society/palo-alto-ceo-ai-arora-automation-labor)
+📖 [Read original article](https://news.ycombinator.com/item?id=48882310)
 
 ---
 
-## 20. Show HN: Spendict – a performance marketer's verdict for AI agents, over MCP
+## 20. Show HN: AgentIndexed – a curated AI agent directory, no pay-to-play rankings
 
-**Author:** ds246  
-**Published:** 7/12/2026, 10:02:33 AM  
+**Author:** casbattle  
+**Published:** 7/12/2026, 4:23:40 PM  
 **Categories:** -  
 
-Article URL: https://www.spendict.com/ Comments URL: https://news.ycombinator.com/item?id=48879848 Points: 2 # Comments: 0
+Article URL: https://agentindexed.com/ Comments URL: https://news.ycombinator.com/item?id=48882307 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.spendict.com/)
+📖 [Read original article](https://agentindexed.com/)
 
 ---
