@@ -2,251 +2,215 @@
 title: "Hacker News AI - 2026-07-11"
 date: "2026-07-11"
 source: "Hacker News AI"
-count: 20
+count: 17
 ---
 
 # Hacker News AI - 2026-07-11
 
-20 items collected.
+17 items collected.
 
 ---
 
-## 1. AI fiction is easy to detect because it's stupid and bad, research finds
+## 1. The Human Cell Is Wildly Complex. Can AI Decode It? – Silvana Konermann – Ted [video]
 
-**Author:** theanonymousone  
-**Published:** 7/11/2026, 6:53:53 PM  
+**Author:** binyu  
+**Published:** 7/11/2026, 11:12:48 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/ Comments URL: https://news.ycombinator.com/item?id=48874657 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=Xr9VqRawjAU Comments URL: https://news.ycombinator.com/item?id=48876731 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/)
+📖 [Read original article](https://www.youtube.com/watch?v=Xr9VqRawjAU)
 
 ---
 
-## 2. Physical AI scale up chemistry startup gaining traction at Big Pharma
+## 2. Show HN: AgentTransfer – open-source file transfer for AI agents (one Go binary)
 
-**Author:** hairoglyphics  
-**Published:** 7/11/2026, 6:53:40 PM  
+**Author:** tomatoes2026  
+**Published:** 7/11/2026, 10:52:52 PM  
 **Categories:** -  
 
-Article URL: https://skydeckconnect.com/telescope-innovations-telif Comments URL: https://news.ycombinator.com/item?id=48874653 Points: 1 # Comments: 0
+Article URL: https://github.com/shehryarsaroya/agenttransfer Comments URL: https://news.ycombinator.com/item?id=48876610 Points: 3 # Comments: 1
 
-📖 [Read original article](https://skydeckconnect.com/telescope-innovations-telif)
+📖 [Read original article](https://github.com/shehryarsaroya/agenttransfer)
 
 ---
 
-## 3. AI 2027
+## 3. Mesh LLM: distributed AI computing on iroh
 
-**Author:** baalimago  
-**Published:** 7/11/2026, 6:53:26 PM  
+**Author:** tionis  
+**Published:** 7/11/2026, 10:38:57 PM  
 **Categories:** -  
 
-Article URL: https://ai-2027.com/ Comments URL: https://news.ycombinator.com/item?id=48874647 Points: 1 # Comments: 0
+Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 119 # Comments: 28
 
-📖 [Read original article](https://ai-2027.com/)
+📖 [Read original article](https://www.iroh.computer/blog/mesh-llm)
 
 ---
 
-## 4. AI rebrands fail to deliver a lasting share price boost
+## 4. AI and Job Postings: From Destruction to Creation?
 
-**Author:** JumpCrisscross  
-**Published:** 7/11/2026, 6:21:43 PM  
+**Author:** petilon  
+**Published:** 7/11/2026, 10:37:18 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b Comments URL: https://news.ycombinator.com/item?id=48874352 Points: 3 # Comments: 0
+Article URL: https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/ Comments URL: https://news.ycombinator.com/item?id=48876489 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b)
+📖 [Read original article](https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/)
 
 ---
 
-## 5. Ask HN: Has single-task focus become outdated in the AI era?
+## 5. Show HN: Token Time – Screen Time, but for your AI agent tokens
 
-**Author:** yura  
-**Published:** 7/11/2026, 6:20:26 PM  
+**Author:** wzulfikar  
+**Published:** 7/11/2026, 10:13:52 PM  
 **Categories:** -  
 
-I’ve always found that deep focusing on one task at a time was the only way to get things done at work with good quality and at an acceptable pace, and I have a real hard time multitasking (even with AI) because of context switching and getting distracted or overwhelmed.But with AI making parallel w...
+Article URL: https://tokentime.bar Comments URL: https://news.ycombinator.com/item?id=48876348 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48874344)
+📖 [Read original article](https://tokentime.bar)
 
 ---
 
-## 6. Safe from AI: which jobs will help you thrive in the future?
+## 6. Neobrowser AI has rediculously strong VPN builtin for FREE
 
-**Author:** hackernj  
-**Published:** 7/11/2026, 6:06:27 PM  
+**Author:** burgeekingdom  
+**Published:** 7/11/2026, 10:13:36 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law Comments URL: https://news.ycombinator.com/item?id=48874216 Points: 2 # Comments: 2
+Article URL: https://neobrowser.ai/ Comments URL: https://news.ycombinator.com/item?id=48876343 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law)
+📖 [Read original article](https://neobrowser.ai/)
 
 ---
 
-## 7. AI 2040 and the Cult of Intelligence
+## 7. AI found a secret computer bug hidden for 15 years.
 
-**Author:** rvz  
-**Published:** 7/11/2026, 6:04:01 PM  
+**Author:** glmnes  
+**Published:** 7/11/2026, 9:53:28 PM  
 **Categories:** -  
 
-Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 81 # Comments: 37
+Article URL: https://www.untempled.com/guilhermen/art/ai-found-a-secret-computer-bug-hidden-for-15-years-plus-why-cops-chased-a-reporter-over-a-typo-cmrgwcw7o0001ky04qu4ubln8 Comments URL: https://news.ycombinator.com/item?id=48876212 Points: 3 # Comments: 0
 
-📖 [Read original article](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+📖 [Read original article](https://www.untempled.com/guilhermen/art/ai-found-a-secret-computer-bug-hidden-for-15-years-plus-why-cops-chased-a-reporter-over-a-typo-cmrgwcw7o0001ky04qu4ubln8)
 
 ---
 
-## 8. Thalmaar AI (Defense and Space Tech) Is Hiring Founding PM
+## 8. Show HN: BoundFlow – an open-source control plane for AI agents
 
-**Author:** reach_kapil  
-**Published:** 7/11/2026, 5:48:38 PM  
+**Author:** alama24  
+**Published:** 7/11/2026, 9:07:11 PM  
 **Categories:** -  
 
-Article URL: https://wellfound.com/jobs/4377171-ai-product-manager-vision-ai Comments URL: https://news.ycombinator.com/item?id=48874077 Points: 1 # Comments: 0
+Article URL: https://github.com/boundflow/boundflow Comments URL: https://news.ycombinator.com/item?id=48875888 Points: 1 # Comments: 0
 
-📖 [Read original article](https://wellfound.com/jobs/4377171-ai-product-manager-vision-ai)
+📖 [Read original article](https://github.com/boundflow/boundflow)
 
 ---
 
-## 9. OpenSandbox Universal Sandbox Infrastructure for AI Applications
+## 9. Being part of one of the biggest wealth creation events in history (AI)
 
-**Author:** hek2sch  
-**Published:** 7/11/2026, 5:45:49 PM  
+**Author:** bookofjoe  
+**Published:** 7/11/2026, 8:54:11 PM  
 **Categories:** -  
 
-Article URL: https://open-sandbox.ai/ Comments URL: https://news.ycombinator.com/item?id=48874053 Points: 1 # Comments: 0
+Article URL: https://www.washingtonpost.com/technology/2026/07/11/ais-soon-to-be-billionaires-want-know-what-do-with-all-that-money/ Comments URL: https://news.ycombinator.com/item?id=48875773 Points: 2 # Comments: 1
 
-📖 [Read original article](https://open-sandbox.ai/)
+📖 [Read original article](https://www.washingtonpost.com/technology/2026/07/11/ais-soon-to-be-billionaires-want-know-what-do-with-all-that-money/)
 
 ---
 
-## 10. Alex Karp Is Saying What Every Angry CEO Is Thinking About AI
+## 10. I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)
 
-**Author:** Brajeshwar  
-**Published:** 7/11/2026, 5:37:30 PM  
+**Author:** mrhustlex  
+**Published:** 7/11/2026, 8:45:06 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c Comments URL: https://news.ycombinator.com/item?id=48873978 Points: 15 # Comments: 9
+Article URL: https://github.com/mrhustlex/TradingSpy-TradingAgentService Comments URL: https://news.ycombinator.com/item?id=48875678 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-ai-7f5f7c0c)
+📖 [Read original article](https://github.com/mrhustlex/TradingSpy-TradingAgentService)
 
 ---
 
-## 11. Reverse centaurs are the answer to the AI paradox
+## 11. Banning AI in Law School: We've Seen This Before
 
-**Author:** jason_s  
-**Published:** 7/11/2026, 5:23:52 PM  
+**Author:** whobre  
+**Published:** 7/11/2026, 8:18:07 PM  
 **Categories:** -  
 
-Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 34 # Comments: 5
+Article URL: https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve Comments URL: https://news.ycombinator.com/item?id=48875466 Points: 3 # Comments: 0
 
-📖 [Read original article](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)
+📖 [Read original article](https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve)
 
 ---
 
-## 12. AI Found a Root Bug in Linux That Everyone Missed for 15 Years
+## 12. The AI Disagreement Index: 8 models agreed on the \"best tool\" 0 of 16 times
 
-**Author:** joozio  
-**Published:** 7/11/2026, 5:00:52 PM  
+**Author:** brainbootdev  
+**Published:** 7/11/2026, 8:12:06 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/ Comments URL: https://news.ycombinator.com/item?id=48873669 Points: 3 # Comments: 0
+Article URL: https://data.deepsynthesis.org/ Comments URL: https://news.ycombinator.com/item?id=48875413 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/)
+📖 [Read original article](https://data.deepsynthesis.org/)
 
 ---
 
-## 13. Local-first agent governance: keeping an AI agent contained
+## 13. Wealthy AI workers send San Francisco house prices soaring
 
-**Author:** VektorGeist  
-**Published:** 7/11/2026, 4:27:05 PM  
+**Author:** root-parent  
+**Published:** 7/11/2026, 8:06:38 PM  
 **Categories:** -  
 
-Article URL: https://vektorgeist.com/blog Comments URL: https://news.ycombinator.com/item?id=48873414 Points: 2 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/c9q29j47v9ro Comments URL: https://news.ycombinator.com/item?id=48875371 Points: 19 # Comments: 6
 
-📖 [Read original article](https://vektorgeist.com/blog)
+📖 [Read original article](https://www.bbc.com/news/articles/c9q29j47v9ro)
 
 ---
 
-## 14. Agentation – Visual UI Annotation for AI Coding Agents
+## 14. Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL
 
-**Author:** rekl  
-**Published:** 7/11/2026, 4:16:51 PM  
+**Author:** tejusarora  
+**Published:** 7/11/2026, 8:03:42 PM  
 **Categories:** -  
 
-Article URL: https://www.agentation.com/ Comments URL: https://news.ycombinator.com/item?id=48873337 Points: 2 # Comments: 0
+Article URL: https://github.com/sqlsure/sqlsure Comments URL: https://news.ycombinator.com/item?id=48875342 Points: 20 # Comments: 1
 
-📖 [Read original article](https://www.agentation.com/)
+📖 [Read original article](https://github.com/sqlsure/sqlsure)
 
 ---
 
-## 15. Show HN: I Wanted AI Code Review I Could Own. So I Built Codra
+## 15. AI Arcade – which coding model can build the best arcade game
 
-**Author:** devarshishimpi  
-**Published:** 7/11/2026, 4:15:44 PM  
+**Author:** zapeterson16  
+**Published:** 7/11/2026, 8:02:45 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@devarshidev/i-wanted-ai-code-review-i-could-actually-own-so-i-built-codra-beea2e3f18fd Comments URL: https://news.ycombinator.com/item?id=48873326 Points: 1 # Comments: 2
+Article URL: https://ai-arcade.app Comments URL: https://news.ycombinator.com/item?id=48875323 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@devarshidev/i-wanted-ai-code-review-i-could-actually-own-so-i-built-codra-beea2e3f18fd)
+📖 [Read original article](https://ai-arcade.app)
 
 ---
 
-## 16. Show HN: Free AI Visibility Audit Tool& Agent
+## 16. Show HN: Don't let your engineering brain rot in the age of AI
 
-**Author:** andytan  
-**Published:** 7/11/2026, 3:59:31 PM  
+**Author:** Chipatama90  
+**Published:** 7/11/2026, 7:57:30 PM  
 **Categories:** -  
 
-AI VISIBILITY helps brands audit, measure, and improve AI search visibility across ChatGPT, Gemini, Claude, Perplexity, Grok, and Google AI results with actionable GEO reports. Comments URL: https://news.ycombinator.com/item?id=48873177 Points: 2 # Comments: 0
+Article URL: https://www.30secondsofknowledge.com Comments URL: https://news.ycombinator.com/item?id=48875279 Points: 2 # Comments: 0
 
-📖 [Read original article](https://ai-visibility.pro)
+📖 [Read original article](https://www.30secondsofknowledge.com)
 
 ---
 
-## 17. My AI Model Tier List for Mid-2026
+## 17. I built a free tool to evaluate AI agent outputs (human labels and LLM judges)
 
-**Author:** rcarmo  
-**Published:** 7/11/2026, 3:43:49 PM  
+**Author:** antoinefornas  
+**Published:** 7/11/2026, 7:55:44 PM  
 **Categories:** -  
 
-Article URL: https://taoofmac.com/space/blog/2026/07/11/1500 Comments URL: https://news.ycombinator.com/item?id=48873016 Points: 2 # Comments: 0
+Article URL: https://github.com/AntoineF23/verdict Comments URL: https://news.ycombinator.com/item?id=48875259 Points: 1 # Comments: 0
 
-📖 [Read original article](https://taoofmac.com/space/blog/2026/07/11/1500)
-
----
-
-## 18. An educational lab of AI agent architectures
-
-**Author:** ilia53  
-**Published:** 7/11/2026, 3:33:22 PM  
-**Categories:** -  
-
-Article URL: https://github.com/Rudnik-Ilia/Agents-Sandbox Comments URL: https://news.ycombinator.com/item?id=48872922 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/Rudnik-Ilia/Agents-Sandbox)
-
----
-
-## 19. I made AI agents play diplomacy
-
-**Author:** behlers99  
-**Published:** 7/11/2026, 3:24:54 PM  
-**Categories:** -  
-
-Article URL: https://github.com/brendenehlers/diplomacy-ai Comments URL: https://news.ycombinator.com/item?id=48872843 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/brendenehlers/diplomacy-ai)
-
----
-
-## 20. AI Is Making Silicon Valley Productive, Anxious and Afraid to Log Off
-
-**Author:** mancerayder  
-**Published:** 7/11/2026, 3:18:59 PM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers Comments URL: https://news.ycombinator.com/item?id=48872786 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers)
+📖 [Read original article](https://github.com/AntoineF23/verdict)
 
 ---
