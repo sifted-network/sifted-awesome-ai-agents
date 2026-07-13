@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-13"
 date: "2026-07-13"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-07-13
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment
+## 1. Building a VideoAgent-Style Multi-Agent System: Intent Parsing, Graph Planning, and Tool Routing for Video Editing Tasks
+
+**Author:** Sana Hassan  
+**Published:** 7/13/2026, 6:30:30 PM  
+**Categories:** Agentic AI, AI Agents, Editors Pick, Tutorials  
+
+In this tutorial, we reconstruct the VideoAgent workflow as a runnable, API-key-free multi-agent pipeline. We build an intent parser, an agent library, a tool router, a graph planner, and a textual-gradient optimizer that repairs the execution graph. We wire these planning components to FFmpeg, Whis...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/)
+
+---
+
+## 2. Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment
 
 **Author:** Asif Razzaq  
 **Published:** 7/13/2026, 8:45:12 AM  
@@ -23,7 +35,7 @@ Agentic LLMs keep failing the same way because they lack specific, reusable capa
 
 ---
 
-## 2. Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations
+## 3. Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations
 
 **Author:** Michal Sutter  
 **Published:** 7/13/2026, 7:40:18 AM  
@@ -35,7 +47,7 @@ Prime Intellect launched verifiers 0.2.0, previewing a rewritten "v1" core under
 
 ---
 
-## 3. Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes
+## 4. Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes
 
 **Author:** Asif Razzaq  
 **Published:** 7/13/2026, 12:35:36 AM  
