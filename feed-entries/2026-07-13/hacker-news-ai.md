@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. New method aims to keep kids safe from illegal AI-generated content
+## 1. Amid AI IP Theft Concerns, Microsoft CEO Floats New AI Patent Concept
 
-**Author:** droidjj  
-**Published:** 7/13/2026, 2:29:21 PM  
+**Author:** PaulKeeble  
+**Published:** 7/13/2026, 7:14:33 PM  
 **Categories:** -  
 
-Article URL: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713 Comments URL: https://news.ycombinator.com/item?id=48893301 Points: 1 # Comments: 0
+Article URL: https://uk.pcmag.com/ai/166133/amid-ip-theft-concerns-microsoft-ceo-floats-new-ai-patent-concept Comments URL: https://news.ycombinator.com/item?id=48897378 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713)
+📖 [Read original article](https://uk.pcmag.com/ai/166133/amid-ip-theft-concerns-microsoft-ceo-floats-new-ai-patent-concept)
 
 ---
 
-## 2. How are people securing their AI access to APIs?
+## 2. What would it take for AI to discover penicillin?
 
-**Author:** geoicons  
-**Published:** 7/13/2026, 2:27:00 PM  
+**Author:** the_tyger  
+**Published:** 7/13/2026, 7:11:31 PM  
 **Categories:** -  
 
-Article URL: https://requestrocket.com/blog/ai-agent-access-control-landscape Comments URL: https://news.ycombinator.com/item?id=48893264 Points: 1 # Comments: 0
+Article URL: https://bosoncutter.substack.com/p/what-would-it-take-for-ai-to-discover Comments URL: https://news.ycombinator.com/item?id=48897332 Points: 1 # Comments: 0
 
-📖 [Read original article](https://requestrocket.com/blog/ai-agent-access-control-landscape)
+📖 [Read original article](https://bosoncutter.substack.com/p/what-would-it-take-for-ai-to-discover)
 
 ---
 
-## 3. Richard Sutton Breaks Away from Keen AI to Start Oak Lab
+## 3. The Equivalency Kernel: A 12-axiom framework for human-AI symbiosis
 
-**Author:** tosh  
-**Published:** 7/13/2026, 2:24:46 PM  
+**Author:** jamesberge  
+**Published:** 7/13/2026, 7:05:33 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/RichardSSutton/status/2076663628301058329 Comments URL: https://news.ycombinator.com/item?id=48893232 Points: 1 # Comments: 0
+Article URL: https://github.com/jamesberge-coder/equivalency-kernel Comments URL: https://news.ycombinator.com/item?id=48897255 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/RichardSSutton/status/2076663628301058329)
+📖 [Read original article](https://github.com/jamesberge-coder/equivalency-kernel)
 
 ---
 
-## 4. LingBot-Video: An open-source MoE video foundation model for embodied AI
-
-**Author:** Kajaking  
-**Published:** 7/13/2026, 2:20:01 PM  
-**Categories:** -  
-
-Article URL: https://github.com/robbyant/lingbot-video Comments URL: https://news.ycombinator.com/item?id=48893161 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/robbyant/lingbot-video)
-
----
-
-## 5. The State of the AI Economy [pdf]
+## 4. A brief history of distillation in AI
 
 **Author:** gmays  
-**Published:** 7/13/2026, 2:17:34 PM  
+**Published:** 7/13/2026, 6:50:32 PM  
 **Categories:** -  
 
-Article URL: https://intelligence.exponentialview.co/assets/ev-state-of-ai-economy-2026.pdf Comments URL: https://news.ycombinator.com/item?id=48893119 Points: 1 # Comments: 0
+Article URL: https://twitter.com/SergioPaniego/status/2073066275819991472 Comments URL: https://news.ycombinator.com/item?id=48897061 Points: 1 # Comments: 0
 
-📖 [Read original article](https://intelligence.exponentialview.co/assets/ev-state-of-ai-economy-2026.pdf)
+📖 [Read original article](https://twitter.com/SergioPaniego/status/2073066275819991472)
 
 ---
 
-## 6. Pixoate an AI Photo Editor
+## 5. Economists say 'we must act now' on AI's economic impact and job displacement
 
-**Author:** harpal11  
-**Published:** 7/13/2026, 2:17:33 PM  
+**Author:** geox  
+**Published:** 7/13/2026, 6:35:34 PM  
 **Categories:** -  
 
-Article URL: https://pixoate.com Comments URL: https://news.ycombinator.com/item?id=48893116 Points: 1 # Comments: 1
+Article URL: https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee Comments URL: https://news.ycombinator.com/item?id=48896842 Points: 5 # Comments: 4
 
-📖 [Read original article](https://pixoate.com)
+📖 [Read original article](https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee)
 
 ---
 
-## 7. Apple Stock Hits Record Territory as Traders Sour on AI Spending
+## 6. AI agents write Ruby but can't navigate it: a 5-model, 13-codebase benchmark
 
-**Author:** datakan  
-**Published:** 7/13/2026, 2:14:58 PM  
+**Author:** luuuc  
+**Published:** 7/13/2026, 6:21:35 PM  
 **Categories:** -  
 
-Article URL: https://www.macrumors.com/2026/07/13/apple-stock-record-territory/ Comments URL: https://news.ycombinator.com/item?id=48893078 Points: 1 # Comments: 1
+Article URL: https://github.com/luuuc/sense/blob/main/bench/verticals/ruby-rails/report-for-humans.md Comments URL: https://news.ycombinator.com/item?id=48896651 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.macrumors.com/2026/07/13/apple-stock-record-territory/)
+📖 [Read original article](https://github.com/luuuc/sense/blob/main/bench/verticals/ruby-rails/report-for-humans.md)
 
 ---
 
-## 8. AI as Search Engine and Printing Press Aid: Local Education Data Munging
+## 7. Software eng was one of the best-paying US professions, but AI disrupted it
 
-**Author:** mrkiouak  
-**Published:** 7/13/2026, 2:05:36 PM  
+**Author:** Michelangelo11  
+**Published:** 7/13/2026, 6:18:26 PM  
 **Categories:** -  
 
-Article URL: https://middlesexgazette.org/news/vermonts-yardstick-moved/ Comments URL: https://news.ycombinator.com/item?id=48892925 Points: 1 # Comments: 1
+Article URL: https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai Comments URL: https://news.ycombinator.com/item?id=48896603 Points: 2 # Comments: 0
 
-📖 [Read original article](https://middlesexgazette.org/news/vermonts-yardstick-moved/)
+📖 [Read original article](https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai)
 
 ---
 
-## 9. A litmus test for the utility of AI features
+## 8. Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents
 
-**Author:** haritha-j  
-**Published:** 7/13/2026, 2:03:21 PM  
+**Author:** mtw14  
+**Published:** 7/13/2026, 6:18:23 PM  
 **Categories:** -  
 
-Article URL: https://beyondprobable.com/posts/litmus-test-ai-features.html Comments URL: https://news.ycombinator.com/item?id=48892880 Points: 1 # Comments: 0
+Article URL: https://github.com/morganwilliscloud/billai-bass Comments URL: https://news.ycombinator.com/item?id=48896599 Points: 11 # Comments: 3
 
-📖 [Read original article](https://beyondprobable.com/posts/litmus-test-ai-features.html)
+📖 [Read original article](https://github.com/morganwilliscloud/billai-bass)
 
 ---
 
-## 10. Show HN: Crowdmind – open-source tool to test ideas against AI personas
+## 9. AgentMint: Research on how AI shopping agents pick products
 
-**Author:** jjaramillor  
-**Published:** 7/13/2026, 2:03:10 PM  
+**Author:** Abdalsalaam  
+**Published:** 7/13/2026, 6:04:15 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Brokenwatch24/crowdmind Comments URL: https://news.ycombinator.com/item?id=48892876 Points: 1 # Comments: 0
+Article URL: https://agentmint.net/ Comments URL: https://news.ycombinator.com/item?id=48896414 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/Brokenwatch24/crowdmind)
+📖 [Read original article](https://agentmint.net/)
 
 ---
 
-## 11. AI could keep poor countries poor
+## 10. Formally verifying AI-generated GPU kernels
 
-**Author:** surprisetalk  
-**Published:** 7/13/2026, 2:00:02 PM  
+**Author:** nserrino  
+**Published:** 7/13/2026, 6:00:34 PM  
 **Categories:** -  
 
-Article URL: https://newsletter.deenamousa.com/p/ai-could-keep-poor-countries-poor Comments URL: https://news.ycombinator.com/item?id=48892816 Points: 3 # Comments: 0
+Article URL: https://gimletlabs.ai/blog/formally-verifying-ai-generated-kernels Comments URL: https://news.ycombinator.com/item?id=48896368 Points: 2 # Comments: 0
 
-📖 [Read original article](https://newsletter.deenamousa.com/p/ai-could-keep-poor-countries-poor)
+📖 [Read original article](https://gimletlabs.ai/blog/formally-verifying-ai-generated-kernels)
 
 ---
 
-## 12. Node0 – A P2P protocol and SDK for autonomous AI agents
+## 11. Show HN: Crucible – your AI wrote the tests, so who tested the tests?
 
-**Author:** node0network  
-**Published:** 7/13/2026, 1:58:12 PM  
+**Author:** jott2121  
+**Published:** 7/13/2026, 5:57:45 PM  
 **Categories:** -  
 
-Article URL: https://github.com/node0network/node0 Comments URL: https://news.ycombinator.com/item?id=48892782 Points: 1 # Comments: 0
+Article URL: https://github.com/Jott2121/crucible Comments URL: https://news.ycombinator.com/item?id=48896334 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/node0network/node0)
+📖 [Read original article](https://github.com/Jott2121/crucible)
 
 ---
 
-## 13. Why aren't AI companies competing directly with their customers?
+## 12. Show HN: Finterm.ai Bloomberg terminal for Claude Code
 
-**Author:** hn_acker  
-**Published:** 7/13/2026, 1:56:45 PM  
+**Author:** cheeseblubber  
+**Published:** 7/13/2026, 5:52:10 PM  
 **Categories:** -  
 
-Article URL: https://pluralistic.net/2026/07/13/go-meta-meta/ Comments URL: https://news.ycombinator.com/item?id=48892761 Points: 3 # Comments: 0
+Hi, my name is Kam, and today my cofounder Josh and I are shipping Finterm, a CLI that gives coding agents direct access to financial data: stock prices, options data, SEC filings, and Ticker Deep Research, a filtered ticker news search. I’m a developer and have been a full-time trader for the past ...
 
-📖 [Read original article](https://pluralistic.net/2026/07/13/go-meta-meta/)
+📖 [Read original article](https://finterm.ai/)
 
 ---
 
-## 14. The Red Queen's Race: Why No AI Lab Has a Real Moat
+## 13. How to build AI agents business teams want
 
-**Author:** holofermes  
-**Published:** 7/13/2026, 1:43:26 PM  
+**Author:** adamfaik  
+**Published:** 7/13/2026, 5:44:02 PM  
 **Categories:** -  
 
-Article URL: https://hedgehammer.substack.com/p/the-red-queens-race-why-no-ai-lab Comments URL: https://news.ycombinator.com/item?id=48892559 Points: 1 # Comments: 0
+Article URL: https://www.theaithinker.com/p/how-to-build-ai-agents-business-teams Comments URL: https://news.ycombinator.com/item?id=48896162 Points: 2 # Comments: 0
 
-📖 [Read original article](https://hedgehammer.substack.com/p/the-red-queens-race-why-no-ai-lab)
+📖 [Read original article](https://www.theaithinker.com/p/how-to-build-ai-agents-business-teams)
 
 ---
 
-## 15. AI and Job Postings: From Destruction to Creation
+## 14. Applying Tau Scaling to AI Datacenters
 
-**Author:** hartleybrody  
-**Published:** 7/13/2026, 1:25:31 PM  
+**Author:** HSO  
+**Published:** 7/13/2026, 5:36:45 PM  
 **Categories:** -  
 
-Article URL: https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/ Comments URL: https://news.ycombinator.com/item?id=48892343 Points: 1 # Comments: 0
+Article URL: https://polymath707.substack.com/p/huaweis-strategy-applying-tau-scaling Comments URL: https://news.ycombinator.com/item?id=48896072 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/)
+📖 [Read original article](https://polymath707.substack.com/p/huaweis-strategy-applying-tau-scaling)
 
 ---
 
-## 16. The State of AGENTS.md: scoring the 16 biggest AI agent repos' own instructions
+## 15. Georgia homeowners are being forced from their homes to power AI data centers
 
-**Author:** Fpailo  
-**Published:** 7/13/2026, 1:16:03 PM  
+**Author:** logickkk1  
+**Published:** 7/13/2026, 5:32:33 PM  
 **Categories:** -  
 
-Article URL: https://fpaul.dev/writing/state-of-agents-md-2026/ Comments URL: https://news.ycombinator.com/item?id=48892210 Points: 1 # Comments: 1
+Article URL: https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/ Comments URL: https://news.ycombinator.com/item?id=48896019 Points: 7 # Comments: 3
 
-📖 [Read original article](https://fpaul.dev/writing/state-of-agents-md-2026/)
+📖 [Read original article](https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/)
 
 ---
 
-## 17. The New York nurses replaced by AI: 'It should concern every patient who cares'
+## 16. Show HN: The Safe, Production-Ready Backend for AI-Generated Apps
 
-**Author:** beardyw  
-**Published:** 7/13/2026, 1:14:17 PM  
+**Author:** ent101  
+**Published:** 7/13/2026, 5:27:28 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai Comments URL: https://news.ycombinator.com/item?id=48892188 Points: 3 # Comments: 0
+Article URL: https://developer.puter.com Comments URL: https://news.ycombinator.com/item?id=48895945 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai)
+📖 [Read original article](https://developer.puter.com)
 
 ---
 
-## 18. 69% support forcible transfer of 50% AI stock to public fund: Verasight
+## 17. Know thine enemy: A critical engagement with AI-assisted software development
 
-**Author:** akramachamarei  
-**Published:** 7/13/2026, 1:07:51 PM  
+**Author:** linggen  
+**Published:** 7/13/2026, 5:27:17 PM  
 **Categories:** -  
 
-Article URL: https://reports.verasight.io/reports/june-2026-ai-survey Comments URL: https://news.ycombinator.com/item?id=48892103 Points: 2 # Comments: 0
+Article URL: https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1 Comments URL: https://news.ycombinator.com/item?id=48895942 Points: 2 # Comments: 0
 
-📖 [Read original article](https://reports.verasight.io/reports/june-2026-ai-survey)
+📖 [Read original article](https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1)
 
 ---
 
-## 19. How the most impactful AI startups will be built in emerging markets
+## 18. (bun GitHub repository) AI slop #33864
 
-**Author:** alphabetatango  
-**Published:** 7/13/2026, 1:04:33 PM  
+**Author:** za3faran  
+**Published:** 7/13/2026, 5:23:55 PM  
 **Categories:** -  
 
-Article URL: https://blogs.worldbank.org/en/voices/small-ai--big-bets--how-the-world-s-most-impactful-ai-startups-w Comments URL: https://news.ycombinator.com/item?id=48892073 Points: 1 # Comments: 0
+Article URL: https://github.com/oven-sh/bun/pull/33864 Comments URL: https://news.ycombinator.com/item?id=48895893 Points: 8 # Comments: 0
 
-📖 [Read original article](https://blogs.worldbank.org/en/voices/small-ai--big-bets--how-the-world-s-most-impactful-ai-startups-w)
+📖 [Read original article](https://github.com/oven-sh/bun/pull/33864)
 
 ---
 
-## 20. SociaLLM Engineering: On Manipulating AI Agents and what we can do about it
+## 19. Show HN: We are giving away $100K > over the next 12 months to hack AI agents
 
-**Author:** Versipelle  
-**Published:** 7/13/2026, 1:03:12 PM  
+**Author:** ibrahim_abdu777  
+**Published:** 7/13/2026, 5:20:13 PM  
 **Categories:** -  
 
-Article URL: https://cephalosec.com/blog/sociallm-engineering-old-tricks-ai-agents-are-the-new-victims/ Comments URL: https://news.ycombinator.com/item?id=48892053 Points: 1 # Comments: 0
+We build AI agents to find vulnerabilities in other AI agents. The playground started as an internal tool that we used to test our own offensive agent Nyx.But we realised that hacking an AI is about have as wide a distribution of attacks as possible, especially those which aren't in the distribution...
 
-📖 [Read original article](https://cephalosec.com/blog/sociallm-engineering-old-tricks-ai-agents-are-the-new-victims/)
+📖 [Read original article](https://playground.fabraix.com/)
+
+---
+
+## 20. I Cut an AI Agent's Token Use by 94%
+
+**Author:** gandalfgeek  
+**Published:** 7/13/2026, 5:13:19 PM  
+**Categories:** -  
+
+Article URL: https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/ Comments URL: https://news.ycombinator.com/item?id=48895760 Points: 3 # Comments: 0
+
+📖 [Read original article](https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/)
 
 ---
