@@ -2,16 +2,40 @@
 title: "MarkTechPost - 2026-07-13"
 date: "2026-07-13"
 source: "MarkTechPost"
-count: 1
+count: 3
 ---
 
 # MarkTechPost - 2026-07-13
 
-1 items collected.
+3 items collected.
 
 ---
 
-## 1. Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes
+## 1. Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment
+
+**Author:** Asif Razzaq  
+**Published:** 7/13/2026, 8:45:12 AM  
+**Categories:** Agentic AI, AI Infrastructure, AI Paper Summary, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Staff, Tech News, Technology  
+
+Agentic LLMs keep failing the same way because they lack specific, reusable capabilities. Stanford's TRACE diagnoses those gaps from an agent's own trajectories, synthesizes one verifiable training environment per capability, trains a LoRA adapter for each, and routes tokens across experts—improving...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/)
+
+---
+
+## 2. Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations
+
+**Author:** Michal Sutter  
+**Published:** 7/13/2026, 7:40:18 AM  
+**Categories:** Agentic AI, AI Shorts, Artificial Intelligence, Editors Pick, New Releases, Software Engineering, Staff, Tech News, Technology  
+
+Prime Intellect launched verifiers 0.2.0, previewing a rewritten "v1" core under the verifiers.v1 namespace. It splits an environment into a taskset (what), a harness (how), and a runtime (where), with an interception server that proxies requests and records training-ready traces. Any taskset runs u...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/)
+
+---
+
+## 3. Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol-JEPA on Uncurated Clinical MRI and CT Volumes
 
 **Author:** Asif Razzaq  
 **Published:** 7/13/2026, 12:35:36 AM  
