@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI Connector by Plumrocket
+## 1. New method aims to keep kids safe from illegal AI-generated content
 
-**Author:** pearsonand  
-**Published:** 7/13/2026, 9:28:16 AM  
+**Author:** droidjj  
+**Published:** 7/13/2026, 2:29:21 PM  
 **Categories:** -  
 
-Article URL: https://commercemarketplace.adobe.com/plumrocket-ai-connector.html Comments URL: https://news.ycombinator.com/item?id=48889994 Points: 1 # Comments: 0
+Article URL: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713 Comments URL: https://news.ycombinator.com/item?id=48893301 Points: 1 # Comments: 0
 
-📖 [Read original article](https://commercemarketplace.adobe.com/plumrocket-ai-connector.html)
+📖 [Read original article](https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713)
 
 ---
 
-## 2. AI creating a Jevon's Paradox for lawsuits, deals and litigation [video]
+## 2. How are people securing their AI access to APIs?
 
-**Author:** OgsyedIE  
-**Published:** 7/13/2026, 9:17:47 AM  
+**Author:** geoicons  
+**Published:** 7/13/2026, 2:27:00 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=_uWnr42zGnE Comments URL: https://news.ycombinator.com/item?id=48889897 Points: 1 # Comments: 0
+Article URL: https://requestrocket.com/blog/ai-agent-access-control-landscape Comments URL: https://news.ycombinator.com/item?id=48893264 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=_uWnr42zGnE)
+📖 [Read original article](https://requestrocket.com/blog/ai-agent-access-control-landscape)
 
 ---
 
-## 3. DolphinDB v3.00.6 and v2.00.19: Introducing DolphinX for Enterprise AI Agents
+## 3. Richard Sutton Breaks Away from Keen AI to Start Oak Lab
 
-**Author:** yiweileng  
-**Published:** 7/13/2026, 9:09:07 AM  
+**Author:** tosh  
+**Published:** 7/13/2026, 2:24:46 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@DolphinDB_Inc/dolphindb-v3-00-6-ecde33229456 Comments URL: https://news.ycombinator.com/item?id=48889819 Points: 2 # Comments: 0
+Article URL: https://twitter.com/RichardSSutton/status/2076663628301058329 Comments URL: https://news.ycombinator.com/item?id=48893232 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@DolphinDB_Inc/dolphindb-v3-00-6-ecde33229456)
+📖 [Read original article](https://twitter.com/RichardSSutton/status/2076663628301058329)
 
 ---
 
-## 4. TSMC posts record revenue in second quarter on AI demand
+## 4. LingBot-Video: An open-source MoE video foundation model for embodied AI
 
-**Author:** adithyaharish  
-**Published:** 7/13/2026, 7:47:14 AM  
+**Author:** Kajaking  
+**Published:** 7/13/2026, 2:20:01 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/technology/artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=48889232 Points: 1 # Comments: 0
+Article URL: https://github.com/robbyant/lingbot-video Comments URL: https://news.ycombinator.com/item?id=48893161 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/technology/artificial-intelligence/)
+📖 [Read original article](https://github.com/robbyant/lingbot-video)
 
 ---
 
-## 5. AI Email Template Design Company
+## 5. The State of the AI Economy [pdf]
 
-**Author:** andreponce  
-**Published:** 7/13/2026, 7:45:54 AM  
+**Author:** gmays  
+**Published:** 7/13/2026, 2:17:34 PM  
 **Categories:** -  
 
-Article URL: https://madooai.com Comments URL: https://news.ycombinator.com/item?id=48889224 Points: 1 # Comments: 0
+Article URL: https://intelligence.exponentialview.co/assets/ev-state-of-ai-economy-2026.pdf Comments URL: https://news.ycombinator.com/item?id=48893119 Points: 1 # Comments: 0
 
-📖 [Read original article](https://madooai.com)
+📖 [Read original article](https://intelligence.exponentialview.co/assets/ev-state-of-ai-economy-2026.pdf)
 
 ---
 
-## 6. From the To-Do List to the AI Agent
+## 6. Pixoate an AI Photo Editor
 
-**Author:** rasengan0  
-**Published:** 7/13/2026, 7:43:23 AM  
+**Author:** harpal11  
+**Published:** 7/13/2026, 2:17:33 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=OuEKdD_1F8s Comments URL: https://news.ycombinator.com/item?id=48889199 Points: 1 # Comments: 0
+Article URL: https://pixoate.com Comments URL: https://news.ycombinator.com/item?id=48893116 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.youtube.com/watch?v=OuEKdD_1F8s)
+📖 [Read original article](https://pixoate.com)
 
 ---
 
-## 7. AI Is a Product of Humanity. Humanity Should Own AI
+## 7. Apple Stock Hits Record Territory as Traders Sour on AI Spending
 
-**Author:** one33seven  
-**Published:** 7/13/2026, 7:41:04 AM  
+**Author:** datakan  
+**Published:** 7/13/2026, 2:14:58 PM  
 **Categories:** -  
 
-Article URL: https://jacobin.com/2026/07/ai-big-tech-global-ownership-control Comments URL: https://news.ycombinator.com/item?id=48889175 Points: 1 # Comments: 0
+Article URL: https://www.macrumors.com/2026/07/13/apple-stock-record-territory/ Comments URL: https://news.ycombinator.com/item?id=48893078 Points: 1 # Comments: 1
 
-📖 [Read original article](https://jacobin.com/2026/07/ai-big-tech-global-ownership-control)
+📖 [Read original article](https://www.macrumors.com/2026/07/13/apple-stock-record-territory/)
 
 ---
 
-## 8. Dunning-Kruger After AI: The Gap That No Longer Closes
+## 8. AI as Search Engine and Printing Press Aid: Local Education Data Munging
 
-**Author:** thierryzoller  
-**Published:** 7/13/2026, 6:42:48 AM  
+**Author:** mrkiouak  
+**Published:** 7/13/2026, 2:05:36 PM  
 **Categories:** -  
 
-Article URL: https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html Comments URL: https://news.ycombinator.com/item?id=48888772 Points: 1 # Comments: 0
+Article URL: https://middlesexgazette.org/news/vermonts-yardstick-moved/ Comments URL: https://news.ycombinator.com/item?id=48892925 Points: 1 # Comments: 1
 
-📖 [Read original article](https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html)
+📖 [Read original article](https://middlesexgazette.org/news/vermonts-yardstick-moved/)
 
 ---
 
-## 9. The Winners of the AI Era
+## 9. A litmus test for the utility of AI features
 
-**Author:** wsdn  
-**Published:** 7/13/2026, 6:22:01 AM  
+**Author:** haritha-j  
+**Published:** 7/13/2026, 2:03:21 PM  
 **Categories:** -  
 
-Article URL: https://calcrecipe.com/en/workshop/7 Comments URL: https://news.ycombinator.com/item?id=48888605 Points: 2 # Comments: 0
+Article URL: https://beyondprobable.com/posts/litmus-test-ai-features.html Comments URL: https://news.ycombinator.com/item?id=48892880 Points: 1 # Comments: 0
 
-📖 [Read original article](https://calcrecipe.com/en/workshop/7)
+📖 [Read original article](https://beyondprobable.com/posts/litmus-test-ai-features.html)
 
 ---
 
-## 10. Giving \"AI slop\" as feedback says as much about the commenter as the creator
+## 10. Show HN: Crowdmind – open-source tool to test ideas against AI personas
 
-**Author:** cinooo  
-**Published:** 7/13/2026, 6:06:13 AM  
+**Author:** jjaramillor  
+**Published:** 7/13/2026, 2:03:10 PM  
 **Categories:** -  
 
-Article URL: https://thetruthasiseeitnow.com/using-ai-slop-as-feedback-tells-as-much-about-the-commenter-as-the-creator/ Comments URL: https://news.ycombinator.com/item?id=48888501 Points: 2 # Comments: 0
+Article URL: https://github.com/Brokenwatch24/crowdmind Comments URL: https://news.ycombinator.com/item?id=48892876 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thetruthasiseeitnow.com/using-ai-slop-as-feedback-tells-as-much-about-the-commenter-as-the-creator/)
+📖 [Read original article](https://github.com/Brokenwatch24/crowdmind)
 
 ---
 
-## 11. SpaceX's near-term AI payoff seen tethered to Earth, not outer space
+## 11. AI could keep poor countries poor
 
-**Author:** adithyaharish  
-**Published:** 7/13/2026, 5:44:46 AM  
+**Author:** surprisetalk  
+**Published:** 7/13/2026, 2:00:02 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/science/spacexs-near-term-ai-payoff-seen-tethered-earth-not-outer-space-2026-07-10/ Comments URL: https://news.ycombinator.com/item?id=48888384 Points: 1 # Comments: 0
+Article URL: https://newsletter.deenamousa.com/p/ai-could-keep-poor-countries-poor Comments URL: https://news.ycombinator.com/item?id=48892816 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/science/spacexs-near-term-ai-payoff-seen-tethered-earth-not-outer-space-2026-07-10/)
+📖 [Read original article](https://newsletter.deenamousa.com/p/ai-could-keep-poor-countries-poor)
 
 ---
 
-## 12. 'Quality decays exponentially following AI arrival': Experts leaving in droves
+## 12. Node0 – A P2P protocol and SDK for autonomous AI agents
 
-**Author:** Fricken  
-**Published:** 7/13/2026, 4:59:44 AM  
+**Author:** node0network  
+**Published:** 7/13/2026, 1:58:12 PM  
 **Categories:** -  
 
-Article URL: https://www.techradar.com/pro/quality-decays-exponentially-following-ai-arrival-research-shows-experts-and-contributors-leaving-online-communities-amidst-silent-knowledge-reset Comments URL: https://news.ycombinator.com/item?id=48888107 Points: 5 # Comments: 0
+Article URL: https://github.com/node0network/node0 Comments URL: https://news.ycombinator.com/item?id=48892782 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.techradar.com/pro/quality-decays-exponentially-following-ai-arrival-research-shows-experts-and-contributors-leaving-online-communities-amidst-silent-knowledge-reset)
+📖 [Read original article](https://github.com/node0network/node0)
 
 ---
 
-## 13. Is the top song on Australian radio AI-generated?
+## 13. Why aren't AI companies competing directly with their customers?
 
-**Author:** sbulaev  
-**Published:** 7/13/2026, 4:41:45 AM  
+**Author:** hn_acker  
+**Published:** 7/13/2026, 1:56:45 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/music/2026/jul/13/josh-fawaz-like-a-prayer-song-is-it-ai-radio Comments URL: https://news.ycombinator.com/item?id=48887992 Points: 5 # Comments: 0
+Article URL: https://pluralistic.net/2026/07/13/go-meta-meta/ Comments URL: https://news.ycombinator.com/item?id=48892761 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/music/2026/jul/13/josh-fawaz-like-a-prayer-song-is-it-ai-radio)
+📖 [Read original article](https://pluralistic.net/2026/07/13/go-meta-meta/)
 
 ---
 
-## 14. The University in the AI Era
+## 14. The Red Queen's Race: Why No AI Lab Has a Real Moat
 
-**Author:** vismit2000  
-**Published:** 7/13/2026, 4:37:03 AM  
+**Author:** holofermes  
+**Published:** 7/13/2026, 1:43:26 PM  
 **Categories:** -  
 
-Article URL: https://htmx.org/essays/universities-and-ai/ Comments URL: https://news.ycombinator.com/item?id=48887963 Points: 2 # Comments: 0
+Article URL: https://hedgehammer.substack.com/p/the-red-queens-race-why-no-ai-lab Comments URL: https://news.ycombinator.com/item?id=48892559 Points: 1 # Comments: 0
 
-📖 [Read original article](https://htmx.org/essays/universities-and-ai/)
+📖 [Read original article](https://hedgehammer.substack.com/p/the-red-queens-race-why-no-ai-lab)
 
 ---
 
-## 15. Ask HN: As a customer, how do you feel about AI-First Customer Support?
+## 15. AI and Job Postings: From Destruction to Creation
 
-**Author:** gerardojbaez  
-**Published:** 7/13/2026, 4:25:13 AM  
+**Author:** hartleybrody  
+**Published:** 7/13/2026, 1:25:31 PM  
 **Categories:** -  
 
-I've seen mixed sentiments out there. What has been your experience from the customer-side? Comments URL: https://news.ycombinator.com/item?id=48887895 Points: 2 # Comments: 2
+Article URL: https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/ Comments URL: https://news.ycombinator.com/item?id=48892343 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48887895)
+📖 [Read original article](https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/)
 
 ---
 
-## 16. Global Careers Hub – Free AI Tools, Scholarships and Career Resources
+## 16. The State of AGENTS.md: scoring the 16 biggest AI agent repos' own instructions
 
-**Author:** Shuborna  
-**Published:** 7/13/2026, 3:56:30 AM  
+**Author:** Fpailo  
+**Published:** 7/13/2026, 1:16:03 PM  
 **Categories:** -  
 
-Article URL: https://globalcareers-3qwcpfkw.manus.space/ Comments URL: https://news.ycombinator.com/item?id=48887718 Points: 1 # Comments: 0
+Article URL: https://fpaul.dev/writing/state-of-agents-md-2026/ Comments URL: https://news.ycombinator.com/item?id=48892210 Points: 1 # Comments: 1
 
-📖 [Read original article](https://globalcareers-3qwcpfkw.manus.space/)
+📖 [Read original article](https://fpaul.dev/writing/state-of-agents-md-2026/)
 
 ---
 
-## 17. Why recruiters can't find workers and new grads can't find jobs (it's not AI)
+## 17. The New York nurses replaced by AI: 'It should concern every patient who cares'
 
-**Author:** WalterBright  
-**Published:** 7/13/2026, 3:30:39 AM  
+**Author:** beardyw  
+**Published:** 7/13/2026, 1:14:17 PM  
 **Categories:** -  
 
-Article URL: https://www.seattletimes.com/nation-world/why-recruiters-cant-find-workers-and-new-grads-cant-find-jobs-its-not-ai/ Comments URL: https://news.ycombinator.com/item?id=48887540 Points: 4 # Comments: 9
+Article URL: https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai Comments URL: https://news.ycombinator.com/item?id=48892188 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.seattletimes.com/nation-world/why-recruiters-cant-find-workers-and-new-grads-cant-find-jobs-its-not-ai/)
+📖 [Read original article](https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai)
 
 ---
 
-## 18. Show HN: Self-hosted voice AI agent for Asterisk/FreePBX
+## 18. 69% support forcible transfer of 50% AI stock to public fund: Verasight
 
-**Author:** hkjarral  
-**Published:** 7/13/2026, 2:51:34 AM  
+**Author:** akramachamarei  
+**Published:** 7/13/2026, 1:07:51 PM  
 **Categories:** -  
 
-Article URL: https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk Comments URL: https://news.ycombinator.com/item?id=48887276 Points: 4 # Comments: 0
+Article URL: https://reports.verasight.io/reports/june-2026-ai-survey Comments URL: https://news.ycombinator.com/item?id=48892103 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk)
+📖 [Read original article](https://reports.verasight.io/reports/june-2026-ai-survey)
 
 ---
 
-## 19. Chinese voice actor forced to prove he's human against AI clones
+## 19. How the most impactful AI startups will be built in emerging markets
 
-**Author:** whiteblossom  
-**Published:** 7/13/2026, 2:49:55 AM  
+**Author:** alphabetatango  
+**Published:** 7/13/2026, 1:04:33 PM  
 **Categories:** -  
 
-Article URL: https://www.sixthtone.com/news/1018753/TheChineseVoiceActorForcedtoProveHe’sHuman Comments URL: https://news.ycombinator.com/item?id=48887264 Points: 1 # Comments: 1
+Article URL: https://blogs.worldbank.org/en/voices/small-ai--big-bets--how-the-world-s-most-impactful-ai-startups-w Comments URL: https://news.ycombinator.com/item?id=48892073 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.sixthtone.com/news/1018753/TheChineseVoiceActorForcedtoProveHe’sHuman)
+📖 [Read original article](https://blogs.worldbank.org/en/voices/small-ai--big-bets--how-the-world-s-most-impactful-ai-startups-w)
 
 ---
 
-## 20. Thoughts on AI
+## 20. SociaLLM Engineering: On Manipulating AI Agents and what we can do about it
 
-**Author:** jackpep  
-**Published:** 7/13/2026, 2:43:37 AM  
+**Author:** Versipelle  
+**Published:** 7/13/2026, 1:03:12 PM  
 **Categories:** -  
 
-Article URL: https://jackpeplinski.bearblog.dev/thoughts-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48887218 Points: 1 # Comments: 0
+Article URL: https://cephalosec.com/blog/sociallm-engineering-old-tricks-ai-agents-are-the-new-victims/ Comments URL: https://news.ycombinator.com/item?id=48892053 Points: 1 # Comments: 0
 
-📖 [Read original article](https://jackpeplinski.bearblog.dev/thoughts-on-ai/)
+📖 [Read original article](https://cephalosec.com/blog/sociallm-engineering-old-tricks-ai-agents-are-the-new-victims/)
 
 ---
