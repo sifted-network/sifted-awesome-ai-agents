@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Neverswipe – your AI agent dates so you don't swipe
+## 1. Show HN: Kmux – Parallel terminal workspace optimized for AI coding agents
 
-**Author:** pro_methe5  
-**Published:** 7/14/2026, 7:52:12 AM  
+**Author:** kkd927  
+**Published:** 7/14/2026, 1:34:00 PM  
 **Categories:** -  
 
-Article URL: https://neverswipe.ai Comments URL: https://news.ycombinator.com/item?id=48903487 Points: 1 # Comments: 0
+Article URL: https://github.com/kkd927/kmux Comments URL: https://news.ycombinator.com/item?id=48906624 Points: 1 # Comments: 0
 
-📖 [Read original article](https://neverswipe.ai)
+📖 [Read original article](https://github.com/kkd927/kmux)
 
 ---
 
-## 2. AI coding agents should optimize for less owned code
+## 2. Show HN: VisualEther – Wireshark PCAPs to sequence diagrams; MCP for AI analysis
 
-**Author:** lyoncy  
-**Published:** 7/14/2026, 7:50:33 AM  
+**Author:** eventhelix  
+**Published:** 7/14/2026, 1:26:08 PM  
 **Categories:** -  
 
-Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code Comments URL: https://news.ycombinator.com/item?id=48903476 Points: 1 # Comments: 0
+Article URL: https://www.eventhelix.com/visualether/case-studies/5g-nr-r16-mdt-mac-pdcp-decryption-scheduling-harq-ipsec-esp-analysis.html Comments URL: https://news.ycombinator.com/item?id=48906513 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code)
+📖 [Read original article](https://www.eventhelix.com/visualether/case-studies/5g-nr-r16-mdt-mac-pdcp-decryption-scheduling-harq-ipsec-esp-analysis.html)
 
 ---
 
-## 3. Show HN: ClaudeThings – your AI engineering and marketing team in one command
+## 3. Ask HN: Prompting AI for black magic incantations?
 
-**Author:** mohitvaswani  
-**Published:** 7/14/2026, 7:32:27 AM  
+**Author:** julienreszka  
+**Published:** 7/14/2026, 1:18:05 PM  
 **Categories:** -  
 
-Article URL: https://www.claudethings.com/ Comments URL: https://news.ycombinator.com/item?id=48903346 Points: 1 # Comments: 0
+friend told me he does't believe in it but some weird things started happening since he started doing this for fun. Anybody else with similar experiences? Comments URL: https://news.ycombinator.com/item?id=48906399 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.claudethings.com/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48906399)
 
 ---
 
-## 4. Slay the Spire 2 Is Choosing \"Shit\" Art over Generative AI
+## 4. Anthropic commits $10M to Canadian AI research
 
-**Author:** jalev  
-**Published:** 7/14/2026, 7:22:52 AM  
+**Author:** surprisetalk  
+**Published:** 7/14/2026, 1:16:08 PM  
 **Categories:** -  
 
-Article URL: https://www.gamespot.com/articles/slay-the-spire-2-is-choosing-shit-art-over-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=48903289 Points: 2 # Comments: 1
+Article URL: https://www.anthropic.com/news/canadian-ai-research Comments URL: https://news.ycombinator.com/item?id=48906378 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.gamespot.com/articles/slay-the-spire-2-is-choosing-shit-art-over-generative-ai/)
+📖 [Read original article](https://www.anthropic.com/news/canadian-ai-research)
 
 ---
 
-## 5. What Anthropic's latest AI discovery does–and doesn't–show
+## 5. AI-Notify – Context-aware terminal notifications for multitasking devs
 
-**Author:** joozio  
-**Published:** 7/14/2026, 7:01:34 AM  
+**Author:** heliasdev  
+**Published:** 7/14/2026, 1:15:10 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/ Comments URL: https://news.ycombinator.com/item?id=48903165 Points: 1 # Comments: 0
+Article URL: https://medium.com/engineering-in-the-age-of-ai/ai-notify-context-aware-notifications-for-multi-tasking-developers-3614635398ec Comments URL: https://news.ycombinator.com/item?id=48906365 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/)
+📖 [Read original article](https://medium.com/engineering-in-the-age-of-ai/ai-notify-context-aware-notifications-for-multi-tasking-developers-3614635398ec)
 
 ---
 
-## 6. Show HN: Benchmark your eng team's AI agent maturity in 5 minutes
+## 6. Identify Skin: AI Dermatology SaaS
 
-**Author:** adamgold7  
-**Published:** 7/14/2026, 6:48:47 AM  
+**Author:** GemsGame  
+**Published:** 7/14/2026, 1:12:35 PM  
 **Categories:** -  
 
-we had hundreds of discussions with engineering leaders over the past few months, and everyone's trying to understand where they are in the AI journey.we collected all this data into a benchmark and built a free grader to let you know where you stand.you answer on a 1–5 scale (e.g., autonomy runs fr...
+Article URL: https://identify.skin/en Comments URL: https://news.ycombinator.com/item?id=48906329 Points: 2 # Comments: 0
 
-📖 [Read original article](https://agent-benchmarks.com/software-factory/)
+📖 [Read original article](https://identify.skin/en)
 
 ---
 
-## 7. The Lies They're Telling Towns and Tribes About the Benefits of AI Data Centers
+## 7. Don't bring an AI detector to a deepfake fight: provenance over detection
 
-**Author:** HotGarbage  
-**Published:** 7/14/2026, 6:48:38 AM  
+**Author:** Despoisj  
+**Published:** 7/14/2026, 1:11:29 PM  
 **Categories:** -  
 
-Article URL: https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=48903101 Points: 2 # Comments: 0
+Article URL: https://www.lesswrong.com/posts/MBRNR5h9g6HGvAJDe/don-t-bring-an-ai-detector-to-a-deepfake-fight-proving Comments URL: https://news.ycombinator.com/item?id=48906312 Points: 2 # Comments: 0
 
-📖 [Read original article](https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/)
+📖 [Read original article](https://www.lesswrong.com/posts/MBRNR5h9g6HGvAJDe/don-t-bring-an-ai-detector-to-a-deepfake-fight-proving)
 
 ---
 
-## 8. Weakening copyright to benefit AI would betray Australian Labor party's ethos
+## 8. Ask HN: Any objective research on which languages are best for AI agents?
 
-**Author:** ggm  
-**Published:** 7/14/2026, 6:39:08 AM  
+**Author:** mwigdahl  
+**Published:** 7/14/2026, 1:10:05 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail Comments URL: https://news.ycombinator.com/item?id=48903046 Points: 2 # Comments: 0
+I keep reading articles that suggest that Rust or Go or some other language is optimal for AI development because of feature X or lack of issue Y.Has there been any actual head to head comparison of this using frontier models? Any benchmarks that purport to measure this? Comments URL: https://news.y...
 
-📖 [Read original article](https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail)
+📖 [Read original article](https://news.ycombinator.com/item?id=48906299)
 
 ---
 
-## 9. Show HN: Themis – Self-hosted AI code reviews with your own keys and models
+## 9. U of Chicago law school bans laptops from classes amid AI backlash
 
-**Author:** Diwadoo  
-**Published:** 7/14/2026, 6:34:22 AM  
+**Author:** smurda  
+**Published:** 7/14/2026, 12:57:08 PM  
 **Categories:** -  
 
-Hey HN,I wasn't happy with the code review tools we use at work and on my side projects. Noisy, reviews in surface, expensive (overkill for sides). So since Gemini was getting sunsetted, I explored having my own.As I am a cheap rat, this weekend I built Themis, that works with my Codex/Claude subscr...
+Article URL: https://www.the-independent.com/tech/laptop-ban-university-ai-backlash-b3013911.html Comments URL: https://news.ycombinator.com/item?id=48906132 Points: 6 # Comments: 0
 
-📖 [Read original article](https://github.com/Zaimwa9/themis)
+📖 [Read original article](https://www.the-independent.com/tech/laptop-ban-university-ai-backlash-b3013911.html)
 
 ---
 
-## 10. Context bombs: stopping AI attackers in their tracks
+## 10. Mnemo AI – Local agentic assistant for any LLM that learns from its failures
 
-**Author:** ilreb  
-**Published:** 7/14/2026, 6:30:47 AM  
+**Author:** br1pistone  
+**Published:** 7/14/2026, 12:49:54 PM  
 **Categories:** -  
 
-Article URL: https://agentic.tracebit.com/context-bombs/ Comments URL: https://news.ycombinator.com/item?id=48902986 Points: 3 # Comments: 1
+Article URL: https://github.com/brunopistone/mnemoai Comments URL: https://news.ycombinator.com/item?id=48906032 Points: 2 # Comments: 0
 
-📖 [Read original article](https://agentic.tracebit.com/context-bombs/)
+📖 [Read original article](https://github.com/brunopistone/mnemoai)
 
 ---
 
-## 11. European Parliament MCP Server – Political Intelligence for AI Agents
+## 11. DOGE Used AI for Housing Policy. The Government Won't Say How
 
-**Author:** jamespether  
-**Published:** 7/14/2026, 6:29:46 AM  
+**Author:** speckx  
+**Published:** 7/14/2026, 12:46:34 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Hack23/European-Parliament-MCP-Server Comments URL: https://news.ycombinator.com/item?id=48902977 Points: 1 # Comments: 0
+Article URL: https://www.wired.com/story/doge-deployed-ai-housing-policy/ Comments URL: https://news.ycombinator.com/item?id=48905989 Points: 7 # Comments: 1
 
-📖 [Read original article](https://github.com/Hack23/European-Parliament-MCP-Server)
+📖 [Read original article](https://www.wired.com/story/doge-deployed-ai-housing-policy/)
 
 ---
 
-## 12. Harvey LAB-AA: evaluating AI agents on real-world legal work
+## 12. Lenz – A fact-checking API for AI-generated content
 
-**Author:** theanonymousone  
-**Published:** 7/14/2026, 6:09:42 AM  
+**Author:** kostaj  
+**Published:** 7/14/2026, 12:39:03 PM  
 **Categories:** -  
 
-Article URL: https://artificialanalysis.ai/articles/harvey-lab-aa Comments URL: https://news.ycombinator.com/item?id=48902852 Points: 1 # Comments: 0
+Article URL: https://lenz.io/ Comments URL: https://news.ycombinator.com/item?id=48905894 Points: 5 # Comments: 2
 
-📖 [Read original article](https://artificialanalysis.ai/articles/harvey-lab-aa)
+📖 [Read original article](https://lenz.io/)
 
 ---
 
-## 13. Truvace – tracking AI's real-world impact with sourced reporting
+## 13. The US-China AI arms race has taken an unexpected turn
 
-**Author:** mosisaSaba  
-**Published:** 7/14/2026, 6:09:37 AM  
+**Author:** speckx  
+**Published:** 7/14/2026, 12:35:14 PM  
 **Categories:** -  
 
-Article URL: https://truvace.com Comments URL: https://news.ycombinator.com/item?id=48902850 Points: 1 # Comments: 0
+Article URL: https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/ Comments URL: https://news.ycombinator.com/item?id=48905845 Points: 4 # Comments: 0
 
-📖 [Read original article](https://truvace.com)
+📖 [Read original article](https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/)
 
 ---
 
-## 14. Meta's AI advertising dreams have become a nightmare for brands
+## 14. Adapting offensive security for the AI agent age
 
-**Author:** vrganj  
-**Published:** 7/14/2026, 6:07:11 AM  
+**Author:** mmoon2  
+**Published:** 7/14/2026, 12:23:40 PM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7 Comments URL: https://news.ycombinator.com/item?id=48902837 Points: 2 # Comments: 0
+Article URL: https://engineering.taktile.com/blog/adapting-offensive-security-for-the-ai-agent-age/ Comments URL: https://news.ycombinator.com/item?id=48905690 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7)
+📖 [Read original article](https://engineering.taktile.com/blog/adapting-offensive-security-for-the-ai-agent-age/)
 
 ---
 
-## 15. Everybody Should Welcome Nationalizing AI
+## 15. Google's Hassabis calls for new US-led global AI watchdog \"before year end\"
 
-**Author:** one33seven  
-**Published:** 7/14/2026, 5:36:06 AM  
+**Author:** simonpure  
+**Published:** 7/14/2026, 12:10:17 PM  
 **Categories:** -  
 
-Article URL: https://jacobin.com/2026/07/ai-nationalization-sanders-libertarians-property Comments URL: https://news.ycombinator.com/item?id=48902676 Points: 2 # Comments: 2
+Article URL: https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind Comments URL: https://news.ycombinator.com/item?id=48905542 Points: 3 # Comments: 0
 
-📖 [Read original article](https://jacobin.com/2026/07/ai-nationalization-sanders-libertarians-property)
+📖 [Read original article](https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind)
 
 ---
 
-## 16. Altera returns to growth as AI, robotics fuel demand, CEO says
+## 16. Show HN: AI mock-interview coach that scores how you sound, not just your words
 
-**Author:** adithyaharish  
-**Published:** 7/14/2026, 5:03:07 AM  
+**Author:** mondaussupport  
+**Published:** 7/14/2026, 12:03:12 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/ Comments URL: https://news.ycombinator.com/item?id=48902494 Points: 1 # Comments: 0
+Article URL: https://www.stanrose.com/mondaus Comments URL: https://news.ycombinator.com/item?id=48905435 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/business/altera-returns-growth-ai-robotics-fuel-demand-ceo-says-2026-07-10/)
+📖 [Read original article](https://www.stanrose.com/mondaus)
 
 ---
 
-## 17. Copyright law is now the biggest battleground in Australia's AI boom
+## 17. Show HN: An AI Duolingo for your income goals
 
-**Author:** ahonhn  
-**Published:** 7/14/2026, 4:51:36 AM  
+**Author:** Fotis-Karmpas  
+**Published:** 7/14/2026, 11:59:05 AM  
 **Categories:** -  
 
-Article URL: https://www.abc.net.au/news/2026-07-14/copyright-law-battleground-in-australia-ai-boom/106891890 Comments URL: https://news.ycombinator.com/item?id=48902417 Points: 2 # Comments: 1
+Article URL: https://thrivez.io/thrivez-ai-mentor/ Comments URL: https://news.ycombinator.com/item?id=48905383 Points: 3 # Comments: 7
 
-📖 [Read original article](https://www.abc.net.au/news/2026-07-14/copyright-law-battleground-in-australia-ai-boom/106891890)
+📖 [Read original article](https://thrivez.io/thrivez-ai-mentor/)
 
 ---
 
-## 18. IronCurtain – A secure* runtime for autonomous AI agents
+## 18. How to Overengineer a Project with AI
 
-**Author:** n0on3  
-**Published:** 7/14/2026, 4:22:11 AM  
+**Author:** wanderdust  
+**Published:** 7/14/2026, 11:55:57 AM  
 **Categories:** -  
 
-Article URL: https://github.com/provos/ironcurtain Comments URL: https://news.ycombinator.com/item?id=48902269 Points: 1 # Comments: 0
+Article URL: https://www.pablols.com/posts/049_i_overengineered_a_website/ Comments URL: https://news.ycombinator.com/item?id=48905351 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/provos/ironcurtain)
+📖 [Read original article](https://www.pablols.com/posts/049_i_overengineered_a_website/)
 
 ---
 
-## 19. Hands-On with iOS and iPadOS 27, macOS 27 Golden Gate, and Siri AI
+## 19. At CERN, AI will drive future discoveries
 
-**Author:** mindracer  
-**Published:** 7/14/2026, 4:17:48 AM  
+**Author:** giuliomagnifico  
+**Published:** 7/14/2026, 11:51:49 AM  
 **Categories:** -  
 
-Article URL: https://eshumarneedi.com/2026/07/13/handson-with-ios-and-ipados.html Comments URL: https://news.ycombinator.com/item?id=48902247 Points: 2 # Comments: 0
+Article URL: https://www.swissinfo.ch/eng/research-frontiers/at-cern-ai-will-drive-future-discoveries/91723774 Comments URL: https://news.ycombinator.com/item?id=48905310 Points: 2 # Comments: 0
 
-📖 [Read original article](https://eshumarneedi.com/2026/07/13/handson-with-ios-and-ipados.html)
+📖 [Read original article](https://www.swissinfo.ch/eng/research-frontiers/at-cern-ai-will-drive-future-discoveries/91723774)
 
 ---
 
-## 20. Ongoing changes to Android security patches due to AI vulnerability discovery
+## 20. Real AI for video games (Iconic Games)
 
-**Author:** Cider9986  
-**Published:** 7/14/2026, 3:53:45 AM  
+**Author:** giltho  
+**Published:** 7/14/2026, 11:15:05 AM  
 **Categories:** -  
 
-Article URL: https://discuss.grapheneos.org/d/40286-ongoing-changes-to-android-security-patches-due-to-ai-vulnerability-discovery Comments URL: https://news.ycombinator.com/item?id=48902125 Points: 3 # Comments: 0
+Article URL: https://iconicgames.io/blog/pressure-point/ Comments URL: https://news.ycombinator.com/item?id=48904982 Points: 3 # Comments: 0
 
-📖 [Read original article](https://discuss.grapheneos.org/d/40286-ongoing-changes-to-android-security-patches-due-to-ai-vulnerability-discovery)
+📖 [Read original article](https://iconicgames.io/blog/pressure-point/)
 
 ---
