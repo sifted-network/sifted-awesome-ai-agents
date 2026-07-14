@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-13"
 date: "2026-07-13"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-07-13
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ count: 10
 
 
 📖 [Read original article](https://www.qbitai.com/2026/07/448824.html)
-
----
-
-## 10. 2026年世界人工智能大会，7月17-7月20上海举办
-
-**Author:** 量子位的朋友们  
-**Published:** 7/13/2026, 5:33:28 AM  
-**Categories:** 资讯, 首页轮播, waic2026  
-
-180家企业携成果入驻
-
-📖 [Read original article](https://www.qbitai.com/2026/07/436498.html)
 
 ---
