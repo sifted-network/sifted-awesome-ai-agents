@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Kmux – Parallel terminal workspace optimized for AI coding agents
+## 1. Linux Foundation's Latest Foray Is to Standardize Payments for AI Agents
 
-**Author:** kkd927  
-**Published:** 7/14/2026, 1:34:00 PM  
+**Author:** Bender  
+**Published:** 7/14/2026, 6:32:52 PM  
 **Categories:** -  
 
-Article URL: https://github.com/kkd927/kmux Comments URL: https://news.ycombinator.com/item?id=48906624 Points: 1 # Comments: 0
+Article URL: https://www.phoronix.com/news/Linux-Foundation-x402 Comments URL: https://news.ycombinator.com/item?id=48911171 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/kkd927/kmux)
+📖 [Read original article](https://www.phoronix.com/news/Linux-Foundation-x402)
 
 ---
 
-## 2. Show HN: VisualEther – Wireshark PCAPs to sequence diagrams; MCP for AI analysis
+## 2. People Who Will Thrive in the AI Age
 
-**Author:** eventhelix  
-**Published:** 7/14/2026, 1:26:08 PM  
+**Author:** sodiumjoe  
+**Published:** 7/14/2026, 6:31:56 PM  
 **Categories:** -  
 
-Article URL: https://www.eventhelix.com/visualether/case-studies/5g-nr-r16-mdt-mac-pdcp-decryption-scheduling-harq-ipsec-esp-analysis.html Comments URL: https://news.ycombinator.com/item?id=48906513 Points: 1 # Comments: 0
+Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=48911161 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.eventhelix.com/visualether/case-studies/5g-nr-r16-mdt-mac-pdcp-decryption-scheduling-harq-ipsec-esp-analysis.html)
+📖 [Read original article](https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/)
 
 ---
 
-## 3. Ask HN: Prompting AI for black magic incantations?
+## 3. Five Laws of Generative AI
 
-**Author:** julienreszka  
-**Published:** 7/14/2026, 1:18:05 PM  
+**Author:** aard  
+**Published:** 7/14/2026, 6:30:24 PM  
 **Categories:** -  
 
-friend told me he does't believe in it but some weird things started happening since he started doing this for fun. Anybody else with similar experiences? Comments URL: https://news.ycombinator.com/item?id=48906399 Points: 1 # Comments: 0
+Article URL: https://isaaclyman.com/blog/posts/five-laws-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48911134 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48906399)
+📖 [Read original article](https://isaaclyman.com/blog/posts/five-laws-of-ai/)
 
 ---
 
-## 4. Anthropic commits $10M to Canadian AI research
+## 4. Open Sourcing the Atuin AI Server
 
-**Author:** surprisetalk  
-**Published:** 7/14/2026, 1:16:08 PM  
+**Author:** johnbehnke  
+**Published:** 7/14/2026, 6:21:23 PM  
 **Categories:** -  
 
-Article URL: https://www.anthropic.com/news/canadian-ai-research Comments URL: https://news.ycombinator.com/item?id=48906378 Points: 3 # Comments: 0
+Article URL: https://blog.atuin.sh/atuin-ai-oss/ Comments URL: https://news.ycombinator.com/item?id=48910998 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.anthropic.com/news/canadian-ai-research)
+📖 [Read original article](https://blog.atuin.sh/atuin-ai-oss/)
 
 ---
 
-## 5. AI-Notify – Context-aware terminal notifications for multitasking devs
+## 5. Show HN: Poseberry: create AI influencers that pose with your products
 
-**Author:** heliasdev  
-**Published:** 7/14/2026, 1:15:10 PM  
+**Author:** itsdevdaniel  
+**Published:** 7/14/2026, 6:17:17 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/engineering-in-the-age-of-ai/ai-notify-context-aware-notifications-for-multi-tasking-developers-3614635398ec Comments URL: https://news.ycombinator.com/item?id=48906365 Points: 2 # Comments: 0
+Article URL: https://poseberry.com Comments URL: https://news.ycombinator.com/item?id=48910959 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/engineering-in-the-age-of-ai/ai-notify-context-aware-notifications-for-multi-tasking-developers-3614635398ec)
+📖 [Read original article](https://poseberry.com)
 
 ---
 
-## 6. Identify Skin: AI Dermatology SaaS
+## 6. We scored 1,018 real-world AI prompts. Robustness averaged 31/100
 
-**Author:** GemsGame  
-**Published:** 7/14/2026, 1:12:35 PM  
+**Author:** Franciscoferr  
+**Published:** 7/14/2026, 6:08:17 PM  
 **Categories:** -  
 
-Article URL: https://identify.skin/en Comments URL: https://news.ycombinator.com/item?id=48906329 Points: 2 # Comments: 0
+Article URL: https://prompt-eval.com/state-of-prompt-quality/2026-q3 Comments URL: https://news.ycombinator.com/item?id=48910829 Points: 1 # Comments: 0
 
-📖 [Read original article](https://identify.skin/en)
+📖 [Read original article](https://prompt-eval.com/state-of-prompt-quality/2026-q3)
 
 ---
 
-## 7. Don't bring an AI detector to a deepfake fight: provenance over detection
+## 7. Inventing Eliza – How the First Chatbot Shaped AI
 
-**Author:** Despoisj  
-**Published:** 7/14/2026, 1:11:29 PM  
+**Author:** aanet  
+**Published:** 7/14/2026, 6:06:57 PM  
 **Categories:** -  
 
-Article URL: https://www.lesswrong.com/posts/MBRNR5h9g6HGvAJDe/don-t-bring-an-ai-detector-to-a-deepfake-fight-proving Comments URL: https://news.ycombinator.com/item?id=48906312 Points: 2 # Comments: 0
+Article URL: https://mitpress.mit.edu/9780262052481/inventing-eliza/ Comments URL: https://news.ycombinator.com/item?id=48910811 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.lesswrong.com/posts/MBRNR5h9g6HGvAJDe/don-t-bring-an-ai-detector-to-a-deepfake-fight-proving)
+📖 [Read original article](https://mitpress.mit.edu/9780262052481/inventing-eliza/)
 
 ---
 
-## 8. Ask HN: Any objective research on which languages are best for AI agents?
+## 8. New York bans data center construction for a year, rattling AI industry
 
-**Author:** mwigdahl  
-**Published:** 7/14/2026, 1:10:05 PM  
+**Author:** Bender  
+**Published:** 7/14/2026, 6:03:29 PM  
 **Categories:** -  
 
-I keep reading articles that suggest that Rust or Go or some other language is optimal for AI development because of feature X or lack of issue Y.Has there been any actual head to head comparison of this using frontier models? Any benchmarks that purport to measure this? Comments URL: https://news.y...
+Article URL: https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/ Comments URL: https://news.ycombinator.com/item?id=48910770 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48906299)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/)
 
 ---
 
-## 9. U of Chicago law school bans laptops from classes amid AI backlash
+## 9. LinkedIn and X Are Flooded with AI Spam
 
-**Author:** smurda  
-**Published:** 7/14/2026, 12:57:08 PM  
+**Author:** cui  
+**Published:** 7/14/2026, 5:56:17 PM  
 **Categories:** -  
 
-Article URL: https://www.the-independent.com/tech/laptop-ban-university-ai-backlash-b3013911.html Comments URL: https://news.ycombinator.com/item?id=48906132 Points: 6 # Comments: 0
+Article URL: https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/ Comments URL: https://news.ycombinator.com/item?id=48910633 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.the-independent.com/tech/laptop-ban-university-ai-backlash-b3013911.html)
+📖 [Read original article](https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/)
 
 ---
 
-## 10. Mnemo AI – Local agentic assistant for any LLM that learns from its failures
+## 10. Project Panama: Why an AI Company Cut Apart Books
 
-**Author:** br1pistone  
-**Published:** 7/14/2026, 12:49:54 PM  
+**Author:** JuriKeller  
+**Published:** 7/14/2026, 5:48:05 PM  
 **Categories:** -  
 
-Article URL: https://github.com/brunopistone/mnemoai Comments URL: https://news.ycombinator.com/item?id=48906032 Points: 2 # Comments: 0
+Article URL: https://www.tobiasreithmeier.de/en/blog/project-panama-anthropic-books Comments URL: https://news.ycombinator.com/item?id=48910509 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/brunopistone/mnemoai)
+📖 [Read original article](https://www.tobiasreithmeier.de/en/blog/project-panama-anthropic-books)
 
 ---
 
-## 11. DOGE Used AI for Housing Policy. The Government Won't Say How
+## 11. SoftBank's Masayoshi Son ridicules AI critics for 'spitting upwards'
 
-**Author:** speckx  
-**Published:** 7/14/2026, 12:46:34 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/14/2026, 5:47:05 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/doge-deployed-ai-housing-policy/ Comments URL: https://news.ycombinator.com/item?id=48905989 Points: 7 # Comments: 1
+Article URL: https://www.ft.com/content/fc0d48f4-a2ce-45b1-a0ad-83a0a8409f00 Comments URL: https://news.ycombinator.com/item?id=48910500 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/doge-deployed-ai-housing-policy/)
+📖 [Read original article](https://www.ft.com/content/fc0d48f4-a2ce-45b1-a0ad-83a0a8409f00)
 
 ---
 
-## 12. Lenz – A fact-checking API for AI-generated content
+## 12. AI Made Cloning Games Easier
 
-**Author:** kostaj  
-**Published:** 7/14/2026, 12:39:03 PM  
+**Author:** _____k  
+**Published:** 7/14/2026, 5:45:43 PM  
 **Categories:** -  
 
-Article URL: https://lenz.io/ Comments URL: https://news.ycombinator.com/item?id=48905894 Points: 5 # Comments: 2
+Article URL: https://www.404media.co/ai-made-cloning-games-easier-than-ever/ Comments URL: https://news.ycombinator.com/item?id=48910484 Points: 1 # Comments: 2
 
-📖 [Read original article](https://lenz.io/)
+📖 [Read original article](https://www.404media.co/ai-made-cloning-games-easier-than-ever/)
 
 ---
 
-## 13. The US-China AI arms race has taken an unexpected turn
+## 13. AI lawsuits expose gaps in conventional insurance, says report
 
-**Author:** speckx  
-**Published:** 7/14/2026, 12:35:14 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/14/2026, 5:45:13 PM  
 **Categories:** -  
 
-Article URL: https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/ Comments URL: https://news.ycombinator.com/item?id=48905845 Points: 4 # Comments: 0
+Article URL: https://www.ft.com/content/8b3e2431-96b5-477e-b5ea-e3baae671b9c Comments URL: https://news.ycombinator.com/item?id=48910472 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/)
+📖 [Read original article](https://www.ft.com/content/8b3e2431-96b5-477e-b5ea-e3baae671b9c)
 
 ---
 
-## 14. Adapting offensive security for the AI agent age
+## 14. Massive AI spending is driving up prices on laptops and electricity, Fed watches
 
-**Author:** mmoon2  
-**Published:** 7/14/2026, 12:23:40 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/14/2026, 5:41:44 PM  
 **Categories:** -  
 
-Article URL: https://engineering.taktile.com/blog/adapting-offensive-security-for-the-ai-agent-age/ Comments URL: https://news.ycombinator.com/item?id=48905690 Points: 4 # Comments: 0
+Article URL: https://www.fastcompany.com/91572617/massive-ai-spending-driving-up-prices-laptops-electricity-as-fed-watches-closely Comments URL: https://news.ycombinator.com/item?id=48910413 Points: 3 # Comments: 0
 
-📖 [Read original article](https://engineering.taktile.com/blog/adapting-offensive-security-for-the-ai-agent-age/)
+📖 [Read original article](https://www.fastcompany.com/91572617/massive-ai-spending-driving-up-prices-laptops-electricity-as-fed-watches-closely)
 
 ---
 
-## 15. Google's Hassabis calls for new US-led global AI watchdog \"before year end\"
+## 15. Jovita one AI hub instead of five subscriptions
 
-**Author:** simonpure  
-**Published:** 7/14/2026, 12:10:17 PM  
+**Author:** Ayo245  
+**Published:** 7/14/2026, 5:40:17 PM  
 **Categories:** -  
 
-Article URL: https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind Comments URL: https://news.ycombinator.com/item?id=48905542 Points: 3 # Comments: 0
+Article URL: https://usejovita.com Comments URL: https://news.ycombinator.com/item?id=48910385 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind)
+📖 [Read original article](https://usejovita.com)
 
 ---
 
-## 16. Show HN: AI mock-interview coach that scores how you sound, not just your words
+## 16. AI makes learning feel too easy
 
-**Author:** mondaussupport  
-**Published:** 7/14/2026, 12:03:12 PM  
+**Author:** bear_with_me  
+**Published:** 7/14/2026, 5:31:15 PM  
 **Categories:** -  
 
-Article URL: https://www.stanrose.com/mondaus Comments URL: https://news.ycombinator.com/item?id=48905435 Points: 2 # Comments: 0
+Article URL: https://blog.danielyj.com/blog/ai-makes-learning-feel-easy Comments URL: https://news.ycombinator.com/item?id=48910248 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.stanrose.com/mondaus)
+📖 [Read original article](https://blog.danielyj.com/blog/ai-makes-learning-feel-easy)
 
 ---
 
-## 17. Show HN: An AI Duolingo for your income goals
+## 17. Generative AI Is an Engineering Disaster
 
-**Author:** Fotis-Karmpas  
-**Published:** 7/14/2026, 11:59:05 AM  
+**Author:** Jtsummers  
+**Published:** 7/14/2026, 5:30:28 PM  
 **Categories:** -  
 
-Article URL: https://thrivez.io/thrivez-ai-mentor/ Comments URL: https://news.ycombinator.com/item?id=48905383 Points: 3 # Comments: 7
+Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48910233 Points: 4 # Comments: 2
 
-📖 [Read original article](https://thrivez.io/thrivez-ai-mentor/)
+📖 [Read original article](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
 
 ---
 
-## 18. How to Overengineer a Project with AI
+## 18. show hn: 1d data to 3D topology, AI deepfakes to protien folding
 
-**Author:** wanderdust  
-**Published:** 7/14/2026, 11:55:57 AM  
+**Author:** bitofabluetit  
+**Published:** 7/14/2026, 5:29:49 PM  
 **Categories:** -  
 
-Article URL: https://www.pablols.com/posts/049_i_overengineered_a_website/ Comments URL: https://news.ycombinator.com/item?id=48905351 Points: 2 # Comments: 0
+Article URL: https://github.com/bitofabluetit/knotreel Comments URL: https://news.ycombinator.com/item?id=48910222 Points: 3 # Comments: 3
 
-📖 [Read original article](https://www.pablols.com/posts/049_i_overengineered_a_website/)
+📖 [Read original article](https://github.com/bitofabluetit/knotreel)
 
 ---
 
-## 19. At CERN, AI will drive future discoveries
+## 19. Litert.js, Google's High Performance Web AI Inference
 
-**Author:** giuliomagnifico  
-**Published:** 7/14/2026, 11:51:49 AM  
+**Author:** impostervt  
+**Published:** 7/14/2026, 5:26:09 PM  
 **Categories:** -  
 
-Article URL: https://www.swissinfo.ch/eng/research-frontiers/at-cern-ai-will-drive-future-discoveries/91723774 Comments URL: https://news.ycombinator.com/item?id=48905310 Points: 2 # Comments: 0
+Article URL: https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/ Comments URL: https://news.ycombinator.com/item?id=48910170 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.swissinfo.ch/eng/research-frontiers/at-cern-ai-will-drive-future-discoveries/91723774)
+📖 [Read original article](https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/)
 
 ---
 
-## 20. Real AI for video games (Iconic Games)
+## 20. One issue every 62 lines: 21.6M lines of AI-generated code, scanned
 
-**Author:** giltho  
-**Published:** 7/14/2026, 11:15:05 AM  
+**Author:** albertfranquesa  
+**Published:** 7/14/2026, 5:24:47 PM  
 **Categories:** -  
 
-Article URL: https://iconicgames.io/blog/pressure-point/ Comments URL: https://news.ycombinator.com/item?id=48904982 Points: 3 # Comments: 0
+Article URL: https://github.com/qualityclouds/state-of-ai-code-2026- Comments URL: https://news.ycombinator.com/item?id=48910154 Points: 3 # Comments: 0
 
-📖 [Read original article](https://iconicgames.io/blog/pressure-point/)
+📖 [Read original article](https://github.com/qualityclouds/state-of-ai-code-2026-)
 
 ---
