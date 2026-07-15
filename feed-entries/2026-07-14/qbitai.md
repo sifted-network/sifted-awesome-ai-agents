@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-14"
 date: "2026-07-14"
 source: "qbitai"
-count: 9
+count: 6
 ---
 
 # qbitai - 2026-07-14
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ count: 9
 180家企业携成果入驻
 
 📖 [Read original article](https://www.qbitai.com/2026/07/436498.html)
-
----
-
-## 7. GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先
-
-**Author:** 量子位的朋友们  
-**Published:** 7/14/2026, 5:13:56 AM  
-**Categories:** 资讯, DRACO  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/449842.html)
-
----
-
-## 8. 产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资
-
-**Author:** 量子位的朋友们  
-**Published:** 7/14/2026, 4:06:40 AM  
-**Categories:** 资讯, 爱诗科技  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/449836.html)
-
----
-
-## 9. 高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景
-
-**Author:** 量子位的朋友们  
-**Published:** 7/14/2026, 3:46:35 AM  
-**Categories:** 资讯, 高德地图  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/449568.html)
 
 ---
