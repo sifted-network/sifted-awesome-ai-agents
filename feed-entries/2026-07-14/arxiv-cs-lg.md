@@ -461,7 +461,7 @@ arXiv:2607.09956v1 Announce Type: new Abstract: Pricing food products to balance
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.09967v1 Announce Type: new Abstract: Many neural networks operations have a multiplicative nature rather than additive: halving or doubling a norm are analogous relatively but require unequal optimization distances when taking linear steps. Adaptive optimizers such as Adam normalize updat...
+arXiv:2607.09967v2 Announce Type: new Abstract: Many neural networks operations have a multiplicative nature rather than additive: halving or doubling a norm are analogous relatively but require unequal optimization distances when taking linear steps. Adaptive optimizers such as Adam normalize updat...
 
 📖 [Read original article](https://arxiv.org/abs/2607.09967)
 
@@ -719,13 +719,13 @@ arXiv:2607.10202v1 Announce Type: new Abstract: Cross-model comparisons read div
 
 ---
 
-## 60. When Does Depth Survive Composition? Compute--Quality Regimes in Latent World Models
+## 60. Adaptive Compute in Latent World Models: When Depth Helps, Hurts, or Doesn't Matter
 
 **Author:** Achyuthan Sivasankar  
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.10203v1 Announce Type: new Abstract: Adaptive-compute world models -- early-exit or mixture-of-depths predictors that spend variable depth per step -- assume depth buys better predictions and can be routed adaptively. In autoregressive rollouts, the first assumption requires depth's per-s...
+arXiv:2607.10203v2 Announce Type: new Abstract: Adaptive-compute world models -- early-exit or mixture-of-depths predictors that spend variable depth per step -- assume depth buys better predictions and can be routed adaptively. In autoregressive rollouts, the first assumption requires depth's per-s...
 
 📖 [Read original article](https://arxiv.org/abs/2607.10203)
 
@@ -1597,11 +1597,11 @@ arXiv:2607.11310v1 Announce Type: new Abstract: Physics-Informed Neural Networks
 
 ## 133. PRISM Edit: One Vector for All Temporal Answers
 
-**Author:** Chen Huang (Tsinghua University), Qi Zheng (Tsinghua University), Ruiqin Zheng (ByteDance), Long Zeng (Tsinghua University), Yuantong Xu (ByteDance)  
+**Author:** Chen Huang, Qi Zheng, Ruiqin Zheng, Long Zeng, Yuantong Xu  
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.11327v1 Announce Type: new Abstract: Model editing keeps large language models (LLMs) up to date without retraining, but temporal facts expose a limitation of the prevailing locate-and-edit paradigm: an update is not always a replacement. When a fact changes, the new answer should become ...
+arXiv:2607.11327v2 Announce Type: new Abstract: Model editing keeps large language models (LLMs) up to date without retraining, but temporal facts expose a limitation of the prevailing locate-and-edit paradigm: an update is not always a replacement. When a fact changes, the new answer should become ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11327)
 
@@ -2029,11 +2029,11 @@ arXiv:2607.11871v1 Announce Type: new Abstract: Existing studies of LLM-as-judge
 
 ## 169. Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks
 
-**Author:** Tiberiu Musat, Tiago Pimentel, Nicholas Zucchet, Thomas Hofmann  
+**Author:** Tiberiu Musat, Tiago Pimentel, Nicolas Zucchet, Thomas Hofmann  
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.11875v1 Announce Type: new Abstract: We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a generalized cl...
+arXiv:2607.11875v2 Announce Type: new Abstract: We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a generalized cl...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11875)
 
@@ -2609,7 +2609,7 @@ arXiv:2607.10172v1 Announce Type: cross Abstract: Deploying billion-parameter Vi
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.DC, cs.AI, cs.LG  
 
-arXiv:2607.10183v1 Announce Type: cross Abstract: Running large language models on consumer devices such as laptops and desktops is challenging because model weights often exceed GPU memory capacity, making offloading inference necessary to extend effective model capacity with CPU memory. Existing o...
+arXiv:2607.10183v2 Announce Type: cross Abstract: Running large language models on consumer devices such as laptops and desktops is challenging because model weights often exceed GPU memory capacity, making offloading inference necessary to extend effective model capacity with CPU memory. Existing o...
 
 📖 [Read original article](https://arxiv.org/abs/2607.10183)
 
@@ -2801,7 +2801,7 @@ arXiv:2607.10456v1 Announce Type: cross Abstract: Expert background knowledge is
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.LG  
 
-arXiv:2607.10467v1 Announce Type: cross Abstract: Healthcare organizations often cannot freely centralize patient data because medical records are sensitive, regulated, and institutionally controlled. Federated learning offers a practical alternative by allowing hospitals and clinics to train a shar...
+arXiv:2607.10467v2 Announce Type: cross Abstract: Healthcare organizations often cannot freely centralize patient data because medical records are sensitive, regulated, and institutionally controlled. Federated learning offers a practical alternative by allowing hospitals and clinics to train a shar...
 
 📖 [Read original article](https://arxiv.org/abs/2607.10467)
 
@@ -2873,7 +2873,7 @@ arXiv:2607.10540v1 Announce Type: cross Abstract: We propose a two-stage estimat
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.LG  
 
-arXiv:2607.10541v1 Announce Type: cross Abstract: Sequential recommender systems typically infer user preferences through single-pass encoding of interaction histories without iterative refinement, relying on increasingly deep architectures to capture complex patterns. In this work, we revisit seque...
+arXiv:2607.10541v2 Announce Type: cross Abstract: Sequential recommender systems typically infer user preferences through single-pass encoding of interaction histories without iterative refinement, relying on increasingly deep architectures to capture complex patterns. In this work, we revisit seque...
 
 📖 [Read original article](https://arxiv.org/abs/2607.10541)
 
@@ -3257,7 +3257,7 @@ arXiv:2607.11013v1 Announce Type: cross Abstract: Data re-uploading parameterize
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.LG  
 
-arXiv:2607.11020v1 Announce Type: cross Abstract: Continual learning promises a language model that keeps acquiring knowledge after training, with each new fact written into its weights. Whether weight writes can support accumulation remains undecided. We follow invented facts written into Qwen3 mod...
+arXiv:2607.11020v2 Announce Type: cross Abstract: Continual learning promises a language model that keeps acquiring knowledge after training, with each new fact written into its weights. Whether weight writes can support accumulation remains undecided. We follow invented facts written into Qwen3 mod...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11020)
 
@@ -3389,7 +3389,7 @@ arXiv:2607.11257v1 Announce Type: cross Abstract: Pathology Foundation Models (P
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2607.11263v1 Announce Type: cross Abstract: Two competing perspectives on fluid intelligence (gf) measures propose that performance is primarily constrained either by working memory capacity or by the ability to induce novel relations. The first perspective is currently dominant in measurement...
+arXiv:2607.11263v2 Announce Type: cross Abstract: Two competing perspectives on fluid intelligence (gf) measures propose that performance is primarily constrained either by working memory capacity or by the ability to induce novel relations. The first perspective is currently dominant in measurement...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11263)
 
@@ -3617,7 +3617,7 @@ arXiv:2607.11621v1 Announce Type: cross Abstract: Aphasia following stroke commo
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.LG  
 
-arXiv:2607.11624v1 Announce Type: cross Abstract: Reinforcement learning (RL) algorithms classically suffer from poor sample efficiency. In robotics, a recent line of work has emerged addressing this problem by encoding physics priors in the learning process. However, most of these approaches are va...
+arXiv:2607.11624v2 Announce Type: cross Abstract: Reinforcement learning (RL) algorithms classically suffer from poor sample efficiency. In robotics, a recent line of work has emerged addressing this problem by encoding physics priors in the learning process. However, most of these approaches are va...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11624)
 
@@ -3641,7 +3641,7 @@ arXiv:2607.11632v1 Announce Type: cross Abstract: Human choice behavior, includi
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** q-bio.NC, cs.LG  
 
-arXiv:2607.11656v1 Announce Type: cross Abstract: Accurate diagnostic classification and disease-severity prediction for Alzheimer's disease are hampered by the incompleteness and heterogeneity of real-world clinical data. Left unaddressed, these barriers prevent reliable disease modelling and hinde...
+arXiv:2607.11656v2 Announce Type: cross Abstract: Accurate diagnostic classification and disease-severity prediction for Alzheimer's disease are hampered by the incompleteness and heterogeneity of real-world clinical data. Left unaddressed, these barriers prevent reliable disease modelling and hinde...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11656)
 
@@ -4573,7 +4573,7 @@ arXiv:2605.15862v2 Announce Type: replace Abstract: Understanding adaptive biome
 
 ## 381. Prune, Update and Trim: Robust Structured Pruning for Large Language Models
 
-**Author:** Diego Coello de Portugal Mecke, Tom Hanika, Lars Schmidth-Thieme  
+**Author:** Diego Coello de Portugal Mecke, Tom Hanika, Lars Schmidt-Thieme  
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
@@ -5223,7 +5223,7 @@ arXiv:2510.14907v2 Announce Type: replace-cross Abstract: We extend the study of
 
 **Author:** Maxime van Cutsem, Sylvain Sardy  
 **Published:** 7/14/2026, 4:00:00 AM  
-**Categories:** stat.ML, cs.LG  
+**Categories:** stat.ML, cs.LG, math.ST, stat.TH  
 
 arXiv:2510.19374v2 Announce Type: replace-cross Abstract: We revisit Cox's proportional hazards model to improve variable selection in survival analysis. A square-root transformation of the partial likelihood renders the selection of the regularization parameter pivotal, free of the unknown baseline...
 
@@ -5681,7 +5681,7 @@ arXiv:2606.11324v2 Announce Type: replace-cross Abstract: We introduce Embodied-
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2606.11520v3 Announce Type: replace-cross Abstract: Training capable OS agents requires data that simultaneously captures structured user intents, multi-turn task delegation, and grounded tool execution--properties absent from existing datasets. We propose ISE (Intent -> Simulate -> Execute), ...
+arXiv:2606.11520v4 Announce Type: replace-cross Abstract: Training capable OS agents requires data that simultaneously captures structured user intents, multi-turn task delegation, and grounded tool execution--properties absent from existing datasets. We propose ISE (Intent -> Simulate -> Execute), ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.11520)
 
