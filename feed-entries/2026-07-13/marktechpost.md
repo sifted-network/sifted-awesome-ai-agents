@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-07-13"
 date: "2026-07-13"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-07-13
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ MORPHEUS from Skyfall AI is a persistent enterprise simulation platform for cont
 In this tutorial, we reconstruct the VideoAgent workflow as a runnable, API-key-free multi-agent pipeline. We build an intent parser, an agent library, a tool router, a graph planner, and a textual-gradient optimizer that repairs the execution graph. We wire these planning components to FFmpeg, Whis...
 
 📖 [Read original article](https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/)
-
----
-
-## 3. Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment
-
-**Author:** Asif Razzaq  
-**Published:** 7/13/2026, 8:45:12 AM  
-**Categories:** Agentic AI, AI Infrastructure, AI Paper Summary, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Staff, Tech News, Technology  
-
-Agentic LLMs keep failing the same way because they lack specific, reusable capabilities. Stanford's TRACE diagnoses those gaps from an agent's own trajectories, synthesizes one verifiable training environment per capability, trains a LoRA adapter for each, and routes tokens across experts—improving...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/)
 
 ---
