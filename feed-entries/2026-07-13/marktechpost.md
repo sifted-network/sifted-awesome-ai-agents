@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-07-13"
 date: "2026-07-13"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-07-13
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ In this tutorial, we reconstruct the VideoAgent workflow as a runnable, API-key-
 Agentic LLMs keep failing the same way because they lack specific, reusable capabilities. Stanford's TRACE diagnoses those gaps from an agent's own trajectories, synthesizes one verifiable training environment per capability, trains a LoRA adapter for each, and routes tokens across experts—improving...
 
 📖 [Read original article](https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/)
-
----
-
-## 4. Prime Intellect Releases Verifiers v1: Composable Tasksets, Harnesses, and Runtimes for Agentic RL Training and Evaluations
-
-**Author:** Michal Sutter  
-**Published:** 7/13/2026, 7:40:18 AM  
-**Categories:** Agentic AI, AI Shorts, Artificial Intelligence, Editors Pick, New Releases, Software Engineering, Staff, Tech News, Technology  
-
-Prime Intellect launched verifiers 0.2.0, previewing a rewritten "v1" core under the verifiers.v1 namespace. It splits an environment into a taskset (what), a harness (how), and a runtime (where), with an interception server that proxies requests and records training-ready traces. Any taskset runs u...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/)
 
 ---
