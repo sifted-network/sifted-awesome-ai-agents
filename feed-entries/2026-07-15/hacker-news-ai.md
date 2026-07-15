@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Ask HN: What Are You Building with AI?
+## 1. Study: Lower-skilled workers earn more in an AI world
 
-**Author:** fraXis  
-**Published:** 7/15/2026, 8:05:14 AM  
+**Author:** rustoo  
+**Published:** 7/15/2026, 1:42:52 PM  
 **Categories:** -  
 
-Are you building with AI for yourself, your employer, customers, or as a startup?What LLMs, coding agents, or development tools are you using? Are you primarily prompt coding, vibe coding, or using a more structured agentic workflow?Are you using one agent or coordinating multiple agents? How much o...
+Article URL: https://siepr.stanford.edu/news/study-lower-skilled-workers-earn-more-ai-world Comments URL: https://news.ycombinator.com/item?id=48920718 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48917667)
+📖 [Read original article](https://siepr.stanford.edu/news/study-lower-skilled-workers-earn-more-ai-world)
 
 ---
 
-## 2. What Do ASML's Q2 2026 Results Tell Us About the AI Boom?
+## 2. Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents
 
-**Author:** technewssss  
-**Published:** 7/15/2026, 7:59:33 AM  
+**Author:** ronak_parmar  
+**Published:** 7/15/2026, 1:39:54 PM  
 **Categories:** -  
 
-Article URL: https://mrkt30.com/what-do-asmls-q2-2026-results-tell-us-about-the-ai-boom/ Comments URL: https://news.ycombinator.com/item?id=48917631 Points: 2 # Comments: 2
+Article URL: https://github.com/synseqack/aict Comments URL: https://news.ycombinator.com/item?id=48920681 Points: 1 # Comments: 0
 
-📖 [Read original article](https://mrkt30.com/what-do-asmls-q2-2026-results-tell-us-about-the-ai-boom/)
+📖 [Read original article](https://github.com/synseqack/aict)
 
 ---
 
-## 3. What makes an AI coding tool worth paying for?
+## 3. Show HN: Agent's Design – Claude/Codex copy-paste templates that kill AI-slop UI
 
-**Author:** vibeagency  
-**Published:** 7/15/2026, 7:51:58 AM  
+**Author:** tungtbt  
+**Published:** 7/15/2026, 1:30:22 PM  
 **Categories:** -  
 
-Article URL: https://vibecodingagency.com/gpu-cloud/ Comments URL: https://news.ycombinator.com/item?id=48917577 Points: 1 # Comments: 1
+Article URL: https://agents-design.com Comments URL: https://news.ycombinator.com/item?id=48920581 Points: 3 # Comments: 0
 
-📖 [Read original article](https://vibecodingagency.com/gpu-cloud/)
+📖 [Read original article](https://agents-design.com)
 
 ---
 
-## 4. Show HN: PixFinder – Free offline AI+OCR Image Search
+## 4. AI Europe 100 · 2026
 
-**Author:** alexkh  
-**Published:** 7/15/2026, 7:36:35 AM  
+**Author:** shadag  
+**Published:** 7/15/2026, 1:29:04 PM  
 **Categories:** -  
 
-Hi, HN!I’ve made a free Windows tool that lets you search your local images by what's in them, not the filename. It combines AI (SigLip2) search with OCR.It was made from specific need – quick search my meme collection for reaction meme in a huge collection. But, of course, it could be used for more...
+Article URL: https://headline.com/blog-latest/article-latest/ai-europe-100-2026 Comments URL: https://news.ycombinator.com/item?id=48920563 Points: 2 # Comments: 0
 
-📖 [Read original article](https://pixfinder.app/)
+📖 [Read original article](https://headline.com/blog-latest/article-latest/ai-europe-100-2026)
 
 ---
 
-## 5. AI eating software: IBM crash
+## 5. Show HN: Nable – Local-first cost intelligence tool for cloud and AI
 
-**Author:** Kavon2992  
-**Published:** 7/15/2026, 7:34:12 AM  
+**Author:** chaandannn  
+**Published:** 7/15/2026, 1:23:16 PM  
 **Categories:** -  
 
-Article URL: https://www.bargo.ai/research/ibm-ai-capex-cannibalization Comments URL: https://news.ycombinator.com/item?id=48917453 Points: 1 # Comments: 0
+Hey yall, I built nable. It's an open source MCP based in normalizing your bill across all your providers, being your cost brain, andd pushing to pr/verifying savings. Apache 2.0 180+ tools, only called when necessary. Try it $uvx nable Comments URL: https://news.ycombinator.com/item?id=48920494 Poi...
 
-📖 [Read original article](https://www.bargo.ai/research/ibm-ai-capex-cannibalization)
+📖 [Read original article](https://github.com/getnable/finopsmcp)
 
 ---
 
-## 6. Decibri – unified audio layer for AI agents and Voice AI applications
-
-**Author:** vyrotek  
-**Published:** 7/15/2026, 7:23:38 AM  
-**Categories:** -  
-
-Article URL: https://decibri.com Comments URL: https://news.ycombinator.com/item?id=48917379 Points: 2 # Comments: 0
-
-📖 [Read original article](https://decibri.com)
-
----
-
-## 7. At last, a good reason to buy an AI PC: Reining in runaway token bills
-
-**Author:** raybb  
-**Published:** 7/15/2026, 7:15:17 AM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589 Comments URL: https://news.ycombinator.com/item?id=48917305 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.theregister.com/personal-tech/2026/07/15/at-last-a-good-reason-to-buy-an-ai-pc-reining-in-runaway-token-bills/5271589)
-
----
-
-## 8. Show HN: A free tool that turns any AI topic into an interactive, cited lesson
-
-**Author:** anandp1989  
-**Published:** 7/15/2026, 7:14:29 AM  
-**Categories:** -  
-
-Article URL: https://prathibhax.com/ Comments URL: https://news.ycombinator.com/item?id=48917300 Points: 1 # Comments: 0
-
-📖 [Read original article](https://prathibhax.com/)
-
----
-
-## 9. Australia to establish government AI office, curb data centres' water use
+## 6. AI and the New Mechanical Turk
 
 **Author:** 1vuio0pswjnm7  
-**Published:** 7/15/2026, 7:12:07 AM  
+**Published:** 7/15/2026, 1:22:55 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/asia-pacific/australia-establish-government-ai-office-coordinate-regulation-2026-07-14/ Comments URL: https://news.ycombinator.com/item?id=48917281 Points: 2 # Comments: 0
+Article URL: https://www.ft.com/content/acd0ef98-b462-4800-88b9-2c78c54f2559 Comments URL: https://news.ycombinator.com/item?id=48920490 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/world/asia-pacific/australia-establish-government-ai-office-coordinate-regulation-2026-07-14/)
+📖 [Read original article](https://www.ft.com/content/acd0ef98-b462-4800-88b9-2c78c54f2559)
 
 ---
 
-## 10. Australia proposes AI rules for data centres and rejects copyright carve-out
+## 7. Anthropic, Blackstone bet the next trillion-dollar AI business is implementation
 
-**Author:** tylrbrkr  
-**Published:** 7/15/2026, 6:59:35 AM  
+**Author:** jack1689  
+**Published:** 7/15/2026, 1:18:30 PM  
 **Categories:** -  
 
-Article URL: https://www.abc.net.au/news/2026-07-15/labor-to-set-standards-for-ai-data-centres-and-copyright/106918380 Comments URL: https://news.ycombinator.com/item?id=48917200 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/ Comments URL: https://news.ycombinator.com/item?id=48920435 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.abc.net.au/news/2026-07-15/labor-to-set-standards-for-ai-data-centres-and-copyright/106918380)
+📖 [Read original article](https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/)
 
 ---
 
-## 11. Show HN: TormentNexus – Open-source AI control plane with 26K+ MCP tools
+## 8. The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence
 
-**Author:** RobertPelloni  
-**Published:** 7/15/2026, 6:52:21 AM  
+**Author:** dxs  
+**Published:** 7/15/2026, 1:18:15 PM  
 **Categories:** -  
 
-Article URL: https://github.com/MDMAtk/TormentNexus Comments URL: https://news.ycombinator.com/item?id=48917144 Points: 2 # Comments: 0
+Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 9 # Comments: 1
 
-📖 [Read original article](https://github.com/MDMAtk/TormentNexus)
+📖 [Read original article](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 
 ---
 
-## 12. German media regulator says Google's AI Overviews subject to German media law
+## 9. Charles Atlas and the AI Bullies
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/15/2026, 6:29:44 AM  
+**Author:** dxs  
+**Published:** 7/15/2026, 1:17:51 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/government/german-media-regulator-says-googles-ai-overviews-subject-german-media-law-2026-07-14/ Comments URL: https://news.ycombinator.com/item?id=48916989 Points: 2 # Comments: 0
+Article URL: https://cuencahighlife.com/charles-atlas-and-the-ai-bullies/ Comments URL: https://news.ycombinator.com/item?id=48920422 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/government/german-media-regulator-says-googles-ai-overviews-subject-german-media-law-2026-07-14/)
+📖 [Read original article](https://cuencahighlife.com/charles-atlas-and-the-ai-bullies/)
 
 ---
 
-## 13. Where authorities are restricting data centres amid AI boom
+## 10. Verse: Build and hire autonomous AI employees from a single prompt
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/15/2026, 6:28:35 AM  
+**Author:** realthomasgu  
+**Published:** 7/15/2026, 1:17:26 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/litigation/where-authorities-are-restricting-data-centres-amid-ai-boom-2026-07-14/ Comments URL: https://news.ycombinator.com/item?id=48916982 Points: 1 # Comments: 0
+Article URL: https://www.useverse.ai Comments URL: https://news.ycombinator.com/item?id=48920416 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/litigation/where-authorities-are-restricting-data-centres-amid-ai-boom-2026-07-14/)
+📖 [Read original article](https://www.useverse.ai)
 
 ---
 
-## 14. Sailboxes: Cloud environs for long horizon AI
+## 11. Can SiPearl Revive the European HPC and AI Chip Industry?
 
-**Author:** handfuloflight  
-**Published:** 7/15/2026, 6:11:55 AM  
+**Author:** rbanffy  
+**Published:** 7/15/2026, 1:13:55 PM  
 **Categories:** -  
 
-Article URL: https://www.sailresearch.com/blog/sailboxes-general-access Comments URL: https://news.ycombinator.com/item?id=48916864 Points: 1 # Comments: 0
+Article URL: https://www.hpcwire.com/2026/07/14/can-sipearl-revive-european-hpc-and-ai-chips/ Comments URL: https://news.ycombinator.com/item?id=48920375 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.sailresearch.com/blog/sailboxes-general-access)
+📖 [Read original article](https://www.hpcwire.com/2026/07/14/can-sipearl-revive-european-hpc-and-ai-chips/)
 
 ---
 
-## 15. The Prompt-Wait-Evaluate Loop: How AI Kills Flow Without You Noticing
+## 12. Free local AI video clipper – No Upload, All in browser
 
-**Author:** jandeboevrie  
-**Published:** 7/15/2026, 6:01:34 AM  
+**Author:** shafkathullah  
+**Published:** 7/15/2026, 1:13:05 PM  
 **Categories:** -  
 
-Article URL: https://www.sandordargo.com/blog/2026/07/15/how-ai-kills-flow Comments URL: https://news.ycombinator.com/item?id=48916798 Points: 3 # Comments: 0
+Article URL: https://pocketweb.tools/video-clipper Comments URL: https://news.ycombinator.com/item?id=48920360 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.sandordargo.com/blog/2026/07/15/how-ai-kills-flow)
+📖 [Read original article](https://pocketweb.tools/video-clipper)
 
 ---
 
-## 16. AI has helped resolve an important question about BH correction in statistics
+## 13. Meta used AI to tag workers who took leave to be laid off, lawsuit claims
 
-**Author:** kkoncevicius  
-**Published:** 7/15/2026, 5:57:00 AM  
+**Author:** Brajeshwar  
+**Published:** 7/15/2026, 1:11:04 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/EdgarDobriban/status/2077082912021786660 Comments URL: https://news.ycombinator.com/item?id=48916764 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit Comments URL: https://news.ycombinator.com/item?id=48920340 Points: 5 # Comments: 0
 
-📖 [Read original article](https://twitter.com/EdgarDobriban/status/2077082912021786660)
+📖 [Read original article](https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit)
 
 ---
 
-## 17. Meta Sued for Allegedly Using Discriminatory AI in Layoff Decisions
+## 14. Show HN: A TypeScript repo where AI agents can't break the architecture
 
-**Author:** intunderflow  
-**Published:** 7/15/2026, 5:27:40 AM  
+**Author:** lucasgodt  
+**Published:** 7/15/2026, 1:06:07 PM  
 **Categories:** -  
 
-Article URL: https://gizmodo.com/meta-sued-for-allegedly-using-discriminatory-ai-in-layoff-decisions-2000785427 Comments URL: https://news.ycombinator.com/item?id=48916609 Points: 3 # Comments: 1
+Article URL: https://github.com/lucasgodt/open-agent-ready-typescript Comments URL: https://news.ycombinator.com/item?id=48920268 Points: 2 # Comments: 1
 
-📖 [Read original article](https://gizmodo.com/meta-sued-for-allegedly-using-discriminatory-ai-in-layoff-decisions-2000785427)
+📖 [Read original article](https://github.com/lucasgodt/open-agent-ready-typescript)
 
 ---
 
-## 18. George Lucas says rejecting AI is like rejecting cars in favour of horses
+## 15. We 3.5x'd Our Pull Requests with AI: Now We Catch Fewer Bugs
 
-**Author:** harambae  
-**Published:** 7/15/2026, 5:07:28 AM  
+**Author:** flail  
+**Published:** 7/15/2026, 12:59:17 PM  
 **Categories:** -  
 
-Article URL: https://www.pcgamer.com/software/ai/george-lucas-says-rejecting-ai-is-like-rejecting-cars-in-favour-of-horses-theres-nothing-you-can-do-about-it-its-the-future/ Comments URL: https://news.ycombinator.com/item?id=48916503 Points: 1 # Comments: 1
+Article URL: https://brodzinski.com/2026/07/3x-pull-request-size-ai.html Comments URL: https://news.ycombinator.com/item?id=48920182 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.pcgamer.com/software/ai/george-lucas-says-rejecting-ai-is-like-rejecting-cars-in-favour-of-horses-theres-nothing-you-can-do-about-it-its-the-future/)
+📖 [Read original article](https://brodzinski.com/2026/07/3x-pull-request-size-ai.html)
 
 ---
 
-## 19. AI or Not
+## 16. Nova. A seed for growing an AI collaborator. The pattern, not the person
 
-**Author:** aizk  
-**Published:** 7/15/2026, 5:05:52 AM  
+**Author:** gafferongames  
+**Published:** 7/15/2026, 12:49:16 PM  
 **Categories:** -  
 
-Article URL: https://kritrim.xyz/app/1/aiornot/ Comments URL: https://news.ycombinator.com/item?id=48916487 Points: 3 # Comments: 3
+Article URL: https://github.com/mas-bandwidth/nova Comments URL: https://news.ycombinator.com/item?id=48920057 Points: 3 # Comments: 0
 
-📖 [Read original article](https://kritrim.xyz/app/1/aiornot/)
+📖 [Read original article](https://github.com/mas-bandwidth/nova)
 
 ---
 
-## 20. AI models' values are different from most people's
+## 17. Sabot in the age of AI: A list of offensive methods and strategic approaches ...
 
-**Author:** sirpilade  
-**Published:** 7/15/2026, 5:01:32 AM  
+**Author:** ColinWright  
+**Published:** 7/15/2026, 12:40:57 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples Comments URL: https://news.ycombinator.com/item?id=48916463 Points: 2 # Comments: 0
+Article URL: https://codeberg.org/luddite-academy/sabot-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48919969 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples)
+📖 [Read original article](https://codeberg.org/luddite-academy/sabot-in-the-age-of-ai)
+
+---
+
+## 18. I trolled my AI interviewer
+
+**Author:** tcp_handshaker  
+**Published:** 7/15/2026, 12:38:31 PM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=Ng_Bj7tVw78 Comments URL: https://news.ycombinator.com/item?id=48919945 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.youtube.com/watch?v=Ng_Bj7tVw78)
+
+---
+
+## 19. Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\"
+
+**Author:** DemiGuru  
+**Published:** 7/15/2026, 12:37:41 PM  
+**Categories:** -  
+
+Article URL: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48919931 Points: 2 # Comments: 1
+
+📖 [Read original article](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/)
+
+---
+
+## 20. Gorai – a go-based robotics framework for the AI era
+
+**Author:** gherlein  
+**Published:** 7/15/2026, 12:36:29 PM  
+**Categories:** -  
+
+Article URL: https://github.com/emergingrobotics/gorai Comments URL: https://news.ycombinator.com/item?id=48919913 Points: 3 # Comments: 0
+
+📖 [Read original article](https://github.com/emergingrobotics/gorai)
 
 ---
