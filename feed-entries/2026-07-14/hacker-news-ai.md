@@ -2,251 +2,131 @@
 title: "Hacker News AI - 2026-07-14"
 date: "2026-07-14"
 source: "Hacker News AI"
-count: 20
+count: 10
 ---
 
 # Hacker News AI - 2026-07-14
 
-20 items collected.
+10 items collected.
 
 ---
 
-## 1. Linux Foundation's Latest Foray Is to Standardize Payments for AI Agents
+## 1. Legal AI, not a coding agent with scaffolding
 
-**Author:** Bender  
-**Published:** 7/14/2026, 6:32:52 PM  
+**Author:** alansaber  
+**Published:** 7/14/2026, 11:51:57 PM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/news/Linux-Foundation-x402 Comments URL: https://news.ycombinator.com/item?id=48911171 Points: 1 # Comments: 0
+Article URL: https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding Comments URL: https://news.ycombinator.com/item?id=48914472 Points: 6 # Comments: 0
 
-📖 [Read original article](https://www.phoronix.com/news/Linux-Foundation-x402)
+📖 [Read original article](https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding)
 
 ---
 
-## 2. People Who Will Thrive in the AI Age
+## 2. Why organizing knowledge in the age of AI sucks, and how I solve it
 
-**Author:** sodiumjoe  
-**Published:** 7/14/2026, 6:31:56 PM  
+**Author:** enteigss  
+**Published:** 7/14/2026, 11:47:53 PM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=48911161 Points: 1 # Comments: 0
+Article URL: https://jordangreen.bearblog.dev/why-organizing-knowledge-in-the-age-of-ai-sucks-and-what-i-built/ Comments URL: https://news.ycombinator.com/item?id=48914439 Points: 5 # Comments: 2
 
-📖 [Read original article](https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/)
+📖 [Read original article](https://jordangreen.bearblog.dev/why-organizing-knowledge-in-the-age-of-ai-sucks-and-what-i-built/)
 
 ---
 
-## 3. Five Laws of Generative AI
+## 3. Maincode launches Matilda, an AI assistant running on Australian infrastructure
 
-**Author:** aard  
-**Published:** 7/14/2026, 6:30:24 PM  
+**Author:** huey77  
+**Published:** 7/14/2026, 11:41:17 PM  
 **Categories:** -  
 
-Article URL: https://isaaclyman.com/blog/posts/five-laws-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48911134 Points: 1 # Comments: 0
+Article URL: https://blog.maincode.com/introducing-matildas-open-beta-australian-ai-built-for-trust/ Comments URL: https://news.ycombinator.com/item?id=48914383 Points: 2 # Comments: 0
 
-📖 [Read original article](https://isaaclyman.com/blog/posts/five-laws-of-ai/)
+📖 [Read original article](https://blog.maincode.com/introducing-matildas-open-beta-australian-ai-built-for-trust/)
 
 ---
 
-## 4. Open Sourcing the Atuin AI Server
+## 4. A Framework for Frontier AI and the Dawning of a New Age
 
-**Author:** johnbehnke  
-**Published:** 7/14/2026, 6:21:23 PM  
+**Author:** wunderwuzzi23  
+**Published:** 7/14/2026, 11:36:33 PM  
 **Categories:** -  
 
-Article URL: https://blog.atuin.sh/atuin-ai-oss/ Comments URL: https://news.ycombinator.com/item?id=48910998 Points: 4 # Comments: 1
+Article URL: https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age Comments URL: https://news.ycombinator.com/item?id=48914355 Points: 3 # Comments: 0
 
-📖 [Read original article](https://blog.atuin.sh/atuin-ai-oss/)
+📖 [Read original article](https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age)
 
 ---
 
-## 5. Show HN: Poseberry: create AI influencers that pose with your products
+## 5. Lawsuit claims Meta's layoff decisions were made by AI, not humans
 
-**Author:** itsdevdaniel  
-**Published:** 7/14/2026, 6:17:17 PM  
+**Author:** BeetleB  
+**Published:** 7/14/2026, 11:26:47 PM  
 **Categories:** -  
 
-Article URL: https://poseberry.com Comments URL: https://news.ycombinator.com/item?id=48910959 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/ Comments URL: https://news.ycombinator.com/item?id=48914273 Points: 7 # Comments: 4
 
-📖 [Read original article](https://poseberry.com)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/)
 
 ---
 
-## 6. We scored 1,018 real-world AI prompts. Robustness averaged 31/100
+## 6. Plans for New Zealand's first AI datacentre spark concerns
 
-**Author:** Franciscoferr  
-**Published:** 7/14/2026, 6:08:17 PM  
+**Author:** billybuckwheat  
+**Published:** 7/14/2026, 11:08:32 PM  
 **Categories:** -  
 
-Article URL: https://prompt-eval.com/state-of-prompt-quality/2026-q3 Comments URL: https://news.ycombinator.com/item?id=48910829 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/world/2026/jul/10/new-zealand-first-datacentre-concern-locals-makarewa-invercargill-datagrid Comments URL: https://news.ycombinator.com/item?id=48914108 Points: 6 # Comments: 0
 
-📖 [Read original article](https://prompt-eval.com/state-of-prompt-quality/2026-q3)
+📖 [Read original article](https://www.theguardian.com/world/2026/jul/10/new-zealand-first-datacentre-concern-locals-makarewa-invercargill-datagrid)
 
 ---
 
-## 7. Inventing Eliza – How the First Chatbot Shaped AI
+## 7. Why devs turn to Buildkite in the AI era
 
-**Author:** aanet  
-**Published:** 7/14/2026, 6:06:57 PM  
+**Author:** juanfatas  
+**Published:** 7/14/2026, 10:50:30 PM  
 **Categories:** -  
 
-Article URL: https://mitpress.mit.edu/9780262052481/inventing-eliza/ Comments URL: https://news.ycombinator.com/item?id=48910811 Points: 1 # Comments: 1
+Article URL: https://www.thestack.technology/buildkite-ai-developer-cicd/ Comments URL: https://news.ycombinator.com/item?id=48913937 Points: 4 # Comments: 0
 
-📖 [Read original article](https://mitpress.mit.edu/9780262052481/inventing-eliza/)
+📖 [Read original article](https://www.thestack.technology/buildkite-ai-developer-cicd/)
 
 ---
 
-## 8. New York bans data center construction for a year, rattling AI industry
+## 8. The Campaign to Kill American AI Runs Through San Francisco
 
-**Author:** Bender  
-**Published:** 7/14/2026, 6:03:29 PM  
+**Author:** shinryudbz  
+**Published:** 7/14/2026, 10:27:33 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/ Comments URL: https://news.ycombinator.com/item?id=48910770 Points: 2 # Comments: 0
+Article URL: https://garryslist.org/posts/the-campaign-to-kill-american-ai-runs-through-san-francisco Comments URL: https://news.ycombinator.com/item?id=48913735 Points: 5 # Comments: 2
 
-📖 [Read original article](https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/)
+📖 [Read original article](https://garryslist.org/posts/the-campaign-to-kill-american-ai-runs-through-san-francisco)
 
 ---
 
-## 9. LinkedIn and X Are Flooded with AI Spam
+## 9. Australian Government Establishes Office of AI
 
-**Author:** cui  
-**Published:** 7/14/2026, 5:56:17 PM  
+**Author:** hulahoof  
+**Published:** 7/14/2026, 10:13:31 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/ Comments URL: https://news.ycombinator.com/item?id=48910633 Points: 2 # Comments: 1
+Article URL: https://www.abc.net.au/news/2026-07-14/albanese-maps-out-ai-future-introducing-national-framework/106915094 Comments URL: https://news.ycombinator.com/item?id=48913584 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/)
+📖 [Read original article](https://www.abc.net.au/news/2026-07-14/albanese-maps-out-ai-future-introducing-national-framework/106915094)
 
 ---
 
-## 10. Project Panama: Why an AI Company Cut Apart Books
+## 10. Australia to become the first country to introduce landmark AI framework
 
-**Author:** JuriKeller  
-**Published:** 7/14/2026, 5:48:05 PM  
+**Author:** defrost  
+**Published:** 7/14/2026, 10:10:21 PM  
 **Categories:** -  
 
-Article URL: https://www.tobiasreithmeier.de/en/blog/project-panama-anthropic-books Comments URL: https://news.ycombinator.com/item?id=48910509 Points: 1 # Comments: 0
+Article URL: https://www.sbs.com.au/news/article/australia-set-to-become-first-country-to-introduce-national-ai-framework/0w2q0yakr Comments URL: https://news.ycombinator.com/item?id=48913555 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.tobiasreithmeier.de/en/blog/project-panama-anthropic-books)
-
----
-
-## 11. SoftBank's Masayoshi Son ridicules AI critics for 'spitting upwards'
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/14/2026, 5:47:05 PM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/fc0d48f4-a2ce-45b1-a0ad-83a0a8409f00 Comments URL: https://news.ycombinator.com/item?id=48910500 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.ft.com/content/fc0d48f4-a2ce-45b1-a0ad-83a0a8409f00)
-
----
-
-## 12. AI Made Cloning Games Easier
-
-**Author:** _____k  
-**Published:** 7/14/2026, 5:45:43 PM  
-**Categories:** -  
-
-Article URL: https://www.404media.co/ai-made-cloning-games-easier-than-ever/ Comments URL: https://news.ycombinator.com/item?id=48910484 Points: 1 # Comments: 2
-
-📖 [Read original article](https://www.404media.co/ai-made-cloning-games-easier-than-ever/)
-
----
-
-## 13. AI lawsuits expose gaps in conventional insurance, says report
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/14/2026, 5:45:13 PM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/8b3e2431-96b5-477e-b5ea-e3baae671b9c Comments URL: https://news.ycombinator.com/item?id=48910472 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.ft.com/content/8b3e2431-96b5-477e-b5ea-e3baae671b9c)
-
----
-
-## 14. Massive AI spending is driving up prices on laptops and electricity, Fed watches
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/14/2026, 5:41:44 PM  
-**Categories:** -  
-
-Article URL: https://www.fastcompany.com/91572617/massive-ai-spending-driving-up-prices-laptops-electricity-as-fed-watches-closely Comments URL: https://news.ycombinator.com/item?id=48910413 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.fastcompany.com/91572617/massive-ai-spending-driving-up-prices-laptops-electricity-as-fed-watches-closely)
-
----
-
-## 15. Jovita one AI hub instead of five subscriptions
-
-**Author:** Ayo245  
-**Published:** 7/14/2026, 5:40:17 PM  
-**Categories:** -  
-
-Article URL: https://usejovita.com Comments URL: https://news.ycombinator.com/item?id=48910385 Points: 1 # Comments: 0
-
-📖 [Read original article](https://usejovita.com)
-
----
-
-## 16. AI makes learning feel too easy
-
-**Author:** bear_with_me  
-**Published:** 7/14/2026, 5:31:15 PM  
-**Categories:** -  
-
-Article URL: https://blog.danielyj.com/blog/ai-makes-learning-feel-easy Comments URL: https://news.ycombinator.com/item?id=48910248 Points: 1 # Comments: 0
-
-📖 [Read original article](https://blog.danielyj.com/blog/ai-makes-learning-feel-easy)
-
----
-
-## 17. Generative AI Is an Engineering Disaster
-
-**Author:** Jtsummers  
-**Published:** 7/14/2026, 5:30:28 PM  
-**Categories:** -  
-
-Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48910233 Points: 4 # Comments: 2
-
-📖 [Read original article](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
-
----
-
-## 18. show hn: 1d data to 3D topology, AI deepfakes to protien folding
-
-**Author:** bitofabluetit  
-**Published:** 7/14/2026, 5:29:49 PM  
-**Categories:** -  
-
-Article URL: https://github.com/bitofabluetit/knotreel Comments URL: https://news.ycombinator.com/item?id=48910222 Points: 3 # Comments: 3
-
-📖 [Read original article](https://github.com/bitofabluetit/knotreel)
-
----
-
-## 19. Litert.js, Google's High Performance Web AI Inference
-
-**Author:** impostervt  
-**Published:** 7/14/2026, 5:26:09 PM  
-**Categories:** -  
-
-Article URL: https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/ Comments URL: https://news.ycombinator.com/item?id=48910170 Points: 1 # Comments: 0
-
-📖 [Read original article](https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/)
-
----
-
-## 20. One issue every 62 lines: 21.6M lines of AI-generated code, scanned
-
-**Author:** albertfranquesa  
-**Published:** 7/14/2026, 5:24:47 PM  
-**Categories:** -  
-
-Article URL: https://github.com/qualityclouds/state-of-ai-code-2026- Comments URL: https://news.ycombinator.com/item?id=48910154 Points: 3 # Comments: 0
-
-📖 [Read original article](https://github.com/qualityclouds/state-of-ai-code-2026-)
+📖 [Read original article](https://www.sbs.com.au/news/article/australia-set-to-become-first-country-to-introduce-national-ai-framework/0w2q0yakr)
 
 ---
