@@ -437,7 +437,7 @@ arXiv:2607.10069v1 Announce Type: new Abstract: Semantic caching defines answer 
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2607.10079v1 Announce Type: new Abstract: Digital Adoption Platforms (DAPs) are embedded overlays widely used on web systems to guide users through operations inside a page, helping them get started with unfamiliar interfaces quickly. Completing a real task, however, rarely means clicking a fe...
+arXiv:2607.10079v2 Announce Type: new Abstract: Digital Adoption Platforms (DAPs) are embedded overlays widely used on web systems to guide users through operations inside a page, helping them get started with unfamiliar interfaces quickly. Completing a real task, however, rarely means clicking a fe...
 
 📖 [Read original article](https://arxiv.org/abs/2607.10079)
 
@@ -473,7 +473,7 @@ arXiv:2607.10113v1 Announce Type: new Abstract: Large language model agents incr
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.10144v1 Announce Type: new Abstract: Scientific research is a complex, multi-stage workflow rather than a single act of text generation. The ideation process typically emerges through literature search, paper reading, tool use, claim checking, cross-paper synthesis, brainstorming, rejecti...
+arXiv:2607.10144v2 Announce Type: new Abstract: Scientific ideation unfolds over multiple stages, including literature search, paper reading, tool use, claim checking, cross-paper synthesis, brainstorming, rejection of weak directions, and iterative writing. Yet most existing resources capture isola...
 
 📖 [Read original article](https://arxiv.org/abs/2607.10144)
 
@@ -603,7 +603,7 @@ arXiv:2607.10331v1 Announce Type: new Abstract: Human-centered AI (HCAI) refers 
 
 **Author:** Jiayi Tian, Shiao Liu, Yuting Xu, Jia Lu, Zihao Guan, Honglin Han, Di Yang, Minqi Gu, Yifei Qian, Tianlin Zhang, Yanqing Zhu, Zeqian Ye, Menglin Yang, Fei Wang, Xu Hu, Xiuxian Li, Wei Zhang, Shihui Su, Yiyan Ji, Jingbo Wang, Ziteng Feng, Jiaheng Liu, Zhaoxiang Zhang, Xiaolong Wu, Mingyang Yin, Zedong Chu, Mu Xu  
 **Published:** 7/14/2026, 4:00:00 AM  
-**Categories:** cs.AI  
+**Categories:** cs.AI, cs.RO  
 
 arXiv:2607.10350v1 Announce Type: new Abstract: Recent VLM and VLA systems have improved robotic perception and action prediction, yet long-horizon embodied agents still require a general runtime layer for reasoning, memory, tool use, verification, and cross-embodiment execution. We present ABot-Age...
 
@@ -653,7 +653,7 @@ arXiv:2607.10463v1 Announce Type: new Abstract: Agentic retrieval-augmented gene
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.10526v1 Announce Type: new Abstract: Stateful personal agents increasingly maintain long-term user profiles, episodic memories, and reusable skills. This persistence turns conversational sycophancy into a state-writing failure: accepted user-centric claims can be committed as lasting pref...
+arXiv:2607.10526v2 Announce Type: new Abstract: Stateful personal agents increasingly maintain long-term user profiles, episodic memories, and reusable skills. This persistence turns conversational sycophancy into a state-writing failure: accepted user-centric claims can be committed as lasting pref...
 
 📖 [Read original article](https://arxiv.org/abs/2607.10526)
 
@@ -965,7 +965,7 @@ arXiv:2607.10972v1 Announce Type: new Abstract: Many evaluations of model output
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.11019v1 Announce Type: new Abstract: Enterprise data analysis is emerging as a distinct frontier for autonomous agents. Compared with general-purpose interaction and software engineering, it operates in an open, ambiguous, and continuously evolving environment. These characteristics call ...
+arXiv:2607.11019v2 Announce Type: new Abstract: Enterprise data analysis is emerging as a distinct frontier for autonomous agents. Compared with general-purpose interaction and software engineering, it operates in an open, ambiguous, and continuously evolving environment. These characteristics call ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11019)
 
@@ -1133,7 +1133,7 @@ arXiv:2607.11226v1 Announce Type: new Abstract: LLM agents today are caught in a
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2607.11263v1 Announce Type: new Abstract: Two competing perspectives on fluid intelligence (gf) measures propose that performance is primarily constrained either by working memory capacity or by the ability to induce novel relations. The first perspective is currently dominant in measurement, ...
+arXiv:2607.11263v2 Announce Type: new Abstract: Two competing perspectives on fluid intelligence (gf) measures propose that performance is primarily constrained either by working memory capacity or by the ability to induce novel relations. The first perspective is currently dominant in measurement, ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11263)
 
@@ -1619,13 +1619,13 @@ arXiv:2607.09757v1 Announce Type: cross Abstract: Low-Rank Adaptation (LoRA) has
 
 ---
 
-## 135. ReflectWorld-MM: An Entity-Oriented Multi-Media Memory System for Open-Ended Video Streams
+## 135. ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams
 
 **Author:** Xiaokang Ma, Yifan Sun, Zhihong Jin, Jie Gu, Yudong Luo, Shenyi Shao, Chu Tang, Jingmin Chen, Li Pu  
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2607.09759v1 Announce Type: cross Abstract: Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with long-term memory over video streams have attracted in...
+arXiv:2607.09759v2 Announce Type: cross Abstract: Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with long-term memory over video streams have attracted in...
 
 📖 [Read original article](https://arxiv.org/abs/2607.09759)
 
@@ -1637,7 +1637,7 @@ arXiv:2607.09759v1 Announce Type: cross Abstract: Building assistants that can c
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** eess.SP, cs.AI  
 
-arXiv:2607.09760v1 Announce Type: cross Abstract: Radio frequency fingerprint identification (RFFI) uses transmitter-specific hardware imperfections as a physicallayer identity cue for Internet of Things (IoT) devices, but deep RFFI models often degrade when the acquisition environment changes. In m...
+arXiv:2607.09760v2 Announce Type: cross Abstract: Radio frequency fingerprint identification (RFFI) exploits transmitter-specific hardware imperfections as physicallayer identity cues for Internet of Things (IoT) devices, but deep models often degrade across acquisition environments. In multi-antenn...
 
 📖 [Read original article](https://arxiv.org/abs/2607.09760)
 
@@ -1973,7 +1973,7 @@ arXiv:2607.09957v1 Announce Type: cross Abstract: This report studies on-device 
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.09967v1 Announce Type: cross Abstract: Many neural networks operations have a multiplicative nature rather than additive: halving or doubling a norm are analogous relatively but require unequal optimization distances when taking linear steps. Adaptive optimizers such as Adam normalize upd...
+arXiv:2607.09967v2 Announce Type: cross Abstract: Many neural networks operations have a multiplicative nature rather than additive: halving or doubling a norm are analogous relatively but require unequal optimization distances when taking linear steps. Adaptive optimizers such as Adam normalize upd...
 
 📖 [Read original article](https://arxiv.org/abs/2607.09967)
 
@@ -2237,7 +2237,7 @@ arXiv:2607.10180v1 Announce Type: cross Abstract: We introduce ActiveFly-Bench, 
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.DC, cs.AI, cs.LG  
 
-arXiv:2607.10183v1 Announce Type: cross Abstract: Running large language models on consumer devices such as laptops and desktops is challenging because model weights often exceed GPU memory capacity, making offloading inference necessary to extend effective model capacity with CPU memory. Existing o...
+arXiv:2607.10183v2 Announce Type: cross Abstract: Running large language models on consumer devices such as laptops and desktops is challenging because model weights often exceed GPU memory capacity, making offloading inference necessary to extend effective model capacity with CPU memory. Existing o...
 
 📖 [Read original article](https://arxiv.org/abs/2607.10183)
 
@@ -2291,13 +2291,13 @@ arXiv:2607.10201v1 Announce Type: cross Abstract: Equitable renewable-energy pla
 
 ---
 
-## 191. When Does Depth Survive Composition? Compute--Quality Regimes in Latent World Models
+## 191. Adaptive Compute in Latent World Models: When Depth Helps, Hurts, or Doesn't Matter
 
 **Author:** Achyuthan Sivasankar  
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.10203v1 Announce Type: cross Abstract: Adaptive-compute world models -- early-exit or mixture-of-depths predictors that spend variable depth per step -- assume depth buys better predictions and can be routed adaptively. In autoregressive rollouts, the first assumption requires depth's per...
+arXiv:2607.10203v2 Announce Type: cross Abstract: Adaptive-compute world models -- early-exit or mixture-of-depths predictors that spend variable depth per step -- assume depth buys better predictions and can be routed adaptively. In autoregressive rollouts, the first assumption requires depth's per...
 
 📖 [Read original article](https://arxiv.org/abs/2607.10203)
 
@@ -2449,11 +2449,11 @@ arXiv:2607.10369v1 Announce Type: cross Abstract: Flow-matching policies have em
 
 ## 204. ABot-N1: Toward a General Visual Language Navigation Foundation Model
 
-**Author:** Ruiyan Gong, Yingnan Guo, Junjun Hu, Jintao Kong, Xiaoxu Leng, Tianlun Li, Weize Li, Fei Liu, Zhicheng Liu, Jia Lu, Minghua Luo, Chenlin Ming, Yanfen Shen, Jiyue Tao, Zhengbo Wang, Mingyang Yin, Minqi Gu, Zihao Guan, Wei Guo, Guoqing Liu, Huachong Pang, Menglin Yang, Zeqian Ye, Xiaoxiao Geng, Zhining Gu, Honglin Han, Di Jing, Hongyu Pan, Mingchao Sun, Kuan Yang, Jianfang Zhang, Yanghong Chen, Ye He, Wei Mei, Jiahao Shi, Xiangpo Yang, Yanqing Zhu, Zedong Chu, Xiaolong Wu, Mu Xu  
+**Author:** Ruiyan Gong, Yingnan Guo, Junjun Hu, Jintao Kong, Xiaoxu Leng, Tianlun Li, Weize Li, Fei Liu, Zhicheng Liu, Jia Lu, Minghua Luo, Chenlin Ming, Yanfen Shen, Jiyue Tao, Zhengbo Wang, Mingyang Yin, Minqi Gu, Zihao Guan, Wei Guo, Guoqing Liu, Huachong Pang, Menglin Yang, Zeqian Ye, Xiaoxiao Geng, Zhining Gu, Honglin Han, Di Jing, Hongyu Pan, Mingchao Sun, Kuan Yang, Jianfang Zhang, Yanghong Chen, Ye He, Wei Mei, Jiahao Shi, Xiangpo Yang, Yanqing Zhu, Yang Cai, Jingjing Ma, Shihui Su, Zixiao Tang, Linbo Zheng, Zedong Chu, Xiaolong Wu, Ziqiao Li, Mu Xu  
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.RO  
 
-arXiv:2607.10383v1 Announce Type: cross Abstract: Visual Language Navigation foundation models aim to unify deep reasoning for grounded spatial decisions with broad versatility for diverse embodied tasks. Current approaches typically achieve this integration via monolithic policies that map observat...
+arXiv:2607.10383v2 Announce Type: cross Abstract: Visual Language Navigation foundation models aim to unify deep reasoning for grounded spatial decisions with broad versatility for diverse embodied tasks. Current approaches typically achieve this integration via monolithic policies that map observat...
 
 📖 [Read original article](https://arxiv.org/abs/2607.10383)
 
@@ -3245,7 +3245,7 @@ arXiv:2607.11081v1 Announce Type: cross Abstract: Diffusion Transformers (DiTs) 
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.CL  
 
-arXiv:2607.11098v1 Announce Type: cross Abstract: Tool-using LLM agents are mostly evaluated assuming all tools work. When a tool times out, returns a week-stale value, or has its description poisoned in deployment, the developer needs a controlled way to reproduce the failure, test a fix, and confi...
+arXiv:2607.11098v2 Announce Type: cross Abstract: Tool-using LLM agents are mostly evaluated assuming all tools work. When a tool times out, returns a week-stale value, or has its description poisoned in deployment, the developer needs a controlled way to reproduce the failure, test a fix, and confi...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11098)
 
@@ -3329,7 +3329,7 @@ arXiv:2607.11167v1 Announce Type: cross Abstract: Representing manipulation acti
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI  
 
-arXiv:2607.11193v1 Announce Type: cross Abstract: To ensure the overall quality of AI-enabled software, not only traditional software components but also AI components need to be tested and repaired. Among AI components, Transformer models are increasingly integrated into software systems, which mak...
+arXiv:2607.11193v2 Announce Type: cross Abstract: To ensure the overall quality of AI-enabled software, not only traditional software components but also AI components need to be tested and repaired. Among AI components, Transformer models are increasingly integrated into software systems, which mak...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11193)
 
@@ -3371,13 +3371,13 @@ arXiv:2607.11228v1 Announce Type: cross Abstract: While Large Vision-Language Mo
 
 ---
 
-## 281. An Empirical Study for GUI Test Migration from Android to OpenHarmony System
+## 281. An Empirical Study for Android-to-OpenHarmony GUI Test Migration
 
 **Author:** Yakun Zhang, Xinjia Chen, Yiyun Chen, Yuxia Zhang, Mingyi Zhou, Xiang Gao, Shaokun Zhang, Li Li, Yunming Ye  
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI  
 
-arXiv:2607.11245v1 Announce Type: cross Abstract: To reduce the substantial engineering effort required to test the corresponding applications from Android to OpenHarmony, migrating existing GUI test cases has become a critical problem. However, current research neither proposes solutions tailored f...
+arXiv:2607.11245v2 Announce Type: cross Abstract: To reduce the substantial engineering effort required to test the corresponding applications from Android to OpenHarmony, migrating existing GUI test cases has become a critical problem. However, current research neither proposes solutions tailored f...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11245)
 
@@ -3481,11 +3481,11 @@ arXiv:2607.11314v1 Announce Type: cross Abstract: The promise of AI literacy ``f
 
 ## 290. PRISM Edit: One Vector for All Temporal Answers
 
-**Author:** Chen Huang (Tsinghua University), Qi Zheng (Tsinghua University), Ruiqin Zheng (ByteDance), Long Zeng (Tsinghua University), Yuantong Xu (ByteDance)  
+**Author:** Chen Huang, Qi Zheng, Ruiqin Zheng, Long Zeng, Yuantong Xu  
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.11327v1 Announce Type: cross Abstract: Model editing keeps large language models (LLMs) up to date without retraining, but temporal facts expose a limitation of the prevailing locate-and-edit paradigm: an update is not always a replacement. When a fact changes, the new answer should becom...
+arXiv:2607.11327v2 Announce Type: cross Abstract: Model editing keeps large language models (LLMs) up to date without retraining, but temporal facts expose a limitation of the prevailing locate-and-edit paradigm: an update is not always a replacement. When a fact changes, the new answer should becom...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11327)
 
@@ -4009,11 +4009,11 @@ arXiv:2607.11874v1 Announce Type: cross Abstract: Recent work in humanoid whole-
 
 ## 334. Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks
 
-**Author:** Tiberiu Musat, Tiago Pimentel, Nicholas Zucchet, Thomas Hofmann  
+**Author:** Tiberiu Musat, Tiago Pimentel, Nicolas Zucchet, Thomas Hofmann  
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.11875v1 Announce Type: cross Abstract: We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a generalized ...
+arXiv:2607.11875v2 Announce Type: cross Abstract: We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a generalized ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11875)
 
@@ -4133,7 +4133,7 @@ arXiv:2602.02905v2 Announce Type: replace Abstract: Autonomous agents powered by
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2602.06486v3 Announce Type: replace Abstract: Evaluating agentic AI on open-ended professional tasks faces a fundamental dilemma between rigor and flexibility. Static rubrics provide rigorous, reproducible assessment but fail to accommodate diverse valid response strategies, while LLM-as-a-jud...
+arXiv:2602.06486v4 Announce Type: replace Abstract: Evaluating agentic AI on open-ended professional tasks faces a fundamental dilemma between rigor and flexibility. Static rubrics provide rigorous, reproducible assessment but fail to accommodate diverse valid response strategies, while LLM-as-a-jud...
 
 📖 [Read original article](https://arxiv.org/abs/2602.06486)
 
@@ -5333,7 +5333,7 @@ arXiv:2604.07486v3 Announce Type: replace-cross Abstract: Large language models 
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2604.11996v2 Announce Type: replace-cross Abstract: Should we trust Large Language Models (LLMs) with high accuracy? LLMs achieve high accuracy on reasoning benchmarks, but correctness alone does not reveal the quality of the reasoning used to produce it. This highlights a fundamental limitati...
+arXiv:2604.11996v3 Announce Type: replace-cross Abstract: Should we trust Large Language Models (LLMs) with high accuracy? LLMs achieve high accuracy on reasoning benchmarks, but correctness alone does not reveal the quality of the reasoning used to produce it. This highlights a fundamental limitati...
 
 📖 [Read original article](https://arxiv.org/abs/2604.11996)
 
@@ -5489,7 +5489,7 @@ arXiv:2606.11324v2 Announce Type: replace-cross Abstract: We introduce Embodied-
 **Published:** 7/14/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2606.11520v3 Announce Type: replace-cross Abstract: Training capable OS agents requires data that simultaneously captures structured user intents, multi-turn task delegation, and grounded tool execution--properties absent from existing datasets. We propose ISE (Intent -> Simulate -> Execute), ...
+arXiv:2606.11520v4 Announce Type: replace-cross Abstract: Training capable OS agents requires data that simultaneously captures structured user intents, multi-turn task delegation, and grounded tool execution--properties absent from existing datasets. We propose ISE (Intent -> Simulate -> Execute), ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.11520)
 
