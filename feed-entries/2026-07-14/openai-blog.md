@@ -23,19 +23,7 @@ Learn how enterprises can manage AI investments in the agentic era by measuring 
 
 ---
 
-## 2. How sales teams use ChatGPT Work
-
-**Author:** -  
-**Published:** 7/14/2026, 12:00:00 AM  
-**Categories:** OpenAI Academy  
-
-See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
-
-📖 [Read original article](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)
-
----
-
-## 3. How data science teams use ChatGPT Work
+## 2. How data science teams use ChatGPT Work
 
 **Author:** -  
 **Published:** 7/14/2026, 12:00:00 AM  
@@ -44,5 +32,17 @@ See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep
 See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.
 
 📖 [Read original article](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)
+
+---
+
+## 3. How sales teams use ChatGPT Work
+
+**Author:** -  
+**Published:** 7/14/2026, 12:00:00 AM  
+**Categories:** OpenAI Academy  
+
+See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.
+
+📖 [Read original article](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)
 
 ---
