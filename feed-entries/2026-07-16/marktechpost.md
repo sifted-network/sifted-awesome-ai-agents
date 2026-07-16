@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-16"
 date: "2026-07-16"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-07-16
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks
+## 1. OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection
+
+**Author:** Asif Razzaq  
+**Published:** 7/16/2026, 6:48:04 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Machine Learning, New Releases, Security, Software Engineering, Staff, Tech News, Technology  
+
+OpenAI trained GPT-Red, an internal-only attacker model, using self-play reinforcement learning against a population of defender LLMs. It beat human red-teamers 84% to 13% on a replicated indirect prompt injection arena, found a novel "Fake Chain-of-Thought" attack class, and cut GPT-5.6 Sol's failu...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/)
+
+---
+
+## 2. Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks
 
 **Author:** Sana Hassan  
 **Published:** 7/16/2026, 7:42:49 AM  
@@ -23,7 +35,7 @@ We explore the Patter SDK by building a voice-agent workflow for a restaurant bo
 
 ---
 
-## 2. SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI
+## 3. SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI
 
 **Author:** Michal Sutter  
 **Published:** 7/16/2026, 6:35:54 AM  
