@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Glad-AI-Tor, the \"best\" AI tools judged by the crowd
+## 1. Show HN: Cortier – your AI negotiates dinner plans with your friends' AIs
 
-**Author:** GiornoJojo  
-**Published:** 7/16/2026, 8:12:08 AM  
+**Author:** CortierAI  
+**Published:** 7/16/2026, 1:42:36 PM  
 **Categories:** -  
 
-Gm HN,Glad-AI-Tor is a place where everyone could judge & rank AI tools in order to list them from the worst to the best.The goal is to have real visitor verdicts across six arenas (voice, LLMs, image, video, coding and music).Built to help the community using best AI tools. Comments URL: https://ne...
+Article URL: https://cortier.ai/ Comments URL: https://news.ycombinator.com/item?id=48934459 Points: 2 # Comments: 0
 
-📖 [Read original article](https://glad-ia-tor.com)
+📖 [Read original article](https://cortier.ai/)
 
 ---
 
-## 2. Semantic transactions: securing untrusted AI agent workflows at the OS boundary
+## 2. Show HN: Companion eBook for The Odyssey audiobook narrated by AI Michael Caine
 
-**Author:** Ayauho  
-**Published:** 7/16/2026, 8:06:37 AM  
+**Author:** stoilms  
+**Published:** 7/16/2026, 1:40:35 PM  
 **Categories:** -  
 
-Article URL: https://latentdynamics.substack.com/p/semantic-transactions-securing-untrusted Comments URL: https://news.ycombinator.com/item?id=48931607 Points: 1 # Comments: 0
+I've been enjoying the Michael Caine voice clone narration of the Odyssey, but noticed it uses Greek names (Odysseus, Poseidon, Zeus), whereas the William Cullen Bryant translation ElevenLabs used as the basis for the audiobook uses the Roman names (Ulysses, Neptune, Jove).I tried reading the WCB tr...
 
-📖 [Read original article](https://latentdynamics.substack.com/p/semantic-transactions-securing-untrusted)
+📖 [Read original article](https://github.com/stoilms/odyssey-ebook-michael-caine-elevenlabs-narration)
 
 ---
 
-## 3. Ask HN: Best way to buy second hand compute (in a future AI crash)
+## 3. Former OpenAI CTO does what Altman won't, releases a frontier AI model
 
-**Author:** lifeisstillgood  
-**Published:** 7/16/2026, 7:51:56 AM  
+**Author:** Bender  
+**Published:** 7/16/2026, 1:31:25 PM  
 **Categories:** -  
 
-So, in a land before kids and mortgages I had a homelab, and want to start again.I also think that give it a few months and the AI bud out bubble will burst and a couple of data r free worth of GPUs might come availableBuying off eBay sounds crazy so what’s the right way to find compute from sell of...
+Article URL: https://www.theregister.com/ai-and-ml/2026/07/16/former-openai-cto-does-what-altman-wont-releases-a-frontier-ai-model-thats-actually-open/5272177 Comments URL: https://news.ycombinator.com/item?id=48934299 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48931504)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/07/16/former-openai-cto-does-what-altman-wont-releases-a-frontier-ai-model-thats-actually-open/5272177)
 
 ---
 
-## 4. Unifeyn, an AI study workspace grounded in your own documents
+## 4. AI Obituary Writing Tool
 
-**Author:** securemepro  
-**Published:** 7/16/2026, 7:48:14 AM  
+**Author:** vegadw  
+**Published:** 7/16/2026, 1:24:23 PM  
 **Categories:** -  
 
-Article URL: https://www.unifeyn.app Comments URL: https://news.ycombinator.com/item?id=48931472 Points: 1 # Comments: 0
+Article URL: https://journalstar.obituaries.com/index Comments URL: https://news.ycombinator.com/item?id=48934214 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.unifeyn.app)
+📖 [Read original article](https://journalstar.obituaries.com/index)
 
 ---
 
-## 5. Rethinking Databases for Humans and AI Agents
+## 5. StepFun Unveils StepX Neo, the \"First Agentic AI Phone\"
 
-**Author:** marcobambini  
-**Published:** 7/16/2026, 7:33:51 AM  
+**Author:** AlanAzarkin  
+**Published:** 7/16/2026, 1:14:29 PM  
 **Categories:** -  
 
-Article URL: https://marcobambini.substack.com/p/rethinking-databases-for-humans-and Comments URL: https://news.ycombinator.com/item?id=48931392 Points: 1 # Comments: 0
+Article URL: https://www.etvbharat.com/en/technology/stepfun-unveils-stepx-neo-calling-it-worlds-first-agentic-ai-phone-enn26071401799 Comments URL: https://news.ycombinator.com/item?id=48934071 Points: 2 # Comments: 0
 
-📖 [Read original article](https://marcobambini.substack.com/p/rethinking-databases-for-humans-and)
+📖 [Read original article](https://www.etvbharat.com/en/technology/stepfun-unveils-stepx-neo-calling-it-worlds-first-agentic-ai-phone-enn26071401799)
 
 ---
 
-## 6. AI Reviewing AI
+## 6. Google required to open up to AI, search engine rivals under EU-mandated changes
 
-**Author:** TheAnkurTyagi  
-**Published:** 7/16/2026, 7:20:23 AM  
+**Author:** atwrk  
+**Published:** 7/16/2026, 1:12:58 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/GergelyOrosz/status/2077479764604883339 Comments URL: https://news.ycombinator.com/item?id=48931312 Points: 2 # Comments: 0
+Article URL: https://www.reuters.com/world/google-required-open-up-ai-search-engine-rivals-under-eu-mandated-changes-2026-07-16/ Comments URL: https://news.ycombinator.com/item?id=48934054 Points: 3 # Comments: 0
 
-📖 [Read original article](https://twitter.com/GergelyOrosz/status/2077479764604883339)
+📖 [Read original article](https://www.reuters.com/world/google-required-open-up-ai-search-engine-rivals-under-eu-mandated-changes-2026-07-16/)
 
 ---
 
-## 7. Linus Torvalds tells AI haters to fork off
+## 7. Generative AI Is an Engineering Disaster
 
-**Author:** galaxyLogic  
-**Published:** 7/16/2026, 6:23:52 AM  
+**Author:** latexr  
+**Published:** 7/16/2026, 1:12:24 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894 Comments URL: https://news.ycombinator.com/item?id=48930971 Points: 9 # Comments: 2
+Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894)
+📖 [Read original article](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
 
 ---
 
-## 8. Prominent Haskell defector pilloried by anti-AI purists
+## 8. FBI Considers Using AI Tech to Review Signatures on Seized Mail-In Ballots
 
-**Author:** galaxyLogic  
-**Published:** 7/16/2026, 6:15:30 AM  
+**Author:** hn_acker  
+**Published:** 7/16/2026, 1:10:03 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/devops/2026/07/15/prominent-haskell-defector-pilloried-by-anti-ai-purists/5272124 Comments URL: https://news.ycombinator.com/item?id=48930929 Points: 2 # Comments: 2
+Article URL: https://www.propublica.org/article/trump-2020-election-georgia-fulton-artificial-intelligence-fbi Comments URL: https://news.ycombinator.com/item?id=48934011 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.theregister.com/devops/2026/07/15/prominent-haskell-defector-pilloried-by-anti-ai-purists/5272124)
+📖 [Read original article](https://www.propublica.org/article/trump-2020-election-georgia-fulton-artificial-intelligence-fbi)
 
 ---
 
-## 9. Show HN: Free Ollama AI Trading Desktop App
+## 9. Rare book dealers fear tech firms are destroying obscure editions to train AI
 
-**Author:** AlexBThomsen  
-**Published:** 7/16/2026, 6:00:44 AM  
+**Author:** Abimelex  
+**Published:** 7/16/2026, 12:59:10 PM  
 **Categories:** -  
 
-Article URL: https://www.vaultcharts.com/ Comments URL: https://news.ycombinator.com/item?id=48930848 Points: 1 # Comments: 0
+Article URL: https://nltimes.nl/2026/06/25/rare-book-dealers-fear-tech-firms-destroying-obscure-editions-train-ai-models Comments URL: https://news.ycombinator.com/item?id=48933873 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.vaultcharts.com/)
+📖 [Read original article](https://nltimes.nl/2026/06/25/rare-book-dealers-fear-tech-firms-destroying-obscure-editions-train-ai-models)
 
 ---
 
-## 10. How AI Slop Is Killing World War II History (video)
+## 10. Engineering notes:making an AI system tell the truth, not what you want to hear
 
-**Author:** MichaelMoser123  
-**Published:** 7/16/2026, 5:57:07 AM  
+**Author:** lucy_hnatchuk  
+**Published:** 7/16/2026, 12:49:25 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=iUfP6amE7UA Comments URL: https://news.ycombinator.com/item?id=48930824 Points: 2 # Comments: 2
+Article URL: https://nicheiq.dev/blog/evolution-of-idea-generation Comments URL: https://news.ycombinator.com/item?id=48933758 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=iUfP6amE7UA)
+📖 [Read original article](https://nicheiq.dev/blog/evolution-of-idea-generation)
 
 ---
 
-## 11. Linus Torvalds on AI usage in Linux development
+## 11. AI on Your Own Terms: Anaconda Acquires Kilo Code
 
-**Author:** tosh  
-**Published:** 7/16/2026, 5:46:06 AM  
+**Author:** backlit4034  
+**Published:** 7/16/2026, 12:47:21 PM  
 **Categories:** -  
 
-Article URL: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/#t Comments URL: https://news.ycombinator.com/item?id=48930777 Points: 6 # Comments: 1
+Article URL: https://www.anaconda.com/blog/anaconda-acquires-kilo-code Comments URL: https://news.ycombinator.com/item?id=48933732 Points: 2 # Comments: 0
 
-📖 [Read original article](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/#t)
+📖 [Read original article](https://www.anaconda.com/blog/anaconda-acquires-kilo-code)
 
 ---
 
-## 12. Ode with Anthropic – AI meets reality
+## 12. The problem AI content moderation cannot solve
 
-**Author:** car  
-**Published:** 7/16/2026, 5:36:33 AM  
+**Author:** thm  
+**Published:** 7/16/2026, 12:33:10 PM  
 **Categories:** -  
 
-Article URL: https://www.ode.com Comments URL: https://news.ycombinator.com/item?id=48930726 Points: 2 # Comments: 2
+Article URL: https://restofworld.org/2026/ai-content-moderation-consent-muse/ Comments URL: https://news.ycombinator.com/item?id=48933582 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ode.com)
+📖 [Read original article](https://restofworld.org/2026/ai-content-moderation-consent-muse/)
 
 ---
 
-## 13. AI That Never Forgets – Dendritron Transformer Explained [video]
+## 13. Whatnot acquires Shaped to accelerate AI
 
-**Author:** ilaksh  
-**Published:** 7/16/2026, 5:26:50 AM  
+**Author:** tullie  
+**Published:** 7/16/2026, 12:32:21 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=6zwuTqGweJE Comments URL: https://news.ycombinator.com/item?id=48930685 Points: 5 # Comments: 1
+Article URL: https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/ Comments URL: https://news.ycombinator.com/item?id=48933576 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=6zwuTqGweJE)
+📖 [Read original article](https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/)
 
 ---
 
-## 14. DeepCleanAudio AI-powered audio denoising that restores clarity in seconds
+## 14. The AI Backlash Has Tech Executives Fearing for Their Lives
 
-**Author:** billqu0001  
-**Published:** 7/16/2026, 5:24:30 AM  
+**Author:** thm  
+**Published:** 7/16/2026, 12:31:50 PM  
 **Categories:** -  
 
-Article URL: https://steelsoft.site/software/DeepCleanAudio_home.html Comments URL: https://news.ycombinator.com/item?id=48930676 Points: 2 # Comments: 0
-
-📖 [Read original article](https://steelsoft.site/software/DeepCleanAudio_home.html)
-
----
-
-## 15. Stop saying that AI is just a tool and it only matters how it is used
-
-**Author:** cratermoon  
-**Published:** 7/16/2026, 4:31:01 AM  
-**Categories:** -  
-
-Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 76 # Comments: 59
-
-📖 [Read original article](https://www.frank.computer/blog/2025/05/just-a-tool.html)
-
----
-
-## 16. Show HN: Complete the survey and get personal free AI toothpaste recommendation
-
-**Author:** notlibrary  
-**Published:** 7/16/2026, 4:28:03 AM  
-**Categories:** -  
-
-Article URL: https://tpmme.me Comments URL: https://news.ycombinator.com/item?id=48930345 Points: 1 # Comments: 0
-
-📖 [Read original article](https://tpmme.me)
-
----
-
-## 17. Show HN: AI Starter Templates in NextJS and OpenAI
-
-**Author:** bsuhas  
-**Published:** 7/16/2026, 4:24:04 AM  
-**Categories:** -  
-
-Hey Guys,I've built one of the largest Open Source AI starter templates using Next JS and OpenAI tech stack. It has a wide range of fully functioning applications from Voice AI agents to multimodal Chatbots.Any feedback would be great: https://suhasbhairav.com/ai-templatesRegards Suhas Bhairav Comme...
-
-📖 [Read original article](https://suhasbhairav.com/ai-templates)
-
----
-
-## 18. WSJ: The AI Backlash Has Tech Executives Fearing for Their Lives
-
-**Author:** testfoobar  
-**Published:** 7/16/2026, 4:17:59 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972 Comments URL: https://news.ycombinator.com/item?id=48930281 Points: 16 # Comments: 9
+Article URL: https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972 Comments URL: https://news.ycombinator.com/item?id=48933570 Points: 3 # Comments: 2
 
 📖 [Read original article](https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972)
 
 ---
 
-## 19. AI Is Not a Tool
+## 15. How to make AI safe–and lessen dependence on America and China
 
-**Author:** crowdhailer  
-**Published:** 7/16/2026, 4:17:03 AM  
+**Author:** pseudolus  
+**Published:** 7/16/2026, 12:30:47 PM  
 **Categories:** -  
 
-Article URL: https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool Comments URL: https://news.ycombinator.com/item?id=48930273 Points: 7 # Comments: 2
+Article URL: https://www.economist.com/leaders/2026/07/15/how-to-make-ai-safe-and-lessen-dependence-on-america-and-china Comments URL: https://news.ycombinator.com/item?id=48933557 Points: 2 # Comments: 1
 
-📖 [Read original article](https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool)
+📖 [Read original article](https://www.economist.com/leaders/2026/07/15/how-to-make-ai-safe-and-lessen-dependence-on-america-and-china)
 
 ---
 
-## 20. How to make AI safe and free of America and China
+## 16. Open Source Will Eat AI
 
-**Author:** andsoitis  
-**Published:** 7/16/2026, 4:07:02 AM  
+**Author:** lyoncy  
+**Published:** 7/16/2026, 12:28:16 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/leaders/2026/07/15/how-to-make-ai-safe-and-free-of-america-and-china Comments URL: https://news.ycombinator.com/item?id=48930223 Points: 4 # Comments: 0
+Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code Comments URL: https://news.ycombinator.com/item?id=48933538 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.economist.com/leaders/2026/07/15/how-to-make-ai-safe-and-free-of-america-and-china)
+📖 [Read original article](https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code)
+
+---
+
+## 17. New York blocks new AI data centers in first statewide moratorium
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/16/2026, 12:26:19 PM  
+**Categories:** -  
+
+Article URL: https://www.latimes.com/business/story/2026-07-14/new-york-blocks-new-ai-data-centers-in-first-statewide-moratorium Comments URL: https://news.ycombinator.com/item?id=48933522 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.latimes.com/business/story/2026-07-14/new-york-blocks-new-ai-data-centers-in-first-statewide-moratorium)
+
+---
+
+## 18. Show HN: AI-ready free form backend
+
+**Author:** danilovilhena  
+**Published:** 7/16/2026, 12:24:54 PM  
+**Categories:** -  
+
+Article URL: https://formplume.com/ Comments URL: https://news.ycombinator.com/item?id=48933505 Points: 2 # Comments: 0
+
+📖 [Read original article](https://formplume.com/)
+
+---
+
+## 19. AI buildout poses inflation threat, consumers pay more for laptops, electricity
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/16/2026, 12:20:21 PM  
+**Categories:** -  
+
+Article URL: https://www.latimes.com/business/story/2026-07-13/massive-ai-buildout-poses-latest-inflation-threat-as-consumers-pay-more-for-laptops-electricity Comments URL: https://news.ycombinator.com/item?id=48933467 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.latimes.com/business/story/2026-07-13/massive-ai-buildout-poses-latest-inflation-threat-as-consumers-pay-more-for-laptops-electricity)
+
+---
+
+## 20. The Most Famous AI Writing Tic Is Also the Most Mysterious
+
+**Author:** rzk  
+**Published:** 7/16/2026, 12:19:04 PM  
+**Categories:** -  
+
+Article URL: https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/ Comments URL: https://news.ycombinator.com/item?id=48933461 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/)
 
 ---
