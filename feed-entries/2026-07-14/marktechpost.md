@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-07-14"
 date: "2026-07-14"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-07-14
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ See how Vibe, Claude Code, Cursor, and Codex compare on cost, open weights, self
 OpenCoreDev has published Domain SDK 0.2.0, a TypeScript client for the custom domain lifecycle. It covers Vercel, Cloudflare for SaaS, Railway, Render, and Netlify behind one API. Status is modeled as an eight-value union, with separate verification and certificate fields. The post OpenCoreDev Rele...
 
 📖 [Read original article](https://www.marktechpost.com/2026/07/14/opencoredev-releases-domain-sdk-0-2-0-one-typescript-api-to-add-verify-and-remove-customer-domains-across-five-platforms/)
-
----
-
-## 4. Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder
-
-**Author:** Asif Razzaq  
-**Published:** 7/14/2026, 8:15:29 AM  
-**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Generative AI, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Python, Software Engineering, Staff, Tech News, Technology  
-
-Developer Hayden Bleasel has released Blume, an open-source, MIT-licensed documentation framework. It reads a folder of Markdown or MDX and generates a hidden Astro project, shipping static, AI-ready docs with local search, 30+ MDX components, llms.txt, and a built-in MCP server. The post Meet Blume...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/)
 
 ---
