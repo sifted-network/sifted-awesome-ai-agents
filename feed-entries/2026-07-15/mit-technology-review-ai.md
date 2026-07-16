@@ -15,7 +15,7 @@ count: 1
 
 **Author:** Will Douglas Heaven  
 **Published:** 7/15/2026, 5:09:37 PM  
-**Categories:** Artificial intelligence, App  
+**Categories:** Artificial intelligence, App, Summary  
 
 OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m...
 
