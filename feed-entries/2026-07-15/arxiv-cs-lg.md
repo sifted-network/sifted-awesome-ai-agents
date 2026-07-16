@@ -125,7 +125,7 @@ arXiv:2607.11943v1 Announce Type: new Abstract: Long-horizon physics-based simul
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.11947v1 Announce Type: new Abstract: Typical semi-supervised learning (SSL) methods rely on distributional assumptions, and their performance degrades when these are violated. While PNU learning, a risk rewriting method, offers a distribution-free alternative, it is restricted to binary c...
+arXiv:2607.11947v2 Announce Type: new Abstract: Typical semi-supervised learning (SSL) methods rely on distributional assumptions, and their performance degrades when these are violated. While PNU learning, a risk rewriting method, offers a distribution-free alternative, it is restricted to binary c...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11947)
 
@@ -161,7 +161,7 @@ arXiv:2607.11952v1 Announce Type: new Abstract: Network alignment identifies nod
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.11953v1 Announce Type: new Abstract: Does a reinforcement-learning agent that earns high reward represent its task's latent state, or only a reward-correlated shortcut? The question is usually unanswerable: the "true state" is undefined. We make it exactly answerable with a white-box inst...
+arXiv:2607.11953v2 Announce Type: new Abstract: Does a reinforcement-learning agent that earns high reward represent its task's latent state, or only a reward-correlated shortcut? Usually this is unanswerable: the "true state" is undefined. We make it exactly answerable with a white-box instrument: ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11953)
 
@@ -281,7 +281,7 @@ arXiv:2607.11975v1 Announce Type: new Abstract: Current machine unlearning metho
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.11976v1 Announce Type: new Abstract: Indexer-TopK, the operation to compute the scores and select the top-k candidates, is widely used by sparse attention kernels in large language models and vector retrieval in recommendation systems and vector databases. However, existing GPU-based Inde...
+arXiv:2607.11976v2 Announce Type: new Abstract: Indexer-TopK, the operation to compute the scores and select the top-k candidates, is widely used by sparse attention kernels in large language models and vector retrieval in recommendation systems and vector databases. However, existing GPU-based Inde...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11976)
 
@@ -329,7 +329,7 @@ arXiv:2607.11994v1 Announce Type: new Abstract: Classifying cybersecurity vulner
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, stat.ML  
 
-arXiv:2607.11997v1 Announce Type: new Abstract: Multi-task model merging combines separately trained expert models into a single model that handles all tasks without co-training. Standard practice merges experts at their optimal validation loss. We challenge this convention by systematically studyin...
+arXiv:2607.11997v2 Announce Type: new Abstract: Multi-task model merging combines separately trained expert models into a single model that handles all tasks without co-training. Standard practice merges experts at their optimal validation loss. We challenge this convention by systematically studyin...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11997)
 
@@ -701,7 +701,7 @@ arXiv:2607.12500v1 Announce Type: new Abstract: Deep learning models for online 
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.LG, eess.IV, stat.ML  
 
-arXiv:2607.12501v1 Announce Type: new Abstract: The Forward-Forward (FF) algorithm trains each layer locally, so that a scalar goodness - the sum of squared activations - is high on real inputs and low on contrastive ones, with activations normalized between layers. Both choices are usually treated ...
+arXiv:2607.12501v2 Announce Type: new Abstract: The Forward-Forward (FF) algorithm trains each layer locally, so that a scalar goodness - the sum of squared activations - is high on real inputs and low on contrastive ones, with activations normalized between layers. Both choices are usually treated ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.12501)
 
@@ -941,7 +941,7 @@ arXiv:2607.12928v1 Announce Type: new Abstract: We study the online binary seque
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.13006v1 Announce Type: new Abstract: A growing family of indices scores how predictable a series is from its spectrum. Practitioners increasingly read these scores as answering a different question: whether \emph{adding context}, a longer lookback, a retrieval plug-in, or a pretrained mod...
+arXiv:2607.13006v2 Announce Type: new Abstract: A growing family of indices scores how predictable a series is from its spectrum. Practitioners increasingly read these scores as answering a different question: whether \emph{adding context}, a longer lookback, a retrieval plug-in, or a pretrained mod...
 
 📖 [Read original article](https://arxiv.org/abs/2607.13006)
 
@@ -1133,7 +1133,7 @@ arXiv:2607.11969v1 Announce Type: cross Abstract: Point-adjustment (PA), long th
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** econ.EM, cs.AI, cs.LG, stat.ML  
 
-arXiv:2607.11983v1 Announce Type: cross Abstract: A specialist tolerates blind spots that a generalist does not. Usually this is treated as a cost to be minimized. We treat it as a design variable: a deficiency can be kept because it pays and removed on demand in the rare situation where it would be...
+arXiv:2607.11983v2 Announce Type: cross Abstract: A specialist tolerates blind spots that a generalist does not. Usually this is treated as a cost to be minimized. We treat it as a design variable: a deficiency can be kept because it pays and removed on demand in the rare situation where it would be...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11983)
 
@@ -1145,7 +1145,7 @@ arXiv:2607.11983v1 Announce Type: cross Abstract: A specialist tolerates blind s
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** quant-ph, cs.ET, cs.LG  
 
-arXiv:2607.11985v1 Announce Type: cross Abstract: Hybrid quantum-classical machine learning workflows repeatedly evaluate many small parametrized circuits during training and model exploration. In this regime, framework dispatch and orchestration overhead often dominate runtime. Prior simulators acc...
+arXiv:2607.11985v2 Announce Type: cross Abstract: Hybrid quantum-classical machine learning workflows repeatedly evaluate many small parametrized circuits during training and model exploration. In this regime, framework dispatch and orchestration overhead often dominate runtime. Prior simulators acc...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11985)
 
@@ -1205,7 +1205,7 @@ arXiv:2607.12042v1 Announce Type: cross Abstract: Visual generation is increasin
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** eess.IV, cs.CV, cs.LG  
 
-arXiv:2607.12054v1 Announce Type: cross Abstract: Breast ultrasound is widely used for screening, yet automated analysis remains challenging due to speckle noise, acquisition variability, and weak separation of benign and malignant cases in standard ultrasound imaging. Graph convolutional networks (...
+arXiv:2607.12054v2 Announce Type: cross Abstract: Breast ultrasound is widely used for screening, yet automated analysis remains challenging due to speckle noise, acquisition variability, and weak separation of benign and malignant cases in standard ultrasound imaging. Graph convolutional networks (...
 
 📖 [Read original article](https://arxiv.org/abs/2607.12054)
 
@@ -1217,7 +1217,7 @@ arXiv:2607.12054v1 Announce Type: cross Abstract: Breast ultrasound is widely us
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2607.12062v1 Announce Type: cross Abstract: Differentiating non-alcoholic steatohepatitis (NASH) from non-alcoholic fatty liver disease (NAFLD) using ultrasound remains challenging due to subtle tissue alterations and the limited information available in conventional B-mode imaging. In this wo...
+arXiv:2607.12062v2 Announce Type: cross Abstract: Differentiating non-alcoholic steatohepatitis (NASH) from non-alcoholic fatty liver disease (NAFLD) using ultrasound remains challenging due to subtle tissue alterations and the limited information available in conventional B-mode imaging. In this wo...
 
 📖 [Read original article](https://arxiv.org/abs/2607.12062)
 
@@ -1501,11 +1501,11 @@ arXiv:2607.12464v1 Announce Type: cross Abstract: When labeled data are scarce, 
 
 ## 125. Mind the Gap: Promises and Pitfalls of Hierarchical Planning in LeWorldModel
 
-**Author:** Niccol\`o Caselli, Salvatore Lo Sardo, Francesco Massafra, Ippokratis Pantelidis, Samuele Punzo, Sathya Kamesh Bhethanabhotla  
+**Author:** Niccol\`o Caselli, Francesco Massafra, Samuele Punzo, Salvatore Lo Sardo, Ippokratis Pantelidis, Sathya Kamesh Bhethanabhotla  
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.LG  
 
-arXiv:2607.12547v1 Announce Type: cross Abstract: We investigate whether temporal hierarchy can improve LeWorldModel on long-horizon goal-conditioned control. We introduce Hi-LeWM, an extension that freezes the pretrained low-level LeWM and adds high-level planning over latent subgoals. We evaluate ...
+arXiv:2607.12547v2 Announce Type: cross Abstract: We investigate whether temporal hierarchy can improve LeWorldModel on long-horizon goal-conditioned control. We introduce Hi-LeWM, an extension that freezes the pretrained low-level LeWM and adds high-level planning over latent subgoals. We evaluate ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.12547)
 
@@ -1553,7 +1553,7 @@ arXiv:2607.12626v1 Announce Type: cross Abstract: Closed-loop wall control learn
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2607.12704v1 Announce Type: cross Abstract: Multi-label classification assigns several co-occurring labels to each aerial scene, yet deployed models often encounter data distributions different from their training. Feature-statistics augmentation such as MixStyle, EFDMix, and correlated style ...
+arXiv:2607.12704v2 Announce Type: cross Abstract: Multi-label classification assigns several co-occurring labels to each aerial scene, yet deployed models often encounter data distributions different from their training. Feature-statistics augmentation such as MixStyle, EFDMix, and correlated style ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.12704)
 
@@ -1877,7 +1877,7 @@ arXiv:2509.24372v3 Announce Type: replace Abstract: Fine-tuning large language m
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2510.11917v2 Announce Type: replace Abstract: Dementia disorders such as Alzheimer's disease (AD) and frontotemporal dementia (FTD) exhibit overlapping electrophysiological signatures in EEG that challenge accurate diagnosis. Existing EEG-based methods are limited by full-band frequency analys...
+arXiv:2510.11917v3 Announce Type: replace Abstract: Dementia disorders such as Alzheimer's disease (AD) and frontotemporal dementia (FTD) exhibit overlapping electrophysiological signatures in EEG that challenge accurate diagnosis. Existing EEG-based methods are limited by full-band frequency analys...
 
 📖 [Read original article](https://arxiv.org/abs/2510.11917)
 
@@ -1973,7 +1973,7 @@ arXiv:2512.17788v2 Announce Type: replace Abstract: Multi-instance partial-label
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2512.23043v2 Announce Type: replace Abstract: Federated Averaging (FedAvg) often degrades under non-IID client data, but it remains unclear whether this degradation reflects the loss of client-learned representations or a failure to use representations that are still present. We study this que...
+arXiv:2512.23043v3 Announce Type: replace Abstract: Federated Averaging (FedAvg) often degrades under non-IID client data, but it remains unclear whether this degradation reflects the loss of client-learned representations or a failure to use representations that are still present. We study this que...
 
 📖 [Read original article](https://arxiv.org/abs/2512.23043)
 
@@ -2129,7 +2129,7 @@ arXiv:2604.04241v2 Announce Type: replace Abstract: Risk scoring systems are wid
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.MA  
 
-arXiv:2604.09523v2 Announce Type: replace Abstract: Training reinforcement-learning agents for cyber defense requires an environment that reflects the operational setting: noisy, partial observations, several defenders coordinating across a network, and an adaptive adversary realized through self-pl...
+arXiv:2604.09523v3 Announce Type: replace Abstract: Training reinforcement-learning agents for cyber defense requires an environment that reflects the operational setting: noisy, partial observations, several defenders coordinating across a network, and an adaptive adversary realized through self-pl...
 
 📖 [Read original article](https://arxiv.org/abs/2604.09523)
 
@@ -2261,7 +2261,7 @@ arXiv:2606.12634v3 Announce Type: replace Abstract: Long-horizon tool-use reinfo
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CC  
 
-arXiv:2606.18918v2 Announce Type: replace Abstract: This paper studies the computational complexity of verification problems for Binarized Neural Networks (BNNs), where activations (and sometimes weights) are binary. We analyze two problems: satisfiability and robustness under uniform image occlusio...
+arXiv:2606.18918v3 Announce Type: replace Abstract: This paper studies the computational complexity of verification problems for Binarized Neural Networks (BNNs), where activations (and sometimes weights) are binary. We analyze two problems: satisfiability and robustness under uniform image occlusio...
 
 📖 [Read original article](https://arxiv.org/abs/2606.18918)
 
@@ -2645,7 +2645,7 @@ arXiv:2603.13356v2 Announce Type: replace-cross Abstract: Robust reinforcement l
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2605.23045v2 Announce Type: replace-cross Abstract: Video representation learning has seen tremendous progress in recent years. This has been driven by many factors, including the scale of training and the success of visual models trained contrastively with language. While these factors have p...
+arXiv:2605.23045v3 Announce Type: replace-cross Abstract: Video representation learning has seen tremendous progress in recent years. This has been driven by many factors, including the scale of training and the success of visual models trained contrastively with language. While these factors have p...
 
 📖 [Read original article](https://arxiv.org/abs/2605.23045)
 
@@ -2765,7 +2765,7 @@ arXiv:2607.10467v2 Announce Type: replace-cross Abstract: Healthcare organizatio
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.LG  
 
-arXiv:2607.10541v2 Announce Type: replace-cross Abstract: Sequential recommender systems typically infer user preferences through single-pass encoding of interaction histories without iterative refinement, relying on increasingly deep architectures to capture complex patterns. In this work, we revis...
+arXiv:2607.10541v3 Announce Type: replace-cross Abstract: Sequential recommender systems typically infer user preferences through single-pass encoding of interaction histories without iterative refinement, relying on increasingly deep architectures to capture complex patterns. In this work, we revis...
 
 📖 [Read original article](https://arxiv.org/abs/2607.10541)
 
@@ -2789,7 +2789,7 @@ arXiv:2607.11020v2 Announce Type: replace-cross Abstract: Continual learning pro
 **Published:** 7/15/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2607.11263v2 Announce Type: replace-cross Abstract: Two competing perspectives on fluid intelligence (gf) measures propose that performance is primarily constrained either by working memory capacity or by the ability to induce novel relations. The first perspective is currently dominant in mea...
+arXiv:2607.11263v3 Announce Type: replace-cross Abstract: Two competing perspectives on fluid intelligence (gf) measures propose that performance is primarily constrained either by working memory capacity or by the ability to induce novel relations. The first perspective is currently dominant in mea...
 
 📖 [Read original article](https://arxiv.org/abs/2607.11263)
 
