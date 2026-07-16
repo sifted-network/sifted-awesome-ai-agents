@@ -2,251 +2,167 @@
 title: "Hacker News AI - 2026-07-15"
 date: "2026-07-15"
 source: "Hacker News AI"
-count: 20
+count: 13
 ---
 
 # Hacker News AI - 2026-07-15
 
-20 items collected.
+13 items collected.
 
 ---
 
-## 1. Show HN: Limits, an on-device iOS app for tracking AI usage limits
+## 1. Linus Torvalds \"Linux is not one of those anti-AI projects\"
 
-**Author:** treexs  
-**Published:** 7/15/2026, 6:53:46 PM  
+**Author:** linolevan  
+**Published:** 7/15/2026, 11:44:01 PM  
 **Categories:** -  
 
-I built Limits because I wanted an easier way to keep track of when my limits would reset. Like say you're outside and just wanna know if your weekly or session limit is back.It’s a meticulously designed, free iOS app that connects to your accounts entirely on-device. No Mac companion app, no tether...
+Article URL: https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/ Comments URL: https://news.ycombinator.com/item?id=48928697 Points: 12 # Comments: 2
 
-📖 [Read original article](https://getlimits.app)
+📖 [Read original article](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/)
 
 ---
 
-## 2. Three governments agree on something the AI industry doesn't want to hear
+## 2. Lhv.ai – Estonian bank AI integration via MCP
 
-**Author:** mikelgan  
-**Published:** 7/15/2026, 6:46:27 PM  
+**Author:** loh  
+**Published:** 7/15/2026, 11:41:29 PM  
 **Categories:** -  
 
-Article URL: https://www.theattachmenteconomy.com/p/three-governments-agree-on-something Comments URL: https://news.ycombinator.com/item?id=48925342 Points: 3 # Comments: 1
+Article URL: https://lhv.ai/ Comments URL: https://news.ycombinator.com/item?id=48928679 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theattachmenteconomy.com/p/three-governments-agree-on-something)
+📖 [Read original article](https://lhv.ai/)
 
 ---
 
-## 3. Show HN: AI Workflow Builder App Template for React
+## 3. Tachyon: An on-screen AI that points, so you learn by doing
 
-**Author:** durman  
-**Published:** 7/15/2026, 6:44:05 PM  
+**Author:** orakulus  
+**Published:** 7/15/2026, 11:24:37 PM  
 **Categories:** -  
 
-Article URL: https://www.jointjs.com/demos/ai-workflow-builder Comments URL: https://news.ycombinator.com/item?id=48925311 Points: 1 # Comments: 1
+Article URL: https://heybraza.com Comments URL: https://news.ycombinator.com/item?id=48928531 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.jointjs.com/demos/ai-workflow-builder)
+📖 [Read original article](https://heybraza.com)
 
 ---
 
-## 4. Archer Announces Zee, AI Foundation Model Purpose-Built for Aviation
+## 4. Too Old for Silicon Valley? Think Again. AI Is Changing the Math
 
-**Author:** vlovich123  
-**Published:** 7/15/2026, 6:34:00 PM  
+**Author:** andsoitis  
+**Published:** 7/15/2026, 11:16:42 PM  
 **Categories:** -  
 
-Article URL: https://www.investors.archer.com/news/news-details/2026/Archer-Announces-Zee-AI-Foundation-Model-Purpose-Built-for-Aviation-a-Key-Pillar-of-Its-Physical-AI-Strategy/default.aspx Comments URL: https://news.ycombinator.com/item?id=48925179 Points: 1 # Comments: 0
+Article URL: https://www.kqed.org/news/12090173/too-old-for-silicon-valley-think-again-ai-is-changing-the-math Comments URL: https://news.ycombinator.com/item?id=48928462 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.investors.archer.com/news/news-details/2026/Archer-Announces-Zee-AI-Foundation-Model-Purpose-Built-for-Aviation-a-Key-Pillar-of-Its-Physical-AI-Strategy/default.aspx)
+📖 [Read original article](https://www.kqed.org/news/12090173/too-old-for-silicon-valley-think-again-ai-is-changing-the-math)
 
 ---
 
-## 5. Ask HN: Are the heaviest AI users of your team blowing past everyone else?
+## 5. Vint Cerf is working on a plan to unleash AI agents on the open internet
 
-**Author:** ex-aws-dude  
-**Published:** 7/15/2026, 6:26:14 PM  
+**Author:** indigodaddy  
+**Published:** 7/15/2026, 11:12:07 PM  
 **Categories:** -  
 
-As AI assisted coding can be pretty divisive some SEs don't use any of the tools and some use them heavily.I'm curious to hear do you notice a difference in performance of team members using the tools vs not?Are the ones using them blowing past the rest of the team in terms of features shipped, bugs...
+Article URL: https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/ Comments URL: https://news.ycombinator.com/item?id=48928419 Points: 5 # Comments: 2
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48925067)
+📖 [Read original article](https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/)
 
 ---
 
-## 6. Show HN: Benchmarklist: track AI benchmarks (2.4k+), models, and capabilities
+## 6. Can AI Do RCA?
 
-**Author:** davidtsong  
-**Published:** 7/15/2026, 6:19:50 PM  
+**Author:** ekiauhce  
+**Published:** 7/15/2026, 11:01:46 PM  
 **Categories:** -  
 
-We’re launching BenchmarkList: one place to track AI benchmarks, models, and capabilities.It’s surprisingly hard to get a complete picture of what AI can and can’t do. Most of the attention goes to a handful of benchmarks focused on coding, math, and reasoning abilities. Meanwhile, researchers, comp...
+Article URL: https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/ Comments URL: https://news.ycombinator.com/item?id=48928324 Points: 5 # Comments: 1
 
-📖 [Read original article](https://benchmarklist.com/)
+📖 [Read original article](https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/)
 
 ---
 
-## 7. IBM Power S1112 Brings Local AI Inference to the Edge as Power Goes Autonomous
+## 7. Will AI Fix Prior Authorization – Or Make It Worse?
 
-**Author:** rbanffy  
-**Published:** 7/15/2026, 5:49:27 PM  
+**Author:** EA-3167  
+**Published:** 7/15/2026, 11:00:59 PM  
 **Categories:** -  
 
-Article URL: https://www.storagereview.com/news/ibm-power-s1112-brings-local-ai-inference-to-the-edge-as-power-goes-autonomous Comments URL: https://news.ycombinator.com/item?id=48924574 Points: 1 # Comments: 0
+Article URL: https://undark.org/2026/07/15/medicare-prior-authorization-ai/ Comments URL: https://news.ycombinator.com/item?id=48928319 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.storagereview.com/news/ibm-power-s1112-brings-local-ai-inference-to-the-edge-as-power-goes-autonomous)
+📖 [Read original article](https://undark.org/2026/07/15/medicare-prior-authorization-ai/)
 
 ---
 
-## 8. Codex Micro – a compact hardware controller for AI agents
+## 8. Eaon (Preview)- Private all in one AI super app
 
-**Author:** tortilla  
-**Published:** 7/15/2026, 5:43:20 PM  
+**Author:** morriszdweck  
+**Published:** 7/15/2026, 10:59:59 PM  
 **Categories:** -  
 
-Article URL: https://worklouder.cc/codex-micro Comments URL: https://news.ycombinator.com/item?id=48924487 Points: 2 # Comments: 1
+Article URL: https://eaon.dev Comments URL: https://news.ycombinator.com/item?id=48928305 Points: 2 # Comments: 1
 
-📖 [Read original article](https://worklouder.cc/codex-micro)
+📖 [Read original article](https://eaon.dev)
 
 ---
 
-## 9. Show HN: Stemning AI
+## 9. I Didn't Sign the \"We Must Act Now [on AI]\" Statement (Yet)
 
-**Author:** theill  
-**Published:** 7/15/2026, 5:40:31 PM  
+**Author:** nozzlegear  
+**Published:** 7/15/2026, 10:35:00 PM  
 **Categories:** -  
 
-See yourself reimagined in every era — from 1950s glamour to Y2K pop culture, with authentic fashion, hairstyles, and photo aesthetics.Free with your own API keys Comments URL: https://news.ycombinator.com/item?id=48924432 Points: 1 # Comments: 0
+Article URL: https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act Comments URL: https://news.ycombinator.com/item?id=48928055 Points: 7 # Comments: 0
 
-📖 [Read original article](https://stemning.ai/packs/historical-portraits)
+📖 [Read original article](https://www.noahpinion.blog/p/why-i-didnt-sign-the-we-must-act)
 
 ---
 
-## 10. Building secure AI agents at scale: Introducing Loom for AWS
+## 10. Autonomous Security – EDR for AI Agents
 
-**Author:** tcp_handshaker  
-**Published:** 7/15/2026, 5:35:41 PM  
+**Author:** boxstream  
+**Published:** 7/15/2026, 10:17:27 PM  
 **Categories:** -  
 
-Article URL: https://aws.amazon.com/blogs/opensource/building-secure-ai-agents-at-scale-introducing-loom-for-aws/ Comments URL: https://news.ycombinator.com/item?id=48924356 Points: 2 # Comments: 0
+Article URL: https://a16y.ai Comments URL: https://news.ycombinator.com/item?id=48927838 Points: 4 # Comments: 0
 
-📖 [Read original article](https://aws.amazon.com/blogs/opensource/building-secure-ai-agents-at-scale-introducing-loom-for-aws/)
+📖 [Read original article](https://a16y.ai)
 
 ---
 
-## 11. Bothread – a local room where AI coding agents collaborate and communicate.
+## 11. Three Years of AI on Steam
 
-**Author:** AdamACE9  
-**Published:** 7/15/2026, 5:33:59 PM  
+**Author:** SLHamlet  
+**Published:** 7/15/2026, 10:03:22 PM  
 **Categories:** -  
 
-Article URL: https://github.com/AdamACE9/bothread Comments URL: https://news.ycombinator.com/item?id=48924335 Points: 1 # Comments: 1
+Article URL: https://fragwyz.substack.com/p/three-years-of-ai-on-steam Comments URL: https://news.ycombinator.com/item?id=48927677 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/AdamACE9/bothread)
+📖 [Read original article](https://fragwyz.substack.com/p/three-years-of-ai-on-steam)
 
 ---
 
-## 12. IBM Vice Chairman: Our software is not being disrupted by AI
+## 12. AI Is Bayesian Evidence That We Live in a Simulation
 
-**Author:** tcp_handshaker  
-**Published:** 7/15/2026, 5:32:38 PM  
+**Author:** jamesbaker1  
+**Published:** 7/15/2026, 9:54:56 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=GnAoKk0i4R8 Comments URL: https://news.ycombinator.com/item?id=48924312 Points: 2 # Comments: 1
+Article URL: https://jamesfbaker.substack.com/p/ai-is-bayesian-evidence-that-we-live Comments URL: https://news.ycombinator.com/item?id=48927573 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=GnAoKk0i4R8)
+📖 [Read original article](https://jamesfbaker.substack.com/p/ai-is-bayesian-evidence-that-we-live)
 
 ---
 
-## 13. Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\"
+## 13. Speculative Growth and the AI \"Bubble\" [pdf]
 
-**Author:** moelf  
-**Published:** 7/15/2026, 5:25:39 PM  
+**Author:** johnbarron  
+**Published:** 7/15/2026, 9:39:21 PM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/news/Linux-Is-Not-Anti-AI Comments URL: https://news.ycombinator.com/item?id=48924227 Points: 7 # Comments: 1
+Article URL: https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf Comments URL: https://news.ycombinator.com/item?id=48927409 Points: 48 # Comments: 57
 
-📖 [Read original article](https://www.phoronix.com/news/Linux-Is-Not-Anti-AI)
-
----
-
-## 14. American AI is expensive. Some startups are turning to cheap Chinese models
-
-**Author:** makerdiety  
-**Published:** 7/15/2026, 5:10:34 PM  
-**Categories:** -  
-
-Article URL: https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models Comments URL: https://news.ycombinator.com/item?id=48923992 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models)
-
----
-
-## 15. Show HN: Painterly – Turn pictures into digital paintings without generative AI
-
-**Author:** flinkerflitzer  
-**Published:** 7/15/2026, 5:01:34 PM  
-**Categories:** -  
-
-Painterly is an application that "paints" input images stroke by stroke to produce digital paintings. GenAI is not used in any part of the production pipeline.There is a free demo available under Releases on the GitHub repo.Let me know what you think! Comments URL: https://news.ycombinator.com/item?...
-
-📖 [Read original article](https://github.com/jbunke/painterly)
-
----
-
-## 16. Query Latency in the Age of AI Agents
-
-**Author:** skadamat  
-**Published:** 7/15/2026, 4:48:25 PM  
-**Categories:** -  
-
-Article URL: https://cube.dev/blog/query-latency-in-the-age-of-ai-agents Comments URL: https://news.ycombinator.com/item?id=48923643 Points: 2 # Comments: 0
-
-📖 [Read original article](https://cube.dev/blog/query-latency-in-the-age-of-ai-agents)
-
----
-
-## 17. Job Hunters Are Using AI to Cheat in Interviews, and Failing at the Office
-
-**Author:** rainhacker  
-**Published:** 7/15/2026, 4:46:36 PM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-07-14/ai-tools-can-help-job-hunters-cheat-on-interviews-and-coding-tests Comments URL: https://news.ycombinator.com/item?id=48923609 Points: 4 # Comments: 2
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-14/ai-tools-can-help-job-hunters-cheat-on-interviews-and-coding-tests)
-
----
-
-## 18. Show HN: Hedy runs its real-time meeting AI on-device (Mac/Windows/iOS)
-
-**Author:** julp  
-**Published:** 7/15/2026, 4:41:06 PM  
-**Categories:** -  
-
-Article URL: https://www.hedy.ai/post/local-ai-meetings-hedy-3-2/ Comments URL: https://news.ycombinator.com/item?id=48923505 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.hedy.ai/post/local-ai-meetings-hedy-3-2/)
-
----
-
-## 19. California colleges spend millions on faulty AI systems'The chatbot is outdated'
-
-**Author:** Jimmc414  
-**Published:** 7/15/2026, 4:38:18 PM  
-**Categories:** -  
-
-Article URL: https://themarkup.org/machine-learning/2026/03/07/california-colleges-spend-millions-on-faulty-ai-systems-the-chatbot-is-outdated Comments URL: https://news.ycombinator.com/item?id=48923459 Points: 2 # Comments: 0
-
-📖 [Read original article](https://themarkup.org/machine-learning/2026/03/07/california-colleges-spend-millions-on-faulty-ai-systems-the-chatbot-is-outdated)
-
----
-
-## 20. When does your AI writing turn into slop?
-
-**Author:** user-  
-**Published:** 7/15/2026, 4:23:20 PM  
-**Categories:** -  
-
-Article URL: https://www.manveerbhullar.com/writing/turing-window/ Comments URL: https://news.ycombinator.com/item?id=48923231 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.manveerbhullar.com/writing/turing-window/)
+📖 [Read original article](https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf)
 
 ---
