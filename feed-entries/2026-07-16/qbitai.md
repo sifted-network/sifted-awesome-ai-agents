@@ -2,16 +2,88 @@
 title: "qbitai - 2026-07-16"
 date: "2026-07-16"
 source: "qbitai"
-count: 3
+count: 9
 ---
 
 # qbitai - 2026-07-16
 
-3 items collected.
+9 items collected.
 
 ---
 
-## 1. 一句「哈哈」引发的苹果OpenAI窃密大战
+## 1. 全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了
+
+**Author:** 鹭羽  
+**Published:** 7/16/2026, 10:51:10 AM  
+**Categories:** 资讯, 首页轮播, 具身智能, 银河通用  
+
+还能让机器人边干边学
+
+📖 [Read original article](https://www.qbitai.com/2026/07/451403.html)
+
+---
+
+## 2. 工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施
+
+**Author:** 量子位的朋友们  
+**Published:** 7/16/2026, 9:29:09 AM  
+**Categories:** 资讯, 友机技术  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/07/451371.html)
+
+---
+
+## 3. RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造
+
+**Author:** 量子位的朋友们  
+**Published:** 7/16/2026, 9:25:17 AM  
+**Categories:** 资讯, RLinf v0.3, 无问芯穹, 清华大学  
+
+为破解具身智能行业发展瓶颈构建了新一代“进化底座”
+
+📖 [Read original article](https://www.qbitai.com/2026/07/451379.html)
+
+---
+
+## 4. 手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了
+
+**Author:** 贾浩楠  
+**Published:** 7/16/2026, 9:13:01 AM  
+**Categories:** 资讯, 文远知行  
+
+Robotaxi第一股文远知行孵化
+
+📖 [Read original article](https://www.qbitai.com/2026/07/451327.html)
+
+---
+
+## 5. 刚刚，逐际动力放出一段Demo，Figure：睡不着啊
+
+**Author:** 田, 晏林  
+**Published:** 7/16/2026, 8:04:18 AM  
+**Categories:** 资讯  
+
+不要赌某个模型能通吃一切。
+
+📖 [Read original article](https://www.qbitai.com/2026/07/451084.html)
+
+---
+
+## 6. 一位失忆患者，揭开了AI记忆的误区
+
+**Author:** 闻乐  
+**Published:** 7/16/2026, 7:34:14 AM  
+**Categories:** 资讯, AI记忆, 神经科学  
+
+记忆能够独立成层
+
+📖 [Read original article](https://www.qbitai.com/2026/07/451049.html)
+
+---
+
+## 7. 一句「哈哈」引发的苹果OpenAI窃密大战
 
 **Author:** 听雨  
 **Published:** 7/16/2026, 4:47:55 AM  
@@ -23,7 +95,7 @@ count: 3
 
 ---
 
-## 2. 从上海到世界：WAICA正以“AI原生”范式重写顶会规则
+## 8. 从上海到世界：WAICA正以“AI原生”范式重写顶会规则
 
 **Author:** 量子位的朋友们  
 **Published:** 7/16/2026, 4:02:31 AM  
@@ -35,7 +107,7 @@ count: 3
 
 ---
 
-## 3. 用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界
+## 9. 用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界
 
 **Author:** 衡宇  
 **Published:** 7/16/2026, 2:30:46 AM  
