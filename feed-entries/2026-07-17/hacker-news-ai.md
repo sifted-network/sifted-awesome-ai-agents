@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Isvisible.ai, check if AI crawlers can access your site
+## 1. Kimi K3 may be an important inflection point for AI
 
-**Author:** alpkorpe  
-**Published:** 7/17/2026, 7:21:17 AM  
+**Author:** jger15  
+**Published:** 7/17/2026, 1:39:23 PM  
 **Categories:** -  
 
-Article URL: https://isvisible.ai Comments URL: https://news.ycombinator.com/item?id=48944283 Points: 1 # Comments: 0
+Article URL: https://twitter.com/GavinSBaker/status/2078110934740980193 Comments URL: https://news.ycombinator.com/item?id=48947280 Points: 1 # Comments: 0
 
-📖 [Read original article](https://isvisible.ai)
+📖 [Read original article](https://twitter.com/GavinSBaker/status/2078110934740980193)
 
 ---
 
-## 2. A few thoughts on building a terminal ePub reader with AI
-
-**Author:** dawdler-purge  
-**Published:** 7/17/2026, 7:17:09 AM  
-**Categories:** -  
-
-Article URL: https://github.com/newptcai/repy Comments URL: https://news.ycombinator.com/item?id=48944259 Points: 3 # Comments: 1
-
-📖 [Read original article](https://github.com/newptcai/repy)
-
----
-
-## 3. Netflix says around 300 titles used generative AI
-
-**Author:** JamesAdir  
-**Published:** 7/17/2026, 7:15:51 AM  
-**Categories:** -  
-
-Article URL: https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings Comments URL: https://news.ycombinator.com/item?id=48944252 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings)
-
----
-
-## 4. Chinese Nvidia alternatives project massive sales as AI chip demand surges
-
-**Author:** departed  
-**Published:** 7/17/2026, 7:02:54 AM  
-**Categories:** -  
-
-Article URL: https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges Comments URL: https://news.ycombinator.com/item?id=48944178 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges)
-
----
-
-## 5. Z.ai Set to Be First China AI Firm with $1B Annual Sales
-
-**Author:** mfiguiere  
-**Published:** 7/17/2026, 6:20:33 AM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales Comments URL: https://news.ycombinator.com/item?id=48943902 Points: 6 # Comments: 0
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales)
-
----
-
-## 6. AI helped me write every game I ever wanted to make
-
-**Author:** jquave  
-**Published:** 7/17/2026, 6:18:52 AM  
-**Categories:** -  
-
-Article URL: https://boompop.games/ Comments URL: https://news.ycombinator.com/item?id=48943891 Points: 3 # Comments: 1
-
-📖 [Read original article](https://boompop.games/)
-
----
-
-## 7. Nvidia has a new AI-RAN plan – a 6G radio unit chip
-
-**Author:** porridgeraisin  
-**Published:** 7/17/2026, 5:58:35 AM  
-**Categories:** -  
-
-Article URL: https://www.lightreading.com/6g/nvidia-has-a-radical-new-ai-ran-plan-a-6g-radio-unit-chip Comments URL: https://news.ycombinator.com/item?id=48943789 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.lightreading.com/6g/nvidia-has-a-radical-new-ai-ran-plan-a-6g-radio-unit-chip)
-
----
-
-## 8. Ask HN: I feel like I've lost my identity due to AI
-
-**Author:** im-not-enjoying  
-**Published:** 7/17/2026, 5:28:54 AM  
-**Categories:** -  
-
-I am a self taught software developer. I was previously an electrical engineer.For the past 10 years I’ve spent almost all my spare time reading and learning and lifting weights - software, electrical engineering, reading, and creating what I thought were novel projects - mostly in the software doma...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48943622)
-
----
-
-## 9. Ask HN: Workflow Automation vs AI Agents?
-
-**Author:** dicksent  
-**Published:** 7/17/2026, 5:28:15 AM  
-**Categories:** -  
-
-A while ago, workflow automation tools (Zapier, Make, n8n) were booming. Now AI agents start eating into that space, OpenAI's Workspace Agents, Lindy, Claude's agentic features, etc.i understand both have tradeoffs, but i'm trying to understand real-world usage:1. why workflow automarion over AI Age...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48943616)
-
----
-
-## 10. Lightport – a maintained fork of Portkey AI gateway
-
-**Author:** punkpeye  
-**Published:** 7/17/2026, 5:09:56 AM  
-**Categories:** -  
-
-Article URL: https://github.com/glama-ai/lightport Comments URL: https://news.ycombinator.com/item?id=48943532 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/glama-ai/lightport)
-
----
-
-## 11. Xi pitches China as leader of new global AI order, challenging US dominance
-
-**Author:** chvid  
-**Published:** 7/17/2026, 5:07:29 AM  
-**Categories:** -  
-
-Article URL: https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/ Comments URL: https://news.ycombinator.com/item?id=48943519 Points: 7 # Comments: 6
-
-📖 [Read original article](https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/)
-
----
-
-## 12. EU forces Google to share search data and open Android to rival AI companies
+## 2. Anthropic Thinks Its Own Success Is Key to Making AI Safe
 
 **Author:** 1vuio0pswjnm7  
-**Published:** 7/17/2026, 5:03:06 AM  
+**Published:** 7/17/2026, 1:35:55 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/eu-google-android-antitrust-184b3067120e56d858cb8c81aee26d45 Comments URL: https://news.ycombinator.com/item?id=48943496 Points: 5 # Comments: 1
+Article URL: https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/ Comments URL: https://news.ycombinator.com/item?id=48947238 Points: 2 # Comments: 0
 
-📖 [Read original article](https://apnews.com/article/eu-google-android-antitrust-184b3067120e56d858cb8c81aee26d45)
+📖 [Read original article](https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/)
 
 ---
 
-## 13. I measured whether AI writes hollower tests than humans. It doesn't
+## 3. Show HN: Hearth, an open-source local AI that runs your PC (files, apps, voice)
 
-**Author:** BenjiFranclin  
-**Published:** 7/17/2026, 4:48:44 AM  
+**Author:** SwagKing  
+**Published:** 7/17/2026, 1:34:04 PM  
 **Categories:** -  
 
-Article URL: https://driivai.github.io/voidguard/ Comments URL: https://news.ycombinator.com/item?id=48943442 Points: 1 # Comments: 0
+Article URL: https://github.com/0pen-Sourcer/Hearth Comments URL: https://news.ycombinator.com/item?id=48947218 Points: 1 # Comments: 0
 
-📖 [Read original article](https://driivai.github.io/voidguard/)
+📖 [Read original article](https://github.com/0pen-Sourcer/Hearth)
 
 ---
 
-## 14. Show HN: Scribe, a CLI that builds AI agent memory from your repos and sessions
+## 4. Some Thoughts on AI and Art
 
-**Author:** quatermain  
-**Published:** 7/17/2026, 4:44:16 AM  
+**Author:** snorbleck  
+**Published:** 7/17/2026, 1:29:33 PM  
 **Categories:** -  
 
-Article URL: https://getscribe.dev/ Comments URL: https://news.ycombinator.com/item?id=48943417 Points: 3 # Comments: 1
+Article URL: https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/ Comments URL: https://news.ycombinator.com/item?id=48947170 Points: 1 # Comments: 0
 
-📖 [Read original article](https://getscribe.dev/)
+📖 [Read original article](https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/)
 
 ---
 
-## 15. Show HN: No AI, just plain old JavaScript and Python RAD
+## 5. A multipurpose, private personal AI on a dedicated AWS instance
 
-**Author:** jampy-v7  
-**Published:** 7/17/2026, 4:42:35 AM  
+**Author:** BuddyPerry  
+**Published:** 7/17/2026, 1:29:18 PM  
 **Categories:** -  
 
-Article URL: https://jam-py-v7.github.io/jam-py-v7/ Comments URL: https://news.ycombinator.com/item?id=48943410 Points: 1 # Comments: 0
+Article URL: https://purposemapped.com Comments URL: https://news.ycombinator.com/item?id=48947166 Points: 1 # Comments: 0
 
-📖 [Read original article](https://jam-py-v7.github.io/jam-py-v7/)
+📖 [Read original article](https://purposemapped.com)
 
 ---
 
-## 16. China Just Dropped Another Bomb on America's Frontier AI Companies
+## 6. The Discoverable Evidence of AI-Assisted Software Porting
 
-**Author:** yogthos  
-**Published:** 7/17/2026, 4:38:23 AM  
+**Author:** williamcotton  
+**Published:** 7/17/2026, 1:08:30 PM  
 **Categories:** -  
 
-Article URL: https://gizmodo.com/china-just-dropped-another-bomb-on-americas-frontier-ai-companies-2000786670 Comments URL: https://news.ycombinator.com/item?id=48943385 Points: 3 # Comments: 0
+Article URL: https://williamcotton.com/articles/the-discoverable-evidence-of-ai-assisted-software-porting Comments URL: https://news.ycombinator.com/item?id=48946977 Points: 1 # Comments: 0
 
-📖 [Read original article](https://gizmodo.com/china-just-dropped-another-bomb-on-americas-frontier-ai-companies-2000786670)
+📖 [Read original article](https://williamcotton.com/articles/the-discoverable-evidence-of-ai-assisted-software-porting)
 
 ---
 
-## 17. AI is changing what we can do. Who we become is still our choice
+## 7. Gen Z is pushing back against AI – a reminder that the future isn't written
 
-**Author:** Caiero  
-**Published:** 7/17/2026, 4:27:35 AM  
+**Author:** Markoff  
+**Published:** 7/17/2026, 1:03:04 PM  
 **Categories:** -  
 
-Article URL: https://humanistreview.ai/issue-1/appiah-ai-moral-character/ Comments URL: https://news.ycombinator.com/item?id=48943333 Points: 1 # Comments: 0
+Article URL: https://www.channelnewsasia.com/commentary/gen-z-pushback-against-ai-6258016 Comments URL: https://news.ycombinator.com/item?id=48946910 Points: 3 # Comments: 0
 
-📖 [Read original article](https://humanistreview.ai/issue-1/appiah-ai-moral-character/)
+📖 [Read original article](https://www.channelnewsasia.com/commentary/gen-z-pushback-against-ai-6258016)
 
 ---
 
-## 18. Icop – open-source local AI NSFW filter for VLC (no cloud, no telemetry)
+## 8. SpaceX Post-Listing Collapse Threatens IPO Market's AI Euphoria
 
-**Author:** asayd18  
-**Published:** 7/17/2026, 4:19:16 AM  
+**Author:** pimienta  
+**Published:** 7/17/2026, 12:58:50 PM  
 **Categories:** -  
 
-Article URL: https://github.com/asayed18/icop Comments URL: https://news.ycombinator.com/item?id=48943291 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria Comments URL: https://news.ycombinator.com/item?id=48946856 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/asayed18/icop)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria)
 
 ---
 
-## 19. Gain trust from AI generated code again with semantics constract
+## 9. Show HN: Unlimited Remove Background and AI Uplscale Image and Pdf Tool Kit
 
-**Author:** bingfeng  
-**Published:** 7/17/2026, 3:59:41 AM  
+**Author:** HSK11  
+**Published:** 7/17/2026, 12:48:47 PM  
 **Categories:** -  
 
-Article URL: https://bfzhao.substack.com/p/beyond-vibe-coding-rebuilding-the Comments URL: https://news.ycombinator.com/item?id=48943208 Points: 1 # Comments: 0
+It's designed to be fast, simple, and affordable without artificial usage limits. We'd love your feedback on the product, pricing, UX, and what features you'd like to see next. Comments URL: https://news.ycombinator.com/item?id=48946761 Points: 2 # Comments: 0
 
-📖 [Read original article](https://bfzhao.substack.com/p/beyond-vibe-coding-rebuilding-the)
+📖 [Read original article](https://pixoate.com/remove-background)
 
 ---
 
-## 20. AI Assistant Needs a Back End. Put It at the Edge
+## 10. VulnHunter: Capital One's agentic AI code security tool
 
-**Author:** sona-coffee11  
-**Published:** 7/17/2026, 3:41:49 AM  
+**Author:** medina  
+**Published:** 7/17/2026, 12:42:12 PM  
 **Categories:** -  
 
-Article URL: https://lowlatencyclub.ai/blog/posts/edge-ai-assistant-backend-go Comments URL: https://news.ycombinator.com/item?id=48943117 Points: 1 # Comments: 0
+Article URL: https://www.capitalone.com/tech/open-source/announcing-vulnhunter/ Comments URL: https://news.ycombinator.com/item?id=48946692 Points: 4 # Comments: 1
 
-📖 [Read original article](https://lowlatencyclub.ai/blog/posts/edge-ai-assistant-backend-go)
+📖 [Read original article](https://www.capitalone.com/tech/open-source/announcing-vulnhunter/)
+
+---
+
+## 11. Ask HN: Is the ngrok AI gateway for real?
+
+**Author:** tybnty  
+**Published:** 7/17/2026, 12:36:48 PM  
+**Categories:** -  
+
+What are your thoughts on the ngrok AI gateway?I just found out about it and the first impression I got was this is basically a LiteLLM wrapper, a gateway/translation layer for OpenAI requests and a dashboard.Is this an oversimplification of what that product is or not really?To me, it feels like th...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=48946631)
+
+---
+
+## 12. The AI may have a spot in it's Jacobian representing YOU
+
+**Author:** tristenharr  
+**Published:** 7/17/2026, 12:28:31 PM  
+**Categories:** -  
+
+Article URL: https://author2vec.com/jlens Comments URL: https://news.ycombinator.com/item?id=48946554 Points: 1 # Comments: 0
+
+📖 [Read original article](https://author2vec.com/jlens)
+
+---
+
+## 13. AI in scientific publishing: Slower, worse, and more expensive
+
+**Author:** anujbans  
+**Published:** 7/17/2026, 12:15:38 PM  
+**Categories:** -  
+
+Article URL: https://www.science.org/doi/10.1126/science.aek5570 Comments URL: https://news.ycombinator.com/item?id=48946436 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.science.org/doi/10.1126/science.aek5570)
+
+---
+
+## 14. Browser automation CLI built for AI agents
+
+**Author:** aanthonymax  
+**Published:** 7/17/2026, 12:14:02 PM  
+**Categories:** -  
+
+Article URL: https://github.com/browser-act/skills Comments URL: https://news.ycombinator.com/item?id=48946421 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/browser-act/skills)
+
+---
+
+## 15. AI isn't destroying entry-level jobs
+
+**Author:** merksittich  
+**Published:** 7/17/2026, 12:12:15 PM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a Comments URL: https://news.ycombinator.com/item?id=48946409 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a)
+
+---
+
+## 16. How vibe coding a game made me design an AI agent protocol
+
+**Author:** carlid  
+**Published:** 7/17/2026, 12:02:40 PM  
+**Categories:** -  
+
+Article URL: https://blog.carlid.dev/game-vibe-coding-to-protocol-design Comments URL: https://news.ycombinator.com/item?id=48946304 Points: 1 # Comments: 0
+
+📖 [Read original article](https://blog.carlid.dev/game-vibe-coding-to-protocol-design)
+
+---
+
+## 17. Proposal for universal AI ethics standard against country censorship
+
+**Author:** omrajguru  
+**Published:** 7/17/2026, 11:53:05 AM  
+**Categories:** -  
+
+Article URL: https://www.omrajguru.com/writings/aistandard Comments URL: https://news.ycombinator.com/item?id=48946213 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.omrajguru.com/writings/aistandard)
+
+---
+
+## 18. 50 vs. 60 Hz and Alzheimer's Disease, an AI Exploration
+
+**Author:** mankins  
+**Published:** 7/17/2026, 11:40:03 AM  
+**Categories:** -  
+
+Article URL: https://github.com/mankins/50Hz-vs-60Hz-Alzheimers Comments URL: https://news.ycombinator.com/item?id=48946091 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/mankins/50Hz-vs-60Hz-Alzheimers)
+
+---
+
+## 19. Should AI usage be explicitly disclosed in movies and TV shows?
+
+**Author:** 50kIters  
+**Published:** 7/17/2026, 11:39:10 AM  
+**Categories:** -  
+
+Article URL: https://www.unite.ai/should-ai-usage-be-explicitly-disclosed-in-movies-and-tv-shows/ Comments URL: https://news.ycombinator.com/item?id=48946083 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.unite.ai/should-ai-usage-be-explicitly-disclosed-in-movies-and-tv-shows/)
+
+---
+
+## 20. Why AI Infrastructure Is Becoming More Important Than AI Models
+
+**Author:** maria46  
+**Published:** 7/17/2026, 11:32:40 AM  
+**Categories:** -  
+
+Article URL: https://geekyants.com/blog/self-healing-ai-agents-the-future-of-enterprise-automation-needs-governance-observability-and-product-engineering Comments URL: https://news.ycombinator.com/item?id=48946023 Points: 2 # Comments: 0
+
+📖 [Read original article](https://geekyants.com/blog/self-healing-ai-agents-the-future-of-enterprise-automation-needs-governance-observability-and-product-engineering)
 
 ---
