@@ -783,7 +783,7 @@ arXiv:2607.13880v1 Announce Type: new Abstract: In underwater covert cooperative
 
 **Author:** Runze Gan, Qing Li, Simon J. Godsill, Mike E. Davies, James R. Hopgood  
 **Published:** 7/16/2026, 4:00:00 AM  
-**Categories:** cs.LG, cs.CV, eess.SP  
+**Categories:** cs.LG, cs.CV, eess.SP, stat.ML  
 
 arXiv:2607.13891v1 Announce Type: new Abstract: Multi-object detection and tracking from noisy point clouds remain challenging in many data-scarce radar applications. Current Bayesian trackers based on Poisson measurement models offer a training-free solution but struggle to achieve accuracy and eff...
 
@@ -1661,7 +1661,7 @@ arXiv:2607.14004v1 Announce Type: cross Abstract: Most reported gains from agent
 **Published:** 7/16/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.CY, cs.LG  
 
-arXiv:2607.14037v1 Announce Type: cross Abstract: Agentic coding tools are increasingly capable of generating and submitting pull requests (PRs) to software projects, introducing new forms of human-agent collaboration in software development. While prior studies have examined PR-level outcomes of ag...
+arXiv:2607.14037v2 Announce Type: cross Abstract: Agentic coding tools are increasingly capable of generating and submitting pull requests (PRs) to software projects, introducing new forms of human-agent collaboration in software development. While prior studies have examined PR-level outcomes of ag...
 
 📖 [Read original article](https://arxiv.org/abs/2607.14037)
 
@@ -2045,7 +2045,7 @@ arXiv:2606.14999v2 Announce Type: replace Abstract: Scientific user facilities g
 **Published:** 7/16/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CC  
 
-arXiv:2606.18918v3 Announce Type: replace Abstract: This paper studies the computational complexity of verification problems for Binarized Neural Networks (BNNs), where activations (and sometimes weights) are binary. We analyze two problems: satisfiability and robustness under uniform image occlusio...
+arXiv:2606.18918v4 Announce Type: replace Abstract: This paper investigates the computational complexity of verification problems for Binarized Neural Networks (BNNs), in which activations and weights are binary. Specifically, we study three verification problems. First, we prove that checking the s...
 
 📖 [Read original article](https://arxiv.org/abs/2606.18918)
 
