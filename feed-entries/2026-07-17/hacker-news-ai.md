@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Kimi K3 may be an important inflection point for AI
+## 1. Meta accused of using AI to pick employees with medical conditions for layoffs
 
-**Author:** jger15  
-**Published:** 7/17/2026, 1:39:23 PM  
+**Author:** speckx  
+**Published:** 7/17/2026, 6:57:31 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/GavinSBaker/status/2078110934740980193 Comments URL: https://news.ycombinator.com/item?id=48947280 Points: 1 # Comments: 0
+Article URL: https://www.latimes.com/business/story/2026-07-16/meta-accused-of-using-ai-to-pick-employees-with-medical-conditions-for-layoffs Comments URL: https://news.ycombinator.com/item?id=48950986 Points: 2 # Comments: 1
 
-📖 [Read original article](https://twitter.com/GavinSBaker/status/2078110934740980193)
+📖 [Read original article](https://www.latimes.com/business/story/2026-07-16/meta-accused-of-using-ai-to-pick-employees-with-medical-conditions-for-layoffs)
 
 ---
 
-## 2. Anthropic Thinks Its Own Success Is Key to Making AI Safe
+## 2. Show HN: Feral – an AI agent that creates content to promote your stuff
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/17/2026, 1:35:55 PM  
+**Author:** creature_x  
+**Published:** 7/17/2026, 6:35:12 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/ Comments URL: https://news.ycombinator.com/item?id=48947238 Points: 2 # Comments: 0
+I built roughly 10 apps over the past year. Building them was the fun part; consistently marketing them was where my energy disappeared. I also couldn’t justify hiring an agency for every small project. I tried using ChatGPT and Claude, but getting one good result was very different from getting con...
 
-📖 [Read original article](https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48950737)
 
 ---
 
-## 3. Show HN: Hearth, an open-source local AI that runs your PC (files, apps, voice)
+## 3. Show HN: An AI agent that creates text posts and image ads for your business
 
-**Author:** SwagKing  
-**Published:** 7/17/2026, 1:34:04 PM  
+**Author:** creature_x  
+**Published:** 7/17/2026, 6:27:55 PM  
 **Categories:** -  
 
-Article URL: https://github.com/0pen-Sourcer/Hearth Comments URL: https://news.ycombinator.com/item?id=48947218 Points: 1 # Comments: 0
+Article URL: https://feralhq.com/ Comments URL: https://news.ycombinator.com/item?id=48950609 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/0pen-Sourcer/Hearth)
+📖 [Read original article](https://feralhq.com/)
 
 ---
 
-## 4. Some Thoughts on AI and Art
+## 4. 1999.ai: AI and dot-com déjà vu
 
-**Author:** snorbleck  
-**Published:** 7/17/2026, 1:29:33 PM  
+**Author:** sgloutnikov  
+**Published:** 7/17/2026, 6:11:23 PM  
 **Categories:** -  
 
-Article URL: https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/ Comments URL: https://news.ycombinator.com/item?id=48947170 Points: 1 # Comments: 0
+Article URL: https://www.profgmedia.com/p/1999ai Comments URL: https://news.ycombinator.com/item?id=48950402 Points: 2 # Comments: 0
 
-📖 [Read original article](https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/)
+📖 [Read original article](https://www.profgmedia.com/p/1999ai)
 
 ---
 
-## 5. A multipurpose, private personal AI on a dedicated AWS instance
+## 5. Show HN: AI Crypto Investigations/Research Agents
 
-**Author:** BuddyPerry  
-**Published:** 7/17/2026, 1:29:18 PM  
+**Author:** loopedcircuits  
+**Published:** 7/17/2026, 6:06:44 PM  
 **Categories:** -  
 
-Article URL: https://purposemapped.com Comments URL: https://news.ycombinator.com/item?id=48947166 Points: 1 # Comments: 0
+Article URL: https://chat.blockscope.co/ Comments URL: https://news.ycombinator.com/item?id=48950339 Points: 1 # Comments: 0
 
-📖 [Read original article](https://purposemapped.com)
+📖 [Read original article](https://chat.blockscope.co/)
 
 ---
 
-## 6. The Discoverable Evidence of AI-Assisted Software Porting
+## 6. Chai Discovery nabs $400M Series C as AI-designed antibodies reach Big Pharma
 
-**Author:** williamcotton  
-**Published:** 7/17/2026, 1:08:30 PM  
+**Author:** bookofjoe  
+**Published:** 7/17/2026, 5:57:56 PM  
 **Categories:** -  
 
-Article URL: https://williamcotton.com/articles/the-discoverable-evidence-of-ai-assisted-software-porting Comments URL: https://news.ycombinator.com/item?id=48946977 Points: 1 # Comments: 0
+Article URL: https://siliconangle.com/2026/07/14/chai-discovery-nabs-400m-series-c-ai-designed-antibodies-reach-big-pharma/ Comments URL: https://news.ycombinator.com/item?id=48950258 Points: 1 # Comments: 0
 
-📖 [Read original article](https://williamcotton.com/articles/the-discoverable-evidence-of-ai-assisted-software-porting)
+📖 [Read original article](https://siliconangle.com/2026/07/14/chai-discovery-nabs-400m-series-c-ai-designed-antibodies-reach-big-pharma/)
 
 ---
 
-## 7. Gen Z is pushing back against AI – a reminder that the future isn't written
+## 7. Show HN: The AI Lethal Trifecta
 
-**Author:** Markoff  
-**Published:** 7/17/2026, 1:03:04 PM  
+**Author:** Getchowned  
+**Published:** 7/17/2026, 5:55:36 PM  
 **Categories:** -  
 
-Article URL: https://www.channelnewsasia.com/commentary/gen-z-pushback-against-ai-6258016 Comments URL: https://news.ycombinator.com/item?id=48946910 Points: 3 # Comments: 0
+If you're building agents, this is worth knowing.Simon Willison (who coined the term "prompt injection") describes three capabilities that are individually fine but devastating together, the lethal trifecta includes:1. Access to private data (such as internal databases, emails, etc.)2. Exposure to u...
 
-📖 [Read original article](https://www.channelnewsasia.com/commentary/gen-z-pushback-against-ai-6258016)
+📖 [Read original article](https://www.getjailbroken.com/)
 
 ---
 
-## 8. SpaceX Post-Listing Collapse Threatens IPO Market's AI Euphoria
+## 8. AI scans your expenses and shows you where to save
 
-**Author:** pimienta  
-**Published:** 7/17/2026, 12:58:50 PM  
+**Author:** sunhp  
+**Published:** 7/17/2026, 5:32:37 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria Comments URL: https://news.ycombinator.com/item?id=48946856 Points: 2 # Comments: 0
+Article URL: https://scanticket.io/en Comments URL: https://news.ycombinator.com/item?id=48949988 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria)
+📖 [Read original article](https://scanticket.io/en)
 
 ---
 
-## 9. Show HN: Unlimited Remove Background and AI Uplscale Image and Pdf Tool Kit
+## 9. How are you giving AI agents access to postgress?
 
-**Author:** HSK11  
-**Published:** 7/17/2026, 12:48:47 PM  
+**Author:** Eapz_06  
+**Published:** 7/17/2026, 5:29:33 PM  
 **Categories:** -  
 
-It's designed to be fast, simple, and affordable without artificial usage limits. We'd love your feedback on the product, pricing, UX, and what features you'd like to see next. Comments URL: https://news.ycombinator.com/item?id=48946761 Points: 2 # Comments: 0
+I mean we can either let llm generate sql but that's risky right or should we do defined operations?I mean for both reads and write.But whether it's llm generate or we define we have to do the manual work of writing determistic guards right... Comments URL: https://news.ycombinator.com/item?id=48949...
 
-📖 [Read original article](https://pixoate.com/remove-background)
+📖 [Read original article](https://news.ycombinator.com/item?id=48949955)
 
 ---
 
-## 10. VulnHunter: Capital One's agentic AI code security tool
+## 10. The Truth About AI's Water Use
 
-**Author:** medina  
-**Published:** 7/17/2026, 12:42:12 PM  
+**Author:** lantry  
+**Published:** 7/17/2026, 5:19:07 PM  
 **Categories:** -  
 
-Article URL: https://www.capitalone.com/tech/open-source/announcing-vulnhunter/ Comments URL: https://news.ycombinator.com/item?id=48946692 Points: 4 # Comments: 1
+Article URL: https://www.theatlantic.com/technology/2026/07/how-much-water-data-centers-use/687934/ Comments URL: https://news.ycombinator.com/item?id=48949807 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.capitalone.com/tech/open-source/announcing-vulnhunter/)
+📖 [Read original article](https://www.theatlantic.com/technology/2026/07/how-much-water-data-centers-use/687934/)
 
 ---
 
-## 11. Ask HN: Is the ngrok AI gateway for real?
+## 11. Patreon stops asking AI bots not to scrape and starts blocking them
 
-**Author:** tybnty  
-**Published:** 7/17/2026, 12:36:48 PM  
+**Author:** ZeidJ  
+**Published:** 7/17/2026, 5:19:00 PM  
 **Categories:** -  
 
-What are your thoughts on the ngrok AI gateway?I just found out about it and the first impression I got was this is basically a LiteLLM wrapper, a gateway/translation layer for OpenAI requests and a dashboard.Is this an oversimplification of what that product is or not really?To me, it feels like th...
+Article URL: https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/ Comments URL: https://news.ycombinator.com/item?id=48949806 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48946631)
+📖 [Read original article](https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/)
 
 ---
 
-## 12. The AI may have a spot in it's Jacobian representing YOU
+## 12. The Download: perimenopause misinformation and China's latest AI leap
 
-**Author:** tristenharr  
-**Published:** 7/17/2026, 12:28:31 PM  
+**Author:** joozio  
+**Published:** 7/17/2026, 5:02:15 PM  
 **Categories:** -  
 
-Article URL: https://author2vec.com/jlens Comments URL: https://news.ycombinator.com/item?id=48946554 Points: 1 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/ Comments URL: https://news.ycombinator.com/item?id=48949607 Points: 1 # Comments: 0
 
-📖 [Read original article](https://author2vec.com/jlens)
+📖 [Read original article](https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/)
 
 ---
 
-## 13. AI in scientific publishing: Slower, worse, and more expensive
+## 13. What is the most beneficial way AI has impacted your daily life?
 
-**Author:** anujbans  
-**Published:** 7/17/2026, 12:15:38 PM  
+**Author:** Mdarwish2005  
+**Published:** 7/17/2026, 4:49:18 PM  
 **Categories:** -  
 
-Article URL: https://www.science.org/doi/10.1126/science.aek5570 Comments URL: https://news.ycombinator.com/item?id=48946436 Points: 1 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=48949452 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.science.org/doi/10.1126/science.aek5570)
+📖 [Read original article](https://news.ycombinator.com/item?id=48949452)
 
 ---
 
-## 14. Browser automation CLI built for AI agents
+## 14. Patreon CEO: Why I'm (sort of) not worried about AI [video]
 
-**Author:** aanthonymax  
-**Published:** 7/17/2026, 12:14:02 PM  
+**Author:** calcifer  
+**Published:** 7/17/2026, 4:38:05 PM  
 **Categories:** -  
 
-Article URL: https://github.com/browser-act/skills Comments URL: https://news.ycombinator.com/item?id=48946421 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=17_HcR95YBc Comments URL: https://news.ycombinator.com/item?id=48949332 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/browser-act/skills)
+📖 [Read original article](https://www.youtube.com/watch?v=17_HcR95YBc)
 
 ---
 
-## 15. AI isn't destroying entry-level jobs
+## 15. Perplexity Unveils Space, a Secure Sandbox Platform for AI Agents
 
-**Author:** merksittich  
-**Published:** 7/17/2026, 12:12:15 PM  
+**Author:** CrankyBear  
+**Published:** 7/17/2026, 4:34:04 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a Comments URL: https://news.ycombinator.com/item?id=48946409 Points: 1 # Comments: 0
+Article URL: https://techstrong.ai/articles/perplexity-unveils-space-a-secure-sandbox-platform-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48949297 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a)
+📖 [Read original article](https://techstrong.ai/articles/perplexity-unveils-space-a-secure-sandbox-platform-for-ai-agents/)
 
 ---
 
-## 16. How vibe coding a game made me design an AI agent protocol
+## 16. CIA director gives chilling account of AI's battlefield lethality
 
-**Author:** carlid  
-**Published:** 7/17/2026, 12:02:40 PM  
+**Author:** leopoldj  
+**Published:** 7/17/2026, 4:28:54 PM  
 **Categories:** -  
 
-Article URL: https://blog.carlid.dev/game-vibe-coding-to-protocol-design Comments URL: https://news.ycombinator.com/item?id=48946304 Points: 1 # Comments: 0
+Article URL: https://www.pennlive.com/business/2026/07/cia-director-gives-chilling-account-of-ais-battlefield-lethality-low-cost-killing-machines.html Comments URL: https://news.ycombinator.com/item?id=48949228 Points: 2 # Comments: 2
 
-📖 [Read original article](https://blog.carlid.dev/game-vibe-coding-to-protocol-design)
+📖 [Read original article](https://www.pennlive.com/business/2026/07/cia-director-gives-chilling-account-of-ais-battlefield-lethality-low-cost-killing-machines.html)
 
 ---
 
-## 17. Proposal for universal AI ethics standard against country censorship
+## 17. Shared Memory vs. Isolated Memory for AI Agents
 
-**Author:** omrajguru  
-**Published:** 7/17/2026, 11:53:05 AM  
+**Author:** atharvmunde  
+**Published:** 7/17/2026, 4:20:33 PM  
 **Categories:** -  
 
-Article URL: https://www.omrajguru.com/writings/aistandard Comments URL: https://news.ycombinator.com/item?id=48946213 Points: 1 # Comments: 0
+Article URL: https://wolbarg.com/blog/shared-memory-vs-isolated-memory Comments URL: https://news.ycombinator.com/item?id=48949146 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.omrajguru.com/writings/aistandard)
+📖 [Read original article](https://wolbarg.com/blog/shared-memory-vs-isolated-memory)
 
 ---
 
-## 18. 50 vs. 60 Hz and Alzheimer's Disease, an AI Exploration
+## 18. Show HN: I built CraftVis, an AI image editor
 
-**Author:** mankins  
-**Published:** 7/17/2026, 11:40:03 AM  
+**Author:** Samlion  
+**Published:** 7/17/2026, 4:19:53 PM  
 **Categories:** -  
 
-Article URL: https://github.com/mankins/50Hz-vs-60Hz-Alzheimers Comments URL: https://news.ycombinator.com/item?id=48946091 Points: 1 # Comments: 0
+Article URL: https://craftvis.com Comments URL: https://news.ycombinator.com/item?id=48949140 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/mankins/50Hz-vs-60Hz-Alzheimers)
+📖 [Read original article](https://craftvis.com)
 
 ---
 
-## 19. Should AI usage be explicitly disclosed in movies and TV shows?
+## 19. [opensource] Run AI Agents from Jira, Linear, GitHub Issues, or Markdown
 
-**Author:** 50kIters  
-**Published:** 7/17/2026, 11:39:10 AM  
+**Author:** alexberlinde  
+**Published:** 7/17/2026, 4:17:41 PM  
 **Categories:** -  
 
-Article URL: https://www.unite.ai/should-ai-usage-be-explicitly-disclosed-in-movies-and-tv-shows/ Comments URL: https://news.ycombinator.com/item?id=48946083 Points: 2 # Comments: 1
+Article URL: https://github.com/alexrolls/startup-factory Comments URL: https://news.ycombinator.com/item?id=48949104 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.unite.ai/should-ai-usage-be-explicitly-disclosed-in-movies-and-tv-shows/)
+📖 [Read original article](https://github.com/alexrolls/startup-factory)
 
 ---
 
-## 20. Why AI Infrastructure Is Becoming More Important Than AI Models
+## 20. A Slower AI Payoff Would Be Everyone's Problem
 
-**Author:** maria46  
-**Published:** 7/17/2026, 11:32:40 AM  
+**Author:** simonebrunozzi  
+**Published:** 7/17/2026, 4:16:38 PM  
 **Categories:** -  
 
-Article URL: https://geekyants.com/blog/self-healing-ai-agents-the-future-of-enterprise-automation-needs-governance-observability-and-product-engineering Comments URL: https://news.ycombinator.com/item?id=48946023 Points: 2 # Comments: 0
+Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/a-slower-ai-payoff-would-be-everyones-problem Comments URL: https://news.ycombinator.com/item?id=48949086 Points: 1 # Comments: 0
 
-📖 [Read original article](https://geekyants.com/blog/self-healing-ai-agents-the-future-of-enterprise-automation-needs-governance-observability-and-product-engineering)
+📖 [Read original article](https://www.apollo.com/wealth/insights-news/insights/daily-spark/a-slower-ai-payoff-would-be-everyones-problem)
 
 ---
