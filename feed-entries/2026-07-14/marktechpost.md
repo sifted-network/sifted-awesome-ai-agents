@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-07-14"
 date: "2026-07-14"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-07-14
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ PrismML just released Bonsai 27B. It is a low-bit representation of Qwen3.6-27B,
 See how Vibe, Claude Code, Cursor, and Codex compare on cost, open weights, self-hosting, and async agent surfaces. The post Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task appeared first on MarkTechPost.
 
 📖 [Read original article](https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/)
-
----
-
-## 3. OpenCoreDev Releases Domain SDK 0.2.0: One TypeScript API to Add, Verify, and Remove Customer Domains Across Five Platforms
-
-**Author:** Michal Sutter  
-**Published:** 7/14/2026, 8:16:51 PM  
-**Categories:** Editors Pick, New Releases, Software Engineering, Staff  
-
-OpenCoreDev has published Domain SDK 0.2.0, a TypeScript client for the custom domain lifecycle. It covers Vercel, Cloudflare for SaaS, Railway, Render, and Netlify behind one API. Status is modeled as an eight-value union, with separate verification and certificate fields. The post OpenCoreDev Rele...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/14/opencoredev-releases-domain-sdk-0-2-0-one-typescript-api-to-add-verify-and-remove-customer-domains-across-five-platforms/)
 
 ---
