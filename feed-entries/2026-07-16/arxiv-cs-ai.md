@@ -125,7 +125,7 @@ arXiv:2607.13219v1 Announce Type: new Abstract: We present cayleyR, an R package
 **Published:** 7/16/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CE, cs.HC  
 
-arXiv:2607.13220v1 Announce Type: new Abstract: Most AI-for-science systems focus on scaling a single reasoning process through better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging scientific problems ar...
+arXiv:2607.13220v2 Announce Type: new Abstract: Most AI-for-science systems focus on scaling a single reasoning process by using better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging scientific problems a...
 
 📖 [Read original article](https://arxiv.org/abs/2607.13220)
 
@@ -203,13 +203,13 @@ arXiv:2607.13396v1 Announce Type: new Abstract: What happens to an LLM agent's t
 
 ---
 
-## 17. LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning
+## 17. LOTAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning
 
-**Author:** Qiang Zhu, Jiajun Wu  
+**Author:** Qiang Zhu, Jiajun Wu, Longyi Wang  
 **Published:** 7/16/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.13501v1 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and harmful intermediate interactions. We propose LAPO, a self-generated process-supervision method based o...
+arXiv:2607.13501v2 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and harmful intermediate interactions. We propose LOTAPO , a self-generated process-supervision method base...
 
 📖 [Read original article](https://arxiv.org/abs/2607.13501)
 
@@ -325,11 +325,11 @@ arXiv:2607.13679v1 Announce Type: new Abstract: AI agents are joining human team
 
 ## 27. AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities
 
-**Author:** Zichen Ding, Jiaye Ge, Shufan Jiang, Kai Chen, Mo Li, Qingqiu Li, Zehao Li, Zonglin Li, Tiaohao Liang, Shudong Liu, Zerun Ma, Zixing Shang, Wenhui Tian, Zun Wang, Liwei Wu, Zhenyu Wu, Jun Xu, Bowen Yang, Dingbo Yuan, Qi Zhang, Songyang Zhang, Peiheng Zhou, Dongsheng Zhu  
+**Author:** Kai Chen, Zichen Ding, Jiaye Ge, Shufan Jiang, Mo Li, Qingqiu Li, Zehao Li, Zonglin Li, Tiaohao Liang, Shudong Liu, Zerun Ma, Zixing Shang, Wenhui Tian, Zun Wang, Liwei Wu, Zhenyu Wu, Jun Xu, Bowen Yang, Dingbo Yuan, Qi Zhang, Songyang Zhang, Peiheng Zhou, Dongsheng Zhu  
 **Published:** 7/16/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.SE  
 
-arXiv:2607.13705v1 Announce Type: new Abstract: As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing re...
+arXiv:2607.13705v2 Announce Type: new Abstract: As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing re...
 
 📖 [Read original article](https://arxiv.org/abs/2607.13705)
 
@@ -853,11 +853,11 @@ arXiv:2607.13160v1 Announce Type: cross Abstract: Active beyond-diagonal reconfi
 
 ## 71. What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors
 
-**Author:** Winston Zeng, Ali Emami, Jinho Choi  
+**Author:** Winston Zeng, Ali Emami, Jinho D. Choi  
 **Published:** 7/16/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2607.13162v1 Announce Type: cross Abstract: What a language model will and will not do is largely set during post-training, but which behaviors it expresses, hides, or resists is not revealed by prompting alone. Persona vectors, behavioral directions in activation space, can probe this organiz...
+arXiv:2607.13162v2 Announce Type: cross Abstract: What a language model will and will not do is largely set during post-training, but which behaviors it expresses, hides, or resists is not revealed by prompting alone. Persona vectors, behavioral directions in activation space, can probe this organiz...
 
 📖 [Read original article](https://arxiv.org/abs/2607.13162)
 
@@ -1145,7 +1145,7 @@ arXiv:2607.13413v1 Announce Type: cross Abstract: This study presents an empiric
 **Published:** 7/16/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI  
 
-arXiv:2607.13418v1 Announce Type: cross Abstract: Recommender systems operate as Black-Boxes, leaving users and regulators unable to steer their outputs toward specific intentions or audit their behavior. This lack of controllability, defined as the system's ability to respond to explicit guidance, ...
+arXiv:2607.13418v2 Announce Type: cross Abstract: Recommender systems operate as Black-Boxes, leaving users and regulators unable to steer their outputs toward specific intentions or audit their behavior. This lack of controllability, defined as the system's ability to respond to explicit guidance, ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.13418)
 
@@ -1757,7 +1757,7 @@ arXiv:2607.14024v1 Announce Type: cross Abstract: With rising global energy dema
 **Published:** 7/16/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.CY, cs.LG  
 
-arXiv:2607.14037v1 Announce Type: cross Abstract: Agentic coding tools are increasingly capable of generating and submitting pull requests (PRs) to software projects, introducing new forms of human-agent collaboration in software development. While prior studies have examined PR-level outcomes of ag...
+arXiv:2607.14037v2 Announce Type: cross Abstract: Agentic coding tools are increasingly capable of generating and submitting pull requests (PRs) to software projects, introducing new forms of human-agent collaboration in software development. While prior studies have examined PR-level outcomes of ag...
 
 📖 [Read original article](https://arxiv.org/abs/2607.14037)
 
@@ -1921,11 +1921,11 @@ arXiv:2607.07836v3 Announce Type: replace Abstract: We present Infinity-Parser2,
 
 ## 160. MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation
 
-**Author:** Runhan Shi, Quan Zhou, Yuqian Xu, Shuai Yang, Xin Wu, Zitong Zhou, Hui Liu, Bin Zha, Zheming Wang, Liya Li, Wei Wei, Haoyuan Hu, Jun Xu  
+**Author:** Runhan Shi, Quan Zhou, Yuqian Xu, Shuai Yang, Xin Wu, Zitong Zhou, Hui Liu, Bin Zha, Zheming Wang, Liya Li, Wei Wei, Jinru Ding, Wenrao Pang, Mouxiao Bian, Haoyuan Hu, Jun Xu, Jie Xu  
 **Published:** 7/16/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.CV  
 
-arXiv:2607.09142v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly deployed in online medical consultation, yet existing benchmarks remain poorly aligned with real clinical practice. Many rely on synthetic conversations or patient simulators, omit patient-uploaded medi...
+arXiv:2607.09142v3 Announce Type: replace Abstract: Large language models (LLMs) are increasingly deployed in online medical consultation, yet existing benchmarks remain poorly aligned with real clinical practice. Many rely on synthetic conversations or patient simulators, omit patient-uploaded medi...
 
 📖 [Read original article](https://arxiv.org/abs/2607.09142)
 
