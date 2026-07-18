@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI Mania Is Eviscerating Global Decisionmaking
+## 1. AI-Assisted Technical Writing: When to Stop
 
-**Author:** olalonde  
-**Published:** 7/18/2026, 7:21:13 AM  
+**Author:** ae1020  
+**Published:** 7/18/2026, 1:01:39 PM  
 **Categories:** -  
 
-Article URL: https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking Comments URL: https://news.ycombinator.com/item?id=48955929 Points: 1 # Comments: 0
+Article URL: https://ae1020.github.io/ai-writing-when-to-stop/ Comments URL: https://news.ycombinator.com/item?id=48957782 Points: 1 # Comments: 1
 
-📖 [Read original article](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
+📖 [Read original article](https://ae1020.github.io/ai-writing-when-to-stop/)
 
 ---
 
-## 2. Agentic AI Is Taking over Execution, Not Just Content Generation
+## 2. Bound – A deterministic control harness for AI agents
 
-**Author:** thenewedrock  
-**Published:** 7/18/2026, 6:47:36 AM  
+**Author:** joopie-boy  
+**Published:** 7/18/2026, 12:59:02 PM  
 **Categories:** -  
 
-Article URL: https://themarketingnewsletter.org/p/45-agentic-ai-is-taking-over-execution Comments URL: https://news.ycombinator.com/item?id=48955798 Points: 1 # Comments: 2
+Article URL: https://github.com/Danny-de-bree/bound Comments URL: https://news.ycombinator.com/item?id=48957765 Points: 2 # Comments: 1
 
-📖 [Read original article](https://themarketingnewsletter.org/p/45-agentic-ai-is-taking-over-execution)
+📖 [Read original article](https://github.com/Danny-de-bree/bound)
 
 ---
 
-## 3. AI and Creativity
-
-**Author:** sunnyam  
-**Published:** 7/18/2026, 6:37:17 AM  
-**Categories:** -  
-
-Article URL: https://sunnyamrat.com/posts/2026-07-17-ai-creativity/ Comments URL: https://news.ycombinator.com/item?id=48955763 Points: 1 # Comments: 0
-
-📖 [Read original article](https://sunnyamrat.com/posts/2026-07-17-ai-creativity/)
-
----
-
-## 4. What Doom taught us about AI-assisted incident response
-
-**Author:** DaWe01  
-**Published:** 7/18/2026, 6:36:15 AM  
-**Categories:** -  
-
-Article URL: https://rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response Comments URL: https://news.ycombinator.com/item?id=48955757 Points: 1 # Comments: 0
-
-📖 [Read original article](https://rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response)
-
----
-
-## 5. AgentGrove – local workspace for AI coding agents in Git worktrees
-
-**Author:** arnabk  
-**Published:** 7/18/2026, 6:23:29 AM  
-**Categories:** -  
-
-Article URL: https://github.com/arnabk/agentgrove Comments URL: https://news.ycombinator.com/item?id=48955708 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/arnabk/agentgrove)
-
----
-
-## 6. I built a tool to prove a human reviewed an AI decision
-
-**Author:** mbugay  
-**Published:** 7/18/2026, 6:21:42 AM  
-**Categories:** -  
-
-Article URL: https://caneni.net/ Comments URL: https://news.ycombinator.com/item?id=48955699 Points: 1 # Comments: 0
-
-📖 [Read original article](https://caneni.net/)
-
----
-
-## 7. Elon Musk's Memphis AI empire is the epicenter of the data center backlash
+## 3. AI boom built on debt, investor demand plunging, hyperscalers ramp up bond blitz
 
 **Author:** 1vuio0pswjnm7  
-**Published:** 7/18/2026, 6:07:17 AM  
+**Published:** 7/18/2026, 12:58:48 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html Comments URL: https://news.ycombinator.com/item?id=48955633 Points: 3 # Comments: 0
+Article URL: https://fortune.com/2026/07/17/ai-boom-debt-blitz-investor-demand-hyperscaler-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=48957762 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html)
+📖 [Read original article](https://fortune.com/2026/07/17/ai-boom-debt-blitz-investor-demand-hyperscaler-bond-issuance/)
 
 ---
 
-## 8. US judge won't block Meta laying off workers who filed AI discrimination suit
+## 4. Show HN: TrAIcer – capture your AI coding traces to sell later
+
+**Author:** smashah  
+**Published:** 7/18/2026, 12:33:33 PM  
+**Categories:** -  
+
+Article URL: https://github.com/smashah/traicer Comments URL: https://news.ycombinator.com/item?id=48957581 Points: 2 # Comments: 1
+
+📖 [Read original article](https://github.com/smashah/traicer)
+
+---
+
+## 5. Using AI
+
+**Author:** isaacrodriguez  
+**Published:** 7/18/2026, 12:30:56 PM  
+**Categories:** -  
+
+Article URL: https://isaacrodriguez.me/post/2026/using-ai/ Comments URL: https://news.ycombinator.com/item?id=48957558 Points: 1 # Comments: 0
+
+📖 [Read original article](https://isaacrodriguez.me/post/2026/using-ai/)
+
+---
+
+## 6. Big Tech's top executives warn enterprises are giving away too much to AI labs
 
 **Author:** 1vuio0pswjnm7  
-**Published:** 7/18/2026, 6:04:19 AM  
+**Published:** 7/18/2026, 12:29:00 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/world-at-work/us-judge-wont-block-meta-laying-off-workers-who-filed-ai-discrimination-lawsuit-2026-07-17/ Comments URL: https://news.ycombinator.com/item?id=48955617 Points: 2 # Comments: 0
+Article URL: https://fortune.com/2026/07/16/microsoft-ceo-satya-nadella-warns-enterprises-that-ai-labs-are-stealing-their-know-how/ Comments URL: https://news.ycombinator.com/item?id=48957542 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/business/world-at-work/us-judge-wont-block-meta-laying-off-workers-who-filed-ai-discrimination-lawsuit-2026-07-17/)
+📖 [Read original article](https://fortune.com/2026/07/16/microsoft-ceo-satya-nadella-warns-enterprises-that-ai-labs-are-stealing-their-know-how/)
 
 ---
 
-## 9. A little experiment in evading AI detection
+## 7. Show HN: PixelUp – A 100% offline, lightweight AI video upscaler for Windows
 
-**Author:** usernotfoundrn  
-**Published:** 7/18/2026, 5:29:01 AM  
+**Author:** billqu0001  
+**Published:** 7/18/2026, 12:20:48 PM  
 **Categories:** -  
 
-Article URL: https://thegustafson.com/blog/evading-ai-detection Comments URL: https://news.ycombinator.com/item?id=48955484 Points: 4 # Comments: 0
+Article URL: https://steelsoft.site/software/PixelUp_home.html Comments URL: https://news.ycombinator.com/item?id=48957476 Points: 4 # Comments: 0
 
-📖 [Read original article](https://thegustafson.com/blog/evading-ai-detection)
+📖 [Read original article](https://steelsoft.site/software/PixelUp_home.html)
 
 ---
 
-## 10. Gpu.ai $1k Grand Prize Buildathon August 22nd 2026: Build on Free Cloud GPUs
+## 8. AIpine – A Swiss Army knife for AI artifacts on iPhone
 
-**Author:** johngpuai  
-**Published:** 7/18/2026, 5:00:42 AM  
+**Author:** spingras  
+**Published:** 7/18/2026, 12:20:36 PM  
 **Categories:** -  
 
-Article URL: https://gpu.ai/buildathon Comments URL: https://news.ycombinator.com/item?id=48955367 Points: 1 # Comments: 0
+Article URL: https://apps.apple.com/us/app/aipine/id6775947157 Comments URL: https://news.ycombinator.com/item?id=48957475 Points: 1 # Comments: 1
 
-📖 [Read original article](https://gpu.ai/buildathon)
+📖 [Read original article](https://apps.apple.com/us/app/aipine/id6775947157)
 
 ---
 
-## 11. Flathub's AI slop ban looks like it was the right call
+## 9. Google AI Overview Rewrote Their Signature Recipe and Attributed It to Them [video]
 
-**Author:** shaunpud  
-**Published:** 7/18/2026, 4:38:47 AM  
+**Author:** pknerd  
+**Published:** 7/18/2026, 12:04:41 PM  
 **Categories:** -  
 
-Article URL: https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data Comments URL: https://news.ycombinator.com/item?id=48955278 Points: 3 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=J0lLvVYahNY Comments URL: https://news.ycombinator.com/item?id=48957313 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.omgubuntu.co.uk/2026/07/flathub-ai-slop-ban-data)
+📖 [Read original article](https://www.youtube.com/watch?v=J0lLvVYahNY)
 
 ---
 
-## 12. Critical thinking has become an AI‑era buzzword. But what does it mean?
+## 10. Show HN: Open-source skills that make any AI agent write native social posts
 
-**Author:** jruohonen  
-**Published:** 7/18/2026, 4:32:55 AM  
+**Author:** missingstack  
+**Published:** 7/18/2026, 12:03:50 PM  
 **Categories:** -  
 
-Article URL: https://theconversation.com/critical-thinking-has-become-an-ai-era-buzzword-but-what-does-it-actually-mean-and-how-do-we-teach-it-286363 Comments URL: https://news.ycombinator.com/item?id=48955239 Points: 1 # Comments: 0
+Article URL: https://github.com/inklate/social-skills Comments URL: https://news.ycombinator.com/item?id=48957301 Points: 2 # Comments: 0
 
-📖 [Read original article](https://theconversation.com/critical-thinking-has-become-an-ai-era-buzzword-but-what-does-it-actually-mean-and-how-do-we-teach-it-286363)
+📖 [Read original article](https://github.com/inklate/social-skills)
 
 ---
 
-## 13. Postlia – a social media scheduler that flags AI-sounding posts
+## 11. What if restaurant menus had AI copilots?
 
-**Author:** EraySaygin  
-**Published:** 7/18/2026, 4:11:41 AM  
+**Author:** irnco  
+**Published:** 7/18/2026, 11:40:33 AM  
 **Categories:** -  
 
-Article URL: https://postlia.com Comments URL: https://news.ycombinator.com/item?id=48955151 Points: 1 # Comments: 1
+I have a small bakery called Delis Croissants in Amol, Iran. I beleive we have the most delicious croissants in the world so we need a cool digital menu as well but I couldn't find a digital menu I liked, so I asked claude code to built my own: Rumizi. Rumizi is Persian for tablecloth, the thing on ...
 
-📖 [Read original article](https://postlia.com)
+📖 [Read original article](https://news.ycombinator.com/item?id=48957135)
 
 ---
 
-## 14. US Considers Creating Finra-Like Watchdog to Vet Top AI Models
+## 12. What AI did to stackoverflow in a graph
 
-**Author:** htrp  
-**Published:** 7/18/2026, 3:54:53 AM  
+**Author:** secretslol  
+**Published:** 7/18/2026, 11:12:46 AM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-07-17/us-considers-creating-finra-like-watchdog-to-vet-top-ai-models Comments URL: https://news.ycombinator.com/item?id=48955059 Points: 3 # Comments: 0
+Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 94 # Comments: 105
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-17/us-considers-creating-finra-like-watchdog-to-vet-top-ai-models)
+📖 [Read original article](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 
 ---
 
-## 15. PenEcho: An Open-Source Canvas with AI
+## 13. Why do AI company logos look like buttholes? (2025)
 
-**Author:** mkw5053  
-**Published:** 7/18/2026, 3:51:37 AM  
+**Author:** miniBill  
+**Published:** 7/18/2026, 11:06:50 AM  
 **Categories:** -  
 
-Article URL: https://github.com/erickong/penecho Comments URL: https://news.ycombinator.com/item?id=48955040 Points: 2 # Comments: 1
+Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes Comments URL: https://news.ycombinator.com/item?id=48956924 Points: 275 # Comments: 84
 
-📖 [Read original article](https://github.com/erickong/penecho)
+📖 [Read original article](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 
 ---
 
-## 16. Claude, with feedback from ChatGPT, writes a history of AI
+## 14. Neil Rimer thinks the AI money is coming back out
 
-**Author:** the-mitr  
-**Published:** 7/18/2026, 3:47:56 AM  
+**Author:** adithyaharish  
+**Published:** 7/18/2026, 10:28:49 AM  
 **Categories:** -  
 
-Article URL: https://docs.google.com/document/d/1SuekouRgA8NrQMOJdmpfowesV4-qTQxmhOe54aTYyw8/edit?tab=t.0 Comments URL: https://news.ycombinator.com/item?id=48955025 Points: 2 # Comments: 1
+Article URL: https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/ Comments URL: https://news.ycombinator.com/item?id=48956715 Points: 2 # Comments: 0
 
-📖 [Read original article](https://docs.google.com/document/d/1SuekouRgA8NrQMOJdmpfowesV4-qTQxmhOe54aTYyw8/edit?tab=t.0)
+📖 [Read original article](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/)
 
 ---
 
-## 17. StartupForge AI – Turn Any Business Idea into a Startup Blueprint
+## 15. 'AI code is insane trash' – David Gerard [video]
 
-**Author:** kvreal  
-**Published:** 7/18/2026, 2:30:39 AM  
+**Author:** baranul  
+**Published:** 7/18/2026, 10:00:55 AM  
 **Categories:** -  
 
-Article URL: https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/ Comments URL: https://news.ycombinator.com/item?id=48954624 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=EwLW11Ucnps Comments URL: https://news.ycombinator.com/item?id=48956614 Points: 7 # Comments: 0
 
-📖 [Read original article](https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/)
+📖 [Read original article](https://www.youtube.com/watch?v=EwLW11Ucnps)
 
 ---
 
-## 18. Why Teens Deserve Access to Safe AI
+## 16. Google workers demand layoff protections amid AI boom in petition to CEO
 
-**Author:** willmarch  
-**Published:** 7/18/2026, 1:52:09 AM  
+**Author:** tcp_handshaker  
+**Published:** 7/18/2026, 9:37:58 AM  
 **Categories:** -  
 
-Article URL: https://openai.com/index/why-teens-deserve-access-safe-ai Comments URL: https://news.ycombinator.com/item?id=48954344 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai Comments URL: https://news.ycombinator.com/item?id=48956537 Points: 6 # Comments: 1
 
-📖 [Read original article](https://openai.com/index/why-teens-deserve-access-safe-ai)
+📖 [Read original article](https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai)
 
 ---
 
-## 19. AI hasn't shifted the bottleneck from coding to code review
+## 17. Trump administration is dictating access to frontier AI models
 
-**Author:** Brajeshwar  
-**Published:** 7/18/2026, 1:20:44 AM  
+**Author:** tosh  
+**Published:** 7/18/2026, 9:33:20 AM  
 **Categories:** -  
 
-Article URL: https://thenewstack.io/ai-code-bottleneck-myth/ Comments URL: https://news.ycombinator.com/item?id=48954189 Points: 6 # Comments: 1
+Article URL: https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html Comments URL: https://news.ycombinator.com/item?id=48956512 Points: 5 # Comments: 1
 
-📖 [Read original article](https://thenewstack.io/ai-code-bottleneck-myth/)
+📖 [Read original article](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html)
 
 ---
 
-## 20. Face Value: How AI is reshaping trust, identity, and scams
+## 18. AI Gets Trapped in a Circular Loop on Climate Science
 
-**Author:** CHB0403085482  
-**Published:** 7/18/2026, 1:17:07 AM  
+**Author:** radicon  
+**Published:** 7/18/2026, 9:03:28 AM  
 **Categories:** -  
 
-Article URL: https://www.malwarebytes.com/ai-scams Comments URL: https://news.ycombinator.com/item?id=48954169 Points: 2 # Comments: 0
+Today, I was asking Ai about the Canadian Wildfires and forest management. Instantly, the ai resorted to following the common narrative, and pushed macro human-caused climate change as an “objective fact.” I wanted to push back on the logic of this, because this narrative goes against core principle...
 
-📖 [Read original article](https://www.malwarebytes.com/ai-scams)
+📖 [Read original article](https://news.ycombinator.com/item?id=48956370)
+
+---
+
+## 19. Chasing the AI High: Clay, Kilns, and the Red Queen's Race
+
+**Author:** haritha1313  
+**Published:** 7/18/2026, 8:56:16 AM  
+**Categories:** -  
+
+Article URL: https://blog.moot.dev/chasing-the-ai-high-clay-kilns-and-the-red-queens-race/ Comments URL: https://news.ycombinator.com/item?id=48956339 Points: 1 # Comments: 0
+
+📖 [Read original article](https://blog.moot.dev/chasing-the-ai-high-clay-kilns-and-the-red-queens-race/)
+
+---
+
+## 20. Am I worried AI will take my job?
+
+**Author:** billpg  
+**Published:** 7/18/2026, 8:49:41 AM  
+**Categories:** -  
+
+Article URL: https://owl.billpg.com/am-i-worried-ai-will-take-my-job/ Comments URL: https://news.ycombinator.com/item?id=48956304 Points: 2 # Comments: 0
+
+📖 [Read original article](https://owl.billpg.com/am-i-worried-ai-will-take-my-job/)
 
 ---
