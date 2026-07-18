@@ -2,16 +2,28 @@
 title: "qbitai - 2026-07-17"
 date: "2026-07-17"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-07-17
 
-10 items collected.
+9 items collected.
 
 ---
 
-## 1. 逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU
+## 1. PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂
+
+**Author:** 量子位的朋友们  
+**Published:** 7/17/2026, 10:32:47 PM  
+**Categories:** 资讯, PPIO, WAIC 2026  
+
+万亿Token调用量验证
+
+📖 [Read original article](https://www.qbitai.com/2026/07/453467.html)
+
+---
+
+## 2. 逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU
 
 **Author:** 思邈  
 **Published:** 7/17/2026, 5:09:14 PM  
@@ -23,7 +35,7 @@ count: 10
 
 ---
 
-## 2. 给AI发工号、定岗位、做绩效，数字员工终于能落地了
+## 3. 给AI发工号、定岗位、做绩效，数字员工终于能落地了
 
 **Author:** 思邈  
 **Published:** 7/17/2026, 4:40:47 PM  
@@ -35,7 +47,7 @@ count: 10
 
 ---
 
-## 3. WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？
+## 4. WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？
 
 **Author:** 闻乐  
 **Published:** 7/17/2026, 4:24:49 PM  
@@ -47,7 +59,7 @@ count: 10
 
 ---
 
-## 4. 达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式
+## 5. 达卯科技WAIC首发算电协同2.0：构筑AI算力与绿色能源融合新范式
 
 **Author:** 量子位的朋友们  
 **Published:** 7/17/2026, 12:00:56 PM  
@@ -59,7 +71,7 @@ count: 10
 
 ---
 
-## 5. WAIC 2026 | 如果Agent有性格，你的智能伙伴会是什么样的？
+## 6. WAIC 2026 | 如果Agent有性格，你的智能伙伴会是什么样的？
 
 **Author:** 量子位的朋友们  
 **Published:** 7/17/2026, 11:34:02 AM  
@@ -71,7 +83,7 @@ count: 10
 
 ---
 
-## 6. WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%
+## 7. WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%
 
 **Author:** 量子位的朋友们  
 **Published:** 7/17/2026, 11:00:47 AM  
@@ -83,7 +95,7 @@ count: 10
 
 ---
 
-## 7. 算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”
+## 8. 算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”
 
 **Author:** 量子位的朋友们  
 **Published:** 7/17/2026, 10:53:17 AM  
@@ -95,7 +107,7 @@ count: 10
 
 ---
 
-## 8. 从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即
+## 9. 从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即
 
 **Author:** 量子位的朋友们  
 **Published:** 7/17/2026, 10:41:24 AM  
@@ -104,29 +116,5 @@ count: 10
 
 
 📖 [Read original article](https://www.qbitai.com/2026/07/453203.html)
-
----
-
-## 9. 上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下
-
-**Author:** 量子位的朋友们  
-**Published:** 7/17/2026, 10:17:23 AM  
-**Categories:** 资讯, 振华重工  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/453084.html)
-
----
-
-## 10. 文远发布物理AI大模型WITT：让每一公里都变成模型能力
-
-**Author:** 杰西卡  
-**Published:** 7/17/2026, 10:11:49 AM  
-**Categories:** 智能车参考, 文远知行, 车圈最新认知  
-
-单卡日处理1万分钟视频
-
-📖 [Read original article](https://www.qbitai.com/2026/07/452961.html)
 
 ---
