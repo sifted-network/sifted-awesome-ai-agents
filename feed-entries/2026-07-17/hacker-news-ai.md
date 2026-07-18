@@ -2,251 +2,131 @@
 title: "Hacker News AI - 2026-07-17"
 date: "2026-07-17"
 source: "Hacker News AI"
-count: 20
+count: 10
 ---
 
 # Hacker News AI - 2026-07-17
 
-20 items collected.
+10 items collected.
 
 ---
 
-## 1. Meta accused of using AI to pick employees with medical conditions for layoffs
+## 1. Sourced ranking of the AI infrastructure build-out
 
-**Author:** speckx  
-**Published:** 7/17/2026, 6:57:31 PM  
+**Author:** umangsehgal93  
+**Published:** 7/17/2026, 11:54:35 PM  
 **Categories:** -  
 
-Article URL: https://www.latimes.com/business/story/2026-07-16/meta-accused-of-using-ai-to-pick-employees-with-medical-conditions-for-layoffs Comments URL: https://news.ycombinator.com/item?id=48950986 Points: 2 # Comments: 1
+Article URL: https://www.capexindex.com/ Comments URL: https://news.ycombinator.com/item?id=48953646 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.latimes.com/business/story/2026-07-16/meta-accused-of-using-ai-to-pick-employees-with-medical-conditions-for-layoffs)
+📖 [Read original article](https://www.capexindex.com/)
 
 ---
 
-## 2. Show HN: Feral – an AI agent that creates content to promote your stuff
+## 2. Tyler Cowen: the future belongs to AI maniacs
 
-**Author:** creature_x  
-**Published:** 7/17/2026, 6:35:12 PM  
+**Author:** thoughtpeddler  
+**Published:** 7/17/2026, 11:43:09 PM  
 **Categories:** -  
 
-I built roughly 10 apps over the past year. Building them was the fun part; consistently marketing them was where my energy disappeared. I also couldn’t justify hiring an agency for every small project. I tried using ChatGPT and Claude, but getting one good result was very different from getting con...
+Article URL: https://www.thefp.com/p/tyler-cowen-ai-maniacs-future-economy Comments URL: https://news.ycombinator.com/item?id=48953546 Points: 2 # Comments: 2
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48950737)
+📖 [Read original article](https://www.thefp.com/p/tyler-cowen-ai-maniacs-future-economy)
 
 ---
 
-## 3. Show HN: An AI agent that creates text posts and image ads for your business
+## 3. The AI Codebase
 
-**Author:** creature_x  
-**Published:** 7/17/2026, 6:27:55 PM  
+**Author:** swapxstar  
+**Published:** 7/17/2026, 11:32:46 PM  
 **Categories:** -  
 
-Article URL: https://feralhq.com/ Comments URL: https://news.ycombinator.com/item?id=48950609 Points: 2 # Comments: 1
+Article URL: https://swapnilchauhan.com/blog/the-ai-codebase/ Comments URL: https://news.ycombinator.com/item?id=48953461 Points: 1 # Comments: 1
 
-📖 [Read original article](https://feralhq.com/)
+📖 [Read original article](https://swapnilchauhan.com/blog/the-ai-codebase/)
 
 ---
 
-## 4. 1999.ai: AI and dot-com déjà vu
+## 4. Patreon Blocks AI Crawlers from Copying Content: 'Creators Deserve Compenstion'
 
-**Author:** sgloutnikov  
-**Published:** 7/17/2026, 6:11:23 PM  
+**Author:** gnabgib  
+**Published:** 7/17/2026, 10:36:33 PM  
 **Categories:** -  
 
-Article URL: https://www.profgmedia.com/p/1999ai Comments URL: https://news.ycombinator.com/item?id=48950402 Points: 2 # Comments: 0
+Article URL: https://petapixel.com/2026/07/13/patreon-blocks-ai-crawlers-from-copying-content-creators-deserve-compenstion/ Comments URL: https://news.ycombinator.com/item?id=48952945 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.profgmedia.com/p/1999ai)
+📖 [Read original article](https://petapixel.com/2026/07/13/patreon-blocks-ai-crawlers-from-copying-content-creators-deserve-compenstion/)
 
 ---
 
-## 5. Show HN: AI Crypto Investigations/Research Agents
+## 5. Kaiser nurses say AI, workplace surveillance are making their jobs, care worse
 
-**Author:** loopedcircuits  
-**Published:** 7/17/2026, 6:06:44 PM  
+**Author:** gnabgib  
+**Published:** 7/17/2026, 10:26:30 PM  
 **Categories:** -  
 
-Article URL: https://chat.blockscope.co/ Comments URL: https://news.ycombinator.com/item?id=48950339 Points: 1 # Comments: 0
+Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinator.com/item?id=48952880 Points: 308 # Comments: 192
 
-📖 [Read original article](https://chat.blockscope.co/)
+📖 [Read original article](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 
 ---
 
-## 6. Chai Discovery nabs $400M Series C as AI-designed antibodies reach Big Pharma
+## 6. Netflix Paid $587M for Ben Affleck's AI Company
 
-**Author:** bookofjoe  
-**Published:** 7/17/2026, 5:57:56 PM  
+**Author:** Sgt_Apone  
+**Published:** 7/17/2026, 10:22:51 PM  
 **Categories:** -  
 
-Article URL: https://siliconangle.com/2026/07/14/chai-discovery-nabs-400m-series-c-ai-designed-antibodies-reach-big-pharma/ Comments URL: https://news.ycombinator.com/item?id=48950258 Points: 1 # Comments: 0
+Article URL: https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/ Comments URL: https://news.ycombinator.com/item?id=48952849 Points: 4 # Comments: 1
 
-📖 [Read original article](https://siliconangle.com/2026/07/14/chai-discovery-nabs-400m-series-c-ai-designed-antibodies-reach-big-pharma/)
+📖 [Read original article](https://www.hollywoodreporter.com/business/business-news/netflix-price-ben-affleck-ai-company-revealed-1236651217/)
 
 ---
 
-## 7. Show HN: The AI Lethal Trifecta
+## 7. Torvalds: 'AI Is a Tool, Just Like Other Tools. It's Clearly a Useful One'
 
-**Author:** Getchowned  
-**Published:** 7/17/2026, 5:55:36 PM  
+**Author:** frizlab  
+**Published:** 7/17/2026, 10:19:31 PM  
 **Categories:** -  
 
-If you're building agents, this is worth knowing.Simon Willison (who coined the term "prompt injection") describes three capabilities that are individually fine but devastating together, the lethal trifecta includes:1. Access to private data (such as internal databases, emails, etc.)2. Exposure to u...
+Article URL: https://daringfireball.net/linked/2026/07/17/torvalds-on-ai Comments URL: https://news.ycombinator.com/item?id=48952831 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.getjailbroken.com/)
+📖 [Read original article](https://daringfireball.net/linked/2026/07/17/torvalds-on-ai)
 
 ---
 
-## 8. AI scans your expenses and shows you where to save
+## 8. HKT Launches Data Centre AI Superhighway in Hong Kong
 
-**Author:** sunhp  
-**Published:** 7/17/2026, 5:32:37 PM  
+**Author:** ksec  
+**Published:** 7/17/2026, 10:16:16 PM  
 **Categories:** -  
 
-Article URL: https://scanticket.io/en Comments URL: https://news.ycombinator.com/item?id=48949988 Points: 2 # Comments: 0
+Article URL: https://datacentremagazine.com/articles/hkt-launches-data-centre-ai-superhighway-in-hong-kong Comments URL: https://news.ycombinator.com/item?id=48952806 Points: 1 # Comments: 1
 
-📖 [Read original article](https://scanticket.io/en)
+📖 [Read original article](https://datacentremagazine.com/articles/hkt-launches-data-centre-ai-superhighway-in-hong-kong)
 
 ---
 
-## 9. How are you giving AI agents access to postgress?
+## 9. Disney Jr. & AI Animation Outfit Animaj Release 'Ozzy Fox' on YouTube
 
-**Author:** Eapz_06  
-**Published:** 7/17/2026, 5:29:33 PM  
+**Author:** ortusdux  
+**Published:** 7/17/2026, 9:26:49 PM  
 **Categories:** -  
 
-I mean we can either let llm generate sql but that's risky right or should we do defined operations?I mean for both reads and write.But whether it's llm generate or we define we have to do the manual work of writing determistic guards right... Comments URL: https://news.ycombinator.com/item?id=48949...
+Article URL: https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html Comments URL: https://news.ycombinator.com/item?id=48952467 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48949955)
+📖 [Read original article](https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html)
 
 ---
 
-## 10. The Truth About AI's Water Use
+## 10. Everybody's Weirded Out by AI–Except the People Who Foist It on Us
 
-**Author:** lantry  
-**Published:** 7/17/2026, 5:19:07 PM  
+**Author:** jamesgill  
+**Published:** 7/17/2026, 9:24:07 PM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/07/how-much-water-data-centers-use/687934/ Comments URL: https://news.ycombinator.com/item?id=48949807 Points: 1 # Comments: 0
+Article URL: https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us Comments URL: https://news.ycombinator.com/item?id=48952445 Points: 61 # Comments: 60
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/07/how-much-water-data-centers-use/687934/)
-
----
-
-## 11. Patreon stops asking AI bots not to scrape and starts blocking them
-
-**Author:** ZeidJ  
-**Published:** 7/17/2026, 5:19:00 PM  
-**Categories:** -  
-
-Article URL: https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/ Comments URL: https://news.ycombinator.com/item?id=48949806 Points: 3 # Comments: 0
-
-📖 [Read original article](https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/)
-
----
-
-## 12. The Download: perimenopause misinformation and China's latest AI leap
-
-**Author:** joozio  
-**Published:** 7/17/2026, 5:02:15 PM  
-**Categories:** -  
-
-Article URL: https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/ Comments URL: https://news.ycombinator.com/item?id=48949607 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/)
-
----
-
-## 13. What is the most beneficial way AI has impacted your daily life?
-
-**Author:** Mdarwish2005  
-**Published:** 7/17/2026, 4:49:18 PM  
-**Categories:** -  
-
-Comments URL: https://news.ycombinator.com/item?id=48949452 Points: 2 # Comments: 1
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48949452)
-
----
-
-## 14. Patreon CEO: Why I'm (sort of) not worried about AI [video]
-
-**Author:** calcifer  
-**Published:** 7/17/2026, 4:38:05 PM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=17_HcR95YBc Comments URL: https://news.ycombinator.com/item?id=48949332 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=17_HcR95YBc)
-
----
-
-## 15. Perplexity Unveils Space, a Secure Sandbox Platform for AI Agents
-
-**Author:** CrankyBear  
-**Published:** 7/17/2026, 4:34:04 PM  
-**Categories:** -  
-
-Article URL: https://techstrong.ai/articles/perplexity-unveils-space-a-secure-sandbox-platform-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=48949297 Points: 1 # Comments: 0
-
-📖 [Read original article](https://techstrong.ai/articles/perplexity-unveils-space-a-secure-sandbox-platform-for-ai-agents/)
-
----
-
-## 16. CIA director gives chilling account of AI's battlefield lethality
-
-**Author:** leopoldj  
-**Published:** 7/17/2026, 4:28:54 PM  
-**Categories:** -  
-
-Article URL: https://www.pennlive.com/business/2026/07/cia-director-gives-chilling-account-of-ais-battlefield-lethality-low-cost-killing-machines.html Comments URL: https://news.ycombinator.com/item?id=48949228 Points: 2 # Comments: 2
-
-📖 [Read original article](https://www.pennlive.com/business/2026/07/cia-director-gives-chilling-account-of-ais-battlefield-lethality-low-cost-killing-machines.html)
-
----
-
-## 17. Shared Memory vs. Isolated Memory for AI Agents
-
-**Author:** atharvmunde  
-**Published:** 7/17/2026, 4:20:33 PM  
-**Categories:** -  
-
-Article URL: https://wolbarg.com/blog/shared-memory-vs-isolated-memory Comments URL: https://news.ycombinator.com/item?id=48949146 Points: 1 # Comments: 0
-
-📖 [Read original article](https://wolbarg.com/blog/shared-memory-vs-isolated-memory)
-
----
-
-## 18. Show HN: I built CraftVis, an AI image editor
-
-**Author:** Samlion  
-**Published:** 7/17/2026, 4:19:53 PM  
-**Categories:** -  
-
-Article URL: https://craftvis.com Comments URL: https://news.ycombinator.com/item?id=48949140 Points: 1 # Comments: 0
-
-📖 [Read original article](https://craftvis.com)
-
----
-
-## 19. [opensource] Run AI Agents from Jira, Linear, GitHub Issues, or Markdown
-
-**Author:** alexberlinde  
-**Published:** 7/17/2026, 4:17:41 PM  
-**Categories:** -  
-
-Article URL: https://github.com/alexrolls/startup-factory Comments URL: https://news.ycombinator.com/item?id=48949104 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/alexrolls/startup-factory)
-
----
-
-## 20. A Slower AI Payoff Would Be Everyone's Problem
-
-**Author:** simonebrunozzi  
-**Published:** 7/17/2026, 4:16:38 PM  
-**Categories:** -  
-
-Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/a-slower-ai-payoff-would-be-everyones-problem Comments URL: https://news.ycombinator.com/item?id=48949086 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.apollo.com/wealth/insights-news/insights/daily-spark/a-slower-ai-payoff-would-be-everyones-problem)
+📖 [Read original article](https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us)
 
 ---
