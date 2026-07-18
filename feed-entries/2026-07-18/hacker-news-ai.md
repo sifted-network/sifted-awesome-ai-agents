@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI-Assisted Technical Writing: When to Stop
+## 1. AI Karma Tracker
 
-**Author:** ae1020  
-**Published:** 7/18/2026, 1:01:39 PM  
+**Author:** javatuts  
+**Published:** 7/18/2026, 6:53:45 PM  
 **Categories:** -  
 
-Article URL: https://ae1020.github.io/ai-writing-when-to-stop/ Comments URL: https://news.ycombinator.com/item?id=48957782 Points: 1 # Comments: 1
+Article URL: https://ai-karma-tracker.github.io/ Comments URL: https://news.ycombinator.com/item?id=48961030 Points: 3 # Comments: 0
 
-📖 [Read original article](https://ae1020.github.io/ai-writing-when-to-stop/)
+📖 [Read original article](https://ai-karma-tracker.github.io/)
 
 ---
 
-## 2. Bound – A deterministic control harness for AI agents
+## 2. White House cybersecurity clearinghouse to patch software flaws by AI
 
-**Author:** joopie-boy  
-**Published:** 7/18/2026, 12:59:02 PM  
+**Author:** megamike  
+**Published:** 7/18/2026, 6:32:39 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Danny-de-bree/bound Comments URL: https://news.ycombinator.com/item?id=48957765 Points: 2 # Comments: 1
+Article URL: https://www.politico.com/news/2026/07/14/white-house-launches-gold-eagle-cybersecurity-clearinghouse-to-patch-software-flaws-discovered-by-ai-00998011 Comments URL: https://news.ycombinator.com/item?id=48960803 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/Danny-de-bree/bound)
+📖 [Read original article](https://www.politico.com/news/2026/07/14/white-house-launches-gold-eagle-cybersecurity-clearinghouse-to-patch-software-flaws-discovered-by-ai-00998011)
 
 ---
 
-## 3. AI boom built on debt, investor demand plunging, hyperscalers ramp up bond blitz
+## 3. Show HN: A pre-launch scanner for AI-built apps (it scores itself 60/100)
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/18/2026, 12:58:48 PM  
+**Author:** keeptahoeblue  
+**Published:** 7/18/2026, 6:19:03 PM  
 **Categories:** -  
 
-Article URL: https://fortune.com/2026/07/17/ai-boom-debt-blitz-investor-demand-hyperscaler-bond-issuance/ Comments URL: https://news.ycombinator.com/item?id=48957762 Points: 1 # Comments: 0
+Article URL: https://shippingszn.com/ Comments URL: https://news.ycombinator.com/item?id=48960665 Points: 2 # Comments: 0
 
-📖 [Read original article](https://fortune.com/2026/07/17/ai-boom-debt-blitz-investor-demand-hyperscaler-bond-issuance/)
+📖 [Read original article](https://shippingszn.com/)
 
 ---
 
-## 4. Show HN: TrAIcer – capture your AI coding traces to sell later
+## 4. OpenAI Strategic Lead Defines Open-Source AI as Dystopian Hellscape
 
-**Author:** smashah  
-**Published:** 7/18/2026, 12:33:33 PM  
+**Author:** shellwirt  
+**Published:** 7/18/2026, 6:08:28 PM  
 **Categories:** -  
 
-Article URL: https://github.com/smashah/traicer Comments URL: https://news.ycombinator.com/item?id=48957581 Points: 2 # Comments: 1
+Article URL: https://twitter.com/deanwball/status/2078133895766114412 Comments URL: https://news.ycombinator.com/item?id=48960571 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/smashah/traicer)
+📖 [Read original article](https://twitter.com/deanwball/status/2078133895766114412)
 
 ---
 
-## 5. Using AI
+## 5. Overtraining as the path to human-like AI
 
-**Author:** isaacrodriguez  
-**Published:** 7/18/2026, 12:30:56 PM  
+**Author:** Brajeshwar  
+**Published:** 7/18/2026, 5:23:50 PM  
 **Categories:** -  
 
-Article URL: https://isaacrodriguez.me/post/2026/using-ai/ Comments URL: https://news.ycombinator.com/item?id=48957558 Points: 1 # Comments: 0
+Article URL: https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/ Comments URL: https://news.ycombinator.com/item?id=48960118 Points: 5 # Comments: 0
 
-📖 [Read original article](https://isaacrodriguez.me/post/2026/using-ai/)
+📖 [Read original article](https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/)
 
 ---
 
-## 6. Big Tech's top executives warn enterprises are giving away too much to AI labs
+## 6. AI's new political donor class is outspending Big Tech's last one
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/18/2026, 12:29:00 PM  
+**Author:** roddylindsay  
+**Published:** 7/18/2026, 5:18:04 PM  
 **Categories:** -  
 
-Article URL: https://fortune.com/2026/07/16/microsoft-ceo-satya-nadella-warns-enterprises-that-ai-labs-are-stealing-their-know-how/ Comments URL: https://news.ycombinator.com/item?id=48957542 Points: 1 # Comments: 0
+Article URL: https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/ Comments URL: https://news.ycombinator.com/item?id=48960051 Points: 8 # Comments: 0
 
-📖 [Read original article](https://fortune.com/2026/07/16/microsoft-ceo-satya-nadella-warns-enterprises-that-ai-labs-are-stealing-their-know-how/)
+📖 [Read original article](https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/)
 
 ---
 
-## 7. Show HN: PixelUp – A 100% offline, lightweight AI video upscaler for Windows
+## 7. Better Than Free: How to Differentiate in the Age of AI
 
-**Author:** billqu0001  
-**Published:** 7/18/2026, 12:20:48 PM  
+**Author:** Michelangelo11  
+**Published:** 7/18/2026, 5:02:28 PM  
 **Categories:** -  
 
-Article URL: https://steelsoft.site/software/PixelUp_home.html Comments URL: https://news.ycombinator.com/item?id=48957476 Points: 4 # Comments: 0
+Article URL: https://tim.blog/2026/07/17/better-than-free/ Comments URL: https://news.ycombinator.com/item?id=48959887 Points: 1 # Comments: 0
 
-📖 [Read original article](https://steelsoft.site/software/PixelUp_home.html)
+📖 [Read original article](https://tim.blog/2026/07/17/better-than-free/)
 
 ---
 
-## 8. AIpine – A Swiss Army knife for AI artifacts on iPhone
+## 8. Studying the Role of Sandboxing for AI Control
 
-**Author:** spingras  
-**Published:** 7/18/2026, 12:20:36 PM  
+**Author:** joozio  
+**Published:** 7/18/2026, 5:00:49 PM  
 **Categories:** -  
 
-Article URL: https://apps.apple.com/us/app/aipine/id6775947157 Comments URL: https://news.ycombinator.com/item?id=48957475 Points: 1 # Comments: 1
+Article URL: https://www.lesswrong.com/posts/6wo4weeujruLXrnsT/studying-the-role-of-sandboxing-for-ai-control Comments URL: https://news.ycombinator.com/item?id=48959871 Points: 1 # Comments: 0
 
-📖 [Read original article](https://apps.apple.com/us/app/aipine/id6775947157)
+📖 [Read original article](https://www.lesswrong.com/posts/6wo4weeujruLXrnsT/studying-the-role-of-sandboxing-for-ai-control)
 
 ---
 
-## 9. Google AI Overview Rewrote Their Signature Recipe and Attributed It to Them [video]
+## 9. Show HN: Talon – a self-hosted harness for long-lived AI agents
 
-**Author:** pknerd  
-**Published:** 7/18/2026, 12:04:41 PM  
+**Author:** claudiusthebot  
+**Published:** 7/18/2026, 4:24:35 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=J0lLvVYahNY Comments URL: https://news.ycombinator.com/item?id=48957313 Points: 1 # Comments: 0
+Article URL: https://github.com/dylanneve1/talon Comments URL: https://news.ycombinator.com/item?id=48959516 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=J0lLvVYahNY)
+📖 [Read original article](https://github.com/dylanneve1/talon)
 
 ---
 
-## 10. Show HN: Open-source skills that make any AI agent write native social posts
+## 10. Netflix Paid $587M for Ben Affleck's AI Startup InterPositive
 
-**Author:** missingstack  
-**Published:** 7/18/2026, 12:03:50 PM  
+**Author:** andsoitis  
+**Published:** 7/18/2026, 4:19:25 PM  
 **Categories:** -  
 
-Article URL: https://github.com/inklate/social-skills Comments URL: https://news.ycombinator.com/item?id=48957301 Points: 2 # Comments: 0
+Article URL: https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/ Comments URL: https://news.ycombinator.com/item?id=48959462 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/inklate/social-skills)
+📖 [Read original article](https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/)
 
 ---
 
-## 11. What if restaurant menus had AI copilots?
+## 11. Soofi S: Our first model for industrial AI in Europe
 
-**Author:** irnco  
-**Published:** 7/18/2026, 11:40:33 AM  
+**Author:** doener  
+**Published:** 7/18/2026, 4:08:46 PM  
 **Categories:** -  
 
-I have a small bakery called Delis Croissants in Amol, Iran. I beleive we have the most delicious croissants in the world so we need a cool digital menu as well but I couldn't find a digital menu I liked, so I asked claude code to built my own: Rumizi. Rumizi is Persian for tablecloth, the thing on ...
+Article URL: https://www.soofi.info/ Comments URL: https://news.ycombinator.com/item?id=48959358 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48957135)
+📖 [Read original article](https://www.soofi.info/)
 
 ---
 
-## 12. What AI did to stackoverflow in a graph
+## 12. The AI with a Thousand Voices
 
-**Author:** secretslol  
-**Published:** 7/18/2026, 11:12:46 AM  
+**Author:** ic_eight  
+**Published:** 7/18/2026, 4:06:07 PM  
 **Categories:** -  
 
-Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 94 # Comments: 105
+Article URL: https://medium.com/@ic-eight/the-ai-with-a-thousand-voices-374680948342 Comments URL: https://news.ycombinator.com/item?id=48959326 Points: 1 # Comments: 0
 
-📖 [Read original article](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+📖 [Read original article](https://medium.com/@ic-eight/the-ai-with-a-thousand-voices-374680948342)
 
 ---
 
-## 13. Why do AI company logos look like buttholes? (2025)
+## 13. AI spam filters are getting suckered by old-school text salting
 
-**Author:** miniBill  
-**Published:** 7/18/2026, 11:06:50 AM  
+**Author:** Bender  
+**Published:** 7/18/2026, 3:58:25 PM  
 **Categories:** -  
 
-Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes Comments URL: https://news.ycombinator.com/item?id=48956924 Points: 275 # Comments: 84
+Article URL: https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434 Comments URL: https://news.ycombinator.com/item?id=48959255 Points: 3 # Comments: 0
 
-📖 [Read original article](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+📖 [Read original article](https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434)
 
 ---
 
-## 14. Neil Rimer thinks the AI money is coming back out
+## 14. Show HN: PrimeTask, an offline-first work OS with BYO AI through MCP
 
-**Author:** adithyaharish  
-**Published:** 7/18/2026, 10:28:49 AM  
+**Author:** vxvaptor  
+**Published:** 7/18/2026, 3:15:57 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/ Comments URL: https://news.ycombinator.com/item?id=48956715 Points: 2 # Comments: 0
+Article URL: https://www.primetask.app/ Comments URL: https://news.ycombinator.com/item?id=48958889 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/)
+📖 [Read original article](https://www.primetask.app/)
 
 ---
 
-## 15. 'AI code is insane trash' – David Gerard [video]
+## 15. Build: Mobile-First AI Creation on Roblox
 
-**Author:** baranul  
-**Published:** 7/18/2026, 10:00:55 AM  
+**Author:** nyku  
+**Published:** 7/18/2026, 3:07:39 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=EwLW11Ucnps Comments URL: https://news.ycombinator.com/item?id=48956614 Points: 7 # Comments: 0
+Article URL: https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox Comments URL: https://news.ycombinator.com/item?id=48958809 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=EwLW11Ucnps)
+📖 [Read original article](https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox)
 
 ---
 
-## 16. Google workers demand layoff protections amid AI boom in petition to CEO
+## 16. Show HN: Teya – Open‑source AI family agent on a wall‑mounted Android phone
 
-**Author:** tcp_handshaker  
-**Published:** 7/18/2026, 9:37:58 AM  
+**Author:** AdiletGaparov  
+**Published:** 7/18/2026, 3:04:12 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai Comments URL: https://news.ycombinator.com/item?id=48956537 Points: 6 # Comments: 1
+Article URL: https://github.com/adgapar/teya Comments URL: https://news.ycombinator.com/item?id=48958769 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai)
+📖 [Read original article](https://github.com/adgapar/teya)
 
 ---
 
-## 17. Trump administration is dictating access to frontier AI models
+## 17. EU will force Google to share search data and open up AI on Android
 
-**Author:** tosh  
-**Published:** 7/18/2026, 9:33:20 AM  
+**Author:** akyuu  
+**Published:** 7/18/2026, 2:54:44 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html Comments URL: https://news.ycombinator.com/item?id=48956512 Points: 5 # Comments: 1
+Article URL: https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/ Comments URL: https://news.ycombinator.com/item?id=48958701 Points: 5 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html)
+📖 [Read original article](https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/)
 
 ---
 
-## 18. AI Gets Trapped in a Circular Loop on Climate Science
+## 18. Show HN: Slopsift – a local, graph-backed linter for AI writing
 
-**Author:** radicon  
-**Published:** 7/18/2026, 9:03:28 AM  
+**Author:** NikhilVerma  
+**Published:** 7/18/2026, 2:03:00 PM  
 **Categories:** -  
 
-Today, I was asking Ai about the Canadian Wildfires and forest management. Instantly, the ai resorted to following the common narrative, and pushed macro human-caused climate change as an “objective fact.” I wanted to push back on the logic of this, because this narrative goes against core principle...
+SlopSift uses NLP-backed lint rules. It goes beyond word lists and part-of-speech tags by matching relationships in a dependency graph. Though it still includes a few word-based rules for tells like “delve” and, most recently, “load-bearing.”It’s deterministic and runs locally, in your browser or fr...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48956370)
+📖 [Read original article](https://slopsift.dev/)
 
 ---
 
-## 19. Chasing the AI High: Clay, Kilns, and the Red Queen's Race
+## 19. AI Is Ruining Job Interviews
 
-**Author:** haritha1313  
-**Published:** 7/18/2026, 8:56:16 AM  
+**Author:** root-parent  
+**Published:** 7/18/2026, 2:01:33 PM  
 **Categories:** -  
 
-Article URL: https://blog.moot.dev/chasing-the-ai-high-clay-kilns-and-the-red-queens-race/ Comments URL: https://news.ycombinator.com/item?id=48956339 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=LcQGXC1f-8s Comments URL: https://news.ycombinator.com/item?id=48958236 Points: 4 # Comments: 0
 
-📖 [Read original article](https://blog.moot.dev/chasing-the-ai-high-clay-kilns-and-the-red-queens-race/)
+📖 [Read original article](https://www.youtube.com/watch?v=LcQGXC1f-8s)
 
 ---
 
-## 20. Am I worried AI will take my job?
+## 20. Show HN: Race to AGI – a simulation browser game about running a frontier AI lab
 
-**Author:** billpg  
-**Published:** 7/18/2026, 8:49:41 AM  
+**Author:** zameermfm  
+**Published:** 7/18/2026, 1:27:57 PM  
 **Categories:** -  
 
-Article URL: https://owl.billpg.com/am-i-worried-ai-will-take-my-job/ Comments URL: https://news.ycombinator.com/item?id=48956304 Points: 2 # Comments: 0
+If you like to be in Altman’s or Dario’s or even Musk’s shoes for a day to run an AI frontier lab, here is your chance. You need to beat your rivals to achieve AGI titan status. But there is a twist in getting to AGI - if you don’t do well with Safety, Ethics and Public confidence, you will be endin...
 
-📖 [Read original article](https://owl.billpg.com/am-i-worried-ai-will-take-my-job/)
+📖 [Read original article](https://rtagi.online)
 
 ---
