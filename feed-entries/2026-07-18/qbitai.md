@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-18"
 date: "2026-07-18"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-07-18
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ count: 10
 180家企业携成果入驻
 
 📖 [Read original article](https://www.qbitai.com/2026/07/436498.html)
-
----
-
-## 10. DeepSeek估值，被一家安徽箱包公司给全部暴露了
-
-**Author:** 听雨  
-**Published:** 7/18/2026, 3:41:17 AM  
-**Categories:** 资讯, AI  
-
-3500亿估值曝光
-
-📖 [Read original article](https://www.qbitai.com/2026/07/453641.html)
 
 ---
