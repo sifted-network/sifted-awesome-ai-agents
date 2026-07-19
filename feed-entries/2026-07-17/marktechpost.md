@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-07-17"
 date: "2026-07-17"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-07-17
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Introduction This tutorial starts where most agent demos stop: giving the agent 
 Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary channel layouts. It accepts variable-length inputs from 0.5 to 30 seconds, against ZUNA1's fixed five seconds. Reported NMSE ...
 
 📖 [Read original article](https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/)
-
----
-
-## 3. NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB
-
-**Author:** Asif Razzaq  
-**Published:** 7/17/2026, 7:53:02 AM  
-**Categories:** AI Shorts, Applications, Artificial Intelligence, Editors Pick, Embedding Model, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Staff, Tech News, Technology  
-
-NVIDIA released Nemotron 3 Embed on July 15 and 16, 2026. The collection has three open checkpoints: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16, and Nemotron-3-Embed-1B-NVFP4. The 8B ranks #1 on RTEB at 78.46 average NDCG@10. The 1B came from ModelOpt NAS pruning plus COS+MSE distillation fr...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/)
 
 ---
