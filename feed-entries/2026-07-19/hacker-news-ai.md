@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. YouTube's S-CTS: The AI Slop Purge has arrived
+## 1. Two Loops: How China's Open AI Strategy Reinforces Its Industrial Dominance [pdf]
 
-**Author:** CPLX  
-**Published:** 7/19/2026, 1:08:26 PM  
+**Author:** pash  
+**Published:** 7/19/2026, 7:03:05 PM  
 **Categories:** -  
 
-Article URL: https://insidethecreator.beehiiv.com/p/the-slop-purge-has-arrived Comments URL: https://news.ycombinator.com/item?id=48967916 Points: 1 # Comments: 0
+Article URL: https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf Comments URL: https://news.ycombinator.com/item?id=48970824 Points: 1 # Comments: 0
 
-📖 [Read original article](https://insidethecreator.beehiiv.com/p/the-slop-purge-has-arrived)
+📖 [Read original article](https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf)
 
 ---
 
-## 2. AI isn't destroying entry-level jobs. It's changing them
+## 2. I argued with the father of open source for 2 years Now the AI fight is the same
 
-**Author:** thm  
-**Published:** 7/19/2026, 1:05:42 PM  
+**Author:** t-3  
+**Published:** 7/19/2026, 7:02:31 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a Comments URL: https://news.ycombinator.com/item?id=48967897 Points: 1 # Comments: 0
+Article URL: https://fortune.com/2026/07/03/open-source-ai-same-fight-as-software-fight-1980s-david-siegel-two-sigma/ Comments URL: https://news.ycombinator.com/item?id=48970814 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a)
+📖 [Read original article](https://fortune.com/2026/07/03/open-source-ai-same-fight-as-software-fight-1980s-david-siegel-two-sigma/)
 
 ---
 
-## 3. I built llms.txt files to make local businesses discoverable by AI agents
+## 3. Netflix Paid $587M for Ben Affleck's AI Startup InterPositive
 
-**Author:** businesshustle  
-**Published:** 7/19/2026, 12:39:20 PM  
+**Author:** ortusdux  
+**Published:** 7/19/2026, 6:53:05 PM  
 **Categories:** -  
 
-Article URL: https://www.kloofstreet.online/ Comments URL: https://news.ycombinator.com/item?id=48967666 Points: 1 # Comments: 2
+Article URL: https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/ Comments URL: https://news.ycombinator.com/item?id=48970736 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.kloofstreet.online/)
+📖 [Read original article](https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/)
 
 ---
 
-## 4. Show HN: We ranked our dev tools in Google's new AI Overviews
+## 4. The CIA Operative Who Spied on the U.A.E.–and Played a Role in Its AI Win
 
-**Author:** mraadikhokhar  
-**Published:** 7/19/2026, 11:52:27 AM  
+**Author:** NN88  
+**Published:** 7/19/2026, 6:45:46 PM  
 **Categories:** -  
 
-Article URL: https://zlvox.com/blog/google-ai-overviews-2026-optimize-agentic-search Comments URL: https://news.ycombinator.com/item?id=48967286 Points: 2 # Comments: 0
+Article URL: https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8 Comments URL: https://news.ycombinator.com/item?id=48970670 Points: 1 # Comments: 1
 
-📖 [Read original article](https://zlvox.com/blog/google-ai-overviews-2026-optimize-agentic-search)
+📖 [Read original article](https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8)
 
 ---
 
-## 5. Anti-AI protest reaches OpenAI HQ
+## 5. Huginn: An AI Agent Activity Console
 
-**Author:** nlpnerd  
-**Published:** 7/19/2026, 11:31:57 AM  
+**Author:** tohuw  
+**Published:** 7/19/2026, 6:21:37 PM  
 **Categories:** -  
 
-Article URL: https://www.msn.com/en-in/money/topstories/anti-ai-protest-reaches-openai-hq-why-protesters-left-body-bags-outside-office/ Comments URL: https://news.ycombinator.com/item?id=48967131 Points: 4 # Comments: 1
+Article URL: https://github.com/tohuw/huginn Comments URL: https://news.ycombinator.com/item?id=48970487 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.msn.com/en-in/money/topstories/anti-ai-protest-reaches-openai-hq-why-protesters-left-body-bags-outside-office/)
+📖 [Read original article](https://github.com/tohuw/huginn)
 
 ---
 
-## 6. Could AI Be Conscious?
+## 6. AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)
 
-**Author:** rwmj  
-**Published:** 7/19/2026, 11:18:09 AM  
+**Author:** pawfromoz  
+**Published:** 7/19/2026, 6:21:11 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious Comments URL: https://news.ycombinator.com/item?id=48967017 Points: 2 # Comments: 3
+Article URL: https://github.com/Ozperium/agentspec Comments URL: https://news.ycombinator.com/item?id=48970483 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious)
+📖 [Read original article](https://github.com/Ozperium/agentspec)
 
 ---
 
-## 7. Agent Arena: Benchmarking AI Agent Devtool Onboarding
+## 7. Generative AI Can Harm Teaching
 
-**Author:** karlmush  
-**Published:** 7/19/2026, 10:44:13 AM  
+**Author:** rekabis  
+**Published:** 7/19/2026, 6:19:59 PM  
 **Categories:** -  
 
-Article URL: https://2027.dev/arena/sandboxes Comments URL: https://news.ycombinator.com/item?id=48966766 Points: 3 # Comments: 0
+Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339 Comments URL: https://news.ycombinator.com/item?id=48970468 Points: 1 # Comments: 1
 
-📖 [Read original article](https://2027.dev/arena/sandboxes)
+📖 [Read original article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339)
 
 ---
 
-## 8. Show HN: AI Buddy – Free STT and Screenshot Tool for Mac (Requires Gemini)
+## 8. Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video]
 
-**Author:** morion4000  
-**Published:** 7/19/2026, 10:29:34 AM  
+**Author:** verdverm  
+**Published:** 7/19/2026, 6:17:57 PM  
 **Categories:** -  
 
-I created this tool because I honestly didn't want to pay a monthly subscription fee for other apps, and I also needed it to be a bit more reliable and wanted to be able to take screenshots in a particular way that's useful for working with Claude Code. Comments URL: https://news.ycombinator.com/ite...
+Article URL: https://www.youtube.com/watch?v=0Pbv5_7t1GQ Comments URL: https://news.ycombinator.com/item?id=48970449 Points: 6 # Comments: 1
 
-📖 [Read original article](https://claudete.co/ai-buddy)
+📖 [Read original article](https://www.youtube.com/watch?v=0Pbv5_7t1GQ)
 
 ---
 
-## 9. Who's Subsidizing Chinese AI
+## 9. AI Requires a Labor Market Bailout
 
-**Author:** colin7snyder  
-**Published:** 7/19/2026, 10:25:56 AM  
+**Author:** mooreds  
+**Published:** 7/19/2026, 6:06:44 PM  
 **Categories:** -  
 
-Article URL: https://www.chinese-ai-report.com/ Comments URL: https://news.ycombinator.com/item?id=48966676 Points: 4 # Comments: 4
+Article URL: https://www.thecareertoolkitbook.com/blog/ai-requires-a-labor-market-bailout Comments URL: https://news.ycombinator.com/item?id=48970332 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.chinese-ai-report.com/)
+📖 [Read original article](https://www.thecareertoolkitbook.com/blog/ai-requires-a-labor-market-bailout)
 
 ---
 
-## 10. From Algorithms to Autonomy:How AI Is Rewriting Architecture of SW and Mobility
+## 10. Signal to Noise: The challenge of AI-authored text
 
-**Author:** yogrish  
-**Published:** 7/19/2026, 10:21:35 AM  
+**Author:** calmdown13  
+**Published:** 7/19/2026, 6:06:38 PM  
 **Categories:** -  
 
-Article URL: https://bhanuprakash795480.substack.com/p/from-algorithms-to-autonomy Comments URL: https://news.ycombinator.com/item?id=48966657 Points: 3 # Comments: 0
+Article URL: https://calmdown13.substack.com/p/signal-to-noise Comments URL: https://news.ycombinator.com/item?id=48970331 Points: 1 # Comments: 0
 
-📖 [Read original article](https://bhanuprakash795480.substack.com/p/from-algorithms-to-autonomy)
+📖 [Read original article](https://calmdown13.substack.com/p/signal-to-noise)
 
 ---
 
-## 11. San Francisco Demands Apple and Google Delete AI 'Nudify' Apps from App Stores
+## 11. AI Chip Startup Etched Is in Talks for $20B Valuation
 
-**Author:** nyku  
-**Published:** 7/19/2026, 10:06:10 AM  
+**Author:** bookofjoe  
+**Published:** 7/19/2026, 5:45:13 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/ Comments URL: https://news.ycombinator.com/item?id=48966582 Points: 6 # Comments: 1
+Article URL: https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d Comments URL: https://news.ycombinator.com/item?id=48970146 Points: 2 # Comments: 1
 
-📖 [Read original article](https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/)
+📖 [Read original article](https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d)
 
 ---
 
-## 12. AI coding agents should optimize for less owned code
+## 12. I Cut an AI Agent's Token Use by 94%
 
-**Author:** lyoncy  
-**Published:** 7/19/2026, 10:03:08 AM  
+**Author:** gmays  
+**Published:** 7/19/2026, 5:23:49 PM  
 **Categories:** -  
 
-Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code Comments URL: https://news.ycombinator.com/item?id=48966567 Points: 2 # Comments: 0
+Article URL: https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/ Comments URL: https://news.ycombinator.com/item?id=48969971 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code)
+📖 [Read original article](https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/)
 
 ---
 
-## 13. Aging Baby Boomers are America's real labor problem, not AI
+## 13. Resolution Horizon – Finding the mathematical limit where AI overfits to noise
 
-**Author:** quick_brown_fox  
-**Published:** 7/19/2026, 9:56:44 AM  
+**Author:** bjoern_janson  
+**Published:** 7/19/2026, 5:15:40 PM  
 **Categories:** -  
 
-Article URL: https://fortune.com/2026/07/18/us-labor-shortage-ai-baby-boomers-2032/ Comments URL: https://news.ycombinator.com/item?id=48966531 Points: 8 # Comments: 0
+Article URL: https://github.com/bjoern-janson/resolution-horizon Comments URL: https://news.ycombinator.com/item?id=48969902 Points: 1 # Comments: 0
 
-📖 [Read original article](https://fortune.com/2026/07/18/us-labor-shortage-ai-baby-boomers-2032/)
+📖 [Read original article](https://github.com/bjoern-janson/resolution-horizon)
 
 ---
 
-## 14. Using AI makes people less likely to admit they don't know something
+## 14. AI slop cut first-time contributor merge rates 18.18% across 294 repos
 
-**Author:** defrost  
-**Published:** 7/19/2026, 9:38:40 AM  
+**Author:** logickkk1  
+**Published:** 7/19/2026, 5:14:26 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567 Comments URL: https://news.ycombinator.com/item?id=48966435 Points: 5 # Comments: 1
+Article URL: https://arxiv.org/abs/2607.04003 Comments URL: https://news.ycombinator.com/item?id=48969887 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567)
+📖 [Read original article](https://arxiv.org/abs/2607.04003)
 
 ---
 
-## 15. Show HN: AI mock interview tool that scores your answers – free, no signup
+## 15. AI advice reduced \"I don't know\" answers from 44% to 3%
 
-**Author:** BenGallagh  
-**Published:** 7/19/2026, 8:58:14 AM  
+**Author:** logickkk1  
+**Published:** 7/19/2026, 5:09:34 PM  
 **Categories:** -  
 
-Article URL: https://interviewpracticeai.com Comments URL: https://news.ycombinator.com/item?id=48966198 Points: 2 # Comments: 0
+Article URL: https://osf.io/preprints/psyarxiv/5y6m4_v1 Comments URL: https://news.ycombinator.com/item?id=48969839 Points: 3 # Comments: 1
 
-📖 [Read original article](https://interviewpracticeai.com)
+📖 [Read original article](https://osf.io/preprints/psyarxiv/5y6m4_v1)
 
 ---
 
-## 16. Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree
+## 16. Prompt Injection Attacks Are Thwarting AI Hacking Agents
 
-**Author:** igor_nast  
-**Published:** 7/19/2026, 8:48:47 AM  
+**Author:** joozio  
+**Published:** 7/19/2026, 5:01:11 PM  
 **Categories:** -  
 
-Hello all,I'm a software developer. Over the last few months more and more of my work has turned into using coding agents instead of typing the whole code myself. Usually a few claude sessions at once, sometimes codex, one per feature or per revealed bug.I ran them in a split terminal for a few week...
+Article URL: https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/ Comments URL: https://news.ycombinator.com/item?id=48969782 Points: 2 # Comments: 0
 
-📖 [Read original article](https://shikigami.dev/)
+📖 [Read original article](https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/)
 
 ---
 
-## 17. Protester calls out Amazon CTO for allowing Israel to use their AI towards Gaza
+## 17. Do you manage task/todo differently in this AI era?
 
-**Author:** trymas  
-**Published:** 7/19/2026, 8:29:38 AM  
+**Author:** khanhphd  
+**Published:** 7/19/2026, 4:06:02 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/chaoticgood/s/4Pla2e38AV Comments URL: https://news.ycombinator.com/item?id=48966039 Points: 23 # Comments: 1
+I'm curious. Do you use todo list app? pen & paper? or any digital apps you're using daily?Personally, i still use Obsidian for notes tasks and sometimes Jira for following tasks with my teammates.In the Agentic AI era, does the way you "manage" tasks change? What are the moments in the normal-day w...
 
-📖 [Read original article](https://www.reddit.com/r/chaoticgood/s/4Pla2e38AV)
+📖 [Read original article](https://news.ycombinator.com/item?id=48969329)
 
 ---
 
-## 18. Where I erred in my original post about Kimi and my views on open-weight AI
+## 18. AI Demands More Engineering Discipline
 
-**Author:** tosh  
-**Published:** 7/19/2026, 8:29:16 AM  
+**Author:** nishantjani10  
+**Published:** 7/19/2026, 4:05:35 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/deanwball/status/2078619513575137330 Comments URL: https://news.ycombinator.com/item?id=48966034 Points: 5 # Comments: 1
+Article URL: https://charity.wtf/p/ai-demands-more-engineering-discipline Comments URL: https://news.ycombinator.com/item?id=48969326 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/deanwball/status/2078619513575137330)
+📖 [Read original article](https://charity.wtf/p/ai-demands-more-engineering-discipline)
 
 ---
 
-## 19. When China's open-source AI is a trap
+## 19. Moonshot AI suspends new subscriptions due to Kimi K3 demand
 
-**Author:** chvid  
-**Published:** 7/19/2026, 8:27:03 AM  
+**Author:** serialx  
+**Published:** 7/19/2026, 4:02:25 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap Comments URL: https://news.ycombinator.com/item?id=48966026 Points: 7 # Comments: 3
+Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 72 # Comments: 16
 
-📖 [Read original article](https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap)
+📖 [Read original article](https://twitter.com/kimi_moonshot/status/2078855608565207130)
 
 ---
 
-## 20. Perforce charges $500 for training training videos.. and it's AI narrated
+## 20. The bottleneck for AI agents isn't the model anymore. It's the context layer
 
-**Author:** TZubiri  
-**Published:** 7/19/2026, 8:00:24 AM  
+**Author:** Brajeshwar  
+**Published:** 7/19/2026, 3:57:03 PM  
 **Categories:** -  
 
-Article URL: https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic Comments URL: https://news.ycombinator.com/item?id=48965886 Points: 47 # Comments: 67
+Article URL: https://thenewstack.io/ai-agent-infrastructure-bottleneck/ Comments URL: https://news.ycombinator.com/item?id=48969262 Points: 1 # Comments: 0
 
-📖 [Read original article](https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic)
+📖 [Read original article](https://thenewstack.io/ai-agent-infrastructure-bottleneck/)
 
 ---
