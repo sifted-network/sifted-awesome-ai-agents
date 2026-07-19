@@ -11,11 +11,23 @@ count: 10
 
 ---
 
-## 1. 围观WAIC模型「读心术」！现场火火火火火
+## 1. 冷门的哲学，成了“治”AI的热门
+
+**Author:** 衡宇  
+**Published:** 7/19/2026, 12:34:01 PM  
+**Categories:** 资讯, WAIC, 哲学, 科学智能开放论坛  
+
+智能进了社会，治理不能慢半拍
+
+📖 [Read original article](https://www.qbitai.com/2026/07/455041.html)
+
+---
+
+## 2. 围观WAIC模型「读心术」！现场火火火火火
 
 **Author:** Jay  
 **Published:** 7/19/2026, 11:55:52 AM  
-**Categories:** 资讯  
+**Categories:** 资讯, 主观世界模型  
 
 主观世界模型
 
@@ -23,23 +35,11 @@ count: 10
 
 ---
 
-## 2. 西部数据WAIC 2026媒体资料包
-
-**Author:** 量子位的朋友们  
-**Published:** 7/19/2026, 11:51:51 AM  
-**Categories:** 资讯, 西部数据  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/454824.html)
-
----
-
 ## 3. 不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半
 
 **Author:** Jay  
 **Published:** 7/19/2026, 11:50:28 AM  
-**Categories:** 资讯  
+**Categories:** 资讯, 奇异摩尔  
 
 奇异摩尔首次亮相WAIC 2026
 
@@ -51,7 +51,7 @@ count: 10
 
 **Author:** Jay  
 **Published:** 7/19/2026, 11:43:25 AM  
-**Categories:** 资讯  
+**Categories:** 资讯, 京东  
 
 还得是AI圈春晚
 
@@ -123,7 +123,7 @@ count: 10
 
 **Author:** Jay  
 **Published:** 7/19/2026, 7:00:47 AM  
-**Categories:** 资讯  
+**Categories:** 资讯, 上海AI Lab  
 
 Harness本身也可以被搜索、验证和迭代
 
