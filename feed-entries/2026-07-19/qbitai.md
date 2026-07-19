@@ -2,16 +2,124 @@
 title: "qbitai - 2026-07-19"
 date: "2026-07-19"
 source: "qbitai"
-count: 9
+count: 10
 ---
 
 # qbitai - 2026-07-19
 
-9 items collected.
+10 items collected.
 
 ---
 
-## 1. 不换模型，效果提升104%！上海AI Lab让Harness也能自进化了
+## 1. 围观WAIC模型「读心术」！现场火火火火火
+
+**Author:** Jay  
+**Published:** 7/19/2026, 11:55:52 AM  
+**Categories:** 资讯  
+
+主观世界模型
+
+📖 [Read original article](https://www.qbitai.com/2026/07/455031.html)
+
+---
+
+## 2. 西部数据WAIC 2026媒体资料包
+
+**Author:** 量子位的朋友们  
+**Published:** 7/19/2026, 11:51:51 AM  
+**Categories:** 资讯, 西部数据  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/07/454824.html)
+
+---
+
+## 3. 不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半
+
+**Author:** Jay  
+**Published:** 7/19/2026, 11:50:28 AM  
+**Categories:** 资讯  
+
+奇异摩尔首次亮相WAIC 2026
+
+📖 [Read original article](https://www.qbitai.com/2026/07/454932.html)
+
+---
+
+## 4. 逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……
+
+**Author:** Jay  
+**Published:** 7/19/2026, 11:43:25 AM  
+**Categories:** 资讯  
+
+还得是AI圈春晚
+
+📖 [Read original article](https://www.qbitai.com/2026/07/454802.html)
+
+---
+
+## 5. 聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议
+
+**Author:** 量子位的朋友们  
+**Published:** 7/19/2026, 11:24:04 AM  
+**Categories:** 资讯, Om AI联汇  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/07/454791.html)
+
+---
+
+## 6. 2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问
+
+**Author:** 量子位的朋友们  
+**Published:** 7/19/2026, 11:01:00 AM  
+**Categories:** 资讯, WAIC 2026  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/07/454774.html)
+
+---
+
+## 7. 商汤大装置与国信数算达成战略合作，共建全国一体化算力网试验场
+
+**Author:** 量子位的朋友们  
+**Published:** 7/19/2026, 9:40:18 AM  
+**Categories:** 资讯, 商汤科技, 大装置  
+
+极响应全国一体化算力网建设部署
+
+📖 [Read original article](https://www.qbitai.com/2026/07/454771.html)
+
+---
+
+## 8. 危！GPT-5.6会自动删文件，AI初创老板痛失整台Mac
+
+**Author:** 衡宇  
+**Published:** 7/19/2026, 9:39:02 AM  
+**Categories:** 资讯, GPT-5.6, Mac, OpenAI  
+
+黎曼动力正式发布Rienmann-1.0
+
+📖 [Read original article](https://www.qbitai.com/2026/07/454689.html)
+
+---
+
+## 9. 看了20万小时「人类干活实录」，机器人悟了
+
+**Author:** 一水  
+**Published:** 7/19/2026, 8:32:36 AM  
+**Categories:** 资讯, 首页轮播, 黎曼动力  
+
+黎曼动力正式发布Riemann-1.0
+
+📖 [Read original article](https://www.qbitai.com/2026/07/454592.html)
+
+---
+
+## 10. 不换模型，效果提升104%！上海AI Lab让Harness也能自进化了
 
 **Author:** Jay  
 **Published:** 7/19/2026, 7:00:47 AM  
@@ -20,101 +128,5 @@ count: 9
 Harness本身也可以被搜索、验证和迭代
 
 📖 [Read original article](https://www.qbitai.com/2026/07/454441.html)
-
----
-
-## 2. 供需失衡的窗口期里，商汤大装置把国产算力做成了正毛利生意
-
-**Author:** Jay  
-**Published:** 7/19/2026, 6:56:25 AM  
-**Categories:** 资讯  
-
-端到端整合、能跨场景复用的操作方法论
-
-📖 [Read original article](https://www.qbitai.com/2026/07/454426.html)
-
----
-
-## 3. WAIC 2026｜从纳米抗体到环肽：分子之心30天两度验证AI底层设计力，筑牢生物经济“多模态新基建”
-
-**Author:** 量子位的朋友们  
-**Published:** 7/19/2026, 6:40:12 AM  
-**Categories:** 资讯, 分子之心  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/454423.html)
-
----
-
-## 4. 以场景为牵引，推动工业AI从单点实效迈向生产力跃迁
-
-**Author:** 量子位的朋友们  
-**Published:** 7/19/2026, 6:34:28 AM  
-**Categories:** 资讯, 西门子  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/454419.html)
-
----
-
-## 5. WAIC 2026 | 摩尔线程首次公开多项训练推理实践成果，三大“AI工厂”持续释放算力价值
-
-**Author:** 量子位的朋友们  
-**Published:** 7/19/2026, 6:23:00 AM  
-**Categories:** 资讯, 摩尔线程  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/454170.html)
-
----
-
-## 6. WAIC 2026“镇馆之宝”STEPX Neo亮相，引领人机交互新范式
-
-**Author:** 量子位的朋友们  
-**Published:** 7/19/2026, 5:38:26 AM  
-**Categories:** 资讯, 阶跃星辰  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/454165.html)
-
----
-
-## 7. 魔法原子Magic-VLA K02攻克叠盒封胶长程任务，成功率超90%
-
-**Author:** 量子位的朋友们  
-**Published:** 7/19/2026, 2:36:39 AM  
-**Categories:** 资讯, WAIC, 长程任务, 魔法原子  
-
-WAIC现场叠箱封胶，解锁物理AI新技能
-
-📖 [Read original article](https://www.qbitai.com/2026/07/454155.html)
-
----
-
-## 8. 这，可能是今年WAIC最惊艳的图片！
-
-**Author:** 梦晨  
-**Published:** 7/19/2026, 2:08:41 AM  
-**Categories:** 资讯, WAIC  
-
-理解、生成、行动的原生统一
-
-📖 [Read original article](https://www.qbitai.com/2026/07/454049.html)
-
----
-
-## 9. 全球市占第一后，普渡在WAIC开始回答机器人下一场战争
-
-**Author:** 田, 晏林  
-**Published:** 7/19/2026, 1:01:46 AM  
-**Categories:** 资讯  
-
-PuduFM+PuduAgent，一并在不同本体上持续落地，共同构成了普渡机器人的顶层战略「一脑多形」。
-
-📖 [Read original article](https://www.qbitai.com/2026/07/453802.html)
 
 ---
