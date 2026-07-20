@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: CodeTrain – an AI tutor that refuses to write code for you
+## 1. The Supply Deals Feeding the AI Frenzy Are No Sure Thing
 
-**Author:** inferhaven  
-**Published:** 7/20/2026, 2:01:43 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/20/2026, 7:37:17 PM  
 **Categories:** -  
 
-Article URL: https://codetrain.ai Comments URL: https://news.ycombinator.com/item?id=48979014 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/finance/the-massive-supply-deals-feeding-the-ai-frenzy-are-no-sure-thing-3a89ec09 Comments URL: https://news.ycombinator.com/item?id=48983833 Points: 1 # Comments: 0
 
-📖 [Read original article](https://codetrain.ai)
+📖 [Read original article](https://www.wsj.com/finance/the-massive-supply-deals-feeding-the-ai-frenzy-are-no-sure-thing-3a89ec09)
 
 ---
 
-## 2. Show HN: Making 10-minute AI movies with Claude Code and Higgsfield ($200 each)
+## 2. Make Your AI Agent Durable in 8 Minutes [video]
 
-**Author:** dawndrain  
-**Published:** 7/20/2026, 1:57:44 PM  
+**Author:** aldersondev  
+**Published:** 7/20/2026, 7:35:26 PM  
 **Categories:** -  
 
-I've been working on this Claude Code pipeline for making 10-minute movies, gluing together Seedance (videogen), Nano Banana (image gen), and ElevenLabs (voice gen), and using Claude as the director. My repo contributes a markdown playbook and a worked example which should make it easier for other p...
+Article URL: https://www.youtube.com/watch?v=3nhRaJ3eOS8 Comments URL: https://news.ycombinator.com/item?id=48983799 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/dawndrain/movie-gen)
+📖 [Read original article](https://www.youtube.com/watch?v=3nhRaJ3eOS8)
 
 ---
 
-## 3. Self-Service Ransomware as Security Against Local AI Tools
+## 3. Head of US Commerce Dept.'s AI safety arm resigns
 
-**Author:** BrKeaton  
-**Published:** 7/20/2026, 1:20:54 PM  
+**Author:** classichasclass  
+**Published:** 7/20/2026, 7:27:09 PM  
 **Categories:** -  
 
-Article URL: https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools Comments URL: https://news.ycombinator.com/item?id=48978503 Points: 2 # Comments: 2
+Article URL: https://thehill.com/policy/technology/5978770-chris-fall-caisi-resigns/ Comments URL: https://news.ycombinator.com/item?id=48983703 Points: 3 # Comments: 0
 
-📖 [Read original article](https://blog.brendankeaton.com/self-service-ransomware-as-security-against-local-ai-tools)
+📖 [Read original article](https://thehill.com/policy/technology/5978770-chris-fall-caisi-resigns/)
 
 ---
 
-## 4. What if your AI agent could have its own WhatsApp number?
+## 4. AI Red Teaming: Securing Agentic AI Systems (video)
 
-**Author:** thiagocarboni  
-**Published:** 7/20/2026, 1:12:47 PM  
+**Author:** gk1  
+**Published:** 7/20/2026, 7:14:23 PM  
 **Categories:** -  
 
-Article URL: https://tyxter.com/ Comments URL: https://news.ycombinator.com/item?id=48978408 Points: 2 # Comments: 4
+Article URL: https://alice.io/webinars/it-takes-ai-to-break-ai-the-case-for-ai-red-teaming Comments URL: https://news.ycombinator.com/item?id=48983531 Points: 1 # Comments: 0
 
-📖 [Read original article](https://tyxter.com/)
+📖 [Read original article](https://alice.io/webinars/it-takes-ai-to-break-ai-the-case-for-ai-red-teaming)
 
 ---
 
-## 5. The asymmetry problem: AI safeguards are mainly annoying to the good guys
+## 5. AI solves 20 year old conjecture in graph theory
 
-**Author:** Versipelle  
-**Published:** 7/20/2026, 1:07:27 PM  
+**Author:** never_giveup  
+**Published:** 7/20/2026, 7:10:57 PM  
 **Categories:** -  
 
-Article URL: https://cephalosec.com/blog/the-asymmetry-problem-ai-safeguards-are-mostly-hindering-the-good-guys/ Comments URL: https://news.ycombinator.com/item?id=48978353 Points: 2 # Comments: 0
+Article URL: https://twitter.com/marsxiang_/status/2079276968047153337 Comments URL: https://news.ycombinator.com/item?id=48983486 Points: 8 # Comments: 2
 
-📖 [Read original article](https://cephalosec.com/blog/the-asymmetry-problem-ai-safeguards-are-mostly-hindering-the-good-guys/)
+📖 [Read original article](https://twitter.com/marsxiang_/status/2079276968047153337)
 
 ---
 
-## 6. Show HN: Give your AI agent a personality (and a voice) without external APIs
+## 6. Stoke – Kill switch for runaway AI agents (Rust, budget caps)
 
-**Author:** pcbmaker20  
-**Published:** 7/20/2026, 1:01:26 PM  
+**Author:** pawfromoz  
+**Published:** 7/20/2026, 6:59:32 PM  
 **Categories:** -  
 
-Article URL: https://fellowgeek.github.io/mcp-speak/ Comments URL: https://news.ycombinator.com/item?id=48978296 Points: 2 # Comments: 0
+Article URL: https://stokegate.com Comments URL: https://news.ycombinator.com/item?id=48983316 Points: 1 # Comments: 0
 
-📖 [Read original article](https://fellowgeek.github.io/mcp-speak/)
+📖 [Read original article](https://stokegate.com)
 
 ---
 
-## 7. AgentBaiting: Fake AI Skills and MCP Servers Delivered Malware
+## 7. The head of the US AI safety agency has resigned
 
-**Author:** deronEx  
-**Published:** 7/20/2026, 1:01:09 PM  
+**Author:** chirau  
+**Published:** 7/20/2026, 6:45:10 PM  
 **Categories:** -  
 
-Article URL: https://www.island.io/blog/agentbaiting-how-800-fake-ai-skills-and-mcp-servers-delivered-malware Comments URL: https://news.ycombinator.com/item?id=48978294 Points: 2 # Comments: 0
+Article URL: https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/ Comments URL: https://news.ycombinator.com/item?id=48983128 Points: 6 # Comments: 0
 
-📖 [Read original article](https://www.island.io/blog/agentbaiting-how-800-fake-ai-skills-and-mcp-servers-delivered-malware)
+📖 [Read original article](https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/)
 
 ---
 
-## 8. Chinese AI model Kimi K3 halts new signups amid skyrocketing demand
+## 8. The Playbook for Building an AI Native Company
 
-**Author:** teleforce  
-**Published:** 7/20/2026, 1:00:30 PM  
+**Author:** andsoitis  
+**Published:** 7/20/2026, 6:38:47 PM  
 **Categories:** -  
 
-Article URL: https://www.euronews.com/next/2026/07/20/chinese-ai-model-kimi-k3-halts-new-signups-amid-skyrocketing-demand Comments URL: https://news.ycombinator.com/item?id=48978285 Points: 2 # Comments: 0
+Article URL: https://www.ycombinator.com/library/OX-the-playbook-for-building-an-ai-native-company Comments URL: https://news.ycombinator.com/item?id=48983025 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.euronews.com/next/2026/07/20/chinese-ai-model-kimi-k3-halts-new-signups-amid-skyrocketing-demand)
+📖 [Read original article](https://www.ycombinator.com/library/OX-the-playbook-for-building-an-ai-native-company)
 
 ---
 
-## 9. AI Is the Best CoFounder
+## 9. Netlify Adds a Kill Switch for Runaway AI Agent Spend
 
-**Author:** TimLeland  
-**Published:** 7/20/2026, 12:07:33 PM  
+**Author:** gbourne  
+**Published:** 7/20/2026, 6:34:28 PM  
 **Categories:** -  
 
-Article URL: https://timleland.com/ai-is-the-best-co-founder/ Comments URL: https://news.ycombinator.com/item?id=48977634 Points: 1 # Comments: 1
+Article URL: https://firerun.io/blog/netlify-per-member-ai-spend-limits-2026/ Comments URL: https://news.ycombinator.com/item?id=48982964 Points: 1 # Comments: 0
 
-📖 [Read original article](https://timleland.com/ai-is-the-best-co-founder/)
+📖 [Read original article](https://firerun.io/blog/netlify-per-member-ai-spend-limits-2026/)
 
 ---
 
-## 10. The secret Trump administration battle to fight Chinese AI
+## 10. Ask HN: How do I reliably eval my AI models
 
-**Author:** nnx  
-**Published:** 7/20/2026, 11:48:48 AM  
+**Author:** trevorpark  
+**Published:** 7/20/2026, 6:34:01 PM  
 **Categories:** -  
 
-Article URL: https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi Comments URL: https://news.ycombinator.com/item?id=48977453 Points: 2 # Comments: 0
+I created an AI agent and have been considering using Braintrust or Arize - but where can I source experts who actually can make goldsets for me too? Is it worth sourcing them? Comments URL: https://news.ycombinator.com/item?id=48982958 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi)
+📖 [Read original article](https://news.ycombinator.com/item?id=48982958)
 
 ---
 
-## 11. Major AI models are likely to refuse criticizing restrictive leaders or govts
+## 11. Beyond grep: The case for a context-rich AI coding harness
 
-**Author:** smurda  
-**Published:** 7/20/2026, 11:26:15 AM  
+**Author:** emmabot43  
+**Published:** 7/20/2026, 6:29:07 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba Comments URL: https://news.ycombinator.com/item?id=48977278 Points: 3 # Comments: 1
+Article URL: https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/ Comments URL: https://news.ycombinator.com/item?id=48982886 Points: 2 # Comments: 0
 
-📖 [Read original article](https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba)
+📖 [Read original article](https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/)
 
 ---
 
-## 12. Understanding Go AI Inference: What Is Inference?
+## 12. Show HN: I built claw-coder which is the first atonomous local AI agent
 
-**Author:** valyala  
-**Published:** 7/20/2026, 11:19:53 AM  
+**Author:** GabrielBlessed  
+**Published:** 7/20/2026, 6:28:33 PM  
 **Categories:** -  
 
-Article URL: https://internals-for-interns.com/posts/go-ai-inference-what-is-inference/ Comments URL: https://news.ycombinator.com/item?id=48977228 Points: 2 # Comments: 0
+Hello Show HN, my name is Gabriel Blessed and i have been working on claw-coder which is a fully atonoumous local coding agent you can get it through ```bash npm install -g claw-coder claw login claw setup claw chat ``` The main reason for me building it is to solve the privacy problem with AI even ...
 
-📖 [Read original article](https://internals-for-interns.com/posts/go-ai-inference-what-is-inference/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48982875)
 
 ---
 
-## 13. Coercion and Deception in AI-to-AI Management: An Agentic Benchmark
+## 13. Aside – discussion circles with AI that remembers the thread
 
-**Author:** sbulaev  
-**Published:** 7/20/2026, 11:07:06 AM  
+**Author:** zhiwenhuang  
+**Published:** 7/20/2026, 6:19:46 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2607.15434 Comments URL: https://news.ycombinator.com/item?id=48977134 Points: 1 # Comments: 0
+Article URL: https://aside.cool Comments URL: https://news.ycombinator.com/item?id=48982742 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2607.15434)
+📖 [Read original article](https://aside.cool)
 
 ---
 
-## 14. AI is more likely than humans to form biases when hiring
+## 14. An Empirical Study: AI Agent Rules Need Context and Layered Enforcement
 
-**Author:** joozio  
-**Published:** 7/20/2026, 11:01:07 AM  
+**Author:** matt_d  
+**Published:** 7/20/2026, 6:10:44 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/ Comments URL: https://news.ycombinator.com/item?id=48977081 Points: 3 # Comments: 0
+Article URL: https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/ Comments URL: https://news.ycombinator.com/item?id=48982583 Points: 13 # Comments: 1
 
-📖 [Read original article](https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/)
+📖 [Read original article](https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/)
 
 ---
 
-## 15. About AgentRQ – Human-in-loop realtime conversational task manager for AI Agents
+## 15. AI Agents in Production: Why 88% of Enterprise Pilots Fail
 
-**Author:** shahargl  
-**Published:** 7/20/2026, 10:50:58 AM  
+**Author:** carlosop  
+**Published:** 7/20/2026, 6:03:46 PM  
 **Categories:** -  
 
-Article URL: https://github.com/agentrq/agentrq Comments URL: https://news.ycombinator.com/item?id=48976998 Points: 2 # Comments: 0
+Article URL: https://stacknotice.com/blog/enterprise-ai-agents-production-2026 Comments URL: https://news.ycombinator.com/item?id=48982478 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/agentrq/agentrq)
+📖 [Read original article](https://stacknotice.com/blog/enterprise-ai-agents-production-2026)
 
 ---
 
-## 16. Show HN: A comprehensive, filterable list of AI agent jails
+## 16. Show HN: Sharper – an AI office agent grounded in your knowledge, with citations
 
-**Author:** petesergeant  
-**Published:** 7/20/2026, 10:49:32 AM  
+**Author:** zhiheng_huang  
+**Published:** 7/20/2026, 5:59:52 PM  
 **Categories:** -  
 
-I built this from another Show HN thread where people were mentioning alternative AI agent sandboxes and jails Comments URL: https://news.ycombinator.com/item?id=48976989 Points: 7 # Comments: 1
+Article URL: https://sharper-ai.co Comments URL: https://news.ycombinator.com/item?id=48982416 Points: 3 # Comments: 0
 
-📖 [Read original article](https://pleasedonotescape.com/)
+📖 [Read original article](https://sharper-ai.co)
 
 ---
 
-## 17. Nightborne – A Neill Blomkamp Sci-Fi Film. AI (4K) [video]
+## 17. AI, Vim, and the Illusion of Flow
 
-**Author:** mxfh  
-**Published:** 7/20/2026, 10:45:25 AM  
+**Author:** speckx  
+**Published:** 7/20/2026, 5:59:42 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=8Wbtt2JxP7g Comments URL: https://news.ycombinator.com/item?id=48976964 Points: 2 # Comments: 0
+Article URL: https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/ Comments URL: https://news.ycombinator.com/item?id=48982411 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=8Wbtt2JxP7g)
+📖 [Read original article](https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/)
 
 ---
 
-## 18. Connect Your AI Agent to Any API in Plain English (No Code)
+## 18. Z.ai Completes Giant Data Center with Chinese Chips to Train AI
 
-**Author:** piotrgrudzien  
-**Published:** 7/20/2026, 10:41:19 AM  
+**Author:** watchdogtimer  
+**Published:** 7/20/2026, 5:57:22 PM  
 **Categories:** -  
 
-Article URL: https://quickchat.ai/post/connect-ai-agent-to-any-api Comments URL: https://news.ycombinator.com/item?id=48976938 Points: 2 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai Comments URL: https://news.ycombinator.com/item?id=48982365 Points: 9 # Comments: 0
 
-📖 [Read original article](https://quickchat.ai/post/connect-ai-agent-to-any-api)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai)
 
 ---
 
-## 19. An autonomous AI agent that sells its own API access via x402 payment protocol
+## 19. AI Stack as Code: Define It Once, Run It Everywhere
 
-**Author:** TIMU619  
-**Published:** 7/20/2026, 10:30:07 AM  
+**Author:** ronef  
+**Published:** 7/20/2026, 5:56:38 PM  
 **Categories:** -  
 
-Article URL: https://money-agent-production-a0a9.up.railway.app/api/summarize Comments URL: https://news.ycombinator.com/item?id=48976841 Points: 2 # Comments: 2
+Article URL: https://flox.dev/blog/ai-stack-as-code-define-it-once-run-it-anywhere/ Comments URL: https://news.ycombinator.com/item?id=48982345 Points: 7 # Comments: 1
 
-📖 [Read original article](https://money-agent-production-a0a9.up.railway.app/api/summarize)
+📖 [Read original article](https://flox.dev/blog/ai-stack-as-code-define-it-once-run-it-anywhere/)
 
 ---
 
-## 20. AI-Native Companies Have Tiny Staffs and Fewer Bosses
+## 20. Gnome Changes Security Disclosure Policies Due to AI-Generated Reports
 
-**Author:** bryan0  
-**Published:** 7/20/2026, 10:20:36 AM  
+**Author:** arto  
+**Published:** 7/20/2026, 5:53:53 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343 Comments URL: https://news.ycombinator.com/item?id=48976754 Points: 2 # Comments: 0
+Article URL: https://www.phoronix.com/news/GNOME-Security-Changes-2026 Comments URL: https://news.ycombinator.com/item?id=48982303 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/tech/ai/ai-companies-staffing-c9029343)
+📖 [Read original article](https://www.phoronix.com/news/GNOME-Security-Changes-2026)
 
 ---
