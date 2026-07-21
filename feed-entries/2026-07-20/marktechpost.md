@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-20"
 date: "2026-07-20"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-07-20
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model
+## 1. Alibaba’s Tongyi Lab Releases Qwen-Audio-3.0-TTS, a Hosted Text-to-Speech Model in Flash and Plus Tiers Across 16 Languages
+
+**Author:** Asif Razzaq  
+**Published:** 7/20/2026, 9:14:19 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Staff, Tech News, Technology, TTS, Voice AI  
+
+Alibaba&#8217;s Tongyi Lab has released Qwen-Audio-3.0-TTS, a production-oriented text-to-speech (TTS) system. The model ships in two variants from the same lineage. Flash targets real-time interaction. Plus targets high-quality generation. Both are delivered as hosted models through Alibaba Cloud M...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/)
+
+---
+
+## 2. Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model
 
 **Author:** Michal Sutter  
 **Published:** 7/20/2026, 1:56:50 AM  
@@ -23,7 +35,7 @@ A community developer fine-tuned OpenBMB's MiniCPM5-1B on Claude Fable 5 traces 
 
 ---
 
-## 2. Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared
+## 3. Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared
 
 **Author:** Michal Sutter  
 **Published:** 7/20/2026, 1:18:46 AM  
