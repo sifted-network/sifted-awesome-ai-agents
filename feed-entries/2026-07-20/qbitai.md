@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-20"
 date: "2026-07-20"
 source: "qbitai"
-count: 8
+count: 4
 ---
 
 # qbitai - 2026-07-20
 
-8 items collected.
+4 items collected.
 
 ---
 
@@ -56,53 +56,5 @@ count: 8
 
 
 📖 [Read original article](https://www.qbitai.com/2026/07/455729.html)
-
----
-
-## 5. 启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026
-
-**Author:** 量子位的朋友们  
-**Published:** 7/20/2026, 9:21:30 AM  
-**Categories:** 资讯, WAIC 2026, 启鸣达人  
-
-从理论探索到体系构建
-
-📖 [Read original article](https://www.qbitai.com/2026/07/455730.html)
-
----
-
-## 6. AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单
-
-**Author:** 梦晨  
-**Published:** 7/20/2026, 9:05:06 AM  
-**Categories:** 资讯, Qwen  
-
-细粒度标签+ 20 种方言
-
-📖 [Read original article](https://www.qbitai.com/2026/07/455658.html)
-
----
-
-## 7. WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证
-
-**Author:** 量子位的朋友们  
-**Published:** 7/20/2026, 9:03:23 AM  
-**Categories:** 资讯, 与爱为舞  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/455596.html)
-
----
-
-## 8. GMI Cloud “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！
-
-**Author:** 量子位的朋友们  
-**Published:** 7/20/2026, 8:52:26 AM  
-**Categories:** 资讯, GMI Cloud, HappyHorse, WAIC 2026  
-
-GMI Cloud × HappyHorse 共建 AI 创作生态
-
-📖 [Read original article](https://www.qbitai.com/2026/07/455593.html)
 
 ---
