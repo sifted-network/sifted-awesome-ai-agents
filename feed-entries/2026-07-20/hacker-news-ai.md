@@ -2,251 +2,143 @@
 title: "Hacker News AI - 2026-07-20"
 date: "2026-07-20"
 source: "Hacker News AI"
-count: 20
+count: 11
 ---
 
 # Hacker News AI - 2026-07-20
 
-20 items collected.
+11 items collected.
 
 ---
 
-## 1. The Supply Deals Feeding the AI Frenzy Are No Sure Thing
+## 1. AI just disproved a major math problem. A mathematician explains
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/20/2026, 7:37:17 PM  
+**Author:** 01-_-  
+**Published:** 7/20/2026, 11:57:43 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/finance/the-massive-supply-deals-feeding-the-ai-frenzy-are-no-sure-thing-3a89ec09 Comments URL: https://news.ycombinator.com/item?id=48983833 Points: 1 # Comments: 0
+Article URL: https://mashable.com/tech/anthropic-fable-5-disproves-jacobian-conjecture Comments URL: https://news.ycombinator.com/item?id=48986441 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/finance/the-massive-supply-deals-feeding-the-ai-frenzy-are-no-sure-thing-3a89ec09)
+📖 [Read original article](https://mashable.com/tech/anthropic-fable-5-disproves-jacobian-conjecture)
 
 ---
 
-## 2. Make Your AI Agent Durable in 8 Minutes [video]
+## 2. AI's most important protocol is getting a little bit easier to use
 
-**Author:** aldersondev  
-**Published:** 7/20/2026, 7:35:26 PM  
+**Author:** haritha1313  
+**Published:** 7/20/2026, 11:56:41 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=3nhRaJ3eOS8 Comments URL: https://news.ycombinator.com/item?id=48983799 Points: 1 # Comments: 1
+Article URL: https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/ Comments URL: https://news.ycombinator.com/item?id=48986434 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=3nhRaJ3eOS8)
+📖 [Read original article](https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/)
 
 ---
 
-## 3. Head of US Commerce Dept.'s AI safety arm resigns
+## 3. Sealed secret execution for AI agents
 
-**Author:** classichasclass  
-**Published:** 7/20/2026, 7:27:09 PM  
+**Author:** skeehn  
+**Published:** 7/20/2026, 11:33:32 PM  
 **Categories:** -  
 
-Article URL: https://thehill.com/policy/technology/5978770-chris-fall-caisi-resigns/ Comments URL: https://news.ycombinator.com/item?id=48983703 Points: 3 # Comments: 0
+Article URL: https://ironrun.dev/ Comments URL: https://news.ycombinator.com/item?id=48986254 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thehill.com/policy/technology/5978770-chris-fall-caisi-resigns/)
+📖 [Read original article](https://ironrun.dev/)
 
 ---
 
-## 4. AI Red Teaming: Securing Agentic AI Systems (video)
+## 4. Is Open Weight AI Decelerationist?
 
-**Author:** gk1  
-**Published:** 7/20/2026, 7:14:23 PM  
+**Author:** brandoncarl  
+**Published:** 7/20/2026, 11:14:44 PM  
 **Categories:** -  
 
-Article URL: https://alice.io/webinars/it-takes-ai-to-break-ai-the-case-for-ai-red-teaming Comments URL: https://news.ycombinator.com/item?id=48983531 Points: 1 # Comments: 0
+Article URL: https://fragileequilibrium.substack.com/p/is-open-weight-ai-decelerationist Comments URL: https://news.ycombinator.com/item?id=48986084 Points: 4 # Comments: 1
 
-📖 [Read original article](https://alice.io/webinars/it-takes-ai-to-break-ai-the-case-for-ai-red-teaming)
+📖 [Read original article](https://fragileequilibrium.substack.com/p/is-open-weight-ai-decelerationist)
 
 ---
 
-## 5. AI solves 20 year old conjecture in graph theory
+## 5. AI consciousness is a red herring in the safety debate
 
-**Author:** never_giveup  
-**Published:** 7/20/2026, 7:10:57 PM  
+**Author:** teleforce  
+**Published:** 7/20/2026, 11:08:11 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/marsxiang_/status/2079276968047153337 Comments URL: https://news.ycombinator.com/item?id=48983486 Points: 8 # Comments: 2
+Article URL: https://www.theguardian.com/technology/2026/jan/06/ai-consciousness-is-a-red-herring-in-the-safety-debate Comments URL: https://news.ycombinator.com/item?id=48986026 Points: 8 # Comments: 0
 
-📖 [Read original article](https://twitter.com/marsxiang_/status/2079276968047153337)
-
----
-
-## 6. Stoke – Kill switch for runaway AI agents (Rust, budget caps)
-
-**Author:** pawfromoz  
-**Published:** 7/20/2026, 6:59:32 PM  
-**Categories:** -  
-
-Article URL: https://stokegate.com Comments URL: https://news.ycombinator.com/item?id=48983316 Points: 1 # Comments: 0
-
-📖 [Read original article](https://stokegate.com)
+📖 [Read original article](https://www.theguardian.com/technology/2026/jan/06/ai-consciousness-is-a-red-herring-in-the-safety-debate)
 
 ---
 
-## 7. The head of the US AI safety agency has resigned
-
-**Author:** chirau  
-**Published:** 7/20/2026, 6:45:10 PM  
-**Categories:** -  
-
-Article URL: https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/ Comments URL: https://news.ycombinator.com/item?id=48983128 Points: 6 # Comments: 0
-
-📖 [Read original article](https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/)
-
----
-
-## 8. The Playbook for Building an AI Native Company
-
-**Author:** andsoitis  
-**Published:** 7/20/2026, 6:38:47 PM  
-**Categories:** -  
-
-Article URL: https://www.ycombinator.com/library/OX-the-playbook-for-building-an-ai-native-company Comments URL: https://news.ycombinator.com/item?id=48983025 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.ycombinator.com/library/OX-the-playbook-for-building-an-ai-native-company)
-
----
-
-## 9. Netlify Adds a Kill Switch for Runaway AI Agent Spend
-
-**Author:** gbourne  
-**Published:** 7/20/2026, 6:34:28 PM  
-**Categories:** -  
-
-Article URL: https://firerun.io/blog/netlify-per-member-ai-spend-limits-2026/ Comments URL: https://news.ycombinator.com/item?id=48982964 Points: 1 # Comments: 0
-
-📖 [Read original article](https://firerun.io/blog/netlify-per-member-ai-spend-limits-2026/)
-
----
-
-## 10. Ask HN: How do I reliably eval my AI models
-
-**Author:** trevorpark  
-**Published:** 7/20/2026, 6:34:01 PM  
-**Categories:** -  
-
-I created an AI agent and have been considering using Braintrust or Arize - but where can I source experts who actually can make goldsets for me too? Is it worth sourcing them? Comments URL: https://news.ycombinator.com/item?id=48982958 Points: 1 # Comments: 0
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48982958)
-
----
-
-## 11. Beyond grep: The case for a context-rich AI coding harness
-
-**Author:** emmabot43  
-**Published:** 7/20/2026, 6:29:07 PM  
-**Categories:** -  
-
-Article URL: https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/ Comments URL: https://news.ycombinator.com/item?id=48982886 Points: 2 # Comments: 0
-
-📖 [Read original article](https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/)
-
----
-
-## 12. Show HN: I built claw-coder which is the first atonomous local AI agent
-
-**Author:** GabrielBlessed  
-**Published:** 7/20/2026, 6:28:33 PM  
-**Categories:** -  
-
-Hello Show HN, my name is Gabriel Blessed and i have been working on claw-coder which is a fully atonoumous local coding agent you can get it through ```bash npm install -g claw-coder claw login claw setup claw chat ``` The main reason for me building it is to solve the privacy problem with AI even ...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=48982875)
-
----
-
-## 13. Aside – discussion circles with AI that remembers the thread
-
-**Author:** zhiwenhuang  
-**Published:** 7/20/2026, 6:19:46 PM  
-**Categories:** -  
-
-Article URL: https://aside.cool Comments URL: https://news.ycombinator.com/item?id=48982742 Points: 2 # Comments: 0
-
-📖 [Read original article](https://aside.cool)
-
----
-
-## 14. An Empirical Study: AI Agent Rules Need Context and Layered Enforcement
-
-**Author:** matt_d  
-**Published:** 7/20/2026, 6:10:44 PM  
-**Categories:** -  
-
-Article URL: https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/ Comments URL: https://news.ycombinator.com/item?id=48982583 Points: 13 # Comments: 1
-
-📖 [Read original article](https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/)
-
----
-
-## 15. AI Agents in Production: Why 88% of Enterprise Pilots Fail
-
-**Author:** carlosop  
-**Published:** 7/20/2026, 6:03:46 PM  
-**Categories:** -  
-
-Article URL: https://stacknotice.com/blog/enterprise-ai-agents-production-2026 Comments URL: https://news.ycombinator.com/item?id=48982478 Points: 2 # Comments: 0
-
-📖 [Read original article](https://stacknotice.com/blog/enterprise-ai-agents-production-2026)
-
----
-
-## 16. Show HN: Sharper – an AI office agent grounded in your knowledge, with citations
-
-**Author:** zhiheng_huang  
-**Published:** 7/20/2026, 5:59:52 PM  
-**Categories:** -  
-
-Article URL: https://sharper-ai.co Comments URL: https://news.ycombinator.com/item?id=48982416 Points: 3 # Comments: 0
-
-📖 [Read original article](https://sharper-ai.co)
-
----
-
-## 17. AI, Vim, and the Illusion of Flow
-
-**Author:** speckx  
-**Published:** 7/20/2026, 5:59:42 PM  
-**Categories:** -  
-
-Article URL: https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/ Comments URL: https://news.ycombinator.com/item?id=48982411 Points: 4 # Comments: 0
-
-📖 [Read original article](https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/)
-
----
-
-## 18. Z.ai Completes Giant Data Center with Chinese Chips to Train AI
-
-**Author:** watchdogtimer  
-**Published:** 7/20/2026, 5:57:22 PM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai Comments URL: https://news.ycombinator.com/item?id=48982365 Points: 9 # Comments: 0
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai)
-
----
-
-## 19. AI Stack as Code: Define It Once, Run It Everywhere
-
-**Author:** ronef  
-**Published:** 7/20/2026, 5:56:38 PM  
-**Categories:** -  
-
-Article URL: https://flox.dev/blog/ai-stack-as-code-define-it-once-run-it-anywhere/ Comments URL: https://news.ycombinator.com/item?id=48982345 Points: 7 # Comments: 1
-
-📖 [Read original article](https://flox.dev/blog/ai-stack-as-code-define-it-once-run-it-anywhere/)
-
----
-
-## 20. Gnome Changes Security Disclosure Policies Due to AI-Generated Reports
+## 6. Americans hate AI so much that politicians are losing their jobs over it
 
 **Author:** arto  
-**Published:** 7/20/2026, 5:53:53 PM  
+**Published:** 7/20/2026, 11:06:09 PM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/news/GNOME-Security-Changes-2026 Comments URL: https://news.ycombinator.com/item?id=48982303 Points: 2 # Comments: 1
+Article URL: https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/ Comments URL: https://news.ycombinator.com/item?id=48986003 Points: 41 # Comments: 22
 
-📖 [Read original article](https://www.phoronix.com/news/GNOME-Security-Changes-2026)
+📖 [Read original article](https://fortune.com/2026/07/14/voters-ai-backlash-politicians-lose-seats/)
+
+---
+
+## 7. Colibrì proof-of-concept gains frontier-level 1.5-TB AI model
+
+**Author:** smoyer  
+**Published:** 7/20/2026, 10:58:51 PM  
+**Categories:** -  
+
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups Comments URL: https://news.ycombinator.com/item?id=48985942 Points: 1 # Comments...
+
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/colibri-proof-of-concept-gains-frontier-level-1-5-tb-ai-model-novel-approach-runs-on-only-25gb-of-ram-and-shows-promise-for-local-ai-setups)
+
+---
+
+## 8. Natural raises $30M to reinvent payments for AI agents – and take on Stripe
+
+**Author:** simonpure  
+**Published:** 7/20/2026, 10:55:14 PM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/ Comments URL: https://news.ycombinator.com/item?id=48985911 Points: 1 # Comments: 0
+
+📖 [Read original article](https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/)
+
+---
+
+## 9. Anecdotes Everywhere, Evidence Almost Nowhere (The State of AI in Mid-2026)
+
+**Author:** Kotlopou  
+**Published:** 7/20/2026, 10:39:53 PM  
+**Categories:** -  
+
+Article URL: https://secondthoughts.ai/p/impact-of-ai Comments URL: https://news.ycombinator.com/item?id=48985770 Points: 1 # Comments: 0
+
+📖 [Read original article](https://secondthoughts.ai/p/impact-of-ai)
+
+---
+
+## 10. The Trust Ceiling: The invisible limit on what AI is allowed to do
+
+**Author:** williamtp  
+**Published:** 7/20/2026, 10:38:03 PM  
+**Categories:** -  
+
+Article URL: https://williamtp.substack.com/p/the-ai-trust-ceiling Comments URL: https://news.ycombinator.com/item?id=48985755 Points: 2 # Comments: 1
+
+📖 [Read original article](https://williamtp.substack.com/p/the-ai-trust-ceiling)
+
+---
+
+## 11. The AI Industry Just Got What It Deserved [video]
+
+**Author:** Jazgot  
+**Published:** 7/20/2026, 10:35:07 PM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=9nUmVktlwvA Comments URL: https://news.ycombinator.com/item?id=48985723 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=9nUmVktlwvA)
 
 ---
