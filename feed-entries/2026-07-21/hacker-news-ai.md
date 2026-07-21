@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Maith – open math research with AI
+## 1. Natural-Density Almost-Bounded Collatz Orbits in Logarithmic Time (AI, Lean)
 
-**Author:** hemangkandwal  
-**Published:** 7/21/2026, 1:35:11 PM  
+**Author:** zone411  
+**Published:** 7/21/2026, 7:18:43 PM  
 **Categories:** -  
 
-If AI got lucky or not, AI is surely going to assist in solving serious math problems. If you want to spend your resources/weekends contributing, this repository is full of math problems where you can add your thoughts (or proofs - for you Good Will Hunting type people) for others to build on it and...
+Article URL: https://www.proofatlas.ai/formalizations/natural-density-log-time-collatz/ Comments URL: https://news.ycombinator.com/item?id=48996871 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/clidey/maith)
+📖 [Read original article](https://www.proofatlas.ai/formalizations/natural-density-log-time-collatz/)
 
 ---
 
-## 2. Show HN: TZRO – A Free Local AI Task Offloader
+## 2. Big Tech AI Spree Revives Accounting Devices That Toppled Enron
 
-**Author:** the18thwarrior  
-**Published:** 7/21/2026, 1:34:42 PM  
+**Author:** kawera  
+**Published:** 7/21/2026, 7:17:40 PM  
 **Categories:** -  
 
-Article URL: https://github.com/The18thWarrior/tzro Comments URL: https://news.ycombinator.com/item?id=48992154 Points: 2 # Comments: 0
+Article URL: https://news.bloombergtax.com/financial-accounting/big-tech-ai-spree-revives-accounting-devices-that-toppled-enron Comments URL: https://news.ycombinator.com/item?id=48996860 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/The18thWarrior/tzro)
+📖 [Read original article](https://news.bloombergtax.com/financial-accounting/big-tech-ai-spree-revives-accounting-devices-that-toppled-enron)
 
 ---
 
-## 3. AI physics on vacation turned into real research in quantum mechanics
+## 3. Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron
 
-**Author:** pizzadad  
-**Published:** 7/21/2026, 1:26:38 PM  
+**Author:** arto  
+**Published:** 7/21/2026, 7:11:27 PM  
 **Categories:** -  
 
-Article URL: https://nutfieldsecurity.com/posts/ai-vacation-physics/ Comments URL: https://news.ycombinator.com/item?id=48992051 Points: 1 # Comments: 0
+Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai Comments URL: https://news.ycombinator.com/item?id=48996760 Points: 2 # Comments: 0
 
-📖 [Read original article](https://nutfieldsecurity.com/posts/ai-vacation-physics/)
+📖 [Read original article](https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai)
 
 ---
 
-## 4. Contra George Hotz on \"AI 2040 and the Cult of Intelligence\"
+## 4. We're (Skyfall AI) acquiring SaaS startups and running them with AI as CEO
 
-**Author:** matthewtromp  
-**Published:** 7/21/2026, 1:26:35 PM  
+**Author:** anousha_606  
+**Published:** 7/21/2026, 7:04:02 PM  
 **Categories:** -  
 
-Article URL: https://antiextinction.substack.com/p/contra-ai-2040-and-the-cult-of-intelligence Comments URL: https://news.ycombinator.com/item?id=48992050 Points: 1 # Comments: 0
+Skyfall AI came out of stealth this week and is actively acquiring early-stage SaaS businesses to serve as proving grounds for our AI.Here's what we're looking for:- Monthly recurring revenue under $20,000 - Founded within the last 24 months - Self-serve or product-led growth (no sales calls require...
 
-📖 [Read original article](https://antiextinction.substack.com/p/contra-ai-2040-and-the-cult-of-intelligence)
+📖 [Read original article](https://news.ycombinator.com/item?id=48996643)
 
 ---
 
-## 5. Ask HN: To lead with, or bury, AI in product marketing
+## 5. International Agreements to Limit Frontier AI: Objectives and Exit
 
-**Author:** probst  
-**Published:** 7/21/2026, 1:24:36 PM  
+**Author:** fi-le  
+**Published:** 7/21/2026, 7:02:48 PM  
 **Categories:** -  
 
-Howdy dear folks.Here on hackernews there seems to be very little other than AI related stories. Maybe not all too strange given the crowd who frequents this site. From what I gather the mostly positive sentiment isn't as widely shared among the general population (0: 50% of americans are more conce...
+Article URL: https://arxiv.org/abs/2607.16224 Comments URL: https://news.ycombinator.com/item?id=48996623 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48992019)
+📖 [Read original article](https://arxiv.org/abs/2607.16224)
 
 ---
 
-## 6. Formal verification might solve AI's review bottleneck
+## 6. OpenTakeoff – open-source construction takeoff your AI agent can drive
 
-**Author:** georgwiese  
-**Published:** 7/21/2026, 1:21:50 PM  
+**Author:** kentucky-ai  
+**Published:** 7/21/2026, 6:58:58 PM  
 **Categories:** -  
 
-Article URL: https://georgwiese.github.io/posts/formal-verification-ai/ Comments URL: https://news.ycombinator.com/item?id=48991981 Points: 4 # Comments: 0
+Article URL: https://github.com/Kentucky-ai/opentakeoff Comments URL: https://news.ycombinator.com/item?id=48996573 Points: 2 # Comments: 1
 
-📖 [Read original article](https://georgwiese.github.io/posts/formal-verification-ai/)
+📖 [Read original article](https://github.com/Kentucky-ai/opentakeoff)
 
 ---
 
-## 7. Show HN: Neverbell, an AI agent that analyzes markets and executes trades
+## 7. AI Chips Drive Around a Third of TSMC Revenues
 
-**Author:** alexcordina  
-**Published:** 7/21/2026, 1:20:58 PM  
+**Author:** rbanffy  
+**Published:** 7/21/2026, 6:52:50 PM  
 **Categories:** -  
 
-Hi HN, we're developing Neverbell, an AI agent that combines market analysis with trade execution.One of our beta testers said to Neverbell: “Protect my downside, but don’t be too conservative.”Volatility increased a few days later, and the agent decreased their exposure.Our tester wasn’t happy.The ...
+Article URL: https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929 Comments URL: https://news.ycombinator.com/item?id=48996487 Points: 4 # Comments: 0
 
-📖 [Read original article](https://neverbell.com)
+📖 [Read original article](https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929)
 
 ---
 
-## 8. Show HN: Pinpoint – Visual feedback for AI coding agents
+## 8. A $40k-per-Year AI School with No Teachers Is Opening in Oklahoma This August
 
-**Author:** maferland  
-**Published:** 7/21/2026, 1:12:10 PM  
+**Author:** speckx  
+**Published:** 7/21/2026, 6:52:43 PM  
 **Categories:** -  
 
-I built Pinpoint because I was tired of typing out feedback on the visual work my AI agent did. I want my agent to be autonomous, so having it ask for feedback through a UI felt genuinely better. Dropping a contextual comment on each screenshot is much closer to how you'd give feedback on a design i...
+Article URL: https://oklahomawatch.org/2026/07/21/a-40000-per-year-ai-school-with-no-teachers-is-opening-in-oklahoma-this-august/ Comments URL: https://news.ycombinator.com/item?id=48996485 Points: 2 # Comments: 2
 
-📖 [Read original article](https://pinpoint.maferland.com/)
+📖 [Read original article](https://oklahomawatch.org/2026/07/21/a-40000-per-year-ai-school-with-no-teachers-is-opening-in-oklahoma-this-august/)
 
 ---
 
-## 9. Skyfall plans to buy a small business for an AI CEO test
+## 9. Show HN: Tsaagan – Browser control for AI agents that verifies every action
 
-**Author:** ryanmerket  
-**Published:** 7/21/2026, 1:00:48 PM  
+**Author:** molmos  
+**Published:** 7/21/2026, 6:44:29 PM  
 **Categories:** -  
 
-Article URL: https://runtimewire.com/article/skyfall-ai-buy-business-test-ai-ceo Comments URL: https://news.ycombinator.com/item?id=48991778 Points: 1 # Comments: 0
+Article URL: https://github.com/michaelolmos/tsaagan Comments URL: https://news.ycombinator.com/item?id=48996382 Points: 2 # Comments: 0
 
-📖 [Read original article](https://runtimewire.com/article/skyfall-ai-buy-business-test-ai-ceo)
+📖 [Read original article](https://github.com/michaelolmos/tsaagan)
 
 ---
 
-## 10. Designing for AI Optionality with Karl Koch from DuckDuckGo [video]
+## 10. AI Agent – TRMNL
 
-**Author:** mooreds  
-**Published:** 7/21/2026, 12:58:39 PM  
+**Author:** joeyespo  
+**Published:** 7/21/2026, 6:32:21 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=xXsRnlYv5eM Comments URL: https://news.ycombinator.com/item?id=48991746 Points: 1 # Comments: 0
+Article URL: https://help.trmnl.com/en/articles/14130438-ai-agent Comments URL: https://news.ycombinator.com/item?id=48996236 Points: 7 # Comments: 6
 
-📖 [Read original article](https://www.youtube.com/watch?v=xXsRnlYv5eM)
+📖 [Read original article](https://help.trmnl.com/en/articles/14130438-ai-agent)
 
 ---
 
-## 11. The cost of AI: human and environmental harm
+## 11. The AI Bubble Is No Ordinary Bubble
 
-**Author:** lucasfletcher  
-**Published:** 7/21/2026, 12:52:31 PM  
+**Author:** gereshes  
+**Published:** 7/21/2026, 6:31:36 PM  
 **Categories:** -  
 
-Article URL: https://psyll.com/articles/technology/ai-machine-learning/the-real-cost-of-ai-human-and-environmental-harm Comments URL: https://news.ycombinator.com/item?id=48991692 Points: 1 # Comments: 0
+Article URL: https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/ Comments URL: https://news.ycombinator.com/item?id=48996223 Points: 6 # Comments: 2
 
-📖 [Read original article](https://psyll.com/articles/technology/ai-machine-learning/the-real-cost-of-ai-human-and-environmental-harm)
+📖 [Read original article](https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/)
 
 ---
 
-## 12. AI Projects with Raspberry Pi
+## 12. Show HN: threadfork – AI meeting notes that run on your Mac
 
-**Author:** teleforce  
-**Published:** 7/21/2026, 12:46:22 PM  
+**Author:** smohan88  
+**Published:** 7/21/2026, 6:30:38 PM  
 **Categories:** -  
 
-Article URL: https://www.raspberrypi.com/news/ai-projects-with-raspberry-pi-out-now/ Comments URL: https://news.ycombinator.com/item?id=48991623 Points: 1 # Comments: 0
+Hi HN, I built threadfork. It's an AI notetaker where the whole pipeline runs locally on Apple Silicon. Your microphone and system audio gets captured without a meeting bot and most importantly your meeting data doesn’t get sent or saved anywhere.I've been building in the privacy + local LLM space f...
 
-📖 [Read original article](https://www.raspberrypi.com/news/ai-projects-with-raspberry-pi-out-now/)
+📖 [Read original article](https://www.threadfork.com/)
 
 ---
 
-## 13. Show HN: DevFortress – open-core credential isolation for APIs and AI agents
+## 13. AI Didn't Make Programming Easier. It Just Made It Differently Difficult
 
-**Author:** ndegwaduncan  
-**Published:** 7/21/2026, 12:45:58 PM  
+**Author:** tchalla  
+**Published:** 7/21/2026, 6:30:21 PM  
 **Categories:** -  
 
-Article URL: https://github.com/duncan982/devfortress-core Comments URL: https://news.ycombinator.com/item?id=48991619 Points: 2 # Comments: 2
+Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/ Comments URL: https://news.ycombinator.com/item?id=48996197 Points: 50 # Comments: 11
 
-📖 [Read original article](https://github.com/duncan982/devfortress-core)
+📖 [Read original article](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
 
 ---
 
-## 14. Alphabet shares fall on report its AI model Gemini 3.5 Pro is delayed
+## 14. Jim Cramer worried about security implications of free Chinese AI models
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/21/2026, 12:42:15 PM  
+**Author:** spwa4  
+**Published:** 7/21/2026, 6:30:20 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html Comments URL: https://news.ycombinator.com/item?id=48991586 Points: 2 # Comments: 1
+Article URL: https://twitter.com/jimcramer/status/2079509100535197892 Comments URL: https://news.ycombinator.com/item?id=48996196 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html)
+📖 [Read original article](https://twitter.com/jimcramer/status/2079509100535197892)
 
 ---
 
-## 15. Eliminate Dead Air in AI Voice Assistants with Filler Messages
+## 15. Website Is No Longer Your Brand – AI Is Reconstructing It from Everywhere Else
 
-**Author:** harpreetseehra  
-**Published:** 7/21/2026, 12:41:46 PM  
+**Author:** rakeshmenon  
+**Published:** 7/21/2026, 6:28:29 PM  
 **Categories:** -  
 
-Article URL: https://lowlatencyclub.ai/blog/posts/ai-assistant-filler-messages-demo-python Comments URL: https://news.ycombinator.com/item?id=48991579 Points: 1 # Comments: 0
+Article URL: https://medium.com/the-discovery-collective/your-website-is-no-longer-your-brand-ai-is-reconstructing-it-from-everywhere-else-9d8a58c873b8 Comments URL: https://news.ycombinator.com/item?id=48996173 Points: 2 # Comments: 0
 
-📖 [Read original article](https://lowlatencyclub.ai/blog/posts/ai-assistant-filler-messages-demo-python)
+📖 [Read original article](https://medium.com/the-discovery-collective/your-website-is-no-longer-your-brand-ai-is-reconstructing-it-from-everywhere-else-9d8a58c873b8)
 
 ---
 
-## 16. I asked an AI agent to delete a folder my tool was guarding
+## 16. Halo v2.7: Unified MCP Tool Engine for AI Security
 
-**Author:** devdoc83  
-**Published:** 7/21/2026, 12:26:06 PM  
+**Author:** automajicly  
+**Published:** 7/21/2026, 6:23:09 PM  
 **Categories:** -  
 
-Article URL: https://termaxa.com/blog/cursor-saga/ Comments URL: https://news.ycombinator.com/item?id=48991399 Points: 2 # Comments: 0
+HALO v2.7 introduces a unified MCP tool engine, smarter binary resolution, standardized errors, and a cleaner AI security architecture. Comments URL: https://news.ycombinator.com/item?id=48996104 Points: 2 # Comments: 0
 
-📖 [Read original article](https://termaxa.com/blog/cursor-saga/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48996104)
 
 ---
 
-## 17. US banks insulated from AI data centre downturn
+## 17. Georgia homeowners are being forced from their homes to power AI data centers [video]
 
-**Author:** petethomas  
-**Published:** 7/21/2026, 12:19:00 PM  
+**Author:** pera  
+**Published:** 7/21/2026, 6:22:21 PM  
 **Categories:** -  
 
-Article URL: https://www.thebanker.com/content/db39aacf-703b-4fc2-8501-eebb5a831f0a Comments URL: https://news.ycombinator.com/item?id=48991310 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=fk0HVruAWBk Comments URL: https://news.ycombinator.com/item?id=48996090 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.thebanker.com/content/db39aacf-703b-4fc2-8501-eebb5a831f0a)
+📖 [Read original article](https://www.youtube.com/watch?v=fk0HVruAWBk)
 
 ---
 
-## 18. HugstonOne Architecture, Capability, Benchmark to Privacy Local AI Workstation
+## 18. Google (Again) Clearly Needs to Unite Their AI Clans
 
-**Author:** trilogic  
-**Published:** 7/21/2026, 12:14:07 PM  
+**Author:** speckx  
+**Published:** 7/21/2026, 6:16:04 PM  
 **Categories:** -  
 
-Article URL: https://zenodo.org/records/21471816 Comments URL: https://news.ycombinator.com/item?id=48991245 Points: 1 # Comments: 0
+Article URL: https://spyglass.org/google-gemini-fiasco/ Comments URL: https://news.ycombinator.com/item?id=48996013 Points: 2 # Comments: 0
 
-📖 [Read original article](https://zenodo.org/records/21471816)
+📖 [Read original article](https://spyglass.org/google-gemini-fiasco/)
 
 ---
 
-## 19. We spent months building AI agents. Then we deleted them
+## 19. The U.S. Army Is Burning Through Its AI Tokens
 
-**Author:** marktolson  
-**Published:** 7/21/2026, 12:10:05 PM  
+**Author:** ripe  
+**Published:** 7/21/2026, 6:13:54 PM  
 **Categories:** -  
 
-Article URL: https://runnit.io/articles/we-spent-months-building-ai-agents-into-runnit-then-we-deleted-them Comments URL: https://news.ycombinator.com/item?id=48991202 Points: 3 # Comments: 1
+Article URL: https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/ Comments URL: https://news.ycombinator.com/item?id=48995990 Points: 2 # Comments: 0
 
-📖 [Read original article](https://runnit.io/articles/we-spent-months-building-ai-agents-into-runnit-then-we-deleted-them)
+📖 [Read original article](https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/)
 
 ---
 
-## 20. Stagehand: The AI-Driven Browser Automation Framework
+## 20. Show HN: Aido – an AI companion for the pull requests your AI writes
 
-**Author:** akashtndn  
-**Published:** 7/21/2026, 12:03:52 PM  
+**Author:** dvirdung  
+**Published:** 7/21/2026, 6:07:06 PM  
 **Categories:** -  
 
-Article URL: https://www.akashtandon.in/interactive-explainers/stagehand/ Comments URL: https://news.ycombinator.com/item?id=48991148 Points: 1 # Comments: 0
+Article URL: https://github.com/aido-dev/aido Comments URL: https://news.ycombinator.com/item?id=48995912 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.akashtandon.in/interactive-explainers/stagehand/)
+📖 [Read original article](https://github.com/aido-dev/aido)
 
 ---
