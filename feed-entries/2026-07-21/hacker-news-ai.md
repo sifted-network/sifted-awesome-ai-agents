@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI-Assisted Vulkan Development
+## 1. Show HN: Maith – open math research with AI
 
-**Author:** pjmlp  
-**Published:** 7/21/2026, 8:10:23 AM  
+**Author:** hemangkandwal  
+**Published:** 7/21/2026, 1:35:11 PM  
 **Categories:** -  
 
-Article URL: https://docs.vulkan.org/tutorial/latest/AI_Assisted_Vulkan/introduction.html Comments URL: https://news.ycombinator.com/item?id=48989489 Points: 2 # Comments: 0
+If AI got lucky or not, AI is surely going to assist in solving serious math problems. If you want to spend your resources/weekends contributing, this repository is full of math problems where you can add your thoughts (or proofs - for you Good Will Hunting type people) for others to build on it and...
 
-📖 [Read original article](https://docs.vulkan.org/tutorial/latest/AI_Assisted_Vulkan/introduction.html)
+📖 [Read original article](https://github.com/clidey/maith)
 
 ---
 
-## 2. DeepSWE – Best Benchmark for Evaluating AI Coding Agents?
+## 2. Show HN: TZRO – A Free Local AI Task Offloader
 
-**Author:** aquastorm  
-**Published:** 7/21/2026, 7:45:59 AM  
+**Author:** the18thwarrior  
+**Published:** 7/21/2026, 1:34:42 PM  
 **Categories:** -  
 
-Article URL: https://www.i-programmer.info/news/105-artificial-intelligence/19016-deepswe-best-benchmark-for-evaluating-ai-coding-agents.html Comments URL: https://news.ycombinator.com/item?id=48989306 Points: 2 # Comments: 1
+Article URL: https://github.com/The18thWarrior/tzro Comments URL: https://news.ycombinator.com/item?id=48992154 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.i-programmer.info/news/105-artificial-intelligence/19016-deepswe-best-benchmark-for-evaluating-ai-coding-agents.html)
+📖 [Read original article](https://github.com/The18thWarrior/tzro)
 
 ---
 
-## 3. Trump administration reportedly reviving push to ban Chinese AI models, Kimi K3
+## 3. AI physics on vacation turned into real research in quantum mechanics
 
-**Author:** virgildotcodes  
-**Published:** 7/21/2026, 7:35:33 AM  
+**Author:** pizzadad  
+**Published:** 7/21/2026, 1:26:38 PM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-gro...
+Article URL: https://nutfieldsecurity.com/posts/ai-vacation-physics/ Comments URL: https://news.ycombinator.com/item?id=48992051 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption)
+📖 [Read original article](https://nutfieldsecurity.com/posts/ai-vacation-physics/)
 
 ---
 
-## 4. Paraphraser AI – a rewriter with controls for meaning, tone, and keywords
+## 4. Contra George Hotz on \"AI 2040 and the Cult of Intelligence\"
 
-**Author:** dinglumeng  
-**Published:** 7/21/2026, 7:20:44 AM  
+**Author:** matthewtromp  
+**Published:** 7/21/2026, 1:26:35 PM  
 **Categories:** -  
 
-Article URL: https://tryparaphraser.com/ Comments URL: https://news.ycombinator.com/item?id=48989131 Points: 2 # Comments: 0
+Article URL: https://antiextinction.substack.com/p/contra-ai-2040-and-the-cult-of-intelligence Comments URL: https://news.ycombinator.com/item?id=48992050 Points: 1 # Comments: 0
 
-📖 [Read original article](https://tryparaphraser.com/)
+📖 [Read original article](https://antiextinction.substack.com/p/contra-ai-2040-and-the-cult-of-intelligence)
 
 ---
 
-## 5. ANSI escape injection in MCP servers: Hidden from humans, visible to AI
+## 5. Ask HN: To lead with, or bury, AI in product marketing
 
-**Author:** xgpyc2qp  
-**Published:** 7/21/2026, 7:01:24 AM  
+**Author:** probst  
+**Published:** 7/21/2026, 1:24:36 PM  
 **Categories:** -  
 
-Article URL: https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/ Comments URL: https://news.ycombinator.com/item?id=48989006 Points: 1 # Comments: 0
+Howdy dear folks.Here on hackernews there seems to be very little other than AI related stories. Maybe not all too strange given the crowd who frequents this site. From what I gather the mostly positive sentiment isn't as widely shared among the general population (0: 50% of americans are more conce...
 
-📖 [Read original article](https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/)
+📖 [Read original article](https://news.ycombinator.com/item?id=48992019)
 
 ---
 
-## 6. China's AI models have Trump's AI world at war with itself
+## 6. Formal verification might solve AI's review bottleneck
 
-**Author:** joozio  
-**Published:** 7/21/2026, 7:01:10 AM  
+**Author:** georgwiese  
+**Published:** 7/21/2026, 1:21:50 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/ Comments URL: https://news.ycombinator.com/item?id=48989001 Points: 3 # Comments: 0
+Article URL: https://georgwiese.github.io/posts/formal-verification-ai/ Comments URL: https://news.ycombinator.com/item?id=48991981 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/)
+📖 [Read original article](https://georgwiese.github.io/posts/formal-verification-ai/)
 
 ---
 
-## 7. Show HN: SteerPlane – open-source runtime guardrails for AI agents
+## 7. Show HN: Neverbell, an AI agent that analyzes markets and executes trades
 
-**Author:** vijaym2k6  
-**Published:** 7/21/2026, 7:00:10 AM  
+**Author:** alexcordina  
+**Published:** 7/21/2026, 1:20:58 PM  
 **Categories:** -  
 
-Article URL: https://github.com/vijaym2k6/SteerPlane Comments URL: https://news.ycombinator.com/item?id=48988992 Points: 1 # Comments: 0
+Hi HN, we're developing Neverbell, an AI agent that combines market analysis with trade execution.One of our beta testers said to Neverbell: “Protect my downside, but don’t be too conservative.”Volatility increased a few days later, and the agent decreased their exposure.Our tester wasn’t happy.The ...
 
-📖 [Read original article](https://github.com/vijaym2k6/SteerPlane)
+📖 [Read original article](https://neverbell.com)
 
 ---
 
-## 8. Ask HN: Does it make sense to rotate AI accounts regularly?
+## 8. Show HN: Pinpoint – Visual feedback for AI coding agents
 
-**Author:** kls0e  
-**Published:** 7/21/2026, 6:55:18 AM  
+**Author:** maferland  
+**Published:** 7/21/2026, 1:12:10 PM  
 **Categories:** -  
 
-for privacy reasons. Comments URL: https://news.ycombinator.com/item?id=48988957 Points: 1 # Comments: 1
+I built Pinpoint because I was tired of typing out feedback on the visual work my AI agent did. I want my agent to be autonomous, so having it ask for feedback through a UI felt genuinely better. Dropping a contextual comment on each screenshot is much closer to how you'd give feedback on a design i...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=48988957)
+📖 [Read original article](https://pinpoint.maferland.com/)
 
 ---
 
-## 9. Storybook: AI MCP
+## 9. Skyfall plans to buy a small business for an AI CEO test
 
-**Author:** handfuloflight  
-**Published:** 7/21/2026, 6:14:56 AM  
+**Author:** ryanmerket  
+**Published:** 7/21/2026, 1:00:48 PM  
 **Categories:** -  
 
-Article URL: https://storybook.js.org/ai Comments URL: https://news.ycombinator.com/item?id=48988698 Points: 1 # Comments: 0
+Article URL: https://runtimewire.com/article/skyfall-ai-buy-business-test-ai-ceo Comments URL: https://news.ycombinator.com/item?id=48991778 Points: 1 # Comments: 0
 
-📖 [Read original article](https://storybook.js.org/ai)
+📖 [Read original article](https://runtimewire.com/article/skyfall-ai-buy-business-test-ai-ceo)
 
 ---
 
-## 10. China's Z.ai Completes 1-Gigawatt AI Data Center Using Only Chinese-Made Chips
+## 10. Designing for AI Optionality with Karl Koch from DuckDuckGo [video]
 
-**Author:** angst  
-**Published:** 7/21/2026, 6:06:28 AM  
+**Author:** mooreds  
+**Published:** 7/21/2026, 12:58:39 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/technology/ai/articles/chinas-z-ai-completes-1-205515769.html Comments URL: https://news.ycombinator.com/item?id=48988630 Points: 5 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=xXsRnlYv5eM Comments URL: https://news.ycombinator.com/item?id=48991746 Points: 1 # Comments: 0
 
-📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/chinas-z-ai-completes-1-205515769.html)
+📖 [Read original article](https://www.youtube.com/watch?v=xXsRnlYv5eM)
 
 ---
 
-## 11. Learn any AI tool in 15 min sessions
+## 11. The cost of AI: human and environmental harm
 
-**Author:** Hirun_w  
-**Published:** 7/21/2026, 5:55:18 AM  
+**Author:** lucasfletcher  
+**Published:** 7/21/2026, 12:52:31 PM  
 **Categories:** -  
 
-Article URL: https://metana.io/ai-training-for-professionals Comments URL: https://news.ycombinator.com/item?id=48988561 Points: 1 # Comments: 0
+Article URL: https://psyll.com/articles/technology/ai-machine-learning/the-real-cost-of-ai-human-and-environmental-harm Comments URL: https://news.ycombinator.com/item?id=48991692 Points: 1 # Comments: 0
 
-📖 [Read original article](https://metana.io/ai-training-for-professionals)
+📖 [Read original article](https://psyll.com/articles/technology/ai-machine-learning/the-real-cost-of-ai-human-and-environmental-harm)
 
 ---
 
-## 12. Show HN: Calyxa – Browser Native AI tutor solving the \"cheating\" problem
+## 12. AI Projects with Raspberry Pi
 
-**Author:** Darcy0911  
-**Published:** 7/21/2026, 5:50:35 AM  
+**Author:** teleforce  
+**Published:** 7/21/2026, 12:46:22 PM  
 **Categories:** -  
 
-Hi! I'm Darcy, a current high school senior from SoCal.Calyxa is a chrome extension tutor that teaches directly on the student's homework screen with adaptive engine. Here's why I built it:During my past 3 years in high school, I witnessed how classmates around me adopted the AI trend in Edtech. Fro...
+Article URL: https://www.raspberrypi.com/news/ai-projects-with-raspberry-pi-out-now/ Comments URL: https://news.ycombinator.com/item?id=48991623 Points: 1 # Comments: 0
 
-📖 [Read original article](https://calyxa.app)
+📖 [Read original article](https://www.raspberrypi.com/news/ai-projects-with-raspberry-pi-out-now/)
 
 ---
 
-## 13. \"Fork it or leave\": Linus Torvalds fires back at Linux's anti-AI crowd
+## 13. Show HN: DevFortress – open-core credential isolation for APIs and AI agents
 
-**Author:** auggierose  
-**Published:** 7/21/2026, 5:40:32 AM  
+**Author:** ndegwaduncan  
+**Published:** 7/21/2026, 12:45:58 PM  
 **Categories:** -  
 
-Article URL: https://www.neowin.net/news/fork-it-or-leave-linus-torvalds-riles-up-linuxs-ai-luddites/ Comments URL: https://news.ycombinator.com/item?id=48988470 Points: 5 # Comments: 1
+Article URL: https://github.com/duncan982/devfortress-core Comments URL: https://news.ycombinator.com/item?id=48991619 Points: 2 # Comments: 2
 
-📖 [Read original article](https://www.neowin.net/news/fork-it-or-leave-linus-torvalds-riles-up-linuxs-ai-luddites/)
+📖 [Read original article](https://github.com/duncan982/devfortress-core)
 
 ---
 
-## 14. The Hugging Face Breach Is a Warning for Every Company Betting Big on AI
-
-**Author:** saikatsg  
-**Published:** 7/21/2026, 5:39:55 AM  
-**Categories:** -  
-
-Article URL: https://www.inc.com/chloe-aiello/the-hugging-face-breach-is-a-warning-for-every-company-betting-big-on-ai/91376835 Comments URL: https://news.ycombinator.com/item?id=48988469 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.inc.com/chloe-aiello/the-hugging-face-breach-is-a-warning-for-every-company-betting-big-on-ai/91376835)
-
----
-
-## 15. Book publisher sues tech companies over AI training
+## 14. Alphabet shares fall on report its AI model Gemini 3.5 Pro is delayed
 
 **Author:** 1vuio0pswjnm7  
-**Published:** 7/21/2026, 5:38:31 AM  
+**Published:** 7/21/2026, 12:42:15 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/transactional/chicken-soup-soul-publisher-sues-tech-companies-over-ai-training-2026-03-18/ Comments URL: https://news.ycombinator.com/item?id=48988460 Points: 2 # Comments: 1
+Article URL: https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html Comments URL: https://news.ycombinator.com/item?id=48991586 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/legal/transactional/chicken-soup-soul-publisher-sues-tech-companies-over-ai-training-2026-03-18/)
+📖 [Read original article](https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html)
 
 ---
 
-## 16. Oracle Credit Risk Hits Near 18-Year High on AI Debt Load Angst
+## 15. Eliminate Dead Air in AI Voice Assistants with Filler Messages
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/21/2026, 5:32:43 AM  
+**Author:** harpreetseehra  
+**Published:** 7/21/2026, 12:41:46 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst Comments URL: https://news.ycombinator.com/item?id=48988411 Points: 2 # Comments: 1
+Article URL: https://lowlatencyclub.ai/blog/posts/ai-assistant-filler-messages-demo-python Comments URL: https://news.ycombinator.com/item?id=48991579 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst)
+📖 [Read original article](https://lowlatencyclub.ai/blog/posts/ai-assistant-filler-messages-demo-python)
 
 ---
 
-## 17. China weighs tighter export controls on AI models and chips
+## 16. I asked an AI agent to delete a folder my tool was guarding
 
-**Author:** JumpCrisscross  
-**Published:** 7/21/2026, 5:24:42 AM  
+**Author:** devdoc83  
+**Published:** 7/21/2026, 12:26:06 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a Comments URL: https://news.ycombinator.com/item?id=48988357 Points: 8 # Comments: 0
+Article URL: https://termaxa.com/blog/cursor-saga/ Comments URL: https://news.ycombinator.com/item?id=48991399 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a)
+📖 [Read original article](https://termaxa.com/blog/cursor-saga/)
 
 ---
 
-## 18. AI Nutrition Facts
+## 17. US banks insulated from AI data centre downturn
 
-**Author:** gsgnine  
-**Published:** 7/21/2026, 5:23:46 AM  
+**Author:** petethomas  
+**Published:** 7/21/2026, 12:19:00 PM  
 **Categories:** -  
 
-Article URL: https://www.g9labs.com/2026/07/20/ai-nutrition-facts/ Comments URL: https://news.ycombinator.com/item?id=48988347 Points: 1 # Comments: 0
+Article URL: https://www.thebanker.com/content/db39aacf-703b-4fc2-8501-eebb5a831f0a Comments URL: https://news.ycombinator.com/item?id=48991310 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.g9labs.com/2026/07/20/ai-nutrition-facts/)
+📖 [Read original article](https://www.thebanker.com/content/db39aacf-703b-4fc2-8501-eebb5a831f0a)
 
 ---
 
-## 19. Trump's latest AI czar has resigned
+## 18. HugstonOne Architecture, Capability, Benchmark to Privacy Local AI Workstation
 
-**Author:** adithyaharish  
-**Published:** 7/21/2026, 5:21:03 AM  
+**Author:** trilogic  
+**Published:** 7/21/2026, 12:14:07 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/ Comments URL: https://news.ycombinator.com/item?id=48988335 Points: 4 # Comments: 0
+Article URL: https://zenodo.org/records/21471816 Comments URL: https://news.ycombinator.com/item?id=48991245 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/)
+📖 [Read original article](https://zenodo.org/records/21471816)
 
 ---
 
-## 20. France's edge in the AI race is cheap energy
+## 19. We spent months building AI agents. Then we deleted them
 
-**Author:** leonidasrup  
-**Published:** 7/21/2026, 5:17:35 AM  
+**Author:** marktolson  
+**Published:** 7/21/2026, 12:10:05 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.eu/article/frances-edge-in-the-ai-race-is-cheap-energy-if-american-big-tech-doesnt-plug-in-first/ Comments URL: https://news.ycombinator.com/item?id=48988312 Points: 2 # Comments: 0
+Article URL: https://runnit.io/articles/we-spent-months-building-ai-agents-into-runnit-then-we-deleted-them Comments URL: https://news.ycombinator.com/item?id=48991202 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.politico.eu/article/frances-edge-in-the-ai-race-is-cheap-energy-if-american-big-tech-doesnt-plug-in-first/)
+📖 [Read original article](https://runnit.io/articles/we-spent-months-building-ai-agents-into-runnit-then-we-deleted-them)
+
+---
+
+## 20. Stagehand: The AI-Driven Browser Automation Framework
+
+**Author:** akashtndn  
+**Published:** 7/21/2026, 12:03:52 PM  
+**Categories:** -  
+
+Article URL: https://www.akashtandon.in/interactive-explainers/stagehand/ Comments URL: https://news.ycombinator.com/item?id=48991148 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.akashtandon.in/interactive-explainers/stagehand/)
 
 ---
