@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-20"
 date: "2026-07-20"
 source: "qbitai"
-count: 10
+count: 8
 ---
 
 # qbitai - 2026-07-20
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ count: 10
 GMI Cloud × HappyHorse 共建 AI 创作生态
 
 📖 [Read original article](https://www.qbitai.com/2026/07/455593.html)
-
----
-
-## 9. 国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相
-
-**Author:** 量子位的朋友们  
-**Published:** 7/20/2026, 8:44:24 AM  
-**Categories:** 资讯, 魔芯科技  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/455517.html)
-
----
-
-## 10. WAIC之外，一张AI人才图谱正在知乎形成
-
-**Author:** 量子位的朋友们  
-**Published:** 7/20/2026, 8:06:22 AM  
-**Categories:** 资讯, 知乎  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/455496.html)
 
 ---
