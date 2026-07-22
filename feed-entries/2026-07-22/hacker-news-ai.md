@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI Video and Audio Generator
+## 1. AI-isms go deeper than em-dashes and 'load-bearing'
 
-**Author:** amonte  
-**Published:** 7/22/2026, 8:18:19 AM  
+**Author:** ozozozd  
+**Published:** 7/22/2026, 7:14:05 PM  
 **Categories:** -  
 
-Article URL: https://silknova-ai.com/ Comments URL: https://news.ycombinator.com/item?id=49003393 Points: 1 # Comments: 0
+Article URL: https://jesseduffield.com/AI-isms-go-deeper/ Comments URL: https://news.ycombinator.com/item?id=49011976 Points: 2 # Comments: 0
 
-📖 [Read original article](https://silknova-ai.com/)
+📖 [Read original article](https://jesseduffield.com/AI-isms-go-deeper/)
 
 ---
 
-## 2. Updating IP Regulations for AI Distillation
+## 2. Basil Halperin on Macroeconomic Policy in an Age of Transformative AI
 
-**Author:** amarble  
-**Published:** 7/22/2026, 8:12:16 AM  
+**Author:** paulpauper  
+**Published:** 7/22/2026, 7:05:38 PM  
 **Categories:** -  
 
-Article URL: https://www.marble.onl/posts/copyright_vs_ai.html Comments URL: https://news.ycombinator.com/item?id=49003338 Points: 1 # Comments: 0
+Article URL: https://www.mercatus.org/macro-musings/basil-halperin-macroeconomic-policy-age-transformative-ai Comments URL: https://news.ycombinator.com/item?id=49011838 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.marble.onl/posts/copyright_vs_ai.html)
+📖 [Read original article](https://www.mercatus.org/macro-musings/basil-halperin-macroeconomic-policy-age-transformative-ai)
 
 ---
 
-## 3. Melaya – the agent builder that gives AI a governed Android phone
+## 3. Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand
 
-**Author:** melaya  
-**Published:** 7/22/2026, 7:57:30 AM  
+**Author:** sebmellen  
+**Published:** 7/22/2026, 7:03:04 PM  
 **Categories:** -  
 
-Article URL: https://www.melaya.org Comments URL: https://news.ycombinator.com/item?id=49003238 Points: 1 # Comments: 1
+Article URL: https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio Comments URL: https://news.ycombinator.com/item?id=49011789 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.melaya.org)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio)
 
 ---
 
-## 4. Eric Schmidt's AI Drones Hit 70% Kill Rate as Commercial Tech Goes to War
+## 4. Top White House official escalating the fight over Moonshot AI's Kimi K3 model
 
-**Author:** thisislife2  
-**Published:** 7/22/2026, 7:18:42 AM  
+**Author:** baddash  
+**Published:** 7/22/2026, 7:02:59 PM  
 **Categories:** -  
 
-Article URL: https://dronexl.co/2026/01/06/eric-schmidt-ai-drones-hit-70-kill-rate-ukraine/ Comments URL: https://news.ycombinator.com/item?id=49002957 Points: 3 # Comments: 0
+Article URL: https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7 Comments URL: https://news.ycombinator.com/item?id=49011788 Points: 2 # Comments: 0
 
-📖 [Read original article](https://dronexl.co/2026/01/06/eric-schmidt-ai-drones-hit-70-kill-rate-ukraine/)
+📖 [Read original article](https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7)
 
 ---
 
-## 5. AI for Actual Work – a free, self-paced AI training program by Remote.com
+## 5. District 9 and Gran Turismo director has made an AI film
 
-**Author:** m5r  
-**Published:** 7/22/2026, 7:05:48 AM  
+**Author:** LordDefender  
+**Published:** 7/22/2026, 7:02:57 PM  
 **Categories:** -  
 
-Article URL: https://aiforactualwork.com/ Comments URL: https://news.ycombinator.com/item?id=49002858 Points: 1 # Comments: 0
+Article URL: https://www.gamesradar.com/entertainment/sci-fi-movies/district-9-and-gran-turismo-director-has-made-a-fully-ai-film-and-the-internet-is-not-holding-back/ Comments URL: https://news.ycombinator.com/item?id=49011787 Points: 2 # Comments: 0
 
-📖 [Read original article](https://aiforactualwork.com/)
+📖 [Read original article](https://www.gamesradar.com/entertainment/sci-fi-movies/district-9-and-gran-turismo-director-has-made-a-fully-ai-film-and-the-internet-is-not-holding-back/)
 
 ---
 
-## 6. Show HN: Open-source AI shadow that runs on your machine and acts as you
+## 6. Rabbitty – a native Mac terminal for running AI coding agents in parallel
 
-**Author:** ole_gooner  
-**Published:** 7/22/2026, 7:01:37 AM  
+**Author:** mauscoelho  
+**Published:** 7/22/2026, 6:42:28 PM  
 **Categories:** -  
 
-Article URL: https://github.com/NanoNets/ami Comments URL: https://news.ycombinator.com/item?id=49002822 Points: 4 # Comments: 0
+Article URL: https://github.com/mauscoelho/rabbitty-app/releases Comments URL: https://news.ycombinator.com/item?id=49011463 Points: 2 # Comments: 2
 
-📖 [Read original article](https://github.com/NanoNets/ami)
+📖 [Read original article](https://github.com/mauscoelho/rabbitty-app/releases)
 
 ---
 
-## 7. iAsk.ai
+## 7. Reddit stock sinks as company weighs blocking Google's AI access to its content
 
-**Author:** msaaa  
-**Published:** 7/22/2026, 6:58:49 AM  
+**Author:** 01-_-  
+**Published:** 7/22/2026, 6:28:12 PM  
 **Categories:** -  
 
-Article URL: https://iask.ai Comments URL: https://news.ycombinator.com/item?id=49002800 Points: 1 # Comments: 1
+Article URL: https://qz.com/reddit-stock-google-ai-content-deal-072226 Comments URL: https://news.ycombinator.com/item?id=49011256 Points: 6 # Comments: 1
 
-📖 [Read original article](https://iask.ai)
+📖 [Read original article](https://qz.com/reddit-stock-google-ai-content-deal-072226)
 
 ---
 
-## 8. Help MitM atks denl of srvce. Reliable AI
+## 8. AI tech companies have 'hidden debt' worth around $1.65T
 
-**Author:** Notelife87  
-**Published:** 7/22/2026, 6:46:08 AM  
+**Author:** 01-_-  
+**Published:** 7/22/2026, 6:26:38 PM  
 **Categories:** -  
 
-HELP MitM+ Denial of service hacks. PRO state level. THE patent pending tech at the core of all the new "Too powerful" models. Independent Inventor, attached for months. Oppressed. I'd appropriated. Work stolen. Documentation exist, mapped the network. Now is everything wish they can't but they stil...
+Article URL: https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle Comments URL: https://news.ycombinator.com/item?i...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49002711)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle)
 
 ---
 
-## 9. AI is changing what we can do. Who we become is still our choice
+## 9. Using AI makes people less likely to admit they don't know something
 
-**Author:** simplegeek  
-**Published:** 7/22/2026, 6:34:41 AM  
+**Author:** smartmic  
+**Published:** 7/22/2026, 6:22:24 PM  
 **Categories:** -  
 
-Article URL: https://humanistreview.ai/issue-1/appiah-ai-moral-character/ Comments URL: https://news.ycombinator.com/item?id=49002639 Points: 1 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567 Comments URL: https://news.ycombinator.com/item?id=49011175 Points: 2 # Comments: 0
 
-📖 [Read original article](https://humanistreview.ai/issue-1/appiah-ai-moral-character/)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567)
 
 ---
 
-## 10. Big Tech AI Spree Revives Accounting Devices That Toppled Enron
+## 10. AI-maestro: Conduct a roster of AI coding agents against a work board
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/22/2026, 6:05:21 AM  
+**Author:** mychiefmind  
+**Published:** 7/22/2026, 6:17:48 PM  
 **Categories:** -  
 
-Article URL: https://news.bloombergtax.com/financial-accounting/big-tech-ai-spree-revives-accounting-devices-that-toppled-enron Comments URL: https://news.ycombinator.com/item?id=49002435 Points: 3 # Comments: 1
+Article URL: https://github.com/my-chiefmind/ai-maestro Comments URL: https://news.ycombinator.com/item?id=49011101 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.bloombergtax.com/financial-accounting/big-tech-ai-spree-revives-accounting-devices-that-toppled-enron)
+📖 [Read original article](https://github.com/my-chiefmind/ai-maestro)
 
 ---
 
-## 11. The US Army Is Burning Through Its AI Tokens
+## 11. Oido Studio – Build AI employees that run your business
 
-**Author:** helsinkiandrew  
-**Published:** 7/22/2026, 6:03:57 AM  
+**Author:** djancyp  
+**Published:** 7/22/2026, 6:07:56 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/ Comments URL: https://news.ycombinator.com/item?id=49002423 Points: 3 # Comments: 0
+Article URL: https://oidostudio.com Comments URL: https://news.ycombinator.com/item?id=49010973 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/)
+📖 [Read original article](https://oidostudio.com)
 
 ---
 
-## 12. Bengaluru triple murder: Why cops wanted to make AI chatbot an accomplice
+## 12. The Vibe Coding Trap: Why AI-Assisted Projects Still Fail
 
-**Author:** mandliya  
-**Published:** 7/22/2026, 5:57:16 AM  
+**Author:** chancedurham  
+**Published:** 7/22/2026, 6:02:52 PM  
 **Categories:** -  
 
-Article URL: https://www.indiatoday.in/india/karnataka/story/bengaluru-triple-murder-rk-puram-kenneth-ai-chatbot-use-police-investigations-reveals-2953080-2026-07-22 Comments URL: https://news.ycombinator.com/item?id=49002386 Points: 2 # Comments: 0
+Article URL: https://thinkapedia.com/t/tk_s9opYzPvxvZ7/document Comments URL: https://news.ycombinator.com/item?id=49010878 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.indiatoday.in/india/karnataka/story/bengaluru-triple-murder-rk-puram-kenneth-ai-chatbot-use-police-investigations-reveals-2953080-2026-07-22)
+📖 [Read original article](https://thinkapedia.com/t/tk_s9opYzPvxvZ7/document)
 
 ---
 
-## 13. AI Cheating happening more and is hard to verify
+## 13. I Spent a Year Asking AI to Solve Math's Hardest Problem. Here's What Happened
 
-**Author:** Gaishan  
-**Published:** 7/22/2026, 5:39:03 AM  
+**Author:** wslh  
+**Published:** 7/22/2026, 5:58:33 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/07/21/ais-cheatin-heart-will-make-you-weep/5275784 Comments URL: https://news.ycombinator.com/item?id=49002272 Points: 2 # Comments: 0
+Article URL: https://cacm.acm.org/blogcacm/i-spent-a-year-asking-ai-to-solve-maths-hardest-problem-heres-what-happened/ Comments URL: https://news.ycombinator.com/item?id=49010806 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/07/21/ais-cheatin-heart-will-make-you-weep/5275784)
+📖 [Read original article](https://cacm.acm.org/blogcacm/i-spent-a-year-asking-ai-to-solve-maths-hardest-problem-heres-what-happened/)
 
 ---
 
-## 14. The secret Trump administration battle to fight Chinese AI
+## 14. Most people are using AI the wrong way in their job search
 
-**Author:** hentrep  
-**Published:** 7/22/2026, 5:38:28 AM  
+**Author:** sovereignai  
+**Published:** 7/22/2026, 5:53:48 PM  
 **Categories:** -  
 
-Article URL: https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi Comments URL: https://news.ycombinator.com/item?id=49002268 Points: 2 # Comments: 0
+Article URL: https://munreader.com/ Comments URL: https://news.ycombinator.com/item?id=49010738 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi)
+📖 [Read original article](https://munreader.com/)
 
 ---
 
-## 15. China's 'AI for All' Offensive Defies US Containment Playbook
+## 15. Show HN: We added x402 so AI agents can pay to use our cloud simulation API
 
-**Author:** thm  
-**Published:** 7/22/2026, 5:22:14 AM  
+**Author:** CanvasCloudAI  
+**Published:** 7/22/2026, 5:45:50 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-07-22/china-s-ai-for-all-offensive-defies-us-containment-playbook Comments URL: https://news.ycombinator.com/item?id=49002188 Points: 3 # Comments: 0
+Article URL: https://www.cloudworldmodel.ai/blog/x402-cloud-simulation-api Comments URL: https://news.ycombinator.com/item?id=49010610 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-22/china-s-ai-for-all-offensive-defies-us-containment-playbook)
+📖 [Read original article](https://www.cloudworldmodel.ai/blog/x402-cloud-simulation-api)
 
 ---
 
-## 16. News Corp accuses search engine Brave of AI copyright infringement
+## 16. How HN: Surgical DevOps – Deterministic AI execution protocols
 
-**Author:** thm  
-**Published:** 7/22/2026, 5:08:58 AM  
+**Author:** bonus_dev  
+**Published:** 7/22/2026, 5:39:22 PM  
 **Categories:** -  
 
-Article URL: https://www.semafor.com/article/07/21/2026/newscorp-accuses-search-engine-brave-of-ai-copyright-infringement Comments URL: https://news.ycombinator.com/item?id=49002111 Points: 2 # Comments: 0
+Article URL: https://github.com/bonushora/surgical-dev-ops Comments URL: https://news.ycombinator.com/item?id=49010491 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.semafor.com/article/07/21/2026/newscorp-accuses-search-engine-brave-of-ai-copyright-infringement)
+📖 [Read original article](https://github.com/bonushora/surgical-dev-ops)
 
 ---
 
-## 17. Video Demo: AI Employee Scheduling
+## 17. \"No AI\" Statements Are More Than Mere Statements
 
-**Author:** dethstrobe  
-**Published:** 7/22/2026, 4:36:56 AM  
+**Author:** BrunoBernardino  
+**Published:** 7/22/2026, 5:38:14 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=e9KqwB56vBI Comments URL: https://news.ycombinator.com/item?id=49001949 Points: 2 # Comments: 0
+Article URL: https://journal.james-zhan.com/no-ai-statements/ Comments URL: https://news.ycombinator.com/item?id=49010477 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=e9KqwB56vBI)
+📖 [Read original article](https://journal.james-zhan.com/no-ai-statements/)
 
 ---
 
-## 18. AI's solution to 87-year-old riddle takes mathematicians by surprise
+## 18. Show HN: Chrome Extension Claude Token Usage Bar and Context Use for Claude.ai
 
-**Author:** Pandionic  
-**Published:** 7/22/2026, 4:31:20 AM  
+**Author:** didi2121  
+**Published:** 7/22/2026, 5:34:46 PM  
 **Categories:** -  
 
-Article URL: https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/ Comments URL: https://news.ycombinator.com/item?id=49001918 Points: 3 # Comments: 0
+Article URL: https://github.com/disi910/claude-usage-bar Comments URL: https://news.ycombinator.com/item?id=49010415 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/)
+📖 [Read original article](https://github.com/disi910/claude-usage-bar)
 
 ---
 
-## 19. News Corp countersues Brave for allegedly 'scraping' articles for AI
+## 19. AI Coding Will Prevent Expertise
 
-**Author:** pinewurst  
-**Published:** 7/22/2026, 4:12:09 AM  
+**Author:** larsfaye  
+**Published:** 7/22/2026, 5:34:12 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/media-telecom/news-corp-countersues-brave-allegedly-scraping-articles-ai-2026-07-22/ Comments URL: https://news.ycombinator.com/item?id=49001788 Points: 2 # Comments: 0
+Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49010401 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/business/media-telecom/news-corp-countersues-brave-allegedly-scraping-articles-ai-2026-07-22/)
+📖 [Read original article](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 
 ---
 
-## 20. Apply Tracker, Free AI CV, Cover Letter and Job Tracker
+## 20. Show HN: Stele – A self-maintaining knowledge graph for AI coding agents
 
-**Author:** mirnumbing  
-**Published:** 7/22/2026, 3:47:55 AM  
+**Author:** serkanyersen  
+**Published:** 7/22/2026, 5:33:31 PM  
 **Categories:** -  
 
-Article URL: https://www.apply-tracker.com/en Comments URL: https://news.ycombinator.com/item?id=49001636 Points: 8 # Comments: 0
+Article URL: https://stele-ai.dev/ Comments URL: https://news.ycombinator.com/item?id=49010384 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.apply-tracker.com/en)
+📖 [Read original article](https://stele-ai.dev/)
 
 ---
