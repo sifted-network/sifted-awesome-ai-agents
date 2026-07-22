@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-22"
 date: "2026-07-22"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-07-22
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases
+## 1. Unsloth vs Axolotl vs TRL vs LLaMA-Factory: A Fine-Tuning Framework Comparison on Speed, VRAM, and Multi-GPU
+
+**Author:** Asif Razzaq  
+**Published:** 7/22/2026, 9:16:40 AM  
+**Categories:** Agentic AI, AI Infrastructure, Applications, Artificial Intelligence, Editors Pick, Machine Learning, Staff, Tech News, Technology  
+
+Four open source projects dominate LLM fine-tuning today. Unsloth, Axolotl, TRL, and LLaMA-Factory all wrap the same underlying PyTorch and Hugging Face stack. They diverge on where they spend engineering effort. Unsloth rewrites kernels. Axolotl composes parallelism strategies. TRL defines the trai...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/)
+
+---
+
+## 2. Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases
 
 **Author:** Michal Sutter  
 **Published:** 7/22/2026, 6:27:02 AM  
@@ -23,7 +35,7 @@ Cisco Foundation AI has released Antares, a family of small language models trai
 
 ---
 
-## 2. Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual
+## 3. Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual
 
 **Author:** Asif Razzaq  
 **Published:** 7/22/2026, 12:01:32 AM  
