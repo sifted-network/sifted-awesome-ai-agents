@@ -65,7 +65,7 @@ arXiv:2607.16227v1 Announce Type: new Abstract: LLMs are increasingly deployed i
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.MS  
 
-arXiv:2607.16228v1 Announce Type: new Abstract: Most tensor-kernel correctness tests go through a fixed-shape all close-style check with hand-picked absolute and relative tolerances. The thresholds are copied across the corpus and rarely revisited. We mine the element-wise error distribution of ever...
+arXiv:2607.16228v2 Announce Type: new Abstract: Most tensor-kernel correctness tests go through a fixed-shape all close-style check with hand-picked absolute and relative tolerances. The thresholds are copied across the corpus and rarely revisited. We mine the element-wise error distribution of ever...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16228)
 
@@ -137,7 +137,7 @@ arXiv:2607.16234v1 Announce Type: new Abstract: Hantavirus genomic surveillance 
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.16235v1 Announce Type: new Abstract: Mobile and wearable devices offer an unprecedented opportunity for continuous, passive health monitoring and active health coaching. However, the largest wearable datasets are not publicly available for research, and leading wearable foundation models ...
+arXiv:2607.16235v2 Announce Type: new Abstract: Mobile and wearable devices offer an unprecedented opportunity for continuous, passive health monitoring and active health coaching. However, the largest wearable datasets are not publicly available for research, and leading wearable foundation models ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16235)
 
@@ -377,7 +377,7 @@ arXiv:2607.16255v1 Announce Type: new Abstract: A crucial step in machine learni
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.IR, cs.NE  
 
-arXiv:2607.16256v1 Announce Type: new Abstract: Dreams splice together people, places, and times that never met. Neuroscience suggests this recombination is not noise, but a function driving insight and creative discovery. This reframes memory consolidation: rather than merely defending against forg...
+arXiv:2607.16256v2 Announce Type: new Abstract: Dreams splice together people, places, and times that never met. Neuroscience suggests this recombination is not noise, but a function driving insight and creative discovery. This reframes memory consolidation: rather than merely defending against forg...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16256)
 
@@ -1301,7 +1301,7 @@ arXiv:2607.17345v1 Announce Type: new Abstract: Background: Untargeted LC-MS met
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.17377v1 Announce Type: new Abstract: The paper presents a new parameter-efficient adaptation method called ChebyMA (Chebyshev Manifold Adaptation). ChebyMA adopts weight matrices through a multi-surface superposition of Chebyshev polynomial bases evaluated on learnable coordinates and com...
+arXiv:2607.17377v2 Announce Type: new Abstract: The paper presents a new parameter-efficient adaptation method called ChebyMA (Chebyshev Manifold Adaptation). ChebyMA adopts weight matrices through a multi-surface superposition of Chebyshev polynomial bases evaluated on learnable coordinates and com...
 
 📖 [Read original article](https://arxiv.org/abs/2607.17377)
 
@@ -1361,7 +1361,7 @@ arXiv:2607.17419v1 Announce Type: new Abstract: Linear attention promises consta
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.17425v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) compress model activations into sparse codes, but equal reconstruction error and sparsity can preserve different linearly decodable signals. We formalize this ambiguity as a matrix-valued distortion between optimal ridge-pred...
+arXiv:2607.17425v2 Announce Type: new Abstract: Sparse autoencoders (SAEs) compress model activations into sparse codes, but equal reconstruction error and sparsity can preserve different linearly decodable signals. We formalize this ambiguity as a matrix-valued distortion between optimal ridge-pred...
 
 📖 [Read original article](https://arxiv.org/abs/2607.17425)
 
@@ -1863,7 +1863,7 @@ arXiv:2607.17981v1 Announce Type: new Abstract: Representation learning has enab
 
 **Author:** Charles Bokor, Mark Cary, Denise Morrey, Fabrizio Bonatesta  
 **Published:** 7/21/2026, 4:00:00 AM  
-**Categories:** cs.LG  
+**Categories:** cs.LG, math.DS  
 
 arXiv:2607.17990v1 Announce Type: new Abstract: Highly nonlinear chaotic dynamical systems remain difficult to model due to fundamental trade-offs between complexity, expressivity, and data efficiency. Modern machine learning methods achieve strong predictive performance but often rely on a-priori s...
 
@@ -1985,7 +1985,7 @@ arXiv:2607.18081v1 Announce Type: new Abstract: Large Language Models (LLMs) hav
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.18082v1 Announce Type: new Abstract: Rubric-based RL has recently shown promise in improving LLMs on open-ended tasks. A widely recognized limitation of rubric-based RL is limited exploration: criteria that no rollout manages to satisfy (Unexplored Criteria, UC) receive no optimization si...
+arXiv:2607.18082v2 Announce Type: new Abstract: Rubric-based RL has recently shown promise in improving LLMs on open-ended tasks. A widely recognized limitation of rubric-based RL is limited exploration: criteria that no rollout manages to satisfy (Unexplored Criteria, UC) receive no optimization si...
 
 📖 [Read original article](https://arxiv.org/abs/2607.18082)
 
@@ -2249,7 +2249,7 @@ arXiv:2607.16286v1 Announce Type: cross Abstract: The 3D geometry of real-world 
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2607.16292v1 Announce Type: cross Abstract: Brain-encoding foundation models predict fMRI responses to video, audio, and text well enough to win the Algonauts 2025 challenge. We ask whether their predicted responses, obtained with no scanner, are a useful feature lens for a downstream human-be...
+arXiv:2607.16292v2 Announce Type: cross Abstract: Brain-encoding foundation models predict fMRI responses to video, audio, and text well enough to win the Algonauts 2025 challenge. We ask whether their predicted responses, obtained with no scanner, are a useful feature lens for a downstream human-be...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16292)
 
@@ -2357,7 +2357,7 @@ arXiv:2607.16325v1 Announce Type: cross Abstract: Foundation models provide powe
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2607.16329v1 Announce Type: cross Abstract: Lipschitz continuity is a fundamental property of neural networks that characterizes their sensitivity to input perturbations. It plays a pivotal role in deep learning, governing \textbf{robustness}, \textbf{generalization} and \textbf{optimization d...
+arXiv:2607.16329v2 Announce Type: cross Abstract: Lipschitz continuity is a fundamental property of neural networks that characterizes their sensitivity to input perturbations. It plays a pivotal role in deep learning, governing \textbf{robustness}, \textbf{generalization} and \textbf{optimization d...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16329)
 
@@ -2369,7 +2369,7 @@ arXiv:2607.16329v1 Announce Type: cross Abstract: Lipschitz continuity is a fund
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.LG, cs.PF  
 
-arXiv:2607.16345v1 Announce Type: cross Abstract: Modern agentic systems increasingly rely on skills: installable packages of natural language and code that teach an LLM agent to perform a domain task. As skill repositories grow, developers need automated quality signals on every change, yet evaluat...
+arXiv:2607.16345v2 Announce Type: cross Abstract: Modern agentic systems increasingly rely on skills: installable packages of natural language and code that teach an LLM agent to perform a domain task. As skill repositories grow, developers need automated quality signals on every change, yet evaluat...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16345)
 
@@ -3041,7 +3041,7 @@ arXiv:2607.17382v1 Announce Type: cross Abstract: Existing research shows that A
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG, cs.LO, cs.MA  
 
-arXiv:2607.17384v1 Announce Type: cross Abstract: This paper provides an experimentally verified formal law for calculating the uplift that diversity of thought provides in Large Language Model (LLM) ensembles. From first principles, we derive an exact decomposition of LLM ensemble lift into rescue ...
+arXiv:2607.17384v2 Announce Type: cross Abstract: This paper provides an experimentally verified formal law for calculating the uplift that diversity of thought provides in Large Language Model (LLM) ensembles. From first principles, we derive an exact decomposition of LLM ensemble lift into rescue ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.17384)
 
@@ -3053,7 +3053,7 @@ arXiv:2607.17384v1 Announce Type: cross Abstract: This paper provides an experim
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG, eess.SP  
 
-arXiv:2607.17390v1 Announce Type: cross Abstract: Kernel regression with tensor trains and Hadamard overparameterization (KReTTaH) is introduced as a training-data-free, interpretable, and nonparametric framework for multi-way data imputation. The imputation problem is reformulated as regression in ...
+arXiv:2607.17390v2 Announce Type: cross Abstract: Kernel regression with tensor trains and Hadamard overparameterization (KReTTaH) is introduced as a training-data-free, interpretable, and nonparametric framework for multi-way data imputation. The imputation problem is reformulated as regression in ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.17390)
 
@@ -3161,7 +3161,7 @@ arXiv:2607.17526v1 Announce Type: cross Abstract: Zero-shot text-guided editing 
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.AR, cs.LG  
 
-arXiv:2607.17528v1 Announce Type: cross Abstract: LLM-driven agent systems have emerged as a promising paradigm for electronic design automation (EDA), demonstrating strong potential for automating complex design workflows. However, existing evaluations primarily examine individual language models o...
+arXiv:2607.17528v2 Announce Type: cross Abstract: LLM-driven agent systems have emerged as a promising paradigm for electronic design automation (EDA), demonstrating strong potential for automating complex design workflows. However, existing evaluations primarily examine individual language models o...
 
 📖 [Read original article](https://arxiv.org/abs/2607.17528)
 
@@ -3833,7 +3833,7 @@ arXiv:2503.23536v3 Announce Type: replace Abstract: Unlearnable data (ULD) has e
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG, physics.comp-ph  
 
-arXiv:2505.11491v3 Announce Type: replace Abstract: This study investigates why physics-informed machine learning (PIML) can fail in macroscopic traffic flow modeling. We define failure as cases where a PIML model underperforms both purely data-driven and purely physics-based baselines by a given th...
+arXiv:2505.11491v4 Announce Type: replace Abstract: This study investigates why physics-informed machine learning (PIML) can fail in macroscopic traffic flow modeling. We define failure as cases where a PIML model underperforms both purely data-driven and purely physics-based baselines by a given th...
 
 📖 [Read original article](https://arxiv.org/abs/2505.11491)
 
@@ -3869,7 +3869,7 @@ arXiv:2506.03066v2 Announce Type: replace Abstract: The link function, which cha
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2507.06445v2 Announce Type: replace Abstract: Interpretability research often predicts model responses to targeted mechanistic interventions. But can we predict responses to unseen input data? We propose and demonstrate this alternate objective by using model internals to predict their out-of-...
+arXiv:2507.06445v3 Announce Type: replace Abstract: Interpretability research often predicts model responses to targeted mechanistic interventions. But can we predict responses to unseen input data? We propose and demonstrate this alternate objective by using model internals to predict their out-of-...
 
 📖 [Read original article](https://arxiv.org/abs/2507.06445)
 
@@ -4505,7 +4505,7 @@ arXiv:2604.27967v2 Announce Type: replace Abstract: Background: We introduce Str
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2605.06605v4 Announce Type: replace Abstract: Evaluating and predicting the performance of large language models (LLMs) in multi-turn conversational settings is critical yet computationally expensive; key events -- e.g., jailbreaks or successful task completion by an agent -- often emerge only...
+arXiv:2605.06605v5 Announce Type: replace Abstract: Evaluating and predicting the performance of large language models (LLMs) in multi-turn conversational settings is critical yet computationally expensive; key events -- e.g., jailbreaks or successful task completion by an agent -- often emerge only...
 
 📖 [Read original article](https://arxiv.org/abs/2605.06605)
 
@@ -5585,7 +5585,7 @@ arXiv:2606.15950v2 Announce Type: replace-cross Abstract: Conformal prediction g
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2606.25449v4 Announce Type: replace-cross Abstract: A language model's memory can be worse than no memory at all when the model or its interface is disposed to act on it: a memory that keeps a wrong conclusion but drops the work behind it leads a model to re-emit the stale value as a confident...
+arXiv:2606.25449v5 Announce Type: replace-cross Abstract: A language model's memory can be worse than no memory at all when the model or its interface is disposed to act on it: a memory that keeps a wrong conclusion but drops the work behind it leads a model to re-emit the stale value as a confident...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25449)
 
