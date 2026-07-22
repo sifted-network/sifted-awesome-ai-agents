@@ -421,11 +421,11 @@ arXiv:2607.16712v1 Announce Type: new Abstract: We describe DS@GT's submission t
 
 ## 35. Tractable Query Answering under Epistemic Confidentiality Policies in DL Ontologies (extended version)
 
-**Author:** Lorenzo Marconi, Daniela Rieti, Riccardo ROsati  
+**Author:** Lorenzo Marconi, Daniela Rieti, Riccardo Rosati  
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.16715v1 Announce Type: new Abstract: We study Controlled Query Evaluation (CQE), a declarative approach to confidentiality-preserving data access, in the context of Description Logic (DL) ontologies, and for confidentiality policies expressed through Epistemic Dependencies (EDs). We first...
+arXiv:2607.16715v2 Announce Type: new Abstract: We study Controlled Query Evaluation (CQE), a declarative approach to confidentiality-preserving data access, in the context of Description Logic (DL) ontologies, and for confidentiality policies expressed through Epistemic Dependencies (EDs). We first...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16715)
 
@@ -821,7 +821,7 @@ arXiv:2607.17352v1 Announce Type: new Abstract: Designing effective Lean proof a
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG, cs.LO, cs.MA  
 
-arXiv:2607.17384v1 Announce Type: new Abstract: This paper provides an experimentally verified formal law for calculating the uplift that diversity of thought provides in Large Language Model (LLM) ensembles. From first principles, we derive an exact decomposition of LLM ensemble lift into rescue an...
+arXiv:2607.17384v2 Announce Type: new Abstract: This paper provides an experimentally verified formal law for calculating the uplift that diversity of thought provides in Large Language Model (LLM) ensembles. From first principles, we derive an exact decomposition of LLM ensemble lift into rescue an...
 
 📖 [Read original article](https://arxiv.org/abs/2607.17384)
 
@@ -893,7 +893,7 @@ arXiv:2607.17499v1 Announce Type: new Abstract: The evolution of e-commerce has 
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.AR, cs.LG  
 
-arXiv:2607.17528v1 Announce Type: new Abstract: LLM-driven agent systems have emerged as a promising paradigm for electronic design automation (EDA), demonstrating strong potential for automating complex design workflows. However, existing evaluations primarily examine individual language models on ...
+arXiv:2607.17528v2 Announce Type: new Abstract: LLM-driven agent systems have emerged as a promising paradigm for electronic design automation (EDA), demonstrating strong potential for automating complex design workflows. However, existing evaluations primarily examine individual language models on ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.17528)
 
@@ -917,7 +917,7 @@ arXiv:2607.17543v1 Announce Type: new Abstract: In two-player zero-sum games who
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.17545v1 Announce Type: new Abstract: Language agents depend on memory across interactions. However, the limited context windows of large language models (LLMs) and their inference costs constrain how much memory can be used at once. Existing systems mainly follow two strategies: memory re...
+arXiv:2607.17545v2 Announce Type: new Abstract: Language agents depend on memory across interactions. However, the limited context windows of large language models (LLMs) and their inference costs constrain how much memory can be used at once. Existing systems mainly follow two strategies: memory re...
 
 📖 [Read original article](https://arxiv.org/abs/2607.17545)
 
@@ -1079,13 +1079,13 @@ arXiv:2607.17712v1 Announce Type: new Abstract: Detecting high-level semantic co
 
 ---
 
-## 90. SR-Agent: An Experience-Driven Agentic Framework for Post-Ranking Strategies Refinement in E-Commerce Recommendation
+## 90. SR-Agent: An Experience-Driven Agentic Framework for Post-Ranking Strategy Refinement in E-Commerce Recommendation
 
 **Author:** Hanchen Yang, Kaiwen Yang, Junpeng Zhuang, Yang He, Keting Cen, Bochao Liu, Zhongbo Sun, An Liu, Zhongteng Han, Chenyi Lei  
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.MA  
 
-arXiv:2607.17719v1 Announce Type: new Abstract: User experience is a first-class objective in industrial e-commerce recommender systems (RS). Post-ranking strategies, which govern diversity, similarity, and exposure over a ranked list, are widely deployed in industrial RS for their simplicity and lo...
+arXiv:2607.17719v2 Announce Type: new Abstract: User experience is a first-class objective in industrial e-commerce recommender systems (RS). Post-ranking strategies, which govern diversity, similarity, and exposure over a ranked list, are widely deployed in industrial RS for their simplicity and lo...
 
 📖 [Read original article](https://arxiv.org/abs/2607.17719)
 
@@ -1157,7 +1157,7 @@ arXiv:2607.17806v1 Announce Type: new Abstract: Vision-Language Navigation (VLN)
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.17855v1 Announce Type: new Abstract: Bayesian inference provides a principled foundation for reasoning under uncertainty, but its computational cost hinders deployment on resource-constrained edge devices. In this paper, we present a hardware-oriented methodology for accelerating discrete...
+arXiv:2607.17855v2 Announce Type: new Abstract: Bayesian inference provides a principled foundation for reasoning under uncertainty, but its computational cost hinders deployment on resource-constrained edge devices. In this paper, we present a hardware-oriented methodology for accelerating discrete...
 
 📖 [Read original article](https://arxiv.org/abs/2607.17855)
 
@@ -1493,7 +1493,7 @@ arXiv:2607.16234v1 Announce Type: cross Abstract: Hantavirus genomic surveillanc
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.16235v1 Announce Type: cross Abstract: Mobile and wearable devices offer an unprecedented opportunity for continuous, passive health monitoring and active health coaching. However, the largest wearable datasets are not publicly available for research, and leading wearable foundation model...
+arXiv:2607.16235v2 Announce Type: cross Abstract: Mobile and wearable devices offer an unprecedented opportunity for continuous, passive health monitoring and active health coaching. However, the largest wearable datasets are not publicly available for research, and leading wearable foundation model...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16235)
 
@@ -1697,7 +1697,7 @@ arXiv:2607.16255v1 Announce Type: cross Abstract: A crucial step in machine lear
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.IR, cs.NE  
 
-arXiv:2607.16256v1 Announce Type: cross Abstract: Dreams splice together people, places, and times that never met. Neuroscience suggests this recombination is not noise, but a function driving insight and creative discovery. This reframes memory consolidation: rather than merely defending against fo...
+arXiv:2607.16256v2 Announce Type: cross Abstract: Dreams splice together people, places, and times that never met. Neuroscience suggests this recombination is not noise, but a function driving insight and creative discovery. This reframes memory consolidation: rather than merely defending against fo...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16256)
 
@@ -1865,7 +1865,7 @@ arXiv:2607.16287v1 Announce Type: cross Abstract: Neural Radiance Fields (NeRF) 
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2607.16292v1 Announce Type: cross Abstract: Brain-encoding foundation models predict fMRI responses to video, audio, and text well enough to win the Algonauts 2025 challenge. We ask whether their predicted responses, obtained with no scanner, are a useful feature lens for a downstream human-be...
+arXiv:2607.16292v2 Announce Type: cross Abstract: Brain-encoding foundation models predict fMRI responses to video, audio, and text well enough to win the Algonauts 2025 challenge. We ask whether their predicted responses, obtained with no scanner, are a useful feature lens for a downstream human-be...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16292)
 
@@ -1997,7 +1997,7 @@ arXiv:2607.16338v1 Announce Type: cross Abstract: This article presents DMFNet, 
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.LG, cs.PF  
 
-arXiv:2607.16345v1 Announce Type: cross Abstract: Modern agentic systems increasingly rely on skills: installable packages of natural language and code that teach an LLM agent to perform a domain task. As skill repositories grow, developers need automated quality signals on every change, yet evaluat...
+arXiv:2607.16345v2 Announce Type: cross Abstract: Modern agentic systems increasingly rely on skills: installable packages of natural language and code that teach an LLM agent to perform a domain task. As skill repositories grow, developers need automated quality signals on every change, yet evaluat...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16345)
 
@@ -2561,7 +2561,7 @@ arXiv:2607.16872v1 Announce Type: cross Abstract: Diffusion large language model
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** math.OC, cs.AI  
 
-arXiv:2607.16875v1 Announce Type: cross Abstract: We introduce the vehicle routing problem with stochastic demands and outsourcing options (VRP-SDO), in which a logistics service provider partitions customer requests into customers outsourced to a common carrier and customers committed to its fixed ...
+arXiv:2607.16875v2 Announce Type: cross Abstract: We introduce the vehicle routing problem with stochastic demands and outsourcing options (VRP-SDO), in which a logistics service provider partitions customer requests into customers outsourced to a common carrier and customers committed to its fixed ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16875)
 
@@ -2689,11 +2689,11 @@ arXiv:2607.16973v1 Announce Type: cross Abstract: Retrieval-Augmented Generation
 
 ## 224. Real-World Evaluation of an AI Agent Drafting Translational Impact Summaries
 
-**Author:** Mohammad Arvan, Amber E. Osterholt, Bailee Rue, Yuvaneswaren Ramakrishnan Sureshbabu, Krishna Riteshkumar Patel, Rebecca T. Feinstein, Bethany C. Bray, Niranjan S. Karnik  
+**Author:** Mohammad Arvan, Amber E. Osterholt, Bailee Rue, Yuvaneswaren R. Sureshbabu, Krishna R. Patel, Rebecca T. Feinstein, Bethany C. Bray, Niranjan S. Karnik  
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.DL, cs.HC  
 
-arXiv:2607.16989v1 Announce Type: cross Abstract: Introduction. Clinical and Translational Science Award (CTSA) programs must document their scholars' research impact, but assembling each scholar's record by hand takes staff an estimated 15 hours and does not scale to a full cohort. An artificial in...
+arXiv:2607.16989v2 Announce Type: cross Abstract: Introduction. Clinical and Translational Science Award (CTSA) programs must document their scholars' research impact, but assembling each scholar's record by hand takes staff an estimated 15 hours and does not scale to a full cohort. An artificial in...
 
 📖 [Read original article](https://arxiv.org/abs/2607.16989)
 
@@ -2741,7 +2741,7 @@ arXiv:2607.17003v1 Announce Type: cross Abstract: Imitation learning enables lea
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** physics.soc-ph, cs.AI  
 
-arXiv:2607.17015v1 Announce Type: cross Abstract: We consider economic theory from the perspective of a total automation economy, one with no human involvement in production either in manufacturing or in management. One can naturally ask whether a total automation economy is fundamentally a centrall...
+arXiv:2607.17015v2 Announce Type: cross Abstract: We consider economic theory from the perspective of a total automation economy, one with no human involvement in production either in manufacturing or in management. One can naturally ask whether a total automation economy is fundamentally a centrall...
 
 📖 [Read original article](https://arxiv.org/abs/2607.17015)
 
@@ -3905,7 +3905,7 @@ arXiv:2607.18064v1 Announce Type: cross Abstract: Coding agents can now be left 
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.NI, cs.AI  
 
-arXiv:2607.18068v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly adopted for network automation, yet their output quality and inference cost can vary substantially across LLM families. We present HuGLEN, a stepwise evaluation pipeline that uses an LLM-as-a-judge togeth...
+arXiv:2607.18068v2 Announce Type: cross Abstract: Large language models (LLMs) are increasingly adopted for network automation, yet their output quality and inference cost can vary substantially across LLM families. We present HuGLEN, a stepwise evaluation pipeline that uses an LLM-as-a-judge togeth...
 
 📖 [Read original article](https://arxiv.org/abs/2607.18068)
 
@@ -3965,7 +3965,7 @@ arXiv:2607.18081v1 Announce Type: cross Abstract: Large Language Models (LLMs) h
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.18082v1 Announce Type: cross Abstract: Rubric-based RL has recently shown promise in improving LLMs on open-ended tasks. A widely recognized limitation of rubric-based RL is limited exploration: criteria that no rollout manages to satisfy (Unexplored Criteria, UC) receive no optimization ...
+arXiv:2607.18082v2 Announce Type: cross Abstract: Rubric-based RL has recently shown promise in improving LLMs on open-ended tasks. A widely recognized limitation of rubric-based RL is limited exploration: criteria that no rollout manages to satisfy (Unexplored Criteria, UC) receive no optimization ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.18082)
 
@@ -4901,7 +4901,7 @@ arXiv:2507.05077v5 Announce Type: replace-cross Abstract: Deep neural networks a
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2507.06445v2 Announce Type: replace-cross Abstract: Interpretability research often predicts model responses to targeted mechanistic interventions. But can we predict responses to unseen input data? We propose and demonstrate this alternate objective by using model internals to predict their o...
+arXiv:2507.06445v3 Announce Type: replace-cross Abstract: Interpretability research often predicts model responses to targeted mechanistic interventions. But can we predict responses to unseen input data? We propose and demonstrate this alternate objective by using model internals to predict their o...
 
 📖 [Read original article](https://arxiv.org/abs/2507.06445)
 
@@ -5813,7 +5813,7 @@ arXiv:2606.20918v2 Announce Type: replace-cross Abstract: Accurate short-term el
 **Published:** 7/21/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2606.25449v4 Announce Type: replace-cross Abstract: A language model's memory can be worse than no memory at all when the model or its interface is disposed to act on it: a memory that keeps a wrong conclusion but drops the work behind it leads a model to re-emit the stale value as a confident...
+arXiv:2606.25449v5 Announce Type: replace-cross Abstract: A language model's memory can be worse than no memory at all when the model or its interface is disposed to act on it: a memory that keeps a wrong conclusion but drops the work behind it leads a model to re-emit the stale value as a confident...
 
 📖 [Read original article](https://arxiv.org/abs/2606.25449)
 
