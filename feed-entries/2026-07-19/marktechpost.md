@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-07-19"
 date: "2026-07-19"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-07-19
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Feyn Labs has released SQRL, a family of text-to-SQL models that inspect a datab
 Alibaba's Qwen team previewed Qwen3.8-Max-Preview, a 2.4 trillion-parameter multimodal MoE model it calls "second only to Fable 5." The preview is live on Token Plan, Qoder, and QoderWork at 10% of standard pricing. What is not live: any benchmark table, model card, license, per-token price, or acti...
 
 📖 [Read original article](https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/)
-
----
-
-## 3. Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep
-
-**Author:** Asif Razzaq  
-**Published:** 7/19/2026, 7:19:14 AM  
-**Categories:** Agentic AI, Editors Pick, New Releases, Staff  
-
-Perplexity's WANDR is an open benchmark and evaluation harness with 500 evidence-heavy tasks. It tests whether research agents can discover many qualifying entities and back each one with cited, re-verifiable evidence. Perplexity Search as Code leads at 0.363 soft F1 and 0.133 hard F1. The post Perp...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/)
 
 ---
