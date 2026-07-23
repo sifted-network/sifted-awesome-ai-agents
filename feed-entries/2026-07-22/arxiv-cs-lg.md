@@ -341,7 +341,7 @@ arXiv:2607.18330v1 Announce Type: new Abstract: The deployment of reliable lithi
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.18332v1 Announce Type: new Abstract: Accurate prediction of ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) is important for drug discovery. Most predictors use undirected molecular graphs and pairwise edges. This choice misses asymmetric interactions, nonreversible ...
+arXiv:2607.18332v2 Announce Type: new Abstract: Accurate prediction of ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) is important for drug discovery. Most predictors use undirected molecular graphs and pairwise edges. This choice misses asymmetric interactions, nonreversible ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.18332)
 
@@ -749,7 +749,7 @@ arXiv:2607.18689v1 Announce Type: new Abstract: Reinforcement learning (RL) meth
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2607.18722v1 Announce Type: new Abstract: Asynchronous reinforcement learning improves throughput by decoupling rollout generation from optimization, but staleness is an inevitable byproduct compounded by policy lag, engine delays, and mixture-of-experts routing. From a trust-region perspectiv...
+arXiv:2607.18722v2 Announce Type: new Abstract: Asynchronous reinforcement learning improves throughput by decoupling rollout generation from optimization, but staleness is an inevitable byproduct compounded by policy lag, engine delays, and mixture-of-experts routing. From a trust-region perspectiv...
 
 📖 [Read original article](https://arxiv.org/abs/2607.18722)
 
@@ -1021,11 +1021,11 @@ arXiv:2607.18930v1 Announce Type: new Abstract: The Universal Approximation Theo
 
 ## 85. H$^2$SD: Hybrid Hindsight Self-Distillation
 
-**Author:** Qiye Cai, Yichuan Ma, Linyang Li, Peiji Li, Yongkang Chen, Qipeng Guo, Yicheng Zou, Tao Gui, Xiaocheng Feng, Bing Qin  
+**Author:** Qiye Cai, Yichuan Ma, Linyang Li, Peiji Li, Yongkang Chen, Qipeng Guo, Yicheng Zou, Xiaocheng Feng, Bing Qin  
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2607.18955v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has substantially improved the reasoning capabilities of large language models on tasks such as mathematical reasoning and code generation. However, most RLVR methods assign a scalar outcome reward ...
+arXiv:2607.18955v2 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) provides reliable outcome supervision for language model reasoning, but a scalar trajectory reward offers limited token-level guidance. Existing self-distillation methods add a privileged teacher bu...
 
 📖 [Read original article](https://arxiv.org/abs/2607.18955)
 
@@ -1529,7 +1529,7 @@ arXiv:2607.18269v1 Announce Type: cross Abstract: The wisdom of crowds -- the fi
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** physics.chem-ph, cs.LG, quant-ph  
 
-arXiv:2607.18281v1 Announce Type: cross Abstract: Finding exact solutions to the quantum many-body problem is computationally intractable (QMA-hard). Traditional approximations for electrons in an atom or molecule -- density functional theory and wavefunction methods -- have been indispensable, but ...
+arXiv:2607.18281v2 Announce Type: cross Abstract: Finding exact solutions to the quantum many-body problem is computationally intractable (QMA-hard). Traditional approximations for electrons in an atom or molecule -- density functional theory and wavefunction methods -- have been indispensable, but ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.18281)
 
@@ -1907,13 +1907,13 @@ arXiv:2607.18845v1 Announce Type: cross Abstract: For decades, ABR has kept two 
 
 ---
 
-## 159. Enhanced NQS via Annealed Gradient Descent
+## 159. Enhanced Neural Quantum State via Annealed Gradient Descent
 
 **Author:** Shiwei Zhou, Yiming Huang, Xiao Yuan, Xiaoxia Cai  
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** quant-ph, cs.LG, physics.chem-ph, physics.comp-ph  
 
-arXiv:2607.18865v1 Announce Type: cross Abstract: Neural quantum states offer expressive representations of quantum many-body wave functions, yet their practical accuracy can be limited by stochastic optimization rather than representational capacity. Here we identify a finite-sample instability, te...
+arXiv:2607.18865v2 Announce Type: cross Abstract: Neural quantum states offer expressive representations of quantum many-body wave functions, yet their practical accuracy can be limited by stochastic optimization rather than representational capacity. Here we identify a finite-sample instability, te...
 
 📖 [Read original article](https://arxiv.org/abs/2607.18865)
 
@@ -1997,7 +1997,7 @@ arXiv:2607.19004v1 Announce Type: cross Abstract: We provide a simple and tight 
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG, cs.MM, eess.IV  
 
-arXiv:2607.19064v1 Announce Type: cross Abstract: Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is bu...
+arXiv:2607.19064v2 Announce Type: cross Abstract: Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is bu...
 
 📖 [Read original article](https://arxiv.org/abs/2607.19064)
 
@@ -2513,7 +2513,7 @@ arXiv:2605.15250v3 Announce Type: replace Abstract: Multi-head Latent Attention 
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.20803v2 Announce Type: replace Abstract: Continual learning (CL) aims to train models sequentially on multiple tasks while mitigating catastrophic forgetting of previously learned knowledge. Recent advances in large pre-trained models (LPMs) and model merging techniques, such as MAGMAX, h...
+arXiv:2605.20803v3 Announce Type: replace Abstract: Continual learning (CL) aims to train models sequentially on multiple tasks while mitigating catastrophic forgetting of previously learned knowledge. Recent advances in large pre-trained models (LPMs) and model merging techniques, such as MAGMAX, h...
 
 📖 [Read original article](https://arxiv.org/abs/2605.20803)
 
@@ -2561,7 +2561,7 @@ arXiv:2606.16952v2 Announce Type: replace Abstract: The rapid adoption of genera
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.SY, eess.SY  
 
-arXiv:2606.17471v2 Announce Type: replace Abstract: Traditional CPU, GPU, and NPU architectures are increasingly limited by the von Neumann bottleneck. While In-Memory Computing (IMC) using ReRAM crossbar arrays offers a high-density, energy-efficient alternative, its practical deployment is constra...
+arXiv:2606.17471v3 Announce Type: replace Abstract: Traditional CPU, GPU, and NPU architectures are increasingly limited by the von Neumann bottleneck. While In-Memory Computing (IMC) using ReRAM crossbar arrays offers a high-density, energy-efficient alternative, its practical deployment is constra...
 
 📖 [Read original article](https://arxiv.org/abs/2606.17471)
 
@@ -3317,7 +3317,7 @@ arXiv:2607.14161v2 Announce Type: replace-cross Abstract: Pinterest is where peo
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.LG  
 
-arXiv:2607.14186v3 Announce Type: replace-cross Abstract: Scaling executable agent training data for LLM post-training is bottlenecked by substrate-bound methods that tie task generation to predefined tools, repositories, or skill graphs: expanding coverage requires manual substrate engineering, eac...
+arXiv:2607.14186v4 Announce Type: replace-cross Abstract: Scaling executable agent training data for LLM post-training is bottlenecked by substrate-bound methods that tie task generation to predefined tools, repositories, or skill graphs: expanding coverage requires manual substrate engineering, eac...
 
 📖 [Read original article](https://arxiv.org/abs/2607.14186)
 
