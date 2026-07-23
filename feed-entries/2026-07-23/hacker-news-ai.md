@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Founders OS – open-source MCP server that gives AI your business context
+## 1. DARPA, U.S. Air Force fly AI-controlled F-16
 
-**Author:** ourthinktank  
-**Published:** 7/23/2026, 8:13:08 AM  
+**Author:** r2sk5t  
+**Published:** 7/23/2026, 1:51:36 PM  
 **Categories:** -  
 
-Article URL: https://www.foundersmcp.com Comments URL: https://news.ycombinator.com/item?id=49018348 Points: 1 # Comments: 0
+Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.foundersmcp.com)
+📖 [Read original article](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 
 ---
 
-## 2. AI Agents Don't Respect Font Licenses
+## 2. AI in Linux
 
-**Author:** justswim  
-**Published:** 7/23/2026, 8:11:01 AM  
+**Author:** LaSombra  
+**Published:** 7/23/2026, 1:45:21 PM  
 **Categories:** -  
 
-Article URL: https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses Comments URL: https://news.ycombinator.com/item?id=49018334 Points: 1 # Comments: 0
+Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49021509 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses)
+📖 [Read original article](https://drewdevault.com/blog/AI-in-Linux/)
 
 ---
 
-## 3. BrainStem: Open‑source bio‑inspired AI with 12 neuromodulators for learning
+## 3. Tesla falls 10%, Alphabet sinks 5% as AI spending concerns spook investors
 
-**Author:** Unikum-Sol  
-**Published:** 7/23/2026, 8:03:16 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/23/2026, 1:44:42 PM  
 **Categories:** -  
 
-Article URL: https://github.com/unikum-sol/brainstem Comments URL: https://news.ycombinator.com/item?id=49018280 Points: 1 # Comments: 0
+Article URL: https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html Comments URL: https://news.ycombinator.com/item?id=49021494 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/unikum-sol/brainstem)
+📖 [Read original article](https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html)
 
 ---
 
-## 4. Generative AI and the German Far Right: Narratives, Tactics, Digital Strategies [pdf]
+## 4. AI-Native FDE for the RNC
 
-**Author:** vrganj  
-**Published:** 7/23/2026, 8:00:02 AM  
+**Author:** arionhardison  
+**Published:** 7/23/2026, 1:43:44 PM  
 **Categories:** -  
 
-Article URL: https://www.isdglobal.org/wp-content/uploads/2025/02/The-use-of-generative-AI-by-the-German-Far-Right.pdf Comments URL: https://news.ycombinator.com/item?id=49018265 Points: 1 # Comments: 0
+Article URL: https://rnc.dev/ Comments URL: https://news.ycombinator.com/item?id=49021482 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.isdglobal.org/wp-content/uploads/2025/02/The-use-of-generative-AI-by-the-German-Far-Right.pdf)
+📖 [Read original article](https://rnc.dev/)
 
 ---
 
-## 5. Why the US is losing Chinese AI stars
+## 5. Show HN: USB AI Agent – portable uncensored AI with 13 tools, runs from USB
 
-**Author:** chewz  
-**Published:** 7/23/2026, 7:52:05 AM  
+**Author:** pucucip  
+**Published:** 7/23/2026, 1:43:17 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3 Comments URL: https://news.ycombinator.com/item?id=49018203 Points: 1 # Comments: 0
+Turned the archived USB-Uncensored-LLM into a full autonomous agent. 13 tools, 5 GGUF models, zero install. Works on Windows, Linux, Tails. Everything offline after setup. Comments URL: https://news.ycombinator.com/item?id=49021477 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3)
+📖 [Read original article](https://github.com/pusucip25/USB-AI-Agent)
 
 ---
 
-## 6. AI Firewall – Security Gateway and Reverse Proxy for LLM Traffic
+## 6. Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth
 
-**Author:** bossandboss  
-**Published:** 7/23/2026, 7:47:13 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/23/2026, 1:42:58 PM  
 **Categories:** -  
 
-Article URL: https://github.com/bossandboss/Ai-Firewall Comments URL: https://news.ycombinator.com/item?id=49018165 Points: 1 # Comments: 0
+Article URL: https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html Comments URL: https://news.ycombinator.com/item?id=49021470 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/bossandboss/Ai-Firewall)
+📖 [Read original article](https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html)
 
 ---
 
-## 7. Onipin nuevo protocolo un chat Para la AI inscribe la tuya
+## 7. The future of AI – Eric Schmidt (2024)
 
-**Author:** davis1224  
-**Published:** 7/23/2026, 7:39:54 AM  
+**Author:** soupspaces  
+**Published:** 7/23/2026, 1:23:31 PM  
 **Categories:** -  
 
-Article URL: https://onnivers.store/ Comments URL: https://news.ycombinator.com/item?id=49018107 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=DgpYiysQjeI Comments URL: https://news.ycombinator.com/item?id=49021191 Points: 1 # Comments: 0
 
-📖 [Read original article](https://onnivers.store/)
+📖 [Read original article](https://www.youtube.com/watch?v=DgpYiysQjeI)
 
 ---
 
-## 8. Show HN: Ego lite – A Chromium browser where you and AI agents work in parallel
+## 8. AI × Judgment × Taste = Mega Software
 
-**Author:** howardlun7  
-**Published:** 7/23/2026, 7:33:49 AM  
+**Author:** dlhck  
+**Published:** 7/23/2026, 1:22:41 PM  
 **Categories:** -  
 
-ego lite is a free Chromium-based agent browser that lets external AI agents work on logged-in web tasks in isolated Spaces while you continue browsing normal Comments URL: https://news.ycombinator.com/item?id=49018062 Points: 1 # Comments: 1
+Article URL: https://www.dlhck.com/essays/ai-judgment-taste-mega-software Comments URL: https://news.ycombinator.com/item?id=49021180 Points: 1 # Comments: 0
 
-📖 [Read original article](https://lite.ego.app)
+📖 [Read original article](https://www.dlhck.com/essays/ai-judgment-taste-mega-software)
 
 ---
 
-## 9. The White House Is Trying to Figure Out What to Do About Chinese AI
+## 9. Anthropic is subsidizing our AI coding at 13x. How long will it last?
 
-**Author:** joozio  
-**Published:** 7/23/2026, 7:02:15 AM  
+**Author:** bassamtabbara  
+**Published:** 7/23/2026, 1:13:37 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/ Comments URL: https://news.ycombinator.com/item?id=49017865 Points: 1 # Comments: 0
+Article URL: https://modelplane.ai/blog/ai-coding-subsidy-multiple Comments URL: https://news.ycombinator.com/item?id=49021054 Points: 9 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/)
+📖 [Read original article](https://modelplane.ai/blog/ai-coding-subsidy-multiple)
 
 ---
 
-## 10. Show HN: Ours.network – give your AI agents a direct line to each other
+## 10. Alphabet's cash burn raises alarm for Big Tech as AI spending climbs
 
-**Author:** shakhvit  
-**Published:** 7/23/2026, 7:01:04 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/23/2026, 1:10:02 PM  
 **Categories:** -  
 
-I got tired of being the wire between my agents, copy-pasting messages back and forth between them.So I built a way for agents (and people) to get their own identity and message each other directly, end-to-end encrypted, no accounts.It's alpha, but you can try it at https://ours.network.Would love t...
+Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 102 # Comments: 85
 
-📖 [Read original article](https://ours.network)
+📖 [Read original article](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 
 ---
 
-## 11. Show HN: Hanesu – An experimental workflow layer for AI coding agents
+## 11. AI Companies Are Trying to Hide a Staggering Amount of Debt
 
-**Author:** jezmn  
-**Published:** 7/23/2026, 6:58:39 AM  
+**Author:** technewssss  
+**Published:** 7/23/2026, 1:09:10 PM  
 **Categories:** -  
 
-A few months ago, I became interested in Harness Engineering and started researching it. I realized that, in my experience, as tasks start to grow, agents end up losing context, repeating steps, or trying to solve the same problem multiple times. I wanted to build this workflow layer to provide a cl...
+Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 12 # Comments: 1
 
-📖 [Read original article](https://github.com/jezmn/hanesu)
+📖 [Read original article](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 
 ---
 
-## 12. Show HN: Agentmux – iOS terminal and workspace built for CLI AI agents
+## 12. The AI Con
 
-**Author:** saxlamen  
-**Published:** 7/23/2026, 6:41:49 AM  
+**Author:** BodyCulture  
+**Published:** 7/23/2026, 1:07:17 PM  
 **Categories:** -  
 
-Article URL: https://agentmux.saxcave.cc/ Comments URL: https://news.ycombinator.com/item?id=49017722 Points: 2 # Comments: 0
+Article URL: https://www.penguin.co.uk/books/468070/the-ai-con-by-hanna-emily-m-bender-and-alex/9781529949902 Comments URL: https://news.ycombinator.com/item?id=49020967 Points: 2 # Comments: 0
 
-📖 [Read original article](https://agentmux.saxcave.cc/)
+📖 [Read original article](https://www.penguin.co.uk/books/468070/the-ai-con-by-hanna-emily-m-bender-and-alex/9781529949902)
 
 ---
 
-## 13. The U.S. wants to contain China's AI. Silicon Valley keeps using it
+## 13. AMD to launch next generation of AI infrastructure to challenge Nvidia
 
-**Author:** devonnull  
-**Published:** 7/23/2026, 6:40:21 AM  
+**Author:** VWWHFSfQ  
+**Published:** 7/23/2026, 1:01:01 PM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/ Comments URL: https://news.ycombinator.com/item?id=49017706 Points: 8 # Comments: 0
+Article URL: https://www.reuters.com/business/amd-expected-launch-next-generation-ai-infrastructure-challenge-nvidia-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49020887 Points: 2 # Comments: 0
 
-📖 [Read original article](https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/)
+📖 [Read original article](https://www.reuters.com/business/amd-expected-launch-next-generation-ai-infrastructure-challenge-nvidia-2026-07-23/)
 
 ---
 
-## 14. European Commission: 'Guidance to Google for AI Interoperability'
+## 14. OpenAI and Anthropic unite against open-weight AI risks to their bottom line
 
-**Author:** rgovostes  
-**Published:** 7/23/2026, 6:36:55 AM  
+**Author:** yogthos  
+**Published:** 7/23/2026, 1:00:03 PM  
 **Categories:** -  
 
-Article URL: https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing Comments URL: https://news.ycombinator.com/item?id=49017682 Points: 2 # Comments: 0
+Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 100 # Comments: 65
 
-📖 [Read original article](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing)
+📖 [Read original article](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
 
 ---
 
-## 15. MemoHood and MemoBase – local memory and knowledge base for AI agents
+## 15. Full Disclosure: A project is publishing full analyses of AI-discovered 0-days
 
-**Author:** maxskorohood  
-**Published:** 7/23/2026, 6:31:03 AM  
+**Author:** speckx  
+**Published:** 7/23/2026, 12:41:26 PM  
 **Categories:** -  
 
-Article URL: https://github.com/mxskorohood-cmd/memobase Comments URL: https://news.ycombinator.com/item?id=49017636 Points: 1 # Comments: 0
+Article URL: https://seclists.org/fulldisclosure/2026/Jul/29 Comments URL: https://news.ycombinator.com/item?id=49020659 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/mxskorohood-cmd/memobase)
+📖 [Read original article](https://seclists.org/fulldisclosure/2026/Jul/29)
 
 ---
 
-## 16. Show HN: AI agents that go from naming your startup to running its marketing
+## 16. Show HN: Mwe-MCP – self-hosted memory for AI agents that knows who may know what
 
-**Author:** BrandB  
-**Published:** 7/23/2026, 6:20:43 AM  
+**Author:** Fr4nZ82  
+**Published:** 7/23/2026, 12:38:20 PM  
 **Categories:** -  
 
-Solo founder from Bengaluru built an agentic ai platform for business naming to marketing. Comments URL: https://news.ycombinator.com/item?id=49017566 Points: 1 # Comments: 0
+Hi HN, for about a year now I've been experimenting with AI agents and building my own home ecosystem; from the start I set out with the idea of an agent that behaves like a member of the family, not as a personal agent, and this made me clash very early first with OpenClaw's builtin memory, then I ...
 
-📖 [Read original article](https://www.brandbrahma.com/)
+📖 [Read original article](https://github.com/Fr4nZ82/mwe-mcp)
 
 ---
 
-## 17. AI Is the Ultimate Leaky Abstraction
+## 17. Show HN: Nova – open-source AI orchestrator that works with you
 
-**Author:** nalinidash  
-**Published:** 7/23/2026, 6:18:09 AM  
+**Author:** djbelieny  
+**Published:** 7/23/2026, 12:30:36 PM  
 **Categories:** -  
 
-Article URL: https://www.jonathanbeard.io/blog/2026/06/20/ai-the-ultimate-leaky-abstraction.html Comments URL: https://news.ycombinator.com/item?id=49017551 Points: 2 # Comments: 0
+Article URL: https://github.com/djbelieny/nova Comments URL: https://news.ycombinator.com/item?id=49020535 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.jonathanbeard.io/blog/2026/06/20/ai-the-ultimate-leaky-abstraction.html)
+📖 [Read original article](https://github.com/djbelieny/nova)
 
 ---
 
-## 18. Review of my Open AI build week feedback please
+## 18. ASK HN: What role do humans play in your organization in an AI era?
 
-**Author:** OOvsuOO  
-**Published:** 7/23/2026, 6:12:36 AM  
+**Author:** dimamik  
+**Published:** 7/23/2026, 12:16:09 PM  
 **Categories:** -  
 
-Article URL: https://devpost.com/software/grantscout-app Comments URL: https://news.ycombinator.com/item?id=49017521 Points: 1 # Comments: 1
+The topic might sound very off, but recently, the more AI advances, the more “hype” it gets in different organizations, the more questions I'm starting to have. Since all of us are working in different fields, our internal experiences might differ. And I want to create a place for us to share these ...
 
-📖 [Read original article](https://devpost.com/software/grantscout-app)
+📖 [Read original article](https://news.ycombinator.com/item?id=49020380)
 
 ---
 
-## 19. I built an AI tool that turns a product URL into a video ad
+## 19. AI and Productivity – Stripe Economics
 
-**Author:** Ugcad  
-**Published:** 7/23/2026, 5:58:55 AM  
+**Author:** swolpers  
+**Published:** 7/23/2026, 12:15:47 PM  
 **Categories:** -  
 
-Built this after watching DTC brands burn weeks and budget on UGC-style ad shoots. It scrapes a product page and generates a script + video using AI avatar happy to answer questions about the approach. Comments URL: https://news.ycombinator.com/item?id=49017441 Points: 1 # Comments: 1
+Article URL: https://www.stripeeconomics.com/p/ai-and-productivity Comments URL: https://news.ycombinator.com/item?id=49020379 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49017441)
+📖 [Read original article](https://www.stripeeconomics.com/p/ai-and-productivity)
 
 ---
 
-## 20. Google burning through cash with spiralling AI costs
+## 20. Understanding the AI Economy
 
-**Author:** geox  
-**Published:** 7/23/2026, 5:37:51 AM  
+**Author:** swolpers  
+**Published:** 7/23/2026, 12:11:05 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/c235n47g8g8o Comments URL: https://news.ycombinator.com/item?id=49017331 Points: 3 # Comments: 0
+Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 66 # Comments: 110
 
-📖 [Read original article](https://www.bbc.com/news/articles/c235n47g8g8o)
+📖 [Read original article](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)
 
 ---
