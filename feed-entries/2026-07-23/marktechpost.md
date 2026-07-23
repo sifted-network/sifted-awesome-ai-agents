@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-23"
 date: "2026-07-23"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-07-23
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers
+## 1. Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared
+
+**Author:** Asif Razzaq  
+**Published:** 7/23/2026, 9:26:40 AM  
+**Categories:** Applications, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, Large Language Model, Staff, Tech News, Technology, Voice AI  
+
+Open speech recognition stopped being a Whisper monoculture in 2026. Cohere Transcribe, IBM Granite Speech 4.1, ARK-ASR and MOSS-Transcribe are now separated by less than one WER point on the Hugging Face Open ASR Leaderboard — which means rank no longer decides anything. This roundup compares 16 op...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/23/best-open-speech-recognition-asr-models-in-2026-wer-languages-latency-and-license-compared/)
+
+---
+
+## 2. Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers
 
 **Author:** Asif Razzaq  
 **Published:** 7/23/2026, 8:01:22 AM  
@@ -23,7 +35,7 @@ Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes p
 
 ---
 
-## 2. Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal
+## 3. Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal
 
 **Author:** Michal Sutter  
 **Published:** 7/23/2026, 6:12:05 AM  
