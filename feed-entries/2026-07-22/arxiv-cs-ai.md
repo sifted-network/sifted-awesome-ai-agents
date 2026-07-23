@@ -797,7 +797,7 @@ arXiv:2607.19321v1 Announce Type: new Abstract: As AI agents begin to automate A
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.19327v1 Announce Type: new Abstract: Associative emotional learning enables organisms to adaptively link pleasant or unpleasant outcomes to the presence of predictive stimuli. Whereas computational models such as the Rescorla-Wagner model have shed light on this important function, the li...
+arXiv:2607.19327v2 Announce Type: new Abstract: Associative emotional learning enables organisms to adaptively link pleasant or unpleasant outcomes to the presence of predictive stimuli. Whereas computational models such as the Rescorla-Wagner model have shed light on this important function, the li...
 
 📖 [Read original article](https://arxiv.org/abs/2607.19327)
 
@@ -1169,7 +1169,7 @@ arXiv:2607.18330v1 Announce Type: cross Abstract: The deployment of reliable lit
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.18332v1 Announce Type: cross Abstract: Accurate prediction of ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) is important for drug discovery. Most predictors use undirected molecular graphs and pairwise edges. This choice misses asymmetric interactions, nonreversibl...
+arXiv:2607.18332v2 Announce Type: cross Abstract: Accurate prediction of ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) is important for drug discovery. Most predictors use undirected molecular graphs and pairwise edges. This choice misses asymmetric interactions, nonreversibl...
 
 📖 [Read original article](https://arxiv.org/abs/2607.18332)
 
@@ -1211,13 +1211,13 @@ arXiv:2607.18343v1 Announce Type: cross Abstract: Federated fine-tuning is bottl
 
 ---
 
-## 101. FSDBN: Foreground-Aware EEG--Visual Alignment via Dynamic Brain Networks
+## 101. FSDBN: Foreground-Aware EEG-Visual Alignment via Dynamic Brain Networks
 
 **Author:** Yiheng Liu, Chuhang Zheng, Peiliang Gong, Jingtao Liu, Daoqiang Zhang, Qi Zhu  
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** eess.IV, cs.AI  
 
-arXiv:2607.18344v1 Announce Type: cross Abstract: EEG-based visual decoding provides a non-invasive pathway for interpreting visual semantics. However, existing methods often overlook the perceptual asymmetry between foreground and background in complex scenes, leading to background interference and...
+arXiv:2607.18344v2 Announce Type: cross Abstract: EEG-based visual decoding provides a non-invasive pathway for interpreting visual semantics. However, existing methods often overlook the perceptual asymmetry between foreground and background in complex scenes, leading to background interference and...
 
 📖 [Read original article](https://arxiv.org/abs/2607.18344)
 
@@ -2117,7 +2117,7 @@ arXiv:2607.19060v1 Announce Type: cross Abstract: Fast prediction of the respons
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2607.19061v1 Announce Type: cross Abstract: Hateful optical illusions expose a serious gap in current multimodal safety systems. On original-view hateful illusions, previous work shows that six moderation classifiers achieve at most 20.9 to 24.5% accuracy and nine state-of-the-art VLMs remain ...
+arXiv:2607.19061v2 Announce Type: cross Abstract: Hateful optical illusions expose a serious gap in current multimodal safety systems. On original-view hateful illusions, previous work shows that six moderation classifiers achieve at most 20.9 to 24.5% accuracy and nine state-of-the-art VLMs remain ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.19061)
 
@@ -2129,7 +2129,7 @@ arXiv:2607.19061v1 Announce Type: cross Abstract: Hateful optical illusions expo
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG, cs.MM, eess.IV  
 
-arXiv:2607.19064v1 Announce Type: cross Abstract: Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is bu...
+arXiv:2607.19064v2 Announce Type: cross Abstract: Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is bu...
 
 📖 [Read original article](https://arxiv.org/abs/2607.19064)
 
@@ -2249,7 +2249,7 @@ arXiv:2607.19181v1 Announce Type: cross Abstract: Neural machine translation (NM
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2607.19190v1 Announce Type: cross Abstract: Real-to-sim conversion for robotic interaction with objects remains labor-intensive because it requires more than visual reconstruction: a streamlined real2sim process must recover scene geometries and object states, infer physical parameters, and as...
+arXiv:2607.19190v2 Announce Type: cross Abstract: Real-to-sim conversion for robotic interaction with objects remains labor-intensive because it requires more than visual reconstruction: a streamlined real2sim process must recover scene geometries and object states, infer physical parameters, and as...
 
 📖 [Read original article](https://arxiv.org/abs/2607.19190)
 
@@ -3173,7 +3173,7 @@ arXiv:2512.10946v2 Announce Type: replace-cross Abstract: Human-level contact-ri
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.SD, cs.AI, cs.MM  
 
-arXiv:2512.13998v3 Announce Type: replace-cross Abstract: Music Emotion Recognition (MER) is constrained by limited expert annotations and the need to establish robustness across heterogeneous corpora. Memo2496 supplies a reproducible dataset of 2,496 instrumental tracks with continuous valence-arou...
+arXiv:2512.13998v4 Announce Type: replace-cross Abstract: Music Emotion Recognition (MER) is constrained by limited expert annotations and the need to establish robustness across heterogeneous corpora. Memo2496 supplies a reproducible dataset of 2,496 instrumental tracks with continuous valence-arou...
 
 📖 [Read original article](https://arxiv.org/abs/2512.13998)
 
@@ -3269,7 +3269,7 @@ arXiv:2602.15875v2 Announce Type: replace-cross Abstract: Current Visual-Languag
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2603.03989v2 Announce Type: replace-cross Abstract: When visual evidence is ambiguous, vision models must decide how to interpret face-like patterns. Face pareidolia, the perception of faces in non-face objects, provides a controlled probe of such decisions. We introduce a diagnostic framework...
+arXiv:2603.03989v3 Announce Type: replace-cross Abstract: When visual evidence is ambiguous, vision models must decide how to interpret face-like patterns. Face pareidolia, the perception of faces in non-face objects, provides a controlled probe of such decisions. We introduce a diagnostic framework...
 
 📖 [Read original article](https://arxiv.org/abs/2603.03989)
 
@@ -3497,7 +3497,7 @@ arXiv:2605.17086v2 Announce Type: replace-cross Abstract: Automation can displac
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.20803v2 Announce Type: replace-cross Abstract: Continual learning (CL) aims to train models sequentially on multiple tasks while mitigating catastrophic forgetting of previously learned knowledge. Recent advances in large pre-trained models (LPMs) and model merging techniques, such as MAG...
+arXiv:2605.20803v3 Announce Type: replace-cross Abstract: Continual learning (CL) aims to train models sequentially on multiple tasks while mitigating catastrophic forgetting of previously learned knowledge. Recent advances in large pre-trained models (LPMs) and model merging techniques, such as MAG...
 
 📖 [Read original article](https://arxiv.org/abs/2605.20803)
 
@@ -3673,11 +3673,11 @@ arXiv:2607.08783v3 Announce Type: replace-cross Abstract: Manifold-valued measur
 
 ## 306. An LLM-powered Agentic Recommendation System for Connected TV Content Discovery
 
-**Author:** Lei Shi, Di Wang, Harry Tran, Helsing Xu, Yuchen Lu, Dhara Ghodasara, Wilson Chaney, Xueting Liao, Jerry Yu, Huayu Ding, Reza Mirghaderi, David Fan, Qi Guo, Chongguang He, Warren Wang, Mingze Gao, Shike Mei, Shuo Tang, Zhe Zhang, Jianming He, Abhishek Kumar, Haotian Wu, Hamed Firooz, Li Li  
+**Author:** Lei Shi, Di Wang, Harry Tran, Helsing Xu, Yuchen Lu, Dhara Ghodasara, Wilson Chaney, Xueting Liao, Jerry Yu, Huayu Ding, Reza Mirghaderi, David Fan, Qi Guo, Chongguang He, Warren Wang, Warren Deng, Mingze Gao, Shike Mei, Shuo Tang, Zhe Zhang, Jianming He, Abhishek Kumar, Haotian Wu, Hamed Firooz, Li Li  
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI  
 
-arXiv:2607.09988v2 Announce Type: replace-cross Abstract: Recommendation systems, from traditional multi-stage to recent unified generative architectures, face challenges in incorporating diverse contextual signals, such as trending topics, breaking news, cultural events, and cross-surface user acti...
+arXiv:2607.09988v3 Announce Type: replace-cross Abstract: Recommendation systems, from traditional multi-stage to recent unified generative architectures, face challenges in incorporating diverse contextual signals, such as trending topics, breaking news, cultural events, and cross-surface user acti...
 
 📖 [Read original article](https://arxiv.org/abs/2607.09988)
 
@@ -3737,7 +3737,7 @@ arXiv:2607.13393v2 Announce Type: replace-cross Abstract: A field can reformulat
 **Published:** 7/22/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.LG  
 
-arXiv:2607.14186v3 Announce Type: replace-cross Abstract: Scaling executable agent training data for LLM post-training is bottlenecked by substrate-bound methods that tie task generation to predefined tools, repositories, or skill graphs: expanding coverage requires manual substrate engineering, eac...
+arXiv:2607.14186v4 Announce Type: replace-cross Abstract: Scaling executable agent training data for LLM post-training is bottlenecked by substrate-bound methods that tie task generation to predefined tools, repositories, or skill graphs: expanding coverage requires manual substrate engineering, eac...
 
 📖 [Read original article](https://arxiv.org/abs/2607.14186)
 
