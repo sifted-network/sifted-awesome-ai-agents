@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-07-22"
 date: "2026-07-22"
 source: "OpenAI Blog"
-count: 3
+count: 5
 ---
 
 # OpenAI Blog - 2026-07-22
 
-3 items collected.
+5 items collected.
 
 ---
 
@@ -23,7 +23,19 @@ OpenAI announces Project Camellia in Effingham County, Georgia, with commitments
 
 ---
 
-## 2. Advancing the next era of national science
+## 2. How news organizations are using AI to advance their vital missions
+
+**Author:** -  
+**Published:** 7/22/2026, 1:00:00 PM  
+**Categories:** Company  
+
+News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.
+
+📖 [Read original article](https://openai.com/index/how-news-organizations-are-using-ai)
+
+---
+
+## 3. Advancing the next era of national science
 
 **Author:** -  
 **Published:** 7/22/2026, 12:00:00 PM  
@@ -35,7 +47,7 @@ OpenAI outlines its commitment to advancing American science working with the U.
 
 ---
 
-## 3. Introducing OpenAI Presence
+## 4. Introducing OpenAI Presence
 
 **Author:** -  
 **Published:** 7/22/2026, 5:30:00 AM  
@@ -44,5 +56,17 @@ OpenAI outlines its commitment to advancing American science working with the U.
 Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.
 
 📖 [Read original article](https://openai.com/index/introducing-openai-presence)
+
+---
+
+## 5. NTT DATA Group cuts incident analysis to 30 minutes with Codex
+
+**Author:** -  
+**Published:** 7/22/2026, 12:00:00 AM  
+**Categories:** -  
+
+NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.
+
+📖 [Read original article](https://openai.com/index/ntt-data)
 
 ---
