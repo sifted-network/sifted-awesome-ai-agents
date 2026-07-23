@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-23"
 date: "2026-07-23"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-07-23
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared
+## 1. You Didn’t Get the AI Model You Paid For
+
+**Author:** Aabis Islam  
+**Published:** 7/23/2026, 6:07:55 PM  
+**Categories:** AI Shorts, Applications, Artificial Intelligence, Editors Pick, Guest Post, Language Model, Large Language Model, Machine Learning, Tech News, Technology  
+
+The line in the response object You call the API. You pass model: &#8220;claude-fable-5&#8221;. You get back a completion, a token count, and a field that reads &#8220;model&#8221;: &#8220;claude-opus-4-8&#8221;. Nothing errored. Nothing retried. The request was classified before generation began, m...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/)
+
+---
+
+## 2. Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared
 
 **Author:** Asif Razzaq  
 **Published:** 7/23/2026, 9:26:40 AM  
@@ -23,7 +35,7 @@ Open speech recognition stopped being a Whisper monoculture in 2026. Cohere Tran
 
 ---
 
-## 2. Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers
+## 3. Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers
 
 **Author:** Asif Razzaq  
 **Published:** 7/23/2026, 8:01:22 AM  
@@ -35,7 +47,7 @@ Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes p
 
 ---
 
-## 3. Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal
+## 4. Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal
 
 **Author:** Michal Sutter  
 **Published:** 7/23/2026, 6:12:05 AM  
