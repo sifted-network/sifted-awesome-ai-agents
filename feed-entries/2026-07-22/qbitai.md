@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-22"
 date: "2026-07-22"
 source: "qbitai"
-count: 10
+count: 7
 ---
 
 # qbitai - 2026-07-22
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ count: 10
 
 
 📖 [Read original article](https://www.qbitai.com/2026/07/456910.html)
-
----
-
-## 8. 物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣
-
-**Author:** 田, 晏林  
-**Published:** 7/22/2026, 3:06:21 AM  
-**Categories:** 资讯  
-
-按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。
-
-📖 [Read original article](https://www.qbitai.com/2026/07/456728.html)
-
----
-
-## 9. AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff
-
-**Author:** 田, 晏林  
-**Published:** 7/22/2026, 2:59:28 AM  
-**Categories:** 资讯  
-
-建一座「元医院」比造AI工具难多了。
-
-📖 [Read original article](https://www.qbitai.com/2026/07/456555.html)
-
----
-
-## 10. 酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型
-
-**Author:** 量子位的朋友们  
-**Published:** 7/22/2026, 1:46:01 AM  
-**Categories:** 资讯, 酷哇科技  
-
-机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一
-
-📖 [Read original article](https://www.qbitai.com/2026/07/456178.html)
 
 ---
