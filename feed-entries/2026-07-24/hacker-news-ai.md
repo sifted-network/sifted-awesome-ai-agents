@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI, Rockets, and the Return of Hard Contracts (Part I)
+## 1. Oracle fires 21,000 employees to fund AI spending
 
-**Author:** handfuloflight  
-**Published:** 7/24/2026, 8:18:20 AM  
+**Author:** DemiGuru  
+**Published:** 7/24/2026, 1:33:12 PM  
 **Categories:** -  
 
-Article URL: https://noumena.com/essays/the-engine-shop-part-1/ Comments URL: https://news.ycombinator.com/item?id=49032658 Points: 1 # Comments: 0
+Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 3 # Comments: 0
 
-📖 [Read original article](https://noumena.com/essays/the-engine-shop-part-1/)
+📖 [Read original article](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442)
 
 ---
 
-## 2. Naming a pattern in AI-generated code: Modular Mirage
+## 2. Microsoft – Open Weights and American AI Leadership
 
-**Author:** ErsanG  
-**Published:** 7/24/2026, 7:55:07 AM  
+**Author:** louiereederson  
+**Published:** 7/24/2026, 1:32:30 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49032468 Points: 1 # Comments: 0
+Article URL: https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/ Comments URL: https://news.ycombinator.com/item?id=49035303 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49032468)
+📖 [Read original article](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)
 
 ---
 
-## 3. Oracle severed 21,000 employees during an AI spending spree
+## 3. Spending judgement where it matters: how we structure AI-native delivery
 
-**Author:** taubek  
-**Published:** 7/24/2026, 7:45:25 AM  
+**Author:** moystard  
+**Published:** 7/24/2026, 1:30:55 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html Comments URL: https://news.ycombinator.com/item?id=49032388 Points: 3 # Comments: 0
+Article URL: https://www.moystard.com/blog/ai-native-delivery/ Comments URL: https://news.ycombinator.com/item?id=49035279 Points: 1 # Comments: 0
 
-📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html)
+📖 [Read original article](https://www.moystard.com/blog/ai-native-delivery/)
 
 ---
 
-## 4. HN: FlowShelf –free,native macOS shelf/clipboard/screenshot app,on-device AI
+## 4. Python package installations as an index of local AI adoption
 
-**Author:** abukadery  
-**Published:** 7/24/2026, 7:33:38 AM  
+**Author:** 50kIters  
+**Published:** 7/24/2026, 1:27:24 PM  
 **Categories:** -  
 
-Article URL: https://flowshelf.app/ Comments URL: https://news.ycombinator.com/item?id=49032306 Points: 1 # Comments: 0
+Article URL: https://www.unite.ai/python-package-installations-as-an-index-of-local-ai-adoption/ Comments URL: https://news.ycombinator.com/item?id=49035231 Points: 1 # Comments: 0
 
-📖 [Read original article](https://flowshelf.app/)
+📖 [Read original article](https://www.unite.ai/python-package-installations-as-an-index-of-local-ai-adoption/)
 
 ---
 
-## 5. AI coding agents should optimize for less owned code
+## 5. Pair prompt with Claude/codex AI agents
 
-**Author:** lyoncy  
-**Published:** 7/24/2026, 7:31:03 AM  
+**Author:** malviyamukul  
+**Published:** 7/24/2026, 1:22:11 PM  
 **Categories:** -  
 
-Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code Comments URL: https://news.ycombinator.com/item?id=49032279 Points: 1 # Comments: 0
+Article URL: https://liveshortly.com Comments URL: https://news.ycombinator.com/item?id=49035167 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code)
+📖 [Read original article](https://liveshortly.com)
 
 ---
 
-## 6. AI Overviews could push Reddit to end its $60M-a-year deal with Google
+## 6. Local bookstore battles false Google AI Summary
 
-**Author:** 01-_-  
-**Published:** 7/24/2026, 7:26:36 AM  
+**Author:** KentGeek  
+**Published:** 7/24/2026, 1:15:46 PM  
 **Categories:** -  
 
-Article URL: https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/ Comments URL: https://news.ycombinator.com/item?id=49032246 Points: 4 # Comments: 1
+Article URL: https://www.news5cleveland.com/news/local-news/were-open-local-bookstore-battles-false-google-ai-summary Comments URL: https://news.ycombinator.com/item?id=49035091 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/)
+📖 [Read original article](https://www.news5cleveland.com/news/local-news/were-open-local-bookstore-battles-false-google-ai-summary)
 
 ---
 
-## 7. Show HN: Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC
+## 7. How AI is quietly making your team fragile
 
-**Author:** riponcm  
-**Published:** 7/24/2026, 7:23:04 AM  
+**Author:** mooreds  
+**Published:** 7/24/2026, 1:13:30 PM  
 **Categories:** -  
 
-Article URL: https://github.com/riponcm/Jharu Comments URL: https://news.ycombinator.com/item?id=49032227 Points: 1 # Comments: 0
+Article URL: https://stvn.sh/writing/regression-to-the-mean Comments URL: https://news.ycombinator.com/item?id=49035067 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/riponcm/Jharu)
+📖 [Read original article](https://stvn.sh/writing/regression-to-the-mean)
 
 ---
 
-## 8. On AI
+## 8. I let an AI agent run my job search: the real numbers, including the LLM bill
 
-**Author:** ingve  
-**Published:** 7/24/2026, 7:20:10 AM  
+**Author:** viniciuscar  
+**Published:** 7/24/2026, 1:05:05 PM  
 **Categories:** -  
 
-Article URL: https://jcs.org/2026/07/23/ai Comments URL: https://news.ycombinator.com/item?id=49032212 Points: 3 # Comments: 1
+Article URL: https://find-best-job.com/en/blog/agent-job-search-real-numbers Comments URL: https://news.ycombinator.com/item?id=49034971 Points: 2 # Comments: 0
 
-📖 [Read original article](https://jcs.org/2026/07/23/ai)
+📖 [Read original article](https://find-best-job.com/en/blog/agent-job-search-real-numbers)
 
 ---
 
-## 9. Show HN: Continuum – switch AI coding agents without re-explaining your project
+## 9. Why hasn't AI increased unemployment?
 
-**Author:** AnasNafees101  
-**Published:** 7/24/2026, 7:05:03 AM  
+**Author:** gk1  
+**Published:** 7/24/2026, 12:52:27 PM  
 **Categories:** -  
 
-Article URL: https://github.com/AnasNafees1802/continuum Comments URL: https://news.ycombinator.com/item?id=49032115 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/AnasNafees1802/continuum)
-
----
-
-## 10. The Effect of AI on Dunning Kruger
-
-**Author:** thierryzoller  
-**Published:** 7/24/2026, 6:45:26 AM  
-**Categories:** -  
-
-Article URL: https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html Comments URL: https://news.ycombinator.com/item?id=49031973 Points: 4 # Comments: 1
-
-📖 [Read original article](https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html)
-
----
-
-## 11. Japanese AI Robots Used to Replicate Skilled Confectioners' Abilities
-
-**Author:** mushstory  
-**Published:** 7/24/2026, 6:44:13 AM  
-**Categories:** -  
-
-Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/ Comments URL: https://news.ycombinator.com/item?id=49031963 Points: 2 # Comments: 0
-
-📖 [Read original article](https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/)
-
----
-
-## 12. Codex Slides: open-source AI slide studio powered by Codex. Prompt, repo to deck
-
-**Author:** maxloh  
-**Published:** 7/24/2026, 6:13:48 AM  
-**Categories:** -  
-
-Article URL: https://github.com/nexu-io/codex-slides Comments URL: https://news.ycombinator.com/item?id=49031776 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/nexu-io/codex-slides)
-
----
-
-## 13. China's All-Out Push to Catch Up with American AI Chips
-
-**Author:** giuliomagnifico  
-**Published:** 7/24/2026, 4:58:21 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/world/china/china-ai-chips-race-949050d0 Comments URL: https://news.ycombinator.com/item?id=49031362 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.wsj.com/world/china/china-ai-chips-race-949050d0)
-
----
-
-## 14. The Sad Wives of AI
-
-**Author:** tlyleung  
-**Published:** 7/24/2026, 4:44:15 AM  
-**Categories:** -  
-
-Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49031294 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.wired.com/story/meet-the-sad-wives-of-ai/)
-
----
-
-## 15. Show HN: Generous free tier for SERP and AI web scraping
-
-**Author:** rbatista19  
-**Published:** 7/24/2026, 4:34:04 AM  
-**Categories:** -  
-
-Hackers,We wanted to share our newly-added recurring Free tier for cloro.dev, the leading AI UI scraping platform in the world.We extract structured data from ChatGPT, Perplexity, Grok, Gemini, Google Search, Google News, Copilot, and AI Overview through one API, with low latency across any country....
-
-📖 [Read original article](https://cloro.dev/)
-
----
-
-## 16. Google's slump in AI race driven in part by low morale
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/24/2026, 4:28:43 AM  
-**Categories:** -  
-
-Article URL: https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race Comments URL: https://news.ycombinator.com/item?id=49031227 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race)
-
----
-
-## 17. Lock TF IN: an AI drill sergeant that roasts skipped workouts
-
-**Author:** symbiex  
-**Published:** 7/24/2026, 4:24:14 AM  
-**Categories:** -  
-
-Article URL: https://apps.apple.com/us/app/lock-tf-in-ai-companion/id6788896897 Comments URL: https://news.ycombinator.com/item?id=49031206 Points: 1 # Comments: 0
-
-📖 [Read original article](https://apps.apple.com/us/app/lock-tf-in-ai-companion/id6788896897)
-
----
-
-## 18. AI will not trigger employment collapse, staffing company Adecco Group says
-
-**Author:** gnabgib  
-**Published:** 7/24/2026, 4:11:35 AM  
-**Categories:** -  
-
-Article URL: https://www.reuters.com/business/ai-will-not-trigger-employment-collapse-staffing-company-adecco-group-says-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49031153 Points: 2 # Comments: 3
-
-📖 [Read original article](https://www.reuters.com/business/ai-will-not-trigger-employment-collapse-staffing-company-adecco-group-says-2026-07-23/)
-
----
-
-## 19. Flux 3: From AI image generation to visual intelligence
-
-**Author:** Nancylily  
-**Published:** 7/24/2026, 4:09:02 AM  
-**Categories:** -  
-
-Article URL: https://textideo.com/model/flux-3 Comments URL: https://news.ycombinator.com/item?id=49031139 Points: 1 # Comments: 0
-
-📖 [Read original article](https://textideo.com/model/flux-3)
-
----
-
-## 20. Why hasn't AI increased unemployment?
-
-**Author:** Ariarule  
-**Published:** 7/24/2026, 4:08:59 AM  
-**Categories:** -  
-
-Article URL: https://twitter.com/PeterMcCrory/status/2079979321607745905 Comments URL: https://news.ycombinator.com/item?id=49031138 Points: 1 # Comments: 0
+Article URL: https://twitter.com/PeterMcCrory/status/2079979321607745905 Comments URL: https://news.ycombinator.com/item?id=49034854 Points: 6 # Comments: 7
 
 📖 [Read original article](https://twitter.com/PeterMcCrory/status/2079979321607745905)
+
+---
+
+## 10. Em Dash and AI
+
+**Author:** kaderovski  
+**Published:** 7/24/2026, 12:40:24 PM  
+**Categories:** -  
+
+Article URL: https://lebaron.sh/posts/em-dash-ai-tell/ Comments URL: https://news.ycombinator.com/item?id=49034746 Points: 3 # Comments: 3
+
+📖 [Read original article](https://lebaron.sh/posts/em-dash-ai-tell/)
+
+---
+
+## 11. Do It by Hand First: Method for Keeping Critical Thinking Alive in the Age of AI
+
+**Author:** speckx  
+**Published:** 7/24/2026, 12:20:31 PM  
+**Categories:** -  
+
+Article URL: https://blog.parentsguidetoai.ca/do-it-by-hand-first-critical-thinking.html Comments URL: https://news.ycombinator.com/item?id=49034523 Points: 2 # Comments: 0
+
+📖 [Read original article](https://blog.parentsguidetoai.ca/do-it-by-hand-first-critical-thinking.html)
+
+---
+
+## 12. Show HN: X402vps – Docker containers for AI agents, paid per hour with USDC
+
+**Author:** z1z2z3  
+**Published:** 7/24/2026, 12:15:44 PM  
+**Categories:** -  
+
+Article URL: https://x402vps.com Comments URL: https://news.ycombinator.com/item?id=49034474 Points: 6 # Comments: 0
+
+📖 [Read original article](https://x402vps.com)
+
+---
+
+## 13. Show HN: A monorepo where AI agents can safely build and maintain applications
+
+**Author:** brulenaudet  
+**Published:** 7/24/2026, 12:10:40 PM  
+**Categories:** -  
+
+Hello everyone,I have spent dozens of hours working on my ideal template to quickly bring applications into production, which could be of interest to those who want to rapidly deliver a scalable prototype, in an AI-native manner and at low cost on Cloudflare infrastructures.In this template, you wil...
+
+📖 [Read original article](https://github.com/louisbrulenaudet/monorepo-template)
+
+---
+
+## 14. AI VS AI. How I transcribed my grandmothers book \"The house of Daisies\" Using AI
+
+**Author:** unseenmeli  
+**Published:** 7/24/2026, 12:07:23 PM  
+**Categories:** -  
+
+Article URL: https://www.meli.sh/posts/post3 Comments URL: https://news.ycombinator.com/item?id=49034396 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.meli.sh/posts/post3)
+
+---
+
+## 15. I Tried Building a Real App with AI. It Took a Year
+
+**Author:** surprisetalk  
+**Published:** 7/24/2026, 12:00:17 PM  
+**Categories:** -  
+
+Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 32 # Comments: 21
+
+📖 [Read original article](https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/)
+
+---
+
+## 16. A cruel story How I almost killed my own AI project with \"crypto\" payments
+
+**Author:** genesem  
+**Published:** 7/24/2026, 11:57:05 AM  
+**Categories:** -  
+
+Article URL: https://old.reddit.com/r/consentbar/comments/1v5936l/how_we_almost_killed_our_own_ai_project_with/ Comments URL: https://news.ycombinator.com/item?id=49034319 Points: 2 # Comments: 0
+
+📖 [Read original article](https://old.reddit.com/r/consentbar/comments/1v5936l/how_we_almost_killed_our_own_ai_project_with/)
+
+---
+
+## 17. Orwell on AI
+
+**Author:** aa_is_op  
+**Published:** 7/24/2026, 11:25:24 AM  
+**Categories:** -  
+
+Article URL: https://hegemon.substack.com/p/orwell-on-ai Comments URL: https://news.ycombinator.com/item?id=49034006 Points: 5 # Comments: 0
+
+📖 [Read original article](https://hegemon.substack.com/p/orwell-on-ai)
+
+---
+
+## 18. A VSCode extension for AI to understand your project
+
+**Author:** bailingyuan  
+**Published:** 7/24/2026, 11:20:20 AM  
+**Categories:** -  
+
+I wrote a VSCode plugin that can install skills with just one click. When writing code, AI automatically writes detailed comments. The plugin can recognize and convert them into JSON. If AI wants to understand something, it can automatically call the interface to obtain the entire method chain and c...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49033971)
+
+---
+
+## 19. AI generated PRs can hide malicious intent across several PRs
+
+**Author:** ARayOutOfBounds  
+**Published:** 7/24/2026, 11:10:42 AM  
+**Categories:** -  
+
+Article URL: https://blog.codacy.com/detecting-malicious-intent-across-ai-generated-pull-requests-a-governance-framework-for-engineering-leaders Comments URL: https://news.ycombinator.com/item?id=49033883 Points: 2 # Comments: 0
+
+📖 [Read original article](https://blog.codacy.com/detecting-malicious-intent-across-ai-generated-pull-requests-a-governance-framework-for-engineering-leaders)
+
+---
+
+## 20. Show HN: SaveAnswer – a local Chrome extension for keeping AI answers searchable
+
+**Author:** lynnFu  
+**Published:** 7/24/2026, 10:43:01 AM  
+**Categories:** -  
+
+Article URL: https://chromewebstore.google.com/detail/saveanswer-save-ai-answer/iminapemlncanmmaadedieifgkaeoljm Comments URL: https://news.ycombinator.com/item?id=49033633 Points: 2 # Comments: 0
+
+📖 [Read original article](https://chromewebstore.google.com/detail/saveanswer-save-ai-answer/iminapemlncanmmaadedieifgkaeoljm)
 
 ---
