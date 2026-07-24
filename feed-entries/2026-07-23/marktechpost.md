@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-23"
 date: "2026-07-23"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-07-23
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. You Didn’t Get the AI Model You Paid For
+## 1. Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat
+
+**Author:** Asif Razzaq  
+**Published:** 7/23/2026, 7:31:59 PM  
+**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Generative AI, Open Source, Tech News, Technology  
+
+Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machi...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/)
+
+---
+
+## 2. You Didn’t Get the AI Model You Paid For
 
 **Author:** Aabis Islam  
 **Published:** 7/23/2026, 6:07:55 PM  
@@ -23,7 +35,7 @@ The line in the response object You call the API. You pass model: &#8220;claude-
 
 ---
 
-## 2. Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared
+## 3. Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared
 
 **Author:** Asif Razzaq  
 **Published:** 7/23/2026, 9:26:40 AM  
@@ -35,7 +47,7 @@ Open speech recognition stopped being a Whisper monoculture in 2026. Cohere Tran
 
 ---
 
-## 3. Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers
+## 4. Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers
 
 **Author:** Asif Razzaq  
 **Published:** 7/23/2026, 8:01:22 AM  
@@ -47,7 +59,7 @@ Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes p
 
 ---
 
-## 4. Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal
+## 5. Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal
 
 **Author:** Michal Sutter  
 **Published:** 7/23/2026, 6:12:05 AM  
