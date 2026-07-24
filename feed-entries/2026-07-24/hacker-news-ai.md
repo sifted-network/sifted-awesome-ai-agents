@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Oracle fires 21,000 employees to fund AI spending
+## 1. Oracle VM VirtualBox Bug Discovered by AI: CVE-2026-60161
 
-**Author:** DemiGuru  
-**Published:** 7/24/2026, 1:33:12 PM  
+**Author:** runeks  
+**Published:** 7/24/2026, 7:08:12 PM  
 **Categories:** -  
 
-Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442 Comments URL: https://news.ycombinator.com/item?id=49035314 Points: 3 # Comments: 0
+Article URL: https://octane.beehiiv.com/ Comments URL: https://news.ycombinator.com/item?id=49040324 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442)
+📖 [Read original article](https://octane.beehiiv.com/)
 
 ---
 
-## 2. Microsoft – Open Weights and American AI Leadership
+## 2. Shackle: A pre-execution ALLOW/DENY/HITL gate for AI agents (open source)
 
-**Author:** louiereederson  
-**Published:** 7/24/2026, 1:32:30 PM  
+**Author:** SHACKLE-PRO-  
+**Published:** 7/24/2026, 6:53:44 PM  
 **Categories:** -  
 
-Article URL: https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/ Comments URL: https://news.ycombinator.com/item?id=49035303 Points: 3 # Comments: 0
+Article URL: https://github.com/Fame510/SHACKLE Comments URL: https://news.ycombinator.com/item?id=49040103 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)
+📖 [Read original article](https://github.com/Fame510/SHACKLE)
 
 ---
 
-## 3. Spending judgement where it matters: how we structure AI-native delivery
+## 3. Ask HN: What's the best AI coding tool today?
 
-**Author:** moystard  
-**Published:** 7/24/2026, 1:30:55 PM  
+**Author:** FrenchDevRemote  
+**Published:** 7/24/2026, 6:49:35 PM  
 **Categories:** -  
 
-Article URL: https://www.moystard.com/blog/ai-native-delivery/ Comments URL: https://news.ycombinator.com/item?id=49035279 Points: 1 # Comments: 0
+My current workflow would be something like: write detailed requirements, ssh into a remote instance, ask an agent to write a plan and giving it free rein to build it there, only pinging me back when it's ready or when it's stuck. I could write code manually in an IDE too but only when the problem i...
 
-📖 [Read original article](https://www.moystard.com/blog/ai-native-delivery/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49040025)
 
 ---
 
-## 4. Python package installations as an index of local AI adoption
+## 4. pixtuoid: AI coding agents, visualized as pixel-art coworkers in terminal office
 
-**Author:** 50kIters  
-**Published:** 7/24/2026, 1:27:24 PM  
+**Author:** guessmyname  
+**Published:** 7/24/2026, 6:44:35 PM  
 **Categories:** -  
 
-Article URL: https://www.unite.ai/python-package-installations-as-an-index-of-local-ai-adoption/ Comments URL: https://news.ycombinator.com/item?id=49035231 Points: 1 # Comments: 0
+Article URL: https://github.com/IvanWng97/pixtuoid Comments URL: https://news.ycombinator.com/item?id=49039960 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.unite.ai/python-package-installations-as-an-index-of-local-ai-adoption/)
+📖 [Read original article](https://github.com/IvanWng97/pixtuoid)
 
 ---
 
-## 5. Pair prompt with Claude/codex AI agents
+## 5. San Francisco AI Doom Protest (2026) [video]
 
-**Author:** malviyamukul  
-**Published:** 7/24/2026, 1:22:11 PM  
+**Author:** notmysql_  
+**Published:** 7/24/2026, 6:44:32 PM  
 **Categories:** -  
 
-Article URL: https://liveshortly.com Comments URL: https://news.ycombinator.com/item?id=49035167 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=vW26TB6Rdic Comments URL: https://news.ycombinator.com/item?id=49039959 Points: 1 # Comments: 0
 
-📖 [Read original article](https://liveshortly.com)
+📖 [Read original article](https://www.youtube.com/watch?v=vW26TB6Rdic)
 
 ---
 
-## 6. Local bookstore battles false Google AI Summary
+## 6. Why AI Agents Need a Two-Tier Architecture
 
-**Author:** KentGeek  
-**Published:** 7/24/2026, 1:15:46 PM  
+**Author:** mkagenius  
+**Published:** 7/24/2026, 6:42:30 PM  
 **Categories:** -  
 
-Article URL: https://www.news5cleveland.com/news/local-news/were-open-local-bookstore-battles-false-google-ai-summary Comments URL: https://news.ycombinator.com/item?id=49035091 Points: 1 # Comments: 0
+Article URL: https://instavm.io/blog/why-ai-agents-need-a-two-tier-architecture Comments URL: https://news.ycombinator.com/item?id=49039930 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.news5cleveland.com/news/local-news/were-open-local-bookstore-battles-false-google-ai-summary)
+📖 [Read original article](https://instavm.io/blog/why-ai-agents-need-a-two-tier-architecture)
 
 ---
 
-## 7. How AI is quietly making your team fragile
+## 7. SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says
 
-**Author:** mooreds  
-**Published:** 7/24/2026, 1:13:30 PM  
+**Author:** toomuchtodo  
+**Published:** 7/24/2026, 6:34:16 PM  
 **Categories:** -  
 
-Article URL: https://stvn.sh/writing/regression-to-the-mean Comments URL: https://news.ycombinator.com/item?id=49035067 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley Comments URL: https://news.ycombinator.com/item?id=49039831 Points: 13 # Comments: 10
 
-📖 [Read original article](https://stvn.sh/writing/regression-to-the-mean)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley)
 
 ---
 
-## 8. I let an AI agent run my job search: the real numbers, including the LLM bill
+## 8. Team uses AlphaFold AI to redesign gene-editing proteins to make them safer
 
-**Author:** viniciuscar  
-**Published:** 7/24/2026, 1:05:05 PM  
+**Author:** 01-_-  
+**Published:** 7/24/2026, 6:33:21 PM  
 **Categories:** -  
 
-Article URL: https://find-best-job.com/en/blog/agent-job-search-real-numbers Comments URL: https://news.ycombinator.com/item?id=49034971 Points: 2 # Comments: 0
+Article URL: https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/ Comments URL: https://news.ycombinator.com/item?id=49039822 Points: 3 # Comments: 0
 
-📖 [Read original article](https://find-best-job.com/en/blog/agent-job-search-real-numbers)
+📖 [Read original article](https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/)
 
 ---
 
-## 9. Why hasn't AI increased unemployment?
+## 9. Canada's Anti-AI Movement Is Powered by an AI News Aggregator
 
-**Author:** gk1  
-**Published:** 7/24/2026, 12:52:27 PM  
+**Author:** ethanplant  
+**Published:** 7/24/2026, 6:28:51 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/PeterMcCrory/status/2079979321607745905 Comments URL: https://news.ycombinator.com/item?id=49034854 Points: 6 # Comments: 7
+Article URL: https://ethanplant.ca/writing/stop-the-datacentre/ Comments URL: https://news.ycombinator.com/item?id=49039761 Points: 2 # Comments: 1
 
-📖 [Read original article](https://twitter.com/PeterMcCrory/status/2079979321607745905)
+📖 [Read original article](https://ethanplant.ca/writing/stop-the-datacentre/)
 
 ---
 
-## 10. Em Dash and AI
+## 10. Zuckerberg's AI optimism blitz using nostalgia to sell AI future amid backlash
 
-**Author:** kaderovski  
-**Published:** 7/24/2026, 12:40:24 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/24/2026, 5:54:11 PM  
 **Categories:** -  
 
-Article URL: https://lebaron.sh/posts/em-dash-ai-tell/ Comments URL: https://news.ycombinator.com/item?id=49034746 Points: 3 # Comments: 3
+Article URL: https://fortune.com/2026/07/23/zuckerberg-ai-ad-optimism-backlash/ Comments URL: https://news.ycombinator.com/item?id=49039334 Points: 5 # Comments: 1
 
-📖 [Read original article](https://lebaron.sh/posts/em-dash-ai-tell/)
+📖 [Read original article](https://fortune.com/2026/07/23/zuckerberg-ai-ad-optimism-backlash/)
 
 ---
 
-## 11. Do It by Hand First: Method for Keeping Critical Thinking Alive in the Age of AI
+## 11. Alphabet's $205B AI spending plan spooks investors
 
-**Author:** speckx  
-**Published:** 7/24/2026, 12:20:31 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/24/2026, 5:50:22 PM  
 **Categories:** -  
 
-Article URL: https://blog.parentsguidetoai.ca/do-it-by-hand-first-critical-thinking.html Comments URL: https://news.ycombinator.com/item?id=49034523 Points: 2 # Comments: 0
+Article URL: https://www.latimes.com/business/story/2026-07-23/alphabets-205-billion-ai-spending-plan-spooks-investors Comments URL: https://news.ycombinator.com/item?id=49039297 Points: 5 # Comments: 0
 
-📖 [Read original article](https://blog.parentsguidetoai.ca/do-it-by-hand-first-critical-thinking.html)
+📖 [Read original article](https://www.latimes.com/business/story/2026-07-23/alphabets-205-billion-ai-spending-plan-spooks-investors)
 
 ---
 
-## 12. Show HN: X402vps – Docker containers for AI agents, paid per hour with USDC
+## 12. AI has a weak spine. We proved it on R/AmIOverreacting
 
-**Author:** z1z2z3  
-**Published:** 7/24/2026, 12:15:44 PM  
+**Author:** hankimprod  
+**Published:** 7/24/2026, 5:44:15 PM  
 **Categories:** -  
 
-Article URL: https://x402vps.com Comments URL: https://news.ycombinator.com/item?id=49034474 Points: 6 # Comments: 0
+Article URL: https://modelsagree.com/labs/ai-judges-overreacting Comments URL: https://news.ycombinator.com/item?id=49039213 Points: 2 # Comments: 0
 
-📖 [Read original article](https://x402vps.com)
+📖 [Read original article](https://modelsagree.com/labs/ai-judges-overreacting)
 
 ---
 
-## 13. Show HN: A monorepo where AI agents can safely build and maintain applications
+## 13. Specification for a 100% AI-Free Software Supply Chain
 
-**Author:** brulenaudet  
-**Published:** 7/24/2026, 12:10:40 PM  
+**Author:** open-reality  
+**Published:** 7/24/2026, 5:39:20 PM  
 **Categories:** -  
 
-Hello everyone,I have spent dozens of hours working on my ideal template to quickly bring applications into production, which could be of interest to those who want to rapidly deliver a scalable prototype, in an AI-native manner and at low cost on Cloudflare infrastructures.In this template, you wil...
+Article URL: https://rentry.co/organic-code-spec-v1-0-md Comments URL: https://news.ycombinator.com/item?id=49039130 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/louisbrulenaudet/monorepo-template)
+📖 [Read original article](https://rentry.co/organic-code-spec-v1-0-md)
 
 ---
 
-## 14. AI VS AI. How I transcribed my grandmothers book \"The house of Daisies\" Using AI
+## 14. Google Ordered to Face AI Defamation Lawsuit
 
-**Author:** unseenmeli  
-**Published:** 7/24/2026, 12:07:23 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/24/2026, 5:08:54 PM  
 **Categories:** -  
 
-Article URL: https://www.meli.sh/posts/post3 Comments URL: https://news.ycombinator.com/item?id=49034396 Points: 2 # Comments: 0
+Article URL: https://news.bloomberglaw.com/esg/google-ordered-to-face-robby-starbucks-ai-defamation-lawsuit Comments URL: https://news.ycombinator.com/item?id=49038628 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.meli.sh/posts/post3)
+📖 [Read original article](https://news.bloomberglaw.com/esg/google-ordered-to-face-robby-starbucks-ai-defamation-lawsuit)
 
 ---
 
-## 15. I Tried Building a Real App with AI. It Took a Year
+## 15. Hans Moravec Was Right About AI. What About the Fate of Mankind?
 
-**Author:** surprisetalk  
-**Published:** 7/24/2026, 12:00:17 PM  
+**Author:** bookofjoe  
+**Published:** 7/24/2026, 5:07:45 PM  
 **Categories:** -  
 
-Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 32 # Comments: 21
+Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html Comments URL: https://news.ycombinator.com/item?id=49038610 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/)
+📖 [Read original article](https://nymag.com/intelligencer/article/hans-moravec-interview.html)
 
 ---
 
-## 16. A cruel story How I almost killed my own AI project with \"crypto\" payments
+## 16. Show HN: Corv v1.1 is out! Solving SSH execution for AI agents
 
-**Author:** genesem  
-**Published:** 7/24/2026, 11:57:05 AM  
+**Author:** khalid_0002  
+**Published:** 7/24/2026, 5:06:07 PM  
 **Categories:** -  
 
-Article URL: https://old.reddit.com/r/consentbar/comments/1v5936l/how_we_almost_killed_our_own_ai_project_with/ Comments URL: https://news.ycombinator.com/item?id=49034319 Points: 2 # Comments: 0
+I don’t see much interest yet in the infrastructure side of AI. Maybe it’s because few people want to take on the liability of letting agents handle infrastructure work, where the margin for error is close to zero.But the underlying situation is awful. Most effort goes toward the application layer, ...
 
-📖 [Read original article](https://old.reddit.com/r/consentbar/comments/1v5936l/how_we_almost_killed_our_own_ai_project_with/)
+📖 [Read original article](https://github.com/khalid-src/corv-client)
 
 ---
 
-## 17. Orwell on AI
+## 17. Show HN: 18y/O buidling an AI proposal OS and generator
 
-**Author:** aa_is_op  
-**Published:** 7/24/2026, 11:25:24 AM  
+**Author:** sahil423  
+**Published:** 7/24/2026, 4:57:17 PM  
 **Categories:** -  
 
-Article URL: https://hegemon.substack.com/p/orwell-on-ai Comments URL: https://news.ycombinator.com/item?id=49034006 Points: 5 # Comments: 0
+Article URL: https://www.propi.pro Comments URL: https://news.ycombinator.com/item?id=49038426 Points: 1 # Comments: 0
 
-📖 [Read original article](https://hegemon.substack.com/p/orwell-on-ai)
+📖 [Read original article](https://www.propi.pro)
 
 ---
 
-## 18. A VSCode extension for AI to understand your project
+## 18. AI forcing Big Tech to spend more than it earns; Wall Street hates it
 
-**Author:** bailingyuan  
-**Published:** 7/24/2026, 11:20:20 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/24/2026, 4:55:43 PM  
 **Categories:** -  
 
-I wrote a VSCode plugin that can install skills with just one click. When writing code, AI automatically writes detailed comments. The plugin can recognize and convert them into JSON. If AI wants to understand something, it can automatically call the interface to obtain the entire method chain and c...
+Article URL: https://fortune.com/2026/07/23/ai-big-tech-never-spend-more-than-earns-wall-street-hates-it/ Comments URL: https://news.ycombinator.com/item?id=49038395 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49033971)
+📖 [Read original article](https://fortune.com/2026/07/23/ai-big-tech-never-spend-more-than-earns-wall-street-hates-it/)
 
 ---
 
-## 19. AI generated PRs can hide malicious intent across several PRs
+## 19. White House offers its science blueprint: More AI, less life sciences
 
-**Author:** ARayOutOfBounds  
-**Published:** 7/24/2026, 11:10:42 AM  
+**Author:** petethomas  
+**Published:** 7/24/2026, 4:46:05 PM  
 **Categories:** -  
 
-Article URL: https://blog.codacy.com/detecting-malicious-intent-across-ai-generated-pull-requests-a-governance-framework-for-engineering-leaders Comments URL: https://news.ycombinator.com/item?id=49033883 Points: 2 # Comments: 0
+Article URL: https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/ Comments URL: https://news.ycombinator.com/item?id=49038258 Points: 4 # Comments: 1
 
-📖 [Read original article](https://blog.codacy.com/detecting-malicious-intent-across-ai-generated-pull-requests-a-governance-framework-for-engineering-leaders)
+📖 [Read original article](https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/)
 
 ---
 
-## 20. Show HN: SaveAnswer – a local Chrome extension for keeping AI answers searchable
+## 20. Jacobian Conjecture Refutation Reveals a Structural Limit of AI Interpretability
 
-**Author:** lynnFu  
-**Published:** 7/24/2026, 10:43:01 AM  
+**Author:** polynomial  
+**Published:** 7/24/2026, 4:44:23 PM  
 **Categories:** -  
 
-Article URL: https://chromewebstore.google.com/detail/saveanswer-save-ai-answer/iminapemlncanmmaadedieifgkaeoljm Comments URL: https://news.ycombinator.com/item?id=49033633 Points: 2 # Comments: 0
+Article URL: https://ctolunchnyc.substack.com/p/the-lost-weekend Comments URL: https://news.ycombinator.com/item?id=49038236 Points: 4 # Comments: 0
 
-📖 [Read original article](https://chromewebstore.google.com/detail/saveanswer-save-ai-answer/iminapemlncanmmaadedieifgkaeoljm)
+📖 [Read original article](https://ctolunchnyc.substack.com/p/the-lost-weekend)
 
 ---
