@@ -125,7 +125,7 @@ arXiv:2607.19387v1 Announce Type: new Abstract: Surrogate modeling for high-dime
 **Published:** 7/23/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.19388v1 Announce Type: new Abstract: This work extends our one-dimensional single-sweep neural-operator studies to two dimensions. We consider one-group transport with isotropic scattering. As in the one-dimensional work, we use Fourier neural operators (FNOs) to approximate the high-fide...
+arXiv:2607.19388v2 Announce Type: new Abstract: This work extends our one-dimensional single-sweep neural-operator studies to two dimensions. We consider one-group transport with isotropic scattering. As in the one-dimensional work, we use Fourier neural operators (FNOs) to approximate the high-fide...
 
 📖 [Read original article](https://arxiv.org/abs/2607.19388)
 
@@ -137,7 +137,7 @@ arXiv:2607.19388v1 Announce Type: new Abstract: This work extends our one-dimens
 **Published:** 7/23/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.19390v1 Announce Type: new Abstract: A recent report finds that orthogonalizing the mLSTM memory matrix at read time (five Newton-Schulz iterations, trained through) substantially improves noisy associative recall. The effect replicates, but it is not a memory improvement. Training on thi...
+arXiv:2607.19390v2 Announce Type: new Abstract: A recent report finds that orthogonalizing the mLSTM memory matrix at read time (five Newton-Schulz iterations, trained through) substantially improves noisy associative recall. The effect replicates, but it is not a memory improvement. Training on thi...
 
 📖 [Read original article](https://arxiv.org/abs/2607.19390)
 
@@ -461,7 +461,7 @@ arXiv:2607.19524v1 Announce Type: new Abstract: Federated learning (FL) offers a
 **Published:** 7/23/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.19526v1 Announce Type: new Abstract: "Stop Chasing the C-index when Evaluating Survival Analysis Models" (ICML 2026, Spotlight) argued normatively, on synthetic data, that evaluating survival models by discrimination alone, i.e. the concordance index, produces systematically misleading mo...
+arXiv:2607.19526v2 Announce Type: new Abstract: Recent work has argued normatively, on synthetic data, that evaluating survival models by discrimination alone (concordance index) yields systematically misleading model comparisons, because the metric ignores calibration and time-dependent accuracy. W...
 
 📖 [Read original article](https://arxiv.org/abs/2607.19526)
 
@@ -661,11 +661,11 @@ arXiv:2607.19771v1 Announce Type: new Abstract: Muon and related matrix-sign opt
 
 ## 55. OPIUM: Mitigating Steering Externalities and Over-Refusal via Dual Objective Latent Optimization
 
-**Author:** Kavin Aravindan, Arihant Rastogi, Aadi Prasad, Krishak Aneja, Saiyam Jain, Vaishnavi Shivkumar, Ponnurangam Kumaraguru  
+**Author:** Kavin Aravindan, Arihant Rastogi, Krishak Aneja, Aadi Prasad, Saiyam Jain, Vaishnavi Shivkumar, Ponnurangam Kumaraguru  
 **Published:** 7/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.19806v1 Announce Type: new Abstract: Activation steering provides a lightweight mechanism for controlling large language models at inference time, but steering vectors can have unintended externalities: utility vectors may weaken safety behavior, while refusal vectors may induce over-refu...
+arXiv:2607.19806v2 Announce Type: new Abstract: Activation steering provides a lightweight mechanism for controlling large language models at inference time, but steering vectors can have unintended externalities: utility vectors may weaken safety behavior, while refusal vectors may induce over-refu...
 
 📖 [Read original article](https://arxiv.org/abs/2607.19806)
 
@@ -773,7 +773,7 @@ arXiv:2607.20002v1 Announce Type: new Abstract: Time series foundation models (T
 **Published:** 7/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CE  
 
-arXiv:2607.20010v1 Announce Type: new Abstract: In this paper, we present a generalized temporal-difference (TD) reinforcement learning framework based on the theory of conditional expectations. The value and action-value (Q-value) functions are treated as uncertain quantities, and their estimation ...
+arXiv:2607.20010v2 Announce Type: new Abstract: In this paper, we present a generalized temporal-difference (TD) reinforcement learning framework based on the theory of conditional expectations. The value and action-value (Q-value) functions are treated as uncertain quantities, and their estimation ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.20010)
 
@@ -821,7 +821,7 @@ arXiv:2607.20073v1 Announce Type: new Abstract: AI-based recruitment systems tha
 **Published:** 7/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.20083v1 Announce Type: new Abstract: Post-training with evaluator feedback on policy-induced samples serves as a major mechanism for improving large language models. As policies improve, these sampled responses become close in quality. These close candidates create a bottleneck for policy...
+arXiv:2607.20083v2 Announce Type: new Abstract: Post-training with evaluator feedback on policy-induced samples serves as a major mechanism for improving large language models. As policies improve, these sampled responses become close in quality. These close candidates create a bottleneck for policy...
 
 📖 [Read original article](https://arxiv.org/abs/2607.20083)
 
@@ -893,7 +893,7 @@ arXiv:2607.20162v1 Announce Type: new Abstract: The growing demand for intellige
 **Published:** 7/23/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.20173v1 Announce Type: new Abstract: Imbalanced regression problems arise when the target variable has an asymmetric distribution, resulting in underrepresented value ranges in the dataset. Traditional approaches for identifying rare instances rely on a relevance function that assigns hig...
+arXiv:2607.20173v2 Announce Type: new Abstract: Imbalanced regression problems arise when the target variable has an asymmetric distribution, resulting in underrepresented value ranges in the dataset. Traditional approaches for identifying rare instances rely on a relevance function that assigns hig...
 
 📖 [Read original article](https://arxiv.org/abs/2607.20173)
 
@@ -1781,7 +1781,7 @@ arXiv:2607.20125v1 Announce Type: cross Abstract: Autoregressive (AR) video diff
 **Published:** 7/23/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.LG  
 
-arXiv:2607.20151v1 Announce Type: cross Abstract: Cross-Project Defect Prediction (CPDP) involves building models using data from external projects, called training projects, to predict modules from the target project. However, traditional CPDP methods suffer from the distribution shift between trai...
+arXiv:2607.20151v2 Announce Type: cross Abstract: Cross-Project Defect Prediction (CPDP) involves building models using data from external projects, called training projects, to predict modules from the target project. However, traditional CPDP methods suffer from the distribution shift between trai...
 
 📖 [Read original article](https://arxiv.org/abs/2607.20151)
 
@@ -1889,7 +1889,7 @@ arXiv:2607.20316v1 Announce Type: cross Abstract: We study decentralized online 
 **Published:** 7/23/2026, 4:00:00 AM  
 **Categories:** physics.flu-dyn, cs.LG  
 
-arXiv:2607.20321v1 Announce Type: cross Abstract: Neural surrogates are widely used in scientific machine learning for fast prediction of three-dimensional (3D) thermo-fluid fields. However, generating training data using conventional numerical solvers often incurs substantial computational and stor...
+arXiv:2607.20321v2 Announce Type: cross Abstract: Neural surrogates are widely used in scientific machine learning for fast prediction of three-dimensional (3D) thermo-fluid fields. However, generating training data using conventional numerical solvers often incurs substantial computational and stor...
 
 📖 [Read original article](https://arxiv.org/abs/2607.20321)
 
