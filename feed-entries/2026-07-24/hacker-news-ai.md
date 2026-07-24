@@ -2,131 +2,251 @@
 title: "Hacker News AI - 2026-07-24"
 date: "2026-07-24"
 source: "Hacker News AI"
-count: 10
+count: 20
 ---
 
 # Hacker News AI - 2026-07-24
 
-10 items collected.
+20 items collected.
 
 ---
 
-## 1. The cost of GPUs goes far beyond AI data centers
+## 1. AI, Rockets, and the Return of Hard Contracts (Part I)
 
-**Author:** acmnrs  
-**Published:** 7/24/2026, 2:35:23 AM  
+**Author:** handfuloflight  
+**Published:** 7/24/2026, 8:18:20 AM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact Comments URL: https://news.ycombinator.com/item?id=49030636 Points: 3 # Comments: 0
+Article URL: https://noumena.com/essays/the-engine-shop-part-1/ Comments URL: https://news.ycombinator.com/item?id=49032658 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact)
+📖 [Read original article](https://noumena.com/essays/the-engine-shop-part-1/)
 
 ---
 
-## 2. Why AI works worse in your language
+## 2. Naming a pattern in AI-generated code: Modular Mirage
 
-**Author:** ilreb  
-**Published:** 7/24/2026, 1:51:54 AM  
+**Author:** ErsanG  
+**Published:** 7/24/2026, 7:55:07 AM  
 **Categories:** -  
 
-Article URL: https://artifipedia.com/blog/multilingual-ai Comments URL: https://news.ycombinator.com/item?id=49030402 Points: 2 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49032468 Points: 1 # Comments: 0
 
-📖 [Read original article](https://artifipedia.com/blog/multilingual-ai)
+📖 [Read original article](https://news.ycombinator.com/item?id=49032468)
 
 ---
 
-## 3. Brockovich Data Center Reporting – U.S. AI Data Center Awareness and Issue Map
+## 3. Oracle severed 21,000 employees during an AI spending spree
 
-**Author:** thunderbong  
-**Published:** 7/24/2026, 1:21:00 AM  
+**Author:** taubek  
+**Published:** 7/24/2026, 7:45:25 AM  
 **Categories:** -  
 
-Article URL: https://brockovichdatacenter.com/index.html Comments URL: https://news.ycombinator.com/item?id=49030230 Points: 2 # Comments: 0
+Article URL: https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html Comments URL: https://news.ycombinator.com/item?id=49032388 Points: 3 # Comments: 0
 
-📖 [Read original article](https://brockovichdatacenter.com/index.html)
+📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html)
 
 ---
 
-## 4. Advancing Mathematics Research with AI-Driven Formal Proof Search
+## 4. HN: FlowShelf –free,native macOS shelf/clipboard/screenshot app,on-device AI
 
-**Author:** Jimmc414  
-**Published:** 7/24/2026, 1:10:29 AM  
+**Author:** abukadery  
+**Published:** 7/24/2026, 7:33:38 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2605.22763 Comments URL: https://news.ycombinator.com/item?id=49030164 Points: 1 # Comments: 0
+Article URL: https://flowshelf.app/ Comments URL: https://news.ycombinator.com/item?id=49032306 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2605.22763)
+📖 [Read original article](https://flowshelf.app/)
 
 ---
 
-## 5. OpenAI's Hugging Face Hack Triggers 'AI Kill Switch' Bill in Congress
+## 5. AI coding agents should optimize for less owned code
 
-**Author:** pseudolus  
-**Published:** 7/24/2026, 12:35:19 AM  
+**Author:** lyoncy  
+**Published:** 7/24/2026, 7:31:03 AM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html Comments URL: https://news.ycombinator.com/item?id=49029948 Points: 2 # Comments: 1
+Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code Comments URL: https://news.ycombinator.com/item?id=49032279 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html)
+📖 [Read original article](https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code)
 
 ---
 
-## 6. Show HN: Turo – An Aggressive Token-Saving Proxy for CLI AI Agents
+## 6. AI Overviews could push Reddit to end its $60M-a-year deal with Google
 
-**Author:** jjuliano  
-**Published:** 7/24/2026, 12:32:12 AM  
+**Author:** 01-_-  
+**Published:** 7/24/2026, 7:26:36 AM  
 **Categories:** -  
 
-Article URL: https://github.com/kdeps/turo Comments URL: https://news.ycombinator.com/item?id=49029919 Points: 2 # Comments: 1
+Article URL: https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/ Comments URL: https://news.ycombinator.com/item?id=49032246 Points: 4 # Comments: 1
 
-📖 [Read original article](https://github.com/kdeps/turo)
+📖 [Read original article](https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/)
 
 ---
 
-## 7. A Startling Glimpse at AI's Ruthless Efficiency
+## 7. Show HN: Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC
 
-**Author:** paulpauper  
-**Published:** 7/24/2026, 12:30:10 AM  
+**Author:** riponcm  
+**Published:** 7/24/2026, 7:23:04 AM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025/ Comments URL: https://news.ycombinator.com/item?id=49029904 Points: 1 # Comments: 0
+Article URL: https://github.com/riponcm/Jharu Comments URL: https://news.ycombinator.com/item?id=49032227 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025/)
+📖 [Read original article](https://github.com/riponcm/Jharu)
 
 ---
 
-## 8. Intel stock jumps as it rides AI boom to fastest revenue growth in almost 15 yrs
+## 8. On AI
 
-**Author:** ekorbia  
-**Published:** 7/24/2026, 12:18:35 AM  
+**Author:** ingve  
+**Published:** 7/24/2026, 7:20:10 AM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html Comments URL: https://news.ycombinator.com/item?id=49029818 Points: 2 # Comments: 0
+Article URL: https://jcs.org/2026/07/23/ai Comments URL: https://news.ycombinator.com/item?id=49032212 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html)
+📖 [Read original article](https://jcs.org/2026/07/23/ai)
 
 ---
 
-## 9. Australia to AI: Produce More Power Than You Burn, Stop Content 'Theft'
+## 9. Show HN: Continuum – switch AI coding agents without re-explaining your project
+
+**Author:** AnasNafees101  
+**Published:** 7/24/2026, 7:05:03 AM  
+**Categories:** -  
+
+Article URL: https://github.com/AnasNafees1802/continuum Comments URL: https://news.ycombinator.com/item?id=49032115 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/AnasNafees1802/continuum)
+
+---
+
+## 10. The Effect of AI on Dunning Kruger
+
+**Author:** thierryzoller  
+**Published:** 7/24/2026, 6:45:26 AM  
+**Categories:** -  
+
+Article URL: https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html Comments URL: https://news.ycombinator.com/item?id=49031973 Points: 4 # Comments: 1
+
+📖 [Read original article](https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html)
+
+---
+
+## 11. Japanese AI Robots Used to Replicate Skilled Confectioners' Abilities
+
+**Author:** mushstory  
+**Published:** 7/24/2026, 6:44:13 AM  
+**Categories:** -  
+
+Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/ Comments URL: https://news.ycombinator.com/item?id=49031963 Points: 2 # Comments: 0
+
+📖 [Read original article](https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/)
+
+---
+
+## 12. Codex Slides: open-source AI slide studio powered by Codex. Prompt, repo to deck
+
+**Author:** maxloh  
+**Published:** 7/24/2026, 6:13:48 AM  
+**Categories:** -  
+
+Article URL: https://github.com/nexu-io/codex-slides Comments URL: https://news.ycombinator.com/item?id=49031776 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/nexu-io/codex-slides)
+
+---
+
+## 13. China's All-Out Push to Catch Up with American AI Chips
+
+**Author:** giuliomagnifico  
+**Published:** 7/24/2026, 4:58:21 AM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/world/china/china-ai-chips-race-949050d0 Comments URL: https://news.ycombinator.com/item?id=49031362 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.wsj.com/world/china/china-ai-chips-race-949050d0)
+
+---
+
+## 14. The Sad Wives of AI
+
+**Author:** tlyleung  
+**Published:** 7/24/2026, 4:44:15 AM  
+**Categories:** -  
+
+Article URL: https://www.wired.com/story/meet-the-sad-wives-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49031294 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.wired.com/story/meet-the-sad-wives-of-ai/)
+
+---
+
+## 15. Show HN: Generous free tier for SERP and AI web scraping
+
+**Author:** rbatista19  
+**Published:** 7/24/2026, 4:34:04 AM  
+**Categories:** -  
+
+Hackers,We wanted to share our newly-added recurring Free tier for cloro.dev, the leading AI UI scraping platform in the world.We extract structured data from ChatGPT, Perplexity, Grok, Gemini, Google Search, Google News, Copilot, and AI Overview through one API, with low latency across any country....
+
+📖 [Read original article](https://cloro.dev/)
+
+---
+
+## 16. Google's slump in AI race driven in part by low morale
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/24/2026, 4:28:43 AM  
+**Categories:** -  
+
+Article URL: https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race Comments URL: https://news.ycombinator.com/item?id=49031227 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race)
+
+---
+
+## 17. Lock TF IN: an AI drill sergeant that roasts skipped workouts
+
+**Author:** symbiex  
+**Published:** 7/24/2026, 4:24:14 AM  
+**Categories:** -  
+
+Article URL: https://apps.apple.com/us/app/lock-tf-in-ai-companion/id6788896897 Comments URL: https://news.ycombinator.com/item?id=49031206 Points: 1 # Comments: 0
+
+📖 [Read original article](https://apps.apple.com/us/app/lock-tf-in-ai-companion/id6788896897)
+
+---
+
+## 18. AI will not trigger employment collapse, staffing company Adecco Group says
 
 **Author:** gnabgib  
-**Published:** 7/24/2026, 12:12:02 AM  
+**Published:** 7/24/2026, 4:11:35 AM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535 Comments URL: https://news.ycombinator.com/item?id=49029771 Points: 11 # Comments: 0
+Article URL: https://www.reuters.com/business/ai-will-not-trigger-employment-collapse-staffing-company-adecco-group-says-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49031153 Points: 2 # Comments: 3
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535)
+📖 [Read original article](https://www.reuters.com/business/ai-will-not-trigger-employment-collapse-staffing-company-adecco-group-says-2026-07-23/)
 
 ---
 
-## 10. If AI companies avoid AI slop, shouldn't we?
+## 19. Flux 3: From AI image generation to visual intelligence
 
-**Author:** mikelgan  
-**Published:** 7/24/2026, 12:04:35 AM  
+**Author:** Nancylily  
+**Published:** 7/24/2026, 4:09:02 AM  
 **Categories:** -  
 
-Article URL: https://www.machinesociety.ai/p/if-ai-companies-avoid-ai-slop-shouldnt Comments URL: https://news.ycombinator.com/item?id=49029710 Points: 3 # Comments: 1
+Article URL: https://textideo.com/model/flux-3 Comments URL: https://news.ycombinator.com/item?id=49031139 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.machinesociety.ai/p/if-ai-companies-avoid-ai-slop-shouldnt)
+📖 [Read original article](https://textideo.com/model/flux-3)
+
+---
+
+## 20. Why hasn't AI increased unemployment?
+
+**Author:** Ariarule  
+**Published:** 7/24/2026, 4:08:59 AM  
+**Categories:** -  
+
+Article URL: https://twitter.com/PeterMcCrory/status/2079979321607745905 Comments URL: https://news.ycombinator.com/item?id=49031138 Points: 1 # Comments: 0
+
+📖 [Read original article](https://twitter.com/PeterMcCrory/status/2079979321607745905)
 
 ---
