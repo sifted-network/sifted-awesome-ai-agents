@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-07-22"
 date: "2026-07-22"
 source: "OpenAI Blog"
-count: 5
+count: 4
 ---
 
 # OpenAI Blog - 2026-07-22
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ OpenAI outlines its commitment to advancing American science working with the U.
 Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.
 
 📖 [Read original article](https://openai.com/index/introducing-openai-presence)
-
----
-
-## 5. NTT DATA Group cuts incident analysis to 30 minutes with Codex
-
-**Author:** -  
-**Published:** 7/22/2026, 12:00:00 AM  
-**Categories:** -  
-
-NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.
-
-📖 [Read original article](https://openai.com/index/ntt-data)
 
 ---
