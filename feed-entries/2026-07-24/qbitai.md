@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-24"
 date: "2026-07-24"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-07-24
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ AI抢跑期，我们看见了全球化新品牌的下一程
 再长的上下文也救不了长内容任务
 
 📖 [Read original article](https://www.qbitai.com/2026/07/458687.html)
-
----
-
-## 10. OPC创业者看过来，最高10万美元云资源等你拿
-
-**Author:** 听雨  
-**Published:** 7/24/2026, 5:05:38 AM  
-**Categories:** 资讯, 首页轮播, AI  
-
-还有明星导师阵容
-
-📖 [Read original article](https://www.qbitai.com/2026/07/458622.html)
 
 ---
