@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-24"
 date: "2026-07-24"
 source: "qbitai"
-count: 9
+count: 4
 ---
 
 # qbitai - 2026-07-24
 
-9 items collected.
+4 items collected.
 
 ---
 
@@ -56,65 +56,5 @@ count: 9
 AI抢跑期，我们看见了全球化新品牌的下一程
 
 📖 [Read original article](https://www.qbitai.com/2026/07/459432.html)
-
----
-
-## 5. 领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场
-
-**Author:** 量子位的朋友们  
-**Published:** 7/24/2026, 8:50:26 AM  
-**Categories:** 资讯, 领克  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/459402.html)
-
----
-
-## 6. 近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？
-
-**Author:** 林, 方舟  
-**Published:** 7/24/2026, 7:49:44 AM  
-**Categories:** 资讯, 具身数据, 具身智能  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/459262.html)
-
----
-
-## 7. 世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里
-
-**Author:** 林, 方舟  
-**Published:** 7/24/2026, 7:29:57 AM  
-**Categories:** 资讯, 世界模型  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/458617.html)
-
----
-
-## 8. 亚太唯一！阿里云跻身Gartner可观测魔力象限“挑战者”象限
-
-**Author:** 梦晨  
-**Published:** 7/24/2026, 5:50:48 AM  
-**Categories:** 资讯, 阿里云  
-
-"看得懂、定得准"的智能运维底座
-
-📖 [Read original article](https://www.qbitai.com/2026/07/458864.html)
-
----
-
-## 9. 长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字
-
-**Author:** 衡宇  
-**Published:** 7/24/2026, 5:41:17 AM  
-**Categories:** 资讯, 首页轮播, Agent, 内容创作, 问小白, 问小白5 Pro  
-
-再长的上下文也救不了长内容任务
-
-📖 [Read original article](https://www.qbitai.com/2026/07/458687.html)
 
 ---
