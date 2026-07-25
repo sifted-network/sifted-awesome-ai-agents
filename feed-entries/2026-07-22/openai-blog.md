@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-07-22"
 date: "2026-07-22"
 source: "OpenAI Blog"
-count: 4
+count: 3
 ---
 
 # OpenAI Blog - 2026-07-22
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ News organizations are using AI to strengthen reporting, grow audiences, and imp
 OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.
 
 📖 [Read original article](https://openai.com/index/advancing-the-next-era-of-national-science)
-
----
-
-## 4. Introducing OpenAI Presence
-
-**Author:** -  
-**Published:** 7/22/2026, 5:30:00 AM  
-**Categories:** Product  
-
-Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.
-
-📖 [Read original article](https://openai.com/index/introducing-openai-presence)
 
 ---
