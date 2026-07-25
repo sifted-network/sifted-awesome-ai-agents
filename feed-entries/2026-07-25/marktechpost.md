@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-25"
 date: "2026-07-25"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-07-25
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse
+## 1. Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers
+
+**Author:** Michal Sutter  
+**Published:** 7/25/2026, 9:03:27 AM  
+**Categories:** Agentic AI, AI Agents, Editors Pick, Opinion, Security, Tech News  
+
+OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/)
+
+---
+
+## 2. Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse
 
 **Author:** Sana Hassan  
 **Published:** 7/25/2026, 7:54:21 AM  
@@ -23,7 +35,7 @@ Discover how to create self-evolving AI agents using the OpenSpace framework. Th
 
 ---
 
-## 2. Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown
+## 3. Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown
 
 **Author:** Asif Razzaq  
 **Published:** 7/25/2026, 4:42:47 AM  
