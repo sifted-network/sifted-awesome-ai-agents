@@ -2,251 +2,191 @@
 title: "Hacker News AI - 2026-07-24"
 date: "2026-07-24"
 source: "Hacker News AI"
-count: 20
+count: 15
 ---
 
 # Hacker News AI - 2026-07-24
 
-20 items collected.
+15 items collected.
 
 ---
 
-## 1. Oracle VM VirtualBox Bug Discovered by AI: CVE-2026-60161
+## 1. Bonsai – a toolkit for building AI chat apps with branchable conversations
 
-**Author:** runeks  
-**Published:** 7/24/2026, 7:08:12 PM  
+**Author:** joaoha  
+**Published:** 7/24/2026, 11:52:26 PM  
 **Categories:** -  
 
-Article URL: https://octane.beehiiv.com/ Comments URL: https://news.ycombinator.com/item?id=49040324 Points: 2 # Comments: 1
+Article URL: https://github.com/Joaoha/Bonsai Comments URL: https://news.ycombinator.com/item?id=49043023 Points: 2 # Comments: 0
 
-📖 [Read original article](https://octane.beehiiv.com/)
+📖 [Read original article](https://github.com/Joaoha/Bonsai)
 
 ---
 
-## 2. Shackle: A pre-execution ALLOW/DENY/HITL gate for AI agents (open source)
+## 2. Show HN: OneWayInterview – type a job role, AI builds the async video interview
 
-**Author:** SHACKLE-PRO-  
-**Published:** 7/24/2026, 6:53:44 PM  
+**Author:** emunova  
+**Published:** 7/24/2026, 11:35:36 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Fame510/SHACKLE Comments URL: https://news.ycombinator.com/item?id=49040103 Points: 1 # Comments: 0
+Article URL: https://onewayinterview.com/ Comments URL: https://news.ycombinator.com/item?id=49042922 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/Fame510/SHACKLE)
+📖 [Read original article](https://onewayinterview.com/)
 
 ---
 
-## 3. Ask HN: What's the best AI coding tool today?
+## 3. Open Weights and American AI Leadership
 
-**Author:** FrenchDevRemote  
-**Published:** 7/24/2026, 6:49:35 PM  
+**Author:** haritha1313  
+**Published:** 7/24/2026, 11:29:30 PM  
 **Categories:** -  
 
-My current workflow would be something like: write detailed requirements, ssh into a remote instance, ask an agent to write a plan and giving it free rein to build it there, only pinging me back when it's ready or when it's stuck. I could write code manually in an IDE too but only when the problem i...
+Article URL: https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/ Comments URL: https://news.ycombinator.com/item?id=49042884 Points: 9 # Comments: 3
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49040025)
+📖 [Read original article](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)
 
 ---
 
-## 4. pixtuoid: AI coding agents, visualized as pixel-art coworkers in terminal office
+## 4. Amazon cracks down on use of AI images by sellers after New York law
 
-**Author:** guessmyname  
-**Published:** 7/24/2026, 6:44:35 PM  
+**Author:** baranul  
+**Published:** 7/24/2026, 11:28:18 PM  
 **Categories:** -  
 
-Article URL: https://github.com/IvanWng97/pixtuoid Comments URL: https://news.ycombinator.com/item?id=49039960 Points: 2 # Comments: 0
+Article URL: https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html Comments URL: https://news.ycombinator.com/item?id=49042870 Points: 8 # Comments: 0
 
-📖 [Read original article](https://github.com/IvanWng97/pixtuoid)
+📖 [Read original article](https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html)
 
 ---
 
-## 5. San Francisco AI Doom Protest (2026) [video]
+## 5. Show HN: Evidence Graph – type checking for the specs your AI agent implements
 
-**Author:** notmysql_  
-**Published:** 7/24/2026, 6:44:32 PM  
+**Author:** autobe  
+**Published:** 7/24/2026, 11:09:12 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=vW26TB6Rdic Comments URL: https://news.ycombinator.com/item?id=49039959 Points: 1 # Comments: 0
+Article URL: https://github.com/samchon/lint-plugin-evidence Comments URL: https://news.ycombinator.com/item?id=49042719 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=vW26TB6Rdic)
+📖 [Read original article](https://github.com/samchon/lint-plugin-evidence)
 
 ---
 
-## 6. Why AI Agents Need a Two-Tier Architecture
+## 6. Show HN: Kalytera – Find out why your AI agent failed, step-by-step
 
-**Author:** mkagenius  
-**Published:** 7/24/2026, 6:42:30 PM  
+**Author:** mathurpriya19  
+**Published:** 7/24/2026, 10:26:07 PM  
 **Categories:** -  
 
-Article URL: https://instavm.io/blog/why-ai-agents-need-a-two-tier-architecture Comments URL: https://news.ycombinator.com/item?id=49039930 Points: 1 # Comments: 0
+Article URL: https://kalytera.dev Comments URL: https://news.ycombinator.com/item?id=49042370 Points: 1 # Comments: 0
 
-📖 [Read original article](https://instavm.io/blog/why-ai-agents-need-a-two-tier-architecture)
+📖 [Read original article](https://kalytera.dev)
 
 ---
 
-## 7. SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says
+## 7. AI Bubble: 'The risk is everywhere' – Ed Zitron [video]
 
-**Author:** toomuchtodo  
-**Published:** 7/24/2026, 6:34:16 PM  
+**Author:** baranul  
+**Published:** 7/24/2026, 10:14:26 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley Comments URL: https://news.ycombinator.com/item?id=49039831 Points: 13 # Comments: 10
+Article URL: https://www.youtube.com/watch?v=bTwnn-5TpmQ Comments URL: https://news.ycombinator.com/item?id=49042262 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley)
-
----
-
-## 8. Team uses AlphaFold AI to redesign gene-editing proteins to make them safer
-
-**Author:** 01-_-  
-**Published:** 7/24/2026, 6:33:21 PM  
-**Categories:** -  
-
-Article URL: https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/ Comments URL: https://news.ycombinator.com/item?id=49039822 Points: 3 # Comments: 0
-
-📖 [Read original article](https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/)
+📖 [Read original article](https://www.youtube.com/watch?v=bTwnn-5TpmQ)
 
 ---
 
-## 9. Canada's Anti-AI Movement Is Powered by an AI News Aggregator
-
-**Author:** ethanplant  
-**Published:** 7/24/2026, 6:28:51 PM  
-**Categories:** -  
-
-Article URL: https://ethanplant.ca/writing/stop-the-datacentre/ Comments URL: https://news.ycombinator.com/item?id=49039761 Points: 2 # Comments: 1
-
-📖 [Read original article](https://ethanplant.ca/writing/stop-the-datacentre/)
-
----
-
-## 10. Zuckerberg's AI optimism blitz using nostalgia to sell AI future amid backlash
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/24/2026, 5:54:11 PM  
-**Categories:** -  
-
-Article URL: https://fortune.com/2026/07/23/zuckerberg-ai-ad-optimism-backlash/ Comments URL: https://news.ycombinator.com/item?id=49039334 Points: 5 # Comments: 1
-
-📖 [Read original article](https://fortune.com/2026/07/23/zuckerberg-ai-ad-optimism-backlash/)
-
----
-
-## 11. Alphabet's $205B AI spending plan spooks investors
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/24/2026, 5:50:22 PM  
-**Categories:** -  
-
-Article URL: https://www.latimes.com/business/story/2026-07-23/alphabets-205-billion-ai-spending-plan-spooks-investors Comments URL: https://news.ycombinator.com/item?id=49039297 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.latimes.com/business/story/2026-07-23/alphabets-205-billion-ai-spending-plan-spooks-investors)
-
----
-
-## 12. AI has a weak spine. We proved it on R/AmIOverreacting
-
-**Author:** hankimprod  
-**Published:** 7/24/2026, 5:44:15 PM  
-**Categories:** -  
-
-Article URL: https://modelsagree.com/labs/ai-judges-overreacting Comments URL: https://news.ycombinator.com/item?id=49039213 Points: 2 # Comments: 0
-
-📖 [Read original article](https://modelsagree.com/labs/ai-judges-overreacting)
-
----
-
-## 13. Specification for a 100% AI-Free Software Supply Chain
-
-**Author:** open-reality  
-**Published:** 7/24/2026, 5:39:20 PM  
-**Categories:** -  
-
-Article URL: https://rentry.co/organic-code-spec-v1-0-md Comments URL: https://news.ycombinator.com/item?id=49039130 Points: 2 # Comments: 0
-
-📖 [Read original article](https://rentry.co/organic-code-spec-v1-0-md)
-
----
-
-## 14. Google Ordered to Face AI Defamation Lawsuit
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/24/2026, 5:08:54 PM  
-**Categories:** -  
-
-Article URL: https://news.bloomberglaw.com/esg/google-ordered-to-face-robby-starbucks-ai-defamation-lawsuit Comments URL: https://news.ycombinator.com/item?id=49038628 Points: 3 # Comments: 0
-
-📖 [Read original article](https://news.bloomberglaw.com/esg/google-ordered-to-face-robby-starbucks-ai-defamation-lawsuit)
-
----
-
-## 15. Hans Moravec Was Right About AI. What About the Fate of Mankind?
+## 8. AI companies stripping universities of their best computer scientists
 
 **Author:** bookofjoe  
-**Published:** 7/24/2026, 5:07:45 PM  
+**Published:** 7/24/2026, 10:13:20 PM  
 **Categories:** -  
 
-Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html Comments URL: https://news.ycombinator.com/item?id=49038610 Points: 2 # Comments: 1
+Article URL: https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/ Comments URL: https://news.ycombinator.com/item?id=49042252 Points: 7 # Comments: 3
 
-📖 [Read original article](https://nymag.com/intelligencer/article/hans-moravec-interview.html)
+📖 [Read original article](https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/)
 
 ---
 
-## 16. Show HN: Corv v1.1 is out! Solving SSH execution for AI agents
+## 9. Hermes AI agent used to automate attack on Thai Finance Ministry
 
-**Author:** khalid_0002  
-**Published:** 7/24/2026, 5:06:07 PM  
+**Author:** sbulaev  
+**Published:** 7/24/2026, 10:07:06 PM  
 **Categories:** -  
 
-I don’t see much interest yet in the infrastructure side of AI. Maybe it’s because few people want to take on the liability of letting agents handle infrastructure work, where the margin for error is close to zero.But the underlying situation is awful. Most effort goes toward the application layer, ...
+Article URL: https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/ Comments URL: https://news.ycombinator.com/item?id=49042205 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/khalid-src/corv-client)
+📖 [Read original article](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
 
 ---
 
-## 17. Show HN: 18y/O buidling an AI proposal OS and generator
+## 10. Typepad: An AI Writing Copilot
 
-**Author:** sahil423  
-**Published:** 7/24/2026, 4:57:17 PM  
+**Author:** djxjxjcjcjc  
+**Published:** 7/24/2026, 9:46:50 PM  
 **Categories:** -  
 
-Article URL: https://www.propi.pro Comments URL: https://news.ycombinator.com/item?id=49038426 Points: 1 # Comments: 0
+Article URL: https://typepad.cc/ Comments URL: https://news.ycombinator.com/item?id=49041999 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.propi.pro)
+📖 [Read original article](https://typepad.cc/)
 
 ---
 
-## 18. AI forcing Big Tech to spend more than it earns; Wall Street hates it
+## 11. One ChatGPT link could smuggle a rogue AI agent into your company
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/24/2026, 4:55:43 PM  
+**Author:** Bender  
+**Published:** 7/24/2026, 9:43:30 PM  
 **Categories:** -  
 
-Article URL: https://fortune.com/2026/07/23/ai-big-tech-never-spend-more-than-earns-wall-street-hates-it/ Comments URL: https://news.ycombinator.com/item?id=49038395 Points: 2 # Comments: 0
+Article URL: https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116 Comments URL: https://news.ycombinator.com/item?id=49041967 Points: 2 # Comments: 0
 
-📖 [Read original article](https://fortune.com/2026/07/23/ai-big-tech-never-spend-more-than-earns-wall-street-hates-it/)
+📖 [Read original article](https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116)
 
 ---
 
-## 19. White House offers its science blueprint: More AI, less life sciences
+## 12. Network expert Glenn Fiedler warns game devs to fix game vulnerabilities with AI
 
-**Author:** petethomas  
-**Published:** 7/24/2026, 4:46:05 PM  
+**Author:** gafferongames  
+**Published:** 7/24/2026, 9:34:39 PM  
 **Categories:** -  
 
-Article URL: https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/ Comments URL: https://news.ycombinator.com/item?id=49038258 Points: 4 # Comments: 1
+Article URL: https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/ Comments URL: https://news.ycombinator.com/item?id=49041863 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.statnews.com/2026/07/24/science-new-golden-age-report-draws-mixed-reaction/)
+📖 [Read original article](https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/)
 
 ---
 
-## 20. Jacobian Conjecture Refutation Reveals a Structural Limit of AI Interpretability
+## 13. AI in Linux
 
-**Author:** polynomial  
-**Published:** 7/24/2026, 4:44:23 PM  
+**Author:** zdw  
+**Published:** 7/24/2026, 9:33:34 PM  
 **Categories:** -  
 
-Article URL: https://ctolunchnyc.substack.com/p/the-lost-weekend Comments URL: https://news.ycombinator.com/item?id=49038236 Points: 4 # Comments: 0
+Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49041851 Points: 3 # Comments: 0
 
-📖 [Read original article](https://ctolunchnyc.substack.com/p/the-lost-weekend)
+📖 [Read original article](https://drewdevault.com/blog/AI-in-Linux/)
+
+---
+
+## 14. AI is giving software its quartz moment
+
+**Author:** camilonova  
+**Published:** 7/24/2026, 9:24:04 PM  
+**Categories:** -  
+
+Article URL: https://axiacore.com/blog/ai-is-giving-software-its-quartz-moment-1016/ Comments URL: https://news.ycombinator.com/item?id=49041745 Points: 3 # Comments: 2
+
+📖 [Read original article](https://axiacore.com/blog/ai-is-giving-software-its-quartz-moment-1016/)
+
+---
+
+## 15. Prototype: Grounding AI and LLMs with Overture's Cross-Theme Knowledge Graph
+
+**Author:** benp_wherobots  
+**Published:** 7/24/2026, 9:07:19 PM  
+**Categories:** -  
+
+Article URL: https://overturemaps.org/blog/2026/from-concept-to-prototype-grounding-ai-llms-with-overtures-cross-theme-knowledge-graph/ Comments URL: https://news.ycombinator.com/item?id=49041586 Points: 3 # Comments: 0
+
+📖 [Read original article](https://overturemaps.org/blog/2026/from-concept-to-prototype-grounding-ai-llms-with-overtures-cross-theme-knowledge-graph/)
 
 ---
