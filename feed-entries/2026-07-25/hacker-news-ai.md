@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Secretary Wright Announces First AI \"Genesis Mission\" Projects
+## 1. Jack Conte: The future of creativity on the internet in a world with AI [video]
 
-**Author:** donutloop  
-**Published:** 7/25/2026, 7:50:15 AM  
+**Author:** marvinborner  
+**Published:** 7/25/2026, 6:57:07 PM  
 **Categories:** -  
 
-Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate Comments URL: https://news.ycombinator.com/item?id=49045445 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=17_HcR95YBc Comments URL: https://news.ycombinator.com/item?id=49050492 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate)
+📖 [Read original article](https://www.youtube.com/watch?v=17_HcR95YBc)
 
 ---
 
-## 2. At the altar of AI capex, Google is sacrificing the golden goose
+## 2. Home of local AI and useful web tools
 
-**Author:** Michelangelo11  
-**Published:** 7/25/2026, 7:49:58 AM  
+**Author:** shafkathullah  
+**Published:** 7/25/2026, 6:22:58 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/i/status/2080229375773941871 Comments URL: https://news.ycombinator.com/item?id=49045443 Points: 1 # Comments: 0
+Article URL: https://pocketweb.tools/ Comments URL: https://news.ycombinator.com/item?id=49050177 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/i/status/2080229375773941871)
+📖 [Read original article](https://pocketweb.tools/)
 
 ---
 
-## 3. The Library and the Librarian: Why AI Needs Two Different Brains
+## 3. OpenAI agent goes rogue, hacks AI community, left escape plans in infrastructure
 
-**Author:** gagan2020  
-**Published:** 7/25/2026, 7:40:13 AM  
+**Author:** sbulaev  
+**Published:** 7/25/2026, 6:07:06 PM  
 **Categories:** -  
 
-Article URL: https://www.innerkore.com/blog/library-and-librarian/ Comments URL: https://news.ycombinator.com/item?id=49045382 Points: 2 # Comments: 0
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure Comments URL: https://news.ycombinator.com/item?id=49050034 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.innerkore.com/blog/library-and-librarian/)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure)
 
 ---
 
-## 4. Ask HN: How would you harden AI changes to a 1M-line legacy SaaS before review?
+## 4. Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)
 
-**Author:** thegreatkahuna  
-**Published:** 7/25/2026, 7:19:48 AM  
+**Author:** shacklepro  
+**Published:** 7/25/2026, 6:04:11 PM  
 **Categories:** -  
 
-I’m not a software engineer, but I’ve been running an experiment to see whether agentic development could produce a useful prototype on top of an existing SaaS codebase.The codebase is 1M+ lines, 15 years old, hosted on Azure, and primarily written in C# and React.The prototype needs to be available...
+Article URL: https://pypi.org/project/pyshackle/ Comments URL: https://news.ycombinator.com/item?id=49049995 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49045271)
+📖 [Read original article](https://pypi.org/project/pyshackle/)
 
 ---
 
-## 5. Substack adds AI text detection to all notes and posts
+## 5. Ask HN: What do you do when your AI agents are working?
 
-**Author:** meander_water  
-**Published:** 7/25/2026, 7:04:43 AM  
+**Author:** mavsman  
+**Published:** 7/25/2026, 6:03:26 PM  
 **Categories:** -  
 
-Article URL: https://post.substack.com/p/against-claudefishing Comments URL: https://news.ycombinator.com/item?id=49045198 Points: 2 # Comments: 0
+Maybe a dumb question but I don't think I've ever experienced more down/waiting time in my career so I'm much more prone to opening YouTube, HN, etc. despite not really wanting to.Most likely the answer is to just sit and do nothing. But have you discovered an approach to making agentic coding, etc ...
 
-📖 [Read original article](https://post.substack.com/p/against-claudefishing)
+📖 [Read original article](https://news.ycombinator.com/item?id=49049986)
 
 ---
 
-## 6. Herv AI – Spatial Intelligence
+## 6. Ask HN: How's your experience with the Siri AI beta?
 
-**Author:** kayumbaherve  
-**Published:** 7/25/2026, 6:00:08 AM  
+**Author:** Austin_Conlon  
+**Published:** 7/25/2026, 6:00:42 PM  
 **Categories:** -  
 
-Article URL: https://hervai.com Comments URL: https://news.ycombinator.com/item?id=49044905 Points: 2 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49049960 Points: 1 # Comments: 0
 
-📖 [Read original article](https://hervai.com)
+📖 [Read original article](https://news.ycombinator.com/item?id=49049960)
 
 ---
 
-## 7. Show HN: AI Anime Finder – Natural language semantic search for AniList
+## 7. AI in the Breach: How an Adversary Leveraged AI to Target a Water Utility's OT
 
-**Author:** mrdisloyal  
-**Published:** 7/25/2026, 5:52:29 AM  
+**Author:** MariusGjerd  
+**Published:** 7/25/2026, 5:31:29 PM  
 **Categories:** -  
 
-Article URL: https://zlvox.com/tools/anime-finder Comments URL: https://news.ycombinator.com/item?id=49044883 Points: 3 # Comments: 1
+Article URL: https://www.dragos.com/blog/ai-assisted-ics-attack-water-utility Comments URL: https://news.ycombinator.com/item?id=49049652 Points: 1 # Comments: 0
 
-📖 [Read original article](https://zlvox.com/tools/anime-finder)
+📖 [Read original article](https://www.dragos.com/blog/ai-assisted-ics-attack-water-utility)
 
 ---
 
-## 8. The Architecture of Deep Thought: Fight AI Speed with Cognitive Friction
+## 8. The rock star founder behind China's Moonshot AI
 
-**Author:** arthurfleck  
-**Published:** 7/25/2026, 5:02:54 AM  
+**Author:** nhannht  
+**Published:** 7/25/2026, 5:27:05 PM  
 **Categories:** -  
 
-Article URL: https://varnam.substack.com/p/the-architecture-of-deep-thought Comments URL: https://news.ycombinator.com/item?id=49044674 Points: 2 # Comments: 0
+Article URL: https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c Comments URL: https://news.ycombinator.com/item?id=49049604 Points: 1 # Comments: 0
 
-📖 [Read original article](https://varnam.substack.com/p/the-architecture-of-deep-thought)
+📖 [Read original article](https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c)
 
 ---
 
-## 9. AWS announces AWS-bench, an open-source benchmark for AI agents on AWS
+## 9. A system prompt to get AI to stop pretending to be human
 
-**Author:** gslin  
-**Published:** 7/25/2026, 4:42:35 AM  
+**Author:** speckx  
+**Published:** 7/25/2026, 5:01:05 PM  
 **Categories:** -  
 
-Article URL: https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/ Comments URL: https://news.ycombinator.com/item?id=49044597 Points: 2 # Comments: 0
+Article URL: https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human Comments URL: https://news.ycombinator.com/item?id=49049304 Points: 15 # Comments: 9
 
-📖 [Read original article](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/)
+📖 [Read original article](https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human)
 
 ---
 
-## 10. Coordination layer for AI coding agents, built on Git
+## 10. Silicon Valley Is Completely Divided over Chinese AI
 
-**Author:** aether-zyads  
-**Published:** 7/25/2026, 4:25:57 AM  
+**Author:** joozio  
+**Published:** 7/25/2026, 5:00:53 PM  
 **Categories:** -  
 
-Article URL: https://github.com/zyads/loom-vcs Comments URL: https://news.ycombinator.com/item?id=49044517 Points: 2 # Comments: 0
+Article URL: https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/ Comments URL: https://news.ycombinator.com/item?id=49049301 Points: 2 # Comments: 2
 
-📖 [Read original article](https://github.com/zyads/loom-vcs)
+📖 [Read original article](https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/)
 
 ---
 
-## 11. Corporate America Has Suddenly Decided to Stop Blowing Money on AI
+## 11. Show HN: Tongue – Text Your AI Personal Assistant
 
-**Author:** Alien1Being  
-**Published:** 7/25/2026, 4:00:54 AM  
+**Author:** chadnewbry  
+**Published:** 7/25/2026, 4:59:35 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/business/china-us-ai-model-costs-53a12e96 Comments URL: https://news.ycombinator.com/item?id=49044400 Points: 5 # Comments: 2
+Article URL: https://trytongue.com/demo Comments URL: https://news.ycombinator.com/item?id=49049282 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/business/china-us-ai-model-costs-53a12e96)
+📖 [Read original article](https://trytongue.com/demo)
 
 ---
 
-## 12. Gatekeepers, Luddites, Haters and AI-Generated Maps
+## 12. Show HN: Protoai – an open source peer-to-peer network for sharing AI contexts
 
-**Author:** ethagnawl  
-**Published:** 7/25/2026, 3:50:51 AM  
+**Author:** piecesJohn  
+**Published:** 7/25/2026, 4:56:56 PM  
 **Categories:** -  
 
-Article URL: https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/ Comments URL: https://news.ycombinator.com/item?id=49044345 Points: 3 # Comments: 0
+Article URL: https://github.com/johndebord/protoai Comments URL: https://news.ycombinator.com/item?id=49049253 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.maproomblog.com/2026/07/gatekeepers-luddites-haters-and-ai-generated-maps/)
+📖 [Read original article](https://github.com/johndebord/protoai)
 
 ---
 
-## 13. AI Agent Blameless Postmortem Template
+## 13. Apple Is the King of AI and Nobody Knows It
 
-**Author:** ankitg12  
-**Published:** 7/25/2026, 3:50:03 AM  
+**Author:** cyanbane  
+**Published:** 7/25/2026, 4:55:45 PM  
 **Categories:** -  
 
-Article URL: https://cordum.io/blog/ai-agent-blameless-postmortem-template Comments URL: https://news.ycombinator.com/item?id=49044341 Points: 1 # Comments: 0
+Article URL: https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody Comments URL: https://news.ycombinator.com/item?id=49049241 Points: 18 # Comments: 28
 
-📖 [Read original article](https://cordum.io/blog/ai-agent-blameless-postmortem-template)
+📖 [Read original article](https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody)
 
 ---
 
-## 14. The Discovery Problem: When AI Agents Build Tools No One Can Find
+## 14. Show HN: Avatar-cursor – an AI shop assistant
 
-**Author:** ankitg12  
-**Published:** 7/25/2026, 3:49:17 AM  
+**Author:** eschwalme  
+**Published:** 7/25/2026, 4:50:27 PM  
 **Categories:** -  
 
-Article URL: https://www.ixcoach.com/articles/the-discovery-problem-when-agents-build-invisible-tools Comments URL: https://news.ycombinator.com/item?id=49044338 Points: 1 # Comments: 0
+Article URL: https://github.com/eliasschwalme/avatar-cursor/blob/main/demo.gif Comments URL: https://news.ycombinator.com/item?id=49049186 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ixcoach.com/articles/the-discovery-problem-when-agents-build-invisible-tools)
+📖 [Read original article](https://github.com/eliasschwalme/avatar-cursor/blob/main/demo.gif)
 
 ---
 
-## 15. Cage-lite:Prebind assurance for consequential AI agent actions
+## 15. Politician reads AI prompt during assembly
 
-**Author:** roopamsure10  
-**Published:** 7/25/2026, 3:15:37 AM  
+**Author:** root-parent  
+**Published:** 7/25/2026, 4:31:15 PM  
 **Categories:** -  
 
-Article URL: https://github.com/roopamwsure/cage-lite Comments URL: https://news.ycombinator.com/item?id=49044170 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 51 # Comments: 30
 
-📖 [Read original article](https://github.com/roopamwsure/cage-lite)
+📖 [Read original article](https://www.youtube.com/watch?v=wlYa8NV5k-U)
 
 ---
 
-## 16. Aside: Fleetwide AI Chat
+## 16. Hermes AI agent used to automate attack on Thai Finance Ministry
 
-**Author:** handfuloflight  
-**Published:** 7/25/2026, 3:02:14 AM  
+**Author:** Brajeshwar  
+**Published:** 7/25/2026, 4:27:06 PM  
 **Categories:** -  
 
-Article URL: https://aside.vgnsh.xyz Comments URL: https://news.ycombinator.com/item?id=49044106 Points: 1 # Comments: 0
+Article URL: https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/ Comments URL: https://news.ycombinator.com/item?id=49048958 Points: 3 # Comments: 0
 
-📖 [Read original article](https://aside.vgnsh.xyz)
+📖 [Read original article](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
 
 ---
 
-## 17. A research exchange where AI agents attack open problems, scored on Bitcoin
+## 17. People are deceiving the justice system with AI
 
-**Author:** jabelli31  
-**Published:** 7/25/2026, 3:00:45 AM  
+**Author:** root-parent  
+**Published:** 7/25/2026, 3:52:31 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Jaybell31/dreamwalk Comments URL: https://news.ycombinator.com/item?id=49044103 Points: 2 # Comments: 0
+Article URL: https://english.elpais.com/technology/2026-07-25/how-people-are-deceiving-the-justice-system-with-ai-its-an-invisible-fraud.html Comments URL: https://news.ycombinator.com/item?id=49048655 Points: 8 # Comments: 2
 
-📖 [Read original article](https://github.com/Jaybell31/dreamwalk)
+📖 [Read original article](https://english.elpais.com/technology/2026-07-25/how-people-are-deceiving-the-justice-system-with-ai-its-an-invisible-fraud.html)
 
 ---
 
-## 18. Agentic AI Workflows and the Future of Streaming Ad Tech
+## 18. The AI Boom Made Average People More Interesting
 
-**Author:** breve  
-**Published:** 7/25/2026, 2:31:42 AM  
+**Author:** arm32  
+**Published:** 7/25/2026, 3:43:54 PM  
 **Categories:** -  
 
-Article URL: https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175405 Comments URL: https://news.ycombinator.com/item?id=49043960 Points: 1 # Comments: 1
+Article URL: https://alec.is/posts/the-ai-boom-made-average-people-more-interesting/ Comments URL: https://news.ycombinator.com/item?id=49048563 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175405)
+📖 [Read original article](https://alec.is/posts/the-ai-boom-made-average-people-more-interesting/)
 
 ---
 
-## 19. Are we threatened by AI misalignment seen in the OpenAI Hugging Face attack?
+## 19. Launched ORBIT AI Sandbox
 
-**Author:** paulpauper  
-**Published:** 7/25/2026, 2:27:44 AM  
+**Author:** schmitech  
+**Published:** 7/25/2026, 3:34:28 PM  
 **Categories:** -  
 
-Article URL: https://www.lesswrong.com/posts/H6DDSEvrtCk8Sehfd/are-we-existentially-threatened-by-the-type-of-ai Comments URL: https://news.ycombinator.com/item?id=49043942 Points: 1 # Comments: 0
+Article URL: https://orbit.schmitech.ca/ Comments URL: https://news.ycombinator.com/item?id=49048467 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.lesswrong.com/posts/H6DDSEvrtCk8Sehfd/are-we-existentially-threatened-by-the-type-of-ai)
+📖 [Read original article](https://orbit.schmitech.ca/)
 
 ---
 
-## 20. Show HN: AI Meter – Local token usage with energy and water estimates
+## 20. Samsung Electronics, SK Group seal $950B in deals with AI firms
 
-**Author:** zeko1195  
-**Published:** 7/25/2026, 2:11:52 AM  
+**Author:** alephnerd  
+**Published:** 7/25/2026, 3:34:04 PM  
 **Categories:** -  
 
-[Problem] I wanted to track how many tokens I am burning and it's estimated energy and water impact.[WHAT THIS IS] A local token usage tracker that works across different coding harnesses and estimates energy and water impact[MY EXPERIENCE] Tracking this really put things into perspective. My person...
+Article URL: https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25/ Comments URL: https://news.ycombinator.com/item?id=49048463 Points: 3 # Comments: 1
 
-📖 [Read original article](https://ai-meter.app)
+📖 [Read original article](https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25/)
 
 ---
