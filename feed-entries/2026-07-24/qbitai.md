@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-24"
 date: "2026-07-24"
 source: "qbitai"
-count: 4
+count: 3
 ---
 
 # qbitai - 2026-07-24
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ count: 4
 王虹主页唯一没挂链接的论文
 
 📖 [Read original article](https://www.qbitai.com/2026/07/460042.html)
-
----
-
-## 4. 抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录
-
-**Author:** 量子位的朋友们  
-**Published:** 7/24/2026, 9:57:35 AM  
-**Categories:** 资讯, 亿邦动力  
-
-AI抢跑期，我们看见了全球化新品牌的下一程
-
-📖 [Read original article](https://www.qbitai.com/2026/07/459432.html)
 
 ---
