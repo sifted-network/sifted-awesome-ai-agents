@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-26"
 date: "2026-07-26"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-07-26
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments
+## 1. Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Image, Video, Audio and Robot Action Prediction
+
+**Author:** Michal Sutter  
+**Published:** 7/26/2026, 5:50:23 PM  
+**Categories:** AI Shorts, Applications, Artificial Intelligence, Computer Vision, Editors Pick, Language Model, Large Language Model, New Releases, Physical AI, Staff, Tech News, Technology  
+
+Black Forest Labs (BFL) has released FLUX 3, a multimodal foundation model that learns from images, videos and audio inside a single architecture. It is also the first FLUX model to ship video, audio and action prediction from one set of weights. The Black Forest Labs (BFL) research team argues that...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/)
+
+---
+
+## 2. KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments
 
 **Author:** Michal Sutter  
 **Published:** 7/26/2026, 10:46:19 AM  
@@ -23,7 +35,7 @@ The KwaiKAT Team at Kuaishou has published the KAT-Coder-V2.5 technical report, 
 
 ---
 
-## 2. Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run
+## 3. Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run
 
 **Author:** Michal Sutter  
 **Published:** 7/26/2026, 9:14:22 AM  
@@ -35,7 +47,7 @@ Most agents that learn from video need to know what action produced each frame. 
 
 ---
 
-## 3. FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics
+## 4. FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics
 
 **Author:** Sana Hassan  
 **Published:** 7/26/2026, 8:38:09 AM  
@@ -47,7 +59,7 @@ In this tutorial, we explore FAIRChem v2 and the UMA universal machine-learning 
 
 ---
 
-## 4. Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM
+## 5. Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM
 
 **Author:** Asif Razzaq  
 **Published:** 7/26/2026, 12:12:57 AM  
