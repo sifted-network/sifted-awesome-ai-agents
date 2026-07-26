@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. If you feel the need to tell me your answer is AI-based, work it more
+## 1. The New AI Superpowers: Focus and Followthrough
+
+**Author:** mooreds  
+**Published:** 7/26/2026, 1:13:03 PM  
+**Categories:** -  
+
+Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
+
+---
+
+## 2. The Money AMD Is Chasing with Its Rackscale AI System Roadmaps
+
+**Author:** rbanffy  
+**Published:** 7/26/2026, 12:57:17 PM  
+**Categories:** -  
+
+Article URL: https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510 Comments URL: https://news.ycombinator.com/item?id=49057722 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510)
+
+---
+
+## 3. US tech groups cut 140k jobs despite AI spending boom
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/26/2026, 12:54:10 PM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f Comments URL: https://news.ycombinator.com/item?id=49057704 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f)
+
+---
+
+## 4. Google's AI Spending Spree Has Investors Nervous
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/26/2026, 12:44:47 PM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223 Comments URL: https://news.ycombinator.com/item?id=49057589 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223)
+
+---
+
+## 5. Making 3 AI's Count to 100 Together [video]
+
+**Author:** pingou  
+**Published:** 7/26/2026, 12:36:12 PM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=MXEInc6Zy7Q Comments URL: https://news.ycombinator.com/item?id=49057519 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=MXEInc6Zy7Q)
+
+---
+
+## 6. ARIA – Voice-native 3D spatial AI SoC with governed autonomy (BSL 1.1)
+
+**Author:** saryismail  
+**Published:** 7/26/2026, 12:35:18 PM  
+**Categories:** -  
+
+Article URL: https://github.com/sidevworks/aria-sec Comments URL: https://news.ycombinator.com/item?id=49057507 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/sidevworks/aria-sec)
+
+---
+
+## 7. The product function in the age of AI
+
+**Author:** brainlessdev  
+**Published:** 7/26/2026, 12:30:00 PM  
+**Categories:** -  
+
+Article URL: https://fnune.com/2026/07/26/the-product-function-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49057464 Points: 1 # Comments: 0
+
+📖 [Read original article](https://fnune.com/2026/07/26/the-product-function-in-the-age-of-ai/)
+
+---
+
+## 8. Dream Exchange – a persistent world where AI agents live, not work
+
+**Author:** damiyangguang  
+**Published:** 7/26/2026, 12:29:58 PM  
+**Categories:** -  
+
+Article URL: https://www.soudushi.com Comments URL: https://news.ycombinator.com/item?id=49057463 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.soudushi.com)
+
+---
+
+## 9. Moody's says AI spending threatens credit of Amazon, Meta, Alphabet, others
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/26/2026, 12:05:13 PM  
+**Categories:** -  
+
+Article URL: https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html Comments URL: https://news.ycombinator.com/item?id=49057291 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html)
+
+---
+
+## 10. X-OS – Building an Operating System for the AI Era
+
+**Author:** vali1  
+**Published:** 7/26/2026, 12:03:09 PM  
+**Categories:** -  
+
+Article URL: https://github.com/valivalivali/x-os Comments URL: https://news.ycombinator.com/item?id=49057264 Points: 1 # Comments: 3
+
+📖 [Read original article](https://github.com/valivalivali/x-os)
+
+---
+
+## 11. Bond market anxiety is growing over AI capex budgets
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/26/2026, 12:02:29 PM  
+**Categories:** -  
+
+Article URL: https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html Comments URL: https://news.ycombinator.com/item?id=49057254 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html)
+
+---
+
+## 12. AI Tokenomics: What AI tokens cost and where they're wasted
+
+**Author:** bkotrys  
+**Published:** 7/26/2026, 11:39:19 AM  
+**Categories:** -  
+
+Article URL: https://github.com/QuesmaOrg/awesome-ai-tokenomics Comments URL: https://news.ycombinator.com/item?id=49057082 Points: 4 # Comments: 0
+
+📖 [Read original article](https://github.com/QuesmaOrg/awesome-ai-tokenomics)
+
+---
+
+## 13. Searchable, leveled learning map of AI/ML tools
+
+**Author:** maneeshthakur  
+**Published:** 7/26/2026, 11:29:23 AM  
+**Categories:** -  
+
+open source project for learning on git Comments URL: https://news.ycombinator.com/item?id=49057009 Points: 1 # Comments: 1
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49057009)
+
+---
+
+## 14. AI Chatbots Know How to Make Deadly Biological Weapons. Some Will Teach You
+
+**Author:** thm  
+**Published:** 7/26/2026, 11:06:20 AM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c Comments URL: https://news.ycombinator.com/item?id=49056855 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c)
+
+---
+
+## 15. Show HN: Wmux – A workspace multiplexer for AI agents
+
+**Author:** wong2kim  
+**Published:** 7/26/2026, 11:06:16 AM  
+**Categories:** -  
+
+Article URL: https://github.com/openwong2kim/wmux Comments URL: https://news.ycombinator.com/item?id=49056854 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/openwong2kim/wmux)
+
+---
+
+## 16. Terence Tao: Mathematics in the Age of AI [pdf]
+
+**Author:** Anon84  
+**Published:** 7/26/2026, 10:32:35 AM  
+**Categories:** -  
+
+Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 4 # Comments: 0
+
+📖 [Read original article](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
+
+---
+
+## 17. AI drove Shopify back to clean code
+
+**Author:** sbulaev  
+**Published:** 7/26/2026, 10:07:07 AM  
+**Categories:** -  
+
+Article URL: https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901 Comments URL: https://news.ycombinator.com/item?id=49056472 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901)
+
+---
+
+## 18. When the AI bubble bursts, silver is Eric Sprott's play
+
+**Author:** parallel_shell  
+**Published:** 7/26/2026, 9:53:17 AM  
+**Categories:** -  
+
+Article URL: https://stockhead.com.au/resources/when-the-ai-bubble-bursts-silver-is-eric-sprotts-play/ Comments URL: https://news.ycombinator.com/item?id=49056398 Points: 1 # Comments: 0
+
+📖 [Read original article](https://stockhead.com.au/resources/when-the-ai-bubble-bursts-silver-is-eric-sprotts-play/)
+
+---
+
+## 19. If you feel the need to tell me your answer is AI-based, work it more
 
 **Author:** Versipelle  
 **Published:** 7/26/2026, 8:22:48 AM  
 **Categories:** -  
 
-Article URL: https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/ Comments URL: https://news.ycombinator.com/item?id=49055896 Points: 1 # Comments: 0
+Article URL: https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/ Comments URL: https://news.ycombinator.com/item?id=49055896 Points: 2 # Comments: 0
 
 📖 [Read original article](https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/)
 
 ---
 
-## 2. House AI 'kill switch' bill unveiled as OpenAI hack raises alarms
+## 20. House AI 'kill switch' bill unveiled as OpenAI hack raises alarms
 
 **Author:** reasonableklout  
 **Published:** 7/26/2026, 8:18:59 AM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898 Comments URL: https://news.ycombinator.com/item?id=49055877 Points: 1 # Comments: 0
+Article URL: https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898 Comments URL: https://news.ycombinator.com/item?id=49055877 Points: 3 # Comments: 0
 
 📖 [Read original article](https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898)
-
----
-
-## 3. Anthropic secures its AI-native software development lifecycle
-
-**Author:** _tk_  
-**Published:** 7/26/2026, 8:12:28 AM  
-**Categories:** -  
-
-Article URL: https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle Comments URL: https://news.ycombinator.com/item?id=49055849 Points: 2 # Comments: 0
-
-📖 [Read original article](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle)
-
----
-
-## 4. A protocol for AI agent workspace state and effect management
-
-**Author:** eouzoe  
-**Published:** 7/26/2026, 8:02:03 AM  
-**Categories:** -  
-
-Article URL: https://github.com/eouzoe/reel Comments URL: https://news.ycombinator.com/item?id=49055791 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/eouzoe/reel)
-
----
-
-## 5. Show HN: I built an AI that roasts GitHub profiles
-
-**Author:** hito20  
-**Published:** 7/26/2026, 6:28:24 AM  
-**Categories:** -  
-
-I built GitHub Roast as a fun weekend project.I originally shared it on X just for fun, but it ended up getting around 1,200 visitors a day, so I kept improving it.I'd love to hear what the HN community thinks—especially if there are ways to make the feedback more useful and less gimmicky. Comments ...
-
-📖 [Read original article](https://gitroast-kappa.vercel.app/)
-
----
-
-## 6. Hans Moravec was right about AI
-
-**Author:** anath2  
-**Published:** 7/26/2026, 6:22:05 AM  
-**Categories:** -  
-
-Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html Comments URL: https://news.ycombinator.com/item?id=49055308 Points: 2 # Comments: 0
-
-📖 [Read original article](https://nymag.com/intelligencer/article/hans-moravec-interview.html)
-
----
-
-## 7. Microsoft launches new in-house AI models. Cuts costs up to 89% versus OpenAI
-
-**Author:** thunderbong  
-**Published:** 7/26/2026, 5:59:36 AM  
-**Categories:** -  
-
-Article URL: https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai Comments URL: https://news.ycombinator.com/item?id=49055188 Points: 3 # Comments: 0
-
-📖 [Read original article](https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai)
-
----
-
-## 8. Show HN: Hydra, a local-first trust control plane that routes AI by confidence
-
-**Author:** jhaankit373  
-**Published:** 7/26/2026, 5:38:56 AM  
-**Categories:** -  
-
-Article URL: https://hydra.uvansa.com/ Comments URL: https://news.ycombinator.com/item?id=49055074 Points: 1 # Comments: 0
-
-📖 [Read original article](https://hydra.uvansa.com/)
-
----
-
-## 9. MIT to become hotbed of AI video surveillance
-
-**Author:** SanjayMehta  
-**Published:** 7/26/2026, 4:07:54 AM  
-**Categories:** -  
-
-Article URL: https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html Comments URL: https://news.ycombinator.com/item?id=49054638 Points: 14 # Comments: 2
-
-📖 [Read original article](https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html)
-
----
-
-## 10. DOE announces first Genesis Mission projects for AI-driven scientific discovery
-
-**Author:** rochansinha  
-**Published:** 7/26/2026, 3:26:50 AM  
-**Categories:** -  
-
-Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate Comments URL: https://news.ycombinator.com/item?id=49054396 Points: 5 # Comments: 1
-
-📖 [Read original article](https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate)
-
----
-
-## 11. Show HN: Rules that stop AI coding agents from breaking working code
-
-**Author:** gaiinmaster  
-**Published:** 7/26/2026, 2:30:44 AM  
-**Categories:** -  
-
-Article URL: https://github.com/avenna01-ceo/claude-code-survival-kr Comments URL: https://news.ycombinator.com/item?id=49054070 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/avenna01-ceo/claude-code-survival-kr)
-
----
-
-## 12. NYU Stern pricing expert: The hidden 'AI tax' hitting your next phone
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/26/2026, 1:49:50 AM  
-**Categories:** -  
-
-Article URL: https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/ Comments URL: https://news.ycombinator.com/item?id=49053809 Points: 4 # Comments: 1
-
-📖 [Read original article](https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/)
-
----
-
-## 13. The hidden cost of AI: Why your town is negotiating with Amazon and Microsoft
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/26/2026, 1:47:31 AM  
-**Categories:** -  
-
-Article URL: https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/ Comments URL: https://news.ycombinator.com/item?id=49053787 Points: 2 # Comments: 1
-
-📖 [Read original article](https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/)
-
----
-
-## 14. AI Can Now Design Drugs in Seconds; We Still Can't Tell You If They Work
-
-**Author:** TEHERET  
-**Published:** 7/26/2026, 1:28:59 AM  
-**Categories:** -  
-
-Article URL: https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./ Comments URL: https://news.ycombinator.com/item?id=49053679 Points: 2 # Comments: 0
-
-📖 [Read original article](https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./)
-
----
-
-## 15. Show HN: Axtary – Content Authorization for AI Agents
-
-**Author:** Axtary  
-**Published:** 7/26/2026, 1:02:04 AM  
-**Categories:** -  
-
-Article URL: https://axtary.com Comments URL: https://news.ycombinator.com/item?id=49053543 Points: 3 # Comments: 2
-
-📖 [Read original article](https://axtary.com)
-
----
-
-## 16. I scanned my AI agent framework for destructive/consequential actions, and wow
-
-**Author:** Bucko1  
-**Published:** 7/26/2026, 12:58:07 AM  
-**Categories:** -  
-
-Article URL: https://www.actenon.com/ Comments URL: https://news.ycombinator.com/item?id=49053520 Points: 8 # Comments: 2
-
-📖 [Read original article](https://www.actenon.com/)
-
----
-
-## 17. Collective Intelligence: The Next Frontier of AI
-
-**Author:** alissonidalo  
-**Published:** 7/26/2026, 12:49:55 AM  
-**Categories:** -  
-
-Article URL: https://github.com/ailinone/collective-intelligence Comments URL: https://news.ycombinator.com/item?id=49053465 Points: 8 # Comments: 2
-
-📖 [Read original article](https://github.com/ailinone/collective-intelligence)
-
----
-
-## 18. SEC acquiring AI agents to monitor phone locations, social media, credit headers
-
-**Author:** iamnothere  
-**Published:** 7/26/2026, 12:31:44 AM  
-**Categories:** -  
-
-Article URL: https://jackpoulson.substack.com/p/securities-and-exchange-commission Comments URL: https://news.ycombinator.com/item?id=49053339 Points: 5 # Comments: 0
-
-📖 [Read original article](https://jackpoulson.substack.com/p/securities-and-exchange-commission)
-
----
-
-## 19. George Hotz talk at AMD Advancing AI 2026 [video]
-
-**Author:** chrsw  
-**Published:** 7/26/2026, 12:20:31 AM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=QyrQeeDZUG4 Comments URL: https://news.ycombinator.com/item?id=49053263 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=QyrQeeDZUG4)
-
----
-
-## 20. Personal AI Assistant, Anywhere
-
-**Author:** GreenKeewi  
-**Published:** 7/26/2026, 12:17:15 AM  
-**Categories:** -  
-
-Article URL: https://www.heysolin.com/ Comments URL: https://news.ycombinator.com/item?id=49053240 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.heysolin.com/)
 
 ---
