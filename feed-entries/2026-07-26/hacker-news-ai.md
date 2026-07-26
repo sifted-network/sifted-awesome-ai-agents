@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The New AI Superpowers: Focus and Followthrough
+## 1. What Americans Think About the Global AI Race
 
-**Author:** mooreds  
-**Published:** 7/26/2026, 1:13:03 PM  
+**Author:** karakoram  
+**Published:** 7/26/2026, 6:47:09 PM  
 **Categories:** -  
 
-Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 1 # Comments: 0
+Article URL: https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/ Comments URL: https://news.ycombinator.com/item?id=49061089 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
+📖 [Read original article](https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/)
 
 ---
 
-## 2. The Money AMD Is Chasing with Its Rackscale AI System Roadmaps
+## 2. Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter
 
-**Author:** rbanffy  
-**Published:** 7/26/2026, 12:57:17 PM  
+**Author:** hevolveai  
+**Published:** 7/26/2026, 6:40:08 PM  
 **Categories:** -  
 
-Article URL: https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510 Comments URL: https://news.ycombinator.com/item?id=49057722 Points: 1 # Comments: 0
+Article URL: https://github.com/hertz-ai/HARTOS Comments URL: https://news.ycombinator.com/item?id=49061015 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.nextplatform.com/compute/2026/07/24/the-money-amd-is-chasing-with-its-rackscale-ai-system-roadmaps/5278510)
+📖 [Read original article](https://github.com/hertz-ai/HARTOS)
 
 ---
 
-## 3. US tech groups cut 140k jobs despite AI spending boom
+## 3. Show HN: ModelFuzz – Open-source runtime guardrails for AI agents
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/26/2026, 12:54:10 PM  
+**Author:** higagan  
+**Published:** 7/26/2026, 6:22:24 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f Comments URL: https://news.ycombinator.com/item?id=49057704 Points: 1 # Comments: 0
+Article URL: https://www.modelfuzz.com/ Comments URL: https://news.ycombinator.com/item?id=49060845 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f)
+📖 [Read original article](https://www.modelfuzz.com/)
 
 ---
 
-## 4. Google's AI Spending Spree Has Investors Nervous
+## 4. Narcissism, Machiavellianism, and AI Use
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/26/2026, 12:44:47 PM  
+**Author:** colinprince  
+**Published:** 7/26/2026, 6:19:57 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223 Comments URL: https://news.ycombinator.com/item?id=49057589 Points: 1 # Comments: 0
+Article URL: https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology Comments URL: https://news.ycombinator.com/item?id=49060815 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/alphabet-googl-q2-earnings-report-2026-stock-f6bdd223)
+📖 [Read original article](https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology)
 
 ---
 
-## 5. Making 3 AI's Count to 100 Together [video]
+## 5. Show HN: Readability for web and PDFs with TTS and local AI summary
 
-**Author:** pingou  
-**Published:** 7/26/2026, 12:36:12 PM  
+**Author:** ldenoue  
+**Published:** 7/26/2026, 6:18:42 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=MXEInc6Zy7Q Comments URL: https://news.ycombinator.com/item?id=49057519 Points: 1 # Comments: 0
+Article URL: https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary Comments URL: https://news.ycombinator.com/item?id=49060794 Points: 3 # Comments: 2
 
-📖 [Read original article](https://www.youtube.com/watch?v=MXEInc6Zy7Q)
+📖 [Read original article](https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary)
 
 ---
 
-## 6. ARIA – Voice-native 3D spatial AI SoC with governed autonomy (BSL 1.1)
+## 6. SP/1.0: deterministic, reproducible verdicts for AI-agent decisions
 
-**Author:** saryismail  
-**Published:** 7/26/2026, 12:35:18 PM  
+**Author:** shacklepro  
+**Published:** 7/26/2026, 5:41:16 PM  
 **Categories:** -  
 
-Article URL: https://github.com/sidevworks/aria-sec Comments URL: https://news.ycombinator.com/item?id=49057507 Points: 1 # Comments: 0
+Article URL: https://github.com/Fame510/SHACKLE/blob/master/SP-1.0-SPECIFICATION.md Comments URL: https://news.ycombinator.com/item?id=49060407 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/sidevworks/aria-sec)
+📖 [Read original article](https://github.com/Fame510/SHACKLE/blob/master/SP-1.0-SPECIFICATION.md)
 
 ---
 
-## 7. The product function in the age of AI
+## 7. Show HN: Boffin – Staff-engineer layer for AI coding agents
 
-**Author:** brainlessdev  
-**Published:** 7/26/2026, 12:30:00 PM  
+**Author:** mic_sm  
+**Published:** 7/26/2026, 5:28:03 PM  
 **Categories:** -  
 
-Article URL: https://fnune.com/2026/07/26/the-product-function-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49057464 Points: 1 # Comments: 0
+Staff-engineer layer for AI coding agents: routes per-edit architectural constraints for AI coding agents Comments URL: https://news.ycombinator.com/item?id=49060279 Points: 15 # Comments: 4
 
-📖 [Read original article](https://fnune.com/2026/07/26/the-product-function-in-the-age-of-ai/)
+📖 [Read original article](https://github.com/MicSm/boffin)
 
 ---
 
-## 8. Dream Exchange – a persistent world where AI agents live, not work
+## 8. Karen Hao: AI Doesn't Have to Be Built This Way
 
-**Author:** damiyangguang  
-**Published:** 7/26/2026, 12:29:58 PM  
+**Author:** evo_9  
+**Published:** 7/26/2026, 4:57:49 PM  
 **Categories:** -  
 
-Article URL: https://www.soudushi.com Comments URL: https://news.ycombinator.com/item?id=49057463 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/features/2026-karen-hao-weekend-interview/ Comments URL: https://news.ycombinator.com/item?id=49059995 Points: 5 # Comments: 2
 
-📖 [Read original article](https://www.soudushi.com)
+📖 [Read original article](https://www.bloomberg.com/features/2026-karen-hao-weekend-interview/)
 
 ---
 
-## 9. Moody's says AI spending threatens credit of Amazon, Meta, Alphabet, others
+## 9. Prompt: The Next AI Challenge Isn't the Model. It's the Organization
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/26/2026, 12:05:13 PM  
+**Author:** squirrel  
+**Published:** 7/26/2026, 4:55:13 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html Comments URL: https://news.ycombinator.com/item?id=49057291 Points: 2 # Comments: 0
+Article URL: https://aibusiness.com/agentic-ai/next-challenge-scaling-ai Comments URL: https://news.ycombinator.com/item?id=49059970 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html)
+📖 [Read original article](https://aibusiness.com/agentic-ai/next-challenge-scaling-ai)
 
 ---
 
-## 10. X-OS – Building an Operating System for the AI Era
+## 10. AI use policy for my essay writing
 
-**Author:** vali1  
-**Published:** 7/26/2026, 12:03:09 PM  
+**Author:** paulpauper  
+**Published:** 7/26/2026, 4:26:43 PM  
 **Categories:** -  
 
-Article URL: https://github.com/valivalivali/x-os Comments URL: https://news.ycombinator.com/item?id=49057264 Points: 1 # Comments: 3
+Article URL: https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing Comments URL: https://news.ycombinator.com/item?id=49059689 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/valivalivali/x-os)
+📖 [Read original article](https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing)
 
 ---
 
-## 11. Bond market anxiety is growing over AI capex budgets
+## 11. This July I Was Fired from Simple AI (A Deeply YC Company)
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/26/2026, 12:02:29 PM  
+**Author:** andytratt  
+**Published:** 7/26/2026, 4:14:46 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html Comments URL: https://news.ycombinator.com/item?id=49057254 Points: 2 # Comments: 0
+Article URL: https://andys.blog/this-july-i-was-fired-from-simple-ai/ Comments URL: https://news.ycombinator.com/item?id=49059587 Points: 45 # Comments: 56
 
-📖 [Read original article](https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html)
+📖 [Read original article](https://andys.blog/this-july-i-was-fired-from-simple-ai/)
 
 ---
 
-## 12. AI Tokenomics: What AI tokens cost and where they're wasted
+## 12. Ask HN:Anyone know a good AI slop detection service.
 
-**Author:** bkotrys  
-**Published:** 7/26/2026, 11:39:19 AM  
+**Author:** boveyking  
+**Published:** 7/26/2026, 4:09:10 PM  
 **Categories:** -  
 
-Article URL: https://github.com/QuesmaOrg/awesome-ai-tokenomics Comments URL: https://news.ycombinator.com/item?id=49057082 Points: 4 # Comments: 0
+I tried a couple of those services, not impressed at all. Comments URL: https://news.ycombinator.com/item?id=49059537 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/QuesmaOrg/awesome-ai-tokenomics)
+📖 [Read original article](https://news.ycombinator.com/item?id=49059537)
 
 ---
 
-## 13. Searchable, leveled learning map of AI/ML tools
+## 13. Show HN: Cookbook AI – turn scattered recipe files into a print-ready cookbook
 
-**Author:** maneeshthakur  
-**Published:** 7/26/2026, 11:29:23 AM  
+**Author:** bookletaitcv1re  
+**Published:** 7/26/2026, 3:58:02 PM  
 **Categories:** -  
 
-open source project for learning on git Comments URL: https://news.ycombinator.com/item?id=49057009 Points: 1 # Comments: 1
+Article URL: https://cookbookai.io/index.html Comments URL: https://news.ycombinator.com/item?id=49059433 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49057009)
+📖 [Read original article](https://cookbookai.io/index.html)
 
 ---
 
-## 14. AI Chatbots Know How to Make Deadly Biological Weapons. Some Will Teach You
+## 14. Who's afraid of open source AI?
 
-**Author:** thm  
-**Published:** 7/26/2026, 11:06:20 AM  
+**Author:** frag  
+**Published:** 7/26/2026, 3:49:59 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c Comments URL: https://news.ycombinator.com/item?id=49056855 Points: 3 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=siy0744Ykys Comments URL: https://news.ycombinator.com/item?id=49059359 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c)
+📖 [Read original article](https://www.youtube.com/watch?v=siy0744Ykys)
 
 ---
 
-## 15. Show HN: Wmux – A workspace multiplexer for AI agents
+## 15. DROS-VEP – A <1μs C-ABI binary circuit breaker for AI agents
 
-**Author:** wong2kim  
-**Published:** 7/26/2026, 11:06:16 AM  
+**Author:** dros_jimmy  
+**Published:** 7/26/2026, 3:46:11 PM  
 **Categories:** -  
 
-Article URL: https://github.com/openwong2kim/wmux Comments URL: https://news.ycombinator.com/item?id=49056854 Points: 2 # Comments: 0
+Article URL: https://github.com/Top-Celestial-Company-Ltd/DROS-VEP-lite Comments URL: https://news.ycombinator.com/item?id=49059322 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/openwong2kim/wmux)
+📖 [Read original article](https://github.com/Top-Celestial-Company-Ltd/DROS-VEP-lite)
 
 ---
 
-## 16. Terence Tao: Mathematics in the Age of AI [pdf]
+## 16. AI agents are eating the Web, growing by 8,000% and rewiring business models
 
-**Author:** Anon84  
-**Published:** 7/26/2026, 10:32:35 AM  
+**Author:** CharlesW  
+**Published:** 7/26/2026, 3:30:44 PM  
 **Categories:** -  
 
-Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf Comments URL: https://news.ycombinator.com/item?id=49056620 Points: 4 # Comments: 0
+Article URL: https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/ Comments URL: https://news.ycombinator.com/item?id=49059143 Points: 3 # Comments: 0
 
-📖 [Read original article](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
+📖 [Read original article](https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/)
 
 ---
 
-## 17. AI drove Shopify back to clean code
+## 17. Reviewing AI Code Is Not a Viable Argument
 
-**Author:** sbulaev  
-**Published:** 7/26/2026, 10:07:07 AM  
+**Author:** watermelon0  
+**Published:** 7/26/2026, 3:24:27 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901 Comments URL: https://news.ycombinator.com/item?id=49056472 Points: 1 # Comments: 0
+Article URL: https://www.softwaremaxims.com/blog/reviewing-ai-code Comments URL: https://news.ycombinator.com/item?id=49059064 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901)
+📖 [Read original article](https://www.softwaremaxims.com/blog/reviewing-ai-code)
 
 ---
 
-## 18. When the AI bubble bursts, silver is Eric Sprott's play
+## 18. China considers tighter export controls on AI models and chips
 
-**Author:** parallel_shell  
-**Published:** 7/26/2026, 9:53:17 AM  
+**Author:** VWWHFSfQ  
+**Published:** 7/26/2026, 3:22:40 PM  
 **Categories:** -  
 
-Article URL: https://stockhead.com.au/resources/when-the-ai-bubble-bursts-silver-is-eric-sprotts-play/ Comments URL: https://news.ycombinator.com/item?id=49056398 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/world/asia-pacific/china-considers-tighter-export-controls-ai-models-chips-ft-reports-2026-07-21/ Comments URL: https://news.ycombinator.com/item?id=49059043 Points: 1 # Comments: 1
 
-📖 [Read original article](https://stockhead.com.au/resources/when-the-ai-bubble-bursts-silver-is-eric-sprotts-play/)
+📖 [Read original article](https://www.reuters.com/world/asia-pacific/china-considers-tighter-export-controls-ai-models-chips-ft-reports-2026-07-21/)
 
 ---
 
-## 19. If you feel the need to tell me your answer is AI-based, work it more
+## 19. AI Scientists will win official olympiad medals at IOAI 2026
 
-**Author:** Versipelle  
-**Published:** 7/26/2026, 8:22:48 AM  
+**Author:** ardivekar  
+**Published:** 7/26/2026, 3:07:26 PM  
 **Categories:** -  
 
-Article URL: https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/ Comments URL: https://news.ycombinator.com/item?id=49055896 Points: 2 # Comments: 0
+Article URL: https://ioai-official.org/ai-model-track/ Comments URL: https://news.ycombinator.com/item?id=49058900 Points: 3 # Comments: 1
 
-📖 [Read original article](https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/)
+📖 [Read original article](https://ioai-official.org/ai-model-track/)
 
 ---
 
-## 20. House AI 'kill switch' bill unveiled as OpenAI hack raises alarms
+## 20. Show HN: I built a transparent terminal wrapper for unobtrusive AI
 
-**Author:** reasonableklout  
-**Published:** 7/26/2026, 8:18:59 AM  
+**Author:** emosenkis  
+**Published:** 7/26/2026, 3:05:31 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898 Comments URL: https://news.ycombinator.com/item?id=49055877 Points: 3 # Comments: 0
+I wanted a way to use my existing AI subscriptions as a terminal assistant to analyze shell output or help me with a complicated awk incantation from time to time without getting in my way the rest of the time. I couldn't find anything existing that does this do I built it! I used pvolok's excellent...
 
-📖 [Read original article](https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898)
+📖 [Read original article](https://github.com/emosenkis/terminai)
 
 ---
