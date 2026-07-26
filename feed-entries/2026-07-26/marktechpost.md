@@ -2,16 +2,52 @@
 title: "MarkTechPost - 2026-07-26"
 date: "2026-07-26"
 source: "MarkTechPost"
-count: 1
+count: 4
 ---
 
 # MarkTechPost - 2026-07-26
 
-1 items collected.
+4 items collected.
 
 ---
 
-## 1. Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM
+## 1. KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments
+
+**Author:** Michal Sutter  
+**Published:** 7/26/2026, 10:46:19 AM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, Software Engineering, Staff, Tech News, Technology  
+
+The KwaiKAT Team at Kuaishou has published the KAT-Coder-V2.5 technical report, arguing that agentic coding capability is bottlenecked by training infrastructure rather than model scale. AutoBuilder raised environment construction success from 16.5% to 57.2%, producing over 100,000 verifiable enviro...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/)
+
+---
+
+## 2. Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run
+
+**Author:** Michal Sutter  
+**Published:** 7/26/2026, 9:14:22 AM  
+**Categories:** Applications, Artificial Intelligence, Computer Vision, Editors Pick, Staff, Tech News, Technology, Uncategorized  
+
+Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a foundation model architecture that pretrains on raw video with no action labels at all. Their test system ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/)
+
+---
+
+## 3. FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics
+
+**Author:** Sana Hassan  
+**Published:** 7/26/2026, 8:38:09 AM  
+**Categories:** Artificial Intelligence, Editors Pick, Machine Learning, Staff, Technology, Tutorials  
+
+In this tutorial, we explore FAIRChem v2 and the UMA universal machine-learning interatomic potential as a unified framework for atomistic simulation across molecular chemistry, catalysis, and inorganic materials. We configure an environment, authenticate with Hugging Face to access the gated UMA mo...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/26/fairchem-v2-uma-for-multidomain-atomistic-simulation-across-molecules-catalysts-materials-vibrations-and-molecular-dynamics/)
+
+---
+
+## 4. Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM
 
 **Author:** Asif Razzaq  
 **Published:** 7/26/2026, 12:12:57 AM  
