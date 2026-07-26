@@ -2,251 +2,131 @@
 title: "Hacker News AI - 2026-07-25"
 date: "2026-07-25"
 source: "Hacker News AI"
-count: 20
+count: 10
 ---
 
 # Hacker News AI - 2026-07-25
 
-20 items collected.
+10 items collected.
 
 ---
 
-## 1. Jack Conte: The future of creativity on the internet in a world with AI [video]
+## 1. Should you use AI for a task? Here's a simple way to decide
 
-**Author:** marvinborner  
-**Published:** 7/25/2026, 6:57:07 PM  
+**Author:** flopsamjetsam  
+**Published:** 7/25/2026, 11:47:02 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=17_HcR95YBc Comments URL: https://news.ycombinator.com/item?id=49050492 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai Comments URL: https://news.ycombinator.com/item?id=49053023 Points: 3 # Comments: 2
 
-📖 [Read original article](https://www.youtube.com/watch?v=17_HcR95YBc)
+📖 [Read original article](https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai)
 
 ---
 
-## 2. Home of local AI and useful web tools
+## 2. What is happening to jobs? Separating AI hype from reality
 
-**Author:** shafkathullah  
-**Published:** 7/25/2026, 6:22:58 PM  
+**Author:** pod_krad  
+**Published:** 7/25/2026, 10:51:10 PM  
 **Categories:** -  
 
-Article URL: https://pocketweb.tools/ Comments URL: https://news.ycombinator.com/item?id=49050177 Points: 1 # Comments: 0
+Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 57 # Comments: 65
 
-📖 [Read original article](https://pocketweb.tools/)
+📖 [Read original article](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
 
 ---
 
-## 3. OpenAI agent goes rogue, hacks AI community, left escape plans in infrastructure
+## 3. Cloudflare's new AI traffic options for customers
 
-**Author:** sbulaev  
-**Published:** 7/25/2026, 6:07:06 PM  
+**Author:** alphabetatango  
+**Published:** 7/25/2026, 10:50:49 PM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure Comments URL: https://news.ycombinator.com/item?id=49050034 Points: 2 # Comments: 0
+Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 46 # Comments: 19
 
-📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure)
+📖 [Read original article](https://blog.cloudflare.com/content-independence-day-ai-options/)
 
 ---
 
-## 4. Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)
+## 4. The state of AI agents, in numbers
 
-**Author:** shacklepro  
-**Published:** 7/25/2026, 6:04:11 PM  
+**Author:** mooreds  
+**Published:** 7/25/2026, 10:06:28 PM  
 **Categories:** -  
 
-Article URL: https://pypi.org/project/pyshackle/ Comments URL: https://news.ycombinator.com/item?id=49049995 Points: 2 # Comments: 0
+Article URL: https://www.getreadyforagents.com/statistics/ Comments URL: https://news.ycombinator.com/item?id=49052107 Points: 3 # Comments: 0
 
-📖 [Read original article](https://pypi.org/project/pyshackle/)
+📖 [Read original article](https://www.getreadyforagents.com/statistics/)
 
 ---
 
-## 5. Ask HN: What do you do when your AI agents are working?
+## 5. AI isn't killing consulting. It's killing time as a proxy for value
 
-**Author:** mavsman  
-**Published:** 7/25/2026, 6:03:26 PM  
+**Author:** disillusioned1  
+**Published:** 7/25/2026, 10:04:00 PM  
 **Categories:** -  
 
-Maybe a dumb question but I don't think I've ever experienced more down/waiting time in my career so I'm much more prone to opening YouTube, HN, etc. despite not really wanting to.Most likely the answer is to just sit and do nothing. But have you discovered an approach to making agentic coding, etc ...
+Article URL: https://www.markwilson.co.uk/thoughts/2026/07/16/ai-isnt-killing-consulting-its-killing-time-as-a-proxy-for-value/ Comments URL: https://news.ycombinator.com/item?id=49052081 Points: 4 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49049986)
+📖 [Read original article](https://www.markwilson.co.uk/thoughts/2026/07/16/ai-isnt-killing-consulting-its-killing-time-as-a-proxy-for-value/)
 
 ---
 
-## 6. Ask HN: How's your experience with the Siri AI beta?
+## 6. Is AI used in school system and how are they implementing it
 
-**Author:** Austin_Conlon  
-**Published:** 7/25/2026, 6:00:42 PM  
+**Author:** rohankc_01  
+**Published:** 7/25/2026, 9:52:01 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49049960 Points: 1 # Comments: 0
+I would love to have a conversation and what are your guysthoughts on this Comments URL: https://news.ycombinator.com/item?id=49051974 Points: 3 # Comments: 2
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49049960)
+📖 [Read original article](https://news.ycombinator.com/item?id=49051974)
 
 ---
 
-## 7. AI in the Breach: How an Adversary Leveraged AI to Target a Water Utility's OT
+## 7. 'AI Mania Is Eviscerating Global Decision-Making'
 
-**Author:** MariusGjerd  
-**Published:** 7/25/2026, 5:31:29 PM  
+**Author:** robenkleene  
+**Published:** 7/25/2026, 9:18:06 PM  
 **Categories:** -  
 
-Article URL: https://www.dragos.com/blog/ai-assisted-ics-attack-water-utility Comments URL: https://news.ycombinator.com/item?id=49049652 Points: 1 # Comments: 0
+Article URL: https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh Comments URL: https://news.ycombinator.com/item?id=49051692 Points: 53 # Comments: 18
 
-📖 [Read original article](https://www.dragos.com/blog/ai-assisted-ics-attack-water-utility)
+📖 [Read original article](https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh)
 
 ---
 
-## 8. The rock star founder behind China's Moonshot AI
+## 8. ExploitGym – Can AI Agents Turn Security Vulnerabilities into Real Attacks?
 
-**Author:** nhannht  
-**Published:** 7/25/2026, 5:27:05 PM  
+**Author:** 882542F3884314B  
+**Published:** 7/25/2026, 9:17:09 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c Comments URL: https://news.ycombinator.com/item?id=49049604 Points: 1 # Comments: 0
+Article URL: https://www.cybergym.io/exploitgym/ Comments URL: https://news.ycombinator.com/item?id=49051683 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c)
+📖 [Read original article](https://www.cybergym.io/exploitgym/)
 
 ---
 
-## 9. A system prompt to get AI to stop pretending to be human
+## 9. AI pricing is understood now but the token is still just a cost
 
-**Author:** speckx  
-**Published:** 7/25/2026, 5:01:05 PM  
+**Author:** arnon  
+**Published:** 7/25/2026, 8:49:07 PM  
 **Categories:** -  
 
-Article URL: https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human Comments URL: https://news.ycombinator.com/item?id=49049304 Points: 15 # Comments: 9
+Article URL: https://www.solvimon.com/blog/ai-pricing-is-understood-now-2026 Comments URL: https://news.ycombinator.com/item?id=49051416 Points: 2 # Comments: 0
 
-📖 [Read original article](https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human)
+📖 [Read original article](https://www.solvimon.com/blog/ai-pricing-is-understood-now-2026)
 
 ---
 
-## 10. Silicon Valley Is Completely Divided over Chinese AI
+## 10. Show HN: ActionRail, Runtime value/action grounding framework for AI agents
 
-**Author:** joozio  
-**Published:** 7/25/2026, 5:00:53 PM  
+**Author:** oss-dev  
+**Published:** 7/25/2026, 8:48:25 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/ Comments URL: https://news.ycombinator.com/item?id=49049301 Points: 2 # Comments: 2
+Article URL: https://github.com/ToolJet/ActionRail/ Comments URL: https://news.ycombinator.com/item?id=49051411 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/)
-
----
-
-## 11. Show HN: Tongue – Text Your AI Personal Assistant
-
-**Author:** chadnewbry  
-**Published:** 7/25/2026, 4:59:35 PM  
-**Categories:** -  
-
-Article URL: https://trytongue.com/demo Comments URL: https://news.ycombinator.com/item?id=49049282 Points: 1 # Comments: 1
-
-📖 [Read original article](https://trytongue.com/demo)
-
----
-
-## 12. Show HN: Protoai – an open source peer-to-peer network for sharing AI contexts
-
-**Author:** piecesJohn  
-**Published:** 7/25/2026, 4:56:56 PM  
-**Categories:** -  
-
-Article URL: https://github.com/johndebord/protoai Comments URL: https://news.ycombinator.com/item?id=49049253 Points: 2 # Comments: 1
-
-📖 [Read original article](https://github.com/johndebord/protoai)
-
----
-
-## 13. Apple Is the King of AI and Nobody Knows It
-
-**Author:** cyanbane  
-**Published:** 7/25/2026, 4:55:45 PM  
-**Categories:** -  
-
-Article URL: https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody Comments URL: https://news.ycombinator.com/item?id=49049241 Points: 18 # Comments: 28
-
-📖 [Read original article](https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody)
-
----
-
-## 14. Show HN: Avatar-cursor – an AI shop assistant
-
-**Author:** eschwalme  
-**Published:** 7/25/2026, 4:50:27 PM  
-**Categories:** -  
-
-Article URL: https://github.com/eliasschwalme/avatar-cursor/blob/main/demo.gif Comments URL: https://news.ycombinator.com/item?id=49049186 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/eliasschwalme/avatar-cursor/blob/main/demo.gif)
-
----
-
-## 15. Politician reads AI prompt during assembly
-
-**Author:** root-parent  
-**Published:** 7/25/2026, 4:31:15 PM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U Comments URL: https://news.ycombinator.com/item?id=49048996 Points: 51 # Comments: 30
-
-📖 [Read original article](https://www.youtube.com/watch?v=wlYa8NV5k-U)
-
----
-
-## 16. Hermes AI agent used to automate attack on Thai Finance Ministry
-
-**Author:** Brajeshwar  
-**Published:** 7/25/2026, 4:27:06 PM  
-**Categories:** -  
-
-Article URL: https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/ Comments URL: https://news.ycombinator.com/item?id=49048958 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
-
----
-
-## 17. People are deceiving the justice system with AI
-
-**Author:** root-parent  
-**Published:** 7/25/2026, 3:52:31 PM  
-**Categories:** -  
-
-Article URL: https://english.elpais.com/technology/2026-07-25/how-people-are-deceiving-the-justice-system-with-ai-its-an-invisible-fraud.html Comments URL: https://news.ycombinator.com/item?id=49048655 Points: 8 # Comments: 2
-
-📖 [Read original article](https://english.elpais.com/technology/2026-07-25/how-people-are-deceiving-the-justice-system-with-ai-its-an-invisible-fraud.html)
-
----
-
-## 18. The AI Boom Made Average People More Interesting
-
-**Author:** arm32  
-**Published:** 7/25/2026, 3:43:54 PM  
-**Categories:** -  
-
-Article URL: https://alec.is/posts/the-ai-boom-made-average-people-more-interesting/ Comments URL: https://news.ycombinator.com/item?id=49048563 Points: 4 # Comments: 0
-
-📖 [Read original article](https://alec.is/posts/the-ai-boom-made-average-people-more-interesting/)
-
----
-
-## 19. Launched ORBIT AI Sandbox
-
-**Author:** schmitech  
-**Published:** 7/25/2026, 3:34:28 PM  
-**Categories:** -  
-
-Article URL: https://orbit.schmitech.ca/ Comments URL: https://news.ycombinator.com/item?id=49048467 Points: 2 # Comments: 0
-
-📖 [Read original article](https://orbit.schmitech.ca/)
-
----
-
-## 20. Samsung Electronics, SK Group seal $950B in deals with AI firms
-
-**Author:** alephnerd  
-**Published:** 7/25/2026, 3:34:04 PM  
-**Categories:** -  
-
-Article URL: https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25/ Comments URL: https://news.ycombinator.com/item?id=49048463 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25/)
+📖 [Read original article](https://github.com/ToolJet/ActionRail/)
 
 ---
