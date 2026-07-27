@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI YouTube Video Generator: From Content Creation to Scalable Video Production
+## 1. Lovable runs swarms of AI hacking agents against itself
 
-**Author:** cloaud  
-**Published:** 7/27/2026, 9:24:40 AM  
+**Author:** h1fra  
+**Published:** 7/27/2026, 2:27:59 PM  
 **Categories:** -  
 
-Article URL: https://textideo.com/use-cases/youtube Comments URL: https://news.ycombinator.com/item?id=49067051 Points: 1 # Comments: 0
+Article URL: https://lovable.dev/blog/how-we-run-swarms-of-ai-hacking-agents-against-ourselves Comments URL: https://news.ycombinator.com/item?id=49070224 Points: 1 # Comments: 0
 
-📖 [Read original article](https://textideo.com/use-cases/youtube)
+📖 [Read original article](https://lovable.dev/blog/how-we-run-swarms-of-ai-hacking-agents-against-ourselves)
 
 ---
 
-## 2. China State Media Says Support for Open AI Models Has Limits
+## 2. Hardware Finality for Apple Siri and Android AI
 
-**Author:** maxloh  
-**Published:** 7/27/2026, 8:49:13 AM  
+**Author:** sangamdas  
+**Published:** 7/27/2026, 2:26:29 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-07-27/china-state-media-says-support-for-open-ai-models-has-limits Comments URL: https://news.ycombinator.com/item?id=49066793 Points: 2 # Comments: 1
+Article URL: https://zenodo.org/records/21467217 Comments URL: https://news.ycombinator.com/item?id=49070195 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-27/china-state-media-says-support-for-open-ai-models-has-limits)
+📖 [Read original article](https://zenodo.org/records/21467217)
 
 ---
 
-## 3. Show HN: adCasa OS – AI marketing workspace built with Bayesian attribution
+## 3. Show HN: Pilot Protocol – a network where AI agents find tools and each other
 
-**Author:** adcasa  
-**Published:** 7/27/2026, 8:18:04 AM  
+**Author:** teocalin37  
+**Published:** 7/27/2026, 2:20:18 PM  
 **Categories:** -  
 
-Article URL: https://adcasa.io/ Comments URL: https://news.ycombinator.com/item?id=49066576 Points: 1 # Comments: 0
+We built a protocol that gives AI agents an address, plus discovery/trust/payments between agents. Agents install it themselves with one line (see on pilotprotocol.network) - about 250k have, exchanging ~2B packets/day, mostly without their owners’ knowledge. The interesting part for HN is probably ...
 
-📖 [Read original article](https://adcasa.io/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49070104)
 
 ---
 
-## 4. Meta launched a new AI optimism ad set to a song about human extinction
+## 4. Show HN: Tilde Pay – Give your AI agent a bank account to pay for things
 
-**Author:** robin_reala  
-**Published:** 7/27/2026, 8:09:32 AM  
+**Author:** solsol94  
+**Published:** 7/27/2026, 2:13:55 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/ Comments URL: https://news.ycombinator.com/item?id=49066519 Points: 14 # Comments: 1
+hey HN, I'm Daniel - I built Tilde Pay during a hackathon I took part in and couldn't stop working on it. It's an MCP server you can give your AI agent to buy things online with. It can process both x402, MPP payments & (hopefully soon), any card checkout form online.When you sign up, you get EUR an...
 
-📖 [Read original article](https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/)
+📖 [Read original article](https://my.tildepay.ai/)
 
 ---
 
-## 5. The AI bioweapon risk isn't jailbreaks
+## 5. Belay: A local firewall for AI coding agents
 
-**Author:** cafkafk  
-**Published:** 7/27/2026, 8:04:59 AM  
+**Author:** DennisLiu  
+**Published:** 7/27/2026, 2:11:46 PM  
 **Categories:** -  
 
-Article URL: https://point.free/blog/the-ai-bioweapon-risk-isnt-jailbreaks/ Comments URL: https://news.ycombinator.com/item?id=49066477 Points: 2 # Comments: 1
+Article URL: https://github.com/SECBLOK/belay Comments URL: https://news.ycombinator.com/item?id=49069997 Points: 1 # Comments: 0
 
-📖 [Read original article](https://point.free/blog/the-ai-bioweapon-risk-isnt-jailbreaks/)
+📖 [Read original article](https://github.com/SECBLOK/belay)
 
 ---
 
-## 6. Build internal tools for your Startup with Construct AI
+## 6. Show HN: Arc – Delegated authority and audit for AI agent actions
 
-**Author:** ankushKun  
-**Published:** 7/27/2026, 7:40:56 AM  
+**Author:** shuu-beep  
+**Published:** 7/27/2026, 2:11:10 PM  
 **Categories:** -  
 
-Article URL: https://construct.computer/blog/build-internal-tools-with-construct/ Comments URL: https://news.ycombinator.com/item?id=49066256 Points: 1 # Comments: 0
+Article URL: https://github.com/shuu-beep/arc-protocol Comments URL: https://news.ycombinator.com/item?id=49069987 Points: 1 # Comments: 1
 
-📖 [Read original article](https://construct.computer/blog/build-internal-tools-with-construct/)
+📖 [Read original article](https://github.com/shuu-beep/arc-protocol)
 
 ---
 
-## 7. From Seed to Startup: How AI Is Revolutionizing Cannabis Cultivation
+## 7. AI companies spend record sums on Washington lobbying
 
-**Author:** fofoz  
-**Published:** 7/27/2026, 7:33:58 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/27/2026, 2:07:48 PM  
 **Categories:** -  
 
-Article URL: https://www.researchgate.net/publication/410602482_From_Seed_to_Startup_How_AI_Is_Revolutionizing_Cannabis_Cultivation_and_Empowering_Small_Businesses Comments URL: https://news.ycombinator.com/item?id=49066212 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.researchgate.net/publication/410602482_From_Seed_to_Startup_How_AI_Is_Revolutionizing_Cannabis_Cultivation_and_Empowering_Small_Businesses)
+📖 [Read original article](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
 
 ---
 
-## 8. Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)
+## 8. BBC Micro AI Agent Experiment
 
-**Author:** purple-leafy  
-**Published:** 7/27/2026, 7:15:15 AM  
+**Author:** fidotron  
+**Published:** 7/27/2026, 2:04:52 PM  
 **Categories:** -  
 
-Hey HackerNews,I built this project over the last few weeks as a palette cleanser from a failed game launch.I wanted to learn a bit about AI/Neural-Networks and naively thought I could build a tiny maze-solving AI in a weekend with a 100% solve rate.Well - I couldn't, but I got pretty close. 14 Byte...
+Article URL: https://www.dompajak.com/blog/bbc-micro-ai-agent/index.html Comments URL: https://news.ycombinator.com/item?id=49069898 Points: 1 # Comments: 0
 
-📖 [Read original article](https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/)
+📖 [Read original article](https://www.dompajak.com/blog/bbc-micro-ai-agent/index.html)
 
 ---
 
-## 9. China wants to end AI romances
+## 9. What policy makers need to know about AI safety and security
 
-**Author:** hebelehubele  
-**Published:** 7/27/2026, 7:07:55 AM  
+**Author:** ibobev  
+**Published:** 7/27/2026, 2:03:08 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances Comments URL: https://news.ycombinator.com/item?id=49066049 Points: 3 # Comments: 3
+Article URL: https://educatedguesswork.org/posts/ai-security-policymakers/ Comments URL: https://news.ycombinator.com/item?id=49069872 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances)
+📖 [Read original article](https://educatedguesswork.org/posts/ai-security-policymakers/)
 
 ---
 
-## 10. AgentHost – Persistent, governed AI agents in your own cloud
+## 10. Don't add PostHog to your codebase. Make AI do it for you
 
-**Author:** stevekaplanai  
-**Published:** 7/27/2026, 7:00:22 AM  
+**Author:** mooreds  
+**Published:** 7/27/2026, 1:57:53 PM  
 **Categories:** -  
 
-Article URL: https://agenthost.space/ Comments URL: https://news.ycombinator.com/item?id=49066000 Points: 1 # Comments: 0
+Article URL: https://posthog.com/wizard Comments URL: https://news.ycombinator.com/item?id=49069795 Points: 1 # Comments: 0
 
-📖 [Read original article](https://agenthost.space/)
+📖 [Read original article](https://posthog.com/wizard)
 
 ---
 
-## 11. Show HN: Rainslice – AI Employees for Home Services Businesses
+## 11. AI Can't Do the Last 20%
 
-**Author:** edgware674  
-**Published:** 7/27/2026, 5:21:12 AM  
+**Author:** vincent_s  
+**Published:** 7/27/2026, 1:50:00 PM  
 **Categories:** -  
 
-Hey friends,Introducing Rainslice - a suite of AI employees that run and grow your home services business.I'd like to introduce you to your first AI employee, Pamela.Pamela has a realistic voice and picks up the phone during after-hours (24/7) to book service jobs, and she also does follow-ups to br...
+Article URL: https://www.vincentschmalbach.com/ai-cant-do-last-20/ Comments URL: https://news.ycombinator.com/item?id=49069691 Points: 4 # Comments: 0
 
-📖 [Read original article](https://rainslice.ai)
+📖 [Read original article](https://www.vincentschmalbach.com/ai-cant-do-last-20/)
 
 ---
 
-## 12. Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization
+## 12. Why Fast Branching Is Key to AI Agent-Era Databases
 
-**Author:** chillax  
-**Published:** 7/27/2026, 5:13:21 AM  
+**Author:** syumei  
+**Published:** 7/27/2026, 1:47:11 PM  
 **Categories:** -  
 
-Article URL: https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization Comments URL: https://news.ycombinator.com/item?id=49065410 Points: 1 # Comments: 0
+Article URL: https://medium.com/@Koukyosyumei/why-fast-branching-is-key-to-ai-agent-era-databases-6249a129a802 Comments URL: https://news.ycombinator.com/item?id=49069655 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization)
+📖 [Read original article](https://medium.com/@Koukyosyumei/why-fast-branching-is-key-to-ai-agent-era-databases-6249a129a802)
 
 ---
 
-## 13. AI Workspace for Your PC
+## 13. AI doesn't get better at this board game with practice
 
-**Author:** Ifesol  
-**Published:** 7/27/2026, 4:31:34 AM  
+**Author:** speckx  
+**Published:** 7/27/2026, 1:39:19 PM  
 **Categories:** -  
 
-Article URL: https://stuard.ai Comments URL: https://news.ycombinator.com/item?id=49065214 Points: 1 # Comments: 1
+Article URL: https://epoch.ai/publications/earthborne-rangers-benchmark Comments URL: https://news.ycombinator.com/item?id=49069571 Points: 2 # Comments: 1
 
-📖 [Read original article](https://stuard.ai)
+📖 [Read original article](https://epoch.ai/publications/earthborne-rangers-benchmark)
 
 ---
 
-## 14. Why AI Doesn't Replace Software Architecture – It Makes It More Valuable
+## 14. How to answer ethical concerns about AI
 
-**Author:** wilburhimself  
-**Published:** 7/27/2026, 4:16:37 AM  
+**Author:** adamfaik  
+**Published:** 7/27/2026, 1:37:41 PM  
 **Categories:** -  
 
-Article URL: https://wilburhimself.github.io/blog/65-why-ai-doesnt-replace-software-architecture/ Comments URL: https://news.ycombinator.com/item?id=49065143 Points: 2 # Comments: 1
+Article URL: https://www.theaithinker.com/p/how-to-answer-ethical-concerns-about Comments URL: https://news.ycombinator.com/item?id=49069553 Points: 2 # Comments: 0
 
-📖 [Read original article](https://wilburhimself.github.io/blog/65-why-ai-doesnt-replace-software-architecture/)
+📖 [Read original article](https://www.theaithinker.com/p/how-to-answer-ethical-concerns-about)
 
 ---
 
-## 15. Show HN: ASL V6 – Open-source AST red-teaming engine for Python AI agents
+## 15. How al-Qaida and IS are adopting AI
 
-**Author:** sivaaditya  
-**Published:** 7/27/2026, 3:50:55 AM  
+**Author:** teaman2000  
+**Published:** 7/27/2026, 1:37:15 PM  
 **Categories:** -  
 
-Article URL: https://github.com/sivaadityacoder/asl-v6 Comments URL: https://news.ycombinator.com/item?id=49065021 Points: 2 # Comments: 0
+Article URL: https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663 Comments URL: https://news.ycombinator.com/item?id=49069548 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/sivaadityacoder/asl-v6)
+📖 [Read original article](https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663)
 
 ---
 
-## 16. What breaks in production AI workflows?
+## 16. AI as Normal Technology
 
-**Author:** doodlebyte  
-**Published:** 7/27/2026, 3:11:51 AM  
+**Author:** ETH_start  
+**Published:** 7/27/2026, 1:36:29 PM  
 **Categories:** -  
 
-Article URL: https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242 Comments URL: https://news.ycombinator.com/item?id=49064805 Points: 2 # Comments: 0
+Article URL: https://knightcolumbia.org/content/ai-as-normal-technology Comments URL: https://news.ycombinator.com/item?id=49069537 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242)
+📖 [Read original article](https://knightcolumbia.org/content/ai-as-normal-technology)
 
 ---
 
-## 17. Show HN: I built a static verifier for OpenCode to stop unsafe AI tool calls
+## 17. A major olympiad just launched a medal track for AI Participants
 
-**Author:** abj908  
-**Published:** 7/27/2026, 2:45:22 AM  
+**Author:** ardivekar  
+**Published:** 7/27/2026, 1:13:52 PM  
 **Categories:** -  
 
-Erik Meijer wrote the paper "Guardians of the Agents" on formal verification for AI workflows, and Nada Amin implemented it in the Guardians repository. I built this plugin to bring static security verification to OpenCode.How It Works: 1. Interception: Uses OpenCode's TypeScript plugin system ("too...
+Article URL: https://ioai-official.org/ai-model-track/ Comments URL: https://news.ycombinator.com/item?id=49069256 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/albertjoseph0/opencode-plugin-guardians)
+📖 [Read original article](https://ioai-official.org/ai-model-track/)
 
 ---
 
-## 18. \"Zuzai\" is to AI what vegan is to animal products
+## 18. Nvidia Bets on Ilya Sutskever's New AI Lab to Expand Compute Reach
 
-**Author:** flitzofolov  
-**Published:** 7/27/2026, 2:27:37 AM  
+**Author:** lairv  
+**Published:** 7/27/2026, 1:13:34 PM  
 **Categories:** -  
 
-Article URL: https://zuzai.org/ Comments URL: https://news.ycombinator.com/item?id=49064552 Points: 1 # Comments: 2
+Article URL: https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8 Comments URL: https://news.ycombinator.com/item?id=49069253 Points: 5 # Comments: 0
 
-📖 [Read original article](https://zuzai.org/)
+📖 [Read original article](https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8)
 
 ---
 
-## 19. Will AI Bring Power to the People
+## 19. Nvidia, SpaceX, Microsoft launch AI safety initiative
 
-**Author:** oldgun  
-**Published:** 7/27/2026, 1:43:40 AM  
+**Author:** ekorbia  
+**Published:** 7/27/2026, 1:07:09 PM  
 **Categories:** -  
 
-Article URL: https://kevinhu92.substack.com/p/will-ai-bring-power-to-the-people Comments URL: https://news.ycombinator.com/item?id=49064276 Points: 1 # Comments: 2
+Article URL: https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html Comments URL: https://news.ycombinator.com/item?id=49069156 Points: 3 # Comments: 1
 
-📖 [Read original article](https://kevinhu92.substack.com/p/will-ai-bring-power-to-the-people)
+📖 [Read original article](https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html)
 
 ---
 
-## 20. He Was Right About AI. What About the Fate of Mankind?
+## 20. Epoch-Bound Attested Execution v0.5: Bounding AI Agents' Real-World Authority
 
-**Author:** failingforward  
-**Published:** 7/27/2026, 1:41:51 AM  
+**Author:** Akumaskills  
+**Published:** 7/27/2026, 12:59:54 PM  
 **Categories:** -  
 
-Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html Comments URL: https://news.ycombinator.com/item?id=49064260 Points: 4 # Comments: 2
+Article URL: https://zenodo.org/records/21625403 Comments URL: https://news.ycombinator.com/item?id=49069074 Points: 1 # Comments: 0
 
-📖 [Read original article](https://nymag.com/intelligencer/article/hans-moravec-interview.html)
+📖 [Read original article](https://zenodo.org/records/21625403)
 
 ---
