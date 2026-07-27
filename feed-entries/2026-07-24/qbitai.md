@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-24"
 date: "2026-07-24"
 source: "qbitai"
-count: 3
+count: 2
 ---
 
 # qbitai - 2026-07-24
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ count: 3
 给它一张图，还你整个世界
 
 📖 [Read original article](https://www.qbitai.com/2026/07/460041.html)
-
----
-
-## 3. 菲尔兹奖得主王虹，也发过NeurIPS
-
-**Author:** 鹭羽  
-**Published:** 7/24/2026, 11:10:26 AM  
-**Categories:** 资讯, 王虹, 菲尔兹奖  
-
-王虹主页唯一没挂链接的论文
-
-📖 [Read original article](https://www.qbitai.com/2026/07/460042.html)
 
 ---
