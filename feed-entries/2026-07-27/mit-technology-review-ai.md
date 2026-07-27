@@ -2,16 +2,28 @@
 title: "MIT Technology Review AI - 2026-07-27"
 date: "2026-07-27"
 source: "MIT Technology Review AI"
-count: 3
+count: 4
 ---
 
 # MIT Technology Review AI - 2026-07-27
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. The path to artificial superintelligence
+## 1. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+
+**Author:** Will Douglas Heaven  
+**Published:** 7/27/2026, 6:00:00 PM  
+**Categories:** Artificial intelligence, App, artificial intelligence, The Algorithm  
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company...
+
+📖 [Read original article](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/)
+
+---
+
+## 2. The path to artificial superintelligence
 
 **Author:** MIT Technology Review Insights  
 **Published:** 7/27/2026, 12:00:00 PM  
@@ -23,7 +35,7 @@ Imagine a healthcare system made up of multiple AI agents: one that manages symp
 
 ---
 
-## 2. Closing the data loop in AI-driven drug discovery
+## 3. Closing the data loop in AI-driven drug discovery
 
 **Author:** MIT Technology Review Insights  
 **Published:** 7/27/2026, 11:40:16 AM  
@@ -35,7 +47,7 @@ Drug discovery is a high-cost, high-risk endeavor that is under growing pressure
 
 ---
 
-## 3. Building the enterprise environment for agentic AI
+## 4. Building the enterprise environment for agentic AI
 
 **Author:** Keegan Sheedy, Lucas Melo  
 **Published:** 7/27/2026, 11:32:58 AM  
