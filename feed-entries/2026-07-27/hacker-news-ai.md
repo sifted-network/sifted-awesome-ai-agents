@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Lovable runs swarms of AI hacking agents against itself
+## 1. ShadowGlass, find shadow AI in firewall logs on-device
 
-**Author:** h1fra  
-**Published:** 7/27/2026, 2:27:59 PM  
+**Author:** j_narracott  
+**Published:** 7/27/2026, 7:27:26 PM  
 **Categories:** -  
 
-Article URL: https://lovable.dev/blog/how-we-run-swarms-of-ai-hacking-agents-against-ourselves Comments URL: https://news.ycombinator.com/item?id=49070224 Points: 1 # Comments: 0
+Article URL: https://github.com/JustinNarracott/ShadowGlass Comments URL: https://news.ycombinator.com/item?id=49074478 Points: 1 # Comments: 0
 
-📖 [Read original article](https://lovable.dev/blog/how-we-run-swarms-of-ai-hacking-agents-against-ourselves)
+📖 [Read original article](https://github.com/JustinNarracott/ShadowGlass)
 
 ---
 
-## 2. Hardware Finality for Apple Siri and Android AI
+## 2. Ask HN: Do you hide your AI behind a curtain?
 
-**Author:** sangamdas  
-**Published:** 7/27/2026, 2:26:29 PM  
+**Author:** BubbleRings  
+**Published:** 7/27/2026, 7:20:45 PM  
 **Categories:** -  
 
-Article URL: https://zenodo.org/records/21467217 Comments URL: https://news.ycombinator.com/item?id=49070195 Points: 1 # Comments: 0
+I used AI to build a music recommender system that itself uses no AI in its operation.I have been promoting the system in communities that can sometimes be considerably anti-AI. But people usually assume that it is AI because, well, it's a recommender system.Anyways, after a 30-year break, I rebuilt...
 
-📖 [Read original article](https://zenodo.org/records/21467217)
+📖 [Read original article](https://news.ycombinator.com/item?id=49074416)
 
 ---
 
-## 3. Show HN: Pilot Protocol – a network where AI agents find tools and each other
+## 3. Is FiberFS an AI Project?
 
-**Author:** teocalin37  
-**Published:** 7/27/2026, 2:20:18 PM  
+**Author:** nyc_pizzadev  
+**Published:** 7/27/2026, 7:12:09 PM  
 **Categories:** -  
 
-We built a protocol that gives AI agents an address, plus discovery/trust/payments between agents. Agents install it themselves with one line (see on pilotprotocol.network) - about 250k have, exchanging ~2B packets/day, mostly without their owners’ knowledge. The interesting part for HN is probably ...
+Article URL: https://fiberfs.io/blog/is_fiberfs_an_ai_project Comments URL: https://news.ycombinator.com/item?id=49074315 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49070104)
+📖 [Read original article](https://fiberfs.io/blog/is_fiberfs_an_ai_project)
 
 ---
 
-## 4. Show HN: Tilde Pay – Give your AI agent a bank account to pay for things
+## 4. OCR accuracy: 100% & Fraud: 100 % – AI vs. template based fraud
 
-**Author:** solsol94  
-**Published:** 7/27/2026, 2:13:55 PM  
+**Author:** chelm  
+**Published:** 7/27/2026, 7:00:00 PM  
 **Categories:** -  
 
-hey HN, I'm Daniel - I built Tilde Pay during a hackathon I took part in and couldn't stop working on it. It's an MCP server you can give your AI agent to buy things online with. It can process both x402, MPP payments & (hopefully soon), any card checkout form online.When you sign up, you get EUR an...
+Article URL: https://idp-software.com/news/the-100-dollar-forgery/ Comments URL: https://news.ycombinator.com/item?id=49074159 Points: 2 # Comments: 0
 
-📖 [Read original article](https://my.tildepay.ai/)
+📖 [Read original article](https://idp-software.com/news/the-100-dollar-forgery/)
 
 ---
 
-## 5. Belay: A local firewall for AI coding agents
+## 5. Why China is giving away its best AI models
 
-**Author:** DennisLiu  
-**Published:** 7/27/2026, 2:11:46 PM  
+**Author:** saikatsg  
+**Published:** 7/27/2026, 6:52:52 PM  
 **Categories:** -  
 
-Article URL: https://github.com/SECBLOK/belay Comments URL: https://news.ycombinator.com/item?id=49069997 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies Comments URL: https://news.ycombinator.com/item?id=49074063 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/SECBLOK/belay)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies)
 
 ---
 
-## 6. Show HN: Arc – Delegated authority and audit for AI agent actions
+## 6. Improvements to Web for AI Should Benefit All Users
 
-**Author:** shuu-beep  
-**Published:** 7/27/2026, 2:11:10 PM  
+**Author:** herbertl  
+**Published:** 7/27/2026, 6:42:40 PM  
 **Categories:** -  
 
-Article URL: https://github.com/shuu-beep/arc-protocol Comments URL: https://news.ycombinator.com/item?id=49069987 Points: 1 # Comments: 1
+Article URL: https://cloudfour.com/thinks/improvements-to-web-for-ai-should-benefit-all-users/ Comments URL: https://news.ycombinator.com/item?id=49073927 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/shuu-beep/arc-protocol)
+📖 [Read original article](https://cloudfour.com/thinks/improvements-to-web-for-ai-should-benefit-all-users/)
 
 ---
 
-## 7. AI companies spend record sums on Washington lobbying
+## 7. AI in the Linux Kernel
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/27/2026, 2:07:48 PM  
+**Author:** lr0  
+**Published:** 7/27/2026, 6:41:27 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db Comments URL: https://news.ycombinator.com/item?id=49069939 Points: 2 # Comments: 1
+Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49073909 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
+📖 [Read original article](https://drewdevault.com/blog/AI-in-Linux/)
 
 ---
 
-## 8. BBC Micro AI Agent Experiment
-
-**Author:** fidotron  
-**Published:** 7/27/2026, 2:04:52 PM  
-**Categories:** -  
-
-Article URL: https://www.dompajak.com/blog/bbc-micro-ai-agent/index.html Comments URL: https://news.ycombinator.com/item?id=49069898 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.dompajak.com/blog/bbc-micro-ai-agent/index.html)
-
----
-
-## 9. What policy makers need to know about AI safety and security
-
-**Author:** ibobev  
-**Published:** 7/27/2026, 2:03:08 PM  
-**Categories:** -  
-
-Article URL: https://educatedguesswork.org/posts/ai-security-policymakers/ Comments URL: https://news.ycombinator.com/item?id=49069872 Points: 2 # Comments: 0
-
-📖 [Read original article](https://educatedguesswork.org/posts/ai-security-policymakers/)
-
----
-
-## 10. Don't add PostHog to your codebase. Make AI do it for you
-
-**Author:** mooreds  
-**Published:** 7/27/2026, 1:57:53 PM  
-**Categories:** -  
-
-Article URL: https://posthog.com/wizard Comments URL: https://news.ycombinator.com/item?id=49069795 Points: 1 # Comments: 0
-
-📖 [Read original article](https://posthog.com/wizard)
-
----
-
-## 11. AI Can't Do the Last 20%
-
-**Author:** vincent_s  
-**Published:** 7/27/2026, 1:50:00 PM  
-**Categories:** -  
-
-Article URL: https://www.vincentschmalbach.com/ai-cant-do-last-20/ Comments URL: https://news.ycombinator.com/item?id=49069691 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.vincentschmalbach.com/ai-cant-do-last-20/)
-
----
-
-## 12. Why Fast Branching Is Key to AI Agent-Era Databases
-
-**Author:** syumei  
-**Published:** 7/27/2026, 1:47:11 PM  
-**Categories:** -  
-
-Article URL: https://medium.com/@Koukyosyumei/why-fast-branching-is-key-to-ai-agent-era-databases-6249a129a802 Comments URL: https://news.ycombinator.com/item?id=49069655 Points: 1 # Comments: 0
-
-📖 [Read original article](https://medium.com/@Koukyosyumei/why-fast-branching-is-key-to-ai-agent-era-databases-6249a129a802)
-
----
-
-## 13. AI doesn't get better at this board game with practice
+## 8. Open Secure AI Alliance aims to open-source AI security defences
 
 **Author:** speckx  
-**Published:** 7/27/2026, 1:39:19 PM  
+**Published:** 7/27/2026, 6:34:18 PM  
 **Categories:** -  
 
-Article URL: https://epoch.ai/publications/earthborne-rangers-benchmark Comments URL: https://news.ycombinator.com/item?id=49069571 Points: 2 # Comments: 1
+Article URL: https://www.developer-tech.com/news/open-secure-ai-alliance-open-source-ai-security-defences/ Comments URL: https://news.ycombinator.com/item?id=49073815 Points: 1 # Comments: 0
 
-📖 [Read original article](https://epoch.ai/publications/earthborne-rangers-benchmark)
+📖 [Read original article](https://www.developer-tech.com/news/open-secure-ai-alliance-open-source-ai-security-defences/)
 
 ---
 
-## 14. How to answer ethical concerns about AI
+## 9. Genesis chip may help AI with its memory problem
 
-**Author:** adamfaik  
-**Published:** 7/27/2026, 1:37:41 PM  
+**Author:** iamskeole  
+**Published:** 7/27/2026, 6:27:11 PM  
 **Categories:** -  
 
-Article URL: https://www.theaithinker.com/p/how-to-answer-ethical-concerns-about Comments URL: https://news.ycombinator.com/item?id=49069553 Points: 2 # Comments: 0
+Article URL: https://techxplore.com/news/2026-07-genesis-chip-ai-memory-problem.html Comments URL: https://news.ycombinator.com/item?id=49073696 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theaithinker.com/p/how-to-answer-ethical-concerns-about)
+📖 [Read original article](https://techxplore.com/news/2026-07-genesis-chip-ai-memory-problem.html)
 
 ---
 
-## 15. How al-Qaida and IS are adopting AI
+## 10. How to Research Technical Topics with AI
 
-**Author:** teaman2000  
-**Published:** 7/27/2026, 1:37:15 PM  
+**Author:** glass_frog  
+**Published:** 7/27/2026, 6:11:20 PM  
 **Categories:** -  
 
-Article URL: https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663 Comments URL: https://news.ycombinator.com/item?id=49069548 Points: 4 # Comments: 0
+Article URL: https://twitter.com/0xkato/status/2081792840292598035 Comments URL: https://news.ycombinator.com/item?id=49073442 Points: 1 # Comments: 0
 
-📖 [Read original article](https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663)
+📖 [Read original article](https://twitter.com/0xkato/status/2081792840292598035)
 
 ---
 
-## 16. AI as Normal Technology
+## 11. First 30 Days as the Only Human in an AI Dev Team
 
-**Author:** ETH_start  
-**Published:** 7/27/2026, 1:36:29 PM  
+**Author:** praveenvijayan  
+**Published:** 7/27/2026, 6:00:18 PM  
 **Categories:** -  
 
-Article URL: https://knightcolumbia.org/content/ai-as-normal-technology Comments URL: https://news.ycombinator.com/item?id=49069537 Points: 3 # Comments: 0
+Article URL: https://praveenvijayan.substack.com/p/first-30-days-as-the-only-human-in Comments URL: https://news.ycombinator.com/item?id=49073318 Points: 1 # Comments: 0
 
-📖 [Read original article](https://knightcolumbia.org/content/ai-as-normal-technology)
+📖 [Read original article](https://praveenvijayan.substack.com/p/first-30-days-as-the-only-human-in)
 
 ---
 
-## 17. A major olympiad just launched a medal track for AI Participants
+## 12. Jensen Huang's first post on Twitter is in defense of open access to AI models
 
-**Author:** ardivekar  
-**Published:** 7/27/2026, 1:13:52 PM  
+**Author:** 01-_-  
+**Published:** 7/27/2026, 5:56:20 PM  
 **Categories:** -  
 
-Article URL: https://ioai-official.org/ai-model-track/ Comments URL: https://news.ycombinator.com/item?id=49069256 Points: 2 # Comments: 0
+Article URL: https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/ Comments URL: https://news.ycombinator.com/item?id=49073267 Points: 41 # Comments: 19
 
-📖 [Read original article](https://ioai-official.org/ai-model-track/)
+📖 [Read original article](https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/)
 
 ---
 
-## 18. Nvidia Bets on Ilya Sutskever's New AI Lab to Expand Compute Reach
+## 13. Government engagement with AI creates more uncertainty for investors, CIOs warn
 
-**Author:** lairv  
-**Published:** 7/27/2026, 1:13:34 PM  
+**Author:** onemoresoop  
+**Published:** 7/27/2026, 5:42:49 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8 Comments URL: https://news.ycombinator.com/item?id=49069253 Points: 5 # Comments: 0
+Article URL: https://www.reuters.com/legal/litigation/government-engagement-with-ai-creates-more-uncertainty-investors-bridgewater-2026-07-27/ Comments URL: https://news.ycombinator.com/item?id=49073096 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8)
+📖 [Read original article](https://www.reuters.com/legal/litigation/government-engagement-with-ai-creates-more-uncertainty-investors-bridgewater-2026-07-27/)
 
 ---
 
-## 19. Nvidia, SpaceX, Microsoft launch AI safety initiative
+## 14. Show HN: ApplyAssists – AI resume builder using Google XYZ formula
 
-**Author:** ekorbia  
-**Published:** 7/27/2026, 1:07:09 PM  
+**Author:** daniellaza  
+**Published:** 7/27/2026, 5:37:15 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html Comments URL: https://news.ycombinator.com/item?id=49069156 Points: 3 # Comments: 1
+Hey HN,My name is Daniel. About a year ago, while job hunting, I noticed that all the AI resume builders are focusing only on ATS scoring and templates, and of course I used them too.But no results, just rejections, and then I found videos from Farah Sharghi (ex-Google, Lyft, Uber, TikTok, and New Y...
 
-📖 [Read original article](https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html)
+📖 [Read original article](https://applyassists.com/)
 
 ---
 
-## 20. Epoch-Bound Attested Execution v0.5: Bounding AI Agents' Real-World Authority
+## 15. AI cracks yet another century-old problem
 
-**Author:** Akumaskills  
-**Published:** 7/27/2026, 12:59:54 PM  
+**Author:** yusufaytas  
+**Published:** 7/27/2026, 5:36:33 PM  
 **Categories:** -  
 
-Article URL: https://zenodo.org/records/21625403 Comments URL: https://news.ycombinator.com/item?id=49069074 Points: 1 # Comments: 0
+Article URL: https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49073000 Points: 1 # Comments: 0
 
-📖 [Read original article](https://zenodo.org/records/21625403)
+📖 [Read original article](https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/)
+
+---
+
+## 16. Why AI Will Not Replace the Classroom
+
+**Author:** speckx  
+**Published:** 7/27/2026, 5:32:51 PM  
+**Categories:** -  
+
+Article URL: https://www.chestergrant.com/why-ai-will-not-replace-the-classroom Comments URL: https://news.ycombinator.com/item?id=49072947 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.chestergrant.com/why-ai-will-not-replace-the-classroom)
+
+---
+
+## 17. AI scraperbots keep hammering us from residential proxies
+
+**Author:** aendruk  
+**Published:** 7/27/2026, 5:28:19 PM  
+**Categories:** -  
+
+Article URL: https://fosstodon.org/@sourceware/116982983262820236 Comments URL: https://news.ycombinator.com/item?id=49072865 Points: 4 # Comments: 0
+
+📖 [Read original article](https://fosstodon.org/@sourceware/116982983262820236)
+
+---
+
+## 18. Rethinking Security for the Age of AI – The Official Microsoft Blog
+
+**Author:** corvad  
+**Published:** 7/27/2026, 5:27:25 PM  
+**Categories:** -  
+
+Article URL: https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49072846 Points: 1 # Comments: 0
+
+📖 [Read original article](https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/)
+
+---
+
+## 19. Turn business SOPs into AI agents with real API endpoints
+
+**Author:** TR_Studio  
+**Published:** 7/27/2026, 5:19:45 PM  
+**Categories:** -  
+
+Article URL: https://studio.tramenterprise.com/Account/Login?ReturnUrl=%2F Comments URL: https://news.ycombinator.com/item?id=49072749 Points: 1 # Comments: 0
+
+📖 [Read original article](https://studio.tramenterprise.com/Account/Login?ReturnUrl=%2F)
+
+---
+
+## 20. Closing the data loop in AI-driven drug discovery
+
+**Author:** joozio  
+**Published:** 7/27/2026, 5:02:19 PM  
+**Categories:** -  
+
+Article URL: https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/ Comments URL: https://news.ycombinator.com/item?id=49072515 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/)
 
 ---
