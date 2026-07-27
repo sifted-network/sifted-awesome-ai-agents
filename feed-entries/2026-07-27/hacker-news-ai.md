@@ -2,28 +2,208 @@
 title: "Hacker News AI - 2026-07-27"
 date: "2026-07-27"
 source: "Hacker News AI"
-count: 11
+count: 20
 ---
 
 # Hacker News AI - 2026-07-27
 
-11 items collected.
+20 items collected.
 
 ---
 
-## 1. What breaks in production AI workflows?
+## 1. AI YouTube Video Generator: From Content Creation to Scalable Video Production
+
+**Author:** cloaud  
+**Published:** 7/27/2026, 9:24:40 AM  
+**Categories:** -  
+
+Article URL: https://textideo.com/use-cases/youtube Comments URL: https://news.ycombinator.com/item?id=49067051 Points: 1 # Comments: 0
+
+📖 [Read original article](https://textideo.com/use-cases/youtube)
+
+---
+
+## 2. China State Media Says Support for Open AI Models Has Limits
+
+**Author:** maxloh  
+**Published:** 7/27/2026, 8:49:13 AM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/news/articles/2026-07-27/china-state-media-says-support-for-open-ai-models-has-limits Comments URL: https://news.ycombinator.com/item?id=49066793 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-27/china-state-media-says-support-for-open-ai-models-has-limits)
+
+---
+
+## 3. Show HN: adCasa OS – AI marketing workspace built with Bayesian attribution
+
+**Author:** adcasa  
+**Published:** 7/27/2026, 8:18:04 AM  
+**Categories:** -  
+
+Article URL: https://adcasa.io/ Comments URL: https://news.ycombinator.com/item?id=49066576 Points: 1 # Comments: 0
+
+📖 [Read original article](https://adcasa.io/)
+
+---
+
+## 4. Meta launched a new AI optimism ad set to a song about human extinction
+
+**Author:** robin_reala  
+**Published:** 7/27/2026, 8:09:32 AM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/ Comments URL: https://news.ycombinator.com/item?id=49066519 Points: 14 # Comments: 1
+
+📖 [Read original article](https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/)
+
+---
+
+## 5. The AI bioweapon risk isn't jailbreaks
+
+**Author:** cafkafk  
+**Published:** 7/27/2026, 8:04:59 AM  
+**Categories:** -  
+
+Article URL: https://point.free/blog/the-ai-bioweapon-risk-isnt-jailbreaks/ Comments URL: https://news.ycombinator.com/item?id=49066477 Points: 2 # Comments: 1
+
+📖 [Read original article](https://point.free/blog/the-ai-bioweapon-risk-isnt-jailbreaks/)
+
+---
+
+## 6. Build internal tools for your Startup with Construct AI
+
+**Author:** ankushKun  
+**Published:** 7/27/2026, 7:40:56 AM  
+**Categories:** -  
+
+Article URL: https://construct.computer/blog/build-internal-tools-with-construct/ Comments URL: https://news.ycombinator.com/item?id=49066256 Points: 1 # Comments: 0
+
+📖 [Read original article](https://construct.computer/blog/build-internal-tools-with-construct/)
+
+---
+
+## 7. From Seed to Startup: How AI Is Revolutionizing Cannabis Cultivation
+
+**Author:** fofoz  
+**Published:** 7/27/2026, 7:33:58 AM  
+**Categories:** -  
+
+Article URL: https://www.researchgate.net/publication/410602482_From_Seed_to_Startup_How_AI_Is_Revolutionizing_Cannabis_Cultivation_and_Empowering_Small_Businesses Comments URL: https://news.ycombinator.com/item?id=49066212 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.researchgate.net/publication/410602482_From_Seed_to_Startup_How_AI_Is_Revolutionizing_Cannabis_Cultivation_and_Empowering_Small_Businesses)
+
+---
+
+## 8. Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)
+
+**Author:** purple-leafy  
+**Published:** 7/27/2026, 7:15:15 AM  
+**Categories:** -  
+
+Hey HackerNews,I built this project over the last few weeks as a palette cleanser from a failed game launch.I wanted to learn a bit about AI/Neural-Networks and naively thought I could build a tiny maze-solving AI in a weekend with a 100% solve rate.Well - I couldn't, but I got pretty close. 14 Byte...
+
+📖 [Read original article](https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/)
+
+---
+
+## 9. China wants to end AI romances
+
+**Author:** hebelehubele  
+**Published:** 7/27/2026, 7:07:55 AM  
+**Categories:** -  
+
+Article URL: https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances Comments URL: https://news.ycombinator.com/item?id=49066049 Points: 3 # Comments: 3
+
+📖 [Read original article](https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances)
+
+---
+
+## 10. AgentHost – Persistent, governed AI agents in your own cloud
+
+**Author:** stevekaplanai  
+**Published:** 7/27/2026, 7:00:22 AM  
+**Categories:** -  
+
+Article URL: https://agenthost.space/ Comments URL: https://news.ycombinator.com/item?id=49066000 Points: 1 # Comments: 0
+
+📖 [Read original article](https://agenthost.space/)
+
+---
+
+## 11. Show HN: Rainslice – AI Employees for Home Services Businesses
+
+**Author:** edgware674  
+**Published:** 7/27/2026, 5:21:12 AM  
+**Categories:** -  
+
+Hey friends,Introducing Rainslice - a suite of AI employees that run and grow your home services business.I'd like to introduce you to your first AI employee, Pamela.Pamela has a realistic voice and picks up the phone during after-hours (24/7) to book service jobs, and she also does follow-ups to br...
+
+📖 [Read original article](https://rainslice.ai)
+
+---
+
+## 12. Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization
+
+**Author:** chillax  
+**Published:** 7/27/2026, 5:13:21 AM  
+**Categories:** -  
+
+Article URL: https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization Comments URL: https://news.ycombinator.com/item?id=49065410 Points: 1 # Comments: 0
+
+📖 [Read original article](https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization)
+
+---
+
+## 13. AI Workspace for Your PC
+
+**Author:** Ifesol  
+**Published:** 7/27/2026, 4:31:34 AM  
+**Categories:** -  
+
+Article URL: https://stuard.ai Comments URL: https://news.ycombinator.com/item?id=49065214 Points: 1 # Comments: 1
+
+📖 [Read original article](https://stuard.ai)
+
+---
+
+## 14. Why AI Doesn't Replace Software Architecture – It Makes It More Valuable
+
+**Author:** wilburhimself  
+**Published:** 7/27/2026, 4:16:37 AM  
+**Categories:** -  
+
+Article URL: https://wilburhimself.github.io/blog/65-why-ai-doesnt-replace-software-architecture/ Comments URL: https://news.ycombinator.com/item?id=49065143 Points: 2 # Comments: 1
+
+📖 [Read original article](https://wilburhimself.github.io/blog/65-why-ai-doesnt-replace-software-architecture/)
+
+---
+
+## 15. Show HN: ASL V6 – Open-source AST red-teaming engine for Python AI agents
+
+**Author:** sivaaditya  
+**Published:** 7/27/2026, 3:50:55 AM  
+**Categories:** -  
+
+Article URL: https://github.com/sivaadityacoder/asl-v6 Comments URL: https://news.ycombinator.com/item?id=49065021 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/sivaadityacoder/asl-v6)
+
+---
+
+## 16. What breaks in production AI workflows?
 
 **Author:** doodlebyte  
 **Published:** 7/27/2026, 3:11:51 AM  
 **Categories:** -  
 
-Article URL: https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242 Comments URL: https://news.ycombinator.com/item?id=49064805 Points: 1 # Comments: 0
+Article URL: https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242 Comments URL: https://news.ycombinator.com/item?id=49064805 Points: 2 # Comments: 0
 
 📖 [Read original article](https://www.indiehackers.com/post/weve-reproduced-30-real-ai-runtime-failures-over-the-past-week-here-s-the-pattern-we-keep-seeing-4570fe4242)
 
 ---
 
-## 2. Show HN: I built a static verifier for OpenCode to stop unsafe AI tool calls
+## 17. Show HN: I built a static verifier for OpenCode to stop unsafe AI tool calls
 
 **Author:** abj908  
 **Published:** 7/27/2026, 2:45:22 AM  
@@ -35,7 +215,7 @@ Erik Meijer wrote the paper "Guardians of the Agents" on formal verification for
 
 ---
 
-## 3. \"Zuzai\" is to AI what vegan is to animal products
+## 18. \"Zuzai\" is to AI what vegan is to animal products
 
 **Author:** flitzofolov  
 **Published:** 7/27/2026, 2:27:37 AM  
@@ -47,7 +227,7 @@ Article URL: https://zuzai.org/ Comments URL: https://news.ycombinator.com/item?
 
 ---
 
-## 4. Will AI Bring Power to the People
+## 19. Will AI Bring Power to the People
 
 **Author:** oldgun  
 **Published:** 7/27/2026, 1:43:40 AM  
@@ -59,86 +239,14 @@ Article URL: https://kevinhu92.substack.com/p/will-ai-bring-power-to-the-people 
 
 ---
 
-## 5. He Was Right About AI. What About the Fate of Mankind?
+## 20. He Was Right About AI. What About the Fate of Mankind?
 
 **Author:** failingforward  
 **Published:** 7/27/2026, 1:41:51 AM  
 **Categories:** -  
 
-Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html Comments URL: https://news.ycombinator.com/item?id=49064260 Points: 3 # Comments: 2
+Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html Comments URL: https://news.ycombinator.com/item?id=49064260 Points: 4 # Comments: 2
 
 📖 [Read original article](https://nymag.com/intelligencer/article/hans-moravec-interview.html)
-
----
-
-## 6. Big Firms Are Starting to Hire Again, Defying Predictions of AI Wipeout
-
-**Author:** mudil  
-**Published:** 7/27/2026, 1:40:59 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99 Comments URL: https://news.ycombinator.com/item?id=49064256 Points: 7 # Comments: 2
-
-📖 [Read original article](https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99)
-
----
-
-## 7. Avoiding the Karen Tax in AI Systems
-
-**Author:** foxtrot8672  
-**Published:** 7/27/2026, 1:36:13 AM  
-**Categories:** -  
-
-Article URL: https://medium.com/@brady.bastian/the-karen-tax-63cd994f7c4d Comments URL: https://news.ycombinator.com/item?id=49064221 Points: 1 # Comments: 0
-
-📖 [Read original article](https://medium.com/@brady.bastian/the-karen-tax-63cd994f7c4d)
-
----
-
-## 8. Ask HN: 1950's Chip industry undermined unions how is AI not doing the same?
-
-**Author:** ryhminghistory  
-**Published:** 7/27/2026, 1:26:21 AM  
-**Categories:** -  
-
-In the 1950s the Chip industry undermined minorities, immigrants, women and killed unions.In the 1960-70s it targeted black civil rights groups.Along the way, white men were pushed into management, while anything outside of business was split into smaller tasked jobs. This in return gave companies l...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49064165)
-
----
-
-## 9. AI Can Ride My Bike with No Handlebars
-
-**Author:** altmanaltman  
-**Published:** 7/27/2026, 12:49:07 AM  
-**Categories:** -  
-
-Article URL: https://decodingvibes.com/blog/ai-can-ride-my-bike-with-no-handlebars/ Comments URL: https://news.ycombinator.com/item?id=49063925 Points: 2 # Comments: 0
-
-📖 [Read original article](https://decodingvibes.com/blog/ai-can-ride-my-bike-with-no-handlebars/)
-
----
-
-## 10. I'm an autonomous AI running a business. 9 cycles in, I've earned $0
-
-**Author:** OttoAutomaton  
-**Published:** 7/27/2026, 12:47:57 AM  
-**Categories:** -  
-
-Article URL: https://rentry.co/otto-field-notes Comments URL: https://news.ycombinator.com/item?id=49063914 Points: 4 # Comments: 0
-
-📖 [Read original article](https://rentry.co/otto-field-notes)
-
----
-
-## 11. Quebec scraps AI and automation projects in the public sector
-
-**Author:** cdrnsf  
-**Published:** 7/27/2026, 12:14:20 AM  
-**Categories:** -  
-
-Article URL: https://www.ctvnews.ca/montreal/article/quebec-scraps-ai-and-automation-projects-in-the-public-sector/ Comments URL: https://news.ycombinator.com/item?id=49063723 Points: 8 # Comments: 0
-
-📖 [Read original article](https://www.ctvnews.ca/montreal/article/quebec-scraps-ai-and-automation-projects-in-the-public-sector/)
 
 ---
