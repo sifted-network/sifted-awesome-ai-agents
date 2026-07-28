@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: OpsCat – A single-binary software catalog with MCP for AI agents
+## 1. Real AI changed the way I see fictional AI
 
-**Author:** paperplaneflyr  
-**Published:** 7/28/2026, 8:24:30 AM  
+**Author:** nivethan  
+**Published:** 7/28/2026, 2:01:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/sumant1122/opscat Comments URL: https://news.ycombinator.com/item?id=49080961 Points: 1 # Comments: 0
+Article URL: https://diels-daydreams.bearblog.dev/real-ai-changed-the-way-i-see-fictional-ai/ Comments URL: https://news.ycombinator.com/item?id=49084035 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/sumant1122/opscat)
+📖 [Read original article](https://diels-daydreams.bearblog.dev/real-ai-changed-the-way-i-see-fictional-ai/)
 
 ---
 
-## 2. If AI Writes All the Code, What Do the Programmers Do?
+## 2. AI Engineers' Favourite AI Engineer
 
-**Author:** ingve  
-**Published:** 7/28/2026, 8:17:58 AM  
+**Author:** benebagus  
+**Published:** 7/28/2026, 1:38:46 PM  
 **Categories:** -  
 
-Article URL: https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/ Comments URL: https://news.ycombinator.com/item?id=49080905 Points: 1 # Comments: 0
+Article URL: https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/ Comments URL: https://news.ycombinator.com/item?id=49083702 Points: 2 # Comments: 0
 
-📖 [Read original article](https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/)
+📖 [Read original article](https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/)
 
 ---
 
-## 3. Some people's chats with Claude AI found to be publicly available online
+## 3. Toward a test of medical AI superintelligence
 
-**Author:** 01-_-  
-**Published:** 7/28/2026, 8:06:18 AM  
+**Author:** brandonb  
+**Published:** 7/28/2026, 1:37:54 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cly5qgjk5ywo Comments URL: https://news.ycombinator.com/item?id=49080823 Points: 1 # Comments: 0
+Article URL: https://www.nature.com/articles/s41591-026-04539-8?linkId=62962697#Sec3 Comments URL: https://news.ycombinator.com/item?id=49083693 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/cly5qgjk5ywo)
+📖 [Read original article](https://www.nature.com/articles/s41591-026-04539-8?linkId=62962697#Sec3)
 
 ---
 
-## 4. Tell HN: Our paid Claude AI subscription unavailable >1 week and no support
+## 4. How AI is powering business email compromise at scale
 
-**Author:** KellyCriterion  
-**Published:** 7/28/2026, 8:00:19 AM  
+**Author:** 646754375  
+**Published:** 7/28/2026, 1:21:16 PM  
 **Categories:** -  
 
-Dear all,our team is using a Claude AI Team plan for more than 1 year already:- we are a normal company, doing normal business, nothing critical- all our bills are paid and we can see them as paid- nontheless, the service is not available for more than one week to usQuestion:- any other idea to reac...
+Article URL: https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/ Comments URL: https://news.ycombinator.com/item?id=49083443 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49080775)
+📖 [Read original article](https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/)
 
 ---
 
-## 5. Show HN: Reverse-engineer viral videos into AI-ready shot breakdowns
+## 5. Show HN: Dinjure – Bulls and Cows in one HTML file, with a fallible AI
 
-**Author:** not_wowinter13  
-**Published:** 7/28/2026, 7:38:32 AM  
+**Author:** Dinjure  
+**Published:** 7/28/2026, 1:10:44 PM  
 **Categories:** -  
 
-Article URL: https://videolens.cc/zh/landing Comments URL: https://news.ycombinator.com/item?id=49080617 Points: 1 # Comments: 0
+Article URL: https://dinjure.com/ Comments URL: https://news.ycombinator.com/item?id=49083293 Points: 2 # Comments: 0
 
-📖 [Read original article](https://videolens.cc/zh/landing)
+📖 [Read original article](https://dinjure.com/)
 
 ---
 
-## 6. Microsoft unveils AI security tools it says outperform competing platforms
+## 6. Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code
 
-**Author:** joozio  
-**Published:** 7/28/2026, 7:02:33 AM  
+**Author:** permute  
+**Published:** 7/28/2026, 1:07:14 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/ Comments URL: https://news.ycombinator.com/item?id=49080345 Points: 4 # Comments: 1
+To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formed...
 
-📖 [Read original article](https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/)
+📖 [Read original article](https://github.com/schildep/verified-3d-mesh-intersection)
 
 ---
 
-## 7. Cracking the code: can AI help us decipher ancient languages?
+## 7. Securing the Future of AI Agents
 
-**Author:** zeristor  
-**Published:** 7/28/2026, 6:59:35 AM  
+**Author:** mooreds  
+**Published:** 7/28/2026, 1:06:03 PM  
 **Categories:** -  
 
-Article URL: https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238 Comments URL: https://news.ycombinator.com/item?id=49080321 Points: 2 # Comments: 0
+Article URL: https://deepmind.google/blog/securing-the-future-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49083222 Points: 2 # Comments: 0
 
-📖 [Read original article](https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238)
+📖 [Read original article](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
 
 ---
 
-## 8. AI 'tokenmaxxing' fades as workplaces look to cut tech spending
+## 8. Tenir: A Counter-Pressure Architecture for Safe Agentic AI Under Irreversibly
 
-**Author:** geox  
-**Published:** 7/28/2026, 6:48:53 AM  
+**Author:** skiredj  
+**Published:** 7/28/2026, 1:03:55 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1 Comments URL: https://news.ycombinator.com/item?id=49080248 Points: 8 # Comments: 1
+Article URL: https://zenodo.org/records/21277138 Comments URL: https://news.ycombinator.com/item?id=49083198 Points: 2 # Comments: 0
 
-📖 [Read original article](https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1)
+📖 [Read original article](https://zenodo.org/records/21277138)
 
 ---
 
-## 9. Show HN: AI Usage – Native macOS Menu Bar for Claude Code and Codex Limits
+## 9. OptMem – Permanent memory for AI agents
 
-**Author:** burakgon  
-**Published:** 7/28/2026, 6:43:05 AM  
+**Author:** pwmglenn  
+**Published:** 7/28/2026, 1:02:31 PM  
 **Categories:** -  
 
-Article URL: https://github.com/burakgon/ai-usage-menubar Comments URL: https://news.ycombinator.com/item?id=49080227 Points: 2 # Comments: 0
+Article URL: https://github.com/VictorTaelin/OptMem Comments URL: https://news.ycombinator.com/item?id=49083167 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/burakgon/ai-usage-menubar)
+📖 [Read original article](https://github.com/VictorTaelin/OptMem)
 
 ---
 
-## 10. Answerwatch – Track changes in what AI models recommend
+## 10. Using AI for Automated Tasks
 
-**Author:** arorah  
-**Published:** 7/28/2026, 6:23:51 AM  
+**Author:** speckx  
+**Published:** 7/28/2026, 1:00:13 PM  
 **Categories:** -  
 
-Article URL: https://github.com/haror1/answerwatch Comments URL: https://news.ycombinator.com/item?id=49080095 Points: 1 # Comments: 0
+Article URL: https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/ Comments URL: https://news.ycombinator.com/item?id=49083134 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/haror1/answerwatch)
+📖 [Read original article](https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/)
 
 ---
 
-## 11. How AI and Low-Latency Computing Are Reshaping Digital Twins
+## 11. What AI developers could learn from Charles Bukowski?
 
-**Author:** chaercling  
-**Published:** 7/28/2026, 6:18:02 AM  
+**Author:** sedovsek  
+**Published:** 7/28/2026, 1:00:12 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@DolphinDB_Inc/real-time-decision-making-how-ai-and-low-latency-computing-are-reshaping-digital-twins-1e54bcd59c07 Comments URL: https://news.ycombinator.com/item?id=49080067 Points: 1 # Comments: 0
+Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 14 # Comments: 14
 
-📖 [Read original article](https://medium.com/@DolphinDB_Inc/real-time-decision-making-how-ai-and-low-latency-computing-are-reshaping-digital-twins-1e54bcd59c07)
+📖 [Read original article](https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski)
 
 ---
 
-## 12. Show HN: Krate, AI-made apps as permissioned files for Mac, Windows, and Linux
+## 12. AI meets Cryptography 3: What AI Found in Bron Labs's bron-crypto
 
-**Author:** incyashraj  
-**Published:** 7/28/2026, 5:53:57 AM  
+**Author:** duha  
+**Published:** 7/28/2026, 12:57:17 PM  
 **Categories:** -  
 
-Article URL: https://github.com/incyashraj/krate Comments URL: https://news.ycombinator.com/item?id=49079924 Points: 1 # Comments: 0
+Article URL: https://blog.zksecurity.xyz/posts/bron-bugs/ Comments URL: https://news.ycombinator.com/item?id=49083100 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/incyashraj/krate)
+📖 [Read original article](https://blog.zksecurity.xyz/posts/bron-bugs/)
 
 ---
 
-## 13. How I use AI in my geology research without losing the science I love
+## 13. XMPP Agent Gateway: A protocol for discovering and invoking AI agents
 
-**Author:** the-mitr  
-**Published:** 7/28/2026, 5:48:54 AM  
+**Author:** romanbsd  
+**Published:** 7/28/2026, 12:55:05 PM  
 **Categories:** -  
 
-Article URL: https://www.science.org/content/article/how-i-use-ai-my-geology-research-without-losing-science-i-love Comments URL: https://news.ycombinator.com/item?id=49079892 Points: 1 # Comments: 0
+Article URL: https://romanbsd.github.io/xmpp-agent-gateway/ Comments URL: https://news.ycombinator.com/item?id=49083076 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.science.org/content/article/how-i-use-ai-my-geology-research-without-losing-science-i-love)
+📖 [Read original article](https://romanbsd.github.io/xmpp-agent-gateway/)
 
 ---
 
-## 14. AI Makes Starting Games Easier. Finishing Is Still Hard
+## 14. Show HN: Preloop: Open-source control plane for AI agents. See, govern, cut cost
 
-**Author:** robertvaradan  
-**Published:** 7/28/2026, 5:37:57 AM  
+**Author:** dim0r  
+**Published:** 7/28/2026, 12:50:20 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/robertvaradan/status/2078234518549311855 Comments URL: https://news.ycombinator.com/item?id=49079827 Points: 2 # Comments: 0
+Article URL: https://github.com/preloop/preloop Comments URL: https://news.ycombinator.com/item?id=49083015 Points: 1 # Comments: 1
 
-📖 [Read original article](https://twitter.com/robertvaradan/status/2078234518549311855)
+📖 [Read original article](https://github.com/preloop/preloop)
 
 ---
 
-## 15. Show HN: Drever – AI-first MDX presentations with expressive motion
+## 15. Show HN: Banksia – Build and run adaptable, accountable AI teams
 
-**Author:** zhangdroid  
-**Published:** 7/28/2026, 5:27:14 AM  
+**Author:** ringlochid  
+**Published:** 7/28/2026, 12:50:13 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Zhangdroid/drever Comments URL: https://news.ycombinator.com/item?id=49079741 Points: 2 # Comments: 0
+Article URL: https://github.com/ringlochid/banksia Comments URL: https://news.ycombinator.com/item?id=49083014 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Zhangdroid/drever)
+📖 [Read original article](https://github.com/ringlochid/banksia)
 
 ---
 
-## 16. Vibotify – Talk to 300 AI experts, one for every profession
+## 16. Puck AI – Visual AI builder embedded in your app
 
-**Author:** nsoni369  
-**Published:** 7/28/2026, 5:25:43 AM  
+**Author:** chrisvxd  
+**Published:** 7/28/2026, 12:45:41 PM  
 **Categories:** -  
 
-Article URL: https://vibotify.com/ Comments URL: https://news.ycombinator.com/item?id=49079729 Points: 2 # Comments: 0
+Article URL: https://puckeditor.com/blog/puck-ai Comments URL: https://news.ycombinator.com/item?id=49082979 Points: 1 # Comments: 1
 
-📖 [Read original article](https://vibotify.com/)
+📖 [Read original article](https://puckeditor.com/blog/puck-ai)
 
 ---
 
-## 17. How to choose an AI Agent platform for your team
+## 17. AI Latency Is a Feature, Not a Bug
 
-**Author:** ankushKun  
-**Published:** 7/28/2026, 5:22:03 AM  
+**Author:** mlimotte  
+**Published:** 7/28/2026, 12:35:19 PM  
 **Categories:** -  
 
-Article URL: https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/ Comments URL: https://news.ycombinator.com/item?id=49079699 Points: 4 # Comments: 0
+Article URL: https://taceoincidunt909269.substack.com/p/ai-latency-is-a-feature-not-a-bug Comments URL: https://news.ycombinator.com/item?id=49082875 Points: 2 # Comments: 0
 
-📖 [Read original article](https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/)
+📖 [Read original article](https://taceoincidunt909269.substack.com/p/ai-latency-is-a-feature-not-a-bug)
 
 ---
 
-## 18. Professor Created a Trap in His Midterm to Catch Students Using AI
+## 18. Show HN: Segue – Save context in one AI, load it in another by a short handle
 
-**Author:** curmudgeon22  
-**Published:** 7/28/2026, 5:08:24 AM  
+**Author:** csaguiar  
+**Published:** 7/28/2026, 12:27:05 PM  
 **Categories:** -  
 
-Article URL: https://www.today.com/parents/family/professor-catches-ai-cheating-hidden-word-rcna589421 Comments URL: https://news.ycombinator.com/item?id=49079602 Points: 4 # Comments: 0
+Article URL: https://segue.ai/ Comments URL: https://news.ycombinator.com/item?id=49082779 Points: 8 # Comments: 6
 
-📖 [Read original article](https://www.today.com/parents/family/professor-catches-ai-cheating-hidden-word-rcna589421)
+📖 [Read original article](https://segue.ai/)
 
 ---
 
-## 19. Show HN: Orchard – Let AI agents set up your app's back end with one prompt
+## 19. AI revenues are growing fast, but not fast enough
 
-**Author:** asd000hh  
-**Published:** 7/28/2026, 4:54:40 AM  
+**Author:** vinni2  
+**Published:** 7/28/2026, 12:19:54 PM  
 **Categories:** -  
 
-Article URL: https://orchard-dashboard.pages.dev/landing Comments URL: https://news.ycombinator.com/item?id=49079523 Points: 2 # Comments: 0
+Article URL: https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough Comments URL: https://news.ycombinator.com/item?id=49082706 Points: 38 # Comments: 61
 
-📖 [Read original article](https://orchard-dashboard.pages.dev/landing)
+📖 [Read original article](https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough)
 
 ---
 
-## 20. QuickOn – Explainable AI for qualifying inbound B2B SaaS leads
+## 20. Show HN: Hotcell – local sandboxes for AI agents
 
-**Author:** agevenkat  
-**Published:** 7/28/2026, 4:53:00 AM  
+**Author:** sinameraji  
+**Published:** 7/28/2026, 12:17:13 PM  
 **Categories:** -  
 
-Article URL: https://www.quickon.in Comments URL: https://news.ycombinator.com/item?id=49079512 Points: 2 # Comments: 1
+Hi HN! Sina here. i wanted to share this open source project (apache 2.0) that i've been working on for the past month or so. it's called hotcell and it lets you create/pause/manage sandboxes on any device (your laptop, linux vm, bare metal).i've tested it against various benchmarks that i found on ...
 
-📖 [Read original article](https://www.quickon.in)
+📖 [Read original article](https://github.com/sinameraji/hotcell)
 
 ---
