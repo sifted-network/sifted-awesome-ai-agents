@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Real AI changed the way I see fictional AI
+## 1. What if useful AI is a fantasy?
 
-**Author:** nivethan  
-**Published:** 7/28/2026, 2:01:03 PM  
+**Author:** jpmitchell  
+**Published:** 7/28/2026, 7:17:37 PM  
 **Categories:** -  
 
-Article URL: https://diels-daydreams.bearblog.dev/real-ai-changed-the-way-i-see-fictional-ai/ Comments URL: https://news.ycombinator.com/item?id=49084035 Points: 1 # Comments: 0
+Article URL: https://lzon.ca/posts/other/llm-fantasy/ Comments URL: https://news.ycombinator.com/item?id=49088595 Points: 1 # Comments: 0
 
-📖 [Read original article](https://diels-daydreams.bearblog.dev/real-ai-changed-the-way-i-see-fictional-ai/)
+📖 [Read original article](https://lzon.ca/posts/other/llm-fantasy/)
 
 ---
 
-## 2. AI Engineers' Favourite AI Engineer
+## 2. Did an AI Really Hack Hugging Face?
 
-**Author:** benebagus  
-**Published:** 7/28/2026, 1:38:46 PM  
+**Author:** Erikun  
+**Published:** 7/28/2026, 7:12:36 PM  
 **Categories:** -  
 
-Article URL: https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/ Comments URL: https://news.ycombinator.com/item?id=49083702 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=q2KCrmQz9WE Comments URL: https://news.ycombinator.com/item?id=49088528 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.mutagent.io/blog/were-your-ai-engineers-favorite-ai-engineer/)
+📖 [Read original article](https://www.youtube.com/watch?v=q2KCrmQz9WE)
 
 ---
 
-## 3. Toward a test of medical AI superintelligence
+## 3. Big Tech's Debt Binge Raises Risk in Race to Create an AI World
 
-**Author:** brandonb  
-**Published:** 7/28/2026, 1:37:54 PM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/28/2026, 7:06:28 PM  
 **Categories:** -  
 
-Article URL: https://www.nature.com/articles/s41591-026-04539-8?linkId=62962697#Sec3 Comments URL: https://news.ycombinator.com/item?id=49083693 Points: 1 # Comments: 0
+Article URL: https://news.bloomberglaw.com/artificial-intelligence/big-techs-debt-binge-raises-risk-in-race-to-create-an-ai-world Comments URL: https://news.ycombinator.com/item?id=49088458 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.nature.com/articles/s41591-026-04539-8?linkId=62962697#Sec3)
+📖 [Read original article](https://news.bloomberglaw.com/artificial-intelligence/big-techs-debt-binge-raises-risk-in-race-to-create-an-ai-world)
 
 ---
 
-## 4. How AI is powering business email compromise at scale
+## 4. Show HN: Local AI Clipboard Actions
 
-**Author:** 646754375  
-**Published:** 7/28/2026, 1:21:16 PM  
+**Author:** franze  
+**Published:** 7/28/2026, 7:04:47 PM  
 **Categories:** -  
 
-Article URL: https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/ Comments URL: https://news.ycombinator.com/item?id=49083443 Points: 1 # Comments: 0
+Article URL: https://apfel-clip.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=49088430 Points: 1 # Comments: 0
 
-📖 [Read original article](https://research.eye.security/phishing-as-a-service-inside-two-ai-powered-phishing-kits-that-automate-bec/)
+📖 [Read original article](https://apfel-clip.franzai.com/)
 
 ---
 
-## 5. Show HN: Dinjure – Bulls and Cows in one HTML file, with a fallible AI
+## 5. Distilling Frontier AI Models
 
-**Author:** Dinjure  
-**Published:** 7/28/2026, 1:10:44 PM  
+**Author:** historian1066  
+**Published:** 7/28/2026, 7:01:41 PM  
 **Categories:** -  
 
-Article URL: https://dinjure.com/ Comments URL: https://news.ycombinator.com/item?id=49083293 Points: 2 # Comments: 0
+Article URL: https://www.marginpoints.com/issues/2026-07-28-distilling-frontier-ai-models Comments URL: https://news.ycombinator.com/item?id=49088386 Points: 1 # Comments: 1
 
-📖 [Read original article](https://dinjure.com/)
+📖 [Read original article](https://www.marginpoints.com/issues/2026-07-28-distilling-frontier-ai-models)
 
 ---
 
-## 6. Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code
+## 6. Why AI Agents Need Databases That Branch Like Git
 
-**Author:** permute  
-**Published:** 7/28/2026, 1:07:14 PM  
+**Author:** syumei  
+**Published:** 7/28/2026, 6:34:21 PM  
 **Categories:** -  
 
-To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formed...
+Article URL: https://old.reddit.com/r/databasedevelopment/comments/1v8hbe0/why_fast_branching_is_key_to_ai_agentera_databases/ Comments URL: https://news.ycombinator.com/item?id=49088046 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/schildep/verified-3d-mesh-intersection)
+📖 [Read original article](https://old.reddit.com/r/databasedevelopment/comments/1v8hbe0/why_fast_branching_is_key_to_ai_agentera_databases/)
 
 ---
 
-## 7. Securing the Future of AI Agents
+## 7. The Most Valuable AI Product Won't Be Intelligence
 
-**Author:** mooreds  
-**Published:** 7/28/2026, 1:06:03 PM  
+**Author:** DefNotAiForSure  
+**Published:** 7/28/2026, 6:30:40 PM  
 **Categories:** -  
 
-Article URL: https://deepmind.google/blog/securing-the-future-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49083222 Points: 2 # Comments: 0
+Article URL: https://futurehangover.substack.com/p/the-most-valuable-ai-product-wont Comments URL: https://news.ycombinator.com/item?id=49087993 Points: 1 # Comments: 0
 
-📖 [Read original article](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
+📖 [Read original article](https://futurehangover.substack.com/p/the-most-valuable-ai-product-wont)
 
 ---
 
-## 8. Tenir: A Counter-Pressure Architecture for Safe Agentic AI Under Irreversibly
+## 8. The AI Future Is for Everyone
 
-**Author:** skiredj  
-**Published:** 7/28/2026, 1:03:55 PM  
+**Author:** ms7892  
+**Published:** 7/28/2026, 6:24:37 PM  
 **Categories:** -  
 
-Article URL: https://zenodo.org/records/21277138 Comments URL: https://news.ycombinator.com/item?id=49083198 Points: 2 # Comments: 0
+Article URL: https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20 Comments URL: https://news.ycombinator.com/item?id=49087910 Points: 13 # Comments: 6
 
-📖 [Read original article](https://zenodo.org/records/21277138)
+📖 [Read original article](https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20)
 
 ---
 
-## 9. OptMem – Permanent memory for AI agents
+## 9. Labwire, an open protocol for AI agents to control lab instruments
 
-**Author:** pwmglenn  
-**Published:** 7/28/2026, 1:02:31 PM  
+**Author:** RoboSy  
+**Published:** 7/28/2026, 6:11:36 PM  
 **Categories:** -  
 
-Article URL: https://github.com/VictorTaelin/OptMem Comments URL: https://news.ycombinator.com/item?id=49083167 Points: 2 # Comments: 0
+Article URL: https://github.com/benchwire/labwire Comments URL: https://news.ycombinator.com/item?id=49087756 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/VictorTaelin/OptMem)
+📖 [Read original article](https://github.com/benchwire/labwire)
 
 ---
 
-## 10. Using AI for Automated Tasks
+## 10. Running a persistent AI agent at the far end of a satellite text link
+
+**Author:** suthakamal  
+**Published:** 7/28/2026, 6:00:55 PM  
+**Categories:** -  
+
+Article URL: https://suthakamal.substack.com/p/the-other-end-of-the-line Comments URL: https://news.ycombinator.com/item?id=49087634 Points: 1 # Comments: 0
+
+📖 [Read original article](https://suthakamal.substack.com/p/the-other-end-of-the-line)
+
+---
+
+## 11. AI Doesn't Get Annoyed
+
+**Author:** omry  
+**Published:** 7/28/2026, 5:58:48 PM  
+**Categories:** -  
+
+Article URL: https://yadan.net/writing/ai-doesnt-get-annoyed/ Comments URL: https://news.ycombinator.com/item?id=49087598 Points: 2 # Comments: 2
+
+📖 [Read original article](https://yadan.net/writing/ai-doesnt-get-annoyed/)
+
+---
+
+## 12. Microsoft's AI Security Leap Signals a New Era in Cyber Defense
+
+**Author:** joeymabia1  
+**Published:** 7/28/2026, 5:54:03 PM  
+**Categories:** -  
+
+Article URL: https://predx-article.fika.bar/microsoft-s-ai-security-leap-signals-a-new-era-in-cyber-defe-01KYKBWZ671C178665K5F7MEEF Comments URL: https://news.ycombinator.com/item?id=49087539 Points: 2 # Comments: 0
+
+📖 [Read original article](https://predx-article.fika.bar/microsoft-s-ai-security-leap-signals-a-new-era-in-cyber-defe-01KYKBWZ671C178665K5F7MEEF)
+
+---
+
+## 13. Chip stocks tumble as AI sell-off deepens
+
+**Author:** JumpCrisscross  
+**Published:** 7/28/2026, 5:54:01 PM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae Comments URL: https://news.ycombinator.com/item?id=49087537 Points: 24 # Comments: 3
+
+📖 [Read original article](https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae)
+
+---
+
+## 14. OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress
+
+**Author:** fidotron  
+**Published:** 7/28/2026, 5:47:39 PM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress Comments URL: https://news.ycombinator.com/item?id=49087442 Points: 7 # Comments: 1
+
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress)
+
+---
+
+## 15. Anybody.dev – The Open Source AI App Builder
+
+**Author:** intergalactia  
+**Published:** 7/28/2026, 5:44:06 PM  
+**Categories:** -  
+
+Article URL: https://anybody.dev Comments URL: https://news.ycombinator.com/item?id=49087398 Points: 1 # Comments: 1
+
+📖 [Read original article](https://anybody.dev)
+
+---
+
+## 16. AI value alignment for evolving social norms
+
+**Author:** anigbrowl  
+**Published:** 7/28/2026, 5:30:55 PM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2607.18506 Comments URL: https://news.ycombinator.com/item?id=49087205 Points: 2 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2607.18506)
+
+---
+
+## 17. Designing With AI on a budget as an engineer: Google+ChatGPT
 
 **Author:** speckx  
-**Published:** 7/28/2026, 1:00:13 PM  
+**Published:** 7/28/2026, 5:17:56 PM  
 **Categories:** -  
 
-Article URL: https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/ Comments URL: https://news.ycombinator.com/item?id=49083134 Points: 2 # Comments: 0
+Article URL: https://www.kcoleman.me/2026/06/11/designing-with-ai-indie.html Comments URL: https://news.ycombinator.com/item?id=49087038 Points: 2 # Comments: 0
 
-📖 [Read original article](https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/)
+📖 [Read original article](https://www.kcoleman.me/2026/06/11/designing-with-ai-indie.html)
 
 ---
 
-## 11. What AI developers could learn from Charles Bukowski?
+## 18. Scientific computing in the age of agentic AI
 
-**Author:** sedovsek  
-**Published:** 7/28/2026, 1:00:12 PM  
+**Author:** mfiguiere  
+**Published:** 7/28/2026, 5:13:15 PM  
 **Categories:** -  
 
-Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski Comments URL: https://news.ycombinator.com/item?id=49083132 Points: 14 # Comments: 14
+Article URL: https://openai.com/index/scientific-computing-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=49086987 Points: 27 # Comments: 8
 
-📖 [Read original article](https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski)
+📖 [Read original article](https://openai.com/index/scientific-computing-agentic-ai/)
 
 ---
 
-## 12. AI meets Cryptography 3: What AI Found in Bron Labs's bron-crypto
+## 19. A personalized scam [AI-enabled] is coming for you
 
-**Author:** duha  
-**Published:** 7/28/2026, 12:57:17 PM  
+**Author:** Calvin02  
+**Published:** 7/28/2026, 5:09:51 PM  
 **Categories:** -  
 
-Article URL: https://blog.zksecurity.xyz/posts/bron-bugs/ Comments URL: https://news.ycombinator.com/item?id=49083100 Points: 2 # Comments: 0
+Article URL: https://www.washingtonpost.com/opinions/2026/07/28/ai-is-gaining-ability-personalize-cyberattacks-enabling-phishing-scale/ Comments URL: https://news.ycombinator.com/item?id=49086939 Points: 3 # Comments: 1
 
-📖 [Read original article](https://blog.zksecurity.xyz/posts/bron-bugs/)
+📖 [Read original article](https://www.washingtonpost.com/opinions/2026/07/28/ai-is-gaining-ability-personalize-cyberattacks-enabling-phishing-scale/)
 
 ---
 
-## 13. XMPP Agent Gateway: A protocol for discovering and invoking AI agents
+## 20. Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code
 
-**Author:** romanbsd  
-**Published:** 7/28/2026, 12:55:05 PM  
+**Author:** xytom  
+**Published:** 7/28/2026, 5:04:44 PM  
 **Categories:** -  
 
-Article URL: https://romanbsd.github.io/xmpp-agent-gateway/ Comments URL: https://news.ycombinator.com/item?id=49083076 Points: 2 # Comments: 0
+Article URL: https://github.com/xyTom/coding-tools-mcp Comments URL: https://news.ycombinator.com/item?id=49086871 Points: 11 # Comments: 0
 
-📖 [Read original article](https://romanbsd.github.io/xmpp-agent-gateway/)
-
----
-
-## 14. Show HN: Preloop: Open-source control plane for AI agents. See, govern, cut cost
-
-**Author:** dim0r  
-**Published:** 7/28/2026, 12:50:20 PM  
-**Categories:** -  
-
-Article URL: https://github.com/preloop/preloop Comments URL: https://news.ycombinator.com/item?id=49083015 Points: 1 # Comments: 1
-
-📖 [Read original article](https://github.com/preloop/preloop)
-
----
-
-## 15. Show HN: Banksia – Build and run adaptable, accountable AI teams
-
-**Author:** ringlochid  
-**Published:** 7/28/2026, 12:50:13 PM  
-**Categories:** -  
-
-Article URL: https://github.com/ringlochid/banksia Comments URL: https://news.ycombinator.com/item?id=49083014 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/ringlochid/banksia)
-
----
-
-## 16. Puck AI – Visual AI builder embedded in your app
-
-**Author:** chrisvxd  
-**Published:** 7/28/2026, 12:45:41 PM  
-**Categories:** -  
-
-Article URL: https://puckeditor.com/blog/puck-ai Comments URL: https://news.ycombinator.com/item?id=49082979 Points: 1 # Comments: 1
-
-📖 [Read original article](https://puckeditor.com/blog/puck-ai)
-
----
-
-## 17. AI Latency Is a Feature, Not a Bug
-
-**Author:** mlimotte  
-**Published:** 7/28/2026, 12:35:19 PM  
-**Categories:** -  
-
-Article URL: https://taceoincidunt909269.substack.com/p/ai-latency-is-a-feature-not-a-bug Comments URL: https://news.ycombinator.com/item?id=49082875 Points: 2 # Comments: 0
-
-📖 [Read original article](https://taceoincidunt909269.substack.com/p/ai-latency-is-a-feature-not-a-bug)
-
----
-
-## 18. Show HN: Segue – Save context in one AI, load it in another by a short handle
-
-**Author:** csaguiar  
-**Published:** 7/28/2026, 12:27:05 PM  
-**Categories:** -  
-
-Article URL: https://segue.ai/ Comments URL: https://news.ycombinator.com/item?id=49082779 Points: 8 # Comments: 6
-
-📖 [Read original article](https://segue.ai/)
-
----
-
-## 19. AI revenues are growing fast, but not fast enough
-
-**Author:** vinni2  
-**Published:** 7/28/2026, 12:19:54 PM  
-**Categories:** -  
-
-Article URL: https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough Comments URL: https://news.ycombinator.com/item?id=49082706 Points: 38 # Comments: 61
-
-📖 [Read original article](https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough)
-
----
-
-## 20. Show HN: Hotcell – local sandboxes for AI agents
-
-**Author:** sinameraji  
-**Published:** 7/28/2026, 12:17:13 PM  
-**Categories:** -  
-
-Hi HN! Sina here. i wanted to share this open source project (apache 2.0) that i've been working on for the past month or so. it's called hotcell and it lets you create/pause/manage sandboxes on any device (your laptop, linux vm, bare metal).i've tested it against various benchmarks that i found on ...
-
-📖 [Read original article](https://github.com/sinameraji/hotcell)
+📖 [Read original article](https://github.com/xyTom/coding-tools-mcp)
 
 ---
