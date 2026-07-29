@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-07-26"
 date: "2026-07-26"
 source: "MarkTechPost"
-count: 5
+count: 3
 ---
 
 # MarkTechPost - 2026-07-26
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ The KwaiKAT Team at Kuaishou has published the KAT-Coder-V2.5 technical report, 
 Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a foundation model architecture that pretrains on raw video with no action labels at all. Their test system ...
 
 📖 [Read original article](https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/)
-
----
-
-## 4. FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics
-
-**Author:** Sana Hassan  
-**Published:** 7/26/2026, 8:38:09 AM  
-**Categories:** Artificial Intelligence, Editors Pick, Machine Learning, Staff, Technology, Tutorials  
-
-In this tutorial, we explore FAIRChem v2 and the UMA universal machine-learning interatomic potential as a unified framework for atomistic simulation across molecular chemistry, catalysis, and inorganic materials. We configure an environment, authenticate with Hugging Face to access the gated UMA mo...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/26/fairchem-v2-uma-for-multidomain-atomistic-simulation-across-molecules-catalysts-materials-vibrations-and-molecular-dynamics/)
-
----
-
-## 5. Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM
-
-**Author:** Asif Razzaq  
-**Published:** 7/26/2026, 12:12:57 AM  
-**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Security, Software Engineering, Staff, Tech News, Technology  
-
-Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what the...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/)
 
 ---
