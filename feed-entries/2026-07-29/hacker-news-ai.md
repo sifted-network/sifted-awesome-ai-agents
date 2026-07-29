@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: A verification browser for AI agents – 13ms windows, one-call checks
+## 1. Ask HN: Are you ready for non crashing valuations for AI?
 
-**Author:** hongnoul_  
-**Published:** 7/29/2026, 2:05:30 PM  
+**Author:** kingleopold  
+**Published:** 7/29/2026, 7:06:15 PM  
 **Categories:** -  
 
-Article URL: https://github.com/hongnoul/hwatu Comments URL: https://news.ycombinator.com/item?id=49097727 Points: 2 # Comments: 0
+They are printing and will print more to save, help double digit $trillions for AI and all big tech. This is such a simple fact that somehow most tech people can't get right. are you people ready for this timeline? Ask LLM or ask your inv. banker if you don't get it. Comments URL: https://news.ycomb...
 
-📖 [Read original article](https://github.com/hongnoul/hwatu)
+📖 [Read original article](https://news.ycombinator.com/item?id=49101639)
 
 ---
 
-## 2. Writing the PHP Virtual Machine in Rust (With a Lot of Help from AI)
+## 2. Epoch.ai: Parallelization constraints could delay a technological singularity
 
-**Author:** MyKiwi  
-**Published:** 7/29/2026, 2:03:07 PM  
+**Author:** dataking  
+**Published:** 7/29/2026, 6:59:15 PM  
 **Categories:** -  
 
-Article URL: https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai Comments URL: https://news.ycombinator.com/item?id=49097688 Points: 1 # Comments: 0
+Article URL: https://twitter.com/epochairesearch/status/2082534303955890505 Comments URL: https://news.ycombinator.com/item?id=49101556 Points: 2 # Comments: 0
 
-📖 [Read original article](https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai)
+📖 [Read original article](https://twitter.com/epochairesearch/status/2082534303955890505)
 
 ---
 
-## 3. Am I in the Stack? (AI training opt-out)
+## 3. Lightweight, zero-dependency prompt that prevents AI agents from losing context
 
-**Author:** lionkor  
-**Published:** 7/29/2026, 2:00:34 PM  
+**Author:** sourdecor  
+**Published:** 7/29/2026, 6:57:27 PM  
 **Categories:** -  
 
-Article URL: https://huggingface.co/spaces/HuggingFaceCode/in-the-stack Comments URL: https://news.ycombinator.com/item?id=49097657 Points: 1 # Comments: 0
+Article URL: https://gist.github.com/sourdecor/78b2ff9016f3f597934150a3501427ff Comments URL: https://news.ycombinator.com/item?id=49101534 Points: 2 # Comments: 0
 
-📖 [Read original article](https://huggingface.co/spaces/HuggingFaceCode/in-the-stack)
+📖 [Read original article](https://gist.github.com/sourdecor/78b2ff9016f3f597934150a3501427ff)
 
 ---
 
-## 4. AI in Linux
+## 4. Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals
 
-**Author:** surprisetalk  
-**Published:** 7/29/2026, 2:00:03 PM  
+**Author:** cl42  
+**Published:** 7/29/2026, 6:57:10 PM  
 **Categories:** -  
 
-Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 2 # Comments: 0
+Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 4 # Comments: 1
 
-📖 [Read original article](https://drewdevault.com/blog/AI-in-Linux/)
+📖 [Read original article](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
 
 ---
 
-## 5. Seventy-five years of game AI, and every system plays a handful of games
+## 5. AI \"Proves\" Collatz Conjecture with Lean 4 Bug
 
-**Author:** kal9000  
-**Published:** 7/29/2026, 1:47:41 PM  
+**Author:** pfdietz  
+**Published:** 7/29/2026, 6:50:47 PM  
 **Categories:** -  
 
-Article URL: https://kallin.github.io/blog/game-ai-one-machine-any-game/ Comments URL: https://news.ycombinator.com/item?id=49097486 Points: 1 # Comments: 0
+Article URL: https://twitter.com/gro_tsen/status/2082483878480977959 Comments URL: https://news.ycombinator.com/item?id=49101465 Points: 5 # Comments: 0
 
-📖 [Read original article](https://kallin.github.io/blog/game-ai-one-machine-any-game/)
+📖 [Read original article](https://twitter.com/gro_tsen/status/2082483878480977959)
 
 ---
 
-## 6. AI-enabled jobs in the Philippines: an in-depth report
+## 6. Show HN: Mirrors – Improve AI agents with staging environments
 
-**Author:** char8  
-**Published:** 7/29/2026, 1:43:17 PM  
+**Author:** idyeetya  
+**Published:** 7/29/2026, 6:45:33 PM  
 **Categories:** -  
 
-Article URL: https://www.ccm.pm/posts/ph-ai-jobs-demand-2026-07 Comments URL: https://news.ycombinator.com/item?id=49097432 Points: 1 # Comments: 0
+Article URL: https://www.runmirrors.com/ Comments URL: https://news.ycombinator.com/item?id=49101398 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ccm.pm/posts/ph-ai-jobs-demand-2026-07)
+📖 [Read original article](https://www.runmirrors.com/)
 
 ---
 
-## 7. Cavdo AI – Fast, minimal AI assistant with modern UI cleek and for professional
+## 7. A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat
 
-**Author:** Cavdo-Ai  
-**Published:** 7/29/2026, 1:34:53 PM  
+**Author:** eth0up  
+**Published:** 7/29/2026, 6:45:19 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49097332 Points: 1 # Comments: 0
+Article URL: https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/ Comments URL: https://news.ycombinator.com/item?id=49101395 Points: 6 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49097332)
+📖 [Read original article](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/)
 
 ---
 
-## 8. Money, Bitcoin, and AI
+## 8. Opening Keynote by Chinese President Xi Jinping at 2026 World AI Conference
 
-**Author:** feulf  
-**Published:** 7/29/2026, 1:34:17 PM  
+**Author:** mooreds  
+**Published:** 7/29/2026, 6:29:54 PM  
 **Categories:** -  
 
-Article URL: https://aisocratic.org/money-bitcoin-ai Comments URL: https://news.ycombinator.com/item?id=49097317 Points: 1 # Comments: 0
+Article URL: https://english.www.gov.cn/news/202607/17/content_WS6a5a1172c6d00ca5f9a0c46b.html Comments URL: https://news.ycombinator.com/item?id=49101216 Points: 6 # Comments: 0
 
-📖 [Read original article](https://aisocratic.org/money-bitcoin-ai)
+📖 [Read original article](https://english.www.gov.cn/news/202607/17/content_WS6a5a1172c6d00ca5f9a0c46b.html)
 
 ---
 
-## 9. Cavdo AI – Fast, minimal AI assistant with no signup or login
+## 9. Wired's Kevin Kelly on Why AI Is a 50-Year Overnight Success [video]
 
-**Author:** Cavdo-Ai  
-**Published:** 7/29/2026, 1:32:59 PM  
+**Author:** thm  
+**Published:** 7/29/2026, 6:20:25 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49097303 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=s4Ld3ZkM0Do Comments URL: https://news.ycombinator.com/item?id=49101088 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49097303)
+📖 [Read original article](https://www.youtube.com/watch?v=s4Ld3ZkM0Do)
 
 ---
 
-## 10. Show HN: Anti AI AI Club
+## 10. The future belongs to AI maniacs
 
-**Author:** estelzhao  
-**Published:** 7/29/2026, 1:27:45 PM  
+**Author:** kaycebasques  
+**Published:** 7/29/2026, 6:18:32 PM  
 **Categories:** -  
 
-Article URL: https://antiaiaiclub.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49097239 Points: 1 # Comments: 0
+Article URL: https://marginalrevolution.com/marginalrevolution/2026/07/the-future-belongs-to-ai-maniacs.html Comments URL: https://news.ycombinator.com/item?id=49101061 Points: 2 # Comments: 0
 
-📖 [Read original article](https://antiaiaiclub.pages.dev/)
+📖 [Read original article](https://marginalrevolution.com/marginalrevolution/2026/07/the-future-belongs-to-ai-maniacs.html)
 
 ---
 
-## 11. Using AI to Strengthen Learning, Not Replace It
+## 11. Opendot: A terminal AI agent that snapshots every action so you can undo it
 
-**Author:** behindai  
-**Published:** 7/29/2026, 1:23:18 PM  
+**Author:** vedaant00  
+**Published:** 7/29/2026, 6:11:00 PM  
 **Categories:** -  
 
-Article URL: https://studywisdom.co.uk/ai-study-strategies-choosing-tools-that-strengthen-learning/ Comments URL: https://news.ycombinator.com/item?id=49097194 Points: 1 # Comments: 0
+Article URL: https://github.com/vedaant00/opendot Comments URL: https://news.ycombinator.com/item?id=49100984 Points: 1 # Comments: 0
 
-📖 [Read original article](https://studywisdom.co.uk/ai-study-strategies-choosing-tools-that-strengthen-learning/)
+📖 [Read original article](https://github.com/vedaant00/opendot)
 
 ---
 
-## 12. Show HN: Gitwhy – links AI coding sessions to Git commits before deletion
+## 12. Open weights vs. closed: An AI civil war's afoot, and the stakes are existential
 
-**Author:** mehrtan  
-**Published:** 7/29/2026, 1:22:33 PM  
+**Author:** CrankyBear  
+**Published:** 7/29/2026, 6:10:49 PM  
 **Categories:** -  
 
-Article URL: https://github.com/mehrtam/gitwhy Comments URL: https://news.ycombinator.com/item?id=49097185 Points: 1 # Comments: 0
+Article URL: https://www.zdnet.com/article/open-weight-ai-civil-war/ Comments URL: https://news.ycombinator.com/item?id=49100983 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/mehrtam/gitwhy)
+📖 [Read original article](https://www.zdnet.com/article/open-weight-ai-civil-war/)
 
 ---
 
-## 13. Show HN: Cadence Money – a budgeting app with no AI features, just an MCP server
+## 13. Mark Zuckerberg says US should not ban Chinese AI
 
-**Author:** travhogan  
-**Published:** 7/29/2026, 1:16:07 PM  
+**Author:** thm  
+**Published:** 7/29/2026, 6:03:52 PM  
 **Categories:** -  
 
-I thought I could make a personal finance app that was simpler, smarter and more privacy-focused than Monarch, YNAB and Copilot. I believe I have, but today that's up to you.While the classic story of using a variety of "analog" tools to manage money does apply to me, the main pillars that pushed me...
+Article URL: https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4 Comments URL: https://news.ycombinator.com/item?id=49100891 Points: 6 # Comments: 0
 
-📖 [Read original article](https://www.cadencemoney.com)
+📖 [Read original article](https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4)
 
 ---
 
-## 14. Show HN: ButterClaw – AI agent runtime security, SIGKILL on breach, no cloud
+## 14. Secure, Fast, and Extensible Sandbox Runtime for AI Agents
 
-**Author:** butterclaw-tech  
-**Published:** 7/29/2026, 1:12:47 PM  
+**Author:** hek2sch  
+**Published:** 7/29/2026, 6:03:10 PM  
 **Categories:** -  
 
-Article URL: https://github.com/butterclaw-tech/butterclaw Comments URL: https://news.ycombinator.com/item?id=49097073 Points: 2 # Comments: 0
+Article URL: https://github.com/TencentCloud/CubeSandbox Comments URL: https://news.ycombinator.com/item?id=49100880 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/butterclaw-tech/butterclaw)
+📖 [Read original article](https://github.com/TencentCloud/CubeSandbox)
 
 ---
 
-## 15. Show HN: Job Finder India – an honest job-fit tool that runs in your AI CLI
+## 15. Ask HN: Does Brook's Law continue to hold in the age of AI?
 
-**Author:** harsh_garg95  
-**Published:** 7/29/2026, 1:11:07 PM  
+**Author:** erikig  
+**Published:** 7/29/2026, 5:53:48 PM  
 **Categories:** -  
 
-Article URL: https://github.com/harshgarg95/job-finder-india Comments URL: https://news.ycombinator.com/item?id=49097061 Points: 2 # Comments: 0
+Brooks's Law states that adding more people to a late software project will make it even later.In your practical experience does this still apply in the age of AI?Does it also apply when adding agents to projects that are already behind schedule? Comments URL: https://news.ycombinator.com/item?id=49...
 
-📖 [Read original article](https://github.com/harshgarg95/job-finder-india)
+📖 [Read original article](https://news.ycombinator.com/item?id=49100752)
 
 ---
 
-## 16. Build AI Agents for Frontline Worker in Seconds
+## 16. Give every AI project its own computer
 
-**Author:** yodi  
-**Published:** 7/29/2026, 1:09:03 PM  
+**Author:** futrx  
+**Published:** 7/29/2026, 5:46:13 PM  
 **Categories:** -  
 
-Article URL: https://www.dagploy.com Comments URL: https://news.ycombinator.com/item?id=49097042 Points: 2 # Comments: 1
+Article URL: https://github.com/futrx-com/remote.futrx Comments URL: https://news.ycombinator.com/item?id=49100656 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.dagploy.com)
+📖 [Read original article](https://github.com/futrx-com/remote.futrx)
 
 ---
 
-## 17. What AI developers could learn from Ernest Hemingway?
+## 17. In China, people are renting out their faces to AI
 
-**Author:** sedovsek  
-**Published:** 7/29/2026, 1:02:16 PM  
+**Author:** antondd  
+**Published:** 7/29/2026, 5:41:47 PM  
 **Categories:** -  
 
-Article URL: https://galjot.si/what-ai-developers-could-learn-from-ernest-hemingway Comments URL: https://news.ycombinator.com/item?id=49096972 Points: 2 # Comments: 0
+Article URL: https://restofworld.org/2026/china-ai-microdramas-face-licensing/ Comments URL: https://news.ycombinator.com/item?id=49100598 Points: 2 # Comments: 0
 
-📖 [Read original article](https://galjot.si/what-ai-developers-could-learn-from-ernest-hemingway)
+📖 [Read original article](https://restofworld.org/2026/china-ai-microdramas-face-licensing/)
 
 ---
 
-## 18. After the AI Crash
+## 18. What happens when you put AI to work deciphering lost languages?
 
-**Author:** sysoleg  
-**Published:** 7/29/2026, 1:00:39 PM  
+**Author:** staplung  
+**Published:** 7/29/2026, 5:40:53 PM  
 **Categories:** -  
 
-Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 52 # Comments: 79
+Article URL: https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238 Comments URL: https://news.ycombinator.com/item?id=49100590 Points: 1 # Comments: 0
 
-📖 [Read original article](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
+📖 [Read original article](https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238)
 
 ---
 
-## 19. Show HN: A Persistent AI RPG Engine Built with React SPA and Supabase
+## 19. Blocking AI Crawlers on Your Mastodon Server, Nginx Edition
 
-**Author:** mansueli  
-**Published:** 7/29/2026, 12:58:15 PM  
+**Author:** speckx  
+**Published:** 7/29/2026, 5:39:57 PM  
 **Categories:** -  
 
-Article URL: https://vampirolife.com/en Comments URL: https://news.ycombinator.com/item?id=49096914 Points: 3 # Comments: 0
+Article URL: https://justinribeiro.com/chronicle/2026/07/28/blocking-ai-crawlers-on-your-mastodon-server-nginx-edition/ Comments URL: https://news.ycombinator.com/item?id=49100580 Points: 1 # Comments: 0
 
-📖 [Read original article](https://vampirolife.com/en)
+📖 [Read original article](https://justinribeiro.com/chronicle/2026/07/28/blocking-ai-crawlers-on-your-mastodon-server-nginx-edition/)
 
 ---
 
-## 20. Show HN: Echologue – the private AI voice journal I built for myself
+## 20. Big Companies Are Starting to Hire Again, Defying Predictions of AI Wipeout
 
-**Author:** arisAlexis  
-**Published:** 7/29/2026, 12:43:36 PM  
+**Author:** theanonymousone  
+**Published:** 7/29/2026, 5:37:00 PM  
 **Categories:** -  
 
-I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features:* Voice first* Private first* AI chat* Automatic tagging, meaning extraction, and semantic retrieval using embeddings stored locally* Export to LLMthe AI angle is especially interesti...
+Article URL: https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99 Comments URL: https://news.ycombinator.com/item?id=49100549 Points: 12 # Comments: 2
 
-📖 [Read original article](https://echologue.com/)
+📖 [Read original article](https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99)
 
 ---
