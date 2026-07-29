@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-28"
 date: "2026-07-28"
 source: "qbitai"
-count: 2
+count: 1
 ---
 
 # qbitai - 2026-07-28
 
-2 items collected.
+1 items collected.
 
 ---
 
@@ -20,17 +20,5 @@ count: 2
 把搜索能力开放给Agent了
 
 📖 [Read original article](https://www.qbitai.com/2026/07/461961.html)
-
----
-
-## 2. Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外
-
-**Author:** 量子位的朋友们  
-**Published:** 7/28/2026, 8:17:05 AM  
-**Categories:** 资讯, 百度  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/461949.html)
 
 ---
