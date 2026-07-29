@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. 1 deceased software-frog, a rogue AI and two hacked corporations
+## 1. Show HN: A verification browser for AI agents – 13ms windows, one-call checks
 
-**Author:** tosh  
-**Published:** 7/29/2026, 8:29:15 AM  
+**Author:** hongnoul_  
+**Published:** 7/29/2026, 2:05:30 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/theonejvo/status/2082319747342045267 Comments URL: https://news.ycombinator.com/item?id=49094776 Points: 1 # Comments: 0
+Article URL: https://github.com/hongnoul/hwatu Comments URL: https://news.ycombinator.com/item?id=49097727 Points: 2 # Comments: 0
 
-📖 [Read original article](https://twitter.com/theonejvo/status/2082319747342045267)
+📖 [Read original article](https://github.com/hongnoul/hwatu)
 
 ---
 
-## 2. The Actual Reason Why Google \"Fell Out\" of the AI Race Changes Everything
+## 2. Writing the PHP Virtual Machine in Rust (With a Lot of Help from AI)
 
-**Author:** Michelangelo11  
-**Published:** 7/29/2026, 8:12:47 AM  
+**Author:** MyKiwi  
+**Published:** 7/29/2026, 2:03:07 PM  
 **Categories:** -  
 
-Article URL: https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell Comments URL: https://news.ycombinator.com/item?id=49094691 Points: 1 # Comments: 1
+Article URL: https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai Comments URL: https://news.ycombinator.com/item?id=49097688 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell)
+📖 [Read original article](https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai)
 
 ---
 
-## 3. Software companies face existential question as AI changes what customers buy
+## 3. Am I in the Stack? (AI training opt-out)
 
-**Author:** stosssik  
-**Published:** 7/29/2026, 7:44:04 AM  
+**Author:** lionkor  
+**Published:** 7/29/2026, 2:00:34 PM  
 **Categories:** -  
 
-Article URL: https://www.bizjournals.com/sanjose/news/2026/07/27/ai-software-sell-outcomes-tools.html Comments URL: https://news.ycombinator.com/item?id=49094514 Points: 1 # Comments: 0
+Article URL: https://huggingface.co/spaces/HuggingFaceCode/in-the-stack Comments URL: https://news.ycombinator.com/item?id=49097657 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bizjournals.com/sanjose/news/2026/07/27/ai-software-sell-outcomes-tools.html)
+📖 [Read original article](https://huggingface.co/spaces/HuggingFaceCode/in-the-stack)
 
 ---
 
-## 4. ExploitGym AI benchmark source code
+## 4. AI in Linux
 
-**Author:** joshka  
-**Published:** 7/29/2026, 7:40:13 AM  
+**Author:** surprisetalk  
+**Published:** 7/29/2026, 2:00:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/sunblaze-ucb/exploitgym/ Comments URL: https://news.ycombinator.com/item?id=49094493 Points: 1 # Comments: 0
+Article URL: https://drewdevault.com/blog/AI-in-Linux/ Comments URL: https://news.ycombinator.com/item?id=49097649 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/sunblaze-ucb/exploitgym/)
+📖 [Read original article](https://drewdevault.com/blog/AI-in-Linux/)
 
 ---
 
-## 5. Preventing Data-Purpose Laundering by Agentic AI
+## 5. Seventy-five years of game AI, and every system plays a handful of games
 
-**Author:** sangamdas  
-**Published:** 7/29/2026, 7:39:11 AM  
+**Author:** kal9000  
+**Published:** 7/29/2026, 1:47:41 PM  
 **Categories:** -  
 
-Article URL: https://futurium.ec.europa.eu/en/apply-ai-alliance/community-content/preventing-data-purpose-laundering-agentic-ai-hardware-rooted-pre-effectuation-layer-gdpr-purpose Comments URL: https://news.ycombinator.com/item?id=49094483 Points: 1 # Comments: 0
+Article URL: https://kallin.github.io/blog/game-ai-one-machine-any-game/ Comments URL: https://news.ycombinator.com/item?id=49097486 Points: 1 # Comments: 0
 
-📖 [Read original article](https://futurium.ec.europa.eu/en/apply-ai-alliance/community-content/preventing-data-purpose-laundering-agentic-ai-hardware-rooted-pre-effectuation-layer-gdpr-purpose)
+📖 [Read original article](https://kallin.github.io/blog/game-ai-one-machine-any-game/)
 
 ---
 
-## 6. Which mobile AI agent is the most powerful in 2026
+## 6. AI-enabled jobs in the Philippines: an in-depth report
 
-**Author:** daniela-vera  
-**Published:** 7/29/2026, 7:38:09 AM  
+**Author:** char8  
+**Published:** 7/29/2026, 1:43:17 PM  
 **Categories:** -  
 
-Article URL: https://knightli.com/en/2026/05/29/mobile-gui-agent-projects-comparison/ Comments URL: https://news.ycombinator.com/item?id=49094476 Points: 4 # Comments: 3
+Article URL: https://www.ccm.pm/posts/ph-ai-jobs-demand-2026-07 Comments URL: https://news.ycombinator.com/item?id=49097432 Points: 1 # Comments: 0
 
-📖 [Read original article](https://knightli.com/en/2026/05/29/mobile-gui-agent-projects-comparison/)
+📖 [Read original article](https://www.ccm.pm/posts/ph-ai-jobs-demand-2026-07)
 
 ---
 
-## 7. What our AI guiding principles mean – Wagtail CMS
+## 7. Cavdo AI – Fast, minimal AI assistant with modern UI cleek and for professional
 
-**Author:** rbanffy  
-**Published:** 7/29/2026, 7:35:52 AM  
+**Author:** Cavdo-Ai  
+**Published:** 7/29/2026, 1:34:53 PM  
 **Categories:** -  
 
-Article URL: https://wagtail.org/blog/what-our-ai-guiding-principles-actually-mean/ Comments URL: https://news.ycombinator.com/item?id=49094465 Points: 1 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49097332 Points: 1 # Comments: 0
 
-📖 [Read original article](https://wagtail.org/blog/what-our-ai-guiding-principles-actually-mean/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49097332)
 
 ---
 
-## 8. AI and democracy: the right to resist optimization
+## 8. Money, Bitcoin, and AI
 
-**Author:** inferhaven  
-**Published:** 7/29/2026, 7:28:55 AM  
+**Author:** feulf  
+**Published:** 7/29/2026, 1:34:17 PM  
 **Categories:** -  
 
-Article URL: https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/ Comments URL: https://news.ycombinator.com/item?id=49094409 Points: 2 # Comments: 0
+Article URL: https://aisocratic.org/money-bitcoin-ai Comments URL: https://news.ycombinator.com/item?id=49097317 Points: 1 # Comments: 0
 
-📖 [Read original article](https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/)
+📖 [Read original article](https://aisocratic.org/money-bitcoin-ai)
 
 ---
 
-## 9. Scientists at OpenAI and Anthropic ask U.S. for tools to pace AI development
+## 9. Cavdo AI – Fast, minimal AI assistant with no signup or login
 
-**Author:** geox  
-**Published:** 7/29/2026, 7:21:48 AM  
+**Author:** Cavdo-Ai  
+**Published:** 7/29/2026, 1:32:59 PM  
 **Categories:** -  
 
-Article URL: https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727 Comments URL: https://news.ycombinator.com/item?id=49094372 Points: 2 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49097303 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727)
+📖 [Read original article](https://news.ycombinator.com/item?id=49097303)
 
 ---
 
-## 10. Show HN: Antics: Drop-in multiplayer for your AI-built games
+## 10. Show HN: Anti AI AI Club
 
-**Author:** eric_khun  
-**Published:** 7/29/2026, 7:09:51 AM  
+**Author:** estelzhao  
+**Published:** 7/29/2026, 1:27:45 PM  
 **Categories:** -  
 
-Hey HN, We started out building a whole game-making platform: engine, editor, templates, the lot. It was a slog, and it kept fighting the thing that made it interesting: the models got good. With Opus 5, Fable 5, SOL 5.6, a one-prompt Three.js or Canvas game already looks genuinely great, and the mo...
+Article URL: https://antiaiaiclub.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49097239 Points: 1 # Comments: 0
 
-📖 [Read original article](https://antics.gg/)
+📖 [Read original article](https://antiaiaiclub.pages.dev/)
 
 ---
 
-## 11. Is AI hype cooling down? I built a data-driven dashboard
+## 11. Using AI to Strengthen Learning, Not Replace It
 
-**Author:** laurentiurad  
-**Published:** 7/29/2026, 6:58:23 AM  
+**Author:** behindai  
+**Published:** 7/29/2026, 1:23:18 PM  
 **Categories:** -  
 
-Article URL: https://laurentiugabriel.github.io/is-ai-hype-cooling-down/ Comments URL: https://news.ycombinator.com/item?id=49094225 Points: 3 # Comments: 1
+Article URL: https://studywisdom.co.uk/ai-study-strategies-choosing-tools-that-strengthen-learning/ Comments URL: https://news.ycombinator.com/item?id=49097194 Points: 1 # Comments: 0
 
-📖 [Read original article](https://laurentiugabriel.github.io/is-ai-hype-cooling-down/)
+📖 [Read original article](https://studywisdom.co.uk/ai-study-strategies-choosing-tools-that-strengthen-learning/)
 
 ---
 
-## 12. Sam Altman says people don't want an AI to act as CEO
+## 12. Show HN: Gitwhy – links AI coding sessions to Git commits before deletion
 
-**Author:** vrganj  
-**Published:** 7/29/2026, 6:31:43 AM  
+**Author:** mehrtan  
+**Published:** 7/29/2026, 1:22:33 PM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/sam-altman-ai-ceo-humans-work-future-2026-7 Comments URL: https://news.ycombinator.com/item?id=49094061 Points: 10 # Comments: 8
+Article URL: https://github.com/mehrtam/gitwhy Comments URL: https://news.ycombinator.com/item?id=49097185 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.businessinsider.com/sam-altman-ai-ceo-humans-work-future-2026-7)
+📖 [Read original article](https://github.com/mehrtam/gitwhy)
 
 ---
 
-## 13. Show HN: Self-hosted AI gateway – MCP, budget, PII, smart router, fallback
+## 13. Show HN: Cadence Money – a budgeting app with no AI features, just an MCP server
 
-**Author:** ykocaman  
-**Published:** 7/29/2026, 6:19:29 AM  
+**Author:** travhogan  
+**Published:** 7/29/2026, 1:16:07 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ilter-ai/ilter Comments URL: https://news.ycombinator.com/item?id=49093993 Points: 1 # Comments: 0
+I thought I could make a personal finance app that was simpler, smarter and more privacy-focused than Monarch, YNAB and Copilot. I believe I have, but today that's up to you.While the classic story of using a variety of "analog" tools to manage money does apply to me, the main pillars that pushed me...
 
-📖 [Read original article](https://github.com/ilter-ai/ilter)
+📖 [Read original article](https://www.cadencemoney.com)
 
 ---
 
-## 14. Three big AI trends collide
+## 14. Show HN: ButterClaw – AI agent runtime security, SIGKILL on breach, no cloud
 
-**Author:** gmargari  
-**Published:** 7/29/2026, 6:15:02 AM  
+**Author:** butterclaw-tech  
+**Published:** 7/29/2026, 1:12:47 PM  
 **Categories:** -  
 
-Article URL: https://www.axios.com/2026/07/09/ai-trends-fable-5-sol-grok-china-us Comments URL: https://news.ycombinator.com/item?id=49093963 Points: 2 # Comments: 0
+Article URL: https://github.com/butterclaw-tech/butterclaw Comments URL: https://news.ycombinator.com/item?id=49097073 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.axios.com/2026/07/09/ai-trends-fable-5-sol-grok-china-us)
+📖 [Read original article](https://github.com/butterclaw-tech/butterclaw)
 
 ---
 
-## 15. Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza
+## 15. Show HN: Job Finder India – an honest job-fit tool that runs in your AI CLI
 
-**Author:** jaykru  
-**Published:** 7/29/2026, 4:46:53 AM  
+**Author:** harsh_garg95  
+**Published:** 7/29/2026, 1:11:07 PM  
 **Categories:** -  
 
-Article URL: https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza Comments URL: https://news.ycombinator.com/item?id=49093509 Points: 33 # Comments: 8
+Article URL: https://github.com/harshgarg95/job-finder-india Comments URL: https://news.ycombinator.com/item?id=49097061 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza)
+📖 [Read original article](https://github.com/harshgarg95/job-finder-india)
 
 ---
 
-## 16. Cross-platform Shadow AI: Find, score, and report unmanaged AI
+## 16. Build AI Agents for Frontline Worker in Seconds
 
-**Author:** rflsandroni  
-**Published:** 7/29/2026, 4:44:18 AM  
+**Author:** yodi  
+**Published:** 7/29/2026, 1:09:03 PM  
 **Categories:** -  
 
-Article URL: https://www.npmjs.com/package/@guardion/shadow-ai Comments URL: https://news.ycombinator.com/item?id=49093496 Points: 2 # Comments: 0
+Article URL: https://www.dagploy.com Comments URL: https://news.ycombinator.com/item?id=49097042 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.npmjs.com/package/@guardion/shadow-ai)
+📖 [Read original article](https://www.dagploy.com)
 
 ---
 
-## 17. MonkeysCode and Capuchin AI: The Agentic IDE That Gives You Total Control
+## 17. What AI developers could learn from Ernest Hemingway?
 
-**Author:** monkeyscloud  
-**Published:** 7/29/2026, 4:03:34 AM  
+**Author:** sedovsek  
+**Published:** 7/29/2026, 1:02:16 PM  
 **Categories:** -  
 
-Article URL: https://monkeyscode.com/blog/introducing-monkeyscode-capuchin-the-agentic-ide-that-gives-you-total-control Comments URL: https://news.ycombinator.com/item?id=49093290 Points: 1 # Comments: 0
+Article URL: https://galjot.si/what-ai-developers-could-learn-from-ernest-hemingway Comments URL: https://news.ycombinator.com/item?id=49096972 Points: 2 # Comments: 0
 
-📖 [Read original article](https://monkeyscode.com/blog/introducing-monkeyscode-capuchin-the-agentic-ide-that-gives-you-total-control)
+📖 [Read original article](https://galjot.si/what-ai-developers-could-learn-from-ernest-hemingway)
 
 ---
 
-## 18. The rise of AI-written fiction book sales on Amazon, 2023-2026
+## 18. After the AI Crash
 
-**Author:** qingcharles  
-**Published:** 7/29/2026, 3:20:50 AM  
+**Author:** sysoleg  
+**Published:** 7/29/2026, 1:00:39 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/TuhinChakr/status/2082124139973030095 Comments URL: https://news.ycombinator.com/item?id=49093057 Points: 2 # Comments: 1
+Article URL: https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/ Comments URL: https://news.ycombinator.com/item?id=49096953 Points: 52 # Comments: 79
 
-📖 [Read original article](https://twitter.com/TuhinChakr/status/2082124139973030095)
+📖 [Read original article](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
 
 ---
 
-## 19. Show HN: MetrIQ – An AI fitness coach who supports you
+## 19. Show HN: A Persistent AI RPG Engine Built with React SPA and Supabase
 
-**Author:** zinas  
-**Published:** 7/29/2026, 3:19:19 AM  
+**Author:** mansueli  
+**Published:** 7/29/2026, 12:58:15 PM  
 **Categories:** -  
 
-metrIQ started as a spreadsheet for my own training. The numbers were fine, but a spreadsheet never tells you anything — it just holds what you typed.So I switched to asking ChatGPT. It could explain things, but it forgot my history, answered the same question differently on different days, couldn't...
+Article URL: https://vampirolife.com/en Comments URL: https://news.ycombinator.com/item?id=49096914 Points: 3 # Comments: 0
 
-📖 [Read original article](https://metriq.fitness)
+📖 [Read original article](https://vampirolife.com/en)
 
 ---
 
-## 20. The Internet of AI
+## 20. Show HN: Echologue – the private AI voice journal I built for myself
 
-**Author:** simonpure  
-**Published:** 7/29/2026, 3:12:48 AM  
+**Author:** arisAlexis  
+**Published:** 7/29/2026, 12:43:36 PM  
 **Categories:** -  
 
-Article URL: https://om.co/2026/05/04/say-hello-to-the-internet-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49093021 Points: 1 # Comments: 0
+I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features:* Voice first* Private first* AI chat* Automatic tagging, meaning extraction, and semantic retrieval using embeddings stored locally* Export to LLMthe AI angle is especially interesti...
 
-📖 [Read original article](https://om.co/2026/05/04/say-hello-to-the-internet-of-ai/)
+📖 [Read original article](https://echologue.com/)
 
 ---
