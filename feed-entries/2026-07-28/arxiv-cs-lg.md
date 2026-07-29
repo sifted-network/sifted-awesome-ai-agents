@@ -449,7 +449,7 @@ arXiv:2607.22961v1 Announce Type: new Abstract: Verbalized Machine Learning (VML
 **Published:** 7/28/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.22972v1 Announce Type: new Abstract: Lean~4's \grind{} tactic combines congruence closure, \ematch{}ing, and case-splitting into a single automated solver, and like any such solver, it relies on hand-tuned heuristics to decide what to instantiate and where to case-split. These heuristics ...
+arXiv:2607.22972v2 Announce Type: new Abstract: Lean 4's grind tactic combines congruence closure, E-matching, and case-splitting into a single automated solver, and like any such solver, it relies on hand-tuned heuristics to decide what to instantiate and where to case-split. These heuristics are t...
 
 📖 [Read original article](https://arxiv.org/abs/2607.22972)
 
@@ -663,7 +663,7 @@ arXiv:2607.23191v1 Announce Type: new Abstract: Fine-tuned code LLMs can be cond
 
 **Author:** Youngseok Hwang, Joonsung Kwon, Geonwoo Lee, Hyunwoo Park  
 **Published:** 7/28/2026, 4:00:00 AM  
-**Categories:** cs.LG  
+**Categories:** cs.LG, cs.AI  
 
 arXiv:2607.23197v1 Announce Type: new Abstract: Anomaly detection on multivariate sensor time series is critical for industrial monitoring of cyber-physical systems (CPS), where even subtle deviations from normal behavior can indicate process disruption. Recent graph-based approaches have made signi...
 
@@ -677,7 +677,7 @@ arXiv:2607.23197v1 Announce Type: new Abstract: Anomaly detection on multivariat
 **Published:** 7/28/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.23198v1 Announce Type: new Abstract: We propose Variance-Preserving Orthogonal Selection (VPOS), a greedy framework for unsupervised feature selection that operates in the weighted PCA loading space. After each selection, VPOS projects out the chosen feature's variance direction via null-...
+arXiv:2607.23198v2 Announce Type: new Abstract: We propose Variance-Preserving Orthogonal Selection (VPOS), a greedy framework for unsupervised feature selection that operates in the weighted PCA loading space. After each selection, VPOS projects out the chosen feature's variance direction via null-...
 
 📖 [Read original article](https://arxiv.org/abs/2607.23198)
 
@@ -723,7 +723,7 @@ arXiv:2607.23237v1 Announce Type: new Abstract: Effective flood risk management 
 
 **Author:** Juntang Wang, Yihan Wang, Hao Wu, Jiayu Gao, Shixin Xu, Dongmian Zou  
 **Published:** 7/28/2026, 4:00:00 AM  
-**Categories:** cs.LG  
+**Categories:** cs.LG, q-bio.QM  
 
 arXiv:2607.23284v1 Announce Type: new Abstract: Automated sleep staging is increasingly used in large-scale studies to derive sleep-architecture endpoints: total sleep time, REM latency, sleep efficiency, and bout-duration statistics. Deep learning models achieve epoch-level accuracy approaching int...
 
@@ -845,7 +845,7 @@ arXiv:2607.23370v1 Announce Type: new Abstract: Bitcoin price prediction on sub-
 **Published:** 7/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.23388v1 Announce Type: new Abstract: As constrained learning becomes increasingly common, models are trained under explicit feasibility requirements to enforce fairness, safety, robustness, regulariza- tion, and physics or logic constraints. Understanding how training samples in- fluence ...
+arXiv:2607.23388v2 Announce Type: new Abstract: As constrained learning becomes increasingly common, models are trained under explicit feasibility requirements to enforce fairness, safety, robustness, regulariza- tion, and physics or logic constraints. Understanding how training samples in- fluence ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.23388)
 
@@ -1289,7 +1289,7 @@ arXiv:2607.23765v1 Announce Type: new Abstract: Large language models (LLMs) ach
 **Published:** 7/28/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.23770v1 Announce Type: new Abstract: In this work we study Automatic Target Recognition (ATR) for Synthetic Aperture Sonar (SAS) data with a focus on deep neural networks (DNNs). The main challenge in training DNNs for SAS ATR arises from the limited quantity of labeled target examples, w...
+arXiv:2607.23770v2 Announce Type: new Abstract: In this work we study Automatic Target Recognition (ATR) for Synthetic Aperture Sonar (SAS) data with a focus on deep neural networks (DNNs). The main challenge in training DNNs for SAS-ATR arises from the limited quantity of labeled target examples du...
 
 📖 [Read original article](https://arxiv.org/abs/2607.23770)
 
@@ -1349,7 +1349,7 @@ arXiv:2607.23837v1 Announce Type: new Abstract: Large language models generalize
 **Published:** 7/28/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.23856v1 Announce Type: new Abstract: A Last-Layer Ensemble (LLE), $K$ linear units on one shared frozen feature map, is an efficient single-pass approach to the disagreement-based epistemic uncertainty for out-of-distribution (OOD) detection. Its weakness is that members share the backbon...
+arXiv:2607.23856v2 Announce Type: new Abstract: A Last-Layer Ensemble (LLE), $K$ linear units on one shared frozen feature map, is an efficient single-pass approach to the disagreement-based epistemic uncertainty for out-of-distribution (OOD) detection. Its weakness is that members share the backbon...
 
 📖 [Read original article](https://arxiv.org/abs/2607.23856)
 
@@ -1889,7 +1889,7 @@ arXiv:2607.24522v1 Announce Type: new Abstract: While on-policy distillation (OP
 **Published:** 7/28/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.24532v1 Announce Type: new Abstract: Recent years have seen a rapid expansion in the production of large-scale geospatial maps derived from Earth observation (EO) data, driven largely by advances in machine learning (ML) and large computing infrastructure. Although the barrier to generati...
+arXiv:2607.24532v2 Announce Type: new Abstract: Recent years have seen a rapid expansion in the production of large-scale geospatial maps derived from Earth observation (EO) data, driven largely by advances in machine learning (ML) and large computing infrastructure. Although the barrier to generati...
 
 📖 [Read original article](https://arxiv.org/abs/2607.24532)
 
@@ -2621,7 +2621,7 @@ arXiv:2607.22951v1 Announce Type: cross Abstract: Reliability assessment of larg
 **Published:** 7/28/2026, 4:00:00 AM  
 **Categories:** math.ST, cs.LG, math.PR, stat.ML, stat.TH  
 
-arXiv:2607.22971v1 Announce Type: cross Abstract: Let $X = (X_1, \ldots, X_n)$ be a random vector from any Borel probability law on $\mathbb{R}_+^n$. We revisit the problem of deriving a lower confidence bound (LCB) on a scalar parameter of that law. We recast classical work, beginning with Buehler,...
+arXiv:2607.22971v2 Announce Type: cross Abstract: Let $X = (X_1, \ldots, X_n)$ be a random vector from any Borel probability law on $\mathbb{R}_+^n$. We revisit the problem of deriving a lower confidence bound (LCB) on a scalar parameter of that law. We recast classical work, beginning with Buehler,...
 
 📖 [Read original article](https://arxiv.org/abs/2607.22971)
 
@@ -3257,7 +3257,7 @@ arXiv:2607.23636v1 Announce Type: cross Abstract: Data profiling aims to extract
 **Published:** 7/28/2026, 4:00:00 AM  
 **Categories:** stat.ME, cs.LG  
 
-arXiv:2607.23639v1 Announce Type: cross Abstract: This paper studies convolution rank regression (CRR) over decentralized distributed learning networks. We propose a novel decentralized CRR framework, in which estimators are obtained by solving consensus-constrained optimization with kernel-smoothed...
+arXiv:2607.23639v2 Announce Type: cross Abstract: This paper studies convolution rank regression (CRR) over decentralized distributed learning networks. We propose a novel decentralized CRR framework, in which estimators are obtained by solving consensus-constrained optimization with kernel-smoothed...
 
 📖 [Read original article](https://arxiv.org/abs/2607.23639)
 
@@ -4661,7 +4661,7 @@ arXiv:2605.12759v2 Announce Type: replace Abstract: The Lightning Network (LN) i
 **Published:** 7/28/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2605.14953v2 Announce Type: replace Abstract: We address the problem of conformal selection, where an agent must select a minimal subset of options to ensure that at least one ``success'' is identified with a pre-specified target probability $\phi$. While traditional online conformal predictio...
+arXiv:2605.14953v3 Announce Type: replace Abstract: We address the problem of conformal selection, where an agent must select a low-cost subset of options to ensure that at least one "success" is identified at a pre-specified target rate $\phi$. While traditional online conformal prediction focuses ...
 
 📖 [Read original article](https://arxiv.org/abs/2605.14953)
 
@@ -4997,7 +4997,7 @@ arXiv:2607.18290v2 Announce Type: replace Abstract: In recent years, Kolmogorov-
 **Published:** 7/28/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.18553v2 Announce Type: replace Abstract: Can a language model read the quality of its ongoing computation, and can an external intervention turn that readout into better outcomes? We test both questions in a frozen 2.6B looped transformer, Ouro-RLTT. On GSM8K, a strict pre-answer probe ex...
+arXiv:2607.18553v3 Announce Type: replace Abstract: Can a language model read the quality of its ongoing computation, and can an external intervention turn that readout into better outcomes? We test both questions in a frozen 2.6B looped transformer, Ouro-RLTT. On GSM8K, a strict pre-answer probe ex...
 
 📖 [Read original article](https://arxiv.org/abs/2607.18553)
 
@@ -5465,7 +5465,7 @@ arXiv:2602.05547v2 Announce Type: replace-cross Abstract: RL-based post-training
 **Published:** 7/28/2026, 4:00:00 AM  
 **Categories:** eess.SY, cs.LG, cs.SY  
 
-arXiv:2602.14947v2 Announce Type: replace-cross Abstract: This paper presents a physics-constrained neural network framework for dynamic modeling of saturable synchronous machines, including spatial harmonics. The proposed architecture embeds gradient networks directly into the fundamental machine e...
+arXiv:2602.14947v3 Announce Type: replace-cross Abstract: This paper presents a physics-constrained neural network framework for dynamic modeling of saturable synchronous machines, including spatial harmonics. The proposed architecture embeds gradient networks directly into the fundamental machine e...
 
 📖 [Read original article](https://arxiv.org/abs/2602.14947)
 
