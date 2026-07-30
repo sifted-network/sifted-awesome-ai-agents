@@ -17,7 +17,7 @@ count: 340
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.24758v1 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment a...
+arXiv:2607.24758v2 Announce Type: new Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment a...
 
 📖 [Read original article](https://arxiv.org/abs/2607.24758)
 
@@ -473,7 +473,7 @@ arXiv:2607.25076v1 Announce Type: new Abstract: Every major wave of platform sof
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.MA  
 
-arXiv:2607.25082v1 Announce Type: new Abstract: Open agent systems (OASYS) are increasingly prevalent in real-world domains where the sets of agents and tasks change unpredictably over time. Such openness, including agent openness (AO) and task openness (TO), poses a fundamental challenge to multi-a...
+arXiv:2607.25082v2 Announce Type: new Abstract: Open agent systems (OASYS) are increasingly prevalent in real-world domains where the sets of agents and tasks change unpredictably over time. Such openness, including agent openness (AO) and task openness (TO), poses a fundamental challenge to multi-a...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25082)
 
@@ -581,7 +581,7 @@ arXiv:2607.25157v1 Announce Type: new Abstract: Discrete masked diffusion langua
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.25166v1 Announce Type: new Abstract: AI chatbots can be ``sycophantic,'' or overly agreeable and flattering toward users. Sycophantic AI has been shown to entrench attitudes, yet users frequently fail to recognize it (a phenomenon we call ``sycophancy blindness''). We tested whether incre...
+arXiv:2607.25166v2 Announce Type: new Abstract: AI chatbots can be "sycophantic," or overly agreeable and flattering toward users. Sycophantic AI has been shown to entrench attitudes, yet users frequently fail to recognize it (a phenomenon we call "sycophancy blindness"). We tested whether increasin...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25166)
 
@@ -617,7 +617,7 @@ arXiv:2607.25244v1 Announce Type: new Abstract: Foundation models for 12-lead el
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.IR  
 
-arXiv:2607.25253v1 Announce Type: new Abstract: Online recommendation has traditionally taken place after a user enters a platform, which determines the candidate pool and the ranking shown to the user. LLM-based user agents enable a different recommendation process: a user specifies a need before c...
+arXiv:2607.25253v2 Announce Type: new Abstract: Online recommendation has traditionally taken place after a user enters a platform, which determines the candidate pool and the ranking shown to the user. LLM-based user agents enable a different recommendation process: a user specifies a need before c...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25253)
 
@@ -713,7 +713,7 @@ arXiv:2607.25340v1 Announce Type: new Abstract: The same episode of atrial fibri
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.SE  
 
-arXiv:2607.25364v1 Announce Type: new Abstract: Tool-using agents expose structured calls but commonly attach free-form rationales. Such rationales are neither authorization nor reliable introspection. We present Explanation-Bound Tool Execution (EBTE), a claim-carrying mediation layer that converts...
+arXiv:2607.25364v2 Announce Type: new Abstract: Tool-using agents expose structured calls but commonly attach free-form rationales. Such rationales are neither authorization nor reliable introspection. We present Explanation-Bound Tool Execution (EBTE), a claim-carrying mediation layer that converts...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25364)
 
@@ -989,7 +989,7 @@ arXiv:2607.25583v1 Announce Type: new Abstract: Parameter-efficient fine-tuning 
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.25597v1 Announce Type: new Abstract: The reactivity of lithium-metal electrolytes arises from the interplay of molecular functional groups, Li$^+$ solvation, and salt-anion participation. This interplay operates through the redistribution of electron density across donor, anion, and catio...
+arXiv:2607.25597v2 Announce Type: new Abstract: The reactivity of lithium-metal electrolytes arises from the interplay of molecular functional groups, Li$^+$ solvation, and salt-anion participation. This interplay operates through the redistribution of electron density across donor, anion, and catio...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25597)
 
@@ -1253,7 +1253,7 @@ arXiv:2607.25891v1 Announce Type: new Abstract: Evaluating AI agents in interact
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.25904v1 Announce Type: new Abstract: Graphical user interface task evaluation aims to determine whether a GUI agent has successfully completed a user instruction. Automated GUI task evaluation has received increasing attention because the evaluation results can serve as reward signals for...
+arXiv:2607.25904v2 Announce Type: new Abstract: Graphical user interface task evaluation aims to determine whether a GUI agent has successfully completed a user instruction. Automated GUI task evaluation has received increasing attention because the evaluation results can serve as reward signals for...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25904)
 
@@ -1745,7 +1745,7 @@ arXiv:2607.24846v1 Announce Type: cross Abstract: Traditional conversational rec
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** math.NT, cs.AI, math.GR  
 
-arXiv:2607.24847v1 Announce Type: cross Abstract: We introduce an extremal invariant associated with Chowla-type order conditions in finite groups. A nonempty subset $S$ of a finite group $G$ is called a Chowla set if every element of $S$ has order greater than $|S|$, and we write $\Ccal(G)$ for the...
+arXiv:2607.24847v2 Announce Type: cross Abstract: We introduce an extremal invariant associated with Chowla-type order conditions in finite groups. A nonempty subset $S$ of a finite group $G$ is called a Chowla set if every element of $S$ has order greater than $|S|$, and we write $C(G)$ for the max...
 
 📖 [Read original article](https://arxiv.org/abs/2607.24847)
 
@@ -1837,11 +1837,11 @@ arXiv:2607.24882v1 Announce Type: cross Abstract: Modern coding agents are usual
 
 ## 153. Beyond \"What to Retrieve\": Uncertainty in Retrieval-Augmented Code Generation
 
-**Author:** Chandan Kumar Sah, Xiaoli Lian, Li Zhang  
+**Author:** Chandan Kumar Sah, Li Zhang, Xiaoli Lian  
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.CL, cs.LG  
 
-arXiv:2607.24884v1 Announce Type: cross Abstract: Repository-level code generation relies on heterogeneous evidence whose relevance, compatibility, and completeness are inherently uncertain. Similar-code examples, repository context, and project-specific APIs may provide complementary information, b...
+arXiv:2607.24884v2 Announce Type: cross Abstract: Repository-level code generation relies on heterogeneous evidence whose relevance, compatibility, and completeness are inherently uncertain. Similar-code examples, repository context, and project-specific APIs may provide complementary information, b...
 
 📖 [Read original article](https://arxiv.org/abs/2607.24884)
 
@@ -2093,7 +2093,7 @@ arXiv:2607.25074v1 Announce Type: cross Abstract: Synthetic control (SC) matches
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2607.25094v1 Announce Type: cross Abstract: Human language is driven by unspoken beliefs and belief updates, making these critical to model for successful communication between large language models (LLMs) and their users. In this paper, we evaluate the ability of LLMs to recognize unspoken be...
+arXiv:2607.25094v2 Announce Type: cross Abstract: Human language is driven by unspoken beliefs and belief updates, making these critical to model for successful communication between large language models (LLMs) and their users. In this paper, we evaluate the ability of LLMs to recognize unspoken be...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25094)
 
@@ -2369,7 +2369,7 @@ arXiv:2607.25333v1 Announce Type: cross Abstract: Specula is a push-button agent
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2607.25335v1 Announce Type: cross Abstract: Prompt compression shortens LLM input to reduce inference cost, yet existing methods score token importance through LM forward passes. It remains questionable whether such nuanced, costly token selection is necessary. Compression requires identifying...
+arXiv:2607.25335v2 Announce Type: cross Abstract: Prompt compression shortens LLM input to reduce inference cost, yet existing methods score token importance through LM forward passes. It remains questionable whether such nuanced, costly token selection is necessary. Compression requires identifying...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25335)
 
@@ -2525,7 +2525,7 @@ arXiv:2607.25504v1 Announce Type: cross Abstract: Fine-grained weight pruning an
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2607.25522v1 Announce Type: cross Abstract: The rapid advancement of video generation models has led to the increasing misuse of image-to-video (I2V) models. Although substantial progress has been made in detecting AI-generated videos, proactive defenses against I2V models remain underexplored...
+arXiv:2607.25522v2 Announce Type: cross Abstract: The rapid advancement of video generation models has led to the increasing misuse of image-to-video (I2V) models. Although substantial progress has been made in detecting AI-generated videos, proactive defenses against I2V models remain underexplored...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25522)
 
@@ -2605,11 +2605,11 @@ arXiv:2607.25569v1 Announce Type: cross Abstract: Recent advances in 3D Gaussian
 
 ## 217. The LAIA Dataset: Labelled Attention for Intelligent Automobiles
 
-**Author:** A. Contreras, D. Porres, R. Abad, P. Cano, G. Villalonga, A. M. L\'opez, A. Hern\'andez-Sabat\'e  
+**Author:** A. Contreras, D. Porres, R. Abad, P. Cano, A. Levy, G. Villalonga, A. M. L\'opez, A. Hern\'andez-Sabat\'e  
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.SE  
 
-arXiv:2607.25570v1 Announce Type: cross Abstract: The development of autonomous vehicles (AVs) usually relies heavily on data-driven artificial intelligence (AI) models that require large volumes of sensor data with ground-truth annotations. While modular architectures are widely used, end-to-end dr...
+arXiv:2607.25570v2 Announce Type: cross Abstract: The development of autonomous vehicles (AVs) usually relies heavily on data-driven artificial intelligence (AI) models that require large volumes of sensor data with ground-truth annotations. While modular architectures are widely used, end-to-end dr...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25570)
 
@@ -2629,11 +2629,11 @@ arXiv:2607.25579v1 Announce Type: cross Abstract: Entity alignment (EA) identifi
 
 ## 219. Beyond Self-Knowledge: Propagating Uncertainty Across Reasoning and Retrieval in LLMs
 
-**Author:** Chandan Kumar Sah, Xiaoli Lian, Li Zhang  
+**Author:** Chandan Kumar Sah, Li Zhang, Xiaoli Lian  
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI, cs.CL  
 
-arXiv:2607.25600v1 Announce Type: cross Abstract: Retrieval-augmented generation improves knowledge-intensive question answering, but indiscriminate retrieval can introduce irrelevant evidence and unnecessary computation. We investigate whether verbalized confidence from black-box language models ca...
+arXiv:2607.25600v2 Announce Type: cross Abstract: Retrieval-augmented generation improves knowledge-intensive question answering, but indiscriminate retrieval can introduce irrelevant evidence and unnecessary computation. We investigate whether verbalized confidence from black-box language models ca...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25600)
 
@@ -2789,7 +2789,7 @@ arXiv:2607.25687v1 Announce Type: cross Abstract: Full-field reconstruction of a
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.IR  
 
-arXiv:2607.25718v1 Announce Type: cross Abstract: Large language model (LLM) agents increasingly rely on invoking external tools to complete real-world tasks. Tool retrieval, which selects a small task-relevant subset from a library of thousands of tools before the agent acts, has therefore become a...
+arXiv:2607.25718v2 Announce Type: cross Abstract: Large language model (LLM) agents increasingly rely on invoking external tools to complete real-world tasks. Tool retrieval, which selects a small task-relevant subset from a library of thousands of tools before the agent acts, has therefore become a...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25718)
 
@@ -3017,7 +3017,7 @@ arXiv:2607.25948v1 Announce Type: cross Abstract: Any-to-any models predict any 
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2607.25959v1 Announce Type: cross Abstract: Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when t...
+arXiv:2607.25959v2 Announce Type: cross Abstract: Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when t...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25959)
 
@@ -3029,7 +3029,7 @@ arXiv:2607.25959v1 Announce Type: cross Abstract: Wikipedia and Wikidata are wid
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2607.25961v1 Announce Type: cross Abstract: Ambivalence and hesitancy (A/H) are conflicting affective states that precede the delay or abandonment of health behaviour change. Recognition of A/H at the video level is difficult, since the signal arises from disagreement across and within facial,...
+arXiv:2607.25961v2 Announce Type: cross Abstract: Ambivalence and hesitancy (A/H) are conflicting affective states that precede the delay or abandonment of health behaviour change. Recognition of A/H at the video level is difficult, since the signal arises from disagreement across and within facial,...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25961)
 
@@ -4061,7 +4061,7 @@ arXiv:2607.22988v2 Announce Type: replace-cross Abstract: In Problem 6 of his 19
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.23388v2 Announce Type: replace-cross Abstract: As constrained learning becomes increasingly common, models are trained under explicit feasibility requirements to enforce fairness, safety, robustness, regulariza- tion, and physics or logic constraints. Understanding how training samples in...
+arXiv:2607.23388v3 Announce Type: replace-cross Abstract: As constrained learning becomes increasingly common, models are trained under explicit feasibility requirements to enforce fairness, safety, robustness, regulariza- tion, and physics or logic constraints. Understanding how training samples in...
 
 📖 [Read original article](https://arxiv.org/abs/2607.23388)
 
