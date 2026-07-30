@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-07-30"
 date: "2026-07-30"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-07-30
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Tencent Open-Sources AngelSpec: A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models
+## 1. Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration
+
+**Author:** Asif Razzaq  
+**Published:** 7/30/2026, 5:20:50 PM  
+**Categories:** Agentic AI, AI Infrastructure, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, New Releases, Physical AI, Robotics, Staff, Tech News, Technology, Vision Language Model  
+
+Google DeepMind has released Gemini Robotics 2, the intelligence layer for its next generation of robots. The release ships three models: a vision-language-action model for whole body humanoid control, Gemini Robotics ER 2 for embodied reasoning and task orchestration, and an on-device VLA that adap...
+
+📖 [Read original article](https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/)
+
+---
+
+## 2. Tencent Open-Sources AngelSpec: A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models
 
 **Author:** Michal Sutter  
 **Published:** 7/30/2026, 10:08:18 AM  
@@ -23,7 +35,7 @@ Tencent has released AngelSpec, an open-source torch-native framework for traini
 
 ---
 
-## 2. Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%
+## 3. Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%
 
 **Author:** Arnav Rai,&nbsp;Jean-marc Mommessin&nbsp;and&nbsp;Asif Razzaq  
 **Published:** 7/30/2026, 7:43:29 AM  
@@ -35,7 +47,7 @@ Marktechpost AI has released Token Saver, an open-source MCP extension for Claud
 
 ---
 
-## 3. Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer
+## 4. Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer
 
 **Author:** Asif Razzaq  
 **Published:** 7/30/2026, 5:45:53 AM  
@@ -47,7 +59,7 @@ Three terms now compete for the same line in AI engineering job descriptions. Pr
 
 ---
 
-## 4. Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training
+## 5. Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training
 
 **Author:** Michal Sutter  
 **Published:** 7/30/2026, 5:28:39 AM  
