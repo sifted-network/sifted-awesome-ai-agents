@@ -221,7 +221,7 @@ arXiv:2607.25123v1 Announce Type: new Abstract: Experience replay remains one of
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.25132v1 Announce Type: new Abstract: A central challenge in interpreting learned decision-making systems is to determine whether their internal representations contain concepts that help explain their behavior. We report interpretability experiments for a tokenized autoregressive Transfor...
+arXiv:2607.25132v2 Announce Type: new Abstract: A central challenge in interpreting learned decision-making systems is to determine whether their internal representations contain concepts that help explain their behavior. We report interpretability experiments for a tokenized autoregressive Transfor...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25132)
 
@@ -725,7 +725,7 @@ arXiv:2607.25687v1 Announce Type: new Abstract: Full-field reconstruction of air
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.IR  
 
-arXiv:2607.25718v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on invoking external tools to complete real-world tasks. Tool retrieval, which selects a small task-relevant subset from a library of thousands of tools before the agent acts, has therefore become a c...
+arXiv:2607.25718v2 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on invoking external tools to complete real-world tasks. Tool retrieval, which selects a small task-relevant subset from a library of thousands of tools before the agent acts, has therefore become a c...
 
 📖 [Read original article](https://arxiv.org/abs/2607.25718)
 
@@ -1261,11 +1261,11 @@ arXiv:2607.24878v1 Announce Type: cross Abstract: Phenotype-driven diagnostic be
 
 ## 105. Beyond \"What to Retrieve\": Uncertainty in Retrieval-Augmented Code Generation
 
-**Author:** Chandan Kumar Sah, Xiaoli Lian, Li Zhang  
+**Author:** Chandan Kumar Sah, Li Zhang, Xiaoli Lian  
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.CL, cs.LG  
 
-arXiv:2607.24884v1 Announce Type: cross Abstract: Repository-level code generation relies on heterogeneous evidence whose relevance, compatibility, and completeness are inherently uncertain. Similar-code examples, repository context, and project-specific APIs may provide complementary information, b...
+arXiv:2607.24884v2 Announce Type: cross Abstract: Repository-level code generation relies on heterogeneous evidence whose relevance, compatibility, and completeness are inherently uncertain. Similar-code examples, repository context, and project-specific APIs may provide complementary information, b...
 
 📖 [Read original article](https://arxiv.org/abs/2607.24884)
 
@@ -2057,7 +2057,7 @@ arXiv:2602.17071v4 Announce Type: replace Abstract: Graph neural networks freque
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2602.18600v4 Announce Type: replace Abstract: Systematically evaluating Multimodal Large Language Models (MLLMs) is essential for advancing Artificial General Intelligence (AGI). Yet existing benchmarks remain inadequate for rigorously measuring their reasoning capabilities under multi-criteri...
+arXiv:2602.18600v5 Announce Type: replace Abstract: Systematically evaluating Multimodal Large Language Models (MLLMs) is essential for advancing Artificial General Intelligence (AGI). Yet existing benchmarks remain inadequate for rigorously measuring their reasoning capabilities under multi-criteri...
 
 📖 [Read original article](https://arxiv.org/abs/2602.18600)
 
@@ -2417,7 +2417,7 @@ arXiv:2607.23198v2 Announce Type: replace Abstract: We propose Variance-Preservi
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.23388v2 Announce Type: replace Abstract: As constrained learning becomes increasingly common, models are trained under explicit feasibility requirements to enforce fairness, safety, robustness, regulariza- tion, and physics or logic constraints. Understanding how training samples in- flue...
+arXiv:2607.23388v3 Announce Type: replace Abstract: As constrained learning becomes increasingly common, models are trained under explicit feasibility requirements to enforce fairness, safety, robustness, regulariza- tion, and physics or logic constraints. Understanding how training samples in- flue...
 
 📖 [Read original article](https://arxiv.org/abs/2607.23388)
 
@@ -2429,7 +2429,7 @@ arXiv:2607.23388v2 Announce Type: replace Abstract: As constrained learning beco
 **Published:** 7/29/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.23770v2 Announce Type: replace Abstract: In this work we study Automatic Target Recognition (ATR) for Synthetic Aperture Sonar (SAS) data with a focus on deep neural networks (DNNs). The main challenge in training DNNs for SAS-ATR arises from the limited quantity of labeled target example...
+arXiv:2607.23770v3 Announce Type: replace Abstract: In this work we study Automatic Target Recognition (ATR) for Synthetic Aperture Sonar (SAS) data with a focus on deep neural networks (DNNs). The main challenge in training DNNs for SAS-ATR arises from the limited quantity of labeled target example...
 
 📖 [Read original article](https://arxiv.org/abs/2607.23770)
 
