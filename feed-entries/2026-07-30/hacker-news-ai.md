@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Sam Altman is now talking to the White House about decelerating AI
+## 1. AI Bond Issuance Is Not AI's \"Subprime Mortgage Crisis\"
 
-**Author:** abhishekdev  
-**Published:** 7/30/2026, 8:08:05 AM  
+**Author:** m-hodges  
+**Published:** 7/30/2026, 1:57:43 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/AISafetyMemes/status/2082569026929394008 Comments URL: https://news.ycombinator.com/item?id=49107232 Points: 4 # Comments: 3
+Article URL: https://www.crisesnotes.com/sigh-no-ed-zitron-ai-bond-issuance-is-not-ais-subprime-mortgage-crisis/ Comments URL: https://news.ycombinator.com/item?id=49110116 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/AISafetyMemes/status/2082569026929394008)
+📖 [Read original article](https://www.crisesnotes.com/sigh-no-ed-zitron-ai-bond-issuance-is-not-ais-subprime-mortgage-crisis/)
 
 ---
 
-## 2. SFR (French Internet provider) is blocking opencode.ai
+## 2. The 73,000-server market reselling Western frontier AI into China
 
-**Author:** krikou  
-**Published:** 7/30/2026, 7:33:48 AM  
+**Author:** lloyddd  
+**Published:** 7/30/2026, 1:45:48 PM  
 **Categories:** -  
 
-What a wonderful word - trying to access opencode.ai redirects to a SFR owned domain with : `L’accès à ce site a été bloqué - opencode.ai`And then explaining that it is for my own protection. Comments URL: https://news.ycombinator.com/item?id=49107034 Points: 3 # Comments: 3
+Article URL: https://infrawatch.com/blog/73000-servers-selling-western-frontier-ai-into-china-transfer-stations Comments URL: https://news.ycombinator.com/item?id=49109964 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49107034)
+📖 [Read original article](https://infrawatch.com/blog/73000-servers-selling-western-frontier-ai-into-china-transfer-stations)
 
 ---
 
-## 3. AI or Not?
+## 3. I wanted to run my own AI. My laptop says not yet
+
+**Author:** mjpf  
+**Published:** 7/30/2026, 1:45:35 PM  
+**Categories:** -  
+
+Article URL: https://marcioflorindo.com/renting-most-of-my-intelligence.html Comments URL: https://news.ycombinator.com/item?id=49109959 Points: 2 # Comments: 0
+
+📖 [Read original article](https://marcioflorindo.com/renting-most-of-my-intelligence.html)
+
+---
+
+## 4. The Dress Rehearsal of AI Killing Us All
+
+**Author:** arkensaw  
+**Published:** 7/30/2026, 1:44:24 PM  
+**Categories:** -  
+
+Article URL: https://unchartedterritories.tomaspueyo.com/p/the-dress-rehearsal-of-ai-killing Comments URL: https://news.ycombinator.com/item?id=49109933 Points: 1 # Comments: 0
+
+📖 [Read original article](https://unchartedterritories.tomaspueyo.com/p/the-dress-rehearsal-of-ai-killing)
+
+---
+
+## 5. Smart contracts for AI agents: Centralized platforms->distributed control planes
+
+**Author:** stichers  
+**Published:** 7/30/2026, 1:43:49 PM  
+**Categories:** -  
+
+Article URL: https://medium.com/quantumblack/smart-contracts-for-ai-agents-6122e0c7e2f3 Comments URL: https://news.ycombinator.com/item?id=49109920 Points: 2 # Comments: 0
+
+📖 [Read original article](https://medium.com/quantumblack/smart-contracts-for-ai-agents-6122e0c7e2f3)
+
+---
+
+## 6. The Skills AI Stopped Teaching Junior Developers
+
+**Author:** melenaos  
+**Published:** 7/30/2026, 1:41:12 PM  
+**Categories:** -  
+
+Article URL: https://menelaos.vergis.net/posts/The-Skills-AI-Stopped-Teaching-Junior-Developers Comments URL: https://news.ycombinator.com/item?id=49109873 Points: 1 # Comments: 0
+
+📖 [Read original article](https://menelaos.vergis.net/posts/The-Skills-AI-Stopped-Teaching-Junior-Developers)
+
+---
+
+## 7. Refusal as Instruction: Equipping Patrons to Resist AI, Data Brokers, Big Tech
+
+**Author:** wallflower  
+**Published:** 7/30/2026, 1:37:26 PM  
+**Categories:** -  
+
+Article URL: https://ital.corejournals.org/index.php/ital/article/view/17653/11960 Comments URL: https://news.ycombinator.com/item?id=49109830 Points: 2 # Comments: 0
+
+📖 [Read original article](https://ital.corejournals.org/index.php/ital/article/view/17653/11960)
+
+---
+
+## 8. Meta shares tumble as Mark Zuckerberg tries to sell his vision for AI 'agents
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 7/30/2026, 1:35:54 PM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b Comments URL: https://news.ycombinator.com/item?id=49109802 Points: 5 # Comments: 2
+
+📖 [Read original article](https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b)
+
+---
+
+## 9. AI Scammers Are Better at Building Trust Than Humans
+
+**Author:** justworks  
+**Published:** 7/30/2026, 1:33:33 PM  
+**Categories:** -  
+
+Article URL: https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/ Comments URL: https://news.ycombinator.com/item?id=49109769 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/)
+
+---
+
+## 10. Percent of Leaders Regret AI Layoffs–and a Major Hiring Reversal Has Begun
+
+**Author:** speckx  
+**Published:** 7/30/2026, 1:24:40 PM  
+**Categories:** -  
+
+Article URL: https://www.inc.com/bruce-crumley/55-percent-of-leaders-regret-ai-layoffs-and-a-major-hiring-reversal-has-begun/91380901 Comments URL: https://news.ycombinator.com/item?id=49109657 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.inc.com/bruce-crumley/55-percent-of-leaders-regret-ai-layoffs-and-a-major-hiring-reversal-has-begun/91380901)
+
+---
+
+## 11. First Contact: The most important question in AI
+
+**Author:** adevalois  
+**Published:** 7/30/2026, 1:22:19 PM  
+**Categories:** -  
+
+Article URL: https://evolutionairy.ai/first-contact/ Comments URL: https://news.ycombinator.com/item?id=49109627 Points: 5 # Comments: 1
+
+📖 [Read original article](https://evolutionairy.ai/first-contact/)
+
+---
+
+## 12. The AI Aesthetic
 
 **Author:** meetpateltech  
-**Published:** 7/30/2026, 5:59:42 AM  
+**Published:** 7/30/2026, 1:21:58 PM  
 **Categories:** -  
 
-Article URL: https://tracydurnell.com/2026/07/29/ai-or-not/ Comments URL: https://news.ycombinator.com/item?id=49106510 Points: 2 # Comments: 0
+Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49109622 Points: 1 # Comments: 0
 
-📖 [Read original article](https://tracydurnell.com/2026/07/29/ai-or-not/)
+📖 [Read original article](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
 ---
 
-## 4. EU AI Act compliance, scan your repo and get automatic results
+## 13. Can AI Agents Be Aligned with Human Rights?
 
-**Author:** ThiloBa  
-**Published:** 7/30/2026, 5:33:41 AM  
+**Author:** cdrnsf  
+**Published:** 7/30/2026, 1:11:58 PM  
 **Categories:** -  
 
-Article URL: https://scanara.io Comments URL: https://news.ycombinator.com/item?id=49106386 Points: 3 # Comments: 2
+Article URL: https://www.techpolicy.press/can-ai-agents-be-aligned-with-human-rights/ Comments URL: https://news.ycombinator.com/item?id=49109522 Points: 1 # Comments: 0
 
-📖 [Read original article](https://scanara.io)
+📖 [Read original article](https://www.techpolicy.press/can-ai-agents-be-aligned-with-human-rights/)
 
 ---
 
-## 5. EU AI Act Aug 2 deadline – AI compliance docs from $197
+## 14. Show HN: An AI bug fixer for VS Code that explains why your code broke
 
-**Author:** CompliGuardAI  
-**Published:** 7/30/2026, 5:09:39 AM  
+**Author:** yabdulaah52  
+**Published:** 7/30/2026, 1:02:31 PM  
 **Categories:** -  
 
-Article URL: https://buy.stripe.com/28E00kcoq0gr5uU5Li8IU00 Comments URL: https://news.ycombinator.com/item?id=49106302 Points: 1 # Comments: 0
+Article URL: https://marketplace.visualstudio.com/items?itemName=NeoBugForge.neo-bug-forge Comments URL: https://news.ycombinator.com/item?id=49109430 Points: 2 # Comments: 0
 
-📖 [Read original article](https://buy.stripe.com/28E00kcoq0gr5uU5Li8IU00)
+📖 [Read original article](https://marketplace.visualstudio.com/items?itemName=NeoBugForge.neo-bug-forge)
 
 ---
 
-## 6. US awards GlobalFoundries $300M to bolster silicon photonics for AI chip
+## 15. Tripplet AI
 
-**Author:** giuliomagnifico  
-**Published:** 7/30/2026, 5:06:25 AM  
+**Author:** efjejdejxjs  
+**Published:** 7/30/2026, 12:57:46 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/china/us-award-globalfoundries-300-million-develop-faster-ai-chip-links-2026-07-29/ Comments URL: https://news.ycombinator.com/item?id=49106290 Points: 3 # Comments: 0
+Article URL: https://www.tripplet.lol/ Comments URL: https://news.ycombinator.com/item?id=49109374 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/world/china/us-award-globalfoundries-300-million-develop-faster-ai-chip-links-2026-07-29/)
+📖 [Read original article](https://www.tripplet.lol/)
 
 ---
 
-## 7. Supabook – AI Native Business OS
+## 16. More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI Counterculture
 
-**Author:** seangavin3000  
-**Published:** 7/30/2026, 4:51:43 AM  
+**Author:** thm  
+**Published:** 7/30/2026, 12:55:11 PM  
 **Categories:** -  
 
-Article URL: https://supabook.ai/ Comments URL: https://news.ycombinator.com/item?id=49106225 Points: 1 # Comments: 2
+Article URL: https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/ Comments URL: https://news.ycombinator.com/item?id=49109341 Points: 2 # Comments: 1
 
-📖 [Read original article](https://supabook.ai/)
+📖 [Read original article](https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/)
 
 ---
 
-## 8. Is the bottleneck on AI at your company technical or organizational?
+## 17. Super Amplify – governed AI agents for real company workflows
 
-**Author:** aicoding  
-**Published:** 7/30/2026, 4:36:31 AM  
+**Author:** dreamerswealth  
+**Published:** 7/30/2026, 12:49:12 PM  
 **Categories:** -  
 
-Article URL: https://theworkingmodel.co/ Comments URL: https://news.ycombinator.com/item?id=49106154 Points: 1 # Comments: 0
+Article URL: https://superamplify.com/personas Comments URL: https://news.ycombinator.com/item?id=49109285 Points: 2 # Comments: 0
 
-📖 [Read original article](https://theworkingmodel.co/)
+📖 [Read original article](https://superamplify.com/personas)
 
 ---
 
-## 9. South Korea's AI Bubble Just Popped [video]
+## 18. Show HN: Scalix World – AI native Neo cloud
 
-**Author:** Bender  
-**Published:** 7/30/2026, 4:15:23 AM  
+**Author:** kiran-ravi  
+**Published:** 7/30/2026, 12:42:39 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=hy90LdpEUvQ Comments URL: https://news.ycombinator.com/item?id=49106071 Points: 3 # Comments: 0
+Article URL: https://scalix.world/ Comments URL: https://news.ycombinator.com/item?id=49109227 Points: 3 # Comments: 2
 
-📖 [Read original article](https://www.youtube.com/watch?v=hy90LdpEUvQ)
+📖 [Read original article](https://scalix.world/)
 
 ---
 
-## 10. I Tried to Make AI Writing Sound Human by Banning AI Words Through Logit_bias
+## 19. OpenJDK Interim Policy on Generative AI
 
-**Author:** vincent_s  
-**Published:** 7/30/2026, 4:15:23 AM  
+**Author:** blenderob  
+**Published:** 7/30/2026, 12:36:38 PM  
 **Categories:** -  
 
-Article URL: https://www.vincentschmalbach.com/make-ai-writing-sound-human-logit-bias/ Comments URL: https://news.ycombinator.com/item?id=49106070 Points: 1 # Comments: 0
+Article URL: https://openjdk.org/legal/ai Comments URL: https://news.ycombinator.com/item?id=49109165 Points: 45 # Comments: 51
 
-📖 [Read original article](https://www.vincentschmalbach.com/make-ai-writing-sound-human-logit-bias/)
+📖 [Read original article](https://openjdk.org/legal/ai)
 
 ---
 
-## 11. South Korea's AI Bubble Just Popped – Now What? [video]
+## 20. Show HN: Memsprout – share AI context with your teammates
 
-**Author:** Bender  
-**Published:** 7/30/2026, 4:13:23 AM  
+**Author:** mat10112  
+**Published:** 7/30/2026, 12:29:48 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=qeXpUZTdvsI Comments URL: https://news.ycombinator.com/item?id=49106061 Points: 3 # Comments: 0
+I’m an architect at my company and everyone on my team is now using Claude/Codex agents for their work. Managing context in claude.md/agents.md files is fine but so much of the knowledge required doesn’t fit cleanly in one repo or the other. Plus, much of the team (product, design, support) does not...
 
-📖 [Read original article](https://www.youtube.com/watch?v=qeXpUZTdvsI)
-
----
-
-## 12. Leopold Aschenbrenner's Situational Awareness seeks capital raise after AI rout
-
-**Author:** fatcatsbestcats  
-**Published:** 7/30/2026, 4:09:57 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549 Comments URL: https://news.ycombinator.com/item?id=49106039 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549)
-
----
-
-## 13. Studying AI in the Wild: Reflections from the AI Work Research Group (2025)
-
-**Author:** Tomte  
-**Published:** 7/30/2026, 3:36:27 AM  
-**Categories:** -  
-
-Article URL: https://onlinelibrary.wiley.com/doi/10.1111/joms.70021 Comments URL: https://news.ycombinator.com/item?id=49105878 Points: 1 # Comments: 0
-
-📖 [Read original article](https://onlinelibrary.wiley.com/doi/10.1111/joms.70021)
-
----
-
-## 14. US Considers Creating Finra-Like Watchdog to Vet Top AI Models
-
-**Author:** achow  
-**Published:** 7/30/2026, 3:00:24 AM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-07-17/us-considers-creating-finra-like-watchdog-to-vet-top-ai-models Comments URL: https://news.ycombinator.com/item?id=49105667 Points: 2 # Comments: 2
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-17/us-considers-creating-finra-like-watchdog-to-vet-top-ai-models)
-
----
-
-## 15. AI Facebook Ads Creator: Create High-Converting Video Ads
-
-**Author:** cloaud  
-**Published:** 7/30/2026, 2:54:48 AM  
-**Categories:** -  
-
-Article URL: https://textideo.com/use-cases/facebook-ad-video-generator Comments URL: https://news.ycombinator.com/item?id=49105634 Points: 2 # Comments: 0
-
-📖 [Read original article](https://textideo.com/use-cases/facebook-ad-video-generator)
-
----
-
-## 16. Show HN: How we use AI agents for support in an open-source project (Seafile)
-
-**Author:** Daniel-Pan  
-**Published:** 7/30/2026, 2:40:21 AM  
-**Categories:** -  
-
-Hi HN, i want to share my experience of using AI agents.Background: Running an open-source project is no easy task. With a small team handling every issue means valuable time spend on searching for context and doing the right action.Vision: I believe that well-designed software can revolutionize the...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49105561)
-
----
-
-## 17. OpenAI cyberattack caused by rogue AI agent worse than initially reported
-
-**Author:** geoffbp  
-**Published:** 7/30/2026, 2:38:23 AM  
-**Categories:** -  
-
-Article URL: https://www.tag24.com/en/tech/openai-reveals-cyberattack-caused-by-rogue-ai-agent-was-worse-than-initially-reported-3520116 Comments URL: https://news.ycombinator.com/item?id=49105550 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.tag24.com/en/tech/openai-reveals-cyberattack-caused-by-rogue-ai-agent-was-worse-than-initially-reported-3520116)
-
----
-
-## 18. Higher Airfares Are Looming on Busy Routes as AI Squeezes Out Bargains
-
-**Author:** petethomas  
-**Published:** 7/30/2026, 2:17:42 AM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-07-29/higher-airfares-loom-on-busy-routes-as-ai-squeezes-out-bargains Comments URL: https://news.ycombinator.com/item?id=49105435 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-29/higher-airfares-loom-on-busy-routes-as-ai-squeezes-out-bargains)
-
----
-
-## 19. What Silicon Valley gets wrong about AI
-
-**Author:** littlexsparkee  
-**Published:** 7/30/2026, 1:47:44 AM  
-**Categories:** -  
-
-Article URL: https://sfstandard.com/2026/07/29/myth-ai-intelligence-medicine-regulation/ Comments URL: https://news.ycombinator.com/item?id=49105273 Points: 4 # Comments: 3
-
-📖 [Read original article](https://sfstandard.com/2026/07/29/myth-ai-intelligence-medicine-regulation/)
-
----
-
-## 20. Do newer coding models end up training on the AI slop generated by older models?
-
-**Author:** tbharath  
-**Published:** 7/30/2026, 1:40:01 AM  
-**Categories:** -  
-
-As old coding models were writing and pushing code to public, does the new coding models train on them because generated code by old coding models were not so good? Comments URL: https://news.ycombinator.com/item?id=49105219 Points: 6 # Comments: 6
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49105219)
+📖 [Read original article](https://memsprout.com/docs)
 
 ---
