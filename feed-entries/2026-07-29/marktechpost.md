@@ -2,28 +2,16 @@
 title: "MarkTechPost - 2026-07-29"
 date: "2026-07-29"
 source: "MarkTechPost"
-count: 2
+count: 1
 ---
 
 # MarkTechPost - 2026-07-29
 
-2 items collected.
+1 items collected.
 
 ---
 
-## 1. Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer
-
-**Author:** Asif Razzaq  
-**Published:** 7/29/2026, 7:30:35 PM  
-**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Context Engineering, Editors Pick, Generative AI, Language Model, Machine Learning, Software Engineering, Staff, Technology, Uncategorized  
-
-Three terms now compete for the same line in AI engineering job descriptions. Prompt engineering is the established one. Loop engineering entered the AI vocabulary in late 2025 and dominated developer discussion through June 2026. Graph engineering followed roughly six weeks later. They get used int...
-
-📖 [Read original article](https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering-what-changes-at-each-layer/)
-
----
-
-## 2. Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-350M: Bidirectional Encoders That Stay Fast at 8K Context on CPU
+## 1. Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-350M: Bidirectional Encoders That Stay Fast at 8K Context on CPU
 
 **Author:** Asif Razzaq  
 **Published:** 7/29/2026, 9:38:42 AM  
