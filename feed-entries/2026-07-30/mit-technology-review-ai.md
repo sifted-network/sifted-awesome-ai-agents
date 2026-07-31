@@ -15,7 +15,7 @@ count: 1
 
 **Author:** Will Douglas Heaven  
 **Published:** 7/30/2026, 10:15:19 AM  
-**Categories:** Artificial intelligence  
+**Categories:** Artificial intelligence, App  
 
 It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf...
 
