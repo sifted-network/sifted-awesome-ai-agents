@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-30"
 date: "2026-07-30"
 source: "qbitai"
-count: 9
+count: 6
 ---
 
 # qbitai - 2026-07-30
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ OpenAI的RSI焚诀，它来了！
 嚯，诺奖团队也被砍了
 
 📖 [Read original article](https://www.qbitai.com/2026/07/463123.html)
-
----
-
-## 7. 一年连融三轮数亿元！字节+清华姚班，重构企业软件工程
-
-**Author:** 听雨  
-**Published:** 7/30/2026, 6:10:13 AM  
-**Categories:** 资讯, 首页轮播, AI  
-
-要做硬核的事情，而非摘低垂的果实
-
-📖 [Read original article](https://www.qbitai.com/2026/07/463013.html)
-
----
-
-## 8. WorkBuddy重大升级，AI时代的Office来了
-
-**Author:** 允中  
-**Published:** 7/30/2026, 5:30:06 AM  
-**Categories:** 资讯, WorkBuddy  
-
-WorkBuddy已成为国内最受欢迎的效率智能体工具之一
-
-📖 [Read original article](https://www.qbitai.com/2026/07/462979.html)
-
----
-
-## 9. 这这这…翁荔光速回OpenAI上班了
-
-**Author:** Jay  
-**Published:** 7/30/2026, 12:31:19 AM  
-**Categories:** 资讯, 翁荔  
-
-6位联合创始人——只剩2名。
-
-📖 [Read original article](https://www.qbitai.com/2026/07/462947.html)
 
 ---
