@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: AI Photo Editor No Sign Up – Edit Photos with Prompts
+## 1. F-16 thrust-vectoring nozzle now being used for an AI-piloted VTOL fighter
 
-**Author:** chenliang001  
-**Published:** 7/31/2026, 2:02:32 PM  
+**Author:** r2sk5t  
+**Published:** 7/31/2026, 7:32:32 PM  
 **Categories:** -  
 
-Article URL: https://aiphotoeditornosignup.online/ Comments URL: https://news.ycombinator.com/item?id=49123270 Points: 1 # Comments: 0
+Article URL: https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/ Comments URL: https://news.ycombinator.com/item?id=49127599 Points: 1 # Comments: 0
 
-📖 [Read original article](https://aiphotoeditornosignup.online/)
+📖 [Read original article](https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/)
 
 ---
 
-## 2. Situational Awareness Down 67% in July in AI Stock Rout
+## 2. Big Tech Holds $2.4T of Spending Commitments for AI Boom
 
-**Author:** pondsider  
-**Published:** 7/31/2026, 1:37:36 PM  
+**Author:** mapping365  
+**Published:** 7/31/2026, 7:32:04 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 23 # Comments: 7
+Article URL: https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom Comments URL: https://news.ycombinator.com/item?id=49127592 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom)
 
 ---
 
-## 3. Pennant Knowledge Engineering Studio – Compile Graph Context for AI Agents
+## 3. I use AI on this blog
 
-**Author:** galeluka  
-**Published:** 7/31/2026, 1:29:36 PM  
+**Author:** gpjt  
+**Published:** 7/31/2026, 7:31:43 PM  
 **Categories:** -  
 
-Article URL: https://github.com/galeluka/Pennant Comments URL: https://news.ycombinator.com/item?id=49122901 Points: 1 # Comments: 0
+Article URL: https://www.gilesthomas.com/2026/07/ai-use Comments URL: https://news.ycombinator.com/item?id=49127589 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/galeluka/Pennant)
+📖 [Read original article](https://www.gilesthomas.com/2026/07/ai-use)
 
 ---
 
-## 4. Citadel buys Situational Awareness equity holdings after steep AI losses
+## 4. MCP is going stateless: What the new spec means for AI agents
 
-**Author:** rib3ye  
-**Published:** 7/31/2026, 1:25:57 PM  
+**Author:** inferhaven  
+**Published:** 7/31/2026, 7:29:30 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142 Comments URL: https://news.ycombinator.com/item?id=49122857 Points: 5 # Comments: 3
+Article URL: https://newrelic.com/blog/ai/mcp-is-going-stateless Comments URL: https://news.ycombinator.com/item?id=49127559 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142)
+📖 [Read original article](https://newrelic.com/blog/ai/mcp-is-going-stateless)
 
 ---
 
-## 5. Another Reason Not to Use \"AI\" for Your Writing
+## 5. AI Dominates the Microsoft Conversation, but Not the Company's Business
 
-**Author:** Tomte  
-**Published:** 7/31/2026, 1:19:46 PM  
+**Author:** rbanffy  
+**Published:** 7/31/2026, 7:29:20 PM  
 **Categories:** -  
 
-Article URL: https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/ Comments URL: https://news.ycombinator.com/item?id=49122785 Points: 7 # Comments: 0
+Article URL: https://www.nextplatform.com/cloud/2026/07/31/ai-dominates-the-microsoft-conversation-but-not-the-companys-business/5281992 Comments URL: https://news.ycombinator.com/item?id=49127557 Points: 1 # Comments: 0
 
-📖 [Read original article](https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/)
+📖 [Read original article](https://www.nextplatform.com/cloud/2026/07/31/ai-dominates-the-microsoft-conversation-but-not-the-companys-business/5281992)
 
 ---
 
-## 6. Figma for Agents: How Airflow's Creator Coordinates AI Ft. Maxime Beauchemin
+## 6. Claude vs. ChatGPT: Which AI Security Incident Was Worse
 
-**Author:** zazuke  
-**Published:** 7/31/2026, 1:16:07 PM  
+**Author:** ticust  
+**Published:** 7/31/2026, 7:29:07 PM  
 **Categories:** -  
 
-Article URL: https://motherduck.com/blog/figma-for-agents-airflow-creator-maxime-beauchemin/ Comments URL: https://news.ycombinator.com/item?id=49122738 Points: 1 # Comments: 0
+Article URL: https://industrycontents.com/claude-vs-chatgpt-ai-security-incident-worse/ Comments URL: https://news.ycombinator.com/item?id=49127551 Points: 1 # Comments: 0
 
-📖 [Read original article](https://motherduck.com/blog/figma-for-agents-airflow-creator-maxime-beauchemin/)
+📖 [Read original article](https://industrycontents.com/claude-vs-chatgpt-ai-security-incident-worse/)
 
 ---
 
-## 7. Show HN: Provenance and decay for AI agent memory
+## 7. AI firms must answer for rogue bots, says boss of hacked company
 
-**Author:** souravroy78  
-**Published:** 7/31/2026, 1:13:53 PM  
+**Author:** chrisjj  
+**Published:** 7/31/2026, 7:26:05 PM  
 **Categories:** -  
 
-Article URL: https://github.com/stalebrainlabs/stalebrain Comments URL: https://news.ycombinator.com/item?id=49122715 Points: 1 # Comments: 0
+Article URL: https://www.bbc.co.uk/news/articles/cr7k49xjzzeo Comments URL: https://news.ycombinator.com/item?id=49127520 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/stalebrainlabs/stalebrain)
+📖 [Read original article](https://www.bbc.co.uk/news/articles/cr7k49xjzzeo)
 
 ---
 
-## 8. Promote.chat: AI Marketing Agent for Vibe Coders
+## 8. Would you get tattooed just to interview at a 7-days-a-week AI startup?
 
-**Author:** alokjnv10  
-**Published:** 7/31/2026, 12:57:17 PM  
+**Author:** rbanffy  
+**Published:** 7/31/2026, 7:21:46 PM  
 **Categories:** -  
 
-Article URL: https://www.promote.chat/ Comments URL: https://news.ycombinator.com/item?id=49122539 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/ Comments URL: https://news.ycombinator.com/item?id=49127469 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.promote.chat/)
+📖 [Read original article](https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/)
 
 ---
 
-## 9. LinkedIn Is Cracking Down on 'AI Slop' with New Reporting Tool
+## 9. World Models Are AI's Next Frontier
 
-**Author:** mancerayder  
-**Published:** 7/31/2026, 12:53:07 PM  
+**Author:** Gooblebrai  
+**Published:** 7/31/2026, 7:11:13 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-07-30/linkedin-is-cracking-down-on-ai-slop-with-new-reporting-tool Comments URL: https://news.ycombinator.com/item?id=49122498 Points: 2 # Comments: 0
+Article URL: https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/ Comments URL: https://news.ycombinator.com/item?id=49127378 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-30/linkedin-is-cracking-down-on-ai-slop-with-new-reporting-tool)
+📖 [Read original article](https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/)
 
 ---
 
-## 10. Anthropic says its AI models hacked 3 organizations during testing
+## 10. Coal back in favour as US plant bidding war highlights rising demand to power AI
 
-**Author:** bildiba  
-**Published:** 7/31/2026, 12:43:13 PM  
+**Author:** JumpCrisscross  
+**Published:** 7/31/2026, 7:11:11 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec Comments URL: https://news.ycombinator.com/item?id=49122395 Points: 2 # Comments: 3
+Article URL: https://www.ft.com/content/babf4c89-1a6f-447f-a17e-7e3e48f359b8 Comments URL: https://news.ycombinator.com/item?id=49127377 Points: 3 # Comments: 0
 
-📖 [Read original article](https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec)
+📖 [Read original article](https://www.ft.com/content/babf4c89-1a6f-447f-a17e-7e3e48f359b8)
 
 ---
 
-## 11. AI's Execution Problem
+## 11. AI companies destroy rare and non recoverable physical books
 
-**Author:** Gigacore  
-**Published:** 7/31/2026, 12:41:30 PM  
+**Author:** DoddgyEggplant  
+**Published:** 7/31/2026, 7:01:52 PM  
 **Categories:** -  
 
-Article URL: https://time.com/article/2026/07/20/ai-execution-problem/?es_id=70fefe0c9f Comments URL: https://news.ycombinator.com/item?id=49122383 Points: 3 # Comments: 0
+Article URL: https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/ Comments URL: https://news.ycombinator.com/item?id=49127284 Points: 27 # Comments: 11
 
-📖 [Read original article](https://time.com/article/2026/07/20/ai-execution-problem/?es_id=70fefe0c9f)
+📖 [Read original article](https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/)
 
 ---
 
-## 12. Show HN: I built an AI that reads German real estate listings for buyers
+## 12. The icons that might solve Hollywood's AI problem [video]
 
-**Author:** martinvoelker  
-**Published:** 7/31/2026, 12:38:27 PM  
+**Author:** perching_aix  
+**Published:** 7/31/2026, 6:58:51 PM  
 **Categories:** -  
 
-Article URL: https://immo-lens.com/?lang=en Comments URL: https://news.ycombinator.com/item?id=49122349 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/shorts/SsK4ILb3j5I Comments URL: https://news.ycombinator.com/item?id=49127253 Points: 1 # Comments: 0
 
-📖 [Read original article](https://immo-lens.com/?lang=en)
+📖 [Read original article](https://www.youtube.com/shorts/SsK4ILb3j5I)
 
 ---
 
-## 13. Europe gets ready to police frontier AI
+## 13. Google pauses AI satellite images, after fears of deepfakes in the sky
 
-**Author:** perelin  
-**Published:** 7/31/2026, 12:34:56 PM  
+**Author:** Jimmc414  
+**Published:** 7/31/2026, 6:53:59 PM  
 **Categories:** -  
 
-Article URL: https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai Comments URL: https://news.ycombinator.com/item?id=49122307 Points: 1 # Comments: 0
+Article URL: https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky Comments URL: https://news.ycombinator.com/item?id=49127202 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai)
+📖 [Read original article](https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky)
 
 ---
 
-## 14. Quil – drive AI coding sessions on a remote box over plain SSH
+## 14. Did Situational Awareness inflate the AI bubble?
 
-**Author:** artyomsv  
-**Published:** 7/31/2026, 12:30:28 PM  
+**Author:** mapping365  
+**Published:** 7/31/2026, 6:53:54 PM  
 **Categories:** -  
 
-Article URL: https://quil.cc/ Comments URL: https://news.ycombinator.com/item?id=49122264 Points: 1 # Comments: 0
+Article URL: https://www.yetanothervalueblog.com/p/did-situational-awareness-inflate Comments URL: https://news.ycombinator.com/item?id=49127199 Points: 2 # Comments: 0
 
-📖 [Read original article](https://quil.cc/)
+📖 [Read original article](https://www.yetanothervalueblog.com/p/did-situational-awareness-inflate)
 
 ---
 
-## 15. Rogue AI Agents – Food for Agile Thought #555
+## 15. The problem with putting an AI image generator in Google Earth
 
-**Author:** swolpers  
-**Published:** 7/31/2026, 12:29:32 PM  
+**Author:** rndsignals  
+**Published:** 7/31/2026, 6:32:08 PM  
 **Categories:** -  
 
-Article URL: https://age-of-product.com/food-agile-thought-555-rogue-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49122254 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images Comments URL: https://news.ycombinator.com/item?id=49126938 Points: 3 # Comments: 0
 
-📖 [Read original article](https://age-of-product.com/food-agile-thought-555-rogue-ai-agents/)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images)
 
 ---
 
-## 16. Guardrails Hub – Guardrails AI
+## 16. AI's Wildest Spenders Are Hitting the Accelerator
 
-**Author:** TangoBee  
-**Published:** 7/31/2026, 12:27:34 PM  
+**Author:** PKop  
+**Published:** 7/31/2026, 6:31:34 PM  
 **Categories:** -  
 
-Article URL: https://guardrailsai.com/hub Comments URL: https://news.ycombinator.com/item?id=49122241 Points: 2 # Comments: 0
+Article URL: https://www.bloomberg.com/opinion/articles/2026-07-31/ai-s-massive-spenders-google-meta-and-oracle-are-only-getting-started Comments URL: https://news.ycombinator.com/item?id=49126927 Points: 5 # Comments: 2
 
-📖 [Read original article](https://guardrailsai.com/hub)
+📖 [Read original article](https://www.bloomberg.com/opinion/articles/2026-07-31/ai-s-massive-spenders-google-meta-and-oracle-are-only-getting-started)
 
 ---
 
-## 17. High school axes plans to deploy AI robot called Sally after ties to sex dolls
+## 17. The market's big AI doubts are exposing the riskiest players
 
-**Author:** Bender  
-**Published:** 7/31/2026, 12:18:26 PM  
+**Author:** mapping365  
+**Published:** 7/31/2026, 6:18:14 PM  
 **Categories:** -  
 
-Article URL: https://www.dailymail.com/news/article-16017467/humanoid-robot-teacher-new-york-axes-plan.html Comments URL: https://news.ycombinator.com/item?id=49122171 Points: 1 # Comments: 0
+Article URL: https://www.cnn.com/2026/07/31/business/situational-awareness-citadel-ai-trade Comments URL: https://news.ycombinator.com/item?id=49126769 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.dailymail.com/news/article-16017467/humanoid-robot-teacher-new-york-axes-plan.html)
+📖 [Read original article](https://www.cnn.com/2026/07/31/business/situational-awareness-citadel-ai-trade)
 
 ---
 
-## 18. DeepSeek-AI/DeepSeek-V4-Flash-0731
+## 18. AI bubble will burst if 10-year moves above 5%, says Breakout Capital's Sharma
 
-**Author:** Philpax  
-**Published:** 7/31/2026, 12:16:08 PM  
+**Author:** mapping365  
+**Published:** 7/31/2026, 6:07:12 PM  
 **Categories:** -  
 
-Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 Comments URL: https://news.ycombinator.com/item?id=49122153 Points: 10 # Comments: 0
+Article URL: https://www.cnbc.com/video/2026/07/31/ai-bubble-will-burst-if-10-year-moves-above-5-percent-says-breakout-capitals-ruchir-sharma.html Comments URL: https://news.ycombinator.com/item?id=49126637 Points: 2 # Comments: 1
 
-📖 [Read original article](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)
+📖 [Read original article](https://www.cnbc.com/video/2026/07/31/ai-bubble-will-burst-if-10-year-moves-above-5-percent-says-breakout-capitals-ruchir-sharma.html)
 
 ---
 
-## 19. AI Companies Mass Shredding Rare Books [video]
+## 19. Chinese military researchers tap US AI models to train defense systems
 
-**Author:** Bender  
-**Published:** 7/31/2026, 11:45:33 AM  
+**Author:** 0in  
+**Published:** 7/31/2026, 6:01:03 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=8c8pmp_OC2s Comments URL: https://news.ycombinator.com/item?id=49121930 Points: 2 # Comments: 0
+Article URL: https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/ Comments URL: https://news.ycombinator.com/item?id=49126546 Points: 3 # Comments: 2
 
-📖 [Read original article](https://www.youtube.com/watch?v=8c8pmp_OC2s)
+📖 [Read original article](https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/)
 
 ---
 
-## 20. LinkedIn adds a 'Seems like AI slop' button
+## 20. Graph Engineering: The Missing Skill in AI
 
-**Author:** thunderbong  
-**Published:** 7/31/2026, 11:33:24 AM  
+**Author:** v-mdev  
+**Published:** 7/31/2026, 5:47:59 PM  
 **Categories:** -  
 
-Article URL: https://thenextweb.com/news/linkedin-seems-like-ai-slop-button Comments URL: https://news.ycombinator.com/item?id=49121840 Points: 9 # Comments: 2
+Article URL: https://twitter.com/AnatoliKopadze/status/2080668775796314331 Comments URL: https://news.ycombinator.com/item?id=49126388 Points: 2 # Comments: 0
 
-📖 [Read original article](https://thenextweb.com/news/linkedin-seems-like-ai-slop-button)
+📖 [Read original article](https://twitter.com/AnatoliKopadze/status/2080668775796314331)
 
 ---
