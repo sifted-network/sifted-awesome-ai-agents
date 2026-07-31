@@ -665,7 +665,7 @@ arXiv:2607.26820v1 Announce Type: new Abstract: As large language models (LLMs) 
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.26828v1 Announce Type: new Abstract: Large language models increasingly support scientific and algorithmic discovery through inference-time search over evaluated candidates. Existing adaptive discovery controllers assign credit based only on score progress, even though prompt length, retr...
+arXiv:2607.26828v2 Announce Type: new Abstract: Large language models increasingly support scientific and algorithmic discovery through inference-time search over evaluated candidates. Existing adaptive discovery controllers assign credit based only on score progress, even though prompt length, retr...
 
 📖 [Read original article](https://arxiv.org/abs/2607.26828)
 
@@ -677,7 +677,7 @@ arXiv:2607.26828v1 Announce Type: new Abstract: Large language models increasing
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.IR  
 
-arXiv:2607.26832v1 Announce Type: new Abstract: Algorithmic news personalization in regional markets often fails because modern deep learning models require massive interaction data while real-world news has a short Time-to-Live (TTL < 48 h) and shallow article pools. This structural item cold-start...
+arXiv:2607.26832v2 Announce Type: new Abstract: Algorithmic news personalization in regional markets often fails because modern deep learning models require massive interaction data while real-world news has a short Time-to-Live (TTL < 48 h) and shallow article pools. This structural item cold-start...
 
 📖 [Read original article](https://arxiv.org/abs/2607.26832)
 
@@ -797,7 +797,7 @@ arXiv:2607.26940v1 Announce Type: new Abstract: Ensembles are a standard way to 
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.26993v1 Announce Type: new Abstract: Face presentation attack detection (PAD) remains challenging under cross-dataset evaluation, where domain shift degrades models trained on a single dataset. The scarcity of large-scale labeled data motivates adapting pretrained vision models rather tha...
+arXiv:2607.26993v2 Announce Type: new Abstract: Face presentation attack detection (PAD) remains challenging under cross-dataset evaluation, where domain shift degrades models trained on a single dataset. The scarcity of large-scale labeled data motivates adapting pretrained vision models rather tha...
 
 📖 [Read original article](https://arxiv.org/abs/2607.26993)
 
@@ -805,11 +805,11 @@ arXiv:2607.26993v1 Announce Type: new Abstract: Face presentation attack detecti
 
 ## 67. What Can Latent World Models Know? Physical Parameter Identifiability in Multimodal Predictive Representations
 
-**Author:** Kaizhen Tan (New York University, Carnegie Mellon University), Xin Xu (Carnegie Mellon University), Siru Tao (Carnegie Mellon University), Hanzhe Hong (Carnegie Mellon University), Yang Feng (Columbia University), Heqing Du (Columbia University)  
+**Author:** Kaizhen Tan, Xin Xu, Siru Tao, Hanzhe Hong, Yang Feng, Heqing Du  
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.RO  
 
-arXiv:2607.27017v1 Announce Type: new Abstract: A central premise of latent world models is that predicting the future forces a representation to internalize the physics of its environment. Which physical quantities does a trained latent actually contain, and what decides this? We answer with contro...
+arXiv:2607.27017v2 Announce Type: new Abstract: A central premise of latent world models is that predicting the future forces a representation to internalize the physics of its environment. Which physical quantities does a trained latent actually contain, and what decides this? We answer with contro...
 
 📖 [Read original article](https://arxiv.org/abs/2607.27017)
 
@@ -891,7 +891,7 @@ arXiv:2607.27076v1 Announce Type: new Abstract: Continuous cuffless blood pressu
 
 **Author:** Nicolas B\'ereux, Aur\'elien Decelle, Cyril Furtlehner, Beatriz Seoane  
 **Published:** 7/30/2026, 4:00:00 AM  
-**Categories:** cs.LG  
+**Categories:** cs.LG, cond-mat.dis-nn, cond-mat.stat-mech  
 
 arXiv:2607.27077v1 Announce Type: new Abstract: Energy-Based Models (EBMs) provide an interpretable framework for generative modeling of scientific data, but poor Markov Chain Monte Carlo mixing often limits their reliability. We introduce a training algorithm based on Parallel Trajectory Tempering ...
 
@@ -1445,7 +1445,7 @@ arXiv:2607.26648v1 Announce Type: cross Abstract: Spiking neural networks (SNNs)
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.CY, cs.LG  
 
-arXiv:2607.26654v1 Announce Type: cross Abstract: Post-training alignment is often shallow, eroding under fine-tuning. Whether midtraining interventions, cleanly isolated from post-training, can produce durable alignment remains untested. We test this via constitutional midtraining: inserting princi...
+arXiv:2607.26654v2 Announce Type: cross Abstract: Post-training alignment is often shallow, eroding under fine-tuning. It remains untested as to whether constitutional midtraining interventions can produce durable alignment when cleanly isolated from post-training. We build a 394M-token constitution...
 
 📖 [Read original article](https://arxiv.org/abs/2607.26654)
 
@@ -1769,7 +1769,7 @@ arXiv:2607.27062v1 Announce Type: cross Abstract: Physics-informed machine learn
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.CC, cs.IT, cs.LG, math.IT, math.OC  
 
-arXiv:2607.27078v1 Announce Type: cross Abstract: In this paper, we formulate three communication tasks for empirical optimal transport: distributed coupling sampling, cost-evaluable coupling output, and scalar value-certified sampling. Our main result is a field-code compiler: any communicated tran...
+arXiv:2607.27078v2 Announce Type: cross Abstract: In this paper, we formulate three communication tasks for empirical optimal transport: distributed coupling sampling, cost-evaluable coupling output, and scalar value-certified sampling. Our main result is a field-code compiler: any communicated tran...
 
 📖 [Read original article](https://arxiv.org/abs/2607.27078)
 
