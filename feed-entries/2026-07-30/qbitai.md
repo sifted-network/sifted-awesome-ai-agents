@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-30"
 date: "2026-07-30"
 source: "qbitai"
-count: 6
+count: 3
 ---
 
 # qbitai - 2026-07-30
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ Claude code之父：大模型是有机生物，做好AI产品疏胜于堵
 OpenAI的RSI焚诀，它来了！
 
 📖 [Read original article](https://www.qbitai.com/2026/07/463297.html)
-
----
-
-## 4. 李飞飞的世界模型，终于开始训练机器人了
-
-**Author:** henry  
-**Published:** 7/30/2026, 7:47:37 AM  
-**Categories:** 资讯, 世界模型, 具身智能, 李飞飞  
-
-李飞飞老师的World Labs，补了块关键拼图
-
-📖 [Read original article](https://www.qbitai.com/2026/07/463217.html)
-
----
-
-## 5. “接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！
-
-**Author:** 思邈  
-**Published:** 7/30/2026, 6:14:43 AM  
-**Categories:** 资讯, 无问芯穹, 模型即服务, 跨集群异构推理架构PDD  
-
-最新完整技术报告出炉
-
-📖 [Read original article](https://www.qbitai.com/2026/07/463012.html)
-
----
-
-## 6. 传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini
-
-**Author:** 听雨  
-**Published:** 7/30/2026, 6:14:26 AM  
-**Categories:** 资讯, AI  
-
-嚯，诺奖团队也被砍了
-
-📖 [Read original article](https://www.qbitai.com/2026/07/463123.html)
 
 ---
