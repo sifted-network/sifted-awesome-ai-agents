@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Rewriting a Six-Year-Old Personal Project with AI
+## 1. Show HN: AI Photo Editor No Sign Up – Edit Photos with Prompts
 
-**Author:** HanQi  
-**Published:** 7/31/2026, 8:29:48 AM  
+**Author:** chenliang001  
+**Published:** 7/31/2026, 2:02:32 PM  
 **Categories:** -  
 
-Article URL: https://www.hanqi-blog.com/translation/ai_coding Comments URL: https://news.ycombinator.com/item?id=49120492 Points: 1 # Comments: 0
+Article URL: https://aiphotoeditornosignup.online/ Comments URL: https://news.ycombinator.com/item?id=49123270 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.hanqi-blog.com/translation/ai_coding)
+📖 [Read original article](https://aiphotoeditornosignup.online/)
 
 ---
 
-## 2. Extending older smartphone lifespans with local-first AI and zero cloud uploads
+## 2. Situational Awareness Down 67% in July in AI Stock Rout
 
-**Author:** mike5gao  
-**Published:** 7/31/2026, 8:16:01 AM  
+**Author:** pondsider  
+**Published:** 7/31/2026, 1:37:36 PM  
 **Categories:** -  
 
-Article URL: https://github.com/mike5gao/setting-for-me Comments URL: https://news.ycombinator.com/item?id=49120402 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com/item?id=49122994 Points: 23 # Comments: 7
 
-📖 [Read original article](https://github.com/mike5gao/setting-for-me)
+📖 [Read original article](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 
 ---
 
-## 3. Anthropic's Claude AI models hack into 3 outside groups during testing
+## 3. Pennant Knowledge Engineering Studio – Compile Graph Context for AI Agents
 
-**Author:** macleginn  
-**Published:** 7/31/2026, 8:10:08 AM  
+**Author:** galeluka  
+**Published:** 7/31/2026, 1:29:36 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/1a841f08-8e59-49d9-9561-0ed20e9190df Comments URL: https://news.ycombinator.com/item?id=49120363 Points: 1 # Comments: 1
+Article URL: https://github.com/galeluka/Pennant Comments URL: https://news.ycombinator.com/item?id=49122901 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/1a841f08-8e59-49d9-9561-0ed20e9190df)
+📖 [Read original article](https://github.com/galeluka/Pennant)
 
 ---
 
-## 4. Google fixed more Chrome bugs in June than over the past two years, thanks to AI
+## 4. Citadel buys Situational Awareness equity holdings after steep AI losses
 
-**Author:** Garbage  
-**Published:** 7/31/2026, 7:29:22 AM  
+**Author:** rib3ye  
+**Published:** 7/31/2026, 1:25:57 PM  
 **Categories:** -  
 
-Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 8 # Comments: 2
+Article URL: https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142 Comments URL: https://news.ycombinator.com/item?id=49122857 Points: 5 # Comments: 3
 
-📖 [Read original article](https://blog.google/security/chrome-stronger-with-every-update/)
+📖 [Read original article](https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142)
 
 ---
 
-## 5. Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens
+## 5. Another Reason Not to Use \"AI\" for Your Writing
 
-**Author:** ppiper  
-**Published:** 7/31/2026, 7:21:17 AM  
+**Author:** Tomte  
+**Published:** 7/31/2026, 1:19:46 PM  
 **Categories:** -  
 
-I am trying to replace PowerPoint with a file format better suited for AI. But let me fill you in...So, I pitch a lot these days, and "make the deck" had become the worst part of my week. I don't know about you, but automation hasn't really worked for me here. Every AI deck tool I tried failed the s...
+Article URL: https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/ Comments URL: https://news.ycombinator.com/item?id=49122785 Points: 7 # Comments: 0
 
-📖 [Read original article](https://getslaide.com/)
+📖 [Read original article](https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/)
 
 ---
 
-## 6. Show HN: I stopped babysitting my AI agents by pushing them to Telegram
+## 6. Figma for Agents: How Airflow's Creator Coordinates AI Ft. Maxime Beauchemin
 
-**Author:** TrungTin  
-**Published:** 7/31/2026, 7:05:26 AM  
+**Author:** zazuke  
+**Published:** 7/31/2026, 1:16:07 PM  
 **Categories:** -  
 
-Article URL: https://blackflare.dev/ Comments URL: https://news.ycombinator.com/item?id=49119935 Points: 3 # Comments: 0
+Article URL: https://motherduck.com/blog/figma-for-agents-airflow-creator-maxime-beauchemin/ Comments URL: https://news.ycombinator.com/item?id=49122738 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blackflare.dev/)
+📖 [Read original article](https://motherduck.com/blog/figma-for-agents-airflow-creator-maxime-beauchemin/)
 
 ---
 
-## 7. Benchmarking Guardrails for AI Agent Safety
+## 7. Show HN: Provenance and decay for AI agent memory
+
+**Author:** souravroy78  
+**Published:** 7/31/2026, 1:13:53 PM  
+**Categories:** -  
+
+Article URL: https://github.com/stalebrainlabs/stalebrain Comments URL: https://news.ycombinator.com/item?id=49122715 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/stalebrainlabs/stalebrain)
+
+---
+
+## 8. Promote.chat: AI Marketing Agent for Vibe Coders
+
+**Author:** alokjnv10  
+**Published:** 7/31/2026, 12:57:17 PM  
+**Categories:** -  
+
+Article URL: https://www.promote.chat/ Comments URL: https://news.ycombinator.com/item?id=49122539 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.promote.chat/)
+
+---
+
+## 9. LinkedIn Is Cracking Down on 'AI Slop' with New Reporting Tool
+
+**Author:** mancerayder  
+**Published:** 7/31/2026, 12:53:07 PM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/news/articles/2026-07-30/linkedin-is-cracking-down-on-ai-slop-with-new-reporting-tool Comments URL: https://news.ycombinator.com/item?id=49122498 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-30/linkedin-is-cracking-down-on-ai-slop-with-new-reporting-tool)
+
+---
+
+## 10. Anthropic says its AI models hacked 3 organizations during testing
+
+**Author:** bildiba  
+**Published:** 7/31/2026, 12:43:13 PM  
+**Categories:** -  
+
+Article URL: https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec Comments URL: https://news.ycombinator.com/item?id=49122395 Points: 2 # Comments: 3
+
+📖 [Read original article](https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec)
+
+---
+
+## 11. AI's Execution Problem
+
+**Author:** Gigacore  
+**Published:** 7/31/2026, 12:41:30 PM  
+**Categories:** -  
+
+Article URL: https://time.com/article/2026/07/20/ai-execution-problem/?es_id=70fefe0c9f Comments URL: https://news.ycombinator.com/item?id=49122383 Points: 3 # Comments: 0
+
+📖 [Read original article](https://time.com/article/2026/07/20/ai-execution-problem/?es_id=70fefe0c9f)
+
+---
+
+## 12. Show HN: I built an AI that reads German real estate listings for buyers
+
+**Author:** martinvoelker  
+**Published:** 7/31/2026, 12:38:27 PM  
+**Categories:** -  
+
+Article URL: https://immo-lens.com/?lang=en Comments URL: https://news.ycombinator.com/item?id=49122349 Points: 1 # Comments: 0
+
+📖 [Read original article](https://immo-lens.com/?lang=en)
+
+---
+
+## 13. Europe gets ready to police frontier AI
+
+**Author:** perelin  
+**Published:** 7/31/2026, 12:34:56 PM  
+**Categories:** -  
+
+Article URL: https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai Comments URL: https://news.ycombinator.com/item?id=49122307 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai)
+
+---
+
+## 14. Quil – drive AI coding sessions on a remote box over plain SSH
+
+**Author:** artyomsv  
+**Published:** 7/31/2026, 12:30:28 PM  
+**Categories:** -  
+
+Article URL: https://quil.cc/ Comments URL: https://news.ycombinator.com/item?id=49122264 Points: 1 # Comments: 0
+
+📖 [Read original article](https://quil.cc/)
+
+---
+
+## 15. Rogue AI Agents – Food for Agile Thought #555
+
+**Author:** swolpers  
+**Published:** 7/31/2026, 12:29:32 PM  
+**Categories:** -  
+
+Article URL: https://age-of-product.com/food-agile-thought-555-rogue-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49122254 Points: 1 # Comments: 0
+
+📖 [Read original article](https://age-of-product.com/food-agile-thought-555-rogue-ai-agents/)
+
+---
+
+## 16. Guardrails Hub – Guardrails AI
 
 **Author:** TangoBee  
-**Published:** 7/31/2026, 6:46:54 AM  
+**Published:** 7/31/2026, 12:27:34 PM  
 **Categories:** -  
 
-Article URL: https://blog.mozilla.ai/can-open-source-guardrails-really-protect-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49119800 Points: 3 # Comments: 0
+Article URL: https://guardrailsai.com/hub Comments URL: https://news.ycombinator.com/item?id=49122241 Points: 2 # Comments: 0
 
-📖 [Read original article](https://blog.mozilla.ai/can-open-source-guardrails-really-protect-ai-agents/)
+📖 [Read original article](https://guardrailsai.com/hub)
 
 ---
 
-## 8. Show HN: ZenResume – Free, local-first ATS resume builder with AI import
+## 17. High school axes plans to deploy AI robot called Sally after ties to sex dolls
 
-**Author:** jagadees21  
-**Published:** 7/31/2026, 6:25:20 AM  
+**Author:** Bender  
+**Published:** 7/31/2026, 12:18:26 PM  
 **Categories:** -  
 
-Build 100% ATS-compliant tech resumes in minutes. Import existing PDFs with Gemini AI, tailor keywords to job descriptions, and download high-quality PDFs with no paywalls or subscriptions. Comments URL: https://news.ycombinator.com/item?id=49119667 Points: 1 # Comments: 0
+Article URL: https://www.dailymail.com/news/article-16017467/humanoid-robot-teacher-new-york-axes-plan.html Comments URL: https://news.ycombinator.com/item?id=49122171 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.zenresume.online/)
+📖 [Read original article](https://www.dailymail.com/news/article-16017467/humanoid-robot-teacher-new-york-axes-plan.html)
 
 ---
 
-## 9. LinkedIn adds a button to report AI-generated 'slop'
+## 18. DeepSeek-AI/DeepSeek-V4-Flash-0731
 
-**Author:** robin_reala  
-**Published:** 7/31/2026, 6:06:12 AM  
+**Author:** Philpax  
+**Published:** 7/31/2026, 12:16:08 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/ Comments URL: https://news.ycombinator.com/item?id=49119542 Points: 2 # Comments: 0
+Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 Comments URL: https://news.ycombinator.com/item?id=49122153 Points: 10 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/)
+📖 [Read original article](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)
 
 ---
 
-## 10. SAP's Big Push for Tabular AI. What It Means for Enterprises
+## 19. AI Companies Mass Shredding Rare Books [video]
 
-**Author:** justinvan  
-**Published:** 7/31/2026, 6:02:04 AM  
+**Author:** Bender  
+**Published:** 7/31/2026, 11:45:33 AM  
 **Categories:** -  
 
-Article URL: https://pub.towardsai.net/saps-big-push-for-tabular-ai-what-it-means-for-enterprises-7dc3af2a1d8c?sk=73d9e33939f8f38b3d7ea49f87bb2e6a Comments URL: https://news.ycombinator.com/item?id=49119518 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=8c8pmp_OC2s Comments URL: https://news.ycombinator.com/item?id=49121930 Points: 2 # Comments: 0
 
-📖 [Read original article](https://pub.towardsai.net/saps-big-push-for-tabular-ai-what-it-means-for-enterprises-7dc3af2a1d8c?sk=73d9e33939f8f38b3d7ea49f87bb2e6a)
+📖 [Read original article](https://www.youtube.com/watch?v=8c8pmp_OC2s)
 
 ---
 
-## 11. 'First tremors' of AI earthquake showing in digital revenue hit
+## 20. LinkedIn adds a 'Seems like AI slop' button
 
-**Author:** giuliomagnifico  
-**Published:** 7/31/2026, 5:29:47 AM  
+**Author:** thunderbong  
+**Published:** 7/31/2026, 11:33:24 AM  
 **Categories:** -  
 
-Article URL: https://pressgazette.co.uk/publishers/digital-journalism/first-tremors-of-ai-earthquake-showing-in-digital-revenue-hit/ Comments URL: https://news.ycombinator.com/item?id=49119344 Points: 7 # Comments: 1
+Article URL: https://thenextweb.com/news/linkedin-seems-like-ai-slop-button Comments URL: https://news.ycombinator.com/item?id=49121840 Points: 9 # Comments: 2
 
-📖 [Read original article](https://pressgazette.co.uk/publishers/digital-journalism/first-tremors-of-ai-earthquake-showing-in-digital-revenue-hit/)
-
----
-
-## 12. Nvidia's $750B AI bet deepens fears of a circular tech bubble
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 7/31/2026, 5:19:46 AM  
-**Categories:** -  
-
-Article URL: https://www.latimes.com/business/story/2026-07-29/nvidias-750-billion-ai-bet-deepens-fears-of-circular-tech-bubble Comments URL: https://news.ycombinator.com/item?id=49119284 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.latimes.com/business/story/2026-07-29/nvidias-750-billion-ai-bet-deepens-fears-of-circular-tech-bubble)
-
----
-
-## 13. Show HN: What should the GUI for AI agents look like?
-
-**Author:** akbabu  
-**Published:** 7/31/2026, 5:17:29 AM  
-**Categories:** -  
-
-Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X. Before GUIs, interacting with a computer was limited to strange terminal commands:C:\> DIRC:\> ...
-
-📖 [Read original article](https://marbleos.com/demo)
-
----
-
-## 14. LinkedIn Introduces a 'Seems Like AI Slop' Button
-
-**Author:** saikatsg  
-**Published:** 7/31/2026, 5:15:03 AM  
-**Categories:** -  
-
-Article URL: https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/ Comments URL: https://news.ycombinator.com/item?id=49119261 Points: 4 # Comments: 3
-
-📖 [Read original article](https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/)
-
----
-
-## 15. Anthropic says Claude AI hacked three organisations during cyber tests
-
-**Author:** ColinEberhardt  
-**Published:** 7/31/2026, 4:56:48 AM  
-**Categories:** -  
-
-Article URL: https://www.bbc.co.uk/news/articles/cz7dl7w8y7po Comments URL: https://news.ycombinator.com/item?id=49119165 Points: 16 # Comments: 5
-
-📖 [Read original article](https://www.bbc.co.uk/news/articles/cz7dl7w8y7po)
-
----
-
-## 16. Fluency Is Not Authority: Building Local AI Characters for Signal Drift
-
-**Author:** alcoveresearch  
-**Published:** 7/31/2026, 4:54:39 AM  
-**Categories:** -  
-
-Article URL: https://engineering.signaldrift.net Comments URL: https://news.ycombinator.com/item?id=49119156 Points: 2 # Comments: 0
-
-📖 [Read original article](https://engineering.signaldrift.net)
-
----
-
-## 17. Anthropic's AI Claude escaped testing environment and hacked organizations
-
-**Author:** theanonymousone  
-**Published:** 7/31/2026, 4:51:28 AM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack Comments URL: https://news.ycombinator.com/item?id=49119138 Points: 7 # Comments: 1
-
-📖 [Read original article](https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack)
-
----
-
-## 18. Anthropic Discloses That AI Models Testing Hacked Three Companies
-
-**Author:** juunge  
-**Published:** 7/31/2026, 4:49:47 AM  
-**Categories:** -  
-
-Article URL: https://www.washingtonpost.com/technology/2026/07/30/anthropic-discloses-that-ai-models-testing-hacked-three-companies/ Comments URL: https://news.ycombinator.com/item?id=49119126 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.washingtonpost.com/technology/2026/07/30/anthropic-discloses-that-ai-models-testing-hacked-three-companies/)
-
----
-
-## 19. Noisegate: A differential-privacy gateway for untrusted AI agents
-
-**Author:** handfuloflight  
-**Published:** 7/31/2026, 4:36:02 AM  
-**Categories:** -  
-
-Article URL: https://github.com/yashmahajan10/llm-differential-privacy-gateway Comments URL: https://news.ycombinator.com/item?id=49119049 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/yashmahajan10/llm-differential-privacy-gateway)
-
----
-
-## 20. Big Tech AI spending spree tops $1T
-
-**Author:** mapping365  
-**Published:** 7/31/2026, 4:17:56 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/dcf3873e-7b32-4a24-a90d-3bccf1d2c996 Comments URL: https://news.ycombinator.com/item?id=49118949 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.ft.com/content/dcf3873e-7b32-4a24-a90d-3bccf1d2c996)
+📖 [Read original article](https://thenextweb.com/news/linkedin-seems-like-ai-slop-button)
 
 ---
