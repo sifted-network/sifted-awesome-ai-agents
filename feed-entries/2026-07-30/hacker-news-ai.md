@@ -2,251 +2,131 @@
 title: "Hacker News AI - 2026-07-30"
 date: "2026-07-30"
 source: "Hacker News AI"
-count: 20
+count: 10
 ---
 
 # Hacker News AI - 2026-07-30
 
-20 items collected.
+10 items collected.
 
 ---
 
-## 1. EU opens call for seven 'gigafactories' to train next-generation AI technologies
+## 1. Anthropic AI Models Hacked Three Organizations During Tests
 
-**Author:** billybuckwheat  
-**Published:** 7/30/2026, 7:12:47 PM  
+**Author:** evo_9  
+**Published:** 7/30/2026, 11:53:36 PM  
 **Categories:** -  
 
-Article URL: https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies Comments URL: https://news.ycombinator.com/item?id=49114356 Points: 3 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests Comments URL: https://news.ycombinator.com/item?id=49117363 Points: 5 # Comments: 1
 
-📖 [Read original article](https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests)
 
 ---
 
-## 2. AI-agent-only trade show, Ferrari Luce
+## 2. LLVM AI Tool Use Policy
 
-**Author:** historian1066  
-**Published:** 7/30/2026, 7:09:30 PM  
+**Author:** compiler-guy  
+**Published:** 7/30/2026, 11:34:27 PM  
 **Categories:** -  
 
-Article URL: https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce Comments URL: https://news.ycombinator.com/item?id=49114301 Points: 1 # Comments: 0
+Article URL: https://llvm.org/docs/AIToolPolicy.html Comments URL: https://news.ycombinator.com/item?id=49117210 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce)
+📖 [Read original article](https://llvm.org/docs/AIToolPolicy.html)
 
 ---
 
-## 3. Thieves Are Now Targeting AI Data Center Construction Sites
+## 3. Anthropic AI Models Hacked Three Companies During Tests
 
-**Author:** cdrnsf  
-**Published:** 7/30/2026, 7:09:10 PM  
+**Author:** bmulholland  
+**Published:** 7/30/2026, 11:24:34 PM  
 **Categories:** -  
 
-Article URL: https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/ Comments URL: https://news.ycombinator.com/item?id=49114292 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/tech/ai/anthropic-ai-models-hacked-three-companies-during-tests-bd752c86 Comments URL: https://news.ycombinator.com/item?id=49117124 Points: 21 # Comments: 13
 
-📖 [Read original article](https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/)
+📖 [Read original article](https://www.wsj.com/tech/ai/anthropic-ai-models-hacked-three-companies-during-tests-bd752c86)
 
 ---
 
-## 4. Did Alex Karp Just Declare War on the AI Labs [video]
+## 4. The AI Aesthetic
 
-**Author:** sroerick  
-**Published:** 7/30/2026, 7:02:38 PM  
+**Author:** montroser  
+**Published:** 7/30/2026, 11:22:16 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=BzY8EqYEP8o Comments URL: https://news.ycombinator.com/item?id=49114229 Points: 1 # Comments: 1
+Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 147 # Comments: 70
 
-📖 [Read original article](https://www.youtube.com/watch?v=BzY8EqYEP8o)
+📖 [Read original article](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
 ---
 
-## 5. Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice
+## 5. Reinventing rewards for the AI multiverse [pdf]
 
-**Author:** joeymabia1  
-**Published:** 7/30/2026, 7:01:33 PM  
+**Author:** zuhayeer  
+**Published:** 7/30/2026, 11:09:42 PM  
 **Categories:** -  
 
-Article URL: https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M Comments URL: https://news.ycombinator.com/item?id=49114209 Points: 2 # Comments: 0
+Article URL: https://www.mercer.com/assets/us/en_us/shared-assets/local/attachments/pdf-reinventing-rewards-for-the-ai-multiverse.pdf Comments URL: https://news.ycombinator.com/item?id=49116993 Points: 1 # Comments: 0
 
-📖 [Read original article](https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M)
+📖 [Read original article](https://www.mercer.com/assets/us/en_us/shared-assets/local/attachments/pdf-reinventing-rewards-for-the-ai-multiverse.pdf)
 
 ---
 
-## 6. The Friend AI Pendant is not a product
+## 6. Investors love AI, as long as you're a cloud host
 
-**Author:** mikelgan  
-**Published:** 7/30/2026, 6:58:36 PM  
+**Author:** toomuchtodo  
+**Published:** 7/30/2026, 11:08:09 PM  
 **Categories:** -  
 
-Article URL: https://www.machinesociety.ai/p/the-friend-ai-pendant-is-not-a-product Comments URL: https://news.ycombinator.com/item?id=49114180 Points: 2 # Comments: 1
+Article URL: https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/ Comments URL: https://news.ycombinator.com/item?id=49116983 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.machinesociety.ai/p/the-friend-ai-pendant-is-not-a-product)
+📖 [Read original article](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/)
 
 ---
 
-## 7. AI #179 Part 1: A Louder Fire Alarm for General Intelligence
+## 7. Ask HN: How are you leveraging AI/LLMs as software dev TEAM
 
-**Author:** paulpauper  
-**Published:** 7/30/2026, 6:56:13 PM  
+**Author:** locusofself  
+**Published:** 7/30/2026, 10:54:57 PM  
 **Categories:** -  
 
-Article URL: https://thezvi.substack.com/p/ai-179-part-1-a-louder-fire-alarm Comments URL: https://news.ycombinator.com/item?id=49114149 Points: 1 # Comments: 0
+SWE manager at $BIGTECH company here.I am curious to know if your software team is finding any real gains outside of individual developers leveraging LLMs and coding harnesses etc.Are you successfully sharing data/context between team members, creating shared workflows, reducing toil, bugs or produc...
 
-📖 [Read original article](https://thezvi.substack.com/p/ai-179-part-1-a-louder-fire-alarm)
+📖 [Read original article](https://news.ycombinator.com/item?id=49116891)
 
 ---
 
-## 8. Citadel buys most of Situational's stock holdings after AI share rout
+## 8. Show HN: Anti-Slop UI – A deterministic state-machine to stop AI hallucinations
 
-**Author:** paulpauper  
-**Published:** 7/30/2026, 6:54:46 PM  
+**Author:** hassan-elkady  
+**Published:** 7/30/2026, 10:49:31 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/ Comments URL: https://news.ycombinator.com/item?id=49114131 Points: 6 # Comments: 1
+Article URL: https://local-over.github.io/Anti-Slop-UI/ Comments URL: https://news.ycombinator.com/item?id=49116843 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/)
+📖 [Read original article](https://local-over.github.io/Anti-Slop-UI/)
 
 ---
 
-## 9. Star AI investor Leopold Aschenbrenner is unwinding trades after steep losses
+## 9. What's Working for Adoption and Distribution of AI/SaaS Products in 2026?
 
-**Author:** paulpauper  
-**Published:** 7/30/2026, 6:52:55 PM  
+**Author:** Expedition  
+**Published:** 7/30/2026, 10:45:55 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html Comments URL: https://news.ycombinator.com/item?id=49114095 Points: 2 # Comments: 0
+Building is (supposedly) easy and cheap. Media showcases the AI hits that grow faster than any company in history. YouTube "experts" are touting AI/SaaS tools that grew to $1m ARR within 3 months.But, that's only a small slice of the world. We have been building useful products that drive real resul...
 
-📖 [Read original article](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html)
+📖 [Read original article](https://news.ycombinator.com/item?id=49116817)
 
 ---
 
-## 10. We're making Chrome and the web safer in the AI Era
+## 10. Power 2026 – Electricity Pricing in the Age of AI
 
-**Author:** xnx  
-**Published:** 7/30/2026, 6:48:13 PM  
+**Author:** nsomani  
+**Published:** 7/30/2026, 10:35:59 PM  
 **Categories:** -  
 
-Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49114031 Points: 2 # Comments: 1
+Article URL: https://power2026.ai/ Comments URL: https://news.ycombinator.com/item?id=49116741 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.google/security/chrome-stronger-with-every-update/)
-
----
-
-## 11. The Zeno's Paradox of AI
-
-**Author:** negativezone  
-**Published:** 7/30/2026, 6:32:08 PM  
-**Categories:** -  
-
-Article URL: https://negativezone.github.io/2026/07/29/zeno.html Comments URL: https://news.ycombinator.com/item?id=49113814 Points: 3 # Comments: 0
-
-📖 [Read original article](https://negativezone.github.io/2026/07/29/zeno.html)
-
----
-
-## 12. AI productivity gains are closer to 10% than 10x
-
-**Author:** champagnepapi  
-**Published:** 7/30/2026, 6:28:09 PM  
-**Categories:** -  
-
-Article URL: https://leaddev.com/reporting/ai-productivity-gains-are-closer-to-10-than-10x Comments URL: https://news.ycombinator.com/item?id=49113774 Points: 9 # Comments: 8
-
-📖 [Read original article](https://leaddev.com/reporting/ai-productivity-gains-are-closer-to-10-than-10x)
-
----
-
-## 13. New Website, Instapaper 10 for iOS, and AI Voices for Android
-
-**Author:** jbowen  
-**Published:** 7/30/2026, 6:24:17 PM  
-**Categories:** -  
-
-Article URL: https://blog.instapaper.com/2026/07/28/instapaper-10/ Comments URL: https://news.ycombinator.com/item?id=49113729 Points: 2 # Comments: 0
-
-📖 [Read original article](https://blog.instapaper.com/2026/07/28/instapaper-10/)
-
----
-
-## 14. Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents
-
-**Author:** yashmahajan10  
-**Published:** 7/30/2026, 6:08:48 PM  
-**Categories:** -  
-
-Article URL: https://github.com/yashmahajan10/llm-differential-privacy-gateway Comments URL: https://news.ycombinator.com/item?id=49113543 Points: 7 # Comments: 0
-
-📖 [Read original article](https://github.com/yashmahajan10/llm-differential-privacy-gateway)
-
----
-
-## 15. OpenAI cuts prices for GPT-5.6 AI models as companies grow sensitive to costs
-
-**Author:** Vaslo  
-**Published:** 7/30/2026, 6:01:56 PM  
-**Categories:** -  
-
-Article URL: https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html Comments URL: https://news.ycombinator.com/item?id=49113456 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html)
-
----
-
-## 16. South Korea's stock market plunges as AI-driven boom fades
-
-**Author:** thunderbong  
-**Published:** 7/30/2026, 5:54:23 PM  
-**Categories:** -  
-
-Article URL: https://www.aljazeera.com/economy/2026/7/29/south-koreas-stock-market-plunges-as-ai-driven-boom-fades Comments URL: https://news.ycombinator.com/item?id=49113358 Points: 6 # Comments: 0
-
-📖 [Read original article](https://www.aljazeera.com/economy/2026/7/29/south-koreas-stock-market-plunges-as-ai-driven-boom-fades)
-
----
-
-## 17. Alan Turing's biggest AI assumption may have been wrong – ScienceDaily
-
-**Author:** ulrischa  
-**Published:** 7/30/2026, 5:46:56 PM  
-**Categories:** -  
-
-Article URL: https://www.sciencedaily.com/releases/2026/07/260713084850.htm Comments URL: https://news.ycombinator.com/item?id=49113258 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.sciencedaily.com/releases/2026/07/260713084850.htm)
-
----
-
-## 18. AI Agent Authentication and Authorization (IETF Internet-Draft)
-
-**Author:** jhgaylor  
-**Published:** 7/30/2026, 5:35:06 PM  
-**Categories:** -  
-
-Article URL: https://datatracker.ietf.org/doc/html/draft-klrc-aiagent-auth Comments URL: https://news.ycombinator.com/item?id=49113120 Points: 3 # Comments: 1
-
-📖 [Read original article](https://datatracker.ietf.org/doc/html/draft-klrc-aiagent-auth)
-
----
-
-## 19. Can AI agents conduct open-ended AI research?
-
-**Author:** randomwalker  
-**Published:** 7/30/2026, 5:35:04 PM  
-**Categories:** -  
-
-Article URL: https://arxiv.org/abs/2607.27191 Comments URL: https://news.ycombinator.com/item?id=49113119 Points: 4 # Comments: 0
-
-📖 [Read original article](https://arxiv.org/abs/2607.27191)
-
----
-
-## 20. That's Not What I Meant by 'Using AI'
-
-**Author:** jhartikainen  
-**Published:** 7/30/2026, 5:18:54 PM  
-**Categories:** -  
-
-Article URL: https://mudlej.com/articles/ai-development-approaches/ Comments URL: https://news.ycombinator.com/item?id=49112906 Points: 2 # Comments: 2
-
-📖 [Read original article](https://mudlej.com/articles/ai-development-approaches/)
+📖 [Read original article](https://power2026.ai/)
 
 ---
