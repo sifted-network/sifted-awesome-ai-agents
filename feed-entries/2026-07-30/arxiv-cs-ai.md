@@ -977,7 +977,7 @@ arXiv:2607.26432v1 Announce Type: cross Abstract: Face anti-spoofing (FAS) is in
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2607.26434v1 Announce Type: cross Abstract: Deploying learned control policies on low-cost robotic platforms introduces transport latencies and noisy motor feedback that systematically widens the sim-to-real gap. The chasm of simulation to deployment in hardware lies in the delay of the actuat...
+arXiv:2607.26434v2 Announce Type: cross Abstract: Deploying learned control policies on low-cost robotic platforms introduces transport latencies and noisy motor feedback that systematically widens the sim-to-real gap. The chasm of simulation to deployment in hardware lies in the delay of the actuat...
 
 📖 [Read original article](https://arxiv.org/abs/2607.26434)
 
@@ -1217,7 +1217,7 @@ arXiv:2607.26598v1 Announce Type: cross Abstract: Large language model (LLM) age
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI  
 
-arXiv:2607.26621v1 Announce Type: cross Abstract: Large language models (LLMs) have demonstrated strong reasoning capabilities, motivating their adoption as backbones for foundation recommendation models (FRMs). Existing approaches typically enhance recommendation with explicit Chain-of-Thought (CoT...
+arXiv:2607.26621v2 Announce Type: cross Abstract: Large language models (LLMs) have demonstrated strong reasoning capabilities, motivating their adoption as backbones for foundation recommendation models (FRMs). Existing approaches typically enhance recommendation with explicit Chain-of-Thought (CoT...
 
 📖 [Read original article](https://arxiv.org/abs/2607.26621)
 
@@ -1313,7 +1313,7 @@ arXiv:2607.26651v1 Announce Type: cross Abstract: With the promising performance
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.CY, cs.LG  
 
-arXiv:2607.26654v1 Announce Type: cross Abstract: Post-training alignment is often shallow, eroding under fine-tuning. Whether midtraining interventions, cleanly isolated from post-training, can produce durable alignment remains untested. We test this via constitutional midtraining: inserting princi...
+arXiv:2607.26654v2 Announce Type: cross Abstract: Post-training alignment is often shallow, eroding under fine-tuning. It remains untested as to whether constitutional midtraining interventions can produce durable alignment when cleanly isolated from post-training. We build a 394M-token constitution...
 
 📖 [Read original article](https://arxiv.org/abs/2607.26654)
 
@@ -1577,7 +1577,7 @@ arXiv:2607.26827v1 Announce Type: cross Abstract: Generative AI tools for creati
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.26828v1 Announce Type: cross Abstract: Large language models increasingly support scientific and algorithmic discovery through inference-time search over evaluated candidates. Existing adaptive discovery controllers assign credit based only on score progress, even though prompt length, re...
+arXiv:2607.26828v2 Announce Type: cross Abstract: Large language models increasingly support scientific and algorithmic discovery through inference-time search over evaluated candidates. Existing adaptive discovery controllers assign credit based only on score progress, even though prompt length, re...
 
 📖 [Read original article](https://arxiv.org/abs/2607.26828)
 
@@ -1733,7 +1733,7 @@ arXiv:2607.27054v1 Announce Type: cross Abstract: Knowledge distillation (KD) en
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2607.27065v1 Announce Type: cross Abstract: While automated defect detection such as the detection of surface scratched is an important aspect in industrial quality control, the scarcity of annotated defect data make this task challenging. This paper presents a procedural rendering pipeline th...
+arXiv:2607.27065v2 Announce Type: cross Abstract: While automated defect detection such as the detection of surface scratched is an important aspect in industrial quality control, the scarcity of annotated defect data make this task challenging. This paper presents a procedural rendering pipeline th...
 
 📖 [Read original article](https://arxiv.org/abs/2607.27065)
 
@@ -1757,7 +1757,7 @@ arXiv:2607.27066v1 Announce Type: cross Abstract: Scientific figure assessment i
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2607.27069v1 Announce Type: cross Abstract: Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separates two estimands: whether the benchmark image gives...
+arXiv:2607.27069v2 Announce Type: cross Abstract: Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separates two estimands: whether the benchmark image gives...
 
 📖 [Read original article](https://arxiv.org/abs/2607.27069)
 
@@ -1817,7 +1817,7 @@ arXiv:2607.27084v1 Announce Type: cross Abstract: Scientific images are the core
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.SD, cs.AI  
 
-arXiv:2607.27109v1 Announce Type: cross Abstract: With the development of audio large language models (AudioLLMs), audio captioning needs to move from brief descriptions toward open-ended and fine-grained free-form descriptions. Existing evaluations often focus on generation quality or task performa...
+arXiv:2607.27109v2 Announce Type: cross Abstract: With the development of audio large language models (AudioLLMs), audio captioning needs to move from brief descriptions toward open-ended and fine-grained free-form descriptions. Existing evaluations often focus on generation quality or task performa...
 
 📖 [Read original article](https://arxiv.org/abs/2607.27109)
 
@@ -1889,7 +1889,7 @@ arXiv:2607.27179v1 Announce Type: cross Abstract: Conversational AI is increasin
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.HC  
 
-arXiv:2607.27189v1 Announce Type: cross Abstract: We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing expenses, posting transactions, and producing repo...
+arXiv:2607.27189v2 Announce Type: cross Abstract: We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing expenses, posting transactions, and producing repo...
 
 📖 [Read original article](https://arxiv.org/abs/2607.27189)
 
@@ -1901,7 +1901,7 @@ arXiv:2607.27189v1 Announce Type: cross Abstract: We introduce APEX-Accounting, 
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2504.04128v2 Announce Type: replace Abstract: In decision-level fusion tasks involving heterogeneous sources with unequal precision and potential anomalies, evidence deviating from the majority may be either critical evidence supporting the correct decision or anomalous evidence supporting an ...
+arXiv:2504.04128v3 Announce Type: replace Abstract: In decision-level fusion tasks involving heterogeneous sources with unequal precision and potential anomalies, evidence deviating from the majority may be either critical evidence supporting the correct decision or anomalous evidence supporting an ...
 
 📖 [Read original article](https://arxiv.org/abs/2504.04128)
 
@@ -2129,7 +2129,7 @@ arXiv:2606.25176v3 Announce Type: replace Abstract: Chess engines have evolved f
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2606.27814v3 Announce Type: replace Abstract: Training small language-model agents for long-horizon interactive tasks requires both fast imitation and reward-driven improvement. On-policy distillation (OPD) provides dense teacher guidance and typically improves rapidly in the early stage, but ...
+arXiv:2606.27814v4 Announce Type: replace Abstract: Training small language-model agents for long-horizon interactive tasks requires both fast imitation and reward-driven improvement. On-policy distillation (OPD) provides dense teacher guidance and typically improves rapidly in the early stage, but ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.27814)
 
@@ -2561,7 +2561,7 @@ arXiv:2601.06300v2 Announce Type: replace-cross Abstract: Clinical trial amendme
 **Published:** 7/30/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2601.06599v3 Announce Type: replace-cross Abstract: Large Language Models (LLMs) often encode whether a statement is true as a vector in their residual stream activations. These vectors, also known as truth vectors, have been studied in prior work, however how they change when context is intro...
+arXiv:2601.06599v4 Announce Type: replace-cross Abstract: Large Language Models (LLMs) often encode whether a statement is true as a vector in their residual stream activations. These vectors, also known as truth vectors, have been studied in prior work, however how they change when context is intro...
 
 📖 [Read original article](https://arxiv.org/abs/2601.06599)
 
