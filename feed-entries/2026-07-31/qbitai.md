@@ -2,12 +2,12 @@
 title: "qbitai - 2026-07-31"
 date: "2026-07-31"
 source: "qbitai"
-count: 7
+count: 5
 ---
 
 # qbitai - 2026-07-31
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ count: 7
 AI for Science方向
 
 📖 [Read original article](https://www.qbitai.com/2026/07/464100.html)
-
----
-
-## 6. 学习强国做了个AI社区，两周铺进68座城市
-
-**Author:** 量子位的朋友们  
-**Published:** 7/31/2026, 6:47:00 AM  
-**Categories:** 资讯, 学习强国  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/07/463727.html)
-
----
-
-## 7. GPT-5.6今起大降价，最大幅度80%！
-
-**Author:** 听雨  
-**Published:** 7/31/2026, 3:01:21 AM  
-**Categories:** 资讯, 首页轮播, AI, ChatGPT, OpenAI  
-
-Luna打骨折
-
-📖 [Read original article](https://www.qbitai.com/2026/07/463640.html)
 
 ---
