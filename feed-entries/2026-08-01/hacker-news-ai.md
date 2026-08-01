@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Perplexity AI loses bid to toss Reddit lawsuit over data scraping
+## 1. Scalzi – Another Reason Not to Use \"AI\" for Your Writing
 
-**Author:** thm  
-**Published:** 8/1/2026, 8:04:22 AM  
+**Author:** roomey  
+**Published:** 8/1/2026, 1:06:10 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/ Comments URL: https://news.ycombinator.com/item?id=49132193 Points: 1 # Comments: 0
+Article URL: https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/ Comments URL: https://news.ycombinator.com/item?id=49134103 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/)
+📖 [Read original article](https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/)
 
 ---
 
-## 2. Ask HN: How did your boss's behavior change with the rise of AI?
+## 2. Google kills Earth AI generator after one day
 
-**Author:** aredirect  
-**Published:** 8/1/2026, 7:58:13 AM  
+**Author:** BlueBerry2001  
+**Published:** 8/1/2026, 1:02:44 PM  
 **Categories:** -  
 
-I am trying to understand whether the rise of AI affects managers and the work dynamics positively or negatively Comments URL: https://news.ycombinator.com/item?id=49132161 Points: 1 # Comments: 0
+Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 10 # Comments: 4
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49132161)
+📖 [Read original article](https://twitter.com/newsfromgoogle/status/2083249962150760610)
 
 ---
 
-## 3. AI doesn't generate working products, that's still your job
+## 3. Charlie Stross – On the non-use of AI in my writing process
 
-**Author:** smckk  
-**Published:** 8/1/2026, 7:52:10 AM  
+**Author:** jwx48  
+**Published:** 8/1/2026, 12:56:54 PM  
 **Categories:** -  
 
-Article URL: https://weeraman.com/the-prototype-isnt-the-product/ Comments URL: https://news.ycombinator.com/item?id=49132130 Points: 2 # Comments: 1
+Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html Comments URL: https://news.ycombinator.com/item?id=49134038 Points: 2 # Comments: 0
 
-📖 [Read original article](https://weeraman.com/the-prototype-isnt-the-product/)
+📖 [Read original article](https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html)
 
 ---
 
-## 4. Is AI Conscious? [video]
+## 4. A Field Guide to the AI Security Market
 
-**Author:** abc42  
-**Published:** 8/1/2026, 7:31:13 AM  
+**Author:** 882542F3884314B  
+**Published:** 8/1/2026, 12:39:39 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=DRbZyuY8EN8 Comments URL: https://news.ycombinator.com/item?id=49132014 Points: 2 # Comments: 1
+Article URL: https://zeltser.com/ai-security-market-field-guide Comments URL: https://news.ycombinator.com/item?id=49133934 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=DRbZyuY8EN8)
+📖 [Read original article](https://zeltser.com/ai-security-market-field-guide)
 
 ---
 
-## 5. Chinese AI Researchers Are Finding Their Voice on X
+## 5. July 2026 in AI
+
+**Author:** abhaysinghr516  
+**Published:** 8/1/2026, 12:38:04 PM  
+**Categories:** -  
+
+Article URL: https://howmachinesthink.substack.com/p/july-2026-in-ai-what-actually-mattered Comments URL: https://news.ycombinator.com/item?id=49133917 Points: 2 # Comments: 0
+
+📖 [Read original article](https://howmachinesthink.substack.com/p/july-2026-in-ai-what-actually-mattered)
+
+---
+
+## 6. Google AI Overviews have gone from appearing in 15% of searches to 43% now
+
+**Author:** qikouki  
+**Published:** 8/1/2026, 12:36:37 PM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/ Comments URL: https://news.ycombinator.com/item?id=49133906 Points: 2 # Comments: 0
+
+📖 [Read original article](https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/)
+
+---
+
+## 7. Building biology AI models autonomously
+
+**Author:** eamag  
+**Published:** 8/1/2026, 12:11:32 PM  
+**Categories:** -  
+
+Article URL: https://phylo.bio/blog/biomni-tuso Comments URL: https://news.ycombinator.com/item?id=49133734 Points: 2 # Comments: 0
+
+📖 [Read original article](https://phylo.bio/blog/biomni-tuso)
+
+---
+
+## 8. Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool
+
+**Author:** linuxterminal  
+**Published:** 8/1/2026, 12:03:25 PM  
+**Categories:** -  
+
+Article URL: https://freeaipromptgen.com/ Comments URL: https://news.ycombinator.com/item?id=49133672 Points: 10 # Comments: 3
+
+📖 [Read original article](https://freeaipromptgen.com/)
+
+---
+
+## 9. Newspaper archives still trump answers generated by AI
+
+**Author:** thisislife2  
+**Published:** 8/1/2026, 11:20:23 AM  
+**Categories:** -  
+
+Article URL: https://www.thehindu.com/opinion/op-ed/newspaper-archives-still-trump-answers-generated-by-ai/article71287538.ece Comments URL: https://news.ycombinator.com/item?id=49133397 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.thehindu.com/opinion/op-ed/newspaper-archives-still-trump-answers-generated-by-ai/article71287538.ece)
+
+---
+
+## 10. I built a tracker and comparison platform for AI video models
+
+**Author:** henryjinhao  
+**Published:** 8/1/2026, 11:03:40 AM  
+**Categories:** -  
+
+Article URL: https://videoall.ai Comments URL: https://news.ycombinator.com/item?id=49133273 Points: 1 # Comments: 0
+
+📖 [Read original article](https://videoall.ai)
+
+---
+
+## 11. Taboo \"equilibrium\": Less confused frames for research on AI bargaining
 
 **Author:** joozio  
-**Published:** 8/1/2026, 7:02:03 AM  
+**Published:** 8/1/2026, 11:02:26 AM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/ Comments URL: https://news.ycombinator.com/item?id=49131855 Points: 6 # Comments: 0
+Article URL: https://www.lesswrong.com/posts/KDq5aXwanvH5YoZYs/taboo-equilibrium-less-confused-frames-for-research-on-ai Comments URL: https://news.ycombinator.com/item?id=49133262 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/)
+📖 [Read original article](https://www.lesswrong.com/posts/KDq5aXwanvH5YoZYs/taboo-equilibrium-less-confused-frames-for-research-on-ai)
 
 ---
 
-## 6. Thomson Reuters Built Its Own AI Model That Now Ranks Among the Best
+## 12. Skin-Deep Bias: How Avatar Appearances Shape Perceptions of AI Hiring
 
-**Author:** doener  
-**Published:** 8/1/2026, 5:37:16 AM  
+**Author:** casabonita  
+**Published:** 8/1/2026, 11:00:21 AM  
 **Categories:** -  
 
-Article URL: https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/ Comments URL: https://news.ycombinator.com/item?id=49131361 Points: 5 # Comments: 1
+Article URL: https://dl.acm.org/doi/epdf/10.1145/3772318.3790379 Comments URL: https://news.ycombinator.com/item?id=49133240 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/)
+📖 [Read original article](https://dl.acm.org/doi/epdf/10.1145/3772318.3790379)
 
 ---
 
-## 7. The Four Horsemen of the AI Bubble Apocalypse
+## 13. AI Is Superhuman Wherever the Scoreboard Is Cheap
 
-**Author:** nreece  
-**Published:** 8/1/2026, 5:30:26 AM  
+**Author:** lulzx  
+**Published:** 8/1/2026, 10:43:18 AM  
 **Categories:** -  
 
-Article URL: https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble Comments URL: https://news.ycombinator.com/item?id=49131316 Points: 2 # Comments: 0
+Article URL: https://future.lulzx.space/blog/cheap-scoreboard.html Comments URL: https://news.ycombinator.com/item?id=49133120 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble)
+📖 [Read original article](https://future.lulzx.space/blog/cheap-scoreboard.html)
 
 ---
 
-## 8. The AI Data Center Explained – From Electricity to ChatGPT [video]
+## 14. AI: Considerations for people who make decisions
 
-**Author:** chirau  
-**Published:** 8/1/2026, 5:21:52 AM  
+**Author:** Fannon  
+**Published:** 8/1/2026, 10:25:12 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=ckoi0RTEgcY Comments URL: https://news.ycombinator.com/item?id=49131279 Points: 1 # Comments: 0
+Article URL: https://berthub.eu/articles/posts/ai-for-decision-makers/ Comments URL: https://news.ycombinator.com/item?id=49133023 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=ckoi0RTEgcY)
+📖 [Read original article](https://berthub.eu/articles/posts/ai-for-decision-makers/)
 
 ---
 
-## 9. Ace Sidecar – Efficiency Optimization for Local AI Coding
+## 15. How OpenAI Lost Its AI Crown–and the Fight to Win It Back
 
-**Author:** flyingfishisme  
-**Published:** 8/1/2026, 4:08:03 AM  
+**Author:** JumpCrisscross  
+**Published:** 8/1/2026, 10:15:00 AM  
 **Categories:** -  
 
-Article URL: https://acefleet.dev/blog/announcing-the-ace-sidecar Comments URL: https://news.ycombinator.com/item?id=49130939 Points: 1 # Comments: 1
+Article URL: https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695 Comments URL: https://news.ycombinator.com/item?id=49132983 Points: 2 # Comments: 1
 
-📖 [Read original article](https://acefleet.dev/blog/announcing-the-ace-sidecar)
+📖 [Read original article](https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695)
 
 ---
 
-## 10. Last 30 Days (Skill) – AI Agent for Reddit, X, YT, HN, Web and Polymarket
+## 16. A Yale AI-cheating dispute became a 13-count federal lawsuit
 
-**Author:** ms7892  
-**Published:** 8/1/2026, 4:00:39 AM  
+**Author:** pseudolus  
+**Published:** 8/1/2026, 10:11:40 AM  
 **Categories:** -  
 
-Article URL: https://github.com/mvanhorn/last30days-skill Comments URL: https://news.ycombinator.com/item?id=49130905 Points: 3 # Comments: 0
+Article URL: https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49132954 Points: 3 # Comments: 2
 
-📖 [Read original article](https://github.com/mvanhorn/last30days-skill)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/)
 
 ---
 
-## 11. US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model
+## 17. Anthropic says its AI models also hacked three organizations on their own
 
-**Author:** fragmede  
-**Published:** 8/1/2026, 3:11:07 AM  
+**Author:** madradavid  
+**Published:** 8/1/2026, 10:10:15 AM  
 **Categories:** -  
 
-Article URL: https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model Comments URL: https://news.ycombinator.com/item?id=49130703 Points: 6 # Comments: 3
+Article URL: https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/ Comments URL: https://news.ycombinator.com/item?id=49132942 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model)
+📖 [Read original article](https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/)
 
 ---
 
-## 12. AI broke writing as proof-of-thought
+## 18. AI coding agents should optimize for less owned code
 
-**Author:** prdgl_daughter  
-**Published:** 8/1/2026, 2:55:00 AM  
+**Author:** lyoncy  
+**Published:** 8/1/2026, 9:54:41 AM  
 **Categories:** -  
 
-Article URL: https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus Comments URL: https://news.ycombinator.com/item?id=49130644 Points: 8 # Comments: 2
+Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code Comments URL: https://news.ycombinator.com/item?id=49132846 Points: 1 # Comments: 0
 
-📖 [Read original article](https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus)
+📖 [Read original article](https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code)
 
 ---
 
-## 13. Flint: A Visualization Language for the AI Era
+## 19. AI labels to be compulsory on authentic-looking content under EU rules
 
-**Author:** vinhnx  
-**Published:** 8/1/2026, 2:45:09 AM  
+**Author:** pseudolus  
+**Published:** 8/1/2026, 9:49:14 AM  
 **Categories:** -  
 
-Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 97 # Comments: 31
+Article URL: https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules Comments URL: https://news.ycombinator.com/item?id=49132822 Points: 2 # Comments: 0
 
-📖 [Read original article](https://microsoft.github.io/flint-chart/)
+📖 [Read original article](https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules)
 
 ---
 
-## 14. Leopold Aschenbrenner built a $45B AI hedge fund – and lost most of it in days
+## 20. Kill Chain: How AI Is Transforming Modern Warfare [video]
 
-**Author:** gilfoyle_7  
-**Published:** 8/1/2026, 2:39:33 AM  
+**Author:** mgh2  
+**Published:** 8/1/2026, 9:43:37 AM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html Comments URL: https://news.ycombinator.com/item?id=49130576 Points: 7 # Comments: 2
+Article URL: https://www.youtube.com/watch?v=xjhywQlzJYo Comments URL: https://news.ycombinator.com/item?id=49132788 Points: 2 # Comments: 2
 
-📖 [Read original article](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html)
-
----
-
-## 15. Snapchat joins other popular platforms in fight against 'AI slop'
-
-**Author:** vinni2  
-**Published:** 8/1/2026, 2:16:24 AM  
-**Categories:** -  
-
-Article URL: https://www.bbc.com/news/articles/c77g6dm5pr8o Comments URL: https://news.ycombinator.com/item?id=49130478 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.bbc.com/news/articles/c77g6dm5pr8o)
-
----
-
-## 16. The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI
-
-**Author:** berkeleyjunk  
-**Published:** 8/1/2026, 1:55:41 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79 Comments URL: https://news.ycombinator.com/item?id=49130385 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79)
-
----
-
-## 17. Cdbx – an AI coding IDE where you can bring your own API key and own the code
-
-**Author:** chbutler  
-**Published:** 8/1/2026, 1:37:31 AM  
-**Categories:** -  
-
-Article URL: https://cdbx.ai/ Comments URL: https://news.ycombinator.com/item?id=49130307 Points: 2 # Comments: 0
-
-📖 [Read original article](https://cdbx.ai/)
-
----
-
-## 18. Urldn – A URL shortener with analytics and an AI data analyst
-
-**Author:** assmira  
-**Published:** 8/1/2026, 1:31:48 AM  
-**Categories:** -  
-
-Article URL: https://waitlist.urldn.com/ Comments URL: https://news.ycombinator.com/item?id=49130273 Points: 3 # Comments: 0
-
-📖 [Read original article](https://waitlist.urldn.com/)
-
----
-
-## 19. AI Visibility Evidence Model: Five Factors, Graded by Evidence
-
-**Author:** spetschinka  
-**Published:** 8/1/2026, 12:56:35 AM  
-**Categories:** -  
-
-Article URL: https://www.richresults.ai/evidence.html Comments URL: https://news.ycombinator.com/item?id=49130131 Points: 5 # Comments: 1
-
-📖 [Read original article](https://www.richresults.ai/evidence.html)
-
----
-
-## 20. The Red-Hot Book at the Center of an AI Mystery
-
-**Author:** petethomas  
-**Published:** 8/1/2026, 12:09:38 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/business/media/the-red-hot-book-at-the-center-of-an-ai-mystery-201c4665 Comments URL: https://news.ycombinator.com/item?id=49129909 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.wsj.com/business/media/the-red-hot-book-at-the-center-of-an-ai-mystery-201c4665)
+📖 [Read original article](https://www.youtube.com/watch?v=xjhywQlzJYo)
 
 ---
