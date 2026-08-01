@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-07-29"
 date: "2026-07-29"
 source: "OpenAI Blog"
-count: 3
+count: 2
 ---
 
 # OpenAI Blog - 2026-07-29
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores 
 OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
 
 📖 [Read original article](https://openai.com/index/chatgpt-for-academic-researchers)
-
----
-
-## 3. How GPT-5.6 fuses frontier intelligence with frontier efficiency
-
-**Author:** -  
-**Published:** 7/29/2026, 12:00:00 AM  
-**Categories:** Engineering  
-
-GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.
-
-📖 [Read original article](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency)
 
 ---
