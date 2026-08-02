@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The $5k tell: AI vendors are selling you human QA for their own AI
+## 1. Show HN: Kota – Bring AI agent CLIs into the same room
 
-**Author:** ermantrout  
-**Published:** 8/2/2026, 1:00:00 PM  
+**Author:** chriswunan  
+**Published:** 8/2/2026, 6:59:32 PM  
 **Categories:** -  
 
-Article URL: https://okaneland.com/study/the-5000-dollar-tell/ Comments URL: https://news.ycombinator.com/item?id=49144216 Points: 1 # Comments: 0
+A couple months ago, I was tired of keep copy-paste across different Agent Chatbot tabs, feeling like a slave for AI sessions, so I created Kota for my own work.Kota was designed around a concept of Knights of the Round Table.It treats human as part of a project team, and- Runs on top of existing CL...
 
-📖 [Read original article](https://okaneland.com/study/the-5000-dollar-tell/)
+📖 [Read original article](https://www.kota.place/)
 
 ---
 
-## 2. Ask HN: When will the AI version of 911 happen?
+## 2. Is AI Progress Stalling? Or is it me?
 
-**Author:** dfps  
-**Published:** 8/2/2026, 12:57:12 PM  
+**Author:** paulpauper  
+**Published:** 8/2/2026, 6:58:17 PM  
 **Categories:** -  
 
-Whether the government/other 'friendly' entities were behind, coordinated, or were oblivious to the 911 attacks, they enjoyed what 911 allowed them to do (be completely free of the limits of the Constitution on their treatment of everyone) to not want to do it again.It lasted 25 years, which might b...
+Article URL: https://arnoldkling.substack.com/p/is-ai-progress-stalling Comments URL: https://news.ycombinator.com/item?id=49147254 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49144182)
+📖 [Read original article](https://arnoldkling.substack.com/p/is-ai-progress-stalling)
 
 ---
 
-## 3. China's free Kimi K3 AI model shakes up global tech market
+## 3. AI-assisted analytics now 10x cheaper
 
-**Author:** donohoe  
-**Published:** 8/2/2026, 12:50:38 PM  
+**Author:** ryguyrg  
+**Published:** 8/2/2026, 6:49:59 PM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/ Comments URL: https://news.ycombinator.com/item?id=49144128 Points: 3 # Comments: 0
+Article URL: https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49147192 Points: 1 # Comments: 0
 
-📖 [Read original article](https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/)
+📖 [Read original article](https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/)
 
 ---
 
-## 4. Show HN: Handoff is await human() for AI agents
+## 4. The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier
 
-**Author:** LivingGlitcher  
-**Published:** 8/2/2026, 12:20:56 PM  
+**Author:** thm  
+**Published:** 8/2/2026, 6:47:46 PM  
 **Categories:** -  
 
-Article URL: https://github.com/OmegaAgent/handoff Comments URL: https://news.ycombinator.com/item?id=49143842 Points: 1 # Comments: 1
+Article URL: https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/ Comments URL: https://news.ycombinator.com/item?id=49147181 Points: 3 # Comments: 1
 
-📖 [Read original article](https://github.com/OmegaAgent/handoff)
+📖 [Read original article](https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/)
 
 ---
 
-## 5. An AI TikTok Shop Slop Factory That Shills Supplements the FDA Recalled
+## 5. AI and the iPod Test
 
-**Author:** Dfol  
-**Published:** 8/2/2026, 12:16:57 PM  
+**Author:** speckx  
+**Published:** 8/2/2026, 6:13:12 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/ Comments URL: https://news.ycombinator.com/item?id=49143808 Points: 1 # Comments: 0
+Article URL: https://www.psychologytoday.com/us/blog/the-digital-self/202607/ai-and-the-ipod-test Comments URL: https://news.ycombinator.com/item?id=49146888 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/)
+📖 [Read original article](https://www.psychologytoday.com/us/blog/the-digital-self/202607/ai-and-the-ipod-test)
 
 ---
 
-## 6. Will Self-Hosted Local AI Go Mainstream, or Stay a Niche for Nerds?
+## 6. Show HN: Mapping Jensen Huang's five-layer AI stack to engineering degrees
 
-**Author:** grigio  
-**Published:** 8/2/2026, 12:08:29 PM  
+**Author:** ithkai92  
+**Published:** 8/2/2026, 6:12:52 PM  
 **Categories:** -  
 
-Article URL: https://grigio.org/will-self-hosted-local-ai-go-mainstream-or-stay-a-niche-for-nerds/ Comments URL: https://news.ycombinator.com/item?id=49143736 Points: 1 # Comments: 2
+Hi HN,I mapped Jensen Huang’s five layers of AI, energy, chips, infrastructure, models, and applications, to engineering disciplines.It is aimed at students asking two questions: Where does my degree fit into this landscape? Should I specialise now or stay broad?I would appreciate feedback on what i...
 
-📖 [Read original article](https://grigio.org/will-self-hosted-local-ai-go-mainstream-or-stay-a-niche-for-nerds/)
+📖 [Read original article](https://ai-five-layer-map.pages.dev/)
 
 ---
 
-## 7. Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers
+## 7. YouTuber Hank Green says his AI usage is 'not healthy'
 
-**Author:** SpikeyCoder  
-**Published:** 8/2/2026, 11:53:52 AM  
+**Author:** embedding-shape  
+**Published:** 8/2/2026, 6:00:27 PM  
 **Categories:** -  
 
-Article URL: https://website-auditor.io/ai-visibility-index Comments URL: https://news.ycombinator.com/item?id=49143630 Points: 33 # Comments: 41
+Article URL: https://old.reddit.com/r/nerdfighters/comments/1vbmoj5/on_hank_admitting_he_used_chatgpt_for_his_latest/p0vzmog/ Comments URL: https://news.ycombinator.com/item?id=49146757 Points: 2 # Comments: 1
 
-📖 [Read original article](https://website-auditor.io/ai-visibility-index)
+📖 [Read original article](https://old.reddit.com/r/nerdfighters/comments/1vbmoj5/on_hank_admitting_he_used_chatgpt_for_his_latest/p0vzmog/)
 
 ---
 
-## 8. Best way to avoid bloat and AI – selfcontaining OS
+## 8. Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat
 
-**Author:** bialamusic  
-**Published:** 8/2/2026, 11:47:09 AM  
+**Author:** CharlesW  
+**Published:** 8/2/2026, 5:54:04 PM  
 **Categories:** -  
 
-I wanted an OS that I could truly own. Most modern systems have become server-controlled clients, bloated with dependencies (Gtk4/Qt/Rust/Wayland) and centralized source control on GitHub. If you cannot audit the dependency tree and Big Corp controls the source, it is no longer real open source.I bu...
+Article URL: https://newrepublic.com/article/213738/artificial-intelligence-god-test-adopt-ai-die Comments URL: https://news.ycombinator.com/item?id=49146676 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49143571)
+📖 [Read original article](https://newrepublic.com/article/213738/artificial-intelligence-god-test-adopt-ai-die)
 
 ---
 
-## 9. Generative AI floods and dilutes the market for books
+## 9. AI-Powered Container Standardization
 
-**Author:** theanonymousone  
-**Published:** 8/2/2026, 11:06:07 AM  
+**Author:** speckx  
+**Published:** 8/2/2026, 5:42:49 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2607.20349 Comments URL: https://news.ycombinator.com/item?id=49143289 Points: 30 # Comments: 67
+Article URL: https://medium.com/capital-one-tech/introducing-ai-powered-container-standardization-2f9314cde883 Comments URL: https://news.ycombinator.com/item?id=49146580 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2607.20349)
+📖 [Read original article](https://medium.com/capital-one-tech/introducing-ai-powered-container-standardization-2f9314cde883)
 
 ---
 
-## 10. Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives
+## 10. Mexico became a surprise cornerstone of America's AI boom
 
-**Author:** joozio  
-**Published:** 8/2/2026, 11:02:38 AM  
+**Author:** paulpauper  
+**Published:** 8/2/2026, 5:39:09 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/ Comments URL: https://news.ycombinator.com/item?id=49143271 Points: 2 # Comments: 0
+Article URL: https://www.ft.com/content/ac3274ac-86ca-46ac-bc7b-029fb9dcd173 Comments URL: https://news.ycombinator.com/item?id=49146547 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
+📖 [Read original article](https://www.ft.com/content/ac3274ac-86ca-46ac-bc7b-029fb9dcd173)
 
 ---
 
-## 11. Damned if you do and damned if you don't: Can NOT using AI amount to negligence?
+## 11. AI is getting better at writing. Humans must get better at editing
 
-**Author:** MasterScrat  
-**Published:** 8/2/2026, 10:48:46 AM  
+**Author:** andsoitis  
+**Published:** 8/2/2026, 5:34:10 PM  
 **Categories:** -  
 
-Article URL: https://www.judiciary.uk/speech-by-the-master-of-the-rolls-to-the-professional-negligence-bar-association/ Comments URL: https://news.ycombinator.com/item?id=49143201 Points: 2 # Comments: 1
+Article URL: https://economist.com/leaders/2026/07/30/ai-is-getting-better-at-writing-humans-must-get-better-at-editing Comments URL: https://news.ycombinator.com/item?id=49146498 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.judiciary.uk/speech-by-the-master-of-the-rolls-to-the-professional-negligence-bar-association/)
+📖 [Read original article](https://economist.com/leaders/2026/07/30/ai-is-getting-better-at-writing-humans-must-get-better-at-editing)
 
 ---
 
-## 12. Show HN: Documan – AI Powered Requirement Management Workspace
+## 12. A stricter TypeScript for a world where AI writes most of the code
 
-**Author:** bbayer  
-**Published:** 8/2/2026, 10:38:26 AM  
+**Author:** MarcoDewey  
+**Published:** 8/2/2026, 5:30:15 PM  
 **Categories:** -  
 
-That is a tool that I have developed based on my own needs since it was a shame not to use AI for requirement generation. There are ancient tools like IBM DOORS but they require buying seat licences and they don't have any support for LLMs. I see that requirement management is a mess most of time, p...
+Article URL: https://github.com/chitalian/Typescript-Ultra-Strict Comments URL: https://news.ycombinator.com/item?id=49146450 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/bbayer/DocuMan)
+📖 [Read original article](https://github.com/chitalian/Typescript-Ultra-Strict)
 
 ---
 
-## 13. Stock market turmoil sheds stark light on the opaque AI economy
+## 13. Everyone is so annoying about AI
 
-**Author:** beardyw  
-**Published:** 8/2/2026, 10:19:43 AM  
+**Author:** classictraffic  
+**Published:** 8/2/2026, 5:27:21 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy Comments URL: https://news.ycombinator.com/item?id=49143010 Points: 4 # Comments: 1
+Article URL: https://cailinpitt.com/blog/2026/8/01/everyone-is-so-annoying-about-ai Comments URL: https://news.ycombinator.com/item?id=49146425 Points: 6 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy)
+📖 [Read original article](https://cailinpitt.com/blog/2026/8/01/everyone-is-so-annoying-about-ai)
 
 ---
 
-## 14. Research Topics in ML, AI and Deep Learning
+## 14. AI learns language from skewed sources. It could change how humans speak/think
 
-**Author:** sparshrestha  
-**Published:** 8/2/2026, 10:05:59 AM  
+**Author:** fzeindl  
+**Published:** 8/2/2026, 5:14:50 PM  
 **Categories:** -  
 
-Article URL: https://blog.sparsh.dev/research-topics-in-ml-ai-and-deep-learning/ Comments URL: https://news.ycombinator.com/item?id=49142911 Points: 2 # Comments: 0
+Article URL: https://www.theguardian.com/commentisfree/2026/apr/14/ai-language-human-speech Comments URL: https://news.ycombinator.com/item?id=49146324 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.sparsh.dev/research-topics-in-ml-ai-and-deep-learning/)
+📖 [Read original article](https://www.theguardian.com/commentisfree/2026/apr/14/ai-language-human-speech)
 
 ---
 
-## 15. A daily estimation game where the crowd's answer fights an AI
+## 15. Graduate in 2036 as a AI engineer is it worth?
 
-**Author:** holdthelineworl  
-**Published:** 8/2/2026, 8:49:22 AM  
+**Author:** eapyk  
+**Published:** 8/2/2026, 4:31:56 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49142461 Points: 2 # Comments: 0
+I just need to know am i doing good or not for my future Comments URL: https://news.ycombinator.com/item?id=49145976 Points: 1 # Comments: 4
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49142461)
+📖 [Read original article](https://news.ycombinator.com/item?id=49145976)
 
 ---
 
-## 16. EU Icons for labelling AI-generated content – Shaping Europe's digital future
+## 16. Show HN: Sprocket – The Best AI Agent for Hardware and Software Development
 
-**Author:** robert-boehnke  
-**Published:** 8/2/2026, 8:38:55 AM  
+**Author:** amronos  
+**Published:** 8/2/2026, 4:26:19 PM  
 **Categories:** -  
 
-Article URL: https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49142385 Points: 3 # Comments: 1
+Hey HN, I am 16y/o and have been working on Sprocket for a while. It's an open-source AI agent that beats every other agent out there at both hardware and software.And here's the best part: Sprocket can (on its own) buy anything from any website when you tell it to do so. From hardware parts to SaaS...
 
-📖 [Read original article](https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content)
+📖 [Read original article](https://sprocket-demo.spikonado.com)
 
 ---
 
-## 17. POV: An AI replaced your job this morning [video]
+## 17. From now on, companies across the EU must be clear about their use of AI
 
-**Author:** Animats  
-**Published:** 8/2/2026, 8:30:18 AM  
+**Author:** speckx  
+**Published:** 8/2/2026, 4:18:14 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=k35i0o-b8sI Comments URL: https://news.ycombinator.com/item?id=49142319 Points: 2 # Comments: 1
+Article URL: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai Comments URL: https://news.ycombinator.com/item?id=49145873 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=k35i0o-b8sI)
+📖 [Read original article](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
 
 ---
 
-## 18. Adima AI: The Future of AI Enhancement
+## 18. Australian booksellers raise alarm over destruction of rare titles to feed AI
 
-**Author:** JuekMorningstar  
-**Published:** 8/2/2026, 8:26:44 AM  
+**Author:** Teever  
+**Published:** 8/2/2026, 4:12:40 PM  
 **Categories:** -  
 
-Article URL: https://www.aiimageupscale.com/ai-image-upscaler-pc Comments URL: https://news.ycombinator.com/item?id=49142294 Points: 2 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain Comments URL: https://news.ycombinator.com/item?id=49145837 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.aiimageupscale.com/ai-image-upscaler-pc)
+📖 [Read original article](https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain)
 
 ---
 
-## 19. Multiplayer AI Infrastructure
+## 19. As Reddit stock falls, CEO questions value of Google's AI Overviews
 
-**Author:** luckymonkybaby  
-**Published:** 8/2/2026, 8:08:03 AM  
+**Author:** Brajeshwar  
+**Published:** 8/2/2026, 4:09:26 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Abloatai/docs Comments URL: https://news.ycombinator.com/item?id=49142184 Points: 3 # Comments: 0
+Article URL: https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/ Comments URL: https://news.ycombinator.com/item?id=49145809 Points: 10 # Comments: 9
 
-📖 [Read original article](https://github.com/Abloatai/docs)
+📖 [Read original article](https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/)
 
 ---
 
-## 20. Apple struggles to keep pace with AI 'bug' hunters
+## 20. I refuse to bow to our AI overlords
 
-**Author:** sbulaev  
-**Published:** 8/2/2026, 8:07:05 AM  
+**Author:** speckx  
+**Published:** 8/2/2026, 4:08:26 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2 Comments URL: https://news.ycombinator.com/item?id=49142179 Points: 3 # Comments: 0
+Article URL: https://grugq.substack.com/p/i-refuse-to-bow-to-our-ai-overlords Comments URL: https://news.ycombinator.com/item?id=49145804 Points: 5 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2)
+📖 [Read original article](https://grugq.substack.com/p/i-refuse-to-bow-to-our-ai-overlords)
 
 ---
