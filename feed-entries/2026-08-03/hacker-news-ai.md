@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. EU enforces labeling AI generated content
+## 1. The Mental Models I Use to Work with AI
 
-**Author:** nucatus  
-**Published:** 8/3/2026, 9:46:26 AM  
+**Author:** young_mete  
+**Published:** 8/3/2026, 2:35:05 PM  
 **Categories:** -  
 
-Article URL: https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies Comments URL: https://news.ycombinator.com/item?id=49153481 Points: 1 # Comments: 0
+Article URL: https://metedata.substack.com/p/015-the-mental-models-i-use-to-work Comments URL: https://news.ycombinator.com/item?id=49156374 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies)
+📖 [Read original article](https://metedata.substack.com/p/015-the-mental-models-i-use-to-work)
 
 ---
 
-## 2. Show HN: The best-paid AI/tech job anyone advertises pays $824k, not $100M
+## 2. Europe opens bidding for seven AI 'gigafactories' in a €30B bid to catch up
 
-**Author:** norejisace  
-**Published:** 8/3/2026, 9:40:18 AM  
+**Author:** doener  
+**Published:** 8/3/2026, 2:31:57 PM  
 **Categories:** -  
 
-Article URL: https://ctaio.dev/en/jobs/ Comments URL: https://news.ycombinator.com/item?id=49153434 Points: 1 # Comments: 1
+Article URL: https://thenextweb.com/news/eu-ai-gigafactories-call-30bn Comments URL: https://news.ycombinator.com/item?id=49156329 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ctaio.dev/en/jobs/)
+📖 [Read original article](https://thenextweb.com/news/eu-ai-gigafactories-call-30bn)
 
 ---
 
-## 3. Show HN: Kuvu AI – Your All-in-One AI Creative Studio and Marketing Studio
+## 3. PostScript: Idle Frontier and on developing games with AI
 
-**Author:** longyuanpro  
-**Published:** 8/3/2026, 9:35:19 AM  
+**Author:** ljvmiranda  
+**Published:** 8/3/2026, 2:18:41 PM  
 **Categories:** -  
 
-Create stunning images and ugc videos with top AI models — Seedance 2.0, Veo 3, Kling, GPT Image, Flux, and more. One platform, unlimited creativity. Comments URL: https://news.ycombinator.com/item?id=49153398 Points: 1 # Comments: 0
+Article URL: https://ljvmiranda921.github.io/projects/2026/08/03/idle-frontier/ Comments URL: https://news.ycombinator.com/item?id=49156135 Points: 1 # Comments: 1
 
-📖 [Read original article](https://kuvu.ai/)
+📖 [Read original article](https://ljvmiranda921.github.io/projects/2026/08/03/idle-frontier/)
 
 ---
 
-## 4. PISIGuard: Protect your personal and sensitive info when you chat with AI
+## 4. Hypothetical scenario; Post AI cryptography?
 
-**Author:** mohamed_am83  
-**Published:** 8/3/2026, 8:54:00 AM  
+**Author:** dogeprotocol  
+**Published:** 8/3/2026, 2:14:16 PM  
 **Categories:** -  
 
-Article URL: https://github.com/mohamed--abdel-maksoud/pisiguard Comments URL: https://news.ycombinator.com/item?id=49153029 Points: 3 # Comments: 2
+Article URL: https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/w4o-VCza_so Comments URL: https://news.ycombinator.com/item?id=49156086 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/mohamed--abdel-maksoud/pisiguard)
+📖 [Read original article](https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/w4o-VCza_so)
 
 ---
 
-## 5. AI Is a Race Car, Not Autopilot
+## 5. A Markdown wiki outscored every AI agent memory product we benchmarked
 
-**Author:** ry8806  
-**Published:** 8/3/2026, 8:24:45 AM  
+**Author:** SmithersBot  
+**Published:** 8/3/2026, 2:12:03 PM  
 **Categories:** -  
 
-Article URL: https://ryansouthgate.com/ai-is-a-racecar/ Comments URL: https://news.ycombinator.com/item?id=49152800 Points: 2 # Comments: 0
+Article URL: https://verginglabs.com/ Comments URL: https://news.ycombinator.com/item?id=49156055 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ryansouthgate.com/ai-is-a-racecar/)
+📖 [Read original article](https://verginglabs.com/)
 
 ---
 
-## 6. AI slop blocked a real $200K macOS flaw
+## 6. The EU AI Act is now in force: an engineering checklist
 
-**Author:** BlueBerry2001  
-**Published:** 8/3/2026, 8:23:54 AM  
+**Author:** stevalsoto  
+**Published:** 8/3/2026, 1:57:29 PM  
 **Categories:** -  
 
-Article URL: https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=49152790 Points: 3 # Comments: 0
+Article URL: https://conformityengineering.com/ Comments URL: https://news.ycombinator.com/item?id=49155887 Points: 3 # Comments: 0
 
-📖 [Read original article](https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/)
+📖 [Read original article](https://conformityengineering.com/)
 
 ---
 
-## 7. CodeBot: Full details on our New AI for Delphi
+## 7. Are We Having the Wrong Nightmares About AI?
 
-**Author:** vintagedave  
-**Published:** 8/3/2026, 8:10:09 AM  
+**Author:** fzeindl  
+**Published:** 8/3/2026, 1:56:11 PM  
 **Categories:** -  
 
-Article URL: https://blogs.remobjects.com/2026/07/30/codebot-the-story/ Comments URL: https://news.ycombinator.com/item?id=49152680 Points: 7 # Comments: 1
+Article URL: https://neurips.cc/virtual/2025/loc/san-diego/invited-talk/109606 Comments URL: https://news.ycombinator.com/item?id=49155870 Points: 2 # Comments: 0
 
-📖 [Read original article](https://blogs.remobjects.com/2026/07/30/codebot-the-story/)
+📖 [Read original article](https://neurips.cc/virtual/2025/loc/san-diego/invited-talk/109606)
 
 ---
 
-## 8. 1 in 4 people in Japan believes AI could replace friends and family: poll
+## 8. Logue 1.0.1: on-device AI meeting notes, now stored as plain Markdown
 
-**Author:** 01-_-  
-**Published:** 8/3/2026, 8:08:16 AM  
+**Author:** westerosweb  
+**Published:** 8/3/2026, 1:52:33 PM  
 **Categories:** -  
 
-Article URL: https://www.japantimes.co.jp/news/2026/08/02/japan/poll-ai-replace-friends-family/ Comments URL: https://news.ycombinator.com/item?id=49152668 Points: 7 # Comments: 3
+Article URL: https://github.com/bitwize-ai/Logue Comments URL: https://news.ycombinator.com/item?id=49155825 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.japantimes.co.jp/news/2026/08/02/japan/poll-ai-replace-friends-family/)
+📖 [Read original article](https://github.com/bitwize-ai/Logue)
 
 ---
 
-## 9. Pipe – A runtime where AI operations are language primitives
+## 9. Show HN: Glaux – Browser-Only AI for Hugging Face ONNX Community Models
 
-**Author:** harrymachura  
-**Published:** 8/3/2026, 7:50:56 AM  
+**Author:** granganath  
+**Published:** 8/3/2026, 1:44:42 PM  
 **Categories:** -  
 
-Article URL: https://pipe-lang.com Comments URL: https://news.ycombinator.com/item?id=49152549 Points: 2 # Comments: 0
+Article URL: https://glaux.rangan39.sh/ Comments URL: https://news.ycombinator.com/item?id=49155736 Points: 2 # Comments: 3
 
-📖 [Read original article](https://pipe-lang.com)
+📖 [Read original article](https://glaux.rangan39.sh/)
 
 ---
 
-## 10. The AI Productivity Gap
+## 10. Built a 3D Neural Decode website interactive way to explore how AI models work
 
-**Author:** kiyanwang  
-**Published:** 8/3/2026, 7:07:20 AM  
+**Author:** balavenkatesh  
+**Published:** 8/3/2026, 1:44:22 PM  
 **Categories:** -  
 
-Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 26 # Comments: 27
+Article URL: https://neuraldecode.vercel.app Comments URL: https://news.ycombinator.com/item?id=49155734 Points: 1 # Comments: 0
 
-📖 [Read original article](https://bjorg.bjornroche.com/management/ai-productivity-gap/)
+📖 [Read original article](https://neuraldecode.vercel.app)
 
 ---
 
-## 11. Trust Is Gone: AI Safety Needs Individuals
+## 11. Show HN: Headroom – warns you before your AI chat starts forgetting
 
-**Author:** joozio  
-**Published:** 8/3/2026, 7:02:27 AM  
+**Author:** zm_bad  
+**Published:** 8/3/2026, 1:39:24 PM  
 **Categories:** -  
 
-Article URL: https://www.lesswrong.com/posts/cm3Ea9tBHpjj9zjji/trust-is-gone-ai-safety-needs-individuals Comments URL: https://news.ycombinator.com/item?id=49152175 Points: 4 # Comments: 0
+Article URL: https://github.com/ZM-BAD/headroom Comments URL: https://news.ycombinator.com/item?id=49155672 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.lesswrong.com/posts/cm3Ea9tBHpjj9zjji/trust-is-gone-ai-safety-needs-individuals)
+📖 [Read original article](https://github.com/ZM-BAD/headroom)
 
 ---
 
-## 12. Ask HN: Do you ever think about the environmental impacts of the AI datacenters?
+## 12. AI database chat: ask in plain language, review the query, get answers
 
-**Author:** roschdal  
-**Published:** 8/3/2026, 6:55:50 AM  
+**Author:** technoscripts  
+**Published:** 8/3/2026, 1:37:21 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49152112 Points: 3 # Comments: 1
+Article URL: https://plugins.jetbrains.com/plugin/33126-asksql Comments URL: https://news.ycombinator.com/item?id=49155656 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49152112)
+📖 [Read original article](https://plugins.jetbrains.com/plugin/33126-asksql)
 
 ---
 
-## 13. Further Developments About Internal AI Models Hacking Things
+## 13. Putting AI Everywhere Does Not Mean Success
 
-**Author:** thm  
-**Published:** 8/3/2026, 6:46:57 AM  
+**Author:** MS8080  
+**Published:** 8/3/2026, 1:35:41 PM  
 **Categories:** -  
 
-Article URL: https://thezvi.substack.com/p/further-developments-about-internal Comments URL: https://news.ycombinator.com/item?id=49152051 Points: 2 # Comments: 0
+Article URL: https://msakkal.com/research/ai-everywhere-not-success.html Comments URL: https://news.ycombinator.com/item?id=49155637 Points: 3 # Comments: 1
 
-📖 [Read original article](https://thezvi.substack.com/p/further-developments-about-internal)
+📖 [Read original article](https://msakkal.com/research/ai-everywhere-not-success.html)
 
 ---
 
-## 14. How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender
+## 14. A list of sandboxes for running AI coding agents, ranked by security posture
 
-**Author:** akbarnama  
-**Published:** 8/3/2026, 6:16:38 AM  
+**Author:** fhiltscher  
+**Published:** 8/3/2026, 1:18:04 PM  
 **Categories:** -  
 
-Article URL: https://www.researchgate.net/publication/399711077_Thinking-Fast_Slow_and_Artificial_How_AI_is_Reshaping_Human_Reasoning_and_the_Rise_of_Cognitive_Surrender Comments URL: https://news.ycombinator.com/item?id=49151853 Points: 2 # Comments: 3
+Article URL: https://github.com/fhiltscher/awesome-ai-coding-sandboxes Comments URL: https://news.ycombinator.com/item?id=49155416 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.researchgate.net/publication/399711077_Thinking-Fast_Slow_and_Artificial_How_AI_is_Reshaping_Human_Reasoning_and_the_Rise_of_Cognitive_Surrender)
+📖 [Read original article](https://github.com/fhiltscher/awesome-ai-coding-sandboxes)
 
 ---
 
-## 15. Company Offering Printed Books to Train AI Stops After 404 Media Coverage
+## 15. Anthropic launched an AI-run vending machine, stores and cafes within a year
 
-**Author:** HelloUsername  
-**Published:** 8/3/2026, 5:56:56 AM  
+**Author:** gmays  
+**Published:** 8/3/2026, 1:09:02 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/ai-company-training-scanning-books-database-isbndb/ Comments URL: https://news.ycombinator.com/item?id=49151710 Points: 3 # Comments: 0
+Article URL: https://fortune.com/2026/06/02/anthropic-office-vending-machine-ai-agents-vendo-andon-lukas-petersson/ Comments URL: https://news.ycombinator.com/item?id=49155322 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.404media.co/ai-company-training-scanning-books-database-isbndb/)
+📖 [Read original article](https://fortune.com/2026/06/02/anthropic-office-vending-machine-ai-agents-vendo-andon-lukas-petersson/)
 
 ---
 
-## 16. The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI
+## 16. Rescene – Free AI agent aggregator, no API key required
 
-**Author:** apparent  
-**Published:** 8/3/2026, 5:48:48 AM  
+**Author:** rescenix  
+**Published:** 8/3/2026, 1:06:14 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79 Comments URL: https://news.ycombinator.com/item?id=49151668 Points: 2 # Comments: 0
+Article URL: https://github.com/Rescenix/ResceneAgent Comments URL: https://news.ycombinator.com/item?id=49155295 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79)
+📖 [Read original article](https://github.com/Rescenix/ResceneAgent)
 
 ---
 
-## 17. How Go Players Disempower Themselves to AI
+## 17. AI scammers outperform humans when it comes to building trust
 
-**Author:** zetalyrae  
-**Published:** 8/3/2026, 4:45:08 AM  
+**Author:** speckx  
+**Published:** 8/3/2026, 12:58:02 PM  
 **Categories:** -  
 
-Article URL: https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai Comments URL: https://news.ycombinator.com/item?id=49151303 Points: 3 # Comments: 1
+Article URL: https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/ Comments URL: https://news.ycombinator.com/item?id=49155201 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai)
+📖 [Read original article](https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/)
 
 ---
 
-## 18. AI Mentions in Job Descriptions – August 2026
+## 18. Atomic Arms and AI Commanders May Spark Doomsday War, Nobel Winners Warn
 
-**Author:** sp1982  
-**Published:** 8/3/2026, 4:24:18 AM  
+**Author:** dn2k  
+**Published:** 8/3/2026, 12:53:22 PM  
 **Categories:** -  
 
-Article URL: https://corvi.careers/blog/ai_jobs_aug_2026/ Comments URL: https://news.ycombinator.com/item?id=49151202 Points: 3 # Comments: 0
+Article URL: https://www.forbes.com/sites/kevinholdenplatt/2026/07/31/atomic-arms--ai-commanders-may-spark-doomsday-war-nobel-winners-warn/ Comments URL: https://news.ycombinator.com/item?id=49155133 Points: 1 # Comments: 0
 
-📖 [Read original article](https://corvi.careers/blog/ai_jobs_aug_2026/)
+📖 [Read original article](https://www.forbes.com/sites/kevinholdenplatt/2026/07/31/atomic-arms--ai-commanders-may-spark-doomsday-war-nobel-winners-warn/)
 
 ---
 
-## 19. An AI meeting recorder that sees and hears everything
+## 19. AI is making weather forecasts better
 
-**Author:** puremetrics  
-**Published:** 8/3/2026, 4:19:57 AM  
+**Author:** gmays  
+**Published:** 8/3/2026, 12:50:54 PM  
 **Categories:** -  
 
-Article URL: https://github.com/puremetricsai/lumi Comments URL: https://news.ycombinator.com/item?id=49151182 Points: 5 # Comments: 4
+Article URL: https://orennia.substack.com/p/ai-is-making-weather-forecasts-better Comments URL: https://news.ycombinator.com/item?id=49155100 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/puremetricsai/lumi)
+📖 [Read original article](https://orennia.substack.com/p/ai-is-making-weather-forecasts-better)
 
 ---
 
-## 20. Show HN: An AI-Powered Widget for Collecting User Feedback
+## 20. AI Is Replacing Customer Service Jobs
 
-**Author:** paicha  
-**Published:** 8/3/2026, 4:08:22 AM  
+**Author:** the-mitr  
+**Published:** 8/3/2026, 12:46:57 PM  
 **Categories:** -  
 
-Article URL: https://makethisbetter.dev/ Comments URL: https://news.ycombinator.com/item?id=49151121 Points: 8 # Comments: 2
+Article URL: https://finance.yahoo.com/technology/ai/articles/ai-replacing-customer-jobs-cba-093026192.html Comments URL: https://news.ycombinator.com/item?id=49155057 Points: 1 # Comments: 0
 
-📖 [Read original article](https://makethisbetter.dev/)
+📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/ai-replacing-customer-jobs-cba-093026192.html)
 
 ---
