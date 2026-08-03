@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-01"
 date: "2026-08-01"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-08-01
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Discover how to optimize transformer workloads using the NVIDIA Transformer Engi
 Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with determi...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/)
-
----
-
-## 4. MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio
-
-**Author:** Asif Razzaq  
-**Published:** 8/1/2026, 8:28:07 AM  
-**Categories:** AI Shorts, Applications, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Staff, Tech News, Technology, Voice AI  
-
-MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose multimodal generation model that reads text, images, video, and audio as one unified context and returns video with native stere...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/)
 
 ---
