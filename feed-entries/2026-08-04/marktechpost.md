@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-04"
 date: "2026-08-04"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-08-04
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates
+## 1. Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive
+
+**Author:** Asif Razzaq  
+**Published:** 8/4/2026, 9:45:40 AM  
+**Categories:** Agentic AI, Applications, Artificial Intelligence, Deep Learning, Editors Pick, Machine Learning, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
+
+Reflex has released XY, an Apache-2.0 Python charting library that moves rendering work into a native Rust core and a WebGL2 client. It holds roughly 0.08 seconds render time from 10,000 to 100 million points, exports a 10-million-point interactive scatter at 258 KiB, and keeps exact f64 columns in ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy/)
+
+---
+
+## 2. Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates
 
 **Author:** Sana Hassan  
 **Published:** 8/4/2026, 8:12:36 AM  
@@ -23,7 +35,7 @@ Learn how to build an end-to-end security assessment pipeline for AI agent skill
 
 ---
 
-## 2. Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web
+## 3. Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web
 
 **Author:** Asif Razzaq  
 **Published:** 8/4/2026, 4:17:18 AM  
@@ -35,7 +47,7 @@ Y Combinator has open-sourced QM, the multiplayer agent harness it uses internal
 
 ---
 
-## 3. Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF
+## 4. Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF
 
 **Author:** Michal Sutter  
 **Published:** 8/4/2026, 3:46:16 AM  
