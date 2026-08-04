@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-04"
 date: "2026-08-04"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-08-04
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive
+## 1. Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks
+
+**Author:** Asif Razzaq  
+**Published:** 8/4/2026, 6:38:41 PM  
+**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Artificial Intelligence, Editors Pick, Large Language Model, Machine Learning, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
+
+Cursor Research has open-sourced Mixture-of-Kittens (MoK), the MoE training megakernel behind its Composer models. MoK fuses all mixture-of-experts communication and computation into a single deterministic kernel, and runs up to 2.37x faster than the strongest public baseline on GB300 NVL72 racks. I...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/04/cursor-open-sources-mixture-of-kittens-mok-a-deterministic-moe-training-megakernel-for-gb300-nvl72-racks/)
+
+---
+
+## 2. Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive
 
 **Author:** Asif Razzaq  
 **Published:** 8/4/2026, 9:45:40 AM  
@@ -23,7 +35,7 @@ Reflex has released XY, an Apache-2.0 Python charting library that moves renderi
 
 ---
 
-## 2. Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates
+## 3. Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates
 
 **Author:** Sana Hassan  
 **Published:** 8/4/2026, 8:12:36 AM  
@@ -35,7 +47,7 @@ Learn how to build an end-to-end security assessment pipeline for AI agent skill
 
 ---
 
-## 3. Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web
+## 4. Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web
 
 **Author:** Asif Razzaq  
 **Published:** 8/4/2026, 4:17:18 AM  
@@ -47,7 +59,7 @@ Y Combinator has open-sourced QM, the multiplayer agent harness it uses internal
 
 ---
 
-## 4. Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF
+## 5. Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF
 
 **Author:** Michal Sutter  
 **Published:** 8/4/2026, 3:46:16 AM  
