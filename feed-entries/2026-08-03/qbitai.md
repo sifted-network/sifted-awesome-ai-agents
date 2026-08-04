@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-03"
 date: "2026-08-03"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-08-03
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ count: 10
 终究还是喜提了「美国豆包」
 
 📖 [Read original article](https://www.qbitai.com/2026/08/465176.html)
-
----
-
-## 10. AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化
-
-**Author:** 梦晨  
-**Published:** 8/3/2026, 2:51:33 AM  
-**Categories:** 资讯, 华为  
-
-面向AI Agent的可迁移、自演进记忆操作层MindMemOS
-
-📖 [Read original article](https://www.qbitai.com/2026/08/464835.html)
 
 ---
