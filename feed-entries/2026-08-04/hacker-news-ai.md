@@ -2,143 +2,251 @@
 title: "Hacker News AI - 2026-08-04"
 date: "2026-08-04"
 source: "Hacker News AI"
-count: 11
+count: 20
 ---
 
 # Hacker News AI - 2026-08-04
 
-11 items collected.
+20 items collected.
 
 ---
 
-## 1. Superbad.com if it came from the mind of an AI
+## 1. Show HN: Made Our BI v7 – Free Open Source with All Features (AI, SSO, RLS etc.)
 
-**Author:** rogerdickey  
-**Published:** 8/4/2026, 2:34:33 AM  
+**Author:** nikhelical  
+**Published:** 8/4/2026, 8:32:50 AM  
 **Categories:** -  
 
-Article URL: https://stuff.do/ Comments URL: https://news.ycombinator.com/item?id=49163801 Points: 1 # Comments: 1
+We just made our BI v 7.0 product completely open source and free including all enterprise versions. Hence in github downloaded version, you can also get things like AI chat analytics (with bring your own LLM), multi-tenancy, embedding, SSO, RLS, report busting, paginated canned reports etc.Zero fun...
 
-📖 [Read original article](https://stuff.do/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49165810)
 
 ---
 
-## 2. Full-Stack AI Engineer, Clinical Systems – NYC Based – Healthtech
+## 2. We need to talk about AI in mathematics
 
-**Author:** ben-scire  
-**Published:** 8/4/2026, 1:54:20 AM  
+**Author:** ah27182  
+**Published:** 8/4/2026, 8:10:27 AM  
 **Categories:** -  
 
-Article URL: https://alnuhealth.com/careers/full-stack-ai-engineer-clinical-systems Comments URL: https://news.ycombinator.com/item?id=49163562 Points: 1 # Comments: 2
+Article URL: https://www.youtube.com/watch?v=cS1SJ0oBbTI Comments URL: https://news.ycombinator.com/item?id=49165658 Points: 1 # Comments: 0
 
-📖 [Read original article](https://alnuhealth.com/careers/full-stack-ai-engineer-clinical-systems)
+📖 [Read original article](https://www.youtube.com/watch?v=cS1SJ0oBbTI)
 
 ---
 
-## 3. AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC
+## 3. Ask HN: In post AI world, who is responsible if the code break?
+
+**Author:** pranshuchittora  
+**Published:** 8/4/2026, 7:51:03 AM  
+**Categories:** -  
+
+- Engineer / Person who wrote the PR. - Reviewer - Tester / Person who tested it Comments URL: https://news.ycombinator.com/item?id=49165546 Points: 3 # Comments: 3
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49165546)
+
+---
+
+## 4. LinkedIn says it won't be spending big on AI hardware this year
+
+**Author:** 01-_-  
+**Published:** 8/4/2026, 7:43:45 AM  
+**Categories:** -  
+
+Article URL: https://www.techradar.com/pro/linkedin-says-it-wont-be-spending-big-on-ai-hardware-this-year-but-it-has-a-good-reason-why Comments URL: https://news.ycombinator.com/item?id=49165499 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.techradar.com/pro/linkedin-says-it-wont-be-spending-big-on-ai-hardware-this-year-but-it-has-a-good-reason-why)
+
+---
+
+## 5. AI Futures Model: Timelines and Takeoff
+
+**Author:** m-novikov  
+**Published:** 8/4/2026, 7:40:43 AM  
+**Categories:** -  
+
+Article URL: https://www.aifuturesmodel.com/ Comments URL: https://news.ycombinator.com/item?id=49165478 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.aifuturesmodel.com/)
+
+---
+
+## 6. The AI Revolution – History Repeating Itself – On Sentience
+
+**Author:** TTMO  
+**Published:** 8/4/2026, 7:32:03 AM  
+**Categories:** -  
+
+Article URL: https://www.alanbonnici.com/2026/07/the-ai-revolution-history-repeating.html Comments URL: https://news.ycombinator.com/item?id=49165420 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.alanbonnici.com/2026/07/the-ai-revolution-history-repeating.html)
+
+---
+
+## 7. When Every AI Trend Becomes a New Discipline [video]
+
+**Author:** v-mdev  
+**Published:** 8/4/2026, 7:29:50 AM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=2myd3cgqe2k Comments URL: https://news.ycombinator.com/item?id=49165399 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=2myd3cgqe2k)
+
+---
+
+## 8. Trump's AI protectionism has come for robotics
+
+**Author:** joozio  
+**Published:** 8/4/2026, 7:01:27 AM  
+**Categories:** -  
+
+Article URL: https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/ Comments URL: https://news.ycombinator.com/item?id=49165171 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)
+
+---
+
+## 9. Six Problems When You Try to Build an AI Therapist
+
+**Author:** fhe  
+**Published:** 8/4/2026, 6:56:02 AM  
+**Categories:** -  
+
+Article URL: https://emilylee293105.substack.com/p/six-problems-when-you-try-to-build Comments URL: https://news.ycombinator.com/item?id=49165140 Points: 2 # Comments: 0
+
+📖 [Read original article](https://emilylee293105.substack.com/p/six-problems-when-you-try-to-build)
+
+---
+
+## 10. China gets better bang for its buck than America in AI
+
+**Author:** pingou  
+**Published:** 8/4/2026, 6:49:45 AM  
+**Categories:** -  
+
+Article URL: https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai Comments URL: https://news.ycombinator.com/item?id=49165100 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai)
+
+---
+
+## 11. Bubo: AI code-reviewer that learns from review comments
+
+**Author:** mt_owl  
+**Published:** 8/4/2026, 6:12:11 AM  
+**Categories:** -  
+
+Article URL: https://github.com/mountainowl/bubo Comments URL: https://news.ycombinator.com/item?id=49164862 Points: 1 # Comments: 1
+
+📖 [Read original article](https://github.com/mountainowl/bubo)
+
+---
+
+## 12. We gave an AI agent rootless VPN access to 1k live servers
+
+**Author:** Daniiar9  
+**Published:** 8/4/2026, 6:08:27 AM  
+**Categories:** -  
+
+Article URL: https://ardor.cloud/blog/ardor-getblock-agentic-operations Comments URL: https://news.ycombinator.com/item?id=49164831 Points: 2 # Comments: 0
+
+📖 [Read original article](https://ardor.cloud/blog/ardor-getblock-agentic-operations)
+
+---
+
+## 13. How to groth hack in AI era
+
+**Author:** aratama123  
+**Published:** 8/4/2026, 5:55:42 AM  
+**Categories:** -  
+
+Just a simple question. I'm an engineer but started marketing for my product, and didn't work well. Can I gain some tips that you'd worked with, and how you succeeded? Comments URL: https://news.ycombinator.com/item?id=49164757 Points: 2 # Comments: 0
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49164757)
+
+---
+
+## 14. China's AI Blitz Creates 'Death Zone' for Rival US Model Makers
+
+**Author:** petethomas  
+**Published:** 8/4/2026, 5:48:46 AM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers Comments URL: https://news.ycombinator.com/item?id=49164723 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers)
+
+---
+
+## 15. Ask HN: How are you operating OSS AI infrastructure?
 
 **Author:** kkgupta  
-**Published:** 8/4/2026, 1:37:04 AM  
+**Published:** 8/4/2026, 5:05:29 AM  
 **Categories:** -  
 
-Article URL: https://byocanywhere.org/ Comments URL: https://news.ycombinator.com/item?id=49163459 Points: 6 # Comments: 0
+There are many open-source projects across inference, orchestration, observability, vector search, data pipelines, evaluation, and model management. Most are relatively easy to test, but production operation is a different problem.For those running open-source AI infrastructure in production:* What ...
 
-📖 [Read original article](https://byocanywhere.org/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49164517)
 
 ---
 
-## 4. The Next Five Years – Economics of AI – Patrick Collison
+## 16. AI-assisted staging draws boos at the Richard Wagner festival in Germany
 
-**Author:** haritha1313  
-**Published:** 8/4/2026, 1:15:13 AM  
+**Author:** rawgabbit  
+**Published:** 8/4/2026, 4:11:38 AM  
 **Categories:** -  
 
-Article URL: https://next-five-years.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49163332 Points: 4 # Comments: 0
+Article URL: https://apnews.com/article/germany-bayreuth-wagner-festival-ai-f4300cdc0be195dabdadfa6d2ab4254c Comments URL: https://news.ycombinator.com/item?id=49164296 Points: 6 # Comments: 2
 
-📖 [Read original article](https://next-five-years.vercel.app/)
+📖 [Read original article](https://apnews.com/article/germany-bayreuth-wagner-festival-ai-f4300cdc0be195dabdadfa6d2ab4254c)
 
 ---
 
-## 5. How are you operating AI infrastructure in production?
+## 17. Niche expert AI fine-tuning data set in clean JSON format
 
-**Author:** kkgupta  
-**Published:** 8/4/2026, 1:05:25 AM  
+**Author:** PunkiePal  
+**Published:** 8/4/2026, 4:01:43 AM  
 **Categories:** -  
 
-There are many open-source projects across inference, orchestration, observability, vector search, data pipelines, evaluation, and model management. Most are relatively easy to test, but production operation is a different problem.For those running open-source AI infrastructure in production:- What ...
+Article URL: https://headwater.gumroad.com/l/jxvjh Comments URL: https://news.ycombinator.com/item?id=49164249 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49163280)
+📖 [Read original article](https://headwater.gumroad.com/l/jxvjh)
 
 ---
 
-## 6. 9router-Python – Python SDK for the 9Router AI gateway (35 models)
+## 18. The Youth AI Privacy Act's Privacy Paradox
 
-**Author:** ChristopherDond  
-**Published:** 8/4/2026, 12:55:20 AM  
+**Author:** mdp2021  
+**Published:** 8/4/2026, 3:57:42 AM  
 **Categories:** -  
 
-Article URL: https://github.com/ChristopherDond/9router-python Comments URL: https://news.ycombinator.com/item?id=49163215 Points: 2 # Comments: 0
+Article URL: https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox Comments URL: https://news.ycombinator.com/item?id=49164224 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/ChristopherDond/9router-python)
+📖 [Read original article](https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox)
 
 ---
 
-## 7. AI's Manifesto War
+## 19. Show HN: Benzi – An AI coding assistant grounded in a live code map
 
-**Author:** supportm  
-**Published:** 8/4/2026, 12:39:23 AM  
+**Author:** showhz  
+**Published:** 8/4/2026, 3:30:27 AM  
 **Categories:** -  
 
-Article URL: https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models Comments URL: https://news.ycombinator.com/item?id=49163120 Points: 2 # Comments: 1
+Benzi is a compiler + runtime tracer + harness and AI agent built to understand code from ground up.Challenging traditional RAG and embedding space approaches, Benzi aims to write code as cleanly as it understands it.Any feedback is greatly appriciated! Comments URL: https://news.ycombinator.com/ite...
 
-📖 [Read original article](https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models)
+📖 [Read original article](https://benzi.fly.dev/)
 
 ---
 
-## 8. AI Stocks with a Clear Enterprise Software Edge in 2026
+## 20. The AI Boom Is Transforming the American Economy Beyond Recognition
 
-**Author:** supportm  
-**Published:** 8/4/2026, 12:35:45 AM  
+**Author:** mapping365  
+**Published:** 8/4/2026, 3:22:38 AM  
 **Categories:** -  
 
-Article URL: https://simplywall.st/stocks/ca/software/tsx-dcbo/docebo-shares/news/ai-stocks-with-a-clear-enterprise-software-edge-in-2026 Comments URL: https://news.ycombinator.com/item?id=49163101 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/economy/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-c7825b31 Comments URL: https://news.ycombinator.com/item?id=49164067 Points: 5 # Comments: 2
 
-📖 [Read original article](https://simplywall.st/stocks/ca/software/tsx-dcbo/docebo-shares/news/ai-stocks-with-a-clear-enterprise-software-edge-in-2026)
-
----
-
-## 9. Show HN: \"Hedgehog\" - An Opinionated workflow for building with AI
-
-**Author:** skyf0xx  
-**Published:** 8/4/2026, 12:34:11 AM  
-**Categories:** -  
-
-Article URL: https://github.com/skyf0xx/hedgehog Comments URL: https://news.ycombinator.com/item?id=49163090 Points: 1 # Comments: 1
-
-📖 [Read original article](https://github.com/skyf0xx/hedgehog)
-
----
-
-## 10. The Chinese AI labs are making four pretty different bets. I work at one of them
-
-**Author:** thunderbong  
-**Published:** 8/4/2026, 12:26:26 AM  
-**Categories:** -  
-
-Article URL: https://reddit.com/comments/1veipya/ Comments URL: https://news.ycombinator.com/item?id=49163044 Points: 3 # Comments: 1
-
-📖 [Read original article](https://reddit.com/comments/1veipya/)
-
----
-
-## 11. AI Agents Are Confirming Orders That Were Never Placed
-
-**Author:** ticust  
-**Published:** 8/4/2026, 12:11:59 AM  
-**Categories:** -  
-
-Article URL: https://industrycontents.com/ai-agent-journey-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=49162968 Points: 2 # Comments: 0
-
-📖 [Read original article](https://industrycontents.com/ai-agent-journey-hallucinations/)
+📖 [Read original article](https://www.wsj.com/economy/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-c7825b31)
 
 ---
