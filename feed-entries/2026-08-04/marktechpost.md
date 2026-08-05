@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-04"
 date: "2026-08-04"
 source: "MarkTechPost"
-count: 5
+count: 6
 ---
 
 # MarkTechPost - 2026-08-04
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks
+## 1. Pixel-Native RAG: A Practical Guide to Visual Document Indexing
+
+**Author:** Sana Hassan  
+**Published:** 8/4/2026, 10:27:38 PM  
+**Categories:** Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Model Context Protocol, Staff, Technology, Tutorials  
+
+Move beyond traditional text-based parsing with PixelRAG, an end-to-end system that treats web pages and PDFs as images. This tutorial explores the complete pipeline—from rendering and tiling to multimodal embedding and hybrid search—enabling developers to build high-performance, visual document ret...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/)
+
+---
+
+## 2. Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks
 
 **Author:** Asif Razzaq  
 **Published:** 8/4/2026, 6:38:41 PM  
@@ -23,7 +35,7 @@ Cursor Research has open-sourced Mixture-of-Kittens (MoK), the MoE training mega
 
 ---
 
-## 2. Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive
+## 3. Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive
 
 **Author:** Asif Razzaq  
 **Published:** 8/4/2026, 9:45:40 AM  
@@ -35,7 +47,7 @@ Reflex has released XY, an Apache-2.0 Python charting library that moves renderi
 
 ---
 
-## 3. Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates
+## 4. Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates
 
 **Author:** Sana Hassan  
 **Published:** 8/4/2026, 8:12:36 AM  
@@ -47,7 +59,7 @@ Learn how to build an end-to-end security assessment pipeline for AI agent skill
 
 ---
 
-## 4. Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web
+## 5. Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web
 
 **Author:** Asif Razzaq  
 **Published:** 8/4/2026, 4:17:18 AM  
@@ -59,7 +71,7 @@ Y Combinator has open-sourced QM, the multiplayer agent harness it uses internal
 
 ---
 
-## 5. Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF
+## 6. Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF
 
 **Author:** Michal Sutter  
 **Published:** 8/4/2026, 3:46:16 AM  
