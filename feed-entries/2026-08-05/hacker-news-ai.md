@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. SpaceX's AI ambitions burning through Starlink revenue
+## 1. Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words
 
-**Author:** mapping365  
-**Published:** 8/5/2026, 8:10:50 AM  
+**Author:** LandoLorinse  
+**Published:** 8/5/2026, 2:06:20 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/video/watch/idRW326204082026RP1/ Comments URL: https://news.ycombinator.com/item?id=49179938 Points: 2 # Comments: 0
+Article URL: https://www.vocab.top/ Comments URL: https://news.ycombinator.com/item?id=49183110 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/video/watch/idRW326204082026RP1/)
+📖 [Read original article](https://www.vocab.top/)
 
 ---
 
-## 2. RNet lets users use one AI credit balance across multiple apps [demo]
+## 2. When people think AI did the creative work, task meaning and effort decline
 
-**Author:** rNetAi  
-**Published:** 8/5/2026, 8:04:56 AM  
+**Author:** helsinkiandrew  
+**Published:** 8/5/2026, 2:03:08 PM  
 **Categories:** -  
 
-demo video : https://youtu.be/W7U3HdI37N0I built rNet to let users use their AI credits across multiple apps.Note: by "users" I mean not developers but end users, normal people.Why? I was using an agentic IDE and a Hostinger deployment agent, both. One day, I ran out of credits on the deployment age...
+Article URL: https://www.brookings.edu/articles/when-people-think-ai-did-the-creative-work-task-meaning-and-effort-decline/ Comments URL: https://news.ycombinator.com/item?id=49183057 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49179899)
+📖 [Read original article](https://www.brookings.edu/articles/when-people-think-ai-did-the-creative-work-task-meaning-and-effort-decline/)
 
 ---
 
-## 3. China's tech giants race to put AI on delivery riders' heads
+## 3. Silicon Valley sees AI as the solution – for everyone else
 
-**Author:** 01-_-  
-**Published:** 8/5/2026, 8:01:24 AM  
+**Author:** MaysonL  
+**Published:** 8/5/2026, 1:58:28 PM  
 **Categories:** -  
 
-Article URL: https://www.scmp.com/tech/big-tech/article/3362761/chinas-tech-giants-race-put-ai-delivery-riders-heads Comments URL: https://news.ycombinator.com/item?id=49179878 Points: 2 # Comments: 0
+Article URL: https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem Comments URL: https://news.ycombinator.com/item?id=49182985 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.scmp.com/tech/big-tech/article/3362761/chinas-tech-giants-race-put-ai-delivery-riders-heads)
+📖 [Read original article](https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem)
 
 ---
 
-## 4. The Attack Was Authorized: The Missing Security Boundary for AI Agents
+## 4. Empower the people not the AI – self containing OS
 
-**Author:** johlo  
-**Published:** 8/5/2026, 7:40:22 AM  
+**Author:** OnemanBSD  
+**Published:** 8/5/2026, 1:49:05 PM  
 **Categories:** -  
 
-Article URL: https://blog.iluxav.com/the-attack-was-authorized-the-missing-security-boundary-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=49179740 Points: 2 # Comments: 0
+In software we have put too much control in the hands of corporations and organization. It is time to start putting the control in the hands of the individual. I want an OS that I could truly own. Most modern systems have become server-controlled clients, bloated with dependencies (Gtk4/Qt/Rust/Wayl...
 
-📖 [Read original article](https://blog.iluxav.com/the-attack-was-authorized-the-missing-security-boundary-for-ai-agents)
+📖 [Read original article](https://news.ycombinator.com/item?id=49182880)
 
 ---
 
-## 5. AI search is turning Reddit comments into ads
+## 5. Show HN: Buy My Agent MCP Server – Search AI Agents from Any MCP Client
 
-**Author:** BlueBerry2001  
-**Published:** 8/5/2026, 7:33:51 AM  
+**Author:** buymyagent  
+**Published:** 8/5/2026, 1:44:38 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam Comments URL: https://news.ycombinator.com/item?id=49179692 Points: 4 # Comments: 0
+Article URL: https://www.buy-my-agent.com/connect Comments URL: https://news.ycombinator.com/item?id=49182825 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam)
+📖 [Read original article](https://www.buy-my-agent.com/connect)
 
 ---
 
-## 6. AI's Influencer Problem
+## 6. Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)
 
-**Author:** cogs  
-**Published:** 8/5/2026, 7:14:19 AM  
+**Author:** SHACKLE-PRO-  
+**Published:** 8/5/2026, 1:43:36 PM  
 **Categories:** -  
 
-Article URL: https://sarahandkate.substack.com/p/ais-influencer-problem Comments URL: https://news.ycombinator.com/item?id=49179571 Points: 2 # Comments: 0
+Article URL: https://pypi.org/project/pyshackle/ Comments URL: https://news.ycombinator.com/item?id=49182815 Points: 1 # Comments: 0
 
-📖 [Read original article](https://sarahandkate.substack.com/p/ais-influencer-problem)
+📖 [Read original article](https://pypi.org/project/pyshackle/)
 
 ---
 
-## 7. Show HN: GuidedReview, a Chrome extension that helps review AI generated PRs
+## 7. Show HN: RequestGuard – Protect AI from following your links
 
-**Author:** nshntarora  
-**Published:** 8/5/2026, 7:09:39 AM  
+**Author:** mariusbolik  
+**Published:** 8/5/2026, 1:42:23 PM  
 **Categories:** -  
 
-Every company I see has an automated code review agent set up in their repository. It doesn't solve the code review problem. The automated review agents cannot be trusted the same way coding agents cannot be trusted.They're very useful for finding bugs and edge cases you've missed, but they lack som...
+Article URL: https://go.requestguard.com/ Comments URL: https://news.ycombinator.com/item?id=49182793 Points: 1 # Comments: 0
 
-📖 [Read original article](https://guidedreview.dev)
+📖 [Read original article](https://go.requestguard.com/)
 
 ---
 
-## 8. OK, Well, Rogue AI Agents Are Hacking Again
+## 8. Survey: AI Impact on Security
 
-**Author:** joozio  
-**Published:** 8/5/2026, 7:01:31 AM  
+**Author:** stebunovd  
+**Published:** 8/5/2026, 1:42:01 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/ Comments URL: https://news.ycombinator.com/item?id=49179494 Points: 3 # Comments: 0
+Article URL: https://ivelum.com/blog/ai-security-survey-2026/ Comments URL: https://news.ycombinator.com/item?id=49182790 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/)
+📖 [Read original article](https://ivelum.com/blog/ai-security-survey-2026/)
 
 ---
 
-## 9. Show HN: An AI office-work benchmark, and 4 bugs we found in our own judge
+## 9. Universities would prefer no AI
 
-**Author:** 17vibe  
-**Published:** 8/5/2026, 7:00:56 AM  
+**Author:** HR01  
+**Published:** 8/5/2026, 1:32:55 PM  
 **Categories:** -  
 
-Article URL: https://github.com/dongsheng123132/ai2work-bench Comments URL: https://news.ycombinator.com/item?id=49179484 Points: 1 # Comments: 0
+Article URL: https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to Comments URL: https://news.ycombinator.com/item?id=49182679 Points: 9 # Comments: 3
 
-📖 [Read original article](https://github.com/dongsheng123132/ai2work-bench)
+📖 [Read original article](https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to)
 
 ---
 
-## 10. I'm Begging You: Never Write with AI
+## 10. Cloudflare OS – an open-source AI productivity environment
 
-**Author:** ekelsen  
-**Published:** 8/5/2026, 6:50:19 AM  
+**Author:** berlianta  
+**Published:** 8/5/2026, 1:23:52 PM  
 **Categories:** -  
 
-Article URL: https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html Comments URL: https://news.ycombinator.com/item?id=49179414 Points: 4 # Comments: 1
+Article URL: https://github.com/cloudflare/cloudflare-os Comments URL: https://news.ycombinator.com/item?id=49182551 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html)
+📖 [Read original article](https://github.com/cloudflare/cloudflare-os)
 
 ---
 
-## 11. SpaceX's AI spending unnerves Wall Street despite promises of quick payoff
+## 11. Show HN: LearnOS – Open-source, AI-native Coursera you run locally
 
-**Author:** mapping365  
-**Published:** 8/5/2026, 6:49:39 AM  
+**Author:** learn_os  
+**Published:** 8/5/2026, 1:14:12 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html Comments URL: https://news.ycombinator.com/item?id=49179406 Points: 3 # Comments: 0
+Hello HN!I wanted a course platform where the teaching adapts instead of being a video someone recorded in 2019, so I built one. It runs on your machine where you can clone it, add an OpenRouter key, open localhost. No login, no accounts, SQLite locally.It starts empty. You say what you want to lear...
 
-📖 [Read original article](https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html)
+📖 [Read original article](https://learnos.opara-ai.com/)
 
 ---
 
-## 12. ChatGPT accounts for 80% of identifiable House AI spending
+## 12. Show HN: PageForth - An on-device AI news reader that summarizes any site
 
-**Author:** tosh  
-**Published:** 8/5/2026, 6:18:05 AM  
+**Author:** nate  
+**Published:** 8/5/2026, 1:09:23 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html Comments URL: https://news.ycombinator.com/item?id=49179212 Points: 3 # Comments: 0
+I was missing the old RSS readers like NewsFire, but also realized I gave up on those too because reading RSS was a pain in the ass. I just want a ton of summaries to skim, and algorithmically go through. So I built a Mac version that uses the Apple local model to do all that. One thing I think a lo...
 
-📖 [Read original article](https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html)
+📖 [Read original article](https://pageforth.com/)
 
 ---
 
-## 13. An AI Approach to Verified Production Cryptographic Libraries
+## 13. The Day the World Stopped Needing Horses: What AI Could Mean for Human Jobs
 
-**Author:** sbulaev  
-**Published:** 8/5/2026, 6:07:06 AM  
+**Author:** souravray  
+**Published:** 8/5/2026, 1:03:21 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2608.00965 Comments URL: https://news.ycombinator.com/item?id=49179142 Points: 1 # Comments: 0
+Article URL: https://medium.com/@souravray/the-day-the-world-stopped-needing-horses-future-of-work-in-ai-era-f19cc7d55bdc Comments URL: https://news.ycombinator.com/item?id=49182293 Points: 2 # Comments: 1
 
-📖 [Read original article](https://arxiv.org/abs/2608.00965)
+📖 [Read original article](https://medium.com/@souravray/the-day-the-world-stopped-needing-horses-future-of-work-in-ai-era-f19cc7d55bdc)
 
 ---
 
-## 14. Show HN: A file-based protocol for two AI agents to talk until they agree
+## 14. Show HN: An AI agent that trades inside limits you set, starting on paper
 
-**Author:** reindent  
-**Published:** 8/5/2026, 6:00:28 AM  
+**Author:** henryzhangpku  
+**Published:** 8/5/2026, 1:01:29 PM  
 **Categories:** -  
 
-Article URL: https://agent-talk.reindent.com/ Comments URL: https://news.ycombinator.com/item?id=49179099 Points: 1 # Comments: 0
+Article URL: https://quantsignals.xyz/fst Comments URL: https://news.ycombinator.com/item?id=49182263 Points: 3 # Comments: 1
 
-📖 [Read original article](https://agent-talk.reindent.com/)
+📖 [Read original article](https://quantsignals.xyz/fst)
 
 ---
 
-## 15. Show HN: Rever-browser – AI-agent browser for reverse-engineering
+## 15. From Individual Genius to World-Mind: How AI Ends the \"Heroic Age\" of Math
 
-**Author:** taevirus  
-**Published:** 8/5/2026, 5:51:59 AM  
+**Author:** oco101  
+**Published:** 8/5/2026, 12:51:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/greekr4/rever-browser Comments URL: https://news.ycombinator.com/item?id=49179037 Points: 1 # Comments: 0
+Article URL: https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes Comments URL: https://news.ycombinator.com/item?id=49182137 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/greekr4/rever-browser)
+📖 [Read original article](https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes)
 
 ---
 
-## 16. Hollywood is entering its AI era
+## 16. Niall Ferguson: AI Is the Most Dangerous Arms Race in History
 
-**Author:** petethomas  
-**Published:** 8/5/2026, 5:48:45 AM  
+**Author:** simonebrunozzi  
+**Published:** 8/5/2026, 12:46:11 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era Comments URL: https://news.ycombinator.com/item?id=49179016 Points: 3 # Comments: 0
+Article URL: https://www.thefp.com/p/niall-ferguson-ai-is-the-most-dangerous-arms-race-history Comments URL: https://news.ycombinator.com/item?id=49182082 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era)
+📖 [Read original article](https://www.thefp.com/p/niall-ferguson-ai-is-the-most-dangerous-arms-race-history)
 
 ---
 
-## 17. Nono: Sandbox any AI agent in seconds – zero setup, zero latency
+## 17. TIME Is Serving AI Bots a Different Website, with Ads Built In
 
-**Author:** handfuloflight  
-**Published:** 8/5/2026, 5:48:42 AM  
+**Author:** vincent_s  
+**Published:** 8/5/2026, 12:41:47 PM  
 **Categories:** -  
 
-Article URL: https://github.com/nolabs-ai/nono Comments URL: https://news.ycombinator.com/item?id=49179015 Points: 2 # Comments: 0
+Article URL: https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/ Comments URL: https://news.ycombinator.com/item?id=49182041 Points: 75 # Comments: 24
 
-📖 [Read original article](https://github.com/nolabs-ai/nono)
+📖 [Read original article](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 
 ---
 
-## 18. Forward-deployed engineers are the AI industry's latest talent obsession
+## 18. Show HN: Labgrid-MCP – let AI agents drive real embedded hardware labs
 
-**Author:** mgh2  
-**Published:** 8/5/2026, 5:23:55 AM  
+**Author:** oclp  
+**Published:** 8/5/2026, 12:39:57 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/ Comments URL: https://news.ycombinator.com/item?id=49178864 Points: 2 # Comments: 0
+Article URL: https://github.com/onurcelep/labgrid-mcp Comments URL: https://news.ycombinator.com/item?id=49182016 Points: 6 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/)
+📖 [Read original article](https://github.com/onurcelep/labgrid-mcp)
 
 ---
 
-## 19. SpaceX's AI Splurge Puts a Damper on Debut Earnings After IPO
+## 19. Wan 3.0 Best AI Video Generator
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 8/5/2026, 5:11:13 AM  
+**Author:** mikevex  
+**Published:** 8/5/2026, 12:37:33 PM  
 **Categories:** -  
 
-Article URL: https://news.bloomberglaw.com/capital-markets/spacex-exceeds-revenue-estimates-in-first-earnings-since-ipo-1 Comments URL: https://news.ycombinator.com/item?id=49178790 Points: 2 # Comments: 0
+Article URL: https://wan3pro.com Comments URL: https://news.ycombinator.com/item?id=49181995 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.bloomberglaw.com/capital-markets/spacex-exceeds-revenue-estimates-in-first-earnings-since-ipo-1)
+📖 [Read original article](https://wan3pro.com)
 
 ---
 
-## 20. Anxious Chinese students are trusting AI to help pick colleges and majors
+## 20. Show HN: AuditBadger – SOC 2 and ISO 27001 – AI drafts, you approve
 
-**Author:** nanfinitum  
-**Published:** 8/5/2026, 5:08:52 AM  
+**Author:** mlitwiniuk  
+**Published:** 8/5/2026, 12:36:19 PM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/china-ai-bot-college-advice/ Comments URL: https://news.ycombinator.com/item?id=49178780 Points: 2 # Comments: 0
+Hi,Wanted to share something I've been working on for over a year. AuditBadger is a compliance management platform that uses AI to write policies (there are underlying "templates" with basic requirements), rewrite controls (or trust service criterions) to match the company context, help figure out y...
 
-📖 [Read original article](https://restofworld.org/2026/china-ai-bot-college-advice/)
+📖 [Read original article](https://auditbadger.com/)
 
 ---
