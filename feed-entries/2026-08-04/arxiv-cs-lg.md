@@ -409,11 +409,11 @@ arXiv:2608.00776v1 Announce Type: new Abstract: Traditional reaction yield predi
 
 ## 34. Paris as a 15-Minute City: An Explainable AI Perspective
 
-**Author:** Andr\'as J. Moln\'aar, Csaba I. Sidl\'o, Rita R\'onai, Domonkos R\'ozsay  
+**Author:** Andr\'as J. Moln\'ar, Csaba I. Sidl\'o, Rita R\'onai, Domonkos R\'ozsay  
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.00815v1 Announce Type: new Abstract: The 15-minute city promotes access to everyday services within a short walk or bicycle ride, but its relationship with observed mobility remains difficult to quantify. We investigate this relationship in the Paris metropolitan area using mobility traje...
+arXiv:2608.00815v2 Announce Type: new Abstract: The 15-minute city promotes access to everyday services within a short walk or bicycle ride, but its relationship with observed mobility remains difficult to quantify. We investigate this relationship in the Paris metropolitan area using mobility traje...
 
 📖 [Read original article](https://arxiv.org/abs/2608.00815)
 
@@ -761,7 +761,7 @@ arXiv:2608.01133v1 Announce Type: new Abstract: Evaluating Multi-Agent Reinforce
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.01142v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) enables parameter-efficient fine-tuning, but standard LoRA produces a single deterministic model and does not directly support predictive uncertainty estimation. We introduce EulerLoRA, a stochastic extension of LoRA that gen...
+arXiv:2608.01142v2 Announce Type: new Abstract: Low-Rank Adaptation (LoRA) enables parameter-efficient fine-tuning, but standard LoRA produces a single deterministic model and does not directly support predictive uncertainty estimation. We introduce EulerLoRA, a stochastic extension of LoRA that gen...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01142)
 
@@ -1205,7 +1205,7 @@ arXiv:2608.01678v1 Announce Type: new Abstract: Existing skill generation method
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.01692v1 Announce Type: new Abstract: We propose an instantiation of flow matching that relies on a time-independent velocity field (an \emph{autonomous flow}) to exactly map between two distributions, so long as the target is singular, i.e.\ supported on a lower-dimensional data manifold....
+arXiv:2608.01692v2 Announce Type: new Abstract: We propose an instantiation of flow matching that relies on a time-independent velocity field (an \emph{autonomous flow}) to exactly map between two distributions, so long as the target is singular, i.e.\ supported on a lower-dimensional data manifold....
 
 📖 [Read original article](https://arxiv.org/abs/2608.01692)
 
@@ -1301,7 +1301,7 @@ arXiv:2608.01793v1 Announce Type: new Abstract: Unified anomaly detection requir
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2608.01804v1 Announce Type: new Abstract: Post-training large language models (LLMs) via reinforcement learning (RL) has significantly advanced code generation capabilities. To bypass the heavy memory footprint of critic networks, current state-of-the-art frameworks leverage critic-free paradi...
+arXiv:2608.01804v2 Announce Type: new Abstract: Post-training large language models (LLMs) via reinforcement learning (RL) has significantly advanced code generation capabilities. To bypass the heavy memory footprint of critic networks, current state-of-the-art frameworks leverage critic-free paradi...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01804)
 
@@ -1829,7 +1829,7 @@ arXiv:2608.02455v1 Announce Type: new Abstract: Human-centered assessment tasks,
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2608.02508v1 Announce Type: new Abstract: Learning-based memory systems for self-evolving LLM agents face two tightly coupled challenges. First, trajectory-indexed utilities grow with the interaction history, thereby dispersing limited feedback over an ever-expanding state space. Second, becau...
+arXiv:2608.02508v2 Announce Type: new Abstract: Learning-based memory systems for self-evolving LLM agents face two tightly coupled challenges. First, trajectory-indexed utilities grow with the interaction history, thereby dispersing limited feedback over an ever-expanding state space. Second, becau...
 
 📖 [Read original article](https://arxiv.org/abs/2608.02508)
 
@@ -2105,7 +2105,7 @@ arXiv:2608.00056v1 Announce Type: cross Abstract: We propose RSTA, a domain-gene
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** eess.SP, cs.AI, cs.LG  
 
-arXiv:2608.00058v1 Announce Type: cross Abstract: Accurate measurement of ECG intervals, including PR, QRS duration, and QT/QTc, is central to cardiac diagnosis, yet the published ECG delineation literature evaluates performance almost exclusively as fiducial-point timing errors on small curated dat...
+arXiv:2608.00058v2 Announce Type: cross Abstract: Accurate measurement of ECG intervals, including PR, QRS duration, and QT/QTc, is central to cardiac diagnosis, yet the published ECG delineation literature evaluates performance almost exclusively as fiducial-point timing errors on small curated dat...
 
 📖 [Read original article](https://arxiv.org/abs/2608.00058)
 
@@ -2237,7 +2237,7 @@ arXiv:2608.00118v1 Announce Type: cross Abstract: Cybersecurity is a fundamental
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.GT, cs.LG  
 
-arXiv:2608.00123v1 Announce Type: cross Abstract: LLM-native advertising embeds sponsored content directly into model-generated responses, shifting the unit of sale from a fixed slot to a moment within an evolving conversation. Existing LLM ad-auction mechanisms primarily operate within a single res...
+arXiv:2608.00123v2 Announce Type: cross Abstract: LLM-native advertising embeds sponsored content directly into model-generated responses, shifting the unit of sale from a fixed slot to a moment within an evolving conversation. Existing LLM ad-auction mechanisms primarily operate within a single res...
 
 📖 [Read original article](https://arxiv.org/abs/2608.00123)
 
@@ -2269,11 +2269,11 @@ arXiv:2608.00156v1 Announce Type: cross Abstract: The push for broader coverage 
 
 ## 189. A Constitution-Grid Instrument for Data-Efficient RL Alignment (C-Guard)
 
-**Author:** Lily Zhang  
+**Author:** Xianling Zhang  
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.LG  
 
-arXiv:2608.00180v1 Announce Type: cross Abstract: Conflicting objectives are general in RL alignment, and training on them data-efficiently is hard. Training a safety guard with RL means optimizing two objectives that conflict: catch real harm, and do not refuse benign prompts. Our finding is that o...
+arXiv:2608.00180v2 Announce Type: cross Abstract: Conflicting objectives are general in RL alignment, and training on them data-efficiently is hard. Training a safety guard with RL means optimizing two objectives that conflict: catch real harm, and do not refuse benign prompts. Our finding is that o...
 
 📖 [Read original article](https://arxiv.org/abs/2608.00180)
 
@@ -2669,7 +2669,7 @@ arXiv:2608.00803v1 Announce Type: cross Abstract: Wearable silent speech interfa
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.LG  
 
-arXiv:2608.00837v1 Announce Type: cross Abstract: Byte Pair Encoding (BPE) is widely used for subword tokenization, but standard BPE exposes every learned merge token to the downstream model, including tokens that mainly serve as intermediate construction units and rarely appear in the final encoded...
+arXiv:2608.00837v2 Announce Type: cross Abstract: Byte Pair Encoding (BPE) is widely used for subword tokenization, but standard BPE exposes every learned merge token to the downstream model, including tokens that mainly serve as intermediate construction units and rarely appear in the final encoded...
 
 📖 [Read original article](https://arxiv.org/abs/2608.00837)
 
@@ -3353,7 +3353,7 @@ arXiv:2608.01658v1 Announce Type: cross Abstract: For mirror descent generated b
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.DC, cs.LG  
 
-arXiv:2608.01662v1 Announce Type: cross Abstract: DeepSeek Sparse Attention (DSA) enables efficient long-context modeling through its Lightning Indexer. However, practical deployment remains constrained by the indexer's expensive $O(L^2)$ scoring overhead and the hardware-inefficient, discontinuous ...
+arXiv:2608.01662v2 Announce Type: cross Abstract: DeepSeek Sparse Attention (DSA) enables efficient long-context modeling through its Lightning Indexer. However, practical deployment remains constrained by the indexer's expensive $O(L^2)$ scoring overhead and the hardware-inefficient, discontinuous ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01662)
 
@@ -3689,7 +3689,7 @@ arXiv:2608.02135v1 Announce Type: cross Abstract: Cardiovascular digital twins a
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2608.02139v1 Announce Type: cross Abstract: Large language models (LLMs) capable of self-improvement require not only effective policy optimization, but also a principled mechanism for transforming transient interaction experience into persistent model capabilities. Existing self-improvement p...
+arXiv:2608.02139v2 Announce Type: cross Abstract: Large language models (LLMs) capable of self-improvement require not only effective policy optimization, but also a principled mechanism for transforming transient interaction experience into persistent model capabilities. Existing self-improvement p...
 
 📖 [Read original article](https://arxiv.org/abs/2608.02139)
 
@@ -5129,7 +5129,7 @@ arXiv:2605.22775v3 Announce Type: replace Abstract: Real-time cognitive load ass
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2605.28149v2 Announce Type: replace Abstract: Sparse Autoencoders (SAEs) extract interpretable features from Large Language Model activations, but standard variants enforce non-negative latents, so a bidirectional semantic axis (e.g., "pressure too high" vs. "pressure too low") must be split a...
+arXiv:2605.28149v3 Announce Type: replace Abstract: Sparse Autoencoders (SAEs) extract interpretable features from Large Language Model activations, but standard variants enforce non-negative latents, so a bidirectional semantic axis (e.g., "pressure too high" vs. "pressure too low") must be split a...
 
 📖 [Read original article](https://arxiv.org/abs/2605.28149)
 
@@ -5321,7 +5321,7 @@ arXiv:2606.31650v5 Announce Type: replace Abstract: Long-horizon language agents
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.06114v3 Announce Type: replace Abstract: Diffusion and flow matching models generate high-quality samples, but their ODE samplers often need tens to hundreds of neural function evaluations (NFEs). This remains a practical challenge for released checkpoints, since many accelerators require...
+arXiv:2607.06114v4 Announce Type: replace Abstract: Diffusion and flow matching models generate high-quality samples, but their ODE samplers often need tens to hundreds of neural function evaluations (NFEs). This remains a practical challenge for released checkpoints, since many accelerators require...
 
 📖 [Read original article](https://arxiv.org/abs/2607.06114)
 
