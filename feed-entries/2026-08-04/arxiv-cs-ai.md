@@ -219,7 +219,7 @@ arXiv:2608.00122v1 Announce Type: new Abstract: Enterprise coding agents rely on
 
 **Author:** Dong Yan, Jian Liang, Dapeng Hu, Ran He, Nicholas Jing Yuan, Qi Zhang, Tieniu Tan  
 **Published:** 8/4/2026, 4:00:00 AM  
-**Categories:** cs.AI  
+**Categories:** cs.AI, cs.LG  
 
 arXiv:2608.00155v1 Announce Type: new Abstract: Large language model (LLM) agents can self-evolve by continually improving from their own accumulated experience. However, existing studies predominantly adopt independent evaluation. Consequently, the behavior of self-evolving agents in realistic stre...
 
@@ -279,7 +279,7 @@ arXiv:2608.00270v1 Announce Type: new Abstract: Neural Combinatorial Optimizatio
 
 **Author:** Lihao Wang, Linlu Gao, Jiacan Yu, Yanyu Lin, Yifan Yin, Jianxin Wang, Tianmin Shu, Renjie Zhao  
 **Published:** 8/4/2026, 4:00:00 AM  
-**Categories:** cs.AI, cs.RO  
+**Categories:** cs.AI, cs.HC, cs.RO  
 
 arXiv:2608.00289v1 Announce Type: new Abstract: Recognizing Human-Object Interactions (HOI) is essential for intelligent systems, underpinning applications in virtual and augmented reality, embodied AI, and assistive robotics. However, vision-based HOI methods face challenges in privacy concerns and...
 
@@ -677,7 +677,7 @@ arXiv:2608.00764v1 Announce Type: new Abstract: Financial indicators are essenti
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.00794v1 Announce Type: new Abstract: Agentic AI systems are evaluated using automated benchmarks whose scores justify deployment decisions, safety certifications, and regulatory compliance claims. We present an empirical analysis demonstrating that these scores are systematically less tru...
+arXiv:2608.00794v2 Announce Type: new Abstract: Agentic AI evaluation pipelines produce benchmark scores that justify deployment decisions, safety certifications, and regulatory compliance claims. No formal framework has yet characterized how validity degrades across the stages of these pipelines. W...
 
 📖 [Read original article](https://arxiv.org/abs/2608.00794)
 
@@ -1253,7 +1253,7 @@ arXiv:2608.01431v1 Announce Type: new Abstract: Polymer property prediction and 
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.AI, econ.GN, q-fin.EC  
 
-arXiv:2608.01432v1 Announce Type: new Abstract: Artificial general intelligence (AGI) may weaken scarcities in labour, expertise, information, and productive capability that underpin established theories of economic value. If cognitive work becomes widely automatable, market price, labour input, rev...
+arXiv:2608.01432v2 Announce Type: new Abstract: Artificial general intelligence (AGI) may weaken scarcities in labour, expertise, information, and productive capability that underpin established theories of economic value. If cognitive work becomes widely automatable, market price, labour input, rev...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01432)
 
@@ -1283,13 +1283,13 @@ arXiv:2608.01462v1 Announce Type: new Abstract: Multimodal clinical models are u
 
 ---
 
-## 107. Where Reasoning Diverges: Localized Multi-Agent Debate
+## 107. Where Reasoning Diverges: Localized Multi-Agent Debate for Multi-Hop Question Answering
 
-**Author:** Weijun Gao, Xiang Ding, Tiancheng Xing, Haoyang Liu  
+**Author:** Weijun Gao, Xiang Ding, Haoyang Liu, Tiancheng Xing  
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.MA  
 
-arXiv:2608.01463v1 Announce Type: new Abstract: Multi-agent debate commonly exchanges complete reasoning traces even when disagreements concern only a few intermediate claims. We introduce Localized Multi-Agent Debate (LMAD), an inference-time protocol that represents agent traces as typed nodes, lo...
+arXiv:2608.01463v2 Announce Type: new Abstract: Multi-agent debate commonly exchanges complete rationales even when disagreements concern only a few intermediate claims. We introduce Localized Multi-Agent Debate (LMAD), an inference-time protocol that represents agent rationales as nodes, locates th...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01463)
 
@@ -1457,7 +1457,7 @@ arXiv:2608.01645v1 Announce Type: new Abstract: Geographic Information System (G
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.DC, cs.LG  
 
-arXiv:2608.01662v1 Announce Type: new Abstract: DeepSeek Sparse Attention (DSA) enables efficient long-context modeling through its Lightning Indexer. However, practical deployment remains constrained by the indexer's expensive $O(L^2)$ scoring overhead and the hardware-inefficient, discontinuous me...
+arXiv:2608.01662v2 Announce Type: new Abstract: DeepSeek Sparse Attention (DSA) enables efficient long-context modeling through its Lightning Indexer. However, practical deployment remains constrained by the indexer's expensive $O(L^2)$ scoring overhead and the hardware-inefficient, discontinuous me...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01662)
 
@@ -1493,7 +1493,7 @@ arXiv:2608.01667v1 Announce Type: new Abstract: Verifier-guided reinforcement le
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.01679v1 Announce Type: new Abstract: Persistent memory allows (self-evolving) LLM agents to adapt across tasks by consolidating heterogeneous interaction histories into reusable facts, preferences, observations, and rules. Yet consolidation also imposes an implicit authorization boundary:...
+arXiv:2608.01679v2 Announce Type: new Abstract: Persistent memory allows (self-evolving) LLM agents to adapt across tasks by consolidating heterogeneous interaction histories into reusable facts, preferences, observations, and rules. Yet consolidation also imposes an implicit authorization boundary:...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01679)
 
@@ -1597,11 +1597,11 @@ arXiv:2608.01744v1 Announce Type: new Abstract: An interlocking assembly is an a
 
 ## 133. Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs
 
-**Author:** Zixuan Huang, Yang Zhou, Kaixuan Wang, Guli Zhang, Hongyan Xie, Yakun Zhu, Hao Geng, Yikun Ban, Deqing Wang  
+**Author:** Zixuan Huang, Yang Zhou, Kaixuan Wang, Guli Zhang, Hongyan Xie, Yakun Zhu, Hao Geng, Xiaozhi Chen, Yikun Ban, Deqing Wang  
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.01755v1 Announce Type: new Abstract: Recent Vision-Language-Action (VLA) models for autonomous driving (AD) increasingly utilize chain-of-thought (CoT) supervision to enhance the reasoning capabilities of their Vision-Language Model (VLM) components, yet existing annotation pipelines comm...
+arXiv:2608.01755v2 Announce Type: new Abstract: Recent Vision-Language-Action (VLA) models for autonomous driving (AD) increasingly utilize chain-of-thought (CoT) supervision to enhance the reasoning capabilities of their Vision-Language Model (VLM) components, yet existing annotation pipelines comm...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01755)
 
@@ -1871,13 +1871,13 @@ arXiv:2608.02009v1 Announce Type: new Abstract: Retrieval-augmented search agent
 
 ---
 
-## 156. Before Reasoning Fails: Pre-Evidence Procedural Failures in Agentic RAG
+## 156. Before Reasoning Can Fail: Pre-Evidence Procedural Failures in Agentic RAG
 
 **Author:** Daeyoung Roh, Donghee Han  
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.02011v1 Announce Type: new Abstract: Agentic retrieval-augmented generation (RAG) systems can fail before evidence-conditioned reasoning is tested: an agent may retrieve candidate snippets but finalize without inspecting them. We study this failure mode as a procedural property of the age...
+arXiv:2608.02011v2 Announce Type: new Abstract: Agentic retrieval-augmented generation (RAG) systems can fail before evidence-conditioned reasoning is tested: an agent may retrieve candidate snippets but finalize without inspecting them. We study this failure mode as a procedural property of the age...
 
 📖 [Read original article](https://arxiv.org/abs/2608.02011)
 
@@ -2189,7 +2189,7 @@ arXiv:2608.02351v1 Announce Type: new Abstract: Data drift poses significant cha
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.02356v1 Announce Type: new Abstract: Large language model agents increasingly solve complex tasks by composing reusable skills from a library. To address this, the key challenge is not merely to retrieve individually relevant skills, but to identify a complete and executable skill composi...
+arXiv:2608.02356v2 Announce Type: new Abstract: Large language model agents increasingly solve complex tasks by composing reusable skills from a library. To address this, the key challenge is not merely to retrieve individually relevant skills, but to identify a complete and executable skill composi...
 
 📖 [Read original article](https://arxiv.org/abs/2608.02356)
 
@@ -2657,7 +2657,7 @@ arXiv:2608.00048v1 Announce Type: cross Abstract: Electroencephalography (EEG) g
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** eess.SP, cs.AI, cs.LG  
 
-arXiv:2608.00058v1 Announce Type: cross Abstract: Accurate measurement of ECG intervals, including PR, QRS duration, and QT/QTc, is central to cardiac diagnosis, yet the published ECG delineation literature evaluates performance almost exclusively as fiducial-point timing errors on small curated dat...
+arXiv:2608.00058v2 Announce Type: cross Abstract: Accurate measurement of ECG intervals, including PR, QRS duration, and QT/QTc, is central to cardiac diagnosis, yet the published ECG delineation literature evaluates performance almost exclusively as fiducial-point timing errors on small curated dat...
 
 📖 [Read original article](https://arxiv.org/abs/2608.00058)
 
@@ -2705,7 +2705,7 @@ arXiv:2608.00071v1 Announce Type: cross Abstract: The rapid emergence of 3D CT f
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2608.00076v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) increasingly support high-stakes decision making by combining complementary information from images and text. While existing explainability methods identify influential image regions or text tokens, they canno...
+arXiv:2608.00076v2 Announce Type: cross Abstract: Multimodal large language models (MLLMs) increasingly support high-stakes decision making by combining complementary information from images and text. While existing explainability methods identify influential image regions or text tokens, they canno...
 
 📖 [Read original article](https://arxiv.org/abs/2608.00076)
 
@@ -2837,7 +2837,7 @@ arXiv:2608.00119v1 Announce Type: cross Abstract: Rapid estimation of impacted s
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.GT, cs.LG  
 
-arXiv:2608.00123v1 Announce Type: cross Abstract: LLM-native advertising embeds sponsored content directly into model-generated responses, shifting the unit of sale from a fixed slot to a moment within an evolving conversation. Existing LLM ad-auction mechanisms primarily operate within a single res...
+arXiv:2608.00123v2 Announce Type: cross Abstract: LLM-native advertising embeds sponsored content directly into model-generated responses, shifting the unit of sale from a fixed slot to a moment within an evolving conversation. Existing LLM ad-auction mechanisms primarily operate within a single res...
 
 📖 [Read original article](https://arxiv.org/abs/2608.00123)
 
@@ -2909,7 +2909,7 @@ arXiv:2608.00150v1 Announce Type: cross Abstract: The Model Context Protocol (MC
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CY, cs.AI, econ.TH  
 
-arXiv:2608.00151v1 Announce Type: cross Abstract: Current evaluation frameworks for artificial intelligence focus mainly on capability, safety, and proxies such as adoption, engagement, efficiency, productivity, and financial return. These criteria are necessary but insufficient because they do not ...
+arXiv:2608.00151v2 Announce Type: cross Abstract: Current evaluation frameworks for artificial intelligence focus mainly on capability, safety, and proxies such as adoption, engagement, efficiency, productivity, and financial return. These criteria are necessary but insufficient because they do not ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.00151)
 
@@ -3569,7 +3569,7 @@ arXiv:2608.00742v1 Announce Type: cross Abstract: Kubernetes, as a container orc
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.CR, cs.MA  
 
-arXiv:2608.00747v1 Announce Type: cross Abstract: Large language models are increasingly integrated into autonomous robotic systems for task planning and control, but this integration exposes them to prompt injection attacks that can lead to unsafe decisions and physical harm. Multi-agent settings i...
+arXiv:2608.00747v2 Announce Type: cross Abstract: Large language models are increasingly integrated into autonomous robotic systems for task planning and control, but this integration exposes them to prompt injection attacks that can lead to unsafe decisions and physical harm. Multi-agent settings i...
 
 📖 [Read original article](https://arxiv.org/abs/2608.00747)
 
@@ -4073,7 +4073,7 @@ arXiv:2608.01260v1 Announce Type: cross Abstract: Recent semantic and generative
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2608.01269v1 Announce Type: cross Abstract: Hierarchical Graph Retrieval-Augmented Generation (GraphRAG) organizes corpus knowledge at multiple levels of granularity, yet fixed context construction may fail to translate these multi-resolution representations into a context suited to the curren...
+arXiv:2608.01269v2 Announce Type: cross Abstract: Hierarchical Graph Retrieval-Augmented Generation (GraphRAG) organizes corpus knowledge at multiple levels of granularity, yet fixed context construction may fail to translate these multi-resolution representations into a context suited to the curren...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01269)
 
@@ -4145,7 +4145,7 @@ arXiv:2608.01298v1 Announce Type: cross Abstract: Diffusion Transformers (DiTs) 
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2608.01301v1 Announce Type: cross Abstract: Infrared-visible image fusion (IVIF) has no ideal fused reference, so fusion algorithms are routinely ranked by scalar objective metrics that formalize different proxies for information transfer, structure, or source similarity. These proxies often d...
+arXiv:2608.01301v2 Announce Type: cross Abstract: Infrared-visible image fusion (IVIF) has no ideal fused reference, so fusion algorithms are routinely ranked by scalar objective metrics that formalize different proxies for information transfer, structure, or source similarity. These proxies often d...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01301)
 
@@ -4229,7 +4229,7 @@ arXiv:2608.01352v1 Announce Type: cross Abstract: Estimating causal effects from
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.MA, cs.AI  
 
-arXiv:2608.01366v1 Announce Type: cross Abstract: Large language models (LLMs) are integral to complex intellectual tasks, yet output quality remains constrained by user-provided prompts. Iterative multi-turn prompting often leads to context degradation and diminishing cognitive returns. We present ...
+arXiv:2608.01366v2 Announce Type: cross Abstract: Large language models (LLMs) are integral to complex intellectual tasks, yet output quality remains constrained by user-provided prompts. Iterative multi-turn prompting often leads to context degradation and diminishing cognitive returns. We present ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01366)
 
@@ -4565,7 +4565,7 @@ arXiv:2608.01663v1 Announce Type: cross Abstract: Promptable segmentation founda
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2608.01666v1 Announce Type: cross Abstract: However, whether these judges truly evaluate the scientific substance of ideas or are influenced by superficial stylistic presentation remains an open question. To address this question, we propose SciStyleBench, a unified three-component benchmark f...
+arXiv:2608.01666v2 Announce Type: cross Abstract: However, whether these judges truly evaluate the scientific substance of ideas or are influenced by superficial stylistic presentation remains an open question. To address this question, we propose SciStyleBench, a unified three-component benchmark f...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01666)
 
@@ -4805,7 +4805,7 @@ arXiv:2608.01794v1 Announce Type: cross Abstract: Universal Multimodal Embedding
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2608.01804v1 Announce Type: cross Abstract: Post-training large language models (LLMs) via reinforcement learning (RL) has significantly advanced code generation capabilities. To bypass the heavy memory footprint of critic networks, current state-of-the-art frameworks leverage critic-free para...
+arXiv:2608.01804v2 Announce Type: cross Abstract: Post-training large language models (LLMs) via reinforcement learning (RL) has significantly advanced code generation capabilities. To bypass the heavy memory footprint of critic networks, current state-of-the-art frameworks leverage critic-free para...
 
 📖 [Read original article](https://arxiv.org/abs/2608.01804)
 
@@ -5189,7 +5189,7 @@ arXiv:2608.02110v1 Announce Type: cross Abstract: Executing long-horizon tool in
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2608.02139v1 Announce Type: cross Abstract: Large language models (LLMs) capable of self-improvement require not only effective policy optimization, but also a principled mechanism for transforming transient interaction experience into persistent model capabilities. Existing self-improvement p...
+arXiv:2608.02139v2 Announce Type: cross Abstract: Large language models (LLMs) capable of self-improvement require not only effective policy optimization, but also a principled mechanism for transforming transient interaction experience into persistent model capabilities. Existing self-improvement p...
 
 📖 [Read original article](https://arxiv.org/abs/2608.02139)
 
@@ -5213,7 +5213,7 @@ arXiv:2608.02145v1 Announce Type: cross Abstract: In this paper, we propose Uniq
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2608.02150v1 Announce Type: cross Abstract: Embodied intelligence and world models require video understanding systems to go beyond recognizing objects and actions and develop an understanding of physical regularities. However, despite their strong performance on general video understanding ta...
+arXiv:2608.02150v2 Announce Type: cross Abstract: Embodied intelligence and world models require video understanding systems to go beyond recognizing objects and actions and develop an understanding of physical regularities. However, despite their strong performance on general video understanding ta...
 
 📖 [Read original article](https://arxiv.org/abs/2608.02150)
 
@@ -8153,7 +8153,7 @@ arXiv:2607.04603v2 Announce Type: replace-cross Abstract: Infrared small target 
 **Published:** 8/4/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.06114v3 Announce Type: replace-cross Abstract: Diffusion and flow matching models generate high-quality samples, but their ODE samplers often need tens to hundreds of neural function evaluations (NFEs). This remains a practical challenge for released checkpoints, since many accelerators r...
+arXiv:2607.06114v4 Announce Type: replace-cross Abstract: Diffusion and flow matching models generate high-quality samples, but their ODE samplers often need tens to hundreds of neural function evaluations (NFEs). This remains a practical challenge for released checkpoints, since many accelerators r...
 
 📖 [Read original article](https://arxiv.org/abs/2607.06114)
 
