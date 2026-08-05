@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-04"
 date: "2026-08-04"
 source: "qbitai"
-count: 6
+count: 4
 ---
 
 # qbitai - 2026-08-04
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ Skill和Agent也能被封装调用
 OpenAI+田园牧歌，画风属实太违和
 
 📖 [Read original article](https://www.qbitai.com/2026/08/466032.html)
-
----
-
-## 5. 腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文
-
-**Author:** 允中  
-**Published:** 8/4/2026, 8:58:21 AM  
-**Categories:** 资讯, 腾讯混元  
-
-元宝已接入
-
-📖 [Read original article](https://www.qbitai.com/2026/08/465973.html)
-
----
-
-## 6. DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash
-
-**Author:** Jay  
-**Published:** 8/4/2026, 8:18:45 AM  
-**Categories:** 资讯, Deepseek  
-
-那还说啥了梁圣，我订阅费全给你就是了呗
-
-📖 [Read original article](https://www.qbitai.com/2026/08/465814.html)
 
 ---
