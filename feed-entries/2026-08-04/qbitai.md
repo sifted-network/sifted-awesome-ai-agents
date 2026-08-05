@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-04"
 date: "2026-08-04"
 source: "qbitai"
-count: 9
+count: 6
 ---
 
 # qbitai - 2026-08-04
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ OpenAI+田园牧歌，画风属实太违和
 那还说啥了梁圣，我订阅费全给你就是了呗
 
 📖 [Read original article](https://www.qbitai.com/2026/08/465814.html)
-
----
-
-## 7. 资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地
-
-**Author:** 量子位的朋友们  
-**Published:** 8/4/2026, 6:47:06 AM  
-**Categories:** 资讯, Om AI联汇  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/08/465785.html)
-
----
-
-## 8. 激流：中国科技投资的势能与锚点｜甲子引力X
-
-**Author:** 量子位的朋友们  
-**Published:** 8/4/2026, 3:46:38 AM  
-**Categories:** 资讯, 甲子光年  
-
-8月，中国科技产业智库甲子光年将在北京举办“激流——2026甲子引力X科技产业投资大会”，共同探讨中国科技投资的新变化与新答案。
-
-📖 [Read original article](https://www.qbitai.com/2026/08/465767.html)
-
----
-
-## 9. 亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群
-
-**Author:** 克雷西  
-**Published:** 8/4/2026, 1:27:41 AM  
-**Categories:** 资讯, 首页轮播, Akamai  
-
-出海AI，正被“三重算力锁链"捆死
-
-📖 [Read original article](https://www.qbitai.com/2026/08/465732.html)
 
 ---
