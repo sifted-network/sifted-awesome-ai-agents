@@ -231,7 +231,7 @@ arXiv:2608.02816v1 Announce Type: new Abstract: We study the topology of learned
 
 **Author:** Ravi Satya Durga Prasad Yenugula  
 **Published:** 8/5/2026, 4:00:00 AM  
-**Categories:** cs.LG  
+**Categories:** cs.LG, cs.AI, cs.CL  
 
 arXiv:2608.02829v1 Announce Type: new Abstract: Model families train every size from scratch. Can a pretrained large model be converted into a smaller sibling? We characterize the 1.4B->410M conversion in the Pythia family end-to-end: (i) representations align strongly across sizes (ridge R^2=0.84) ...
 
@@ -281,7 +281,7 @@ arXiv:2608.02869v1 Announce Type: new Abstract: Ptychography neural networks suf
 **Published:** 8/5/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.02870v1 Announce Type: new Abstract: We introduce \ours{}, a recurrent Transformer architecture with fixed-size memory that generalizes sliding-window attention while remaining parallelizable during training. \ours{} consists of two coupled models: a prefiller $Q$, which leverages full at...
+arXiv:2608.02870v2 Announce Type: new Abstract: We introduce \ours{}, a recurrent Transformer architecture with fixed-size memory that generalizes sliding-window attention while remaining parallelizable during training. \ours{} consists of two coupled models: a prefiller $Q$, which leverages full at...
 
 📖 [Read original article](https://arxiv.org/abs/2608.02870)
 
@@ -1073,7 +1073,7 @@ arXiv:2608.03852v1 Announce Type: new Abstract: This paper proposes FedCritic-MI
 **Published:** 8/5/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.03854v1 Announce Type: new Abstract: When decoder language models are used as classifiers, predicted class probabilities depend on implementation choices, including the prompt template, verbalizer (label-to-token mapping), and scoring rule, that are rarely treated as experimental variable...
+arXiv:2608.03854v2 Announce Type: new Abstract: When decoder language models are used as classifiers, predicted class probabilities depend on implementation choices, including the prompt template, verbalizer (label-to-token mapping), and scoring rule, that are rarely treated as experimental variable...
 
 📖 [Read original article](https://arxiv.org/abs/2608.03854)
 
@@ -1213,11 +1213,11 @@ arXiv:2608.03927v1 Announce Type: new Abstract: Engineered Skeletal Muscle Tissu
 
 ## 101. Latent Reward Registers for Diffusion Preference Alignment
 
-**Author:** Yuanshen Guan, Zipeng Feng, Zhiwei Xiong, Peiqin Sun  
+**Author:** Yuanshen Guan, Zipeng Feng, Chengru Song, Zhiwei Xiong, Peiqin Sun  
 **Published:** 8/5/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CV  
 
-arXiv:2608.03929v1 Announce Type: new Abstract: Aligning diffusion models with human preferences usually relies on a sparse terminal reward evaluated on the final generated samples, presenting a severe temporal credit-assignment challenge across the multi-step denoising process. We propose Latent Re...
+arXiv:2608.03929v2 Announce Type: new Abstract: Aligning diffusion models with human preferences usually relies on a sparse terminal reward evaluated on the final generated samples, presenting a severe temporal credit-assignment challenge across the multi-step denoising process. We propose Latent Re...
 
 📖 [Read original article](https://arxiv.org/abs/2608.03929)
 
@@ -1841,7 +1841,7 @@ arXiv:2608.03439v1 Announce Type: cross Abstract: In recent work, Marcussen, Rub
 **Published:** 8/5/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2608.03467v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) com- monly optimizes each correct completion as an independent learning signal. In GRPO, this completion-level uniformity creates structure-level skew: recurring correct solution forms accumulate ...
+arXiv:2608.03467v2 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) com- monly optimizes each correct completion as an independent learning signal. In GRPO, this completion-level uniformity creates structure-level skew: recurring correct solution forms accumulate ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.03467)
 
@@ -2149,11 +2149,11 @@ arXiv:2608.03910v1 Announce Type: cross Abstract: As AI systems are deployed acr
 
 ## 179. Robust Low-Tubal-Rank Tensor Completion under Cross-Concentrated Sampling
 
-**Author:** Hanqin Cai, Longxiu Huang, Jing Qin, Chengyue Wu  
+**Author:** HanQin Cai, Longxiu Huang, Jing Qin, Chengyue Wu  
 **Published:** 8/5/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.IT, cs.LG, cs.NA, math.IT, math.NA  
 
-arXiv:2608.03928v1 Announce Type: cross Abstract: Tensor cross-concentrated sampling (t-CCS) bridges entrywise sampling and t-CUR slice-wise sampling by observing entries only within selected horizontal and lateral slices. Existing t-CCS completion methods, however, assume that the observations are ...
+arXiv:2608.03928v2 Announce Type: cross Abstract: Tensor cross-concentrated sampling (t-CCS) bridges entrywise sampling and t-CUR slice-wise sampling by observing entries only within selected horizontal and lateral slices. Existing t-CCS completion methods, however, assume that the observations are ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.03928)
 
@@ -2489,7 +2489,7 @@ arXiv:2512.18928v4 Announce Type: replace Abstract: This work introduces a novel
 **Published:** 8/5/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2601.03321v3 Announce Type: replace Abstract: Multimodal Large Language Models (MLLMs) have substantially advanced Radiology Report Generation (RRG), yet aligning them through reinforcement learning (RL) remains challenging due to heterogeneous medical supervision. Vanilla Group Relative Polic...
+arXiv:2601.03321v4 Announce Type: replace Abstract: Multimodal Large Language Models (MLLMs) have substantially advanced Radiology Report Generation (RRG), yet aligning them through reinforcement learning (RL) remains challenging due to heterogeneous medical supervision. Vanilla Group Relative Polic...
 
 📖 [Read original article](https://arxiv.org/abs/2601.03321)
 
@@ -2789,7 +2789,7 @@ arXiv:2606.27029v2 Announce Type: replace Abstract: Hamiltonian Neural Networks 
 **Published:** 8/5/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.00684v2 Announce Type: replace Abstract: The classification accuracy of pretrained Vision-Language Models (VLMs) relies on the quality of the text prompts. Handcrafted templates and Large Language Model (LLM)-generated descriptions not only make predictions more interpretable, but also en...
+arXiv:2607.00684v3 Announce Type: replace Abstract: The classification accuracy of pretrained Vision-Language Models (VLMs) relies on the quality of the text prompts. Handcrafted templates and Large Language Model (LLM)-generated descriptions not only make predictions more interpretable, but also en...
 
 📖 [Read original article](https://arxiv.org/abs/2607.00684)
 
@@ -2801,7 +2801,7 @@ arXiv:2607.00684v2 Announce Type: replace Abstract: The classification accuracy 
 **Published:** 8/5/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CV  
 
-arXiv:2607.03798v2 Announce Type: replace Abstract: Symmetry is everywhere in nature and society. Geometric deep learning builds architectures respecting group symmetries, whereas topological deep learning organizes computation through cells, incidence relations, and local-to-global structure. In th...
+arXiv:2607.03798v3 Announce Type: replace Abstract: Symmetry is everywhere in nature and society. Geometric deep learning builds architectures respecting group symmetries, whereas topological deep learning organizes computation through cells, incidence relations, and local-to-global structure. In th...
 
 📖 [Read original article](https://arxiv.org/abs/2607.03798)
 
