@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-04"
 date: "2026-08-04"
 source: "MarkTechPost"
-count: 5
+count: 4
 ---
 
 # MarkTechPost - 2026-08-04
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Reflex has released XY, an Apache-2.0 Python charting library that moves renderi
 Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malicious prompt injection, credential access, and risky dependencies, and implement custom YARA rules, ba...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/)
-
----
-
-## 5. Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web
-
-**Author:** Asif Razzaq  
-**Published:** 8/4/2026, 4:17:18 AM  
-**Categories:** Agentic AI, AI Agents, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
-
-Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employee an isolated workspace and each Slack room its own scoped memory, files, keychain view, permissions...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/)
 
 ---
