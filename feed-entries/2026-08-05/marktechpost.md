@@ -2,16 +2,40 @@
 title: "MarkTechPost - 2026-08-05"
 date: "2026-08-05"
 source: "MarkTechPost"
-count: 2
+count: 4
 ---
 
 # MarkTechPost - 2026-08-05
 
-2 items collected.
+4 items collected.
 
 ---
 
-## 1. NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1
+## 1. End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization
+
+**Author:** Sana Hassan  
+**Published:** 8/5/2026, 9:56:03 PM  
+**Categories:** AI Infrastructure, Applications, Artificial Intelligence, Editors Pick, Staff, Technology, Tutorials  
+
+In this tutorial, we build a complete Bayesian marketing mix modeling workflow using Google Meridian. We begin by installing the required libraries, verifying GPU availability, and exploring a geo-level marketing dataset that includes media impressions, spend, controls, promotions, conversions, popu...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization/)
+
+---
+
+## 2. Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model
+
+**Author:** Asif Razzaq  
+**Published:** 8/5/2026, 8:07:32 PM  
+**Categories:** Agentic AI, AI Agents, AI Infrastructure, AI Shorts, Artificial Intelligence, Deep Learning, Editors Pick, For Devs, Generative AI, Language Model, Large Language Model, Machine Learning, New Releases, Python, Software Engineering, Tech News, Technology  
+
+Meta Superintelligence Labs has released Muse Code, a terminal coding agent in beta, powered by the new Muse Spark 1.2 model. Muse Code plans changes, writes code, and validates results across large repositories. Async background agents stay active for the whole session instead of spawning per task....
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/)
+
+---
+
+## 3. NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1
 
 **Author:** Asif Razzaq  
 **Published:** 8/5/2026, 8:25:11 AM  
@@ -23,7 +47,7 @@ NVIDIA released Alpamayo 2 Super, a 34B vision-language-action model for autonom
 
 ---
 
-## 2. CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams
+## 4. CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams
 
 **Author:** Asif Razzaq  
 **Published:** 8/5/2026, 4:43:17 AM  
