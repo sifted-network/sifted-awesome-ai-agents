@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-04"
 date: "2026-08-04"
 source: "MarkTechPost"
-count: 6
+count: 5
 ---
 
 # MarkTechPost - 2026-08-04
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Learn how to build an end-to-end security assessment pipeline for AI agent skill
 Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employee an isolated workspace and each Slack room its own scoped memory, files, keychain view, permissions...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/)
-
----
-
-## 6. Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF
-
-**Author:** Michal Sutter  
-**Published:** 8/4/2026, 3:46:16 AM  
-**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Machine Learning, New Releases, Open Source, Python, Staff, Tech News, Technology  
-
-Genspark has open sourced GenOffice under the Apache License 2.0. It is an AI-native office suite for macOS and Windows, covering Docs, Sheets, Slides and PDF as five Electron apps over one shared engine layer. The notable engineering claim is a byte-preserving round trip: only edited paragraphs are...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/)
 
 ---
