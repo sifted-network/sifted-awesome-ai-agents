@@ -11,7 +11,31 @@ count: 10
 
 ---
 
-## 1. openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境
+## 1. 阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力
+
+**Author:** 梦晨  
+**Published:** 8/7/2026, 7:43:06 AM  
+**Categories:** 资讯, 阿里巴巴  
+
+AI语音“听、说、创”一站式满足
+
+📖 [Read original article](https://www.qbitai.com/2026/08/468324.html)
+
+---
+
+## 2. AI批量轰炸苹果bug赏金计划，审核团队已下线
+
+**Author:** 程浅  
+**Published:** 8/7/2026, 6:21:05 AM  
+**Categories:** 资讯, Apple, bug  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/08/466738.html)
+
+---
+
+## 3. openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境
 
 **Author:** 思邈  
 **Published:** 8/7/2026, 6:18:51 AM  
@@ -23,7 +47,7 @@ count: 10
 
 ---
 
-## 2. AI圈功能狂卷，付费寥寥，Keep正在试一条新路
+## 4. AI圈功能狂卷，付费寥寥，Keep正在试一条新路
 
 **Author:** 一水  
 **Published:** 8/7/2026, 5:30:08 AM  
@@ -35,7 +59,7 @@ AI卷向运动赛道，Keep的新答卷能否跑通？
 
 ---
 
-## 3. 阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频
+## 5. 阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频
 
 **Author:** 量子位的朋友们  
 **Published:** 8/7/2026, 3:23:54 AM  
@@ -47,7 +71,7 @@ AI卷向运动赛道，Keep的新答卷能否跑通？
 
 ---
 
-## 4. 刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了
+## 6. 刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了
 
 **Author:** Jay  
 **Published:** 8/7/2026, 3:23:01 AM  
@@ -59,7 +83,7 @@ Chat优化版
 
 ---
 
-## 5. 蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作
+## 7. 蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作
 
 **Author:** 量子位的朋友们  
 **Published:** 8/7/2026, 3:08:51 AM  
@@ -71,7 +95,7 @@ Chat优化版
 
 ---
 
-## 6. AI SSD：大模型推理的存储范式转移
+## 8. AI SSD：大模型推理的存储范式转移
 
 **Author:** 思邈  
 **Published:** 8/7/2026, 2:56:46 AM  
@@ -83,7 +107,7 @@ Chat优化版
 
 ---
 
-## 7. PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商
+## 9. PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商
 
 **Author:** 量子位的朋友们  
 **Published:** 8/7/2026, 1:39:16 AM  
@@ -95,7 +119,7 @@ Chat优化版
 
 ---
 
-## 8. 智元下架了首席科学家罗剑岚
+## 10. 智元下架了首席科学家罗剑岚
 
 **Author:** henry  
 **Published:** 8/7/2026, 1:25:40 AM  
@@ -104,29 +128,5 @@ Chat优化版
 智元机器人高管生变！
 
 📖 [Read original article](https://www.qbitai.com/2026/08/467730.html)
-
----
-
-## 9. Show me《指环王》！卡帕西强推大模型评测新基准
-
-**Author:** henry  
-**Published:** 8/7/2026, 1:15:42 AM  
-**Categories:** 资讯  
-
-指环王成为大模型新基准
-
-📖 [Read original article](https://www.qbitai.com/2026/08/467663.html)
-
----
-
-## 10. 冲刺全球首个100万小时具身数据！三家国产公司，联手了
-
-**Author:** 一水  
-**Published:** 8/7/2026, 12:55:47 AM  
-**Categories:** 资讯, 首页轮播, 黎曼动力  
-
-采集、仿真、训练和评测，闭环了
-
-📖 [Read original article](https://www.qbitai.com/2026/08/467486.html)
 
 ---
