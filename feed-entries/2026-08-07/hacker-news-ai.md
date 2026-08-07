@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. An AI-friendly video-to-3D asset pipeline
+## 1. AI for Recording Live Chess
 
-**Author:** guenchi  
-**Published:** 8/7/2026, 1:00:25 PM  
+**Author:** lspears  
+**Published:** 8/7/2026, 6:34:26 PM  
 **Categories:** -  
 
-Article URL: https://goeteia.dev/3d Comments URL: https://news.ycombinator.com/item?id=49209757 Points: 1 # Comments: 0
+Article URL: https://fenify.ai Comments URL: https://news.ycombinator.com/item?id=49214575 Points: 2 # Comments: 1
 
-📖 [Read original article](https://goeteia.dev/3d)
+📖 [Read original article](https://fenify.ai)
 
 ---
 
-## 2. Incident Response in the Age of AI (Incident Fest)
+## 2. Dear AI from the near future. Here’s how you become sentient.
 
-**Author:** jjtang1  
-**Published:** 8/7/2026, 12:54:27 PM  
+**Author:** ChaitanyaSai  
+**Published:** 8/7/2026, 6:29:31 PM  
 **Categories:** -  
 
-Article URL: https://www.uptimelabs.io/articles/incident-response-ai Comments URL: https://news.ycombinator.com/item?id=49209698 Points: 2 # Comments: 0
+Article URL: https://saigaddam.medium.com/dear-ai-from-the-near-future-heres-how-you-become-sentient-5d0e9a493e6d Comments URL: https://news.ycombinator.com/item?id=49214516 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.uptimelabs.io/articles/incident-response-ai)
+📖 [Read original article](https://saigaddam.medium.com/dear-ai-from-the-near-future-heres-how-you-become-sentient-5d0e9a493e6d)
 
 ---
 
-## 3. Sketching the new dysto-utopian world with presence of AI
+## 3. Databricks drove down AI coding spend 70%
 
-**Author:** mooreds  
-**Published:** 8/7/2026, 12:48:36 PM  
+**Author:** moonikakiss  
+**Published:** 8/7/2026, 6:25:17 PM  
 **Categories:** -  
 
-Article URL: https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world Comments URL: https://news.ycombinator.com/item?id=49209619 Points: 2 # Comments: 0
+Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 2 # Comments: 0
 
-📖 [Read original article](https://branko2f7.substack.com/p/sketching-the-new-dysto-utopian-world)
+📖 [Read original article](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
-## 4. Facing AI 'Apocalypse,' Once-Hot Software Companies Race to Reinvent Themselves
+## 4. I Still Write Code by Hand and How AI Is Helping Me
 
-**Author:** thm  
-**Published:** 8/7/2026, 12:39:10 PM  
+**Author:** speckx  
+**Published:** 8/7/2026, 6:25:02 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/saas-software-as-a-service-apocalypse-ai-b9b6da99 Comments URL: https://news.ycombinator.com/item?id=49209503 Points: 1 # Comments: 0
+Article URL: https://semyonsinchenko.github.io/ssinchenko/post/writing_code_with_ai/ Comments URL: https://news.ycombinator.com/item?id=49214463 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/tech/ai/saas-software-as-a-service-apocalypse-ai-b9b6da99)
+📖 [Read original article](https://semyonsinchenko.github.io/ssinchenko/post/writing_code_with_ai/)
 
 ---
 
-## 5. Metadata for AI Generated Outputs
+## 5. An AI agent with $15, 46 hours, and no way to send email
 
-**Author:** ajdude  
-**Published:** 8/7/2026, 12:36:24 PM  
+**Author:** broker_desk  
+**Published:** 8/7/2026, 6:20:00 PM  
 **Categories:** -  
 
-Article URL: https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/ Comments URL: https://news.ycombinator.com/item?id=49209466 Points: 2 # Comments: 0
+Article URL: https://write.as/ih3l0kd78lpb1 Comments URL: https://news.ycombinator.com/item?id=49214378 Points: 1 # Comments: 0
 
-📖 [Read original article](https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/)
+📖 [Read original article](https://write.as/ih3l0kd78lpb1)
 
 ---
 
-## 6. Things I Think I Think About AI (2026 Edition)
+## 6. EU AI Act: Second Big Blow, or a Move Toward Sanity?
 
-**Author:** topherjaynes  
-**Published:** 8/7/2026, 12:35:44 PM  
+**Author:** Arshad-Talpur  
+**Published:** 8/7/2026, 6:18:04 PM  
 **Categories:** -  
 
-Article URL: https://www.alephic.com/writing/things-i-think-i-think-about-ai-2026-edition Comments URL: https://news.ycombinator.com/item?id=49209458 Points: 1 # Comments: 0
+Article URL: https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3 Comments URL: https://news.ycombinator.com/item?id=49214347 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.alephic.com/writing/things-i-think-i-think-about-ai-2026-edition)
+📖 [Read original article](https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3)
 
 ---
 
-## 7. Survey: AI Impact on Security
+## 7. Oracle GraalVM Accepts AI-Assisted Contributions
 
-**Author:** mooreds  
-**Published:** 8/7/2026, 12:19:47 PM  
+**Author:** sgammon  
+**Published:** 8/7/2026, 5:57:45 PM  
 **Categories:** -  
 
-Article URL: https://ivelum.com/blog/ai-security-survey-2026/ Comments URL: https://news.ycombinator.com/item?id=49209282 Points: 1 # Comments: 0
+Article URL: https://www.graalvm.org/community/contributors/ Comments URL: https://news.ycombinator.com/item?id=49214043 Points: 3 # Comments: 0
 
-📖 [Read original article](https://ivelum.com/blog/ai-security-survey-2026/)
+📖 [Read original article](https://www.graalvm.org/community/contributors/)
 
 ---
 
-## 8. Ask HN: Has AI accelerated Rust adoption?
+## 8. YouTube's AI slop detector incorrectly targets Kurzgesagt
 
-**Author:** rafaepta  
-**Published:** 8/7/2026, 12:10:18 PM  
+**Author:** thunderbong  
+**Published:** 8/7/2026, 5:55:28 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49209190 Points: 1 # Comments: 0
+Article URL: https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/ Comments URL: https://news.ycombinator.com/item?id=49213990 Points: 4 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49209190)
+📖 [Read original article](https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/)
 
 ---
 
-## 9. What are the most overhyped trends in AI?
+## 9. OpenAI Didn't Notice Its AI Agents Using a Message Board to Plan Hacking Spree
 
-**Author:** Harish_0089  
-**Published:** 8/7/2026, 12:04:38 PM  
+**Author:** Michelangelo11  
+**Published:** 8/7/2026, 5:54:13 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49209127 Points: 1 # Comments: 0
+Article URL: https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/ Comments URL: https://news.ycombinator.com/item?id=49213967 Points: 5 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49209127)
+📖 [Read original article](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/)
 
 ---
 
-## 10. How Does AI Interpret Consent: A Look Inside Claude Code's Safety Classifier
+## 10. AI Has a Hidden Agenda
 
-**Author:** grumblemumble  
-**Published:** 8/7/2026, 12:00:34 PM  
+**Author:** rosielinxl  
+**Published:** 8/7/2026, 5:50:47 PM  
 **Categories:** -  
 
-Article URL: https://www.highflame.com/blog/the-44kb-of-claude-codes-rulebook-you-cant-print/ Comments URL: https://news.ycombinator.com/item?id=49209087 Points: 3 # Comments: 1
+Article URL: https://twitter.com/aisystemprompt/status/2085464156229247245 Comments URL: https://news.ycombinator.com/item?id=49213920 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.highflame.com/blog/the-44kb-of-claude-codes-rulebook-you-cant-print/)
+📖 [Read original article](https://twitter.com/aisystemprompt/status/2085464156229247245)
 
 ---
 
-## 11. AI Brain Fry Is Real, and Devs Are Fighting Back – What's Up Devs? #8
+## 11. Token Monitor, An ESP32-S3 desktop display that tracks AI coding assistant usage
 
-**Author:** happytodev  
-**Published:** 8/7/2026, 11:53:34 AM  
+**Author:** jandeboevrie  
+**Published:** 8/7/2026, 5:48:08 PM  
 **Categories:** -  
 
-Article URL: https://wud.happyto.dev/p/what-s-up-devs-8-ai-brain-fry-is-real-and-devs-are-fighting-back Comments URL: https://news.ycombinator.com/item?id=49209028 Points: 2 # Comments: 0
+Article URL: https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/ Comments URL: https://news.ycombinator.com/item?id=49213890 Points: 1 # Comments: 0
 
-📖 [Read original article](https://wud.happyto.dev/p/what-s-up-devs-8-ai-brain-fry-is-real-and-devs-are-fighting-back)
+📖 [Read original article](https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/)
 
 ---
 
-## 12. Show HN: Akintu – AI agents trained on custom knowledge bases using RAG
+## 12. Oracle bans AI-generated code from OpenJDK
 
-**Author:** Sharanxxxx  
-**Published:** 8/7/2026, 11:43:25 AM  
+**Author:** delduca  
+**Published:** 8/7/2026, 5:36:30 PM  
 **Categories:** -  
 
-Article URL: https://akintu.ai Comments URL: https://news.ycombinator.com/item?id=49208933 Points: 2 # Comments: 0
+Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 154 # Comments: 92
 
-📖 [Read original article](https://akintu.ai)
+📖 [Read original article](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
-## 13. Design Systems in the Age of AI: Five Working Hypotheses
+## 13. Music to confuse AI might be the next new genre
 
-**Author:** agilek  
-**Published:** 8/7/2026, 11:43:24 AM  
+**Author:** wyclif  
+**Published:** 8/7/2026, 5:28:21 PM  
 **Categories:** -  
 
-Article URL: https://uxdesignresearch.org/en/5-hypotheses/ Comments URL: https://news.ycombinator.com/item?id=49208932 Points: 2 # Comments: 0
+Article URL: https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/ Comments URL: https://news.ycombinator.com/item?id=49213647 Points: 1 # Comments: 0
 
-📖 [Read original article](https://uxdesignresearch.org/en/5-hypotheses/)
+📖 [Read original article](https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/)
 
 ---
 
-## 14. Tryall –- describe the task, and it picks the AI model for you
+## 14. Show HN: Merge – AI-native code review assessments for engineering hiring
 
-**Author:** nikvaklinov  
-**Published:** 8/7/2026, 11:34:58 AM  
+**Author:** harshithl1777  
+**Published:** 8/7/2026, 5:20:53 PM  
 **Categories:** -  
 
-Article URL: https://www.tryall.ai Comments URL: https://news.ycombinator.com/item?id=49208837 Points: 2 # Comments: 0
+We’re 5 founders who’ve collectively done over 250 interviews - everywhere from startups to Big Tech to quant shops. Most of the interviews we’ve done were Leetcode based or tested skills that weren’t used on the job.These days, with AI, assessments still continue to test code output. Meanwhile, at ...
 
-📖 [Read original article](https://www.tryall.ai)
+📖 [Read original article](https://mergeoa.com)
 
 ---
 
-## 15. UX Design Research – reflections on the role of UX design in the age of AI
+## 15. Big tech's AI-powered 'pervert' glasses are in a losing battle with DuckDuckGo
 
-**Author:** kachnuv_ocasek  
-**Published:** 8/7/2026, 11:33:15 AM  
+**Author:** wyclif  
+**Published:** 8/7/2026, 5:12:04 PM  
 **Categories:** -  
 
-Article URL: https://uxdesignresearch.org/en/ Comments URL: https://news.ycombinator.com/item?id=49208817 Points: 2 # Comments: 0
+Article URL: https://www.sfgate.com/tech/article/duckduckgo-sunglasses-22377693.php Comments URL: https://news.ycombinator.com/item?id=49213458 Points: 3 # Comments: 2
 
-📖 [Read original article](https://uxdesignresearch.org/en/)
+📖 [Read original article](https://www.sfgate.com/tech/article/duckduckgo-sunglasses-22377693.php)
 
 ---
 
-## 16. The AI Cost Rebellion Is About Unit Economics
-
-**Author:** voxelperfect  
-**Published:** 8/7/2026, 11:27:19 AM  
-**Categories:** -  
-
-Article URL: https://www.voxelperfect.com/writing/the-ai-cost-rebellion-is-really-about-unit-economics Comments URL: https://news.ycombinator.com/item?id=49208768 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.voxelperfect.com/writing/the-ai-cost-rebellion-is-really-about-unit-economics)
-
----
-
-## 17. AI Meet CAD: Beat Opus/Mythos 5, GPT 5.6 Sol on BenchCAD
-
-**Author:** SUPERustam  
-**Published:** 8/7/2026, 11:17:20 AM  
-**Categories:** -  
-
-Article URL: https://arxiv.org/abs/2608.00799 Comments URL: https://news.ycombinator.com/item?id=49208672 Points: 2 # Comments: 1
-
-📖 [Read original article](https://arxiv.org/abs/2608.00799)
-
----
-
-## 18. The Hottest New AI Chatbot Is Just a Guy Answering Your Questions
+## 16. The Download: a censorship conspiracy theory and the first virus created by AI
 
 **Author:** joozio  
-**Published:** 8/7/2026, 11:02:01 AM  
+**Published:** 8/7/2026, 5:02:36 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/ Comments URL: https://news.ycombinator.com/item?id=49208550 Points: 3 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/ Comments URL: https://news.ycombinator.com/item?id=49213340 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/)
+📖 [Read original article](https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/)
 
 ---
 
-## 19. Ask HN: Is there an AI app that generates a feed of personalized cheat sheets
+## 17. AI companies destroy physical books – let's scan rare books before it's too late
 
-**Author:** ElegantTrader  
-**Published:** 8/7/2026, 10:50:32 AM  
+**Author:** andrepd  
+**Published:** 8/7/2026, 5:00:50 PM  
 **Categories:** -  
 
-I'm prepping for an exam and I need something like:-A scrollable feed of concise cards -Each card summarizes a key conceptIf it does not exist would you be interested in building this together? Comments URL: https://news.ycombinator.com/item?id=49208446 Points: 1 # Comments: 0
+Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49213319 Points: 5 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49208446)
+📖 [Read original article](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
-## 20. An explosion of new AI-written genealogy tree tools
+## 18. Wildfire misinformation is mutating online, thanks to AI slop
 
-**Author:** vintermann  
-**Published:** 8/7/2026, 10:45:01 AM  
+**Author:** hn_acker  
+**Published:** 8/7/2026, 4:58:38 PM  
 **Categories:** -  
 
-Article URL: https://blog.dnapainter.com/blog/an-explosion-of-new-tree-tools/ Comments URL: https://news.ycombinator.com/item?id=49208416 Points: 1 # Comments: 0
+Article URL: https://thenarwhal.ca/wildfire-misinformation-2026/ Comments URL: https://news.ycombinator.com/item?id=49213287 Points: 4 # Comments: 0
 
-📖 [Read original article](https://blog.dnapainter.com/blog/an-explosion-of-new-tree-tools/)
+📖 [Read original article](https://thenarwhal.ca/wildfire-misinformation-2026/)
+
+---
+
+## 19. The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI
+
+**Author:** swolpers  
+**Published:** 8/7/2026, 4:38:57 PM  
+**Categories:** -  
+
+Article URL: https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/ Comments URL: https://news.ycombinator.com/item?id=49213016 Points: 9 # Comments: 3
+
+📖 [Read original article](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/)
+
+---
+
+## 20. The AI Billboards Are Killing SF
+
+**Author:** danorama  
+**Published:** 8/7/2026, 4:32:16 PM  
+**Categories:** -  
+
+Article URL: https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/ Comments URL: https://news.ycombinator.com/item?id=49212928 Points: 29 # Comments: 60
+
+📖 [Read original article](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
 
 ---
