@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-07"
 date: "2026-08-07"
 source: "qbitai"
-count: 7
+count: 4
 ---
 
 # qbitai - 2026-08-07
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ AI语音“听、说、创”一站式满足
 AI卷向运动赛道，Keep的新答卷能否跑通？
 
 📖 [Read original article](https://www.qbitai.com/2026/08/467878.html)
-
----
-
-## 5. 阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频
-
-**Author:** 量子位的朋友们  
-**Published:** 8/7/2026, 3:23:54 AM  
-**Categories:** 资讯, 阿里云  
-
-8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测
-
-📖 [Read original article](https://www.qbitai.com/2026/08/467877.html)
-
----
-
-## 6. 刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了
-
-**Author:** Jay  
-**Published:** 8/7/2026, 3:23:01 AM  
-**Categories:** 资讯, OpenAI  
-
-Chat优化版
-
-📖 [Read original article](https://www.qbitai.com/2026/08/467879.html)
-
----
-
-## 7. 蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作
-
-**Author:** 量子位的朋友们  
-**Published:** 8/7/2026, 3:08:51 AM  
-**Categories:** 资讯, 蚂蚁  
-
-蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线
-
-📖 [Read original article](https://www.qbitai.com/2026/08/467871.html)
 
 ---
