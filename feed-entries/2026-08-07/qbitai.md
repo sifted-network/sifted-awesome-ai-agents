@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-07"
 date: "2026-08-07"
 source: "qbitai"
-count: 10
+count: 7
 ---
 
 # qbitai - 2026-08-07
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -35,7 +35,7 @@ AI语音“听、说、创”一站式满足
 
 ---
 
-## 3. openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境
+## 3. openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境
 
 **Author:** 思邈  
 **Published:** 8/7/2026, 6:18:51 AM  
@@ -92,41 +92,5 @@ Chat优化版
 蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线
 
 📖 [Read original article](https://www.qbitai.com/2026/08/467871.html)
-
----
-
-## 8. AI SSD：大模型推理的存储范式转移
-
-**Author:** 思邈  
-**Published:** 8/7/2026, 2:56:46 AM  
-**Categories:** 资讯, AI SSD, 寅谱, 月之暗面, 英伟达  
-
-算力、网络、内存与存储开始围绕每个Token协同
-
-📖 [Read original article](https://www.qbitai.com/2026/08/467840.html)
-
----
-
-## 9. PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商
-
-**Author:** 量子位的朋友们  
-**Published:** 8/7/2026, 1:39:16 AM  
-**Categories:** 资讯, PPIO  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/08/467834.html)
-
----
-
-## 10. 智元下架了首席科学家罗剑岚
-
-**Author:** henry  
-**Published:** 8/7/2026, 1:25:40 AM  
-**Categories:** 资讯, 具身智能, 智元  
-
-智元机器人高管生变！
-
-📖 [Read original article](https://www.qbitai.com/2026/08/467730.html)
 
 ---
