@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-08"
 date: "2026-08-08"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-08-08
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export
+## 1. Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary
+
+**Author:** Michal Sutter  
+**Published:** 8/8/2026, 5:04:39 PM  
+**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Staff, Tech News, Technology  
+
+Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second o...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/)
+
+---
+
+## 2. Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export
 
 **Author:** Sana Hassan  
 **Published:** 8/8/2026, 9:42:18 AM  
@@ -23,7 +35,7 @@ Dive into the advanced visualization capabilities of the Reflex XY Python librar
 
 ---
 
-## 2. Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size
+## 3. Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size
 
 **Author:** Asif Razzaq  
 **Published:** 8/8/2026, 4:36:26 AM  
