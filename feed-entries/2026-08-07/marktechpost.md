@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-07"
 date: "2026-08-07"
 source: "MarkTechPost"
-count: 5
+count: 4
 ---
 
 # MarkTechPost - 2026-08-07
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnos
 Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a repository before writing anything — detecting the language, test framework, existing conventions, and the real build and test commands — then plans, writes...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/)
-
----
-
-## 5. Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights
-
-**Author:** Asif Razzaq  
-**Published:** 8/7/2026, 3:42:27 AM  
-**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, New Releases, Staff, Tech News, Technology  
-
-Liquid AI released LFM2.5-2.6B, an agentic model that plans, calls tools, and completes multi-step tasks entirely on-device. The 2.69B parameter model pairs 22 double-gated short convolution blocks with 8 GQA blocks across 30 layers, handles 131,072 tokens of context, and decodes at 220 tokens/s on ...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/)
 
 ---
