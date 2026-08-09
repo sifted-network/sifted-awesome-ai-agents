@@ -2,16 +2,40 @@
 title: "qbitai - 2026-08-09"
 date: "2026-08-09"
 source: "qbitai"
-count: 3
+count: 5
 ---
 
 # qbitai - 2026-08-09
 
-3 items collected.
+5 items collected.
 
 ---
 
-## 1. 当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI
+## 1. 180万刀，连亚马逊都烧不起Claude了
+
+**Author:** 程浅  
+**Published:** 8/9/2026, 9:25:10 AM  
+**Categories:** 资讯, Claude, 亚马逊  
+
+Claude不是我说你，钱真不能这么花
+
+📖 [Read original article](https://www.qbitai.com/2026/08/469010.html)
+
+---
+
+## 2. GPT-5.6和Fable联手，解决了一道悬了25年的数学难题
+
+**Author:** 克雷西  
+**Published:** 8/9/2026, 9:16:58 AM  
+**Categories:** 资讯, 首页轮播, 数学  
+
+作者读博时就在研究，17年后被AI解开了
+
+📖 [Read original article](https://www.qbitai.com/2026/08/468913.html)
+
+---
+
+## 3. 当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI
 
 **Author:** 闻乐  
 **Published:** 8/9/2026, 3:40:25 AM  
@@ -23,7 +47,7 @@ AI参与创造下一代AI
 
 ---
 
-## 2. Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了
+## 4. Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了
 
 **Author:** 听雨  
 **Published:** 8/9/2026, 3:25:00 AM  
@@ -35,7 +59,7 @@ AI参与创造下一代AI
 
 ---
 
-## 3. 爆料：哈萨比斯原本要和Jeff Dean一起走！
+## 5. 爆料：哈萨比斯原本要和Jeff Dean一起走！
 
 **Author:** 听雨  
 **Published:** 8/9/2026, 3:17:18 AM  
