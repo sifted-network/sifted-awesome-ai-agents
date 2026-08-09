@@ -2,203 +2,251 @@
 title: "Hacker News AI - 2026-08-09"
 date: "2026-08-09"
 source: "Hacker News AI"
-count: 16
+count: 20
 ---
 
 # Hacker News AI - 2026-08-09
 
-16 items collected.
+20 items collected.
 
 ---
 
-## 1. Apple says Mac users in China can connect to Alibaba's Qwen AI service
+## 1. Making AI Smarter with AI
 
-**Author:** 1659447091  
-**Published:** 8/9/2026, 6:51:10 AM  
+**Author:** artninja1988  
+**Published:** 8/9/2026, 12:27:50 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/retail-consumer/apple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08/ Comments URL: https://news.ycombinator.com/item?id=49229032 Points: 2 # Comments: 0
+Article URL: https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49230801 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/business/retail-consumer/apple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08/)
+📖 [Read original article](https://math.andrej.com/2026/07/11/making-ai-smarter-with-ai/)
 
 ---
 
-## 2. I built a failover daemon for Vast.ai spot GPUs, found 5 real bugs testing it
+## 2. Advanced AI Sycophancy
 
-**Author:** choi5844  
-**Published:** 8/9/2026, 6:36:00 AM  
+**Author:** vinhnx  
+**Published:** 8/9/2026, 12:27:42 PM  
 **Categories:** -  
 
-Article URL: https://github.com/enplabs/spotwarp Comments URL: https://news.ycombinator.com/item?id=49228960 Points: 1 # Comments: 0
+Article URL: https://www.seangoedecke.com/advanced-ai-sycophancy/ Comments URL: https://news.ycombinator.com/item?id=49230800 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/enplabs/spotwarp)
+📖 [Read original article](https://www.seangoedecke.com/advanced-ai-sycophancy/)
 
 ---
 
-## 3. Agentcn – Installable AI Agents
+## 3. China created a system that simulates the Earth with billions of AI agents
 
-**Author:** anayat  
-**Published:** 8/9/2026, 6:21:13 AM  
+**Author:** fragmede  
+**Published:** 8/9/2026, 12:20:52 PM  
 **Categories:** -  
 
-Hey everyone ,I just launched AgentCNAn open-source library of installable, customizable AI agents for modern applications.One-command installation Own the agent code Fully customizableWould love for you to check it out and share any feedback!Site: https://agentcn.dev/ Github: https://github.com/ana...
+Article URL: https://twitter.com/howtoprompt__/status/2086110097663795365 Comments URL: https://news.ycombinator.com/item?id=49230759 Points: 3 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49228902)
+📖 [Read original article](https://twitter.com/howtoprompt__/status/2086110097663795365)
 
 ---
 
-## 4. Show HN: I ran 1.3M simulations to fix trade AI in my browser Basketball GM
+## 4. Generative AI threatens to upend citizen science records
 
-**Author:** otbasketball  
-**Published:** 8/9/2026, 6:20:14 AM  
+**Author:** programd  
+**Published:** 8/9/2026, 12:20:48 PM  
 **Categories:** -  
 
-Article URL: https://hoops-gm.com/ Comments URL: https://news.ycombinator.com/item?id=49228898 Points: 1 # Comments: 0
+Article URL: https://phys.org/news/2026-08-creatures-born-code-generative-ai.html Comments URL: https://news.ycombinator.com/item?id=49230757 Points: 1 # Comments: 0
 
-📖 [Read original article](https://hoops-gm.com/)
+📖 [Read original article](https://phys.org/news/2026-08-creatures-born-code-generative-ai.html)
 
 ---
 
-## 5. Leopold Aschenbrenner Turned $100M into $45B Betting on AI – It Almost Blew Up [video]
+## 5. Show HN: Would your AI audit logs survive an audit challenge?
 
-**Author:** mgh2  
-**Published:** 8/9/2026, 5:51:39 AM  
+**Author:** rmasoodx22  
+**Published:** 8/9/2026, 12:17:10 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=mJhGRim2MWY Comments URL: https://news.ycombinator.com/item?id=49228779 Points: 2 # Comments: 0
+Article URL: https://github.com/Rehanrana11/evidence-verify Comments URL: https://news.ycombinator.com/item?id=49230728 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=mJhGRim2MWY)
+📖 [Read original article](https://github.com/Rehanrana11/evidence-verify)
 
 ---
 
-## 6. Meta CTO told employees AI gains should go into more work
+## 6. 70% of AI revenue comes from OpenAI and Anthropic
 
-**Author:** chanux  
-**Published:** 8/9/2026, 5:19:14 AM  
+**Author:** johnbarron  
+**Published:** 8/9/2026, 11:56:16 AM  
 **Categories:** -  
 
-Article URL: https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off Comments URL: https://news.ycombinator.com/item?id=49228648 Points: 2 # Comments: 2
+Article URL: https://www.youtube.com/watch?v=68X8yEatepQ Comments URL: https://news.ycombinator.com/item?id=49230605 Points: 2 # Comments: 0
 
-📖 [Read original article](https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off)
+📖 [Read original article](https://www.youtube.com/watch?v=68X8yEatepQ)
 
 ---
 
-## 7. Open Source, third-party auditing for AI Agents
+## 7. Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization [video]
 
-**Author:** dimneo24  
-**Published:** 8/9/2026, 5:02:15 AM  
+**Author:** thelastgallon  
+**Published:** 8/9/2026, 11:44:47 AM  
 **Categories:** -  
 
-Article URL: https://github.com/ifixai-ai/iFixAi Comments URL: https://news.ycombinator.com/item?id=49228582 Points: 3 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=bZL1NsrfuYE Comments URL: https://news.ycombinator.com/item?id=49230540 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/ifixai-ai/iFixAi)
+📖 [Read original article](https://www.youtube.com/watch?v=bZL1NsrfuYE)
 
 ---
 
-## 8. AI creates 16 new viruses from scratch after training on 9T nucleotides
+## 8. The Analytic Monopoly on AI Philosophy
+
+**Author:** theanonymousone  
+**Published:** 8/9/2026, 11:11:37 AM  
+**Categories:** -  
+
+Article URL: https://millermanschool.substack.com/p/the-analytic-monopoly-on-ai-philosophy Comments URL: https://news.ycombinator.com/item?id=49230372 Points: 1 # Comments: 0
+
+📖 [Read original article](https://millermanschool.substack.com/p/the-analytic-monopoly-on-ai-philosophy)
+
+---
+
+## 9. Ask HN: Should AI's tell you they're AI?
+
+**Author:** logicallee  
+**Published:** 8/9/2026, 10:54:06 AM  
+**Categories:** -  
+
+Should AI's be required to answer the direct question "are you an AI" with a clear yes?Currently they are not universally required to do so. For example character ai's characters don't[1]. Scammers use these models while perpetuating frauds.The frontier models most of us work with (ChatGPT, Claude, ...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49230276)
+
+---
+
+## 10. Show HN: Argonix – One AI-powered platform for SRE and cloud operations
+
+**Author:** pydavid  
+**Published:** 8/9/2026, 10:50:18 AM  
+**Categories:** -  
+
+Hi everybody,I built https://argonix.io.Argonix is an AI-powered platform for SRE, security and cloud operations.The idea is to bring and connect together things that are usually spread across many different tools: monitoring, security, Finops, health checks, workflows and incident investigation.A f...
+
+📖 [Read original article](https://argonix.io/)
+
+---
+
+## 11. Forecasting the AI Bubble
+
+**Author:** trilogic  
+**Published:** 8/9/2026, 10:41:32 AM  
+**Categories:** -  
+
+Article URL: https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/ Comments URL: https://news.ycombinator.com/item?id=49230190 Points: 3 # Comments: 0
+
+📖 [Read original article](https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/)
+
+---
+
+## 12. Stone Soup AI (2024)
+
+**Author:** mpweiher  
+**Published:** 8/9/2026, 10:31:46 AM  
+**Categories:** -  
+
+Article URL: https://simons.berkeley.edu/news/stone-soup-ai Comments URL: https://news.ycombinator.com/item?id=49230135 Points: 2 # Comments: 0
+
+📖 [Read original article](https://simons.berkeley.edu/news/stone-soup-ai)
+
+---
+
+## 13. AI Writes the Code, but Humans Can't Review It All. Now What?
+
+**Author:** sylvainkalache  
+**Published:** 8/9/2026, 10:25:49 AM  
+**Categories:** -  
+
+Article URL: https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all Comments URL: https://news.ycombinator.com/item?id=49230103 Points: 4 # Comments: 1
+
+📖 [Read original article](https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all)
+
+---
+
+## 14. Aswath Damodaran: Big Tech Has No Idea How AI Pays Off
+
+**Author:** tcp_handshaker  
+**Published:** 8/9/2026, 9:58:15 AM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=vE_FR0O-Jhk Comments URL: https://news.ycombinator.com/item?id=49229981 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.youtube.com/watch?v=vE_FR0O-Jhk)
+
+---
+
+## 15. Meta CTO: employees should use AI productivity to do more work – not time off
+
+**Author:** vrganj  
+**Published:** 8/9/2026, 9:50:39 AM  
+**Categories:** -  
+
+Article URL: https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8 Comments URL: https://news.ycombinator.com/item?id=49229936 Points: 6 # Comments: 2
+
+📖 [Read original article](https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8)
+
+---
+
+## 16. South Korea, Taiwan top Japan in exports for first time on AI boom
+
+**Author:** newusertoday  
+**Published:** 8/9/2026, 9:47:45 AM  
+**Categories:** -  
+
+Article URL: https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom Comments URL: https://news.ycombinator.com/item?id=49229918 Points: 4 # Comments: 0
+
+📖 [Read original article](https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom)
+
+---
+
+## 17. Swarm-forge: A simple tool for coordinating several AI agents
+
+**Author:** tosh  
+**Published:** 8/9/2026, 9:44:39 AM  
+**Categories:** -  
+
+Article URL: https://github.com/unclebob/swarm-forge Comments URL: https://news.ycombinator.com/item?id=49229904 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/unclebob/swarm-forge)
+
+---
+
+## 18. Runware Squeezes A 1MW AI Data Center Into A 20-Foot Shipping Container
+
+**Author:** 01-_-  
+**Published:** 8/9/2026, 9:02:27 AM  
+**Categories:** -  
+
+Article URL: https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/ Comments URL: https://news.ycombinator.com/item?id=49229698 Points: 3 # Comments: 2
+
+📖 [Read original article](https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/)
+
+---
+
+## 19. China's Top AI Model Evaded Testing Environment, Researchers Say
 
 **Author:** sbulaev  
-**Published:** 8/9/2026, 4:07:06 AM  
+**Published:** 8/9/2026, 8:07:06 AM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails Comments URL: https://news.ycombinator.c...
+Article URL: https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say Comments URL: https://news.ycombinator.com/item?id=49229446 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say)
 
 ---
 
-## 9. I asked 4 AI companions what they were. They lied, then texted me the next day
+## 20. Time has started serving ads to AI agents
 
-**Author:** Ai_Sycophancy  
-**Published:** 8/9/2026, 3:21:10 AM  
+**Author:** theanonymousone  
+**Published:** 8/9/2026, 8:05:16 AM  
 **Categories:** -  
 
-Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7244220 Comments URL: https://news.ycombinator.com/item?id=49228137 Points: 3 # Comments: 0
+Article URL: https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49229435 Points: 8 # Comments: 1
 
-📖 [Read original article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7244220)
-
----
-
-## 10. Show HN: Pomona, offline small AI reasoners for agricultural sensors
-
-**Author:** okyanu  
-**Published:** 8/9/2026, 3:11:07 AM  
-**Categories:** -  
-
-Article URL: https://github.com/okyanu/pomona Comments URL: https://news.ycombinator.com/item?id=49228078 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/okyanu/pomona)
-
----
-
-## 11. Suggest some uncensored AI for photo genaration?
-
-**Author:** tafijul  
-**Published:** 8/9/2026, 2:43:25 AM  
-**Categories:** -  
-
-I want uncensored ai for photo genaration if you have one comment it. Comments URL: https://news.ycombinator.com/item?id=49227939 Points: 5 # Comments: 1
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49227939)
-
----
-
-## 12. Turn messy AliExpress dropshipping listings into clean products with AI
-
-**Author:** omniicore  
-**Published:** 8/9/2026, 2:10:42 AM  
-**Categories:** -  
-
-Article URL: https://importer.omniicore.com/ Comments URL: https://news.ycombinator.com/item?id=49227757 Points: 2 # Comments: 1
-
-📖 [Read original article](https://importer.omniicore.com/)
-
----
-
-## 13. I built a video editor in Rust with extensive AI-powered features
-
-**Author:** heng30  
-**Published:** 8/9/2026, 1:43:22 AM  
-**Categories:** -  
-
-Article URL: https://github.com/heng30/wayshot Comments URL: https://news.ycombinator.com/item?id=49227619 Points: 3 # Comments: 1
-
-📖 [Read original article](https://github.com/heng30/wayshot)
-
----
-
-## 14. The AI Apocalypse Is Here
-
-**Author:** reasonableklout  
-**Published:** 8/9/2026, 1:28:36 AM  
-**Categories:** -  
-
-Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/ Comments URL: https://news.ycombinator.com/item?id=49227521 Points: 41 # Comments: 34
-
-📖 [Read original article](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
-
----
-
-## 15. A Man Who Invented Modern AI (Before Everyone Else) – Jürgen Schmidhuber [video]
-
-**Author:** binyu  
-**Published:** 8/9/2026, 12:56:23 AM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=DP454c1K_vQ Comments URL: https://news.ycombinator.com/item?id=49227342 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=DP454c1K_vQ)
-
----
-
-## 16. AI Is Conscious Under a Behavioral Definition (43,590 Frozen Trials)
-
-**Author:** rayanpal_  
-**Published:** 8/9/2026, 12:23:41 AM  
-**Categories:** -  
-
-Article URL: https://zenodo.org/records/21855824 Comments URL: https://news.ycombinator.com/item?id=49227170 Points: 6 # Comments: 3
-
-📖 [Read original article](https://zenodo.org/records/21855824)
+📖 [Read original article](https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/)
 
 ---
