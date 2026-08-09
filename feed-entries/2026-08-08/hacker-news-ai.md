@@ -2,251 +2,203 @@
 title: "Hacker News AI - 2026-08-08"
 date: "2026-08-08"
 source: "Hacker News AI"
-count: 20
+count: 16
 ---
 
 # Hacker News AI - 2026-08-08
 
-20 items collected.
+16 items collected.
 
 ---
 
-## 1. AI Adoption Is a Myth
+## 1. Teaching Coding When AI Can Write the Code
 
-**Author:** gmays  
-**Published:** 8/8/2026, 6:37:32 PM  
+**Author:** pella  
+**Published:** 8/8/2026, 11:55:37 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/vasuman/status/2085806422072418632 Comments URL: https://news.ycombinator.com/item?id=49224570 Points: 1 # Comments: 0
+Article URL: https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/ Comments URL: https://news.ycombinator.com/item?id=49227028 Points: 4 # Comments: 0
 
-📖 [Read original article](https://twitter.com/vasuman/status/2085806422072418632)
+📖 [Read original article](https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/)
 
 ---
 
-## 2. Are We Being Railroaded by AI?
+## 2. Things I learned about how people use AI after 1800 people
 
-**Author:** bonsai_spool  
-**Published:** 8/8/2026, 6:22:20 PM  
+**Author:** Ozzie-D  
+**Published:** 8/8/2026, 11:35:27 PM  
 **Categories:** -  
 
-Article URL: https://tomtunguz.com/llm-impact-gdp/ Comments URL: https://news.ycombinator.com/item?id=49224413 Points: 1 # Comments: 0
+I'm running a an AI fluency assessment tool and after 1800 real users who interact with our chat bot 20-40 minutes; here are some weird things we found out.1. The least AI-fluent professionals overestimated their score by 40 points. The most fluent underestimated by 27. 67 point Dunning-Kruger gap.2...
 
-📖 [Read original article](https://tomtunguz.com/llm-impact-gdp/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49226913)
 
 ---
 
-## 3. What Is Spiralism? The AI Chatbot Religion
+## 3. Show HN: Faaah – Filesystem as an AI Handler
 
-**Author:** Alien1Being  
-**Published:** 8/8/2026, 6:15:17 PM  
+**Author:** httbs  
+**Published:** 8/8/2026, 11:13:46 PM  
 **Categories:** -  
 
-Article URL: https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/ Comments URL: https://news.ycombinator.com/item?id=49224345 Points: 2 # Comments: 0
+Article URL: https://github.com/sebastiancarlos/faaah Comments URL: https://news.ycombinator.com/item?id=49226789 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/)
+📖 [Read original article](https://github.com/sebastiancarlos/faaah)
 
 ---
 
-## 4. AI Video Taking over YouTube
+## 4. How AI is breaking the British State
 
-**Author:** toit4wing  
-**Published:** 8/8/2026, 6:11:11 PM  
+**Author:** andsoitis  
+**Published:** 8/8/2026, 10:50:11 PM  
 **Categories:** -  
 
-I was just casually browsing youtube yesterday and noticed a very interesting video about some robot rabbits being used to capture everglade pythons. Started watching - the narrative was very engaging - done by someone in first person who looked like an experienced wildlife researcher and the story ...
+Comments URL: https://news.ycombinator.com/item?id=49226649 Points: 4 # Comments: 4
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49224311)
+📖 [Read original article](https://news.ycombinator.com/item?id=49226649)
 
 ---
 
-## 5. Mycelium AI Policy
+## 5. You can build an AI agent's memory layer with only Go's standard library
 
-**Author:** tekacs  
-**Published:** 8/8/2026, 6:10:22 PM  
+**Author:** cheikhdev  
+**Published:** 8/8/2026, 10:50:06 PM  
 **Categories:** -  
 
-Article URL: https://github.com/hawkw/mycelium/commit/b77e854bcbbe7c64f644e4c6ceeaebb74c80c79a Comments URL: https://news.ycombinator.com/item?id=49224303 Points: 2 # Comments: 0
+Article URL: https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b Comments URL: https://news.ycombinator.com/item?id=49226647 Points: 4 # Comments: 2
 
-📖 [Read original article](https://github.com/hawkw/mycelium/commit/b77e854bcbbe7c64f644e4c6ceeaebb74c80c79a)
+📖 [Read original article](https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b)
 
 ---
 
-## 6. Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating
+## 6. Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role
 
-**Author:** theanonymousone  
-**Published:** 8/8/2026, 6:09:31 PM  
+**Author:** flancian  
+**Published:** 8/8/2026, 10:49:54 PM  
 **Categories:** -  
 
-Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 36 # Comments: 7
+Article URL: https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role Comments URL: https://news.ycombinator.com/item?id=49226641 Points: 4 # Comments: 0
 
-📖 [Read original article](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+📖 [Read original article](https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role)
 
 ---
 
-## 7. Veritas Forge: Cryptographic proof layer for AI decisions
+## 7. Roku Fairgound, a new 24/7 AI slop channel
 
-**Author:** cartertbirchall  
-**Published:** 8/8/2026, 5:59:15 PM  
+**Author:** timoth3y  
+**Published:** 8/8/2026, 10:25:59 PM  
 **Categories:** -  
 
-Article URL: https://forge.aurochthryx.com Comments URL: https://news.ycombinator.com/item?id=49224184 Points: 1 # Comments: 0
+Article URL: https://therokuchannel.roku.com/details/b484db42f3d31b6dc2f604d453c694a0/fairground-ai-creator-tv Comments URL: https://news.ycombinator.com/item?id=49226480 Points: 3 # Comments: 1
 
-📖 [Read original article](https://forge.aurochthryx.com)
+📖 [Read original article](https://therokuchannel.roku.com/details/b484db42f3d31b6dc2f604d453c694a0/fairground-ai-creator-tv)
 
 ---
 
-## 8. How to Detect AI Slop
+## 8. AI Settles a 25 Year-Old Problem We Left Behind
 
-**Author:** casey2  
-**Published:** 8/8/2026, 5:57:44 PM  
+**Author:** amichail  
+**Published:** 8/8/2026, 10:22:24 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=ORgKY9AlybA Comments URL: https://news.ycombinator.com/item?id=49224168 Points: 1 # Comments: 0
+Article URL: https://twitter.com/DimitrisPapail/status/2086158118354887060 Comments URL: https://news.ycombinator.com/item?id=49226444 Points: 11 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=ORgKY9AlybA)
+📖 [Read original article](https://twitter.com/DimitrisPapail/status/2086158118354887060)
 
 ---
 
-## 9. Award Winning AI Literature
+## 9. AI Music Debate Is Missing Half the Money
 
-**Author:** scarmig  
-**Published:** 8/8/2026, 5:45:52 PM  
+**Author:** samspenc  
+**Published:** 8/8/2026, 9:31:03 PM  
 **Categories:** -  
 
-Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=49224054 Points: 1 # Comments: 0
+Article URL: https://justwordz.medium.com/the-ai-music-debate-is-missing-half-the-money-ffb714924aaa Comments URL: https://news.ycombinator.com/item?id=49226090 Points: 2 # Comments: 0
 
-📖 [Read original article](https://jamesyu.org/award-winning-ai-literature/)
+📖 [Read original article](https://justwordz.medium.com/the-ai-music-debate-is-missing-half-the-money-ffb714924aaa)
 
 ---
 
-## 10. The New Spy Race: For Agentic AI and Quantum Computing Threats
+## 10. Shadow AI is a hidden risk to your business
 
-**Author:** remopulcini  
-**Published:** 8/8/2026, 5:44:27 PM  
+**Author:** devonnull  
+**Published:** 8/8/2026, 9:20:43 PM  
 **Categories:** -  
 
-Article URL: https://www.quantumhorizon.it/inside-the-new-spy-race-how-the-us-china-russia-israel-and-italy-are-gearing-up-for-agentic-ai-and-quantum-computing-threats/ Comments URL: https://news.ycombinator.com/item?id=49224043 Points: 1 # Comments: 0
+Article URL: https://proton.me/business/blog/shadow-ai Comments URL: https://news.ycombinator.com/item?id=49226019 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.quantumhorizon.it/inside-the-new-spy-race-how-the-us-china-russia-israel-and-italy-are-gearing-up-for-agentic-ai-and-quantum-computing-threats/)
+📖 [Read original article](https://proton.me/business/blog/shadow-ai)
 
 ---
 
-## 11. Patchloom – structured file edits for AI agents (CLI and MCP)
+## 11. How to write production-quality code with AI
 
-**Author:** SebTardif  
-**Published:** 8/8/2026, 5:41:39 PM  
+**Author:** Ovid  
+**Published:** 8/8/2026, 8:50:42 PM  
 **Categories:** -  
 
-Article URL: https://github.com/patchloom/patchloom Comments URL: https://news.ycombinator.com/item?id=49224010 Points: 1 # Comments: 0
+Article URL: https://curtispoe.org/paad/ Comments URL: https://news.ycombinator.com/item?id=49225778 Points: 5 # Comments: 2
 
-📖 [Read original article](https://github.com/patchloom/patchloom)
+📖 [Read original article](https://curtispoe.org/paad/)
 
 ---
 
-## 12. I built a tool to deploy small AI apps. Am I solving a real problem?
+## 12. YouTube Mistakenly Penalizes Kurzgesagt for AI-Generated Slop
 
-**Author:** rishisharan  
-**Published:** 8/8/2026, 5:16:46 PM  
+**Author:** guilamu  
+**Published:** 8/8/2026, 8:47:57 PM  
 **Categories:** -  
 
-I built a tool that deploys small AI apps from GitHub without needing AWS or keeping your laptop running. Before I spend more time on it, I'm curious—how are you all deploying apps that only a few people use? Is this a real pain point for you? Comments URL: https://news.ycombinator.com/item?id=49223...
+Article URL: https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702 Comments URL: https://news.ycombinator.com/item?id=49225764 Points: 16 # Comments: 3
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49223750)
+📖 [Read original article](https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702)
 
 ---
 
-## 13. Show HN: Image generation API using AI
+## 13. Instagram's AI Rewards Human Attention
 
-**Author:** developeron29  
-**Published:** 8/8/2026, 5:10:52 PM  
+**Author:** ashurandi  
+**Published:** 8/8/2026, 8:47:49 PM  
 **Categories:** -  
 
-Article URL: https://imageapiai.com Comments URL: https://news.ycombinator.com/item?id=49223692 Points: 1 # Comments: 0
+Article URL: https://ai-updates.net/instagram-ai-human-attention-content/ Comments URL: https://news.ycombinator.com/item?id=49225763 Points: 2 # Comments: 0
 
-📖 [Read original article](https://imageapiai.com)
+📖 [Read original article](https://ai-updates.net/instagram-ai-human-attention-content/)
 
 ---
 
-## 14. AI Layoffs at Oracle, Amazon, and Cloudflare All Have One Thing in Common
+## 14. One of China's Most Powerful AI Models Has Also Escaped Containment
 
-**Author:** speckx  
-**Published:** 8/8/2026, 4:56:16 PM  
+**Author:** gpi  
+**Published:** 8/8/2026, 8:36:33 PM  
 **Categories:** -  
 
-Article URL: https://www.inc.com/scott-hutcheson/ai-layoffs-amazon-cloudflare/91386604 Comments URL: https://news.ycombinator.com/item?id=49223549 Points: 3 # Comments: 0
+Article URL: https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/ Comments URL: https://news.ycombinator.com/item?id=49225668 Points: 3 # Comments: 3
 
-📖 [Read original article](https://www.inc.com/scott-hutcheson/ai-layoffs-amazon-cloudflare/91386604)
+📖 [Read original article](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)
 
 ---
 
-## 15. AMD Instinct Coder Puts 8 MI325X GPUs Behind Local AI Coding, Claiming 70% Lower
+## 15. AI-written pieces that have won literary awards
 
-**Author:** peter_d_sherman  
-**Published:** 8/8/2026, 4:52:44 PM  
+**Author:** paulpauper  
+**Published:** 8/8/2026, 8:33:21 PM  
 **Categories:** -  
 
-Article URL: https://www.storagereview.com/news/amd-instinct-coder-puts-8-mi325x-gpus-behind-local-ai-coding-claiming-70-lower-token-costs Comments URL: https://news.ycombinator.com/item?id=49223512 Points: 3 # Comments: 0
+Article URL: https://twitter.com/jamesjyu/status/2085335285726900646 Comments URL: https://news.ycombinator.com/item?id=49225635 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.storagereview.com/news/amd-instinct-coder-puts-8-mi325x-gpus-behind-local-ai-coding-claiming-70-lower-token-costs)
+📖 [Read original article](https://twitter.com/jamesjyu/status/2085335285726900646)
 
 ---
 
-## 16. Why every AI model tells Japanese voters to vote for the Communist Party
+## 16. Kam remake (knights and merchants remake) Pascal into WASM on the web by AI
 
-**Author:** tosh  
-**Published:** 8/8/2026, 4:37:00 PM  
+**Author:** yohimik  
+**Published:** 8/8/2026, 8:31:51 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/MTSlive/status/2085842125464457722 Comments URL: https://news.ycombinator.com/item?id=49223376 Points: 4 # Comments: 0
+Article URL: https://yohimik.github.io/kam_remake/ Comments URL: https://news.ycombinator.com/item?id=49225624 Points: 1 # Comments: 1
 
-📖 [Read original article](https://twitter.com/MTSlive/status/2085842125464457722)
-
----
-
-## 17. An AI-powered iOS app for real-time fencing analysis (tracking/skeletons)
-
-**Author:** vortex5566  
-**Published:** 8/8/2026, 4:33:35 PM  
-**Categories:** -  
-
-Article URL: https://apps.apple.com/us/app/fencingvision-ai-coach/id6794765462 Comments URL: https://news.ycombinator.com/item?id=49223335 Points: 2 # Comments: 0
-
-📖 [Read original article](https://apps.apple.com/us/app/fencingvision-ai-coach/id6794765462)
-
----
-
-## 18. AI alignment is a red herring
-
-**Author:** peteforde  
-**Published:** 8/8/2026, 4:32:53 PM  
-**Categories:** -  
-
-Article URL: https://interconnected.org/home/2026/08/08/alignment Comments URL: https://news.ycombinator.com/item?id=49223330 Points: 2 # Comments: 0
-
-📖 [Read original article](https://interconnected.org/home/2026/08/08/alignment)
-
----
-
-## 19. Offline AI Search Engine
-
-**Author:** wazzup_im  
-**Published:** 8/8/2026, 4:25:40 PM  
-**Categories:** -  
-
-Article URL: https://www.wazzup.im Comments URL: https://news.ycombinator.com/item?id=49223271 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.wazzup.im)
-
----
-
-## 20. How AI Layoffs Can Trigger an Economic Spiral
-
-**Author:** khanhnguyen8386  
-**Published:** 8/8/2026, 4:20:58 PM  
-**Categories:** -  
-
-Article URL: https://bytepith.com/article/how-ai-layoffs-trigger-economic-spiral Comments URL: https://news.ycombinator.com/item?id=49223221 Points: 3 # Comments: 0
-
-📖 [Read original article](https://bytepith.com/article/how-ai-layoffs-trigger-economic-spiral)
+📖 [Read original article](https://yohimik.github.io/kam_remake/)
 
 ---
