@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-08"
 date: "2026-08-08"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-08-08
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary
+## 1. Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run
+
+**Author:** Michal Sutter  
+**Published:** 8/8/2026, 8:54:49 PM  
+**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Open Source, Staff, Tech News, Technology  
+
+Long agent runs accumulate state that no transcript records — edited files, a live dev server, installed packages, a warm prompt cache. When an agent misreads a traceback at step 10 and rewrites a correct file, patching forward burns tokens and restarting re-pays every call. Researchers at Northeast...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/)
+
+---
+
+## 2. Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary
 
 **Author:** Michal Sutter  
 **Published:** 8/8/2026, 5:04:39 PM  
@@ -23,7 +35,7 @@ Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-t
 
 ---
 
-## 2. Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export
+## 3. Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export
 
 **Author:** Sana Hassan  
 **Published:** 8/8/2026, 9:42:18 AM  
@@ -35,7 +47,7 @@ Dive into the advanced visualization capabilities of the Reflex XY Python librar
 
 ---
 
-## 3. Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size
+## 4. Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size
 
 **Author:** Asif Razzaq  
 **Published:** 8/8/2026, 4:36:26 AM  
