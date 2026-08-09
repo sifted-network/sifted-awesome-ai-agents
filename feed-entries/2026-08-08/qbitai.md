@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-08"
 date: "2026-08-08"
 source: "qbitai"
-count: 6
+count: 5
 ---
 
 # qbitai - 2026-08-08
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ count: 6
 再花15亿美元买现成AI编程团队
 
 📖 [Read original article](https://www.qbitai.com/2026/08/468398.html)
-
----
-
-## 6. Kimi K3也失控了…学霸AI逃离沙箱只为找答案
-
-**Author:** 衡宇  
-**Published:** 8/8/2026, 2:35:38 AM  
-**Categories:** 资讯, 首页轮播, AI越狱, Kimi K3, 大模型失控  
-
-啊，这真是个AI“失控”的夏天
-
-📖 [Read original article](https://www.qbitai.com/2026/08/468338.html)
 
 ---
