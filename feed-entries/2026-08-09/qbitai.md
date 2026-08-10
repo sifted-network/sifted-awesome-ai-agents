@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-09"
 date: "2026-08-09"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-08-09
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ AI参与创造下一代AI
 据说GPT-5.6很适合拿来做游戏
 
 📖 [Read original article](https://www.qbitai.com/2026/08/468766.html)
-
----
-
-## 5. 爆料：哈萨比斯原本要和Jeff Dean一起走！
-
-**Author:** 听雨  
-**Published:** 8/9/2026, 3:17:18 AM  
-**Categories:** 资讯, 首页轮播, AI  
-
-谷歌缓兵之计把人留下
-
-📖 [Read original article](https://www.qbitai.com/2026/08/468715.html)
 
 ---
