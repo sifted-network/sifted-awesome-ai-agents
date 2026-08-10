@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-07"
 date: "2026-08-07"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-08-07
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory 
 In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then ...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/)
-
----
-
-## 3. NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class
-
-**Author:** Asif Razzaq  
-**Published:** 8/7/2026, 8:42:02 PM  
-**Categories:** Agentic AI, AI Infrastructure, AI Paper Summary, Applications, Artificial Intelligence, Editors Pick, Large Language Model, Machine Learning, New Releases, Open Source, Python, Software Engineering, Staff, Tech News, Technology  
-
-NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today is split across prompt templates, tool schemas, callback code, and workflow graphs. NOOA collapses all of it into one Python class. Methods are the act...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/)
 
 ---
