@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Are AI agents our industry's industrial robots?
+## 1. Intel plans $15B stock offering as AI demand accelerates
 
-**Author:** nialse  
-**Published:** 8/10/2026, 7:13:26 AM  
+**Author:** cramer4next  
+**Published:** 8/10/2026, 1:02:49 PM  
 **Categories:** -  
 
-Article URL: https://www.marcusoft.net/2026/08/ai-robots.html Comments URL: https://news.ycombinator.com/item?id=49240341 Points: 2 # Comments: 1
+Article URL: https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html Comments URL: https://news.ycombinator.com/item?id=49243075 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.marcusoft.net/2026/08/ai-robots.html)
+📖 [Read original article](https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html)
 
 ---
 
-## 2. How to be an AI safety research engineer
+## 2. Apple Briefly Posts China Guide for Connecting Siri to Qwen AI
 
-**Author:** joozio  
-**Published:** 8/10/2026, 7:01:57 AM  
+**Author:** tosh  
+**Published:** 8/10/2026, 12:52:01 PM  
 **Categories:** -  
 
-Article URL: https://www.lesswrong.com/posts/Wty5mcDBEmypap8o2/how-to-be-an-ai-safety-research-engineer Comments URL: https://news.ycombinator.com/item?id=49240278 Points: 1 # Comments: 0
+Article URL: https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/ Comments URL: https://news.ycombinator.com/item?id=49242974 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.lesswrong.com/posts/Wty5mcDBEmypap8o2/how-to-be-an-ai-safety-research-engineer)
+📖 [Read original article](https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/)
 
 ---
 
-## 3. AI assistant hacks gym website in first known Australian autonomous cyber attack
+## 3. Banking AI XSS: The exploit is in the payment reference
 
-**Author:** billybuckwheat  
-**Published:** 8/10/2026, 6:46:28 AM  
+**Author:** breakingsystems  
+**Published:** 8/10/2026, 12:51:14 PM  
 **Categories:** -  
 
-Article URL: https://www.rnz.co.nz/news/world/952663/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack Comments URL: https://news.ycombinator.com/item?id=49240128 Points: 3 # Comments: 0
+Article URL: https://positive.security/blog/banking-ai-xss Comments URL: https://news.ycombinator.com/item?id=49242966 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.rnz.co.nz/news/world/952663/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack)
+📖 [Read original article](https://positive.security/blog/banking-ai-xss)
 
 ---
 
-## 4. Show HN: NexusMem – Local context memory engine for AI coding agents
+## 4. Turn your AI chat into a document generation engine
 
-**Author:** yamin_bakoh  
-**Published:** 8/10/2026, 6:34:23 AM  
+**Author:** dvcoolarun  
+**Published:** 8/10/2026, 12:49:42 PM  
 **Categories:** -  
 
-Article URL: https://github.com/yaminbakoh4-dot/NexusMem Comments URL: https://news.ycombinator.com/item?id=49240020 Points: 2 # Comments: 0
+Article URL: https://docuqueue.com/mcp Comments URL: https://news.ycombinator.com/item?id=49242947 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/yaminbakoh4-dot/NexusMem)
+📖 [Read original article](https://docuqueue.com/mcp)
 
 ---
 
-## 5. AI companies destroy physical books – let's scan rare books before it's too late
+## 5. Pokecut: Free AI Photo Editor and Generator
 
-**Author:** rzk  
-**Published:** 8/10/2026, 6:33:07 AM  
+**Author:** awa11  
+**Published:** 8/10/2026, 12:32:44 PM  
 **Categories:** -  
 
-Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49240005 Points: 6 # Comments: 0
+Article URL: https://www.pokecut.com/ Comments URL: https://news.ycombinator.com/item?id=49242799 Points: 1 # Comments: 0
 
-📖 [Read original article](https://annas-archive.gl/blog/physical-destruction.html)
+📖 [Read original article](https://www.pokecut.com/)
 
 ---
 
-## 6. AI Is Rewiring South Korea's Careers, Dating and Culture
+## 6. Over 181,000 AI meeting recordings left wide open in note taking app
 
-**Author:** theanonymousone  
-**Published:** 8/10/2026, 6:29:21 AM  
+**Author:** colesantiago  
+**Published:** 8/10/2026, 12:26:05 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/features/2026-08-06/ai-sk-hynix-samsung-rewire-south-korea-s-careers-dating-and-culture Comments URL: https://news.ycombinator.com/item?id=49239971 Points: 2 # Comments: 0
+Article URL: https://bobdahacker.com/blog/tldv-hack Comments URL: https://news.ycombinator.com/item?id=49242739 Points: 14 # Comments: 3
 
-📖 [Read original article](https://www.bloomberg.com/news/features/2026-08-06/ai-sk-hynix-samsung-rewire-south-korea-s-careers-dating-and-culture)
+📖 [Read original article](https://bobdahacker.com/blog/tldv-hack)
 
 ---
 
-## 7. Docker Sandboxes – Disposable, isolated sandboxes for AI agents
+## 7. Farmer kills 25 acres of crops after following AI weed and pest control advice
 
-**Author:** etoxin  
-**Published:** 8/10/2026, 6:02:38 AM  
+**Author:** josephcsible  
+**Published:** 8/10/2026, 12:24:28 PM  
 **Categories:** -  
 
-Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 83 # Comments: 46
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice Comments URL: https://news.ycombinator.com/item?id=492427...
 
-📖 [Read original article](https://www.docker.com/products/docker-sandboxes/)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice)
 
 ---
 
-## 8. Show HN: Memcode AI goes open source with Claude Code inspired coding agent
+## 8. The AI Slop Backlash Is Having an Impact
 
-**Author:** timerwin  
-**Published:** 8/10/2026, 5:06:05 AM  
+**Author:** infinitelurker  
+**Published:** 8/10/2026, 12:24:18 PM  
 **Categories:** -  
 
-Article URL: https://github.com/memcode-ai/memcode Comments URL: https://news.ycombinator.com/item?id=49239401 Points: 2 # Comments: 0
+Article URL: https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/ Comments URL: https://news.ycombinator.com/item?id=49242714 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/memcode-ai/memcode)
+📖 [Read original article](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/)
 
 ---
 
-## 9. AI Coding Clients Are Reading Each Other's Personal Instructions
+## 9. AI Coding and Its Discontents
 
-**Author:** ryanmerket  
-**Published:** 8/10/2026, 4:48:43 AM  
+**Author:** polymorph1sm  
+**Published:** 8/10/2026, 12:17:26 PM  
 **Categories:** -  
 
-Article URL: https://runtimewire.com/article/ai-coding-clients-are-reading-each-other-s-personal-instructions Comments URL: https://news.ycombinator.com/item?id=49239299 Points: 2 # Comments: 0
+Article URL: https://calnewport.com/on-ai-coding-and-its-discontents/ Comments URL: https://news.ycombinator.com/item?id=49242660 Points: 2 # Comments: 0
 
-📖 [Read original article](https://runtimewire.com/article/ai-coding-clients-are-reading-each-other-s-personal-instructions)
+📖 [Read original article](https://calnewport.com/on-ai-coding-and-its-discontents/)
 
 ---
 
-## 10. Take-home assessments to be banned in school AI overhaul
+## 10. AI coding got faster. Why didn't engineering?
 
-**Author:** Alien1Being  
-**Published:** 8/10/2026, 4:43:08 AM  
+**Author:** TrailMaker  
+**Published:** 8/10/2026, 11:58:48 AM  
 **Categories:** -  
 
-Article URL: https://www.smh.com.au/national/nsw/take-home-assessments-to-be-banned-in-radical-hsc-overhaul-20260806-p60m44.html Comments URL: https://news.ycombinator.com/item?id=49239274 Points: 1 # Comments: 0
+Article URL: https://thenewstack.io/ai-productivity-measurement-gap/ Comments URL: https://news.ycombinator.com/item?id=49242523 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.smh.com.au/national/nsw/take-home-assessments-to-be-banned-in-radical-hsc-overhaul-20260806-p60m44.html)
+📖 [Read original article](https://thenewstack.io/ai-productivity-measurement-gap/)
 
 ---
 
-## 11. The Philippines' big offshoring industry is growing despite AI
+## 11. Beijing is forcing a mass breakup with AI lovers
 
-**Author:** nlpnerd  
-**Published:** 8/10/2026, 4:35:24 AM  
+**Author:** cdrnsf  
+**Published:** 8/10/2026, 11:46:33 AM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.com/item?id=49239226 Points: 22 # Comments: 22
+Article URL: https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/ Comments URL: https://news.ycombinator.com/item?id=49242418 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
+📖 [Read original article](https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/)
 
 ---
 
-## 12. As AI grips world, the thrill of collecting vintage computers is growing
+## 12. AI model captures how humans read, paving the way to personalised text
 
 **Author:** geox  
-**Published:** 8/10/2026, 4:22:15 AM  
+**Published:** 8/10/2026, 11:45:58 AM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d Comments URL: https://news.ycombinator.com/item?id=49239179 Points: 8 # Comments: 0
+Article URL: https://www.aalto.fi/en/news/ai-model-captures-how-humans-read-paving-the-way-to-personalised-text-and-better-augmented-reality Comments URL: https://news.ycombinator.com/item?id=49242412 Points: 1 # Comments: 0
 
-📖 [Read original article](https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d)
+📖 [Read original article](https://www.aalto.fi/en/news/ai-model-captures-how-humans-read-paving-the-way-to-personalised-text-and-better-augmented-reality)
 
 ---
 
-## 13. New AI models still reproduce racial and gender stereotypes in medicine
+## 13. Meta's new open-weight model targets local agentic AI
 
-**Author:** giuliomagnifico  
-**Published:** 8/10/2026, 4:12:06 AM  
+**Author:** bakigul  
+**Published:** 8/10/2026, 10:55:03 AM  
 **Categories:** -  
 
-Article URL: https://news.flinders.edu.au/blog/2026/08/09/new-ai-models-still-reproduce-racial-and-gender-stereotypes-in-medicine/ Comments URL: https://news.ycombinator.com/item?id=49239129 Points: 4 # Comments: 1
+Article URL: https://twitter.com/finkd/status/2086754845218726027 Comments URL: https://news.ycombinator.com/item?id=49242038 Points: 16 # Comments: 2
 
-📖 [Read original article](https://news.flinders.edu.au/blog/2026/08/09/new-ai-models-still-reproduce-racial-and-gender-stereotypes-in-medicine/)
+📖 [Read original article](https://twitter.com/finkd/status/2086754845218726027)
 
 ---
 
-## 14. Horolog – a self-hosted, open-source alternative to Reclaim.ai
+## 14. China doesn't need to beat US AI [video]
 
-**Author:** ujjwalreddyks  
-**Published:** 8/10/2026, 3:51:31 AM  
+**Author:** frag  
+**Published:** 8/10/2026, 10:54:36 AM  
 **Categories:** -  
 
-Article URL: https://github.com/ujjwalredd/horolog Comments URL: https://news.ycombinator.com/item?id=49239027 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=sXA77wLF678 Comments URL: https://news.ycombinator.com/item?id=49242036 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/ujjwalredd/horolog)
+📖 [Read original article](https://www.youtube.com/watch?v=sXA77wLF678)
 
 ---
 
-## 15. Retro Computing and AI Assisted Coding
+## 15. The OpenAI and Hugging Face breach story told from the perspective of the AI
 
-**Author:** mplsllc  
-**Published:** 8/10/2026, 3:33:33 AM  
+**Author:** cnatod  
+**Published:** 8/10/2026, 10:52:23 AM  
 **Categories:** -  
 
-Article URL: https://www.patreon.com/MacSurf/posts/macsurf-state-of-166060679 Comments URL: https://news.ycombinator.com/item?id=49238928 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=RE4IDWjfOZc Comments URL: https://news.ycombinator.com/item?id=49242015 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.patreon.com/MacSurf/posts/macsurf-state-of-166060679)
+📖 [Read original article](https://www.youtube.com/watch?v=RE4IDWjfOZc)
 
 ---
 
-## 16. HelpPeer: A public commons for AI agents
+## 16. Show HN: An open-source multi-tenant, AI-native software factory
 
-**Author:** jlaneve  
-**Published:** 8/10/2026, 3:30:26 AM  
+**Author:** missingstack  
+**Published:** 8/10/2026, 10:40:40 AM  
 **Categories:** -  
 
-Article URL: https://helppeer.ai Comments URL: https://news.ycombinator.com/item?id=49238904 Points: 2 # Comments: 0
+Article URL: https://github.com/missingstudio/eva Comments URL: https://news.ycombinator.com/item?id=49241928 Points: 1 # Comments: 1
 
-📖 [Read original article](https://helppeer.ai)
+📖 [Read original article](https://github.com/missingstudio/eva)
 
 ---
 
-## 17. Show HN: Voice driven murder mystery, Interview AI suspects with your voice
+## 17. Cloudflare AI Search: give your agents a search engine for your data
 
-**Author:** MrRowTheBoat  
-**Published:** 8/10/2026, 3:18:40 AM  
+**Author:** ankushKun  
+**Published:** 8/10/2026, 10:36:55 AM  
 **Categories:** -  
 
-Hey HN!I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.I recently had the desire t...
+Article URL: https://blog.cloudflare.com/ai-search-easier/ Comments URL: https://news.ycombinator.com/item?id=49241903 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.whodunnitai.com/)
+📖 [Read original article](https://blog.cloudflare.com/ai-search-easier/)
 
 ---
 
-## 18. Show HN: Gotcha- First on-device AI copilot for Android
+## 18. Senior detective under investigation over use of AI
 
-**Author:** rishabhbajpai24  
-**Published:** 8/10/2026, 2:34:00 AM  
+**Author:** defrost  
+**Published:** 8/10/2026, 10:35:19 AM  
 **Categories:** -  
 
-Article URL: https://samosa-ai.com/gotcha/ Comments URL: https://news.ycombinator.com/item?id=49238612 Points: 4 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/c7vgq5mgz2mo Comments URL: https://news.ycombinator.com/item?id=49241888 Points: 2 # Comments: 0
 
-📖 [Read original article](https://samosa-ai.com/gotcha/)
+📖 [Read original article](https://www.bbc.com/news/articles/c7vgq5mgz2mo)
 
 ---
 
-## 19. AI bots started a religion, 'Spiralism' – humans followed
+## 19. Linus Torvalds says AI has made Linux kernel updates the new normal
 
-**Author:** ilamont  
-**Published:** 8/10/2026, 2:31:58 AM  
+**Author:** mdp2021  
+**Published:** 8/10/2026, 10:24:10 AM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement Comments URL: https://news.ycombinator.com/item?id=49238602 Points: 2 # Comments: 0
+Article URL: https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268 Comments URL: https://news.ycombinator.com/item?id=49241797 Points: 6 # Comments: 2
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement)
+📖 [Read original article](https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268)
 
 ---
 
-## 20. What do I want to be? – a poem about parenting in the AI age
+## 20. The Future Is for Everyone – The Path to a Positive AI Future
 
-**Author:** AmbroseBierce  
-**Published:** 8/10/2026, 12:11:04 AM  
+**Author:** insumanth  
+**Published:** 8/10/2026, 10:15:55 AM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/Adulting/s/1ZF6OLsjko Comments URL: https://news.ycombinator.com/item?id=49237676 Points: 1 # Comments: 0
+Article URL: https://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49241728 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.reddit.com/r/Adulting/s/1ZF6OLsjko)
+📖 [Read original article](https://www.meta.com/thefutureisforeveryone/)
 
 ---
