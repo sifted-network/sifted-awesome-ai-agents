@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-07"
 date: "2026-08-07"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-08-07
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ In this tutorial, we build an advanced multimodal retrieval-augmented generation
 NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today is split across prompt templates, tool schemas, callback code, and workflow graphs. NOOA collapses all of it into one Python class. Methods are the act...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/)
-
----
-
-## 4. Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot
-
-**Author:** Michal Sutter  
-**Published:** 8/7/2026, 5:42:45 AM  
-**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Model Context Protocol, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
-
-Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a repository before writing anything — detecting the language, test framework, existing conventions, and the real build and test commands — then plans, writes...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/)
 
 ---
