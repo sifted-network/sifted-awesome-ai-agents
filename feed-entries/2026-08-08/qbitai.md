@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-08"
 date: "2026-08-08"
 source: "qbitai"
-count: 5
+count: 3
 ---
 
 # qbitai - 2026-08-08
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ count: 5
 「我，Jeff Dean，打钱」
 
 📖 [Read original article](https://www.qbitai.com/2026/08/468498.html)
-
----
-
-## 4. 都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙
-
-**Author:** Jay  
-**Published:** 8/8/2026, 4:33:53 AM  
-**Categories:** 资讯, OpenAI  
-
-唉，赶紧整完快点发布吧。。。
-
-📖 [Read original article](https://www.qbitai.com/2026/08/468462.html)
-
----
-
-## 5. 谷歌急了：AI核心员工全给我搬回硅谷坐班！
-
-**Author:** 衡宇  
-**Published:** 8/8/2026, 2:45:02 AM  
-**Categories:** 资讯, AI编程, 大模型竞赛, 谷歌  
-
-再花15亿美元买现成AI编程团队
-
-📖 [Read original article](https://www.qbitai.com/2026/08/468398.html)
 
 ---
