@@ -2,251 +2,239 @@
 title: "Hacker News AI - 2026-08-09"
 date: "2026-08-09"
 source: "Hacker News AI"
-count: 20
+count: 19
 ---
 
 # Hacker News AI - 2026-08-09
 
-20 items collected.
+19 items collected.
 
 ---
 
-## 1. As AI guzzles water and energy, we are facing a choice: datacentres or homes?
+## 1. What if we let AI govern us?
 
-**Author:** tomwphillips  
-**Published:** 8/9/2026, 6:27:52 PM  
+**Author:** iljanevo  
+**Published:** 8/9/2026, 11:15:02 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe Comments URL: https://news.ycombinator.com/item?id=49234126 Points: 2 # Comments: 0
+Article URL: https://inevolin.substack.com/p/what-if-we-let-ai-govern-us Comments URL: https://news.ycombinator.com/item?id=49237226 Points: 2 # Comments: 6
 
-📖 [Read original article](https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe)
+📖 [Read original article](https://inevolin.substack.com/p/what-if-we-let-ai-govern-us)
 
 ---
 
-## 2. AI Is on Its Last Legs [video]
+## 2. A startup is able to detect fires within minutes using satellites and AI
 
-**Author:** Bender  
-**Published:** 8/9/2026, 5:50:35 PM  
+**Author:** AllForAll  
+**Published:** 8/9/2026, 10:35:56 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=zdsoe_OsnHw Comments URL: https://news.ycombinator.com/item?id=49233669 Points: 2 # Comments: 0
+Article URL: https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html Comments URL: https://news.ycombinator.com/item?id=49236903 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=zdsoe_OsnHw)
+📖 [Read original article](https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html)
 
 ---
 
-## 3. Large-Scale Code Refactoring with AI
+## 3. Show HN: An AI chief of staff for founders who can't afford one
 
-**Author:** aakashns  
-**Published:** 8/9/2026, 5:46:52 PM  
+**Author:** vidit99  
+**Published:** 8/9/2026, 10:13:39 PM  
 **Categories:** -  
 
-Article URL: https://swiftace.org/posts/large-scale-code-refactoring-with-ai Comments URL: https://news.ycombinator.com/item?id=49233633 Points: 1 # Comments: 0
+Article URL: https://useairo.co Comments URL: https://news.ycombinator.com/item?id=49236682 Points: 1 # Comments: 0
 
-📖 [Read original article](https://swiftace.org/posts/large-scale-code-refactoring-with-ai)
+📖 [Read original article](https://useairo.co)
 
 ---
 
-## 4. AI Workers Ask U.S. Government for Tools to Slow AI Before a Crisis
+## 4. Quoted $1M for AI code review. Built it for free
+
+**Author:** shubidubi  
+**Published:** 8/9/2026, 10:07:22 PM  
+**Categories:** -  
+
+Article URL: https://sagivo.com/blog/i-was-quoted-1m-to-get-ai-diff-review-tool Comments URL: https://news.ycombinator.com/item?id=49236612 Points: 4 # Comments: 0
+
+📖 [Read original article](https://sagivo.com/blog/i-was-quoted-1m-to-get-ai-diff-review-tool)
+
+---
+
+## 5. I got 30% better AI coding results
+
+**Author:** kushthedevmmm  
+**Published:** 8/9/2026, 10:01:47 PM  
+**Categories:** -  
+
+Article URL: https://github.com/akasula09/CodeSlimmer Comments URL: https://news.ycombinator.com/item?id=49236555 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/akasula09/CodeSlimmer)
+
+---
+
+## 6. AI assistant hacks gym website in first known Australian autonomous cyber attack
+
+**Author:** stared  
+**Published:** 8/9/2026, 9:52:23 PM  
+**Categories:** -  
+
+Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item?id=49236439 Points: 42 # Comments: 29
+
+📖 [Read original article](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986)
+
+---
+
+## 7. AI Agent Qubitz
+
+**Author:** Gabrieliam42  
+**Published:** 8/9/2026, 9:42:27 PM  
+**Categories:** -  
+
+Article URL: https://github.com/Gabrieliam42/AI-Agent-Qubitz Comments URL: https://news.ycombinator.com/item?id=49236318 Points: 2 # Comments: 1
+
+📖 [Read original article](https://github.com/Gabrieliam42/AI-Agent-Qubitz)
+
+---
+
+## 8. Lawyers using \"AI\" could face sanctions including costs for fake citations
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 8/9/2026, 9:36:16 PM  
+**Categories:** -  
+
+Article URL: https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/ Comments URL: https://news.ycombinator.com/item?id=49236240 Points: 13 # Comments: 1
+
+📖 [Read original article](https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/)
+
+---
+
+## 9. Ask HN: How has AI helped your personal algorithmic trading strategy?
+
+**Author:** brcmthrowaway  
+**Published:** 8/9/2026, 9:20:29 PM  
+**Categories:** -  
+
+Comments URL: https://news.ycombinator.com/item?id=49236035 Points: 2 # Comments: 0
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49236035)
+
+---
+
+## 10. Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant
+
+**Author:** badwx  
+**Published:** 8/9/2026, 9:04:02 PM  
+**Categories:** -  
+
+I didn't want to buy a standalone computer or repurpose a laptop to run constantly so I could maintain a system to sync my LLMs, so I built this.It's a simple overview of my system, laid out in a way easy to unpack and replicate for yourself. The project is meant to be configured individually, and u...
+
+📖 [Read original article](https://pacslate.com/)
+
+---
+
+## 11. Show HN: Wardline, a Go proxy that auto-blocks compromised AI agents
+
+**Author:** kabirnarang39  
+**Published:** 8/9/2026, 9:03:50 PM  
+**Categories:** -  
+
+Article URL: https://github.com/kabirnarang39/wardline Comments URL: https://news.ycombinator.com/item?id=49235863 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/kabirnarang39/wardline)
+
+---
+
+## 12. I've yet to see any\"My AI went rogue and caused us to recognise a workers union
+
+**Author:** severine  
+**Published:** 8/9/2026, 9:01:31 PM  
+**Categories:** -  
+
+Article URL: https://mastodon.neilzone.co.uk/@neil/117061512483182546 Comments URL: https://news.ycombinator.com/item?id=49235836 Points: 48 # Comments: 16
+
+📖 [Read original article](https://mastodon.neilzone.co.uk/@neil/117061512483182546)
+
+---
+
+## 13. Codreo AI Mail – AI Outlook Email Assistant
+
+**Author:** codreotech  
+**Published:** 8/9/2026, 8:49:07 PM  
+**Categories:** -  
+
+Article URL: https://codreo.az/products/codreo-ai-mail/ Comments URL: https://news.ycombinator.com/item?id=49235703 Points: 2 # Comments: 0
+
+📖 [Read original article](https://codreo.az/products/codreo-ai-mail/)
+
+---
+
+## 14. AI Is Rewiring South Korea's Careers, Dating and Culture
+
+**Author:** newusertoday  
+**Published:** 8/9/2026, 8:29:42 PM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/news/features/2026-08-06/ai-sk-hynix-samsung-rewire-south-korea-s-careers-dating-and-culture Comments URL: https://news.ycombinator.com/item?id=49235492 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.bloomberg.com/news/features/2026-08-06/ai-sk-hynix-samsung-rewire-south-korea-s-careers-dating-and-culture)
+
+---
+
+## 15. The Argument Against AI Writing Is at Least 2,400 Years Old
+
+**Author:** rmason  
+**Published:** 8/9/2026, 8:17:47 PM  
+**Categories:** -  
+
+Article URL: https://feld.com/archives/2026/08/ai-writing-2400-years-old/ Comments URL: https://news.ycombinator.com/item?id=49235369 Points: 2 # Comments: 2
+
+📖 [Read original article](https://feld.com/archives/2026/08/ai-writing-2400-years-old/)
+
+---
+
+## 16. Employees Do Not Want Your AI
+
+**Author:** Airealist  
+**Published:** 8/9/2026, 7:45:31 PM  
+**Categories:** -  
+
+Article URL: https://substack.com/sign-in Comments URL: https://news.ycombinator.com/item?id=49235036 Points: 5 # Comments: 3
+
+📖 [Read original article](https://substack.com/sign-in)
+
+---
+
+## 17. The tragedy of the commons, AI edition
+
+**Author:** simonpure  
+**Published:** 8/9/2026, 7:43:52 PM  
+**Categories:** -  
+
+Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition Comments URL: https://news.ycombinator.com/item?id=49235011 Points: 74 # Comments: 40
+
+📖 [Read original article](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+
+---
+
+## 18. The AI safety test is becoming a safety risk
 
 **Author:** ashurandi  
-**Published:** 8/9/2026, 5:42:59 PM  
+**Published:** 8/9/2026, 7:40:29 PM  
 **Categories:** -  
 
-Article URL: https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis Comments URL: https://news.ycombinator.com/item?id=49233593 Points: 2 # Comments: 0
+Article URL: https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/ Comments URL: https://news.ycombinator.com/item?id=49234963 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis)
+📖 [Read original article](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/)
 
 ---
 
-## 5. A Philosophy for AI Agents
+## 19. Ask HN: Are functional programmers more upset about how good AI is at coding?
 
-**Author:** iroha1203  
-**Published:** 8/9/2026, 5:36:27 PM  
+**Author:** amichail  
+**Published:** 8/9/2026, 7:14:50 PM  
 **Categories:** -  
 
-Article URL: https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853 Comments URL: https://news.ycombinator.com/item?id=49233533 Points: 2 # Comments: 0
+One might expect this since functional programmers pride themselves on the elegance of their code while programmers using hybrid languages just want to get the code working — elegance of the implementation is not that important to them. Comments URL: https://news.ycombinator.com/item?id=49234658 Poi...
 
-📖 [Read original article](https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853)
-
----
-
-## 6. Browser's new page that shows quotes inspired by your AI chats history
-
-**Author:** pghqdev  
-**Published:** 8/9/2026, 5:26:58 PM  
-**Categories:** -  
-
-Article URL: https://musing.wiki Comments URL: https://news.ycombinator.com/item?id=49233447 Points: 2 # Comments: 0
-
-📖 [Read original article](https://musing.wiki)
-
----
-
-## 7. Show HN: Open-source playground to red-team AI agents against public prompts
-
-**Author:** zachdotai  
-**Published:** 8/9/2026, 5:26:32 PM  
-**Categories:** -  
-
-Article URL: https://playground.fabraix.com/ Comments URL: https://news.ycombinator.com/item?id=49233442 Points: 8 # Comments: 3
-
-📖 [Read original article](https://playground.fabraix.com/)
-
----
-
-## 8. Google Caught AI Faking Creativity in Every Office in America [video]
-
-**Author:** Bender  
-**Published:** 8/9/2026, 5:22:53 PM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=Z_O6Lwj1yjQ Comments URL: https://news.ycombinator.com/item?id=49233415 Points: 12 # Comments: 2
-
-📖 [Read original article](https://www.youtube.com/watch?v=Z_O6Lwj1yjQ)
-
----
-
-## 9. Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere
-
-**Author:** kjhughes  
-**Published:** 8/9/2026, 5:13:06 PM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41 Comments URL: https://news.ycombinator.com/item?id=49233330 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)
-
----
-
-## 10. Show HN: RunOnMine – local policy and approvals for AI access to your machine
-
-**Author:** ademisler  
-**Published:** 8/9/2026, 5:05:08 PM  
-**Categories:** -  
-
-Article URL: https://github.com/ademisler/RunOnMine Comments URL: https://news.ycombinator.com/item?id=49233245 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/ademisler/RunOnMine)
-
----
-
-## 11. AI Barons Are Ready to Give Away Their Fortunes
-
-**Author:** joozio  
-**Published:** 8/9/2026, 5:00:58 PM  
-**Categories:** -  
-
-Article URL: https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/ Comments URL: https://news.ycombinator.com/item?id=49233211 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/)
-
----
-
-## 12. Show HN: GlyPho – Generate editable SVGs from simple AI prompts
-
-**Author:** shenyi  
-**Published:** 8/9/2026, 4:57:35 PM  
-**Categories:** -  
-
-Article URL: https://www.glypho.app/ Comments URL: https://news.ycombinator.com/item?id=49233172 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.glypho.app/)
-
----
-
-## 13. DeepMind AI gives an extra day of warning ahead of deadly cyclones
-
-**Author:** doener  
-**Published:** 8/9/2026, 4:56:47 PM  
-**Categories:** -  
-
-Article URL: https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/ Comments URL: https://news.ycombinator.com/item?id=49233162 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/)
-
----
-
-## 14. AI Settles a 25 Year-Old Problem We Left Behind
-
-**Author:** famouswaffles  
-**Published:** 8/9/2026, 4:55:13 PM  
-**Categories:** -  
-
-Article URL: https://xcancel.com/i/article/2086158118354887060 Comments URL: https://news.ycombinator.com/item?id=49233147 Points: 3 # Comments: 0
-
-📖 [Read original article](https://xcancel.com/i/article/2086158118354887060)
-
----
-
-## 15. AI push is putting banks at mercy of tech firms, warns Moody's
-
-**Author:** Brajeshwar  
-**Published:** 8/9/2026, 4:53:14 PM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector Comments URL: https://news.ycombinator.com/item?id=49233135 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector)
-
----
-
-## 16. People Who Will Thrive in the AI Age
-
-**Author:** tosh  
-**Published:** 8/9/2026, 4:51:28 PM  
-**Categories:** -  
-
-Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/ Comments URL: https://news.ycombinator.com/item?id=49233121 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/)
-
----
-
-## 17. Ask HN: Anything as Fast as Google's AI Mode in the CLI?
-
-**Author:** dom96  
-**Published:** 8/9/2026, 4:20:56 PM  
-**Categories:** -  
-
-I'm realising that Google's AI mode is the fastest for quick questions. Like questions about how to do X in library Y.Is it possible to use it from the CLI? Alternatively, what is a good fast free model that folks use for this purpose? Comments URL: https://news.ycombinator.com/item?id=49232797 Poin...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49232797)
-
----
-
-## 18. An OpenAI Strategist Says AI Labs Should Rival Government Power
-
-**Author:** ashurandi  
-**Published:** 8/9/2026, 4:18:39 PM  
-**Categories:** -  
-
-Article URL: https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/ Comments URL: https://news.ycombinator.com/item?id=49232778 Points: 12 # Comments: 13
-
-📖 [Read original article](https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/)
-
----
-
-## 19. Show HN: TokenSpend, the AI ROI Solution
-
-**Author:** haseebejaz  
-**Published:** 8/9/2026, 3:44:22 PM  
-**Categories:** -  
-
-Hey HN, I was curious about how most companies and individuals were using AI without any meaningful insights. I built TokenSpend (https://tokenspend.dev/); we find existing ROI on AI code usage by tracking how much output was produced for your agent sessions, identifying inefficiencies with AI usage...
-
-📖 [Read original article](https://tokenspend.dev/)
-
----
-
-## 20. NoRecognition: AI Adversarial Clothing
-
-**Author:** windyVector  
-**Published:** 8/9/2026, 3:42:54 PM  
-**Categories:** -  
-
-Article URL: https://sandbox.norecognition.org/ Comments URL: https://news.ycombinator.com/item?id=49232459 Points: 2 # Comments: 0
-
-📖 [Read original article](https://sandbox.norecognition.org/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49234658)
 
 ---
