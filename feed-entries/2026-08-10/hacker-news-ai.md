@@ -2,251 +2,143 @@
 title: "Hacker News AI - 2026-08-10"
 date: "2026-08-10"
 source: "Hacker News AI"
-count: 20
+count: 11
 ---
 
 # Hacker News AI - 2026-08-10
 
-20 items collected.
+11 items collected.
 
 ---
 
-## 1. Russia bars last anti-war party from election, partly over AI image copyright
+## 1. People don't hate AI because of Zuck. They hate the version TechCrunch sells
 
-**Author:** mrdw  
-**Published:** 8/10/2026, 6:57:21 PM  
+**Author:** ryanmerket  
+**Published:** 8/10/2026, 11:39:53 PM  
 **Categories:** -  
 
-Article URL: https://www.scmp.com/news/world/russia-central-asia/article/3363576/russia-bars-anti-war-party-parliamentary-election Comments URL: https://news.ycombinator.com/item?id=49248078 Points: 1 # Comments: 0
+Article URL: https://runtimewire.com/article/people-don-t-hate-ai-because-of-zuckerberg-they-hate-the-version-techcrunch-sell Comments URL: https://news.ycombinator.com/item?id=49251375 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.scmp.com/news/world/russia-central-asia/article/3363576/russia-bars-anti-war-party-parliamentary-election)
+📖 [Read original article](https://runtimewire.com/article/people-don-t-hate-ai-because-of-zuckerberg-they-hate-the-version-techcrunch-sell)
 
 ---
 
-## 2. Show HN: Lians AI, Token-bounded memory and evidence for AI workflows
+## 2. VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers
 
-**Author:** ebeirne  
-**Published:** 8/10/2026, 6:54:01 PM  
+**Author:** Masama3  
+**Published:** 8/10/2026, 11:29:57 PM  
 **Categories:** -  
 
-we built this for improved memory and reduced token usage for claude code and codex Comments URL: https://news.ycombinator.com/item?id=49248029 Points: 1 # Comments: 0
+Article URL: https://github.com/MaximiH-86/GridPulse_Production_Server Comments URL: https://news.ycombinator.com/item?id=49251282 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Lians-ai/Lians)
+📖 [Read original article](https://github.com/MaximiH-86/GridPulse_Production_Server)
 
 ---
 
-## 3. Why are we choosing AI for just repetitive jobs?
+## 3. Text AI watermarks will always be trivial to remove
 
-**Author:** ozymand  
-**Published:** 8/10/2026, 6:51:14 PM  
+**Author:** gfysfm  
+**Published:** 8/10/2026, 11:12:00 PM  
 **Categories:** -  
 
-why arent we using it to improve workflows? the design of workflows and not just the repetitive steps Comments URL: https://news.ycombinator.com/item?id=49248002 Points: 1 # Comments: 0
+Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49251153 Points: 4 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49248002)
+📖 [Read original article](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
-## 4. Scoping and curating AI eval datasets
+## 4. Wanno – AI builder, cloud agent and infra for your apps
 
-**Author:** annabellschaf  
-**Published:** 8/10/2026, 6:48:13 PM  
+**Author:** federiconbo  
+**Published:** 8/10/2026, 11:11:58 PM  
 **Categories:** -  
 
-Article URL: https://langfuse.com/academy/datasets/designing-great-datasets Comments URL: https://news.ycombinator.com/item?id=49247965 Points: 2 # Comments: 0
+Article URL: https://wanno.dev/ Comments URL: https://news.ycombinator.com/item?id=49251152 Points: 1 # Comments: 0
 
-📖 [Read original article](https://langfuse.com/academy/datasets/designing-great-datasets)
+📖 [Read original article](https://wanno.dev/)
 
 ---
 
-## 5. AI Interviews Are Moving Hiring into the Middle of the Night
+## 5. Show HN: AI-powered App Store replies that sound like you
 
-**Author:** ashurandi  
-**Published:** 8/10/2026, 6:43:34 PM  
+**Author:** wowinter15  
+**Published:** 8/10/2026, 11:03:36 PM  
 **Categories:** -  
 
-Article URL: https://ai-updates.net/ai-interviews-moving-hiring-middle-night/ Comments URL: https://news.ycombinator.com/item?id=49247903 Points: 1 # Comments: 1
+Article URL: https://www.replyargus.com Comments URL: https://news.ycombinator.com/item?id=49251080 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ai-updates.net/ai-interviews-moving-hiring-middle-night/)
+📖 [Read original article](https://www.replyargus.com)
 
 ---
 
-## 6. Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI
+## 6. Bernie Sanders calls for AI development pause
 
-**Author:** ChrisArchitect  
-**Published:** 8/10/2026, 6:35:50 PM  
+**Author:** reasonableklout  
+**Published:** 8/10/2026, 10:35:23 PM  
 **Categories:** -  
 
-Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/ Comments URL: https://news.ycombinator.com/item?id=49247815 Points: 3 # Comments: 0
+Article URL: https://www.axios.com/2026/08/10/sanders-ai-development-pause Comments URL: https://news.ycombinator.com/item?id=49250822 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/)
+📖 [Read original article](https://www.axios.com/2026/08/10/sanders-ai-development-pause)
 
 ---
 
-## 7. AIUC-1: The standard for AI agent security, safety and reliability
+## 7. Catholic expert: \"Security issues show AI needs greater human oversight\"
 
-**Author:** flyaway123  
-**Published:** 8/10/2026, 6:05:05 PM  
+**Author:** supportm  
+**Published:** 8/10/2026, 10:24:18 PM  
 **Categories:** -  
 
-Article URL: https://www.aiuc-1.com/ Comments URL: https://news.ycombinator.com/item?id=49247374 Points: 1 # Comments: 0
+Article URL: https://www.detroitcatholic.com/news/security-issues-show-ai-needs-greater-human-oversight-say-catholic-experts Comments URL: https://news.ycombinator.com/item?id=49250691 Points: 5 # Comments: 4
 
-📖 [Read original article](https://www.aiuc-1.com/)
+📖 [Read original article](https://www.detroitcatholic.com/news/security-issues-show-ai-needs-greater-human-oversight-say-catholic-experts)
 
 ---
 
-## 8. AI didn't break open source. It removed a filter nobody designed
+## 8. Nvidia AI Factory Compute Is Becoming an Investable Asset Class
 
-**Author:** XaviDev  
-**Published:** 8/10/2026, 6:04:24 PM  
+**Author:** jawiggins  
+**Published:** 8/10/2026, 10:20:21 PM  
 **Categories:** -  
 
-Article URL: https://erickxdev.vercel.app/en/blog/ai-didnt-break-open-source/ Comments URL: https://news.ycombinator.com/item?id=49247364 Points: 1 # Comments: 0
+Article URL: https://twitter.com/JensenHuang/status/2086934705207959965 Comments URL: https://news.ycombinator.com/item?id=49250636 Points: 4 # Comments: 0
 
-📖 [Read original article](https://erickxdev.vercel.app/en/blog/ai-didnt-break-open-source/)
+📖 [Read original article](https://twitter.com/JensenHuang/status/2086934705207959965)
 
 ---
 
-## 9. We Deleted Every Disk in Our AI Agent Fleet
+## 9. Wall Street giants partner with Nvidia on $500B AI financing deal
 
-**Author:** naveensky  
-**Published:** 8/10/2026, 5:52:34 PM  
+**Author:** aanet  
+**Published:** 8/10/2026, 10:14:44 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@naveensky/why-we-deleted-every-disk-in-our-ai-agent-fleet-hint-object-storage-9ba99b3e6ad8 Comments URL: https://news.ycombinator.com/item?id=49247230 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348 Comments URL: https://news.ycombinator.com/item?id=49250558 Points: 5 # Comments: 4
 
-📖 [Read original article](https://medium.com/@naveensky/why-we-deleted-every-disk-in-our-ai-agent-fleet-hint-object-storage-9ba99b3e6ad8)
+📖 [Read original article](https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348)
 
 ---
 
-## 10. Hi HN Rune – A software intelligence runtime for AI coding assistants
+## 10. Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status
 
-**Author:** malixp  
-**Published:** 8/10/2026, 5:39:22 PM  
+**Author:** leog_me  
+**Published:** 8/10/2026, 10:07:41 PM  
 **Categories:** -  
 
-Article URL: https://github.com/thecolourfoundation/rune Comments URL: https://news.ycombinator.com/item?id=49247037 Points: 1 # Comments: 0
+Hi HN!I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There's a hardware gadget I liked (called SidePulse.io) so before waiting to get my shipment I built the software version instead :DI h...
 
-📖 [Read original article](https://github.com/thecolourfoundation/rune)
+📖 [Read original article](https://github.com/leog/ai-pulse)
 
 ---
 
-## 11. AI Boot Camps Surge as Workers Race to Learn New Skills
+## 11. AI framework rooted in cognitive science could complete tasks more efficiently
 
-**Author:** petethomas  
-**Published:** 8/10/2026, 5:36:16 PM  
+**Author:** 1659447091  
+**Published:** 8/10/2026, 10:04:39 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-08-08/ai-training-boom-sends-colleges-racing-to-offer-credentials Comments URL: https://news.ycombinator.com/item?id=49246993 Points: 6 # Comments: 0
+Article URL: https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html Comments URL: https://news.ycombinator.com/item?id=49250440 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-08/ai-training-boom-sends-colleges-racing-to-offer-credentials)
-
----
-
-## 12. Cloudflare Tools Secure Autonomous AI Payments
-
-**Author:** ashurandi  
-**Published:** 8/10/2026, 5:34:54 PM  
-**Categories:** -  
-
-Article URL: https://aimagazine.com/news/how-cloudflare-tools-secure-autonomous-ai-payments Comments URL: https://news.ycombinator.com/item?id=49246977 Points: 1 # Comments: 0
-
-📖 [Read original article](https://aimagazine.com/news/how-cloudflare-tools-secure-autonomous-ai-payments)
-
----
-
-## 13. ByteDance: Are Chinese AI Models Catching Up to the US?
-
-**Author:** ashurandi  
-**Published:** 8/10/2026, 5:18:45 PM  
-**Categories:** -  
-
-Article URL: https://aimagazine.com/news/bytedance-are-chinese-ai-models-catching-up-to-the-us Comments URL: https://news.ycombinator.com/item?id=49246761 Points: 2 # Comments: 0
-
-📖 [Read original article](https://aimagazine.com/news/bytedance-are-chinese-ai-models-catching-up-to-the-us)
-
----
-
-## 14. AI Coding Tools Pricing Comparison 2026: All 11 Tools Side by Side
-
-**Author:** dxs  
-**Published:** 8/10/2026, 5:17:42 PM  
-**Categories:** -  
-
-Article URL: https://devtoolsreview.com/pricing/ai-coding-tools-pricing-comparison/ Comments URL: https://news.ycombinator.com/item?id=49246743 Points: 1 # Comments: 1
-
-📖 [Read original article](https://devtoolsreview.com/pricing/ai-coding-tools-pricing-comparison/)
-
----
-
-## 15. Show HN: Minus – chrome extension local AI ad blocker
-
-**Author:** NickySlicks  
-**Published:** 8/10/2026, 5:16:14 PM  
-**Categories:** -  
-
-Article URL: https://github.com/garagehq/Minus-chrome-extension Comments URL: https://news.ycombinator.com/item?id=49246731 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/garagehq/Minus-chrome-extension)
-
----
-
-## 16. Zuckerberg Posts 6,500-Word Essay About Giving Everyone AI Superintelligence
-
-**Author:** cdrnsf  
-**Published:** 8/10/2026, 5:15:20 PM  
-**Categories:** -  
-
-Article URL: https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/ Comments URL: https://news.ycombinator.com/item?id=49246721 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.404media.co/mark-zuckerberg-posts-deranged-6-500-word-essay-about-giving-everyone-ai-superintelligence/)
-
----
-
-## 17. Nvidia to Team with Wall Street on $500 AI Infrastructure Billion Package – FT
-
-**Author:** htrp  
-**Published:** 8/10/2026, 5:11:35 PM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says Comments URL: https://news.ycombinator.com/item?id=49246670 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says)
-
----
-
-## 18. Show HN: EnclaveOps – Zero-trust control plane for self-hosted AI
-
-**Author:** Bryant2408  
-**Published:** 8/10/2026, 5:09:19 PM  
-**Categories:** -  
-
-Article URL: https://www.enclaveops.dev/ Comments URL: https://news.ycombinator.com/item?id=49246624 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.enclaveops.dev/)
-
----
-
-## 19. In AI, the 41% Depends on the -59%
-
-**Author:** 1vuio0pswjnm7  
-**Published:** 8/10/2026, 5:07:29 PM  
-**Categories:** -  
-
-Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/in-ai-the-41-percent-depends-on-the-59-percent Comments URL: https://news.ycombinator.com/item?id=49246592 Points: 9 # Comments: 3
-
-📖 [Read original article](https://www.apollo.com/wealth/insights-news/insights/daily-spark/in-ai-the-41-percent-depends-on-the-59-percent)
-
----
-
-## 20. Google's classic Search button is gone in a new AI-first homepage
-
-**Author:** croes  
-**Published:** 8/10/2026, 5:05:54 PM  
-**Categories:** -  
-
-Article URL: https://searchenginewatch.com/google-tests-ai-focused-homepage-for-signed-out-users/ Comments URL: https://news.ycombinator.com/item?id=49246565 Points: 3 # Comments: 0
-
-📖 [Read original article](https://searchenginewatch.com/google-tests-ai-focused-homepage-for-signed-out-users/)
+📖 [Read original article](https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html)
 
 ---
