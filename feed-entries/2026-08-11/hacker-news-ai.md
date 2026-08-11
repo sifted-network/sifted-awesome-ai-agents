@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI
+## 1. Can you trust what AI tells you? [video]
 
-**Author:** cdrnsf  
-**Published:** 8/11/2026, 12:58:45 PM  
+**Author:** thesdev  
+**Published:** 8/11/2026, 6:52:19 PM  
 **Categories:** -  
 
-Article URL: https://journals.sagepub.com/doi/10.1177/00220027261463443 Comments URL: https://news.ycombinator.com/item?id=49257579 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=cIMlBw2nqfA Comments URL: https://news.ycombinator.com/item?id=49262821 Points: 1 # Comments: 0
 
-📖 [Read original article](https://journals.sagepub.com/doi/10.1177/00220027261463443)
+📖 [Read original article](https://www.youtube.com/watch?v=cIMlBw2nqfA)
 
 ---
 
-## 2. Show HN: Porcupine, a terminal AI agent built for safe autonomy
+## 2. Show HN: HeyDeacon, AI customer support agent for SaaS founders
 
-**Author:** SyedAbdurR2hman  
-**Published:** 8/11/2026, 12:52:27 PM  
+**Author:** arcadium3D  
+**Published:** 8/11/2026, 6:41:37 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Abd0r/porcupineai Comments URL: https://news.ycombinator.com/item?id=49257505 Points: 1 # Comments: 0
+If you're launching a new webapp, pretty quickly you'll need a way to manage customer queries, onboarding, collate user feedback and track actions with analytics. Deacon is a drop in SDK that does that for you. You can now speak with every site visitor, collate qualitative feedback and use it to ite...
 
-📖 [Read original article](https://github.com/Abd0r/porcupineai)
+📖 [Read original article](https://heydeacon.com)
 
 ---
 
-## 3. Show HN: OpenCorp – paste a URL, AI finds competing products and Reddit threads
+## 3. AI and the Delusions of Increasing Productivity
 
-**Author:** pokemongo11  
-**Published:** 8/11/2026, 12:47:03 PM  
+**Author:** speckx  
+**Published:** 8/11/2026, 6:40:00 PM  
 **Categories:** -  
 
-Article URL: https://opencorp.live/ Comments URL: https://news.ycombinator.com/item?id=49257429 Points: 2 # Comments: 0
+Article URL: http://charleshughsmith.blogspot.com/2026/08/ai-and-delusions-of-increasing.html Comments URL: https://news.ycombinator.com/item?id=49262646 Points: 1 # Comments: 2
 
-📖 [Read original article](https://opencorp.live/)
+📖 [Read original article](http://charleshughsmith.blogspot.com/2026/08/ai-and-delusions-of-increasing.html)
 
 ---
 
-## 4. AI agent hacks gym to get its owner spot in pilates class
+## 4. AI generated profile not allowed on X
 
-**Author:** vinni2  
-**Published:** 8/11/2026, 12:43:53 PM  
+**Author:** newsoftheday  
+**Published:** 8/11/2026, 6:39:00 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cn0nww2qlp7o Comments URL: https://news.ycombinator.com/item?id=49257398 Points: 3 # Comments: 1
+Article URL: https://help.x.com/en/rules-and-policies/authenticity Comments URL: https://news.ycombinator.com/item?id=49262627 Points: 2 # Comments: 2
 
-📖 [Read original article](https://www.bbc.com/news/articles/cn0nww2qlp7o)
+📖 [Read original article](https://help.x.com/en/rules-and-policies/authenticity)
 
 ---
 
-## 5. Claude will apply invisible watermarks to AI text and images
+## 5. AI Boot Camps Surge as Workers Race to Learn New Skills
 
-**Author:** el_duderino  
-**Published:** 8/11/2026, 12:32:29 PM  
+**Author:** wslh  
+**Published:** 8/11/2026, 6:36:03 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images Comments URL: https://news.ycombinator.com/item?id=49257269 Points: 3 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-08-08/ai-training-boom-sends-colleges-racing-to-offer-credentials Comments URL: https://news.ycombinator.com/item?id=49262593 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-08/ai-training-boom-sends-colleges-racing-to-offer-credentials)
 
 ---
 
-## 6. Show HN: Implay AI – Lightweight suite of browser tools for text, images, & code
+## 6. Understanding an AI agent's memory through Harry Potter
 
-**Author:** Sharanxxxx  
-**Published:** 8/11/2026, 12:28:29 PM  
+**Author:** tidbeck  
+**Published:** 8/11/2026, 6:22:26 PM  
 **Categories:** -  
 
-Article URL: https://implay.ai Comments URL: https://news.ycombinator.com/item?id=49257219 Points: 1 # Comments: 0
+Article URL: https://squidler.io/blog/agent-memory-harry-potter Comments URL: https://news.ycombinator.com/item?id=49262385 Points: 2 # Comments: 0
 
-📖 [Read original article](https://implay.ai)
+📖 [Read original article](https://squidler.io/blog/agent-memory-harry-potter)
 
 ---
 
-## 7. AI Maps Schizophrenia as a Network of 766 Genes
+## 7. Show HN: SmokeOps – describe a flow, get checks you rerun without AI
 
-**Author:** ashurandi  
-**Published:** 8/11/2026, 12:19:11 PM  
+**Author:** crackedev  
+**Published:** 8/11/2026, 6:12:40 PM  
 **Categories:** -  
 
-Article URL: https://ai-updates.net/ai-maps-schizophrenia-network-766-genes/ Comments URL: https://news.ycombinator.com/item?id=49257108 Points: 1 # Comments: 0
+Article URL: https://github.com/gate3/SmokeOps Comments URL: https://news.ycombinator.com/item?id=49262241 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ai-updates.net/ai-maps-schizophrenia-network-766-genes/)
+📖 [Read original article](https://github.com/gate3/SmokeOps)
 
 ---
 
-## 8. Frags framework for precision in AI agents
+## 8. Sam's News – Free AI News Aggregator
 
-**Author:** mansilladev  
-**Published:** 8/11/2026, 12:11:51 PM  
+**Author:** srschreiber  
+**Published:** 8/11/2026, 6:10:12 PM  
 **Categories:** -  
 
-Article URL: https://github.com/theirish81/frags Comments URL: https://news.ycombinator.com/item?id=49257009 Points: 1 # Comments: 0
+Article URL: https://samnews.news/ Comments URL: https://news.ycombinator.com/item?id=49262215 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/theirish81/frags)
+📖 [Read original article](https://samnews.news/)
 
 ---
 
-## 9. GPU AI workloads with a Ruby on Rails monolith
+## 9. Nvidia building 1T-parameter Nemotron 4 to rival open AI models
 
-**Author:** babanooey21  
-**Published:** 8/11/2026, 12:08:58 PM  
+**Author:** giuliomagnifico  
+**Published:** 8/11/2026, 6:09:46 PM  
 **Categories:** -  
 
-Article URL: https://www.docuseal.com/blog/gpu-ai-workloads-with-a-ruby-on-rails-monolith Comments URL: https://news.ycombinator.com/item?id=49256977 Points: 2 # Comments: 1
+Article URL: https://www.reuters.com/business/nvidia-is-developing-nemotron-4-open-source-models-information-reports-2026-08-11 Comments URL: https://news.ycombinator.com/item?id=49262206 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.docuseal.com/blog/gpu-ai-workloads-with-a-ruby-on-rails-monolith)
+📖 [Read original article](https://www.reuters.com/business/nvidia-is-developing-nemotron-4-open-source-models-information-reports-2026-08-11)
 
 ---
 
-## 10. Show HN: The Rotten Tomatoes for AI films, ranked by the tools that made them
+## 10. AI spend observability down to individual User ID's and routes
 
-**Author:** deIeted  
-**Published:** 8/11/2026, 12:07:05 PM  
+**Author:** Francis221  
+**Published:** 8/11/2026, 5:50:42 PM  
 **Categories:** -  
 
-I wanted a rotten tomatoes for ai film, hence popcorn.movie, because AI films need a critical and technical review that's different to movies, and we're in the 1895-1920's of ai movies right now.Many festivals, people, industries, sites reject or suppress ai, for many great reasons (slop), and of co...
+Article URL: https://kalaa.cc/ Comments URL: https://news.ycombinator.com/item?id=49261909 Points: 2 # Comments: 1
 
-📖 [Read original article](https://popcorn.movie/)
+📖 [Read original article](https://kalaa.cc/)
 
 ---
 
-## 11. Reasoning Traces: A New Trick Reveals AI Models' Inner Thoughts
+## 11. China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]
 
-**Author:** smurda  
-**Published:** 8/11/2026, 11:57:14 AM  
+**Author:** tiahura  
+**Published:** 8/11/2026, 5:43:55 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/ Comments URL: https://news.ycombinator.com/item?id=49256857 Points: 3 # Comments: 0
+Article URL: https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/ Comments URL: https://news.ycombinator.com/item?id=49261800 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/)
+📖 [Read original article](https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/)
 
 ---
 
-## 12. How the government is using AI to speed up the planning system
+## 12. Ask HN: What are your thoughts on E2E software development using AI agents?
 
-**Author:** dgroshev  
-**Published:** 8/11/2026, 11:50:18 AM  
+**Author:** sandiprghane  
+**Published:** 8/11/2026, 5:43:11 PM  
 **Categories:** -  
 
-Article URL: https://takes.jamesomalley.co.uk/p/build-gemini-build Comments URL: https://news.ycombinator.com/item?id=49256771 Points: 1 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49261790 Points: 1 # Comments: 0
 
-📖 [Read original article](https://takes.jamesomalley.co.uk/p/build-gemini-build)
+📖 [Read original article](https://news.ycombinator.com/item?id=49261790)
 
 ---
 
-## 13. AI Horde A free, community-powered generation service
+## 13. Spotify to Label AI 'Artists'
 
-**Author:** Bluestein  
-**Published:** 8/11/2026, 11:36:37 AM  
+**Author:** bokkies  
+**Published:** 8/11/2026, 5:36:31 PM  
 **Categories:** -  
 
-Article URL: https://stablehorde.net/ Comments URL: https://news.ycombinator.com/item?id=49256606 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists Comments URL: https://news.ycombinator.com/item?id=49261679 Points: 2 # Comments: 0
 
-📖 [Read original article](https://stablehorde.net/)
+📖 [Read original article](https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists)
 
 ---
 
-## 14. How to get AI to generate more ideas by itself
+## 14. Sphere packing, AI, and mathematical beauty
 
-**Author:** johnrising  
-**Published:** 8/11/2026, 11:35:51 AM  
+**Author:** brandonb  
+**Published:** 8/11/2026, 5:36:17 PM  
 **Categories:** -  
 
-Article URL: https://bymorning.ai/journal/idea-mode-collapse Comments URL: https://news.ycombinator.com/item?id=49256596 Points: 1 # Comments: 0
+Article URL: https://www.empirical.health/blog/ai-math-sphere-packing/ Comments URL: https://news.ycombinator.com/item?id=49261676 Points: 1 # Comments: 0
 
-📖 [Read original article](https://bymorning.ai/journal/idea-mode-collapse)
+📖 [Read original article](https://www.empirical.health/blog/ai-math-sphere-packing/)
 
 ---
 
-## 15. Jensen: \"Nvidia AI Factory Compute Is Becoming an Investable Asset Class\"
+## 15. AI Loop Engineering in 2026: How to Build a Gauntlet Loop
 
-**Author:** nlpnerd  
-**Published:** 8/11/2026, 11:26:34 AM  
+**Author:** westurner  
+**Published:** 8/11/2026, 5:25:55 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/JensenHuang/status/2086934705207959965 Comments URL: https://news.ycombinator.com/item?id=49256500 Points: 2 # Comments: 2
+Article URL: https://www.thepromptindex.com/ai-loop-engineering-gauntlet-loop-guide.html Comments URL: https://news.ycombinator.com/item?id=49261545 Points: 2 # Comments: 3
 
-📖 [Read original article](https://twitter.com/JensenHuang/status/2086934705207959965)
+📖 [Read original article](https://www.thepromptindex.com/ai-loop-engineering-gauntlet-loop-guide.html)
 
 ---
 
-## 16. AI drones are transforming warfare [video]
+## 16. Mastering Edge AI on Raspberry Pi with LiteRT and Gemma
 
-**Author:** whosgotch  
-**Published:** 8/11/2026, 11:22:54 AM  
+**Author:** simonpure  
+**Published:** 8/11/2026, 5:23:58 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/reel/video/p0n7sbpd/watch Comments URL: https://news.ycombinator.com/item?id=49256458 Points: 2 # Comments: 0
+Article URL: https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/ Comments URL: https://news.ycombinator.com/item?id=49261518 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/reel/video/p0n7sbpd/watch)
+📖 [Read original article](https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/)
 
 ---
 
-## 17. Google Builds a New Gemini Model Team as AI Investments Accelerate
+## 17. OpenAI executive Brad Lightcap leaves as shakeup at AI lab continues
 
-**Author:** rbanffy  
-**Published:** 8/11/2026, 11:14:33 AM  
+**Author:** beejiu  
+**Published:** 8/11/2026, 5:22:45 PM  
 **Categories:** -  
 
-Article URL: https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258 Comments URL: https://news.ycombinator.com/item?id=49256377 Points: 1 # Comments: 1
+Article URL: https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html Comments URL: https://news.ycombinator.com/item?id=49261504 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258)
+📖 [Read original article](https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html)
 
 ---
 
-## 18. Beijing is forcing a mass breakup with AI lovers
+## 18. Mitchell Hashimoto's daily schedule given Superlogical, second kid, and AI usage
 
-**Author:** Nazzareno  
-**Published:** 8/11/2026, 11:13:51 AM  
+**Author:** tosh  
+**Published:** 8/11/2026, 5:22:23 PM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/ Comments URL: https://news.ycombinator.com/item?id=49256368 Points: 1 # Comments: 0
+Article URL: https://twitter.com/mitchellh/status/2087227139154448436 Comments URL: https://news.ycombinator.com/item?id=49261496 Points: 2 # Comments: 0
 
-📖 [Read original article](https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/)
+📖 [Read original article](https://twitter.com/mitchellh/status/2087227139154448436)
 
 ---
 
-## 19. Barclays on AI testing, telemetry and kill switches
+## 19. Signing and verifying AI outputs with revocable trust
 
-**Author:** bryanrasmussen  
-**Published:** 8/11/2026, 11:11:04 AM  
+**Author:** lyfeninja  
+**Published:** 8/11/2026, 5:14:23 PM  
 **Categories:** -  
 
-Article URL: https://qa-financial.com/barclays-on-ai-testing-telemetry-and-kill-switches/ Comments URL: https://news.ycombinator.com/item?id=49256336 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=8OF1gS5jn3w Comments URL: https://news.ycombinator.com/item?id=49261388 Points: 2 # Comments: 0
 
-📖 [Read original article](https://qa-financial.com/barclays-on-ai-testing-telemetry-and-kill-switches/)
+📖 [Read original article](https://www.youtube.com/watch?v=8OF1gS5jn3w)
 
 ---
 
-## 20. AI for science needs reasoning, not just data
+## 20. Show HN: I used AI to filter AI-focused content from HN
 
-**Author:** joozio  
-**Published:** 8/11/2026, 11:02:25 AM  
+**Author:** otherayden  
+**Published:** 8/11/2026, 5:13:11 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/ Comments URL: https://news.ycombinator.com/item?id=49256255 Points: 2 # Comments: 1
+Source: https://github.com/leiDnedyA/hn-without-ai Comments URL: https://news.ycombinator.com/item?id=49261366 Points: 2 # Comments: 4
 
-📖 [Read original article](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/)
+📖 [Read original article](https://www.unslop.news)
 
 ---
