@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-08-10"
 date: "2026-08-10"
 source: "OpenAI Blog"
-count: 6
+count: 8
 ---
 
 # OpenAI Blog - 2026-08-10
 
-6 items collected.
+8 items collected.
 
 ---
 
@@ -80,5 +80,29 @@ Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver a
 Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.
 
 📖 [Read original article](https://openai.com/index/premium-seats-chatgpt-business)
+
+---
+
+## 7. How Zapier transformed core marketing processes with ChatGPT Work
+
+**Author:** -  
+**Published:** 8/10/2026, 12:00:00 AM  
+**Categories:** -  
+
+The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.
+
+📖 [Read original article](https://openai.com/index/zapier)
+
+---
+
+## 8. Virgin Atlantic sharpens customer journeys with ChatGPT Work
+
+**Author:** -  
+**Published:** 8/10/2026, 12:00:00 AM  
+**Categories:** -  
+
+Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.
+
+📖 [Read original article](https://openai.com/index/virgin-atlantic/chatgpt-work)
 
 ---
