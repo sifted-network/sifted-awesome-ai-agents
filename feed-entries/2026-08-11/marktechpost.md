@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-11"
 date: "2026-08-11"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-08-11
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware
+## 1. Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis
+
+**Author:** Sana Hassan  
+**Published:** 8/11/2026, 3:17:29 PM  
+**Categories:** Artificial Intelligence, Big Data, Data Science, Editors Pick, Staff, Technology, Tutorials  
+
+In this tutorial, we build a complete quantitative backtesting workflow with OctoBot and OctoBot-Script while keeping the environment isolated from Colab’s preinstalled dependencies. We configure a rule-based trading strategy that combines RSI-based oversold signals, EMA trend confirmation, and ATR-...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/11/building-and-validating-a-quantitative-trading-strategy-with-octobot-walk-forward-backtesting-parameter-optimization-and-interactive-analysis/)
+
+---
+
+## 2. webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware
 
 **Author:** Asif Razzaq  
 **Published:** 8/11/2026, 6:20:09 AM  
@@ -23,7 +35,7 @@ webAI has released TwIL-LM, a family of formal-logic models at 1.7B and 3B param
 
 ---
 
-## 2. Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs
+## 3. Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs
 
 **Author:** Sana Hassan  
 **Published:** 8/11/2026, 5:44:38 AM  
