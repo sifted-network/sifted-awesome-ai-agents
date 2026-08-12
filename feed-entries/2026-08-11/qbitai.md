@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-11"
 date: "2026-08-11"
 source: "qbitai"
-count: 10
+count: 8
 ---
 
 # qbitai - 2026-08-11
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ count: 10
 
 
 📖 [Read original article](https://www.qbitai.com/2026/08/469880.html)
-
----
-
-## 9. 当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三
-
-**Author:** 量子位的朋友们  
-**Published:** 8/11/2026, 3:11:12 AM  
-**Categories:** 资讯, DoGNAVY  
-
-全球AI安全实战化测评，中国方案DoGNAVY位列前三
-
-📖 [Read original article](https://www.qbitai.com/2026/08/469869.html)
-
----
-
-## 10. 五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中
-
-**Author:** 允中  
-**Published:** 8/11/2026, 12:46:23 AM  
-**Categories:** 资讯, 世界模型  
-
-三视角世界模型谁更稳?
-
-📖 [Read original article](https://www.qbitai.com/2026/08/469860.html)
 
 ---
