@@ -329,7 +329,7 @@ arXiv:2608.07924v1 Announce Type: new Abstract: Drifting models are a recent cla
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.07935v1 Announce Type: new Abstract: On-policy self-distillation (OPSD) adapts a language model by distilling guidance from a frozen teacher on trajectories sampled from the student. Its effectiveness, however, depends critically on the quality of those trajectories. We show that when stu...
+arXiv:2608.07935v2 Announce Type: new Abstract: On-policy self-distillation (OPSD) adapts a language model by distilling guidance from a frozen teacher on trajectories sampled from the student. Its effectiveness, however, depends critically on the quality of those trajectories. We show that when stu...
 
 📖 [Read original article](https://arxiv.org/abs/2608.07935)
 
@@ -881,7 +881,7 @@ arXiv:2608.08567v1 Announce Type: new Abstract: A central obstacle in building g
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CR, cs.DC  
 
-arXiv:2608.08574v1 Announce Type: new Abstract: Crowdsourced Federated Learning (CrowdFL) extends traditional federated learning by enabling open and heterogeneous participation through a crowdsourcing paradigm. In this setting, reputation-driven incentive mechanisms are commonly employed to guide w...
+arXiv:2608.08574v2 Announce Type: new Abstract: Crowdsourced Federated Learning (CrowdFL) extends traditional federated learning by enabling open and heterogeneous participation through a crowdsourcing paradigm. In this setting, reputation-driven incentive mechanisms are commonly employed to guide w...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08574)
 
@@ -1073,7 +1073,7 @@ arXiv:2608.08726v1 Announce Type: new Abstract: On-policy self-distillation (OPS
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.DC, cs.PF  
 
-arXiv:2608.08730v1 Announce Type: new Abstract: Large Language Models are deployed to multiple types of environments, from internet browsers to edge devices, and WebGPU serves as a modern cross-platform standard. The engines for browser-based LLM inference have proliferated, yet the overhead of WebG...
+arXiv:2608.08730v2 Announce Type: new Abstract: Large Language Models are deployed to multiple types of environments, from internet browsers to edge devices, and WebGPU serves as a modern cross-platform standard. The engines for browser-based LLM inference have proliferated, yet the overhead of WebG...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08730)
 
@@ -1645,11 +1645,11 @@ arXiv:2608.09366v1 Announce Type: new Abstract: Large-scale learning systems oft
 
 ## 137. Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation
 
-**Author:** Hossein Goli, Farzan Farnia, Amin Gohari  
+**Author:** Farzan Farnia, Hossein Goli, Amin Gohari  
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CV  
 
-arXiv:2608.09385v1 Announce Type: new Abstract: Generative AI models are primarily designed to imitate the data distribution, an objective that neither corrects diversity lost by a learned generator nor defines how generation should extend beyond the diversity of the data itself. We introduce Imagin...
+arXiv:2608.09385v2 Announce Type: new Abstract: Generative AI models are primarily designed to imitate the data distribution, an objective that neither corrects diversity lost by a learned generator nor defines how generation should extend beyond the diversity of the data itself. We introduce Imagin...
 
 📖 [Read original article](https://arxiv.org/abs/2608.09385)
 
@@ -1667,13 +1667,13 @@ arXiv:2608.09396v1 Announce Type: new Abstract: Invariant learning seeks represe
 
 ---
 
-## 139. A Mechanistic Diagnostic of Rank Collapse in Post-Norm Decoder Transformers
+## 139. Why Post-Norm Transformers Collapse: Attention Amplification and Gradient Repair Failure
 
 **Author:** Xingjian Wang, Qingyu Han, Xiaodong Luo, Yin Zhang  
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.09417v1 Announce Type: new Abstract: Deep decoder-only Transformers often replace the original Post-Norm architecture with Pre-Norm variants because Post-Norm training is highly sensitive to warmup and learning rate under conventional initialization schemes. Although prior work has identi...
+arXiv:2608.09417v2 Announce Type: new Abstract: Deep decoder-only Transformers often replace the original Post-Norm architecture with Pre-Norm variants because Post-Norm training is highly sensitive to warmup and learning rate under conventional initialization schemes. Although prior work has identi...
 
 📖 [Read original article](https://arxiv.org/abs/2608.09417)
 
@@ -1877,7 +1877,7 @@ arXiv:2608.09596v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) suf
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.09617v1 Announce Type: new Abstract: Symbolic regression is the problem of finding an algebraic expression describing a stochastic dependence of a target variable on a set of inputs. Unlike forms of regression that fit parameters assuming a fixed model structure, symbolic regression is a ...
+arXiv:2608.09617v2 Announce Type: new Abstract: Symbolic regression is the problem of finding an algebraic expression describing a stochastic dependence of a target variable on a set of inputs. Unlike forms of regression that fit parameters assuming a fixed model structure, symbolic regression is a ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.09617)
 
@@ -2849,7 +2849,7 @@ arXiv:2608.08322v1 Announce Type: cross Abstract: Physics-informed neural networ
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** eess.SY, cs.LG, cs.SY  
 
-arXiv:2608.08363v1 Announce Type: cross Abstract: Silicon carbide (SiC) power modules are increasingly deployed in automotive traction inverters, where condition monitoring is essential to prevent in-service failures. Despite extensive qualification under AQG 324, no consolidated approach exists for...
+arXiv:2608.08363v2 Announce Type: cross Abstract: Silicon carbide (SiC) power modules are increasingly deployed in automotive traction inverters, where condition monitoring is essential to prevent in-service failures. Despite extensive qualification under AQG 324, no consolidated approach exists for...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08363)
 
@@ -2861,7 +2861,7 @@ arXiv:2608.08363v1 Announce Type: cross Abstract: Silicon carbide (SiC) power mo
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** eess.SY, cs.LG, cs.SY  
 
-arXiv:2608.08365v1 Announce Type: cross Abstract: Data-driven health-state estimators for SiC (Silica-Carbide) power modules typically report their performance on a single accelerated-aging campaign, and how that performance transfers to a different failure mechanism is rarely tested. We benchmark f...
+arXiv:2608.08365v2 Announce Type: cross Abstract: Data-driven health-state estimators for SiC (Silica-Carbide) power modules typically report their performance on a single accelerated-aging campaign, and how that performance transfers to a different failure mechanism is rarely tested. We benchmark f...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08365)
 
@@ -2897,7 +2897,7 @@ arXiv:2608.08407v1 Announce Type: cross Abstract: A bidder can quietly buy a sta
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** stat.ME, cs.LG, math.ST, stat.ML, stat.TH  
 
-arXiv:2608.08422v1 Announce Type: cross Abstract: Ranking data arise in scientific and machine learning applications, including recommendation systems, information retrieval, voting, marketing, and AI preference ranking from human feedback. Existing statistical work has primarily focused on inferenc...
+arXiv:2608.08422v2 Announce Type: cross Abstract: Ranking data arise in scientific and machine learning applications, including recommendation systems, information retrieval, voting, marketing, and AI preference ranking from human feedback. Existing statistical work has primarily focused on inferenc...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08422)
 
@@ -2981,7 +2981,7 @@ arXiv:2608.08554v1 Announce Type: cross Abstract: Power amplifier (PA) nonlinear
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.CV, cs.LG  
 
-arXiv:2608.08557v1 Announce Type: cross Abstract: Visual tool use has emerged as a fundamental capability for multimodal agents to actively acquire evidence beyond a fixed image encoding. The prevailing recipe learns this capability from teacher-generated trajectories filtered for answer correctness...
+arXiv:2608.08557v2 Announce Type: cross Abstract: Visual tool use has emerged as a fundamental capability for multimodal agents to actively acquire evidence beyond a fixed image encoding. The prevailing recipe learns this capability from teacher-generated trajectories filtered for answer correctness...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08557)
 
@@ -4049,7 +4049,7 @@ arXiv:2506.19125v2 Announce Type: replace Abstract: Although transformers are mo
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CY  
 
-arXiv:2507.00945v2 Announce Type: replace Abstract: Short-term forecasting of aggregated human mobility flows supports urban planning, intelligent transportation systems, and emergency response, yet existing models often require substantial mobility history and learn spatial structure implicitly thr...
+arXiv:2507.00945v3 Announce Type: replace Abstract: Short-term forecasting of aggregated human mobility flows supports urban planning, intelligent transportation systems, and emergency response, yet existing models often require substantial mobility history and learn spatial structure implicitly thr...
 
 📖 [Read original article](https://arxiv.org/abs/2507.00945)
 
@@ -4757,7 +4757,7 @@ arXiv:2604.19569v5 Announce Type: replace Abstract: Q-learning is a fundamental 
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2604.22416v2 Announce Type: replace Abstract: Latent variables pose a fundamental obstacle to both causal discovery and inference. Local approaches exploiting direct neighborhood relations provide little beyond immediate dependencies. Cluster-level methods, though capable of broader reasoning,...
+arXiv:2604.22416v3 Announce Type: replace Abstract: Latent variables pose a fundamental obstacle to both causal discovery and inference. Local approaches exploiting direct neighborhood relations provide little beyond immediate dependencies. Cluster-level methods, though capable of broader reasoning,...
 
 📖 [Read original article](https://arxiv.org/abs/2604.22416)
 
@@ -5475,7 +5475,7 @@ arXiv:2607.22514v2 Announce Type: replace Abstract: Dysphagia is a debilitating 
 
 **Author:** Yang Xiao  
 **Published:** 8/11/2026, 4:00:00 AM  
-**Categories:** cs.LG  
+**Categories:** cs.LG, cs.GR  
 
 arXiv:2607.23191v3 Announce Type: replace Abstract: Fine-tuned code LLMs are routinely conditioned on a design-intent specification, but the correctness axis of such a signal -- a wrong intent rather than an absent one -- has not been tested, and the benefit of conditioning is usually scored with th...
 
