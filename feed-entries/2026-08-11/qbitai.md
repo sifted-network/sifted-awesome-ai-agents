@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-11"
 date: "2026-08-11"
 source: "qbitai"
-count: 6
+count: 3
 ---
 
 # qbitai - 2026-08-11
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ count: 6
 谷歌算力分配内耗严重
 
 📖 [Read original article](https://www.qbitai.com/2026/08/470576.html)
-
----
-
-## 4. 百年黎曼猜想被Claude破了新纪录！是个未公开新模型
-
-**Author:** 一水  
-**Published:** 8/11/2026, 5:12:20 AM  
-**Categories:** 资讯, Claude  
-
-把下界推高了一大截
-
-📖 [Read original article](https://www.qbitai.com/2026/08/470485.html)
-
----
-
-## 5. 宇树会破发吗？王兴兴回应了
-
-**Author:** henry  
-**Published:** 8/11/2026, 4:42:50 AM  
-**Categories:** 资讯, 人形机器人, 具身智能, 宇树, 王兴兴  
-
-200问回应一切
-
-📖 [Read original article](https://www.qbitai.com/2026/08/470307.html)
-
----
-
-## 6. GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资
-
-**Author:** henry  
-**Published:** 8/11/2026, 4:31:39 AM  
-**Categories:** 资讯, 英伟达, 黄仁勋  
-
-真就把GPU当理财产品了～
-
-📖 [Read original article](https://www.qbitai.com/2026/08/470254.html)
 
 ---
