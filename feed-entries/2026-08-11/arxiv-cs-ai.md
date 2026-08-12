@@ -503,13 +503,13 @@ arXiv:2608.07914v1 Announce Type: new Abstract: Behavioral contamination detecto
 
 ---
 
-## 42. TongGuOCR: A Layout-Aware and Token-Augmented OCR Framework for Chinese Historical Documents
+## 42. TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents
 
 **Author:** Zhongheng Zhou, Yi Sun, Huiguo He, Yuyi Zhang, Peirong Zhang, Yulin Fang, Dezhi Peng, Minghui Liao, Lianwen Jin  
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.07917v1 Announce Type: new Abstract: Chinese historical documents preserve valuable cultural heritage, but many collections remain accessible only as scanned page images, preventing full-text retrieval, collation, and computational analysis. Optical character recognition (OCR) can bridge ...
+arXiv:2608.07917v2 Announce Type: new Abstract: Chinese historical documents preserve valuable cultural heritage, but many collections remain accessible only as scanned page images, preventing full-text retrieval, collation, and computational analysis. Optical character recognition (OCR) can bridge ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.07917)
 
@@ -637,11 +637,11 @@ arXiv:2608.07994v1 Announce Type: new Abstract: Retrieval-Augmented Generation (
 
 ## 53. Thought-Level Beam Search for Reasoning
 
-**Author:** Lijie Yang, Hongyin Luo, Tri Dao, Ravi Netravali  
+**Author:** Lijie Yang, Hongyin Luo, Jiawei Zhao, Tri Dao, Ravi Netravali  
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.08020v1 Announce Type: new Abstract: Test-time compute scaling is a primary driver of performance in large reasoning models (LRMs), but extreme inefficiency bounds current approaches, shifting the critical question from \emph{how much} compute to spend, to \emph{where} to allocate it. We ...
+arXiv:2608.08020v2 Announce Type: new Abstract: Test-time compute scaling is a primary driver of performance in large reasoning models (LRMs), but extreme inefficiency bounds current approaches, shifting the critical question from \emph{how much} compute to spend, to \emph{where} to allocate it. We ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08020)
 
@@ -1133,7 +1133,7 @@ arXiv:2608.08303v1 Announce Type: new Abstract: Agentic skills improve large lan
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.08326v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has emerged as an effective approach for improving multimodal reasoning. However, most existing methods evaluate an entire response using a binary reward based only on final-answer correctness, ther...
+arXiv:2608.08326v2 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has emerged as an effective approach for improving multimodal reasoning. However, most existing methods evaluate an entire response using a binary reward based only on final-answer correctness, ther...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08326)
 
@@ -1397,7 +1397,7 @@ arXiv:2608.08570v1 Announce Type: new Abstract: Rejection sampling fine-tuning (
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.08594v1 Announce Type: new Abstract: Diffusion bridge models leverage Doob's \(h\)-transform to construct stochastic transports between arbitrary endpoint distributions, and have shown strong potential in image-to-image translation and restoration. However, most existing bridge models rel...
+arXiv:2608.08594v2 Announce Type: new Abstract: Diffusion bridge models leverage Doob's \(h\)-transform to construct stochastic transports between arbitrary endpoint distributions, and have shown strong potential in image-to-image translation and restoration. However, most existing bridge models rel...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08594)
 
@@ -1421,7 +1421,7 @@ arXiv:2608.08601v1 Announce Type: new Abstract: To anticipate socio-technical ri
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.08605v1 Announce Type: new Abstract: Multi-agent systems (MAS) built on Large Language Models (LLMs) are proliferating rapidly, but their heterogeneous execution traces provide no common basis for evaluation across methods. Outcome-only benchmarks discard collaborations, whereas LLM-as-Ju...
+arXiv:2608.08605v2 Announce Type: new Abstract: Multi-agent systems (MAS) built on Large Language Models (LLMs) are proliferating rapidly, but their heterogeneous execution traces provide no common basis for evaluation across methods. Outcome-only benchmarks discard collaborations, whereas LLM-as-Ju...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08605)
 
@@ -2093,7 +2093,7 @@ arXiv:2608.09246v1 Announce Type: new Abstract: Industrial processes are complex
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.09248v1 Announce Type: new Abstract: Skill-based LLM agents select reusable procedures from an external library to solve complex tasks, yet their routing decisions rely entirely on text-level signals such as task descriptions, verbal reflections, and experience-derived rules, while the mo...
+arXiv:2608.09248v2 Announce Type: new Abstract: Skill-based LLM agents select reusable procedures from an external library to solve complex tasks, yet their routing decisions rely entirely on text-level signals such as task descriptions, verbal reflections, and experience-derived rules, while the mo...
 
 📖 [Read original article](https://arxiv.org/abs/2608.09248)
 
@@ -2141,7 +2141,7 @@ arXiv:2608.09263v1 Announce Type: new Abstract: Outcome verifiers score complete
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.SE  
 
-arXiv:2608.09273v1 Announce Type: new Abstract: LLMs have demonstrated strong capabilities in code generation and automated program repair, but migrating an entire repository rarely produces a runnable application because long-horizon translation challenges LLM-based agents' ability to maintain repo...
+arXiv:2608.09273v2 Announce Type: new Abstract: LLMs have demonstrated strong capabilities in code generation and automated program repair, but migrating an entire repository rarely produces a runnable application because long-horizon translation challenges LLM-based agents' ability to maintain repo...
 
 📖 [Read original article](https://arxiv.org/abs/2608.09273)
 
@@ -2537,7 +2537,7 @@ arXiv:2608.09685v1 Announce Type: new Abstract: Autoregressive semantic ID recom
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.09696v1 Announce Type: new Abstract: Predicting the answer to interventional ``what if'' questions --- the outcome of an action never taken --- requires a \emph{mechanistic}, causal model, not a curve fit; and learning such a model requires \emph{experiments}, because passive data leaves ...
+arXiv:2608.09696v2 Announce Type: new Abstract: Predicting the answer to interventional ``what if'' questions --- the outcome of an action never taken --- requires a \emph{mechanistic}, causal model, not a curve fit; and learning such a model requires \emph{experiments}, because passive data leaves ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.09696)
 
@@ -2585,7 +2585,7 @@ arXiv:2608.09775v1 Announce Type: new Abstract: Accurate air quality forecasting
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.MA, cs.SI  
 
-arXiv:2608.09790v1 Announce Type: new Abstract: Online credit card discussions provide a natural setting for studying how consumers communicate about financial products. Simulating these discussions requires more than just generating individual comments, the generated threads should also match how r...
+arXiv:2608.09790v2 Announce Type: new Abstract: Online credit card discussions provide a natural setting for studying how consumers communicate about financial products. Simulating these discussions requires more than just generating individual comments, the generated threads should also match how r...
 
 📖 [Read original article](https://arxiv.org/abs/2608.09790)
 
@@ -3101,7 +3101,7 @@ arXiv:2608.07549v1 Announce Type: cross Abstract: Triangle meshes provide explic
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.MA, cs.AI  
 
-arXiv:2608.07556v1 Announce Type: cross Abstract: Multi-agent systems (MAS) decompose long-horizon tasks across supervisors and subagents, but delegated goals do not necessarily carry their original authorization boundaries. Existing safety benchmarks mainly study adversarial compromise, while work ...
+arXiv:2608.07556v2 Announce Type: cross Abstract: Multi-agent systems (MAS) decompose long-horizon tasks across supervisors and subagents, but delegated goals do not necessarily carry their original authorization boundaries. Existing safety benchmarks mainly study adversarial compromise, while work ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.07556)
 
@@ -3569,7 +3569,7 @@ arXiv:2608.07964v1 Announce Type: cross Abstract: Load Balancing has emerged as 
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2608.07968v1 Announce Type: cross Abstract: Reasoning language models increasingly use test-time compute to improve performance, but existing evaluations typically study this compute one question at a time. Yet when multiple problems share an end-to-end cost or latency constraint, models must ...
+arXiv:2608.07968v2 Announce Type: cross Abstract: Reasoning language models increasingly use test-time compute to improve performance, but existing evaluations typically study this compute one question at a time. Yet when multiple problems share an end-to-end cost or latency constraint, models must ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.07968)
 
@@ -3977,7 +3977,7 @@ arXiv:2608.08309v1 Announce Type: cross Abstract: We argue that learning visual 
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI  
 
-arXiv:2608.08311v1 Announce Type: cross Abstract: We present Ouroboros, a self-developing agent harness whose tools, prompts, context assembly, and core implementation improve through reviewed commits that become the runtime for later work. Core evolution proceeds in two modes. In recursive free evo...
+arXiv:2608.08311v2 Announce Type: cross Abstract: We present Ouroboros, a self-developing agent harness whose tools, prompts, context assembly, and core implementation improve through reviewed commits that become the runtime for later work. Core evolution proceeds in two modes. In recursive free evo...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08311)
 
@@ -4157,7 +4157,7 @@ arXiv:2608.08479v1 Announce Type: cross Abstract: Spiking neural networks (SNNs)
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.CR  
 
-arXiv:2608.08521v1 Announce Type: cross Abstract: Face recognition systems face two distinct, commonly-separated failure modes: spoofing, where an impostor presents a photograph or video of an authorized user, and disguise, where a legitimate user is rejected because their appearance differs from th...
+arXiv:2608.08521v2 Announce Type: cross Abstract: Face recognition systems face two distinct, commonly-separated failure modes: spoofing, where an impostor presents a photograph or video of an authorized user, and disguise, where a legitimate user is rejected because their appearance differs from th...
 
 📖 [Read original article](https://arxiv.org/abs/2608.08521)
 
@@ -4829,7 +4829,7 @@ arXiv:2608.09133v1 Announce Type: cross Abstract: Image super-resolution (SR) wi
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2608.09138v1 Announce Type: cross Abstract: While learned robotic policies hold promise for advancing generalizable manipulation, their practical deployment is often hindered by suboptimal execution speeds. Imitation learning policies are inherently limited by hardware constraints and the spee...
+arXiv:2608.09138v2 Announce Type: cross Abstract: While learned robotic policies hold promise for advancing generalizable manipulation, their practical deployment is often hindered by suboptimal execution speeds. Imitation learning policies are inherently limited by hardware constraints and the spee...
 
 📖 [Read original article](https://arxiv.org/abs/2608.09138)
 
@@ -5173,11 +5173,11 @@ arXiv:2608.09369v1 Announce Type: cross Abstract: Visual object tracking require
 
 ## 431. Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation
 
-**Author:** Hossein Goli, Farzan Farnia, Amin Gohari  
+**Author:** Farzan Farnia, Hossein Goli, Amin Gohari  
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CV  
 
-arXiv:2608.09385v1 Announce Type: cross Abstract: Generative AI models are primarily designed to imitate the data distribution, an objective that neither corrects diversity lost by a learned generator nor defines how generation should extend beyond the diversity of the data itself. We introduce Imag...
+arXiv:2608.09385v2 Announce Type: cross Abstract: Generative AI models are primarily designed to imitate the data distribution, an objective that neither corrects diversity lost by a learned generator nor defines how generation should extend beyond the diversity of the data itself. We introduce Imag...
 
 📖 [Read original article](https://arxiv.org/abs/2608.09385)
 
@@ -5413,11 +5413,11 @@ arXiv:2608.09542v1 Announce Type: cross Abstract: Large reasoning models (LRMs) 
 
 ## 451. ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models
 
-**Author:** Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Aimin Zhou, Guangtao Zhai  
+**Author:** Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou  
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.CY  
 
-arXiv:2608.09548v1 Announce Type: cross Abstract: Large language models are increasingly deployed in education as tutors, teaching assistants, and content generators. These roles place demands that ordinary question answering does not: a usable education-facing model is supposed to be accurate, safe...
+arXiv:2608.09548v2 Announce Type: cross Abstract: Large language models are increasingly deployed in education as tutors, teaching assistants, and content generators. These roles place demands that ordinary question answering does not: a usable education-facing model is supposed to be accurate, safe...
 
 📖 [Read original article](https://arxiv.org/abs/2608.09548)
 
@@ -6797,7 +6797,7 @@ arXiv:2608.05144v2 Announce Type: replace Abstract: Long-horizon reasoning requi
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CY  
 
-arXiv:2608.05224v2 Announce Type: replace Abstract: Large language models fine-tuned on human behavioural data have emerged as general-purpose cognitive proxies, but the scale this requires, and whether these models process task structure or exploit statistical shortcuts, remain open questions. We t...
+arXiv:2608.05224v3 Announce Type: replace Abstract: Large language models fine-tuned on human behavioural data have emerged as general-purpose cognitive proxies, but the scale this requires, and whether these models process task structure or exploit statistical shortcuts, remain open questions. We t...
 
 📖 [Read original article](https://arxiv.org/abs/2608.05224)
 
@@ -7043,13 +7043,13 @@ arXiv:2505.06589v3 Announce Type: replace-cross Abstract: Modern machine learnin
 
 ---
 
-## 587. X2C: A Dataset Featuring Nuanced Facial Expressions for Realistic Humanoid Imitation
+## 587. X2C: A Large-Scale Benchmark for Nuanced Humanoid Facial Expression Imitation
 
 **Author:** Peizhen Li, Longbing Cao, Xiao-Ming Wu, Runze Yang, Xiaohan Yu  
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.HC  
 
-arXiv:2505.11146v3 Announce Type: replace-cross Abstract: Fine-grained facial expression transfer from humans to humanoid agents presents a unique pattern recognition challenge due to the significant domain gap between biological facial dynamics and mechanical control spaces. While visual synthesis ...
+arXiv:2505.11146v4 Announce Type: replace-cross Abstract: Fine-grained facial expression transfer from humans to humanoid agents presents a unique pattern recognition challenge due to the significant domain gap between biological facial dynamics and mechanical control spaces. While visual synthesis ...
 
 📖 [Read original article](https://arxiv.org/abs/2505.11146)
 
@@ -7537,11 +7537,11 @@ arXiv:2601.03100v3 Announce Type: replace-cross Abstract: Multimodal large langu
 
 ## 628. IndexTTS 2.5 Technical Report
 
-**Author:** Yunpei Li, Xun Zhou, Jinchao Wang, Lu Wang, Yong Wu, Siyi Zhou, Yiquan Zhou, Yining Wang, Yaogen Yang, Zhetao Hu, Shiyao Duan, Jiacheng Xu, Bin Xia, Jingchen Shu  
+**Author:** Yunpei Li, Xun Zhou, Jinchao Wang, Lu Wang, Yong Wu, Siyi Zhou, Yiquan Zhou, Yining Wang, Yaogen Yang, Zhetao Hu, Shiyao Duan, Jiacheng Xu, Jingchen Shu, Bin Xia  
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.SD, cs.AI  
 
-arXiv:2601.03888v4 Announce Type: replace-cross Abstract: In prior work, we introduced IndexTTS 2, a zero-shot neural text-to-speech foundation model comprising two core components: a transformer-based Text-to-Semantic (T2S) module and a non-autoregressive Semantic-to-Mel (S2M) module, which togethe...
+arXiv:2601.03888v5 Announce Type: replace-cross Abstract: In prior work, we introduced IndexTTS 2, a zero-shot neural text-to-speech foundation model comprising two core components: a transformer-based Text-to-Semantic (T2S) module and a non-autoregressive Semantic-to-Mel (S2M) module, which togethe...
 
 📖 [Read original article](https://arxiv.org/abs/2601.03888)
 
@@ -8117,7 +8117,7 @@ arXiv:2604.21989v2 Announce Type: replace-cross Abstract: The problem of control
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2604.22416v2 Announce Type: replace-cross Abstract: Latent variables pose a fundamental obstacle to both causal discovery and inference. Local approaches exploiting direct neighborhood relations provide little beyond immediate dependencies. Cluster-level methods, though capable of broader reas...
+arXiv:2604.22416v3 Announce Type: replace-cross Abstract: Latent variables pose a fundamental obstacle to both causal discovery and inference. Local approaches exploiting direct neighborhood relations provide little beyond immediate dependencies. Cluster-level methods, though capable of broader reas...
 
 📖 [Read original article](https://arxiv.org/abs/2604.22416)
 
@@ -8405,7 +8405,7 @@ arXiv:2606.09864v2 Announce Type: replace-cross Abstract: Key-value (KV) cache q
 **Published:** 8/11/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI  
 
-arXiv:2606.09942v2 Announce Type: replace-cross Abstract: Microservice systems are widely used to build cloud applications, yet their complexity makes failures inevitable, degrading user experience and causing economic loss. Automated anomaly detection and root cause analysis (RCA) are now active re...
+arXiv:2606.09942v3 Announce Type: replace-cross Abstract: Microservice systems are widely used to build cloud applications, yet their complexity makes failures inevitable, degrading user experience and causing economic loss. Automated anomaly detection and root cause analysis (RCA) are now active re...
 
 📖 [Read original article](https://arxiv.org/abs/2606.09942)
 
