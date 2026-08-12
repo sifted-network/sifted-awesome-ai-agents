@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-11"
 date: "2026-08-11"
 source: "qbitai"
-count: 8
+count: 6
 ---
 
 # qbitai - 2026-08-11
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ count: 8
 真就把GPU当理财产品了～
 
 📖 [Read original article](https://www.qbitai.com/2026/08/470254.html)
-
----
-
-## 7. Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字
-
-**Author:** Jay  
-**Published:** 8/11/2026, 3:51:24 AM  
-**Categories:** 资讯  
-
-大水印时代来了
-
-📖 [Read original article](https://www.qbitai.com/2026/08/470228.html)
-
----
-
-## 8. 机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿
-
-**Author:** 林, 方舟  
-**Published:** 8/11/2026, 3:37:31 AM  
-**Categories:** 资讯, 具身智能, 机器人  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/08/469880.html)
 
 ---
