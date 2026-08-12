@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-12"
 date: "2026-08-12"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-08-12
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router
+## 1. AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation
+
+**Author:** Sana Hassan  
+**Published:** 8/12/2026, 5:37:37 PM  
+**Categories:** Uncategorized  
+
+Build a custom LLM post-training pipeline using AllenAI’s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on 16GB hardware witho...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/)
+
+---
+
+## 2. NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router
 
 **Author:** Asif Razzaq  
 **Published:** 8/12/2026, 6:59:40 AM  
@@ -23,7 +35,7 @@ NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing
 
 ---
 
-## 2. Xiaomi’s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark
+## 3. Xiaomi’s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark
 
 **Author:** Michal Sutter  
 **Published:** 8/12/2026, 5:05:52 AM  
