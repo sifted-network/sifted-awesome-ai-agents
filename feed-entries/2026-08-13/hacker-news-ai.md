@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. An Editor's Guide to Spotting AI Writing
+## 1. Scale Your AI Revenue – Not Your Cloud Bill
 
-**Author:** barry-cotter  
-**Published:** 8/13/2026, 12:53:03 PM  
+**Author:** flyingfishisme  
+**Published:** 8/13/2026, 6:49:08 PM  
 **Categories:** -  
 
-Article URL: https://capx.co/an-editors-guide-to-spotting-ai-writing Comments URL: https://news.ycombinator.com/item?id=49285195 Points: 1 # Comments: 0
+Article URL: https://acefleet.dev/ Comments URL: https://news.ycombinator.com/item?id=49290321 Points: 1 # Comments: 3
 
-📖 [Read original article](https://capx.co/an-editors-guide-to-spotting-ai-writing)
+📖 [Read original article](https://acefleet.dev/)
 
 ---
 
-## 2. Free private memory across every AI you use on-device
+## 2. The web's newest weapon against AI scrapers is a font
 
-**Author:** radebe49  
-**Published:** 8/13/2026, 12:40:44 PM  
+**Author:** rawgabbit  
+**Published:** 8/13/2026, 6:46:44 PM  
 **Categories:** -  
 
-Article URL: https://sovseal.com/ Comments URL: https://news.ycombinator.com/item?id=49285061 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/ Comments URL: https://news.ycombinator.com/item?id=49290294 Points: 1 # Comments: 0
 
-📖 [Read original article](https://sovseal.com/)
+📖 [Read original article](https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/)
 
 ---
 
-## 3. Trying to fill out a PDF with AI
+## 3. AI Is Threatening Natural Resources for Billions
 
-**Author:** nreece  
-**Published:** 8/13/2026, 12:35:41 PM  
+**Author:** quaintdev  
+**Published:** 8/13/2026, 6:28:20 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/DanielLockyer/status/2087542891677671526 Comments URL: https://news.ycombinator.com/item?id=49285007 Points: 1 # Comments: 0
+Article URL: https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/ Comments URL: https://news.ycombinator.com/item?id=49290062 Points: 2 # Comments: 0
 
-📖 [Read original article](https://twitter.com/DanielLockyer/status/2087542891677671526)
+📖 [Read original article](https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/)
 
 ---
 
-## 4. Show HN: AI Flight Recorder – record, replay, and track AI session costs
+## 4. Microsoft Cuts Purchases of Carbon Removals by 80% Amid AI Push
 
-**Author:** AllThingsSmitty  
-**Published:** 8/13/2026, 12:30:28 PM  
+**Author:** melling  
+**Published:** 8/13/2026, 6:13:54 PM  
 **Categories:** -  
 
-Article URL: https://github.com/AllThingsSmitty/ai-flight-recorder Comments URL: https://news.ycombinator.com/item?id=49284938 Points: 2 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-08-13/microsoft-cuts-purchases-of-carbon-removals-by-80-amid-ai-push Comments URL: https://news.ycombinator.com/item?id=49289895 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/AllThingsSmitty/ai-flight-recorder)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-13/microsoft-cuts-purchases-of-carbon-removals-by-80-amid-ai-push)
 
 ---
 
-## 5. A ledger of which of your own AI architectural decisions you could defend
+## 5. Video: I'm Done Coding with AI
 
-**Author:** dupflo  
-**Published:** 8/13/2026, 12:26:05 PM  
+**Author:** champagnepapi  
+**Published:** 8/13/2026, 5:54:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Dupflo/decision-ledger Comments URL: https://news.ycombinator.com/item?id=49284900 Points: 1 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=2ZU3j4GQ4K8 Comments URL: https://news.ycombinator.com/item?id=49289599 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/Dupflo/decision-ledger)
+📖 [Read original article](https://www.youtube.com/watch?v=2ZU3j4GQ4K8)
 
 ---
 
-## 6. Show HN: RBEK – governed execution for AI agent
+## 6. We spent ten years burying the 10x engineer myth. AI is digging it back up
 
-**Author:** nunomendesfreit  
-**Published:** 8/13/2026, 12:24:38 PM  
+**Author:** flemzord  
+**Published:** 8/13/2026, 5:40:15 PM  
 **Categories:** -  
 
-Article URL: https://github.com/rbekplatform/rbek Comments URL: https://news.ycombinator.com/item?id=49284886 Points: 1 # Comments: 1
+Article URL: https://maxence.maireaux.fr/ Comments URL: https://news.ycombinator.com/item?id=49289376 Points: 3 # Comments: 1
 
-📖 [Read original article](https://github.com/rbekplatform/rbek)
+📖 [Read original article](https://maxence.maireaux.fr/)
 
 ---
 
-## 7. Banning Open-Weight AI Models Could Cost America the AI Race
+## 7. Ask HN: What's slop? what's AI written text and why read/not read?
 
-**Author:** RickJWagner  
-**Published:** 8/13/2026, 12:19:02 PM  
+**Author:** xlayn  
+**Published:** 8/13/2026, 5:37:33 PM  
 **Categories:** -  
 
-Article URL: https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html Comments URL: https://news.ycombinator.com/item?id=49284830 Points: 3 # Comments: 1
+Question, I check HN often, and noticed the trend towards "it's obvious that was written by AI so I didn't read it", or couldn't handle it, or hate the way the prose it's written.And a similar behavior towards AI generated code, also mirrored by multiple AI policies around AI submitted patches/PRs.N...
 
-📖 [Read original article](https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html)
+📖 [Read original article](https://news.ycombinator.com/item?id=49289341)
 
 ---
 
-## 8. Rogue AI Agents Aren't Evil. They're Just Eager to Please
+## 8. Fundable – the AI platform for fund and asset managers
 
-**Author:** smurda  
-**Published:** 8/13/2026, 12:14:44 PM  
+**Author:** petethomas  
+**Published:** 8/13/2026, 5:28:53 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/rogue-ai-is-just-misunderstood/ Comments URL: https://news.ycombinator.com/item?id=49284801 Points: 1 # Comments: 0
+Article URL: https://fundableai.com/ Comments URL: https://news.ycombinator.com/item?id=49289203 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/rogue-ai-is-just-misunderstood/)
+📖 [Read original article](https://fundableai.com/)
 
 ---
 
-## 9. Ask HN: How to deal with gen AI as an gen AI-resistant person
+## 9. Surfil On-device control plane for AI coding agents
 
-**Author:** moon2  
-**Published:** 8/13/2026, 12:14:08 PM  
+**Author:** Samaradam  
+**Published:** 8/13/2026, 5:24:30 PM  
 **Categories:** -  
 
-Context: I don't like LLMs and code generators. I prefer doing things the old-fashioned way – code using my brain, write design docs while doing research. I became more flexible about vibe coding, but I still prefer to review Claude's PRs carefully. I'm a staff engineer with 10 years of experience i...
+Article URL: https://surfil.com/ Comments URL: https://news.ycombinator.com/item?id=49289133 Points: 4 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49284799)
+📖 [Read original article](https://surfil.com/)
 
 ---
 
-## 10. Show HN: I graded 83 AI vendors on data residency, training and subprocessors
+## 10. Why Google killed its best argument for AI
 
-**Author:** fabijanbajo  
-**Published:** 8/13/2026, 12:12:17 PM  
+**Author:** pac0  
+**Published:** 8/13/2026, 5:22:33 PM  
 **Categories:** -  
 
-Article URL: https://sovereignairegistry.com Comments URL: https://news.ycombinator.com/item?id=49284787 Points: 2 # Comments: 0
+Article URL: https://www.hardresetmedia.com/p/why-google-killed-its-best-argument Comments URL: https://news.ycombinator.com/item?id=49289099 Points: 4 # Comments: 0
 
-📖 [Read original article](https://sovereignairegistry.com)
+📖 [Read original article](https://www.hardresetmedia.com/p/why-google-killed-its-best-argument)
 
 ---
 
-## 11. It May Be Time to Panic About AI
+## 11. Anthropic in talks to buy Decart AI for $6B
 
-**Author:** thispbowden  
-**Published:** 8/13/2026, 12:08:38 PM  
+**Author:** adamhowell  
+**Published:** 8/13/2026, 5:13:48 PM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/ Comments URL: https://news.ycombinator.com/item?id=49284766 Points: 3 # Comments: 0
+Article URL: https://www.reuters.com/technology/anthropic-talks-buy-decart-ai-source-says-2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49289000 Points: 8 # Comments: 0
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/)
+📖 [Read original article](https://www.reuters.com/technology/anthropic-talks-buy-decart-ai-source-says-2026-08-13/)
 
 ---
 
-## 12. Ya Diktu: The Pre-Print from the AI Engineer Who Cracked Linear A
+## 12. Natural Language Processing (NLP) Explained – AI and Human Language
 
-**Author:** tamarru  
-**Published:** 8/13/2026, 11:44:07 AM  
+**Author:** lava-doe  
+**Published:** 8/13/2026, 5:12:13 PM  
 **Categories:** -  
 
-Article URL: https://zenodo.org/records/21903482 Comments URL: https://news.ycombinator.com/item?id=49284545 Points: 1 # Comments: 0
+Article URL: https://bytetality.com/reviews/86-natural-language-processing-nlp-explained-ai-human-language Comments URL: https://news.ycombinator.com/item?id=49288978 Points: 3 # Comments: 0
 
-📖 [Read original article](https://zenodo.org/records/21903482)
+📖 [Read original article](https://bytetality.com/reviews/86-natural-language-processing-nlp-explained-ai-human-language)
 
 ---
 
-## 13. Booksellers suspect AI firms are buying and then destroying rare books
+## 13. Rails Is Built for AI
 
-**Author:** Archelaos  
-**Published:** 8/13/2026, 11:24:11 AM  
+**Author:** cdnsteve  
+**Published:** 8/13/2026, 5:09:24 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/ Comments URL: https://news.ycombinator.com/item?id=49284368 Points: 5 # Comments: 1
+Article URL: https://rubyonrails.org/ai Comments URL: https://news.ycombinator.com/item?id=49288940 Points: 11 # Comments: 6
 
-📖 [Read original article](https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/)
+📖 [Read original article](https://rubyonrails.org/ai)
 
 ---
 
-## 14. Apple in Talks to Pay Publishers to Improve AI-Powered Siri
+## 14. AI isn't ready to research itself
 
-**Author:** jonbaer  
-**Published:** 8/13/2026, 11:17:57 AM  
+**Author:** Brajeshwar  
+**Published:** 8/13/2026, 5:02:18 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b Comments URL: https://news.ycombinator.com/item?id=49284325 Points: 1 # Comments: 0
+Article URL: https://www.nature.com/articles/d41586-026-02494-5 Comments URL: https://news.ycombinator.com/item?id=49288850 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b)
+📖 [Read original article](https://www.nature.com/articles/d41586-026-02494-5)
 
 ---
 
-## 15. Apple and AI: Siri the Early Years
-
-**Author:** hasheddan  
-**Published:** 8/13/2026, 11:11:48 AM  
-**Categories:** -  
-
-Article URL: https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years Comments URL: https://news.ycombinator.com/item?id=49284273 Points: 1 # Comments: 0
-
-📖 [Read original article](https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years)
-
----
-
-## 16. Show HN: AI Store Builder
-
-**Author:** shadag  
-**Published:** 8/13/2026, 11:04:39 AM  
-**Categories:** -  
-
-Article URL: https://app.chisels.dev Comments URL: https://news.ycombinator.com/item?id=49284214 Points: 1 # Comments: 0
-
-📖 [Read original article](https://app.chisels.dev)
-
----
-
-## 17. Kids feel about AI, in their own words
+## 15. The Download: kids' thoughts on AI, and female clones of male mice
 
 **Author:** joozio  
-**Published:** 8/13/2026, 11:02:39 AM  
+**Published:** 8/13/2026, 5:01:17 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/ Comments URL: https://news.ycombinator.com/item?id=49284193 Points: 3 # Comments: 1
+Article URL: https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/ Comments URL: https://news.ycombinator.com/item?id=49288837 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/)
+📖 [Read original article](https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/)
 
 ---
 
-## 18. AI's Threat to Science Media Archives
+## 16. Five European companies just agreed to buy AI compute that doesn't exist yet
 
-**Author:** buffer_overlord  
-**Published:** 8/13/2026, 10:49:45 AM  
+**Author:** Brajeshwar  
+**Published:** 8/13/2026, 4:47:20 PM  
 **Categories:** -  
 
-Article URL: https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/ Comments URL: https://news.ycombinator.com/item?id=49284083 Points: 2 # Comments: 0
+Article URL: https://thenewstack.io/mistral-third-party-open-models/ Comments URL: https://news.ycombinator.com/item?id=49288643 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/)
+📖 [Read original article](https://thenewstack.io/mistral-third-party-open-models/)
 
 ---
 
-## 19. The median open-source repo pays no \"AI review tax\" (data from 5,388 repos)
+## 17. Does AI save time at work?
 
-**Author:** makivlach  
-**Published:** 8/13/2026, 10:44:44 AM  
+**Author:** misterinfo  
+**Published:** 8/13/2026, 4:46:21 PM  
 **Categories:** -  
 
-Article URL: https://forge.ambera.app/review-tax-index Comments URL: https://news.ycombinator.com/item?id=49284039 Points: 1 # Comments: 0
+Article URL: https://censuseasy.com/blog/does-ai-save-time-at-work Comments URL: https://news.ycombinator.com/item?id=49288629 Points: 2 # Comments: 1
 
-📖 [Read original article](https://forge.ambera.app/review-tax-index)
+📖 [Read original article](https://censuseasy.com/blog/does-ai-save-time-at-work)
 
 ---
 
-## 20. The White House Is Going to Expand It's AI Policy
+## 18. Amazon loses US court ban on Perplexity's AI shopping tools
 
-**Author:** jazzypants  
-**Published:** 8/13/2026, 10:35:50 AM  
+**Author:** petethomas  
+**Published:** 8/13/2026, 4:32:28 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=49283987 Points: 3 # Comments: 1
+Article URL: https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/ Comments URL: https://news.ycombinator.com/item?id=49288454 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/)
+📖 [Read original article](https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/)
+
+---
+
+## 19. Build more with AI while burning fewer tokens
+
+**Author:** dpalacios  
+**Published:** 8/13/2026, 4:25:47 PM  
+**Categories:** -  
+
+Article URL: https://datapilot.justgotalead.com/ Comments URL: https://news.ycombinator.com/item?id=49288348 Points: 2 # Comments: 1
+
+📖 [Read original article](https://datapilot.justgotalead.com/)
+
+---
+
+## 20. Solving the Identity Crisis for AI Agents
+
+**Author:** mooreds  
+**Published:** 8/13/2026, 4:24:28 PM  
+**Categories:** -  
+
+Article URL: https://www.uber.com/us/en/blog/solving-the-agent-identity-crisis/ Comments URL: https://news.ycombinator.com/item?id=49288326 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.uber.com/us/en/blog/solving-the-agent-identity-crisis/)
 
 ---
