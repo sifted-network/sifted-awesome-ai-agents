@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-08-10"
 date: "2026-08-10"
 source: "OpenAI Blog"
-count: 8
+count: 5
 ---
 
 # OpenAI Blog - 2026-08-10
 
-8 items collected.
+5 items collected.
 
 ---
 
@@ -47,19 +47,7 @@ Model ML uses GPT-5.6 Sol to carry finance work from research and analysis throu
 
 ---
 
-## 4. Expanding Daybreak as the Cyber Defense Window Narrows
-
-**Author:** -  
-**Published:** 8/10/2026, 10:00:00 AM  
-**Categories:** Security  
-
-Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.
-
-📖 [Read original article](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows)
-
----
-
-## 5. Putting frontier cyber models in more trusted hands
+## 4. Putting frontier cyber models in more trusted hands
 
 **Author:** -  
 **Published:** 8/10/2026, 10:00:00 AM  
@@ -71,38 +59,14 @@ Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver a
 
 ---
 
-## 6. Premium seats are coming to ChatGPT Business
+## 5. Expanding Daybreak as the Cyber Defense Window Narrows
 
 **Author:** -  
-**Published:** 8/10/2026, 12:00:00 AM  
-**Categories:** Product  
+**Published:** 8/10/2026, 10:00:00 AM  
+**Categories:** Security  
 
-Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.
+Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.
 
-📖 [Read original article](https://openai.com/index/premium-seats-chatgpt-business)
-
----
-
-## 7. How Zapier transformed core marketing processes with ChatGPT Work
-
-**Author:** -  
-**Published:** 8/10/2026, 12:00:00 AM  
-**Categories:** -  
-
-The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.
-
-📖 [Read original article](https://openai.com/index/zapier)
-
----
-
-## 8. Virgin Atlantic sharpens customer journeys with ChatGPT Work
-
-**Author:** -  
-**Published:** 8/10/2026, 12:00:00 AM  
-**Categories:** -  
-
-Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.
-
-📖 [Read original article](https://openai.com/index/virgin-atlantic/chatgpt-work)
+📖 [Read original article](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows)
 
 ---
