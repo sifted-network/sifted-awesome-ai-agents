@@ -35,13 +35,13 @@ arXiv:2608.10007v1 Announce Type: new Abstract: The current state-of-the-art (SO
 
 ---
 
-## 3. CurveFP: Rational-Radix Logarithmic Datatypes with Closed Products for Language Models
+## 3. CurveFP: Co-Designing Numerical Representation and Product Arithmetic for Language Models
 
 **Author:** Ye Qiao  
 **Published:** 8/12/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.10010v1 Announce Type: new Abstract: Low-precision datatypes reduce language-model cost, but most formats optimize scalar fidelity while leaving the arithmetic induced by their products unchanged. We introduce CurveFP, a closed-product codebook family that distributes quantized magnitudes...
+arXiv:2608.10010v2 Announce Type: new Abstract: Low-precision formats usually optimize scalar fidelity while inheriting conventional product arithmetic. We introduce CurveFP, a block-scaled family that distributes magnitudes across interleaved logarithmic curves. Uniform curve indices make every non...
 
 📖 [Read original article](https://arxiv.org/abs/2608.10010)
 
@@ -425,7 +425,7 @@ arXiv:2608.10398v1 Announce Type: new Abstract: Variational autoencoders generat
 **Published:** 8/12/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.10400v1 Announce Type: new Abstract: What if judges already behave like algorithms? As artificial intelligence and algorithms are deployed in many settings, including the judicial system, many have debated whether judges should be allowed to rely on them. Instead, we ask whether judges fo...
+arXiv:2608.10400v2 Announce Type: new Abstract: What if judges already behave like algorithms? As artificial intelligence and algorithms are deployed in many settings, including the judicial system, many have debated whether judges should be allowed to rely on them. Instead, we ask whether judges fo...
 
 📖 [Read original article](https://arxiv.org/abs/2608.10400)
 
@@ -641,7 +641,7 @@ arXiv:2608.10634v1 Announce Type: new Abstract: Model-based reinforcement learni
 **Published:** 8/12/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL, cs.NE  
 
-arXiv:2608.10694v1 Announce Type: new Abstract: Evolutionary optimization of LLM prompts and agentic programs (e.g., GEPA) is dominated by fitness evaluation: scoring each candidate runs an answering LLM over a validation set, so the evaluator's price tier dictates total search cost. We restructure ...
+arXiv:2608.10694v2 Announce Type: new Abstract: Evolutionary optimization of LLM prompts and agentic programs (e.g., GEPA) is dominated by fitness evaluation: scoring each candidate runs an answering LLM over a validation set, so the evaluator's price tier dictates total search cost. We restructure ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.10694)
 
@@ -1417,11 +1417,11 @@ arXiv:2608.10291v1 Announce Type: cross Abstract: Large-scale multi-modal MRI da
 
 ## 118. Logit-Boundary Geometric Belief Interfaces and Sparse Sheaf-Enclave Protocols: A Self-Contained Substrate for Secure Network Electronic Health Record (EHR) Interoperability
 
-**Author:** Alvin Spivey, Thomas Huang  
+**Author:** Alvin Spivey, Yu Huang  
 **Published:** 8/12/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CR, cs.LG  
 
-arXiv:2608.10300v1 Announce Type: cross Abstract: Electronic health-record interoperability is a boundary problem: legacy systems, generative models, terminology services, identity systems, and human reviewers may each expose rich internal states, while operational exchange requires a narrow shared ...
+arXiv:2608.10300v2 Announce Type: cross Abstract: Electronic health-record interoperability is a boundary problem: legacy systems, generative models, terminology services, identity systems, and human reviewers may each expose rich internal states, while operational exchange requires a narrow shared ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.10300)
 
@@ -1625,7 +1625,7 @@ arXiv:2608.10517v1 Announce Type: cross Abstract: Accurate physical-layer modeli
 **Published:** 8/12/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.LG  
 
-arXiv:2608.10528v1 Announce Type: cross Abstract: Anchor-based pointwise LLM reranking scores each candidate against a shared reference passage to recover cross-document context at pointwise cost. We study when this actually helps, using GCCP/PAGC as a representative method. Our study is reproductio...
+arXiv:2608.10528v2 Announce Type: cross Abstract: Anchor-based pointwise LLM reranking scores each candidate against a shared reference passage to recover cross-document context at pointwise cost. We study when this actually helps, using GCCP/PAGC as a representative method. Our study is reproductio...
 
 📖 [Read original article](https://arxiv.org/abs/2608.10528)
 
@@ -1745,7 +1745,7 @@ arXiv:2608.10792v1 Announce Type: cross Abstract: Autonomous chemistry increasin
 **Published:** 8/12/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2608.10798v1 Announce Type: cross Abstract: Most image colorization systems operate in $Lab$ space by predicting chroma ($ab$) while preserving an input-derived luminance channel ($L$). While effective on standard benchmarks, this fixed-luminance design restricts brightness changes and becomes...
+arXiv:2608.10798v2 Announce Type: cross Abstract: Most image colorization systems operate in $Lab$ space by predicting chroma ($ab$) while preserving an input-derived luminance channel ($L$). While effective on standard benchmarks, this fixed-luminance design restricts brightness changes and becomes...
 
 📖 [Read original article](https://arxiv.org/abs/2608.10798)
 
@@ -3323,13 +3323,13 @@ arXiv:2606.00643v2 Announce Type: replace-cross Abstract: Physics-Informed Neura
 
 ---
 
-## 277. AXIOM: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning
+## 277. Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning
 
 **Author:** Alessio Bruno  
 **Published:** 8/12/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG  
 
-arXiv:2606.00671v2 Announce Type: replace-cross Abstract: We present AXIOM, a trust-first neuro-symbolic architecture for natural-language mathematical reasoning. Its language model is strictly a canonicalizer: it rewrites informal problem text into a narrow schema consumed by a deterministic Comput...
+arXiv:2606.00671v3 Announce Type: replace-cross Abstract: We present Moxia (formerly AXIOM), a trust-first neuro-symbolic architecture for self-explaining mathematical reasoning over natural-language input. Its language model is strictly a canonicalizer: it rewrites informal problem text into a narr...
 
 📖 [Read original article](https://arxiv.org/abs/2606.00671)
 
