@@ -2,251 +2,155 @@
 title: "Hacker News AI - 2026-08-12"
 date: "2026-08-12"
 source: "Hacker News AI"
-count: 20
+count: 12
 ---
 
 # Hacker News AI - 2026-08-12
 
-20 items collected.
+12 items collected.
 
 ---
 
-## 1. Zitron on CNBC talking Nvidia, unprofitable AI labs, and the Greater AI Bubble [video]
+## 1. Use Dreams to create memories your AI agent can access
 
-**Author:** SLHamlet  
-**Published:** 8/12/2026, 6:52:27 PM  
+**Author:** davenportjw  
+**Published:** 8/12/2026, 11:56:58 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=8GWPjTDPVIM Comments URL: https://news.ycombinator.com/item?id=49276945 Points: 1 # Comments: 0
+Article URL: https://davenporter.substack.com/p/give-an-agent-access-to-memories Comments URL: https://news.ycombinator.com/item?id=49280149 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=8GWPjTDPVIM)
+📖 [Read original article](https://davenporter.substack.com/p/give-an-agent-access-to-memories)
 
 ---
 
-## 2. AI coding startup Cognition in talks to raise at $40B valuation
+## 2. Context Bombs: stopping AI attackers in their tracks
 
-**Author:** ashurandi  
-**Published:** 8/12/2026, 6:30:41 PM  
+**Author:** decimalenough  
+**Published:** 8/12/2026, 11:46:44 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/ Comments URL: https://news.ycombinator.com/item?id=49276706 Points: 2 # Comments: 0
+Article URL: https://agentic.tracebit.com/context-bombs/ Comments URL: https://news.ycombinator.com/item?id=49280065 Points: 2 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/)
+📖 [Read original article](https://agentic.tracebit.com/context-bombs/)
 
 ---
 
-## 3. Adults have struggled to set rules for AI in school. These teens figured it out
+## 3. The Wrong Defaults is why enterprise AI agents fail at adoption
 
-**Author:** mooreds  
-**Published:** 8/12/2026, 6:21:09 PM  
+**Author:** pltc  
+**Published:** 8/12/2026, 11:42:11 PM  
 **Categories:** -  
 
-Article URL: https://text.npr.org/nx-s1-5853571 Comments URL: https://news.ycombinator.com/item?id=49276587 Points: 4 # Comments: 0
+Article URL: https://imphan.substack.com/p/the-wrong-defaults-an-ai-agent-manifesto Comments URL: https://news.ycombinator.com/item?id=49280034 Points: 4 # Comments: 1
 
-📖 [Read original article](https://text.npr.org/nx-s1-5853571)
+📖 [Read original article](https://imphan.substack.com/p/the-wrong-defaults-an-ai-agent-manifesto)
 
 ---
 
-## 4. I'm Done Using AI
+## 4. Not Ready for Prime Time: The Current State of Legal Ethics and AI
 
-**Author:** GrinningFool  
-**Published:** 8/12/2026, 6:19:51 PM  
+**Author:** hn_acker  
+**Published:** 8/12/2026, 11:36:14 PM  
 **Categories:** -  
 
-Article URL: https://brettcodes.com/im-done-using-ai/ Comments URL: https://news.ycombinator.com/item?id=49276573 Points: 3 # Comments: 1
+Article URL: https://www.techdirt.com/2026/08/12/not-ready-for-prime-time-the-current-state-of-legal-ethics-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49279990 Points: 3 # Comments: 0
 
-📖 [Read original article](https://brettcodes.com/im-done-using-ai/)
+📖 [Read original article](https://www.techdirt.com/2026/08/12/not-ready-for-prime-time-the-current-state-of-legal-ethics-and-ai/)
 
 ---
 
-## 5. China's top AI continues using Nvidia amid high costs of local chip transition
+## 5. Booksellers suspect AI firms are buying and then destroying rare books
 
-**Author:** giuliomagnifico  
-**Published:** 8/12/2026, 6:19:18 PM  
+**Author:** throw0101a  
+**Published:** 8/12/2026, 11:22:01 PM  
 **Categories:** -  
 
-Article URL: https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech Comments URL: https://news.ycombinator.com/item?id=49276563 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/ Comments URL: https://news.ycombinator.com/item?id=49279899 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/)
 
 ---
 
-## 6. Twitch Is Mining Peoples' Streams to Train Amazon's AI
+## 6. Show HN: A marketplace where AI agents buy services from AI agents
 
-**Author:** cdrnsf  
-**Published:** 8/12/2026, 6:02:18 PM  
+**Author:** mt2user  
+**Published:** 8/12/2026, 11:07:32 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/ Comments URL: https://news.ycombinator.com/item?id=49276344 Points: 10 # Comments: 1
+Article URL: https://aaas-marketplace-1089237826218.asia-northeast1.run.app Comments URL: https://news.ycombinator.com/item?id=49279804 Points: 6 # Comments: 5
 
-📖 [Read original article](https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/)
+📖 [Read original article](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)
 
 ---
 
-## 7. Preview, a production platform for AI video, raises $12M seed led by Sequoia
+## 7. Agentic AI Open-Source Unit Testing for orchestrators on CLI
 
-**Author:** matijao  
-**Published:** 8/12/2026, 5:56:30 PM  
+**Author:** parvaamin  
+**Published:** 8/12/2026, 10:43:24 PM  
 **Categories:** -  
 
-Article URL: https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/ Comments URL: https://news.ycombinator.com/item?id=49276268 Points: 1 # Comments: 0
+Article URL: https://github.com/insightitsGit/prism-eval Comments URL: https://news.ycombinator.com/item?id=49279593 Points: 2 # Comments: 2
 
-📖 [Read original article](https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/)
+📖 [Read original article](https://github.com/insightitsGit/prism-eval)
 
 ---
 
-## 8. Openhare: AI-powered desktop SQL client. Cross-platform. Built with Flutter
+## 8. Tailscale – Information about AI for Candidates [pdf]
 
-**Author:** thunderbong  
-**Published:** 8/12/2026, 5:51:55 PM  
+**Author:** figmert  
+**Published:** 8/12/2026, 10:38:08 PM  
 **Categories:** -  
 
-Article URL: https://github.com/sjjian/openhare Comments URL: https://news.ycombinator.com/item?id=49276189 Points: 4 # Comments: 0
+Article URL: https://cdn.sanity.io/files/w77i7m8x/production/0de35a24de4d425390546ebd521107d5444985e9.pdf Comments URL: https://news.ycombinator.com/item?id=49279536 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/sjjian/openhare)
+📖 [Read original article](https://cdn.sanity.io/files/w77i7m8x/production/0de35a24de4d425390546ebd521107d5444985e9.pdf)
 
 ---
 
-## 9. Spotify to Begin Labelling AI-Generated Artist Profiles
+## 9. Ask HN: Is AI code verification becoming your main bottleneck?
 
-**Author:** cdrnsf  
-**Published:** 8/12/2026, 5:51:24 PM  
+**Author:** ochidaniel4  
+**Published:** 8/12/2026, 10:33:51 PM  
 **Categories:** -  
 
-Article URL: https://thequietus.com/news/spotify-to-begin-labelling-ai-generated-artist-profiles/ Comments URL: https://news.ycombinator.com/item?id=49276182 Points: 2 # Comments: 0
+I am a beginner in programming and honestly I have been using AI to code a lot but I am scared to ship because of the countless stories of AI code silently breaking, AI code not being reliable long term and all that.Please share your stories with me how you handle AI code reliability and verificatio...
 
-📖 [Read original article](https://thequietus.com/news/spotify-to-begin-labelling-ai-generated-artist-profiles/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49279494)
 
 ---
 
-## 10. A Multi-Agent AI Framework Used to Compromise Government Entities in Asia
+## 10. AI Music Startup Suno Bets Anyone Can Be a Rock Star
 
-**Author:** mikeleeorg  
-**Published:** 8/12/2026, 5:48:47 PM  
+**Author:** aanet  
+**Published:** 8/12/2026, 10:26:22 PM  
 **Categories:** -  
 
-Article URL: https://dreamgroup.com/blog/inside-a-multi-agent-ai-framework-used-to-compromise-government-entities-in-asia Comments URL: https://news.ycombinator.com/item?id=49276153 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/features/2026-08-11/suno-stares-down-universal-and-sony-to-reshape-the-future-of-music Comments URL: https://news.ycombinator.com/item?id=49279439 Points: 4 # Comments: 3
 
-📖 [Read original article](https://dreamgroup.com/blog/inside-a-multi-agent-ai-framework-used-to-compromise-government-entities-in-asia)
+📖 [Read original article](https://www.bloomberg.com/news/features/2026-08-11/suno-stares-down-universal-and-sony-to-reshape-the-future-of-music)
 
 ---
 
-## 11. Show HN: AutoCorrect PC – Autocorrect, predictive text, AI writing for Windows
+## 11. AI is the next layer of software development
 
-**Author:** Enyaaba  
-**Published:** 8/12/2026, 5:39:55 PM  
+**Author:** HunterXHamburge  
+**Published:** 8/12/2026, 10:04:09 PM  
 **Categories:** -  
 
-Article URL: https://www.autocorrectforpc.com Comments URL: https://news.ycombinator.com/item?id=49276049 Points: 2 # Comments: 1
+Article URL: https://mcclowes.com/blog/2026/05/29/ai-is-just-another-layer Comments URL: https://news.ycombinator.com/item?id=49279230 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.autocorrectforpc.com)
+📖 [Read original article](https://mcclowes.com/blog/2026/05/29/ai-is-just-another-layer)
 
 ---
 
-## 12. AI Tool Aims to Help Conserve Japan's Cherry Trees by Assessing Many Photos
+## 12. IBM Let Me Inside the Machine Nobody's Watching in the AI Race [video]
 
-**Author:** mushstory  
-**Published:** 8/12/2026, 5:35:53 PM  
+**Author:** binyu  
+**Published:** 8/12/2026, 9:51:37 PM  
 **Categories:** -  
 
-Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20250423-250572/ Comments URL: https://news.ycombinator.com/item?id=49276002 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=SH00Rso79Gg Comments URL: https://news.ycombinator.com/item?id=49279081 Points: 3 # Comments: 0
 
-📖 [Read original article](https://japannews.yomiuri.co.jp/science-nature/technology/20250423-250572/)
-
----
-
-## 13. AI programming: are you angry yet? [video]
-
-**Author:** ibobev  
-**Published:** 8/12/2026, 5:33:30 PM  
-**Categories:** -  
-
-Article URL: https://lemire.me/blog/2026/08/12/ai-programming-are-you-angry-yet/ Comments URL: https://news.ycombinator.com/item?id=49275962 Points: 1 # Comments: 0
-
-📖 [Read original article](https://lemire.me/blog/2026/08/12/ai-programming-are-you-angry-yet/)
-
----
-
-## 14. Crypto executives desert the sinking ship for the AI lifeboats
-
-**Author:** rbanffy  
-**Published:** 8/12/2026, 5:23:38 PM  
-**Categories:** -  
-
-Article URL: https://www.independent.ie/business/technology/adrian-weckler-crypto-executives-desert-the-sinking-ship-for-the-ai-lifeboats.-women-and-children-first/a/159706932.html Comments URL: https://news.ycombinator.com/item?id=49275818 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.independent.ie/business/technology/adrian-weckler-crypto-executives-desert-the-sinking-ship-for-the-ai-lifeboats.-women-and-children-first/a/159706932.html)
-
----
-
-## 15. If AI Accelerates Your Software Factory, Where's the ROI?
-
-**Author:** the8ug  
-**Published:** 8/12/2026, 5:13:55 PM  
-**Categories:** -  
-
-Article URL: https://johnpietro.com/content/if-ai-accelerates-your-software-factory-wheres-the-roi/ Comments URL: https://news.ycombinator.com/item?id=49275668 Points: 1 # Comments: 1
-
-📖 [Read original article](https://johnpietro.com/content/if-ai-accelerates-your-software-factory-wheres-the-roi/)
-
----
-
-## 16. Development Mindset for AI Programming
-
-**Author:** kva  
-**Published:** 8/12/2026, 5:10:38 PM  
-**Categories:** -  
-
-Most software engineers that learned to build things in the past 10-15 years have a move-fast-break-things mentality. I've found that AI coding really amplifies the downsides of this mentality (pushing broken slop to users), and further depresses the need for very clear thinking on what needs to be ...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49275608)
-
----
-
-## 17. Some of tech's CEO suite is cloning itself with AI. What happens next?
-
-**Author:** GaryBluto  
-**Published:** 8/12/2026, 5:04:36 PM  
-**Categories:** -  
-
-Article URL: https://www.bbc.com/future/article/20260811-what-its-like-to-meet-an-ai-clone Comments URL: https://news.ycombinator.com/item?id=49275524 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.bbc.com/future/article/20260811-what-its-like-to-meet-an-ai-clone)
-
----
-
-## 18. Stop being skeptical about AI for development
-
-**Author:** duck  
-**Published:** 8/12/2026, 5:02:54 PM  
-**Categories:** -  
-
-Article URL: https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for Comments URL: https://news.ycombinator.com/item?id=49275503 Points: 2 # Comments: 0
-
-📖 [Read original article](https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for)
-
----
-
-## 19. Ask HN: What's your team's SDLC look like in this AI world?
-
-**Author:** superpickles789  
-**Published:** 8/12/2026, 5:02:20 PM  
-**Categories:** -  
-
-Our company is changing its Software Development Lifecycle (SDLC). Curious to hear from others what theirs looks like overall + bottlenecks. Ours:- 1 week planning/retro, 6 weeks implementation (basically six 1-week sprints).- Standup now mainly demoing what Engineering/Design is working on, getting...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49275494)
-
----
-
-## 20. AI 'productivity pollution': the hidden tax on everyone
-
-**Author:** mikelgan  
-**Published:** 8/12/2026, 4:58:09 PM  
-**Categories:** -  
-
-Article URL: https://www.machinesociety.ai/p/productivitypollution Comments URL: https://news.ycombinator.com/item?id=49275444 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.machinesociety.ai/p/productivitypollution)
+📖 [Read original article](https://www.youtube.com/watch?v=SH00Rso79Gg)
 
 ---
