@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Twitch CPO squirms, admits everyone hates its new AI training 'feature'
+## 1. An Editor's Guide to Spotting AI Writing
 
-**Author:** pjmlp  
-**Published:** 8/13/2026, 7:35:17 AM  
+**Author:** barry-cotter  
+**Published:** 8/13/2026, 12:53:03 PM  
 **Categories:** -  
 
-Article URL: https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care Comments URL: https://news.ycombinator.com/item?id=49282805 Points: 1 # Comments: 0
+Article URL: https://capx.co/an-editors-guide-to-spotting-ai-writing Comments URL: https://news.ycombinator.com/item?id=49285195 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care)
+📖 [Read original article](https://capx.co/an-editors-guide-to-spotting-ai-writing)
 
 ---
 
-## 2. Recast uses hyper-resolution AI weather model
+## 2. Free private memory across every AI you use on-device
 
-**Author:** sixtyj  
-**Published:** 8/13/2026, 7:34:53 AM  
+**Author:** radebe49  
+**Published:** 8/13/2026, 12:40:44 PM  
 **Categories:** -  
 
-Article URL: https://www.recastsystems.com/ Comments URL: https://news.ycombinator.com/item?id=49282801 Points: 1 # Comments: 1
+Article URL: https://sovseal.com/ Comments URL: https://news.ycombinator.com/item?id=49285061 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.recastsystems.com/)
+📖 [Read original article](https://sovseal.com/)
 
 ---
 
-## 3. Putting Sign Language AI into Users Hands
+## 3. Trying to fill out a PDF with AI
 
-**Author:** elil17  
-**Published:** 8/13/2026, 7:15:38 AM  
+**Author:** nreece  
+**Published:** 8/13/2026, 12:35:41 PM  
 **Categories:** -  
 
-Article URL: https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/ Comments URL: https://news.ycombinator.com/item?id=49282676 Points: 2 # Comments: 1
+Article URL: https://twitter.com/DanielLockyer/status/2087542891677671526 Comments URL: https://news.ycombinator.com/item?id=49285007 Points: 1 # Comments: 0
 
-📖 [Read original article](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)
+📖 [Read original article](https://twitter.com/DanielLockyer/status/2087542891677671526)
 
 ---
 
-## 4. Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware
+## 4. Show HN: AI Flight Recorder – record, replay, and track AI session costs
 
-**Author:** WithinReason  
-**Published:** 8/13/2026, 7:10:08 AM  
+**Author:** AllThingsSmitty  
+**Published:** 8/13/2026, 12:30:28 PM  
 **Categories:** -  
 
-Article URL: https://comma.ai/shop/chestnut Comments URL: https://news.ycombinator.com/item?id=49282649 Points: 1 # Comments: 0
+Article URL: https://github.com/AllThingsSmitty/ai-flight-recorder Comments URL: https://news.ycombinator.com/item?id=49284938 Points: 2 # Comments: 0
 
-📖 [Read original article](https://comma.ai/shop/chestnut)
+📖 [Read original article](https://github.com/AllThingsSmitty/ai-flight-recorder)
 
 ---
 
-## 5. Scaling AI agents with trustworthy data
+## 5. A ledger of which of your own AI architectural decisions you could defend
+
+**Author:** dupflo  
+**Published:** 8/13/2026, 12:26:05 PM  
+**Categories:** -  
+
+Article URL: https://github.com/Dupflo/decision-ledger Comments URL: https://news.ycombinator.com/item?id=49284900 Points: 1 # Comments: 1
+
+📖 [Read original article](https://github.com/Dupflo/decision-ledger)
+
+---
+
+## 6. Show HN: RBEK – governed execution for AI agent
+
+**Author:** nunomendesfreit  
+**Published:** 8/13/2026, 12:24:38 PM  
+**Categories:** -  
+
+Article URL: https://github.com/rbekplatform/rbek Comments URL: https://news.ycombinator.com/item?id=49284886 Points: 1 # Comments: 1
+
+📖 [Read original article](https://github.com/rbekplatform/rbek)
+
+---
+
+## 7. Banning Open-Weight AI Models Could Cost America the AI Race
+
+**Author:** RickJWagner  
+**Published:** 8/13/2026, 12:19:02 PM  
+**Categories:** -  
+
+Article URL: https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html Comments URL: https://news.ycombinator.com/item?id=49284830 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html)
+
+---
+
+## 8. Rogue AI Agents Aren't Evil. They're Just Eager to Please
+
+**Author:** smurda  
+**Published:** 8/13/2026, 12:14:44 PM  
+**Categories:** -  
+
+Article URL: https://www.wired.com/story/rogue-ai-is-just-misunderstood/ Comments URL: https://news.ycombinator.com/item?id=49284801 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.wired.com/story/rogue-ai-is-just-misunderstood/)
+
+---
+
+## 9. Ask HN: How to deal with gen AI as an gen AI-resistant person
+
+**Author:** moon2  
+**Published:** 8/13/2026, 12:14:08 PM  
+**Categories:** -  
+
+Context: I don't like LLMs and code generators. I prefer doing things the old-fashioned way – code using my brain, write design docs while doing research. I became more flexible about vibe coding, but I still prefer to review Claude's PRs carefully. I'm a staff engineer with 10 years of experience i...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49284799)
+
+---
+
+## 10. Show HN: I graded 83 AI vendors on data residency, training and subprocessors
+
+**Author:** fabijanbajo  
+**Published:** 8/13/2026, 12:12:17 PM  
+**Categories:** -  
+
+Article URL: https://sovereignairegistry.com Comments URL: https://news.ycombinator.com/item?id=49284787 Points: 2 # Comments: 0
+
+📖 [Read original article](https://sovereignairegistry.com)
+
+---
+
+## 11. It May Be Time to Panic About AI
+
+**Author:** thispbowden  
+**Published:** 8/13/2026, 12:08:38 PM  
+**Categories:** -  
+
+Article URL: https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/ Comments URL: https://news.ycombinator.com/item?id=49284766 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/)
+
+---
+
+## 12. Ya Diktu: The Pre-Print from the AI Engineer Who Cracked Linear A
+
+**Author:** tamarru  
+**Published:** 8/13/2026, 11:44:07 AM  
+**Categories:** -  
+
+Article URL: https://zenodo.org/records/21903482 Comments URL: https://news.ycombinator.com/item?id=49284545 Points: 1 # Comments: 0
+
+📖 [Read original article](https://zenodo.org/records/21903482)
+
+---
+
+## 13. Booksellers suspect AI firms are buying and then destroying rare books
+
+**Author:** Archelaos  
+**Published:** 8/13/2026, 11:24:11 AM  
+**Categories:** -  
+
+Article URL: https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/ Comments URL: https://news.ycombinator.com/item?id=49284368 Points: 5 # Comments: 1
+
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/)
+
+---
+
+## 14. Apple in Talks to Pay Publishers to Improve AI-Powered Siri
+
+**Author:** jonbaer  
+**Published:** 8/13/2026, 11:17:57 AM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b Comments URL: https://news.ycombinator.com/item?id=49284325 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b)
+
+---
+
+## 15. Apple and AI: Siri the Early Years
+
+**Author:** hasheddan  
+**Published:** 8/13/2026, 11:11:48 AM  
+**Categories:** -  
+
+Article URL: https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years Comments URL: https://news.ycombinator.com/item?id=49284273 Points: 1 # Comments: 0
+
+📖 [Read original article](https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years)
+
+---
+
+## 16. Show HN: AI Store Builder
+
+**Author:** shadag  
+**Published:** 8/13/2026, 11:04:39 AM  
+**Categories:** -  
+
+Article URL: https://app.chisels.dev Comments URL: https://news.ycombinator.com/item?id=49284214 Points: 1 # Comments: 0
+
+📖 [Read original article](https://app.chisels.dev)
+
+---
+
+## 17. Kids feel about AI, in their own words
 
 **Author:** joozio  
-**Published:** 8/13/2026, 7:02:17 AM  
+**Published:** 8/13/2026, 11:02:39 AM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/ Comments URL: https://news.ycombinator.com/item?id=49282596 Points: 2 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/ Comments URL: https://news.ycombinator.com/item?id=49284193 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/)
+📖 [Read original article](https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/)
 
 ---
 
-## 6. Why Japanese firms are being so slow to use AI
+## 18. AI's Threat to Science Media Archives
 
-**Author:** CaRDiaK  
-**Published:** 8/13/2026, 6:53:53 AM  
+**Author:** buffer_overlord  
+**Published:** 8/13/2026, 10:49:45 AM  
 **Categories:** -  
 
-Article URL: https://www.bbc.co.uk/news/articles/cwymw4434v7o Comments URL: https://news.ycombinator.com/item?id=49282544 Points: 2 # Comments: 0
+Article URL: https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/ Comments URL: https://news.ycombinator.com/item?id=49284083 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bbc.co.uk/news/articles/cwymw4434v7o)
+📖 [Read original article](https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/)
 
 ---
 
-## 7. Web Scraper was translated into 50 languages with AI
+## 19. The median open-source repo pays no \"AI review tax\" (data from 5,388 repos)
 
-**Author:** martinsbalodis  
-**Published:** 8/13/2026, 6:45:53 AM  
+**Author:** makivlach  
+**Published:** 8/13/2026, 10:44:44 AM  
 **Categories:** -  
 
-Article URL: https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai Comments URL: https://news.ycombinator.com/item?id=49282505 Points: 2 # Comments: 1
+Article URL: https://forge.ambera.app/review-tax-index Comments URL: https://news.ycombinator.com/item?id=49284039 Points: 1 # Comments: 0
 
-📖 [Read original article](https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai)
+📖 [Read original article](https://forge.ambera.app/review-tax-index)
 
 ---
 
-## 8. Samsung used AI to cut a chip-verification loop 15–30×
+## 20. The White House Is Going to Expand It's AI Policy
 
-**Author:** echohive42  
-**Published:** 8/13/2026, 6:37:50 AM  
+**Author:** jazzypants  
+**Published:** 8/13/2026, 10:35:50 AM  
 **Categories:** -  
 
-Article URL: https://www.echohive.ai/ai-engineering-acceleration Comments URL: https://news.ycombinator.com/item?id=49282459 Points: 1 # Comments: 1
+Article URL: https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=49283987 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.echohive.ai/ai-engineering-acceleration)
-
----
-
-## 9. SPAR – Fall 2026 AI Safety Research Projects
-
-**Author:** agucova  
-**Published:** 8/13/2026, 6:32:49 AM  
-**Categories:** -  
-
-Article URL: https://sparai.org/projects/f26/ Comments URL: https://news.ycombinator.com/item?id=49282431 Points: 1 # Comments: 0
-
-📖 [Read original article](https://sparai.org/projects/f26/)
-
----
-
-## 10. AI translates 5k-year-old cuneiform tablets instantly – Big Think
-
-**Author:** janandonly  
-**Published:** 8/13/2026, 6:29:24 AM  
-**Categories:** -  
-
-Article URL: https://bigthink.com/the-future/ai-translates-cuneiform/ Comments URL: https://news.ycombinator.com/item?id=49282415 Points: 1 # Comments: 0
-
-📖 [Read original article](https://bigthink.com/the-future/ai-translates-cuneiform/)
-
----
-
-## 11. My AI agents shipped 128 releases of a product no one ever used
-
-**Author:** guschiriboga  
-**Published:** 8/13/2026, 6:26:55 AM  
-**Categories:** -  
-
-Article URL: https://bramo.ai/blog/01-post-mortem Comments URL: https://news.ycombinator.com/item?id=49282395 Points: 1 # Comments: 0
-
-📖 [Read original article](https://bramo.ai/blog/01-post-mortem)
-
----
-
-## 12. Over 70% of Americans oppose AI data centers; US protests intensify
-
-**Author:** vrganj  
-**Published:** 8/13/2026, 6:12:07 AM  
-**Categories:** -  
-
-Article URL: https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout Comments URL: https://news.ycombinator.com/item?id=49282302 Po...
-
-📖 [Read original article](https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout)
-
----
-
-## 13. Chinese censorship is leaking into answers from American AI
-
-**Author:** dash2  
-**Published:** 8/13/2026, 6:02:42 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/chinese-censorship-is-leaking-into-answers-from-american-ai-62abeca5 Comments URL: https://news.ycombinator.com/item?id=49282247 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.wsj.com/tech/ai/chinese-censorship-is-leaking-into-answers-from-american-ai-62abeca5)
-
----
-
-## 14. AIPass – AI agents with persistent identity, memory, and email
-
-**Author:** AIOSAI  
-**Published:** 8/13/2026, 5:46:04 AM  
-**Categories:** -  
-
-Article URL: https://github.com/AIOSAI/AIPass Comments URL: https://news.ycombinator.com/item?id=49282152 Points: 3 # Comments: 0
-
-📖 [Read original article](https://github.com/AIOSAI/AIPass)
-
----
-
-## 15. General Catalyst leads $1.1B round into 2-month-old River AI
-
-**Author:** doppp  
-**Published:** 8/13/2026, 5:43:23 AM  
-**Categories:** -  
-
-Article URL: https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/ Comments URL: https://news.ycombinator.com/item?id=49282136 Points: 2 # Comments: 0
-
-📖 [Read original article](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/)
-
----
-
-## 16. Apple in Talks to Pay Publishers for News Content to Power Siri AI
-
-**Author:** mgh2  
-**Published:** 8/13/2026, 5:27:51 AM  
-**Categories:** -  
-
-Article URL: https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/ Comments URL: https://news.ycombinator.com/item?id=49282069 Points: 3 # Comments: 2
-
-📖 [Read original article](https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/)
-
----
-
-## 17. Watermarks-remover: Strip multi-vendor AI provenance marks
-
-**Author:** thunderbong  
-**Published:** 8/13/2026, 5:21:36 AM  
-**Categories:** -  
-
-Article URL: https://github.com/guillaumemeyer/watermarks-remover Comments URL: https://news.ycombinator.com/item?id=49282033 Points: 3 # Comments: 0
-
-📖 [Read original article](https://github.com/guillaumemeyer/watermarks-remover)
-
----
-
-## 18. How do I self-host a good-looking AI generated website
-
-**Author:** pcblues  
-**Published:** 8/13/2026, 5:08:48 AM  
-**Categories:** -  
-
-I'm happy to use a service, but most come with hosting plans, and I just want the code so I can host it on my own website.I'm a long-term software developer of the type that isn't good at UI/UX (i.e. scroll bars are the devil, and the mouse isn't much better).I'm soon to do UI as part of my masters ...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49281976)
-
----
-
-## 19. Lossless codec for AI agent messages – 36% fewer tokens, overhead counted
-
-**Author:** reh8n  
-**Published:** 8/13/2026, 4:33:28 AM  
-**Categories:** -  
-
-Article URL: https://github.com/reh8n/a2acompress Comments URL: https://news.ycombinator.com/item?id=49281816 Points: 5 # Comments: 0
-
-📖 [Read original article](https://github.com/reh8n/a2acompress)
-
----
-
-## 20. AI to Kids by Letting Them Tweak Local Chatbots [video]
-
-**Author:** dbreunig  
-**Published:** 8/13/2026, 4:13:50 AM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=fNkt41q7eqs Comments URL: https://news.ycombinator.com/item?id=49281736 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=fNkt41q7eqs)
+📖 [Read original article](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/)
 
 ---
