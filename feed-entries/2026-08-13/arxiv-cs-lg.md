@@ -149,7 +149,7 @@ arXiv:2608.11361v1 Announce Type: new Abstract: Tokenizer vocabulary size is a f
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.11368v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) spends most of its compute generating groups of long reasoning trajectories. Recent allocators reduce this cost by assigning budgets to prompts, rollouts, or tokens according to a pointwise notion o...
+arXiv:2608.11368v2 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) spends most of its compute generating groups of long reasoning trajectories. Recent allocators reduce this cost by assigning budgets to prompts, rollouts, or tokens according to a pointwise notion o...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11368)
 
@@ -617,7 +617,7 @@ arXiv:2608.11691v1 Announce Type: new Abstract: Reinforcement-learning (RL) post
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2608.11698v1 Announce Type: new Abstract: On-policy distillation (OPD) trains a student on its own trajectories under dense token-level supervision from a teacher. Reward-extrapolation methods such as ExOPD amplify the teacher-reference log-likelihood ratio to move beyond direct imitation, but...
+arXiv:2608.11698v2 Announce Type: new Abstract: On-policy distillation (OPD) trains a student on its own trajectories under dense token-level supervision from a teacher. Reward-extrapolation methods such as ExOPD amplify the teacher-reference log-likelihood ratio to move beyond direct imitation, but...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11698)
 
@@ -1009,11 +1009,11 @@ arXiv:2608.12084v1 Announce Type: new Abstract: We consider the setting of Norma
 
 ## 84. Task- and dataset-specific information in protein language models
 
-**Author:** Roman Joeres, Ilya Senatorov, Olga V. Kalinina  
+**Author:** Roman Joeres, Ilya Senatorov, Anastasia Kolchina, Dietrich Klakow, Olga V. Kalinina  
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.LG, q-bio.BM  
 
-arXiv:2608.12090v1 Announce Type: new Abstract: Protein language models (PLMs) have transferred the latest advances from natural language processing to computational biology. These models, trained on large corpora of protein sequence data, are widely used to translate amino acid sequences into laten...
+arXiv:2608.12090v2 Announce Type: new Abstract: Protein language models (PLMs) have transferred the latest advances from natural language processing to computational biology. These models, trained on large corpora of protein sequence data, are widely used to translate amino acid sequences into laten...
 
 📖 [Read original article](https://arxiv.org/abs/2608.12090)
 
@@ -1037,7 +1037,7 @@ arXiv:2608.12100v1 Announce Type: new Abstract: In high-stakes applications, rel
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2608.12108v1 Announce Type: new Abstract: Federated learning (FL) enables collaborative model training across distributed clients while keeping data local. A central challenge is determining which client updates are beneficial for aggregation with respect to each client's target domain. Existi...
+arXiv:2608.12108v2 Announce Type: new Abstract: Federated learning (FL) enables collaborative model training across distributed clients while keeping data local. A central challenge is determining which client updates are beneficial for aggregation with respect to each client's target domain. Existi...
 
 📖 [Read original article](https://arxiv.org/abs/2608.12108)
 
@@ -1757,7 +1757,7 @@ arXiv:2608.11587v1 Announce Type: cross Abstract: Recent advances in model desig
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.SD, cs.LG  
 
-arXiv:2608.11590v1 Announce Type: cross Abstract: Human voice generation has made rapid progress in speech generation, singing voice generation, voice cloning, and voice editing. However, most existing systems are designed for specific tasks and often rely on task-dependent architectures, control si...
+arXiv:2608.11590v2 Announce Type: cross Abstract: Human voice generation has made rapid progress in speech generation, singing voice generation, voice cloning, and voice editing. However, most existing systems are designed for specific tasks and often rely on task-dependent architectures, control si...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11590)
 
@@ -1781,7 +1781,7 @@ arXiv:2608.11597v1 Announce Type: cross Abstract: As smart port infrastructures 
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CV, cs.LG  
 
-arXiv:2608.11616v1 Announce Type: cross Abstract: Agentic systems powered by large language models (LLMs) have opened new opportunities for business ideation. Yet existing approaches remain confined to a text-only paradigm, despite the inherently multimodal nature of real-world contexts. We thus int...
+arXiv:2608.11616v2 Announce Type: cross Abstract: Agentic systems powered by large language models (LLMs) have opened new opportunities for business ideation. Yet existing approaches remain confined to a text-only paradigm, despite the inherently multimodal nature of real-world contexts. We thus int...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11616)
 
@@ -1873,11 +1873,11 @@ arXiv:2608.11759v1 Announce Type: cross Abstract: Non-destructive X-ray imaging 
 
 ## 156. Tight Nonasymptotic Local Convergence of Sinkhorn-Knopp
 
-**Author:** Wenzhi Gao, Zhaonan Qu, Yinyu Ye, Madeleine Odell  
+**Author:** Wenzhi Gao, Zhaonan Qu, Yinyu Ye, Madeleine Udell  
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** math.OC, cs.LG, stat.ML  
 
-arXiv:2608.11760v1 Announce Type: cross Abstract: We revisit the Sinkhorn-Knopp (SK) algorithm for the matrix scaling problem. Despite extensive literature on the global convergence of SK and its variants, its local linear convergence behavior remains less understood. We address this gap by providin...
+arXiv:2608.11760v2 Announce Type: cross Abstract: We revisit the Sinkhorn-Knopp (SK) algorithm for the matrix scaling problem. Despite extensive literature on the global convergence of SK and its variants, its local linear convergence behavior remains less understood. We address this gap by providin...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11760)
 
