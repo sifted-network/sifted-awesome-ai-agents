@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-13"
 date: "2026-08-13"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-08-13
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ SSI第一剑，劈向持续学习
 当季实现营收1834亿元人民币，同比猛增43%，创历史新高
 
 📖 [Read original article](https://www.qbitai.com/2026/08/471697.html)
-
----
-
-## 10. 倒计时｜2026世界机器人大会主论坛议程发布！
-
-**Author:** 量子位的朋友们  
-**Published:** 8/13/2026, 5:10:50 AM  
-**Categories:** 资讯, 首页轮播, 2026世界机器人大会  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/08/471668.html)
 
 ---
