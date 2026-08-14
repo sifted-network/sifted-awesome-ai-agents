@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-13"
 date: "2026-08-13"
 source: "qbitai"
-count: 5
+count: 2
 ---
 
 # qbitai - 2026-08-13
 
-5 items collected.
+2 items collected.
 
 ---
 
@@ -32,41 +32,5 @@ count: 5
 首颗AI芯片已进入量产
 
 📖 [Read original article](https://www.qbitai.com/2026/08/472059.html)
-
----
-
-## 3. 马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购
-
-**Author:** 克雷西  
-**Published:** 8/13/2026, 12:04:29 PM  
-**Categories:** 资讯, Grok  
-
-马斯克版Workbuddy也来了
-
-📖 [Read original article](https://www.qbitai.com/2026/08/472067.html)
-
----
-
-## 4. 具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施
-
-**Author:** 允中  
-**Published:** 8/13/2026, 11:53:02 AM  
-**Categories:** 资讯, 具身智能  
-
-重新定义物理AI数据基础设施
-
-📖 [Read original article](https://www.qbitai.com/2026/08/472060.html)
-
----
-
-## 5. Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表
-
-**Author:** 衡宇  
-**Published:** 8/13/2026, 11:29:04 AM  
-**Categories:** 资讯, Claude, 哈达玛矩阵, 离散数学  
-
-好数学家不挑AI模型
-
-📖 [Read original article](https://www.qbitai.com/2026/08/472016.html)
 
 ---
