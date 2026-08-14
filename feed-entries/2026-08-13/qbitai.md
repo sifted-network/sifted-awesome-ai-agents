@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-13"
 date: "2026-08-13"
 source: "qbitai"
-count: 9
+count: 5
 ---
 
 # qbitai - 2026-08-13
 
-9 items collected.
+5 items collected.
 
 ---
 
@@ -68,53 +68,5 @@ count: 9
 好数学家不挑AI模型
 
 📖 [Read original article](https://www.qbitai.com/2026/08/472016.html)
-
----
-
-## 6. 中国人能飞！杭州发布全球首款站姿载人飞行器
-
-**Author:** 杰西卡  
-**Published:** 8/13/2026, 10:20:32 AM  
-**Categories:** 资讯, eVTOL  
-
-让一部分人先飞起来
-
-📖 [Read original article](https://www.qbitai.com/2026/08/471893.html)
-
----
-
-## 7. 科大讯飞发布企业服务全系列产品 覆盖七大核心场景
-
-**Author:** 量子位的朋友们  
-**Published:** 8/13/2026, 10:01:47 AM  
-**Categories:** 资讯, 科大讯飞  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/08/471884.html)
-
----
-
-## 8. 刚刚！Ilya首个模型曝光了
-
-**Author:** henry  
-**Published:** 8/13/2026, 8:36:53 AM  
-**Categories:** 资讯, Ilya, 持续学习  
-
-SSI第一剑，劈向持续学习
-
-📖 [Read original article](https://www.qbitai.com/2026/08/471701.html)
-
----
-
-## 9. 联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期
-
-**Author:** 允中  
-**Published:** 8/13/2026, 6:33:52 AM  
-**Categories:** 资讯, 联想  
-
-当季实现营收1834亿元人民币，同比猛增43%，创历史新高
-
-📖 [Read original article](https://www.qbitai.com/2026/08/471697.html)
 
 ---
