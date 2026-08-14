@@ -2,16 +2,52 @@
 title: "qbitai - 2026-08-14"
 date: "2026-08-14"
 source: "qbitai"
-count: 5
+count: 8
 ---
 
 # qbitai - 2026-08-14
 
-5 items collected.
+8 items collected.
 
 ---
 
-## 1. 太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募
+## 1. 刚刚，Qwen3.8-27B 开源了！家用显卡也能跑
+
+**Author:** 量子位的朋友们  
+**Published:** 8/14/2026, 3:41:12 PM  
+**Categories:** 资讯, qweb3.8  
+
+所有人都可免费下载部署及商用。
+
+📖 [Read original article](https://www.qbitai.com/2026/08/473379.html)
+
+---
+
+## 2. 7亿年薪留不住！余家辉离职Meta创业
+
+**Author:** 听雨  
+**Published:** 8/14/2026, 2:59:25 PM  
+**Categories:** 资讯, 首页轮播  
+
+真就只待了一年
+
+📖 [Read original article](https://www.qbitai.com/2026/08/473261.html)
+
+---
+
+## 3. 谷歌开始肢解DeepMind，数个团队被划归总部
+
+**Author:** 听雨  
+**Published:** 8/14/2026, 2:51:48 PM  
+**Categories:** 资讯  
+
+布林亲自下场督战
+
+📖 [Read original article](https://www.qbitai.com/2026/08/473153.html)
+
+---
+
+## 4. 太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募
 
 **Author:** 量子位的朋友们  
 **Published:** 8/14/2026, 10:25:36 AM  
@@ -23,7 +59,7 @@ count: 5
 
 ---
 
-## 2. 刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了
+## 5. 刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了
 
 **Author:** 十三  
 **Published:** 8/14/2026, 8:47:51 AM  
@@ -35,7 +71,7 @@ count: 5
 
 ---
 
-## 3. 百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端
+## 6. 百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端
 
 **Author:** 量子位的朋友们  
 **Published:** 8/14/2026, 8:36:00 AM  
@@ -47,7 +83,7 @@ count: 5
 
 ---
 
-## 4. 算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」
+## 7. 算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」
 
 **Author:** 田, 晏林  
 **Published:** 8/14/2026, 7:29:22 AM  
@@ -59,7 +95,7 @@ count: 5
 
 ---
 
-## 5. 德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集
+## 8. 德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集
 
 **Author:** 量子位的朋友们  
 **Published:** 8/14/2026, 6:18:56 AM  
