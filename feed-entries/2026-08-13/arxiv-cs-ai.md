@@ -605,7 +605,7 @@ arXiv:2608.11605v1 Announce Type: new Abstract: World Action Models (WAMs) coupl
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CV, cs.LG  
 
-arXiv:2608.11616v1 Announce Type: new Abstract: Agentic systems powered by large language models (LLMs) have opened new opportunities for business ideation. Yet existing approaches remain confined to a text-only paradigm, despite the inherently multimodal nature of real-world contexts. We thus intro...
+arXiv:2608.11616v2 Announce Type: new Abstract: Agentic systems powered by large language models (LLMs) have opened new opportunities for business ideation. Yet existing approaches remain confined to a text-only paradigm, despite the inherently multimodal nature of real-world contexts. We thus intro...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11616)
 
@@ -773,7 +773,7 @@ arXiv:2608.11905v1 Announce Type: new Abstract: In many practical applications o
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.11941v1 Announce Type: new Abstract: We construct OEIS Open, a benchmark based on 492 open mathematical conjectures from the OEIS, formalized in Lean by Tsoukalas et al. Whereas these conjectures had previously been attempted only with a bespoke agent, our open-source evaluation code runs...
+arXiv:2608.11941v2 Announce Type: new Abstract: We construct OEIS Open, a benchmark based on 492 open mathematical conjectures from the OEIS, formalized in Lean by Tsoukalas et al. Whereas these conjectures had previously been attempted only with a bespoke agent, our open-source evaluation code runs...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11941)
 
@@ -1217,7 +1217,7 @@ arXiv:2608.11340v1 Announce Type: cross Abstract: Symbolic network verifiers can
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.CY, cs.AI, q-fin.RM  
 
-arXiv:2608.11344v1 Announce Type: cross Abstract: Financial institutions are delegating consequential decisions to agentic AI systems that decompose goals, coordinate models and tools, and act with little oversight. Yet agentic AI governance in FinTech is under-investigated. We argue the binding gov...
+arXiv:2608.11344v2 Announce Type: cross Abstract: Financial institutions are delegating consequential decisions to agentic AI systems that decompose goals, coordinate models and tools, and act with little oversight. Yet agentic AI governance in FinTech is under-investigated. We argue the binding gov...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11344)
 
@@ -1253,7 +1253,7 @@ arXiv:2608.11367v1 Announce Type: cross Abstract: Estimating human gaze targets 
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI  
 
-arXiv:2608.11392v1 Announce Type: cross Abstract: Long-running agents periodically compact their context, replacing the transcript with a model-generated summary.Recent work shows that dropping a standing safety constraint during compaction drives behavioral violations acrossmany models (Governance ...
+arXiv:2608.11392v2 Announce Type: cross Abstract: Long-running agents periodically compact their context, replacing the transcript with a model-generated summary. Recent work shows that dropping a standing safety constraint during compaction drives behavioral violations across many models (Governanc...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11392)
 
@@ -1385,7 +1385,7 @@ arXiv:2608.11513v1 Announce Type: cross Abstract: Large Language Models (LLMs) a
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2608.11521v1 Announce Type: cross Abstract: World action models (WAMs) condition robot actions on predicted futures, but iterative video rollout increases deployment latency. We ask whether action generation requires the evolving rollout trajectory or only its future representation. Across fou...
+arXiv:2608.11521v2 Announce Type: cross Abstract: World action models (WAMs) condition robot actions on predicted futures, but iterative video rollout increases deployment latency. We ask whether action generation requires the evolving rollout trajectory or only its future representation. Across fou...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11521)
 
@@ -1673,7 +1673,7 @@ arXiv:2608.11694v1 Announce Type: cross Abstract: A benchmark score comes from a
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2608.11698v1 Announce Type: cross Abstract: On-policy distillation (OPD) trains a student on its own trajectories under dense token-level supervision from a teacher. Reward-extrapolation methods such as ExOPD amplify the teacher-reference log-likelihood ratio to move beyond direct imitation, b...
+arXiv:2608.11698v2 Announce Type: cross Abstract: On-policy distillation (OPD) trains a student on its own trajectories under dense token-level supervision from a teacher. Reward-extrapolation methods such as ExOPD amplify the teacher-reference log-likelihood ratio to move beyond direct imitation, b...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11698)
 
@@ -1973,7 +1973,7 @@ arXiv:2608.11907v1 Announce Type: cross Abstract: As Large Vision-Language Model
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** quant-ph, cond-mat.dis-nn, cond-mat.str-el, cs.AI  
 
-arXiv:2608.11911v1 Announce Type: cross Abstract: A central promise of useful quantum advantage is the ability to compute ground states of Hamiltonian systems beyond the reach of classical simulation methods. Here we demonstrate that this problem can be effectively amortized across an arbitrary and ...
+arXiv:2608.11911v2 Announce Type: cross Abstract: A central promise of useful quantum advantage is the ability to compute ground states of Hamiltonian systems beyond the reach of classical simulation methods. Here we demonstrate that this problem can be effectively amortized across an arbitrary and ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.11911)
 
@@ -2341,11 +2341,11 @@ arXiv:2608.12198v1 Announce Type: cross Abstract: Recent research in machine and
 
 ## 195. Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge
 
-**Author:** Arda Uzunoglu, Benjamin van Durme, Daniel Khashabi  
+**Author:** Arda Uzunoglu, Benjamin Van Durme, Daniel Khashabi  
 **Published:** 8/13/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2608.12218v1 Announce Type: cross Abstract: Large language models are increasingly trained and deployed with long contexts that span documents, code repositories, and interaction histories. This scaling reflects the implicit assumption that training on longer contexts will only help the model ...
+arXiv:2608.12218v2 Announce Type: cross Abstract: Large language models are increasingly trained and deployed with long contexts that span documents, code repositories, and interaction histories. This scaling reflects the implicit assumption that training on longer contexts will only help the model ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.12218)
 
