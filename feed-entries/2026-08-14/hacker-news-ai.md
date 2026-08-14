@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Hugging Face CEO says China is winning the AI race and dominating on open models
+## 1. Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI
 
-**Author:** igravious  
-**Published:** 8/14/2026, 12:58:46 PM  
+**Author:** gmays  
+**Published:** 8/14/2026, 6:42:57 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html Comments URL: https://news.ycombinator.com/item?id=49298105 Points: 1 # Comments: 0
+Article URL: https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html Comments URL: https://news.ycombinator.com/item?id=49302933 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html)
+📖 [Read original article](https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html)
 
 ---
 
-## 2. We tested every venue in 2 Bali regions against 4 AI assistants
+## 2. Show HN: Captain, AI Travel Agent
 
-**Author:** fspunch  
-**Published:** 8/14/2026, 12:57:16 PM  
+**Author:** fathermerry  
+**Published:** 8/14/2026, 6:25:20 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2608.07069 Comments URL: https://news.ycombinator.com/item?id=49298092 Points: 1 # Comments: 0
+I’m a software designer from Lagos exploring conversational interfaces and frameworks for building agents. I made Captain to help with everyday travel planning. It can explore an itinerary, check live flight prices, or watch for the right time to book. Captain is a Telegram bot powered by a generali...
 
-📖 [Read original article](https://arxiv.org/abs/2608.07069)
+📖 [Read original article](https://www.moonlight.ng/captain/)
 
 ---
 
-## 3. HashAgent – Share an AI agent as a URL, runs locally via WebGPU
+## 3. Show HN: Open-source and AI native web analytics
 
-**Author:** masonhsu  
-**Published:** 8/14/2026, 12:57:02 PM  
+**Author:** rahulbridge  
+**Published:** 8/14/2026, 6:17:42 PM  
 **Categories:** -  
 
-Article URL: https://hashagent.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49298088 Points: 1 # Comments: 0
+Article URL: https://github.com/OpenLabs-so/openanalytics Comments URL: https://news.ycombinator.com/item?id=49302597 Points: 3 # Comments: 0
 
-📖 [Read original article](https://hashagent.pages.dev/)
+📖 [Read original article](https://github.com/OpenLabs-so/openanalytics)
 
 ---
 
-## 4. Yes, you still need to know fundamentals even with AI
+## 4. We urgently need a coherent national AI cybersecurity policy
 
-**Author:** meysamazad  
-**Published:** 8/14/2026, 12:51:57 PM  
+**Author:** paulpauper  
+**Published:** 8/14/2026, 6:15:00 PM  
 **Categories:** -  
 
-Article URL: https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49298052 Points: 2 # Comments: 0
+Article URL: https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national Comments URL: https://news.ycombinator.com/item?id=49302565 Points: 2 # Comments: 1
 
-📖 [Read original article](https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/)
+📖 [Read original article](https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national)
 
 ---
 
-## 5. AI will converge towards intuition-guided symbolic world modeling
+## 5. An easy way to build self-diagnosing and self-learning AI agents in production
 
-**Author:** tosh  
-**Published:** 8/14/2026, 12:43:07 PM  
+**Author:** supportm  
+**Published:** 8/14/2026, 5:55:36 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/fchollet/status/2072779641639875048 Comments URL: https://news.ycombinator.com/item?id=49297977 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=2x0BKQBMbF4 Comments URL: https://news.ycombinator.com/item?id=49302294 Points: 4 # Comments: 1
 
-📖 [Read original article](https://twitter.com/fchollet/status/2072779641639875048)
+📖 [Read original article](https://www.youtube.com/watch?v=2x0BKQBMbF4)
 
 ---
 
-## 6. SEtting up AI search rank tracking easily
+## 6. When facts change, should AI memory change?
 
-**Author:** RasmusSoerensen  
-**Published:** 8/14/2026, 12:35:44 PM  
+**Author:** Zongming  
+**Published:** 8/14/2026, 5:46:26 PM  
 **Categories:** -  
 
-Article URL: https://github.com/razz1000/ai-search-rank-tracking-example-repo Comments URL: https://news.ycombinator.com/item?id=49297909 Points: 1 # Comments: 0
+Article URL: https://github.com/Anchorstate-Lab/GMR Comments URL: https://news.ycombinator.com/item?id=49302149 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/razz1000/ai-search-rank-tracking-example-repo)
+📖 [Read original article](https://github.com/Anchorstate-Lab/GMR)
 
 ---
 
-## 7. Charisma, confidence and no fear of AI taking their jobs. The personality hires
+## 7. Apple trains its own AI model for China market with Alibaba's support, sources
 
-**Author:** newsomix9xl  
-**Published:** 8/14/2026, 12:34:39 PM  
+**Author:** newusertoday  
+**Published:** 8/14/2026, 5:43:35 PM  
 **Categories:** -  
 
-Article URL: https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=djem_mwnpfinance Comments URL: https://news.ycombinator.com/item?id=49297897 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49302098 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=djem_mwnpfinance)
+📖 [Read original article](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/)
 
 ---
 
-## 8. Terence Tao Lecture: Mathematics in the Age of AI [video]
+## 8. AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It
 
-**Author:** marvinborner  
-**Published:** 8/14/2026, 12:24:23 PM  
+**Author:** Growtika  
+**Published:** 8/14/2026, 5:41:56 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=M0--ZH1lOzg Comments URL: https://news.ycombinator.com/item?id=49297816 Points: 3 # Comments: 0
+Article URL: https://growtika.com/blog/reddit-ai-visibility-research Comments URL: https://news.ycombinator.com/item?id=49302070 Points: 4 # Comments: 2
 
-📖 [Read original article](https://www.youtube.com/watch?v=M0--ZH1lOzg)
+📖 [Read original article](https://growtika.com/blog/reddit-ai-visibility-research)
 
 ---
 
-## 9. Show HN: Artifex - Graph Based GPU Harness for AI Agents
+## 9. 1,1 mld USD dla River AI: Co oznacza rewolucja spersonalizowanego AI?
 
-**Author:** oknaslnkn  
-**Published:** 8/14/2026, 12:15:13 PM  
+**Author:** mbarczynski  
+**Published:** 8/14/2026, 5:41:09 PM  
 **Categories:** -  
 
-Artifex is a machine-first, headless CLI runtime built for autonomous coding agents to author, validate, and render media node graphs locally. Similar to Deepseek harness released yesterday; which ground models in modular execution environments, Artifex gives agents a structured machine contract to ...
+Article URL: https://neurise.io/blog-auto-1-1-mld-usd-dla-river-ai-rewolucja-spersonalizowanego-ai.html Comments URL: https://news.ycombinator.com/item?id=49302058 Points: 1 # Comments: 0
 
-📖 [Read original article](https://gatewai.studio/artifex)
+📖 [Read original article](https://neurise.io/blog-auto-1-1-mld-usd-dla-river-ai-rewolucja-spersonalizowanego-ai.html)
 
 ---
 
-## 10. Open Silicon Photonics for AI Systems Initiative
+## 10. Agentic AI drops digits, This library catches them before it runs in fintech
 
-**Author:** giuliomagnifico  
-**Published:** 8/14/2026, 11:58:52 AM  
+**Author:** parvaamin  
+**Published:** 8/14/2026, 5:32:07 PM  
 **Categories:** -  
 
-Article URL: https://lightmatter.co/press-release/industry-leaders-formally-launch-cpo-system-architecture-initiative-within-the-open-compute-project/ Comments URL: https://news.ycombinator.com/item?id=49297623 Points: 2 # Comments: 0
+Article URL: https://github.com/insightitsGit/PrismManifest Comments URL: https://news.ycombinator.com/item?id=49301925 Points: 1 # Comments: 0
 
-📖 [Read original article](https://lightmatter.co/press-release/industry-leaders-formally-launch-cpo-system-architecture-initiative-within-the-open-compute-project/)
+📖 [Read original article](https://github.com/insightitsGit/PrismManifest)
 
 ---
 
-## 11. Error by AI scribe during medical appointment leaves patient devastated
+## 11. Nvidia's $500B Plan Envelops Wall Sreett in Its AI Frenzy
 
-**Author:** martyvis  
-**Published:** 8/14/2026, 11:55:21 AM  
+**Author:** petethomas  
+**Published:** 8/14/2026, 5:28:35 PM  
 **Categories:** -  
 
-Article URL: https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672 Comments URL: https://news.ycombinator.com/item?id=49297595 Points: 2 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy Comments URL: https://news.ycombinator.com/item?id=49301890 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy)
 
 ---
 
-## 12. AI Watermarks, Skill Loss and GenAI – Food for Agile Thought #557
+## 12. Ask HN: Has anyone been fired because of an AI-driven DDoS attack?
 
-**Author:** swolpers  
-**Published:** 8/14/2026, 11:51:59 AM  
+**Author:** novateg  
+**Published:** 8/14/2026, 5:24:08 PM  
 **Categories:** -  
 
-Article URL: https://age-of-product.com/food-agile-thought-557-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49297573 Points: 1 # Comments: 0
+I’m curious whether anyone here has experienced the human/business impact of the recent increase in automated or AI-assisted traffic and DDoS attacks.Has anyone actually lost their job, been fired, or had their team significantly downsized after an attack caused a major outage, unexpected cloud bill...
 
-📖 [Read original article](https://age-of-product.com/food-agile-thought-557-ai-watermarks/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49301819)
 
 ---
 
-## 13. Which GPU Is Suitable for Running Your AI Workloads?
+## 13. Training AI Scientists to Replicate Research
 
-**Author:** Liriel  
-**Published:** 8/14/2026, 11:49:33 AM  
+**Author:** pixelmoth  
+**Published:** 8/14/2026, 5:20:01 PM  
 **Categories:** -  
 
-Article URL: https://3hcloud.com/blog/which-gpu-is-suitable-for-your-ai-workload Comments URL: https://news.ycombinator.com/item?id=49297548 Points: 1 # Comments: 0
+Article URL: https://inherentlabs.ai/research/training-to-replicate Comments URL: https://news.ycombinator.com/item?id=49301764 Points: 2 # Comments: 0
 
-📖 [Read original article](https://3hcloud.com/blog/which-gpu-is-suitable-for-your-ai-workload)
+📖 [Read original article](https://inherentlabs.ai/research/training-to-replicate)
 
 ---
 
-## 14. The EU AI Act Is Now a Business-Blocking Risk for Vertical AI
+## 14. Fortunes from AI revive effective altruism after Sam Bankman-Fried turmoil
 
-**Author:** Arshad-Talpur  
-**Published:** 8/14/2026, 11:47:22 AM  
+**Author:** aanet  
+**Published:** 8/14/2026, 5:07:06 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@MirArshadTalpur/the-eu-ai-act-is-now-a-business-blocking-risk-for-vertical-ai-heres-the-one-fix-that-closes-the-9d7ecfa62a48 Comments URL: https://news.ycombinator.com/item?id=49297525 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/938b4b82-06d2-4b92-a807-38d935d7d5c5 Comments URL: https://news.ycombinator.com/item?id=49301587 Points: 3 # Comments: 1
 
-📖 [Read original article](https://medium.com/@MirArshadTalpur/the-eu-ai-act-is-now-a-business-blocking-risk-for-vertical-ai-heres-the-one-fix-that-closes-the-9d7ecfa62a48)
+📖 [Read original article](https://www.ft.com/content/938b4b82-06d2-4b92-a807-38d935d7d5c5)
 
 ---
 
-## 15. Anthropic Is Quietly Watermarking Every Claude AI Output
+## 15. Why Open Source Matters for AI
 
-**Author:** _____k  
-**Published:** 8/14/2026, 11:43:38 AM  
+**Author:** BerislavLopac  
+**Published:** 8/14/2026, 5:06:09 PM  
 **Categories:** -  
 
-Article URL: https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break Comments URL: https://news.ycombinator.com/item?id=49297489 Points: 2 # Comments: 0
+Article URL: https://www.oreilly.com/radar/why-open-source-matters-for-ai/ Comments URL: https://news.ycombinator.com/item?id=49301569 Points: 6 # Comments: 0
 
-📖 [Read original article](https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break)
+📖 [Read original article](https://www.oreilly.com/radar/why-open-source-matters-for-ai/)
 
 ---
 
-## 16. My Anti AI Computer
+## 16. Muxel – a multi-agent terminal multiplexer for AI coding agents
 
-**Author:** birdculture  
-**Published:** 8/14/2026, 11:37:40 AM  
+**Author:** ankitg12  
+**Published:** 8/14/2026, 5:03:35 PM  
 **Categories:** -  
 
-Article URL: https://punkx.org/jackdoe/home.html Comments URL: https://news.ycombinator.com/item?id=49297438 Points: 2 # Comments: 0
+Article URL: https://muxel.sh/ Comments URL: https://news.ycombinator.com/item?id=49301533 Points: 3 # Comments: 0
 
-📖 [Read original article](https://punkx.org/jackdoe/home.html)
+📖 [Read original article](https://muxel.sh/)
 
 ---
 
-## 17. Model Context Protocol (MCP) Explained: How AI Agents Connect to Any Tool
+## 17. Beyond Zero: Enterprise Security for the AI Era
 
-**Author:** hamidze  
-**Published:** 8/14/2026, 11:36:38 AM  
+**Author:** joozio  
+**Published:** 8/14/2026, 5:02:47 PM  
 **Categories:** -  
 
-Article URL: https://stikastudio.com/blog/what-is-model-context-protocol/ Comments URL: https://news.ycombinator.com/item?id=49297428 Points: 1 # Comments: 0
+Article URL: https://queue.acm.org/detail.cfm Comments URL: https://news.ycombinator.com/item?id=49301521 Points: 2 # Comments: 0
 
-📖 [Read original article](https://stikastudio.com/blog/what-is-model-context-protocol/)
+📖 [Read original article](https://queue.acm.org/detail.cfm)
 
 ---
 
-## 18. Dashboard tracking math problems being solved by AI
+## 18. Just how big is the hidden leverage of AI hyperscalers?
 
-**Author:** lnrd  
-**Published:** 8/14/2026, 11:33:50 AM  
+**Author:** johnbarron  
+**Published:** 8/14/2026, 5:02:45 PM  
 **Categories:** -  
 
-Article URL: https://vibemathed.com Comments URL: https://news.ycombinator.com/item?id=49297396 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3 Comments URL: https://news.ycombinator.com/item?id=49301519 Points: 7 # Comments: 1
 
-📖 [Read original article](https://vibemathed.com)
+📖 [Read original article](https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3)
 
 ---
 
-## 19. Show HN: LinkGravity – chat and voice bridge for AI coding agents
+## 19. Meta Patents AI Glasses to Use Facial Recognition to Identify People
 
-**Author:** sseul  
-**Published:** 8/14/2026, 11:28:38 AM  
+**Author:** Jimmc414  
+**Published:** 8/14/2026, 4:49:44 PM  
 **Categories:** -  
 
-Article URL: https://github.com/dev-sseul/linkgravity Comments URL: https://news.ycombinator.com/item?id=49297348 Points: 1 # Comments: 0
+Article URL: https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/ Comments URL: https://news.ycombinator.com/item?id=49301302 Points: 3 # Comments: 1
 
-📖 [Read original article](https://github.com/dev-sseul/linkgravity)
+📖 [Read original article](https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/)
 
 ---
 
-## 20. AI companies destroy physical books. Help scan rare books, with rewards
+## 20. Show HN: I built a tool that delegates bounded spending to an AI agent
 
-**Author:** ALLTaken  
-**Published:** 8/14/2026, 11:22:13 AM  
+**Author:** meyerdav  
+**Published:** 8/14/2026, 4:39:52 PM  
 **Categories:** -  
 
-Article URL: https://fr.annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49297292 Points: 1 # Comments: 0
+Article URL: https://github.com/meyerdav24/molt Comments URL: https://news.ycombinator.com/item?id=49301168 Points: 2 # Comments: 0
 
-📖 [Read original article](https://fr.annas-archive.gl/blog/physical-destruction.html)
+📖 [Read original article](https://github.com/meyerdav24/molt)
 
 ---
