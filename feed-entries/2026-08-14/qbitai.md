@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-14"
 date: "2026-08-14"
 source: "qbitai"
-count: 6
+count: 4
 ---
 
 # qbitai - 2026-08-14
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ count: 6
 
 
 📖 [Read original article](https://www.qbitai.com/2026/08/473149.html)
-
----
-
-## 5. 刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了
-
-**Author:** 十三  
-**Published:** 8/14/2026, 8:47:51 AM  
-**Categories:** 资讯, 首页轮播, GLM-5.3, 开源模型, 智谱  
-
-顺手拿下最强开源安全模型
-
-📖 [Read original article](https://www.qbitai.com/2026/08/473038.html)
-
----
-
-## 6. 百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端
-
-**Author:** 量子位的朋友们  
-**Published:** 8/14/2026, 8:36:00 AM  
-**Categories:** 资讯, 百度文库网盘  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/08/473144.html)
 
 ---
