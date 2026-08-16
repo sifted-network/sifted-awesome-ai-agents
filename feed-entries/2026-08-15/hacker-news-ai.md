@@ -2,12 +2,12 @@
 title: "Hacker News AI - 2026-08-15"
 date: "2026-08-15"
 source: "Hacker News AI"
-count: 16
+count: 9
 ---
 
 # Hacker News AI - 2026-08-15
 
-16 items collected.
+9 items collected.
 
 ---
 
@@ -17,7 +17,7 @@ count: 16
 **Published:** 8/15/2026, 11:10:56 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html Comments URL: https://news.ycombinator.com/item?id=49315160 Points: 2 # Comments: 0
+Article URL: https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html Comments URL: https://news.ycombinator.com/item?id=49315160 Points: 3 # Comments: 0
 
 📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html)
 
@@ -29,7 +29,7 @@ Article URL: https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-
 **Published:** 8/15/2026, 10:41:51 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 2 # Comments: 0
+Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 21 # Comments: 2
 
 📖 [Read original article](https://arxiv.org/abs/2608.13122)
 
@@ -53,7 +53,7 @@ Article URL: https://fbirds5230.github.io/sentinel-scan/ Comments URL: https://n
 **Published:** 8/15/2026, 9:44:48 PM  
 **Categories:** -  
 
-Article URL: https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/ Comments URL: https://news.ycombinator.com/item?id=49314608 Points: 3 # Comments: 0
+Article URL: https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/ Comments URL: https://news.ycombinator.com/item?id=49314608 Points: 4 # Comments: 0
 
 📖 [Read original article](https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/)
 
@@ -65,7 +65,7 @@ Article URL: https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_id
 **Published:** 8/15/2026, 9:27:31 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/ Comments URL: https://news.ycombinator.com/item?id=49314494 Points: 8 # Comments: 1
+Article URL: https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/ Comments URL: https://news.ycombinator.com/item?id=49314494 Points: 9 # Comments: 2
 
 📖 [Read original article](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/)
 
@@ -89,7 +89,7 @@ Article URL: https://tokenlab.sh/zh/mcp Comments URL: https://news.ycombinator.c
 **Published:** 8/15/2026, 9:18:21 PM  
 **Categories:** -  
 
-Article URL: https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever Comments URL: https://news.ycombinator.com/item?id=49314435 Points: 8 # Comments: 0
+Article URL: https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever Comments URL: https://news.ycombinator.com/item?id=49314435 Points: 12 # Comments: 0
 
 📖 [Read original article](https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever)
 
@@ -101,7 +101,7 @@ Article URL: https://www.timeshighereducation.com/opinion/ai-makes-foundational-
 **Published:** 8/15/2026, 9:06:05 PM  
 **Categories:** -  
 
-Article URL: https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/ Comments URL: https://news.ycombinator.com/item?id=49314329 Points: 3 # Comments: 0
+Article URL: https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/ Comments URL: https://news.ycombinator.com/item?id=49314329 Points: 4 # Comments: 0
 
 📖 [Read original article](https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/)
 
@@ -116,89 +116,5 @@ Article URL: https://www.scientificamerican.com/podcast/episode/a-nonspeaking-pe
 Article URL: https://glad-ia-tor.com Comments URL: https://news.ycombinator.com/item?id=49314034 Points: 2 # Comments: 0
 
 📖 [Read original article](https://glad-ia-tor.com)
-
----
-
-## 10. Meta will train its AI on Newsmax, a far-right media outlet
-
-**Author:** Fellw  
-**Published:** 8/15/2026, 8:00:14 PM  
-**Categories:** -  
-
-Article URL: https://popular.info/p/meta-will-train-its-ai-on-far-right Comments URL: https://news.ycombinator.com/item?id=49313778 Points: 19 # Comments: 12
-
-📖 [Read original article](https://popular.info/p/meta-will-train-its-ai-on-far-right)
-
----
-
-## 11. Secondhand booksellers in UK and Ireland suspect AI firms 'strange' bulk orders
-
-**Author:** heisenbit  
-**Published:** 8/15/2026, 7:59:41 PM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition Comments URL: https://news.ycombinator.com/item?id=49313772 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition)
-
----
-
-## 12. Why tech bosses keep sharing their manifestos about AI
-
-**Author:** tcp_handshaker  
-**Published:** 8/15/2026, 7:30:32 PM  
-**Categories:** -  
-
-Article URL: https://www.bbc.com/news/articles/cz97ljy91zxo Comments URL: https://news.ycombinator.com/item?id=49313519 Points: 19 # Comments: 54
-
-📖 [Read original article](https://www.bbc.com/news/articles/cz97ljy91zxo)
-
----
-
-## 13. AI in drug discovery – what it is, where we stand and the path forward
-
-**Author:** AnodicElegy  
-**Published:** 8/15/2026, 7:12:53 PM  
-**Categories:** -  
-
-https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 84 # Comments: 42
-
-📖 [Read original article](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
-
----
-
-## 14. The Three AI Pills
-
-**Author:** stuartmemo  
-**Published:** 8/15/2026, 6:24:27 PM  
-**Categories:** -  
-
-Article URL: https://thezvi.substack.com/p/the-three-ai-pills Comments URL: https://news.ycombinator.com/item?id=49312959 Points: 6 # Comments: 1
-
-📖 [Read original article](https://thezvi.substack.com/p/the-three-ai-pills)
-
----
-
-## 15. Alibaba AI Models Hit 3B Downloads, Passing Meta, Google
-
-**Author:** pluc  
-**Published:** 8/15/2026, 6:15:48 PM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google Comments URL: https://news.ycombinator.com/item?id=49312866 Points: 6 # Comments: 1
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google)
-
----
-
-## 16. AI has access to a vastly larger working memory than the human brain
-
-**Author:** rzk  
-**Published:** 8/15/2026, 6:13:02 PM  
-**Categories:** -  
-
-Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 406 # Comments: 363
-
-📖 [Read original article](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
