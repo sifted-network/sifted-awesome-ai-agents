@@ -2,16 +2,52 @@
 title: "qbitai - 2026-08-16"
 date: "2026-08-16"
 source: "qbitai"
-count: 2
+count: 5
 ---
 
 # qbitai - 2026-08-16
 
-2 items collected.
+5 items collected.
 
 ---
 
-## 1. WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队
+## 1. 杭州95后小伙，5亿买走硅谷城堡
+
+**Author:** 鹭羽  
+**Published:** 8/16/2026, 11:51:08 AM  
+**Categories:** 资讯, 首页轮播, xAI, 马斯克  
+
+辞别马斯克xAI半年之后…
+
+📖 [Read original article](https://www.qbitai.com/2026/08/474245.html)
+
+---
+
+## 2. 李飞飞最新访谈：AI咋能代替人呢？
+
+**Author:** 一水  
+**Published:** 8/16/2026, 10:45:47 AM  
+**Categories:** 资讯, 李飞飞  
+
+AI不是替代者，而是个人能力的放大镜
+
+📖 [Read original article](https://www.qbitai.com/2026/08/474140.html)
+
+---
+
+## 3. “B站教AI”爆火后，北航90后副教授何静回应一切
+
+**Author:** 一水  
+**Published:** 8/16/2026, 10:36:47 AM  
+**Categories:** 资讯, 人物专访  
+
+“错过种一棵树最好的时间”
+
+📖 [Read original article](https://www.qbitai.com/2026/08/474064.html)
+
+---
+
+## 4. WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队
 
 **Author:** 一水  
 **Published:** 8/16/2026, 5:37:39 AM  
@@ -23,7 +59,7 @@ count: 2
 
 ---
 
-## 2. 牛来！A社营收暴涨1400%，最新季度入账115亿美元
+## 5. 牛来！A社营收暴涨1400%，最新季度入账115亿美元
 
 **Author:** henry  
 **Published:** 8/16/2026, 5:28:42 AM  
