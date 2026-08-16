@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-13"
 date: "2026-08-13"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-08-13
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algo
 Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts RefCOCO grounding from 57.1 to 87.9. Function calling is new to the VL line, with ToolSandbox moving from 26.4 to 59.5. The model fits in roughly 3 GB a...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/)
-
----
-
-## 3. Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video
-
-**Author:** Asif Razzaq  
-**Published:** 8/13/2026, 7:42:02 AM  
-**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Embedding Model, Language Model, Large Language Model, Machine Learning, New Releases, Physical AI, Robotics, Staff, Tech News, Technology, Vision Language Model, World Model  
-
-Dyna Robotics has released Dyna-2, a world-action model pre-trained on more than one million hours of egocentric human video. The technical report establishes three results: a scaling law on human data to 1M hours, the first transfer of that law to unseen robot data, and evidence that video co-train...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/)
 
 ---
