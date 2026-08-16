@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-15"
 date: "2026-08-15"
 source: "qbitai"
-count: 6
+count: 5
 ---
 
 # qbitai - 2026-08-15
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ count: 6
 1.9万字全文实录
 
 📖 [Read original article](https://www.qbitai.com/2026/08/473407.html)
-
----
-
-## 6. 高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！
-
-**Author:** 允中  
-**Published:** 8/15/2026, 4:03:37 AM  
-**Categories:** 资讯, 首页轮播, 鸿蒙  
-
-对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。
-
-📖 [Read original article](https://www.qbitai.com/2026/08/473395.html)
 
 ---
