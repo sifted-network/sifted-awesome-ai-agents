@@ -2,251 +2,239 @@
 title: "Hacker News AI - 2026-08-16"
 date: "2026-08-16"
 source: "Hacker News AI"
-count: 20
+count: 19
 ---
 
 # Hacker News AI - 2026-08-16
 
-20 items collected.
+19 items collected.
 
 ---
 
-## 1. AI-Prepped Paper Passed Peer Review. Now What?
+## 1. With OpenRouter, Is Stripe Becoming the Amazon of AI
 
-**Author:** pseudolus  
-**Published:** 8/16/2026, 12:30:06 PM  
+**Author:** AnhTho_FR  
+**Published:** 8/16/2026, 11:47:45 PM  
 **Categories:** -  
 
-Article URL: https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/ Comments URL: https://news.ycombinator.com/item?id=49319444 Points: 1 # Comments: 0
+Article URL: https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI Comments URL: https://news.ycombinator.com/item?id=49324994 Points: 2 # Comments: 2
 
-📖 [Read original article](https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/)
+📖 [Read original article](https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI)
 
 ---
 
-## 2. Measuring Autonomous AI Research
+## 2. BanProof – AI that scans TikTok Shop videos for violation points before you post
 
-**Author:** DSemba  
-**Published:** 8/16/2026, 12:16:20 PM  
+**Author:** Pratham3690  
+**Published:** 8/16/2026, 11:29:12 PM  
 **Categories:** -  
 
-Article URL: https://www.primeintellect.ai/blog/measuring-autonomous-research Comments URL: https://news.ycombinator.com/item?id=49319348 Points: 1 # Comments: 0
+Article URL: https://banproof.io/ Comments URL: https://news.ycombinator.com/item?id=49324864 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.primeintellect.ai/blog/measuring-autonomous-research)
+📖 [Read original article](https://banproof.io/)
 
 ---
 
-## 3. Show HN: Who is using AI? A daily tracker, 1,600+ city heatmap, DOI dataset
+## 3. Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
 
-**Author:** pixipace  
-**Published:** 8/16/2026, 12:01:34 PM  
+**Author:** sbulaev  
+**Published:** 8/16/2026, 11:07:07 PM  
 **Categories:** -  
 
-Article URL: https://whoisusingai.com/tracker Comments URL: https://news.ycombinator.com/item?id=49319230 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/ Comments URL: https://news.ycombinator.com/item?id=49324712 Points: 11 # Comments: 2
 
-📖 [Read original article](https://whoisusingai.com/tracker)
+📖 [Read original article](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
 
 ---
 
-## 4. US warns allied nations: Side with us in the AI race
+## 4. AI Slop Is Real
 
-**Author:** rantingdemon  
-**Published:** 8/16/2026, 11:49:53 AM  
+**Author:** coinpress  
+**Published:** 8/16/2026, 10:52:39 PM  
 **Categories:** -  
 
-Article URL: https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/ Comments URL: https://news.ycombinator.com/item?id=49319156 Points: 2 # Comments: 0
+Article URL: https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/ Comments URL: https://news.ycombinator.com/item?id=49324585 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/)
+📖 [Read original article](https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/)
 
 ---
 
-## 5. Show HN: Remove AI voice from AI writings
+## 5. Anthropic CEO says the way for AI to win over the public is to cure cancer
 
-**Author:** not_wowinter14  
-**Published:** 8/16/2026, 11:28:50 AM  
+**Author:** wertyk  
+**Published:** 8/16/2026, 10:50:38 PM  
 **Categories:** -  
 
-Article URL: https://unslopai.com Comments URL: https://news.ycombinator.com/item?id=49319026 Points: 2 # Comments: 0
+Article URL: https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8 Comments URL: https://news.ycombinator.com/item?id=49324572 Points: 14 # Comments: 18
 
-📖 [Read original article](https://unslopai.com)
+📖 [Read original article](https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8)
 
 ---
 
-## 6. Amazon Can Use Your Twitch Content to Train Its AI–Unless You Opt Out
+## 6. Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says
 
-**Author:** justworks  
-**Published:** 8/16/2026, 11:23:09 AM  
+**Author:** osivertsson  
+**Published:** 8/16/2026, 10:33:03 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/ Comments URL: https://news.ycombinator.com/item?id=49318985 Points: 3 # Comments: 0
+Article URL: https://www.kyivpost.com/post/82225 Comments URL: https://news.ycombinator.com/item?id=49324442 Points: 7 # Comments: 1
 
-📖 [Read original article](https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/)
+📖 [Read original article](https://www.kyivpost.com/post/82225)
 
 ---
 
-## 7. WAIC 2026: a glimpse of embodied AI innovations, humanoid robots [video]
+## 7. Smarter – open-source, declarative AI authoring platform (Django, K8s-inspired)
 
-**Author:** binyu  
-**Published:** 8/16/2026, 11:16:33 AM  
+**Author:** lpm0073  
+**Published:** 8/16/2026, 10:25:17 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=rgYHEq9_SM0 Comments URL: https://news.ycombinator.com/item?id=49318956 Points: 1 # Comments: 0
+Article URL: https://github.com/smarter-sh/smarter Comments URL: https://news.ycombinator.com/item?id=49324366 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=rgYHEq9_SM0)
+📖 [Read original article](https://github.com/smarter-sh/smarter)
 
 ---
 
-## 8. AGCX: Why AI Agents aren't assistants
+## 8. Legbar – live AI agent sessions beside GitHub CI, in one terminal
 
-**Author:** Daviddstewartt  
-**Published:** 8/16/2026, 11:04:59 AM  
+**Author:** gmhoward9289  
+**Published:** 8/16/2026, 10:06:14 PM  
 **Categories:** -  
 
-Article URL: https://www.agcx.org Comments URL: https://news.ycombinator.com/item?id=49318902 Points: 3 # Comments: 0
+Article URL: https://github.com/gmhoward9289-ops/legbar Comments URL: https://news.ycombinator.com/item?id=49324201 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.agcx.org)
+📖 [Read original article](https://github.com/gmhoward9289-ops/legbar)
 
 ---
 
-## 9. Vero: Can AI Agents Build Formally Verified Software Repositories?
+## 9. AI #176 Part 2: Plan B
 
-**Author:** ninadwrites  
-**Published:** 8/16/2026, 11:03:32 AM  
+**Author:** paulpauper  
+**Published:** 8/16/2026, 9:34:40 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2608.13522 Comments URL: https://news.ycombinator.com/item?id=49318896 Points: 2 # Comments: 0
+Article URL: https://thezvi.substack.com/p/ai-176-part-2-plan-b Comments URL: https://news.ycombinator.com/item?id=49323941 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2608.13522)
+📖 [Read original article](https://thezvi.substack.com/p/ai-176-part-2-plan-b)
 
 ---
 
-## 10. The first anti-AI protester to be jailed has a message: 'Regain your humanity'
+## 10. Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe
 
-**Author:** howard941  
-**Published:** 8/16/2026, 10:53:16 AM  
+**Author:** healsdata  
+**Published:** 8/16/2026, 9:34:06 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman Comments URL: https://news.ycombinator.com/item?id=49318857 Points: 4 # Comments: 0
+Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 80 # Comments: 59
 
-📖 [Read original article](https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman)
+📖 [Read original article](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
-## 11. The 'Country Hicks' Who Refused $26M from an AI Data Center
+## 11. Show HN: VocalCode – push-to-talk dictation for AI coding agents, on-device
 
-**Author:** impish9208  
-**Published:** 8/16/2026, 10:49:36 AM  
+**Author:** wudmaing00  
+**Published:** 8/16/2026, 9:20:54 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16 Comments URL: https://news.ycombinator.com/item?id=49318835 Points: 6 # Comments: 1
+Article URL: https://vocalcode.app/ Comments URL: https://news.ycombinator.com/item?id=49323797 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16)
+📖 [Read original article](https://vocalcode.app/)
 
 ---
 
-## 12. AetherGrid – Distributed AI compute orchestration without K8s
+## 12. Show HN: Remarc – provide more contextual and structured feedback to AI agents
 
-**Author:** WycliffeRotich  
-**Published:** 8/16/2026, 10:47:04 AM  
+**Author:** young_mete  
+**Published:** 8/16/2026, 9:14:57 PM  
 **Categories:** -  
 
-Article URL: https://github.com/wycliffRotich-dev/aethergrid Comments URL: https://news.ycombinator.com/item?id=49318822 Points: 1 # Comments: 0
+Like any side project, Remarc started with my own problem: there was no good way to give AI coding agents contextual feedback on their own output.There are plenty of tools for collaborating with humans, but surprisingly few for collaborating with AI. Chat was not cutting it for the feedback I wanted...
 
-📖 [Read original article](https://github.com/wycliffRotich-dev/aethergrid)
+📖 [Read original article](https://github.com/metedata/Remarc)
 
 ---
 
-## 13. Interface for AI agents was invented in 1978
+## 13. AI Debt Failure Will Prompt Another Wave of Fed Bailouts [pdf]
 
-**Author:** buffer_overlord  
-**Published:** 8/16/2026, 10:46:39 AM  
+**Author:** timedude  
+**Published:** 8/16/2026, 9:01:17 PM  
 **Categories:** -  
 
-Article URL: https://dev.profullstack.com/~anthony/blog/011-post.html Comments URL: https://news.ycombinator.com/item?id=49318821 Points: 1 # Comments: 0
+Article URL: https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf Comments URL: https://news.ycombinator.com/item?id=49323632 Points: 4 # Comments: 1
 
-📖 [Read original article](https://dev.profullstack.com/~anthony/blog/011-post.html)
+📖 [Read original article](https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf)
 
 ---
 
-## 14. An AI agent can burn 100× the tokens of a chat turn
+## 14. Show HN: Conw.ai – Independent local AI platform and developer API
 
-**Author:** echohive42  
-**Published:** 8/16/2026, 10:43:18 AM  
+**Author:** thomasconway01  
+**Published:** 8/16/2026, 9:00:47 PM  
 **Categories:** -  
 
-Article URL: https://aicharts.grok.me/c/agent-tokens Comments URL: https://news.ycombinator.com/item?id=49318802 Points: 1 # Comments: 1
+Article URL: https://conw.ai Comments URL: https://news.ycombinator.com/item?id=49323625 Points: 1 # Comments: 0
 
-📖 [Read original article](https://aicharts.grok.me/c/agent-tokens)
+📖 [Read original article](https://conw.ai)
 
 ---
 
-## 15. AI Coding Without the Vibes
+## 15. Do people care if articles are written by AI?
 
-**Author:** riskone  
-**Published:** 8/16/2026, 10:31:36 AM  
+**Author:** Wpnx330  
+**Published:** 8/16/2026, 8:47:20 PM  
 **Categories:** -  
 
-Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 4 # Comments: 1
+Article URL: https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/ Comments URL: https://news.ycombinator.com/item?id=49323517 Points: 5 # Comments: 14
 
-📖 [Read original article](https://peterbloem.nl/blog/craft-coding)
+📖 [Read original article](https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/)
 
 ---
 
-## 16. AstroUpdate – Real-time space news, 3D ISS tracking and AI briefs
+## 16. Beautiful UI for AI-native interfaces
 
-**Author:** bruceleeglad  
-**Published:** 8/16/2026, 10:15:44 AM  
+**Author:** kodisha  
+**Published:** 8/16/2026, 8:42:52 PM  
 **Categories:** -  
 
-Article URL: https://www.astroupdate.space/en Comments URL: https://news.ycombinator.com/item?id=49318637 Points: 1 # Comments: 0
+Article URL: https://www.beautifului.dev/ Comments URL: https://news.ycombinator.com/item?id=49323480 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.astroupdate.space/en)
+📖 [Read original article](https://www.beautifului.dev/)
 
 ---
 
-## 17. Why Chinese Citizens Are More Optimistic About AI Than Americans
+## 17. Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"
 
-**Author:** helsinkiandrew  
-**Published:** 8/16/2026, 10:07:39 AM  
+**Author:** root-parent  
+**Published:** 8/16/2026, 8:38:41 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us Comments URL: https://news.ycombinator.com/item?id=49318586 Points: 3 # Comments: 1
+Article URL: https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk Comments URL: https://news.ycombinator.com/item?id=49323456 Points: 3 # Comments: 3
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us)
+📖 [Read original article](https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk)
 
 ---
 
-## 18. AI Paper Trail: What does AI know about you?
+## 18. ScreenForm – circle anything on your screen, get an AI answer
 
-**Author:** Gys  
-**Published:** 8/16/2026, 10:05:06 AM  
+**Author:** Aarush_b  
+**Published:** 8/16/2026, 8:35:21 PM  
 **Categories:** -  
 
-Article URL: https://proton.me/lumo/ai/ai-paper-trail Comments URL: https://news.ycombinator.com/item?id=49318576 Points: 1 # Comments: 1
+Article URL: https://screenform.app Comments URL: https://news.ycombinator.com/item?id=49323427 Points: 1 # Comments: 0
 
-📖 [Read original article](https://proton.me/lumo/ai/ai-paper-trail)
+📖 [Read original article](https://screenform.app)
 
 ---
 
-## 19. How to Invest in AI (2025)
+## 19. Rounds of AI telephone with an egg. The word \"chicken\" lost on round 10
 
-**Author:** rzk  
-**Published:** 8/16/2026, 10:04:32 AM  
+**Author:** goxion  
+**Published:** 8/16/2026, 8:35:10 PM  
 **Categories:** -  
 
-Article URL: https://reactionwheel.net/2025/09/how-to-invest-in-ai.html Comments URL: https://news.ycombinator.com/item?id=49318572 Points: 1 # Comments: 0
+Article URL: https://twitter.com/geno_spot/status/2089086269087166694 Comments URL: https://news.ycombinator.com/item?id=49323422 Points: 1 # Comments: 0
 
-📖 [Read original article](https://reactionwheel.net/2025/09/how-to-invest-in-ai.html)
-
----
-
-## 20. Twitch Adds Opt-Out for Amazon AI Training After Enrolling All Creators
-
-**Author:** 01-_-  
-**Published:** 8/16/2026, 10:04:10 AM  
-**Categories:** -  
-
-Article URL: https://www.ghacks.net/2026/08/14/twitch-adds-opt-out-for-amazon-ai-training-after-enrolling-all-creators-by-default/ Comments URL: https://news.ycombinator.com/item?id=49318568 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.ghacks.net/2026/08/14/twitch-adds-opt-out-for-amazon-ai-training-after-enrolling-all-creators-by-default/)
+📖 [Read original article](https://twitter.com/geno_spot/status/2089086269087166694)
 
 ---
