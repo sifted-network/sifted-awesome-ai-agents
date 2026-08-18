@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-18"
 date: "2026-08-18"
 source: "MarkTechPost"
-count: 1
+count: 2
 ---
 
 # MarkTechPost - 2026-08-18
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation
+## 1. Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots
+
+**Author:** Michal Sutter  
+**Published:** 8/18/2026, 2:05:28 AM  
+**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, New Releases, Open Source, Tech News, Technology  
+
+Nous Research has shipped Bot Mode for Hermes Agent, its MIT-licensed open source agent. Bot Mode replaces the single-agent session list with a roster of named bots. Each bot is a real Hermes profile, with its own chat, memory, skills, and pinned model. It is now bundled and default-on in Hermes Des...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/)
+
+---
+
+## 2. ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation
 
 **Author:** Asif Razzaq  
 **Published:** 8/18/2026, 1:10:28 AM  
