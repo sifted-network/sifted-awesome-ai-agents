@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-18"
 date: "2026-08-18"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-08-18
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots
+## 1. Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas
+
+**Author:** Asif Razzaq  
+**Published:** 8/18/2026, 10:37:49 AM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, Large Language Model, New Releases, Staff, Tech News, Technology, TTS, Uncategorized, Voice AI  
+
+Cartesia has released Sonic-3.6, a streaming text-to-speech model built on state space models rather than transformers. It now ranks #1 on both Artificial Analysis speech leaderboards — 1,283 Elo on Provider Voice and 1,123 on Controlled Voice, the board that clones every model onto the same eight r...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/)
+
+---
+
+## 2. Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots
 
 **Author:** Michal Sutter  
 **Published:** 8/18/2026, 2:05:28 AM  
@@ -23,7 +35,7 @@ Nous Research has shipped Bot Mode for Hermes Agent, its MIT-licensed open sourc
 
 ---
 
-## 2. ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation
+## 3. ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation
 
 **Author:** Asif Razzaq  
 **Published:** 8/18/2026, 1:10:28 AM  
