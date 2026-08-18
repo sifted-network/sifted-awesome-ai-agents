@@ -2,191 +2,251 @@
 title: "Hacker News AI - 2026-08-18"
 date: "2026-08-18"
 source: "Hacker News AI"
-count: 15
+count: 20
 ---
 
 # Hacker News AI - 2026-08-18
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. Private Scribe – 100% offline Whisper AI voice dictation for Windows
+## 1. OneShot Zero-ambiguity precision specifications for AI coding agents
 
-**Author:** subtiliorars  
-**Published:** 8/18/2026, 6:13:16 AM  
+**Author:** ahmedxuhri  
+**Published:** 8/18/2026, 12:33:05 PM  
 **Categories:** -  
 
-Article URL: https://omnitender.gumroad.com/l/private-scribe Comments URL: https://news.ycombinator.com/item?id=49341940 Points: 1 # Comments: 0
+Article URL: https://sudolaps.top/oneshot/ Comments URL: https://news.ycombinator.com/item?id=49344718 Points: 1 # Comments: 0
 
-📖 [Read original article](https://omnitender.gumroad.com/l/private-scribe)
+📖 [Read original article](https://sudolaps.top/oneshot/)
 
 ---
 
-## 2. Goody-2, the most responsible AI model (2024)
+## 2. State Farm defense lawyers admit AI generated fake cases in LA lawsuit
 
-**Author:** science4sail  
-**Published:** 8/18/2026, 4:57:21 AM  
+**Author:** cdrnsf  
+**Published:** 8/18/2026, 12:15:15 PM  
 **Categories:** -  
 
-Article URL: https://www.goody2.ai/ Comments URL: https://news.ycombinator.com/item?id=49341448 Points: 2 # Comments: 1
+Article URL: https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=49344577 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.goody2.ai/)
+📖 [Read original article](https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/)
 
 ---
 
-## 3. Vetted AI code is hard to justify
+## 3. Taxing AI to Help Workers Sounds Good, but Public Deserves More
 
-**Author:** Curiositry  
-**Published:** 8/18/2026, 4:44:02 AM  
+**Author:** tldrthelaw  
+**Published:** 8/18/2026, 12:10:52 PM  
 **Categories:** -  
 
-Article URL: https://amoffat.github.io/blog/vetting-burnout.html Comments URL: https://news.ycombinator.com/item?id=49341368 Points: 1 # Comments: 0
+Article URL: https://news.bloombergtax.com/tax-insights-and-commentary/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more Comments URL: https://news.ycombinator.com/item?id=49344528 Points: 2 # Comments: 1
 
-📖 [Read original article](https://amoffat.github.io/blog/vetting-burnout.html)
+📖 [Read original article](https://news.bloombergtax.com/tax-insights-and-commentary/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more)
 
 ---
 
-## 4. AI Stock Research Assistant · Streamlit
+## 4. Can autocomplete play chess blindfolded? A journey into applied AI research
 
-**Author:** KiaanKothari  
-**Published:** 8/18/2026, 4:35:30 AM  
+**Author:** alfredvc  
+**Published:** 8/18/2026, 12:09:44 PM  
 **Categories:** -  
 
-Article URL: https://ai-stock-research-kiaan.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49341308 Points: 1 # Comments: 0
+Article URL: https://alfredvc.no/blog/chess-as-autocomplete Comments URL: https://news.ycombinator.com/item?id=49344519 Points: 1 # Comments: 1
 
-📖 [Read original article](https://ai-stock-research-kiaan.streamlit.app)
+📖 [Read original article](https://alfredvc.no/blog/chess-as-autocomplete)
 
 ---
 
-## 5. What If I Told You Humans Are Moving Faster Than AI?
+## 5. Show HN: AI Resume Optimization Tool for Specific Job Positions
 
-**Author:** raynchad  
-**Published:** 8/18/2026, 4:01:28 AM  
+**Author:** aiomniu  
+**Published:** 8/18/2026, 12:02:25 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/freedomofthought/what-if-i-told-you-humans-are-moving-faster-than-ai-833441f3fb21 Comments URL: https://news.ycombinator.com/item?id=49341102 Points: 3 # Comments: 0
+Hi HN, I've been watching everyone's presentations as an observer, and today I can finally showcase my product!It helps users:- Organize roles, projects, skills, and achievements- Transform vague descriptions into clearer, more professional language- Adjust the focus according to different target po...
 
-📖 [Read original article](https://medium.com/freedomofthought/what-if-i-told-you-humans-are-moving-faster-than-ai-833441f3fb21)
+📖 [Read original article](https://aiomniu.top/services/resume-builder)
 
 ---
 
-## 6. Why It Hasn't Happened Yet: Capable AI and Malicious Intent
+## 6. Vercel AI Gateway: GPT-5.6 Sol is 50% off for the next month
 
-**Author:** nedruod  
-**Published:** 8/18/2026, 3:54:28 AM  
+**Author:** mirzap  
+**Published:** 8/18/2026, 11:57:37 AM  
 **Categories:** -  
 
-Article URL: https://substack.norabble.com/p/why-it-hasnt-happened-yet Comments URL: https://news.ycombinator.com/item?id=49341070 Points: 2 # Comments: 0
+Article URL: https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month Comments URL: https://news.ycombinator.com/item?id=49344380 Points: 1 # Comments: 0
 
-📖 [Read original article](https://substack.norabble.com/p/why-it-hasnt-happened-yet)
+📖 [Read original article](https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month)
 
 ---
 
-## 7. San Diego 150 Years Ago: Rare AI Reconstruction Visuals [video]
+## 7. Show HN: H2AI Chat – multi-AI debate you can self-host with local models (AGPL)
 
-**Author:** latchkey  
-**Published:** 8/18/2026, 3:38:37 AM  
+**Author:** h2aichat  
+**Published:** 8/18/2026, 11:47:04 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=qWaR_nc5sKM Comments URL: https://news.ycombinator.com/item?id=49340969 Points: 2 # Comments: 0
+Article URL: https://github.com/Tonterias/h2aichat Comments URL: https://news.ycombinator.com/item?id=49344277 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=qWaR_nc5sKM)
+📖 [Read original article](https://github.com/Tonterias/h2aichat)
 
 ---
 
-## 8. A candy brand discovered TikTok made an AI clone of its founder to run ads [video]
+## 8. Don't Paste the AI, Please
 
-**Author:** navs  
-**Published:** 8/18/2026, 2:45:56 AM  
+**Author:** Bluestein  
+**Published:** 8/18/2026, 11:40:43 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=itovmsMwus0 Comments URL: https://news.ycombinator.com/item?id=49340602 Points: 5 # Comments: 0
+Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49344216 Points: 2 # Comments: 3
 
-📖 [Read original article](https://www.youtube.com/watch?v=itovmsMwus0)
+📖 [Read original article](https://dontpastetheai.com/)
 
 ---
 
-## 9. Three different papers pushed to ArXiv proving same 1986 conjecture; all use AI
+## 9. AI Does Not Change Goodhart or the Folly of Tokenmaxxing
 
-**Author:** pfdietz  
-**Published:** 8/18/2026, 1:56:38 AM  
+**Author:** swolpers  
+**Published:** 8/18/2026, 11:38:48 AM  
 **Categories:** -  
 
-Article URL: https://twitter.com/Quasilocal/status/2089408301427568691 Comments URL: https://news.ycombinator.com/item?id=49340201 Points: 2 # Comments: 0
+Article URL: https://www.scrum.org/resources/blog/folly-tokenmaxxing-or-reinventing-wheel Comments URL: https://news.ycombinator.com/item?id=49344197 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/Quasilocal/status/2089408301427568691)
+📖 [Read original article](https://www.scrum.org/resources/blog/folly-tokenmaxxing-or-reinventing-wheel)
 
 ---
 
-## 10. Going AI-native to enhance how humans/agents access ScalarDB and ScalarDL docs
+## 10. Rewriting a production compiler's IR with AI agents in five weeks
 
-**Author:** josh-scalar  
-**Published:** 8/18/2026, 1:51:58 AM  
+**Author:** CommanderTvis  
+**Published:** 8/18/2026, 11:35:21 AM  
 **Categories:** -  
 
-Article URL: https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b Comments URL: https://news.ycombinator.com/item?id=49340170 Points: 2 # Comments: 0
+Article URL: https://github.com/CommanderTvis/writing/tree/main/rr-truffle-rewrite Comments URL: https://news.ycombinator.com/item?id=49344173 Points: 4 # Comments: 0
 
-📖 [Read original article](https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b)
+📖 [Read original article](https://github.com/CommanderTvis/writing/tree/main/rr-truffle-rewrite)
 
 ---
 
-## 11. Every student is cheating with AI
+## 11. AI Used to Verify Toughest Mathematics Proof Yet
 
-**Author:** stopachka  
-**Published:** 8/18/2026, 1:45:38 AM  
+**Author:** pseudolus  
+**Published:** 8/18/2026, 11:10:44 AM  
 **Categories:** -  
 
-Article URL: https://ben.page/cheating Comments URL: https://news.ycombinator.com/item?id=49340134 Points: 7 # Comments: 9
+Article URL: https://spectrum.ieee.org/axiom-math-246-theorem-formalization Comments URL: https://news.ycombinator.com/item?id=49343957 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ben.page/cheating)
+📖 [Read original article](https://spectrum.ieee.org/axiom-math-246-theorem-formalization)
 
 ---
 
-## 12. Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text
+## 12. We still don't know how people are using AI
 
-**Author:** tambourine_man  
-**Published:** 8/18/2026, 1:16:14 AM  
+**Author:** joozio  
+**Published:** 8/18/2026, 11:01:43 AM  
 **Categories:** -  
 
-Article URL: https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking Comments URL: https://news.ycombinator.com/item?id=49339918 Points: 10 # Comments: 2
+Article URL: https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/ Comments URL: https://news.ycombinator.com/item?id=49343892 Points: 4 # Comments: 0
 
-📖 [Read original article](https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking)
+📖 [Read original article](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/)
 
 ---
 
-## 13. Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files
+## 13. Operation Blue Skies: Reducing aviation climate impact with AI
 
-**Author:** wglb  
-**Published:** 8/18/2026, 1:01:45 AM  
+**Author:** thm  
+**Published:** 8/18/2026, 10:40:27 AM  
 **Categories:** -  
 
-Article URL: https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/ Comments URL: https://news.ycombinator.com/item?id=49339832 Points: 1 # Comments: 1
+Article URL: https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/ Comments URL: https://news.ycombinator.com/item?id=49343727 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/)
+📖 [Read original article](https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/)
 
 ---
 
-## 14. Consumers Prefer AI Music Until They're Told It's AI
+## 14. Tell HN: Use AI to music score your books
 
-**Author:** a2ff6eeb0  
-**Published:** 8/18/2026, 12:15:23 AM  
+**Author:** arisAlexis  
+**Published:** 8/18/2026, 10:34:44 AM  
 **Categories:** -  
 
-Article URL: https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/ Comments URL: https://news.ycombinator.com/item?id=49339494 Points: 13 # Comments: 4
+Not many people read books but AI is under rated for the ability to theme your experience. If you ask Gemini to create a youtube music playlist for you for a specific book the result is amazing and I wanted to share this with others because it changed my book reading to an actual audio visual experi...
 
-📖 [Read original article](https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49343693)
 
 ---
 
-## 15. Whose doctor does the AI recommend? An algorithm audit of LLMs in physician
+## 15. AI automation: Lock in payroll savings or reinvest capacity into growth
 
-**Author:** sbulaev  
-**Published:** 8/18/2026, 12:07:06 AM  
+**Author:** urnicus  
+**Published:** 8/18/2026, 10:18:49 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2608.14399 Comments URL: https://news.ycombinator.com/item?id=49339437 Points: 1 # Comments: 0
+Article URL: https://urnicus.com/blog/the-quiet-cost/ Comments URL: https://news.ycombinator.com/item?id=49343598 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2608.14399)
+📖 [Read original article](https://urnicus.com/blog/the-quiet-cost/)
+
+---
+
+## 16. Google buys crashed airline Spirit's data at auction, because AI
+
+**Author:** pseudolus  
+**Published:** 8/18/2026, 10:13:28 AM  
+**Categories:** -  
+
+Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962 Comments URL: https://news.ycombinator.com/item?id=49343559 Points: 171 # Comments: 92
+
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+
+---
+
+## 17. MacBook Is Now an AI Workstation: Run Qwen 3.8 Locally
+
+**Author:** suyash  
+**Published:** 8/18/2026, 10:10:37 AM  
+**Categories:** -  
+
+Article URL: https://suyash-joshi.medium.com/your-macbook-is-now-an-ai-workstation-run-qwen-3-8-locally-d1e103ada11d Comments URL: https://news.ycombinator.com/item?id=49343543 Points: 4 # Comments: 1
+
+📖 [Read original article](https://suyash-joshi.medium.com/your-macbook-is-now-an-ai-workstation-run-qwen-3-8-locally-d1e103ada11d)
+
+---
+
+## 18. Kraubex AI
+
+**Author:** venu1807  
+**Published:** 8/18/2026, 9:25:45 AM  
+**Categories:** -  
+
+Article URL: https://www.kraubex.de/product Comments URL: https://news.ycombinator.com/item?id=49343296 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.kraubex.de/product)
+
+---
+
+## 19. OpenAI and Anthropic in price war as Chinese AI rivals gain ground
+
+**Author:** mgh2  
+**Published:** 8/18/2026, 9:09:39 AM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01 Comments URL: https://news.ycombinator.com/item?id=49343218 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01)
+
+---
+
+## 20. Arctype – An AI workspace that builds documents, apps, and handles email
+
+**Author:** AdamNeto  
+**Published:** 8/18/2026, 9:07:44 AM  
+**Categories:** -  
+
+Article URL: https://arctype.org/ Comments URL: https://news.ycombinator.com/item?id=49343205 Points: 2 # Comments: 1
+
+📖 [Read original article](https://arctype.org/)
 
 ---
