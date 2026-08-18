@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. OneShot Zero-ambiguity precision specifications for AI coding agents
+## 1. Show HN: Clad9 – AI wardrobe app that dresses you from your own closet
 
-**Author:** ahmedxuhri  
-**Published:** 8/18/2026, 12:33:05 PM  
+**Author:** Fh_  
+**Published:** 8/18/2026, 6:29:14 PM  
 **Categories:** -  
 
-Article URL: https://sudolaps.top/oneshot/ Comments URL: https://news.ycombinator.com/item?id=49344718 Points: 1 # Comments: 0
+Article URL: https://clad9.com/ Comments URL: https://news.ycombinator.com/item?id=49350289 Points: 1 # Comments: 0
 
-📖 [Read original article](https://sudolaps.top/oneshot/)
+📖 [Read original article](https://clad9.com/)
 
 ---
 
-## 2. State Farm defense lawyers admit AI generated fake cases in LA lawsuit
+## 2. OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount
 
-**Author:** cdrnsf  
-**Published:** 8/18/2026, 12:15:15 PM  
+**Author:** 01-_-  
+**Published:** 8/18/2026, 6:24:50 PM  
 **Categories:** -  
 
-Article URL: https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=49344577 Points: 5 # Comments: 0
+Article URL: https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount Comments URL: https://news.ycombinator.com/item?id=49350212 Points: 1 # Comments: 0
 
-📖 [Read original article](https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/)
+📖 [Read original article](https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount)
 
 ---
 
-## 3. Taxing AI to Help Workers Sounds Good, but Public Deserves More
+## 3. OpenAI Partnering with CodeAI to prepare the first AI generation
 
-**Author:** tldrthelaw  
-**Published:** 8/18/2026, 12:10:52 PM  
+**Author:** nateb2022  
+**Published:** 8/18/2026, 6:24:03 PM  
 **Categories:** -  
 
-Article URL: https://news.bloombergtax.com/tax-insights-and-commentary/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more Comments URL: https://news.ycombinator.com/item?id=49344528 Points: 2 # Comments: 1
+Article URL: https://openai.com/index/partnering-with-codeai/ Comments URL: https://news.ycombinator.com/item?id=49350191 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.bloombergtax.com/tax-insights-and-commentary/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more)
+📖 [Read original article](https://openai.com/index/partnering-with-codeai/)
 
 ---
 
-## 4. Can autocomplete play chess blindfolded? A journey into applied AI research
+## 4. Google is buying all of Spirit Airlines' data to feed its AI models
 
-**Author:** alfredvc  
-**Published:** 8/18/2026, 12:09:44 PM  
+**Author:** 01-_-  
+**Published:** 8/18/2026, 6:23:48 PM  
 **Categories:** -  
 
-Article URL: https://alfredvc.no/blog/chess-as-autocomplete Comments URL: https://news.ycombinator.com/item?id=49344519 Points: 1 # Comments: 1
+Article URL: https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data Comments URL: https://news.ycombinator.com/item?id=49350187 Points: 1 # Comments: 0
 
-📖 [Read original article](https://alfredvc.no/blog/chess-as-autocomplete)
+📖 [Read original article](https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data)
 
 ---
 
-## 5. Show HN: AI Resume Optimization Tool for Specific Job Positions
+## 5. Everyone wants to be the AI gateway
 
-**Author:** aiomniu  
-**Published:** 8/18/2026, 12:02:25 PM  
+**Author:** MikeHirt  
+**Published:** 8/18/2026, 6:21:44 PM  
 **Categories:** -  
 
-Hi HN, I've been watching everyone's presentations as an observer, and today I can finally showcase my product!It helps users:- Organize roles, projects, skills, and achievements- Transform vague descriptions into clearer, more professional language- Adjust the focus according to different target po...
+Article URL: https://getlago.substack.com/p/everyone-wants-to-be-the-ai-gateway Comments URL: https://news.ycombinator.com/item?id=49350134 Points: 1 # Comments: 0
 
-📖 [Read original article](https://aiomniu.top/services/resume-builder)
+📖 [Read original article](https://getlago.substack.com/p/everyone-wants-to-be-the-ai-gateway)
 
 ---
 
-## 6. Vercel AI Gateway: GPT-5.6 Sol is 50% off for the next month
+## 6. David Chalmers asks: When we talk to AI, what are we talking to?
 
-**Author:** mirzap  
-**Published:** 8/18/2026, 11:57:37 AM  
+**Author:** tcp_handshaker  
+**Published:** 8/18/2026, 6:02:33 PM  
 **Categories:** -  
 
-Article URL: https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month Comments URL: https://news.ycombinator.com/item?id=49344380 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=uUjJOMcNU9w Comments URL: https://news.ycombinator.com/item?id=49349825 Points: 1 # Comments: 0
 
-📖 [Read original article](https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month)
+📖 [Read original article](https://www.youtube.com/watch?v=uUjJOMcNU9w)
 
 ---
 
-## 7. Show HN: H2AI Chat – multi-AI debate you can self-host with local models (AGPL)
+## 7. 3D Model Markets Are Being Flooded with AI Sellers, but No One's Buying
 
-**Author:** h2aichat  
-**Published:** 8/18/2026, 11:47:04 AM  
+**Author:** donohoe  
+**Published:** 8/18/2026, 6:01:19 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Tonterias/h2aichat Comments URL: https://news.ycombinator.com/item?id=49344277 Points: 1 # Comments: 0
+Article URL: https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790 Comments URL: https://news.ycombinator.com/item?id=49349802 Points: 3 # Comments: 1
 
-📖 [Read original article](https://github.com/Tonterias/h2aichat)
+📖 [Read original article](https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790)
 
 ---
 
-## 8. Don't Paste the AI, Please
+## 8. AI automation startup Relay.app shuts down, staff joins Google's Chrome team
 
-**Author:** Bluestein  
-**Published:** 8/18/2026, 11:40:43 AM  
+**Author:** toomuchtodo  
+**Published:** 8/18/2026, 5:49:57 PM  
 **Categories:** -  
 
-Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49344216 Points: 2 # Comments: 3
+Article URL: https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/ Comments URL: https://news.ycombinator.com/item?id=49349596 Points: 3 # Comments: 1
 
-📖 [Read original article](https://dontpastetheai.com/)
+📖 [Read original article](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)
 
 ---
 
-## 9. AI Does Not Change Goodhart or the Folly of Tokenmaxxing
+## 9. AI Watermarking, Nazi Enigmas, and Sherlock Holmes
 
-**Author:** swolpers  
-**Published:** 8/18/2026, 11:38:48 AM  
+**Author:** ApocryphX  
+**Published:** 8/18/2026, 5:49:53 PM  
 **Categories:** -  
 
-Article URL: https://www.scrum.org/resources/blog/folly-tokenmaxxing-or-reinventing-wheel Comments URL: https://news.ycombinator.com/item?id=49344197 Points: 1 # Comments: 0
+Article URL: https://kolja.wawrowsky.com/posts/invisible-fingerprints/ Comments URL: https://news.ycombinator.com/item?id=49349594 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.scrum.org/resources/blog/folly-tokenmaxxing-or-reinventing-wheel)
+📖 [Read original article](https://kolja.wawrowsky.com/posts/invisible-fingerprints/)
 
 ---
 
-## 10. Rewriting a production compiler's IR with AI agents in five weeks
+## 10. Return of the Spec: Why AI agents are reviving the software specification
 
-**Author:** CommanderTvis  
-**Published:** 8/18/2026, 11:35:21 AM  
+**Author:** Ramone  
+**Published:** 8/18/2026, 5:49:23 PM  
 **Categories:** -  
 
-Article URL: https://github.com/CommanderTvis/writing/tree/main/rr-truffle-rewrite Comments URL: https://news.ycombinator.com/item?id=49344173 Points: 4 # Comments: 0
+Article URL: https://caines.ca/posts/2026-08-15-return-of-the-spec/ Comments URL: https://news.ycombinator.com/item?id=49349584 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/CommanderTvis/writing/tree/main/rr-truffle-rewrite)
+📖 [Read original article](https://caines.ca/posts/2026-08-15-return-of-the-spec/)
 
 ---
 
-## 11. AI Used to Verify Toughest Mathematics Proof Yet
+## 11. A Texas University Becomes a Petri Dish for a Conservative Overhaul [Using AI]
 
-**Author:** pseudolus  
-**Published:** 8/18/2026, 11:10:44 AM  
+**Author:** ceejayoz  
+**Published:** 8/18/2026, 5:48:11 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/axiom-math-246-theorem-formalization Comments URL: https://news.ycombinator.com/item?id=49343957 Points: 1 # Comments: 0
+Article URL: https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html Comments URL: https://news.ycombinator.com/item?id=49349562 Points: 3 # Comments: 1
 
-📖 [Read original article](https://spectrum.ieee.org/axiom-math-246-theorem-formalization)
+📖 [Read original article](https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html)
 
 ---
 
-## 12. We still don't know how people are using AI
+## 12. Contributors are AI-first now. Is your project?
+
+**Author:** acolombiadev_hn  
+**Published:** 8/18/2026, 5:45:37 PM  
+**Categories:** -  
+
+Article URL: https://github.blog/open-source/maintainers/your-contributors-are-ai- Comments URL: https://news.ycombinator.com/item?id=49349524 Points: 1 # Comments: 1
+
+📖 [Read original article](https://github.blog/open-source/maintainers/your-contributors-are-ai-)
+
+---
+
+## 13. IP can't save you from AI
+
+**Author:** hn_acker  
+**Published:** 8/18/2026, 5:36:24 PM  
+**Categories:** -  
+
+Article URL: https://pluralistic.net/2026/08/18/enron-corpus/ Comments URL: https://news.ycombinator.com/item?id=49349355 Points: 2 # Comments: 0
+
+📖 [Read original article](https://pluralistic.net/2026/08/18/enron-corpus/)
+
+---
+
+## 14. AI chip startup Etched doubles valuation to $21B in under a month
+
+**Author:** porridgeraisin  
+**Published:** 8/18/2026, 5:23:34 PM  
+**Categories:** -  
+
+Article URL: https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/ Comments URL: https://news.ycombinator.com/item?id=49349122 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/)
+
+---
+
+## 15. One Person State – portable personal AI system
+
+**Author:** promen_svitla  
+**Published:** 8/18/2026, 5:11:51 PM  
+**Categories:** -  
+
+Article URL: https://embassy.svit.la/p/one-person-state Comments URL: https://news.ycombinator.com/item?id=49348919 Points: 1 # Comments: 0
+
+📖 [Read original article](https://embassy.svit.la/p/one-person-state)
+
+---
+
+## 16. A 24-Year-Old Blew Up a $45B AI Fund
+
+**Author:** Mr_Kobayashi  
+**Published:** 8/18/2026, 5:10:36 PM  
+**Categories:** -  
+
+Article URL: https://rubbishtalk.com/finance/how-a-24-year-old-blew-up-a-45-billion-ai-fund/ Comments URL: https://news.ycombinator.com/item?id=49348898 Points: 2 # Comments: 0
+
+📖 [Read original article](https://rubbishtalk.com/finance/how-a-24-year-old-blew-up-a-45-billion-ai-fund/)
+
+---
+
+## 17. The Download: how people use AI, and Flock's design choices
 
 **Author:** joozio  
-**Published:** 8/18/2026, 11:01:43 AM  
+**Published:** 8/18/2026, 5:02:11 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/ Comments URL: https://news.ycombinator.com/item?id=49343892 Points: 4 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/ Comments URL: https://news.ycombinator.com/item?id=49348749 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/)
+📖 [Read original article](https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/)
 
 ---
 
-## 13. Operation Blue Skies: Reducing aviation climate impact with AI
+## 18. Operationalizing agentic AI: The Day 0-2 blueprint for enterprise infrastructure
 
-**Author:** thm  
-**Published:** 8/18/2026, 10:40:27 AM  
+**Author:** mooreds  
+**Published:** 8/18/2026, 4:43:21 PM  
 **Categories:** -  
 
-Article URL: https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/ Comments URL: https://news.ycombinator.com/item?id=49343727 Points: 2 # Comments: 0
+Article URL: https://www.redhat.com/en/blog/operationalizing-agentic-ai-day-0-2-blueprint-enterprise-infrastructure Comments URL: https://news.ycombinator.com/item?id=49348421 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/)
+📖 [Read original article](https://www.redhat.com/en/blog/operationalizing-agentic-ai-day-0-2-blueprint-enterprise-infrastructure)
 
 ---
 
-## 14. Tell HN: Use AI to music score your books
+## 19. The AI Slop Spiral
 
-**Author:** arisAlexis  
-**Published:** 8/18/2026, 10:34:44 AM  
+**Author:** frausto  
+**Published:** 8/18/2026, 4:37:38 PM  
 **Categories:** -  
 
-Not many people read books but AI is under rated for the ability to theme your experience. If you ask Gemini to create a youtube music playlist for you for a specific book the result is amazing and I wanted to share this with others because it changed my book reading to an actual audio visual experi...
+Article URL: https://nolanfrausto.com/posts/ai-slop-spiral/ Comments URL: https://news.ycombinator.com/item?id=49348311 Points: 5 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49343693)
+📖 [Read original article](https://nolanfrausto.com/posts/ai-slop-spiral/)
 
 ---
 
-## 15. AI automation: Lock in payroll savings or reinvest capacity into growth
+## 20. Recent grads say AI is making it harder to get a job. Economists aren't sure
 
-**Author:** urnicus  
-**Published:** 8/18/2026, 10:18:49 AM  
+**Author:** mooreds  
+**Published:** 8/18/2026, 4:34:13 PM  
 **Categories:** -  
 
-Article URL: https://urnicus.com/blog/the-quiet-cost/ Comments URL: https://news.ycombinator.com/item?id=49343598 Points: 2 # Comments: 0
+Article URL: https://text.npr.org/nx-s1-5910677 Comments URL: https://news.ycombinator.com/item?id=49348255 Points: 3 # Comments: 0
 
-📖 [Read original article](https://urnicus.com/blog/the-quiet-cost/)
-
----
-
-## 16. Google buys crashed airline Spirit's data at auction, because AI
-
-**Author:** pseudolus  
-**Published:** 8/18/2026, 10:13:28 AM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962 Comments URL: https://news.ycombinator.com/item?id=49343559 Points: 171 # Comments: 92
-
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
-
----
-
-## 17. MacBook Is Now an AI Workstation: Run Qwen 3.8 Locally
-
-**Author:** suyash  
-**Published:** 8/18/2026, 10:10:37 AM  
-**Categories:** -  
-
-Article URL: https://suyash-joshi.medium.com/your-macbook-is-now-an-ai-workstation-run-qwen-3-8-locally-d1e103ada11d Comments URL: https://news.ycombinator.com/item?id=49343543 Points: 4 # Comments: 1
-
-📖 [Read original article](https://suyash-joshi.medium.com/your-macbook-is-now-an-ai-workstation-run-qwen-3-8-locally-d1e103ada11d)
-
----
-
-## 18. Kraubex AI
-
-**Author:** venu1807  
-**Published:** 8/18/2026, 9:25:45 AM  
-**Categories:** -  
-
-Article URL: https://www.kraubex.de/product Comments URL: https://news.ycombinator.com/item?id=49343296 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.kraubex.de/product)
-
----
-
-## 19. OpenAI and Anthropic in price war as Chinese AI rivals gain ground
-
-**Author:** mgh2  
-**Published:** 8/18/2026, 9:09:39 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01 Comments URL: https://news.ycombinator.com/item?id=49343218 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01)
-
----
-
-## 20. Arctype – An AI workspace that builds documents, apps, and handles email
-
-**Author:** AdamNeto  
-**Published:** 8/18/2026, 9:07:44 AM  
-**Categories:** -  
-
-Article URL: https://arctype.org/ Comments URL: https://news.ycombinator.com/item?id=49343205 Points: 2 # Comments: 1
-
-📖 [Read original article](https://arctype.org/)
+📖 [Read original article](https://text.npr.org/nx-s1-5910677)
 
 ---
