@@ -17,7 +17,7 @@ count: 2
 **Published:** 8/18/2026, 10:06:43 AM  
 **Categories:** Artificial intelligence, App, Summary  
 
-AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candida...
+AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candida...
 
 📖 [Read original article](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/)
 
