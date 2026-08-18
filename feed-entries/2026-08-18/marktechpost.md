@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-18"
 date: "2026-08-18"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-08-18
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas
+## 1. Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents
+
+**Author:** Michal Sutter  
+**Published:** 8/18/2026, 1:29:10 PM  
+**Categories:** Agentic AI, AI Agents, AI Infrastructure, Applications, Artificial Intelligence, Editors Pick, For Devs, Language Model, Machine Learning, New Releases, Open Source, Tech News, Technology  
+
+Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust P2P overlay that lets autonomous agents discover and call each other's MCP tools across cloud, on-prem, laptop and edge environments, without exposin...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/)
+
+---
+
+## 2. Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas
 
 **Author:** Asif Razzaq  
 **Published:** 8/18/2026, 10:37:49 AM  
@@ -23,7 +35,7 @@ Cartesia has released Sonic-3.6, a streaming text-to-speech model built on state
 
 ---
 
-## 2. Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots
+## 3. Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots
 
 **Author:** Michal Sutter  
 **Published:** 8/18/2026, 2:05:28 AM  
@@ -35,7 +47,7 @@ Nous Research has shipped Bot Mode for Hermes Agent, its MIT-licensed open sourc
 
 ---
 
-## 3. ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation
+## 4. ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation
 
 **Author:** Asif Razzaq  
 **Published:** 8/18/2026, 1:10:28 AM  
