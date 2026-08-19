@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI acts as ideological chameleon and deepen political polarization, study find
+## 1. You can't stop people from using AI
 
-**Author:** DeepLogin  
-**Published:** 8/19/2026, 12:36:17 PM  
+**Author:** ashu1461  
+**Published:** 8/19/2026, 6:35:32 PM  
 **Categories:** -  
 
-Article URL: https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001 Comments URL: https://news.ycombinator.com/item?id=49360734 Points: 2 # Comments: 1
+Article URL: https://ashu1461.com/posts/you-cant-stop-people-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=49365427 Points: 1 # Comments: 0
 
-📖 [Read original article](https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001)
+📖 [Read original article](https://ashu1461.com/posts/you-cant-stop-people-from-using-ai/)
 
 ---
 
-## 2. Where are AI Agents going?
+## 2. AI is helping patients to solve their medical mysteries
 
-**Author:** salman10  
-**Published:** 8/19/2026, 12:35:32 PM  
+**Author:** paulpauper  
+**Published:** 8/19/2026, 6:29:40 PM  
 **Categories:** -  
 
-Article URL: https://designislove.substack.com/p/will-ai-agents-become-the-internets Comments URL: https://news.ycombinator.com/item?id=49360724 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25 Comments URL: https://news.ycombinator.com/item?id=49365345 Points: 1 # Comments: 2
 
-📖 [Read original article](https://designislove.substack.com/p/will-ai-agents-become-the-internets)
+📖 [Read original article](https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25)
 
 ---
 
-## 3. CorePilot, Offline AI Agent and Assistant
+## 3. Rare London bans AI books, asks attendees for help identifying authors using AI
 
-**Author:** wahid_seddiqi  
-**Published:** 8/19/2026, 12:34:28 PM  
+**Author:** ilamont  
+**Published:** 8/19/2026, 6:29:16 PM  
 **Categories:** -  
 
-Article URL: https://corepilot-three.vercel.app Comments URL: https://news.ycombinator.com/item?id=49360713 Points: 1 # Comments: 0
+Article URL: https://jamesrblatch.substack.com/p/is-it-me-or-is-this-sinister Comments URL: https://news.ycombinator.com/item?id=49365337 Points: 2 # Comments: 0
 
-📖 [Read original article](https://corepilot-three.vercel.app)
+📖 [Read original article](https://jamesrblatch.substack.com/p/is-it-me-or-is-this-sinister)
 
 ---
 
-## 4. Two API Calls Exposed AI's Hidden Reasoning [video]
-
-**Author:** sysop_  
-**Published:** 8/19/2026, 12:33:56 PM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=P1v1-2CCKD0 Comments URL: https://news.ycombinator.com/item?id=49360705 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=P1v1-2CCKD0)
-
----
-
-## 5. Show HN: Starwell – give AI agents real statistics instead of made-up numbers
-
-**Author:** adarsh4052  
-**Published:** 8/19/2026, 12:33:29 PM  
-**Categories:** -  
-
-Article URL: https://starwell.dev/ Comments URL: https://news.ycombinator.com/item?id=49360697 Points: 2 # Comments: 0
-
-📖 [Read original article](https://starwell.dev/)
-
----
-
-## 6. Why AI Won't Replace Your Job but Will Change How You Do It
-
-**Author:** mooreds  
-**Published:** 8/19/2026, 12:29:47 PM  
-**Categories:** -  
-
-Article URL: https://daydreamsinruby.com/blog/2026-04-08-ai-changing-your-job/ Comments URL: https://news.ycombinator.com/item?id=49360658 Points: 3 # Comments: 1
-
-📖 [Read original article](https://daydreamsinruby.com/blog/2026-04-08-ai-changing-your-job/)
-
----
-
-## 7. AI Agents Need Good Management Too
+## 4. American AI May Not Survive Chinese Open-Source
 
 **Author:** speckx  
-**Published:** 8/19/2026, 12:29:06 PM  
+**Published:** 8/19/2026, 6:27:43 PM  
 **Categories:** -  
 
-Article URL: https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too Comments URL: https://news.ycombinator.com/item?id=49360648 Points: 2 # Comments: 0
+Article URL: https://www.palladiummag.com/2026/08/19/american-ai-may-not-survive-chinese-open-source/ Comments URL: https://news.ycombinator.com/item?id=49365301 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too)
+📖 [Read original article](https://www.palladiummag.com/2026/08/19/american-ai-may-not-survive-chinese-open-source/)
 
 ---
 
-## 8. I run AI coding agents as a team with AI DevKit
+## 5. Founder of Z.ai and Tsinghua Professor Jie Tang on scaling LLM
 
-**Author:** hoangnnguyen  
-**Published:** 8/19/2026, 12:17:06 PM  
+**Author:** binyu  
+**Published:** 8/19/2026, 6:24:31 PM  
 **Categories:** -  
 
-Article URL: https://codeaholicguy.com/2026/08/19/how-i-run-ai-coding-agents-as-a-team-with-ai-devkit/ Comments URL: https://news.ycombinator.com/item?id=49360515 Points: 1 # Comments: 0
+Article URL: https://twitter.com/hsu_steve/status/2090050721307611414 Comments URL: https://news.ycombinator.com/item?id=49365249 Points: 2 # Comments: 0
 
-📖 [Read original article](https://codeaholicguy.com/2026/08/19/how-i-run-ai-coding-agents-as-a-team-with-ai-devkit/)
+📖 [Read original article](https://twitter.com/hsu_steve/status/2090050721307611414)
 
 ---
 
-## 9. Why Legacy Systems Block Real-Time AI Decision-Making
+## 6. Michigan Insurance Giant Blames \"AI\" for Layoffs–But Evidence Points Overseas
 
-**Author:** mark6  
-**Published:** 8/19/2026, 12:16:53 PM  
+**Author:** Georgelemental  
+**Published:** 8/19/2026, 6:19:13 PM  
 **Categories:** -  
 
-Article URL: https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making Comments URL: https://news.ycombinator.com/item?id=49360513 Points: 1 # Comments: 0
+Article URL: https://www.chrisbrunet.com/p/exclusive-michigan-insurance-giant Comments URL: https://news.ycombinator.com/item?id=49365161 Points: 2 # Comments: 0
 
-📖 [Read original article](https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making)
+📖 [Read original article](https://www.chrisbrunet.com/p/exclusive-michigan-insurance-giant)
 
 ---
 
-## 10. Anthropic Posts First Profitable Quarter in Frontier AI
+## 7. Advertising Built for AI Agents
 
-**Author:** leumon  
-**Published:** 8/19/2026, 12:11:58 PM  
+**Author:** structuredPizza  
+**Published:** 8/19/2026, 6:18:41 PM  
 **Categories:** -  
 
-Article URL: https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/ Comments URL: https://news.ycombinator.com/item?id=49360469 Points: 2 # Comments: 1
+Article URL: https://themobian.ai/ Comments URL: https://news.ycombinator.com/item?id=49365155 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/)
+📖 [Read original article](https://themobian.ai/)
 
 ---
 
-## 11. YC is betting on robotics and physical AI startups
+## 8. Show HN: CIYA – Purely Deterministic AI
 
-**Author:** ghoshbishakh  
-**Published:** 8/19/2026, 11:59:32 AM  
+**Author:** iiiiiiiiio  
+**Published:** 8/19/2026, 6:05:38 PM  
 **Categories:** -  
 
-Went through 208 startups from YC's Winter and Summer 2026 batches to see what they're actually funding this year.Robotics was the biggest surprise. There are 32 robotics/physical AI companies, exactly as many as AI infrastructure companies. A lot of them are working on pretty specific problems: aut...
+Hey HN, Before we roll out our fully deterministic compiled language model (CLM), figured I'd post CIYA's v0.02 for you to try out. At this point CIYA acts as a storage and logic engine for any of your prompting needs, and is available via API/Websocket integration. If your company/project frequentl...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49360345)
+📖 [Read original article](https://iiio.app?u=showhn)
 
 ---
 
-## 12. Show HN: Real-time argument duello game – AI judge decides who's right
+## 9. Inference Engineering: A free book on the systems behind AI inference
 
-**Author:** kacovvv  
-**Published:** 8/19/2026, 11:50:17 AM  
+**Author:** DarenWatson  
+**Published:** 8/19/2026, 6:00:59 PM  
 **Categories:** -  
 
-Article URL: https://wram.chat Comments URL: https://news.ycombinator.com/item?id=49360270 Points: 3 # Comments: 0
+Article URL: https://www.baseten.co/inference-engineering/ Comments URL: https://news.ycombinator.com/item?id=49364934 Points: 2 # Comments: 0
 
-📖 [Read original article](https://wram.chat)
+📖 [Read original article](https://www.baseten.co/inference-engineering/)
 
 ---
 
-## 13. The AI storage pitch is a load balancing problem
+## 10. How to Use Harness Engineering to Remove AI Tells
 
-**Author:** buffer_overlord  
-**Published:** 8/19/2026, 11:41:31 AM  
+**Author:** meshintel  
+**Published:** 8/19/2026, 5:56:16 PM  
 **Categories:** -  
 
-Article URL: https://dev.profullstack.com/~anthony/blog/023-post.html Comments URL: https://news.ycombinator.com/item?id=49360198 Points: 2 # Comments: 0
+Article URL: https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to Comments URL: https://news.ycombinator.com/item?id=49364868 Points: 2 # Comments: 0
 
-📖 [Read original article](https://dev.profullstack.com/~anthony/blog/023-post.html)
+📖 [Read original article](https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to)
 
 ---
 
-## 14. AI automated hiring tools spark discrimination and secrecy lawsuits
+## 11. The 6-Stage AI Infra Journey: Navigating the Three FinOps and Hardware Crises
 
-**Author:** beardyw  
-**Published:** 8/19/2026, 11:36:27 AM  
+**Author:** flyingfishisme  
+**Published:** 8/19/2026, 5:35:35 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination Comments URL: https://news.ycombinator.com/item?id=49360149 Points: 2 # Comments: 0
+Article URL: https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey Comments URL: https://news.ycombinator.com/item?id=49364590 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination)
+📖 [Read original article](https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey)
 
 ---
 
-## 15. Flock Has a Powerful New AI Tool for Police. We Got Its Code
+## 12. A Lawyer for AI Agents
 
-**Author:** sodality2  
-**Published:** 8/19/2026, 11:10:40 AM  
+**Author:** speckx  
+**Published:** 8/19/2026, 5:14:25 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/flock-safety-os-investigate/ Comments URL: https://news.ycombinator.com/item?id=49359914 Points: 5 # Comments: 0
+Article URL: https://artificialauthority.ai/p/a-lawyer-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=49364311 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/flock-safety-os-investigate/)
+📖 [Read original article](https://artificialauthority.ai/p/a-lawyer-for-ai-agents)
 
 ---
 
-## 16. Common Mistakes I've Seen That AI-Generated Apps Keep Making
+## 13. The Download: AI's self-improvement problem, and what's driving the heat
 
-**Author:** dreguero  
-**Published:** 8/19/2026, 11:03:13 AM  
+**Author:** joozio  
+**Published:** 8/19/2026, 5:01:08 PM  
 **Categories:** -  
 
-Article URL: https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make Comments URL: https://news.ycombinator.com/item?id=49359856 Points: 1 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/ Comments URL: https://news.ycombinator.com/item?id=49364149 Points: 2 # Comments: 0
 
-📖 [Read original article](https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make)
+📖 [Read original article](https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/)
 
 ---
 
-## 17. Chinese Banks Start Lending Based on AI Computing-Power Usage
+## 14. Etched AI valuation doubles to $21B in a month
 
-**Author:** aggrrrh  
-**Published:** 8/19/2026, 10:51:26 AM  
+**Author:** bookofjoe  
+**Published:** 8/19/2026, 5:00:45 PM  
 **Categories:** -  
 
-Article URL: https://www.globaltimes.cn/page/202608/1368315.shtml Comments URL: https://news.ycombinator.com/item?id=49359750 Points: 2 # Comments: 1
+Article URL: https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/ Comments URL: https://news.ycombinator.com/item?id=49364142 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.globaltimes.cn/page/202608/1368315.shtml)
+📖 [Read original article](https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/)
 
 ---
 
-## 18. Confidential AI: Let AI Work for You Without Handing over Your Privacy
+## 15. Show HN: CrewCode – Open-source Mission Control for AI coding agents
 
-**Author:** PlugMate  
-**Published:** 8/19/2026, 10:47:57 AM  
+**Author:** CjLogix  
+**Published:** 8/19/2026, 4:56:22 PM  
 **Categories:** -  
 
-Article URL: https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/ Comments URL: https://news.ycombinator.com/item?id=49359714 Points: 2 # Comments: 0
+I've been experimenting heavily with coding agents and found myself managing agents more than writing code.I build CrewCode to solve that.Its an open source desktop application for running multiple AI coding agents in parallel while isolating their work with Git worktrees.Git worktrees → agent isola...
 
-📖 [Read original article](https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/)
+📖 [Read original article](https://github.com/OnPoint-Dev-Tools/crewcode)
 
 ---
 
-## 19. Show HN: Knownbase, an MCP server for persistent AI agent memory
+## 16. Show HN: Intelix – AI agent that investigates and resolves production incidents
 
-**Author:** knownbase_dev  
-**Published:** 8/19/2026, 10:43:04 AM  
+**Author:** ved_p05  
+**Published:** 8/19/2026, 4:56:04 PM  
 **Categories:** -  
 
-Article URL: https://knownbase.dev/ Comments URL: https://news.ycombinator.com/item?id=49359680 Points: 2 # Comments: 0
+Hi HN,I built Intelix, an AI incident-response agent for engineering teams.When a production incident happens, Intelix investigates it instead of simply notifying an engineer.It gathers evidence across PagerDuty, Datadog, GitHub and Kubernetes, identifies and ranks possible root causes, validates wh...
 
-📖 [Read original article](https://knownbase.dev/)
+📖 [Read original article](https://intelix.dev)
 
 ---
 
-## 20. AI reverse-engineered my printer. I just pressed the buttons
+## 17. Cerebras chips rival Nvidia GPUs for AI [video]
 
-**Author:** druchem  
-**Published:** 8/19/2026, 10:17:40 AM  
+**Author:** binyu  
+**Published:** 8/19/2026, 4:51:23 PM  
 **Categories:** -  
 
-Article URL: https://www.panaxeo.com/blog/ai-reverse-engineered-my-printer-i-just-pressed-the-buttons Comments URL: https://news.ycombinator.com/item?id=49359452 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=qC_lCFTOJU0 Comments URL: https://news.ycombinator.com/item?id=49364019 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.panaxeo.com/blog/ai-reverse-engineered-my-printer-i-just-pressed-the-buttons)
+📖 [Read original article](https://www.youtube.com/watch?v=qC_lCFTOJU0)
+
+---
+
+## 18. How I Use AI to Help Me Write
+
+**Author:** jjfoooo4  
+**Published:** 8/19/2026, 4:51:02 PM  
+**Categories:** -  
+
+Article URL: https://tombedor.dev/how-i-use-ai-to-help-me-write/ Comments URL: https://news.ycombinator.com/item?id=49364014 Points: 1 # Comments: 0
+
+📖 [Read original article](https://tombedor.dev/how-i-use-ai-to-help-me-write/)
+
+---
+
+## 19. A Constitution for One: 7 months governing a personal AI agent fleet
+
+**Author:** sucong178899  
+**Published:** 8/19/2026, 4:49:38 PM  
+**Categories:** -  
+
+Article URL: https://github.com/Chong169/a-constitution-for-one Comments URL: https://news.ycombinator.com/item?id=49363991 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/Chong169/a-constitution-for-one)
+
+---
+
+## 20. People vs. the AI Overlords
+
+**Author:** meetpateltech  
+**Published:** 8/19/2026, 4:47:19 PM  
+**Categories:** -  
+
+Article URL: https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/ Comments URL: https://news.ycombinator.com/item?id=49363959 Points: 1 # Comments: 0
+
+📖 [Read original article](https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/)
 
 ---
