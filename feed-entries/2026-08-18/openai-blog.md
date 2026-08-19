@@ -2,16 +2,28 @@
 title: "OpenAI Blog - 2026-08-18"
 date: "2026-08-18"
 source: "OpenAI Blog"
-count: 3
+count: 6
 ---
 
 # OpenAI Blog - 2026-08-18
 
-3 items collected.
+6 items collected.
 
 ---
 
-## 1. Partnering with CodeAI to prepare the first AI generation
+## 1. Strengthening democratic oversight in national security
+
+**Author:** -  
+**Published:** 8/18/2026, 7:00:00 PM  
+**Categories:** Global Affairs  
+
+OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.
+
+📖 [Read original article](https://openai.com/index/strengthening-democratic-oversight-in-national-security)
+
+---
+
+## 2. Partnering with CodeAI to prepare the first AI generation
 
 **Author:** -  
 **Published:** 8/18/2026, 11:00:00 AM  
@@ -23,7 +35,19 @@ OpenAI and CodeAI are partnering to help students build AI literacy, think criti
 
 ---
 
-## 2. Introducing ChatGPT for Teens: Built for learning, backed by protections
+## 3. Pacing model development in an era of cyber-critical capabilities
+
+**Author:** -  
+**Published:** 8/18/2026, 11:00:00 AM  
+**Categories:** Company  
+
+OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.
+
+📖 [Read original article](https://openai.com/index/pacing-model-development-cyber-capabilities)
+
+---
+
+## 4. Introducing ChatGPT for Teens: Built for learning, backed by protections
 
 **Author:** -  
 **Published:** 8/18/2026, 11:00:00 AM  
@@ -35,7 +59,7 @@ ChatGPT for Teens helps teens learn, think critically, and use AI with confidenc
 
 ---
 
-## 3. Asana cleared 5 years of engineering work in 2 weeks with Codex
+## 5. Asana cleared 5 years of engineering work in 2 weeks with Codex
 
 **Author:** -  
 **Published:** 8/18/2026, 7:00:00 AM  
@@ -44,5 +68,17 @@ ChatGPT for Teens helps teens learn, think critically, and use AI with confidenc
 Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.
 
 📖 [Read original article](https://openai.com/index/asana)
+
+---
+
+## 6. How NVIDIA scales expertise with ChatGPT Work
+
+**Author:** -  
+**Published:** 8/18/2026, 12:00:00 AM  
+**Categories:** -  
+
+NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.
+
+📖 [Read original article](https://openai.com/index/nvidia/chatgpt-work)
 
 ---
