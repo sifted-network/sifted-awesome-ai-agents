@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Excited and exhausted: life as a tech writer in the AI age
+## 1. AI acts as ideological chameleon and deepen political polarization, study find
 
-**Author:** theletterf  
-**Published:** 8/19/2026, 6:24:23 AM  
+**Author:** DeepLogin  
+**Published:** 8/19/2026, 12:36:17 PM  
 **Categories:** -  
 
-Article URL: https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age/ Comments URL: https://news.ycombinator.com/item?id=49357621 Points: 1 # Comments: 0
+Article URL: https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001 Comments URL: https://news.ycombinator.com/item?id=49360734 Points: 2 # Comments: 1
 
-📖 [Read original article](https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age/)
+📖 [Read original article](https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001)
 
 ---
 
-## 2. 200B Tokens Later: A Month of Letting AI Agents Decompile MW2
+## 2. Where are AI Agents going?
 
-**Author:** tyrells  
-**Published:** 8/19/2026, 6:19:40 AM  
+**Author:** salman10  
+**Published:** 8/19/2026, 12:35:32 PM  
 **Categories:** -  
 
-Article URL: https://momo5502.com/posts/2026-08-17-mw2-decompilation/ Comments URL: https://news.ycombinator.com/item?id=49357584 Points: 1 # Comments: 0
+Article URL: https://designislove.substack.com/p/will-ai-agents-become-the-internets Comments URL: https://news.ycombinator.com/item?id=49360724 Points: 1 # Comments: 0
 
-📖 [Read original article](https://momo5502.com/posts/2026-08-17-mw2-decompilation/)
+📖 [Read original article](https://designislove.substack.com/p/will-ai-agents-become-the-internets)
 
 ---
 
-## 3. Does AI stop children from learning?
+## 3. CorePilot, Offline AI Agent and Assistant
 
-**Author:** dash2  
-**Published:** 8/19/2026, 6:13:31 AM  
+**Author:** wahid_seddiqi  
+**Published:** 8/19/2026, 12:34:28 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning Comments URL: https://news.ycombinator.com/item?id=49357530 Points: 4 # Comments: 0
+Article URL: https://corepilot-three.vercel.app Comments URL: https://news.ycombinator.com/item?id=49360713 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
+📖 [Read original article](https://corepilot-three.vercel.app)
 
 ---
 
-## 4. Designing AI with character: what we learned building Berd
+## 4. Two API Calls Exposed AI's Hidden Reasoning [video]
 
-**Author:** thm  
-**Published:** 8/19/2026, 5:26:26 AM  
+**Author:** sysop_  
+**Published:** 8/19/2026, 12:33:56 PM  
 **Categories:** -  
 
-Article URL: https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd Comments URL: https://news.ycombinator.com/item?id=49357223 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=P1v1-2CCKD0 Comments URL: https://news.ycombinator.com/item?id=49360705 Points: 1 # Comments: 0
 
-📖 [Read original article](https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd)
+📖 [Read original article](https://www.youtube.com/watch?v=P1v1-2CCKD0)
 
 ---
 
-## 5. Get feedback on your AI slop. no accounts
+## 5. Show HN: Starwell – give AI agents real statistics instead of made-up numbers
 
-**Author:** karenimnotkaren  
-**Published:** 8/19/2026, 5:24:28 AM  
+**Author:** adarsh4052  
+**Published:** 8/19/2026, 12:33:29 PM  
 **Categories:** -  
 
-Article URL: https://slopornot.simplicated.dev Comments URL: https://news.ycombinator.com/item?id=49357213 Points: 1 # Comments: 0
+Article URL: https://starwell.dev/ Comments URL: https://news.ycombinator.com/item?id=49360697 Points: 2 # Comments: 0
 
-📖 [Read original article](https://slopornot.simplicated.dev)
+📖 [Read original article](https://starwell.dev/)
 
 ---
 
-## 6. AI Stock Research Assistant · Streamlit
+## 6. Why AI Won't Replace Your Job but Will Change How You Do It
 
-**Author:** KiaanKothari  
-**Published:** 8/19/2026, 5:17:36 AM  
+**Author:** mooreds  
+**Published:** 8/19/2026, 12:29:47 PM  
 **Categories:** -  
 
-Article URL: https://ai-stock-research-kiaan.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49357163 Points: 1 # Comments: 1
+Article URL: https://daydreamsinruby.com/blog/2026-04-08-ai-changing-your-job/ Comments URL: https://news.ycombinator.com/item?id=49360658 Points: 3 # Comments: 1
 
-📖 [Read original article](https://ai-stock-research-kiaan.streamlit.app)
+📖 [Read original article](https://daydreamsinruby.com/blog/2026-04-08-ai-changing-your-job/)
 
 ---
 
-## 7. Looking for an ArXiv Endorser – AI / Computer Science
-
-**Author:** lcm3  
-**Published:** 8/19/2026, 5:15:32 AM  
-**Categories:** -  
-
-Article URL: https://github.com/paibyun9/EGA-V9 Comments URL: https://news.ycombinator.com/item?id=49357141 Points: 1 # Comments: 2
-
-📖 [Read original article](https://github.com/paibyun9/EGA-V9)
-
----
-
-## 8. AI mines 500 years of Spanish colonial records to find hidden wrecks, lost cargo
-
-**Author:** harambae  
-**Published:** 8/19/2026, 4:25:35 AM  
-**Categories:** -  
-
-Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo Comm...
-
-📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo)
-
----
-
-## 9. Show HN: 4bit bridge between AI and humans
-
-**Author:** YOalphabet  
-**Published:** 8/19/2026, 4:21:26 AM  
-**Categories:** -  
-
-Article URL: https://github.com/YOalphabet/YOalphabet Comments URL: https://news.ycombinator.com/item?id=49356777 Points: 3 # Comments: 1
-
-📖 [Read original article](https://github.com/YOalphabet/YOalphabet)
-
----
-
-## 10. Ask HN: Are AI credits too locked to individual applications?
-
-**Author:** nextma  
-**Published:** 8/19/2026, 4:08:42 AM  
-**Categories:** -  
-
-The problem: I already had AI credits, but those credits were locked to one application.context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of credits on the deployment agent. To keep using it, I either had to wait for credits to reset or upgrade to a highe...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49356667)
-
----
-
-## 11. Model Hypnosis: Strong control of AI via additive subliminal effects
-
-**Author:** sbulaev  
-**Published:** 8/19/2026, 4:07:06 AM  
-**Categories:** -  
-
-Article URL: https://arxiv.org/abs/2608.16834 Comments URL: https://news.ycombinator.com/item?id=49356648 Points: 1 # Comments: 0
-
-📖 [Read original article](https://arxiv.org/abs/2608.16834)
-
----
-
-## 12. Show HN: PlugClaw – Private AI agent hardware for any phone or PC
-
-**Author:** darkreader  
-**Published:** 8/19/2026, 4:03:16 AM  
-**Categories:** -  
-
-Article URL: https://plugos.net/plugclaw/ Comments URL: https://news.ycombinator.com/item?id=49356609 Points: 3 # Comments: 0
-
-📖 [Read original article](https://plugos.net/plugclaw/)
-
----
-
-## 13. Mathematics in the Age of AI
-
-**Author:** aaraujo002  
-**Published:** 8/19/2026, 4:01:39 AM  
-**Categories:** -  
-
-Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49356591 Points: 1 # Comments: 0
-
-📖 [Read original article](https://arxiv.org/abs/2608.16753)
-
----
-
-## 14. SERP Lens – an AI agent that does SEO work in a real browser
-
-**Author:** brodieclark  
-**Published:** 8/19/2026, 3:55:47 AM  
-**Categories:** -  
-
-Article URL: https://serplens.com Comments URL: https://news.ycombinator.com/item?id=49356542 Points: 1 # Comments: 0
-
-📖 [Read original article](https://serplens.com)
-
----
-
-## 15. Explaining AI agents is like explaining 3D printers
+## 7. AI Agents Need Good Management Too
 
 **Author:** speckx  
-**Published:** 8/19/2026, 3:43:32 AM  
+**Published:** 8/19/2026, 12:29:06 PM  
 **Categories:** -  
 
-Article URL: https://www.jitbit.com/alexblog/ai-agents-and-3d-printers/ Comments URL: https://news.ycombinator.com/item?id=49356461 Points: 2 # Comments: 0
+Article URL: https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too Comments URL: https://news.ycombinator.com/item?id=49360648 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.jitbit.com/alexblog/ai-agents-and-3d-printers/)
+📖 [Read original article](https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too)
 
 ---
 
-## 16. Show HN: Control AI Agents on Your Old PC at Home from Any Device Anywhere
+## 8. I run AI coding agents as a team with AI DevKit
 
-**Author:** elin66alpha  
-**Published:** 8/19/2026, 3:26:59 AM  
+**Author:** hoangnnguyen  
+**Published:** 8/19/2026, 12:17:06 PM  
 **Categories:** -  
 
-I built Relay around a simple idea: many of us have an unused PC server at home, or a VPS dedicated to AI-assisted coding, but the coding agents running there are still tied to that machine’s terminal, I just don't want to ssh/rdp into it every single time. Relay brings Claude Code, Codex, OpenCode,...
+Article URL: https://codeaholicguy.com/2026/08/19/how-i-run-ai-coding-agents-as-a-team-with-ai-devkit/ Comments URL: https://news.ycombinator.com/item?id=49360515 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/elin66alpha/Relay)
+📖 [Read original article](https://codeaholicguy.com/2026/08/19/how-i-run-ai-coding-agents-as-a-team-with-ai-devkit/)
 
 ---
 
-## 17. The Recursive Economy: AI Self-Improvement and Scarcity
+## 9. Why Legacy Systems Block Real-Time AI Decision-Making
 
-**Author:** codelion  
-**Published:** 8/19/2026, 3:16:21 AM  
+**Author:** mark6  
+**Published:** 8/19/2026, 12:16:53 PM  
 **Categories:** -  
 
-Article URL: https://recursive-economy.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49356213 Points: 2 # Comments: 0
+Article URL: https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making Comments URL: https://news.ycombinator.com/item?id=49360513 Points: 1 # Comments: 0
 
-📖 [Read original article](https://recursive-economy.pages.dev/)
+📖 [Read original article](https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making)
 
 ---
 
-## 18. Agent2Agent (A2A) joins Agentic AI Foundation (AAIF)'s open agentic stack
+## 10. Anthropic Posts First Profitable Quarter in Frontier AI
 
-**Author:** ChrisArchitect  
-**Published:** 8/19/2026, 3:05:02 AM  
+**Author:** leumon  
+**Published:** 8/19/2026, 12:11:58 PM  
 **Categories:** -  
 
-Article URL: https://aaif.io/blog/a2a-joins-aaif Comments URL: https://news.ycombinator.com/item?id=49356130 Points: 1 # Comments: 0
+Article URL: https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/ Comments URL: https://news.ycombinator.com/item?id=49360469 Points: 2 # Comments: 1
 
-📖 [Read original article](https://aaif.io/blog/a2a-joins-aaif)
+📖 [Read original article](https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/)
 
 ---
 
-## 19. Will Autonomous AI Exceed AI-Aided Physicians as the Best Medical Care?
+## 11. YC is betting on robotics and physical AI startups
 
-**Author:** liamkf  
-**Published:** 8/19/2026, 2:59:52 AM  
+**Author:** ghoshbishakh  
+**Published:** 8/19/2026, 11:59:32 AM  
 **Categories:** -  
 
-Article URL: https://jamanetwork.com/journals/jama/fullarticle/2852952?guestAccessKey=562af865-a038-4425-993f-ff25e5e3a130 Comments URL: https://news.ycombinator.com/item?id=49356100 Points: 1 # Comments: 0
+Went through 208 startups from YC's Winter and Summer 2026 batches to see what they're actually funding this year.Robotics was the biggest surprise. There are 32 robotics/physical AI companies, exactly as many as AI infrastructure companies. A lot of them are working on pretty specific problems: aut...
 
-📖 [Read original article](https://jamanetwork.com/journals/jama/fullarticle/2852952?guestAccessKey=562af865-a038-4425-993f-ff25e5e3a130)
+📖 [Read original article](https://news.ycombinator.com/item?id=49360345)
 
 ---
 
-## 20. Show HN: Warp DD – AI that analyzes technology ecosystems in ~30 seconds
+## 12. Show HN: Real-time argument duello game – AI judge decides who's right
 
-**Author:** masato_furuno  
-**Published:** 8/19/2026, 2:25:47 AM  
+**Author:** kacovvv  
+**Published:** 8/19/2026, 11:50:17 AM  
 **Categories:** -  
 
-Article URL: https://warpdd.com Comments URL: https://news.ycombinator.com/item?id=49355834 Points: 3 # Comments: 0
+Article URL: https://wram.chat Comments URL: https://news.ycombinator.com/item?id=49360270 Points: 3 # Comments: 0
 
-📖 [Read original article](https://warpdd.com)
+📖 [Read original article](https://wram.chat)
+
+---
+
+## 13. The AI storage pitch is a load balancing problem
+
+**Author:** buffer_overlord  
+**Published:** 8/19/2026, 11:41:31 AM  
+**Categories:** -  
+
+Article URL: https://dev.profullstack.com/~anthony/blog/023-post.html Comments URL: https://news.ycombinator.com/item?id=49360198 Points: 2 # Comments: 0
+
+📖 [Read original article](https://dev.profullstack.com/~anthony/blog/023-post.html)
+
+---
+
+## 14. AI automated hiring tools spark discrimination and secrecy lawsuits
+
+**Author:** beardyw  
+**Published:** 8/19/2026, 11:36:27 AM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination Comments URL: https://news.ycombinator.com/item?id=49360149 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination)
+
+---
+
+## 15. Flock Has a Powerful New AI Tool for Police. We Got Its Code
+
+**Author:** sodality2  
+**Published:** 8/19/2026, 11:10:40 AM  
+**Categories:** -  
+
+Article URL: https://www.wired.com/story/flock-safety-os-investigate/ Comments URL: https://news.ycombinator.com/item?id=49359914 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.wired.com/story/flock-safety-os-investigate/)
+
+---
+
+## 16. Common Mistakes I've Seen That AI-Generated Apps Keep Making
+
+**Author:** dreguero  
+**Published:** 8/19/2026, 11:03:13 AM  
+**Categories:** -  
+
+Article URL: https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make Comments URL: https://news.ycombinator.com/item?id=49359856 Points: 1 # Comments: 0
+
+📖 [Read original article](https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make)
+
+---
+
+## 17. Chinese Banks Start Lending Based on AI Computing-Power Usage
+
+**Author:** aggrrrh  
+**Published:** 8/19/2026, 10:51:26 AM  
+**Categories:** -  
+
+Article URL: https://www.globaltimes.cn/page/202608/1368315.shtml Comments URL: https://news.ycombinator.com/item?id=49359750 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.globaltimes.cn/page/202608/1368315.shtml)
+
+---
+
+## 18. Confidential AI: Let AI Work for You Without Handing over Your Privacy
+
+**Author:** PlugMate  
+**Published:** 8/19/2026, 10:47:57 AM  
+**Categories:** -  
+
+Article URL: https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/ Comments URL: https://news.ycombinator.com/item?id=49359714 Points: 2 # Comments: 0
+
+📖 [Read original article](https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/)
+
+---
+
+## 19. Show HN: Knownbase, an MCP server for persistent AI agent memory
+
+**Author:** knownbase_dev  
+**Published:** 8/19/2026, 10:43:04 AM  
+**Categories:** -  
+
+Article URL: https://knownbase.dev/ Comments URL: https://news.ycombinator.com/item?id=49359680 Points: 2 # Comments: 0
+
+📖 [Read original article](https://knownbase.dev/)
+
+---
+
+## 20. AI reverse-engineered my printer. I just pressed the buttons
+
+**Author:** druchem  
+**Published:** 8/19/2026, 10:17:40 AM  
+**Categories:** -  
+
+Article URL: https://www.panaxeo.com/blog/ai-reverse-engineered-my-printer-i-just-pressed-the-buttons Comments URL: https://news.ycombinator.com/item?id=49359452 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.panaxeo.com/blog/ai-reverse-engineered-my-printer-i-just-pressed-the-buttons)
 
 ---
