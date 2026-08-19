@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-18"
 date: "2026-08-18"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-08-18
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ count: 10
 回头看，A社就这样完成了反超
 
 📖 [Read original article](https://www.qbitai.com/2026/08/474673.html)
-
----
-
-## 10. 阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了
-
-**Author:** 梦瑶  
-**Published:** 8/18/2026, 4:40:03 AM  
-**Categories:** 资讯, 阿里  
-
-MyContext补上Agent的数据加工层
-
-📖 [Read original article](https://www.qbitai.com/2026/08/474647.html)
 
 ---
