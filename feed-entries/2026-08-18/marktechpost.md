@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-18"
 date: "2026-08-18"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-08-18
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents
+## 1. NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands
+
+**Author:** Asif Razzaq  
+**Published:** 8/18/2026, 9:49:04 PM  
+**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, For Devs, Language Model, New Releases, Open Source, Python, Software Engineering, Staff, Tech News, Technology  
+
+NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to end-to-end TensorRT inference in two commands, with no intermediate ONNX export. The build emits a versioned .bundle artifact that runs through nativ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/)
+
+---
+
+## 2. Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents
 
 **Author:** Michal Sutter  
 **Published:** 8/18/2026, 1:29:10 PM  
@@ -23,7 +35,7 @@ Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it h
 
 ---
 
-## 2. Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas
+## 3. Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas
 
 **Author:** Asif Razzaq  
 **Published:** 8/18/2026, 10:37:49 AM  
@@ -35,7 +47,7 @@ Cartesia has released Sonic-3.6, a streaming text-to-speech model built on state
 
 ---
 
-## 3. Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots
+## 4. Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots
 
 **Author:** Michal Sutter  
 **Published:** 8/18/2026, 2:05:28 AM  
@@ -47,7 +59,7 @@ Nous Research has shipped Bot Mode for Hermes Agent, its MIT-licensed open sourc
 
 ---
 
-## 4. ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation
+## 5. ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation
 
 **Author:** Asif Razzaq  
 **Published:** 8/18/2026, 1:10:28 AM  
