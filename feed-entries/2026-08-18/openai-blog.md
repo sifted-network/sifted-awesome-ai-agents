@@ -2,16 +2,28 @@
 title: "OpenAI Blog - 2026-08-18"
 date: "2026-08-18"
 source: "OpenAI Blog"
-count: 6
+count: 7
 ---
 
 # OpenAI Blog - 2026-08-18
 
-6 items collected.
+7 items collected.
 
 ---
 
-## 1. Strengthening democratic oversight in national security
+## 1. ChatGPT Ads expands across Europe
+
+**Author:** -  
+**Published:** 8/18/2026, 10:00:00 PM  
+**Categories:** Product  
+
+ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
+
+📖 [Read original article](https://openai.com/index/chatgpt-ads-expands-across-europe)
+
+---
+
+## 2. Strengthening democratic oversight in national security
 
 **Author:** -  
 **Published:** 8/18/2026, 7:00:00 PM  
@@ -23,7 +35,7 @@ OpenAI launches an initiative to strengthen democratic oversight of AI in nation
 
 ---
 
-## 2. Partnering with CodeAI to prepare the first AI generation
+## 3. Partnering with CodeAI to prepare the first AI generation
 
 **Author:** -  
 **Published:** 8/18/2026, 11:00:00 AM  
@@ -35,7 +47,7 @@ OpenAI and CodeAI are partnering to help students build AI literacy, think criti
 
 ---
 
-## 3. Pacing model development in an era of cyber-critical capabilities
+## 4. Pacing model development in an era of cyber-critical capabilities
 
 **Author:** -  
 **Published:** 8/18/2026, 11:00:00 AM  
@@ -47,7 +59,7 @@ OpenAI is strengthening monitoring, alignment, and security for frontier AI mode
 
 ---
 
-## 4. Introducing ChatGPT for Teens: Built for learning, backed by protections
+## 5. Introducing ChatGPT for Teens: Built for learning, backed by protections
 
 **Author:** -  
 **Published:** 8/18/2026, 11:00:00 AM  
@@ -59,7 +71,7 @@ ChatGPT for Teens helps teens learn, think critically, and use AI with confidenc
 
 ---
 
-## 5. Asana cleared 5 years of engineering work in 2 weeks with Codex
+## 6. Asana cleared 5 years of engineering work in 2 weeks with Codex
 
 **Author:** -  
 **Published:** 8/18/2026, 7:00:00 AM  
@@ -71,7 +83,7 @@ Asana used OpenAI Codex to replace an outdated testing system in two weeks, comp
 
 ---
 
-## 6. How NVIDIA scales expertise with ChatGPT Work
+## 7. How NVIDIA scales expertise with ChatGPT Work
 
 **Author:** -  
 **Published:** 8/18/2026, 12:00:00 AM  
