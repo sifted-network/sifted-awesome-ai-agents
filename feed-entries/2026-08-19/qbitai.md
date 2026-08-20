@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-19"
 date: "2026-08-19"
 source: "qbitai"
-count: 10
+count: 7
 ---
 
 # qbitai - 2026-08-19
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ count: 10
 AI终于能听严格执行运镜需求
 
 📖 [Read original article](https://www.qbitai.com/2026/08/475476.html)
-
----
-
-## 8. 从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑
-
-**Author:** 思邈  
-**Published:** 8/19/2026, 6:35:42 AM  
-**Categories:** 资讯, 刘若微, 张朝阳, 搜狐, 物理学  
-
-“做物理，要敢于提出蠢问题”
-
-📖 [Read original article](https://www.qbitai.com/2026/08/475460.html)
-
----
-
-## 9. AI for Science开始“动手”了：机器人正式走进国家级实验室
-
-**Author:** 思邈  
-**Published:** 8/19/2026, 6:29:57 AM  
-**Categories:** 资讯  
-
-源络科技，推动AI for Science走进实验室3.0
-
-📖 [Read original article](https://www.qbitai.com/2026/08/475332.html)
-
----
-
-## 10. 郭富城换车，30万级顶配华为全家桶
-
-**Author:** 杰西卡  
-**Published:** 8/19/2026, 12:59:23 AM  
-**Categories:** 智能车参考, 车圈最新认知，奕境  
-
-5.3米六座家用SUV
-
-📖 [Read original article](https://www.qbitai.com/2026/08/475009.html)
 
 ---
