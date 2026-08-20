@@ -2,251 +2,215 @@
 title: "Hacker News AI - 2026-08-19"
 date: "2026-08-19"
 source: "Hacker News AI"
-count: 20
+count: 17
 ---
 
 # Hacker News AI - 2026-08-19
 
-20 items collected.
+17 items collected.
 
 ---
 
-## 1. You can't stop people from using AI
+## 1. If You're Not Studying for Retention, Just Use AI
 
-**Author:** ashu1461  
-**Published:** 8/19/2026, 6:35:32 PM  
+**Author:** f18m  
+**Published:** 8/19/2026, 11:50:50 PM  
 **Categories:** -  
 
-Article URL: https://ashu1461.com/posts/you-cant-stop-people-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=49365427 Points: 1 # Comments: 0
+Article URL: https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai Comments URL: https://news.ycombinator.com/item?id=49368725 Points: 3 # Comments: 1
 
-📖 [Read original article](https://ashu1461.com/posts/you-cant-stop-people-from-using-ai/)
+📖 [Read original article](https://www.fjapm.com/posts/if-youre-not-studying-for-retention-just-use-ai)
 
 ---
 
-## 2. AI is helping patients to solve their medical mysteries
+## 2. AI-Powered Cyberattacks
+
+**Author:** bps1418  
+**Published:** 8/19/2026, 11:25:19 PM  
+**Categories:** -  
+
+Article URL: https://www.opswat.com/blog/ai-powered-cyberattacks Comments URL: https://news.ycombinator.com/item?id=49368496 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.opswat.com/blog/ai-powered-cyberattacks)
+
+---
+
+## 3. AI Hurtles Ahead
+
+**Author:** rzk  
+**Published:** 8/19/2026, 11:21:08 PM  
+**Categories:** -  
+
+Article URL: https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead Comments URL: https://news.ycombinator.com/item?id=49368452 Points: 1 # Comments: 3
+
+📖 [Read original article](https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead)
+
+---
+
+## 4. Technical leaders should have the largest AI exhaust
+
+**Author:** schipperai  
+**Published:** 8/19/2026, 11:12:38 PM  
+**Categories:** -  
+
+Article URL: https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/ Comments URL: https://news.ycombinator.com/item?id=49368389 Points: 8 # Comments: 8
+
+📖 [Read original article](https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/)
+
+---
+
+## 5. \"Half-Day\": 0-Day in the Age of AI
+
+**Author:** aaronsdevera  
+**Published:** 8/19/2026, 11:03:53 PM  
+**Categories:** -  
+
+Article URL: https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49368297 Points: 2 # Comments: 0
+
+📖 [Read original article](https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/)
+
+---
+
+## 6. Jason Kelce pleads with NFL fans to send urine to AI data centers
+
+**Author:** farrisa  
+**Published:** 8/19/2026, 10:58:44 PM  
+**Categories:** -  
+
+Article URL: https://www.themirror.com/sport/american-football/jason-kelce-pee-garage-beers-1989324 Comments URL: https://news.ycombinator.com/item?id=49368248 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.themirror.com/sport/american-football/jason-kelce-pee-garage-beers-1989324)
+
+---
+
+## 7. I had to unplug from AI to rediscover my love of writing
+
+**Author:** prabal97  
+**Published:** 8/19/2026, 10:51:20 PM  
+**Categories:** -  
+
+Article URL: https://www.science.org/content/article/i-had-unplug-ai-rediscover-my-love-writing Comments URL: https://news.ycombinator.com/item?id=49368184 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.science.org/content/article/i-had-unplug-ai-rediscover-my-love-writing)
+
+---
+
+## 8. Dear researchers: Is AI all you've got?
+
+**Author:** jermaustin1  
+**Published:** 8/19/2026, 10:47:04 PM  
+**Categories:** -  
+
+Article URL: https://austinhenley.com/blog/dearresearchers.html Comments URL: https://news.ycombinator.com/item?id=49368150 Points: 2 # Comments: 0
+
+📖 [Read original article](https://austinhenley.com/blog/dearresearchers.html)
+
+---
+
+## 9. Semantica, the Open Source Palantir for AI Agents
+
+**Author:** jinqueeny  
+**Published:** 8/19/2026, 10:28:48 PM  
+**Categories:** -  
+
+Article URL: https://github.com/semantica-agi/semantica Comments URL: https://news.ycombinator.com/item?id=49367995 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/semantica-agi/semantica)
+
+---
+
+## 10. PINE64 halts their open-source hardware manufacturing until the AI bubble bursts
+
+**Author:** taxmeifyoucan  
+**Published:** 8/19/2026, 10:20:14 PM  
+**Categories:** -  
+
+Article URL: https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041 Comments URL: https://news.ycombinator.com/item?id=49367929 Points: 10 # Comments: 1
+
+📖 [Read original article](https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041)
+
+---
+
+## 11. Japan to require AI firms to disclose training data
+
+**Author:** anigbrowl  
+**Published:** 8/19/2026, 10:12:52 PM  
+**Categories:** -  
+
+Article URL: https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/ Comments URL: https://news.ycombinator.com/item?id=49367870 Points: 12 # Comments: 4
+
+📖 [Read original article](https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/)
+
+---
+
+## 12. Node.js AI use policy and guidelines
+
+**Author:** thesdev  
+**Published:** 8/19/2026, 10:03:24 PM  
+**Categories:** -  
+
+Article URL: https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md Comments URL: https://news.ycombinator.com/item?id=49367779 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md)
+
+---
+
+## 13. Vibe-Kanban-Alternative – Classic AI agent Kanban with mem0 persistent memory
+
+**Author:** datapointnet  
+**Published:** 8/19/2026, 9:38:25 PM  
+**Categories:** -  
+
+Article URL: https://github.com/flashlan/vibe-kanban-alternative Comments URL: https://news.ycombinator.com/item?id=49367532 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/flashlan/vibe-kanban-alternative)
+
+---
+
+## 14. How much would value the domain 'cmdk.ai' and 'commandk.ai'
+
+**Author:** hpragdish  
+**Published:** 8/19/2026, 9:13:49 PM  
+**Categories:** -  
+
+Bought this domain long back, thinking between selling or using this for domain for all my open source projects. Just wanted to know what is it valued in the market. Comments URL: https://news.ycombinator.com/item?id=49367288 Points: 1 # Comments: 1
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49367288)
+
+---
+
+## 15. Did OpenAI's AI hack Hugging Face? An evidence audit
+
+**Author:** igovnow  
+**Published:** 8/19/2026, 9:09:14 PM  
+**Categories:** -  
+
+Article URL: https://speedyweedyops.org/did-openai-ai-hack-hugging-face/ Comments URL: https://news.ycombinator.com/item?id=49367230 Points: 1 # Comments: 0
+
+📖 [Read original article](https://speedyweedyops.org/did-openai-ai-hack-hugging-face/)
+
+---
+
+## 16. The AI Boom Is About to Make Cars More Expensive
+
+**Author:** littlexsparkee  
+**Published:** 8/19/2026, 9:08:56 PM  
+**Categories:** -  
+
+Article URL: https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/ Comments URL: https://news.ycombinator.com/item?id=49367228 Points: 2 # Comments: 3
+
+📖 [Read original article](https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/)
+
+---
+
+## 17. AI-generated writing: it's still bad
 
 **Author:** paulpauper  
-**Published:** 8/19/2026, 6:29:40 PM  
+**Published:** 8/19/2026, 9:02:46 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25 Comments URL: https://news.ycombinator.com/item?id=49365345 Points: 1 # Comments: 2
+Article URL: https://greyenlightenment.com/2026/08/18/ai-generated-writing-its-still-bad/ Comments URL: https://news.ycombinator.com/item?id=49367185 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25)
-
----
-
-## 3. Rare London bans AI books, asks attendees for help identifying authors using AI
-
-**Author:** ilamont  
-**Published:** 8/19/2026, 6:29:16 PM  
-**Categories:** -  
-
-Article URL: https://jamesrblatch.substack.com/p/is-it-me-or-is-this-sinister Comments URL: https://news.ycombinator.com/item?id=49365337 Points: 2 # Comments: 0
-
-📖 [Read original article](https://jamesrblatch.substack.com/p/is-it-me-or-is-this-sinister)
-
----
-
-## 4. American AI May Not Survive Chinese Open-Source
-
-**Author:** speckx  
-**Published:** 8/19/2026, 6:27:43 PM  
-**Categories:** -  
-
-Article URL: https://www.palladiummag.com/2026/08/19/american-ai-may-not-survive-chinese-open-source/ Comments URL: https://news.ycombinator.com/item?id=49365301 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.palladiummag.com/2026/08/19/american-ai-may-not-survive-chinese-open-source/)
-
----
-
-## 5. Founder of Z.ai and Tsinghua Professor Jie Tang on scaling LLM
-
-**Author:** binyu  
-**Published:** 8/19/2026, 6:24:31 PM  
-**Categories:** -  
-
-Article URL: https://twitter.com/hsu_steve/status/2090050721307611414 Comments URL: https://news.ycombinator.com/item?id=49365249 Points: 2 # Comments: 0
-
-📖 [Read original article](https://twitter.com/hsu_steve/status/2090050721307611414)
-
----
-
-## 6. Michigan Insurance Giant Blames \"AI\" for Layoffs–But Evidence Points Overseas
-
-**Author:** Georgelemental  
-**Published:** 8/19/2026, 6:19:13 PM  
-**Categories:** -  
-
-Article URL: https://www.chrisbrunet.com/p/exclusive-michigan-insurance-giant Comments URL: https://news.ycombinator.com/item?id=49365161 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.chrisbrunet.com/p/exclusive-michigan-insurance-giant)
-
----
-
-## 7. Advertising Built for AI Agents
-
-**Author:** structuredPizza  
-**Published:** 8/19/2026, 6:18:41 PM  
-**Categories:** -  
-
-Article URL: https://themobian.ai/ Comments URL: https://news.ycombinator.com/item?id=49365155 Points: 2 # Comments: 1
-
-📖 [Read original article](https://themobian.ai/)
-
----
-
-## 8. Show HN: CIYA – Purely Deterministic AI
-
-**Author:** iiiiiiiiio  
-**Published:** 8/19/2026, 6:05:38 PM  
-**Categories:** -  
-
-Hey HN, Before we roll out our fully deterministic compiled language model (CLM), figured I'd post CIYA's v0.02 for you to try out. At this point CIYA acts as a storage and logic engine for any of your prompting needs, and is available via API/Websocket integration. If your company/project frequentl...
-
-📖 [Read original article](https://iiio.app?u=showhn)
-
----
-
-## 9. Inference Engineering: A free book on the systems behind AI inference
-
-**Author:** DarenWatson  
-**Published:** 8/19/2026, 6:00:59 PM  
-**Categories:** -  
-
-Article URL: https://www.baseten.co/inference-engineering/ Comments URL: https://news.ycombinator.com/item?id=49364934 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.baseten.co/inference-engineering/)
-
----
-
-## 10. How to Use Harness Engineering to Remove AI Tells
-
-**Author:** meshintel  
-**Published:** 8/19/2026, 5:56:16 PM  
-**Categories:** -  
-
-Article URL: https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to Comments URL: https://news.ycombinator.com/item?id=49364868 Points: 2 # Comments: 0
-
-📖 [Read original article](https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to)
-
----
-
-## 11. The 6-Stage AI Infra Journey: Navigating the Three FinOps and Hardware Crises
-
-**Author:** flyingfishisme  
-**Published:** 8/19/2026, 5:35:35 PM  
-**Categories:** -  
-
-Article URL: https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey Comments URL: https://news.ycombinator.com/item?id=49364590 Points: 1 # Comments: 0
-
-📖 [Read original article](https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey)
-
----
-
-## 12. A Lawyer for AI Agents
-
-**Author:** speckx  
-**Published:** 8/19/2026, 5:14:25 PM  
-**Categories:** -  
-
-Article URL: https://artificialauthority.ai/p/a-lawyer-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=49364311 Points: 1 # Comments: 0
-
-📖 [Read original article](https://artificialauthority.ai/p/a-lawyer-for-ai-agents)
-
----
-
-## 13. The Download: AI's self-improvement problem, and what's driving the heat
-
-**Author:** joozio  
-**Published:** 8/19/2026, 5:01:08 PM  
-**Categories:** -  
-
-Article URL: https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/ Comments URL: https://news.ycombinator.com/item?id=49364149 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/)
-
----
-
-## 14. Etched AI valuation doubles to $21B in a month
-
-**Author:** bookofjoe  
-**Published:** 8/19/2026, 5:00:45 PM  
-**Categories:** -  
-
-Article URL: https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/ Comments URL: https://news.ycombinator.com/item?id=49364142 Points: 2 # Comments: 0
-
-📖 [Read original article](https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/)
-
----
-
-## 15. Show HN: CrewCode – Open-source Mission Control for AI coding agents
-
-**Author:** CjLogix  
-**Published:** 8/19/2026, 4:56:22 PM  
-**Categories:** -  
-
-I've been experimenting heavily with coding agents and found myself managing agents more than writing code.I build CrewCode to solve that.Its an open source desktop application for running multiple AI coding agents in parallel while isolating their work with Git worktrees.Git worktrees → agent isola...
-
-📖 [Read original article](https://github.com/OnPoint-Dev-Tools/crewcode)
-
----
-
-## 16. Show HN: Intelix – AI agent that investigates and resolves production incidents
-
-**Author:** ved_p05  
-**Published:** 8/19/2026, 4:56:04 PM  
-**Categories:** -  
-
-Hi HN,I built Intelix, an AI incident-response agent for engineering teams.When a production incident happens, Intelix investigates it instead of simply notifying an engineer.It gathers evidence across PagerDuty, Datadog, GitHub and Kubernetes, identifies and ranks possible root causes, validates wh...
-
-📖 [Read original article](https://intelix.dev)
-
----
-
-## 17. Cerebras chips rival Nvidia GPUs for AI [video]
-
-**Author:** binyu  
-**Published:** 8/19/2026, 4:51:23 PM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=qC_lCFTOJU0 Comments URL: https://news.ycombinator.com/item?id=49364019 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.youtube.com/watch?v=qC_lCFTOJU0)
-
----
-
-## 18. How I Use AI to Help Me Write
-
-**Author:** jjfoooo4  
-**Published:** 8/19/2026, 4:51:02 PM  
-**Categories:** -  
-
-Article URL: https://tombedor.dev/how-i-use-ai-to-help-me-write/ Comments URL: https://news.ycombinator.com/item?id=49364014 Points: 1 # Comments: 0
-
-📖 [Read original article](https://tombedor.dev/how-i-use-ai-to-help-me-write/)
-
----
-
-## 19. A Constitution for One: 7 months governing a personal AI agent fleet
-
-**Author:** sucong178899  
-**Published:** 8/19/2026, 4:49:38 PM  
-**Categories:** -  
-
-Article URL: https://github.com/Chong169/a-constitution-for-one Comments URL: https://news.ycombinator.com/item?id=49363991 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/Chong169/a-constitution-for-one)
-
----
-
-## 20. People vs. the AI Overlords
-
-**Author:** meetpateltech  
-**Published:** 8/19/2026, 4:47:19 PM  
-**Categories:** -  
-
-Article URL: https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/ Comments URL: https://news.ycombinator.com/item?id=49363959 Points: 1 # Comments: 0
-
-📖 [Read original article](https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/)
+📖 [Read original article](https://greyenlightenment.com/2026/08/18/ai-generated-writing-its-still-bad/)
 
 ---
