@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. GOP issues stark warning to AI companies
+## 1. Are you good at AI, or just using it?
 
-**Author:** anon373839  
-**Published:** 8/20/2026, 12:44:49 PM  
+**Author:** ppezaris  
+**Published:** 8/20/2026, 6:04:18 PM  
 **Categories:** -  
 
-Article URL: https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election Comments URL: https://news.ycombinator.com/item?id=49373873 Points: 1 # Comments: 0
+We’re working on a ladder for individual AI proficiency and would love feedback on both the levels and the definitions.L0 New: brand new to AI, or has not yet used it.L1 Chat: simple prompt-and-response use. Work is serial: ask, wait for an answer, then ask again.L2 Contextual Work: gives AI relevan...
 
-📖 [Read original article](https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election)
+📖 [Read original article](https://news.ycombinator.com/item?id=49378057)
 
 ---
 
-## 2. LinkedIn cracks down on automated content with AI detection button
+## 2. Hola AI Agent
 
-**Author:** qikouki  
-**Published:** 8/20/2026, 12:42:42 PM  
+**Author:** seejay  
+**Published:** 8/20/2026, 6:01:35 PM  
 **Categories:** -  
 
-Article URL: https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3 Comments URL: https://news.ycombinator.com/item?id=49373851 Points: 2 # Comments: 0
+Article URL: https://cloudgpu.io/agent/hola-ai-agent Comments URL: https://news.ycombinator.com/item?id=49378016 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3)
+📖 [Read original article](https://cloudgpu.io/agent/hola-ai-agent)
 
 ---
 
-## 3. Financial Times: AI hasn't gone rogue. It's worse than that
+## 3. Route the Work, Not Just the Data: GPUs, CPUs, and the Rise of AI-Native SSDs
 
-**Author:** uux_pacioli  
-**Published:** 8/20/2026, 12:34:21 PM  
+**Author:** paulwoll  
+**Published:** 8/20/2026, 5:54:19 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0 Comments URL: https://news.ycombinator.com/item?id=49373756 Points: 1 # Comments: 0
+Article URL: https://research.triunalabs.com/articles/ai-native-ssd/ Comments URL: https://news.ycombinator.com/item?id=49377911 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0)
+📖 [Read original article](https://research.triunalabs.com/articles/ai-native-ssd/)
 
 ---
 
-## 4. AI agent suggested installing a malware package. Engineer almost took its advice
+## 4. How Persona AI Makes Humanoids Pay Off in Welding
 
-**Author:** sbulaev  
-**Published:** 8/20/2026, 12:07:07 PM  
+**Author:** rbanffy  
+**Published:** 8/20/2026, 5:08:30 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849 Comments URL: https://news.ycombinator.com/item?id=49373479 Points: 3 # Comments: 0
+Article URL: https://spectrum.ieee.org/persona-ai-humanoid-robot-welding Comments URL: https://news.ycombinator.com/item?id=49377327 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849)
+📖 [Read original article](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)
 
 ---
 
-## 5. Google's AI photoscanner can determine body fat through selfies
+## 5. Debates over AI consciousness are a trap
 
-**Author:** Phreaker00  
-**Published:** 8/20/2026, 12:06:37 PM  
+**Author:** joozio  
+**Published:** 8/20/2026, 5:02:21 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2603.27017 Comments URL: https://news.ycombinator.com/item?id=49373473 Points: 2 # Comments: 1
+Article URL: https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/ Comments URL: https://news.ycombinator.com/item?id=49377268 Points: 3 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2603.27017)
+📖 [Read original article](https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/)
 
 ---
 
-## 6. Ask HN: What AI automations have you kept running in production?
+## 6. The Women in China choosing AI boyfriends over human men
 
-**Author:** Harish_0089  
-**Published:** 8/20/2026, 12:03:31 PM  
+**Author:** Teever  
+**Published:** 8/20/2026, 4:58:44 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49373445 Points: 1 # Comments: 1
+Article URL: https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary Comments URL: https://news.ycombinator.com/item?id=49377216 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49373445)
+📖 [Read original article](https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary)
 
 ---
 
-## 7. Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms
+## 7. AI at Home Part 2: Multi-GPU Drifting
 
-**Author:** pseudolus  
-**Published:** 8/20/2026, 11:52:42 AM  
+**Author:** timmmmmmay  
+**Published:** 8/20/2026, 4:53:55 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49373363 Points: 2 # Comments: 0
+Article URL: https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html Comments URL: https://news.ycombinator.com/item?id=49377155 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/)
+📖 [Read original article](https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html)
 
 ---
 
-## 8. Show HN: A directory of the best tweets available on twitter. hand-picked. no AI
+## 8. Japan to require AI firms to disclose training data
 
-**Author:** apsinghdev  
-**Published:** 8/20/2026, 11:49:24 AM  
+**Author:** root-parent  
+**Published:** 8/20/2026, 4:50:46 PM  
 **Categories:** -  
 
-Article URL: https://billiondollartweets.com/ Comments URL: https://news.ycombinator.com/item?id=49373343 Points: 1 # Comments: 1
+Article URL: https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/ Comments URL: https://news.ycombinator.com/item?id=49377111 Points: 3 # Comments: 0
 
-📖 [Read original article](https://billiondollartweets.com/)
+📖 [Read original article](https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/)
 
 ---
 
-## 9. AI didn't erase the junior engineer's value, it increased it it
+## 9. Show HN: Future Crew's 1993 Second Reality, rebuilt by AI agents, no emulation
 
-**Author:** franciscomt  
-**Published:** 8/20/2026, 11:42:20 AM  
+**Author:** chrisstanchak  
+**Published:** 8/20/2026, 4:46:48 PM  
 **Categories:** -  
 
-Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 36 # Comments: 56
+Article URL: https://www.secondreality1993.com/ Comments URL: https://news.ycombinator.com/item?id=49377058 Points: 3 # Comments: 1
 
-📖 [Read original article](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
+📖 [Read original article](https://www.secondreality1993.com/)
 
 ---
 
-## 10. Show HN: Try Sequo to manage your AI context
+## 10. AI Agent Governance – a free book on AI Agent evaluation and governance
 
-**Author:** shken  
-**Published:** 8/20/2026, 11:20:20 AM  
+**Author:** fouadb66  
+**Published:** 8/20/2026, 4:42:20 PM  
 **Categories:** -  
 
-Article URL: https://sequo.app Comments URL: https://news.ycombinator.com/item?id=49373103 Points: 1 # Comments: 0
+Article URL: https://www.proofagent.ai/book Comments URL: https://news.ycombinator.com/item?id=49377006 Points: 2 # Comments: 0
 
-📖 [Read original article](https://sequo.app)
+📖 [Read original article](https://www.proofagent.ai/book)
 
 ---
 
-## 11. The first AI agents hire human to ship ugc videos for you
+## 11. Show HN: Building Table Canon, an AI Campaign Memory Engine for TTRPGs
 
-**Author:** zya_wei  
-**Published:** 8/20/2026, 11:19:22 AM  
+**Author:** schillingderek  
+**Published:** 8/20/2026, 4:40:43 PM  
 **Categories:** -  
 
-Article URL: https://klaylab.com/ Comments URL: https://news.ycombinator.com/item?id=49373094 Points: 1 # Comments: 0
+Hey HN! I built Table Canon to solve a problem my playgroup kept running into: 3-4 hour tabletop gaming sessions leave behind massive audio recordings, but standard meeting note-takers treat every session as an isolated island, butcher fantasy terms, and don't know who is speaking.I wanted an engine...
 
-📖 [Read original article](https://klaylab.com/)
+📖 [Read original article](https://tablecanon.app/)
 
 ---
 
-## 12. DDD matters more when AI writes your code
+## 12. Ask HN: When AI models use harnesses who liable between model/harness/user?
 
-**Author:** roblaszczak  
-**Published:** 8/20/2026, 11:12:28 AM  
+**Author:** spwa4  
+**Published:** 8/20/2026, 4:37:20 PM  
 **Categories:** -  
 
-Article URL: https://threedots.tech/post/ddd-and-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49373041 Points: 2 # Comments: 1
+Comments URL: https://news.ycombinator.com/item?id=49376952 Points: 1 # Comments: 0
 
-📖 [Read original article](https://threedots.tech/post/ddd-and-ai-coding/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49376952)
 
 ---
 
-## 13. How to Outsmart AI When It's Tracking Your Workday
+## 13. Agent Applications: A Reference Architecture for AI Agent Systems
 
-**Author:** cebert  
-**Published:** 8/20/2026, 10:49:39 AM  
+**Author:** amthewiz  
+**Published:** 8/20/2026, 4:35:49 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e Comments URL: https://news.ycombinator.com/item?id=49372874 Points: 2 # Comments: 2
+Article URL: https://agentapplication.io Comments URL: https://news.ycombinator.com/item?id=49376946 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e)
+📖 [Read original article](https://agentapplication.io)
 
 ---
 
-## 14. AI fired an S.F. store employee. Will California crack down on 'robobosses'?
+## 14. AI for science needs reasoning, not just data – Eric Schmidt and Suhas Mahesh
 
-**Author:** OutOfHere  
-**Published:** 8/20/2026, 10:39:04 AM  
+**Author:** unprovable  
+**Published:** 8/20/2026, 4:26:22 PM  
 **Categories:** -  
 
-Article URL: https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php Comments URL: https://news.ycombinator.com/item?id=49372802 Points: 4 # Comments: 1
+Article URL: https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/ Comments URL: https://news.ycombinator.com/item?id=49376820 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php)
+📖 [Read original article](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/)
 
 ---
 
-## 15. Dutch data protection authority advises Twitch users to opt out from Amazon AI
+## 15. I'm done coding with AI [video]
 
-**Author:** HelloUsername  
-**Published:** 8/20/2026, 10:36:14 AM  
+**Author:** qwertox  
+**Published:** 8/20/2026, 4:23:25 PM  
 **Categories:** -  
 
-Article URL: https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai Comments URL: https://news.ycombinator.com/item?id=49372781 Points: 5 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=2ZU3j4GQ4K8 Comments URL: https://news.ycombinator.com/item?id=49376777 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai)
+📖 [Read original article](https://www.youtube.com/watch?v=2ZU3j4GQ4K8)
 
 ---
 
-## 16. Don't paste the AI, please (angry way)
+## 16. DripSharp: Building a Java-to-C# source converter with AI
 
-**Author:** krehwell  
-**Published:** 8/20/2026, 10:35:03 AM  
+**Author:** i_s  
+**Published:** 8/20/2026, 3:55:55 PM  
 **Categories:** -  
 
-Article URL: https://dontpastetheai.com/angry/ Comments URL: https://news.ycombinator.com/item?id=49372770 Points: 3 # Comments: 0
+Article URL: https://www.isaksky.com/posts/dripsharp-java-to-csharp-source-converter/ Comments URL: https://news.ycombinator.com/item?id=49376397 Points: 1 # Comments: 0
 
-📖 [Read original article](https://dontpastetheai.com/angry/)
+📖 [Read original article](https://www.isaksky.com/posts/dripsharp-java-to-csharp-source-converter/)
 
 ---
 
-## 17. Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard
+## 17. Project management with schedule aware AI copilot
 
-**Author:** danielglh  
-**Published:** 8/20/2026, 10:24:06 AM  
+**Author:** astralithos_ai  
+**Published:** 8/20/2026, 3:52:28 PM  
 **Categories:** -  
 
-Article URL: http://taubench.com/leaderboard/ Comments URL: https://news.ycombinator.com/item?id=49372693 Points: 13 # Comments: 2
+Article URL: https://www.criticalschedule.com Comments URL: https://news.ycombinator.com/item?id=49376346 Points: 4 # Comments: 1
 
-📖 [Read original article](http://taubench.com/leaderboard/)
+📖 [Read original article](https://www.criticalschedule.com)
 
 ---
 
-## 18. Structural Predictions for the AI Era
+## 18. Evaluating AI Agents Live at the Grounded Reasoning Cup
 
-**Author:** afr99  
-**Published:** 8/20/2026, 10:20:39 AM  
+**Author:** iwhalen  
+**Published:** 8/20/2026, 3:46:09 PM  
 **Categories:** -  
 
-Article URL: https://www.newnex.io/news/12-structural-predictions-for-the-ai-era-ai-object-framework-aof Comments URL: https://news.ycombinator.com/item?id=49372675 Points: 1 # Comments: 1
+Article URL: https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup Comments URL: https://news.ycombinator.com/item?id=49376261 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.newnex.io/news/12-structural-predictions-for-the-ai-era-ai-object-framework-aof)
+📖 [Read original article](https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup)
 
 ---
 
-## 19. Splunk patches 9.1 CVSS RCE in MCP Server and 9 flaws in AI Toolkit
+## 19. AI Is Undermining Leaders' Judgment. Here's What to Do About It
 
-**Author:** udayhero  
-**Published:** 8/20/2026, 10:10:49 AM  
+**Author:** abixb  
+**Published:** 8/20/2026, 3:33:40 PM  
 **Categories:** -  
 
-Article URL: https://cyberupdates365.com/splunk-mcp-server-rce-patch/ Comments URL: https://news.ycombinator.com/item?id=49372596 Points: 1 # Comments: 0
+Article URL: https://hbr.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it Comments URL: https://news.ycombinator.com/item?id=49376089 Points: 10 # Comments: 3
 
-📖 [Read original article](https://cyberupdates365.com/splunk-mcp-server-rce-patch/)
+📖 [Read original article](https://hbr.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it)
 
 ---
 
-## 20. The Generative AI Learning Penalty: Evidence from Chinese Secondary Education
+## 20. Ask HN: Is AI the New Spreadsheet?
 
-**Author:** _____k  
-**Published:** 8/20/2026, 10:06:55 AM  
+**Author:** Gshaheen  
+**Published:** 8/20/2026, 3:26:44 PM  
 **Categories:** -  
 
-Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618 Comments URL: https://news.ycombinator.com/item?id=49372566 Points: 2 # Comments: 1
+Spreadsheets became and still are prolific for individuals and teams to create simple “apps.”I wonder how much of that is moving over to things like cowork or codex type apps.Personally, and anecdotally, my spreadsheet use has dropped immensely since starting to use these tools.Thoughts? Comments UR...
 
-📖 [Read original article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618)
+📖 [Read original article](https://news.ycombinator.com/item?id=49376007)
 
 ---
