@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-17"
 date: "2026-08-17"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-08-17
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ MiniMax released MiniMax-Music3, an open-weights text-to-music model. Given lyri
 Develop a complete document intelligence pipeline with docTR, integrating OCR, layout analysis, and KIE for production-oriented extraction and searchable PDF creation. The post Developing an End-to-End Document Intelligence Pipeline with docTR for OCR, Layout Analysis, KIE, Benchmarking, and Searcha...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/17/end-to-end-document-intelligence-pipeline-with-doctr-for-ocr/)
-
----
-
-## 3. DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin
-
-**Author:** Asif Razzaq  
-**Published:** 8/17/2026, 9:06:32 AM  
-**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Context Engineering, Editors Pick, Language Model, Large Language Model, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
-
-DeepSeek Harness v0.1 is an MIT-licensed agent harness where every capability is a Cordis plugin. Four runtime modes, append-only session logs, and provider-agnostic model routing. The post DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is ...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/)
 
 ---
