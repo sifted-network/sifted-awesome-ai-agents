@@ -2,191 +2,251 @@
 title: "Hacker News AI - 2026-08-20"
 date: "2026-08-20"
 source: "Hacker News AI"
-count: 15
+count: 20
 ---
 
 # Hacker News AI - 2026-08-20
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. Show HN: Do-over, undo for AI agent shell commands
+## 1. GOP issues stark warning to AI companies
 
-**Author:** Cayden27  
-**Published:** 8/20/2026, 6:42:36 AM  
+**Author:** anon373839  
+**Published:** 8/20/2026, 12:44:49 PM  
 **Categories:** -  
 
-Hello HN,I built this after a coding agent deleted my files while tidying a project. Do-over plugs into Claude Code's hooks and snapshots what a command is about to touch right before it runs.I know what you're thinking. Why don't you just commit more often?This tool doesn't seek to replace git. Wha...
+Article URL: https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election Comments URL: https://news.ycombinator.com/item?id=49373873 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/CaydenChik/doover)
+📖 [Read original article](https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election)
 
 ---
 
-## 2. Flock Has a Powerful New AI Tool for Police. We Got Its Code
+## 2. LinkedIn cracks down on automated content with AI detection button
 
-**Author:** divbzero  
-**Published:** 8/20/2026, 6:40:14 AM  
+**Author:** qikouki  
+**Published:** 8/20/2026, 12:42:42 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/flock-safety-os-investigate/ Comments URL: https://news.ycombinator.com/item?id=49371195 Points: 1 # Comments: 0
+Article URL: https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3 Comments URL: https://news.ycombinator.com/item?id=49373851 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/flock-safety-os-investigate/)
+📖 [Read original article](https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3)
 
 ---
 
-## 3. AI is changing how we code. Is this positive?
+## 3. Financial Times: AI hasn't gone rogue. It's worse than that
 
-**Author:** simondukr  
-**Published:** 8/20/2026, 6:37:14 AM  
+**Author:** uux_pacioli  
+**Published:** 8/20/2026, 12:34:21 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49371169 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0 Comments URL: https://news.ycombinator.com/item?id=49373756 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49371169)
-
----
-
-## 4. Ask HN: When will the AI bubble burst and eradicate all life in the planet?
-
-**Author:** roschdal  
-**Published:** 8/20/2026, 6:36:56 AM  
-**Categories:** -  
-
-Comments URL: https://news.ycombinator.com/item?id=49371163 Points: 2 # Comments: 1
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49371163)
+📖 [Read original article](https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0)
 
 ---
 
-## 5. AI Is Changing How We Hac
-
-**Author:** simondukr  
-**Published:** 8/20/2026, 6:36:18 AM  
-**Categories:** -  
-
-Comments URL: https://news.ycombinator.com/item?id=49371156 Points: 1 # Comments: 0
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49371156)
-
----
-
-## 6. Crypto's (and AI's) midterm PAC machine
-
-**Author:** mmooss  
-**Published:** 8/20/2026, 3:58:56 AM  
-**Categories:** -  
-
-Article URL: https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044 Comments URL: https://news.ycombinator.com/item?id=49370228 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044)
-
----
-
-## 7. Do We Still Need Database Management Tools When AI Can Write SQL?
-
-**Author:** cloudcanalx  
-**Published:** 8/20/2026, 3:24:31 AM  
-**Categories:** -  
-
-Article URL: http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/ Comments URL: https://news.ycombinator.com/item?id=49370037 Points: 3 # Comments: 0
-
-📖 [Read original article](http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/)
-
----
-
-## 8. Show HN: AI agents can now safely write to your CRMs
-
-**Author:** rjimena  
-**Published:** 8/20/2026, 3:17:08 AM  
-**Categories:** -  
-
-Hi HN!Just wanted to share that I've built Archron - Execution governance for AI in business. It allows agents to safely write to CRMs(starting from Salesforce and hubspot) while maintaining immutable audit logs.Demo: https://youtu.be/uUTWGwJjpdAWould love to hear your thoughts about this and feedba...
-
-📖 [Read original article](https://www.archron.app/)
-
----
-
-## 9. Does anyone find AI code review useful?
-
-**Author:** swimmingpolar  
-**Published:** 8/20/2026, 2:24:07 AM  
-**Categories:** -  
-
-I’m genuinely trying to understand the point of AI code review.Once an LLM generated change gets into a few hundreds or thousands of lines, a human reviewer can barely read the whole thing in any meaningful way. And even if they can, why should they spend their time reviewing thousands of lines gene...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49369710)
-
----
-
-## 10. Show HN: AI Resume Screening – Looking for feedback from recruiters
-
-**Author:** aiomniu  
-**Published:** 8/20/2026, 2:17:09 AM  
-**Categories:** -  
-
-In addition to the resume creation tool we mentioned in our previous post, we've also developed an AI-powered resume screening tool to complement our overall ecosystem. This tool aims to help recruitment teams efficiently review hundreds of resumes without relying on keyword matching.This tool helps...
-
-📖 [Read original article](https://aiomniu.top/services/resume-screening)
-
----
-
-## 11. Credentialism is coming for AI agents
-
-**Author:** thedreammachine  
-**Published:** 8/20/2026, 1:27:46 AM  
-**Categories:** -  
-
-Article URL: https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49369402 Points: 1 # Comments: 0
-
-📖 [Read original article](https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/)
-
----
-
-## 12. How to use AI for your next job interview
-
-**Author:** luispa  
-**Published:** 8/20/2026, 1:18:17 AM  
-**Categories:** -  
-
-Article URL: https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview Comments URL: https://news.ycombinator.com/item?id=49369333 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview)
-
----
-
-## 13. Agentic AI has made CPUs the new performance bottleneck
-
-**Author:** pseudolus  
-**Published:** 8/20/2026, 1:14:05 AM  
-**Categories:** -  
-
-Article URL: https://spectrum.ieee.org/ai-cpu-comeback Comments URL: https://news.ycombinator.com/item?id=49369311 Points: 1 # Comments: 0
-
-📖 [Read original article](https://spectrum.ieee.org/ai-cpu-comeback)
-
----
-
-## 14. Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data
-
-**Author:** NordStreamYacht  
-**Published:** 8/20/2026, 12:40:14 AM  
-**Categories:** -  
-
-Article URL: https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data Comments URL: https://news.ycombinator.com/item?id=49369063 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data)
-
----
-
-## 15. US warns of AI-powered attacks on Siemens PLCs in critical infrastructure
+## 4. AI agent suggested installing a malware package. Engineer almost took its advice
 
 **Author:** sbulaev  
-**Published:** 8/20/2026, 12:07:06 AM  
+**Published:** 8/20/2026, 12:07:07 PM  
 **Categories:** -  
 
-Article URL: https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=49368840 Points: 6 # Comments: 0
+Article URL: https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849 Comments URL: https://news.ycombinator.com/item?id=49373479 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/)
+📖 [Read original article](https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849)
+
+---
+
+## 5. Google's AI photoscanner can determine body fat through selfies
+
+**Author:** Phreaker00  
+**Published:** 8/20/2026, 12:06:37 PM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2603.27017 Comments URL: https://news.ycombinator.com/item?id=49373473 Points: 2 # Comments: 1
+
+📖 [Read original article](https://arxiv.org/abs/2603.27017)
+
+---
+
+## 6. Ask HN: What AI automations have you kept running in production?
+
+**Author:** Harish_0089  
+**Published:** 8/20/2026, 12:03:31 PM  
+**Categories:** -  
+
+Comments URL: https://news.ycombinator.com/item?id=49373445 Points: 1 # Comments: 1
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49373445)
+
+---
+
+## 7. Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms
+
+**Author:** pseudolus  
+**Published:** 8/20/2026, 11:52:42 AM  
+**Categories:** -  
+
+Article URL: https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49373363 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/)
+
+---
+
+## 8. Show HN: A directory of the best tweets available on twitter. hand-picked. no AI
+
+**Author:** apsinghdev  
+**Published:** 8/20/2026, 11:49:24 AM  
+**Categories:** -  
+
+Article URL: https://billiondollartweets.com/ Comments URL: https://news.ycombinator.com/item?id=49373343 Points: 1 # Comments: 1
+
+📖 [Read original article](https://billiondollartweets.com/)
+
+---
+
+## 9. AI didn't erase the junior engineer's value, it increased it it
+
+**Author:** franciscomt  
+**Published:** 8/20/2026, 11:42:20 AM  
+**Categories:** -  
+
+Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 36 # Comments: 56
+
+📖 [Read original article](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
+
+---
+
+## 10. Show HN: Try Sequo to manage your AI context
+
+**Author:** shken  
+**Published:** 8/20/2026, 11:20:20 AM  
+**Categories:** -  
+
+Article URL: https://sequo.app Comments URL: https://news.ycombinator.com/item?id=49373103 Points: 1 # Comments: 0
+
+📖 [Read original article](https://sequo.app)
+
+---
+
+## 11. The first AI agents hire human to ship ugc videos for you
+
+**Author:** zya_wei  
+**Published:** 8/20/2026, 11:19:22 AM  
+**Categories:** -  
+
+Article URL: https://klaylab.com/ Comments URL: https://news.ycombinator.com/item?id=49373094 Points: 1 # Comments: 0
+
+📖 [Read original article](https://klaylab.com/)
+
+---
+
+## 12. DDD matters more when AI writes your code
+
+**Author:** roblaszczak  
+**Published:** 8/20/2026, 11:12:28 AM  
+**Categories:** -  
+
+Article URL: https://threedots.tech/post/ddd-and-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49373041 Points: 2 # Comments: 1
+
+📖 [Read original article](https://threedots.tech/post/ddd-and-ai-coding/)
+
+---
+
+## 13. How to Outsmart AI When It's Tracking Your Workday
+
+**Author:** cebert  
+**Published:** 8/20/2026, 10:49:39 AM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e Comments URL: https://news.ycombinator.com/item?id=49372874 Points: 2 # Comments: 2
+
+📖 [Read original article](https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e)
+
+---
+
+## 14. AI fired an S.F. store employee. Will California crack down on 'robobosses'?
+
+**Author:** OutOfHere  
+**Published:** 8/20/2026, 10:39:04 AM  
+**Categories:** -  
+
+Article URL: https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php Comments URL: https://news.ycombinator.com/item?id=49372802 Points: 4 # Comments: 1
+
+📖 [Read original article](https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php)
+
+---
+
+## 15. Dutch data protection authority advises Twitch users to opt out from Amazon AI
+
+**Author:** HelloUsername  
+**Published:** 8/20/2026, 10:36:14 AM  
+**Categories:** -  
+
+Article URL: https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai Comments URL: https://news.ycombinator.com/item?id=49372781 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai)
+
+---
+
+## 16. Don't paste the AI, please (angry way)
+
+**Author:** krehwell  
+**Published:** 8/20/2026, 10:35:03 AM  
+**Categories:** -  
+
+Article URL: https://dontpastetheai.com/angry/ Comments URL: https://news.ycombinator.com/item?id=49372770 Points: 3 # Comments: 0
+
+📖 [Read original article](https://dontpastetheai.com/angry/)
+
+---
+
+## 17. Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard
+
+**Author:** danielglh  
+**Published:** 8/20/2026, 10:24:06 AM  
+**Categories:** -  
+
+Article URL: http://taubench.com/leaderboard/ Comments URL: https://news.ycombinator.com/item?id=49372693 Points: 13 # Comments: 2
+
+📖 [Read original article](http://taubench.com/leaderboard/)
+
+---
+
+## 18. Structural Predictions for the AI Era
+
+**Author:** afr99  
+**Published:** 8/20/2026, 10:20:39 AM  
+**Categories:** -  
+
+Article URL: https://www.newnex.io/news/12-structural-predictions-for-the-ai-era-ai-object-framework-aof Comments URL: https://news.ycombinator.com/item?id=49372675 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.newnex.io/news/12-structural-predictions-for-the-ai-era-ai-object-framework-aof)
+
+---
+
+## 19. Splunk patches 9.1 CVSS RCE in MCP Server and 9 flaws in AI Toolkit
+
+**Author:** udayhero  
+**Published:** 8/20/2026, 10:10:49 AM  
+**Categories:** -  
+
+Article URL: https://cyberupdates365.com/splunk-mcp-server-rce-patch/ Comments URL: https://news.ycombinator.com/item?id=49372596 Points: 1 # Comments: 0
+
+📖 [Read original article](https://cyberupdates365.com/splunk-mcp-server-rce-patch/)
+
+---
+
+## 20. The Generative AI Learning Penalty: Evidence from Chinese Secondary Education
+
+**Author:** _____k  
+**Published:** 8/20/2026, 10:06:55 AM  
+**Categories:** -  
+
+Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618 Comments URL: https://news.ycombinator.com/item?id=49372566 Points: 2 # Comments: 1
+
+📖 [Read original article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618)
 
 ---
