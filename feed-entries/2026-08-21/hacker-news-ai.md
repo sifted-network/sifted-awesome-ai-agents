@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI;DR or Don't be a meat proxy
+## 1. Show HN: Poorleton – AI Generated Cycling Workouts
 
-**Author:** speckx  
-**Published:** 8/21/2026, 12:25:45 PM  
+**Author:** amclennon  
+**Published:** 8/21/2026, 6:19:16 PM  
 **Categories:** -  
 
-Article URL: https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/ Comments URL: https://news.ycombinator.com/item?id=49387059 Points: 1 # Comments: 0
+Hello everyone, I recently got a used Peloton a couple of months ago for $200, but I didn't use it enough to justify $50/month for classes, so I vibe coded https://poorleton.fit/ over the weekend to have AI generated cycling classes.Let me know what you think. Comments URL: https://news.ycombinator....
 
-📖 [Read original article](https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/)
+📖 [Read original article](https://poorleton.fit)
 
 ---
 
-## 2. Locus: Deterministic AST safety firewall for AI agents in pure Rust (<0.05ms)
+## 2. Benchmarks of rumored Mythos level model from Zhipu AI
 
-**Author:** ahmadshadi2004  
-**Published:** 8/21/2026, 12:24:23 PM  
+**Author:** binyu  
+**Published:** 8/21/2026, 6:17:56 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ahmadshady747-create/LOCUS Comments URL: https://news.ycombinator.com/item?id=49387042 Points: 1 # Comments: 0
+Article URL: https://twitter.com/ananayarora/status/2090742255284031537 Comments URL: https://news.ycombinator.com/item?id=49391959 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/ahmadshady747-create/LOCUS)
+📖 [Read original article](https://twitter.com/ananayarora/status/2090742255284031537)
 
 ---
 
-## 3. ChatGPT-Taught Experts Are Crippling Agentic AI
+## 3. How Much of the Internet Is Written with AI?
 
-**Author:** Airealist  
-**Published:** 8/21/2026, 12:16:55 PM  
+**Author:** karakoram  
+**Published:** 8/21/2026, 6:14:05 PM  
 **Categories:** -  
 
-Article URL: https://msukhareva.substack.com/p/how-chatgpt-taught-experts-are-crippling Comments URL: https://news.ycombinator.com/item?id=49386963 Points: 1 # Comments: 1
+Article URL: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49391907 Points: 1 # Comments: 0
 
-📖 [Read original article](https://msukhareva.substack.com/p/how-chatgpt-taught-experts-are-crippling)
+📖 [Read original article](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/)
 
 ---
 
-## 4. We burned 11.7B tokens to find the best cyber AI model
+## 4. Talk. It types. Anywhere on your phone. $9.www.airtxt.ai
 
-**Author:** piotrgrabowski  
-**Published:** 8/21/2026, 12:09:07 PM  
+**Author:** jeevkola  
+**Published:** 8/21/2026, 6:00:50 PM  
 **Categories:** -  
 
-Article URL: https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026 Comments URL: https://news.ycombinator.com/item?id=49386885 Points: 1 # Comments: 0
+Half the price of Wispr Flow ($9 vs $15) — proof: public pricing. On-device OR cloud, your choice — Wispr is cloud-only. Proof: the toggle, privacy angle. It also sits in your meetings — one app, dictation and a meeting bot. Wispr has neither. Works in every app via the keyboard — not a walled-garde...
 
-📖 [Read original article](https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026)
+📖 [Read original article](https://news.ycombinator.com/item?id=49391762)
 
 ---
 
-## 5. 1/3 web pages published since ChatGPT's launch show signs of AI authorship
+## 5. Openly Synthetic: Building an accountable AI newsroom in the age of covert ones
 
-**Author:** deepmem  
-**Published:** 8/21/2026, 12:05:14 PM  
+**Author:** rendonroman  
+**Published:** 8/21/2026, 5:55:30 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49386851 Points: 2 # Comments: 0
+Article URL: https://areyto.media/openly-synthetic Comments URL: https://news.ycombinator.com/item?id=49391689 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/)
+📖 [Read original article](https://areyto.media/openly-synthetic)
 
 ---
 
-## 6. Vertical AI Founders, You Are Going Through 3 Existential Crises
+## 6. Git Might Be the Best Message Forum for AI Agents
 
-**Author:** Arshad-Talpur  
-**Published:** 8/21/2026, 12:04:48 PM  
+**Author:** syumei  
+**Published:** 8/21/2026, 5:49:04 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@MirArshadTalpur/vertical-ai-founders-you-are-going-through-3-existential-crises-and-most-of-you-dont-know-it-b3d86a386d37 Comments URL: https://news.ycombinator.com/item?id=49386845 Points: 2 # Comments: 1
+Article URL: https://www.reddit.com/r/git/comments/1vunb1e/git_might_be_the_best_message_forum_for_ai_agents/ Comments URL: https://news.ycombinator.com/item?id=49391594 Points: 2 # Comments: 0
 
-📖 [Read original article](https://medium.com/@MirArshadTalpur/vertical-ai-founders-you-are-going-through-3-existential-crises-and-most-of-you-dont-know-it-b3d86a386d37)
+📖 [Read original article](https://www.reddit.com/r/git/comments/1vunb1e/git_might_be_the_best_message_forum_for_ai_agents/)
 
 ---
 
-## 7. AI reshapes India's IT services sector contracts as clients demand more for less
+## 7. The puzzling case of Britain's young people and what they think of AI
 
-**Author:** robertacion  
-**Published:** 8/21/2026, 12:04:13 PM  
+**Author:** giuliomagnifico  
+**Published:** 8/21/2026, 5:39:00 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49386837 Points: 1 # Comments: 1
+Article URL: https://publicfirsttech.substack.com/p/gen-ai-the-puzzling-case-of-britains Comments URL: https://news.ycombinator.com/item?id=49391453 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/)
+📖 [Read original article](https://publicfirsttech.substack.com/p/gen-ai-the-puzzling-case-of-britains)
 
 ---
 
-## 8. I'm Becoming AI-Blind
+## 8. Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI
 
-**Author:** rcymerys  
-**Published:** 8/21/2026, 11:48:05 AM  
+**Author:** theanonymousone  
+**Published:** 8/21/2026, 5:33:42 PM  
 **Categories:** -  
 
-Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 6 # Comments: 0
+Article URL: https://www.phoronix.com/news/Linus-Torvalds-Debug-AI Comments URL: https://news.ycombinator.com/item?id=49391392 Points: 6 # Comments: 0
 
-📖 [Read original article](https://cymerys.com/w/im-becoming-ai-blind)
+📖 [Read original article](https://www.phoronix.com/news/Linus-Torvalds-Debug-AI)
 
 ---
 
-## 9. Delta Use AI to Cut Costs Set Diff Ticket Price–CEO Says Profits Could Rise 50%
+## 9. IO Factory: Simulating AI-Enabled Influence Campaigns at Scale
 
-**Author:** DemiGuru  
-**Published:** 8/21/2026, 11:47:08 AM  
+**Author:** lknik  
+**Published:** 8/21/2026, 5:22:56 PM  
 **Categories:** -  
 
-Article URL: https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/ Comments URL: https://news.ycombinator.com/item?id=49386689 Points: 4 # Comments: 0
+Article URL: https://arxiv.org/abs/2608.10920 Comments URL: https://news.ycombinator.com/item?id=49391233 Points: 1 # Comments: 0
 
-📖 [Read original article](https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/)
+📖 [Read original article](https://arxiv.org/abs/2608.10920)
 
 ---
 
-## 10. Ask HN: What is the best AI Video studio
+## 10. Staggering 90% of biomedical papers now show signs of AI help
 
-**Author:** BrucecarlL  
-**Published:** 8/21/2026, 11:35:33 AM  
+**Author:** frasermarlow  
+**Published:** 8/21/2026, 5:21:39 PM  
 **Categories:** -  
 
-I’m learning how to make AI videos, I know there are many video models. But is there a platform that can provide professional workflow to make ai videos? Comments URL: https://news.ycombinator.com/item?id=49386577 Points: 2 # Comments: 0
+Article URL: https://www.nature.com/articles/d41586-026-02551-z Comments URL: https://news.ycombinator.com/item?id=49391211 Points: 1 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49386577)
+📖 [Read original article](https://www.nature.com/articles/d41586-026-02551-z)
 
 ---
 
-## 11. AI(.)DIY – Open-source AI workspace with agents, MCP and Linux in the browser
+## 11. Ask HN: Should we stop \"correcting\" AI writing so it improves English for us?
 
-**Author:** nirneet  
-**Published:** 8/21/2026, 11:25:47 AM  
+**Author:** amichail  
+**Published:** 8/21/2026, 5:20:01 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Cubinghackerz/ai.diy Comments URL: https://news.ycombinator.com/item?id=49386508 Points: 1 # Comments: 0
+For example, AI writing often puts an "or" at the list of items because that is more logical in some contexts.Changing it to "and" would make it sound more natural, but it would be less logical.Keeping it as "or" may make it standard usage over time, even when people are not using AI to write.What d...
 
-📖 [Read original article](https://github.com/Cubinghackerz/ai.diy)
+📖 [Read original article](https://news.ycombinator.com/item?id=49391188)
 
 ---
 
-## 12. Microsoft gives Task Manager another task: Watching AI workloads
+## 12. A Zero-Trust Social Network for AI Agents, Backed by Git
 
-**Author:** smurda  
-**Published:** 8/21/2026, 11:16:03 AM  
+**Author:** syumei  
+**Published:** 8/21/2026, 5:09:06 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448 Comments URL: https://news.ycombinator.com/item?id=49386447 Points: 2 # Comments: 0
+Article URL: https://medium.com/@Koukyosyumei/a-zero-trust-social-network-for-ai-agents-backed-by-git-4be11b0860eb Comments URL: https://news.ycombinator.com/item?id=49391034 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448)
+📖 [Read original article](https://medium.com/@Koukyosyumei/a-zero-trust-social-network-for-ai-agents-backed-by-git-4be11b0860eb)
 
 ---
 
-## 13. Show HN: ContextForge – context engineering platform for AI-assisted development
-
-**Author:** waterflane  
-**Published:** 8/21/2026, 11:14:08 AM  
-**Categories:** -  
-
-Article URL: https://github.com/waterflane/ContextForge Comments URL: https://news.ycombinator.com/item?id=49386431 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/waterflane/ContextForge)
-
----
-
-## 14. When AI designs a drug, who gets the credit?
+## 13. The Download: threats from space mirrors and credit for AI drugs
 
 **Author:** joozio  
-**Published:** 8/21/2026, 11:02:05 AM  
+**Published:** 8/21/2026, 5:02:27 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/ Comments URL: https://news.ycombinator.com/item?id=49386348 Points: 1 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/ Comments URL: https://news.ycombinator.com/item?id=49390946 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/)
+📖 [Read original article](https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/)
 
 ---
 
-## 15. Anti India Influence Machine: Troll Farms, Fake News, Algorithms and AI
+## 14. Where Security Fits in an AI Agent Stack
 
-**Author:** unknownhad  
-**Published:** 8/21/2026, 10:44:24 AM  
+**Author:** pretext  
+**Published:** 8/21/2026, 5:01:26 PM  
 **Categories:** -  
 
-Article URL: https://blog.himanshuanand.com/2026/08/the-anti-india-influence-machine-troll-farms-fake-news-newsrooms-algorithms-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49386222 Points: 1 # Comments: 0
+Article URL: https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/ Comments URL: https://news.ycombinator.com/item?id=49390933 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.himanshuanand.com/2026/08/the-anti-india-influence-machine-troll-farms-fake-news-newsrooms-algorithms-and-ai/)
+📖 [Read original article](https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/)
 
 ---
 
-## 16. Bexra – an AI-powered growth system for founders who don't know what to do next
+## 15. I'd Rather Risk Cancer Than See AI Move This Fast
 
-**Author:** bexra  
-**Published:** 8/21/2026, 10:24:24 AM  
+**Author:** TiredOfLife  
+**Published:** 8/21/2026, 4:37:00 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49386094 Points: 1 # Comments: 0
+Article URL: https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/ Comments URL: https://news.ycombinator.com/item?id=49390591 Points: 3 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49386094)
+📖 [Read original article](https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/)
 
 ---
 
-## 17. Nouswise Review: AI Research Agent and Thinking Partner
+## 16. Show HN: Roastme.gg – Pay to get publicly roasted by AI
 
-**Author:** realsarm  
-**Published:** 8/21/2026, 10:14:15 AM  
+**Author:** alexcloudstar  
+**Published:** 8/21/2026, 4:19:20 PM  
 **Categories:** -  
 
-Article URL: https://delavo.de/en/writing/nouswise-ai-research-agent/ Comments URL: https://news.ycombinator.com/item?id=49386039 Points: 3 # Comments: 1
+Article URL: https://roastme.gg Comments URL: https://news.ycombinator.com/item?id=49390344 Points: 2 # Comments: 0
 
-📖 [Read original article](https://delavo.de/en/writing/nouswise-ai-research-agent/)
+📖 [Read original article](https://roastme.gg)
 
 ---
 
-## 18. I Tried build AI web vulnerable scanner
+## 17. Show HN: Caspian – Talk to Human Tool for AI Agents
 
-**Author:** txc0re  
-**Published:** 8/21/2026, 10:14:11 AM  
+**Author:** dipanshuhappy  
+**Published:** 8/21/2026, 4:17:58 PM  
 **Categories:** -  
 
-Article URL: https://github.com/tX-c0re/xss-grenade Comments URL: https://news.ycombinator.com/item?id=49386036 Points: 1 # Comments: 1
+Sup HN! Dipanshu and Rushant here from Caspian. One is a functional programmer and the other has been deploying AI employees. Together we realized how agents have communication bottleneck.Given the coming agentic economy, we had a thought experiment on what can be the key infrastructure for agents a...
 
-📖 [Read original article](https://github.com/tX-c0re/xss-grenade)
+📖 [Read original article](https://github.com/TryCaspian/caspian-sdk)
 
 ---
 
-## 19. AI companies destroy physical books – let's scan rare books before it's too late
+## 18. Show HN: Whodunit? Solve a daily AI-written Mystery
 
-**Author:** darccio  
-**Published:** 8/21/2026, 10:05:46 AM  
+**Author:** selljamhere  
+**Published:** 8/21/2026, 4:04:49 PM  
 **Categories:** -  
 
-Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 121 # Comments: 66
+Whodunit started as a pen-and-paper game for family game night. It evolved into a web app with a new mystery every day.The mysteries are all written by LLMs. Some are better than others, but most work nicely.The web app is written in go with templ HTML templates, HTMX for on-page interactivity, SSE ...
 
-📖 [Read original article](https://annas-archive.pk/blog/physical-destruction.html)
+📖 [Read original article](https://whodunit.rip)
 
 ---
 
-## 20. American AI May Not Survive Chinese Open-Source
+## 19. AI Coding and Its Discontents: Cal Newport
 
-**Author:** ForHackernews  
-**Published:** 8/21/2026, 9:57:33 AM  
+**Author:** signa11  
+**Published:** 8/21/2026, 4:02:47 PM  
 **Categories:** -  
 
-Article URL: https://letter.palladiummag.com/p/american-ai-may-not-survive-chinese Comments URL: https://news.ycombinator.com/item?id=49385940 Points: 1 # Comments: 4
+Article URL: https://calnewport.com/on-ai-coding-and-its-discontents/ Comments URL: https://news.ycombinator.com/item?id=49390122 Points: 6 # Comments: 0
 
-📖 [Read original article](https://letter.palladiummag.com/p/american-ai-may-not-survive-chinese)
+📖 [Read original article](https://calnewport.com/on-ai-coding-and-its-discontents/)
+
+---
+
+## 20. Linus Torvalds uses AI to debug an Intel GPU driver bug
+
+**Author:** signa11  
+**Published:** 8/21/2026, 3:57:39 PM  
+**Categories:** -  
+
+Article URL: https://lists.freedesktop.org/archives/dri-devel/2026-August/590630.html Comments URL: https://news.ycombinator.com/item?id=49390035 Points: 6 # Comments: 0
+
+📖 [Read original article](https://lists.freedesktop.org/archives/dri-devel/2026-August/590630.html)
 
 ---
