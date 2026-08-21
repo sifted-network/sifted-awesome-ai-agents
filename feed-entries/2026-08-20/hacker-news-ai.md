@@ -2,251 +2,191 @@
 title: "Hacker News AI - 2026-08-20"
 date: "2026-08-20"
 source: "Hacker News AI"
-count: 20
+count: 15
 ---
 
 # Hacker News AI - 2026-08-20
 
-20 items collected.
+15 items collected.
 
 ---
 
-## 1. Are you good at AI, or just using it?
+## 1. AI's 'middle class' has gotten dramatically better at hacking
 
-**Author:** ppezaris  
-**Published:** 8/20/2026, 6:04:18 PM  
+**Author:** wslh  
+**Published:** 8/20/2026, 11:41:35 PM  
 **Categories:** -  
 
-We’re working on a ladder for individual AI proficiency and would love feedback on both the levels and the definitions.L0 New: brand new to AI, or has not yet used it.L1 Chat: simple prompt-and-response use. Work is serial: ask, wait for an answer, then ask again.L2 Contextual Work: gives AI relevan...
+Article URL: https://cyberscoop.com/mid-tier-ai-models-hacking-threat/ Comments URL: https://news.ycombinator.com/item?id=49381800 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49378057)
+📖 [Read original article](https://cyberscoop.com/mid-tier-ai-models-hacking-threat/)
 
 ---
 
-## 2. Hola AI Agent
+## 2. The AI Debate Is About Control, Not AI
 
-**Author:** seejay  
-**Published:** 8/20/2026, 6:01:35 PM  
+**Author:** dccoolgai  
+**Published:** 8/20/2026, 11:32:36 PM  
 **Categories:** -  
 
-Article URL: https://cloudgpu.io/agent/hola-ai-agent Comments URL: https://news.ycombinator.com/item?id=49378016 Points: 2 # Comments: 0
+Article URL: https://www.fastcompany.com/91585908/the-ai-debate-isnt-about-ai-its-about-control-technology-ai-control Comments URL: https://news.ycombinator.com/item?id=49381723 Points: 2 # Comments: 0
 
-📖 [Read original article](https://cloudgpu.io/agent/hola-ai-agent)
+📖 [Read original article](https://www.fastcompany.com/91585908/the-ai-debate-isnt-about-ai-its-about-control-technology-ai-control)
 
 ---
 
-## 3. Route the Work, Not Just the Data: GPUs, CPUs, and the Rise of AI-Native SSDs
+## 3. Show HN: AI tools with real pricing, submitted in 30 seconds
 
-**Author:** paulwoll  
-**Published:** 8/20/2026, 5:54:19 PM  
+**Author:** not_wowinter13  
+**Published:** 8/20/2026, 11:13:26 PM  
 **Categories:** -  
 
-Article URL: https://research.triunalabs.com/articles/ai-native-ssd/ Comments URL: https://news.ycombinator.com/item?id=49377911 Points: 3 # Comments: 0
+Article URL: https://worthtotry.com Comments URL: https://news.ycombinator.com/item?id=49381560 Points: 1 # Comments: 0
 
-📖 [Read original article](https://research.triunalabs.com/articles/ai-native-ssd/)
+📖 [Read original article](https://worthtotry.com)
 
 ---
 
-## 4. How Persona AI Makes Humanoids Pay Off in Welding
+## 4. AI #182: Pause for Reflection
 
-**Author:** rbanffy  
-**Published:** 8/20/2026, 5:08:30 PM  
+**Author:** paulpauper  
+**Published:** 8/20/2026, 11:10:13 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/persona-ai-humanoid-robot-welding Comments URL: https://news.ycombinator.com/item?id=49377327 Points: 2 # Comments: 0
+Article URL: https://thezvi.substack.com/p/ai-182-pause-for-reflection Comments URL: https://news.ycombinator.com/item?id=49381521 Points: 1 # Comments: 0
 
-📖 [Read original article](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)
+📖 [Read original article](https://thezvi.substack.com/p/ai-182-pause-for-reflection)
 
 ---
 
-## 5. Debates over AI consciousness are a trap
+## 5. BTP v2.2 – An open, offline cryptographic trust protocol for AI agents
 
-**Author:** joozio  
-**Published:** 8/20/2026, 5:02:21 PM  
+**Author:** itsub_sa  
+**Published:** 8/20/2026, 11:08:46 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/ Comments URL: https://news.ycombinator.com/item?id=49377268 Points: 3 # Comments: 0
+Article URL: https://github.com/ivegotahunnitonit/bartholomew Comments URL: https://news.ycombinator.com/item?id=49381508 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/)
+📖 [Read original article](https://github.com/ivegotahunnitonit/bartholomew)
 
 ---
 
-## 6. The Women in China choosing AI boyfriends over human men
+## 6. OpenCyvis: An open-source AI phone agent that runs your own LLM
 
-**Author:** Teever  
-**Published:** 8/20/2026, 4:58:44 PM  
+**Author:** Alephinitesimal  
+**Published:** 8/20/2026, 10:57:56 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary Comments URL: https://news.ycombinator.com/item?id=49377216 Points: 3 # Comments: 0
+Article URL: https://github.com/opencyvis/opencyvis-phone Comments URL: https://news.ycombinator.com/item?id=49381419 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary)
+📖 [Read original article](https://github.com/opencyvis/opencyvis-phone)
 
 ---
 
-## 7. AI at Home Part 2: Multi-GPU Drifting
+## 7. Intelligent AI Delegation
 
-**Author:** timmmmmmay  
-**Published:** 8/20/2026, 4:53:55 PM  
+**Author:** gmays  
+**Published:** 8/20/2026, 10:54:06 PM  
 **Categories:** -  
 
-Article URL: https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html Comments URL: https://news.ycombinator.com/item?id=49377155 Points: 5 # Comments: 0
+Article URL: https://arxiv.org/abs/2602.11865 Comments URL: https://news.ycombinator.com/item?id=49381380 Points: 2 # Comments: 0
 
-📖 [Read original article](https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html)
+📖 [Read original article](https://arxiv.org/abs/2602.11865)
 
 ---
 
-## 8. Japan to require AI firms to disclose training data
+## 8. Is AI spend on OpenAI or Anthropic starting to eat into your runway?
 
-**Author:** root-parent  
-**Published:** 8/20/2026, 4:50:46 PM  
+**Author:** kannanreghu  
+**Published:** 8/20/2026, 10:23:16 PM  
 **Categories:** -  
 
-Article URL: https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/ Comments URL: https://news.ycombinator.com/item?id=49377111 Points: 3 # Comments: 0
+Article URL: https://rails-agent.com/ Comments URL: https://news.ycombinator.com/item?id=49381098 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/)
+📖 [Read original article](https://rails-agent.com/)
 
 ---
 
-## 9. Show HN: Future Crew's 1993 Second Reality, rebuilt by AI agents, no emulation
+## 9. Results from the Backblaze Generative AI Media Hackathon
 
-**Author:** chrisstanchak  
-**Published:** 8/20/2026, 4:46:48 PM  
+**Author:** roan-we  
+**Published:** 8/20/2026, 10:20:53 PM  
 **Categories:** -  
 
-Article URL: https://www.secondreality1993.com/ Comments URL: https://news.ycombinator.com/item?id=49377058 Points: 3 # Comments: 1
+Article URL: https://www.backblaze.com/blog/results-from-the-backblaze-generative-ai-media-hackathon/ Comments URL: https://news.ycombinator.com/item?id=49381062 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.secondreality1993.com/)
+📖 [Read original article](https://www.backblaze.com/blog/results-from-the-backblaze-generative-ai-media-hackathon/)
 
 ---
 
-## 10. AI Agent Governance – a free book on AI Agent evaluation and governance
+## 10. Why the Future of AI Belongs to Systems That Can Self-Learn
 
-**Author:** fouadb66  
-**Published:** 8/20/2026, 4:42:20 PM  
+**Author:** vektormemory  
+**Published:** 8/20/2026, 10:17:42 PM  
 **Categories:** -  
 
-Article URL: https://www.proofagent.ai/book Comments URL: https://news.ycombinator.com/item?id=49377006 Points: 2 # Comments: 0
+Article URL: https://medium.com/@vektormemory/the-case-for-agent-memory-why-the-future-of-ai-belongs-to-systems-that-can-self-learn-198c4d7bfa6f Comments URL: https://news.ycombinator.com/item?id=49381023 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.proofagent.ai/book)
+📖 [Read original article](https://medium.com/@vektormemory/the-case-for-agent-memory-why-the-future-of-ai-belongs-to-systems-that-can-self-learn-198c4d7bfa6f)
 
 ---
 
-## 11. Show HN: Building Table Canon, an AI Campaign Memory Engine for TTRPGs
+## 11. Show HN: Zero () friction local AI for Mac
 
-**Author:** schillingderek  
-**Published:** 8/20/2026, 4:40:43 PM  
+**Author:** lukasonedge  
+**Published:** 8/20/2026, 10:13:31 PM  
 **Categories:** -  
 
-Hey HN! I built Table Canon to solve a problem my playgroup kept running into: 3-4 hour tabletop gaming sessions leave behind massive audio recordings, but standard meeting note-takers treat every session as an isolated island, butcher fantasy terms, and don't know who is speaking.I wanted an engine...
+Super excited to launch our new app Local today. What we’ve learned at Base Compute over the last months is that running AI directly on your laptop or workstation gives you maximum privacy and it’s free, but it’s also a massive headache to configure. So we’ve decided what matters is making the exper...
 
-📖 [Read original article](https://tablecanon.app/)
+📖 [Read original article](https://www.basecompute.co/local)
 
 ---
 
-## 12. Ask HN: When AI models use harnesses who liable between model/harness/user?
+## 12. Browser automation agents with Pydantic AI and Playwright
 
-**Author:** spwa4  
-**Published:** 8/20/2026, 4:37:20 PM  
+**Author:** pamelafox  
+**Published:** 8/20/2026, 10:02:45 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49376952 Points: 1 # Comments: 0
+Article URL: http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html Comments URL: https://news.ycombinator.com/item?id=49380852 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49376952)
+📖 [Read original article](http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html)
 
 ---
 
-## 13. Agent Applications: A Reference Architecture for AI Agent Systems
+## 13. I published 8 months of frontier-AI research, code, emails, and timestamps
 
-**Author:** amthewiz  
-**Published:** 8/20/2026, 4:35:49 PM  
+**Author:** rayanpal_  
+**Published:** 8/20/2026, 9:54:22 PM  
 **Categories:** -  
 
-Article URL: https://agentapplication.io Comments URL: https://news.ycombinator.com/item?id=49376946 Points: 2 # Comments: 1
+Article URL: https://zenodo.org/records/21969180 Comments URL: https://news.ycombinator.com/item?id=49380783 Points: 1 # Comments: 0
 
-📖 [Read original article](https://agentapplication.io)
+📖 [Read original article](https://zenodo.org/records/21969180)
 
 ---
 
-## 14. AI for science needs reasoning, not just data – Eric Schmidt and Suhas Mahesh
+## 14. Protesters haul a guillotine to city council meeting about an AI data center
 
-**Author:** unprovable  
-**Published:** 8/20/2026, 4:26:22 PM  
+**Author:** cocacola1  
+**Published:** 8/20/2026, 9:53:37 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/ Comments URL: https://news.ycombinator.com/item?id=49376820 Points: 1 # Comments: 0
+Article URL: https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police Comments URL: https://news.ycombinator.com/ite...
 
-📖 [Read original article](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police)
 
 ---
 
-## 15. I'm done coding with AI [video]
+## 15. Can influencers post AI ads without alienating their fans?
 
-**Author:** qwertox  
-**Published:** 8/20/2026, 4:23:25 PM  
+**Author:** petethomas  
+**Published:** 8/20/2026, 9:51:31 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=2ZU3j4GQ4K8 Comments URL: https://news.ycombinator.com/item?id=49376777 Points: 3 # Comments: 0
+Article URL: https://www.businessinsider.com/ai-brand-deals-chatgpt-claude-influencers-weigh-backlash-over-paychecks-2026-8 Comments URL: https://news.ycombinator.com/item?id=49380757 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=2ZU3j4GQ4K8)
-
----
-
-## 16. DripSharp: Building a Java-to-C# source converter with AI
-
-**Author:** i_s  
-**Published:** 8/20/2026, 3:55:55 PM  
-**Categories:** -  
-
-Article URL: https://www.isaksky.com/posts/dripsharp-java-to-csharp-source-converter/ Comments URL: https://news.ycombinator.com/item?id=49376397 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.isaksky.com/posts/dripsharp-java-to-csharp-source-converter/)
-
----
-
-## 17. Project management with schedule aware AI copilot
-
-**Author:** astralithos_ai  
-**Published:** 8/20/2026, 3:52:28 PM  
-**Categories:** -  
-
-Article URL: https://www.criticalschedule.com Comments URL: https://news.ycombinator.com/item?id=49376346 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.criticalschedule.com)
-
----
-
-## 18. Evaluating AI Agents Live at the Grounded Reasoning Cup
-
-**Author:** iwhalen  
-**Published:** 8/20/2026, 3:46:09 PM  
-**Categories:** -  
-
-Article URL: https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup Comments URL: https://news.ycombinator.com/item?id=49376261 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup)
-
----
-
-## 19. AI Is Undermining Leaders' Judgment. Here's What to Do About It
-
-**Author:** abixb  
-**Published:** 8/20/2026, 3:33:40 PM  
-**Categories:** -  
-
-Article URL: https://hbr.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it Comments URL: https://news.ycombinator.com/item?id=49376089 Points: 10 # Comments: 3
-
-📖 [Read original article](https://hbr.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it)
-
----
-
-## 20. Ask HN: Is AI the New Spreadsheet?
-
-**Author:** Gshaheen  
-**Published:** 8/20/2026, 3:26:44 PM  
-**Categories:** -  
-
-Spreadsheets became and still are prolific for individuals and teams to create simple “apps.”I wonder how much of that is moving over to things like cowork or codex type apps.Personally, and anecdotally, my spreadsheet use has dropped immensely since starting to use these tools.Thoughts? Comments UR...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49376007)
+📖 [Read original article](https://www.businessinsider.com/ai-brand-deals-chatgpt-claude-influencers-weigh-backlash-over-paychecks-2026-8)
 
 ---
