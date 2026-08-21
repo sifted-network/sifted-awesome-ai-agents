@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-08-18"
 date: "2026-08-18"
 source: "OpenAI Blog"
-count: 7
+count: 6
 ---
 
 # OpenAI Blog - 2026-08-18
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ ChatGPT for Teens helps teens learn, think critically, and use AI with confidenc
 Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.
 
 📖 [Read original article](https://openai.com/index/asana)
-
----
-
-## 7. How NVIDIA scales expertise with ChatGPT Work
-
-**Author:** -  
-**Published:** 8/18/2026, 12:00:00 AM  
-**Categories:** -  
-
-NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.
-
-📖 [Read original article](https://openai.com/index/nvidia/chatgpt-work)
 
 ---
