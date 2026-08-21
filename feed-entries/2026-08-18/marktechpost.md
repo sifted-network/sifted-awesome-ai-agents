@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-18"
 date: "2026-08-18"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-08-18
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it h
 Cartesia has released Sonic-3.6, a streaming text-to-speech model built on state space models rather than transformers. It now ranks #1 on both Artificial Analysis speech leaderboards — 1,283 Elo on Provider Voice and 1,123 on Controlled Voice, the board that clones every model onto the same eight r...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/)
-
----
-
-## 4. Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots
-
-**Author:** Michal Sutter  
-**Published:** 8/18/2026, 2:05:28 AM  
-**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, New Releases, Open Source, Tech News, Technology  
-
-Nous Research has shipped Bot Mode for Hermes Agent, its MIT-licensed open source agent. Bot Mode replaces the single-agent session list with a roster of named bots. Each bot is a real Hermes profile, with its own chat, memory, skills, and pinned model. It is now bundled and default-on in Hermes Des...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/)
 
 ---
