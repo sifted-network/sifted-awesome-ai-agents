@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-18"
 date: "2026-08-18"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-08-18
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-
 Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust P2P overlay that lets autonomous agents discover and call each other's MCP tools across cloud, on-prem, laptop and edge environments, without exposin...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/)
-
----
-
-## 3. Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas
-
-**Author:** Asif Razzaq  
-**Published:** 8/18/2026, 10:37:49 AM  
-**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, Large Language Model, New Releases, Staff, Tech News, Technology, TTS, Uncategorized, Voice AI  
-
-Cartesia has released Sonic-3.6, a streaming text-to-speech model built on state space models rather than transformers. It now ranks #1 on both Artificial Analysis speech leaderboards — 1,283 Elo on Provider Voice and 1,123 on Controlled Voice, the board that clones every model onto the same eight r...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/)
 
 ---
