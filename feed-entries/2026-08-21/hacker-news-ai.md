@@ -2,251 +2,191 @@
 title: "Hacker News AI - 2026-08-21"
 date: "2026-08-21"
 source: "Hacker News AI"
-count: 20
+count: 15
 ---
 
 # Hacker News AI - 2026-08-21
 
-20 items collected.
+15 items collected.
 
 ---
 
-## 1. Show HN: Poorleton – AI Generated Cycling Workouts
+## 1. What We Tell AI
 
-**Author:** amclennon  
-**Published:** 8/21/2026, 6:19:16 PM  
+**Author:** Funes-  
+**Published:** 8/21/2026, 11:50:27 PM  
 **Categories:** -  
 
-Hello everyone, I recently got a used Peloton a couple of months ago for $200, but I didn't use it enough to justify $50/month for classes, so I vibe coded https://poorleton.fit/ over the weekend to have AI generated cycling classes.Let me know what you think. Comments URL: https://news.ycombinator....
+Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49395157 Points: 4 # Comments: 1
 
-📖 [Read original article](https://poorleton.fit)
+📖 [Read original article](https://www.whatwetellai.com/)
 
 ---
 
-## 2. Benchmarks of rumored Mythos level model from Zhipu AI
+## 2. As demand for Meta AI glasses explodes, it's harder to avoid creepy recordings
 
-**Author:** binyu  
-**Published:** 8/21/2026, 6:17:56 PM  
+**Author:** Alephinitesimal  
+**Published:** 8/21/2026, 11:49:49 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/ananayarora/status/2090742255284031537 Comments URL: https://news.ycombinator.com/item?id=49391959 Points: 3 # Comments: 0
+Article URL: https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/ Comments URL: https://news.ycombinator.com/item?id=49395154 Points: 3 # Comments: 1
 
-📖 [Read original article](https://twitter.com/ananayarora/status/2090742255284031537)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/)
 
 ---
 
-## 3. How Much of the Internet Is Written with AI?
+## 3. A Call for Action: The \"Leiden Declaration on AI and Math\"
 
-**Author:** karakoram  
-**Published:** 8/21/2026, 6:14:05 PM  
+**Author:** pykello  
+**Published:** 8/21/2026, 11:20:57 PM  
 **Categories:** -  
 
-Article URL: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49391907 Points: 1 # Comments: 0
+Article URL: https://www.ams.org/journals/notices/202608/noti3386/noti3386.html Comments URL: https://news.ycombinator.com/item?id=49394934 Points: 9 # Comments: 1
 
-📖 [Read original article](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/)
+📖 [Read original article](https://www.ams.org/journals/notices/202608/noti3386/noti3386.html)
 
 ---
 
-## 4. Talk. It types. Anywhere on your phone. $9.www.airtxt.ai
+## 4. AI Building Exoskeletons – Keeping Creative Inspiration
 
-**Author:** jeevkola  
-**Published:** 8/21/2026, 6:00:50 PM  
+**Author:** soundworlds  
+**Published:** 8/21/2026, 10:57:01 PM  
 **Categories:** -  
 
-Half the price of Wispr Flow ($9 vs $15) — proof: public pricing. On-device OR cloud, your choice — Wispr is cloud-only. Proof: the toggle, privacy angle. It also sits in your meetings — one app, dictation and a meeting bot. Wispr has neither. Works in every app via the keyboard — not a walled-garde...
+Article URL: https://johnoestmannmusic.com/ai-building-exoskeletons/ Comments URL: https://news.ycombinator.com/item?id=49394736 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49391762)
+📖 [Read original article](https://johnoestmannmusic.com/ai-building-exoskeletons/)
 
 ---
 
-## 5. Openly Synthetic: Building an accountable AI newsroom in the age of covert ones
+## 5. 80% of developers find AI coding more addictive than helpful
 
-**Author:** rendonroman  
-**Published:** 8/21/2026, 5:55:30 PM  
+**Author:** CrankyBear  
+**Published:** 8/21/2026, 9:51:36 PM  
 **Categories:** -  
 
-Article URL: https://areyto.media/openly-synthetic Comments URL: https://news.ycombinator.com/item?id=49391689 Points: 1 # Comments: 0
+Article URL: https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/ Comments URL: https://news.ycombinator.com/item?id=49394186 Points: 4 # Comments: 0
 
-📖 [Read original article](https://areyto.media/openly-synthetic)
+📖 [Read original article](https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/)
 
 ---
 
-## 6. Git Might Be the Best Message Forum for AI Agents
+## 6. Amazon's 7.65GW AI data center power plant could be largest CO₂ emitter in US
 
-**Author:** syumei  
-**Published:** 8/21/2026, 5:49:04 PM  
+**Author:** gmays  
+**Published:** 8/21/2026, 9:24:43 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/git/comments/1vunb1e/git_might_be_the_best_message_forum_for_ai_agents/ Comments URL: https://news.ycombinator.com/item?id=49391594 Points: 2 # Comments: 0
+Article URL: https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases Comments URL: https://news.yco...
 
-📖 [Read original article](https://www.reddit.com/r/git/comments/1vunb1e/git_might_be_the_best_message_forum_for_ai_agents/)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases)
 
 ---
 
-## 7. The puzzling case of Britain's young people and what they think of AI
+## 7. Nvidia just showed that the harness, not the AI model, is now the real hero
 
-**Author:** giuliomagnifico  
-**Published:** 8/21/2026, 5:39:00 PM  
+**Author:** dthread3  
+**Published:** 8/21/2026, 8:52:10 PM  
 **Categories:** -  
 
-Article URL: https://publicfirsttech.substack.com/p/gen-ai-the-puzzling-case-of-britains Comments URL: https://news.ycombinator.com/item?id=49391453 Points: 4 # Comments: 0
+Article URL: https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/ Comments URL: https://news.ycombinator.com/item?id=49393647 Points: 12 # Comments: 1
 
-📖 [Read original article](https://publicfirsttech.substack.com/p/gen-ai-the-puzzling-case-of-britains)
+📖 [Read original article](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/)
 
 ---
 
-## 8. Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI
+## 8. Making Audio Stories Interactive with AI: The Story of Schmaudio
 
-**Author:** theanonymousone  
-**Published:** 8/21/2026, 5:33:42 PM  
+**Author:** skchang  
+**Published:** 8/21/2026, 8:36:23 PM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/news/Linus-Torvalds-Debug-AI Comments URL: https://news.ycombinator.com/item?id=49391392 Points: 6 # Comments: 0
+Article URL: http://www.dennisweyland.net/blog/?p=175 Comments URL: https://news.ycombinator.com/item?id=49393468 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.phoronix.com/news/Linus-Torvalds-Debug-AI)
+📖 [Read original article](http://www.dennisweyland.net/blog/?p=175)
 
 ---
 
-## 9. IO Factory: Simulating AI-Enabled Influence Campaigns at Scale
+## 9. Agentic AI overwhelmed CI, and test selection cut queueing from hours to minutes
 
-**Author:** lknik  
-**Published:** 8/21/2026, 5:22:56 PM  
+**Author:** dudzik  
+**Published:** 8/21/2026, 8:24:40 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2608.10920 Comments URL: https://news.ycombinator.com/item?id=49391233 Points: 1 # Comments: 0
+Article URL: https://humansystems.dudzik.co/p/when-agents-make-ci-the-bottleneck Comments URL: https://news.ycombinator.com/item?id=49393364 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2608.10920)
+📖 [Read original article](https://humansystems.dudzik.co/p/when-agents-make-ci-the-bottleneck)
 
 ---
 
-## 10. Staggering 90% of biomedical papers now show signs of AI help
+## 10. AgentCheck – regression testing for AI agents, with diff-aware CI reports
 
-**Author:** frasermarlow  
-**Published:** 8/21/2026, 5:21:39 PM  
+**Author:** zz99  
+**Published:** 8/21/2026, 8:21:15 PM  
 **Categories:** -  
 
-Article URL: https://www.nature.com/articles/d41586-026-02551-z Comments URL: https://news.ycombinator.com/item?id=49391211 Points: 1 # Comments: 1
+Article URL: https://github.com/rez-99/agentcheck Comments URL: https://news.ycombinator.com/item?id=49393322 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.nature.com/articles/d41586-026-02551-z)
+📖 [Read original article](https://github.com/rez-99/agentcheck)
 
 ---
 
-## 11. Ask HN: Should we stop \"correcting\" AI writing so it improves English for us?
+## 11. AI Stock Research Assistant · Streamlit
 
-**Author:** amichail  
-**Published:** 8/21/2026, 5:20:01 PM  
+**Author:** KiaanKothari  
+**Published:** 8/21/2026, 8:05:04 PM  
 **Categories:** -  
 
-For example, AI writing often puts an "or" at the list of items because that is more logical in some contexts.Changing it to "and" would make it sound more natural, but it would be less logical.Keeping it as "or" may make it standard usage over time, even when people are not using AI to write.What d...
+Article URL: https://ai-stock-research-kiaan.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49393176 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49391188)
+📖 [Read original article](https://ai-stock-research-kiaan.streamlit.app)
 
 ---
 
-## 12. A Zero-Trust Social Network for AI Agents, Backed by Git
+## 12. The Wage Effects of Generative AI
 
-**Author:** syumei  
-**Published:** 8/21/2026, 5:09:06 PM  
+**Author:** exceptione  
+**Published:** 8/21/2026, 7:49:16 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@Koukyosyumei/a-zero-trust-social-network-for-ai-agents-backed-by-git-4be11b0860eb Comments URL: https://news.ycombinator.com/item?id=49391034 Points: 1 # Comments: 0
+Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084 Comments URL: https://news.ycombinator.com/item?id=49393015 Points: 1 # Comments: 1
 
-📖 [Read original article](https://medium.com/@Koukyosyumei/a-zero-trust-social-network-for-ai-agents-backed-by-git-4be11b0860eb)
+📖 [Read original article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084)
 
 ---
 
-## 13. The Download: threats from space mirrors and credit for AI drugs
+## 13. Readers can't identify watermarked AI text
 
-**Author:** joozio  
-**Published:** 8/21/2026, 5:02:27 PM  
+**Author:** dmarto  
+**Published:** 8/21/2026, 7:30:09 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/ Comments URL: https://news.ycombinator.com/item?id=49390946 Points: 1 # Comments: 0
+Article URL: https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/ Comments URL: https://news.ycombinator.com/item?id=49392819 Points: 9 # Comments: 1
 
-📖 [Read original article](https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/)
+📖 [Read original article](https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/)
 
 ---
 
-## 14. Where Security Fits in an AI Agent Stack
+## 14. YC co is organizing an event in SF on AI in regulated industries
 
-**Author:** pretext  
-**Published:** 8/21/2026, 5:01:26 PM  
+**Author:** gonsanchezs  
+**Published:** 8/21/2026, 7:22:10 PM  
 **Categories:** -  
 
-Article URL: https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/ Comments URL: https://news.ycombinator.com/item?id=49390933 Points: 1 # Comments: 0
+Article URL: https://groundtruth.getsphere.com/ Comments URL: https://news.ycombinator.com/item?id=49392723 Points: 3 # Comments: 0
 
-📖 [Read original article](https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/)
+📖 [Read original article](https://groundtruth.getsphere.com/)
 
 ---
 
-## 15. I'd Rather Risk Cancer Than See AI Move This Fast
+## 15. War is not god, neither is AI
 
-**Author:** TiredOfLife  
-**Published:** 8/21/2026, 4:37:00 PM  
+**Author:** middayc  
+**Published:** 8/21/2026, 7:11:48 PM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/ Comments URL: https://news.ycombinator.com/item?id=49390591 Points: 3 # Comments: 1
+Article URL: https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/ Comments URL: https://news.ycombinator.com/item?id=49392610 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/)
-
----
-
-## 16. Show HN: Roastme.gg – Pay to get publicly roasted by AI
-
-**Author:** alexcloudstar  
-**Published:** 8/21/2026, 4:19:20 PM  
-**Categories:** -  
-
-Article URL: https://roastme.gg Comments URL: https://news.ycombinator.com/item?id=49390344 Points: 2 # Comments: 0
-
-📖 [Read original article](https://roastme.gg)
-
----
-
-## 17. Show HN: Caspian – Talk to Human Tool for AI Agents
-
-**Author:** dipanshuhappy  
-**Published:** 8/21/2026, 4:17:58 PM  
-**Categories:** -  
-
-Sup HN! Dipanshu and Rushant here from Caspian. One is a functional programmer and the other has been deploying AI employees. Together we realized how agents have communication bottleneck.Given the coming agentic economy, we had a thought experiment on what can be the key infrastructure for agents a...
-
-📖 [Read original article](https://github.com/TryCaspian/caspian-sdk)
-
----
-
-## 18. Show HN: Whodunit? Solve a daily AI-written Mystery
-
-**Author:** selljamhere  
-**Published:** 8/21/2026, 4:04:49 PM  
-**Categories:** -  
-
-Whodunit started as a pen-and-paper game for family game night. It evolved into a web app with a new mystery every day.The mysteries are all written by LLMs. Some are better than others, but most work nicely.The web app is written in go with templ HTML templates, HTMX for on-page interactivity, SSE ...
-
-📖 [Read original article](https://whodunit.rip)
-
----
-
-## 19. AI Coding and Its Discontents: Cal Newport
-
-**Author:** signa11  
-**Published:** 8/21/2026, 4:02:47 PM  
-**Categories:** -  
-
-Article URL: https://calnewport.com/on-ai-coding-and-its-discontents/ Comments URL: https://news.ycombinator.com/item?id=49390122 Points: 6 # Comments: 0
-
-📖 [Read original article](https://calnewport.com/on-ai-coding-and-its-discontents/)
-
----
-
-## 20. Linus Torvalds uses AI to debug an Intel GPU driver bug
-
-**Author:** signa11  
-**Published:** 8/21/2026, 3:57:39 PM  
-**Categories:** -  
-
-Article URL: https://lists.freedesktop.org/archives/dri-devel/2026-August/590630.html Comments URL: https://news.ycombinator.com/item?id=49390035 Points: 6 # Comments: 0
-
-📖 [Read original article](https://lists.freedesktop.org/archives/dri-devel/2026-August/590630.html)
+📖 [Read original article](https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/)
 
 ---
