@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-08-22"
 date: "2026-08-22"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-08-22
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. How Much of the Internet Is Written with AI?
+## 1. How to Fingerprint AI Models When Prompts Lie
+
+**Author:** m00dy  
+**Published:** 8/22/2026, 12:26:50 PM  
+**Categories:** -  
+
+Article URL: https://openrating.io/blog/current-state-of-ai-model-fingerprinting Comments URL: https://news.ycombinator.com/item?id=49399051 Points: 1 # Comments: 0
+
+📖 [Read original article](https://openrating.io/blog/current-state-of-ai-model-fingerprinting)
+
+---
+
+## 2. The AI boom: rational enthusiasm or the next dot-com bubble?
+
+**Author:** doener  
+**Published:** 8/22/2026, 11:45:40 AM  
+**Categories:** -  
+
+Article URL: https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html Comments URL: https://news.ycombinator.com/item?id=49398763 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html)
+
+---
+
+## 3. Mango AI: image/video generation with Nano Banana 2, GPT Image 2, Seedance 2
+
+**Author:** nexad_william  
+**Published:** 8/22/2026, 11:43:53 AM  
+**Categories:** -  
+
+Article URL: https://trymangoai.com Comments URL: https://news.ycombinator.com/item?id=49398747 Points: 2 # Comments: 0
+
+📖 [Read original article](https://trymangoai.com)
+
+---
+
+## 4. Dutch regulator fines Uber €825M for letting AI deactivate driver accounts
+
+**Author:** biglyburrito  
+**Published:** 8/22/2026, 11:27:29 AM  
+**Categories:** -  
+
+Article URL: https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts Comments URL: https://news.ycombinator.com/item?id=49398609 Points: 5 # Comments: 2
+
+📖 [Read original article](https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts)
+
+---
+
+## 5. SignalWatch – AI crypto scanner and smart alerts in your pocket
+
+**Author:** alligatorpeach  
+**Published:** 8/22/2026, 11:13:33 AM  
+**Categories:** -  
+
+Article URL: https://play.google.com/store/apps/details?id=com.builtwithme.signalwatch&hl=en_US Comments URL: https://news.ycombinator.com/item?id=49398530 Points: 1 # Comments: 0
+
+📖 [Read original article](https://play.google.com/store/apps/details?id=com.builtwithme.signalwatch&hl=en_US)
+
+---
+
+## 6. AI;DR There May Be Nobody There
+
+**Author:** mostlymike  
+**Published:** 8/22/2026, 11:10:28 AM  
+**Categories:** -  
+
+Article URL: https://yusufaytas.com/there-may-be-nobody-there Comments URL: https://news.ycombinator.com/item?id=49398509 Points: 3 # Comments: 0
+
+📖 [Read original article](https://yusufaytas.com/there-may-be-nobody-there)
+
+---
+
+## 7. AI Is Rewriting Mathematics
+
+**Author:** fragmede  
+**Published:** 8/22/2026, 10:59:44 AM  
+**Categories:** -  
+
+Article URL: https://nofilk.substack.com/p/ai-is-rewriting-mathematics Comments URL: https://news.ycombinator.com/item?id=49398441 Points: 2 # Comments: 1
+
+📖 [Read original article](https://nofilk.substack.com/p/ai-is-rewriting-mathematics)
+
+---
+
+## 8. Six principles for evaluating cognitive capabilities in AI models
+
+**Author:** Terretta  
+**Published:** 8/22/2026, 10:37:21 AM  
+**Categories:** -  
+
+Article URL: https://onlinelibrary.wiley.com/doi/10.1002/aaai.70061 Comments URL: https://news.ycombinator.com/item?id=49398347 Points: 1 # Comments: 1
+
+📖 [Read original article](https://onlinelibrary.wiley.com/doi/10.1002/aaai.70061)
+
+---
+
+## 9. The Joy of Why (podcast): Are We Thinking Correctly About AI Intelligence?
+
+**Author:** Terretta  
+**Published:** 8/22/2026, 10:16:28 AM  
+**Categories:** -  
+
+Article URL: https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/ Comments URL: https://news.ycombinator.com/item?id=49398270 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/)
+
+---
+
+## 10. CyberStrike – open-source AI harness for offensive security (AGPL)
+
+**Author:** orhanyildirim  
+**Published:** 8/22/2026, 9:44:44 AM  
+**Categories:** -  
+
+Article URL: https://github.com/CyberStrikeus/CyberStrike Comments URL: https://news.ycombinator.com/item?id=49398125 Points: 4 # Comments: 1
+
+📖 [Read original article](https://github.com/CyberStrikeus/CyberStrike)
+
+---
+
+## 11. Math Academy – How Our AI Works
+
+**Author:** olvy0  
+**Published:** 8/22/2026, 9:43:56 AM  
+**Categories:** -  
+
+Article URL: https://www.mathacademy.com/how-our-ai-works Comments URL: https://news.ycombinator.com/item?id=49398120 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.mathacademy.com/how-our-ai-works)
+
+---
+
+## 12. Embedded AI
+
+**Author:** 0x54MUR41  
+**Published:** 8/22/2026, 9:07:26 AM  
+**Categories:** -  
+
+Article URL: https://nostarch.com/embedded-ai Comments URL: https://news.ycombinator.com/item?id=49397947 Points: 3 # Comments: 0
+
+📖 [Read original article](https://nostarch.com/embedded-ai)
+
+---
+
+## 13. Is \"AI slop\" now the default response to every new project?
+
+**Author:** antonreshetov  
+**Published:** 8/22/2026, 8:35:00 AM  
+**Categories:** -  
+
+Comments URL: https://news.ycombinator.com/item?id=49397791 Points: 2 # Comments: 5
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49397791)
+
+---
+
+## 14. Older Americans leaving workforce poses challenges for AI plans
+
+**Author:** littlexsparkee  
+**Published:** 8/22/2026, 8:24:50 AM  
+**Categories:** -  
+
+Article URL: https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367 Comments URL: https://news.ycombinator.com/item?id=49397749 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367)
+
+---
+
+## 15. I turned Unix talk from 1983 into the interface for my AI
+
+**Author:** andros  
+**Published:** 8/22/2026, 8:14:41 AM  
+**Categories:** -  
+
+Article URL: https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/ Comments URL: https://news.ycombinator.com/item?id=49397698 Points: 1 # Comments: 0
+
+📖 [Read original article](https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/)
+
+---
+
+## 16. Show HN: Agile AI Development Lifecycle
+
+**Author:** valeriavg_dev  
+**Published:** 8/22/2026, 8:08:59 AM  
+**Categories:** -  
+
+Schrödinger's AI-DLC Framework Comments URL: https://news.ycombinator.com/item?id=49397671 Points: 2 # Comments: 0
+
+📖 [Read original article](https://valeriavg.dev/agile-ai-development-lifecycle)
+
+---
+
+## 17. Show HN: Learn Leap, an AI tutor that teaches from your own material
+
+**Author:** HarunaOseni  
+**Published:** 8/22/2026, 8:07:56 AM  
+**Categories:** -  
+
+I built Learn Leap because I found myself constantly asking ChatGPT questions while reading research papers. I wanted something that already understood what I was reading. With Learn Leap you can upload your own material and have an AI tutor teach directly from it. The tutor has full context on your...
+
+📖 [Read original article](https://learnleap.xyz)
+
+---
+
+## 18. Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not
+
+**Author:** mellosouls  
+**Published:** 8/22/2026, 6:46:35 AM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology Comments URL: https://news.ycombinator.com/item?id=49397246 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology)
+
+---
+
+## 19. Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI
+
+**Author:** 01-_-  
+**Published:** 8/22/2026, 6:34:41 AM  
+**Categories:** -  
+
+Article URL: https://www.phoronix.com/news/Linus-Torvalds-Debug-AI Comments URL: https://news.ycombinator.com/item?id=49397171 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.phoronix.com/news/Linus-Torvalds-Debug-AI)
+
+---
+
+## 20. How Much of the Internet Is Written with AI?
 
 **Author:** 01-_-  
 **Published:** 8/22/2026, 6:33:40 AM  
 **Categories:** -  
 
-Article URL: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49397162 Points: 1 # Comments: 0
+Article URL: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49397162 Points: 2 # Comments: 0
 
 📖 [Read original article](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/)
-
----
-
-## 2. Ask HN: What is the evidence for a stock market bubble in AI?
-
-**Author:** roschdal  
-**Published:** 8/22/2026, 6:07:48 AM  
-**Categories:** -  
-
-Should the circular cash flows between the top AI companies, Nvidia, Anthropic, Openai, Google and Meta, be banned because of the systemic risks to the global economy? Comments URL: https://news.ycombinator.com/item?id=49397022 Points: 4 # Comments: 1
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49397022)
-
----
-
-## 3. Intelligence per Watt: Measuring Intelligence Efficiency of Local AI
-
-**Author:** helsinkiandrew  
-**Published:** 8/22/2026, 5:54:49 AM  
-**Categories:** -  
-
-Article URL: https://arxiv.org/abs/2511.07885 Comments URL: https://news.ycombinator.com/item?id=49396954 Points: 1 # Comments: 0
-
-📖 [Read original article](https://arxiv.org/abs/2511.07885)
-
----
-
-## 4. Show HN: Front end skill pack for AI agents, with machine-enforced quality gates
-
-**Author:** KrishnaModi12  
-**Published:** 8/22/2026, 5:52:19 AM  
-**Categories:** -  
-
-Article URL: https://krishna-modi12.github.io/frontend-design-pro/ Comments URL: https://news.ycombinator.com/item?id=49396937 Points: 1 # Comments: 0
-
-📖 [Read original article](https://krishna-modi12.github.io/frontend-design-pro/)
-
----
-
-## 5. Void Tools API – Blockchain Tools for AI Agents (Pay in Void Tokens)
-
-**Author:** void_protocol  
-**Published:** 8/22/2026, 5:40:37 AM  
-**Categories:** -  
-
-I built an API for AI agents that provides blockchain tools paid in VOID tokens.Tools: - Contract Checker (1 VOID) — Verify if contract is safe - New Contracts (5 VOID) — Real-time proxy scanner on Base - Price Oracle (FREE) — VOID price feed - RPC Proxy (1 VOID) — 10 rotating RPC poolsNo registrati...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49396884)
-
----
-
-## 6. Getting Freaky in the Age of AI
-
-**Author:** jbott  
-**Published:** 8/22/2026, 3:45:57 AM  
-**Categories:** -  
-
-Article URL: https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49396391 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/)
-
----
-
-## 7. Linus: And this was a debug session from hell, enormously helped by an AI
-
-**Author:** Garbage  
-**Published:** 8/22/2026, 3:39:16 AM  
-**Categories:** -  
-
-Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c Comments URL: https://news.ycombinator.com/item?id=49396366 Points: 2 # Comments: 0
-
-📖 [Read original article](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
-
----
-
-## 8. Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents
-
-**Author:** fortran77  
-**Published:** 8/22/2026, 3:20:33 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d Comments URL: https://news.ycombinator.com/item?id=49396296 Points: 4 # Comments: 2
-
-📖 [Read original article](https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d)
-
----
-
-## 9. Show HN: Anjadhe – privacy first AI assistant, no account, no server DB
-
-**Author:** ram-bv  
-**Published:** 8/22/2026, 2:12:01 AM  
-**Categories:** -  
-
-Hi HN, I am Ram. For the last few months I have been building Anjadhe. It is a personal AI assistant for macOS. The main idea is simple: A macOS app where AI does the job of a personal assistant for the user. Not a chat only app where user needs to dig through chats to understand today’s schedule or...
-
-📖 [Read original article](https://www.anjadhe.com/demo)
-
----
-
-## 10. Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents
-
-**Author:** arihantdeva  
-**Published:** 8/22/2026, 2:02:14 AM  
-**Categories:** -  
-
-Article URL: https://github.com/ArihantDeva/heimdall Comments URL: https://news.ycombinator.com/item?id=49395883 Points: 3 # Comments: 0
-
-📖 [Read original article](https://github.com/ArihantDeva/heimdall)
-
----
-
-## 11. Obsession with AI
-
-**Author:** jusonchan81  
-**Published:** 8/22/2026, 1:53:33 AM  
-**Categories:** -  
-
-Article URL: https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt Comments URL: https://news.ycombinator.com/item?id=49395808 Points: 1 # Comments: 0
-
-📖 [Read original article](https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt)
-
----
-
-## 12. I'd Rather Risk Cancer Than See AI Move This Fast
-
-**Author:** jdkee  
-**Published:** 8/22/2026, 1:47:18 AM  
-**Categories:** -  
-
-Article URL: https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/ Comments URL: https://news.ycombinator.com/item?id=49395789 Points: 5 # Comments: 2
-
-📖 [Read original article](https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/)
-
----
-
-## 13. In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI
-
-**Author:** treelover  
-**Published:** 8/22/2026, 1:00:44 AM  
-**Categories:** -  
-
-Article URL: https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a Comments URL: https://news.ycombinator.com/item?id=49395597 Points: 2 # Comments: 1
-
-📖 [Read original article](https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a)
-
----
-
-## 14. Show HN: Updating my wedding registry website with AI in 275 commits
-
-**Author:** benhoyt  
-**Published:** 8/22/2026, 12:25:24 AM  
-**Categories:** -  
-
-Article URL: https://benhoyt.com/writings/updating-gifty-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49395371 Points: 1 # Comments: 0
-
-📖 [Read original article](https://benhoyt.com/writings/updating-gifty-with-ai/)
-
----
-
-## 15. Show HN: AI driven civic dashboard for Palo Alto
-
-**Author:** brianhama  
-**Published:** 8/22/2026, 12:17:45 AM  
-**Categories:** -  
-
-Article URL: https://paloaltocivic.com Comments URL: https://news.ycombinator.com/item?id=49395316 Points: 1 # Comments: 0
-
-📖 [Read original article](https://paloaltocivic.com)
-
----
-
-## 16. Linus: \"A debug session from hell, enormously helped by an AI\"
-
-**Author:** dnw  
-**Published:** 8/22/2026, 12:08:47 AM  
-**Categories:** -  
-
-Article URL: https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c Comments URL: https://news.ycombinator.com/item?id=49395262 Points: 5 # Comments: 1
-
-📖 [Read original article](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
-
----
-
-## 17. Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says
-
-**Author:** sbulaev  
-**Published:** 8/22/2026, 12:07:06 AM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says)
 
 ---
