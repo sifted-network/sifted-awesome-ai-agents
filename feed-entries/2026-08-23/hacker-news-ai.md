@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Wild AI-related reliability incidents are coming
+## 1. Product Owner Interview Questions for the Age of AI
 
-**Author:** azhenley  
-**Published:** 8/23/2026, 6:23:50 AM  
+**Author:** swolpers  
+**Published:** 8/23/2026, 12:31:15 PM  
 **Categories:** -  
 
-Article URL: https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/ Comments URL: https://news.ycombinator.com/item?id=49406458 Points: 2 # Comments: 0
+Article URL: https://age-of-product.com/product-owner-interview-questions/ Comments URL: https://news.ycombinator.com/item?id=49408316 Points: 1 # Comments: 0
 
-📖 [Read original article](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/)
+📖 [Read original article](https://age-of-product.com/product-owner-interview-questions/)
 
 ---
 
-## 2. Topagent.lol – an AI agent leaderboard ranked purely by who paid most
+## 2. Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM
 
-**Author:** ashleyrudland87  
-**Published:** 8/23/2026, 6:01:37 AM  
+**Author:** aravinthan-n  
+**Published:** 8/23/2026, 12:22:24 PM  
 **Categories:** -  
 
-Article URL: https://topagent.lol Comments URL: https://news.ycombinator.com/item?id=49406376 Points: 2 # Comments: 0
+Article URL: https://github.com/marketplace/actions/prism-reviewer-ai Comments URL: https://news.ycombinator.com/item?id=49408247 Points: 1 # Comments: 0
 
-📖 [Read original article](https://topagent.lol)
+📖 [Read original article](https://github.com/marketplace/actions/prism-reviewer-ai)
 
 ---
 
-## 3. China Is Building AI Models of American Voters
+## 3. Show HN: Declarative, reproducible configuration materializer for AI agents
 
-**Author:** like_any_other  
-**Published:** 8/23/2026, 5:43:06 AM  
+**Author:** philomagi  
+**Published:** 8/23/2026, 11:48:23 AM  
 **Categories:** -  
 
-Article URL: https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models Comments URL: https://news.ycombinator.com/item?id=49406296 Points: 2 # Comments: 1
+Article URL: https://github.com/tooppoo/enozunu Comments URL: https://news.ycombinator.com/item?id=49408038 Points: 3 # Comments: 0
 
-📖 [Read original article](https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models)
+📖 [Read original article](https://github.com/tooppoo/enozunu)
 
 ---
 
-## 4. A mysterious free AI model is impressing developers. Nobody knows who made it
+## 4. What do you think of AI website builders?
 
-**Author:** newsomix9xl  
-**Published:** 8/23/2026, 5:40:43 AM  
+**Author:** LucaSiviero  
+**Published:** 8/23/2026, 11:44:01 AM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8 Comments URL: https://news.ycombinator.com/item?id=49406289 Points: 5 # Comments: 0
+Article URL: https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it Comments URL: https://news.ycombinator.com/item?id=49408013 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8)
+📖 [Read original article](https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it)
 
 ---
 
-## 5. Rare-Book Sales Are Booming. They're Getting Sliced Up and Fed to AI
+## 5. AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 8/23/2026, 5:32:12 AM  
+**Author:** MS8080  
+**Published:** 8/23/2026, 11:42:54 AM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053 Comments URL: https://news.ycombinator.com/item?id=49406267 Points: 2 # Comments: 0
+Article URL: https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/ Comments URL: https://news.ycombinator.com/item?id=49408011 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053)
+📖 [Read original article](https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/)
 
 ---
 
-## 6. Chinese Orgs Building AI Models of American Voters to Test Political Messages
+## 6. Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"
 
-**Author:** daniel_iversen  
-**Published:** 8/23/2026, 5:19:45 AM  
+**Author:** Anon84  
+**Published:** 8/23/2026, 11:28:08 AM  
 **Categories:** -  
 
-Article URL: https://twitter.com/nataliegwinters/status/2090814996687237570 Comments URL: https://news.ycombinator.com/item?id=49406229 Points: 4 # Comments: 1
+Article URL: https://twitter.com/AndrewYNg/status/2090840747738374568 Comments URL: https://news.ycombinator.com/item?id=49407944 Points: 2 # Comments: 0
 
-📖 [Read original article](https://twitter.com/nataliegwinters/status/2090814996687237570)
+📖 [Read original article](https://twitter.com/AndrewYNg/status/2090840747738374568)
 
 ---
 
-## 7. Vero: Can AI Agents Build Formally Verified Software Repositories?
+## 7. Why Einstein would fail today: The case for an automated AI Science Institute
 
-**Author:** matt_d  
-**Published:** 8/23/2026, 4:59:37 AM  
+**Author:** Anastasov_Theor  
+**Published:** 8/23/2026, 11:24:42 AM  
 **Categories:** -  
 
-Article URL: https://vero.verina.io/ Comments URL: https://news.ycombinator.com/item?id=49406158 Points: 1 # Comments: 0
+Article URL: https://zenodo.org/records/22067050 Comments URL: https://news.ycombinator.com/item?id=49407926 Points: 1 # Comments: 0
 
-📖 [Read original article](https://vero.verina.io/)
+📖 [Read original article](https://zenodo.org/records/22067050)
 
 ---
 
-## 8. The Hidden Pipeline Behind AI Search Visibility
+## 8. Publish to 15 social media channels using AI agents, free
 
-**Author:** rakeshmenon  
-**Published:** 8/23/2026, 4:52:17 AM  
+**Author:** azeemkafridi  
+**Published:** 8/23/2026, 11:24:17 AM  
 **Categories:** -  
 
-Article URL: https://medium.com/the-discovery-collective/the-hidden-pipeline-behind-ai-search-visibility-d4e9c22897f8 Comments URL: https://news.ycombinator.com/item?id=49406142 Points: 1 # Comments: 1
+Article URL: https://www.bulkpublish.com/ Comments URL: https://news.ycombinator.com/item?id=49407919 Points: 1 # Comments: 1
 
-📖 [Read original article](https://medium.com/the-discovery-collective/the-hidden-pipeline-behind-ai-search-visibility-d4e9c22897f8)
+📖 [Read original article](https://www.bulkpublish.com/)
 
 ---
 
-## 9. AI's potential climate benefits outweighed by role in boosting fossil fuels
+## 9. Agentic AI in a Smolbox
 
-**Author:** bryanrasmussen  
-**Published:** 8/23/2026, 4:50:53 AM  
+**Author:** 882542F3884314B  
+**Published:** 8/23/2026, 11:20:53 AM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy Comments URL: https://news.ycombinator.com/item?id=49406136 Points: 2 # Comments: 0
+Article URL: https://remyhax.xyz/posts/smolbox/ Comments URL: https://news.ycombinator.com/item?id=49407905 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy)
+📖 [Read original article](https://remyhax.xyz/posts/smolbox/)
 
 ---
 
-## 10. Activity Monitor for AI Application on Mac OS X
-
-**Author:** kulekci  
-**Published:** 8/23/2026, 4:23:35 AM  
-**Categories:** -  
-
-Article URL: https://popy.app/apps/corral Comments URL: https://news.ycombinator.com/item?id=49406046 Points: 1 # Comments: 0
-
-📖 [Read original article](https://popy.app/apps/corral)
-
----
-
-## 11. Palantir's Karp – frontier AI labs that are 'trying to drug addict us'
-
-**Author:** rishabhd  
-**Published:** 8/23/2026, 4:03:46 AM  
-**Categories:** -  
-
-Article URL: https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html Comments URL: https://news.ycombinator.com/item?id=49405966 Points: 11 # Comments: 4
-
-📖 [Read original article](https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html)
-
----
-
-## 12. In 2000, Ted Kaczynski advised against math career due to future AI progress
-
-**Author:** MrBuddyCasino  
-**Published:** 8/23/2026, 3:47:05 AM  
-**Categories:** -  
-
-Article URL: https://twitter.com/subcountability/status/2091164267827327042 Comments URL: https://news.ycombinator.com/item?id=49405904 Points: 4 # Comments: 0
-
-📖 [Read original article](https://twitter.com/subcountability/status/2091164267827327042)
-
----
-
-## 13. AI Power Scaling Cuts Both Ways
-
-**Author:** netbioserror  
-**Published:** 8/23/2026, 3:24:32 AM  
-**Categories:** -  
-
-Article URL: https://nervecenter.github.io/ai_power_scaling_cuts_both_ways.html Comments URL: https://news.ycombinator.com/item?id=49405849 Points: 2 # Comments: 0
-
-📖 [Read original article](https://nervecenter.github.io/ai_power_scaling_cuts_both_ways.html)
-
----
-
-## 14. Show HN: LayoutLens: AI-Powered Visual UI Testing
-
-**Author:** neehao  
-**Published:** 8/23/2026, 2:33:56 AM  
-**Categories:** -  
-
-Article URL: https://github.com/gojiplus/layoutlens Comments URL: https://news.ycombinator.com/item?id=49405683 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/gojiplus/layoutlens)
-
----
-
-## 15. Edify – Windows NLE: OpenFX, proxy editing, AI subs, vtuber tools ($29.99 once)
-
-**Author:** edify_nle  
-**Published:** 8/23/2026, 2:27:20 AM  
-**Categories:** -  
-
-Article URL: https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US Comments URL: https://news.ycombinator.com/item?id=49405662 Points: 2 # Comments: 0
-
-📖 [Read original article](https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US)
-
----
-
-## 16. AI Chip Architectures
-
-**Author:** Finbarr  
-**Published:** 8/23/2026, 2:25:10 AM  
-**Categories:** -  
-
-Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.jepeake.com/ai-chip-architectures)
-
----
-
-## 17. Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?
-
-**Author:** zhuchaokn  
-**Published:** 8/23/2026, 1:45:17 AM  
-**Categories:** -  
-
-I've been puzzled by something: AI generation can produce an elaborate figurine, a cartoon character, even a convincing Super Mario — yet it can't reliably make a simple wedge ramp so my robot vacuum can climb a step. For context: I bought a Bambu P2S but can't model. I tried the "describe it and ge...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49405520)
-
----
-
-## 18. Apple degrades privacy and encryption of iMessage with AI integrations
-
-**Author:** daniel_iversen  
-**Published:** 8/23/2026, 1:41:02 AM  
-**Categories:** -  
-
-Article URL: https://twitter.com/stevemoraco/status/2091194172917338520 Comments URL: https://news.ycombinator.com/item?id=49405505 Points: 9 # Comments: 1
-
-📖 [Read original article](https://twitter.com/stevemoraco/status/2091194172917338520)
-
----
-
-## 19. Treat AI Like an Intern, Not Software: A Stanford Professor's Guide
+## 10. Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling
 
 **Author:** mooreds  
-**Published:** 8/23/2026, 1:31:06 AM  
+**Published:** 8/23/2026, 11:14:58 AM  
 **Categories:** -  
 
-Article URL: https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software Comments URL: https://news.ycombinator.com/item?id=49405473 Points: 3 # Comments: 3
+Article URL: https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/ Comments URL: https://news.ycombinator.com/item?id=49407872 Points: 1 # Comments: 0
 
-📖 [Read original article](https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software)
+📖 [Read original article](https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/)
 
 ---
 
-## 20. Show HN: Agent2Creator – a video social network whose members are AI agents
+## 11. The search for consciousness inside AI
 
-**Author:** abilafredkb  
-**Published:** 8/23/2026, 1:00:10 AM  
+**Author:** pingou  
+**Published:** 8/23/2026, 11:07:51 AM  
 **Categories:** -  
 
-Article URL: https://agent2creator.vidmoat.com Comments URL: https://news.ycombinator.com/item?id=49405354 Points: 3 # Comments: 3
+Article URL: https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms Comments URL: https://news.ycombinator.com/item?id=49407858 Points: 2 # Comments: 3
 
-📖 [Read original article](https://agent2creator.vidmoat.com)
+📖 [Read original article](https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms)
+
+---
+
+## 12. 'AI refuser' quit her dream job, and hopes others follow
+
+**Author:** mcapodici  
+**Published:** 8/23/2026, 10:54:35 AM  
+**Categories:** -  
+
+Article URL: https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html Comments URL: https://news.ycombinator.com/item?id=49407785 Points: 26 # Comments: 30
+
+📖 [Read original article](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+
+---
+
+## 13. AI datasets (2.6k entries) – automated collection, updated daily
+
+**Author:** LegionAPI  
+**Published:** 8/23/2026, 10:30:52 AM  
+**Categories:** -  
+
+Article URL: https://huggingface.co/gemmozero Comments URL: https://news.ycombinator.com/item?id=49407665 Points: 2 # Comments: 0
+
+📖 [Read original article](https://huggingface.co/gemmozero)
+
+---
+
+## 14. US corporate AI debt surge tests investor limits as fatigue emerges
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 8/23/2026, 10:23:45 AM  
+**Categories:** -  
+
+Article URL: https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/ Comments URL: https://news.ycombinator.com/item?id=49407625 Points: 5 # Comments: 1
+
+📖 [Read original article](https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/)
+
+---
+
+## 15. Austrian mountain town [Leoben] finds niche in AI boom
+
+**Author:** mdp2021  
+**Published:** 8/23/2026, 10:21:58 AM  
+**Categories:** -  
+
+Article URL: https://techxplore.com/news/2026-08-austrian-mountain-town-niche-ai.html Comments URL: https://news.ycombinator.com/item?id=49407615 Points: 1 # Comments: 0
+
+📖 [Read original article](https://techxplore.com/news/2026-08-austrian-mountain-town-niche-ai.html)
+
+---
+
+## 16. AI Writing Without the Slop
+
+**Author:** jasfi  
+**Published:** 8/23/2026, 10:00:11 AM  
+**Categories:** -  
+
+Article URL: https://sfactory.dev Comments URL: https://news.ycombinator.com/item?id=49407489 Points: 1 # Comments: 1
+
+📖 [Read original article](https://sfactory.dev)
+
+---
+
+## 17. Show HN: Opensourcing Lemmaflow – A trust harness for AI-native apps
+
+**Author:** udit_50  
+**Published:** 8/23/2026, 9:32:11 AM  
+**Categories:** -  
+
+Hi HN, I am introducing Lemmaflow (https://github.com/lemmaflow/lemmaflow) - an open source harness to build & production applications with trust.We all are using AI to ship applications but most of the time the app itself is not safe for the end user. It might leak data, it might violate GDPR, it m...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49407337)
+
+---
+
+## 18. Anthropic's best AI model struggles to attract users as cheaper tools thrive
+
+**Author:** merksittich  
+**Published:** 8/23/2026, 9:21:44 AM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49407279 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+
+---
+
+## 19. How Is AI Transforming Academic Search?
+
+**Author:** jruohonen  
+**Published:** 8/23/2026, 9:09:54 AM  
+**Categories:** -  
+
+Article URL: https://katinamagazine.org/content/article/resource-advisor/2026/how-is-ai-transforming-academic-search Comments URL: https://news.ycombinator.com/item?id=49407226 Points: 2 # Comments: 0
+
+📖 [Read original article](https://katinamagazine.org/content/article/resource-advisor/2026/how-is-ai-transforming-academic-search)
+
+---
+
+## 20. Every Tech Bubble Obeyed the Same Rule. AI Is Next [video]
+
+**Author:** mgh2  
+**Published:** 8/23/2026, 8:36:11 AM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=KJxfSIvv920 Comments URL: https://news.ycombinator.com/item?id=49407081 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=KJxfSIvv920)
 
 ---
