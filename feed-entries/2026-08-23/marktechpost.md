@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-23"
 date: "2026-08-23"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-08-23
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU
+## 1. Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work
+
+**Author:** Asif Razzaq  
+**Published:** 8/23/2026, 5:51:56 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Embedding Model, Language Model, Large Language Model, Machine Learning, New Releases, OCR, Staff, Tech News, Technology  
+
+Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work appeared first on MarkTechPost.
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/)
+
+---
+
+## 2. Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU
 
 **Author:** Asif Razzaq  
 **Published:** 8/23/2026, 10:44:59 AM  
@@ -23,7 +35,7 @@ FreeToken splits MoE cache misses between PCIe fills and CPU execution using mea
 
 ---
 
-## 2. Building an End-to-End Document Intelligence Pipeline with deepDoctection
+## 3. Building an End-to-End Document Intelligence Pipeline with deepDoctection
 
 **Author:** Sana Hassan  
 **Published:** 8/23/2026, 7:51:22 AM  
@@ -35,7 +47,7 @@ Build an end-to-end document intelligence pipeline with deepDoctection. This tut
 
 ---
 
-## 3. Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks
+## 4. Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks
 
 **Author:** Michal Sutter  
 **Published:** 8/23/2026, 7:37:14 AM  
