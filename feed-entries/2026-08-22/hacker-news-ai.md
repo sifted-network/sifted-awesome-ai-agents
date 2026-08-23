@@ -2,251 +2,203 @@
 title: "Hacker News AI - 2026-08-22"
 date: "2026-08-22"
 source: "Hacker News AI"
-count: 20
+count: 16
 ---
 
 # Hacker News AI - 2026-08-22
 
-20 items collected.
+16 items collected.
 
 ---
 
-## 1. When AI art has no author: Generated images can't trace to training data (study)
+## 1. You don't have to make money with AI. You could just be happier
 
-**Author:** em3rgent0rdr  
-**Published:** 8/22/2026, 5:50:30 PM  
+**Author:** ositowang  
+**Published:** 8/22/2026, 11:59:34 PM  
 **Categories:** -  
 
-Article URL: https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818 Comments URL: https://news.ycombinator.com/item?id=49402040 Points: 3 # Comments: 0
+Article URL: https://hibernation.dev/posts/ai-for-happiness-not-money/ Comments URL: https://news.ycombinator.com/item?id=49405020 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818)
+📖 [Read original article](https://hibernation.dev/posts/ai-for-happiness-not-money/)
 
 ---
 
-## 2. Show HN: TechSkills – Open-source skill modules for AI coding agents
+## 2. AI has failed to win people's trust. Its makers? less trusted
 
-**Author:** debabrata_saha  
-**Published:** 8/22/2026, 5:37:45 PM  
+**Author:** billybuckwheat  
+**Published:** 8/22/2026, 11:30:20 PM  
 **Categories:** -  
 
-Article URL: https://github.com/debabratasaha-dev/techskills Comments URL: https://news.ycombinator.com/item?id=49401893 Points: 2 # Comments: 0
+Article URL: https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted Comments URL: https://news.ycombinator.com/item?id=49404869 Points: 13 # Comments: 1
 
-📖 [Read original article](https://github.com/debabratasaha-dev/techskills)
+📖 [Read original article](https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted)
 
 ---
 
-## 3. Linus Torvalds uses AI to debug an Intel GPU driver bug
+## 3. AI as a Co-Writer
 
-**Author:** asciimoo  
-**Published:** 8/22/2026, 5:06:04 PM  
+**Author:** VolatileRegiste  
+**Published:** 8/22/2026, 11:27:56 PM  
 **Categories:** -  
 
-Article URL: https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c Comments URL: https://news.ycombinator.com/item?id=49401592 Points: 2 # Comments: 0
+Article URL: https://strawberry9.github.io/the-wrong-memory/cover.html Comments URL: https://news.ycombinator.com/item?id=49404856 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
+📖 [Read original article](https://strawberry9.github.io/the-wrong-memory/cover.html)
 
 ---
 
-## 4. An iOS app that runs AI agents and a complete voice pipeline on the device
+## 4. The Real AI Crash Will Start This Year
 
-**Author:** rsandhu  
-**Published:** 8/22/2026, 4:52:38 PM  
+**Author:** samizdis  
+**Published:** 8/22/2026, 11:21:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/hsandhu/agent Comments URL: https://news.ycombinator.com/item?id=49401506 Points: 1 # Comments: 0
+Article URL: https://quoththeraven.substack.com/p/the-real-ai-crash-will-start-this Comments URL: https://news.ycombinator.com/item?id=49404815 Points: 4 # Comments: 2
 
-📖 [Read original article](https://github.com/hsandhu/agent)
+📖 [Read original article](https://quoththeraven.substack.com/p/the-real-ai-crash-will-start-this)
 
 ---
 
-## 5. Show HN: Git workflow as an AI-agent skill
+## 5. Show HN: MacAIApps – a directory of AI-powered Mac apps
 
-**Author:** MusoyanGrigor  
-**Published:** 8/22/2026, 4:50:30 PM  
+**Author:** sujee  
+**Published:** 8/22/2026, 11:05:32 PM  
 **Categories:** -  
 
-Article URL: https://github.com/musoyangrigor/gitx-skill Comments URL: https://news.ycombinator.com/item?id=49401487 Points: 1 # Comments: 0
+I love discovering Mac apps that use AI, so I built MacAIApps to collect them in one place.You can browse by category and find apps you might otherwise miss. Comments URL: https://news.ycombinator.com/item?id=49404725 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/musoyangrigor/gitx-skill)
+📖 [Read original article](https://www.macaiapps.com/)
 
 ---
 
-## 6. Show HN: I turned Apple-style scroll-video websites into a reusable AI skill
+## 6. Quiet on set. How AI transformed China's microdrama scene
 
-**Author:** MusoyanGrigor  
-**Published:** 8/22/2026, 4:47:58 PM  
+**Author:** T-A  
+**Published:** 8/22/2026, 10:39:38 PM  
 **Categories:** -  
 
-Article URL: https://github.com/musoyangrigor/scroll-video-website-skill Comments URL: https://news.ycombinator.com/item?id=49401459 Points: 2 # Comments: 0
+Article URL: https://www.cnn.com/2026/08/22/style/short-drama-ai-china-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49404556 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/musoyangrigor/scroll-video-website-skill)
+📖 [Read original article](https://www.cnn.com/2026/08/22/style/short-drama-ai-china-intl-hnk)
 
 ---
 
-## 7. Hotcrp.com – AI agents and bot accounts
+## 7. How much is crawling your content worth to an AI bot?
 
-**Author:** sneela  
-**Published:** 8/22/2026, 4:46:22 PM  
+**Author:** hhs  
+**Published:** 8/22/2026, 10:35:45 PM  
 **Categories:** -  
 
-Article URL: https://hotcrp.com/news/2026/ai-agents-202608 Comments URL: https://news.ycombinator.com/item?id=49401443 Points: 3 # Comments: 0
+Article URL: https://insights.som.yale.edu/insights/how-much-is-crawling-your-content-worth-to-an-ai-bot Comments URL: https://news.ycombinator.com/item?id=49404527 Points: 2 # Comments: 0
 
-📖 [Read original article](https://hotcrp.com/news/2026/ai-agents-202608)
+📖 [Read original article](https://insights.som.yale.edu/insights/how-much-is-crawling-your-content-worth-to-an-ai-bot)
 
 ---
 
-## 8. Show HN: Namo_complete: a non-obtrusive AI autocomplete for the bash terminal
+## 8. People vs. the AI Overlords
 
-**Author:** davidwbrwn  
-**Published:** 8/22/2026, 4:44:53 PM  
+**Author:** edward  
+**Published:** 8/22/2026, 10:32:42 PM  
 **Categories:** -  
 
-I created this simple AI autocomplete tool for the bash terminal. I'm sure many like it exist already, but unlike the others this one does not completely hijack your terminal and stays mostly out of the way. Contributions/feedback are welcome. One other interesting thing about it is that it's writte...
+Article URL: https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/ Comments URL: https://news.ycombinator.com/item?id=49404509 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/namo-robotics/namo_complete)
+📖 [Read original article](https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/)
 
 ---
 
-## 9. Ask HN: If you dislike AI, why don't you prove it?
+## 9. AI Made Me Faster. I'm Not Sure It Made Me Better
 
-**Author:** SuboptimalEng  
-**Published:** 8/22/2026, 4:28:27 PM  
+**Author:** raynchad  
+**Published:** 8/22/2026, 10:05:01 PM  
 **Categories:** -  
 
-I've seen so many people who absolutely hate AI, and want AI companies to fail, but then 2 seconds later, open up the coding tool made by frontier labs and willingly hand them money.Just recently convinced one of them to move away from the frontier lab lock-in to OpenCode and switch between models. ...
+Article URL: https://medium.com/freedomofthought/ai-made-me-faster-im-not-sure-it-made-me-better-b7f78db7fc66 Comments URL: https://news.ycombinator.com/item?id=49404320 Points: 5 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49401293)
+📖 [Read original article](https://medium.com/freedomofthought/ai-made-me-faster-im-not-sure-it-made-me-better-b7f78db7fc66)
 
 ---
 
-## 10. Anthropic IPO filing will show AI backlash as a risk factor, sources say
+## 10. The crisis of AI-generated mathematics
 
-**Author:** newsomix9xl  
-**Published:** 8/22/2026, 4:23:09 PM  
+**Author:** mad  
+**Published:** 8/22/2026, 10:04:49 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html Comments URL: https://news.ycombinator.com/item?id=49401229 Points: 32 # Comments: 51
+Article URL: https://arxiv.org/abs/2608.02859 Comments URL: https://news.ycombinator.com/item?id=49404317 Points: 5 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+📖 [Read original article](https://arxiv.org/abs/2608.02859)
 
 ---
 
-## 11. Fintex on X: \"The Math of Why Bigger AI Keeps Getting Smarter (Scaling Laws)
+## 11. Twitch content has trained Amazon AI for years, but users can opt out now
 
-**Author:** bilsbie  
-**Published:** 8/22/2026, 4:18:10 PM  
+**Author:** vuvko  
+**Published:** 8/22/2026, 9:59:05 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/_yusufknl/status/2090429393139097948 Comments URL: https://news.ycombinator.com/item?id=49401194 Points: 2 # Comments: 0
+Article URL: https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/ Comments URL: https://news.ycombinator.com/item?id=49404271 Points: 2 # Comments: 0
 
-📖 [Read original article](https://twitter.com/_yusufknl/status/2090429393139097948)
+📖 [Read original article](https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/)
 
 ---
 
-## 12. AI and Chauffeur Knowledge
+## 12. Contra Anthropic: AI is not 'structurally' centralizing
 
-**Author:** aarongray  
-**Published:** 8/22/2026, 4:11:50 PM  
+**Author:** theahura  
+**Published:** 8/22/2026, 9:40:37 PM  
 **Categories:** -  
 
-Article URL: https://www.aaron-gray.com/ai-and-chauffeur-knowledge/ Comments URL: https://news.ycombinator.com/item?id=49401131 Points: 1 # Comments: 0
+Article URL: https://12gramsofcarbon.com/p/is-ai-structurally-a-centralizing Comments URL: https://news.ycombinator.com/item?id=49404134 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.aaron-gray.com/ai-and-chauffeur-knowledge/)
+📖 [Read original article](https://12gramsofcarbon.com/p/is-ai-structurally-a-centralizing)
 
 ---
 
-## 13. Show HN: AI as Cognitive Gym Equipment
+## 13. Linux Network Developers Are ‘Completely Overwhelmed’ by AI Agents :)
 
-**Author:** ersinesen  
-**Published:** 8/22/2026, 3:58:02 PM  
+**Author:** mashally  
+**Published:** 8/22/2026, 9:39:39 PM  
 **Categories:** -  
 
-Why AI assistance should be judged by what it does to your future thinking, not just your next answer Comments URL: https://news.ycombinator.com/item?id=49401004 Points: 1 # Comments: 0
+Article URL: https://www.phoronix.com/news/Linux-7.3-Networking Comments URL: https://news.ycombinator.com/item?id=49404124 Points: 3 # Comments: 0
 
-📖 [Read original article](https://bookerapp.replit.app/book/ai-cognitive-gym/ai-as-cognitive-gym-equipment)
+📖 [Read original article](https://www.phoronix.com/news/Linux-7.3-Networking)
 
 ---
 
-## 14. Show HN: Find and Organize Photos with Private, Local AI
+## 14. The importance of teaching students what AI can't do
 
-**Author:** ringlochid  
-**Published:** 8/22/2026, 2:59:49 PM  
+**Author:** billybuckwheat  
+**Published:** 8/22/2026, 9:06:27 PM  
 **Categories:** -  
 
-Article URL: https://ringlochid.me/imagesage/index.html Comments URL: https://news.ycombinator.com/item?id=49400459 Points: 3 # Comments: 0
+Article URL: https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100 Comments URL: https://news.ycombinator.com/item?id=49403885 Points: 6 # Comments: 0
 
-📖 [Read original article](https://ringlochid.me/imagesage/index.html)
+📖 [Read original article](https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100)
 
 ---
 
-## 15. Claude Watermarks AI-Generated Text
+## 15. Domain Driven AI
 
-**Author:** vismit2000  
-**Published:** 8/22/2026, 2:45:00 PM  
+**Author:** iforgotemailpwd  
+**Published:** 8/22/2026, 7:42:19 PM  
 **Categories:** -  
 
-Article URL: https://magazine.sebastianraschka.com/p/claude-watermarking Comments URL: https://news.ycombinator.com/item?id=49400307 Points: 1 # Comments: 0
+Article URL: https://pedromadruga.com/blog/domain-driven-ai/ Comments URL: https://news.ycombinator.com/item?id=49403103 Points: 2 # Comments: 1
 
-📖 [Read original article](https://magazine.sebastianraschka.com/p/claude-watermarking)
+📖 [Read original article](https://pedromadruga.com/blog/domain-driven-ai/)
 
 ---
 
-## 16. AI agents merged two dangers once kept separate: reach and judgment
+## 16. Retailers Want AI to Solve Online Shopping's Biggest Problem
 
-**Author:** zerolayers  
-**Published:** 8/22/2026, 2:35:46 PM  
+**Author:** thm  
+**Published:** 8/22/2026, 7:26:57 PM  
 **Categories:** -  
 
-Article URL: https://syntheticauth.ai/posts/agent-nation-03-the-threshold Comments URL: https://news.ycombinator.com/item?id=49400211 Points: 3 # Comments: 1
+Article URL: https://www.bloomberg.com/news/articles/2026-08-21/zalando-zara-use-ai-virtual-try-ons-to-tackle-clothing-returns Comments URL: https://news.ycombinator.com/item?id=49402978 Points: 2 # Comments: 0
 
-📖 [Read original article](https://syntheticauth.ai/posts/agent-nation-03-the-threshold)
-
----
-
-## 17. 80% of developers find AI coding more addictive than helpful
-
-**Author:** theanonymousone  
-**Published:** 8/22/2026, 2:14:30 PM  
-**Categories:** -  
-
-Article URL: https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/ Comments URL: https://news.ycombinator.com/item?id=49399954 Points: 9 # Comments: 0
-
-📖 [Read original article](https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/)
-
----
-
-## 18. Digging the grave of my skills: Hollywood creatives training AI to do their jobs
-
-**Author:** theanonymousone  
-**Published:** 8/22/2026, 2:13:05 PM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 46 # Comments: 61
-
-📖 [Read original article](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
-
----
-
-## 19. Going out of my way to prove I'm not an AI – Ep. #1 – OG images
-
-**Author:** Doncametic  
-**Published:** 8/22/2026, 2:03:09 PM  
-**Categories:** -  
-
-Article URL: https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images Comments URL: https://news.ycombinator.com/item?id=49399851 Points: 2 # Comments: 6
-
-📖 [Read original article](https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images)
-
----
-
-## 20. Show HN: I make my AI agents file paperwork before they're allowed to code
-
-**Author:** kidustiliksew  
-**Published:** 8/22/2026, 2:01:46 PM  
-**Categories:** -  
-
-Article URL: https://github.com/kidus-tiliksew/conveyor Comments URL: https://news.ycombinator.com/item?id=49399837 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/kidus-tiliksew/conveyor)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-21/zalando-zara-use-ai-virtual-try-ons-to-tackle-clothing-returns)
 
 ---
