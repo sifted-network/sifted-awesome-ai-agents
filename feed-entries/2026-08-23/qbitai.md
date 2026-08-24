@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-23"
 date: "2026-08-23"
 source: "qbitai"
-count: 5
+count: 3
 ---
 
 # qbitai - 2026-08-23
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ Tim和胡彦斌亲自颁奖
 香港的大学里冒出了一批很特别的人
 
 📖 [Read original article](https://www.qbitai.com/2026/08/478289.html)
-
----
-
-## 4. 他给了王兴兴第一个200万，现在给下一个「宇树」当董事长
-
-**Author:** Jay  
-**Published:** 8/23/2026, 11:17:22 AM  
-**Categories:** 资讯  
-
-多多支持像王兴兴这样优秀的具身机器人创业者
-
-📖 [Read original article](https://www.qbitai.com/2026/08/478234.html)
-
----
-
-## 5. 匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的
-
-**Author:** 衡宇  
-**Published:** 8/23/2026, 9:56:12 AM  
-**Categories:** 资讯, 多模态, 牛来大模型, 超长上下文  
-
-Tokenizer、视频编码、API报错全扒一遍
-
-📖 [Read original article](https://www.qbitai.com/2026/08/478191.html)
 
 ---
