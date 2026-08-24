@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-23"
 date: "2026-08-23"
 source: "qbitai"
-count: 10
+count: 7
 ---
 
 # qbitai - 2026-08-23
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ Tokenizer、视频编码、API报错全扒一遍
 AstraTennis时刻背后的硬核技术
 
 📖 [Read original article](https://www.qbitai.com/2026/08/478093.html)
-
----
-
-## 8. 不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑
-
-**Author:** 衡宇  
-**Published:** 8/23/2026, 9:29:59 AM  
-**Categories:** 资讯, 首页轮播, 共生知行, 具身智能  
-
-机器人开卡丁车连续过弯，一镜到底全自主
-
-📖 [Read original article](https://www.qbitai.com/2026/08/478020.html)
-
----
-
-## 9. 你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕
-
-**Author:** 量子位的朋友们  
-**Published:** 8/23/2026, 7:17:41 AM  
-**Categories:** 资讯, 上纬新材  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/08/478017.html)
-
----
-
-## 10. 从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动
-
-**Author:** 量子位的朋友们  
-**Published:** 8/23/2026, 7:12:22 AM  
-**Categories:** 资讯, 无界动力  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/08/478007.html)
 
 ---
