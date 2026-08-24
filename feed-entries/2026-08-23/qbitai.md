@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-23"
 date: "2026-08-23"
 source: "qbitai"
-count: 7
+count: 5
 ---
 
 # qbitai - 2026-08-23
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Tim和胡彦斌亲自颁奖
 Tokenizer、视频编码、API报错全扒一遍
 
 📖 [Read original article](https://www.qbitai.com/2026/08/478191.html)
-
----
-
-## 6. 英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元
-
-**Author:** 衡宇  
-**Published:** 8/23/2026, 9:51:49 AM  
-**Categories:** 资讯, AI服务器, 内存, 英伟达  
-
-内存成本飙升逼涨硬件
-
-📖 [Read original article](https://www.qbitai.com/2026/08/478164.html)
-
----
-
-## 7. 全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起
-
-**Author:** 衡宇  
-**Published:** 8/23/2026, 9:45:27 AM  
-**Categories:** 资讯, 首页轮播, 具身智能, 物理AI, 网球, 银河通用  
-
-AstraTennis时刻背后的硬核技术
-
-📖 [Read original article](https://www.qbitai.com/2026/08/478093.html)
 
 ---
