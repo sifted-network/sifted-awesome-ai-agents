@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-24"
 date: "2026-08-24"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-08-24
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo
+## 1. Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction
+
+**Author:** Michal Sutter  
+**Published:** 8/24/2026, 10:21:22 PM  
+**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Software Engineering, Staff, Tech News, Technology  
+
+Fastino released GLiNER2.5, replacing span enumeration with boundary prediction so entity width no longer costs compute. Three Apache 2.0 checkpoints ship at 74M, 194M, and 287M parameters, all CPU-runnable. The release adds joint entity-relation decoding, constrained classification, span attributes...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/)
+
+---
+
+## 2. Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo
 
 **Author:** Asif Razzaq  
 **Published:** 8/24/2026, 2:17:01 PM  
@@ -23,7 +35,7 @@ Generalist AI has released GEN-1.5, a robot foundation model that learns a new p
 
 ---
 
-## 2. Google Research Introduces ME-POIs: A Mobility-Informed Framework that Adds “How a Place Is Used” to Text-Based POI Embeddings
+## 3. Google Research Introduces ME-POIs: A Mobility-Informed Framework that Adds “How a Place Is Used” to Text-Based POI Embeddings
 
 **Author:** Michal Sutter  
 **Published:** 8/24/2026, 1:56:59 PM  
@@ -35,7 +47,7 @@ framework that folds aggregate human movement into text-based place embeddings. 
 
 ---
 
-## 3. Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power
+## 4. Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power
 
 **Author:** Asif Razzaq  
 **Published:** 8/24/2026, 5:26:43 AM  
@@ -47,7 +59,7 @@ The five largest GPU neoclouds now run on very different models. CoreWeave and N
 
 ---
 
-## 4. Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation
+## 5. Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation
 
 **Author:** Sana Hassan  
 **Published:** 8/24/2026, 3:32:30 AM  
