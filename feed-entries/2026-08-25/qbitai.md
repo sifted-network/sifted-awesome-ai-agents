@@ -2,16 +2,64 @@
 title: "qbitai - 2026-08-25"
 date: "2026-08-25"
 source: "qbitai"
-count: 8
+count: 10
 ---
 
 # qbitai - 2026-08-25
 
-8 items collected.
+10 items collected.
 
 ---
 
-## 1. 赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”
+## 1. 从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划
+
+**Author:** 量子位的朋友们  
+**Published:** 8/25/2026, 9:31:16 AM  
+**Categories:** 资讯, 范式  
+
+近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。
+
+📖 [Read original article](https://www.qbitai.com/2026/08/479314.html)
+
+---
+
+## 2. 开源国产8B模型，比肩闭源Image 2了！
+
+**Author:** 十三  
+**Published:** 8/25/2026, 6:53:26 AM  
+**Categories:** 资讯, SenseNova U1.5 Lite, 商汤科技  
+
+SenseNova U1.5 Lite
+
+📖 [Read original article](https://www.qbitai.com/2026/08/479192.html)
+
+---
+
+## 3. 半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司
+
+**Author:** 允中  
+**Published:** 8/25/2026, 6:39:51 AM  
+**Categories:** 资讯, 首页轮播, 机器人  
+
+字节、汇川等已入股未来不远机器人最新一轮融资
+
+📖 [Read original article](https://www.qbitai.com/2026/08/479132.html)
+
+---
+
+## 4. AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project
+
+**Author:** 闻乐  
+**Published:** 8/25/2026, 5:48:05 AM  
+**Categories:** 资讯, AI科研, 紫东太初  
+
+AI科研能力从工具级转向系统级
+
+📖 [Read original article](https://www.qbitai.com/2026/08/479096.html)
+
+---
+
+## 5. 赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”
 
 **Author:** henry  
 **Published:** 8/25/2026, 5:20:50 AM  
@@ -23,7 +71,7 @@ count: 8
 
 ---
 
-## 2. 王虹合作者获奖！科学探索奖2026年度获奖名单公布
+## 6. 王虹合作者获奖！科学探索奖2026年度获奖名单公布
 
 **Author:** henry  
 **Published:** 8/25/2026, 5:15:23 AM  
@@ -35,7 +83,7 @@ count: 8
 
 ---
 
-## 3. 人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机
+## 7. 人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机
 
 **Author:** 量子位的朋友们  
 **Published:** 8/25/2026, 4:08:21 AM  
@@ -47,7 +95,7 @@ count: 8
 
 ---
 
-## 4. WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求
+## 8. WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求
 
 **Author:** 量子位的朋友们  
 **Published:** 8/25/2026, 4:06:18 AM  
@@ -59,7 +107,7 @@ count: 8
 
 ---
 
-## 5. 具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜
+## 9. 具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜
 
 **Author:** Jay  
 **Published:** 8/25/2026, 2:22:01 AM  
@@ -71,7 +119,7 @@ count: 8
 
 ---
 
-## 6. VC开始靠AI预测未来了
+## 10. VC开始靠AI预测未来了
 
 **Author:** 思邈  
 **Published:** 8/25/2026, 2:16:43 AM  
@@ -80,29 +128,5 @@ count: 8
 FutureX榜单前十占了仨
 
 📖 [Read original article](https://www.qbitai.com/2026/08/478774.html)
-
----
-
-## 7. WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线
-
-**Author:** 量子位的朋友们  
-**Published:** 8/25/2026, 1:46:56 AM  
-**Categories:** 资讯, 生数科技  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/08/478690.html)
-
----
-
-## 8. ResNet作者任少卿机器人创业！公司注册就独角兽了
-
-**Author:** 鱼羊  
-**Published:** 8/25/2026, 12:35:54 AM  
-**Categories:** 资讯, 任少卿, 蔚来  
-
-虽然明确机器人创业，但依然在职蔚来
-
-📖 [Read original article](https://www.qbitai.com/2026/08/478675.html)
 
 ---
