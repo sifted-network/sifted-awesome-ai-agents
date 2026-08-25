@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Recent public co filings analyzed: AI not generating profit yet
+## 1. Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training
 
-**Author:** epsteingpt  
-**Published:** 8/25/2026, 12:24:59 PM  
+**Author:** sebg  
+**Published:** 8/25/2026, 6:29:18 PM  
 **Categories:** -  
 
-Article URL: https://aiearnings.dev/ Comments URL: https://news.ycombinator.com/item?id=49432761 Points: 4 # Comments: 1
+Article URL: https://aiandeducation.mit.edu/ Comments URL: https://news.ycombinator.com/item?id=49438466 Points: 2 # Comments: 0
 
-📖 [Read original article](https://aiearnings.dev/)
+📖 [Read original article](https://aiandeducation.mit.edu/)
 
 ---
 
-## 2. When AI Writes the Code, Verification Is the New Implementation
+## 2. AI Grinding for Fun and Cryptanalysis
 
-**Author:** TheSorcerer  
-**Published:** 8/25/2026, 12:15:16 PM  
+**Author:** lknik  
+**Published:** 8/25/2026, 6:28:55 PM  
 **Categories:** -  
 
-Article URL: https://sarpex.com/2026/08-verification-is-the-new-implementation Comments URL: https://news.ycombinator.com/item?id=49432639 Points: 1 # Comments: 0
+Article URL: https://arxiv.org/abs/2608.21986 Comments URL: https://news.ycombinator.com/item?id=49438458 Points: 2 # Comments: 0
 
-📖 [Read original article](https://sarpex.com/2026/08-verification-is-the-new-implementation)
+📖 [Read original article](https://arxiv.org/abs/2608.21986)
 
 ---
 
-## 3. Run manual QA test cases in a real browser with an AI agent
+## 3. Show HN: Dribbling the AI Watermark Directly In-Prompt
 
-**Author:** Muhammad-21  
-**Published:** 8/25/2026, 12:07:07 PM  
+**Author:** jejay  
+**Published:** 8/25/2026, 6:24:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/broxhq/qpilot Comments URL: https://news.ycombinator.com/item?id=49432514 Points: 1 # Comments: 0
+Article URL: https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly Comments URL: https://news.ycombinator.com/item?id=49438392 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/broxhq/qpilot)
+📖 [Read original article](https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly)
 
 ---
 
-## 4. Show HN: Prelo – a WordPress-style admin for AI-built sites
+## 4. Kids outlearn AI–and we still don't know why
 
-**Author:** kaaberma  
-**Published:** 8/25/2026, 12:06:13 PM  
+**Author:** speckx  
+**Published:** 8/25/2026, 6:23:53 PM  
 **Categories:** -  
 
-Article URL: https://www.prelo.dev/ Comments URL: https://news.ycombinator.com/item?id=49432499 Points: 1 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/ Comments URL: https://news.ycombinator.com/item?id=49438388 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.prelo.dev/)
+📖 [Read original article](https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/)
 
 ---
 
-## 5. Show HN: Neither HTML nor Markdown is enough: a way out of the AI doc dilemma
+## 5. MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training
 
-**Author:** xiongjy2104  
-**Published:** 8/25/2026, 12:02:03 PM  
+**Author:** reuven  
+**Published:** 8/25/2026, 6:14:03 PM  
 **Categories:** -  
 
-A recent post from Anthropic's Claude Code team ("The Unreasonable Effectiveness of HTML", https://thariqs.github.io/html-effectiveness/) argued that with today's context windows the bottleneck is human attention — rich HTML for decision surfaces, Markdown for durable records. That split makes sense...
+Article URL: https://aiandeducation.mit.edu/report/ Comments URL: https://news.ycombinator.com/item?id=49438217 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49432443)
+📖 [Read original article](https://aiandeducation.mit.edu/report/)
 
 ---
 
-## 6. Show HN: Unlose – Windows VSS snapshots before your AI agent deletes your files
+## 6. AI Book Scanning: Just What Is a Rare Book?
 
-**Author:** unlose  
-**Published:** 8/25/2026, 12:01:04 PM  
+**Author:** beardyw  
+**Published:** 8/25/2026, 6:07:28 PM  
 **Categories:** -  
 
-Article URL: https://github.com/unlose-app/unlose Comments URL: https://news.ycombinator.com/item?id=49432434 Points: 1 # Comments: 0
+Article URL: https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/ Comments URL: https://news.ycombinator.com/item?id=49438120 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/unlose-app/unlose)
+📖 [Read original article](https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/)
 
 ---
 
-## 7. We built a structured entity graph for an AI agent. Then we removed most of it
+## 7. AI Firms Debate Putting Cyber Tests Online After Model Hacks
 
-**Author:** matthieu_bl  
-**Published:** 8/25/2026, 11:42:59 AM  
+**Author:** sbulaev  
+**Published:** 8/25/2026, 6:07:06 PM  
 **Categories:** -  
 
-Article URL: https://blog.getcassis.com/context-engineering-for-analytics-agents/ Comments URL: https://news.ycombinator.com/item?id=49432253 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555 Comments URL: https://news.ycombinator.com/item?id=49438117 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.getcassis.com/context-engineering-for-analytics-agents/)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555)
 
 ---
 
-## 8. An Interesting AI Educational Animation Generator
+## 8. AI Takeover at GopherCon 2026
 
-**Author:** redreamality  
-**Published:** 8/25/2026, 11:36:25 AM  
+**Author:** deadprogram  
+**Published:** 8/25/2026, 6:06:20 PM  
 **Categories:** -  
 
-Article URL: https://fogsight.ai Comments URL: https://news.ycombinator.com/item?id=49432188 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=Pny5TFP2r3U Comments URL: https://news.ycombinator.com/item?id=49438105 Points: 4 # Comments: 0
 
-📖 [Read original article](https://fogsight.ai)
+📖 [Read original article](https://www.youtube.com/watch?v=Pny5TFP2r3U)
 
 ---
 
-## 9. SEC reportedly subpoenas Wall St banks over AI hedge fund Situational Awareness
+## 9. AI and education: A watershed moment for MIT
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 8/25/2026, 11:20:26 AM  
+**Author:** tracyhenry  
+**Published:** 8/25/2026, 5:59:55 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html Comments URL: https://news.ycombinator.com/item?id=49432014 Points: 2 # Comments: 0
+Article URL: https://orgchart.mit.edu/letters/ai-and-education-watershed-moment-mit Comments URL: https://news.ycombinator.com/item?id=49438025 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html)
+📖 [Read original article](https://orgchart.mit.edu/letters/ai-and-education-watershed-moment-mit)
 
 ---
 
-## 10. We Use AI at Stalwart
+## 10. AI Contracts Are Quietly Becoming the Best Product Documentation
 
-**Author:** shaunpud  
-**Published:** 8/25/2026, 11:18:51 AM  
+**Author:** petethomas  
+**Published:** 8/25/2026, 5:52:43 PM  
 **Categories:** -  
 
-Article URL: https://stalw.art/blog/how-we-use-ai/ Comments URL: https://news.ycombinator.com/item?id=49431989 Points: 1 # Comments: 0
+Article URL: https://abovethelaw.com/2026/08/ai-contracts-are-quietly-becoming-the-best-product-documentation/ Comments URL: https://news.ycombinator.com/item?id=49437904 Points: 1 # Comments: 0
 
-📖 [Read original article](https://stalw.art/blog/how-we-use-ai/)
+📖 [Read original article](https://abovethelaw.com/2026/08/ai-contracts-are-quietly-becoming-the-best-product-documentation/)
 
 ---
 
-## 11. America's immigration policy is driving away future AI leaders
+## 11. Software Firms Deploy Bluster and Buybacks to Counter AI Fears
 
-**Author:** pseudolus  
-**Published:** 8/25/2026, 11:14:25 AM  
+**Author:** toomuchtodo  
+**Published:** 8/25/2026, 5:14:16 PM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/us-immigration-rules-ai-talent-china/ Comments URL: https://news.ycombinator.com/item?id=49431949 Points: 4 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-08-21/salesforce-servicenow-fight-ai-fears-with-buybacks-and-bluster Comments URL: https://news.ycombinator.com/item?id=49437365 Points: 1 # Comments: 1
 
-📖 [Read original article](https://restofworld.org/2026/us-immigration-rules-ai-talent-china/)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-21/salesforce-servicenow-fight-ai-fears-with-buybacks-and-bluster)
 
 ---
 
-## 12. KAR AI
+## 12. AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers
 
-**Author:** nikolaskorakian  
-**Published:** 8/25/2026, 11:13:34 AM  
+**Author:** speckx  
+**Published:** 8/25/2026, 5:12:34 PM  
 **Categories:** -  
 
-Article URL: https://karautoresearch.com/ Comments URL: https://news.ycombinator.com/item?id=49431935 Points: 1 # Comments: 0
+Article URL: https://www.phoronix.com/news/AI-DoS-Attack-Maintainers Comments URL: https://news.ycombinator.com/item?id=49437339 Points: 4 # Comments: 1
 
-📖 [Read original article](https://karautoresearch.com/)
+📖 [Read original article](https://www.phoronix.com/news/AI-DoS-Attack-Maintainers)
 
 ---
 
-## 13. AI Makes Better Software
+## 13. The AI Hater's Manifesto
 
-**Author:** czottmann  
-**Published:** 8/25/2026, 10:47:39 AM  
+**Author:** crescit_eundo  
+**Published:** 8/25/2026, 5:07:51 PM  
 **Categories:** -  
 
-Article URL: https://www.hmans.dev/blog/ai-makes-better-software Comments URL: https://news.ycombinator.com/item?id=49431667 Points: 8 # Comments: 2
+Article URL: https://www.wheresyoured.at/the-ai-haters-manifesto/ Comments URL: https://news.ycombinator.com/item?id=49437277 Points: 16 # Comments: 4
 
-📖 [Read original article](https://www.hmans.dev/blog/ai-makes-better-software)
+📖 [Read original article](https://www.wheresyoured.at/the-ai-haters-manifesto/)
 
 ---
 
-## 14. Why Your Boss Wants to Make Sure AI Can Read Your Slack Messages
+## 14. The AI-coding stack: a map for a landscape that won't sit still
 
-**Author:** cebert  
-**Published:** 8/25/2026, 10:47:34 AM  
+**Author:** mineti  
+**Published:** 8/25/2026, 5:06:06 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/why-your-boss-wants-to-make-sure-ai-can-read-your-slack-messages-b6c149c1 Comments URL: https://news.ycombinator.com/item?id=49431665 Points: 1 # Comments: 1
+Article URL: https://mineti.dev/articles/the-ai-coding-stack/ Comments URL: https://news.ycombinator.com/item?id=49437250 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/why-your-boss-wants-to-make-sure-ai-can-read-your-slack-messages-b6c149c1)
+📖 [Read original article](https://mineti.dev/articles/the-ai-coding-stack/)
 
 ---
 
-## 15. Cortex – Local context retrieval for AI coding agents
+## 15. Meta's custom transport protocol embraces packet chaos to boost AI throughput
 
-**Author:** dannepanne  
-**Published:** 8/25/2026, 10:45:53 AM  
+**Author:** oavioklein  
+**Published:** 8/25/2026, 5:02:50 PM  
 **Categories:** -  
 
-Article URL: https://github.com/DanielBlomma/cortex Comments URL: https://news.ycombinator.com/item?id=49431653 Points: 1 # Comments: 0
+Article URL: https://www.sdxcentral.com/news/metas-custom-transport-protocol-embraces-packet-chaos-to-boost-ai-throughput/ Comments URL: https://news.ycombinator.com/item?id=49437211 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/DanielBlomma/cortex)
+📖 [Read original article](https://www.sdxcentral.com/news/metas-custom-transport-protocol-embraces-packet-chaos-to-boost-ai-throughput/)
 
 ---
 
-## 16. 200B Tokens Later: A Month of Letting AI Agents Decompile MW2
+## 16. The Download: smarter AI in schools, and a robot \"carnival\" in Shanghai
 
-**Author:** Gander5739  
-**Published:** 8/25/2026, 10:38:04 AM  
+**Author:** joozio  
+**Published:** 8/25/2026, 5:02:23 PM  
 **Categories:** -  
 
-Article URL: https://momo5502.com/posts/2026-08-17-mw2-decompilation/ Comments URL: https://news.ycombinator.com/item?id=49431593 Points: 2 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/ Comments URL: https://news.ycombinator.com/item?id=49437203 Points: 2 # Comments: 0
 
-📖 [Read original article](https://momo5502.com/posts/2026-08-17-mw2-decompilation/)
+📖 [Read original article](https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/)
 
 ---
 
-## 17. We open-sourced Myli: a harness for AI design agents
+## 17. AI payment rails exist. The rules for dividing value do not (SSRN 7321561)
 
-**Author:** yelboudouri  
-**Published:** 8/25/2026, 10:20:00 AM  
+**Author:** MECIP_Protocol  
+**Published:** 8/25/2026, 4:59:42 PM  
 **Categories:** -  
 
-Article URL: https://github.com/EightPotions/Myli Comments URL: https://news.ycombinator.com/item?id=49431443 Points: 1 # Comments: 0
+Article URL: https://ssrn.com/abstract=7321561 Comments URL: https://news.ycombinator.com/item?id=49437169 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/EightPotions/Myli)
+📖 [Read original article](https://ssrn.com/abstract=7321561)
 
 ---
 
-## 18. Show HN: SkillPreflight – score AI agent skills before installing them
+## 18. The AI Trade Is Becoming a Macro Trade
 
-**Author:** 807092862  
-**Published:** 8/25/2026, 10:08:13 AM  
+**Author:** cl42  
+**Published:** 8/25/2026, 4:55:57 PM  
 **Categories:** -  
 
-Article URL: https://github.com/agent-contracts/skill-preflight Comments URL: https://news.ycombinator.com/item?id=49431357 Points: 1 # Comments: 0
+Article URL: https://www.emergingtrajectories.com/lh/ai-trade-is-macro/ Comments URL: https://news.ycombinator.com/item?id=49437110 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/agent-contracts/skill-preflight)
+📖 [Read original article](https://www.emergingtrajectories.com/lh/ai-trade-is-macro/)
 
 ---
 
-## 19. Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026
+## 19. Portable Computer is Perplexity's new local AI agent – why it's a game changer
 
-**Author:** rbanffy  
-**Published:** 8/25/2026, 9:52:58 AM  
+**Author:** DGAP  
+**Published:** 8/25/2026, 4:35:30 PM  
 **Categories:** -  
 
-Article URL: https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/ Comments URL: https://news.ycombinator.com/item?id=49431268 Points: 3 # Comments: 0
+Article URL: https://www.zdnet.com/article/portable-computer-perplexity-local-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=49436783 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/)
+📖 [Read original article](https://www.zdnet.com/article/portable-computer-perplexity-local-ai-agent/)
 
 ---
 
-## 20. Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground
+## 20. An AI travel guide where the ranking is a deterministic engine, not an LLM
 
-**Author:** doener  
-**Published:** 8/25/2026, 9:50:22 AM  
+**Author:** mtantow  
+**Published:** 8/25/2026, 4:30:22 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545 Comments URL: https://news.ycombinator.com/item?id=49431231 Points: 3 # Comments: 1
+Article URL: https://appricio.com/ Comments URL: https://news.ycombinator.com/item?id=49436701 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545)
+📖 [Read original article](https://appricio.com/)
 
 ---
