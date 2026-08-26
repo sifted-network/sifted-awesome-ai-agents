@@ -2,16 +2,64 @@
 title: "qbitai - 2026-08-26"
 date: "2026-08-26"
 source: "qbitai"
-count: 6
+count: 10
 ---
 
 # qbitai - 2026-08-26
 
-6 items collected.
+10 items collected.
 
 ---
 
-## 1. 刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》
+## 1. AI视频应用井喷，美图打开新的增长空间
+
+**Author:** 量子位的朋友们  
+**Published:** 8/26/2026, 10:18:10 AM  
+**Categories:** 资讯, 美图  
+
+从图像到视频，美图找到了一门更赚钱的生意
+
+📖 [Read original article](https://www.qbitai.com/2026/08/479895.html)
+
+---
+
+## 2. 小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势
+
+**Author:** henry  
+**Published:** 8/26/2026, 10:17:15 AM  
+**Categories:** 资讯, AI, 小宇宙  
+
+AI内容创作者增长187%，相关节目数量增长239%
+
+📖 [Read original article](https://www.qbitai.com/2026/08/479811.html)
+
+---
+
+## 3. 硅谷今日最热具身模型！不用后训练，看一遍就学会
+
+**Author:** henry  
+**Published:** 8/26/2026, 10:07:09 AM  
+**Categories:** 资讯, Skild AI, 具身智能  
+
+具身智能迈向GPT时刻
+
+📖 [Read original article](https://www.qbitai.com/2026/08/479834.html)
+
+---
+
+## 4. 达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子
+
+**Author:** 量子位的朋友们  
+**Published:** 8/26/2026, 9:17:08 AM  
+**Categories:** 资讯, 福建智算方舟, 达卯科技  
+
+长乐机场综保区智算中心全栈算电协同服务
+
+📖 [Read original article](https://www.qbitai.com/2026/08/479808.html)
+
+---
+
+## 5. 刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》
 
 **Author:** 十三  
 **Published:** 8/26/2026, 5:56:25 AM  
@@ -23,7 +71,7 @@ Agnes Video 2.5 Flash
 
 ---
 
-## 2. 宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底
+## 6. 宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底
 
 **Author:** 林, 方舟  
 **Published:** 8/26/2026, 5:52:06 AM  
@@ -35,7 +83,7 @@ Agnes Video 2.5 Flash
 
 ---
 
-## 3. Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用
+## 7. Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用
 
 **Author:** 量子位的朋友们  
 **Published:** 8/26/2026, 3:25:00 AM  
@@ -47,7 +95,7 @@ Agnes Video 2.5 Flash
 
 ---
 
-## 4. WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法
+## 8. WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法
 
 **Author:** 听雨  
 **Published:** 8/26/2026, 3:02:34 AM  
@@ -59,7 +107,7 @@ Agnes Video 2.5 Flash
 
 ---
 
-## 5. 深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案
+## 9. 深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案
 
 **Author:** 听雨  
 **Published:** 8/26/2026, 2:59:02 AM  
@@ -71,7 +119,7 @@ shui jiang shuai xian sha
 
 ---
 
-## 6. OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨
+## 10. OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨
 
 **Author:** Jay  
 **Published:** 8/26/2026, 1:24:47 AM  
