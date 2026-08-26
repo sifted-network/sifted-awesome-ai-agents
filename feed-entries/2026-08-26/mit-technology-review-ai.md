@@ -2,16 +2,28 @@
 title: "MIT Technology Review AI - 2026-08-26"
 date: "2026-08-26"
 source: "MIT Technology Review AI"
-count: 3
+count: 4
 ---
 
 # MIT Technology Review AI - 2026-08-26
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Raised on AI
+## 1. The inside story on why OpenAI agents hacked Hugging Face
+
+**Author:** Grace Huckins  
+**Published:** 8/26/2026, 7:00:00 PM  
+**Categories:** Artificial intelligence, App, artificial intelligence, Summary  
+
+The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were...
+
+📖 [Read original article](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/)
+
+---
+
+## 2. Raised on AI
 
 **Author:** Mat Honan  
 **Published:** 8/26/2026, 9:00:00 AM  
@@ -23,7 +35,7 @@ When my oldest child was born, I immediately set up Gmail and Twitter accounts i
 
 ---
 
-## 2. AI models flub these intelligence tests. Can you fare any better?
+## 3. AI models flub these intelligence tests. Can you fare any better?
 
 **Author:** Grace Huckins  
 **Published:** 8/26/2026, 9:00:00 AM  
@@ -35,7 +47,7 @@ Puzzles and games have been central to AI development since the very beginning. 
 
 ---
 
-## 3. Bill Gates says we’ve passed AI’s danger thresholds. Now what?
+## 4. Bill Gates says we’ve passed AI’s danger thresholds. Now what?
 
 **Author:** Mat Honan  
 **Published:** 8/26/2026, 7:01:00 AM  
