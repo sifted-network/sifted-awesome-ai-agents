@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. How kids feel about AI, in their own words
+## 1. The risks of AI are real but manageable
 
-**Author:** kulpreet  
-**Published:** 8/26/2026, 12:41:51 PM  
+**Author:** ckastner  
+**Published:** 8/26/2026, 7:44:33 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/ Comments URL: https://news.ycombinator.com/item?id=49448038 Points: 1 # Comments: 0
+Article URL: https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable Comments URL: https://news.ycombinator.com/item?id=49454742 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/)
+📖 [Read original article](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable)
 
 ---
 
-## 2. Do AI Models Have an Inner Monologue? – The J-Space –- Strad Slater [video]
+## 2. Show HN: AI harness that lets Codex and Claude intercommunicate to each other
 
-**Author:** mofosyne  
-**Published:** 8/26/2026, 12:40:24 PM  
+**Author:** halilagin  
+**Published:** 8/26/2026, 7:42:13 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=s_0rSqMSzss Comments URL: https://news.ycombinator.com/item?id=49448012 Points: 1 # Comments: 1
+Hello Everyone,I have been working on Rysh (Apache 2.0 licence), a new AI harnessing tool that lets you have the followings1. Build fleet of agents that communicates to each other (CEO -> 5 Managers -> 20 Worker Agents ). Just talk to CEO agent to finish your tasks. It coordinates managers and manag...
 
-📖 [Read original article](https://www.youtube.com/watch?v=s_0rSqMSzss)
+📖 [Read original article](https://github.com/rysh-ai/rysh-cli-code)
 
 ---
 
-## 3. Bill Gates calls for 'human reserved' jobs to protect labour force from AI
+## 3. 1-800-APL-Care Now Connects You with AI Assistant Instead of Human
 
-**Author:** tcp_handshaker  
-**Published:** 8/26/2026, 12:40:18 PM  
+**Author:** thm  
+**Published:** 8/26/2026, 7:40:35 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5 Comments URL: https://news.ycombinator.com/item?id=49448009 Points: 1 # Comments: 0
+Article URL: https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=49454671 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5)
+📖 [Read original article](https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/)
 
 ---
 
-## 4. I'm an Amazon SVP. I hadn't coded in 25 years. AI helped me write 100k lines
+## 4. Hacker Lens – in-browser reader for HN and GitHub, with on-device AI
 
-**Author:** tcp_handshaker  
-**Published:** 8/26/2026, 12:38:47 PM  
+**Author:** qkhhly  
+**Published:** 8/26/2026, 7:38:16 PM  
 **Categories:** -  
 
-Article URL: https://www.aboutamazon.com/news/workplace/amazon-svp-ai-tools-employees-careers Comments URL: https://news.ycombinator.com/item?id=49447987 Points: 1 # Comments: 0
+Article URL: https://hackerlens.cc/ Comments URL: https://news.ycombinator.com/item?id=49454644 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.aboutamazon.com/news/workplace/amazon-svp-ai-tools-employees-careers)
+📖 [Read original article](https://hackerlens.cc/)
 
 ---
 
-## 5. AI can now credibly complete most undergraduate assignments, MIT warns
+## 5. A new center aims to make St. Louis a hub of global AI innovation
 
-**Author:** lisper  
-**Published:** 8/26/2026, 12:33:10 PM  
+**Author:** megamike  
+**Published:** 8/26/2026, 7:36:27 PM  
 **Categories:** -  
 
-Article URL: https://www.washingtonpost.com/education/2026/08/25/ai-can-now-credibly-complete-most-undergraduate-assignments-mit-warns/ Comments URL: https://news.ycombinator.com/item?id=49447890 Points: 1 # Comments: 0
+Article URL: https://www.stlmag.com/business/spirit-of-st-louis-ai-innovation-center-launches/ Comments URL: https://news.ycombinator.com/item?id=49454618 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.washingtonpost.com/education/2026/08/25/ai-can-now-credibly-complete-most-undergraduate-assignments-mit-warns/)
+📖 [Read original article](https://www.stlmag.com/business/spirit-of-st-louis-ai-innovation-center-launches/)
 
 ---
 
-## 6. Is it legal to train AI models on copyrighted books?
+## 6. The turbulent AI era is here. The choices we make now are critical
 
-**Author:** deepmem  
-**Published:** 8/26/2026, 12:29:41 PM  
+**Author:** herbertl  
+**Published:** 8/26/2026, 7:35:47 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/ Comments URL: https://news.ycombinator.com/item?id=49447836 Points: 4 # Comments: 0
-
-📖 [Read original article](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/)
-
----
-
-## 7. My AI App Measures Success When People Stop Chatting with It
-
-**Author:** jmathai  
-**Published:** 8/26/2026, 12:26:42 PM  
-**Categories:** -  
-
-Article URL: https://jaisenmathai.com/faith-and-ai/getting-people-out-of-chat-and-into-scripture/ Comments URL: https://news.ycombinator.com/item?id=49447788 Points: 1 # Comments: 0
-
-📖 [Read original article](https://jaisenmathai.com/faith-and-ai/getting-people-out-of-chat-and-into-scripture/)
-
----
-
-## 8. Ora benchmarks every major AI agent on Vercel – Customers
-
-**Author:** kyisaiah47  
-**Published:** 8/26/2026, 12:24:57 PM  
-**Categories:** -  
-
-Article URL: https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel Comments URL: https://news.ycombinator.com/item?id=49447761 Points: 1 # Comments: 0
-
-📖 [Read original article](https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel)
-
----
-
-## 9. Fake US thinktank set up and funded by Israel sought to game AI for propaganda
-
-**Author:** n1b0m  
-**Published:** 8/26/2026, 12:11:19 PM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda Comments URL: https://news.ycombinator.com/item?id=49447600 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda)
-
----
-
-## 10. Building a better PowerPoint API for the AI era
-
-**Author:** danielochoa0620  
-**Published:** 8/26/2026, 12:00:58 PM  
-**Categories:** -  
-
-Article URL: https://editide.com/blog/building-a-better-powerpoint-api/ Comments URL: https://news.ycombinator.com/item?id=49447492 Points: 3 # Comments: 0
-
-📖 [Read original article](https://editide.com/blog/building-a-better-powerpoint-api/)
-
----
-
-## 11. Workism, AI and Vocations
-
-**Author:** surprisetalk  
-**Published:** 8/26/2026, 12:00:24 PM  
-**Categories:** -  
-
-Article URL: https://unattributed.cc/2026/08/13/workism-ai-and-vocations/ Comments URL: https://news.ycombinator.com/item?id=49447485 Points: 2 # Comments: 0
-
-📖 [Read original article](https://unattributed.cc/2026/08/13/workism-ai-and-vocations/)
-
----
-
-## 12. Top Best AI Aggregators in 2026
-
-**Author:** learningseo  
-**Published:** 8/26/2026, 11:38:25 AM  
-**Categories:** -  
-
-Article URL: https://data-infinityfreeapp.gt.tc Comments URL: https://news.ycombinator.com/item?id=49447243 Points: 1 # Comments: 0
-
-📖 [Read original article](https://data-infinityfreeapp.gt.tc)
-
----
-
-## 13. LibreOffice 26.8: Tabbed UI improvements, better typography, and no AI
-
-**Author:** mksaunders2  
-**Published:** 8/26/2026, 11:38:05 AM  
-**Categories:** -  
-
-Article URL: https://blog.documentfoundation.org/blog/2026/08/26/libreoffice-26-8/ Comments URL: https://news.ycombinator.com/item?id=49447240 Points: 3 # Comments: 0
-
-📖 [Read original article](https://blog.documentfoundation.org/blog/2026/08/26/libreoffice-26-8/)
-
----
-
-## 14. Sevren: A new European AI lab developing open-source AI technologies
-
-**Author:** OxyKodit  
-**Published:** 8/26/2026, 11:36:07 AM  
-**Categories:** -  
-
-Article URL: https://sevren.ai/news.html Comments URL: https://news.ycombinator.com/item?id=49447210 Points: 2 # Comments: 1
-
-📖 [Read original article](https://sevren.ai/news.html)
-
----
-
-## 15. The Practical Side of Building AI Products in Production [video]
-
-**Author:** Harish_0089  
-**Published:** 8/26/2026, 11:35:36 AM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=nBQEaMC27eM Comments URL: https://news.ycombinator.com/item?id=49447203 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=nBQEaMC27eM)
-
----
-
-## 16. As Ubuntu embraces AI, Debian discusses banning all AI-generated code
-
-**Author:** robtherobber  
-**Published:** 8/26/2026, 11:27:39 AM  
-**Categories:** -  
-
-Article URL: https://www.xda-developers.com/as-ubuntu-embraces-ai-debian-discusses-banning-all-ai-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49447104 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.xda-developers.com/as-ubuntu-embraces-ai-debian-discusses-banning-all-ai-generated-code/)
-
----
-
-## 17. Moonshot AI wants 30% of what US clouds earn from Kimi K3
-
-**Author:** Aboutplants  
-**Published:** 8/26/2026, 11:24:38 AM  
-**Categories:** -  
-
-Article URL: https://thenextweb.com/news/moonshot-k3-revenue-sharing-us-clouds Comments URL: https://news.ycombinator.com/item?id=49447063 Points: 8 # Comments: 0
-
-📖 [Read original article](https://thenextweb.com/news/moonshot-k3-revenue-sharing-us-clouds)
-
----
-
-## 18. The turbulent AI era is here. The choices we make now are critical.
-
-**Author:** nanna  
-**Published:** 8/26/2026, 11:23:54 AM  
-**Categories:** -  
-
-Article URL: https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med Comments URL: https://news.ycombinator.com/item?id=49447057 Points: 1 # Comments: 0
+Article URL: https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med Comments URL: https://news.ycombinator.com/item?id=49454606 Points: 1 # Comments: 0
 
 📖 [Read original article](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med)
 
 ---
 
-## 19. Show HN: A local tool that logs every time you swear at your AI coding assistant
+## 7. Toward Measuring AI's Effects on Skill Formation: The Stock-Formation Gap
 
-**Author:** lokinkl  
-**Published:** 8/26/2026, 11:23:13 AM  
+**Author:** chessucation  
+**Published:** 8/26/2026, 7:28:46 PM  
 **Categories:** -  
 
-Article URL: https://github.com/fireinbelly/biomass-conversion-index-monitoring-system Comments URL: https://news.ycombinator.com/item?id=49447045 Points: 2 # Comments: 1
+Article URL: https://arxiv.org/abs/2605.16283 Comments URL: https://news.ycombinator.com/item?id=49454516 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/fireinbelly/biomass-conversion-index-monitoring-system)
+📖 [Read original article](https://arxiv.org/abs/2605.16283)
 
 ---
 
-## 20. LinkedIn's 'Seems Like AI Slop' button drops views by 40%
+## 8. Can Agentic Engineers Estimate Software Delivery in the Age of AI?
 
-**Author:** mrweasel  
-**Published:** 8/26/2026, 11:15:48 AM  
+**Author:** lewistaariq  
+**Published:** 8/26/2026, 7:17:02 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/technology/ai/articles/linkedin-seems-ai-slop-button-195000046.html Comments URL: https://news.ycombinator.com/item?id=49446983 Points: 8 # Comments: 0
+Article URL: https://serendb.com/blog/can-agentic-engineers-estimate-software-delivery-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=49454339 Points: 2 # Comments: 0
 
-📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/linkedin-seems-ai-slop-button-195000046.html)
+📖 [Read original article](https://serendb.com/blog/can-agentic-engineers-estimate-software-delivery-in-the-age-of-ai)
+
+---
+
+## 9. Primus – AI Research Scientist
+
+**Author:** anonymous_llama  
+**Published:** 8/26/2026, 7:11:26 PM  
+**Categories:** -  
+
+Article URL: https://lab.cloud/ Comments URL: https://news.ycombinator.com/item?id=49454244 Points: 4 # Comments: 0
+
+📖 [Read original article](https://lab.cloud/)
+
+---
+
+## 10. Disenchantment with the Post-AI Internet
+
+**Author:** speckx  
+**Published:** 8/26/2026, 7:06:59 PM  
+**Categories:** -  
+
+Article URL: https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/ Comments URL: https://news.ycombinator.com/item?id=49454175 Points: 2 # Comments: 0
+
+📖 [Read original article](https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/)
+
+---
+
+## 11. AI data startup Micro1 reaches $500M gross run rate amid AI training boom
+
+**Author:** MilnerRoute  
+**Published:** 8/26/2026, 7:01:51 PM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/ Comments URL: https://news.ycombinator.com/item?id=49454094 Points: 1 # Comments: 0
+
+📖 [Read original article](https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/)
+
+---
+
+## 12. Aperture GA: Building a home(lab) for agentic AI
+
+**Author:** minouye  
+**Published:** 8/26/2026, 6:51:07 PM  
+**Categories:** -  
+
+Article URL: https://tailscale.com/blog/aperture-ga Comments URL: https://news.ycombinator.com/item?id=49453932 Points: 1 # Comments: 0
+
+📖 [Read original article](https://tailscale.com/blog/aperture-ga)
+
+---
+
+## 13. Show HN: AI scientist builds an open-source Codex Micro from scratch for $40
+
+**Author:** ben_iluvatar  
+**Published:** 8/26/2026, 6:16:57 PM  
+**Categories:** -  
+
+A few weeks ago, we open-sourced our design for a cost-effective but full featured alternative to OpenAI x Work Louder's sold out Codex Micro macropad. And now, we're pleased to share that we've actually built them and they work!Quick recap of the I/O: - 13 assignable keys with individual LEDs - rot...
+
+📖 [Read original article](https://iluvatarlabs.com/blog/2026/08/how-we-cloned-openai-codex-micro/)
+
+---
+
+## 14. AI Watermark Mandates Could Unmask Journalists Who Never Touched AI
+
+**Author:** speckx  
+**Published:** 8/26/2026, 6:16:21 PM  
+**Categories:** -  
+
+Article URL: https://www.techdirt.com/2026/08/26/how-ai-watermark-mandates-could-unmask-journalists-who-never-touched-ai/ Comments URL: https://news.ycombinator.com/item?id=49453460 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.techdirt.com/2026/08/26/how-ai-watermark-mandates-could-unmask-journalists-who-never-touched-ai/)
+
+---
+
+## 15. This week in AI-native companies #5: Stripe buys the meter
+
+**Author:** mmayernick  
+**Published:** 8/26/2026, 5:55:53 PM  
+**Categories:** -  
+
+Article URL: https://www.insideainative.com/p/this-week-in-ai-native-companies-b77 Comments URL: https://news.ycombinator.com/item?id=49453182 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.insideainative.com/p/this-week-in-ai-native-companies-b77)
+
+---
+
+## 16. Hacker News, Sans AI
+
+**Author:** fussylogic  
+**Published:** 8/26/2026, 5:52:46 PM  
+**Categories:** -  
+
+Article URL: https://elijahpotter.dev/hnsansai Comments URL: https://news.ycombinator.com/item?id=49453133 Points: 4 # Comments: 1
+
+📖 [Read original article](https://elijahpotter.dev/hnsansai)
+
+---
+
+## 17. America's immigration policy is driving away future AI leaders
+
+**Author:** herbertl  
+**Published:** 8/26/2026, 5:51:09 PM  
+**Categories:** -  
+
+Article URL: https://restofworld.org/2026/us-immigration-rules-ai-talent-china/ Comments URL: https://news.ycombinator.com/item?id=49453108 Points: 16 # Comments: 6
+
+📖 [Read original article](https://restofworld.org/2026/us-immigration-rules-ai-talent-china/)
+
+---
+
+## 18. Moscow Turned AI into a Ghostwriting Machine for Global Influence
+
+**Author:** whynotmaybe  
+**Published:** 8/26/2026, 5:47:17 PM  
+**Categories:** -  
+
+Article URL: https://united24media.com/world/how-moscow-turned-ai-into-a-ghostwriting-machine-for-global-influence-21980 Comments URL: https://news.ycombinator.com/item?id=49453066 Points: 7 # Comments: 0
+
+📖 [Read original article](https://united24media.com/world/how-moscow-turned-ai-into-a-ghostwriting-machine-for-global-influence-21980)
+
+---
+
+## 19. Physlint – deterministic integrity checks for physical-AI data
+
+**Author:** pranay_joshi  
+**Published:** 8/26/2026, 5:45:21 PM  
+**Categories:** -  
+
+Article URL: https://github.com/pranayjoshi/physlint Comments URL: https://news.ycombinator.com/item?id=49453037 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/pranayjoshi/physlint)
+
+---
+
+## 20. AI's Bar Mitzvah Moment? From Hope and Hype to Hard Business Questions
+
+**Author:** paulpauper  
+**Published:** 8/26/2026, 5:44:00 PM  
+**Categories:** -  
+
+Article URL: https://aswathdamodaran.substack.com/p/ais-bar-mitzvah-moment-from-hope Comments URL: https://news.ycombinator.com/item?id=49453012 Points: 4 # Comments: 0
+
+📖 [Read original article](https://aswathdamodaran.substack.com/p/ais-bar-mitzvah-moment-from-hope)
 
 ---
