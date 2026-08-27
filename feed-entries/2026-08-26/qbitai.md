@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-26"
 date: "2026-08-26"
 source: "qbitai"
-count: 7
+count: 6
 ---
 
 # qbitai - 2026-08-26
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ AI内容创作者增长187%，相关节目数量增长239%
 Agnes Video 2.5 Flash
 
 📖 [Read original article](https://www.qbitai.com/2026/08/479670.html)
-
----
-
-## 7. 宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底
-
-**Author:** 林, 方舟  
-**Published:** 8/26/2026, 5:52:06 AM  
-**Categories:** 资讯, 具身大脑, 具身智能, 具身模型  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/08/479634.html)
 
 ---
