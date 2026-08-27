@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-08-26"
 date: "2026-08-26"
 source: "OpenAI Blog"
-count: 3
+count: 4
 ---
 
 # OpenAI Blog - 2026-08-26
 
-3 items collected.
+4 items collected.
 
 ---
 
@@ -35,7 +35,19 @@ OpenAI’s new report explores how students and educators use ChatGPT to make le
 
 ---
 
-## 3. How loveholidays is making everyone a builder with Codex
+## 3. The Hugging Face incident and the road ahead
+
+**Author:** -  
+**Published:** 8/26/2026, 12:00:00 AM  
+**Categories:** Security  
+
+OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.
+
+📖 [Read original article](https://openai.com/index/hugging-face-incident-and-the-road-ahead)
+
+---
+
+## 4. How loveholidays is making everyone a builder with Codex
 
 **Author:** -  
 **Published:** 8/26/2026, 12:00:00 AM  
