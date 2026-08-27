@@ -2,16 +2,28 @@
 title: "qbitai - 2026-08-27"
 date: "2026-08-27"
 source: "qbitai"
-count: 3
+count: 4
 ---
 
 # qbitai - 2026-08-27
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. 基元律动累计融资数千万美元，推出“中国版OpenRouter”
+## 1. MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧
+
+**Author:** 克雷西  
+**Published:** 8/27/2026, 12:16:10 PM  
+**Categories:** 资讯, 首页轮播, MiniMax  
+
+好能增长，好能商业化啊！
+
+📖 [Read original article](https://www.qbitai.com/2026/08/480092.html)
+
+---
+
+## 2. 基元律动累计融资数千万美元，推出“中国版OpenRouter”
 
 **Author:** 量子位的朋友们  
 **Published:** 8/27/2026, 5:43:00 AM  
@@ -23,7 +35,7 @@ count: 3
 
 ---
 
-## 2. 工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI
+## 3. 工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI
 
 **Author:** 田, 晏林  
 **Published:** 8/27/2026, 2:46:35 AM  
@@ -35,7 +47,7 @@ count: 3
 
 ---
 
-## 3. 千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%
+## 4. 千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%
 
 **Author:** 量子位的朋友们  
 **Published:** 8/27/2026, 1:45:08 AM  
