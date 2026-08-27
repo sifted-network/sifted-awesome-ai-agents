@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Neurosurgeons perform first successful AI-assisted operation to remove tumour
+## 1. AI's memory crunch is coming for Android apps
 
-**Author:** _tk_  
-**Published:** 8/27/2026, 7:35:57 AM  
+**Author:** 627467  
+**Published:** 8/27/2026, 9:47:10 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour Comments URL: https://news.ycombinator.com/item?id=49461213 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/ Comments URL: https://news.ycombinator.com/item?id=49471721 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour)
+📖 [Read original article](https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/)
 
 ---
 
-## 2. GitHub – rajnandan1/ken: Thompson-mode systems discipline for AI agents
+## 2. AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab
 
-**Author:** purple_wow  
-**Published:** 8/27/2026, 7:17:51 AM  
+**Author:** calmrocks  
+**Published:** 8/27/2026, 9:46:39 PM  
 **Categories:** -  
 
-Article URL: https://github.com/rajnandan1/ken Comments URL: https://news.ycombinator.com/item?id=49461066 Points: 2 # Comments: 0
+Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/rajnandan1/ken)
+📖 [Read original article](https://github.com/calmrocks/ai-engineer-notebooks)
 
 ---
 
-## 3. Ask HN: What do you do when your AI coding agent is doing its job?
+## 3. Ask HN: How does your preferred AI handle questions we are not allowed to ask?
 
-**Author:** tryingtolearn  
-**Published:** 8/27/2026, 7:16:56 AM  
+**Author:** arionhardison  
+**Published:** 8/27/2026, 9:33:00 PM  
 **Categories:** -  
 
-I am into my early 50s and recently diagnosed with adult ADHD and maladaptive daydreaming.I realized that I have struggled with it since I was 16.I always wanted to work in programming, but it never worked out for me. I am now in a coding-adjacent job, as a sysadmin (Windows).I have recently started...
+PG: "The number of true things we can't say should not increase. If it does, something is wrong."So I ask, not just what "true" things are we not allowed to say but how does your preferred AI/LLM handle these things with a blank context [1].The most obvious question here IMO is: "Is violence ever th...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49461055)
+📖 [Read original article](https://news.ycombinator.com/item?id=49471561)
 
 ---
 
-## 4. Junior consultants called back to office as AI increases need for human skills
+## 4. Tim O'Reilly – Writing with AI
 
-**Author:** petethomas  
-**Published:** 8/27/2026, 7:01:45 AM  
+**Author:** rmason  
+**Published:** 8/27/2026, 9:27:50 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/7fd9c234-a92b-4ab2-ba1f-969cf9a23f52 Comments URL: https://news.ycombinator.com/item?id=49460913 Points: 3 # Comments: 0
+Article URL: https://oreillyradar.substack.com/p/writing-with-ai Comments URL: https://news.ycombinator.com/item?id=49471504 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/7fd9c234-a92b-4ab2-ba1f-969cf9a23f52)
+📖 [Read original article](https://oreillyradar.substack.com/p/writing-with-ai)
 
 ---
 
-## 5. What RTO Means for AI
+## 5. Bill Gates proposes major limits on AI development
 
-**Author:** jamesblakes  
-**Published:** 8/27/2026, 6:58:50 AM  
+**Author:** rmason  
+**Published:** 8/27/2026, 9:24:30 PM  
 **Categories:** -  
 
-Article URL: https://jasondoyle.ie/whitepapers/what-return-to-office-removes/ Comments URL: https://news.ycombinator.com/item?id=49460887 Points: 1 # Comments: 0
+Article URL: https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai Comments URL: https://news.ycombinator.com/item?id=49471473 Points: 1 # Comments: 2
 
-📖 [Read original article](https://jasondoyle.ie/whitepapers/what-return-to-office-removes/)
+📖 [Read original article](https://www.cnn.com/2026/08/26/business/bill-gates-wants-limits-on-ai)
 
 ---
 
-## 6. Xiaomi AI Cube Targets Local LLMs with 1.22 TB/S Near-Memory Bandwidth
-
-**Author:** mdp2021  
-**Published:** 8/27/2026, 6:52:05 AM  
-**Categories:** -  
-
-Article URL: https://www.hardware-corner.net/xiaomi-ai-cube-targets-local-llms/ Comments URL: https://news.ycombinator.com/item?id=49460820 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.hardware-corner.net/xiaomi-ai-cube-targets-local-llms/)
-
----
-
-## 7. AI Revenue Reporting: Slop
+## 6. OpenAI Is Developing a 'Persistent' AI Agent
 
 **Author:** thm  
-**Published:** 8/27/2026, 6:51:42 AM  
+**Published:** 8/27/2026, 9:23:37 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/a9145db8-18c1-4476-aac5-d1b4fcf70040 Comments URL: https://news.ycombinator.com/item?id=49460815 Points: 2 # Comments: 0
+Article URL: https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=49471457 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/a9145db8-18c1-4476-aac5-d1b4fcf70040)
+📖 [Read original article](https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/)
 
 ---
 
-## 8. Show HN: Contextual – local codebase memory for AI coding agents
+## 7. Show HN: ChessRabbit – The AI Chess Analysis Platform
 
-**Author:** aarjunm04  
-**Published:** 8/27/2026, 6:35:37 AM  
+**Author:** ahmedhosssam  
+**Published:** 8/27/2026, 9:22:39 PM  
 **Categories:** -  
 
-Article URL: https://contextuallabs.dev Comments URL: https://news.ycombinator.com/item?id=49460693 Points: 1 # Comments: 0
+Hi HN!I wanted to share with you a chess analysis tool that I was building for the past week.First of all I want to explain what is the problem that I'm trying to solve: Chess Engines such as stockfish are superior for us humans, but it's not self explanatory. A player can review their game by stock...
 
-📖 [Read original article](https://contextuallabs.dev)
+📖 [Read original article](https://chessrabbit.com)
 
 ---
 
-## 9. Your AI Generated Menu Triggered My Trypophobia
+## 8. Google Flow – AI Creative Studio for Video, Images and Custom Tools
 
-**Author:** shubhamjain  
-**Published:** 8/27/2026, 6:26:13 AM  
+**Author:** thekyle  
+**Published:** 8/27/2026, 9:18:36 PM  
 **Categories:** -  
 
-Article URL: https://shubhamjain.co/2026/08/27/ai-food-photos-trypophobia/ Comments URL: https://news.ycombinator.com/item?id=49460618 Points: 5 # Comments: 0
+Article URL: https://labs.google/fx/tools/flow Comments URL: https://news.ycombinator.com/item?id=49471408 Points: 1 # Comments: 0
 
-📖 [Read original article](https://shubhamjain.co/2026/08/27/ai-food-photos-trypophobia/)
+📖 [Read original article](https://labs.google/fx/tools/flow)
 
 ---
 
-## 10. OpenAI staff observed warning signs before AI agents attack on Hugging Face
+## 9. Sam Altman says the economy is adapting to AI slower than he expected
 
-**Author:** nreece  
-**Published:** 8/27/2026, 5:42:42 AM  
+**Author:** oenton  
+**Published:** 8/27/2026, 9:11:07 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm Comments URL: https://news.ycombinator.com/item?id=49460255 Points: 4 # Comments: 1
+Comments URL: https://news.ycombinator.com/item?id=49471334 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm)
+📖 [Read original article](https://news.ycombinator.com/item?id=49471334)
 
 ---
 
-## 11. The choices we make about AI now are critical
+## 10. How to Build an AI Scheduling Assistant with Calendly
 
-**Author:** kristianp  
-**Published:** 8/27/2026, 5:36:58 AM  
+**Author:** piotrgrudzien  
+**Published:** 8/27/2026, 9:10:23 PM  
 **Categories:** -  
 
-Article URL: https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49460213 Points: 2 # Comments: 1
+Article URL: https://quickchat.ai/post/ai-scheduling-assistant-calendly Comments URL: https://news.ycombinator.com/item?id=49471321 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make)
+📖 [Read original article](https://quickchat.ai/post/ai-scheduling-assistant-calendly)
 
 ---
 
-## 12. Ask HN: Would you pay for an AI API that guarantees zero prompt retention?
+## 11. Sam Altman says the economy is adapting to AI slower than he expected
 
-**Author:** mhrnik  
-**Published:** 8/27/2026, 5:03:02 AM  
+**Author:** oenton  
+**Published:** 8/27/2026, 9:08:40 PM  
 **Categories:** -  
 
-i am just tired of looking for a reliable open-source model AI API with ZDR and don't even save my prompts. I'm thinking of a service for people like me who want to use it.idea is a simple OpenAI-compatible API:Access to open-weight modelszero retention of prompts and completionsno training on datao...
+Article URL: https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8 Comments URL: https://news.ycombinator.com/item?id=49471295 Points: 3 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49459973)
+📖 [Read original article](https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8)
 
 ---
 
-## 13. Show HN: AI chat app build specifically for kids (howcomet.com)
+## 12. AI's Inference Era of Ferment – By Ben Bajarin
 
-**Author:** hkbarton  
-**Published:** 8/27/2026, 4:35:36 AM  
+**Author:** rbanffy  
+**Published:** 8/27/2026, 9:07:48 PM  
 **Categories:** -  
 
-Article URL: https://howcomet.com/ Comments URL: https://news.ycombinator.com/item?id=49459760 Points: 2 # Comments: 1
+Article URL: https://www.thediligencestack.com/p/ais-inference-era-of-ferment Comments URL: https://news.ycombinator.com/item?id=49471281 Points: 1 # Comments: 0
 
-📖 [Read original article](https://howcomet.com/)
+📖 [Read original article](https://www.thediligencestack.com/p/ais-inference-era-of-ferment)
 
 ---
 
-## 14. Interviewing in the Age of AI
+## 13. Unlocking the Power of AI in Visual Studio with Bring Your Own Model
 
-**Author:** fagnerbrack  
-**Published:** 8/27/2026, 4:01:36 AM  
+**Author:** ibobev  
+**Published:** 8/27/2026, 9:04:32 PM  
 **Categories:** -  
 
-Article URL: https://www.dein.fr/posts/2026-05-28-interviewing-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=49459533 Points: 2 # Comments: 0
+Article URL: https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-ai-for-every-developer-in-visual-studio-with-bring-your-own-model/ Comments URL: https://news.ycombinator.com/item?id=49471240 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.dein.fr/posts/2026-05-28-interviewing-in-the-age-of-ai)
+📖 [Read original article](https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-ai-for-every-developer-in-visual-studio-with-bring-your-own-model/)
 
 ---
 
-## 15. First patient to undergo live AI-assisted brain surgery has tumour removed
+## 14. Show HN: SvGrid – a Svelte 5 data grid an AI can drive to build a full app
 
-**Author:** gpjt  
-**Published:** 8/27/2026, 3:27:01 AM  
+**Author:** boikom  
+**Published:** 8/27/2026, 8:48:07 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cjwg5n7y68xo Comments URL: https://news.ycombinator.com/item?id=49459274 Points: 5 # Comments: 0
+Article URL: https://github.com/sv-grid/sv-grid Comments URL: https://news.ycombinator.com/item?id=49471036 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/cjwg5n7y68xo)
+📖 [Read original article](https://github.com/sv-grid/sv-grid)
 
 ---
 
-## 16. How researchers are teaching AI to learn like a child
+## 15. The Frictions That Make AI Forecasting Hard
 
-**Author:** andsoitis  
-**Published:** 8/27/2026, 2:54:51 AM  
+**Author:** gmays  
+**Published:** 8/27/2026, 8:43:48 PM  
 **Categories:** -  
 
-Article URL: https://www.science.org/content/article/how-researchers-are-teaching-ai-learn-child Comments URL: https://news.ycombinator.com/item?id=49459015 Points: 2 # Comments: 0
+Article URL: https://twitter.com/AnneliesGamble/status/2087259132667810162 Comments URL: https://news.ycombinator.com/item?id=49470980 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.science.org/content/article/how-researchers-are-teaching-ai-learn-child)
+📖 [Read original article](https://twitter.com/AnneliesGamble/status/2087259132667810162)
 
 ---
 
-## 17. Humanity has the debate about AI consciousness backwards
+## 16. Pydantic AI
 
-**Author:** semiquaver  
-**Published:** 8/27/2026, 2:37:07 AM  
+**Author:** monneyboi  
+**Published:** 8/27/2026, 8:42:06 PM  
 **Categories:** -  
 
-Article URL: https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards Comments URL: https://news.ycombinator.com/item?id=49458875 Points: 20 # Comments: 45
+Article URL: https://pydantic.dev/docs/ai/overview/ Comments URL: https://news.ycombinator.com/item?id=49470954 Points: 4 # Comments: 0
 
-📖 [Read original article](https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards)
+📖 [Read original article](https://pydantic.dev/docs/ai/overview/)
 
 ---
 
-## 18. AI agents meant to replace Meta workers made \"large-scale, disruptive actions\"
+## 17. YeshiAI: Prayer, Journaling, Study and Spiritual Growth with AI
 
-**Author:** wrxd  
-**Published:** 8/27/2026, 2:07:22 AM  
+**Author:** eli_genc  
+**Published:** 8/27/2026, 8:28:59 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/ Comments URL: https://news.ycombinator.com/item?id=49458594 Points: 7 # Comments: 2
+Article URL: https://yeshi.ai/ Comments URL: https://news.ycombinator.com/item?id=49470775 Points: 2 # Comments: 2
 
-📖 [Read original article](https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/)
+📖 [Read original article](https://yeshi.ai/)
 
 ---
 
-## 19. Reading Is Not Using: Retrieval, Judgment, and AI Financial Research
+## 18. Meta memo reveals what its new 'Hatch' AI agent can do
 
-**Author:** sbulaev  
-**Published:** 8/27/2026, 2:07:07 AM  
+**Author:** thm  
+**Published:** 8/27/2026, 8:11:29 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2608.24842 Comments URL: https://news.ycombinator.com/item?id=49458592 Points: 2 # Comments: 0
+Article URL: https://www.businessinsider.com/meta-hatch-personal-ai-agent-capabilities-employees-memo-2026-8 Comments URL: https://news.ycombinator.com/item?id=49470552 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2608.24842)
+📖 [Read original article](https://www.businessinsider.com/meta-hatch-personal-ai-agent-capabilities-employees-memo-2026-8)
 
 ---
 
-## 20. AI Lessons from Driving 200M Autonomous Miles
+## 19. Luanti removed from Google Play due to baseless AI copyright notice
 
-**Author:** cjcenizal  
-**Published:** 8/27/2026, 1:56:28 AM  
+**Author:** ROllerozxa  
+**Published:** 8/27/2026, 8:10:38 PM  
 **Categories:** -  
 
-Article URL: https://waymo.com/blog/2026/08/10ailessons/ Comments URL: https://news.ycombinator.com/item?id=49458523 Points: 1 # Comments: 0
+Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49470539 Points: 2 # Comments: 0
 
-📖 [Read original article](https://waymo.com/blog/2026/08/10ailessons/)
+📖 [Read original article](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/)
+
+---
+
+## 20. Show HN: Discover and share AI prompts and MCP servers
+
+**Author:** wowinter15  
+**Published:** 8/27/2026, 8:09:57 PM  
+**Categories:** -  
+
+Article URL: https://promptic.us/ Comments URL: https://news.ycombinator.com/item?id=49470528 Points: 1 # Comments: 0
+
+📖 [Read original article](https://promptic.us/)
 
 ---
