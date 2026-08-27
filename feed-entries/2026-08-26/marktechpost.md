@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-26"
 date: "2026-08-26"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-08-26
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture
+## 1. Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context
+
+**Author:** Asif Razzaq  
+**Published:** 8/26/2026, 9:33:23 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Staff, Tech News, Technology  
+
+Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series — a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face, and API pricing at $0.15/M input and $0.50/M output. It scores 84.3 on Terminal-Bench 2.1 and 63.4 on ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/)
+
+---
+
+## 2. Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture
 
 **Author:** Asif Razzaq  
 **Published:** 8/26/2026, 3:20:00 PM  
@@ -23,7 +35,7 @@ We look at Qwen3.8-Flash-Next, Alibaba's open-weight multimodal Mixture-of-Exper
 
 ---
 
-## 2. What Would Have to Be True for Agentic Coding to Replace Junior Engineers
+## 3. What Would Have to Be True for Agentic Coding to Replace Junior Engineers
 
 **Author:** Asif Razzaq  
 **Published:** 8/26/2026, 2:20:35 PM  
@@ -35,7 +47,7 @@ Four falsifiable conditions for agentic coding replacing juniors, tested against
 
 ---
 
-## 3. IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models
+## 4. IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models
 
 **Author:** Asif Razzaq  
 **Published:** 8/26/2026, 5:48:10 AM  
