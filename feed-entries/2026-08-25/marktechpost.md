@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-25"
 date: "2026-08-25"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-08-25
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Model cards report quality under server-class, full-precision conditions. Those 
 Perplexity releases Portable Computer, packaging local models, harness, sandbox, and connectors into one system running on NVIDIA DGX Spark. The post Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps appeared first on ...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/)
-
----
-
-## 3. Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet
-
-**Author:** Asif Razzaq  
-**Published:** 8/25/2026, 5:25:36 PM  
-**Categories:** AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Software Engineering, Staff, Tech News, Technology  
-
-Training and serving frontier models is now a networking problem as much as a compute problem. Collective operations like all-reduce and all-to-all synchronize thousands of accelerators during training, and the slowest transfer sets the pace for the entire job. Even small amounts of network friction...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/)
 
 ---
