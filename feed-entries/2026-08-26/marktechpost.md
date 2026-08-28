@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-26"
 date: "2026-08-26"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-08-26
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ We look at Qwen3.8-Flash-Next, Alibaba's open-weight multimodal Mixture-of-Exper
 Four falsifiable conditions for agentic coding replacing juniors, tested against METR, OpenAI, DORA and Stanford primary source evidence The post What Would Have to Be True for Agentic Coding to Replace Junior Engineers appeared first on MarkTechPost.
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/)
-
----
-
-## 4. IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models
-
-**Author:** Asif Razzaq  
-**Published:** 8/26/2026, 5:48:10 AM  
-**Categories:** Agentic AI, AI Infrastructure, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Staff, Tech News, Technology, Uncategorized  
-
-IBM has released Granite 4.2, a family of open reasoning language models in 3B, 8B, and 30B sizes, all under Apache 2.0. Every model exposes a thinking / low-effort / non-thinking switch and native tool calling. The 8B and 30B additionally go through an agentic RL block that trains them to edit code...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/)
 
 ---
