@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. LaneGate – Git-native worktree orchestrator for AI agents
+## 1. The first AI use case that genuinely saves me time (outside of programming)
 
-**Author:** dvenkat9  
-**Published:** 8/29/2026, 5:36:23 AM  
+**Author:** tducret  
+**Published:** 8/29/2026, 3:45:24 PM  
 **Categories:** -  
 
-Article URL: https://github.com/sudheerdvn/lanegate Comments URL: https://news.ycombinator.com/item?id=49487178 Points: 1 # Comments: 0
+Article URL: https://ducret.dev/grocery-shopping-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49490849 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/sudheerdvn/lanegate)
+📖 [Read original article](https://ducret.dev/grocery-shopping-with-ai/)
 
 ---
 
-## 2. OpenAI to end agreement with SpaceX's AI coding tool Cursor
+## 2. Google further buries search results under AI mode
 
-**Author:** tartoran  
-**Published:** 8/29/2026, 5:27:09 AM  
+**Author:** chicken-stew  
+**Published:** 8/29/2026, 3:21:06 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/ Comments URL: https://news.ycombinator.com/item?id=49487134 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand Comments URL: https://news.ycombinator.com/item?id=49490648 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/)
+📖 [Read original article](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)
 
 ---
 
-## 3. Yes, We're in an AI Bubble. Just Look to 1980s Japan
+## 3. BoqCalc, an AI pipeline that prices a 500-line BOQ without hallucinating rates
 
-**Author:** CaptainZapp  
-**Published:** 8/29/2026, 5:12:32 AM  
+**Author:** boqcalc  
+**Published:** 8/29/2026, 2:53:29 PM  
 **Categories:** -  
 
-Article URL: https://foreignpolicy.com/2026/08/28/nvidia-earnings-quarterly-report-ai-economic-bubble-japan-history/ Comments URL: https://news.ycombinator.com/item?id=49487072 Points: 2 # Comments: 2
+Article URL: https://boqcalc.com Comments URL: https://news.ycombinator.com/item?id=49490410 Points: 1 # Comments: 0
 
-📖 [Read original article](https://foreignpolicy.com/2026/08/28/nvidia-earnings-quarterly-report-ai-economic-bubble-japan-history/)
+📖 [Read original article](https://boqcalc.com)
 
 ---
 
-## 4. AI Stock Research Assistant · Streamlit
+## 4. AI Lattice Proofs with Chris Peikert
 
-**Author:** KiaanKothari  
-**Published:** 8/29/2026, 5:11:07 AM  
+**Author:** henrikhorluck  
+**Published:** 8/29/2026, 2:52:01 PM  
 **Categories:** -  
 
-Article URL: https://ai-stock-research-kiaan.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49487065 Points: 1 # Comments: 0
+Article URL: https://securitycryptographywhatever.com/2026/08/26/ai-lattice-proofs-with-chris-peikert/ Comments URL: https://news.ycombinator.com/item?id=49490400 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ai-stock-research-kiaan.streamlit.app)
+📖 [Read original article](https://securitycryptographywhatever.com/2026/08/26/ai-lattice-proofs-with-chris-peikert/)
 
 ---
 
-## 5. Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force
+## 5. Would you share your weirdest agent logs with AI safety researchers?
 
-**Author:** dagmx  
-**Published:** 8/29/2026, 5:07:31 AM  
+**Author:** matildagh  
+**Published:** 8/29/2026, 2:43:57 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-08-27/nvidia-starts-pac-as-ai-chip-maker-builds-dc-influence-force Comments URL: https://news.ycombinator.com/item?id=49487047 Points: 2 # Comments: 0
+Article URL: https://www.reddit.com/r/AI_Agents/comments/1w1nuzb/whats_your_weirdest_ai_agent_log/ Comments URL: https://news.ycombinator.com/item?id=49490327 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-27/nvidia-starts-pac-as-ai-chip-maker-builds-dc-influence-force)
+📖 [Read original article](https://www.reddit.com/r/AI_Agents/comments/1w1nuzb/whats_your_weirdest_ai_agent_log/)
 
 ---
 
-## 6. Ask HN: What BOYK AI client are you using?
+## 6. Three mistakes of new AI teams
 
-**Author:** yeeyang  
-**Published:** 8/29/2026, 4:38:08 AM  
+**Author:** softwaredoug  
+**Published:** 8/29/2026, 2:41:07 PM  
 **Categories:** -  
 
-I built an AI desktop client specifically designed for non-programmers, which has the capabilities of Codex/Claude Desktop, but it is localized, protects all your privacy, and supports any model call.Would you like to try using it? Any questions, feel free to ask me! Comments URL: https://news.ycomb...
+Article URL: https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes Comments URL: https://news.ycombinator.com/item?id=49490303 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49486912)
+📖 [Read original article](https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes)
 
 ---
 
-## 7. AI Mediated Learning
+## 7. The Fed confronts a powerful new economic force (AI)
 
-**Author:** YasaswiKompella  
-**Published:** 8/29/2026, 4:30:28 AM  
+**Author:** fjd  
+**Published:** 8/29/2026, 2:33:24 PM  
 **Categories:** -  
 
-Article URL: https://substack.com/profile/526971458-yasaswi-yash-kompella/note/c-325001983 Comments URL: https://news.ycombinator.com/item?id=49486879 Points: 1 # Comments: 0
+Article URL: https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/ Comments URL: https://news.ycombinator.com/item?id=49490234 Points: 2 # Comments: 1
 
-📖 [Read original article](https://substack.com/profile/526971458-yasaswi-yash-kompella/note/c-325001983)
+📖 [Read original article](https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/)
 
 ---
 
-## 8. Microsoft publishes AI Agent Shared Responsibility Model
+## 8. Calibre eBook manager lets you generate AI book covers
 
-**Author:** omkarparth  
-**Published:** 8/29/2026, 4:28:47 AM  
+**Author:** cdrnsf  
+**Published:** 8/29/2026, 2:19:04 PM  
 **Categories:** -  
 
-Article URL: https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai-agent Comments URL: https://news.ycombinator.com/item?id=49486870 Points: 2 # Comments: 0
+Article URL: https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers Comments URL: https://news.ycombinator.com/item?id=49490115 Points: 5 # Comments: 0
 
-📖 [Read original article](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai-agent)
+📖 [Read original article](https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers)
 
 ---
 
-## 9. Obsessing over AI Agent Harnesses
+## 9. Major security weaknesses found in leading open AI models
 
-**Author:** tomrod  
-**Published:** 8/29/2026, 4:28:08 AM  
+**Author:** pseudolus  
+**Published:** 8/29/2026, 2:15:36 PM  
 **Categories:** -  
 
-Article URL: https://www.roderick.dev/writing/2026-08-28-obsessing-harnesses/ Comments URL: https://news.ycombinator.com/item?id=49486868 Points: 1 # Comments: 0
+Article URL: https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models Comments URL: https://news.ycombinator.com/item?id=49490082 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.roderick.dev/writing/2026-08-28-obsessing-harnesses/)
+📖 [Read original article](https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models)
 
 ---
 
-## 10. I built an AI assistant that keeps working after the chat ends
+## 10. Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines
 
-**Author:** christopher-blo  
-**Published:** 8/29/2026, 4:24:17 AM  
+**Author:** sbulaev  
+**Published:** 8/29/2026, 2:07:07 PM  
 **Categories:** -  
 
-Article URL: https://shotah.github.io/gantree/ Comments URL: https://news.ycombinator.com/item?id=49486856 Points: 1 # Comments: 0
+Article URL: https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution Comments URL: https://news.ycombinator.com/item?id=49490016 Points: 3 #...
 
-📖 [Read original article](https://shotah.github.io/gantree/)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution)
 
 ---
 
-## 11. Ezducate an AI powered special education platform
+## 11. Debian votes to allow \"responsible use of generative AI\"
 
-**Author:** alexandertrish  
-**Published:** 8/29/2026, 3:15:11 AM  
+**Author:** pluc  
+**Published:** 8/29/2026, 2:02:10 PM  
 **Categories:** -  
 
-Article URL: https://www.ezducate.ai/ Comments URL: https://news.ycombinator.com/item?id=49486557 Points: 1 # Comments: 0
+Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 238 # Comments: 184
 
-📖 [Read original article](https://www.ezducate.ai/)
+📖 [Read original article](https://lwn.net/Articles/1091231/)
 
 ---
 
-## 12. Citations in AI-written reports did not exist
-
-**Author:** gcsydney  
-**Published:** 8/29/2026, 2:59:23 AM  
-**Categories:** -  
-
-Article URL: https://www.stipple.sh/resources/ai-citation-hallucination-benchmark Comments URL: https://news.ycombinator.com/item?id=49486501 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.stipple.sh/resources/ai-citation-hallucination-benchmark)
-
----
-
-## 13. I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI
-
-**Author:** 9woc  
-**Published:** 8/29/2026, 2:58:12 AM  
-**Categories:** -  
-
-Article URL: https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform Comments URL: https://news.ycombinator.com/item?id=49486494 Points: 26 # Comments: 15
-
-📖 [Read original article](https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform)
-
----
-
-## 14. Debian Votes to Allow \"Responsible Use of Generative AI\"
-
-**Author:** mappu  
-**Published:** 8/29/2026, 2:57:43 AM  
-**Categories:** -  
-
-Article URL: https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use Comments URL: https://news.ycombinator.com/item?id=49486493 Points: 7 # Comments: 0
-
-📖 [Read original article](https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use)
-
----
-
-## 15. StemDeck, a free, open-source and local AI stem separator
-
-**Author:** thclpr  
-**Published:** 8/29/2026, 1:24:13 AM  
-**Categories:** -  
-
-Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 63 # Comments: 12
-
-📖 [Read original article](https://github.com/stemdeckapp/stemdeck)
-
----
-
-## 16. One prompt, five days, and an AI agent that refused to certify itself
-
-**Author:** ElvishSteel  
-**Published:** 8/29/2026, 1:16:04 AM  
-**Categories:** -  
-
-Article URL: https://github.com/Framework-Drift/governed-pass Comments URL: https://news.ycombinator.com/item?id=49486021 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/Framework-Drift/governed-pass)
-
----
-
-## 17. Anti-AI Populism is Reshaping American Politics
+## 12. Backlash Against AI Data Centers Is Real, Organic, Widespread
 
 **Author:** newsomix9xl  
-**Published:** 8/29/2026, 1:10:59 AM  
+**Published:** 8/29/2026, 1:52:40 PM  
 **Categories:** -  
 
-Article URL: https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/ Comments URL: https://news.ycombinator.com/item?id=49485992 Points: 5 # Comments: 1
+Article URL: https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html Comments URL: https://news.ycombinator.com/item?id=49489920 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/)
+📖 [Read original article](https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html)
 
 ---
 
-## 18. AI made the boring work visible. Cut the work, not the people
+## 13. Build your web-based game with AI
 
-**Author:** fagnerbrack  
-**Published:** 8/29/2026, 1:01:29 AM  
+**Author:** firasabb  
+**Published:** 8/29/2026, 1:37:01 PM  
 **Categories:** -  
 
-Article URL: https://jeffgothelf.com/blog/ai-made-the-boring-work-visible-cut-the-work-not-the-people/ Comments URL: https://news.ycombinator.com/item?id=49485940 Points: 7 # Comments: 1
+Article URL: https://quetab.com/games Comments URL: https://news.ycombinator.com/item?id=49489823 Points: 3 # Comments: 1
 
-📖 [Read original article](https://jeffgothelf.com/blog/ai-made-the-boring-work-visible-cut-the-work-not-the-people/)
+📖 [Read original article](https://quetab.com/games)
 
 ---
 
-## 19. Ask HN: If AI disappeared today, how much would you ask for in salary to work?
+## 14. Ask AI buttons like social media links for webpages
 
-**Author:** senor_digimon  
-**Published:** 8/29/2026, 1:00:24 AM  
+**Author:** loudsilence  
+**Published:** 8/29/2026, 1:29:16 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49485930 Points: 2 # Comments: 1
+Article URL: https://llmcheck.app/ai-ask-buttons/ Comments URL: https://news.ycombinator.com/item?id=49489761 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49485930)
+📖 [Read original article](https://llmcheck.app/ai-ask-buttons/)
 
 ---
 
-## 20. X claims it found a Chinese bot farm posting anti-AI data center sentiments
+## 15. 7th Circuit Rules AI-Generated CSAM Is Protected Speach
 
-**Author:** newsomix9xl  
-**Published:** 8/29/2026, 1:00:11 AM  
+**Author:** piker  
+**Published:** 8/29/2026, 1:17:41 PM  
 **Categories:** -  
 
-Article URL: https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/ Comments URL: https://news.ycombinator.com/item?id=49485926 Points: 6 # Comments: 2
+Article URL: https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2026/D08-25/C:25-1354:J:Lee:aut:T:fnOp:N:3597567:S:0 Comments URL: https://news.ycombinator.com/item?id=49489663 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/)
+📖 [Read original article](https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2026/D08-25/C:25-1354:J:Lee:aut:T:fnOp:N:3597567:S:0)
+
+---
+
+## 16. My answer to AI burnout: more AI (but context is king)
+
+**Author:** sycdan  
+**Published:** 8/29/2026, 12:58:59 PM  
+**Categories:** -  
+
+Article URL: https://sycdan.wordpress.com/2026/08/29/my-answer-to-ai-burnout-more-ai-but-context-is-king/ Comments URL: https://news.ycombinator.com/item?id=49489549 Points: 1 # Comments: 0
+
+📖 [Read original article](https://sycdan.wordpress.com/2026/08/29/my-answer-to-ai-burnout-more-ai-but-context-is-king/)
+
+---
+
+## 17. Tech backlash reaches fever pitch as AI angst collides with social media fears
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 8/29/2026, 12:45:07 PM  
+**Categories:** -  
+
+Article URL: https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html Comments URL: https://news.ycombinator.com/item?id=49489481 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html)
+
+---
+
+## 18. AI Hallucination Cases Database
+
+**Author:** Tomte  
+**Published:** 8/29/2026, 12:07:44 PM  
+**Categories:** -  
+
+Article URL: https://www.damiencharlotin.com/hallucinations/ Comments URL: https://news.ycombinator.com/item?id=49489219 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.damiencharlotin.com/hallucinations/)
+
+---
+
+## 19. Show HN: Toolchestrator – make local, AI-built tools usable by your team
+
+**Author:** kstedev  
+**Published:** 8/29/2026, 11:44:25 AM  
+**Categories:** -  
+
+Article URL: https://toolchestrator.com/ Comments URL: https://news.ycombinator.com/item?id=49489072 Points: 2 # Comments: 0
+
+📖 [Read original article](https://toolchestrator.com/)
+
+---
+
+## 20. Did AI write this? It's getting harder to tell
+
+**Author:** cs702  
+**Published:** 8/29/2026, 11:02:06 AM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9 Comments URL: https://news.ycombinator.com/item?id=49488866 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9)
 
 ---
