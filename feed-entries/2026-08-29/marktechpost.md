@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-29"
 date: "2026-08-29"
 source: "MarkTechPost"
-count: 1
+count: 2
 ---
 
 # MarkTechPost - 2026-08-29
 
-1 items collected.
+2 items collected.
 
 ---
 
-## 1. Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning
+## 1. Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling
+
+**Author:** Michal Sutter  
+**Published:** 8/29/2026, 2:30:44 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, New Releases, Staff, Tech News, Technology, Voice AI  
+
+We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up to 10 seconds of prior context instead of a single final frame, first and last frames can be pinned to control camera mov...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/)
+
+---
+
+## 2. Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning
 
 **Author:** Michal Sutter  
 **Published:** 8/29/2026, 5:25:16 AM  
