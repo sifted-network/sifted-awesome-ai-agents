@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-29"
 date: "2026-08-29"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-08-29
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling
+## 1. Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio
+
+**Author:** Sana Hassan  
+**Published:** 8/29/2026, 6:57:26 PM  
+**Categories:** Artificial Intelligence, Editors Pick, Staff, Technology, Tutorials  
+
+In this tutorial, we build an ensemble weather forecasting workflow with NVIDIA Earth2Studio. We install the required Earth2Studio components while preserving Colab’s existing CUDA-enabled PyTorch environment, load the FCN prognostic model, and retrieve atmospheric initial conditions from GFS. We th...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/)
+
+---
+
+## 2. Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling
 
 **Author:** Michal Sutter  
 **Published:** 8/29/2026, 2:30:44 PM  
@@ -23,7 +35,7 @@ We look at Gemini Omni 1.1 Flash, Google's production update to its native multi
 
 ---
 
-## 2. Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning
+## 3. Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning
 
 **Author:** Michal Sutter  
 **Published:** 8/29/2026, 5:25:16 AM  
