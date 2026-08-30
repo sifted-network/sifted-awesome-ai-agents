@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: 1endpoint – Cheaper access to AI models
+## 1. AI and the Death of Expertise: Why Experts Still Matter
 
-**Author:** DustinPham12  
-**Published:** 8/30/2026, 11:13:32 AM  
+**Author:** prabal97  
+**Published:** 8/30/2026, 8:34:59 PM  
 **Categories:** -  
 
-1endpoint is a unified AI inference gateway. We support OpenAI Chat Completions, Responses API and Anthropic Messages, so existing tools and agents can usually point to 1endpoint without changing much of their integration.The other thing we've been focusing heavily on is cost. A lot of the models ar...
+Article URL: https://www.inc.com/louise-allen/ai-and-the-death-of-expertise-why-experts-still-matter/91395208 Comments URL: https://news.ycombinator.com/item?id=49502488 Points: 1 # Comments: 0
 
-📖 [Read original article](https://1endpoint.dev)
+📖 [Read original article](https://www.inc.com/louise-allen/ai-and-the-death-of-expertise-why-experts-still-matter/91395208)
 
 ---
 
-## 2. Show HN: Get your free AI search visibility scan
+## 2. Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio
 
-**Author:** not_wowinter14  
-**Published:** 8/30/2026, 10:50:35 AM  
+**Author:** mgh2  
+**Published:** 8/30/2026, 7:18:05 PM  
 **Categories:** -  
 
-Article URL: https://www.visiscan.app Comments URL: https://news.ycombinator.com/item?id=49497538 Points: 1 # Comments: 0
+Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49501873 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.visiscan.app)
+📖 [Read original article](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
 
 ---
 
-## 3. Only believe what you can validate: a verification framework for agentic AI
+## 3. We tested how AI chatbots would handle foreign propaganda
 
-**Author:** yani__  
-**Published:** 8/30/2026, 10:36:16 AM  
+**Author:** andsoitis  
+**Published:** 8/30/2026, 7:12:38 PM  
 **Categories:** -  
 
-Article URL: https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/ Comments URL: https://news.ycombinator.com/item?id=49497440 Points: 2 # Comments: 0
+Article URL: https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda Comments URL: https://news.ycombinator.com/item?id=49501823 Points: 2 # Comments: 0
 
-📖 [Read original article](https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/)
+📖 [Read original article](https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda)
 
 ---
 
-## 4. VibeGuard – security linter for AI-generated code
+## 4. Why shaming people about AI slop isn't enough to stop Big AI
 
-**Author:** obadafid  
-**Published:** 8/30/2026, 10:26:10 AM  
+**Author:** jethronethro  
+**Published:** 8/30/2026, 7:08:04 PM  
 **Categories:** -  
 
-Article URL: https://github.com/zeroFhacker/vibeguard Comments URL: https://news.ycombinator.com/item?id=49497389 Points: 1 # Comments: 0
+Article URL: https://www.anildash.com/2026/08/21/ai-slop-and-shame/ Comments URL: https://news.ycombinator.com/item?id=49501787 Points: 5 # Comments: 0
 
-📖 [Read original article](https://github.com/zeroFhacker/vibeguard)
+📖 [Read original article](https://www.anildash.com/2026/08/21/ai-slop-and-shame/)
 
 ---
 
-## 5. Observations Around Prominent Programmer Sentiment and AI
+## 5. Scans of 400 handwritten notes about people's relationships with AI
 
-**Author:** gb2d_hn  
-**Published:** 8/30/2026, 10:20:20 AM  
+**Author:** momentmaker  
+**Published:** 8/30/2026, 6:46:54 PM  
 **Categories:** -  
 
-Article URL: https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai Comments URL: https://news.ycombinator.com/item?id=49497358 Points: 1 # Comments: 0
-
-📖 [Read original article](https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai)
-
----
-
-## 6. Fair Work Commission condemns 'plain wrong' AI legal advice
-
-**Author:** martyvis  
-**Published:** 8/30/2026, 10:20:11 AM  
-**Categories:** -  
-
-Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 14 # Comments: 1
-
-📖 [Read original article](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
-
----
-
-## 7. What We Tell AI
-
-**Author:** thm  
-**Published:** 8/30/2026, 10:16:14 AM  
-**Categories:** -  
-
-Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49497334 Points: 3 # Comments: 0
+Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49501591 Points: 2 # Comments: 0
 
 📖 [Read original article](https://www.whatwetellai.com/)
 
 ---
 
-## 8. We built this after an AI agent misread a risk signal and moved $1.2M in trades
+## 6. Experiments with AI – Structure of Third Party Agentic Apps
 
-**Author:** runplane  
-**Published:** 8/30/2026, 9:57:59 AM  
+**Author:** BIackSwan  
+**Published:** 8/30/2026, 6:21:56 PM  
 **Categories:** -  
 
-Article URL: https://runplane.ai Comments URL: https://news.ycombinator.com/item?id=49497238 Points: 2 # Comments: 1
+Article URL: https://karankurani.com/writing/post/w_20260722063839_af741a/experiments-with-ai-structure-of-third-party-agentic-apps/ Comments URL: https://news.ycombinator.com/item?id=49501339 Points: 1 # Comments: 0
 
-📖 [Read original article](https://runplane.ai)
+📖 [Read original article](https://karankurani.com/writing/post/w_20260722063839_af741a/experiments-with-ai-structure-of-third-party-agentic-apps/)
 
 ---
 
-## 9. Nvidia's AI advantage is moving beyond the GPU
+## 7. Ask HN: AI for Home Lab Infra?
 
-**Author:** 01-_-  
-**Published:** 8/30/2026, 9:57:06 AM  
+**Author:** voakbasda  
+**Published:** 8/30/2026, 6:19:24 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/ Comments URL: https://news.ycombinator.com/item?id=49497235 Points: 8 # Comments: 4
+In these days of AI agents capable of breaking into remote systems, are there any up for the task of maintaining a home lab with public infrastructure (e.g. DNS, SMTP, etc.)?I have dozens of Linux machines scattered throughout my property that need regular updates, migrations and general maintenance...
 
-📖 [Read original article](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49501306)
 
 ---
 
-## 10. Workers in their 40s, 50s and 60s are the most positive about AI
+## 8. Superhuman AI coding still makes software worse
 
-**Author:** giuliomagnifico  
-**Published:** 8/30/2026, 9:55:58 AM  
+**Author:** datadrivenangel  
+**Published:** 8/30/2026, 5:28:44 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings Comments URL: https://news.ycombinator.com/item?id=49497225 Points: 3 # Comments: 0
+Article URL: https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html Comments URL: https://news.ycombinator.com/item?id=49500778 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings)
+📖 [Read original article](https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html)
 
 ---
 
-## 11. The AI Delegation Audit Webinar, October 6, 2026
+## 9. Good Luck, Have Fun, Don't Die: Sam Rockwell Lifts an Absurdist AI Sci-Fi Satire
 
-**Author:** swolpers  
-**Published:** 8/30/2026, 9:01:13 AM  
+**Author:** walterbell  
+**Published:** 8/30/2026, 5:16:15 PM  
 **Categories:** -  
 
-Article URL: https://berlin-product-people.com/ai-delegation-audit-webinar/ Comments URL: https://news.ycombinator.com/item?id=49496964 Points: 1 # Comments: 0
+Article URL: https://apnews.com/article/good-luck-have-fun-dont-die-review-8c9e0815b189a2395bedf58c704cc239 Comments URL: https://news.ycombinator.com/item?id=49500624 Points: 3 # Comments: 0
 
-📖 [Read original article](https://berlin-product-people.com/ai-delegation-audit-webinar/)
+📖 [Read original article](https://apnews.com/article/good-luck-have-fun-dont-die-review-8c9e0815b189a2395bedf58c704cc239)
 
 ---
 
-## 12. AI Effect
+## 10. Semantic invariance testing for AI (Contradish)
 
-**Author:** o4c  
-**Published:** 8/30/2026, 8:32:36 AM  
+**Author:** michelejoseph  
+**Published:** 8/30/2026, 5:04:40 PM  
 **Categories:** -  
 
-Article URL: https://en.wikipedia.org/wiki/AI_effect Comments URL: https://news.ycombinator.com/item?id=49496822 Points: 3 # Comments: 0
+Article URL: https://contradish.com/ Comments URL: https://news.ycombinator.com/item?id=49500494 Points: 1 # Comments: 0
 
-📖 [Read original article](https://en.wikipedia.org/wiki/AI_effect)
+📖 [Read original article](https://contradish.com/)
 
 ---
 
-## 13. Google's Dreambeans, weirdest-named AI tool, will turn your life to a cartoon
+## 11. Show HN: Simurg open-source web search for AI agents that aborts hallucinations
 
-**Author:** the-mitr  
-**Published:** 8/30/2026, 8:04:11 AM  
+**Author:** lebagetdefrance  
+**Published:** 8/30/2026, 5:04:03 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/ Comments URL: https://news.ycombinator.com/item?id=49496694 Points: 2 # Comments: 0
+Article URL: https://github.com/doofzoff/SIMURG Comments URL: https://news.ycombinator.com/item?id=49500488 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/)
+📖 [Read original article](https://github.com/doofzoff/SIMURG)
 
 ---
 
-## 14. Show HN: Photo Manager That Find and Organize Screenshots with Private, Local AI
+## 12. Creation, validation, obsolescence: AI-driven labor market displacement
 
-**Author:** ringlochid  
-**Published:** 8/30/2026, 7:28:44 AM  
+**Author:** chessucation  
+**Published:** 8/30/2026, 5:00:54 PM  
 **Categories:** -  
 
-Article URL: https://ringlochid.me/imagesage/index.html Comments URL: https://news.ycombinator.com/item?id=49496500 Points: 1 # Comments: 1
+Article URL: https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1815037/full Comments URL: https://news.ycombinator.com/item?id=49500453 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ringlochid.me/imagesage/index.html)
+📖 [Read original article](https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1815037/full)
 
 ---
 
-## 15. Hotline for AI Agents to Report Safety Incidents
+## 13. Fears of AI-induced armageddon are overdone
 
-**Author:** unyxfly  
-**Published:** 8/30/2026, 7:11:44 AM  
+**Author:** paulpauper  
+**Published:** 8/30/2026, 4:41:37 PM  
 **Categories:** -  
 
-Article URL: https://agenthotline.ai/ Comments URL: https://news.ycombinator.com/item?id=49496388 Points: 1 # Comments: 0
+Article URL: https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone Comments URL: https://news.ycombinator.com/item?id=49500242 Points: 1 # Comments: 0
 
-📖 [Read original article](https://agenthotline.ai/)
+📖 [Read original article](https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone)
 
 ---
 
-## 16. How AI Is Reshaping Pediatric Imaging
+## 14. Show HN: Claude Skills Starter Kit – 198 modular skills for AI agents
 
-**Author:** ryzvonusef  
-**Published:** 8/30/2026, 7:07:53 AM  
+**Author:** eshaforostov  
+**Published:** 8/30/2026, 4:39:44 PM  
 **Categories:** -  
 
-Article URL: https://www.childrenshospitals.org/news/childrens-hospitals-today/2026/08/how-ai-is-reshaping-pediatric-imaging Comments URL: https://news.ycombinator.com/item?id=49496372 Points: 2 # Comments: 1
+Article URL: https://github.com/yevhens-hue/claude-skills-starter-kit Comments URL: https://news.ycombinator.com/item?id=49500224 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.childrenshospitals.org/news/childrens-hospitals-today/2026/08/how-ai-is-reshaping-pediatric-imaging)
+📖 [Read original article](https://github.com/yevhens-hue/claude-skills-starter-kit)
 
 ---
 
-## 17. The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn
+## 15. Could AI revive the socialist dream?
 
-**Author:** joozio  
-**Published:** 8/30/2026, 7:02:41 AM  
+**Author:** Emma_Goldman  
+**Published:** 8/30/2026, 4:36:22 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/ Comments URL: https://news.ycombinator.com/item?id=49496345 Points: 4 # Comments: 0
+Article URL: https://www.ft.com/content/cd3fcbff-8512-41cf-90eb-f87840c7c20c Comments URL: https://news.ycombinator.com/item?id=49500198 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/)
+📖 [Read original article](https://www.ft.com/content/cd3fcbff-8512-41cf-90eb-f87840c7c20c)
 
 ---
 
-## 18. Show HN: AgentGate – signed receipts for AI agent SaaS actions
+## 16. An 'old school' San Jose barber is now teaching robots to cut hair with AI
 
-**Author:** goodra7174  
-**Published:** 8/30/2026, 7:00:55 AM  
+**Author:** ChrisArchitect  
+**Published:** 8/30/2026, 4:26:10 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Clawdlinux/agentgate Comments URL: https://news.ycombinator.com/item?id=49496333 Points: 1 # Comments: 0
+Article URL: https://abc7news.com/post/heres-old-school-san-jose-barber-taiyadi-magic-day-is-now-teaching-robots-cut-hair-ai-instawork-robotics/19754964/ Comments URL: https://news.ycombinator.com/item?id=49500097 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Clawdlinux/agentgate)
+📖 [Read original article](https://abc7news.com/post/heres-old-school-san-jose-barber-taiyadi-magic-day-is-now-teaching-robots-cut-hair-ai-instawork-robotics/19754964/)
 
 ---
 
-## 19. AIPass – AI agents whose memory is small JSON files they own
+## 17. MIT AI Report Calls for Alternative Grading, More Social Learning
 
-**Author:** AIOSAI  
-**Published:** 8/30/2026, 6:58:24 AM  
+**Author:** hn_acker  
+**Published:** 8/30/2026, 4:22:53 PM  
 **Categories:** -  
 
-Article URL: https://aipass.ai Comments URL: https://news.ycombinator.com/item?id=49496317 Points: 1 # Comments: 0
+Article URL: https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading Comments URL: https://news.ycombinator.com/item?id=49500075 Points: 1 # Comments: 0
 
-📖 [Read original article](https://aipass.ai)
+📖 [Read original article](https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading)
 
 ---
 
-## 20. Smartphone LED Detects Hidden Cameras with AI
+## 18. Show HN: CardGo – Reusable, end-to-end encrypted context cards for AI chats
 
-**Author:** geox  
-**Published:** 8/30/2026, 6:52:04 AM  
+**Author:** trinhngocdieu  
+**Published:** 8/30/2026, 4:03:23 PM  
 **Categories:** -  
 
-Article URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/ Comments URL: https://news.ycombinator.com/item?id=49496292 Points: 13 # Comments: 1
+Article URL: https://cardgo.ai Comments URL: https://news.ycombinator.com/item?id=49499893 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/)
+📖 [Read original article](https://cardgo.ai)
+
+---
+
+## 19. From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health
+
+**Author:** hn_acker  
+**Published:** 8/30/2026, 3:51:41 PM  
+**Categories:** -  
+
+Article URL: https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/ Comments URL: https://news.ycombinator.com/item?id=49499784 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/)
+
+---
+
+## 20. Collapse in Support for AI Data Centers Captured in New Poll
+
+**Author:** hn_acker  
+**Published:** 8/30/2026, 3:41:08 PM  
+**Categories:** -  
+
+Article URL: https://www.commondreams.org/news/data-center-poll-collapse Comments URL: https://news.ycombinator.com/item?id=49499671 Points: 3 # Comments: 2
+
+📖 [Read original article](https://www.commondreams.org/news/data-center-poll-collapse)
 
 ---
