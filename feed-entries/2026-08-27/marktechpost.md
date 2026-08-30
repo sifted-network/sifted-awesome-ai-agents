@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-27"
 date: "2026-08-27"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-08-27
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Every agent that writes code needs somewhere to run it, and no two vendors quote
 In this tutorial, we analyze Anthropic’s 1,440 AI-designed protein binder dataset to benchmark 10 leading structure predictors. Discover how target identity, expression titers, and consensus scoring impact experimental success and learn best practices for rigorous cross-validation in protein design ...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/)
-
----
-
-## 4. Google Research Introduces GlucoFM: A 0.72M-Parameter Dual-Stream Foundation Model for Continuous Glucose Monitoring
-
-**Author:** Michal Sutter  
-**Published:** 8/27/2026, 4:13:44 AM  
-**Categories:** AI Infrastructure, AI Paper Summary, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Staff, Tech News, Technology, Uncategorized  
-
-Google Research and UNSW Sydney released GlucoFM, a self-supervised foundation model that splits a CGM trace into a slow physiological stream and a transient event stream instead of encoding it as one sequence. At 0.72M parameters it reached 58.8 task-averaged PR-AUC across 14 cohort–task evaluation...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/)
 
 ---
