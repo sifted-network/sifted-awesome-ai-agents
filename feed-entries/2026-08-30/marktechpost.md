@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-30"
 date: "2026-08-30"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-08-30
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices
+## 1. Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds
+
+**Author:** Asif Razzaq  
+**Published:** 8/30/2026, 8:23:46 PM  
+**Categories:** Agentic AI, AI Agents, AI Infrastructure, AI Paper Summary, AI Shorts, Applications, Artificial Intelligence, Context Engineering, Editors Pick, Harness, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology, Uncategorized  
+
+Google Cloud AI Research, with Washington University in St. Louis and UNC Chapel Hill, has released EnvHarness, an Apache-2.0 layer that turns a static agent benchmark into one that adapts to the policy training on it. It wraps a frozen environment through the standard reset()/step() interface, so t...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/)
+
+---
+
+## 2. Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices
 
 **Author:** Asif Razzaq  
 **Published:** 8/30/2026, 6:12:21 AM  
@@ -23,7 +35,7 @@ Anthropic has opened a research preview of the Model Hardware Standard (MHS), a 
 
 ---
 
-## 2. Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs
+## 3. Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs
 
 **Author:** Michal Sutter  
 **Published:** 8/30/2026, 1:35:02 AM  
