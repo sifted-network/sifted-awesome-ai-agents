@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-27"
 date: "2026-08-27"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-08-27
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model t
 Every agent that writes code needs somewhere to run it, and no two vendors quote the same units. This comparison measures burst cold start across E2B, Daytona, Modal, Cloudflare, and Vercel, normalizes per-second rates to cost per 1,000 executions, and maps filesystem persistence, idle billing, and ...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/27/best-agent-sandboxes-2026-cold-start-pricing-network-policy/)
-
----
-
-## 3. From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance
-
-**Author:** Sana Hassan  
-**Published:** 8/27/2026, 3:36:29 PM  
-**Categories:** Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, Staff, Technology, Tutorials  
-
-In this tutorial, we analyze Anthropic’s 1,440 AI-designed protein binder dataset to benchmark 10 leading structure predictors. Discover how target identity, expression titers, and consensus scoring impact experimental success and learn best practices for rigorous cross-validation in protein design ...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/)
 
 ---
