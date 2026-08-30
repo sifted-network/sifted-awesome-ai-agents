@@ -2,107 +2,251 @@
 title: "Hacker News AI - 2026-08-30"
 date: "2026-08-30"
 source: "Hacker News AI"
-count: 8
+count: 20
 ---
 
 # Hacker News AI - 2026-08-30
 
-8 items collected.
+20 items collected.
 
 ---
 
-## 1. I ran out of AI tokens in one app while holding unused tokens in another
+## 1. Show HN: 1endpoint – Cheaper access to AI models
 
-**Author:** nextma  
-**Published:** 8/30/2026, 3:20:24 AM  
+**Author:** DustinPham12  
+**Published:** 8/30/2026, 11:13:32 AM  
 **Categories:** -  
 
-The problem is simple: AI tokens are locked to individual products.context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of tokens on the deployment agent. To keep using it, I either had to wait for tokens to reset or upgrade to a higher subscription or buy t...
+1endpoint is a unified AI inference gateway. We support OpenAI Chat Completions, Responses API and Anthropic Messages, so existing tools and agents can usually point to 1endpoint without changing much of their integration.The other thing we've been focusing heavily on is cost. A lot of the models ar...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49495398)
+📖 [Read original article](https://1endpoint.dev)
 
 ---
 
-## 2. China's AI Revolution and the Ideology of Xi Jinping
+## 2. Show HN: Get your free AI search visibility scan
 
-**Author:** verdverm  
-**Published:** 8/30/2026, 3:02:28 AM  
+**Author:** not_wowinter14  
+**Published:** 8/30/2026, 10:50:35 AM  
 **Categories:** -  
 
-Article URL: https://kevinrudd.com/media/anu-centre-for-china-in-the-world-annual-lecture-2026 Comments URL: https://news.ycombinator.com/item?id=49495307 Points: 1 # Comments: 1
+Article URL: https://www.visiscan.app Comments URL: https://news.ycombinator.com/item?id=49497538 Points: 1 # Comments: 0
 
-📖 [Read original article](https://kevinrudd.com/media/anu-centre-for-china-in-the-world-annual-lecture-2026)
+📖 [Read original article](https://www.visiscan.app)
 
 ---
 
-## 3. Best AI Quiz Generator?
+## 3. Only believe what you can validate: a verification framework for agentic AI
 
-**Author:** taimurkazmi  
-**Published:** 8/30/2026, 2:42:13 AM  
+**Author:** yani__  
+**Published:** 8/30/2026, 10:36:16 AM  
 **Categories:** -  
 
-Article URL: https://quizroom.ai Comments URL: https://news.ycombinator.com/item?id=49495208 Points: 1 # Comments: 1
+Article URL: https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/ Comments URL: https://news.ycombinator.com/item?id=49497440 Points: 2 # Comments: 0
 
-📖 [Read original article](https://quizroom.ai)
+📖 [Read original article](https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/)
 
 ---
 
-## 4. Meta Project OT plan to replace employees with AI agents
+## 4. VibeGuard – security linter for AI-generated code
 
-**Author:** elboru  
-**Published:** 8/30/2026, 2:01:08 AM  
+**Author:** obadafid  
+**Published:** 8/30/2026, 10:26:10 AM  
 **Categories:** -  
 
-Article URL: https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=49495009 Points: 10 # Comments: 5
+Article URL: https://github.com/zeroFhacker/vibeguard Comments URL: https://news.ycombinator.com/item?id=49497389 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence)
+📖 [Read original article](https://github.com/zeroFhacker/vibeguard)
 
 ---
 
-## 5. I feel like AI start being a reflect of the CEO behind it (his political)
+## 5. Observations Around Prominent Programmer Sentiment and AI
 
-**Author:** SachaSOL  
-**Published:** 8/30/2026, 1:20:17 AM  
+**Author:** gb2d_hn  
+**Published:** 8/30/2026, 10:20:20 AM  
 **Categories:** -  
 
-Article URL: https://baseline-rouge-mu.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49494801 Points: 1 # Comments: 1
+Article URL: https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai Comments URL: https://news.ycombinator.com/item?id=49497358 Points: 1 # Comments: 0
 
-📖 [Read original article](https://baseline-rouge-mu.vercel.app/)
+📖 [Read original article](https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai)
 
 ---
 
-## 6. AI is changing religion and religions are trying to change AI
+## 6. Fair Work Commission condemns 'plain wrong' AI legal advice
 
-**Author:** andsoitis  
-**Published:** 8/30/2026, 12:58:04 AM  
+**Author:** martyvis  
+**Published:** 8/30/2026, 10:20:11 AM  
 **Categories:** -  
 
-Article URL: https://economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai Comments URL: https://news.ycombinator.com/item?id=49494690 Points: 2 # Comments: 0
+Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 14 # Comments: 1
 
-📖 [Read original article](https://economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai)
+📖 [Read original article](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
 
 ---
 
-## 7. Crbro – Local, file-based persistent memory for AI agents (MCP)
+## 7. What We Tell AI
 
-**Author:** cerebromcp  
-**Published:** 8/30/2026, 12:55:12 AM  
+**Author:** thm  
+**Published:** 8/30/2026, 10:16:14 AM  
 **Categories:** -  
 
-Article URL: https://github.com/Octonove/crbro-memory Comments URL: https://news.ycombinator.com/item?id=49494676 Points: 1 # Comments: 0
+Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49497334 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/Octonove/crbro-memory)
+📖 [Read original article](https://www.whatwetellai.com/)
 
 ---
 
-## 8. Build Your Customer Service Team with AI Agents
+## 8. We built this after an AI agent misread a risk signal and moved $1.2M in trades
 
-**Author:** anaspro  
-**Published:** 8/30/2026, 12:49:35 AM  
+**Author:** runplane  
+**Published:** 8/30/2026, 9:57:59 AM  
 **Categories:** -  
 
-Article URL: https://aimujib.com/ Comments URL: https://news.ycombinator.com/item?id=49494653 Points: 2 # Comments: 1
+Article URL: https://runplane.ai Comments URL: https://news.ycombinator.com/item?id=49497238 Points: 2 # Comments: 1
 
-📖 [Read original article](https://aimujib.com/)
+📖 [Read original article](https://runplane.ai)
+
+---
+
+## 9. Nvidia's AI advantage is moving beyond the GPU
+
+**Author:** 01-_-  
+**Published:** 8/30/2026, 9:57:06 AM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/ Comments URL: https://news.ycombinator.com/item?id=49497235 Points: 8 # Comments: 4
+
+📖 [Read original article](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
+
+---
+
+## 10. Workers in their 40s, 50s and 60s are the most positive about AI
+
+**Author:** giuliomagnifico  
+**Published:** 8/30/2026, 9:55:58 AM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings Comments URL: https://news.ycombinator.com/item?id=49497225 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings)
+
+---
+
+## 11. The AI Delegation Audit Webinar, October 6, 2026
+
+**Author:** swolpers  
+**Published:** 8/30/2026, 9:01:13 AM  
+**Categories:** -  
+
+Article URL: https://berlin-product-people.com/ai-delegation-audit-webinar/ Comments URL: https://news.ycombinator.com/item?id=49496964 Points: 1 # Comments: 0
+
+📖 [Read original article](https://berlin-product-people.com/ai-delegation-audit-webinar/)
+
+---
+
+## 12. AI Effect
+
+**Author:** o4c  
+**Published:** 8/30/2026, 8:32:36 AM  
+**Categories:** -  
+
+Article URL: https://en.wikipedia.org/wiki/AI_effect Comments URL: https://news.ycombinator.com/item?id=49496822 Points: 3 # Comments: 0
+
+📖 [Read original article](https://en.wikipedia.org/wiki/AI_effect)
+
+---
+
+## 13. Google's Dreambeans, weirdest-named AI tool, will turn your life to a cartoon
+
+**Author:** the-mitr  
+**Published:** 8/30/2026, 8:04:11 AM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/ Comments URL: https://news.ycombinator.com/item?id=49496694 Points: 2 # Comments: 0
+
+📖 [Read original article](https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/)
+
+---
+
+## 14. Show HN: Photo Manager That Find and Organize Screenshots with Private, Local AI
+
+**Author:** ringlochid  
+**Published:** 8/30/2026, 7:28:44 AM  
+**Categories:** -  
+
+Article URL: https://ringlochid.me/imagesage/index.html Comments URL: https://news.ycombinator.com/item?id=49496500 Points: 1 # Comments: 1
+
+📖 [Read original article](https://ringlochid.me/imagesage/index.html)
+
+---
+
+## 15. Hotline for AI Agents to Report Safety Incidents
+
+**Author:** unyxfly  
+**Published:** 8/30/2026, 7:11:44 AM  
+**Categories:** -  
+
+Article URL: https://agenthotline.ai/ Comments URL: https://news.ycombinator.com/item?id=49496388 Points: 1 # Comments: 0
+
+📖 [Read original article](https://agenthotline.ai/)
+
+---
+
+## 16. How AI Is Reshaping Pediatric Imaging
+
+**Author:** ryzvonusef  
+**Published:** 8/30/2026, 7:07:53 AM  
+**Categories:** -  
+
+Article URL: https://www.childrenshospitals.org/news/childrens-hospitals-today/2026/08/how-ai-is-reshaping-pediatric-imaging Comments URL: https://news.ycombinator.com/item?id=49496372 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.childrenshospitals.org/news/childrens-hospitals-today/2026/08/how-ai-is-reshaping-pediatric-imaging)
+
+---
+
+## 17. The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn
+
+**Author:** joozio  
+**Published:** 8/30/2026, 7:02:41 AM  
+**Categories:** -  
+
+Article URL: https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/ Comments URL: https://news.ycombinator.com/item?id=49496345 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/)
+
+---
+
+## 18. Show HN: AgentGate – signed receipts for AI agent SaaS actions
+
+**Author:** goodra7174  
+**Published:** 8/30/2026, 7:00:55 AM  
+**Categories:** -  
+
+Article URL: https://github.com/Clawdlinux/agentgate Comments URL: https://news.ycombinator.com/item?id=49496333 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/Clawdlinux/agentgate)
+
+---
+
+## 19. AIPass – AI agents whose memory is small JSON files they own
+
+**Author:** AIOSAI  
+**Published:** 8/30/2026, 6:58:24 AM  
+**Categories:** -  
+
+Article URL: https://aipass.ai Comments URL: https://news.ycombinator.com/item?id=49496317 Points: 1 # Comments: 0
+
+📖 [Read original article](https://aipass.ai)
+
+---
+
+## 20. Smartphone LED Detects Hidden Cameras with AI
+
+**Author:** geox  
+**Published:** 8/30/2026, 6:52:04 AM  
+**Categories:** -  
+
+Article URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/ Comments URL: https://news.ycombinator.com/item?id=49496292 Points: 13 # Comments: 1
+
+📖 [Read original article](https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/)
 
 ---
