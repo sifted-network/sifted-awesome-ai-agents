@@ -2,251 +2,155 @@
 title: "Hacker News AI - 2026-08-29"
 date: "2026-08-29"
 source: "Hacker News AI"
-count: 20
+count: 12
 ---
 
 # Hacker News AI - 2026-08-29
 
-20 items collected.
+12 items collected.
 
 ---
 
-## 1. Show HN: Documentation.ai.md – a docs standard for AI agents, not humans
+## 1. OpenContext – Persistent, project-local memory for AI coding agents via MCP
 
-**Author:** iwasoft  
-**Published:** 8/29/2026, 8:22:29 PM  
+**Author:** slxca  
+**Published:** 8/29/2026, 11:24:44 PM  
 **Categories:** -  
 
-Article URL: https://github.com/iwasoftcom/ai-docs-standard Comments URL: https://news.ycombinator.com/item?id=49493041 Points: 1 # Comments: 0
+Article URL: https://www.opencntx.dev/ Comments URL: https://news.ycombinator.com/item?id=49494219 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/iwasoftcom/ai-docs-standard)
+📖 [Read original article](https://www.opencntx.dev/)
 
 ---
 
-## 2. Show HN: AI images and videos from text, free, no signup
+## 2. When AI Writes the Code Verification Is the New Implementation
 
-**Author:** wowinter15  
-**Published:** 8/29/2026, 8:19:57 PM  
+**Author:** TheSorcerer  
+**Published:** 8/29/2026, 11:20:55 PM  
 **Categories:** -  
 
-Article URL: https://seiseiai.io/ Comments URL: https://news.ycombinator.com/item?id=49493020 Points: 1 # Comments: 0
+Article URL: https://sarpex.com/2026/08-verification-is-the-new-implementation Comments URL: https://news.ycombinator.com/item?id=49494200 Points: 2 # Comments: 0
 
-📖 [Read original article](https://seiseiai.io/)
+📖 [Read original article](https://sarpex.com/2026/08-verification-is-the-new-implementation)
 
 ---
 
-## 3. Slop.speak – translate human speak to AI slop
+## 3. How Big Tech Blinded Itself to the Grassroots AI Revolt
 
-**Author:** daavidhauser  
-**Published:** 8/29/2026, 7:36:17 PM  
+**Author:** dnw  
+**Published:** 8/29/2026, 11:11:48 PM  
 **Categories:** -  
 
-Article URL: https://slop-speak.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49492659 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/tech/ai/how-big-tech-blinded-itself-to-the-grassroots-ai-revolt-cb6f5715 Comments URL: https://news.ycombinator.com/item?id=49494143 Points: 3 # Comments: 0
 
-📖 [Read original article](https://slop-speak.pages.dev/)
+📖 [Read original article](https://www.wsj.com/tech/ai/how-big-tech-blinded-itself-to-the-grassroots-ai-revolt-cb6f5715)
 
 ---
 
-## 4. AI and the Commons
+## 4. Show HN: VibeGuard – security linter for AI-generated code
 
-**Author:** arto  
-**Published:** 8/29/2026, 7:30:15 PM  
+**Author:** obadafid  
+**Published:** 8/29/2026, 11:04:03 PM  
 **Categories:** -  
 
-Article URL: https://creativecommons.org/ai-and-the-commons/ Comments URL: https://news.ycombinator.com/item?id=49492603 Points: 2 # Comments: 1
+Security linter for AI-generated code — catches what Copilot, Cursor and ChatGPT get wrong. SQL injection, hardcoded secrets, JWT bypass and 15+ more rules. Grade A–F. Zero config. Comments URL: https://news.ycombinator.com/item?id=49494097 Points: 1 # Comments: 1
 
-📖 [Read original article](https://creativecommons.org/ai-and-the-commons/)
+📖 [Read original article](https://github.com/zeroFhacker/vibeguard)
 
 ---
 
-## 5. Should the press \"run toward\" AI?
+## 5. The issue with AI video generation
 
-**Author:** thm  
-**Published:** 8/29/2026, 7:20:18 PM  
+**Author:** samit_manjunath  
+**Published:** 8/29/2026, 10:48:38 PM  
 **Categories:** -  
 
-Article URL: https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php Comments URL: https://news.ycombinator.com/item?id=49492523 Points: 1 # Comments: 0
+Article URL: https://dimension.so/ Comments URL: https://news.ycombinator.com/item?id=49494014 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php)
+📖 [Read original article](https://dimension.so/)
 
 ---
 
-## 6. All-in-one AI job search platform, resume to offer
+## 6. Show HN: Live AI video streams that write themselves one shot at a time
 
-**Author:** mynameisgoodi  
-**Published:** 8/29/2026, 7:20:09 PM  
+**Author:** mormonnegro  
+**Published:** 8/29/2026, 10:43:33 PM  
 **Categories:** -  
 
-Article URL: https://rezoom.io/ Comments URL: https://news.ycombinator.com/item?id=49492520 Points: 1 # Comments: 0
+Article URL: https://tv.mormon.garden Comments URL: https://news.ycombinator.com/item?id=49493966 Points: 1 # Comments: 0
 
-📖 [Read original article](https://rezoom.io/)
+📖 [Read original article](https://tv.mormon.garden)
 
 ---
 
-## 7. An infinite and interactive AI generated live stream of slop
+## 7. AI should be illegal until we figure out how to deal with its consequences
 
-**Author:** smusamashah  
-**Published:** 8/29/2026, 6:47:07 PM  
+**Author:** AmbroseBierce  
+**Published:** 8/29/2026, 10:40:14 PM  
 **Categories:** -  
 
-Article URL: https://skunkworks.levels.io/infinite-slop/ Comments URL: https://news.ycombinator.com/item?id=49492243 Points: 3 # Comments: 1
+Article URL: https://ivanca.github.io/ai/2026/08/29/ai-should-be-illegal-until-we-figure-out-how-to-deal-with-its-consequences/ Comments URL: https://news.ycombinator.com/item?id=49493940 Points: 3 # Comments: 2
 
-📖 [Read original article](https://skunkworks.levels.io/infinite-slop/)
+📖 [Read original article](https://ivanca.github.io/ai/2026/08/29/ai-should-be-illegal-until-we-figure-out-how-to-deal-with-its-consequences/)
 
 ---
 
-## 8. Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate
+## 8. What does it mean for data to be AI ready?
 
-**Author:** halilagin  
-**Published:** 8/29/2026, 6:34:03 PM  
+**Author:** sinab  
+**Published:** 8/29/2026, 10:35:25 PM  
 **Categories:** -  
 
-Hello Everyone,I have been working on Rysh (Apache 2.0 licence), a new AI harnessing tool that lets you have the followings1. Build fleet of agents that communicates to each other (CEO -> 5 Managers -> 20 Worker Agents ). Just talk to CEO agent to finish your tasks. It coordinates managers and manag...
+Article URL: https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html Comments URL: https://news.ycombinator.com/item?id=49493907 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/rysh-ai/rysh-cli-code)
+📖 [Read original article](https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html)
 
 ---
 
-## 9. AI Revives a Dead Sleep Company
+## 9. AI surveillance in schools raises safety and equity concerns
 
-**Author:** speckx  
-**Published:** 8/29/2026, 5:39:28 PM  
+**Author:** hn_acker  
+**Published:** 8/29/2026, 10:15:32 PM  
 **Categories:** -  
 
-Article URL: https://www.josephspurrier.com/ai-revives-a-dead-sleep-company Comments URL: https://news.ycombinator.com/item?id=49491715 Points: 2 # Comments: 0
+Article URL: https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/ Comments URL: https://news.ycombinator.com/item?id=49493775 Points: 4 # Comments: 5
 
-📖 [Read original article](https://www.josephspurrier.com/ai-revives-a-dead-sleep-company)
+📖 [Read original article](https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/)
 
 ---
 
-## 10. AI Models – Political Compass
+## 10. Research: Why You Shouldn't Treat AI Agents Like Employees
 
-**Author:** voisin  
-**Published:** 8/29/2026, 5:34:06 PM  
+**Author:** njrc  
+**Published:** 8/29/2026, 10:09:47 PM  
 **Categories:** -  
 
-Article URL: https://aipolcom.net/ Comments URL: https://news.ycombinator.com/item?id=49491676 Points: 1 # Comments: 0
+Article URL: https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees Comments URL: https://news.ycombinator.com/item?id=49493750 Points: 1 # Comments: 2
 
-📖 [Read original article](https://aipolcom.net/)
+📖 [Read original article](https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees)
 
 ---
 
-## 11. Good Culture Is the Biggest Productivity Hack, Not AI
+## 11. Simurg – free web search for your AI agents that aborts hallucinations
 
-**Author:** gpi  
-**Published:** 8/29/2026, 5:19:47 PM  
+**Author:** lebagetdefrance  
+**Published:** 8/29/2026, 9:43:31 PM  
 **Categories:** -  
 
-Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 120 # Comments: 21
+Article URL: https://pypi.org/project/simurg/ Comments URL: https://news.ycombinator.com/item?id=49493608 Points: 1 # Comments: 0
 
-📖 [Read original article](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
+📖 [Read original article](https://pypi.org/project/simurg/)
 
 ---
 
-## 12. AI reconstructs first Bundesliga goal from 1963
+## 12. Will financing bottleneck AI compute? An Anthropic case study
 
-**Author:** zirkuswurstikus  
-**Published:** 8/29/2026, 5:12:51 PM  
+**Author:** gmays  
+**Published:** 8/29/2026, 9:41:20 PM  
 **Categories:** -  
 
-Article URL: https://www.heise.de/en/news/AI-reconstructs-first-Bundesliga-goal-from-1963-11434229.html Comments URL: https://news.ycombinator.com/item?id=49491536 Points: 1 # Comments: 1
+Article URL: https://epochai.substack.com/p/will-financing-bottleneck-ai-compute Comments URL: https://news.ycombinator.com/item?id=49493595 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.heise.de/en/news/AI-reconstructs-first-Bundesliga-goal-from-1963-11434229.html)
-
----
-
-## 13. Raised on AI
-
-**Author:** joozio  
-**Published:** 8/29/2026, 5:01:36 PM  
-**Categories:** -  
-
-Article URL: https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/ Comments URL: https://news.ycombinator.com/item?id=49491457 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/)
-
----
-
-## 14. I hate AI images and music
-
-**Author:** speckx  
-**Published:** 8/29/2026, 5:00:28 PM  
-**Categories:** -  
-
-Article URL: https://mat.leaflet.pub/3mu35coarbs2o Comments URL: https://news.ycombinator.com/item?id=49491447 Points: 8 # Comments: 0
-
-📖 [Read original article](https://mat.leaflet.pub/3mu35coarbs2o)
-
----
-
-## 15. I Built a Headless Browser for AI Agents in Rust. No Chromium, No V8
-
-**Author:** syumei  
-**Published:** 8/29/2026, 4:53:51 PM  
-**Categories:** -  
-
-Article URL: https://medium.com/@Koukyosyumei/i-built-a-headless-browser-for-ai-agents-entirely-in-rust-no-chromium-no-v8-3750908b8145 Comments URL: https://news.ycombinator.com/item?id=49491404 Points: 3 # Comments: 0
-
-📖 [Read original article](https://medium.com/@Koukyosyumei/i-built-a-headless-browser-for-ai-agents-entirely-in-rust-no-chromium-no-v8-3750908b8145)
-
----
-
-## 16. Three mistakes of new AI teams
-
-**Author:** Tomte  
-**Published:** 8/29/2026, 4:45:09 PM  
-**Categories:** -  
-
-Article URL: https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes.html Comments URL: https://news.ycombinator.com/item?id=49491335 Points: 3 # Comments: 0
-
-📖 [Read original article](https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes.html)
-
----
-
-## 17. The growing divide between AI hype and software engineering reality
-
-**Author:** jruohonen  
-**Published:** 8/29/2026, 4:16:32 PM  
-**Categories:** -  
-
-Article URL: https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/ Comments URL: https://news.ycombinator.com/item?id=49491113 Points: 53 # Comments: 59
-
-📖 [Read original article](https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/)
-
----
-
-## 18. The first AI use case that genuinely saves me time (outside of programming)
-
-**Author:** tducret  
-**Published:** 8/29/2026, 3:45:24 PM  
-**Categories:** -  
-
-Article URL: https://ducret.dev/grocery-shopping-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49490849 Points: 1 # Comments: 0
-
-📖 [Read original article](https://ducret.dev/grocery-shopping-with-ai/)
-
----
-
-## 19. Google further buries search results under AI mode
-
-**Author:** chicken-stew  
-**Published:** 8/29/2026, 3:21:06 PM  
-**Categories:** -  
-
-Article URL: https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand Comments URL: https://news.ycombinator.com/item?id=49490648 Points: 4 # Comments: 2
-
-📖 [Read original article](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)
-
----
-
-## 20. BoqCalc, an AI pipeline that prices a 500-line BOQ without hallucinating rates
-
-**Author:** boqcalc  
-**Published:** 8/29/2026, 2:53:29 PM  
-**Categories:** -  
-
-Article URL: https://boqcalc.com Comments URL: https://news.ycombinator.com/item?id=49490410 Points: 1 # Comments: 0
-
-📖 [Read original article](https://boqcalc.com)
+📖 [Read original article](https://epochai.substack.com/p/will-financing-bottleneck-ai-compute)
 
 ---
