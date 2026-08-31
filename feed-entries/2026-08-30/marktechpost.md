@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-30"
 date: "2026-08-30"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-08-30
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds
+## 1. Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark
+
+**Author:** Asif Razzaq  
+**Published:** 8/30/2026, 9:24:38 PM  
+**Categories:** Agentic AI, Artificial Intelligence, Audio Language Model, Comparison, Editors Pick, Language Model, Staff, Technology, Text to Audio, Voice AI  
+
+Voice agents fail on latency long before they fail on intelligence. Time to first token is the metric most teams use to choose an inference API, and it is the right starting point and the wrong stopping point. This benchmark works through every layer of the voice stack — LLM, speech-to-text, text-to...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/)
+
+---
+
+## 2. Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds
 
 **Author:** Asif Razzaq  
 **Published:** 8/30/2026, 8:23:46 PM  
@@ -23,7 +35,7 @@ Google Cloud AI Research, with Washington University in St. Louis and UNC Chapel
 
 ---
 
-## 2. Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices
+## 3. Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices
 
 **Author:** Asif Razzaq  
 **Published:** 8/30/2026, 6:12:21 AM  
@@ -35,7 +47,7 @@ Anthropic has opened a research preview of the Model Hardware Standard (MHS), a 
 
 ---
 
-## 3. Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs
+## 4. Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs
 
 **Author:** Michal Sutter  
 **Published:** 8/30/2026, 1:35:02 AM  
