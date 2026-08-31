@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-29"
 date: "2026-08-29"
 source: "qbitai"
-count: 4
+count: 3
 ---
 
 # qbitai - 2026-08-29
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ count: 4
 AI「自进化」，越来越近了
 
 📖 [Read original article](https://www.qbitai.com/2026/08/481223.html)
-
----
-
-## 4. 20ms把PDF变成Markdown！开源OCR神器快了近300倍
-
-**Author:** 文婷  
-**Published:** 8/29/2026, 12:26:49 PM  
-**Categories:** 资讯, 开源  
-
-3秒可处理200份PDF
-
-📖 [Read original article](https://www.qbitai.com/2026/08/481075.html)
 
 ---
