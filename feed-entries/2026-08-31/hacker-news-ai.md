@@ -2,179 +2,251 @@
 title: "Hacker News AI - 2026-08-31"
 date: "2026-08-31"
 source: "Hacker News AI"
-count: 14
+count: 20
 ---
 
 # Hacker News AI - 2026-08-31
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. Care for a Little More AI?
+## 1. AI in Education Knowledge Base
 
-**Author:** Shuddown  
-**Published:** 8/31/2026, 4:12:01 AM  
+**Author:** edtechdev  
+**Published:** 8/31/2026, 12:48:35 PM  
 **Categories:** -  
 
-Article URL: https://proofsandprompts.com/2026/08/30/care-for-a-little-more-ai/ Comments URL: https://news.ycombinator.com/item?id=49505470 Points: 1 # Comments: 0
+Article URL: https://edtechdev.github.io/aied/ Comments URL: https://news.ycombinator.com/item?id=49509073 Points: 1 # Comments: 1
 
-📖 [Read original article](https://proofsandprompts.com/2026/08/30/care-for-a-little-more-ai/)
+📖 [Read original article](https://edtechdev.github.io/aied/)
 
 ---
 
-## 2. Ask HN: What's the most thoughtful AI product you've seen?
+## 2. A new class of memory-based AI (MIRaS) published this week
 
-**Author:** asdev  
-**Published:** 8/31/2026, 4:03:33 AM  
+**Author:** CTBI_WUSTL  
+**Published:** 8/31/2026, 12:48:18 PM  
 **Categories:** -  
 
-What's the highest quality and best crafted AI product you've come across so far? Something with a great user experience, no jank or slop, that satisfies a purpose or goal seamlessly. Comments URL: https://news.ycombinator.com/item?id=49505429 Points: 2 # Comments: 1
+Article URL: https://academic.oup.com/nar/article/54/16/gkag833/8769250 Comments URL: https://news.ycombinator.com/item?id=49509068 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49505429)
+📖 [Read original article](https://academic.oup.com/nar/article/54/16/gkag833/8769250)
 
 ---
 
-## 3. The EU has begun enforcing the AI Act: first RFIs to model providers
+## 3. AI and Employment: So Far, So Good
 
-**Author:** cdnsteve  
-**Published:** 8/31/2026, 3:45:57 AM  
+**Author:** garrickvanburen  
+**Published:** 8/31/2026, 12:47:56 PM  
 **Categories:** -  
 
-Article URL: https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis Comments URL: https://news.ycombinator.com/item?id=49505351 Points: 7 # Comments: 0
+Article URL: https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html Comments URL: https://news.ycombinator.com/item?id=49509066 Points: 1 # Comments: 0
 
-📖 [Read original article](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis)
+📖 [Read original article](https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html)
 
 ---
 
-## 4. Show HN: Growtics – an AI growth agent that tells you what to do next
+## 4. Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio
 
-**Author:** jabed  
-**Published:** 8/31/2026, 3:00:10 AM  
+**Author:** thm  
+**Published:** 8/31/2026, 12:41:22 PM  
 **Categories:** -  
 
-Article URL: https://growtics.io Comments URL: https://news.ycombinator.com/item?id=49505111 Points: 1 # Comments: 0
+Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 2 # Comments: 0
 
-📖 [Read original article](https://growtics.io)
+📖 [Read original article](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
 
 ---
 
-## 5. Glean: Run an AI skill only over what changed since it last ran
+## 5. AI is hurting US politics. Here’s how candidates could use it for good
 
-**Author:** malucelli  
-**Published:** 8/31/2026, 2:39:48 AM  
+**Author:** mitchbob  
+**Published:** 8/31/2026, 12:27:58 PM  
 **Categories:** -  
 
-Article URL: https://github.com/amalucelli/glean Comments URL: https://news.ycombinator.com/item?id=49505007 Points: 2 # Comments: 0
+Article URL: https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters Comments URL: https://news.ycombinator.com/item?id=49508856 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/amalucelli/glean)
+📖 [Read original article](https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters)
 
 ---
 
-## 6. DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned
+## 6. An AI coding agent silently erased 92% of AI nodes in n8n's most-cited dataset
 
-**Author:** razorbeamz  
-**Published:** 8/31/2026, 2:39:48 AM  
+**Author:** ahunia  
+**Published:** 8/31/2026, 12:16:30 PM  
 **Categories:** -  
 
-Article URL: https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335 Comments URL: https://news.ycombinator.com/item?id=49505006 Points: 6 # Comments: 0
+Article URL: https://sevenedge.pl/en/blog/an-ai-agent-erased-n8ns-ai-agent-nodes Comments URL: https://news.ycombinator.com/item?id=49508746 Points: 1 # Comments: 0
 
-📖 [Read original article](https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335)
+📖 [Read original article](https://sevenedge.pl/en/blog/an-ai-agent-erased-n8ns-ai-agent-nodes)
 
 ---
 
-## 7. Steer: Deny or rewrite an AI agent's tool calls before they run
+## 7. AI-Written Code Is Still *Your* Code. Are You OK with That?
 
-**Author:** malucelli  
-**Published:** 8/31/2026, 2:38:33 AM  
+**Author:** martylamb  
+**Published:** 8/31/2026, 12:08:25 PM  
 **Categories:** -  
 
-Article URL: https://github.com/amalucelli/steer Comments URL: https://news.ycombinator.com/item?id=49505003 Points: 2 # Comments: 0
+Article URL: https://martiansoftware.com/articles/ai-written-code-is-still-yours Comments URL: https://news.ycombinator.com/item?id=49508664 Points: 29 # Comments: 19
 
-📖 [Read original article](https://github.com/amalucelli/steer)
+📖 [Read original article](https://martiansoftware.com/articles/ai-written-code-is-still-yours)
 
 ---
 
-## 8. Which AI Do You Think Will Have the Greatest Impact on the World?
+## 8. Energy biz SSE smacked around in court by a guy and AI
 
-**Author:** SudilaDasun  
-**Published:** 8/31/2026, 2:29:33 AM  
+**Author:** sbulaev  
+**Published:** 8/31/2026, 12:07:07 PM  
 **Categories:** -  
 
-Is it ChatGPT, Gemini, Claude, or something else entirely? I plan to share my thoughts on that a bit later but for today, let's dive into our story. You’ve probably all noticed that beautiful, soft blue light animation that glows at the bottom the moment you open Gemini, right? Yes, it really is stu...
+Article URL: https://www.theregister.com/ai-and-ml/2026/08/31/energy-biz-sse-smacked-around-in-court-by-a-guy-and-ai/5293391 Comments URL: https://news.ycombinator.com/item?id=49508650 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49504949)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/08/31/energy-biz-sse-smacked-around-in-court-by-a-guy-and-ai/5293391)
 
 ---
 
-## 9. The Part of Me That Doesn't Believe AI Is Fine
+## 9. Ask HN: What companies have discussed their AI/agentic workflows?
 
-**Author:** sambellll  
-**Published:** 8/31/2026, 2:10:10 AM  
+**Author:** bigbinary  
+**Published:** 8/31/2026, 12:05:25 PM  
 **Categories:** -  
 
-Article URL: https://danunparsed.com/p/ai-is-fine Comments URL: https://news.ycombinator.com/item?id=49504839 Points: 1 # Comments: 0
+Looking to learn what agentic engineering looks like in different places. My current favorite deep dive into a professional coding environment has been Wes McKinney’s “How Kenn is doing Agentic Engineering“ [1], but I’d like to know if anyone has seen similar (or debatably better) blog posts or arti...
 
-📖 [Read original article](https://danunparsed.com/p/ai-is-fine)
+📖 [Read original article](https://news.ycombinator.com/item?id=49508643)
 
 ---
 
-## 10. HermOS – a local-first AI agent IDE
+## 10. Advertisers are trying to influence AI bots with secret ads
 
-**Author:** WFekik  
-**Published:** 8/31/2026, 2:09:41 AM  
+**Author:** tcp_handshaker  
+**Published:** 8/31/2026, 12:03:18 PM  
 **Categories:** -  
 
-Article URL: https://hermos.is-a.dev/ Comments URL: https://news.ycombinator.com/item?id=49504833 Points: 2 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093 Comments URL: https://news.ycombinator.com/item?id=49508630 Points: 3 # Comments: 0
 
-📖 [Read original article](https://hermos.is-a.dev/)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093)
 
 ---
 
-## 11. Clips Kitty Open-source local AI video clipping and editing
+## 11. Build good decks using your AI
 
-**Author:** ColinGPT  
-**Published:** 8/31/2026, 1:31:48 AM  
+**Author:** kritikmodi  
+**Published:** 8/31/2026, 12:00:55 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ColinGPT9/clips-studio Comments URL: https://news.ycombinator.com/item?id=49504646 Points: 1 # Comments: 1
+Article URL: https://github.com/kritikmodi/deckloom Comments URL: https://news.ycombinator.com/item?id=49508604 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/ColinGPT9/clips-studio)
+📖 [Read original article](https://github.com/kritikmodi/deckloom)
 
 ---
 
-## 12. AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI
+## 12. Hollywood studios have sued over AI. Now Google's courting them to use its tools
 
-**Author:** Jimmc414  
-**Published:** 8/31/2026, 12:37:46 AM  
+**Author:** thm  
+**Published:** 8/31/2026, 11:58:16 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2608.26418 Comments URL: https://news.ycombinator.com/item?id=49504351 Points: 2 # Comments: 0
+Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-08-31/how-google-is-courting-hollywood-to-use-its-ai-tools Comments URL: https://news.ycombinator.com/item?id=49508579 Points: 3 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2608.26418)
+📖 [Read original article](https://www.latimes.com/entertainment-arts/business/story/2026-08-31/how-google-is-courting-hollywood-to-use-its-ai-tools)
 
 ---
 
-## 13. Will anybody use AI as much as coders?
+## 13. Datadog saves over $1M each month by optimizing AI usage
 
-**Author:** tagawa  
-**Published:** 8/31/2026, 12:06:42 AM  
+**Author:** darccio  
+**Published:** 8/31/2026, 11:44:50 AM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders Comments URL: https://news.ycombinator.com/item?id=49504154 Points: 2 # Comments: 2
+Article URL: https://www.datadoghq.com/blog/how-datadog-saves-money-by-optimizing-ai-usage/ Comments URL: https://news.ycombinator.com/item?id=49508500 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders)
+📖 [Read original article](https://www.datadoghq.com/blog/how-datadog-saves-money-by-optimizing-ai-usage/)
 
 ---
 
-## 14. Israel Is Running a Synthetic Think Tank to Influence AI Search Results
+## 14. What I Learned About AI Trust from Reconciling over 100B Transactions
 
-**Author:** Jimmc414  
-**Published:** 8/31/2026, 12:02:21 AM  
+**Author:** Cellz  
+**Published:** 8/31/2026, 11:34:28 AM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/ Comments URL: https://news.ycombinator.com/item?id=49504123 Points: 6 # Comments: 0
+Article URL: https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling Comments URL: https://news.ycombinator.com/item?id=49508443 Points: 8 # Comments: 6
 
-📖 [Read original article](https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/)
+📖 [Read original article](https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling)
+
+---
+
+## 15. Andrew Ng: the biggest opportunities in AI
+
+**Author:** lifeisstillgood  
+**Published:** 8/31/2026, 11:09:59 AM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=o-wv_szZ0V0 Comments URL: https://news.ycombinator.com/item?id=49508275 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=o-wv_szZ0V0)
+
+---
+
+## 16. You Know Who Hates AI? Insurance Claims Adjusters
+
+**Author:** joozio  
+**Published:** 8/31/2026, 11:01:19 AM  
+**Categories:** -  
+
+Article URL: https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/ Comments URL: https://news.ycombinator.com/item?id=49508225 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/)
+
+---
+
+## 17. An AI agent is a background job, not a web request
+
+**Author:** nitishagar  
+**Published:** 8/31/2026, 11:01:06 AM  
+**Categories:** -  
+
+Article URL: https://nitishagar.medium.com/an-agent-is-a-job-not-an-api-7673b837bd11 Comments URL: https://news.ycombinator.com/item?id=49508223 Points: 2 # Comments: 0
+
+📖 [Read original article](https://nitishagar.medium.com/an-agent-is-a-job-not-an-api-7673b837bd11)
+
+---
+
+## 18. The AI-Native SDLC Starts with Your Infrastructure
+
+**Author:** aviramha  
+**Published:** 8/31/2026, 10:57:30 AM  
+**Categories:** -  
+
+Article URL: https://metalbear.com/blog/ai-native-sdlc-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=49508200 Points: 6 # Comments: 0
+
+📖 [Read original article](https://metalbear.com/blog/ai-native-sdlc-infrastructure/)
+
+---
+
+## 19. Show HN: AI studio with 500 models for headshots, video and images
+
+**Author:** not_wowinter14  
+**Published:** 8/31/2026, 10:52:14 AM  
+**Categories:** -  
+
+Article URL: https://magicshot.ai Comments URL: https://news.ycombinator.com/item?id=49508159 Points: 3 # Comments: 0
+
+📖 [Read original article](https://magicshot.ai)
+
+---
+
+## 20. Local AI Is Dead. You Are at the Funeral
+
+**Author:** tosh  
+**Published:** 8/31/2026, 10:50:32 AM  
+**Categories:** -  
+
+Article URL: https://twitter.com/ivanburazin/status/2094373912154874171 Comments URL: https://news.ycombinator.com/item?id=49508151 Points: 6 # Comments: 10
+
+📖 [Read original article](https://twitter.com/ivanburazin/status/2094373912154874171)
 
 ---
