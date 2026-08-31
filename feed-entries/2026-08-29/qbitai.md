@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-29"
 date: "2026-08-29"
 source: "qbitai"
-count: 7
+count: 4
 ---
 
 # qbitai - 2026-08-29
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ AI「自进化」，越来越近了
 3秒可处理200份PDF
 
 📖 [Read original article](https://www.qbitai.com/2026/08/481075.html)
-
----
-
-## 5. Coding不再是程序员专属！阿里Qoder这波有点绝
-
-**Author:** 闻乐  
-**Published:** 8/29/2026, 12:11:37 PM  
-**Categories:** 资讯  
-
-Coding正在变成Al世界的数字执行力
-
-📖 [Read original article](https://www.qbitai.com/2026/08/480940.html)
-
----
-
-## 6. OpenClaw：红过，爱过，散了
-
-**Author:** 梦瑶  
-**Published:** 8/29/2026, 12:00:51 PM  
-**Categories:** 资讯, OpenClaw  
-
-龙虾退潮，Harness上位
-
-📖 [Read original article](https://www.qbitai.com/2026/08/480855.html)
-
----
-
-## 7. 32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作
-
-**Author:** 量子位的朋友们  
-**Published:** 8/29/2026, 11:35:57 AM  
-**Categories:** 资讯, GPU, 英特尔, 锐炫Pro B70  
-
-从剧本到成片
-
-📖 [Read original article](https://www.qbitai.com/2026/08/480787.html)
 
 ---
