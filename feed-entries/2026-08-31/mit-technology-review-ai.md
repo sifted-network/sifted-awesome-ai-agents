@@ -11,7 +11,7 @@ count: 1
 
 ---
 
-## 1. Hugging Face hack could indicate cultural issues at OpenAI
+## 1. The Hugging Face hack could indicate cultural issues at OpenAI
 
 **Author:** Grace Huckins  
 **Published:** 8/31/2026, 6:00:00 PM  
