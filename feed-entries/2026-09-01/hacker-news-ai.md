@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: AI-powered link building and SEO outreach, smarter
+## 1. Dwarf Fortress' creator says the industry's in shambles over AI
 
-**Author:** not_wowinter14  
-**Published:** 9/1/2026, 10:54:15 AM  
+**Author:** Limb  
+**Published:** 9/1/2026, 3:53:42 PM  
 **Categories:** -  
 
-Article URL: https://outreachlooper.com Comments URL: https://news.ycombinator.com/item?id=49520253 Points: 1 # Comments: 0
+Article URL: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49523720 Points: 1 # Comments: 0
 
-📖 [Read original article](https://outreachlooper.com)
+📖 [Read original article](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/)
 
 ---
 
-## 2. We Let AI Agents Rewrite a 92M-Message-a-Day Service in Go
+## 2. How AI code review is changing pull requests
 
-**Author:** tnolet  
-**Published:** 9/1/2026, 10:50:46 AM  
+**Author:** alediaferia  
+**Published:** 9/1/2026, 3:52:36 PM  
 **Categories:** -  
 
-Article URL: https://www.checklyhq.com/blog/agentic-rewrite-nodejs-to-go/ Comments URL: https://news.ycombinator.com/item?id=49520229 Points: 3 # Comments: 0
+Article URL: https://themainthread.substack.com/p/how-ai-code-review-changing-pull-request Comments URL: https://news.ycombinator.com/item?id=49523699 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.checklyhq.com/blog/agentic-rewrite-nodejs-to-go/)
+📖 [Read original article](https://themainthread.substack.com/p/how-ai-code-review-changing-pull-request)
 
 ---
 
-## 3. Can we stop AI from deceiving us?
+## 3. Tyler Cowen: Should You Believe the Dire Warnings About 'AI Takeover'?
 
-**Author:** Archelaos  
-**Published:** 9/1/2026, 10:46:05 AM  
+**Author:** paulpauper  
+**Published:** 9/1/2026, 3:51:55 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us Comments URL: https://news.ycombinator.com/item?id=49520204 Points: 2 # Comments: 0
+Article URL: https://www.thefp.com/p/tyler-cowen-artificial-intelligence-takeover-hugging-face Comments URL: https://news.ycombinator.com/item?id=49523688 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us)
+📖 [Read original article](https://www.thefp.com/p/tyler-cowen-artificial-intelligence-takeover-hugging-face)
 
 ---
 
-## 4. AI Orchestrator that self-learns, run's teams and never sleeps
+## 4. People in China are more optimistic about AI technology than Americans
 
-**Author:** dalekirkwood  
-**Published:** 9/1/2026, 10:41:45 AM  
+**Author:** yogthos  
+**Published:** 9/1/2026, 3:51:51 PM  
 **Categories:** -  
 
-Article URL: https://crewmoot.hellodexter.com/ Comments URL: https://news.ycombinator.com/item?id=49520175 Points: 1 # Comments: 1
+Article URL: https://www.nytimes.com/2026/08/26/world/china-ai-nepal-tibet-flood.html Comments URL: https://news.ycombinator.com/item?id=49523685 Points: 1 # Comments: 0
 
-📖 [Read original article](https://crewmoot.hellodexter.com/)
+📖 [Read original article](https://www.nytimes.com/2026/08/26/world/china-ai-nepal-tibet-flood.html)
 
 ---
 
-## 5. Verba: Learn a language by talking to an AI never touches the internet
+## 5. 'Superhuman' AI tool spots heart disease in less than 2 seconds
 
-**Author:** timeoperator  
-**Published:** 9/1/2026, 10:41:34 AM  
+**Author:** Brajeshwar  
+**Published:** 9/1/2026, 3:50:23 PM  
 **Categories:** -  
 
-Article URL: https://github.com/nuvocode/verba Comments URL: https://news.ycombinator.com/item?id=49520173 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease Comments URL: https://news.ycombinator.com/item?id=49523667 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/nuvocode/verba)
+📖 [Read original article](https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease)
 
 ---
 
-## 6. Show HN: I built a live stream site where every spot is instantly AI-generated
+## 6. Show HN: Redash Fork with AI Capabilities
 
-**Author:** Paul_Grsl  
-**Published:** 9/1/2026, 10:35:55 AM  
+**Author:** evgy  
+**Published:** 9/1/2026, 3:29:19 PM  
 **Categories:** -  
 
-Article URL: https://videoai.me/live Comments URL: https://news.ycombinator.com/item?id=49520151 Points: 2 # Comments: 0
+Article URL: https://github.com/freaker2k7/redash Comments URL: https://news.ycombinator.com/item?id=49523302 Points: 2 # Comments: 0
 
-📖 [Read original article](https://videoai.me/live)
+📖 [Read original article](https://github.com/freaker2k7/redash)
 
 ---
 
-## 7. I Tried Every AI Browser, Then Went Back to Safari
+## 7. You are an AI Assistant, but what am I? Why I always tell my Agent I'm an expert
 
-**Author:** syumei  
-**Published:** 9/1/2026, 10:21:44 AM  
+**Author:** recurrence  
+**Published:** 9/1/2026, 3:26:53 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@patricecunliffe/i-tried-every-ai-browser-then-went-back-to-safari-b43ccdeff7a5 Comments URL: https://news.ycombinator.com/item?id=49520073 Points: 3 # Comments: 0
+Article URL: https://shimin.io/journal/why-i-tell-my-agent-im-an-expert-at-everything/ Comments URL: https://news.ycombinator.com/item?id=49523258 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@patricecunliffe/i-tried-every-ai-browser-then-went-back-to-safari-b43ccdeff7a5)
+📖 [Read original article](https://shimin.io/journal/why-i-tell-my-agent-im-an-expert-at-everything/)
 
 ---
 
-## 8. Ethical AI that respects privacy and the planet
+## 8. Ben-Gvir posts then deletes AI video showing starvation of Palestinians
 
-**Author:** tagyro  
-**Published:** 9/1/2026, 9:30:45 AM  
+**Author:** slowin  
+**Published:** 9/1/2026, 3:24:44 PM  
 **Categories:** -  
 
-Article URL: https://www.infomaniak.com/en/apps/download-euria Comments URL: https://news.ycombinator.com/item?id=49519812 Points: 2 # Comments: 1
+Article URL: https://twitter.com/KweenInYellow/status/2094549290953715717 Comments URL: https://news.ycombinator.com/item?id=49523224 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.infomaniak.com/en/apps/download-euria)
+📖 [Read original article](https://twitter.com/KweenInYellow/status/2094549290953715717)
 
 ---
 
-## 9. AI Mobile App Development Company: Services and Platform Guide – Kellton
+## 9. Instinct's powerful AI assistant is raising privacy and security concerns
 
-**Author:** Priyasinhakt  
-**Published:** 9/1/2026, 9:30:17 AM  
+**Author:** wslh  
+**Published:** 9/1/2026, 3:22:21 PM  
 **Categories:** -  
 
-Article URL: https://www.kellton.com/product-engineering/ai-app-development-services Comments URL: https://news.ycombinator.com/item?id=49519809 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/ Comments URL: https://news.ycombinator.com/item?id=49523190 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.kellton.com/product-engineering/ai-app-development-services)
+📖 [Read original article](https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/)
 
 ---
 
-## 10. Infinite Slop: An endless AI-generated TV channel
+## 10. DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding and Linux [video]
 
-**Author:** rzk  
-**Published:** 9/1/2026, 9:10:42 AM  
+**Author:** tosh  
+**Published:** 9/1/2026, 3:21:08 PM  
 **Categories:** -  
 
-Article URL: https://infiniteslop.ai Comments URL: https://news.ycombinator.com/item?id=49519714 Points: 1 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=NYFGCESmikA Comments URL: https://news.ycombinator.com/item?id=49523168 Points: 5 # Comments: 0
 
-📖 [Read original article](https://infiniteslop.ai)
+📖 [Read original article](https://www.youtube.com/watch?v=NYFGCESmikA)
 
 ---
 
-## 11. Russian missile uses Nvidia AI chip to help target Ukraine
+## 11. Your AI Output Is Someone Else's Input
 
-**Author:** lambdaone  
-**Published:** 9/1/2026, 9:06:46 AM  
+**Author:** ilreb  
+**Published:** 9/1/2026, 3:17:35 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976 Comments URL: https://news.ycombinator.com/item?id=49519687 Points: 3 # Comments: 2
+Article URL: https://www.robinwieruch.de/ai-output-someone-elses-input/ Comments URL: https://news.ycombinator.com/item?id=49523127 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976)
+📖 [Read original article](https://www.robinwieruch.de/ai-output-someone-elses-input/)
 
 ---
 
-## 12. Fal.live – AI television directed by everyone
+## 12. Show HN: Zero Shot – Energy Drink for You and Your AI Agents
 
-**Author:** abersager  
-**Published:** 9/1/2026, 8:47:38 AM  
+**Author:** Yudhisteer  
+**Published:** 9/1/2026, 3:06:11 PM  
 **Categories:** -  
 
-Article URL: https://fal.live Comments URL: https://news.ycombinator.com/item?id=49519567 Points: 1 # Comments: 0
+Hey HN! I built https://zeroshothq.dev/, an energy drink for AI engineers, ordered through an API.Zero Shot is designed only for tech people who needs caffeine but in a healthy way. Every flavour is named after a paper: the label prints the title, year and arXiv number.Does Claude tells you to go to...
 
-📖 [Read original article](https://fal.live)
+📖 [Read original article](https://news.ycombinator.com/item?id=49522983)
 
 ---
 
-## 13. Show HN: ChooseCompute – Clean NAS and hard drive database for AI
+## 13. Show HN: Selfship.ai – Surface and fix isues with your agentic applications 24x7
 
-**Author:** HumphreyZ  
-**Published:** 9/1/2026, 8:46:01 AM  
+**Author:** pranny  
+**Published:** 9/1/2026, 3:05:05 PM  
 **Categories:** -  
 
-Article URL: https://choosecompute.com/ Comments URL: https://news.ycombinator.com/item?id=49519555 Points: 1 # Comments: 0
+We've been building an AI chat based trading system for last 3 years. The biggest issue was that when our Agent would mess up, we wouldn't know until a user reported. Agent traces helped us uncover what's wrong. But surfacing issues was almost always a manual trigger. So from those learnings, we bui...
 
-📖 [Read original article](https://choosecompute.com/)
+📖 [Read original article](https://selfship.ai/)
 
 ---
 
-## 14. Atlassian's own AI assistant doesn't know Jira renamed \"Projects\" to \"Spaces\"
+## 14. Can AI help crack interstellar travel?
 
-**Author:** vlad-asis  
-**Published:** 9/1/2026, 8:09:35 AM  
+**Author:** ilreb  
+**Published:** 9/1/2026, 2:56:11 PM  
 **Categories:** -  
 
-Article URL: https://community.atlassian.com/forums/Jira-articles/Jira-Spaces-have-landed/ba-p/3117620 Comments URL: https://news.ycombinator.com/item?id=49519337 Points: 2 # Comments: 1
+Article URL: https://www.thedeepview.com/articles/can-ai-crack-interstellar-travel Comments URL: https://news.ycombinator.com/item?id=49522826 Points: 1 # Comments: 0
 
-📖 [Read original article](https://community.atlassian.com/forums/Jira-articles/Jira-Spaces-have-landed/ba-p/3117620)
+📖 [Read original article](https://www.thedeepview.com/articles/can-ai-crack-interstellar-travel)
 
 ---
 
-## 15. Show HN: Edify – a Windows NLE with local AI subtitles/dubbing and OpenFX
+## 15. We keep the world safe from AGI (humans). Let's do the same for AI
 
-**Author:** edify_nle  
-**Published:** 9/1/2026, 8:00:32 AM  
+**Author:** abranti  
+**Published:** 9/1/2026, 2:56:10 PM  
 **Categories:** -  
 
-Article URL: https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US Comments URL: https://news.ycombinator.com/item?id=49519285 Points: 1 # Comments: 0
+Article URL: https://abranti.com/keep-the-world-safe-from-ai.html Comments URL: https://news.ycombinator.com/item?id=49522825 Points: 1 # Comments: 0
 
-📖 [Read original article](https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US)
+📖 [Read original article](https://abranti.com/keep-the-world-safe-from-ai.html)
 
 ---
 
-## 16. Data Science in the Age of AI
+## 16. Is AI-native Engineering DevOps 2.0 (or even Agile 3.0)?
 
-**Author:** RobinL  
-**Published:** 9/1/2026, 7:41:57 AM  
+**Author:** aspleenic  
+**Published:** 9/1/2026, 2:54:01 PM  
 **Categories:** -  
 
-Article URL: https://www.robinlinacre.com/data_science_age_ai/ Comments URL: https://news.ycombinator.com/item?id=49519172 Points: 1 # Comments: 0
+Article URL: https://www.wwt.com/blog/is-ai-native-engineering-really-devops-20-or-even-agile-30 Comments URL: https://news.ycombinator.com/item?id=49522792 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.robinlinacre.com/data_science_age_ai/)
+📖 [Read original article](https://www.wwt.com/blog/is-ai-native-engineering-really-devops-20-or-even-agile-30)
 
 ---
 
-## 17. AI product management: Familiar enough to start, different enough to fail
+## 17. Expanding access to AI with ChatGPT ads
 
-**Author:** benkan  
-**Published:** 9/1/2026, 7:37:28 AM  
+**Author:** BlooIt  
+**Published:** 9/1/2026, 2:53:10 PM  
 **Categories:** -  
 
-Article URL: https://www.leadinginproduct.com/p/ai-product-management Comments URL: https://news.ycombinator.com/item?id=49519135 Points: 2 # Comments: 0
+Article URL: https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/ Comments URL: https://news.ycombinator.com/item?id=49522780 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.leadinginproduct.com/p/ai-product-management)
+📖 [Read original article](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/)
 
 ---
 
-## 18. Think First, AI Second
+## 18. Openvisor: Your own AI software consultancy (self-hosted)
 
-**Author:** saikatsg  
-**Published:** 9/1/2026, 7:10:55 AM  
+**Author:** flavienbwk  
+**Published:** 9/1/2026, 2:51:09 PM  
 **Categories:** -  
 
-Article URL: https://douglevin.substack.com/p/think-first-ai-second Comments URL: https://news.ycombinator.com/item?id=49518946 Points: 1 # Comments: 0
+Article URL: https://github.com/scalevisor-io/openvisor Comments URL: https://news.ycombinator.com/item?id=49522751 Points: 1 # Comments: 1
 
-📖 [Read original article](https://douglevin.substack.com/p/think-first-ai-second)
+📖 [Read original article](https://github.com/scalevisor-io/openvisor)
 
 ---
 
-## 19. How to Build a Startup with AI
+## 19. Optimizing eBPF Policies for Speed and Space (Not AI Gen)
 
-**Author:** clemens1010  
-**Published:** 9/1/2026, 7:10:01 AM  
+**Author:** nathannaveen  
+**Published:** 9/1/2026, 2:43:54 PM  
 **Categories:** -  
 
-Article URL: https://contextgoblin.com/blog/how-to-build-a-startup-with-ai Comments URL: https://news.ycombinator.com/item?id=49518936 Points: 1 # Comments: 0
+Article URL: https://nathannaveen.dev/posts/optimizing-ebpf-policies-for-speed-and-space/ Comments URL: https://news.ycombinator.com/item?id=49522676 Points: 5 # Comments: 0
 
-📖 [Read original article](https://contextgoblin.com/blog/how-to-build-a-startup-with-ai)
+📖 [Read original article](https://nathannaveen.dev/posts/optimizing-ebpf-policies-for-speed-and-space/)
 
 ---
 
-## 20. AI Agents Are Fundamentally Restructuring the Software Paradigm
+## 20. Show HN: Will your money last? AI-assisted financial simulator
 
-**Author:** zdkaster  
-**Published:** 9/1/2026, 6:54:20 AM  
+**Author:** colingmathews  
+**Published:** 9/1/2026, 2:38:01 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2606.05608 Comments URL: https://news.ycombinator.com/item?id=49518810 Points: 3 # Comments: 0
+Hey all - I've been working on a financial simulator for more years than I can remember. I never felt like I got it right so they always ended up as half-made apps and scripts on my desktop.After years of iterations I feel like I made a breakthrough. Here's what led me to build Futurez:Simple calcul...
 
-📖 [Read original article](https://arxiv.org/abs/2606.05608)
+📖 [Read original article](https://futurezapp.com/)
 
 ---
