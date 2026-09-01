@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-08-31"
 date: "2026-08-31"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-08-31
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting
+## 1. Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour
+
+**Author:** Asif Razzaq  
+**Published:** 8/31/2026, 11:43:26 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Large Language Model, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
+
+How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encode...
+
+📖 [Read original article](https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/)
+
+---
+
+## 2. Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting
 
 **Author:** Michal Sutter  
 **Published:** 8/31/2026, 9:20:16 PM  
@@ -23,7 +35,7 @@ Google Research has released TimesFM-3, a 330 million parameter time series foun
 
 ---
 
-## 2. OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway
+## 3. OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway
 
 **Author:** Michal Sutter  
 **Published:** 8/31/2026, 5:04:10 AM  
