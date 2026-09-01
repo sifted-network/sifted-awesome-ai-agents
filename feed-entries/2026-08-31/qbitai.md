@@ -2,12 +2,12 @@
 title: "qbitai - 2026-08-31"
 date: "2026-08-31"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-08-31
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ count: 5
 核弹爆炸
 
 📖 [Read original article](https://www.qbitai.com/2026/08/481893.html)
-
----
-
-## 5. OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了
-
-**Author:** 梦晨  
-**Published:** 8/31/2026, 3:24:34 AM  
-**Categories:** 资讯, OpenAI  
-
-什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac
-
-📖 [Read original article](https://www.qbitai.com/2026/08/481759.html)
 
 ---
