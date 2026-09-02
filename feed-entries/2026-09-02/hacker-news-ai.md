@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Use AI API and scheduled Active Recall to pass any exam: LongTerMemory
+## 1. AI Doomers Are Buying Potemkin Articles
 
-**Author:** aledevv  
-**Published:** 9/2/2026, 10:21:01 AM  
+**Author:** MrBuddyCasino  
+**Published:** 9/2/2026, 3:54:16 PM  
 **Categories:** -  
 
-Article URL: https://longtermemory.com Comments URL: https://news.ycombinator.com/item?id=49534284 Points: 1 # Comments: 0
+Article URL: https://twitter.com/brianchau57/status/2095128785955987698 Comments URL: https://news.ycombinator.com/item?id=49538173 Points: 2 # Comments: 0
 
-📖 [Read original article](https://longtermemory.com)
+📖 [Read original article](https://twitter.com/brianchau57/status/2095128785955987698)
 
 ---
 
-## 2. SoulAuth – Rust identity infrastructure for humans and AI agents
+## 2. AI Killed My Blog Traffic
 
-**Author:** Aziell  
-**Published:** 9/2/2026, 10:05:12 AM  
+**Author:** speckx  
+**Published:** 9/2/2026, 3:52:21 PM  
 **Categories:** -  
 
-Article URL: https://github.com/TrantorLabs/SoulAuth Comments URL: https://news.ycombinator.com/item?id=49534146 Points: 2 # Comments: 0
+Article URL: https://clintmcmahon.com/blog/ai-killed-my-blog-traffic Comments URL: https://news.ycombinator.com/item?id=49538145 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/TrantorLabs/SoulAuth)
+📖 [Read original article](https://clintmcmahon.com/blog/ai-killed-my-blog-traffic)
 
 ---
 
-## 3. Quasar 438B: Europe's Leading AI Model
+## 3. AI Slop is saturating the internet and things are becoming dramatic quickly
 
-**Author:** amunozo  
-**Published:** 9/2/2026, 10:02:41 AM  
+**Author:** embedding-shape  
+**Published:** 9/2/2026, 3:48:27 PM  
 **Categories:** -  
 
-Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 1 # Comments: 0
+Article URL: https://sites.google.com/view/sources-aislop Comments URL: https://news.ycombinator.com/item?id=49538075 Points: 4 # Comments: 2
 
-📖 [Read original article](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
+📖 [Read original article](https://sites.google.com/view/sources-aislop)
 
 ---
 
-## 4. Why Pi is my AI coding harness
+## 4. End AI agent lock-in. Start conversation with one agent – continue with another
 
-**Author:** ig0r0  
-**Published:** 9/2/2026, 9:47:40 AM  
+**Author:** yruzin  
+**Published:** 9/2/2026, 3:40:30 PM  
 **Categories:** -  
 
-Article URL: https://blog.kulman.sk/pi-is-now-my-ai-harness/ Comments URL: https://news.ycombinator.com/item?id=49534014 Points: 3 # Comments: 0
+Article URL: https://github.com/Aplexica/Aplexica Comments URL: https://news.ycombinator.com/item?id=49537958 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.kulman.sk/pi-is-now-my-ai-harness/)
+📖 [Read original article](https://github.com/Aplexica/Aplexica)
 
 ---
 
-## 5. We Can't Let AI Writing Take over the Internet
+## 5. AI Policy
 
-**Author:** tcp_handshaker  
-**Published:** 9/2/2026, 9:21:17 AM  
+**Author:** duck  
+**Published:** 9/2/2026, 3:36:24 PM  
 **Categories:** -  
 
-Article URL: https://www.derekthompson.org/p/the-internet-is-drowning-in-ai-slop Comments URL: https://news.ycombinator.com/item?id=49533814 Points: 2 # Comments: 0
+Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=49537900 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.derekthompson.org/p/the-internet-is-drowning-in-ai-slop)
+📖 [Read original article](https://dbushell.com/ai/)
 
 ---
 
-## 6. AI Isn't Making Everyone a Creator
+## 6. Why Adding More AI Agents Makes Your Team Slower
 
-**Author:** latexr  
-**Published:** 9/2/2026, 8:59:36 AM  
+**Author:** mempko  
+**Published:** 9/2/2026, 3:27:08 PM  
 **Categories:** -  
 
-Article URL: https://story.vjy.me/83 Comments URL: https://news.ycombinator.com/item?id=49533664 Points: 5 # Comments: 2
+Article URL: https://blog.mempko.com/misconception-about-agentic-scaling/ Comments URL: https://news.ycombinator.com/item?id=49537759 Points: 3 # Comments: 0
 
-📖 [Read original article](https://story.vjy.me/83)
+📖 [Read original article](https://blog.mempko.com/misconception-about-agentic-scaling/)
 
 ---
 
-## 7. Show HN: Image3d AI-One interface for multiple image to 3D models
+## 7. Kubernetes Is No Longer Just a Container Platform, It's Your AI Infrastructure
 
-**Author:** cairnechou  
-**Published:** 9/2/2026, 8:28:28 AM  
+**Author:** mooreds  
+**Published:** 9/2/2026, 3:08:30 PM  
 **Categories:** -  
 
-I built image3D AI to make it easier to try and compare different image to 3d models in one place. Comments URL: https://news.ycombinator.com/item?id=49533428 Points: 1 # Comments: 0
+Article URL: https://cloudelligent.com/blog/kubernetes-ai-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=49537485 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.aiimageto3d.com/)
+📖 [Read original article](https://cloudelligent.com/blog/kubernetes-ai-infrastructure/)
 
 ---
 
-## 8. \"I have the code and Claude AI – why would I pay you?\" [video]
+## 8. Researchers trick Fortune-500 AI agents into running arbitrary code via llms.txt
 
-**Author:** AzZtro  
-**Published:** 9/2/2026, 8:11:32 AM  
+**Author:** sbulaev  
+**Published:** 9/2/2026, 3:07:08 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=1L48dy4Lyjo Comments URL: https://news.ycombinator.com/item?id=49533308 Points: 2 # Comments: 1
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code Comments URL: https://news.ycombinator.com/item?id=...
 
-📖 [Read original article](https://www.youtube.com/watch?v=1L48dy4Lyjo)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code)
 
 ---
 
-## 9. The Singularity Is Not What It Seems: Whatever the AI Future Is, We're in It Now
+## 9. New York City Public Schools banning AI use through middle school
 
-**Author:** ryan_j_naughton  
-**Published:** 9/2/2026, 8:10:02 AM  
+**Author:** MallocVoidstar  
+**Published:** 9/2/2026, 3:02:30 PM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/ Comments URL: https://news.ycombinator.com/item?id=49533291 Points: 2 # Comments: 0
+Article URL: https://abcnews.com/Technology/new-york-city-public-schools-banning-ai-middle/story?id=136134872 Comments URL: https://news.ycombinator.com/item?id=49537402 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/)
+📖 [Read original article](https://abcnews.com/Technology/new-york-city-public-schools-banning-ai-middle/story?id=136134872)
 
 ---
 
-## 10. Farmanix – An AI agent that can use your Mac like a human
+## 10. Double Blind Evals: Resolving the Dual Confidentiality Dilemma in AI Safety...
 
-**Author:** Amirali_  
-**Published:** 9/2/2026, 8:08:32 AM  
+**Author:** williamtrask  
+**Published:** 9/2/2026, 2:58:41 PM  
 **Categories:** -  
 
-Article URL: https://farmanix.com/ Comments URL: https://news.ycombinator.com/item?id=49533279 Points: 1 # Comments: 0
+Article URL: https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/piloting-the-worlds-first-double-blind-ai-evaluations/double-blind-evaluations-technical-report.pdf Comments URL: https://news.ycombinator.com/item?id=49537339 Points: 2 # Comments: 0
 
-📖 [Read original article](https://farmanix.com/)
+📖 [Read original article](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/piloting-the-worlds-first-double-blind-ai-evaluations/double-blind-evaluations-technical-report.pdf)
 
 ---
 
-## 11. Show HN: Photo manager that finds and organizes photos with private, local AI
+## 11. AI-assisted writing, AI slop, and the line between them
 
-**Author:** ringlochid  
-**Published:** 9/2/2026, 7:58:36 AM  
+**Author:** speckx  
+**Published:** 9/2/2026, 2:54:20 PM  
 **Categories:** -  
 
-Article URL: https://ringlochid.me/imagesage/index.html Comments URL: https://news.ycombinator.com/item?id=49533201 Points: 1 # Comments: 1
+Article URL: https://amatria.in/blog/aislop Comments URL: https://news.ycombinator.com/item?id=49537259 Points: 2 # Comments: 0
 
-📖 [Read original article](https://ringlochid.me/imagesage/index.html)
+📖 [Read original article](https://amatria.in/blog/aislop)
 
 ---
 
-## 12. Mayor says 'large chunks' of Wellington council Deloitte report written by AI
+## 12. Europe Doesn't Have an AI Problem. It Has a Trust Problem
 
-**Author:** billybuckwheat  
-**Published:** 9/2/2026, 7:50:46 AM  
+**Author:** Arshad-Talpur  
+**Published:** 9/2/2026, 2:54:12 PM  
 **Categories:** -  
 
-Article URL: https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai Comments URL: https://news.ycombinator.com/item?id=49533132 Points: 20 # Comments: 13
+Article URL: https://medium.com/@MirArshadTalpur/europe-doesnt-have-an-ai-problem-it-has-a-trust-problem-c0ee81ad7bef Comments URL: https://news.ycombinator.com/item?id=49537256 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai)
+📖 [Read original article](https://medium.com/@MirArshadTalpur/europe-doesnt-have-an-ai-problem-it-has-a-trust-problem-c0ee81ad7bef)
 
 ---
 
-## 13. Show HN: IP/fal – An IP checker that reimagines your location with AI
+## 13. Dead internet theater – turning malicious AI crawlers into a poetic experiment
 
-**Author:** kilic  
-**Published:** 9/2/2026, 7:49:25 AM  
+**Author:** mneunomne  
+**Published:** 9/2/2026, 2:52:02 PM  
 **Categories:** -  
 
-Article URL: https://github.com/kiliczsh/ip-fal Comments URL: https://news.ycombinator.com/item?id=49533120 Points: 1 # Comments: 0
+Article URL: https://deadinternet.theater Comments URL: https://news.ycombinator.com/item?id=49537223 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/kiliczsh/ip-fal)
+📖 [Read original article](https://deadinternet.theater)
 
 ---
 
-## 14. AI loss of control incidents are worsening, shows CLTR analysis
+## 14. US-Iran strikes, Meta's AI layoff plan, and bear break-ins
 
-**Author:** giuliomagnifico  
-**Published:** 9/2/2026, 7:43:39 AM  
+**Author:** KinetiNode  
+**Published:** 9/2/2026, 2:50:24 PM  
 **Categories:** -  
 
-Article URL: https://www.longtermresilience.org/reports/ai-loss-of-control-incidents-are-worsening-shows-cltr-analysis/ Comments URL: https://news.ycombinator.com/item?id=49533070 Points: 2 # Comments: 0
+Article URL: https://www.reuters.com/podcasts/us-iran-strikes-metas-ai-layoff-plan-bear-break-ins-2026-08-31/ Comments URL: https://news.ycombinator.com/item?id=49537195 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.longtermresilience.org/reports/ai-loss-of-control-incidents-are-worsening-shows-cltr-analysis/)
+📖 [Read original article](https://www.reuters.com/podcasts/us-iran-strikes-metas-ai-layoff-plan-bear-break-ins-2026-08-31/)
 
 ---
 
-## 15. AI Billionaires Are Spending Millions to Change Your Mind About Data Centers
+## 15. Even AI Slop Deserves to Be Handmade
 
-**Author:** 01-_-  
-**Published:** 9/2/2026, 7:41:40 AM  
+**Author:** blater  
+**Published:** 9/2/2026, 2:44:35 PM  
 **Categories:** -  
 
-Article URL: https://www.gadgetreview.com/ai-billionaires-are-spending-millions-to-change-your-mind-about-data-centers Comments URL: https://news.ycombinator.com/item?id=49533056 Points: 8 # Comments: 0
+Ever feel your writing sounds too human ? How can you fit in on LinkedIn? How can you speak the language of AI without _using_ AI?https://github.com/blater/claudifyCarefully hand craft your prose, then hand it to Claudify. It uses non-AI deterministic heuristics to warp, crush, pulverize, and algori...
 
-📖 [Read original article](https://www.gadgetreview.com/ai-billionaires-are-spending-millions-to-change-your-mind-about-data-centers)
+📖 [Read original article](https://news.ycombinator.com/item?id=49537104)
 
 ---
 
-## 16. AI startup Cognition set to raise around US$1B at a US$47B value
+## 16. Show HN: Otaku.sh – AI Roleplay Client
 
-**Author:** 01-_-  
-**Published:** 9/2/2026, 7:40:57 AM  
+**Author:** enclavum5  
+**Published:** 9/2/2026, 2:34:45 PM  
 **Categories:** -  
 
-Article URL: https://theedgemalaysia.com/node/816527 Comments URL: https://news.ycombinator.com/item?id=49533052 Points: 2 # Comments: 0
+Article URL: https://otaku.sh Comments URL: https://news.ycombinator.com/item?id=49536921 Points: 1 # Comments: 0
 
-📖 [Read original article](https://theedgemalaysia.com/node/816527)
+📖 [Read original article](https://otaku.sh)
 
 ---
 
-## 17. So there's this $499 AI Dyson camera toothbrush
+## 17. End-to-end engineering reference for AI data centers
 
-**Author:** doppp  
-**Published:** 9/2/2026, 7:33:05 AM  
+**Author:** matadormix  
+**Published:** 9/2/2026, 2:30:50 PM  
 **Categories:** -  
 
-Article URL: https://www.morningbrew.com/stories/so-theres-this-usd499-ai-dyson-camera-toothbrush Comments URL: https://news.ycombinator.com/item?id=49532979 Points: 1 # Comments: 0
+Article URL: https://aidatacenterguide.com Comments URL: https://news.ycombinator.com/item?id=49536852 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.morningbrew.com/stories/so-theres-this-usd499-ai-dyson-camera-toothbrush)
+📖 [Read original article](https://aidatacenterguide.com)
 
 ---
 
-## 18. AI Sapiens K1
+## 18. Are We Thinking Correctly About AI Intelligence?
 
-**Author:** iamanatom  
-**Published:** 9/2/2026, 7:21:43 AM  
+**Author:** gmays  
+**Published:** 9/2/2026, 2:22:48 PM  
 **Categories:** -  
 
-Article URL: https://docs.robotis.com/docs/systems/aisapiens/introduction/ Comments URL: https://news.ycombinator.com/item?id=49532884 Points: 1 # Comments: 0
+Article URL: https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/ Comments URL: https://news.ycombinator.com/item?id=49536710 Points: 1 # Comments: 0
 
-📖 [Read original article](https://docs.robotis.com/docs/systems/aisapiens/introduction/)
+📖 [Read original article](https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/)
 
 ---
 
-## 19. How to Make a PwC-Style PowerPoint with AI: A Practical Consulting Deck Guide
+## 19. How AI Is Weaponizing India's Voter Data for Mass Surveillance
 
-**Author:** chenxi030826  
-**Published:** 9/2/2026, 7:14:23 AM  
+**Author:** twapi  
+**Published:** 9/2/2026, 2:20:37 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@2315610426/how-to-make-a-pwc-style-powerpoint-with-ai-a-practical-consulting-deck-guide-b34c9811ca9b Comments URL: https://news.ycombinator.com/item?id=49532813 Points: 1 # Comments: 0
+Article URL: https://www.medianama.com/2026/09/223-sir-electorion-commission-data-privacy/ Comments URL: https://news.ycombinator.com/item?id=49536678 Points: 2 # Comments: 0
 
-📖 [Read original article](https://medium.com/@2315610426/how-to-make-a-pwc-style-powerpoint-with-ai-a-practical-consulting-deck-guide-b34c9811ca9b)
+📖 [Read original article](https://www.medianama.com/2026/09/223-sir-electorion-commission-data-privacy/)
 
 ---
 
-## 20. Simon Willison: How AI is changing software development [audio]
+## 20. Show HN: Flawd is mutation testing for the AI era
 
-**Author:** skm  
-**Published:** 9/2/2026, 7:13:19 AM  
+**Author:** fohara  
+**Published:** 9/2/2026, 2:16:55 PM  
 **Categories:** -  
 
-Article URL: https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison/transcript Comments URL: https://news.ycombinator.com/item?id=49532806 Points: 2 # Comments: 0
+Hey, all! Flawd is a mutation testing tool that can target five languages (Python, JS, TS, Go, Rust) and it runs locally as a single binary on your machine. Importantly (for many), your code never leaves your machine and all processing takes place directly on your dev box or CI runner.Mutation testi...
 
-📖 [Read original article](https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison/transcript)
+📖 [Read original article](https://fixture.dev/flawd)
 
 ---
