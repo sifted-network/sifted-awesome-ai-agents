@@ -1179,7 +1179,7 @@ arXiv:2608.30113v1 Announce Type: new Abstract: A supraglacial lake on the Green
 
 **Author:** Melisa Civeleko\u{g}lu, Isabeau Pr\'emont-Schwarz  
 **Published:** 9/1/2026, 4:00:00 AM  
-**Categories:** cs.LG, cs.AI  
+**Categories:** cs.LG, cs.AI, cs.NE  
 
 arXiv:2608.30124v1 Announce Type: new Abstract: Systematic generalization remains a significant challenge in deep learning. In particular, combinatorial generalization - generalizing to new configurations of known factors of variation - is effortless for humans but difficult for standard neural arch...
 
@@ -2309,7 +2309,7 @@ arXiv:2608.28627v1 Announce Type: cross Abstract: Designing high-performance tac
 **Published:** 9/1/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG  
 
-arXiv:2608.28632v1 Announce Type: cross Abstract: Large language model agents can discover alphas, yet current methods have three weaknesses. The search cannot adapt during the run, automation usually ends at alpha generation while library selection and model choice stay manual, and alpha discovery ...
+arXiv:2608.28632v2 Announce Type: cross Abstract: Large language model agents can discover alphas, yet current methods have three weaknesses. The search cannot adapt during the run, automation usually ends at alpha generation while library selection and model choice stay manual, and alpha discovery ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.28632)
 
@@ -2801,7 +2801,7 @@ arXiv:2608.29162v1 Announce Type: cross Abstract: We describe the submission of 
 **Published:** 9/1/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2608.29207v1 Announce Type: cross Abstract: Protein structure modeling rests on a single computational primitive: the interaction between what a residue is (sequence content) and where it sits (three-dimensional geometry). What is the expressive limit of this layer class? We show that the comp...
+arXiv:2608.29207v2 Announce Type: cross Abstract: Protein structure modeling rests on a single computational primitive: the interaction between what a residue is (sequence content) and where it sits (three-dimensional geometry). What is the expressive limit of this layer class? We show that the comp...
 
 📖 [Read original article](https://arxiv.org/abs/2608.29207)
 
@@ -2825,7 +2825,7 @@ arXiv:2608.29208v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) m
 **Published:** 9/1/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.IR, cs.LG  
 
-arXiv:2608.29249v1 Announce Type: cross Abstract: The online culinary ecosystem is increasingly populated by recipe content generated, modified, or summarized by Large Language Models (LLMs). While often plausible, such outputs may contain hallucinated ingredients, misrepresented quantities, or cult...
+arXiv:2608.29249v2 Announce Type: cross Abstract: The online culinary ecosystem is increasingly populated by recipe content generated, modified, or summarized by Large Language Models (LLMs). While often plausible, such outputs may contain hallucinated ingredients, misrepresented quantities, or cult...
 
 📖 [Read original article](https://arxiv.org/abs/2608.29249)
 
@@ -3053,7 +3053,7 @@ arXiv:2608.29539v1 Announce Type: cross Abstract: As context lengths scale, atte
 **Published:** 9/1/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.LG  
 
-arXiv:2608.29564v1 Announce Type: cross Abstract: Gradient-based jailbreak suffix optimization methods typically update the suffix by retaining the candidate with the lowest current loss. We show that this seemingly natural design is fundamentally myopic: candidates that look better under the curren...
+arXiv:2608.29564v2 Announce Type: cross Abstract: Gradient-based jailbreak suffix optimization methods typically update the suffix by retaining the candidate with the lowest current loss. We show that this seemingly natural design is fundamentally myopic: candidates that look better under the curren...
 
 📖 [Read original article](https://arxiv.org/abs/2608.29564)
 
@@ -3797,7 +3797,7 @@ arXiv:2608.30633v1 Announce Type: cross Abstract: Timely post-disaster building 
 **Published:** 9/1/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2608.30646v1 Announce Type: cross Abstract: Reliable uncertainty estimation is a crucial requirement for deploying large language models (LLMs) and vision-language models (VLMs) in safety-critical settings, especially when the model parameters are not accessible (black-box). We propose BiG-SUR...
+arXiv:2608.30646v2 Announce Type: cross Abstract: Reliable uncertainty estimation is a crucial requirement for deploying large language models (LLMs) and vision-language models (VLMs) in safety-critical settings, especially when the model parameters are not accessible (black-box). We propose BiG-SUR...
 
 📖 [Read original article](https://arxiv.org/abs/2608.30646)
 
@@ -3881,7 +3881,7 @@ arXiv:2608.30795v1 Announce Type: cross Abstract: End-to-end weather forecasting
 **Published:** 9/1/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.LG  
 
-arXiv:2608.30811v1 Announce Type: cross Abstract: Long-context compression is essential for reducing the cost and latency of large language model inference. However, existing methods can fragment important evidence, require additional training or alignment, and often depend on the target model for e...
+arXiv:2608.30811v2 Announce Type: cross Abstract: Long-context compression is essential for reducing the cost and latency of large language model inference. However, existing methods can fragment important evidence, require additional training or alignment, and often depend on the target model for e...
 
 📖 [Read original article](https://arxiv.org/abs/2608.30811)
 
@@ -4691,13 +4691,13 @@ arXiv:2602.14275v2 Announce Type: replace Abstract: Artificial intelligence/mach
 
 ---
 
-## 391. Efficient Real-Time Adaptation of ROMs for Unsteady Flows Using Data Assimilation
+## 391. Efficient Adaptation of ROMs for Unsteady Flows Using Data Assimilation
 
 **Author:** Isma\"el Zighed, Andrea N\'ovoa, Luca Magri, Taraneh Sayadi  
 **Published:** 9/1/2026, 4:00:00 AM  
 **Categories:** cs.LG, physics.flu-dyn  
 
-arXiv:2602.23188v2 Announce Type: replace Abstract: We propose an efficient retraining strategy for a parameterized Reduced Order Model (ROM) that attains accuracy comparable to full retraining while requiring only a fraction of the computational time and relying solely on sparse observations of the...
+arXiv:2602.23188v3 Announce Type: replace Abstract: We propose an efficient retraining strategy for a parameterized Reduced Order Model (ROM) that attains accuracy comparable to full retraining while requiring only a fraction of the computational time and relying solely on sparse observations of the...
 
 📖 [Read original article](https://arxiv.org/abs/2602.23188)
 
@@ -5021,7 +5021,7 @@ arXiv:2605.26857v2 Announce Type: replace Abstract: Driven by the pressing deman
 **Published:** 9/1/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2605.26872v4 Announce Type: replace Abstract: LLM training increasingly relies on teacher-generated supervision, from synthetic responses to reasoning traces and tool-use demonstrations. Current practice often chooses the highest-performing teacher to generate student training data, implicitly...
+arXiv:2605.26872v5 Announce Type: replace Abstract: LLM training increasingly relies on teacher-generated supervision, from synthetic responses to reasoning traces and tool-use demonstrations. Current practice often chooses the highest-performing teacher to generate student training data, implicitly...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26872)
 
@@ -7095,7 +7095,7 @@ arXiv:2608.27578v2 Announce Type: replace-cross Abstract: Training effective fou
 
 **Author:** Gyuhyeong Kim, Hyojung Gwon, Jeonghyeon Kim, Kyuhong Shim, Sunjae Lee  
 **Published:** 9/1/2026, 4:00:00 AM  
-**Categories:** cs.AI, cs.LG  
+**Categories:** cs.AI, cs.LG, cs.SE  
 
 arXiv:2608.27831v2 Announce Type: replace-cross Abstract: Coding agents are now commonly evaluated on the SWE-bench family of benchmarks, whose tasks are built from curated GitHub issues: long, structured, and information-rich. Real user requests, however, are typically far shorter and less structur...
 
