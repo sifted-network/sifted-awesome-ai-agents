@@ -2,191 +2,251 @@
 title: "Hacker News AI - 2026-09-02"
 date: "2026-09-02"
 source: "Hacker News AI"
-count: 15
+count: 20
 ---
 
 # Hacker News AI - 2026-09-02
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. AI Made Writing Code Free. It Made Reading Code Expensive
+## 1. Show HN: Use AI API and scheduled Active Recall to pass any exam: LongTerMemory
 
-**Author:** sukhpinder0804  
-**Published:** 9/2/2026, 3:13:41 AM  
+**Author:** aledevv  
+**Published:** 9/2/2026, 10:21:01 AM  
 **Categories:** -  
 
-Article URL: https://medium.com/c-sharp-programming/ai-made-writing-code-free-it-made-reading-code-expensive-ea14b3ec5c52 Comments URL: https://news.ycombinator.com/item?id=49531287 Points: 2 # Comments: 0
+Article URL: https://longtermemory.com Comments URL: https://news.ycombinator.com/item?id=49534284 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/c-sharp-programming/ai-made-writing-code-free-it-made-reading-code-expensive-ea14b3ec5c52)
+📖 [Read original article](https://longtermemory.com)
 
 ---
 
-## 2. One in three AI scribe notes carries a verified clinical error
+## 2. SoulAuth – Rust identity infrastructure for humans and AI agents
 
-**Author:** sbulaev  
-**Published:** 9/2/2026, 3:07:07 AM  
+**Author:** Aziell  
+**Published:** 9/2/2026, 10:05:12 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2608.31017 Comments URL: https://news.ycombinator.com/item?id=49531257 Points: 1 # Comments: 1
+Article URL: https://github.com/TrantorLabs/SoulAuth Comments URL: https://news.ycombinator.com/item?id=49534146 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2608.31017)
+📖 [Read original article](https://github.com/TrantorLabs/SoulAuth)
 
 ---
 
-## 3. Piloting the first double-blind AI evaluations
+## 3. Quasar 438B: Europe's Leading AI Model
 
-**Author:** williamtrask  
-**Published:** 9/2/2026, 2:55:52 AM  
+**Author:** amunozo  
+**Published:** 9/2/2026, 10:02:41 AM  
 **Categories:** -  
 
-Article URL: https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/ Comments URL: https://news.ycombinator.com/item?id=49531188 Points: 1 # Comments: 0
+Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 1 # Comments: 0
 
-📖 [Read original article](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/)
+📖 [Read original article](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
 
 ---
 
-## 4. Show HN: Markdown Gatekeeper – one current source per topic for AI agents
+## 4. Why Pi is my AI coding harness
 
-**Author:** sacravenger  
-**Published:** 9/2/2026, 2:48:42 AM  
+**Author:** ig0r0  
+**Published:** 9/2/2026, 9:47:40 AM  
 **Categories:** -  
 
-Article URL: https://github.com/nanlogic/markdown-gatekeeper Comments URL: https://news.ycombinator.com/item?id=49531156 Points: 3 # Comments: 0
+Article URL: https://blog.kulman.sk/pi-is-now-my-ai-harness/ Comments URL: https://news.ycombinator.com/item?id=49534014 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/nanlogic/markdown-gatekeeper)
+📖 [Read original article](https://blog.kulman.sk/pi-is-now-my-ai-harness/)
 
 ---
 
-## 5. EngineRed: Asymmetric AI Warfare
+## 5. We Can't Let AI Writing Take over the Internet
 
-**Author:** smadas  
-**Published:** 9/2/2026, 2:40:57 AM  
+**Author:** tcp_handshaker  
+**Published:** 9/2/2026, 9:21:17 AM  
 **Categories:** -  
 
-Article URL: https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare Comments URL: https://news.ycombinator.com/item?id=49531105 Points: 1 # Comments: 0
+Article URL: https://www.derekthompson.org/p/the-internet-is-drowning-in-ai-slop Comments URL: https://news.ycombinator.com/item?id=49533814 Points: 2 # Comments: 0
 
-📖 [Read original article](https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare)
+📖 [Read original article](https://www.derekthompson.org/p/the-internet-is-drowning-in-ai-slop)
 
 ---
 
-## 6. Insightify – AI review analytics for Shopify
+## 6. AI Isn't Making Everyone a Creator
 
-**Author:** Insightify  
-**Published:** 9/2/2026, 2:40:15 AM  
+**Author:** latexr  
+**Published:** 9/2/2026, 8:59:36 AM  
 **Categories:** -  
 
-Article URL: https://apps.shopify.com/aireview-analyzer Comments URL: https://news.ycombinator.com/item?id=49531102 Points: 1 # Comments: 0
+Article URL: https://story.vjy.me/83 Comments URL: https://news.ycombinator.com/item?id=49533664 Points: 5 # Comments: 2
 
-📖 [Read original article](https://apps.shopify.com/aireview-analyzer)
+📖 [Read original article](https://story.vjy.me/83)
 
 ---
 
-## 7. AI wealth is creating a 'mansion shortage' upending San Francisco housing market
+## 7. Show HN: Image3d AI-One interface for multiple image to 3D models
 
-**Author:** 1659447091  
-**Published:** 9/2/2026, 2:22:05 AM  
+**Author:** cairnechou  
+**Published:** 9/2/2026, 8:28:28 AM  
 **Categories:** -  
 
-Article URL: https://text.npr.org/nx-s1-5930432 Comments URL: https://news.ycombinator.com/item?id=49530999 Points: 3 # Comments: 1
+I built image3D AI to make it easier to try and compare different image to 3d models in one place. Comments URL: https://news.ycombinator.com/item?id=49533428 Points: 1 # Comments: 0
 
-📖 [Read original article](https://text.npr.org/nx-s1-5930432)
+📖 [Read original article](https://www.aiimageto3d.com/)
 
 ---
 
-## 8. What's the Right Balance in Regulating AI?
+## 8. \"I have the code and Claude AI – why would I pay you?\" [video]
 
-**Author:** gmays  
-**Published:** 9/2/2026, 2:01:41 AM  
+**Author:** AzZtro  
+**Published:** 9/2/2026, 8:11:32 AM  
 **Categories:** -  
 
-Article URL: https://weightythoughts.com/p/whats-the-right-balance-in-regulating Comments URL: https://news.ycombinator.com/item?id=49530868 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=1L48dy4Lyjo Comments URL: https://news.ycombinator.com/item?id=49533308 Points: 2 # Comments: 1
 
-📖 [Read original article](https://weightythoughts.com/p/whats-the-right-balance-in-regulating)
+📖 [Read original article](https://www.youtube.com/watch?v=1L48dy4Lyjo)
 
 ---
 
-## 9. Show HN: Local AI Assistants can be user friendly too
+## 9. The Singularity Is Not What It Seems: Whatever the AI Future Is, We're in It Now
 
-**Author:** ram-bv  
-**Published:** 9/2/2026, 1:52:22 AM  
+**Author:** ryan_j_naughton  
+**Published:** 9/2/2026, 8:10:02 AM  
 **Categories:** -  
 
-Article URL: https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too Comments URL: https://news.ycombinator.com/item?id=49530822 Points: 2 # Comments: 1
+Article URL: https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/ Comments URL: https://news.ycombinator.com/item?id=49533291 Points: 2 # Comments: 0
 
-📖 [Read original article](https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too)
+📖 [Read original article](https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/)
 
 ---
 
-## 10. AI Broke the Assumptions Behind CI
+## 10. Farmanix – An AI agent that can use your Mac like a human
 
-**Author:** ghuntley  
-**Published:** 9/2/2026, 1:49:28 AM  
+**Author:** Amirali_  
+**Published:** 9/2/2026, 8:08:32 AM  
 **Categories:** -  
 
-Article URL: https://stack72.dev/ai-broke-the-assumptions-behind-ci/ Comments URL: https://news.ycombinator.com/item?id=49530800 Points: 1 # Comments: 0
+Article URL: https://farmanix.com/ Comments URL: https://news.ycombinator.com/item?id=49533279 Points: 1 # Comments: 0
 
-📖 [Read original article](https://stack72.dev/ai-broke-the-assumptions-behind-ci/)
+📖 [Read original article](https://farmanix.com/)
 
 ---
 
-## 11. How much of your coding is done by AI coding agents these days?
+## 11. Show HN: Photo manager that finds and organizes photos with private, local AI
 
-**Author:** e12e  
-**Published:** 9/2/2026, 1:25:28 AM  
+**Author:** ringlochid  
+**Published:** 9/2/2026, 7:58:36 AM  
 **Categories:** -  
 
-Article URL: https://slashdot.org/poll/3284/how-much-of-your-coding-is-done-by-ai-coding-agents-these-days Comments URL: https://news.ycombinator.com/item?id=49530615 Points: 1 # Comments: 0
+Article URL: https://ringlochid.me/imagesage/index.html Comments URL: https://news.ycombinator.com/item?id=49533201 Points: 1 # Comments: 1
 
-📖 [Read original article](https://slashdot.org/poll/3284/how-much-of-your-coding-is-done-by-ai-coding-agents-these-days)
+📖 [Read original article](https://ringlochid.me/imagesage/index.html)
 
 ---
 
-## 12. Crossplane AI Contribution Policy
+## 12. Mayor says 'large chunks' of Wellington council Deloitte report written by AI
 
-**Author:** gpi  
-**Published:** 9/2/2026, 1:13:45 AM  
+**Author:** billybuckwheat  
+**Published:** 9/2/2026, 7:50:46 AM  
 **Categories:** -  
 
-Article URL: https://github.com/crossplane/crossplane/blob/main/AI_POLICY.md Comments URL: https://news.ycombinator.com/item?id=49530537 Points: 1 # Comments: 0
+Article URL: https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai Comments URL: https://news.ycombinator.com/item?id=49533132 Points: 20 # Comments: 13
 
-📖 [Read original article](https://github.com/crossplane/crossplane/blob/main/AI_POLICY.md)
+📖 [Read original article](https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai)
 
 ---
 
-## 13. State of Local AI Report
+## 13. Show HN: IP/fal – An IP checker that reimagines your location with AI
 
-**Author:** lukasonedge  
-**Published:** 9/2/2026, 12:38:01 AM  
+**Author:** kilic  
+**Published:** 9/2/2026, 7:49:25 AM  
 **Categories:** -  
 
-Article URL: https://www.basecompute.co/stateoflocalai Comments URL: https://news.ycombinator.com/item?id=49530290 Points: 3 # Comments: 1
+Article URL: https://github.com/kiliczsh/ip-fal Comments URL: https://news.ycombinator.com/item?id=49533120 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.basecompute.co/stateoflocalai)
+📖 [Read original article](https://github.com/kiliczsh/ip-fal)
 
 ---
 
-## 14. Compilers 2.0: AI as stochastic optimizer
+## 14. AI loss of control incidents are worsening, shows CLTR analysis
 
-**Author:** matt_d  
-**Published:** 9/2/2026, 12:16:33 AM  
+**Author:** giuliomagnifico  
+**Published:** 9/2/2026, 7:43:39 AM  
 **Categories:** -  
 
-Article URL: https://twitter.com/cdleary/status/2094878051238887834 Comments URL: https://news.ycombinator.com/item?id=49530143 Points: 2 # Comments: 0
+Article URL: https://www.longtermresilience.org/reports/ai-loss-of-control-incidents-are-worsening-shows-cltr-analysis/ Comments URL: https://news.ycombinator.com/item?id=49533070 Points: 2 # Comments: 0
 
-📖 [Read original article](https://twitter.com/cdleary/status/2094878051238887834)
+📖 [Read original article](https://www.longtermresilience.org/reports/ai-loss-of-control-incidents-are-worsening-shows-cltr-analysis/)
 
 ---
 
-## 15. California lawmakers pass bill governing lawyers' use of AI
+## 15. AI Billionaires Are Spending Millions to Change Your Mind About Data Centers
 
-**Author:** anigbrowl  
-**Published:** 9/2/2026, 12:01:39 AM  
+**Author:** 01-_-  
+**Published:** 9/2/2026, 7:41:40 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/ Comments URL: https://news.ycombinator.com/item?id=49530024 Points: 3 # Comments: 2
+Article URL: https://www.gadgetreview.com/ai-billionaires-are-spending-millions-to-change-your-mind-about-data-centers Comments URL: https://news.ycombinator.com/item?id=49533056 Points: 8 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/)
+📖 [Read original article](https://www.gadgetreview.com/ai-billionaires-are-spending-millions-to-change-your-mind-about-data-centers)
+
+---
+
+## 16. AI startup Cognition set to raise around US$1B at a US$47B value
+
+**Author:** 01-_-  
+**Published:** 9/2/2026, 7:40:57 AM  
+**Categories:** -  
+
+Article URL: https://theedgemalaysia.com/node/816527 Comments URL: https://news.ycombinator.com/item?id=49533052 Points: 2 # Comments: 0
+
+📖 [Read original article](https://theedgemalaysia.com/node/816527)
+
+---
+
+## 17. So there's this $499 AI Dyson camera toothbrush
+
+**Author:** doppp  
+**Published:** 9/2/2026, 7:33:05 AM  
+**Categories:** -  
+
+Article URL: https://www.morningbrew.com/stories/so-theres-this-usd499-ai-dyson-camera-toothbrush Comments URL: https://news.ycombinator.com/item?id=49532979 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.morningbrew.com/stories/so-theres-this-usd499-ai-dyson-camera-toothbrush)
+
+---
+
+## 18. AI Sapiens K1
+
+**Author:** iamanatom  
+**Published:** 9/2/2026, 7:21:43 AM  
+**Categories:** -  
+
+Article URL: https://docs.robotis.com/docs/systems/aisapiens/introduction/ Comments URL: https://news.ycombinator.com/item?id=49532884 Points: 1 # Comments: 0
+
+📖 [Read original article](https://docs.robotis.com/docs/systems/aisapiens/introduction/)
+
+---
+
+## 19. How to Make a PwC-Style PowerPoint with AI: A Practical Consulting Deck Guide
+
+**Author:** chenxi030826  
+**Published:** 9/2/2026, 7:14:23 AM  
+**Categories:** -  
+
+Article URL: https://medium.com/@2315610426/how-to-make-a-pwc-style-powerpoint-with-ai-a-practical-consulting-deck-guide-b34c9811ca9b Comments URL: https://news.ycombinator.com/item?id=49532813 Points: 1 # Comments: 0
+
+📖 [Read original article](https://medium.com/@2315610426/how-to-make-a-pwc-style-powerpoint-with-ai-a-practical-consulting-deck-guide-b34c9811ca9b)
+
+---
+
+## 20. Simon Willison: How AI is changing software development [audio]
+
+**Author:** skm  
+**Published:** 9/2/2026, 7:13:19 AM  
+**Categories:** -  
+
+Article URL: https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison/transcript Comments URL: https://news.ycombinator.com/item?id=49532806 Points: 2 # Comments: 0
+
+📖 [Read original article](https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison/transcript)
 
 ---
