@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI Doomers Are Buying Potemkin Articles
+## 1. Disclosure Pilot AI
 
-**Author:** MrBuddyCasino  
-**Published:** 9/2/2026, 3:54:16 PM  
+**Author:** p-dirac  
+**Published:** 9/2/2026, 8:25:11 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/brianchau57/status/2095128785955987698 Comments URL: https://news.ycombinator.com/item?id=49538173 Points: 2 # Comments: 0
+Article URL: https://github.com/p-dirac/disclosure-pilot-ai Comments URL: https://news.ycombinator.com/item?id=49541981 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/brianchau57/status/2095128785955987698)
+📖 [Read original article](https://github.com/p-dirac/disclosure-pilot-ai)
 
 ---
 
-## 2. AI Killed My Blog Traffic
+## 2. Lean AI Formalization Leaderboard
+
+**Author:** frozenseven  
+**Published:** 9/2/2026, 8:24:03 PM  
+**Categories:** -  
+
+Article URL: https://lean-lang.org/eval/legacy/ Comments URL: https://news.ycombinator.com/item?id=49541962 Points: 1 # Comments: 0
+
+📖 [Read original article](https://lean-lang.org/eval/legacy/)
+
+---
+
+## 3. \"AI Agents Are Now Emailing Me with Their Security Concerns\"
+
+**Author:** pavel_lishin  
+**Published:** 9/2/2026, 8:06:07 PM  
+**Categories:** -  
+
+Article URL: https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html Comments URL: https://news.ycombinator.com/item?id=49541714 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html)
+
+---
+
+## 4. Mamdani imposes one-year ban on AI for most NYC students
+
+**Author:** cdrnsf  
+**Published:** 9/2/2026, 8:05:09 PM  
+**Categories:** -  
+
+Article URL: https://www.reuters.com/technology/mamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02/ Comments URL: https://news.ycombinator.com/item?id=49541700 Points: 4 # Comments: 1
+
+📖 [Read original article](https://www.reuters.com/technology/mamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02/)
+
+---
+
+## 5. Uber drivers launch European class action over AI algorithm
+
+**Author:** uxhacker  
+**Published:** 9/2/2026, 7:54:26 PM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm Comments URL: https://news.ycombinator.com/item?id=49541544 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm)
+
+---
+
+## 6. AI Agents and the Refactoring That Never Happens
+
+**Author:** rosenfeld  
+**Published:** 9/2/2026, 7:51:39 PM  
+**Categories:** -  
+
+Article URL: https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/ Comments URL: https://news.ycombinator.com/item?id=49541496 Points: 9 # Comments: 10
+
+📖 [Read original article](https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/)
+
+---
+
+## 7. Russian Mathematicians Taught AI How to Talk to Each Other Without Using Words
+
+**Author:** eamag  
+**Published:** 9/2/2026, 7:49:06 PM  
+**Categories:** -  
+
+Article URL: https://www.wired.com/story/russian-startup-mostik-ai-models-communication/ Comments URL: https://news.ycombinator.com/item?id=49541463 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.wired.com/story/russian-startup-mostik-ai-models-communication/)
+
+---
+
+## 8. The Post-AI Internet Doesn't Look Great
 
 **Author:** speckx  
-**Published:** 9/2/2026, 3:52:21 PM  
+**Published:** 9/2/2026, 7:41:01 PM  
 **Categories:** -  
 
-Article URL: https://clintmcmahon.com/blog/ai-killed-my-blog-traffic Comments URL: https://news.ycombinator.com/item?id=49538145 Points: 1 # Comments: 0
+Article URL: https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/ Comments URL: https://news.ycombinator.com/item?id=49541331 Points: 52 # Comments: 35
 
-📖 [Read original article](https://clintmcmahon.com/blog/ai-killed-my-blog-traffic)
+📖 [Read original article](https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/)
 
 ---
 
-## 3. AI Slop is saturating the internet and things are becoming dramatic quickly
+## 9. Show HN: StealthOS, an iOS privacy sandbox with local AI and Tor
 
-**Author:** embedding-shape  
-**Published:** 9/2/2026, 3:48:27 PM  
+**Author:** steffi_oliver  
+**Published:** 9/2/2026, 7:21:02 PM  
 **Categories:** -  
 
-Article URL: https://sites.google.com/view/sources-aislop Comments URL: https://news.ycombinator.com/item?id=49538075 Points: 4 # Comments: 2
+Article URL: https://www.stealthos.app/ Comments URL: https://news.ycombinator.com/item?id=49541092 Points: 2 # Comments: 0
 
-📖 [Read original article](https://sites.google.com/view/sources-aislop)
+📖 [Read original article](https://www.stealthos.app/)
 
 ---
 
-## 4. End AI agent lock-in. Start conversation with one agent – continue with another
+## 10. Altman says countries have to use AI: 'I think it is non-negotiable'
 
-**Author:** yruzin  
-**Published:** 9/2/2026, 3:40:30 PM  
+**Author:** oxag3n  
+**Published:** 9/2/2026, 7:09:33 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Aplexica/Aplexica Comments URL: https://news.ycombinator.com/item?id=49537958 Points: 1 # Comments: 0
+Article URL: https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html Comments URL: https://news.ycombinator.com/item?id=49540934 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/Aplexica/Aplexica)
+📖 [Read original article](https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html)
 
 ---
 
-## 5. AI Policy
+## 11. HiddenLayer nabs $100M as enterprises rush to secure their AI deployments
 
-**Author:** duck  
-**Published:** 9/2/2026, 3:36:24 PM  
+**Author:** jacobr1  
+**Published:** 9/2/2026, 7:09:31 PM  
 **Categories:** -  
 
-Article URL: https://dbushell.com/ai/ Comments URL: https://news.ycombinator.com/item?id=49537900 Points: 2 # Comments: 0
+Article URL: https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/ Comments URL: https://news.ycombinator.com/item?id=49540933 Points: 2 # Comments: 0
 
-📖 [Read original article](https://dbushell.com/ai/)
+📖 [Read original article](https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/)
 
 ---
 
-## 6. Why Adding More AI Agents Makes Your Team Slower
+## 12. I tried to predict which jobs AI replaces. The useful part is where it's wrong
 
-**Author:** mempko  
-**Published:** 9/2/2026, 3:27:08 PM  
+**Author:** DarkyRxfty  
+**Published:** 9/2/2026, 7:04:50 PM  
 **Categories:** -  
 
-Article URL: https://blog.mempko.com/misconception-about-agentic-scaling/ Comments URL: https://news.ycombinator.com/item?id=49537759 Points: 3 # Comments: 0
+Article URL: https://careeratlas.dev/writing/ai-displacement-model Comments URL: https://news.ycombinator.com/item?id=49540866 Points: 4 # Comments: 1
 
-📖 [Read original article](https://blog.mempko.com/misconception-about-agentic-scaling/)
+📖 [Read original article](https://careeratlas.dev/writing/ai-displacement-model)
 
 ---
 
-## 7. Kubernetes Is No Longer Just a Container Platform, It's Your AI Infrastructure
+## 13. Researchers Warn AI Could Be Changing Us in an Unexpected Way
 
-**Author:** mooreds  
-**Published:** 9/2/2026, 3:08:30 PM  
+**Author:** wjSgoWPm5bWAhXB  
+**Published:** 9/2/2026, 7:03:09 PM  
 **Categories:** -  
 
-Article URL: https://cloudelligent.com/blog/kubernetes-ai-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=49537485 Points: 2 # Comments: 0
+Article URL: https://www.sciencealert.com/interacting-with-ai-might-make-you-act-more-robot-like-researchers-warn Comments URL: https://news.ycombinator.com/item?id=49540832 Points: 4 # Comments: 0
 
-📖 [Read original article](https://cloudelligent.com/blog/kubernetes-ai-infrastructure/)
+📖 [Read original article](https://www.sciencealert.com/interacting-with-ai-might-make-you-act-more-robot-like-researchers-warn)
 
 ---
 
-## 8. Researchers trick Fortune-500 AI agents into running arbitrary code via llms.txt
+## 14. How AI Is Ruining the Electric Grid
 
-**Author:** sbulaev  
-**Published:** 9/2/2026, 3:07:08 PM  
+**Author:** alphabetatango  
+**Published:** 9/2/2026, 6:53:47 PM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code Comments URL: https://news.ycombinator.com/item?id=...
+Article URL: https://www.youtube.com/watch?v=3__HO-akNC8 Comments URL: https://news.ycombinator.com/item?id=49540706 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code)
+📖 [Read original article](https://www.youtube.com/watch?v=3__HO-akNC8)
 
 ---
 
-## 9. New York City Public Schools banning AI use through middle school
+## 15. Freelancers are getting buried with 'soulless' AI slop cleanup
 
-**Author:** MallocVoidstar  
-**Published:** 9/2/2026, 3:02:30 PM  
+**Author:** CrypticShift  
+**Published:** 9/2/2026, 6:42:01 PM  
 **Categories:** -  
 
-Article URL: https://abcnews.com/Technology/new-york-city-public-schools-banning-ai-middle/story?id=136134872 Comments URL: https://news.ycombinator.com/item?id=49537402 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup Comments URL: https://news.ycombinator.com/item?id=49540555 Points: 7 # Comments: 0
 
-📖 [Read original article](https://abcnews.com/Technology/new-york-city-public-schools-banning-ai-middle/story?id=136134872)
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup)
 
 ---
 
-## 10. Double Blind Evals: Resolving the Dual Confidentiality Dilemma in AI Safety...
-
-**Author:** williamtrask  
-**Published:** 9/2/2026, 2:58:41 PM  
-**Categories:** -  
-
-Article URL: https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/piloting-the-worlds-first-double-blind-ai-evaluations/double-blind-evaluations-technical-report.pdf Comments URL: https://news.ycombinator.com/item?id=49537339 Points: 2 # Comments: 0
-
-📖 [Read original article](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/piloting-the-worlds-first-double-blind-ai-evaluations/double-blind-evaluations-technical-report.pdf)
-
----
-
-## 11. AI-assisted writing, AI slop, and the line between them
+## 16. Firefox's AI Switch Is Off. Telemetry Isn't
 
 **Author:** speckx  
-**Published:** 9/2/2026, 2:54:20 PM  
+**Published:** 9/2/2026, 6:30:49 PM  
 **Categories:** -  
 
-Article URL: https://amatria.in/blog/aislop Comments URL: https://news.ycombinator.com/item?id=49537259 Points: 2 # Comments: 0
+Article URL: https://marius.blog/firefox-155-ai-kill-switch-retest/ Comments URL: https://news.ycombinator.com/item?id=49540397 Points: 27 # Comments: 15
 
-📖 [Read original article](https://amatria.in/blog/aislop)
+📖 [Read original article](https://marius.blog/firefox-155-ai-kill-switch-retest/)
 
 ---
 
-## 12. Europe Doesn't Have an AI Problem. It Has a Trust Problem
+## 17. The companies powering AI are outperforming those building it
 
-**Author:** Arshad-Talpur  
-**Published:** 9/2/2026, 2:54:12 PM  
+**Author:** toomuchtodo  
+**Published:** 9/2/2026, 6:14:54 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@MirArshadTalpur/europe-doesnt-have-an-ai-problem-it-has-a-trust-problem-c0ee81ad7bef Comments URL: https://news.ycombinator.com/item?id=49537256 Points: 2 # Comments: 0
+Article URL: https://www.home.saxo/content/articles/commodities/the-companies-powering-ai-are-outperforming-those-building-it-02092026 Comments URL: https://news.ycombinator.com/item?id=49540192 Points: 2 # Comments: 0
 
-📖 [Read original article](https://medium.com/@MirArshadTalpur/europe-doesnt-have-an-ai-problem-it-has-a-trust-problem-c0ee81ad7bef)
+📖 [Read original article](https://www.home.saxo/content/articles/commodities/the-companies-powering-ai-are-outperforming-those-building-it-02092026)
 
 ---
 
-## 13. Dead internet theater – turning malicious AI crawlers into a poetic experiment
+## 18. No AI until high school:NYC schools announce major classroom technology overhaul
 
-**Author:** mneunomne  
-**Published:** 9/2/2026, 2:52:02 PM  
+**Author:** thunderbong  
+**Published:** 9/2/2026, 6:13:54 PM  
 **Categories:** -  
 
-Article URL: https://deadinternet.theater Comments URL: https://news.ycombinator.com/item?id=49537223 Points: 2 # Comments: 1
+Article URL: https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716/ Comments URL: https://news.ycombinator.com/item?id=49540182 Points: 16 # Comments: 5
 
-📖 [Read original article](https://deadinternet.theater)
+📖 [Read original article](https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716/)
 
 ---
 
-## 14. US-Iran strikes, Meta's AI layoff plan, and bear break-ins
+## 19. Meta bricked the cameras on its AI glasses
 
-**Author:** KinetiNode  
-**Published:** 9/2/2026, 2:50:24 PM  
+**Author:** simpleintheory  
+**Published:** 9/2/2026, 6:13:35 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/podcasts/us-iran-strikes-metas-ai-layoff-plan-bear-break-ins-2026-08-31/ Comments URL: https://news.ycombinator.com/item?id=49537195 Points: 1 # Comments: 0
+Article URL: https://www.businessinsider.com/meta-glasses-camera-disabled-tampering-recording-light-update-2026-9 Comments URL: https://news.ycombinator.com/item?id=49540175 Points: 6 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/podcasts/us-iran-strikes-metas-ai-layoff-plan-bear-break-ins-2026-08-31/)
+📖 [Read original article](https://www.businessinsider.com/meta-glasses-camera-disabled-tampering-recording-light-update-2026-9)
 
 ---
 
-## 15. Even AI Slop Deserves to Be Handmade
+## 20. This Fence Has No Farmer (Chesterton's Fence and AI-Generated Code)
 
-**Author:** blater  
-**Published:** 9/2/2026, 2:44:35 PM  
+**Author:** xadz  
+**Published:** 9/2/2026, 6:11:47 PM  
 **Categories:** -  
 
-Ever feel your writing sounds too human ? How can you fit in on LinkedIn? How can you speak the language of AI without _using_ AI?https://github.com/blater/claudifyCarefully hand craft your prose, then hand it to Claudify. It uses non-AI deterministic heuristics to warp, crush, pulverize, and algori...
+Article URL: https://adamgreenough.net/blog/this-fence-has-no-farmer/ Comments URL: https://news.ycombinator.com/item?id=49540149 Points: 4 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49537104)
-
----
-
-## 16. Show HN: Otaku.sh – AI Roleplay Client
-
-**Author:** enclavum5  
-**Published:** 9/2/2026, 2:34:45 PM  
-**Categories:** -  
-
-Article URL: https://otaku.sh Comments URL: https://news.ycombinator.com/item?id=49536921 Points: 1 # Comments: 0
-
-📖 [Read original article](https://otaku.sh)
-
----
-
-## 17. End-to-end engineering reference for AI data centers
-
-**Author:** matadormix  
-**Published:** 9/2/2026, 2:30:50 PM  
-**Categories:** -  
-
-Article URL: https://aidatacenterguide.com Comments URL: https://news.ycombinator.com/item?id=49536852 Points: 2 # Comments: 1
-
-📖 [Read original article](https://aidatacenterguide.com)
-
----
-
-## 18. Are We Thinking Correctly About AI Intelligence?
-
-**Author:** gmays  
-**Published:** 9/2/2026, 2:22:48 PM  
-**Categories:** -  
-
-Article URL: https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/ Comments URL: https://news.ycombinator.com/item?id=49536710 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/)
-
----
-
-## 19. How AI Is Weaponizing India's Voter Data for Mass Surveillance
-
-**Author:** twapi  
-**Published:** 9/2/2026, 2:20:37 PM  
-**Categories:** -  
-
-Article URL: https://www.medianama.com/2026/09/223-sir-electorion-commission-data-privacy/ Comments URL: https://news.ycombinator.com/item?id=49536678 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.medianama.com/2026/09/223-sir-electorion-commission-data-privacy/)
-
----
-
-## 20. Show HN: Flawd is mutation testing for the AI era
-
-**Author:** fohara  
-**Published:** 9/2/2026, 2:16:55 PM  
-**Categories:** -  
-
-Hey, all! Flawd is a mutation testing tool that can target five languages (Python, JS, TS, Go, Rust) and it runs locally as a single binary on your machine. Importantly (for many), your code never leaves your machine and all processing takes place directly on your dev box or CI runner.Mutation testi...
-
-📖 [Read original article](https://fixture.dev/flawd)
+📖 [Read original article](https://adamgreenough.net/blog/this-fence-has-no-farmer/)
 
 ---
