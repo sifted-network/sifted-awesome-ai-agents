@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-01"
 date: "2026-09-01"
 source: "OpenAI Blog"
-count: 3
+count: 4
 ---
 
 # OpenAI Blog - 2026-09-01
 
-3 items collected.
+4 items collected.
 
 ---
 
@@ -44,5 +44,17 @@ Astra is the first OpenAI model to meet the Critical cybersecurity capability th
 ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.
 
 📖 [Read original article](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources)
+
+---
+
+## 4. How law firm Gilbert + Tobin governs and scales AI with OpenAI
+
+**Author:** -  
+**Published:** 9/1/2026, 1:00:00 AM  
+**Categories:** -  
+
+See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.
+
+📖 [Read original article](https://openai.com/index/gilbert-tobin)
 
 ---
