@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-08-31"
 date: "2026-08-31"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-08-31
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ How do you benchmark a web search API when the thing being tested can read the a
 Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM checkpoint through 2.5, it is pretrained natively for multivariate forecasting, accepting multiple targets, past covariat...
 
 📖 [Read original article](https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/)
-
----
-
-## 3. OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway
-
-**Author:** Michal Sutter  
-**Published:** 8/31/2026, 5:04:10 AM  
-**Categories:** Agentic AI, AI Agents, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Python, Software Engineering, Staff, Tech News, Technology, Uncategorized  
-
-The OpenClaw Foundation has released v2026.8.1, which the project calls OpenClaw 2.0: 933 contributors, 569 first-timers, and more than 16,000 pull requests, roughly half of every PR ever merged into the repo. Setup now reuses existing subscriptions, API keys and local models. The rebuilt Control UI...
-
-📖 [Read original article](https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/)
 
 ---
