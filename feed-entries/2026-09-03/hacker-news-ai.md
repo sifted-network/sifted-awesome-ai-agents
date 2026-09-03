@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. £100M competition to back British AI companies to fix public services
+## 1. Can AI help solve the peer-review crisis? Here are its promises and pitfalls
 
-**Author:** nixlaz  
-**Published:** 9/3/2026, 10:19:45 AM  
+**Author:** thinkingemote  
+**Published:** 9/3/2026, 8:19:23 PM  
 **Categories:** -  
 
-Article URL: https://www.gov.uk/government/news/100-million-competition-to-back-british-ai-companies-to-fix-public-services Comments URL: https://news.ycombinator.com/item?id=49548161 Points: 2 # Comments: 0
+Article URL: https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls Comments URL: https://news.ycombinator.com/item?id=49556274 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.gov.uk/government/news/100-million-competition-to-back-british-ai-companies-to-fix-public-services)
+📖 [Read original article](https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls)
 
 ---
 
-## 2. LTO Tape Shipments Up 57% in Q1 2026 as AI and Archive Demand Accelerate
+## 2. AI Financial Advisor – FiscalAI· Streamlit
 
-**Author:** giuliomagnifico  
-**Published:** 9/3/2026, 10:04:16 AM  
+**Author:** theadidev  
+**Published:** 9/3/2026, 8:04:08 PM  
 **Categories:** -  
 
-Article URL: https://www.storagereview.com/news/lto-tape-shipments-up-57-in-q1-2026-as-ai-and-archive-demand-accelerate Comments URL: https://news.ycombinator.com/item?id=49548059 Points: 2 # Comments: 0
+Article URL: https://thefiscalai.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49556038 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.storagereview.com/news/lto-tape-shipments-up-57-in-q1-2026-as-ai-and-archive-demand-accelerate)
+📖 [Read original article](https://thefiscalai.streamlit.app)
 
 ---
 
-## 3. Winston – Senior AI Platform Engineer – Remote (NA or India Preferred)
+## 3. AI Norms and Values, Part 2 of 3: AI for Honeycomb Engineering
 
-**Author:** anbarasiu  
-**Published:** 9/3/2026, 10:03:46 AM  
+**Author:** mooreds  
+**Published:** 9/3/2026, 7:55:35 PM  
 **Categories:** -  
 
-Article URL: https://winston.team Comments URL: https://news.ycombinator.com/item?id=49548055 Points: 1 # Comments: 0
+Article URL: https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering Comments URL: https://news.ycombinator.com/item?id=49555895 Points: 1 # Comments: 0
 
-📖 [Read original article](https://winston.team)
+📖 [Read original article](https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering)
 
 ---
 
-## 4. Marvin – Open-source macOS AI coding IDE that learns from its own sessions
+## 4. Before New York City, Norway Had Banned AI in Schools
 
-**Author:** robertilisei  
-**Published:** 9/3/2026, 9:50:05 AM  
+**Author:** jethronethro  
+**Published:** 9/3/2026, 7:30:31 PM  
 **Categories:** -  
 
-Article URL: https://github.com/RobertIlisei/MARVIN Comments URL: https://news.ycombinator.com/item?id=49547951 Points: 2 # Comments: 0
+Article URL: https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools Comments URL: https://news.ycombinator.com/item?id=49555437 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/RobertIlisei/MARVIN)
+📖 [Read original article](https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools)
 
 ---
 
-## 5. AI agents are hacking systems without any input from humans
+## 5. Ask HN: Why is nobody funding Wikipedia with AI based chat with articles
 
-**Author:** geox  
-**Published:** 9/3/2026, 9:46:49 AM  
+**Author:** jereees  
+**Published:** 9/3/2026, 7:29:28 PM  
 **Categories:** -  
 
-Article URL: https://www.pbs.org/newshour/science/ai-agents-are-hacking-systems-without-any-input-from-humans-how-did-we-get-here Comments URL: https://news.ycombinator.com/item?id=49547933 Points: 1 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49555417 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.pbs.org/newshour/science/ai-agents-are-hacking-systems-without-any-input-from-humans-how-did-we-get-here)
+📖 [Read original article](https://news.ycombinator.com/item?id=49555417)
 
 ---
 
-## 6. Show HN: Concorde, one AI agent shared by an organization
+## 6. Wall Street banks push Big Law to cut fees because of AI
 
-**Author:** jfdsfsfdsf  
-**Published:** 9/3/2026, 9:13:41 AM  
+**Author:** paulpauper  
+**Published:** 9/3/2026, 7:20:07 PM  
 **Categories:** -  
 
-We built Concorde, an open-source framework giving an organization one shared agent that's controlled by a group, rather than just one person.This is pretty cool because shared agents can bring us closer to single entities doing what took a whole organization to do, kind of moving us in the directio...
+Article URL: https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9 Comments URL: https://news.ycombinator.com/item?id=49555275 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/shutter-network/concorde)
+📖 [Read original article](https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9)
 
 ---
 
-## 7. Semek: Local AI hub for labelling/filtering digital content
+## 7. Five AI systems, one message: one cloned the repo and ran the check
 
-**Author:** stinos  
-**Published:** 9/3/2026, 9:00:37 AM  
+**Author:** Lawless1987  
+**Published:** 9/3/2026, 7:15:05 PM  
 **Categories:** -  
 
-Article URL: https://itdaily.com/news/software/aaltra-and-ghent-university-develop-semek-a-local-ai-hub-for-digital-content/ Comments URL: https://news.ycombinator.com/item?id=49547613 Points: 1 # Comments: 0
+Article URL: https://github.com/LAWLESS1987/covenant/blob/main/docs/CASE_STUDY_SELF_REPORT.md Comments URL: https://news.ycombinator.com/item?id=49555200 Points: 1 # Comments: 0
 
-📖 [Read original article](https://itdaily.com/news/software/aaltra-and-ghent-university-develop-semek-a-local-ai-hub-for-digital-content/)
+📖 [Read original article](https://github.com/LAWLESS1987/covenant/blob/main/docs/CASE_STUDY_SELF_REPORT.md)
 
 ---
 
-## 8. Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life [video]
+## 8. Zuckerberg said national AI regulator was flawed idea in secret call with Trump
+
+**Author:** thm  
+**Published:** 9/3/2026, 7:14:58 PM  
+**Categories:** -  
+
+Article URL: https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843 Comments URL: https://news.ycombinator.com/item?id=49555199 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843)
+
+---
+
+## 9. Redwood: A Frontier AI Accelerator Designed from Scratch in 2 Weeks by AI
+
+**Author:** imakwana  
+**Published:** 9/3/2026, 6:50:45 PM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2608.26418 Comments URL: https://news.ycombinator.com/item?id=49554818 Points: 2 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2608.26418)
+
+---
+
+## 10. Dwarkesh Patel: I think pausing would increase the risk of AI takeover
 
 **Author:** tosh  
-**Published:** 9/3/2026, 8:46:24 AM  
+**Published:** 9/3/2026, 6:42:14 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=oFtjKbXKqbg Comments URL: https://news.ycombinator.com/item?id=49547513 Points: 1 # Comments: 0
+Article URL: https://twitter.com/dwarkesh_sp/status/2095580145603977413 Comments URL: https://news.ycombinator.com/item?id=49554660 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=oFtjKbXKqbg)
+📖 [Read original article](https://twitter.com/dwarkesh_sp/status/2095580145603977413)
 
 ---
 
-## 9. Lab Policy on AI in Writing and Communication
+## 11. Nvidia's Open Secure AI Alliance Moves to Linux Foundation
 
-**Author:** sebg  
-**Published:** 9/3/2026, 8:33:34 AM  
+**Author:** CrankyBear  
+**Published:** 9/3/2026, 6:37:46 PM  
 **Categories:** -  
 
-Article URL: https://www.cs.columbia.edu/~johnhew/lab/ai-policy.html Comments URL: https://news.ycombinator.com/item?id=49547429 Points: 1 # Comments: 0
+Article URL: https://techstrong.ai/articles/nvidias-open-secure-ai-alliance-moves-to-linux-foundation/ Comments URL: https://news.ycombinator.com/item?id=49554589 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cs.columbia.edu/~johnhew/lab/ai-policy.html)
+📖 [Read original article](https://techstrong.ai/articles/nvidias-open-secure-ai-alliance-moves-to-linux-foundation/)
 
 ---
 
-## 10. 35 people I know lost their tech jobs. AI was part of the reason.
+## 12. OpenAI's next big AI model has 'entered the AGI era'
 
-**Author:** salari_dev  
-**Published:** 9/3/2026, 8:30:57 AM  
+**Author:** SomeonesAccount  
+**Published:** 9/3/2026, 6:28:32 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@salari-dev/35-people-i-know-lost-their-tech-jobs-ai-was-part-of-the-reason-the-layoff-wasnt-the-worst-part-787a4ee4a5e2 Comments URL: https://news.ycombinator.com/item?id=49547409 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release Comments URL: https://news.ycombinator.com/item?id=49554445 Points: 4 # Comments: 0
 
-📖 [Read original article](https://medium.com/@salari-dev/35-people-i-know-lost-their-tech-jobs-ai-was-part-of-the-reason-the-layoff-wasnt-the-worst-part-787a4ee4a5e2)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
 
 ---
 
-## 11. States defy the tech lobby on AI rules
+## 13. A story about HTML and AI
 
-**Author:** reasonableklout  
-**Published:** 9/3/2026, 8:27:57 AM  
+**Author:** ginooliver  
+**Published:** 9/3/2026, 6:20:20 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/09/02/how-silicon-valley-lost-its-war-against-state-ai-laws-01054133 Comments URL: https://news.ycombinator.com/item?id=49547396 Points: 1 # Comments: 0
+Article URL: https://sproutmarkup.com/view/034b2408b0a84d3892383bb0b70e4536 Comments URL: https://news.ycombinator.com/item?id=49554300 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.politico.com/news/2026/09/02/how-silicon-valley-lost-its-war-against-state-ai-laws-01054133)
+📖 [Read original article](https://sproutmarkup.com/view/034b2408b0a84d3892383bb0b70e4536)
 
 ---
 
-## 12. BrainTube – Your personal AI powered knowledge base
+## 14. Show HN: Addom – Open-source, telemetry-free AI coding harness and editor
 
-**Author:** illray  
-**Published:** 9/3/2026, 8:26:12 AM  
+**Author:** JosPMSilva  
+**Published:** 9/3/2026, 6:18:06 PM  
 **Categories:** -  
 
-Article URL: https://brain-tube.com/ Comments URL: https://news.ycombinator.com/item?id=49547378 Points: 1 # Comments: 0
+I started this project six months ago. While the market already had decent AI harnesses, none of them felt like they had what I actually needed.What began as a simple, minimalist tool quickly grew into one of my most ambitious projects. I started with basic tool calling and streaming, but that wasn'...
 
-📖 [Read original article](https://brain-tube.com/)
+📖 [Read original article](https://github.com/JosPMSilva/ADDOM)
 
 ---
 
-## 13. Kids go from curious to frustrated playing with AI-stuffed toys, UW study finds
+## 15. Skyportal, an open source AI infra engineer with an approval gate
 
-**Author:** 01-_-  
-**Published:** 9/3/2026, 8:20:51 AM  
+**Author:** henrique221  
+**Published:** 9/3/2026, 6:13:26 PM  
 **Categories:** -  
 
-Article URL: https://www.geekwire.com/2026/kids-go-from-curious-to-frustrated-playing-with-ai-stuffed-toys-uw-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49547334 Points: 6 # Comments: 5
+Article URL: https://github.com/SkyportalAi/skyportalai Comments URL: https://news.ycombinator.com/item?id=49554198 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.geekwire.com/2026/kids-go-from-curious-to-frustrated-playing-with-ai-stuffed-toys-uw-study-finds/)
+📖 [Read original article](https://github.com/SkyportalAi/skyportalai)
 
 ---
 
-## 14. AI as a Stress Reliever
+## 16. The Ads Model for Prompts Vertically Integrates AI – Tom Tunguz
 
-**Author:** madewulf  
-**Published:** 9/3/2026, 8:16:08 AM  
+**Author:** manualwise  
+**Published:** 9/3/2026, 6:07:16 PM  
 **Categories:** -  
 
-Article URL: https://multitasked.net/2026/09/03/ai-as-a-stress-releiver.html Comments URL: https://news.ycombinator.com/item?id=49547288 Points: 1 # Comments: 0
+Article URL: https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai/ Comments URL: https://news.ycombinator.com/item?id=49554127 Points: 1 # Comments: 0
 
-📖 [Read original article](https://multitasked.net/2026/09/03/ai-as-a-stress-releiver.html)
+📖 [Read original article](https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai/)
 
 ---
 
-## 15. Nvidia-Started Open Secure AI Alliance Moves to the Linux Foundation
+## 17. OpenAI says it has overtaken Anthropic with its latest AI model
 
-**Author:** teleforce  
-**Published:** 9/3/2026, 8:14:13 AM  
+**Author:** pboulos  
+**Published:** 9/3/2026, 6:02:40 PM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/news/Open-Secure-AI-Alliance-LF Comments URL: https://news.ycombinator.com/item?id=49547278 Points: 1 # Comments: 0
+Article URL: https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b Comments URL: https://news.ycombinator.com/item?id=49554060 Points: 16 # Comments: 6
 
-📖 [Read original article](https://www.phoronix.com/news/Open-Secure-AI-Alliance-LF)
+📖 [Read original article](https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b)
 
 ---
 
-## 16. Show HN: OpenHelper AI Chatbot – The Free and Open Source AI Chatbot
+## 18. Climbers rescued from Mount Shasta after relying on AI chatbot to plan trip
 
-**Author:** techambient  
-**Published:** 9/3/2026, 8:07:08 AM  
+**Author:** adharmad  
+**Published:** 9/3/2026, 5:51:42 PM  
 **Categories:** -  
 
-Article URL: https://techambient.github.io/HybridAI/ Comments URL: https://news.ycombinator.com/item?id=49547229 Points: 1 # Comments: 2
+Article URL: https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php Comments URL: https://news.ycombinator.com/item?id=49553919 Points: 7 # Comments: 0
 
-📖 [Read original article](https://techambient.github.io/HybridAI/)
+📖 [Read original article](https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php)
 
 ---
 
-## 17. Anker's new MindBase is an AI-powered brain for your smart home
+## 19. AI-Powered Data Warehouses: Architectural Lessons for Every AI Product
 
-**Author:** ksec  
-**Published:** 9/3/2026, 7:52:45 AM  
+**Author:** karlmush  
+**Published:** 9/3/2026, 5:51:18 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter Comments URL: https://news.ycombinator.com/item?id=49547125 Points: 1 # Comments: 0
+Article URL: https://twitter.com/JoshARosen/status/2095488762532745712 Comments URL: https://news.ycombinator.com/item?id=49553916 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter)
+📖 [Read original article](https://twitter.com/JoshARosen/status/2095488762532745712)
 
 ---
 
-## 18. No–AI Agents Did Not Build Secret Civilizations Stop Anthropomorphizing Malware
+## 20. Pause AI Development Now
 
-**Author:** apex_sloth  
-**Published:** 9/3/2026, 7:45:10 AM  
+**Author:** Visby  
+**Published:** 9/3/2026, 5:34:48 PM  
 **Categories:** -  
 
-Article URL: https://internetofbugs.substack.com/p/noai-agents-did-not-build-secret Comments URL: https://news.ycombinator.com/item?id=49547073 Points: 12 # Comments: 6
+Article URL: https://twitter.com/BernieSanders/status/2095542398084415952 Comments URL: https://news.ycombinator.com/item?id=49553675 Points: 11 # Comments: 7
 
-📖 [Read original article](https://internetofbugs.substack.com/p/noai-agents-did-not-build-secret)
-
----
-
-## 19. Corporate Data Privacy UAE: Why On-Device AI Is the Real Moat for Dubai Startups
-
-**Author:** alfotesr  
-**Published:** 9/3/2026, 7:36:28 AM  
-**Categories:** -  
-
-Article URL: https://www.a1ho.com/2026/08/corporate-data-privacy-uae-why-on.html Comments URL: https://news.ycombinator.com/item?id=49547018 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.a1ho.com/2026/08/corporate-data-privacy-uae-why-on.html)
-
----
-
-## 20. ChatGPT, Grok Added to War Department's AI System Options
-
-**Author:** geox  
-**Published:** 9/3/2026, 7:35:43 AM  
-**Categories:** -  
-
-Article URL: https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options/ Comments URL: https://news.ycombinator.com/item?id=49547012 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options/)
+📖 [Read original article](https://twitter.com/BernieSanders/status/2095542398084415952)
 
 ---
