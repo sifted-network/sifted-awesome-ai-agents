@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-02"
 date: "2026-09-02"
 source: "MarkTechPost"
-count: 5
+count: 6
 ---
 
 # MarkTechPost - 2026-09-02
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs
+## 1. Qwen Developers Open-Sources zg (zvec-grep): A Local-First Search Layer Unifying ripgrep, BM25, and Vector Search
+
+**Author:** Michal Sutter  
+**Published:** 9/2/2026, 11:48:47 PM  
+**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Machine Learning, New Releases, Open Source, Python, Software Engineering, Staff, Tech News, Technology, Uncategorized  
+
+We look at zg (zvec-grep), the local-first search layer that Qwen Developers just open-sourced under Apache 2.0. We explain how it puts ripgrep, BM25, and vector search behind a single interface, so an agent can move from a plain-language description to an exact line span without switching tools. We...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/02/qwen-developers-open-sources-zg-zvec-grep-a-local-first-search-layer-unifying-ripgrep-bm25-and-vector-search/)
+
+---
+
+## 2. Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs
 
 **Author:** Michal Sutter  
 **Published:** 9/2/2026, 6:05:52 PM  
@@ -23,7 +35,7 @@ NVIDIA has released Switchyard, an Apache-2.0 Rust proxy and library for LLM tra
 
 ---
 
-## 2. Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes
+## 3. Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes
 
 **Author:** Asif Razzaq  
 **Published:** 9/2/2026, 5:20:24 PM  
@@ -35,7 +47,7 @@ Google released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber on September 2, 2026
 
 ---
 
-## 3. Anthropic Introduces Enterprise Frontier Safeguards (EFS): Zero-Data-Retention Privacy Plus Cross-Session Misuse Detection
+## 4. Anthropic Introduces Enterprise Frontier Safeguards (EFS): Zero-Data-Retention Privacy Plus Cross-Session Misuse Detection
 
 **Author:** Michal Sutter  
 **Published:** 9/2/2026, 7:38:18 AM  
@@ -47,7 +59,7 @@ Anthropic announced Enterprise Frontier Safeguards on September 1, 2026, an arch
 
 ---
 
-## 4. Meta Superintelligence Labs Releases Muse Voice Transcribe: One Real-Time Model for Streaming ASR, Diarization, and Endpointing
+## 5. Meta Superintelligence Labs Releases Muse Voice Transcribe: One Real-Time Model for Streaming ASR, Diarization, and Endpointing
 
 **Author:** Michal Sutter  
 **Published:** 9/2/2026, 5:37:12 AM  
@@ -59,7 +71,7 @@ Most production voice stacks are three systems stitched together. One model tran
 
 ---
 
-## 5. Perplexity Releases Hybrid Compute on Mac: Cloud Agents Orchestrate Down to a Local Model, Gated On Device
+## 6. Perplexity Releases Hybrid Compute on Mac: Cloud Agents Orchestrate Down to a Local Model, Gated On Device
 
 **Author:** Asif Razzaq  
 **Published:** 9/2/2026, 5:12:00 AM  
