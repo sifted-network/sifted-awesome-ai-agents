@@ -233,7 +233,7 @@ arXiv:2609.00196v1 Announce Type: new Abstract: Agent performance depends jointl
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.00224v1 Announce Type: new Abstract: Weight-only post-training quantization (PTQ) can alleviate the computational burden of serving large language models (LLMs) at scale. However, existing PTQ methods often fail to generalize across models and suffer severe accuracy loss below 2 bits. Man...
+arXiv:2609.00224v2 Announce Type: new Abstract: Weight-only post-training quantization (PTQ) can alleviate the computational burden of serving large language models (LLMs) at scale. However, existing PTQ methods often fail to generalize across models and suffer severe accuracy loss below 2 bits. Man...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00224)
 
@@ -461,7 +461,7 @@ arXiv:2609.00518v1 Announce Type: new Abstract: Antibody-specific language model
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, math-ph, math.MP, physics.chem-ph, physics.comp-ph  
 
-arXiv:2609.00528v1 Announce Type: new Abstract: We prove that the Hypergraph Neural Network, an invariant architecture with 3-body message passing, is a universal approximator for potential energy surfaces. Our main contribution is a multi-layer completeness theory. We show that $L$ layers of messag...
+arXiv:2609.00528v2 Announce Type: new Abstract: We prove that the Hypergraph Neural Network, an invariant architecture with 3-body message passing, is a universal approximator for potential energy surfaces. Our main contribution is a multi-layer completeness theory. We show that $L$ layers of messag...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00528)
 
@@ -509,7 +509,7 @@ arXiv:2609.00552v1 Announce Type: new Abstract: Existing coded-computing designs
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.00566v1 Announce Type: new Abstract: We propose EEG-VID, a task-guided latent predictive pretraining framework for EEG decoding under session and subject shifts. EEG-VID predicts future latent EEG states from recent history using an exponential-moving-average target encoder and weak task ...
+arXiv:2609.00566v2 Announce Type: new Abstract: We propose EEG-VID, a task-guided latent predictive pretraining framework for EEG decoding under session and subject shifts. EEG-VID predicts future latent EEG states from recent history using an exponential-moving-average target encoder and weak task ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00566)
 
@@ -845,7 +845,7 @@ arXiv:2609.01051v1 Announce Type: new Abstract: Spurious correlations pose a sig
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CV  
 
-arXiv:2609.01072v1 Announce Type: new Abstract: Post-hoc calibration corrects reported confidence, yet a multiclass calibrator can also change the associated top-1 prediction. Accuracy captures only the net effect of these changes on correctness, not how often predictions change; the Top-1 Predictio...
+arXiv:2609.01072v2 Announce Type: new Abstract: Post-hoc calibration corrects reported confidence, yet a multiclass calibrator can also change the associated top-1 prediction. Accuracy captures only the net effect of these changes on correctness, not how often predictions change; the Top-1 Predictio...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01072)
 
@@ -869,7 +869,7 @@ arXiv:2609.01090v1 Announce Type: new Abstract: Scientific knowledge about AI mo
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.01091v1 Announce Type: new Abstract: Beyond intended capabilities, model distillation can transfer hidden traits from a teacher. A teacher biased by a system prompt can generate semantically clean training data, such as numeric sequences, that still causes a downstream student to inherit ...
+arXiv:2609.01091v2 Announce Type: new Abstract: Beyond intended capabilities, model distillation can transfer hidden traits from a teacher. A teacher biased by a system prompt can generate semantically clean training data, such as numeric sequences, that still causes a downstream student to inherit ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01091)
 
@@ -1085,7 +1085,7 @@ arXiv:2609.01311v1 Announce Type: new Abstract: We extend recent work establishi
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.01335v1 Announce Type: new Abstract: Many production systems can assess a configuration only by using it on live requests and observing noisy feedback. Modern agentic systems are a prominent example, with inference-time choices such as model selection, retrieval depth, prompting strategy,...
+arXiv:2609.01335v2 Announce Type: new Abstract: Many production systems can assess a configuration only by using it on live requests and observing noisy feedback. Modern agentic systems are a prominent example, with inference-time choices such as model selection, retrieval depth, prompting strategy,...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01335)
 
@@ -1217,7 +1217,7 @@ arXiv:2609.01449v1 Announce Type: new Abstract: Diffusion models and recursive r
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.NE  
 
-arXiv:2609.01493v1 Announce Type: new Abstract: Black-Box Optimization (BBO) has found broad applications, but evolutionary algorithms and Bayesian optimization face efficiency challenges as real-world BBO problems grow increasingly complex. Data-driven optimization improves the efficiency of BBO al...
+arXiv:2609.01493v2 Announce Type: new Abstract: Black-Box Optimization (BBO) has broad applications, while traditional algorithms such as evolutionary algorithms and Bayesian optimization face efficiency challenges as real-world BBO problems grow increasingly complex. Data-driven optimization has be...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01493)
 
@@ -1817,7 +1817,7 @@ arXiv:2609.00551v1 Announce Type: cross Abstract: Multimodal memory offers a sca
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2609.00570v1 Announce Type: cross Abstract: With the growing scale of multi-agent architectures and large language models, deployed AI assistants are increasingly tasked with reasoning over long, continuous, multi-session conversation histories. Current benchmarks evaluate this dialogue histor...
+arXiv:2609.00570v2 Announce Type: cross Abstract: With the growing scale of multi-agent architectures and large language models, deployed AI assistants are increasingly tasked with reasoning over long, continuous, multi-session conversation histories. Current benchmarks evaluate this dialogue histor...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00570)
 
@@ -2389,11 +2389,11 @@ arXiv:2609.01552v1 Announce Type: cross Abstract: Scientific equation discovery 
 
 ## 199. Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers
 
-**Author:** Matteo Merler, Giovanni Bonetta, Davide Zago, Rossella Cancelliere, Bernardo Magnini  
+**Author:** Giovanni Bonetta, Matteo Merler, Davide Zago, Rossella Cancelliere, Bernardo Magnini  
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG  
 
-arXiv:2609.01567v1 Announce Type: cross Abstract: Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systema...
+arXiv:2609.01567v2 Announce Type: cross Abstract: Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systema...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01567)
 
@@ -2609,7 +2609,7 @@ arXiv:2510.26954v3 Announce Type: replace Abstract: The Turing Test is no longer
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2511.09681v2 Announce Type: replace Abstract: Visual reinforcement learning has achieved remarkable progress in visual control and robotics, but its vulnerability to adversarial perturbations remains underexplored. Most existing black-box attacks focus on vector-based or discrete-action RL, an...
+arXiv:2511.09681v3 Announce Type: replace Abstract: Visual reinforcement learning has achieved remarkable progress in visual control and robotics, but its vulnerability to adversarial perturbations remains underexplored. Most existing black-box attacks focus on vector-based or discrete-action RL, an...
 
 📖 [Read original article](https://arxiv.org/abs/2511.09681)
 
@@ -2627,13 +2627,13 @@ arXiv:2511.21638v2 Announce Type: replace Abstract: Practical LLM agents often o
 
 ---
 
-## 219. Freeze, Diffuse, Decode: Geometry-Aware Adaptation of Pretrained Transformer Embeddings for Antimicrobial Peptide Design
+## 219. Freeze, Diffuse, Decode: Task-Aware Adaptation of Transformer Embeddings for Antimicrobial Peptide Design
 
 **Author:** Pankhil Gawade, Adam Izdebski, Myriam Lizotte, Kevin R. Moon, Jake S. Rhodes, Guy Wolf, Ewa Szczurek  
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2511.23120v2 Announce Type: replace Abstract: Pretrained transformers provide rich, general-purpose embeddings, which are transferred to downstream tasks. However, current transfer strategies: fine-tuning and probing, either distort the pretrained geometric structure of the embeddings or lack ...
+arXiv:2511.23120v3 Announce Type: replace Abstract: Pretrained transformers provide rich, general-purpose embeddings, which are transferred to downstream tasks. However, current transfer strategies: fine-tuning and probing, either distort the pretrained geometric structure of the embeddings or lack ...
 
 📖 [Read original article](https://arxiv.org/abs/2511.23120)
 
@@ -2981,7 +2981,7 @@ arXiv:2606.06698v4 Announce Type: replace Abstract: Production agentic systems r
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.07571v3 Announce Type: replace Abstract: Key-value (KV) caching for shared prefixes is essential for high-throughput large language model (LLM) serving, but it faces critical challenges in emerging diffusion language models (DLMs). In DLMs, bidirectional attention means that updating any ...
+arXiv:2606.07571v4 Announce Type: replace Abstract: Key-value (KV) caching for shared prefixes is essential for high-throughput large language model (LLM) serving, but it faces critical challenges in emerging diffusion language models (DLMs). In DLMs, bidirectional attention means that updating any ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07571)
 
@@ -2993,7 +2993,7 @@ arXiv:2606.07571v3 Announce Type: replace Abstract: Key-value (KV) caching for s
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.07678v3 Announce Type: replace Abstract: Safety alignment for large language models relies on preference data, but current pipelines often train on large, redundant datasets. Existing data selection methods typically score each preference pair independently, collapsing directional prefere...
+arXiv:2606.07678v4 Announce Type: replace Abstract: Safety alignment for large language models relies on preference data, but current pipelines often train on large, redundant datasets. Existing data selection methods typically score each preference pair independently, collapsing directional prefere...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07678)
 
@@ -3785,7 +3785,7 @@ arXiv:2608.18294v2 Announce Type: replace-cross Abstract: An increasing number o
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.HC, cs.LG  
 
-arXiv:2608.21969v2 Announce Type: replace-cross Abstract: Humans naturally exhibit multiple forms of abstraction in reasoning and interaction, including temporal abstraction across decision timescales and strategic abstraction over communicative intents. Inspired by these complementary abstractions,...
+arXiv:2608.21969v3 Announce Type: replace-cross Abstract: Humans naturally exhibit multiple forms of abstraction in reasoning and interaction, including temporal abstraction across decision timescales and strategic abstraction over communicative intents. Inspired by these complementary abstractions,...
 
 📖 [Read original article](https://arxiv.org/abs/2608.21969)
 
