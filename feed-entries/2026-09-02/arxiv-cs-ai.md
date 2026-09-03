@@ -77,7 +77,7 @@ arXiv:2609.00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncomm
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CR  
 
-arXiv:2609.00015v1 Announce Type: new Abstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution backends operate over the same user or enterprise environment. In such settings, ...
+arXiv:2609.00015v2 Announce Type: new Abstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, tools, and execution backends operate over shared environments. In such settings, safety becomes a system-le...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00015)
 
@@ -339,7 +339,7 @@ arXiv:2609.00274v1 Announce Type: new Abstract: Two-sided service marketplaces a
 
 **Author:** Bardia Mohammadi, Laurent Bindschaedler  
 **Published:** 9/2/2026, 4:00:00 AM  
-**Categories:** cs.AI  
+**Categories:** cs.AI, cs.DC, cs.OS  
 
 arXiv:2609.00275v1 Announce Type: new Abstract: Fleets of LLM agents now externalize effects that cannot be fully undone: they move money, deploy code, delete data, and disclose information. Current controls check one effect at a time, so a fleet of individually authorized agents can overdraw its pr...
 
@@ -605,7 +605,7 @@ arXiv:2609.00543v1 Announce Type: new Abstract: Retrieval-augmented generation (
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2609.00570v1 Announce Type: new Abstract: With the growing scale of multi-agent architectures and large language models, deployed AI assistants are increasingly tasked with reasoning over long, continuous, multi-session conversation histories. Current benchmarks evaluate this dialogue history ...
+arXiv:2609.00570v2 Announce Type: new Abstract: With the growing scale of multi-agent architectures and large language models, deployed AI assistants are increasingly tasked with reasoning over long, continuous, multi-session conversation histories. Current benchmarks evaluate this dialogue history ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00570)
 
@@ -617,7 +617,7 @@ arXiv:2609.00570v1 Announce Type: new Abstract: With the growing scale of multi-
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.00575v1 Announce Type: new Abstract: Mixture-of-experts (MoE) architectures scale large language models efficiently, but they demand massive GPU memory. To cope with such demand, models are commonly compressed to reduce their memory footprint. Residual sparsification is a representative c...
+arXiv:2609.00575v2 Announce Type: new Abstract: Mixture-of-experts (MoE) architectures scale large language models efficiently, but they demand massive GPU memory. To cope with such demand, models are commonly compressed to reduce their memory footprint. Residual sparsification is a representative c...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00575)
 
@@ -1241,7 +1241,7 @@ arXiv:2609.01117v1 Announce Type: new Abstract: Chain-of-thought reasoning unfol
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.MM  
 
-arXiv:2609.01168v1 Announce Type: new Abstract: Text-to-image (T2I) models remain vulnerable to jailbreak attacks that elicit Not-Safe-For-Work (NSFW) content, despite increasingly being guarded by heterogeneous, multi-layer safety stacks combining text filters, image classifiers, and cross-modal de...
+arXiv:2609.01168v2 Announce Type: new Abstract: Text-to-image (T2I) models remain vulnerable to jailbreak attacks that elicit Not-Safe-For-Work (NSFW) content, despite increasingly being guarded by heterogeneous, multi-layer safety stacks combining text filters, image classifiers, and cross-modal de...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01168)
 
@@ -1253,7 +1253,7 @@ arXiv:2609.01168v1 Announce Type: new Abstract: Text-to-image (T2I) models remai
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2609.01198v1 Announce Type: new Abstract: Repeated banking interactions require assistants to maintain complete, current, and traceable customer records as life changes emerge incidentally in routine requests. Existing benchmarks emphasize question answering, bounded episodes, or targeted reca...
+arXiv:2609.01198v2 Announce Type: new Abstract: Repeated banking interactions require assistants to maintain complete, current, and traceable customer records as life changes emerge incidentally in routine requests. Existing benchmarks emphasize question answering, bounded episodes, or targeted reca...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01198)
 
@@ -1405,11 +1405,11 @@ arXiv:2609.01360v1 Announce Type: new Abstract: Large language model (LLM) agent
 
 ## 117. Neuro-Symbolic Geometric Abstraction (NeuSOGA): From Observations to Symbolic Mathematical Representations
 
-**Author:** Qingde Li, Qingqi Hong, Jie Tian  
+**Author:** Qingde Li, Qingqi Hong, Zihan Li, Jie Tian  
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CV, cs.GR  
 
-arXiv:2609.01408v1 Announce Type: new Abstract: A fundamental challenge in artificial intelligence is the transformation of observations into explicit symbolic representations suitable for abstraction, interpretation, and reasoning. While modern AI systems achieve remarkable perceptual capabilities ...
+arXiv:2609.01408v2 Announce Type: new Abstract: A fundamental challenge in artificial intelligence is the transformation of observations into explicit symbolic representations suitable for abstraction, interpretation, and reasoning. While modern AI systems achieve remarkable perceptual capabilities ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01408)
 
@@ -1489,11 +1489,11 @@ arXiv:2609.01552v1 Announce Type: new Abstract: Scientific equation discovery ha
 
 ## 124. Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers
 
-**Author:** Matteo Merler, Giovanni Bonetta, Davide Zago, Rossella Cancelliere, Bernardo Magnini  
+**Author:** Giovanni Bonetta, Matteo Merler, Davide Zago, Rossella Cancelliere, Bernardo Magnini  
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG  
 
-arXiv:2609.01567v1 Announce Type: new Abstract: Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systemati...
+arXiv:2609.01567v2 Announce Type: new Abstract: Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systemati...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01567)
 
@@ -1541,7 +1541,7 @@ arXiv:2609.00038v1 Announce Type: cross Abstract: Outcome-only evaluation is the
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.MA, cs.AI, cs.CY  
 
-arXiv:2609.00046v1 Announce Type: cross Abstract: Rapid and reliable disaster mapping of impacted areas, damaged infrastructure, and affected populations is essential for emergency response and recovery. However, existing AI-based approaches often require extensive manual annotation, lack cross-haza...
+arXiv:2609.00046v2 Announce Type: cross Abstract: Rapid and reliable disaster mapping of impacted areas, damaged infrastructure, and affected populations is essential for emergency response and recovery. However, existing AI-based approaches often require extensive manual annotation, lack cross-haza...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00046)
 
@@ -1985,7 +1985,7 @@ arXiv:2609.00207v1 Announce Type: cross Abstract: We seek to understand the effe
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.00224v1 Announce Type: cross Abstract: Weight-only post-training quantization (PTQ) can alleviate the computational burden of serving large language models (LLMs) at scale. However, existing PTQ methods often fail to generalize across models and suffer severe accuracy loss below 2 bits. M...
+arXiv:2609.00224v2 Announce Type: cross Abstract: Weight-only post-training quantization (PTQ) can alleviate the computational burden of serving large language models (LLMs) at scale. However, existing PTQ methods often fail to generalize across models and suffer severe accuracy loss below 2 bits. M...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00224)
 
@@ -2297,7 +2297,7 @@ arXiv:2609.00472v1 Announce Type: cross Abstract: We provide an expository intro
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2609.00474v1 Announce Type: cross Abstract: LLMs are increasingly deployed as orchestrators that coordinate specialized subagents to solve complex tasks through natural language. However, in many important domains like game playing and robotics, the strongest available agents are not language ...
+arXiv:2609.00474v2 Announce Type: cross Abstract: LLMs are increasingly deployed as orchestrators that coordinate specialized subagents to solve complex tasks through natural language. However, in many important domains like game playing and robotics, the strongest available agents are not language ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00474)
 
@@ -2417,7 +2417,7 @@ arXiv:2609.00551v1 Announce Type: cross Abstract: Multimodal memory offers a sca
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.00566v1 Announce Type: cross Abstract: We propose EEG-VID, a task-guided latent predictive pretraining framework for EEG decoding under session and subject shifts. EEG-VID predicts future latent EEG states from recent history using an exponential-moving-average target encoder and weak tas...
+arXiv:2609.00566v2 Announce Type: cross Abstract: We propose EEG-VID, a task-guided latent predictive pretraining framework for EEG decoding under session and subject shifts. EEG-VID predicts future latent EEG states from recent history using an exponential-moving-average target encoder and weak tas...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00566)
 
@@ -2501,7 +2501,7 @@ arXiv:2609.00605v1 Announce Type: cross Abstract: Machine unlearning for large l
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI  
 
-arXiv:2609.00618v1 Announce Type: cross Abstract: We investigate the role of conversational context modeling in user preference tracking for Conversational Recommendation Systems (CRSs). In this regard, we propose DREAMS, a novel tree-structured context modeling framework that explicitly captures us...
+arXiv:2609.00618v2 Announce Type: cross Abstract: We investigate the role of conversational context modeling in user preference tracking for Conversational Recommendation Systems (CRSs). In this regard, we propose DREAMS, a novel tree-structured context modeling framework that explicitly captures us...
 
 📖 [Read original article](https://arxiv.org/abs/2609.00618)
 
@@ -3341,7 +3341,7 @@ arXiv:2609.01316v1 Announce Type: cross Abstract: Retrieval over visually rich d
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.01335v1 Announce Type: cross Abstract: Many production systems can assess a configuration only by using it on live requests and observing noisy feedback. Modern agentic systems are a prominent example, with inference-time choices such as model selection, retrieval depth, prompting strateg...
+arXiv:2609.01335v2 Announce Type: cross Abstract: Many production systems can assess a configuration only by using it on live requests and observing noisy feedback. Modern agentic systems are a prominent example, with inference-time choices such as model selection, retrieval depth, prompting strateg...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01335)
 
@@ -3509,7 +3509,7 @@ arXiv:2609.01491v1 Announce Type: cross Abstract: The growing rate at which LLM 
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.NE  
 
-arXiv:2609.01493v1 Announce Type: cross Abstract: Black-Box Optimization (BBO) has found broad applications, but evolutionary algorithms and Bayesian optimization face efficiency challenges as real-world BBO problems grow increasingly complex. Data-driven optimization improves the efficiency of BBO ...
+arXiv:2609.01493v2 Announce Type: cross Abstract: Black-Box Optimization (BBO) has broad applications, while traditional algorithms such as evolutionary algorithms and Bayesian optimization face efficiency challenges as real-world BBO problems grow increasingly complex. Data-driven optimization has ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01493)
 
@@ -3989,7 +3989,7 @@ arXiv:2606.30639v2 Announce Type: replace Abstract: World models offer a princip
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2607.15550v2 Announce Type: replace Abstract: Mobile graphical user interface (GUI) agents have demonstrated remarkable capabilities in automating complex tasks, yet they introduce critical safety risks where a single erroneous action can lead to irreversible consequences. Existing safety mech...
+arXiv:2607.15550v3 Announce Type: replace Abstract: Mobile graphical user interface (GUI) agents have demonstrated remarkable capabilities in automating complex tasks, yet they introduce critical safety risks because a single erroneous action can lead to irreversible consequences. Existing safety me...
 
 📖 [Read original article](https://arxiv.org/abs/2607.15550)
 
@@ -4139,13 +4139,13 @@ arXiv:2608.28632v2 Announce Type: replace Abstract: Large language model agents 
 
 ---
 
-## 345. Automated Researchers Can Reliably Mitigate Alignment Failures
+## 345. Automated Researchers Can Mitigate Well-characterized Alignment Failures
 
 **Author:** Chen Yueh-Han, Jiaxin Wen, Jan Hendrik Kirchner  
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2608.28945v2 Announce Type: replace Abstract: Automating alignment research may accelerate progress toward aligned AI, but whether it does is hard to measure. Luckily, many alignment failures, such as deception, sycophancy, and jailbreaks, are already measurable by public benchmarks. We study ...
+arXiv:2608.28945v3 Announce Type: replace Abstract: Automating alignment research may accelerate progress toward aligned AI, but whether it does is hard to measure. Luckily, many alignment failures, such as deception, sycophancy, and jailbreaks, are already measurable by public benchmarks. We study ...
 
 📖 [Read original article](https://arxiv.org/abs/2608.28945)
 
@@ -4181,7 +4181,7 @@ arXiv:2608.29249v2 Announce Type: replace Abstract: The online culinary ecosyste
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.29291v2 Announce Type: replace Abstract: Unified multimodal models jointly support understanding and generation, but incur substantial redundant computation across tokens, layers, and generation timesteps. Through token-importance probing, we identify an asymmetric core-expansion structur...
+arXiv:2608.29291v3 Announce Type: replace Abstract: Unified multimodal models jointly support understanding and generation, but incur substantial redundant computation across tokens, layers, and generation timesteps. Through token-importance probing, we identify an asymmetric core-expansion structur...
 
 📖 [Read original article](https://arxiv.org/abs/2608.29291)
 
@@ -4445,7 +4445,7 @@ arXiv:2511.09454v2 Announce Type: replace-cross Abstract: As algorithms increasi
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2511.09681v2 Announce Type: replace-cross Abstract: Visual reinforcement learning has achieved remarkable progress in visual control and robotics, but its vulnerability to adversarial perturbations remains underexplored. Most existing black-box attacks focus on vector-based or discrete-action ...
+arXiv:2511.09681v3 Announce Type: replace-cross Abstract: Visual reinforcement learning has achieved remarkable progress in visual control and robotics, but its vulnerability to adversarial perturbations remains underexplored. Most existing black-box attacks focus on vector-based or discrete-action ...
 
 📖 [Read original article](https://arxiv.org/abs/2511.09681)
 
@@ -4925,7 +4925,7 @@ arXiv:2606.02010v2 Announce Type: replace-cross Abstract: Existing LLM graph ben
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2606.02255v2 Announce Type: replace-cross Abstract: Human annotation is the empirical foundation of much NLP research, from dataset construction to model evaluation, but papers often leave unclear who produced the annotations and how the annotation process was controlled. We provide the first ...
+arXiv:2606.02255v3 Announce Type: replace-cross Abstract: Human annotation is the empirical foundation of much NLP research, from dataset construction to model evaluation, but papers often leave unclear who produced the annotations and how the annotation process was controlled. We provide the first ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.02255)
 
@@ -4949,7 +4949,7 @@ arXiv:2606.05142v2 Announce Type: replace-cross Abstract: Recent developments in
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.07571v3 Announce Type: replace-cross Abstract: Key-value (KV) caching for shared prefixes is essential for high-throughput large language model (LLM) serving, but it faces critical challenges in emerging diffusion language models (DLMs). In DLMs, bidirectional attention means that updatin...
+arXiv:2606.07571v4 Announce Type: replace-cross Abstract: Key-value (KV) caching for shared prefixes is essential for high-throughput large language model (LLM) serving, but it faces critical challenges in emerging diffusion language models (DLMs). In DLMs, bidirectional attention means that updatin...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07571)
 
@@ -4961,7 +4961,7 @@ arXiv:2606.07571v3 Announce Type: replace-cross Abstract: Key-value (KV) caching
 **Published:** 9/2/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2606.07678v3 Announce Type: replace-cross Abstract: Safety alignment for large language models relies on preference data, but current pipelines often train on large, redundant datasets. Existing data selection methods typically score each preference pair independently, collapsing directional p...
+arXiv:2606.07678v4 Announce Type: replace-cross Abstract: Safety alignment for large language models relies on preference data, but current pipelines often train on large, redundant datasets. Existing data selection methods typically score each preference pair independently, collapsing directional p...
 
 📖 [Read original article](https://arxiv.org/abs/2606.07678)
 
