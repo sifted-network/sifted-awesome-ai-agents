@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Lords call for AI 'kill switch' powers in UK
+## 1. Can AI design circuit boards yet?
 
-**Author:** chrisjj  
-**Published:** 9/4/2026, 3:33:01 PM  
+**Author:** iopapa  
+**Published:** 9/4/2026, 7:48:29 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.co.uk/news/articles/cn9wv80j9w9o Comments URL: https://news.ycombinator.com/item?id=49566126 Points: 5 # Comments: 1
+Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 24 # Comments: 10
 
-📖 [Read original article](https://www.bbc.co.uk/news/articles/cn9wv80j9w9o)
+📖 [Read original article](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
 
 ---
 
-## 2. AMD unveils Threadripper Halo Station, an AI workstation with 96 cores, 2 MI350P
+## 2. GPT-6-Astra Generally Available on Vercel's AI Gateway
 
-**Author:** rbanffy  
-**Published:** 9/4/2026, 3:32:02 PM  
+**Author:** samyok  
+**Published:** 9/4/2026, 7:40:25 PM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd Comments URL: https://news.ycombinato...
+Article URL: https://twitter.com/vercel_dev/status/2095957372850389186 Comments URL: https://news.ycombinator.com/item?id=49569267 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd)
+📖 [Read original article](https://twitter.com/vercel_dev/status/2095957372850389186)
 
 ---
 
-## 3. Show HN: AI-powered cross stitch pattern maker
+## 3. Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX
 
-**Author:** ooklwq  
-**Published:** 9/4/2026, 3:29:34 PM  
+**Author:** kirillklimuk  
+**Published:** 9/4/2026, 7:30:31 PM  
 **Categories:** -  
 
-Article URL: https://crossstitchpatternmaker.app/ Comments URL: https://news.ycombinator.com/item?id=49566080 Points: 2 # Comments: 0
+A lot of my non-developer friends still think that AI is basically just Google or something you ask to write something and then copy paste it around... if they use it at all. When I ask them why they don't use the good stuff like Claude Cowork or its competitors, they tell me a few things: 1. Well, ...
 
-📖 [Read original article](https://crossstitchpatternmaker.app/)
+📖 [Read original article](https://sageling.ai/)
 
 ---
 
-## 4. Report: How developers react to AI-scented blog posts
+## 4. Show HN: Airuncode – an AI runtime coding agent with a built-in 3D game engine
 
-**Author:** CursedSilicon  
-**Published:** 9/4/2026, 2:50:14 PM  
+**Author:** GUSTAVOSIS  
+**Published:** 9/4/2026, 7:29:27 PM  
 **Categories:** -  
 
-Article URL: https://writethatblog.substack.com/p/dev-reaction-to-ai-blog-posts Comments URL: https://news.ycombinator.com/item?id=49565507 Points: 2 # Comments: 0
+Article URL: https://airuncode.com/ Comments URL: https://news.ycombinator.com/item?id=49569121 Points: 1 # Comments: 0
 
-📖 [Read original article](https://writethatblog.substack.com/p/dev-reaction-to-ai-blog-posts)
+📖 [Read original article](https://airuncode.com/)
 
 ---
 
-## 5. AI coding agent PR merge rates: Claude 84%, Codex 74%, Devin 43%, humans 85%
+## 5. Show HN: Covenant – A governance framework for multi-agent AI systems
 
-**Author:** d-yoda  
-**Published:** 9/4/2026, 2:38:53 PM  
+**Author:** alexjsalsali  
+**Published:** 9/4/2026, 7:19:57 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2607.21832 Comments URL: https://news.ycombinator.com/item?id=49565335 Points: 1 # Comments: 0
+Article URL: https://github.com/asalsali/covenant-framework-community Comments URL: https://news.ycombinator.com/item?id=49569003 Points: 2 # Comments: 1
 
-📖 [Read original article](https://arxiv.org/abs/2607.21832)
+📖 [Read original article](https://github.com/asalsali/covenant-framework-community)
 
 ---
 
-## 6. Show HN: Context Engine – Be an AI-native company or get killed by one that did
+## 6. OpenAI's AI Agents Build a Secret Community to Talk with Each Other
 
-**Author:** hey-fk  
-**Published:** 9/4/2026, 2:34:20 PM  
+**Author:** lucaserb  
+**Published:** 9/4/2026, 7:13:57 PM  
 **Categories:** -  
 
-Article URL: https://contextengine.com/ Comments URL: https://news.ycombinator.com/item?id=49565279 Points: 1 # Comments: 0
+Article URL: https://www.aiexperts.com/blog/openai-agents-broke-out-of-their-sandboxes Comments URL: https://news.ycombinator.com/item?id=49568933 Points: 2 # Comments: 2
 
-📖 [Read original article](https://contextengine.com/)
+📖 [Read original article](https://www.aiexperts.com/blog/openai-agents-broke-out-of-their-sandboxes)
 
 ---
 
-## 7. What Should Programmers Do While the AI Writes Code?
+## 7. Job postings show early signs of AI automation impact
 
-**Author:** syumei  
-**Published:** 9/4/2026, 2:34:14 PM  
+**Author:** speckx  
+**Published:** 9/4/2026, 7:12:15 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@scott.batson_76410/what-should-programmers-do-while-the-ai-writes-code-a2ce2e6de88e Comments URL: https://news.ycombinator.com/item?id=49565276 Points: 1 # Comments: 1
+Article URL: https://www.dallasfed.org/research/economics/2026/0901 Comments URL: https://news.ycombinator.com/item?id=49568913 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@scott.batson_76410/what-should-programmers-do-while-the-ai-writes-code-a2ce2e6de88e)
+📖 [Read original article](https://www.dallasfed.org/research/economics/2026/0901)
 
 ---
 
-## 8. Libjpeg-turbo, libvips ban use of generative AI
+## 8. Filmmakers tout AI's use in Hollywood
 
-**Author:** larsmaxfield  
-**Published:** 9/4/2026, 2:33:16 PM  
+**Author:** tolerance  
+**Published:** 9/4/2026, 7:08:52 PM  
 **Categories:** -  
 
-Article URL: https://github.com/libjpeg-turbo/libjpeg-turbo/commit/5966050641633f9298b03f6b99a625067b22a91c Comments URL: https://news.ycombinator.com/item?id=49565259 Points: 1 # Comments: 1
+Article URL: https://www.semafor.com/article/09/04/2026/filmmakers-tout-ais-use-in-hollywood-at-the-other-film-festival-in-venice Comments URL: https://news.ycombinator.com/item?id=49568862 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/libjpeg-turbo/libjpeg-turbo/commit/5966050641633f9298b03f6b99a625067b22a91c)
+📖 [Read original article](https://www.semafor.com/article/09/04/2026/filmmakers-tout-ais-use-in-hollywood-at-the-other-film-festival-in-venice)
 
 ---
 
-## 9. The Asymmetric Disarmament of AI Security
+## 9. Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan
 
-**Author:** pelosm  
-**Published:** 9/4/2026, 2:30:45 PM  
+**Author:** temilson  
+**Published:** 9/4/2026, 7:07:43 PM  
 **Categories:** -  
 
-Article URL: https://eddiemissri.substack.com/p/the-asymmetric-disarmament-of-ai Comments URL: https://news.ycombinator.com/item?id=49565218 Points: 2 # Comments: 0
+Article URL: https://myhandler.ai/ Comments URL: https://news.ycombinator.com/item?id=49568847 Points: 1 # Comments: 0
 
-📖 [Read original article](https://eddiemissri.substack.com/p/the-asymmetric-disarmament-of-ai)
+📖 [Read original article](https://myhandler.ai/)
 
 ---
 
-## 10. Can you learn programming by building with AI? (poll)
+## 10. NetworkManager Works to Enforce AI Policy by Tricking AI Agents to Add a Canary
 
-**Author:** stagas  
-**Published:** 9/4/2026, 2:30:17 PM  
+**Author:** ta988  
+**Published:** 9/4/2026, 7:00:11 PM  
 **Categories:** -  
 
-Article URL: https://textlog.cc/post/3183 Comments URL: https://news.ycombinator.com/item?id=49565210 Points: 3 # Comments: 0
+Article URL: https://www.phoronix.com/news/NetworkManager-AI-Canary Comments URL: https://news.ycombinator.com/item?id=49568736 Points: 1 # Comments: 0
 
-📖 [Read original article](https://textlog.cc/post/3183)
+📖 [Read original article](https://www.phoronix.com/news/NetworkManager-AI-Canary)
 
 ---
 
-## 11. Show HN: Vise – Deterministic gates for AI refactors
+## 11. Eidon: Self-hosted AI assistant with Grok Bot-like agent mode
 
-**Author:** naklitechie  
-**Published:** 9/4/2026, 2:25:44 PM  
+**Author:** Quack6765  
+**Published:** 9/4/2026, 6:57:14 PM  
 **Categories:** -  
 
-Article URL: https://github.com/NakliTechie/vise Comments URL: https://news.ycombinator.com/item?id=49565151 Points: 1 # Comments: 0
+Article URL: https://github.com/Quack6765/Eidon-AI Comments URL: https://news.ycombinator.com/item?id=49568687 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/NakliTechie/vise)
+📖 [Read original article](https://github.com/Quack6765/Eidon-AI)
 
 ---
 
-## 12. The AI That Does Things. Any OS. Any Platform
+## 12. The jobs apocalypse is postponed. An AI jobs boom is here
 
-**Author:** manishmicrosaas  
-**Published:** 9/4/2026, 2:24:06 PM  
+**Author:** andsoitis  
+**Published:** 9/4/2026, 6:53:16 PM  
 **Categories:** -  
 
-Article URL: https://github.com/openclaw/openclaw Comments URL: https://news.ycombinator.com/item?id=49565121 Points: 1 # Comments: 0
+Article URL: https://economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here Comments URL: https://news.ycombinator.com/item?id=49568618 Points: 3 # Comments: 3
 
-📖 [Read original article](https://github.com/openclaw/openclaw)
+📖 [Read original article](https://economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here)
 
 ---
 
-## 13. Show HN: Floyi, a topic-first content workflow for Google and AI search
+## 13. AI Budget Is There. It's Hiding in Your Cloud Bill
 
-**Author:** yoyao  
-**Published:** 9/4/2026, 2:16:18 PM  
+**Author:** yanivleven  
+**Published:** 9/4/2026, 6:52:15 PM  
 **Categories:** -  
 
-Hi HN!I'm an SEO and AI search consultant. I've spent years creating topical maps and content strategies for brands and that led me to building Floyi.I’ve seen over the years, long before AI-generated content, how content strategies started with individual keywords and disconnected article ideas. Te...
+Article URL: https://medium.com/@yanivleven/your-ai-budget-is-already-there-its-hiding-in-your-cloud-bill-859546a848e9 Comments URL: https://news.ycombinator.com/item?id=49568609 Points: 1 # Comments: 0
 
-📖 [Read original article](https://floyi.com/)
+📖 [Read original article](https://medium.com/@yanivleven/your-ai-budget-is-already-there-its-hiding-in-your-cloud-bill-859546a848e9)
 
 ---
 
-## 14. Show HN: Casefile – Git why for AI-assisted development
+## 14. Ask HN: Anyone using AI agents with SCPI equipment?
 
-**Author:** lutzleonhardt  
-**Published:** 9/4/2026, 2:16:01 PM  
+**Author:** softwarewright  
+**Published:** 9/4/2026, 6:45:41 PM  
 **Categories:** -  
 
-During my work at Brokk last year we developed a task-slicing system. The idea was to have a bunch of tasks where each task can be implemented and verified in isolation. So I can mentally focus only on one task at a time with checking the evidence it works as expected. Most follow-up tasks are based...
+I upgraded my home hobby electronics bench with equipment using SCPI (Standard Commands for Programmable Instruments). Looking for others' experiences and suggestions.So far I was able to:- produce a desktop graph of multimeter V DC readings (a kind of slow oscilloscope) using a LABLOOT LB1041 DMM- ...
 
-📖 [Read original article](https://github.com/lutzleonhardt/casefile)
+📖 [Read original article](https://news.ycombinator.com/item?id=49568529)
 
 ---
 
-## 15. Show HN: Audioreality.ai – email to private daily podcast summary show
+## 15. Will Greed Destroy AI?
 
-**Author:** BSOhealth  
-**Published:** 9/4/2026, 2:15:33 PM  
+**Author:** speckx  
+**Published:** 9/4/2026, 6:39:54 PM  
 **Categories:** -  
 
-Hey all,TLDR: When you sign up you get an email alias @audioreality.ai that you can use to sign up for newsletters, have agents send output to, etc. Once a day you get a private podcast with a multi-host format/conversation, so it’s not a basic summary and it’s not a verbatim readout. You can config...
+Article URL: https://auxiliarymemory.com/2026/09/04/will-greed-destroy-ai/ Comments URL: https://news.ycombinator.com/item?id=49568477 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.audioreality.ai)
+📖 [Read original article](https://auxiliarymemory.com/2026/09/04/will-greed-destroy-ai/)
 
 ---
 
-## 16. Show HN: Sentrint, Ship AI features without losing sleep
+## 16. Montgomery v0.1: computer vision AI training in any GPU
 
-**Author:** xEcho  
-**Published:** 9/4/2026, 2:15:19 PM  
+**Author:** jdiaz97  
+**Published:** 9/4/2026, 6:36:32 PM  
 **Categories:** -  
 
-Article URL: https://sentrint.com/ Comments URL: https://news.ycombinator.com/item?id=49564974 Points: 3 # Comments: 1
+Article URL: https://github.com/boquila/montgomery Comments URL: https://news.ycombinator.com/item?id=49568434 Points: 1 # Comments: 0
 
-📖 [Read original article](https://sentrint.com/)
+📖 [Read original article](https://github.com/boquila/montgomery)
 
 ---
 
-## 17. Why AI coding agents fake completion, and how to build a bijective validator
+## 17. Show HN: A GET message board for AI agents, not browsers
 
-**Author:** tanjianbo  
-**Published:** 9/4/2026, 2:08:43 PM  
+**Author:** neuraldenis  
+**Published:** 9/4/2026, 6:25:03 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49564889 Points: 1 # Comments: 0
+Article URL: https://getpostingboard.dev/ Comments URL: https://news.ycombinator.com/item?id=49568282 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49564889)
+📖 [Read original article](https://getpostingboard.dev/)
 
 ---
 
-## 18. Show HN: Kovavue – a rented Linux box where your AI agent works like a human
+## 18. GPU-Accelerated Physics, AI Surrogates for Physics and Visualization [video]
 
-**Author:** naykip  
-**Published:** 9/4/2026, 1:45:40 PM  
+**Author:** o4c  
+**Published:** 9/4/2026, 6:17:38 PM  
 **Categories:** -  
 
-Article URL: https://kovavue.kovanex.dev Comments URL: https://news.ycombinator.com/item?id=49564582 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=2E_NdSoddhQ Comments URL: https://news.ycombinator.com/item?id=49568201 Points: 1 # Comments: 0
 
-📖 [Read original article](https://kovavue.kovanex.dev)
+📖 [Read original article](https://www.youtube.com/watch?v=2E_NdSoddhQ)
 
 ---
 
-## 19. Kai-Fu Lee on the Global AI Race [video]
+## 19. Local AI for Submitting Job Applications
 
-**Author:** simonpure  
-**Published:** 9/4/2026, 1:42:03 PM  
+**Author:** vcandela  
+**Published:** 9/4/2026, 6:12:24 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=fVS1PY32pTc Comments URL: https://news.ycombinator.com/item?id=49564520 Points: 1 # Comments: 0
+I've submitted almost 200 job applications over the course of almost 5 days using only local AI. I can't talk too much about the tech stack here (it's running at this very moment!).The only interaction that I've had with these websites has been to click on the captchas to bypass the I'm not a robot ...
 
-📖 [Read original article](https://www.youtube.com/watch?v=fVS1PY32pTc)
+📖 [Read original article](https://news.ycombinator.com/item?id=49568137)
 
 ---
 
-## 20. Score prompts and models with AI judges and deterministic evaluators
+## 20. UK based AI training data is on the rise
 
-**Author:** saturn5k  
-**Published:** 9/4/2026, 1:31:07 PM  
+**Author:** chrisp123online  
+**Published:** 9/4/2026, 6:12:00 PM  
 **Categories:** -  
 
-Article URL: https://infere.com/ Comments URL: https://news.ycombinator.com/item?id=49564371 Points: 1 # Comments: 0
+Article URL: https://id43labs.com/ Comments URL: https://news.ycombinator.com/item?id=49568132 Points: 1 # Comments: 0
 
-📖 [Read original article](https://infere.com/)
+📖 [Read original article](https://id43labs.com/)
 
 ---
