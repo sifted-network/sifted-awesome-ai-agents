@@ -2,16 +2,112 @@
 title: "qbitai - 2026-09-04"
 date: "2026-09-04"
 source: "qbitai"
-count: 1
+count: 9
 ---
 
 # qbitai - 2026-09-04
 
-1 items collected.
+9 items collected.
 
 ---
 
-## 1. 卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”
+## 1. 趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力
+
+**Author:** 量子位的朋友们  
+**Published:** 9/4/2026, 9:23:24 AM  
+**Categories:** 资讯, 摩尔线程, 趋境科技  
+
+国产卡跑出高品质 AI Token 生产级性能
+
+📖 [Read original article](https://www.qbitai.com/2026/09/484547.html)
+
+---
+
+## 2. 机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理
+
+**Author:** 量子位的朋友们  
+**Published:** 9/4/2026, 9:19:29 AM  
+**Categories:** 资讯, 星尘智能  
+
+星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL
+
+📖 [Read original article](https://www.qbitai.com/2026/09/484437.html)
+
+---
+
+## 3. 九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律
+
+**Author:** 思邈  
+**Published:** 9/4/2026, 8:57:14 AM  
+**Categories:** 资讯, openJiuwen, ScienceDiscovery, 科研  
+
+不训练模型、不调参数
+
+📖 [Read original article](https://www.qbitai.com/2026/09/484293.html)
+
+---
+
+## 4. 金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源
+
+**Author:** 鹭羽  
+**Published:** 9/4/2026, 7:09:43 AM  
+**Categories:** 资讯, 首页轮播, 蚂蚁, 金融AI  
+
+5000支队伍同台做题，写尽行业四年变化
+
+📖 [Read original article](https://www.qbitai.com/2026/09/484203.html)
+
+---
+
+## 5. 李飞飞刚发Atlas，中国开源“同款”已抢跑半年？
+
+**Author:** henry  
+**Published:** 9/4/2026, 6:54:12 AM  
+**Categories:** 资讯, 世界模型, 空间智能  
+
+智能不只是模式识别，更是对世界的建模
+
+📖 [Read original article](https://www.qbitai.com/2026/09/484163.html)
+
+---
+
+## 6. 2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先
+
+**Author:** 量子位的朋友们  
+**Published:** 9/4/2026, 5:53:09 AM  
+**Categories:** 资讯, 雷鸟创新  
+
+雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。
+
+📖 [Read original article](https://www.qbitai.com/2026/09/484159.html)
+
+---
+
+## 7. 千问办公上线首月用户数突破 3000万，企业用户占比过半
+
+**Author:** 量子位的朋友们  
+**Published:** 9/4/2026, 5:48:53 AM  
+**Categories:** 资讯, 阿里  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/09/484155.html)
+
+---
+
+## 8. 常州女首富机器人转型才开始，先因裁应届生上了热搜
+
+**Author:** 田, 晏林  
+**Published:** 9/4/2026, 4:03:04 AM  
+**Categories:** 资讯  
+
+比新业务更考验一家公司的，可能是怎么对待年轻人。
+
+📖 [Read original article](https://www.qbitai.com/2026/09/483984.html)
+
+---
+
+## 9. 卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”
 
 **Author:** 思邈  
 **Published:** 9/4/2026, 1:40:42 AM  
