@@ -2,16 +2,40 @@
 title: "qbitai - 2026-09-03"
 date: "2026-09-03"
 source: "qbitai"
-count: 8
+count: 9
 ---
 
 # qbitai - 2026-09-03
 
-8 items collected.
+9 items collected.
 
 ---
 
-## 1. “没有Token的CS学生，应立即退学”
+## 1. 新版GPT Image 2.5已经能伪造GPT-6发布会了
+
+**Author:** 闻乐  
+**Published:** 9/3/2026, 9:57:08 PM  
+**Categories:** 资讯, GPT-Image-2.5, OpenAI  
+
+改进GPT Image 2的噪点问题
+
+📖 [Read original article](https://www.qbitai.com/2026/09/483948.html)
+
+---
+
+## 2. 刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代
+
+**Author:** 闻乐  
+**Published:** 9/3/2026, 9:50:07 PM  
+**Categories:** 资讯, GPT, GPT-6, OpenAI  
+
+全球最强C
+
+📖 [Read original article](https://www.qbitai.com/2026/09/483898.html)
+
+---
+
+## 3. “没有Token的CS学生，应立即退学”
 
 **Author:** 听雨  
 **Published:** 9/3/2026, 11:32:08 AM  
@@ -23,7 +47,7 @@ count: 8
 
 ---
 
-## 2. 腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场
+## 4. 腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场
 
 **Author:** 听雨  
 **Published:** 9/3/2026, 11:25:29 AM  
@@ -35,7 +59,7 @@ count: 8
 
 ---
 
-## 3. 世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！
+## 5. 世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！
 
 **Author:** 鹭羽  
 **Published:** 9/3/2026, 10:18:36 AM  
@@ -47,7 +71,7 @@ count: 8
 
 ---
 
-## 4. 陈大年复出，入局大模型
+## 6. 陈大年复出，入局大模型
 
 **Author:** 鹭羽  
 **Published:** 9/3/2026, 10:13:24 AM  
@@ -59,7 +83,7 @@ count: 8
 
 ---
 
-## 5. 一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠
+## 7. 一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠
 
 **Author:** 思邈  
 **Published:** 9/3/2026, 3:16:43 AM  
@@ -71,7 +95,7 @@ count: 8
 
 ---
 
-## 6. 神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光
+## 8. 神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光
 
 **Author:** 林, 方舟  
 **Published:** 9/3/2026, 1:31:45 AM  
@@ -83,7 +107,7 @@ count: 8
 
 ---
 
-## 7. 50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满
+## 9. 50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满
 
 **Author:** 杰西卡  
 **Published:** 9/3/2026, 1:27:05 AM  
@@ -92,17 +116,5 @@ count: 8
 4激光雷达+双M100上车
 
 📖 [Read original article](https://www.qbitai.com/2026/09/483462.html)
-
----
-
-## 8. 今年最难的机器人Demo，“机器人含量”为0
-
-**Author:** henry  
-**Published:** 9/3/2026, 12:51:16 AM  
-**Categories:** 资讯, Ego数据, 具身智能, 自变量机器人, 遥操  
-
-遥操，可能真的危险了
-
-📖 [Read original article](https://www.qbitai.com/2026/09/483351.html)
 
 ---
