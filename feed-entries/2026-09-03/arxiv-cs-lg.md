@@ -311,13 +311,13 @@ arXiv:2609.01952v1 Announce Type: new Abstract: Decentralized, serverless learni
 
 ---
 
-## 26. FlashKAN: B-Spline KANs via Truncated Power Form
+## 26. InKAN: B-Spline KANs via Truncated Power Form
 
 **Author:** Naveen Mysore  
 **Published:** 9/3/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.NA, math.NA  
 
-arXiv:2609.01956v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) place learnable B-spline activations on network edges rather than fixed activations on nodes. The standard Cox-de Boor recursion evaluates these activations through k sequential passes for degree-k splines, consuming o...
+arXiv:2609.01956v2 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) place learnable B-spline activations on network edges rather than fixed activations on nodes. The standard Cox-de Boor recursion evaluates these activations through $k$ sequential passes for degree-$k$ splines, consumi...
 
 📖 [Read original article](https://arxiv.org/abs/2609.01956)
 
@@ -1889,7 +1889,7 @@ arXiv:2609.02833v1 Announce Type: cross Abstract: Meshfree methods such as smoot
 **Published:** 9/3/2026, 4:00:00 AM  
 **Categories:** math.OC, cs.LG, stat.ML  
 
-arXiv:2609.02855v1 Announce Type: cross Abstract: We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $\Omega(n^{-2})$ first-order oracle lower bound of Nemirovsky and Yudin, we prove an $\Omega(n^{-1.6342})$ ...
+arXiv:2609.02855v2 Announce Type: cross Abstract: We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $\Omega(n^{-2})$ first-order oracle lower bound of Nemirovsky and Yudin (1983), we prove an $\Omega(n^{-1.6...
 
 📖 [Read original article](https://arxiv.org/abs/2609.02855)
 
@@ -2261,7 +2261,7 @@ arXiv:2604.20819v2 Announce Type: replace Abstract: Long-context large language 
 **Published:** 9/3/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2604.25304v2 Announce Type: replace Abstract: Tree ensembles provide strong classification performance but usually behave as black-box models. Post-hoc interpretability techniques such as RuleCOSI+ extract a small ruleset that approximates the ensemble, but this simplification can leave the pr...
+arXiv:2604.25304v3 Announce Type: replace Abstract: Tree ensembles provide strong classification performance but usually behave as black-box models. Post-hoc interpretability techniques such as RuleCOSI+ extract a small ruleset that approximates the ensemble, but this simplification can leave the pr...
 
 📖 [Read original article](https://arxiv.org/abs/2604.25304)
 
@@ -3137,7 +3137,7 @@ arXiv:2606.29894v2 Announce Type: replace-cross Abstract: As agentic AI systems 
 **Published:** 9/3/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.LG  
 
-arXiv:2607.04726v4 Announce Type: replace-cross Abstract: Chart-to-code generation is commonly trained through supervised fine-tuning on reference plotting scripts, implicitly treating the gold code as a fully observable target. However, many chart programs contain latent variables that cannot be un...
+arXiv:2607.04726v5 Announce Type: replace-cross Abstract: Chart-to-code generation is commonly trained through supervised fine-tuning on reference plotting scripts, implicitly treating the gold code as a fully observable target. However, many chart programs contain latent variables that cannot be un...
 
 📖 [Read original article](https://arxiv.org/abs/2607.04726)
 
