@@ -1157,7 +1157,7 @@ arXiv:2609.02046v1 Announce Type: cross Abstract: Monolithic world models predic
 **Published:** 9/3/2026, 4:00:00 AM  
 **Categories:** cs.MM, cs.AI, cs.CL, cs.CR  
 
-arXiv:2609.02082v1 Announce Type: cross Abstract: Visual modality enhances the capabilities of multimodal large language models (MLLMs) but also introduces a safety concern: a benign textual query may convey harmful intent when grounded in a visual image. We term this cross-modal safety drift and ou...
+arXiv:2609.02082v2 Announce Type: cross Abstract: Visual modality enhances the capabilities of multimodal large language models (MLLMs) but also introduces a safety concern: a benign textual query may convey harmful intent when grounded in a visual image. We term this cross-modal safety drift and ou...
 
 📖 [Read original article](https://arxiv.org/abs/2609.02082)
 
@@ -1277,7 +1277,7 @@ arXiv:2609.02145v1 Announce Type: cross Abstract: We study online maximization o
 **Published:** 9/3/2026, 4:00:00 AM  
 **Categories:** cs.HC, cs.AI  
 
-arXiv:2609.02149v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly evolving from conversational assistants into agents capable of operating external digital environments. Graphical user interface (GUI) agents play an important role in this transition, as many real-world ...
+arXiv:2609.02149v2 Announce Type: cross Abstract: Large language models (LLMs) are increasingly evolving from conversational assistants into agents capable of operating external digital environments. Graphical user interface (GUI) agents play an important role in this transition, as many real-world ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.02149)
 
@@ -1465,11 +1465,11 @@ arXiv:2609.02282v1 Announce Type: cross Abstract: Mineral image classification i
 
 ## 122. VoRTeC: Taming Foundation Flow for One-step Real time Video Compression
 
-**Author:** Yichong Xia, Qinhong Wu, Qinhong Wu, Jinpeng Wang, Zeyuan Chen, Haoqian Wang  
+**Author:** Yichong Xia, Qinhong Wu, Bin Chen, Jinpeng Wang, Zeyuan Chen, Haoqian Wang  
 **Published:** 9/3/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2609.02291v1 Announce Type: cross Abstract: Ultra-low bitrate video compression still faces critical challenges: traditional neural video compression inevitably introduces blurring artifacts, while diffusion-based generative video compression suffers from excessive decoding latency and poor te...
+arXiv:2609.02291v2 Announce Type: cross Abstract: Ultra-low bitrate video compression still faces critical challenges: traditional neural video compression inevitably introduces blurring artifacts, while diffusion-based generative video compression suffers from excessive decoding latency and poor te...
 
 📖 [Read original article](https://arxiv.org/abs/2609.02291)
 
@@ -1565,7 +1565,7 @@ arXiv:2609.02354v1 Announce Type: cross Abstract: While traditional stable match
 **Published:** 9/3/2026, 4:00:00 AM  
 **Categories:** cs.HC, cs.AI  
 
-arXiv:2609.02364v1 Announce Type: cross Abstract: Existing Human-Robot Interaction (HRI) literature has focused on identifying and structuring errors, failures, conflicts, and knowledge issues (called in this work as contradictions) in domain-specific dialogue-based interactions. However, there is s...
+arXiv:2609.02364v2 Announce Type: cross Abstract: Existing Human-Robot Interaction (HRI) literature has focused on identifying and structuring errors, failures, conflicts, and knowledge issues (called in this work as contradictions) in domain-specific dialogue-based interactions. However, there is s...
 
 📖 [Read original article](https://arxiv.org/abs/2609.02364)
 
@@ -1709,7 +1709,7 @@ arXiv:2609.02468v1 Announce Type: cross Abstract: We explore predicting eCommerc
 **Published:** 9/3/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI, cs.CL, cs.CV  
 
-arXiv:2609.02486v1 Announce Type: cross Abstract: Document Visual Question Answering (DocVQA) often leverages Retrieval-Augmented Generation (RAG), where late-interaction encoders are commonly used to identify document pages relevant to a user query, before answer generation by a Large Vision-Langua...
+arXiv:2609.02486v2 Announce Type: cross Abstract: Document Visual Question Answering (DocVQA) often leverages Retrieval-Augmented Generation (RAG), where late-interaction encoders are commonly used to identify document pages relevant to a user query, before answer generation by a Large Vision-Langua...
 
 📖 [Read original article](https://arxiv.org/abs/2609.02486)
 
@@ -3293,7 +3293,7 @@ arXiv:2608.25457v3 Announce Type: replace-cross Abstract: Despite their strong a
 **Published:** 9/3/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI  
 
-arXiv:2608.27141v3 Announce Type: replace-cross Abstract: Large language model agents are increasingly deployed as autonomous loops. Starting from one human goal, such a system repeatedly discovers work, plans, executes tool calls, verifies outcomes and persists state across many unattended iteratio...
+arXiv:2608.27141v4 Announce Type: replace-cross Abstract: Large language model agents are increasingly deployed as autonomous loops. Starting from one human goal, such a system repeatedly discovers work, plans, executes tool calls, verifies outcomes and persists state across many unattended iteratio...
 
 📖 [Read original article](https://arxiv.org/abs/2608.27141)
 
