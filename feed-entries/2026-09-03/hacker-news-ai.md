@@ -2,251 +2,143 @@
 title: "Hacker News AI - 2026-09-03"
 date: "2026-09-03"
 source: "Hacker News AI"
-count: 20
+count: 11
 ---
 
 # Hacker News AI - 2026-09-03
 
-20 items collected.
+11 items collected.
 
 ---
 
-## 1. Can AI help solve the peer-review crisis? Here are its promises and pitfalls
+## 1. Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?
 
-**Author:** thinkingemote  
-**Published:** 9/3/2026, 8:19:23 PM  
+**Author:** bko  
+**Published:** 9/3/2026, 11:51:21 PM  
 **Categories:** -  
 
-Article URL: https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls Comments URL: https://news.ycombinator.com/item?id=49556274 Points: 1 # Comments: 0
+Article URL: https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/ Comments URL: https://news.ycombinator.com/item?id=49558711 Points: 4 # Comments: 2
 
-📖 [Read original article](https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls)
+📖 [Read original article](https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/)
 
 ---
 
-## 2. AI Financial Advisor – FiscalAI· Streamlit
+## 2. Nvidia Personal AI Router (Pair)
 
-**Author:** theadidev  
-**Published:** 9/3/2026, 8:04:08 PM  
+**Author:** BiraIgnacio  
+**Published:** 9/3/2026, 11:26:53 PM  
 **Categories:** -  
 
-Article URL: https://thefiscalai.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49556038 Points: 1 # Comments: 0
+Article URL: https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/ Comments URL: https://news.ycombinator.com/item?id=49558533 Points: 4 # Comments: 0
 
-📖 [Read original article](https://thefiscalai.streamlit.app)
+📖 [Read original article](https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/)
 
 ---
 
-## 3. AI Norms and Values, Part 2 of 3: AI for Honeycomb Engineering
+## 3. The Multiplayer AI Manifesto
 
-**Author:** mooreds  
-**Published:** 9/3/2026, 7:55:35 PM  
+**Author:** ibrahima  
+**Published:** 9/3/2026, 11:23:43 PM  
 **Categories:** -  
 
-Article URL: https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering Comments URL: https://news.ycombinator.com/item?id=49555895 Points: 1 # Comments: 0
+Article URL: https://multiplayer-ai.com/ Comments URL: https://news.ycombinator.com/item?id=49558510 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering)
+📖 [Read original article](https://multiplayer-ai.com/)
 
 ---
 
-## 4. Before New York City, Norway Had Banned AI in Schools
+## 4. NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade
 
-**Author:** jethronethro  
-**Published:** 9/3/2026, 7:30:31 PM  
+**Author:** DeepLogin  
+**Published:** 9/3/2026, 11:14:00 PM  
 **Categories:** -  
 
-Article URL: https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools Comments URL: https://news.ycombinator.com/item?id=49555437 Points: 4 # Comments: 0
+Article URL: https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat Comments URL: https://news.ycombinator.com/item?id=49558433 Points: 30 # Comments: 11
 
-📖 [Read original article](https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools)
+📖 [Read original article](https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat)
 
 ---
 
-## 5. Ask HN: Why is nobody funding Wikipedia with AI based chat with articles
+## 5. Protecting Engineers' Skills in the AI Era
 
-**Author:** jereees  
-**Published:** 9/3/2026, 7:29:28 PM  
+**Author:** rbanffy  
+**Published:** 9/3/2026, 11:00:04 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49555417 Points: 2 # Comments: 1
+Article URL: https://spectrum.ieee.org/ai-engineer-skills Comments URL: https://news.ycombinator.com/item?id=49558302 Points: 33 # Comments: 19
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49555417)
+📖 [Read original article](https://spectrum.ieee.org/ai-engineer-skills)
 
 ---
 
-## 6. Wall Street banks push Big Law to cut fees because of AI
+## 6. I found an AI-driven browser that builds workflows from playbooks
 
-**Author:** paulpauper  
-**Published:** 9/3/2026, 7:20:07 PM  
+**Author:** akimmaimedow  
+**Published:** 9/3/2026, 10:55:39 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9 Comments URL: https://news.ycombinator.com/item?id=49555275 Points: 4 # Comments: 0
+Article URL: https://www.browserargus.com/blog/two-lanes-for-cold-email Comments URL: https://news.ycombinator.com/item?id=49558255 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9)
+📖 [Read original article](https://www.browserargus.com/blog/two-lanes-for-cold-email)
 
 ---
 
-## 7. Five AI systems, one message: one cloned the repo and ran the check
+## 7. Scaling AI: The Communication Wall
 
-**Author:** Lawless1987  
-**Published:** 9/3/2026, 7:15:05 PM  
+**Author:** matt_d  
+**Published:** 9/3/2026, 10:27:12 PM  
 **Categories:** -  
 
-Article URL: https://github.com/LAWLESS1987/covenant/blob/main/docs/CASE_STUDY_SELF_REPORT.md Comments URL: https://news.ycombinator.com/item?id=49555200 Points: 1 # Comments: 0
+Article URL: https://www.aaravwattal.com/blog/c2c-interconnect/ Comments URL: https://news.ycombinator.com/item?id=49557995 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/LAWLESS1987/covenant/blob/main/docs/CASE_STUDY_SELF_REPORT.md)
+📖 [Read original article](https://www.aaravwattal.com/blog/c2c-interconnect/)
 
 ---
 
-## 8. Zuckerberg said national AI regulator was flawed idea in secret call with Trump
+## 8. How workers feel about AI in 2026
 
-**Author:** thm  
-**Published:** 9/3/2026, 7:14:58 PM  
+**Author:** cdrnsf  
+**Published:** 9/3/2026, 10:25:39 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843 Comments URL: https://news.ycombinator.com/item?id=49555199 Points: 2 # Comments: 0
+Article URL: https://www.glassdoor.com/blog/how-workers-feel-about-ai-2026/ Comments URL: https://news.ycombinator.com/item?id=49557974 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843)
+📖 [Read original article](https://www.glassdoor.com/blog/how-workers-feel-about-ai-2026/)
 
 ---
 
-## 9. Redwood: A Frontier AI Accelerator Designed from Scratch in 2 Weeks by AI
+## 9. Google DeepMind Just Rolled Out Its Most Accurate AI Global Weather Model
 
-**Author:** imakwana  
-**Published:** 9/3/2026, 6:50:45 PM  
+**Author:** Aboutplants  
+**Published:** 9/3/2026, 10:14:48 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2608.26418 Comments URL: https://news.ycombinator.com/item?id=49554818 Points: 2 # Comments: 0
+Article URL: https://gizmodo.com/google-deepmind-just-rolled-out-its-most-accurate-ai-global-weather-model-2000807015 Comments URL: https://news.ycombinator.com/item?id=49557878 Points: 3 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2608.26418)
+📖 [Read original article](https://gizmodo.com/google-deepmind-just-rolled-out-its-most-accurate-ai-global-weather-model-2000807015)
 
 ---
 
-## 10. Dwarkesh Patel: I think pausing would increase the risk of AI takeover
+## 10. The Selfish AI Model
 
-**Author:** tosh  
-**Published:** 9/3/2026, 6:42:14 PM  
+**Author:** olirex99  
+**Published:** 9/3/2026, 10:04:38 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/dwarkesh_sp/status/2095580145603977413 Comments URL: https://news.ycombinator.com/item?id=49554660 Points: 1 # Comments: 0
+Article URL: https://ateliti99.substack.com/p/the-selfish-ai-model Comments URL: https://news.ycombinator.com/item?id=49557770 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/dwarkesh_sp/status/2095580145603977413)
+📖 [Read original article](https://ateliti99.substack.com/p/the-selfish-ai-model)
 
 ---
 
-## 11. Nvidia's Open Secure AI Alliance Moves to Linux Foundation
+## 11. Four major AI models suffer rare overlapping downtime
 
-**Author:** CrankyBear  
-**Published:** 9/3/2026, 6:37:46 PM  
+**Author:** SockThief  
+**Published:** 9/3/2026, 9:59:53 PM  
 **Categories:** -  
 
-Article URL: https://techstrong.ai/articles/nvidias-open-secure-ai-alliance-moves-to-linux-foundation/ Comments URL: https://news.ycombinator.com/item?id=49554589 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/ Comments URL: https://news.ycombinator.com/item?id=49557716 Points: 2 # Comments: 0
 
-📖 [Read original article](https://techstrong.ai/articles/nvidias-open-secure-ai-alliance-moves-to-linux-foundation/)
-
----
-
-## 12. OpenAI's next big AI model has 'entered the AGI era'
-
-**Author:** SomeonesAccount  
-**Published:** 9/3/2026, 6:28:32 PM  
-**Categories:** -  
-
-Article URL: https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release Comments URL: https://news.ycombinator.com/item?id=49554445 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
-
----
-
-## 13. A story about HTML and AI
-
-**Author:** ginooliver  
-**Published:** 9/3/2026, 6:20:20 PM  
-**Categories:** -  
-
-Article URL: https://sproutmarkup.com/view/034b2408b0a84d3892383bb0b70e4536 Comments URL: https://news.ycombinator.com/item?id=49554300 Points: 1 # Comments: 0
-
-📖 [Read original article](https://sproutmarkup.com/view/034b2408b0a84d3892383bb0b70e4536)
-
----
-
-## 14. Show HN: Addom – Open-source, telemetry-free AI coding harness and editor
-
-**Author:** JosPMSilva  
-**Published:** 9/3/2026, 6:18:06 PM  
-**Categories:** -  
-
-I started this project six months ago. While the market already had decent AI harnesses, none of them felt like they had what I actually needed.What began as a simple, minimalist tool quickly grew into one of my most ambitious projects. I started with basic tool calling and streaming, but that wasn'...
-
-📖 [Read original article](https://github.com/JosPMSilva/ADDOM)
-
----
-
-## 15. Skyportal, an open source AI infra engineer with an approval gate
-
-**Author:** henrique221  
-**Published:** 9/3/2026, 6:13:26 PM  
-**Categories:** -  
-
-Article URL: https://github.com/SkyportalAi/skyportalai Comments URL: https://news.ycombinator.com/item?id=49554198 Points: 3 # Comments: 0
-
-📖 [Read original article](https://github.com/SkyportalAi/skyportalai)
-
----
-
-## 16. The Ads Model for Prompts Vertically Integrates AI – Tom Tunguz
-
-**Author:** manualwise  
-**Published:** 9/3/2026, 6:07:16 PM  
-**Categories:** -  
-
-Article URL: https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai/ Comments URL: https://news.ycombinator.com/item?id=49554127 Points: 1 # Comments: 0
-
-📖 [Read original article](https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai/)
-
----
-
-## 17. OpenAI says it has overtaken Anthropic with its latest AI model
-
-**Author:** pboulos  
-**Published:** 9/3/2026, 6:02:40 PM  
-**Categories:** -  
-
-Article URL: https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b Comments URL: https://news.ycombinator.com/item?id=49554060 Points: 16 # Comments: 6
-
-📖 [Read original article](https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b)
-
----
-
-## 18. Climbers rescued from Mount Shasta after relying on AI chatbot to plan trip
-
-**Author:** adharmad  
-**Published:** 9/3/2026, 5:51:42 PM  
-**Categories:** -  
-
-Article URL: https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php Comments URL: https://news.ycombinator.com/item?id=49553919 Points: 7 # Comments: 0
-
-📖 [Read original article](https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php)
-
----
-
-## 19. AI-Powered Data Warehouses: Architectural Lessons for Every AI Product
-
-**Author:** karlmush  
-**Published:** 9/3/2026, 5:51:18 PM  
-**Categories:** -  
-
-Article URL: https://twitter.com/JoshARosen/status/2095488762532745712 Comments URL: https://news.ycombinator.com/item?id=49553916 Points: 2 # Comments: 0
-
-📖 [Read original article](https://twitter.com/JoshARosen/status/2095488762532745712)
-
----
-
-## 20. Pause AI Development Now
-
-**Author:** Visby  
-**Published:** 9/3/2026, 5:34:48 PM  
-**Categories:** -  
-
-Article URL: https://twitter.com/BernieSanders/status/2095542398084415952 Comments URL: https://news.ycombinator.com/item?id=49553675 Points: 11 # Comments: 7
-
-📖 [Read original article](https://twitter.com/BernieSanders/status/2095542398084415952)
+📖 [Read original article](https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/)
 
 ---
