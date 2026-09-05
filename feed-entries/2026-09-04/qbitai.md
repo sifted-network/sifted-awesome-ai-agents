@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-04"
 date: "2026-09-04"
 source: "qbitai"
-count: 7
+count: 5
 ---
 
 # qbitai - 2026-09-04
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ count: 7
 智能不只是模式识别，更是对世界的建模
 
 📖 [Read original article](https://www.qbitai.com/2026/09/484163.html)
-
----
-
-## 6. 2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先
-
-**Author:** 量子位的朋友们  
-**Published:** 9/4/2026, 5:53:09 AM  
-**Categories:** 资讯, 雷鸟创新  
-
-雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。
-
-📖 [Read original article](https://www.qbitai.com/2026/09/484159.html)
-
----
-
-## 7. 千问办公上线首月用户数突破 3000万，企业用户占比过半
-
-**Author:** 量子位的朋友们  
-**Published:** 9/4/2026, 5:48:53 AM  
-**Categories:** 资讯, 阿里  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/09/484155.html)
 
 ---
