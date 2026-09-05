@@ -2,16 +2,40 @@
 title: "MarkTechPost - 2026-09-05"
 date: "2026-09-05"
 source: "MarkTechPost"
-count: 3
+count: 5
 ---
 
 # MarkTechPost - 2026-09-05
 
-3 items collected.
+5 items collected.
 
 ---
 
-## 1. Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus
+## 1. GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI
+
+**Author:** Asif Razzaq  
+**Published:** 9/5/2026, 7:40:11 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, For Devs, New Releases, Python, Software Engineering, Staff, Tech News, Technology  
+
+We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between — Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer. The...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/)
+
+---
+
+## 2. Nous Research Adds One-Click Local Model Setup to Hermes Desktop
+
+**Author:** Michal Sutter  
+**Published:** 9/5/2026, 7:12:02 PM  
+**Categories:** Agentic AI, AI Agents, Editors Pick, New Releases, Software Engineering, Staff, Tech News  
+
+Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K minimum context window. The...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/)
+
+---
+
+## 3. Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus
 
 **Author:** Michal Sutter  
 **Published:** 9/5/2026, 6:48:29 AM  
@@ -23,7 +47,7 @@ Adaption Labs has released Invent a Dataset, which generates a structured, train
 
 ---
 
-## 2. Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%
+## 4. Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%
 
 **Author:** Michal Sutter  
 **Published:** 9/5/2026, 4:37:25 AM  
@@ -35,7 +59,7 @@ Gemini now navigates video instead of ingesting it at 1 FPS, loading only the se
 
 ---
 
-## 3. NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes
+## 5. NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes
 
 **Author:** Asif Razzaq  
 **Published:** 9/5/2026, 3:52:23 AM  
