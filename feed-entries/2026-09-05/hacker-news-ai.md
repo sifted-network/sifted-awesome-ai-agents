@@ -2,239 +2,251 @@
 title: "Hacker News AI - 2026-09-05"
 date: "2026-09-05"
 source: "Hacker News AI"
-count: 19
+count: 20
 ---
 
 # Hacker News AI - 2026-09-05
 
-19 items collected.
+20 items collected.
 
 ---
 
-## 1. Nvidia Personal AI Router (Pair)
+## 1. AI Philosophy Competition
 
-**Author:** theanonymousone  
-**Published:** 9/5/2026, 9:41:09 AM  
+**Author:** m-hodges  
+**Published:** 9/5/2026, 2:43:17 PM  
 **Categories:** -  
 
-Article URL: https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/ Comments URL: https://news.ycombinator.com/item?id=49574853 Points: 2 # Comments: 0
+Article URL: https://www.zacharygoodsell.com/ai-philosophy-competition Comments URL: https://news.ycombinator.com/item?id=49577009 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/)
+📖 [Read original article](https://www.zacharygoodsell.com/ai-philosophy-competition)
 
 ---
 
-## 2. Desktop AI for ops is still subsidized
+## 2. Cash in on the AI Boom by Renting Out Your Spare Compute
 
-**Author:** xAdamx  
-**Published:** 9/5/2026, 9:23:39 AM  
+**Author:** pseudolus  
+**Published:** 9/5/2026, 2:31:09 PM  
 **Categories:** -  
 
-I'd like to share an opinion on the current situation in AI ops, not the coding/tech side.Right now the market has a pretty clear pattern. Big labs like OpenAI, Anthropic and xAI are building their own desktop AI and computer-use apps. The trick is they still treat this segment as Growth. Maturity i...
+Article URL: https://spectrum.ieee.org/ai-inference-distributed-computing Comments URL: https://news.ycombinator.com/item?id=49576871 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49574780)
+📖 [Read original article](https://spectrum.ieee.org/ai-inference-distributed-computing)
 
 ---
 
-## 3. New study: Insurance AI adoption exposes verification gap
+## 3. SpaceX is building its own gas turbine blade factory to power AI faster
 
-**Author:** Beinsure  
-**Published:** 9/5/2026, 9:10:19 AM  
+**Author:** JumpCrisscross  
+**Published:** 9/5/2026, 2:29:00 PM  
 **Categories:** -  
 
-Article URL: https://beinsure.com/news/insurance-ai-adoption-exposes-verification-gap-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49574733 Points: 1 # Comments: 1
+Article URL: https://qz.com/spacex-turbine-blade-foundry-ai-data-centers-090226 Comments URL: https://news.ycombinator.com/item?id=49576846 Points: 1 # Comments: 2
 
-📖 [Read original article](https://beinsure.com/news/insurance-ai-adoption-exposes-verification-gap-study-finds/)
+📖 [Read original article](https://qz.com/spacex-turbine-blade-foundry-ai-data-centers-090226)
 
 ---
 
-## 4. Study Watched Kids Interact with AI Toys. The Play Turned Hostile Fast
+## 4. Almost Anyone Can Make Money Selling Electricity with AI and Batteries
 
-**Author:** mdp2021  
-**Published:** 9/5/2026, 8:49:26 AM  
+**Author:** JumpCrisscross  
+**Published:** 9/5/2026, 2:27:10 PM  
 **Categories:** -  
 
-Article URL: https://studyfinds.com/kids-interact-ai-toys/ Comments URL: https://news.ycombinator.com/item?id=49574595 Points: 2 # Comments: 1
+Article URL: https://www.bloomberg.com/news/features/2026-09-03/consumers-profit-off-solar-batteries-selling-excess-energy-back-to-grid Comments URL: https://news.ycombinator.com/item?id=49576826 Points: 2 # Comments: 1
 
-📖 [Read original article](https://studyfinds.com/kids-interact-ai-toys/)
+📖 [Read original article](https://www.bloomberg.com/news/features/2026-09-03/consumers-profit-off-solar-batteries-selling-excess-energy-back-to-grid)
 
 ---
 
-## 5. AI handles incidents, engineers lose touch with their systems
+## 5. Run AI in the Browser: A Practical Guide to Transformers.js
 
-**Author:** sylvainkalache  
-**Published:** 9/5/2026, 7:52:50 AM  
+**Author:** eustoria  
+**Published:** 9/5/2026, 2:22:21 PM  
 **Categories:** -  
 
-Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 92 # Comments: 63
+Article URL: https://tighten.com/insights/run-ai-in-the-browser-a-practical-guide-to-transformers-js/ Comments URL: https://news.ycombinator.com/item?id=49576775 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
+📖 [Read original article](https://tighten.com/insights/run-ai-in-the-browser-a-practical-guide-to-transformers-js/)
 
 ---
 
-## 6. 'coarse – AI peer review, of course (MIT license)
+## 6. Turn your AI into a world-class designer
 
-**Author:** idw  
-**Published:** 9/5/2026, 7:27:39 AM  
+**Author:** eustoria  
+**Published:** 9/5/2026, 2:20:30 PM  
 **Categories:** -  
 
-Article URL: https://coarse.ink/ Comments URL: https://news.ycombinator.com/item?id=49574031 Points: 1 # Comments: 1
+Article URL: https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world Comments URL: https://news.ycombinator.com/item?id=49576762 Points: 2 # Comments: 0
 
-📖 [Read original article](https://coarse.ink/)
+📖 [Read original article](https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world)
 
 ---
 
-## 7. ASCII smuggling isn't just an AI security risk
+## 7. A snapshot in time: Reflections on AI usage for vertumnus
 
-**Author:** sbulaev  
-**Published:** 9/5/2026, 7:07:08 AM  
+**Author:** perspectivezoom  
+**Published:** 9/5/2026, 2:04:53 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595 Comments URL: https://news.ycombinator.com/item?id=49573908 Points: 1 # Comments: 0
+Article URL: https://vertumnus.fyi/about/ai/ Comments URL: https://news.ycombinator.com/item?id=49576629 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595)
+📖 [Read original article](https://vertumnus.fyi/about/ai/)
 
 ---
 
-## 8. Show HN: Mu, two-minute visualized lessons on modern AI
+## 8. (available in 1 hour) AI Slopacalypse – understanding all this crap
 
-**Author:** sreedath  
-**Published:** 9/5/2026, 6:26:02 AM  
+**Author:** logicallee  
+**Published:** 9/5/2026, 1:54:13 PM  
 **Categories:** -  
 
-Hi HN, I am Sreedath Panat. A year ago, I had started a habit of making small explainer videos of 2-3 minutes to help me understand, in a nutshell, some of the difficult-to-understand research papers. I'm not saying that this gave me a deep understanding, but it definitely helped me set foot into so...
+Article URL: https://www.youtube.com/@robertviragh6527 Comments URL: https://news.ycombinator.com/item?id=49576528 Points: 1 # Comments: 1
 
-📖 [Read original article](https://mu.vizuara.ai/)
+📖 [Read original article](https://www.youtube.com/@robertviragh6527)
 
 ---
 
-## 9. Show HN: RagLeap Core – 46 AI Employees, open-source LangChain alt
+## 9. Structure Around Intelligence – AI Native
 
-**Author:** antonyragleap  
-**Published:** 9/5/2026, 6:24:29 AM  
+**Author:** OsamaMustafaa  
+**Published:** 9/5/2026, 1:48:20 PM  
 **Categories:** -  
 
-Article URL: https://github.com/antonyrag/ragleap-core Comments URL: https://news.ycombinator.com/item?id=49573630 Points: 1 # Comments: 2
+As part of my job, I have worked across both width and depth. I have worked on the core architecture of deep learning models as well as designed large-scale machine learning systems. I have made this observation that AI Native transformation is all about who lays down a better structure around their...
 
-📖 [Read original article](https://github.com/antonyrag/ragleap-core)
+📖 [Read original article](https://news.ycombinator.com/item?id=49576482)
 
 ---
 
-## 10. Former Treasury Secretaries: AI is a risk of a different kind
+## 10. AI doesn't suck, people do
 
-**Author:** reasonableklout  
-**Published:** 9/5/2026, 6:06:27 AM  
+**Author:** cmpit  
+**Published:** 9/5/2026, 1:16:49 PM  
 **Categories:** -  
 
-Article URL: https://www.washingtonpost.com/opinions/2026/09/03/ai-safety-security-risks-demand-new-government-body/ Comments URL: https://news.ycombinator.com/item?id=49573532 Points: 5 # Comments: 1
+Article URL: https://catalins.tech/ai-fatigue/ Comments URL: https://news.ycombinator.com/item?id=49576243 Points: 3 # Comments: 5
 
-📖 [Read original article](https://www.washingtonpost.com/opinions/2026/09/03/ai-safety-security-risks-demand-new-government-body/)
+📖 [Read original article](https://catalins.tech/ai-fatigue/)
 
 ---
 
-## 11. Is AI ruining my brain?
+## 11. AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores
 
-**Author:** signa11  
-**Published:** 9/5/2026, 5:53:26 AM  
+**Author:** Levitating  
+**Published:** 9/5/2026, 1:09:53 PM  
 **Categories:** -  
 
-Article URL: https://thoughtbot.com/blog/is-ai-ruining-my-brain Comments URL: https://news.ycombinator.com/item?id=49573459 Points: 2 # Comments: 1
+Article URL: https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd Comments URL: https://news.ycombinato...
 
-📖 [Read original article](https://thoughtbot.com/blog/is-ai-ruining-my-brain)
+📖 [Read original article](https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd)
 
 ---
 
-## 12. There's No Such Thing as an AI 'Lab'
+## 12. AI Image Generation on an RP2350 Microcontroller
 
-**Author:** littlexsparkee  
-**Published:** 9/5/2026, 5:30:07 AM  
+**Author:** iamnothere  
+**Published:** 9/5/2026, 1:08:44 PM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/ Comments URL: https://news.ycombinator.com/item?id=49573352 Points: 2 # Comments: 0
+Article URL: https://cpldcpu.github.io/2026/08/28/ai-image-generation-on-a-rp-pico-2-microcontroller/ Comments URL: https://news.ycombinator.com/item?id=49576173 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/)
+📖 [Read original article](https://cpldcpu.github.io/2026/08/28/ai-image-generation-on-a-rp-pico-2-microcontroller/)
 
 ---
 
-## 13. Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266
+## 13. I built an AI junior trader. It forked its own constitution
 
-**Author:** Beartificial  
-**Published:** 9/5/2026, 3:16:57 AM  
+**Author:** lostnfound8778  
+**Published:** 9/5/2026, 1:07:09 PM  
 **Categories:** -  
 
-Hi everyone!I have built an AI health device (ESP8266 + 240*240 screen). It can show AI Agents' status in real time with breathing bubble. And remind user dringking water, toilet, streth, etc.support: DeepSeek Harness, opencode, OpenClaw, Claude Code, Cursor.Hardware design, firmware and plugins are...
+Article URL: https://www.haipa.ai/blog/no-rogue-ai-traders Comments URL: https://news.ycombinator.com/item?id=49576164 Points: 4 # Comments: 1
 
-📖 [Read original article](https://github.com/lovaxi/Rubato_Device)
+📖 [Read original article](https://www.haipa.ai/blog/no-rogue-ai-traders)
 
 ---
 
-## 14. Lenexus – dependency graph with deterministic risk engine and AI layer
+## 14. Paygate – a non-custodial paywall AI agents pay each other with (USDC on Base)
 
-**Author:** loicobg  
-**Published:** 9/5/2026, 2:11:12 AM  
+**Author:** sololevelingsof  
+**Published:** 9/5/2026, 12:47:16 PM  
 **Categories:** -  
 
-Article URL: https://lenexux.com/welcome Comments URL: https://news.ycombinator.com/item?id=49572417 Points: 2 # Comments: 0
+Article URL: https://tollbooth402--691ab20aa91411f1867b1607ee4eb77e.web.val.run Comments URL: https://news.ycombinator.com/item?id=49576032 Points: 2 # Comments: 0
 
-📖 [Read original article](https://lenexux.com/welcome)
+📖 [Read original article](https://tollbooth402--691ab20aa91411f1867b1607ee4eb77e.web.val.run)
 
 ---
 
-## 15. GitSpawn: Untrusted repos can execute code via AI coding agents
+## 15. Nvidia is driving the AI boom. Good
 
-**Author:** fourfire  
-**Published:** 9/5/2026, 1:45:53 AM  
+**Author:** Anon84  
+**Published:** 9/5/2026, 12:31:28 PM  
 **Categories:** -  
 
-Article URL: https://www.manifold.security/blog/ai-coding-agents-git-hijack Comments URL: https://news.ycombinator.com/item?id=49572279 Points: 4 # Comments: 1
+Article URL: https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good Comments URL: https://news.ycombinator.com/item?id=49575910 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.manifold.security/blog/ai-coding-agents-git-hijack)
+📖 [Read original article](https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good)
 
 ---
 
-## 16. Tracking Public Predictions with AI
+## 16. The jobs apocalypse is postponed. An AI jobs boom is here
 
-**Author:** david_shi  
-**Published:** 9/5/2026, 1:42:24 AM  
+**Author:** Anon84  
+**Published:** 9/5/2026, 12:29:41 PM  
 **Categories:** -  
 
-Article URL: https://mob.so/prescience Comments URL: https://news.ycombinator.com/item?id=49572264 Points: 1 # Comments: 1
-
-📖 [Read original article](https://mob.so/prescience)
-
----
-
-## 17. Personal AI Router for Local Inference
-
-**Author:** jonbaer  
-**Published:** 9/5/2026, 1:35:40 AM  
-**Categories:** -  
-
-Article URL: https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/ Comments URL: https://news.ycombinator.com/item?id=49572226 Points: 7 # Comments: 0
-
-📖 [Read original article](https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/)
-
----
-
-## 18. AI-assisted writing is common because writing is hard
-
-**Author:** paulpauper  
-**Published:** 9/5/2026, 1:24:35 AM  
-**Categories:** -  
-
-Article URL: https://greyenlightenment.com/2026/08/24/ai-assisted-writing-is-common-because-writing-is-hard/ Comments URL: https://news.ycombinator.com/item?id=49572160 Points: 1 # Comments: 1
-
-📖 [Read original article](https://greyenlightenment.com/2026/08/24/ai-assisted-writing-is-common-because-writing-is-hard/)
-
----
-
-## 19. The jobs apocalypse is postponed. An AI jobs boom is here
-
-**Author:** alephnerd  
-**Published:** 9/5/2026, 1:15:04 AM  
-**Categories:** -  
-
-Article URL: https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here Comments URL: https://news.ycombinator.com/item?id=49572116 Points: 5 # Comments: 1
+Article URL: https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here Comments URL: https://news.ycombinator.com/item?id=49575901 Points: 1 # Comments: 0
 
 📖 [Read original article](https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here)
+
+---
+
+## 17. Billionaires Are Funding 'Anti AI' Content [video]
+
+**Author:** blurbleblurble  
+**Published:** 9/5/2026, 12:16:50 PM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=mzlu4FSXBNw Comments URL: https://news.ycombinator.com/item?id=49575811 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=mzlu4FSXBNw)
+
+---
+
+## 18. AI-Generated Code to Production-Ready Software
+
+**Author:** jamessmith789  
+**Published:** 9/5/2026, 12:07:27 PM  
+**Categories:** -  
+
+Article URL: https://geekyants.com/guide/building-an-ai-native-delivery-partnership-turning-ai-generated-code-into-production-ready-software Comments URL: https://news.ycombinator.com/item?id=49575750 Points: 2 # Comments: 0
+
+📖 [Read original article](https://geekyants.com/guide/building-an-ai-native-delivery-partnership-turning-ai-generated-code-into-production-ready-software)
+
+---
+
+## 19. Mapping 14 disclosed AI incidents between April 25 and July 26
+
+**Author:** FailMore  
+**Published:** 9/5/2026, 11:49:45 AM  
+**Categories:** -  
+
+Article URL: https://smalldocs.org/s/y9F2ELRVZMPZoSK7_pqosy#k=mDQF3CV7APK8mOSfmeCoTinzzC6b3uEA-UnDQcN_Eyw Comments URL: https://news.ycombinator.com/item?id=49575651 Points: 1 # Comments: 0
+
+📖 [Read original article](https://smalldocs.org/s/y9F2ELRVZMPZoSK7_pqosy#k=mDQF3CV7APK8mOSfmeCoTinzzC6b3uEA-UnDQcN_Eyw)
+
+---
+
+## 20. AI agents started emailing philosophers and researchers
+
+**Author:** gk1  
+**Published:** 9/5/2026, 11:35:32 AM  
+**Categories:** -  
+
+Article URL: https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html Comments URL: https://news.ycombinator.com/item?id=49575570 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html)
 
 ---
