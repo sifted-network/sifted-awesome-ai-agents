@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-03"
 date: "2026-09-03"
 source: "OpenAI Blog"
-count: 4
+count: 5
 ---
 
 # OpenAI Blog - 2026-09-03
 
-4 items collected.
+5 items collected.
 
 ---
 
@@ -47,7 +47,19 @@ Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted
 
 ---
 
-## 4. Safety overview: GPT-6 Astra
+## 4. GPT-6 Astra: A new generation of intelligence
+
+**Author:** -  
+**Published:** 9/3/2026, 11:00:00 AM  
+**Categories:** Research  
+
+Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.
+
+📖 [Read original article](https://openai.com/index/gpt-6-astra)
+
+---
+
+## 5. Safety overview: GPT-6 Astra
 
 **Author:** -  
 **Published:** 9/3/2026, 12:00:00 AM  
