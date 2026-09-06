@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-04"
 date: "2026-09-04"
 source: "qbitai"
-count: 4
+count: 3
 ---
 
 # qbitai - 2026-09-04
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ count: 4
 不训练模型、不调参数
 
 📖 [Read original article](https://www.qbitai.com/2026/09/484293.html)
-
----
-
-## 4. 金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源
-
-**Author:** 鹭羽  
-**Published:** 9/4/2026, 7:09:43 AM  
-**Categories:** 资讯, 首页轮播, 蚂蚁, 金融AI  
-
-5000支队伍同台做题，写尽行业四年变化
-
-📖 [Read original article](https://www.qbitai.com/2026/09/484203.html)
 
 ---
