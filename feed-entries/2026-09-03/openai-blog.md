@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-03"
 date: "2026-09-03"
 source: "OpenAI Blog"
-count: 5
+count: 4
 ---
 
 # OpenAI Blog - 2026-09-03
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted
 Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.
 
 📖 [Read original article](https://openai.com/index/gpt-6-astra)
-
----
-
-## 5. Safety overview: GPT-6 Astra
-
-**Author:** -  
-**Published:** 9/3/2026, 12:00:00 AM  
-**Categories:** Safety  
-
-GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.
-
-📖 [Read original article](https://openai.com/index/safety-overview-gpt-6-astra)
 
 ---
