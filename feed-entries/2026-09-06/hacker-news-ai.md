@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. I Feel about AI
+## 1. Ask HN: What's the best place to learn about skills and AI for coding in general
 
-**Author:** qznc  
-**Published:** 9/6/2026, 3:00:19 PM  
+**Author:** rrmdp  
+**Published:** 9/6/2026, 7:48:50 PM  
 **Categories:** -  
 
-Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 1 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49590168 Points: 2 # Comments: 0
 
-📖 [Read original article](https://beza1e1.tuxen.de/ai_feelings.html)
+📖 [Read original article](https://news.ycombinator.com/item?id=49590168)
 
 ---
 
-## 2. AI made it worth building games for our game nights
+## 2. A directory of AI agents, MCP servers and agent skills, cross-linked
 
-**Author:** mmazzarolo  
-**Published:** 9/6/2026, 2:58:38 PM  
+**Author:** theorchid  
+**Published:** 9/6/2026, 7:10:13 PM  
 **Categories:** -  
 
-Article URL: https://mmazzarolo.com/blog/2026-09-05-ai-has-completely-changed-our-game-nights/ Comments URL: https://news.ycombinator.com/item?id=49587110 Points: 2 # Comments: 1
+Article URL: https://aiagentslisting.com Comments URL: https://news.ycombinator.com/item?id=49589758 Points: 3 # Comments: 0
 
-📖 [Read original article](https://mmazzarolo.com/blog/2026-09-05-ai-has-completely-changed-our-game-nights/)
+📖 [Read original article](https://aiagentslisting.com)
 
 ---
 
-## 3. Mirror of your own self – on AI sycophancy and getting what we asked for
+## 3. Cory Doctorow on the Big AI Lie [video]
 
-**Author:** yenniejun111  
-**Published:** 9/6/2026, 2:50:26 PM  
+**Author:** andrekandre  
+**Published:** 9/6/2026, 7:10:01 PM  
 **Categories:** -  
 
-Article URL: https://substack.com/app-link/post Comments URL: https://news.ycombinator.com/item?id=49587029 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=nTqCVJFr7XM Comments URL: https://news.ycombinator.com/item?id=49589754 Points: 4 # Comments: 0
 
-📖 [Read original article](https://substack.com/app-link/post)
+📖 [Read original article](https://www.youtube.com/watch?v=nTqCVJFr7XM)
 
 ---
 
-## 4. New York City pausing some AI tools in schools
+## 4. The first AI-run ransomware attack copied its Bitcoin address out of a tutorial
 
-**Author:** noobplus  
-**Published:** 9/6/2026, 2:10:20 PM  
+**Author:** syumei  
+**Published:** 9/6/2026, 7:06:50 PM  
 **Categories:** -  
 
-Article URL: https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece Comments URL: https://news.ycombinator.com/item?id=49586708 Points: 2 # Comments: 1
+Article URL: https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc Comments URL: https://news.ycombinator.com/item?id=49589728 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece)
+📖 [Read original article](https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc)
 
 ---
 
-## 5. Terence Tao on \"Solving Maths Problems Prematurely with AI Methods
+## 5. Security vulnerabilities of AI data centers flagged at intelligence hearing
 
-**Author:** birdculture  
-**Published:** 9/6/2026, 2:07:23 PM  
+**Author:** billybuckwheat  
+**Published:** 9/6/2026, 7:00:52 PM  
 **Categories:** -  
 
-Article URL: https://mathstodon.xyz/@tao/117207856734787448 Comments URL: https://news.ycombinator.com/item?id=49586690 Points: 2 # Comments: 0
+Article URL: https://insidecybersecurity.com/daily-news/security-vulnerabilities-ai-data-centers-flagged-house-intelligence-hearing Comments URL: https://news.ycombinator.com/item?id=49589674 Points: 4 # Comments: 0
 
-📖 [Read original article](https://mathstodon.xyz/@tao/117207856734787448)
+📖 [Read original article](https://insidecybersecurity.com/daily-news/security-vulnerabilities-ai-data-centers-flagged-house-intelligence-hearing)
 
 ---
 
-## 6. 2011 Fall Lecture on AI by Marvin Minsky
+## 6. Public beta: a decision-governance runtime for AI agents
 
-**Author:** __patchbit__  
-**Published:** 9/6/2026, 1:54:05 PM  
+**Author:** lca13  
+**Published:** 9/6/2026, 6:59:15 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/onryxxx/status/2095625018264760687 Comments URL: https://news.ycombinator.com/item?id=49586587 Points: 2 # Comments: 0
+Article URL: https://amundsenlance.github.io/pvpp-runtime-api/ Comments URL: https://news.ycombinator.com/item?id=49589662 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/onryxxx/status/2095625018264760687)
+📖 [Read original article](https://amundsenlance.github.io/pvpp-runtime-api/)
 
 ---
 
-## 7. Show HN: Free AI Photo Editor Online – No Sign-Up
+## 7. ByteX: A Unified AI Search Engine at ByteDance
 
-**Author:** dongking  
-**Published:** 9/6/2026, 1:50:27 PM  
+**Author:** softwaredoug  
+**Published:** 9/6/2026, 6:19:06 PM  
 **Categories:** -  
 
-Article URL: https://piceditor.org/ Comments URL: https://news.ycombinator.com/item?id=49586554 Points: 1 # Comments: 0
+Article URL: https://arxiv.org/abs/2608.30607 Comments URL: https://news.ycombinator.com/item?id=49589276 Points: 2 # Comments: 0
 
-📖 [Read original article](https://piceditor.org/)
+📖 [Read original article](https://arxiv.org/abs/2608.30607)
 
 ---
 
-## 8. Ask HN: Any Software Engineers here who enjoy their AI-native dev workflow?
+## 8. Genesis Mission: AI and Quantum Computing for Scientific Discovery
 
-**Author:** pkos98  
-**Published:** 9/6/2026, 1:32:22 PM  
+**Author:** donutloop  
+**Published:** 9/6/2026, 6:14:36 PM  
 **Categories:** -  
 
-I would love to know what's your setup like, how you make it enjoyable and what kind of work you offload to AI vs what you're still doing yourself.Not talking to the hobbyists or Managers who can now prototype stuff and produce fancy presentations quicker, but to the actual employed Software Enginee...
+Article URL: https://github.com/donutloop/donutloop-genesis/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49589224 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49586386)
+📖 [Read original article](https://github.com/donutloop/donutloop-genesis/blob/main/README.md)
 
 ---
 
-## 9. Show HN: Object Remover – AI Video Object Remover Online
+## 9. Choosing a Framework Desktop for Local AI: 32GB, 64GB, and 128GB
 
-**Author:** niliu123  
-**Published:** 9/6/2026, 1:24:25 PM  
+**Author:** rdslw  
+**Published:** 9/6/2026, 5:57:29 PM  
 **Categories:** -  
 
-Article URL: https://objectremover.online/ Comments URL: https://news.ycombinator.com/item?id=49586328 Points: 1 # Comments: 0
+Article URL: https://frame.work/pl/en/blog/choosing-a-framwork-desktop-for-local-ai Comments URL: https://news.ycombinator.com/item?id=49589065 Points: 3 # Comments: 0
 
-📖 [Read original article](https://objectremover.online/)
+📖 [Read original article](https://frame.work/pl/en/blog/choosing-a-framwork-desktop-for-local-ai)
 
 ---
 
-## 10. AI coding agents forget the codebase between sessions
+## 10. MotionSites AI – Official Premium AI Website Prompts
 
-**Author:** malikfyua  
-**Published:** 9/6/2026, 12:45:13 PM  
+**Author:** eustoria  
+**Published:** 9/6/2026, 5:15:37 PM  
 **Categories:** -  
 
-Article URL: https://github.com/thecolourfoundation/rune Comments URL: https://news.ycombinator.com/item?id=49586035 Points: 3 # Comments: 0
+Article URL: https://motionsites.ai/ Comments URL: https://news.ycombinator.com/item?id=49588631 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/thecolourfoundation/rune)
+📖 [Read original article](https://motionsites.ai/)
 
 ---
 
-## 11. AI Slop
+## 11. Washington Post says Piker used AI generated audio but admits it has no proof
 
-**Author:** andy99  
-**Published:** 9/6/2026, 12:42:17 PM  
+**Author:** slowin  
+**Published:** 9/6/2026, 4:54:19 PM  
 **Categories:** -  
 
-Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email Comments URL: https://news.ycombinator.com/item?id=49586011 Points: 6 # Comments: 2
+Article URL: https://twitter.com/washingtonpost/status/2096304873557877132 Comments URL: https://news.ycombinator.com/item?id=49588382 Points: 2 # Comments: 0
 
-📖 [Read original article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email)
+📖 [Read original article](https://twitter.com/washingtonpost/status/2096304873557877132)
 
 ---
 
-## 12. Did you say AI-mish?
+## 12. AI Is Making Us Less Human
 
-**Author:** amelius  
-**Published:** 9/6/2026, 12:30:51 PM  
+**Author:** paulpauper  
+**Published:** 9/6/2026, 4:29:35 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/future-of-work-society-towards-the-quaternary/did-you-say-ai-mish-00ad15529e80 Comments URL: https://news.ycombinator.com/item?id=49585912 Points: 1 # Comments: 0
+Article URL: https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/ Comments URL: https://news.ycombinator.com/item?id=49588106 Points: 6 # Comments: 3
 
-📖 [Read original article](https://medium.com/future-of-work-society-towards-the-quaternary/did-you-say-ai-mish-00ad15529e80)
+📖 [Read original article](https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/)
 
 ---
 
-## 13. TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad
+## 13. AI agents aren't safe from prompt injection, and spreadsheets prove it
 
-**Author:** r_singh  
-**Published:** 9/6/2026, 11:31:41 AM  
+**Author:** taubek  
+**Published:** 9/6/2026, 4:17:36 PM  
 **Categories:** -  
 
-Article URL: https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364 Comments URL: https://news.ycombinator.com/item?id=49585483 Points: 1 # Comments: 0
+Article URL: https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/ Comments URL: https://news.ycombinator.com/item?id=49587979 Points: 3 # Comments: 1
 
-📖 [Read original article](https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364)
+📖 [Read original article](https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/)
 
 ---
 
-## 14. What does \"good\" AI mean?
+## 14. The AI Account Reseller Ecosystem
 
-**Author:** simplegeek  
-**Published:** 9/6/2026, 11:28:06 AM  
+**Author:** mlenhard  
+**Published:** 9/6/2026, 4:15:19 PM  
 **Categories:** -  
 
-Article URL: https://thoughts.wyounas.com/p/what-does-good-ai-mean Comments URL: https://news.ycombinator.com/item?id=49585456 Points: 2 # Comments: 0
+Article URL: https://vectoral.com/blog/ai-account-reseller-ecosystem Comments URL: https://news.ycombinator.com/item?id=49587958 Points: 2 # Comments: 0
 
-📖 [Read original article](https://thoughts.wyounas.com/p/what-does-good-ai-mean)
+📖 [Read original article](https://vectoral.com/blog/ai-account-reseller-ecosystem)
 
 ---
 
-## 15. Dolly Parton's Sister Slams \"Endless Garbage\": AI, Social Media Misinformation
+## 15. Leverage Code Review for Sustainable AI Coding Development
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 9/6/2026, 11:14:46 AM  
+**Author:** visha1v  
+**Published:** 9/6/2026, 4:07:19 PM  
 **Categories:** -  
 
-Article URL: https://deadline.com/2026/09/dolly-parton-stella-ai-social-media-1237068956/ Comments URL: https://news.ycombinator.com/item?id=49585378 Points: 1 # Comments: 0
+Article URL: https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/ Comments URL: https://news.ycombinator.com/item?id=49587872 Points: 1 # Comments: 0
 
-📖 [Read original article](https://deadline.com/2026/09/dolly-parton-stella-ai-social-media-1237068956/)
+📖 [Read original article](https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/)
 
 ---
 
-## 16. The AI Wait Equation
+## 16. Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes
 
-**Author:** xendo  
-**Published:** 9/6/2026, 11:14:28 AM  
+**Author:** schipperai  
+**Published:** 9/6/2026, 4:03:28 PM  
 **Categories:** -  
 
-Article URL: https://xendo.bearblog.dev/the-wait-equation/ Comments URL: https://news.ycombinator.com/item?id=49585375 Points: 2 # Comments: 0
+Article URL: https://github.com/manuelschipper/mdmanager Comments URL: https://news.ycombinator.com/item?id=49587839 Points: 3 # Comments: 5
 
-📖 [Read original article](https://xendo.bearblog.dev/the-wait-equation/)
+📖 [Read original article](https://github.com/manuelschipper/mdmanager)
 
 ---
 
-## 17. Show HN: Wayfinder – A reference implementation for evaluating AI applications
+## 17. AI Work Simulator
 
-**Author:** divakarungatla  
-**Published:** 9/6/2026, 10:45:53 AM  
+**Author:** oytuntez  
+**Published:** 9/6/2026, 3:36:59 PM  
 **Categories:** -  
 
-Testing is critical to software applications — first to make sure they reliably serve the purpose they were built for, and then to make sure they stay that way as they grow, evolve and change. The same applies to AI applications as well. But testing AI applications is very different from testing cla...
+Article URL: https://runwork.ai/simulate Comments URL: https://news.ycombinator.com/item?id=49587554 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/DivakarUngatla/wayfinder)
+📖 [Read original article](https://runwork.ai/simulate)
 
 ---
 
-## 18. Nvidia is the central bank of AI
+## 18. How are you finding and managing AI skills?
 
-**Author:** __natty__  
-**Published:** 9/6/2026, 10:20:13 AM  
+**Author:** imadtaieber  
+**Published:** 9/6/2026, 3:34:28 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai Comments URL: https://news.ycombinator.com/item?id=49585047 Points: 3 # Comments: 0
+How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?I believe skills will end up eating model capabilities, but until then I'm just looking for a better way to manage things. Comments URL: https://news.ycombinator.com/item?id=49587521 P...
 
-📖 [Read original article](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+📖 [Read original article](https://news.ycombinator.com/item?id=49587521)
 
 ---
 
-## 19. Podcast: We Spoke to an Amazon Worker Destroying Books for AI
+## 19. The AI Bullwhip
 
-**Author:** r_singh  
-**Published:** 9/6/2026, 10:11:56 AM  
+**Author:** gmays  
+**Published:** 9/6/2026, 3:28:05 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/email/ed687963-910c-488c-95d5-b06f911b214e/ Comments URL: https://news.ycombinator.com/item?id=49584993 Points: 2 # Comments: 0
+Article URL: https://tomtunguz.com/the-ai-cost-stack/ Comments URL: https://news.ycombinator.com/item?id=49587453 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.404media.co/email/ed687963-910c-488c-95d5-b06f911b214e/)
+📖 [Read original article](https://tomtunguz.com/the-ai-cost-stack/)
 
 ---
 
-## 20. Trump administration officials wrestling with the spiritual consequences of AI
+## 20. Frontier AI faces pricing reckoning as token volume explodes 25-fold
 
-**Author:** eternalreturn  
-**Published:** 9/6/2026, 9:25:41 AM  
+**Author:** yogthos  
+**Published:** 9/6/2026, 3:19:43 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048 Comments URL: https://news.ycombinator.com/item?id=49584692 Points: 3 # Comments: 0
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost Comments URL: https://news.ycombinator.com/item?id=49587356 Points: 2 #...
 
-📖 [Read original article](https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost)
 
 ---
