@@ -2,251 +2,119 @@
 title: "Hacker News AI - 2026-09-05"
 date: "2026-09-05"
 source: "Hacker News AI"
-count: 20
+count: 9
 ---
 
 # Hacker News AI - 2026-09-05
 
-20 items collected.
+9 items collected.
 
 ---
 
-## 1. There's No Such Thing as an AI 'Lab'
+## 1. Truckers – AI data centers as business booms
 
-**Author:** Anon84  
-**Published:** 9/5/2026, 7:47:42 PM  
+**Author:** cramer4next  
+**Published:** 9/5/2026, 11:22:46 PM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/ Comments URL: https://news.ycombinator.com/item?id=49580034 Points: 1 # Comments: 0
+Article URL: https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html Comments URL: https://news.ycombinator.com/item?id=49581720 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/)
+📖 [Read original article](https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html)
 
 ---
 
-## 2. Are warnings of uncontrollable AI coming true?
+## 2. AI and the collapse of the intelligence-based hierarchy of merit
 
-**Author:** fittingopposite  
-**Published:** 9/5/2026, 6:55:55 PM  
+**Author:** rzk  
+**Published:** 9/5/2026, 11:14:52 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings Comments URL: https://news.ycombinator.com/item?id=49579542 Points: 3 # Comments: 0
+Article URL: https://mattbruenig.com/2026/08/31/more-thoughts-on-ai/ Comments URL: https://news.ycombinator.com/item?id=49581657 Points: 5 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings)
+📖 [Read original article](https://mattbruenig.com/2026/08/31/more-thoughts-on-ai/)
 
 ---
 
-## 3. KingFy – an AI super app orchestrating 1,200 specialized agents
+## 3. Workforce behind AI spans 160M workers, many in the Global South
 
-**Author:** kingfyapp  
-**Published:** 9/5/2026, 6:53:17 PM  
+**Author:** 01-_-  
+**Published:** 9/5/2026, 11:02:55 PM  
 **Categories:** -  
 
-Article URL: https://www.kingfy.app Comments URL: https://news.ycombinator.com/item?id=49579516 Points: 1 # Comments: 0
+Article URL: https://www.thecooldown.com/green-tech/global-south-data-workers-ai-labor-organization/ Comments URL: https://news.ycombinator.com/item?id=49581568 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.kingfy.app)
+📖 [Read original article](https://www.thecooldown.com/green-tech/global-south-data-workers-ai-labor-organization/)
 
 ---
 
-## 4. Norway could become the first country to ban AI smart glasses
+## 4. Is AI ruining my brain?
 
-**Author:** bundie  
-**Published:** 9/5/2026, 6:35:03 PM  
+**Author:** encyclopedism  
+**Published:** 9/5/2026, 10:25:04 PM  
 **Categories:** -  
 
-Article URL: https://neow.in/cmUxYnB3 Comments URL: https://news.ycombinator.com/item?id=49579342 Points: 2 # Comments: 0
+Article URL: https://thoughtbot.com/blog/is-ai-ruining-my-brain Comments URL: https://news.ycombinator.com/item?id=49581294 Points: 6 # Comments: 1
 
-📖 [Read original article](https://neow.in/cmUxYnB3)
+📖 [Read original article](https://thoughtbot.com/blog/is-ai-ruining-my-brain)
 
 ---
 
-## 5. A sourced timeline of 249 documented AI milestones
+## 5. Good AI Slop
 
-**Author:** umermirzapk  
-**Published:** 9/5/2026, 6:33:59 PM  
+**Author:** bilus  
+**Published:** 9/5/2026, 10:18:21 PM  
 **Categories:** -  
 
-Article URL: https://achievements.ai/ Comments URL: https://news.ycombinator.com/item?id=49579333 Points: 1 # Comments: 0
+Article URL: https://blog.bilus.dev/posts/good-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=49581258 Points: 3 # Comments: 3
 
-📖 [Read original article](https://achievements.ai/)
+📖 [Read original article](https://blog.bilus.dev/posts/good-ai-slop/)
 
 ---
 
-## 6. Ask HN: Airbnbs with AI Photos
+## 6. StoryScope: Investigating Idiosyncrasies in AI Fiction
 
-**Author:** dogomatic  
-**Published:** 9/5/2026, 6:11:38 PM  
+**Author:** efavdb  
+**Published:** 9/5/2026, 10:18:00 PM  
 **Categories:** -  
 
-Wouldn’t this constitute false advertising? It’s becoming too common.If you’re a PM at Airbnb: there are so many SaaS companies to detect AI images. Please. Comments URL: https://news.ycombinator.com/item?id=49579140 Points: 3 # Comments: 0
+Article URL: https://arxiv.org/abs/2604.03136 Comments URL: https://news.ycombinator.com/item?id=49581254 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49579140)
+📖 [Read original article](https://arxiv.org/abs/2604.03136)
 
 ---
 
-## 7. Job postings show early signs of AI automation impact
+## 7. OKF Agent Memory – Git-native persistent memory for AI coding agents
 
-**Author:** theanonymousone  
-**Published:** 9/5/2026, 6:07:51 PM  
+**Author:** okf_memory  
+**Published:** 9/5/2026, 10:15:52 PM  
 **Categories:** -  
 
-Article URL: https://www.dallasfed.org/research/economics/2026/0901 Comments URL: https://news.ycombinator.com/item?id=49579101 Points: 3 # Comments: 1
+Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 42 # Comments: 16
 
-📖 [Read original article](https://www.dallasfed.org/research/economics/2026/0901)
+📖 [Read original article](https://github.com/okf-memory/okf-agent-memory)
 
 ---
 
-## 8. Flathub bans AI-coded apps – with some exceptions
+## 8. AI push is putting banks at mercy of tech firms, warns Moody's
 
-**Author:** TiredOfLife  
-**Published:** 9/5/2026, 5:58:41 PM  
+**Author:** prmph  
+**Published:** 9/5/2026, 10:03:35 PM  
 **Categories:** -  
 
-Article URL: https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps Comments URL: https://news.ycombinator.com/item?id=49579007 Points: 3 # Comments: 0
+Article URL: https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector Comments URL: https://news.ycombinator.com/item?id=49581153 Points: 7 # Comments: 0
 
-📖 [Read original article](https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps)
+📖 [Read original article](https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector)
 
 ---
 
-## 9. A meme-shaped test of your post-AI SWE skills
+## 9. America's two largest school districts impose AI moratoriums
 
-**Author:** Nfsaavedra  
-**Published:** 9/5/2026, 5:56:47 PM  
+**Author:** cdrnsf  
+**Published:** 9/5/2026, 9:43:22 PM  
 **Categories:** -  
 
-Article URL: https://codeset.ai/fried/swe Comments URL: https://news.ycombinator.com/item?id=49578987 Points: 3 # Comments: 0
+Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/ Comments URL: https://news.ycombinator.com/item?id=49580980 Points: 54 # Comments: 64
 
-📖 [Read original article](https://codeset.ai/fried/swe)
-
----
-
-## 10. How Much of the Internet Is Written with AI?
-
-**Author:** giuliomagnifico  
-**Published:** 9/5/2026, 5:30:22 PM  
-**Categories:** -  
-
-Article URL: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49578711 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/)
-
----
-
-## 11. Music courses are dead (tanks AI) [video]
-
-**Author:** dgellow  
-**Published:** 9/5/2026, 5:28:23 PM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=PCqkJ0HuHTM Comments URL: https://news.ycombinator.com/item?id=49578684 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=PCqkJ0HuHTM)
-
----
-
-## 12. Architecting memory and storage in the AI era
-
-**Author:** joozio  
-**Published:** 9/5/2026, 5:01:25 PM  
-**Categories:** -  
-
-Article URL: https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49578422 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)
-
----
-
-## 13. Engineer and Nam A2 and AI = Perfect and Free Valen Halen Plug-In [video]
-
-**Author:** xbar  
-**Published:** 9/5/2026, 4:48:21 PM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=drQGeK8wfNY Comments URL: https://news.ycombinator.com/item?id=49578313 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=drQGeK8wfNY)
-
----
-
-## 14. Inside a growing movement warning AI could turn on humanity
-
-**Author:** colinprince  
-**Published:** 9/5/2026, 4:34:06 PM  
-**Categories:** -  
-
-Article URL: https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/ Comments URL: https://news.ycombinator.com/item?id=49578170 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/)
-
----
-
-## 15. Praesidias – pre-execution authorization for AI agents
-
-**Author:** sowainat1  
-**Published:** 9/5/2026, 4:07:29 PM  
-**Categories:** -  
-
-Article URL: https://github.com/sowainat/praesidias-pabe01 Comments URL: https://news.ycombinator.com/item?id=49577893 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/sowainat/praesidias-pabe01)
-
----
-
-## 16. Kai-Fu Lee: China Will Win the AI Race for Reach
-
-**Author:** theanonymousone  
-**Published:** 9/5/2026, 3:59:37 PM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/ Comments URL: https://news.ycombinator.com/item?id=49577807 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/)
-
----
-
-## 17. ChatGPT bans campaigns from using AI to make ads. They're doing it anyway.
-
-**Author:** bookofjoe  
-**Published:** 9/5/2026, 3:56:03 PM  
-**Categories:** -  
-
-Article URL: https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/ Comments URL: https://news.ycombinator.com/item?id=49577771 Points: 5 # Comments: 1
-
-📖 [Read original article](https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/)
-
----
-
-## 18. Ask HN: Is AI a Powerdrill?
-
-**Author:** dfps  
-**Published:** 9/5/2026, 3:45:48 PM  
-**Categories:** -  
-
-Powerdrills put in the hand of a country bumpkin in the early 20th century were pretty amazing, but they wound up being just an extension of intention.A person puts their finger on the trigger. But he needs some project to apply this to (something he's building) and a screw or drill (the solution he...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49577665)
-
----
-
-## 19. Swiftask just raised €1.55M to scale its AI agent deployment
-
-**Author:** stanislasrandri  
-**Published:** 9/5/2026, 3:41:18 PM  
-**Categories:** -  
-
-Article URL: https://agence-api.ouest-france.fr/numerique/swiftask-securise-1-55-m-euros-pour-deployer-ses-agents-ia-a-grande-echelle-ae6db912-a7a0-11f1-8a27-1e0c4eb5e395 Comments URL: https://news.ycombinator.com/item?id=49577614 Points: 1 # Comments: 0
-
-📖 [Read original article](https://agence-api.ouest-france.fr/numerique/swiftask-securise-1-55-m-euros-pour-deployer-ses-agents-ia-a-grande-echelle-ae6db912-a7a0-11f1-8a27-1e0c4eb5e395)
-
----
-
-## 20. Tao's reservations on future AI-only solutions to NS finite-time blowup problem
-
-**Author:** ogogmad  
-**Published:** 9/5/2026, 3:31:36 PM  
-**Categories:** -  
-
-https://mathstodon.xyz/@tao/117207849921390904 Comments URL: https://news.ycombinator.com/item?id=49577512 Points: 3 # Comments: 1
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49577512)
+📖 [Read original article](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
 
 ---
