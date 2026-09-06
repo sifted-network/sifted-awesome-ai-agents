@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-04"
 date: "2026-09-04"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-09-04
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ count: 5
 5000支队伍同台做题，写尽行业四年变化
 
 📖 [Read original article](https://www.qbitai.com/2026/09/484203.html)
-
----
-
-## 5. 李飞飞刚发Atlas，中国开源“同款”已抢跑半年？
-
-**Author:** henry  
-**Published:** 9/4/2026, 6:54:12 AM  
-**Categories:** 资讯, 世界模型, 空间智能  
-
-智能不只是模式识别，更是对世界的建模
-
-📖 [Read original article](https://www.qbitai.com/2026/09/484163.html)
 
 ---
