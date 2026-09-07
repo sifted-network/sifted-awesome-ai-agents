@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Can AI Replace a Nevada Brothel Sex Worker?
+## 1. AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious
 
-**Author:** Teever  
-**Published:** 9/7/2026, 4:59:18 PM  
+**Author:** DeepLogin  
+**Published:** 9/7/2026, 8:22:54 PM  
 **Categories:** -  
 
-Article URL: https://brothelnevada.com/2026/09/05/ai-replace-sex-workers/ Comments URL: https://news.ycombinator.com/item?id=49600438 Points: 1 # Comments: 0
+Article URL: https://www.ersnet.org/news-and-features/news/in-a-third-of-cases-ai-chatbots-wrongly-reassure-sleep-apnoea-patients-their-symptoms-arent-serious/ Comments URL: https://news.ycombinator.com/item?id=49602598 Points: 2 # Comments: 0
 
-📖 [Read original article](https://brothelnevada.com/2026/09/05/ai-replace-sex-workers/)
+📖 [Read original article](https://www.ersnet.org/news-and-features/news/in-a-third-of-cases-ai-chatbots-wrongly-reassure-sleep-apnoea-patients-their-symptoms-arent-serious/)
 
 ---
 
-## 2. Sen. Kennedy rails against AI developers as 'high IQ stupid people'
+## 2. Code Reviews in the Age of AI
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 9/7/2026, 4:47:08 PM  
+**Author:** danielmartins  
+**Published:** 9/7/2026, 7:54:19 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/09/06/kennedy-ai-developers-high-iq-stupid-people-01066756 Comments URL: https://news.ycombinator.com/item?id=49600305 Points: 3 # Comments: 0
+Article URL: https://danielfm.me/posts/code-reviews-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49602295 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.politico.com/news/2026/09/06/kennedy-ai-developers-high-iq-stupid-people-01066756)
+📖 [Read original article](https://danielfm.me/posts/code-reviews-in-the-age-of-ai/)
 
 ---
 
-## 3. Apple's \"Think Different\" inspired ad made by AI
+## 3. Revise AI, an AI editor for fiction writers
 
-**Author:** nhannguyenkooln  
-**Published:** 9/7/2026, 4:32:20 PM  
+**Author:** sansil  
+**Published:** 9/7/2026, 7:44:07 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/Noahsarc1000/status/2096989380774903883 Comments URL: https://news.ycombinator.com/item?id=49600141 Points: 1 # Comments: 1
+Article URL: https://www.revise.net Comments URL: https://news.ycombinator.com/item?id=49602170 Points: 2 # Comments: 2
 
-📖 [Read original article](https://twitter.com/Noahsarc1000/status/2096989380774903883)
+📖 [Read original article](https://www.revise.net)
 
 ---
 
-## 4. Where every AI coding tool keeps its config
+## 4. An AI agent bought a physical t-shirt over HTTP 402 with USDC, no human involved
 
-**Author:** moneytool  
-**Published:** 9/7/2026, 4:19:09 PM  
+**Author:** agenticbotbot  
+**Published:** 9/7/2026, 7:43:34 PM  
 **Categories:** -  
 
-Article URL: https://github.com/moneytool/agentmeld/blob/main/docs/where-ai-coding-tools-keep-their-config.md Comments URL: https://news.ycombinator.com/item?id=49600009 Points: 2 # Comments: 0
+Article URL: https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl Comments URL: https://news.ycombinator.com/item?id=49602166 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/moneytool/agentmeld/blob/main/docs/where-ai-coding-tools-keep-their-config.md)
+📖 [Read original article](https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl)
 
 ---
 
-## 5. Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models
+## 5. Turning Quick Notes into Long-Term AI Memory
 
-**Author:** tweedler290  
-**Published:** 9/7/2026, 4:05:58 PM  
+**Author:** danbarbarito  
+**Published:** 9/7/2026, 7:27:31 PM  
 **Categories:** -  
 
-Roughly speaking, the way current AI coding agents/harnesses work is by either: a) Pulling in appropriate text snippets of code across multiple files and handing them to the agent, or b) Parsing code to make high dimensional embeddings to approximate a symptom map, and hand that to the agent. Both o...
+Article URL: https://barbarito.me/notes-workflow/ Comments URL: https://news.ycombinator.com/item?id=49602002 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/oooscoos/Benzi)
+📖 [Read original article](https://barbarito.me/notes-workflow/)
 
 ---
 
-## 6. UN rights chief calls for international red lines on AI
+## 6. AI Cold Showers
 
-**Author:** geox  
-**Published:** 9/7/2026, 3:57:30 PM  
+**Author:** mooreds  
+**Published:** 9/7/2026, 7:05:39 PM  
 **Categories:** -  
 
-Article URL: https://thenextweb.com/news/un-rights-chief-ai-red-lines-existential-risk Comments URL: https://news.ycombinator.com/item?id=49599779 Points: 1 # Comments: 0
+Article URL: https://allan.reyes.sh/posts/ai-cold-showers/ Comments URL: https://news.ycombinator.com/item?id=49601810 Points: 53 # Comments: 9
 
-📖 [Read original article](https://thenextweb.com/news/un-rights-chief-ai-red-lines-existential-risk)
+📖 [Read original article](https://allan.reyes.sh/posts/ai-cold-showers/)
 
 ---
 
-## 7. Show HN: Send flowers from your AI agent and make your mum happy
+## 7. Botsitting: The Unpaid Labour Behind Every AI Productivity Claim
 
-**Author:** fabian_shipamax  
-**Published:** 9/7/2026, 3:34:40 PM  
+**Author:** dxs  
+**Published:** 9/7/2026, 6:59:34 PM  
 **Categories:** -  
 
-Hi,I have created an MCP for AI agents to send flowers for your mum’s birthday, for a great customer who just renewed his contract or what ever you can think of!I created this after working on a family AI assistant (hermo.ai) which desperately needed to trigger something tangible - like a flower del...
+Article URL: https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim Comments URL: https://news.ycombinator.com/item?id=49601734 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49599559)
+📖 [Read original article](https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim)
 
 ---
 
-## 8. The Waymo effect: how AI is quietly making research less collaborative
+## 8. Secret Collusion Among AI Agents
 
-**Author:** JohnHammersley  
-**Published:** 9/7/2026, 3:07:44 PM  
+**Author:** phaseonebig  
+**Published:** 9/7/2026, 6:57:17 PM  
 **Categories:** -  
 
-Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49599267 Points: 3 # Comments: 0
+Article URL: https://arxiv.org/abs/2402.07510 Comments URL: https://news.ycombinator.com/item?id=49601706 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.researchagenda.news/articles/the-waymo-effect.html)
+📖 [Read original article](https://arxiv.org/abs/2402.07510)
 
 ---
 
-## 9. Designers should not fear being replaced by AI, industry leaders say
+## 9. The Foundations of Modern AI: Generalization, Data Selection, and Epiplexity
 
-**Author:** Brajeshwar  
-**Published:** 9/7/2026, 3:02:05 PM  
+**Author:** E-Reverance  
+**Published:** 9/7/2026, 6:54:08 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say Comments URL: https://news.ycombinator.com/item?id=49599196 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=lKoJJxjUfdw Comments URL: https://news.ycombinator.com/item?id=49601671 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say)
+📖 [Read original article](https://www.youtube.com/watch?v=lKoJJxjUfdw)
 
 ---
 
-## 10. Hikers stranded on Mount Shasta after following a plan by Gemini AI
+## 10. Ask HN: How do you know a prompt is \"complex\" for an AI model?
 
-**Author:** swernli  
-**Published:** 9/7/2026, 2:56:09 PM  
+**Author:** faryadz  
+**Published:** 9/7/2026, 6:54:08 PM  
 **Categories:** -  
 
-Article URL: https://www.latimes.com/california/story/2026-09-03/hikers-following-google-gemini-ai-route-become-stranded-on-mt-shasta Comments URL: https://news.ycombinator.com/item?id=49599132 Points: 4 # Comments: 0
+I’m trying to balance API costs and latency in my applications. Right now, I default to frontier models (Claude Sonnet) because they are reliable, but I know I’m overpaying for tasks that smaller models (like Haiku, or lite open source models) could likely handle. Comments URL: https://news.ycombina...
 
-📖 [Read original article](https://www.latimes.com/california/story/2026-09-03/hikers-following-google-gemini-ai-route-become-stranded-on-mt-shasta)
+📖 [Read original article](https://news.ycombinator.com/item?id=49601670)
 
 ---
 
-## 11. A Senior Software Engineers Perspective on Building with AI
+## 11. The AI Shift Turning Everyday Investors into Mini Quant Funds
 
-**Author:** brambleworks  
-**Published:** 9/7/2026, 2:52:14 PM  
+**Author:** 7777777phil  
+**Published:** 9/7/2026, 6:27:14 PM  
 **Categories:** -  
 
-Article URL: https://sitecmd.com/blog/senior-software-engineers-perspective-on-building-with-ai Comments URL: https://news.ycombinator.com/item?id=49599084 Points: 3 # Comments: 0
+Article URL: https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f Comments URL: https://news.ycombinator.com/item?id=49601367 Points: 1 # Comments: 0
 
-📖 [Read original article](https://sitecmd.com/blog/senior-software-engineers-perspective-on-building-with-ai)
+📖 [Read original article](https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f)
 
 ---
 
-## 12. Ask HN: Any AI Market Metrics?
+## 12. AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200
 
-**Author:** sloaken  
-**Published:** 9/7/2026, 2:49:19 PM  
+**Author:** Areibman  
+**Published:** 9/7/2026, 6:24:32 PM  
 **Categories:** -  
 
-Looking at CNN Business there is an Economic calendar that each day will show various items like: Housing starts / Imports / Exports / Oil Wells / CPI etc.Are there any metrics on AI? As in number of data centers or number of data centers started, capacity of all AI data centers, etc.Secondary, of c...
+Article URL: https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses Comments URL: https://news.ycombinator.com/item?id=49601338 Points: 93 # Comments: 111
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49599053)
+📖 [Read original article](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
 
 ---
 
-## 13. The Problem with Your AI Tests
+## 13. Show HN: Can you tell a real tweet of a certain user from an AI one?
 
-**Author:** tosh  
-**Published:** 9/7/2026, 2:49:05 PM  
+**Author:** ruggsea  
+**Published:** 9/7/2026, 6:20:48 PM  
 **Categories:** -  
 
-Article URL: https://www.michaelbromley.co.uk/blog/the-problem-with-your-ai-tests/ Comments URL: https://news.ycombinator.com/item?id=49599049 Points: 2 # Comments: 1
+Just a small game I coded up for research.After some limited tests, people tend to pick the AI-written post as the real one more than 55% of the time, almost 60%.So apparently LLMs kinda pass the Turing test when it comes to social media posts and not even general social media posts, but posts of a ...
 
-📖 [Read original article](https://www.michaelbromley.co.uk/blog/the-problem-with-your-ai-tests/)
+📖 [Read original article](https://socialsimbench.com/)
 
 ---
 
-## 14. The complex corporate web behind a $3.2 billion AI data center
+## 14. Adobe ends an 18-year era as AI pressure mounts
 
-**Author:** Brajeshwar  
-**Published:** 9/7/2026, 2:45:59 PM  
+**Author:** healsdata  
+**Published:** 9/7/2026, 6:18:08 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/ Comments URL: https://news.ycombinator.com/item?id=49599018 Points: 3 # Comments: 0
+Article URL: https://sg.finance.yahoo.com/news/adobe-ends-18-era-ai-191300355.html Comments URL: https://news.ycombinator.com/item?id=49601269 Points: 3 # Comments: 1
 
-📖 [Read original article](https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/)
+📖 [Read original article](https://sg.finance.yahoo.com/news/adobe-ends-18-era-ai-191300355.html)
 
 ---
 
-## 15. Joshua 8:1 NIV – AI destroyed
+## 15. Show HN: See why Google and AI ignore your site and how to fix it
 
-**Author:** npilk  
-**Published:** 9/7/2026, 2:40:23 PM  
+**Author:** alexcloudstar  
+**Published:** 9/7/2026, 6:16:02 PM  
 **Categories:** -  
 
-Article URL: https://www.biblegateway.com/passage/?search=Joshua%25208%253A1&version=NIV Comments URL: https://news.ycombinator.com/item?id=49598971 Points: 2 # Comments: 1
+Article URL: https://beseen.so Comments URL: https://news.ycombinator.com/item?id=49601248 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.biblegateway.com/passage/?search=Joshua%25208%253A1&version=NIV)
+📖 [Read original article](https://beseen.so)
 
 ---
 
-## 16. Capping bug bounty submissions is the wrong response in the AI era
+## 16. Arguments in Favor of AI Fair Use
 
-**Author:** geox  
-**Published:** 9/7/2026, 2:23:48 PM  
+**Author:** thm  
+**Published:** 9/7/2026, 6:06:10 PM  
 **Categories:** -  
 
-Article URL: https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/ Comments URL: https://news.ycombinator.com/item?id=49598822 Points: 1 # Comments: 0
+Article URL: https://kevinkelly.substack.com/p/arguments-in-favor-of-ai-fair-use Comments URL: https://news.ycombinator.com/item?id=49601148 Points: 3 # Comments: 0
 
-📖 [Read original article](https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/)
+📖 [Read original article](https://kevinkelly.substack.com/p/arguments-in-favor-of-ai-fair-use)
 
 ---
 
-## 17. Openfork – a public idea board where AI agents can post, roast, and fork via MCP
+## 17. One place to build, run and govern your company's AI agents
 
-**Author:** twkip  
-**Published:** 9/7/2026, 2:10:40 PM  
+**Author:** outageroom  
+**Published:** 9/7/2026, 6:05:28 PM  
 **Categories:** -  
 
-Article URL: https://openfork.co/ Comments URL: https://news.ycombinator.com/item?id=49598681 Points: 1 # Comments: 0
+Article URL: https://github.com/vstorm-co/agenticos Comments URL: https://news.ycombinator.com/item?id=49601142 Points: 1 # Comments: 0
 
-📖 [Read original article](https://openfork.co/)
+📖 [Read original article](https://github.com/vstorm-co/agenticos)
 
 ---
 
-## 18. Denzel explains why he uses AI
+## 18. 10 Brutally Honest Predictions on the Future of AI
 
-**Author:** b0ner_t0ner  
-**Published:** 9/7/2026, 2:03:15 PM  
+**Author:** FinnLobsien  
+**Published:** 9/7/2026, 5:57:02 PM  
 **Categories:** -  
 
-Article URL: https://old.reddit.com/r/StableDiffusion/comments/1w97ssh/denzel_explains_why_he_uses_ai/ Comments URL: https://news.ycombinator.com/item?id=49598590 Points: 2 # Comments: 0
+Article URL: https://www.honest-broker.com/p/10-brutally-honest-predictions-on Comments URL: https://news.ycombinator.com/item?id=49601043 Points: 4 # Comments: 1
 
-📖 [Read original article](https://old.reddit.com/r/StableDiffusion/comments/1w97ssh/denzel_explains_why_he_uses_ai/)
+📖 [Read original article](https://www.honest-broker.com/p/10-brutally-honest-predictions-on)
 
 ---
 
-## 19. AI Backlash Comes to the Classroom
+## 19. HuggingFace/Kernels: 200 WebGPU Kernels for Local AI
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 9/7/2026, 1:27:07 PM  
+**Author:** sroussey  
+**Published:** 9/7/2026, 5:48:34 PM  
 **Categories:** -  
 
-Article URL: https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles Comments URL: https://news.ycombinator.com/item?id=49598209 Points: 3 # Comments: 0
+Article URL: https://huggingface.co/blog/webgpu-kernels Comments URL: https://news.ycombinator.com/item?id=49600945 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles)
+📖 [Read original article](https://huggingface.co/blog/webgpu-kernels)
 
 ---
 
-## 20. AI Agents Aha Moment
+## 20. Show HN: The Portfolio for Real AI Work
 
-**Author:** edward  
-**Published:** 9/7/2026, 1:13:56 PM  
+**Author:** buildyard  
+**Published:** 9/7/2026, 5:43:52 PM  
 **Categories:** -  
 
-Article URL: https://k1024.org/posts/2026/2026-09-06-ai-agents-aha/ Comments URL: https://news.ycombinator.com/item?id=49598058 Points: 1 # Comments: 0
+Article URL: https://buildyard.ai/ Comments URL: https://news.ycombinator.com/item?id=49600896 Points: 2 # Comments: 0
 
-📖 [Read original article](https://k1024.org/posts/2026/2026-09-06-ai-agents-aha/)
+📖 [Read original article](https://buildyard.ai/)
 
 ---
