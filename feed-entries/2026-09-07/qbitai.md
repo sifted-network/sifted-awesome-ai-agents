@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-07"
 date: "2026-09-07"
 source: "qbitai"
-count: 8
+count: 5
 ---
 
 # qbitai - 2026-09-07
 
-8 items collected.
+5 items collected.
 
 ---
 
@@ -68,41 +68,5 @@ OpenAI研究院人均带3个AI实习生
 9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。
 
 📖 [Read original article](https://www.qbitai.com/2026/09/485064.html)
-
----
-
-## 6. 原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied
-
-**Author:** 量子位的朋友们  
-**Published:** 9/7/2026, 6:03:34 AM  
-**Categories:** 资讯, 智象未来  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/09/485056.html)
-
----
-
-## 7. 业内首个！“千问办公”推出“多人工作台”
-
-**Author:** 量子位的朋友们  
-**Published:** 9/7/2026, 5:04:44 AM  
-**Categories:** 资讯, 阿里  
-
-近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。
-
-📖 [Read original article](https://www.qbitai.com/2026/09/485046.html)
-
----
-
-## 8. 产业龙头领投！中科类脑完成数亿元B+轮战略融资
-
-**Author:** 量子位的朋友们  
-**Published:** 9/7/2026, 4:01:09 AM  
-**Categories:** 资讯, 中科类脑  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/09/485039.html)
 
 ---
