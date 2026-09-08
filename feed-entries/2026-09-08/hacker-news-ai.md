@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Automatically detecting AI text in my browser
+## 1. Show HN: DeepMem·hybrid-retrieval memory for AI Agents – Vector+BM25+Time-Decay
 
-**Author:** swah  
-**Published:** 9/8/2026, 10:22:34 AM  
+**Author:** deepmem  
+**Published:** 9/8/2026, 4:04:24 PM  
 **Categories:** -  
 
-Article URL: https://www.seangoedecke.com/deckard/ Comments URL: https://news.ycombinator.com/item?id=49608301 Points: 4 # Comments: 1
+Article URL: https://github.com/deepmemteam/deepmem Comments URL: https://news.ycombinator.com/item?id=49612293 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.seangoedecke.com/deckard/)
+📖 [Read original article](https://github.com/deepmemteam/deepmem)
 
 ---
 
-## 2. Vaenyx – A personal AI app for family
+## 2. EngineRed: Asymmetric AI Warfare
 
-**Author:** vaenyxai  
-**Published:** 9/8/2026, 10:09:52 AM  
+**Author:** smadas  
+**Published:** 9/8/2026, 3:55:50 PM  
 **Categories:** -  
 
-Article URL: https://github.com/vaenyxai/core Comments URL: https://news.ycombinator.com/item?id=49608188 Points: 2 # Comments: 0
+Article URL: https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare Comments URL: https://news.ycombinator.com/item?id=49612174 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/vaenyxai/core)
+📖 [Read original article](https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare)
 
 ---
 
-## 3. TrustFinder: Deep Search AI
+## 3. Measurement Before Control: A Broadly Applicable Principle for Better AI Policy
 
-**Author:** pranto12345  
-**Published:** 9/8/2026, 9:32:21 AM  
+**Author:** delschlangen  
+**Published:** 9/8/2026, 3:45:09 PM  
 **Categories:** -  
 
-Article URL: https://play.google.com/store/apps/details?id=com.popyakter.cheaterbusterai&hl=en_US Comments URL: https://news.ycombinator.com/item?id=49607896 Points: 2 # Comments: 0
+Article URL: https://medium.com/@delschlangen_22694/measurement-before-control-a-broad-and-applicable-principle-for-better-ai-policy-380200c47494 Comments URL: https://news.ycombinator.com/item?id=49612016 Points: 1 # Comments: 0
 
-📖 [Read original article](https://play.google.com/store/apps/details?id=com.popyakter.cheaterbusterai&hl=en_US)
+📖 [Read original article](https://medium.com/@delschlangen_22694/measurement-before-control-a-broad-and-applicable-principle-for-better-ai-policy-380200c47494)
 
 ---
 
-## 4. PicWish – AI photo editing for product images
+## 4. Ryze AI Hack – build apps with only on-device ≤500M models
 
-**Author:** VolaRmb  
-**Published:** 9/8/2026, 9:27:41 AM  
+**Author:** sxlvlblade  
+**Published:** 9/8/2026, 3:44:55 PM  
 **Categories:** -  
 
-Article URL: https://picwish.com/ Comments URL: https://news.ycombinator.com/item?id=49607853 Points: 1 # Comments: 0
+Article URL: https://open-ryze.web.app/ Comments URL: https://news.ycombinator.com/item?id=49612013 Points: 1 # Comments: 0
 
-📖 [Read original article](https://picwish.com/)
+📖 [Read original article](https://open-ryze.web.app/)
 
 ---
 
-## 5. Arguments in Favor of AI Fair Use
+## 5. Show HN: Pollium – A new way to study with AI
 
-**Author:** jger15  
-**Published:** 9/8/2026, 9:22:26 AM  
+**Author:** rodoherrera  
+**Published:** 9/8/2026, 3:42:14 PM  
 **Categories:** -  
 
-Article URL: https://kevinkelly.substack.com/p/arguments-in-favor-of-ai-fair-use Comments URL: https://news.ycombinator.com/item?id=49607805 Points: 2 # Comments: 0
+Article URL: https://learn.pollium.io Comments URL: https://news.ycombinator.com/item?id=49611974 Points: 1 # Comments: 0
 
-📖 [Read original article](https://kevinkelly.substack.com/p/arguments-in-favor-of-ai-fair-use)
+📖 [Read original article](https://learn.pollium.io)
 
 ---
 
-## 6. Show HN: Pomeroy v1, give any AI assistant secure access to native macOS apps
+## 6. The Ripgrep of AI Context
 
-**Author:** joesaunderson  
-**Published:** 9/8/2026, 8:58:26 AM  
+**Author:** schmorptron  
+**Published:** 9/8/2026, 3:39:12 PM  
 **Categories:** -  
 
-When I launched Pomeroy last week, I knew I was solving a problem, but I didn't understand the scale! Pretty overwhelmed by the response, and have worked over the weekend to make it EVEN better...So... what could better than giving Claude secure access to your native Apple MacOS apps you ask?.. well...
+Article URL: https://github.com/redhat-et/ripwire Comments URL: https://news.ycombinator.com/item?id=49611931 Points: 2 # Comments: 0
 
-📖 [Read original article](https://pomeroy.app/connect)
+📖 [Read original article](https://github.com/redhat-et/ripwire)
 
 ---
 
-## 7. Türk urges action before AI becomes an 'existential risk to humanity'
+## 7. Did AI Find Murakami's Voice? Student's $2 Experiment Divides China's Literati
 
-**Author:** DeepLogin  
-**Published:** 9/8/2026, 8:52:29 AM  
+**Author:** NishanStepak  
+**Published:** 9/8/2026, 3:11:33 PM  
 **Categories:** -  
 
-Article URL: https://news.un.org/en/story/2026/09/1168288 Comments URL: https://news.ycombinator.com/item?id=49607515 Points: 2 # Comments: 0
+Article URL: https://www.sixthtone.com/news/1018966 Comments URL: https://news.ycombinator.com/item?id=49611506 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.un.org/en/story/2026/09/1168288)
+📖 [Read original article](https://www.sixthtone.com/news/1018966)
 
 ---
 
-## 8. The most advanced and easy to use local AI builder you'll ever see
+## 8. AI Scraping on the Cheap
 
-**Author:** Markyboy  
-**Published:** 9/8/2026, 8:50:57 AM  
+**Author:** oalders  
+**Published:** 9/8/2026, 2:56:12 PM  
 **Categories:** -  
 
-Article URL: https://github.com/markdr-hue/open-fabrica Comments URL: https://news.ycombinator.com/item?id=49607502 Points: 2 # Comments: 1
+Article URL: https://www.olafalders.com/2026/09/08/ai-scraping-on-the-cheap/ Comments URL: https://news.ycombinator.com/item?id=49611258 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/markdr-hue/open-fabrica)
+📖 [Read original article](https://www.olafalders.com/2026/09/08/ai-scraping-on-the-cheap/)
 
 ---
 
-## 9. Ask HN: Tagging AI-Related Posts
+## 9. Show HN: Edge-AI device that analyzes my cannabis grow, nothing leaves the LAN
 
-**Author:** IdiotSavage  
-**Published:** 9/8/2026, 8:49:04 AM  
+**Author:** gullywompr  
+**Published:** 9/8/2026, 2:53:13 PM  
 **Categories:** -  
 
-The front page is full of AI-related topics. I'm sick of it, and I think I'm not the only one.Is there a chance we could introduce a tagging system, so it would be easy to hide AI-related posts and find the "good stuff" again? Comments URL: https://news.ycombinator.com/item?id=49607487 Points: 2 # C...
+Article URL: https://croplock.com/blog/ Comments URL: https://news.ycombinator.com/item?id=49611204 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49607487)
+📖 [Read original article](https://croplock.com/blog/)
 
 ---
 
-## 10. Is the UK government the new training ground for AI execs?
+## 10. Show HN: EndFrame – Demos, launch videos, shorts from the AI plan you pay for
 
-**Author:** nixlaz  
-**Published:** 9/8/2026, 8:18:06 AM  
+**Author:** endframe  
+**Published:** 9/8/2026, 2:52:01 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns Comments URL: https://news.ycombinator.com/item?id=49607225 Points: 1 # Comments: 0
+Article URL: https://endframe.ai/ Comments URL: https://news.ycombinator.com/item?id=49611174 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns)
+📖 [Read original article](https://endframe.ai/)
 
 ---
 
-## 11. I talked to deep buddy about AI solving Navier Stokes rumors
+## 11. Two cats, two dogs, four vendors, and the model the AI couldn't find
 
-**Author:** echohive42  
-**Published:** 9/8/2026, 7:50:24 AM  
+**Author:** valyala  
+**Published:** 9/8/2026, 2:51:50 PM  
 **Categories:** -  
 
-Article URL: https://www.echohive.ai/deep-talk-buddy/navier-stokes Comments URL: https://news.ycombinator.com/item?id=49606955 Points: 1 # Comments: 0
+Article URL: https://victoriametrics.com/blog/two-cats-two-dogs-four-vendors-and-the-model-ai-couldnt-find/index.html Comments URL: https://news.ycombinator.com/item?id=49611170 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.echohive.ai/deep-talk-buddy/navier-stokes)
+📖 [Read original article](https://victoriametrics.com/blog/two-cats-two-dogs-four-vendors-and-the-model-ai-couldnt-find/index.html)
 
 ---
 
-## 12. How AI based programming could work (2016)
+## 12. Does an AI have mercy in games? Fable 5.1 vs. GPT-6
 
-**Author:** andsoitis  
-**Published:** 9/8/2026, 7:46:51 AM  
+**Author:** simplybeing1  
+**Published:** 9/8/2026, 2:31:21 PM  
 **Categories:** -  
 
-Article URL: https://bjenik.com/AIBasedProgramming/ Comments URL: https://news.ycombinator.com/item?id=49606932 Points: 1 # Comments: 1
+Article URL: https://paradise.glyphai.co/research/mercy/ Comments URL: https://news.ycombinator.com/item?id=49610874 Points: 1 # Comments: 1
 
-📖 [Read original article](https://bjenik.com/AIBasedProgramming/)
+📖 [Read original article](https://paradise.glyphai.co/research/mercy/)
 
 ---
 
-## 13. Stable Singularity of the Euler Equations on R^3 without forcing – Anima on AI
+## 13. Who Built AI? A Data Story
 
-**Author:** bjenik  
-**Published:** 9/8/2026, 7:34:27 AM  
+**Author:** tbwriting  
+**Published:** 9/8/2026, 2:26:04 PM  
 **Categories:** -  
 
-Article URL: https://anima-ai.org/2026/09/07/stable-singularity-of-the-euler-equations-on-r3-without-forcing/ Comments URL: https://news.ycombinator.com/item?id=49606817 Points: 4 # Comments: 0
+Article URL: https://tylerberbert.com/whobuiltai Comments URL: https://news.ycombinator.com/item?id=49610802 Points: 3 # Comments: 0
 
-📖 [Read original article](https://anima-ai.org/2026/09/07/stable-singularity-of-the-euler-equations-on-r3-without-forcing/)
+📖 [Read original article](https://tylerberbert.com/whobuiltai)
 
 ---
 
-## 14. Bodhan.ai releases 1.2B ASR model that covers 22 Indian Languages
+## 14. Show HN: SiteTell: finds the areas of your site that read as AI-generic
 
-**Author:** pythongiant  
-**Published:** 9/8/2026, 7:32:39 AM  
+**Author:** NotGeorgeHere  
+**Published:** 9/8/2026, 2:16:33 PM  
 **Categories:** -  
 
-Article URL: https://bodhan.ai/research/blogs/indic-transcribe Comments URL: https://news.ycombinator.com/item?id=49606804 Points: 2 # Comments: 0
+Hey everyone, I built this product called SiteTell. You put in your website url, it returns a list of all of the things across the site that get flagged as likely to be AI-written/AI-generic. It works against a curated rule set (which will obviously get updated as AI models update and evolve) and th...
 
-📖 [Read original article](https://bodhan.ai/research/blogs/indic-transcribe)
+📖 [Read original article](https://www.getsitetell.com/)
 
 ---
 
-## 15. Show HN: Am I replacable – a harness to help humans keep up with AI
+## 15. I Hardened a Personal AI Agent That Reads My Email, Files, and Desktop
 
-**Author:** kumarshreyak  
-**Published:** 9/8/2026, 7:24:14 AM  
+**Author:** practicalsystem  
+**Published:** 9/8/2026, 2:09:22 PM  
 **Categories:** -  
 
-Realised 1. There is a growing fear around being replacable and ai making humans dumber since we dont have to critically think as much now. 2. It is incredibly valuable to see where you stand against AI, and improve yourself, so that you can become a better user(prompter) of AI.Lead me to build this...
+Article URL: https://www.practicalsystems.io/blog/how-i-hardened-a-personal-ai-agent Comments URL: https://news.ycombinator.com/item?id=49610579 Points: 2 # Comments: 1
 
-📖 [Read original article](https://amireplaceable.app/)
+📖 [Read original article](https://www.practicalsystems.io/blog/how-i-hardened-a-personal-ai-agent)
 
 ---
 
-## 16. In the age of AI what use is left for a personal computer?
+## 16. LibreOffice breaks download records after declaring it has no AI features
 
-**Author:** rimlessspecs  
-**Published:** 9/8/2026, 7:20:27 AM  
+**Author:** rpgbr  
+**Published:** 9/8/2026, 2:05:57 PM  
 **Categories:** -  
 
-I was thinking to buy a personal computer but don't know what I will use it for. Any thoughts? Comments URL: https://news.ycombinator.com/item?id=49606689 Points: 3 # Comments: 6
+Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 392 # Comments: 125
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49606689)
+📖 [Read original article](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
 
 ---
 
-## 17. AI keeps stubbornly refusing to take our jobs
+## 17. AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal
 
-**Author:** theanonymousone  
-**Published:** 9/8/2026, 7:19:50 AM  
+**Author:** sea-gold  
+**Published:** 9/8/2026, 2:05:06 PM  
 **Categories:** -  
 
-Article URL: https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take Comments URL: https://news.ycombinator.com/item?id=49606683 Points: 5 # Comments: 1
+Article URL: https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/ Comments URL: https://news.ycombinator.com/item?id=49610528 Points: 14 # Comments: 4
 
-📖 [Read original article](https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take)
+📖 [Read original article](https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/)
 
 ---
 
-## 18. The Chasm: The Shape of Unfinished AI Codebases
+## 18. It is rational to prefer human-writing over AI content of superior quality
 
-**Author:** tobr  
-**Published:** 9/8/2026, 7:12:48 AM  
+**Author:** samuelfitoussi  
+**Published:** 9/8/2026, 2:04:24 PM  
 **Categories:** -  
 
-Article URL: https://jimmyhmiller.com/shape-of-unfinished-ai-codebases Comments URL: https://news.ycombinator.com/item?id=49606616 Points: 2 # Comments: 0
+Article URL: https://samuelfitoussi.com/posts/it-is-rational-to-prefer-human-content-over-AI-content Comments URL: https://news.ycombinator.com/item?id=49610520 Points: 3 # Comments: 3
 
-📖 [Read original article](https://jimmyhmiller.com/shape-of-unfinished-ai-codebases)
+📖 [Read original article](https://samuelfitoussi.com/posts/it-is-rational-to-prefer-human-content-over-AI-content)
 
 ---
 
-## 19. Arm unveils AI Portal for optimized AI apps
+## 19. Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site with Customers
 
-**Author:** CoderLim110  
-**Published:** 9/8/2026, 6:44:09 AM  
+**Author:** thm  
+**Published:** 9/8/2026, 1:59:50 PM  
 **Categories:** -  
 
-Article URL: https://newsroom.arm.com/news/arm-unveils-arm-ai-portal Comments URL: https://news.ycombinator.com/item?id=49606373 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628 Comments URL: https://news.ycombinator.com/item?id=49610466 Points: 1 # Comments: 0
 
-📖 [Read original article](https://newsroom.arm.com/news/arm-unveils-arm-ai-portal)
+📖 [Read original article](https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628)
 
 ---
 
-## 20. UAE-based Falcon AI NSFW classifier among top global open-source models (2025)
+## 20. My Little AI Factory
 
-**Author:** instagraham  
-**Published:** 9/8/2026, 6:39:20 AM  
+**Author:** dominis  
+**Published:** 9/8/2026, 1:59:18 PM  
 **Categories:** -  
 
-Article URL: https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly Comments URL: https://news.ycombinator.com/item?id=49606339 Points: 23 # Comments: 21
+Article URL: https://dominis.blog/blog/my-little-ai-factory/ Comments URL: https://news.ycombinator.com/item?id=49610464 Points: 7 # Comments: 5
 
-📖 [Read original article](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
+📖 [Read original article](https://dominis.blog/blog/my-little-ai-factory/)
 
 ---
