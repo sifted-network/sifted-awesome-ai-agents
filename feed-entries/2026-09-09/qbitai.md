@@ -2,16 +2,52 @@
 title: "qbitai - 2026-09-09"
 date: "2026-09-09"
 source: "qbitai"
-count: 1
+count: 4
 ---
 
 # qbitai - 2026-09-09
 
-1 items collected.
+4 items collected.
 
 ---
 
-## 1. 宜宾，一场机器人“招聘会”的产业雄心
+## 1. 蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流
+
+**Author:** 量子位的朋友们  
+**Published:** 9/9/2026, 5:02:30 AM  
+**Categories:** 资讯, 蚂蚁  
+
+蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。
+
+📖 [Read original article](https://www.qbitai.com/2026/09/486288.html)
+
+---
+
+## 2. 具身机器人能搞定超市盘点吗？全球七万门店正在给出答案
+
+**Author:** 衡宇  
+**Published:** 9/9/2026, 4:52:12 AM  
+**Categories:** 资讯, 首页轮播, Physical AI, 具身智能, 零售店铺  
+
+从Demo到货架，这两家公司要让具身智能算得过账
+
+📖 [Read original article](https://www.qbitai.com/2026/09/486280.html)
+
+---
+
+## 3. SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！
+
+**Author:** 量子位的朋友们  
+**Published:** 9/9/2026, 3:39:58 AM  
+**Categories:** 资讯, 昆仑万维  
+
+8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动
+
+📖 [Read original article](https://www.qbitai.com/2026/09/486052.html)
+
+---
+
+## 4. 宜宾，一场机器人“招聘会”的产业雄心
 
 **Author:** 量子位的朋友们  
 **Published:** 9/9/2026, 2:15:54 AM  
