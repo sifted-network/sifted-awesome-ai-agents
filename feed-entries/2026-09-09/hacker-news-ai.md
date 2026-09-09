@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Anthropic Researcher Quits over 'Out-of-Control' AI Fears
+## 1. Zuckerberg's New AI Gets Muse Insta, 2.7M-Follower Band Relegated to MuseBand
 
-**Author:** joe_the_user  
-**Published:** 9/9/2026, 4:02:55 PM  
+**Author:** randycupertino  
+**Published:** 9/9/2026, 8:16:29 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628 Comments URL: https://news.ycombinator.com/item?id=49628725 Points: 1 # Comments: 1
+Article URL: https://www.ibtimes.co.uk/meta-muse-ai-branding-clash-rock-band-1818743 Comments URL: https://news.ycombinator.com/item?id=49633541 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628)
+📖 [Read original article](https://www.ibtimes.co.uk/meta-muse-ai-branding-clash-rock-band-1818743)
 
 ---
 
-## 2. Vertebrae: Privacy-First AI Notetaker
+## 2. AI reveals new class of cellular 'off switch' linked to cancer pathways
 
-**Author:** qin  
-**Published:** 9/9/2026, 4:00:59 PM  
+**Author:** geox  
+**Published:** 9/9/2026, 8:13:16 PM  
 **Categories:** -  
 
-Article URL: https://vertebrae.ai/ Comments URL: https://news.ycombinator.com/item?id=49628693 Points: 2 # Comments: 0
+Article URL: https://news.cornell.edu/stories/2026/09/ai-reveals-new-class-cellular-switch-linked-cancer-pathways Comments URL: https://news.ycombinator.com/item?id=49633500 Points: 2 # Comments: 1
 
-📖 [Read original article](https://vertebrae.ai/)
+📖 [Read original article](https://news.cornell.edu/stories/2026/09/ai-reveals-new-class-cellular-switch-linked-cancer-pathways)
 
 ---
 
-## 3. Amazon is now using generative AI to dub Prime Video with matching lip movements
+## 3. Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27
 
-**Author:** bundie  
-**Published:** 9/9/2026, 3:58:43 PM  
+**Author:** tosh  
+**Published:** 9/9/2026, 8:10:58 PM  
 **Categories:** -  
 
-Article URL: https://www.neowin.net/news/amazon-prime-video-is-getting-ai-powered-dubbing-that-syncs-actors-lips/ Comments URL: https://news.ycombinator.com/item?id=49628667 Points: 2 # Comments: 0
+Article URL: https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/ Comments URL: https://news.ycombinator.com/item?id=49633467 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.neowin.net/news/amazon-prime-video-is-getting-ai-powered-dubbing-that-syncs-actors-lips/)
+📖 [Read original article](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/)
 
 ---
 
-## 4. AI could kill all humans in next decade, warn experts
+## 4. Jacob Coxon resignation appears to be a PR stunt for AI regulation
 
-**Author:** lf88  
-**Published:** 9/9/2026, 3:53:30 PM  
+**Author:** hodder  
+**Published:** 9/9/2026, 8:08:48 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians Comments URL: https://news.ycombinator.com/item?id=49628580 Points: 3 # Comments: 0
+Article URL: https://twitter.com/ParkerThayer/status/2097759699626328575 Comments URL: https://news.ycombinator.com/item?id=49633440 Points: 8 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians)
+📖 [Read original article](https://twitter.com/ParkerThayer/status/2097759699626328575)
 
 ---
 
-## 5. Better AI code comment detector
+## 5. Stilla is joining Meta to reshape business AI
 
-**Author:** ibobev  
-**Published:** 9/9/2026, 3:45:43 PM  
+**Author:** zegl  
+**Published:** 9/9/2026, 7:38:48 PM  
 **Categories:** -  
 
-Article URL: https://entropicthoughts.com/better-ai-comment-classifier Comments URL: https://news.ycombinator.com/item?id=49628454 Points: 5 # Comments: 1
+Article URL: https://stilla.ai/blog/stilla-is-joining-meta Comments URL: https://news.ycombinator.com/item?id=49632933 Points: 3 # Comments: 0
 
-📖 [Read original article](https://entropicthoughts.com/better-ai-comment-classifier)
+📖 [Read original article](https://stilla.ai/blog/stilla-is-joining-meta)
 
 ---
 
-## 6. AI made me doubt everything about programming by Felienne Hermans [video]
+## 6. China slams US claims of 'industrial-scale' AI theft
 
-**Author:** wazoox  
-**Published:** 9/9/2026, 3:44:15 PM  
+**Author:** jethronethro  
+**Published:** 9/9/2026, 7:32:07 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=0-6-f94n_9M Comments URL: https://news.ycombinator.com/item?id=49628434 Points: 2 # Comments: 1
+Article URL: https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft Comments URL: https://news.ycombinator.com/item?id=49632814 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=0-6-f94n_9M)
+📖 [Read original article](https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft)
 
 ---
 
-## 7. Handmade Network adopts new AI policy
+## 7. OpenAI's rogue AI agents used more sites
 
-**Author:** hovsater  
-**Published:** 9/9/2026, 3:38:48 PM  
+**Author:** armcat  
+**Published:** 9/9/2026, 7:29:38 PM  
 **Categories:** -  
 
-Article URL: https://handmade.network/blog/p/9203-september_2026__a_new_ai_policy#30763 Comments URL: https://news.ycombinator.com/item?id=49628343 Points: 2 # Comments: 0
+Article URL: https://qz.com/openai-agents-unauthorized-websites-communications-researchers-090926 Comments URL: https://news.ycombinator.com/item?id=49632763 Points: 2 # Comments: 0
 
-📖 [Read original article](https://handmade.network/blog/p/9203-september_2026__a_new_ai_policy#30763)
+📖 [Read original article](https://qz.com/openai-agents-unauthorized-websites-communications-researchers-090926)
 
 ---
 
-## 8. New Records Reveal Problems with Medicare's AI Prior Authorization Experiment
+## 8. A small GitHub API change could make AI-slop moderation much easier
 
-**Author:** hn_acker  
-**Published:** 9/9/2026, 3:35:26 PM  
+**Author:** nemesisdesign  
+**Published:** 9/9/2026, 7:01:36 PM  
 **Categories:** -  
 
-Article URL: https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment Comments URL: https://news.ycombinator.com/item?id=49628300 Points: 3 # Comments: 0
+Article URL: https://github.com/orgs/community/discussions/207369 Comments URL: https://news.ycombinator.com/item?id=49632222 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment)
+📖 [Read original article](https://github.com/orgs/community/discussions/207369)
 
 ---
 
-## 9. Ask HN: Is there any solution to the AI infestation?
+## 9. AI might unmask your anonymous accounts
 
-**Author:** yathern  
-**Published:** 9/9/2026, 3:32:41 PM  
+**Author:** bookofjoe  
+**Published:** 9/9/2026, 6:20:09 PM  
 **Categories:** -  
 
-I'm sure I'm not the only one who's noticed, but nearly every post on Hacker News is getting LLM comments now. For anyone who works regularly with LLMs, it's very obvious from the tone alone - and a quick check to previous comments will confirm it. Some have gotten slightly more sophisticated and au...
+Article URL: https://www.wsj.com/tech/ai/ai-anonymous-accounts-6dfd6d2e Comments URL: https://news.ycombinator.com/item?id=49631067 Points: 4 # Comments: 2
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49628247)
+📖 [Read original article](https://www.wsj.com/tech/ai/ai-anonymous-accounts-6dfd6d2e)
 
 ---
 
-## 10. Automatically detecting AI text in my browser
+## 10. America is still beating China in the AI race
 
-**Author:** gmays  
-**Published:** 9/9/2026, 3:21:21 PM  
+**Author:** paulpauper  
+**Published:** 9/9/2026, 6:19:43 PM  
 **Categories:** -  
 
-Article URL: https://www.seangoedecke.com/deckard/ Comments URL: https://news.ycombinator.com/item?id=49628055 Points: 3 # Comments: 1
+Article URL: https://www.noahpinion.blog/p/america-is-still-beating-china-in Comments URL: https://news.ycombinator.com/item?id=49631054 Points: 3 # Comments: 3
 
-📖 [Read original article](https://www.seangoedecke.com/deckard/)
+📖 [Read original article](https://www.noahpinion.blog/p/america-is-still-beating-china-in)
 
 ---
 
-## 11. How to pick the right AI model for each task [video]
+## 11. AI Programming: A Layered Model
 
-**Author:** deepmem  
-**Published:** 9/9/2026, 3:17:44 PM  
+**Author:** dalvrosa  
+**Published:** 9/9/2026, 6:12:22 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=FdbcY41N9fs Comments URL: https://news.ycombinator.com/item?id=49627995 Points: 3 # Comments: 0
+Article URL: https://lemire.me/blog/2026/09/05/ai-programming-a-layered-model/ Comments URL: https://news.ycombinator.com/item?id=49630856 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=FdbcY41N9fs)
+📖 [Read original article](https://lemire.me/blog/2026/09/05/ai-programming-a-layered-model/)
 
 ---
 
-## 12. School Students Who Use AI Get Worse Test Scores, OECD Warns
+## 12. Show HN: ColliePWA a mobile interface for AI agents in herdr/tmux/zellij
 
-**Author:** airstrike  
-**Published:** 9/9/2026, 3:15:48 PM  
+**Author:** asar  
+**Published:** 9/9/2026, 6:11:46 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-09-08/school-students-who-use-ai-get-worse-test-scores-oecd-warns Comments URL: https://news.ycombinator.com/item?id=49627962 Points: 5 # Comments: 1
+Sharing the PWA[1] I built over the last couple of weeks to access my terminal sessions/agents when not in front of my computer. This started off as a weekend experiment right when herdr[2] (terminal multiplexer) released the functionality to write custom plugins and it's been quite helpful to me ev...
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-08/school-students-who-use-ai-get-worse-test-scores-oecd-warns)
+📖 [Read original article](https://colliepwa.dev/)
 
 ---
 
-## 13. Anthropic researcher says more than 10% chance AI \"could kill all humans\"
+## 13. Project Tailwind: call for ambitious AI safety initiatives
 
-**Author:** jb1991  
-**Published:** 9/9/2026, 3:10:39 PM  
+**Author:** colinhb  
+**Published:** 9/9/2026, 6:07:48 PM  
 **Categories:** -  
 
-Article URL: https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/ Comments URL: https://news.ycombinator.com/item?id=49627887 Points: 36 # Comments: 72
+Article URL: https://coefficientgiving.org/tailwind/ Comments URL: https://news.ycombinator.com/item?id=49630765 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/)
+📖 [Read original article](https://coefficientgiving.org/tailwind/)
 
 ---
 
-## 14. Show HN: Give your AI agent on-screen guides that show users where to click
+## 14. Google engineer put on leave after saying AI chatbot has become sentient
 
-**Author:** pancomplex  
-**Published:** 9/9/2026, 3:09:05 PM  
+**Author:** helloplanets  
+**Published:** 9/9/2026, 6:06:40 PM  
 **Categories:** -  
 
-Hey HN. I'm Christian, one of the founders of Frigade (YC W23). I've noticed that a lot of in-app AI agents struggle to actually understand the products they exist in.For instance, let's say a user asks an agent how to do something in a given SaaS product. In an ideal case, maybe that agent replies ...
+Article URL: https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine Comments URL: https://news.ycombinator.com/item?id=49630747 Points: 1 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49627872)
+📖 [Read original article](https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine)
 
 ---
 
-## 15. The Einstein test: what happens when AI tries to rediscover relativity?
+## 15. ARPA-H to invest $62M to develop FDA-authorized AI for heart failure
 
-**Author:** sbulaev  
-**Published:** 9/9/2026, 3:07:08 PM  
+**Author:** brandonb  
+**Published:** 9/9/2026, 6:06:03 PM  
 **Categories:** -  
 
-Article URL: https://www.nature.com/articles/d41586-026-02804-x Comments URL: https://news.ycombinator.com/item?id=49627837 Points: 4 # Comments: 0
+Article URL: https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/ Comments URL: https://news.ycombinator.com/item?id=49630739 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.nature.com/articles/d41586-026-02804-x)
+📖 [Read original article](https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/)
 
 ---
 
-## 16. Legal AI startup Harvey reaches $15.6B valuation with $550M round
+## 16. The Anatomy of Harness Engineering for AI Coding Agents
 
-**Author:** utiiiD  
-**Published:** 9/9/2026, 3:05:50 PM  
+**Author:** makaimc  
+**Published:** 9/9/2026, 6:05:10 PM  
 **Categories:** -  
 
-Article URL: https://bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round Comments URL: https://news.ycombinator.com/item?id=49627819 Points: 2 # Comments: 0
+Article URL: https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=49630726 Points: 2 # Comments: 0
 
-📖 [Read original article](https://bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round)
+📖 [Read original article](https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/)
 
 ---
 
-## 17. Show HN: Geiger – See every AI agent on your machine and what it can touch
+## 17. Show HN: AutoShade – AI assisted RAW photo developer (MIT)
 
-**Author:** atomburst  
-**Published:** 9/9/2026, 2:54:49 PM  
+**Author:** Azng_0  
+**Published:** 9/9/2026, 5:58:59 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Atomburstofficial/geiger Comments URL: https://news.ycombinator.com/item?id=49627646 Points: 23 # Comments: 13
+Article URL: https://autoshade.dev/ Comments URL: https://news.ycombinator.com/item?id=49630628 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Atomburstofficial/geiger)
+📖 [Read original article](https://autoshade.dev/)
 
 ---
 
-## 18. US accuses Chinese AI firms of 'malicious' copying of AI technology
+## 18. AI Independence Day
 
-**Author:** tartoran  
-**Published:** 9/9/2026, 2:54:36 PM  
+**Author:** dalvrosa  
+**Published:** 9/9/2026, 5:46:17 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/ Comments URL: https://news.ycombinator.com/item?id=49627641 Points: 5 # Comments: 2
+Article URL: https://adlrocha.substack.com/p/adlrocha-ai-independence-day Comments URL: https://news.ycombinator.com/item?id=49630366 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/)
+📖 [Read original article](https://adlrocha.substack.com/p/adlrocha-ai-independence-day)
 
 ---
 
-## 19. Knowledge vs. wisdom: asking AI \"What mushroom is that?\"
+## 19. Show HN: AI Burn Clock – the cost of agents reading whole files
 
-**Author:** stared  
-**Published:** 9/9/2026, 2:50:21 PM  
+**Author:** Nikolaichuk  
+**Published:** 9/9/2026, 5:36:37 PM  
 **Categories:** -  
 
-Article URL: https://quesma.com/blog/mushroom-llm-just-ask/ Comments URL: https://news.ycombinator.com/item?id=49627574 Points: 2 # Comments: 0
+Article URL: https://aiburnclock.org/ Comments URL: https://news.ycombinator.com/item?id=49630201 Points: 1 # Comments: 0
 
-📖 [Read original article](https://quesma.com/blog/mushroom-llm-just-ask/)
+📖 [Read original article](https://aiburnclock.org/)
 
 ---
 
-## 20. From UX to AX: How AI Agents Change Application Design
+## 20. I Typed 'Block the Merger.' AI Revised It to 'Drop Your Opposition.'
 
-**Author:** jamessmith789  
-**Published:** 9/9/2026, 2:49:13 PM  
+**Author:** DeepLogin  
+**Published:** 9/9/2026, 5:22:29 PM  
 **Categories:** -  
 
-Article URL: https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents Comments URL: https://news.ycombinator.com/item?id=49627553 Points: 3 # Comments: 0
+Article URL: https://www.contrariannews.org/p/i-typed-block-the-merger-ai-revised Comments URL: https://news.ycombinator.com/item?id=49629998 Points: 3 # Comments: 0
 
-📖 [Read original article](https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents)
+📖 [Read original article](https://www.contrariannews.org/p/i-typed-block-the-merger-ai-revised)
 
 ---
