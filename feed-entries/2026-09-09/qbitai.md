@@ -2,16 +2,40 @@
 title: "qbitai - 2026-09-09"
 date: "2026-09-09"
 source: "qbitai"
-count: 4
+count: 6
 ---
 
 # qbitai - 2026-09-09
 
-4 items collected.
+6 items collected.
 
 ---
 
-## 1. 蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流
+## 1. 实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug
+
+**Author:** 文婷  
+**Published:** 9/9/2026, 10:02:54 AM  
+**Categories:** 资讯  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/09/486374.html)
+
+---
+
+## 2. 国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力
+
+**Author:** 量子位的朋友们  
+**Published:** 9/9/2026, 9:57:54 AM  
+**Categories:** 资讯, 太初元碁  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/09/486370.html)
+
+---
+
+## 3. 蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流
 
 **Author:** 量子位的朋友们  
 **Published:** 9/9/2026, 5:02:30 AM  
@@ -23,7 +47,7 @@ count: 4
 
 ---
 
-## 2. 具身机器人能搞定超市盘点吗？全球七万门店正在给出答案
+## 4. 具身机器人能搞定超市盘点吗？全球七万门店正在给出答案
 
 **Author:** 衡宇  
 **Published:** 9/9/2026, 4:52:12 AM  
@@ -35,7 +59,7 @@ count: 4
 
 ---
 
-## 3. SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！
+## 5. SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！
 
 **Author:** 量子位的朋友们  
 **Published:** 9/9/2026, 3:39:58 AM  
@@ -47,7 +71,7 @@ count: 4
 
 ---
 
-## 4. 宜宾，一场机器人“招聘会”的产业雄心
+## 6. 宜宾，一场机器人“招聘会”的产业雄心
 
 **Author:** 量子位的朋友们  
 **Published:** 9/9/2026, 2:15:54 AM  
