@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-07"
 date: "2026-09-07"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-09-07
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ OpenAI研究院人均带3个AI实习生
 “在两个模型之间找到数学上的共同基础其实非常困难”
 
 📖 [Read original article](https://www.qbitai.com/2026/09/485108.html)
-
----
-
-## 5. 国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%
-
-**Author:** 量子位的朋友们  
-**Published:** 9/7/2026, 6:53:26 AM  
-**Categories:** 资讯, 网易有道  
-
-9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。
-
-📖 [Read original article](https://www.qbitai.com/2026/09/485064.html)
 
 ---
