@@ -2,167 +2,251 @@
 title: "Hacker News AI - 2026-09-09"
 date: "2026-09-09"
 source: "Hacker News AI"
-count: 13
+count: 20
 ---
 
 # Hacker News AI - 2026-09-09
 
-13 items collected.
+20 items collected.
 
 ---
 
-## 1. Making your data ready for agentic AI
+## 1. How to Increase Your Website's Visibility in Google's AI-Powered Search Results
 
-**Author:** deepmem  
-**Published:** 9/9/2026, 3:17:51 AM  
+**Author:** Lannx  
+**Published:** 9/9/2026, 10:49:14 AM  
 **Categories:** -  
 
-Article URL: https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=49620450 Points: 1 # Comments: 0
+The website content was updated with the latest information and adopted a format that provides the answer in the very first sentence; however, the number of times the content was mentioned or cited still did not increase. Comments URL: https://news.ycombinator.com/item?id=49624341 Points: 1 # Commen...
 
-📖 [Read original article](https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html)
+📖 [Read original article](https://news.ycombinator.com/item?id=49624341)
 
 ---
 
-## 2. Robots-check: see what your robots.txt is serving (Cloudflare AI Crawl Control)
+## 2. Google to invest $15B in AI datacenters and buy nuclear power in Finland
 
-**Author:** janibert09  
-**Published:** 9/9/2026, 3:15:27 AM  
+**Author:** consumer451  
+**Published:** 9/9/2026, 10:47:53 AM  
 **Categories:** -  
 
-Article URL: https://github.com/janibert1/robots-check Comments URL: https://news.ycombinator.com/item?id=49620425 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/ Comments URL: https://news.ycombinator.com/item?id=49624331 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/janibert1/robots-check)
+📖 [Read original article](https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/)
 
 ---
 
-## 3. Meta launches Muse, a personal AI agent
+## 3. Rethinking ERP Transformation in the AI Era
 
-**Author:** fourfire  
-**Published:** 9/9/2026, 3:02:56 AM  
+**Author:** AbsoluteERP  
+**Published:** 9/9/2026, 10:39:50 AM  
 **Categories:** -  
 
-Article URL: https://apps.apple.com/us/app/muse-from-meta/id6760173601 Comments URL: https://news.ycombinator.com/item?id=49620331 Points: 1 # Comments: 1
+Article URL: https://buymeacoffee.com/absolutesed/rethinking-erp-transformation-ai-era Comments URL: https://news.ycombinator.com/item?id=49624272 Points: 1 # Comments: 1
 
-📖 [Read original article](https://apps.apple.com/us/app/muse-from-meta/id6760173601)
+📖 [Read original article](https://buymeacoffee.com/absolutesed/rethinking-erp-transformation-ai-era)
 
 ---
 
-## 4. Gmail AI Threat Scanner–zero-infra email anomaly detection
+## 4. Anthropic researcher believes more than 10% chance AI 'could kill all humans'
 
-**Author:** nvajay  
-**Published:** 9/9/2026, 2:44:59 AM  
+**Author:** ljf  
+**Published:** 9/9/2026, 10:37:16 AM  
 **Categories:** -  
 
-Article URL: https://github.com/ajaynyayapathi/Gmail-AI-Threat-Scanner Comments URL: https://news.ycombinator.com/item?id=49620195 Points: 1 # Comments: 0
+Article URL: https://www.bbc.co.uk/news/articles/ckgwy1k42w4o Comments URL: https://news.ycombinator.com/item?id=49624255 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/ajaynyayapathi/Gmail-AI-Threat-Scanner)
+📖 [Read original article](https://www.bbc.co.uk/news/articles/ckgwy1k42w4o)
 
 ---
 
-## 5. Freelancers are getting buried with 'soulless' AI slop cleanup
+## 5. Show HN: Check/strip AI watermarks (C2PA) and hidden Unicode from files
 
-**Author:** oogali  
-**Published:** 9/9/2026, 2:38:03 AM  
+**Author:** olasheniola  
+**Published:** 9/9/2026, 10:31:02 AM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup Comments URL: https://news.ycombinator.com/item?id=49620146 Points: 5 # Comments: 1
+Article URL: https://remove-ai-watermark.com/ Comments URL: https://news.ycombinator.com/item?id=49624208 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup)
+📖 [Read original article](https://remove-ai-watermark.com/)
 
 ---
 
-## 6. Phoenix V2: persistent memory, emotional state, self-model for AI (MIT)
+## 6. How An AI math breakthrough ignited a controversy
 
-**Author:** cleversonBr  
-**Published:** 9/9/2026, 2:16:55 AM  
+**Author:** pseudolus  
+**Published:** 9/9/2026, 10:25:41 AM  
 **Categories:** -  
 
-Article URL: https://github.com/cleversonbrsantos-art/Phoenix Comments URL: https://news.ycombinator.com/item?id=49619989 Points: 1 # Comments: 0
+Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 5 # Comments: 0
 
-📖 [Read original article](https://github.com/cleversonbrsantos-art/Phoenix)
+📖 [Read original article](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
 
 ---
 
-## 7. ex-OpenAI Researcher Quits Anthropic over AI Safety Fears
+## 7. AI Data Center Map
 
-**Author:** paaloeye  
-**Published:** 9/9/2026, 1:36:17 AM  
+**Author:** krenerd  
+**Published:** 9/9/2026, 10:18:56 AM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628 Comments URL: https://news.ycombinator.com/item?id=49619672 Points: 11 # Comments: 3
+Article URL: https://epoch.ai/data/ai-data-centers/map Comments URL: https://news.ycombinator.com/item?id=49624108 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628)
+📖 [Read original article](https://epoch.ai/data/ai-data-centers/map)
 
 ---
 
-## 8. AI Responsibility – OpenAI and Anthropic
+## 8. China's white-collar experts are training AI to pay the bills
 
-**Author:** getatme32  
-**Published:** 9/9/2026, 1:32:49 AM  
+**Author:** rdmuser  
+**Published:** 9/9/2026, 10:18:08 AM  
 **Categories:** -  
 
-Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843 Comments URL: https://news.ycombinator.com/item?id=49619639 Points: 48 # Comments: 10
+Article URL: https://restofworld.org/2026/china-expert-ai-trainers/ Comments URL: https://news.ycombinator.com/item?id=49624104 Points: 2 # Comments: 0
 
-📖 [Read original article](https://twitter.com/hilbertspaess/status/2097476196791709843)
+📖 [Read original article](https://restofworld.org/2026/china-expert-ai-trainers/)
 
 ---
 
-## 9. AI: Lot of \"Hideous\" Code but Found Bottlenecks for Faster Linux Compilation
+## 9. We should anthropomorphize AI agents
 
-**Author:** doener  
-**Published:** 9/9/2026, 1:15:26 AM  
+**Author:** swah  
+**Published:** 9/9/2026, 10:09:19 AM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp Comments URL: https://news.ycombinator.com/item?id=49619470 Points: 1 # Comments: 0
+Article URL: https://www.seangoedecke.com/why-we-should-anthropomorphize-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49624014 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp)
+📖 [Read original article](https://www.seangoedecke.com/why-we-should-anthropomorphize-ai-agents/)
 
 ---
 
-## 10. The Growing Push to Ban Superintelligent AI
+## 10. Ask HN: Is someone tweaking classic ROM games with AI?
 
-**Author:** lf88  
-**Published:** 9/9/2026, 12:18:45 AM  
+**Author:** brunaxLorax  
+**Published:** 9/9/2026, 10:06:28 AM  
 **Categories:** -  
 
-Article URL: https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/ Comments URL: https://news.ycombinator.com/item?id=49619044 Points: 3 # Comments: 5
+I just gave the original Zelda NES game to Fable 5.1 with instructions in a single prompt to change the world map to something new and it actually worked! It took like 15 minutes, the game is really nice and playable.There is so much potential for tweaking/hacking those classic games and create new ...
 
-📖 [Read original article](https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49623989)
 
 ---
 
-## 11. Bullshit arguments about AI (not) replacing jobs (2023)
+## 11. AI Use Contributes to Global Decline in Student Reading Skills, OECD Says
 
-**Author:** imadr  
-**Published:** 9/9/2026, 12:10:30 AM  
+**Author:** agubelu  
+**Published:** 9/9/2026, 9:58:48 AM  
 **Categories:** -  
 
-Article URL: https://imadrahmoune.com/bullshit-ai-argument/ Comments URL: https://news.ycombinator.com/item?id=49618977 Points: 2 # Comments: 1
+Article URL: https://www.wsj.com/articles/ai-use-contributes-to-global-decline-in-student-reading-skills-oecd-says-2bfd591a Comments URL: https://news.ycombinator.com/item?id=49623912 Points: 2 # Comments: 2
 
-📖 [Read original article](https://imadrahmoune.com/bullshit-ai-argument/)
+📖 [Read original article](https://www.wsj.com/articles/ai-use-contributes-to-global-decline-in-student-reading-skills-oecd-says-2bfd591a)
 
 ---
 
-## 12. The paradox at the heart of AI and science [video]
+## 12. Escalating Battle Against AI Deepfakes Mandates Smart Streaming Decisions
 
-**Author:** jonbaer  
-**Published:** 9/9/2026, 12:08:06 AM  
+**Author:** mondainx  
+**Published:** 9/9/2026, 9:53:55 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=svl_1upFpQo Comments URL: https://news.ycombinator.com/item?id=49618954 Points: 1 # Comments: 0
+Article URL: https://www.red5.net/blog/escalating-battle-against-ai-deepfakes-mandates-smart-streaming-decisions/ Comments URL: https://news.ycombinator.com/item?id=49623870 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=svl_1upFpQo)
+📖 [Read original article](https://www.red5.net/blog/escalating-battle-against-ai-deepfakes-mandates-smart-streaming-decisions/)
 
 ---
 
-## 13. AI Has Solved One of Math's $1M Millennium Prize Problems
+## 13. Anthropic researcher says AI has more than 10% chance of 'killing all humans'
 
-**Author:** sbulaev  
-**Published:** 9/9/2026, 12:07:07 AM  
+**Author:** cramer4next  
+**Published:** 9/9/2026, 9:51:21 AM  
 **Categories:** -  
 
-Article URL: https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/ Comments URL: https://news.ycombinator.com/item?id=49618943 Points: 2 # Comments: 1
+Article URL: https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html Comments URL: https://news.ycombinator.com/item?id=49623847 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/)
+📖 [Read original article](https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html)
+
+---
+
+## 14. Losing control of AI is the plan
+
+**Author:** DGAP  
+**Published:** 9/9/2026, 9:31:18 AM  
+**Categories:** -  
+
+Article URL: https://www.theargumentmag.com/p/losing-control-of-ai-is-actually Comments URL: https://news.ycombinator.com/item?id=49623699 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.theargumentmag.com/p/losing-control-of-ai-is-actually)
+
+---
+
+## 15. Anthropic aligment lead warns about extinction by AI
+
+**Author:** margorczynski  
+**Published:** 9/9/2026, 9:22:45 AM  
+**Categories:** -  
+
+Article URL: https://twitter.com/EvanHub/status/2097497037956891126 Comments URL: https://news.ycombinator.com/item?id=49623643 Points: 4 # Comments: 2
+
+📖 [Read original article](https://twitter.com/EvanHub/status/2097497037956891126)
+
+---
+
+## 16. PHP is Dead (and AI is to blame)
+
+**Author:** lifeofguenter  
+**Published:** 9/9/2026, 9:14:04 AM  
+**Categories:** -  
+
+Article URL: https://www.lifeofguenter.de/2026/09/php-is-dead-and-ai-is-to-blame Comments URL: https://news.ycombinator.com/item?id=49623567 Points: 2 # Comments: 2
+
+📖 [Read original article](https://www.lifeofguenter.de/2026/09/php-is-dead-and-ai-is-to-blame)
+
+---
+
+## 17. US claims Chinese AI firms are carrying out 'industrial-scale' theft
+
+**Author:** jllyhill  
+**Published:** 9/9/2026, 9:09:28 AM  
+**Categories:** -  
+
+Article URL: https://www.cnn.com/2026/09/08/politics/us-accuses-china-of-stealing-ai-technology Comments URL: https://news.ycombinator.com/item?id=49623533 Points: 6 # Comments: 2
+
+📖 [Read original article](https://www.cnn.com/2026/09/08/politics/us-accuses-china-of-stealing-ai-technology)
+
+---
+
+## 18. How Much of the Internet Is Written with AI?
+
+**Author:** dp-hackernews  
+**Published:** 9/9/2026, 9:07:46 AM  
+**Categories:** -  
+
+Article URL: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49623513 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/)
+
+---
+
+## 19. Law schools tell students to put AI away
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 9/9/2026, 9:03:36 AM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/8ddd3668-5858-45c3-b34f-a6bafc678187 Comments URL: https://news.ycombinator.com/item?id=49623483 Points: 6 # Comments: 0
+
+📖 [Read original article](https://www.ft.com/content/8ddd3668-5858-45c3-b34f-a6bafc678187)
+
+---
+
+## 20. Ryanair ATC disruption update with Synthesia AI representative [video]
+
+**Author:** 50kIters  
+**Published:** 9/9/2026, 8:54:27 AM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/shorts/pIfAvoHtj44 Comments URL: https://news.ycombinator.com/item?id=49623405 Points: 3 # Comments: 2
+
+📖 [Read original article](https://www.youtube.com/shorts/pIfAvoHtj44)
 
 ---
