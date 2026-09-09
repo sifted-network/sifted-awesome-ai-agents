@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-08"
 date: "2026-09-08"
 source: "qbitai"
-count: 4
+count: 3
 ---
 
 # qbitai - 2026-09-08
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Blender也不用学了
 近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。
 
 📖 [Read original article](https://www.qbitai.com/2026/09/485784.html)
-
----
-
-## 4. 深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递
-
-**Author:** 量子位的朋友们  
-**Published:** 9/8/2026, 2:42:24 AM  
-**Categories:** 资讯, WAIC  
-
-从看市场，到见场景；从认识伙伴，到寻找合作。
-
-📖 [Read original article](https://www.qbitai.com/2026/09/485630.html)
 
 ---
