@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. How to Increase Your Website's Visibility in Google's AI-Powered Search Results
+## 1. Anthropic Researcher Quits over 'Out-of-Control' AI Fears
 
-**Author:** Lannx  
-**Published:** 9/9/2026, 10:49:14 AM  
+**Author:** joe_the_user  
+**Published:** 9/9/2026, 4:02:55 PM  
 **Categories:** -  
 
-The website content was updated with the latest information and adopted a format that provides the answer in the very first sentence; however, the number of times the content was mentioned or cited still did not increase. Comments URL: https://news.ycombinator.com/item?id=49624341 Points: 1 # Commen...
+Article URL: https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628 Comments URL: https://news.ycombinator.com/item?id=49628725 Points: 1 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49624341)
+📖 [Read original article](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628)
 
 ---
 
-## 2. Google to invest $15B in AI datacenters and buy nuclear power in Finland
+## 2. Vertebrae: Privacy-First AI Notetaker
 
-**Author:** consumer451  
-**Published:** 9/9/2026, 10:47:53 AM  
+**Author:** qin  
+**Published:** 9/9/2026, 4:00:59 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/ Comments URL: https://news.ycombinator.com/item?id=49624331 Points: 1 # Comments: 0
+Article URL: https://vertebrae.ai/ Comments URL: https://news.ycombinator.com/item?id=49628693 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/)
+📖 [Read original article](https://vertebrae.ai/)
 
 ---
 
-## 3. Rethinking ERP Transformation in the AI Era
+## 3. Amazon is now using generative AI to dub Prime Video with matching lip movements
 
-**Author:** AbsoluteERP  
-**Published:** 9/9/2026, 10:39:50 AM  
+**Author:** bundie  
+**Published:** 9/9/2026, 3:58:43 PM  
 **Categories:** -  
 
-Article URL: https://buymeacoffee.com/absolutesed/rethinking-erp-transformation-ai-era Comments URL: https://news.ycombinator.com/item?id=49624272 Points: 1 # Comments: 1
+Article URL: https://www.neowin.net/news/amazon-prime-video-is-getting-ai-powered-dubbing-that-syncs-actors-lips/ Comments URL: https://news.ycombinator.com/item?id=49628667 Points: 2 # Comments: 0
 
-📖 [Read original article](https://buymeacoffee.com/absolutesed/rethinking-erp-transformation-ai-era)
+📖 [Read original article](https://www.neowin.net/news/amazon-prime-video-is-getting-ai-powered-dubbing-that-syncs-actors-lips/)
 
 ---
 
-## 4. Anthropic researcher believes more than 10% chance AI 'could kill all humans'
+## 4. AI could kill all humans in next decade, warn experts
 
-**Author:** ljf  
-**Published:** 9/9/2026, 10:37:16 AM  
+**Author:** lf88  
+**Published:** 9/9/2026, 3:53:30 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.co.uk/news/articles/ckgwy1k42w4o Comments URL: https://news.ycombinator.com/item?id=49624255 Points: 2 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians Comments URL: https://news.ycombinator.com/item?id=49628580 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.bbc.co.uk/news/articles/ckgwy1k42w4o)
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians)
 
 ---
 
-## 5. Show HN: Check/strip AI watermarks (C2PA) and hidden Unicode from files
+## 5. Better AI code comment detector
 
-**Author:** olasheniola  
-**Published:** 9/9/2026, 10:31:02 AM  
+**Author:** ibobev  
+**Published:** 9/9/2026, 3:45:43 PM  
 **Categories:** -  
 
-Article URL: https://remove-ai-watermark.com/ Comments URL: https://news.ycombinator.com/item?id=49624208 Points: 3 # Comments: 0
+Article URL: https://entropicthoughts.com/better-ai-comment-classifier Comments URL: https://news.ycombinator.com/item?id=49628454 Points: 5 # Comments: 1
 
-📖 [Read original article](https://remove-ai-watermark.com/)
+📖 [Read original article](https://entropicthoughts.com/better-ai-comment-classifier)
 
 ---
 
-## 6. How An AI math breakthrough ignited a controversy
+## 6. AI made me doubt everything about programming by Felienne Hermans [video]
 
-**Author:** pseudolus  
-**Published:** 9/9/2026, 10:25:41 AM  
+**Author:** wazoox  
+**Published:** 9/9/2026, 3:44:15 PM  
 **Categories:** -  
 
-Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 5 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=0-6-f94n_9M Comments URL: https://news.ycombinator.com/item?id=49628434 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+📖 [Read original article](https://www.youtube.com/watch?v=0-6-f94n_9M)
 
 ---
 
-## 7. AI Data Center Map
+## 7. Handmade Network adopts new AI policy
 
-**Author:** krenerd  
-**Published:** 9/9/2026, 10:18:56 AM  
+**Author:** hovsater  
+**Published:** 9/9/2026, 3:38:48 PM  
 **Categories:** -  
 
-Article URL: https://epoch.ai/data/ai-data-centers/map Comments URL: https://news.ycombinator.com/item?id=49624108 Points: 1 # Comments: 0
+Article URL: https://handmade.network/blog/p/9203-september_2026__a_new_ai_policy#30763 Comments URL: https://news.ycombinator.com/item?id=49628343 Points: 2 # Comments: 0
 
-📖 [Read original article](https://epoch.ai/data/ai-data-centers/map)
+📖 [Read original article](https://handmade.network/blog/p/9203-september_2026__a_new_ai_policy#30763)
 
 ---
 
-## 8. China's white-collar experts are training AI to pay the bills
+## 8. New Records Reveal Problems with Medicare's AI Prior Authorization Experiment
 
-**Author:** rdmuser  
-**Published:** 9/9/2026, 10:18:08 AM  
+**Author:** hn_acker  
+**Published:** 9/9/2026, 3:35:26 PM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/china-expert-ai-trainers/ Comments URL: https://news.ycombinator.com/item?id=49624104 Points: 2 # Comments: 0
+Article URL: https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment Comments URL: https://news.ycombinator.com/item?id=49628300 Points: 3 # Comments: 0
 
-📖 [Read original article](https://restofworld.org/2026/china-expert-ai-trainers/)
+📖 [Read original article](https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment)
 
 ---
 
-## 9. We should anthropomorphize AI agents
+## 9. Ask HN: Is there any solution to the AI infestation?
 
-**Author:** swah  
-**Published:** 9/9/2026, 10:09:19 AM  
+**Author:** yathern  
+**Published:** 9/9/2026, 3:32:41 PM  
 **Categories:** -  
 
-Article URL: https://www.seangoedecke.com/why-we-should-anthropomorphize-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49624014 Points: 2 # Comments: 0
+I'm sure I'm not the only one who's noticed, but nearly every post on Hacker News is getting LLM comments now. For anyone who works regularly with LLMs, it's very obvious from the tone alone - and a quick check to previous comments will confirm it. Some have gotten slightly more sophisticated and au...
 
-📖 [Read original article](https://www.seangoedecke.com/why-we-should-anthropomorphize-ai-agents/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49628247)
 
 ---
 
-## 10. Ask HN: Is someone tweaking classic ROM games with AI?
+## 10. Automatically detecting AI text in my browser
 
-**Author:** brunaxLorax  
-**Published:** 9/9/2026, 10:06:28 AM  
+**Author:** gmays  
+**Published:** 9/9/2026, 3:21:21 PM  
 **Categories:** -  
 
-I just gave the original Zelda NES game to Fable 5.1 with instructions in a single prompt to change the world map to something new and it actually worked! It took like 15 minutes, the game is really nice and playable.There is so much potential for tweaking/hacking those classic games and create new ...
+Article URL: https://www.seangoedecke.com/deckard/ Comments URL: https://news.ycombinator.com/item?id=49628055 Points: 3 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49623989)
+📖 [Read original article](https://www.seangoedecke.com/deckard/)
 
 ---
 
-## 11. AI Use Contributes to Global Decline in Student Reading Skills, OECD Says
+## 11. How to pick the right AI model for each task [video]
 
-**Author:** agubelu  
-**Published:** 9/9/2026, 9:58:48 AM  
+**Author:** deepmem  
+**Published:** 9/9/2026, 3:17:44 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/articles/ai-use-contributes-to-global-decline-in-student-reading-skills-oecd-says-2bfd591a Comments URL: https://news.ycombinator.com/item?id=49623912 Points: 2 # Comments: 2
+Article URL: https://www.youtube.com/watch?v=FdbcY41N9fs Comments URL: https://news.ycombinator.com/item?id=49627995 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/articles/ai-use-contributes-to-global-decline-in-student-reading-skills-oecd-says-2bfd591a)
+📖 [Read original article](https://www.youtube.com/watch?v=FdbcY41N9fs)
 
 ---
 
-## 12. Escalating Battle Against AI Deepfakes Mandates Smart Streaming Decisions
+## 12. School Students Who Use AI Get Worse Test Scores, OECD Warns
 
-**Author:** mondainx  
-**Published:** 9/9/2026, 9:53:55 AM  
+**Author:** airstrike  
+**Published:** 9/9/2026, 3:15:48 PM  
 **Categories:** -  
 
-Article URL: https://www.red5.net/blog/escalating-battle-against-ai-deepfakes-mandates-smart-streaming-decisions/ Comments URL: https://news.ycombinator.com/item?id=49623870 Points: 3 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-09-08/school-students-who-use-ai-get-worse-test-scores-oecd-warns Comments URL: https://news.ycombinator.com/item?id=49627962 Points: 5 # Comments: 1
 
-📖 [Read original article](https://www.red5.net/blog/escalating-battle-against-ai-deepfakes-mandates-smart-streaming-decisions/)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-08/school-students-who-use-ai-get-worse-test-scores-oecd-warns)
 
 ---
 
-## 13. Anthropic researcher says AI has more than 10% chance of 'killing all humans'
+## 13. Anthropic researcher says more than 10% chance AI \"could kill all humans\"
 
-**Author:** cramer4next  
-**Published:** 9/9/2026, 9:51:21 AM  
+**Author:** jb1991  
+**Published:** 9/9/2026, 3:10:39 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html Comments URL: https://news.ycombinator.com/item?id=49623847 Points: 5 # Comments: 0
+Article URL: https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/ Comments URL: https://news.ycombinator.com/item?id=49627887 Points: 36 # Comments: 72
 
-📖 [Read original article](https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html)
+📖 [Read original article](https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/)
 
 ---
 
-## 14. Losing control of AI is the plan
+## 14. Show HN: Give your AI agent on-screen guides that show users where to click
 
-**Author:** DGAP  
-**Published:** 9/9/2026, 9:31:18 AM  
+**Author:** pancomplex  
+**Published:** 9/9/2026, 3:09:05 PM  
 **Categories:** -  
 
-Article URL: https://www.theargumentmag.com/p/losing-control-of-ai-is-actually Comments URL: https://news.ycombinator.com/item?id=49623699 Points: 5 # Comments: 0
+Hey HN. I'm Christian, one of the founders of Frigade (YC W23). I've noticed that a lot of in-app AI agents struggle to actually understand the products they exist in.For instance, let's say a user asks an agent how to do something in a given SaaS product. In an ideal case, maybe that agent replies ...
 
-📖 [Read original article](https://www.theargumentmag.com/p/losing-control-of-ai-is-actually)
+📖 [Read original article](https://news.ycombinator.com/item?id=49627872)
 
 ---
 
-## 15. Anthropic aligment lead warns about extinction by AI
+## 15. The Einstein test: what happens when AI tries to rediscover relativity?
 
-**Author:** margorczynski  
-**Published:** 9/9/2026, 9:22:45 AM  
+**Author:** sbulaev  
+**Published:** 9/9/2026, 3:07:08 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/EvanHub/status/2097497037956891126 Comments URL: https://news.ycombinator.com/item?id=49623643 Points: 4 # Comments: 2
+Article URL: https://www.nature.com/articles/d41586-026-02804-x Comments URL: https://news.ycombinator.com/item?id=49627837 Points: 4 # Comments: 0
 
-📖 [Read original article](https://twitter.com/EvanHub/status/2097497037956891126)
+📖 [Read original article](https://www.nature.com/articles/d41586-026-02804-x)
 
 ---
 
-## 16. PHP is Dead (and AI is to blame)
+## 16. Legal AI startup Harvey reaches $15.6B valuation with $550M round
 
-**Author:** lifeofguenter  
-**Published:** 9/9/2026, 9:14:04 AM  
+**Author:** utiiiD  
+**Published:** 9/9/2026, 3:05:50 PM  
 **Categories:** -  
 
-Article URL: https://www.lifeofguenter.de/2026/09/php-is-dead-and-ai-is-to-blame Comments URL: https://news.ycombinator.com/item?id=49623567 Points: 2 # Comments: 2
+Article URL: https://bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round Comments URL: https://news.ycombinator.com/item?id=49627819 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.lifeofguenter.de/2026/09/php-is-dead-and-ai-is-to-blame)
+📖 [Read original article](https://bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round)
 
 ---
 
-## 17. US claims Chinese AI firms are carrying out 'industrial-scale' theft
+## 17. Show HN: Geiger – See every AI agent on your machine and what it can touch
 
-**Author:** jllyhill  
-**Published:** 9/9/2026, 9:09:28 AM  
+**Author:** atomburst  
+**Published:** 9/9/2026, 2:54:49 PM  
 **Categories:** -  
 
-Article URL: https://www.cnn.com/2026/09/08/politics/us-accuses-china-of-stealing-ai-technology Comments URL: https://news.ycombinator.com/item?id=49623533 Points: 6 # Comments: 2
+Article URL: https://github.com/Atomburstofficial/geiger Comments URL: https://news.ycombinator.com/item?id=49627646 Points: 23 # Comments: 13
 
-📖 [Read original article](https://www.cnn.com/2026/09/08/politics/us-accuses-china-of-stealing-ai-technology)
+📖 [Read original article](https://github.com/Atomburstofficial/geiger)
 
 ---
 
-## 18. How Much of the Internet Is Written with AI?
+## 18. US accuses Chinese AI firms of 'malicious' copying of AI technology
 
-**Author:** dp-hackernews  
-**Published:** 9/9/2026, 9:07:46 AM  
+**Author:** tartoran  
+**Published:** 9/9/2026, 2:54:36 PM  
 **Categories:** -  
 
-Article URL: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49623513 Points: 4 # Comments: 0
+Article URL: https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/ Comments URL: https://news.ycombinator.com/item?id=49627641 Points: 5 # Comments: 2
 
-📖 [Read original article](https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/)
+📖 [Read original article](https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/)
 
 ---
 
-## 19. Law schools tell students to put AI away
+## 19. Knowledge vs. wisdom: asking AI \"What mushroom is that?\"
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 9/9/2026, 9:03:36 AM  
+**Author:** stared  
+**Published:** 9/9/2026, 2:50:21 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/8ddd3668-5858-45c3-b34f-a6bafc678187 Comments URL: https://news.ycombinator.com/item?id=49623483 Points: 6 # Comments: 0
+Article URL: https://quesma.com/blog/mushroom-llm-just-ask/ Comments URL: https://news.ycombinator.com/item?id=49627574 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/8ddd3668-5858-45c3-b34f-a6bafc678187)
+📖 [Read original article](https://quesma.com/blog/mushroom-llm-just-ask/)
 
 ---
 
-## 20. Ryanair ATC disruption update with Synthesia AI representative [video]
+## 20. From UX to AX: How AI Agents Change Application Design
 
-**Author:** 50kIters  
-**Published:** 9/9/2026, 8:54:27 AM  
+**Author:** jamessmith789  
+**Published:** 9/9/2026, 2:49:13 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/shorts/pIfAvoHtj44 Comments URL: https://news.ycombinator.com/item?id=49623405 Points: 3 # Comments: 2
+Article URL: https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents Comments URL: https://news.ycombinator.com/item?id=49627553 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/shorts/pIfAvoHtj44)
+📖 [Read original article](https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents)
 
 ---
