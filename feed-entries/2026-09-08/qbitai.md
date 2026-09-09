@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-08"
 date: "2026-09-08"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-09-08
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Blender也不用学了
 从看市场，到见场景；从认识伙伴，到寻找合作。
 
 📖 [Read original article](https://www.qbitai.com/2026/09/485630.html)
-
----
-
-## 5. 王云鹤创业后交出首个模型
-
-**Author:** 衡宇  
-**Published:** 9/8/2026, 2:14:47 AM  
-**Categories:** 资讯, Agent Infra, 基元律动, 大模型, 王云鹤  
-
-把多模型执行经验用到了模型训练
-
-📖 [Read original article](https://www.qbitai.com/2026/09/485555.html)
 
 ---
