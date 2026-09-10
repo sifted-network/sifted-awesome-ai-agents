@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-09"
 date: "2026-09-09"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-09-09
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds
+## 1. Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities
+
+**Author:** Michal Sutter  
+**Published:** 9/9/2026, 10:58:29 PM  
+**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, For Devs, New Releases, Software Engineering, Staff, Tech News, Technology  
+
+Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/)
+
+---
+
+## 2. Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds
 
 **Author:** Michal Sutter  
 **Published:** 9/9/2026, 7:29:13 AM  
@@ -23,7 +35,7 @@ Voice agent teams keep hitting the same wall. The catalog holds 400 voices and t
 
 ---
 
-## 2. Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer
+## 3. Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer
 
 **Author:** Michal Sutter  
 **Published:** 9/9/2026, 4:38:13 AM  
