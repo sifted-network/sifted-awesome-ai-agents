@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The Einstein test: what happens when AI tries to rediscover relativity?
+## 1. AI Agent for Animation
 
-**Author:** bookofjoe  
-**Published:** 9/10/2026, 10:48:57 AM  
+**Author:** jeyzolo  
+**Published:** 9/10/2026, 8:20:54 PM  
 **Categories:** -  
 
-Article URL: https://www.nature.com/articles/d41586-026-02804-x Comments URL: https://news.ycombinator.com/item?id=49641517 Points: 1 # Comments: 0
+Article URL: https://c2anime.com Comments URL: https://news.ycombinator.com/item?id=49649663 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.nature.com/articles/d41586-026-02804-x)
+📖 [Read original article](https://c2anime.com)
 
 ---
 
-## 2. AI isn't going to kill us
+## 2. Google to invest at least €13B in AI infrastructure in Finland
 
-**Author:** romaniitedomum  
-**Published:** 9/10/2026, 10:47:27 AM  
+**Author:** alexgyurov  
+**Published:** 9/10/2026, 8:19:51 PM  
 **Categories:** -  
 
-Article URL: https://thecritic.co.uk/the-1-5-billion-ai-doomsday-cult/ Comments URL: https://news.ycombinator.com/item?id=49641502 Points: 1 # Comments: 0
+Article URL: https://bntnews.bg/news/-gugal-shte-investira-nai-malko-13-mlrd-evro-v-infrastruktura-za-izkustven-intelekt-vav-finlandiya-1411559news.html Comments URL: https://news.ycombinator.com/item?id=49649644 Points: 2 # Comments: 0
 
-📖 [Read original article](https://thecritic.co.uk/the-1-5-billion-ai-doomsday-cult/)
+📖 [Read original article](https://bntnews.bg/news/-gugal-shte-investira-nai-malko-13-mlrd-evro-v-infrastruktura-za-izkustven-intelekt-vav-finlandiya-1411559news.html)
 
 ---
 
-## 3. Caltech mathematicians call for suspension of AI Mathathon
+## 3. The Thrill of Wanting AI to Destroy the World
 
-**Author:** doubledamio  
-**Published:** 9/10/2026, 10:43:07 AM  
+**Author:** Jtsummers  
+**Published:** 9/10/2026, 8:15:27 PM  
 **Categories:** -  
 
-Article URL: https://proofsandprompts.com/2026/09/10/open-letter-about-the-mathathon/ Comments URL: https://news.ycombinator.com/item?id=49641463 Points: 1 # Comments: 0
+Article URL: https://www.theatlantic.com/ideas/2026/09/ai-destroy-world-apocalypse/688575/ Comments URL: https://news.ycombinator.com/item?id=49649606 Points: 3 # Comments: 1
 
-📖 [Read original article](https://proofsandprompts.com/2026/09/10/open-letter-about-the-mathathon/)
+📖 [Read original article](https://www.theatlantic.com/ideas/2026/09/ai-destroy-world-apocalypse/688575/)
 
 ---
 
-## 4. Nvidia and Palantir want to speed up the AI buildout. Nvidia is first in line
+## 4. I developed the first game of my life using AI
 
-**Author:** johnshades  
-**Published:** 9/10/2026, 10:27:49 AM  
+**Author:** alllen  
+**Published:** 9/10/2026, 8:14:10 PM  
 **Categories:** -  
 
-Article URL: https://www.fastcompany.com/91604370/nvidia-palantir-sovereign-ai-supply-chains Comments URL: https://news.ycombinator.com/item?id=49641328 Points: 1 # Comments: 0
+Article URL: https://drive-next.org/?vehicle=xiaomi-su7-ultra Comments URL: https://news.ycombinator.com/item?id=49649592 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.fastcompany.com/91604370/nvidia-palantir-sovereign-ai-supply-chains)
+📖 [Read original article](https://drive-next.org/?vehicle=xiaomi-su7-ultra)
 
 ---
 
-## 5. Show HN: Community curated list of 310 AI providers offering $4.3k free credits
+## 5. Summation: AI Data Analyst
 
-**Author:** opensrcme  
-**Published:** 9/10/2026, 10:00:54 AM  
+**Author:** handfuloflight  
+**Published:** 9/10/2026, 8:13:29 PM  
 **Categories:** -  
 
-Hey people! I have been compiling a directory of AI API providers which provide a combined total of $4.3k in free API credits and I'm super proud of it so far. It serves as a community-curated directory. Everyone can review, upvote and edit API providers to keep the directory honest and accurate. Af...
+Article URL: https://www.summation.com/ Comments URL: https://news.ycombinator.com/item?id=49649584 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.uprouter.online/)
+📖 [Read original article](https://www.summation.com/)
 
 ---
 
-## 6. Ask HN: As a teacher how should I teach kids to use AI?
+## 6. The hinge for Apple's new foldable phone was built with AI
 
-**Author:** samyar  
-**Published:** 9/10/2026, 9:57:31 AM  
+**Author:** elo2000  
+**Published:** 9/10/2026, 8:12:02 PM  
 **Categories:** -  
 
-Hi,An institution asked me to help them in teaching poor kids to use AI and about AI. They are between 7 - 14 years old from poor families in third world country.I think DeepSeek is a good choice as it has very good free credits with strong models.And I will ask each one of them what they like and h...
+Article URL: https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49649565 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49641100)
+📖 [Read original article](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/)
 
 ---
 
-## 7. Laid-Off Developers Create AI Model to Replace CEOs and Other Executives
+## 7. AI Evaluation Is Execution
 
-**Author:** taubek  
-**Published:** 9/10/2026, 9:35:42 AM  
+**Author:** jamesblakes  
+**Published:** 9/10/2026, 7:49:42 PM  
 **Categories:** -  
 
-Article URL: https://uk.pcmag.com/ai/167048/laid-off-developers-create-ai-model-to-replace-ceos-and-other-executives Comments URL: https://news.ycombinator.com/item?id=49640939 Points: 7 # Comments: 2
+Article URL: https://jasondoyle.ie/whitepapers/when-ai-evaluations-act-on-the-real-world/ Comments URL: https://news.ycombinator.com/item?id=49649305 Points: 2 # Comments: 0
 
-📖 [Read original article](https://uk.pcmag.com/ai/167048/laid-off-developers-create-ai-model-to-replace-ceos-and-other-executives)
+📖 [Read original article](https://jasondoyle.ie/whitepapers/when-ai-evaluations-act-on-the-real-world/)
 
 ---
 
-## 8. Monitor AI visibility with n8n in five nodes
+## 8. An AI-Safety Resignation, Read from the Security Chair
 
-**Author:** cabrian  
-**Published:** 9/10/2026, 9:15:51 AM  
+**Author:** speckx  
+**Published:** 9/10/2026, 7:41:13 PM  
 **Categories:** -  
 
-Article URL: https://heeb.ai/blog/monitor-ai-visibility-with-n8n Comments URL: https://news.ycombinator.com/item?id=49640761 Points: 1 # Comments: 0
+Article URL: https://simonroses.com/2026/09/systems-that-can-hack-anything-an-ai-safety-resignation-read-from-the-security-chair/ Comments URL: https://news.ycombinator.com/item?id=49649185 Points: 1 # Comments: 0
 
-📖 [Read original article](https://heeb.ai/blog/monitor-ai-visibility-with-n8n)
+📖 [Read original article](https://simonroses.com/2026/09/systems-that-can-hack-anything-an-ai-safety-resignation-read-from-the-security-chair/)
 
 ---
 
-## 9. Show HN: Stroq – a firewall that knows why your AI agent ran that command
+## 9. Bad actors in China and Russia are weaponizing Anthropic's AI
 
-**Author:** Agybay  
-**Published:** 9/10/2026, 9:05:14 AM  
+**Author:** cwwc  
+**Published:** 9/10/2026, 7:37:29 PM  
 **Categories:** -  
 
-Article URL: https://github.com/AGGIB/Stroq Comments URL: https://news.ycombinator.com/item?id=49640660 Points: 2 # Comments: 1
+Article URL: https://www.politico.com/news/2026/09/10/bad-actors-china-russia-weaponizing-anthropic-01070435 Comments URL: https://news.ycombinator.com/item?id=49649142 Points: 3 # Comments: 2
 
-📖 [Read original article](https://github.com/AGGIB/Stroq)
+📖 [Read original article](https://www.politico.com/news/2026/09/10/bad-actors-china-russia-weaponizing-anthropic-01070435)
 
 ---
 
-## 10. AI-Translation-Stack
+## 10. Universal and ElevenLabs working on AI platform for music remixes and mash-ups
 
-**Author:** antonihabek  
-**Published:** 9/10/2026, 9:01:23 AM  
+**Author:** HelloUsername  
+**Published:** 9/10/2026, 7:14:07 PM  
 **Categories:** -  
 
-Article URL: https://github.com/antonihabek/AI-translation-stack Comments URL: https://news.ycombinator.com/item?id=49640612 Points: 1 # Comments: 0
+Article URL: https://www.universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform/ Comments URL: https://news.ycombinator.com/item?id=49648873 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/antonihabek/AI-translation-stack)
+📖 [Read original article](https://www.universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform/)
 
 ---
 
-## 11. Lawmakers blast AI companies after researcher warns of human extinction by 2030
+## 11. They do think AI might kill everyone
 
-**Author:** chrisjj  
-**Published:** 9/10/2026, 8:33:05 AM  
+**Author:** speckx  
+**Published:** 9/10/2026, 7:09:02 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030 Comments URL: https://news.ycombinator.com/item?id=49640334 Points: 1 # Comments: 0
+Article URL: https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/ Comments URL: https://news.ycombinator.com/item?id=49648797 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030)
+📖 [Read original article](https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/)
 
 ---
 
-## 12. I Was Offered Money to Tell You AI Will Kill Us [video]
+## 12. PISA Founder: AI Is Hollowing Out Youth Skills [video]
 
-**Author:** cmpit  
-**Published:** 9/10/2026, 8:14:07 AM  
+**Author:** devonnull  
+**Published:** 9/10/2026, 7:04:36 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=lPdmYMHrWKg Comments URL: https://news.ycombinator.com/item?id=49640159 Points: 6 # Comments: 1
+Article URL: https://www.euronews.com/my-europe/2026/09/10/youth-losing-critical-skills-and-ai-hollowing-out-capabilities-pisa-founder-says Comments URL: https://news.ycombinator.com/item?id=49648743 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=lPdmYMHrWKg)
+📖 [Read original article](https://www.euronews.com/my-europe/2026/09/10/youth-losing-critical-skills-and-ai-hollowing-out-capabilities-pisa-founder-says)
 
 ---
 
-## 13. Resource for AI Safety and Ethics
+## 13. AI researcher who warned of 'disaster' is now a target of the right
+
+**Author:** reaperducer  
+**Published:** 9/10/2026, 6:33:16 PM  
+**Categories:** -  
+
+Article URL: https://www.washingtonpost.com/technology/2026/09/10/ai-researcher-who-warned-disaster-is-now-target-right/ Comments URL: https://news.ycombinator.com/item?id=49648329 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.washingtonpost.com/technology/2026/09/10/ai-researcher-who-warned-disaster-is-now-target-right/)
+
+---
+
+## 14. Show HN: I built Founder.best and its products now show up in AI recommendations
+
+**Author:** NimeshikaP  
+**Published:** 9/10/2026, 6:31:54 PM  
+**Categories:** -  
+
+Article URL: https://www.founder.best Comments URL: https://news.ycombinator.com/item?id=49648304 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.founder.best)
+
+---
+
+## 15. Chinese AI Giants Accused of Sending User Queries to U.S. Models
 
 **Author:** doener  
-**Published:** 9/10/2026, 8:12:18 AM  
+**Published:** 9/10/2026, 6:17:38 PM  
 **Categories:** -  
 
-Article URL: https://library.iaseai.org/ Comments URL: https://news.ycombinator.com/item?id=49640143 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/tech/ai/chinese-ai-giants-accused-of-sending-millions-of-user-queries-to-u-s-models-768c9d26 Comments URL: https://news.ycombinator.com/item?id=49648096 Points: 3 # Comments: 0
 
-📖 [Read original article](https://library.iaseai.org/)
+📖 [Read original article](https://www.wsj.com/tech/ai/chinese-ai-giants-accused-of-sending-millions-of-user-queries-to-u-s-models-768c9d26)
 
 ---
 
-## 14. In this era of AI, it is important to remember what it is like to be a child
+## 16. The Worst Are Full of Passionate Intensity: An Anthropology of AI Safety
 
-**Author:** o4c  
-**Published:** 9/10/2026, 7:33:30 AM  
+**Author:** MrBuddyCasino  
+**Published:** 9/10/2026, 6:17:07 PM  
 **Categories:** -  
 
-Article URL: https://mathstodon.xyz/@tao/117244104044239500 Comments URL: https://news.ycombinator.com/item?id=49639782 Points: 3 # Comments: 0
+Article URL: https://twitter.com/brianchau57/status/2098035812365463637 Comments URL: https://news.ycombinator.com/item?id=49648088 Points: 2 # Comments: 0
 
-📖 [Read original article](https://mathstodon.xyz/@tao/117244104044239500)
+📖 [Read original article](https://twitter.com/brianchau57/status/2098035812365463637)
 
 ---
 
-## 15. Anthropic Researcher Quits over 'Out-of-Control' AI Fears
+## 17. The AI policy window is open. We need to act
 
-**Author:** ramon156  
-**Published:** 9/10/2026, 7:25:20 AM  
+**Author:** tosh  
+**Published:** 9/10/2026, 6:15:27 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628 Comments URL: https://news.ycombinator.com/item?id=49639694 Points: 3 # Comments: 0
+Article URL: https://openai.com/index/ai-policy-window/ Comments URL: https://news.ycombinator.com/item?id=49648064 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628)
+📖 [Read original article](https://openai.com/index/ai-policy-window/)
 
 ---
 
-## 16. Nvidia Personal-AI-Router
+## 18. A somewhat optimistic view of AI in mathematics
 
-**Author:** BerislavLopac  
-**Published:** 9/10/2026, 7:23:31 AM  
+**Author:** bearseascape  
+**Published:** 9/10/2026, 6:13:12 PM  
 **Categories:** -  
 
-Article URL: https://github.com/NVIDIA/Personal-AI-Router Comments URL: https://news.ycombinator.com/item?id=49639672 Points: 2 # Comments: 0
+Article URL: https://proofsandprompts.com/2026/09/10/a-somewhat-optimistic-view-of-ai-in-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49648038 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/NVIDIA/Personal-AI-Router)
+📖 [Read original article](https://proofsandprompts.com/2026/09/10/a-somewhat-optimistic-view-of-ai-in-mathematics/)
 
 ---
 
-## 17. Ex-Anthropic researcher Jacob Coxon says AI development poses risk to humans
+## 19. Musk Mocks Ex-Anthropic Researcher's AI Extinction Warning, Calls It a 'Setup'
 
-**Author:** olalonde  
-**Published:** 9/10/2026, 7:20:44 AM  
+**Author:** adletbalzhanov  
+**Published:** 9/10/2026, 6:11:02 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/anthropic-ai-safety-jacob-coxon-2ed549e07f2f941600a135070487d83d Comments URL: https://news.ycombinator.com/item?id=49639645 Points: 1 # Comments: 0
+Article URL: https://www.analyticsinsight.net/news/musk-mocks-ex-anthropic-researchers-ai-extinction-warning-calls-it-a-setup Comments URL: https://news.ycombinator.com/item?id=49648008 Points: 2 # Comments: 0
 
-📖 [Read original article](https://apnews.com/article/anthropic-ai-safety-jacob-coxon-2ed549e07f2f941600a135070487d83d)
+📖 [Read original article](https://www.analyticsinsight.net/news/musk-mocks-ex-anthropic-researchers-ai-extinction-warning-calls-it-a-setup)
 
 ---
 
-## 18. Show HN: Botbin.io – pastebin for AI agent artifacts
+## 20. Hot take: AI peaked with Taco Bot 3000
 
-**Author:** obilgic  
-**Published:** 9/10/2026, 7:00:22 AM  
+**Author:** speckx  
+**Published:** 9/10/2026, 6:09:47 PM  
 **Categories:** -  
 
-Article URL: https://botbin.io/?v=next Comments URL: https://news.ycombinator.com/item?id=49639496 Points: 4 # Comments: 1
+Article URL: https://danq.me/2026/09/09/tacobot-peak-ai/ Comments URL: https://news.ycombinator.com/item?id=49647993 Points: 1 # Comments: 1
 
-📖 [Read original article](https://botbin.io/?v=next)
-
----
-
-## 19. Tao: Reject the irresponsible and unsustainable usages of AI technology
-
-**Author:** pred_  
-**Published:** 9/10/2026, 6:53:50 AM  
-**Categories:** -  
-
-Article URL: https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/comment-page-1/#comments Comments URL: https://news.ycombinator.com/item?id=49639438 Points: 3 # Comments: 0
-
-📖 [Read original article](https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/comment-page-1/#comments)
-
----
-
-## 20. AI cost dashboard is probably wrong – 45 verified token-accounting bugs
-
-**Author:** tongroy  
-**Published:** 9/10/2026, 6:30:56 AM  
-**Categories:** -  
-
-Article URL: https://github.com/roy-tong/AgentMeasure/blob/main/campaigns/audit-report-2026-09.md Comments URL: https://news.ycombinator.com/item?id=49639249 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/roy-tong/AgentMeasure/blob/main/campaigns/audit-report-2026-09.md)
+📖 [Read original article](https://danq.me/2026/09/09/tacobot-peak-ai/)
 
 ---
