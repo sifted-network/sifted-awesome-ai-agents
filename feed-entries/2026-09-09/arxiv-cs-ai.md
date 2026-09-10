@@ -301,11 +301,11 @@ arXiv:2609.05721v1 Announce Type: new Abstract: Understanding whether language-m
 
 ## 25. Beyond Prompts: Measuring and Optimizing LLM Tool-Agent Harnesses
 
-**Author:** Cen (Mia), Zhao, Haibo Ruan, Wenjie Chen, Pei-fen Tu, Usman Abbasi, Joel Hesch  
+**Author:** Cen Mia Zhao, Haibo Ruan, Wenjie Chen, Pei-fen Tu, Usman Abbasi, Joel Hesch  
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.05736v1 Announce Type: new Abstract: LLM tool agents can be improved without retraining by modifying the runtime harness around a fixed model: prompts, tool interfaces, middleware, state handling, and recovery logic. We study this setting as resource-bounded harness selection for fixed-mo...
+arXiv:2609.05736v2 Announce Type: new Abstract: LLM tool agents can be improved without retraining by modifying the runtime harness around a fixed model: prompts, tool interfaces, middleware, state handling, and recovery logic. We study this setting as resource-bounded harness selection for fixed-mo...
 
 📖 [Read original article](https://arxiv.org/abs/2609.05736)
 
@@ -325,11 +325,11 @@ arXiv:2609.05749v1 Announce Type: new Abstract: Work on the risks of artificial 
 
 ## 27. From Monolithic Blending to Agentic Orchestration: Dynamic Response for Conversational Assistants at Scale
 
-**Author:** Cen (Mia), Zhao, Peng Wang, Chuan Shi, Yufeng Zhang, Ying Lyu, Wanmeng Ren, Robert Xue, Claire Na Cheng, Yashar Mehdad  
+**Author:** Cen Mia Zhao, Peng Wang, Chuan Shi, Yufeng Zhang, Ying Lyu, Wanmeng Ren, Robert Xue, Claire Na Cheng, Yashar Mehdad  
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.05758v1 Announce Type: new Abstract: Conversational assistants can blend retrieval, action selection, escalation, and wording in a single model path, or separate those roles. We report a production migration of a customer-support assistant at a large accommodation marketplace (millions of...
+arXiv:2609.05758v2 Announce Type: new Abstract: Conversational assistants can blend retrieval, action selection, escalation, and wording in a single model path, or separate those roles. We report a production migration of a customer-support assistant at a large accommodation marketplace (millions of...
 
 📖 [Read original article](https://arxiv.org/abs/2609.05758)
 
@@ -1169,7 +1169,7 @@ arXiv:2609.07313v1 Announce Type: new Abstract: Segmentation of complex structur
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.07316v1 Announce Type: new Abstract: Due to the proliferation of vehicle trajectory data enabled by advanced sensing technologies, path representation learning has become a pivotal task in intelligent transportation systems. Although existing self-supervised approaches have achieved promi...
+arXiv:2609.07316v2 Announce Type: new Abstract: Due to the proliferation of vehicle trajectory data enabled by advanced sensing technologies, path representation learning has become a pivotal task in intelligent transportation systems. Although existing self-supervised approaches have achieved promi...
 
 📖 [Read original article](https://arxiv.org/abs/2609.07316)
 
@@ -1493,7 +1493,7 @@ arXiv:2609.07910v1 Announce Type: new Abstract: Multi-agent federations need gov
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.07925v1 Announce Type: new Abstract: We present FrogNano, a 4B coding agent designed to tackle software engineering (SWE) tasks efficiently and effectively, even under resource-constrained environments. It is post-trained exclusively via RL on around 1,500 SWE environments with synthetic ...
+arXiv:2609.07925v2 Announce Type: new Abstract: We present FrogNano, a 4B coding agent designed to tackle software engineering (SWE) tasks efficiently and effectively, even under resource-constrained environments. It is post-trained exclusively via RL on around 1,500 SWE environments with synthetic ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.07925)
 
@@ -1661,7 +1661,7 @@ arXiv:2609.08082v1 Announce Type: new Abstract: Preference-based fine-tuning met
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CV  
 
-arXiv:2609.08090v1 Announce Type: new Abstract: Assistive devices for people with mobility impairments, such as powered exoskeletons, rely on accurate locomotion mode recognition to adapt control strategies and provide appropriate assistance during daily activities. However, public benchmarks are ty...
+arXiv:2609.08090v2 Announce Type: new Abstract: Assistive devices for people with mobility impairments, such as powered exoskeletons, rely on accurate locomotion mode recognition to adapt control strategies and provide appropriate assistance during daily activities. However, public benchmarks are ty...
 
 📖 [Read original article](https://arxiv.org/abs/2609.08090)
 
@@ -1779,7 +1779,7 @@ arXiv:2609.08175v1 Announce Type: new Abstract: Harness self-evolution is the pr
 
 **Author:** Minghang Liu, Qiang Qiu, Yuanzhuo Wang, Huawei Shen, Xueqi Cheng  
 **Published:** 9/9/2026, 4:00:00 AM  
-**Categories:** cs.AI  
+**Categories:** cs.AI, cs.CL  
 
 arXiv:2609.08180v1 Announce Type: new Abstract: Retrieval-augmented personalization enables large language models to produce more accurate and preference-aligned outputs using relevant records retrieved from user histories. Personalized language models typically prepend a fixed number of retrieved u...
 
@@ -2033,7 +2033,7 @@ arXiv:2609.08418v1 Announce Type: new Abstract: Training capable cyber agents is
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.SE  
 
-arXiv:2609.08435v1 Announce Type: new Abstract: In persistent interactions, long contexts may encode an evolving process rather than a fixed record: later events can revise or revoke earlier information, changing what remains valid and what conclusions follow. We call this setting information evolut...
+arXiv:2609.08435v2 Announce Type: new Abstract: In persistent interactions, long contexts may encode an evolving process rather than a fixed record: later events can revise or revoke earlier information, changing what remains valid and what conclusions follow. We call this setting information evolut...
 
 📖 [Read original article](https://arxiv.org/abs/2609.08435)
 
@@ -3245,7 +3245,7 @@ arXiv:2609.06100v1 Announce Type: cross Abstract: Verifiable outcome rewards gui
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.NE, cs.AI, cs.FL, cs.LG  
 
-arXiv:2609.06102v1 Announce Type: cross Abstract: Cellular automata is a local computation paradigm where complex behavior can arise from local interactions between simple functions. This paradigm has been used to explain many systems such as biological processes, traffic simulation, computer networ...
+arXiv:2609.06102v2 Announce Type: cross Abstract: Cellular automata is a local computation paradigm where complex behavior can arise from local interactions between simple functions. This paradigm has been used to explain many systems such as biological processes, traffic simulation, computer networ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.06102)
 
@@ -3725,7 +3725,7 @@ arXiv:2609.06636v1 Announce Type: cross Abstract: Fine-grained mobile traffic de
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2609.06646v1 Announce Type: cross Abstract: Annotators routinely disagree on laughter boundaries and subtle chuckles, yet temporal laughter localization typically evaluates against a single reference annotation. We show that this disagreement is structured rather than random noise. Re-annotati...
+arXiv:2609.06646v2 Announce Type: cross Abstract: Annotators routinely disagree on laughter boundaries and subtle chuckles, yet temporal laughter localization typically evaluates against a single reference annotation. We show that this disagreement is structured rather than random noise. Re-annotati...
 
 📖 [Read original article](https://arxiv.org/abs/2609.06646)
 
@@ -5045,7 +5045,7 @@ arXiv:2609.07663v1 Announce Type: cross Abstract: A wrong number is worse than n
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.07664v1 Announce Type: cross Abstract: Deployment of Large Language Models (LLMs) on memory-constrained edge devices relies heavily on aggressive post-training quantization. However, evaluating these models is largely based on zero-shot task accuracy, which depends solely on argmax predic...
+arXiv:2609.07664v2 Announce Type: cross Abstract: Deployment of Large Language Models (LLMs) on memory-constrained edge devices relies heavily on aggressive post-training quantization. However, evaluating these models is largely based on zero-shot task accuracy, which depends solely on argmax predic...
 
 📖 [Read original article](https://arxiv.org/abs/2609.07664)
 
@@ -5093,7 +5093,7 @@ arXiv:2609.07675v1 Announce Type: cross Abstract: Transaction-local controls ans
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2609.07699v1 Announce Type: cross Abstract: Curating Web corpora for regional language variants like European Portuguese (PT-PT) is heavily bottlenecked by dialectal overlap (mainly with PT-BR) and data processing scale. This paper presents an efficient pipeline to curate a production-ready PT...
+arXiv:2609.07699v2 Announce Type: cross Abstract: Curating Web corpora for regional language variants like European Portuguese (PT-PT) is heavily bottlenecked by dialectal overlap (mainly with PT-BR) and data processing scale. This paper presents an efficient pipeline to curate a production-ready PT...
 
 📖 [Read original article](https://arxiv.org/abs/2609.07699)
 
@@ -5321,7 +5321,7 @@ arXiv:2609.07990v1 Announce Type: cross Abstract: Sequential reinforcement learn
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2609.08038v1 Announce Type: cross Abstract: Smart healthcare monitoring systems require precise action recognition to ensure well-being and timely intervention in critical situations such as falls, particularly for mobility-challenged individuals. Existing datasets are often clip-based, lackin...
+arXiv:2609.08038v2 Announce Type: cross Abstract: Smart healthcare monitoring systems require precise action recognition to ensure well-being and timely intervention in critical situations such as falls, particularly for mobility-challenged individuals. Existing datasets are often clip-based, lackin...
 
 📖 [Read original article](https://arxiv.org/abs/2609.08038)
 
@@ -5977,11 +5977,11 @@ arXiv:2609.08790v1 Announce Type: cross Abstract: Threat hunting increasingly de
 
 ## 498. Hi-FLoop: Hierarchical State-Feedback Loops for Multi-Timescale World Modeling
 
-**Author:** Rx Fan, Zhan H  
+**Author:** Rx Fan, Z Han  
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2609.08796v1 Announce Type: cross Abstract: Multi-agent traffic simulation seeks diverse, coordinated, and physically realistic futures from maps and observed history. Long-horizon closed-loop generation must reconcile multiple decision time scales while its context evolves with generated stat...
+arXiv:2609.08796v2 Announce Type: cross Abstract: Multi-agent traffic simulation seeks diverse, coordinated, and physically realistic futures from maps and observed history. Long-horizon closed-loop generation must reconcile multiple decision time scales while its context evolves with generated stat...
 
 📖 [Read original article](https://arxiv.org/abs/2609.08796)
 
@@ -6049,11 +6049,11 @@ arXiv:2609.08970v1 Announce Type: cross Abstract: Industrial fraud detection oft
 
 ## 504. Omni Interaction Agent Technical Report
 
-**Author:** Orantqing, Shengpeng Ji, Junlong Tong, Jialong Zuo, Dongjie Fu, Di Cao, Yangzhuo Li, Shangda Wu, Franz, Evan, Theron Veyra, Changhao Pan, Jingyu Lu, Dongchao Yang, Zhifei Xie, Yang Tan, Xiaoyu Shen, Xiaoda Yang, Wenfu Wang, Teddysun, Steveyves, Zhou Zhao, Bryanytian  
+**Author:** Orantqing, Shengpeng Ji, Junlong Tong, Jialong Zuo, Dongjie Fu, Di Cao, Yangzhuo Li, Shangda Wu, Franz, Evan, Theron Veyra, Changhao Pan, Jingyu Lu, Dongchao Yang, Zhifei Xie, Yang Tan, Xiaoyu Shen, Xiaoda Yang, Wenfu Wang, Teddy Sun, Steve Yves, Zhou Zhao  
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** eess.AS, cs.AI, cs.LG, cs.MM, cs.SD  
 
-arXiv:2609.08977v1 Announce Type: cross Abstract: In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional paradigms, Gander continuously receives streaming inpu...
+arXiv:2609.08977v2 Announce Type: cross Abstract: In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional paradigms, Gander continuously receives streaming inpu...
 
 📖 [Read original article](https://arxiv.org/abs/2609.08977)
 
@@ -6557,7 +6557,7 @@ arXiv:2604.10506v2 Announce Type: replace Abstract: Vision-Language Models (VLMs
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2604.25512v2 Announce Type: replace Abstract: In phishing detection, machine learning classifiers act as a first line of defense, but the false positives they produce are triaged by human analysts. The excessive false alarms cause alert fatigue that erodes human oversight. We propose CoGReV, a...
+arXiv:2604.25512v3 Announce Type: replace Abstract: In phishing detection, machine learning classifiers act as a first line of defense, but the false positives they produce are triaged by human analysts. The excessive false alarms cause alert fatigue that erodes human oversight. We propose CoGReV, a...
 
 📖 [Read original article](https://arxiv.org/abs/2604.25512)
 
@@ -6941,7 +6941,7 @@ arXiv:2608.15536v2 Announce Type: replace Abstract: In value-based argumentation
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2608.15877v2 Announce Type: replace Abstract: Search and recommendation serve a shared discovery objective but encode intent differently. We study this boundary through Dear Algo on Threads, a deployed product where open-ended requests such as \emph{more NBA news} or \emph{less politics} steer...
+arXiv:2608.15877v3 Announce Type: replace Abstract: Search and recommendation serve a shared discovery objective but encode intent differently. We study this boundary through Dear Algo on Threads, a deployed product where open-ended requests such as \emph{more NBA news} or \emph{less politics} steer...
 
 📖 [Read original article](https://arxiv.org/abs/2608.15877)
 
@@ -9701,7 +9701,7 @@ arXiv:2608.15156v4 Announce Type: replace-cross Abstract: We ask whether a small
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI  
 
-arXiv:2608.15475v2 Announce Type: replace-cross Abstract: Quantized Vision-Language-Action (VLA) models expose a weight-fault surface: Rowhammer-style faults can corrupt deployed INT8 bits. We present the first bit-flip attack on a VLA: a few gradient-selected flips reduce closed-loop success to $0\...
+arXiv:2608.15475v3 Announce Type: replace-cross Abstract: Quantized Vision-Language-Action (VLA) models expose a weight-fault surface: Rowhammer-style faults can corrupt deployed INT8 bits. We present the first bit-flip attack on a VLA: a few gradient-selected flips reduce closed-loop success to $0\...
 
 📖 [Read original article](https://arxiv.org/abs/2608.15475)
 
