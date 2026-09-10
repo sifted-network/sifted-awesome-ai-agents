@@ -809,7 +809,7 @@ arXiv:2609.06386v1 Announce Type: new Abstract: Group-based reinforcement learni
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.06396v1 Announce Type: new Abstract: Recursive self-improvement (RSI) lets a system improve the model-building machinery from its own failures, so every later model inherits the gain. Yet RSI has been validated almost exclusively on coding and formal benchmarks such as science QA and math...
+arXiv:2609.06396v2 Announce Type: new Abstract: Recursive self-improvement (RSI) lets a system improve the model-building machinery from its own failures, so every later model inherits the gain. Yet RSI has been validated almost exclusively on coding and formal benchmarks such as science QA and math...
 
 📖 [Read original article](https://arxiv.org/abs/2609.06396)
 
@@ -1913,7 +1913,7 @@ arXiv:2609.07655v1 Announce Type: new Abstract: Closed-loop AI scientists can ge
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.07664v1 Announce Type: new Abstract: Deployment of Large Language Models (LLMs) on memory-constrained edge devices relies heavily on aggressive post-training quantization. However, evaluating these models is largely based on zero-shot task accuracy, which depends solely on argmax predicti...
+arXiv:2609.07664v2 Announce Type: new Abstract: Deployment of Large Language Models (LLMs) on memory-constrained edge devices relies heavily on aggressive post-training quantization. However, evaluating these models is largely based on zero-shot task accuracy, which depends solely on argmax predicti...
 
 📖 [Read original article](https://arxiv.org/abs/2609.07664)
 
@@ -3317,7 +3317,7 @@ arXiv:2609.05661v1 Announce Type: cross Abstract: We present Srijika, a system f
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** quant-ph, cs.LG  
 
-arXiv:2609.05702v1 Announce Type: cross Abstract: Quantum Machine Learning (QML) has shown rapid advances by utilizing quantum computing for machine learning tasks. Meanwhile, the privacy risks accompanying QML is also starting to be studied, which inherit privacy leakage channels from "classical" M...
+arXiv:2609.05702v2 Announce Type: cross Abstract: Quantum Machine Learning (QML) has shown rapid advances by utilizing quantum computing for machine learning tasks. Meanwhile, the privacy risks accompanying QML is also starting to be studied, which inherit privacy leakage channels from "classical" M...
 
 📖 [Read original article](https://arxiv.org/abs/2609.05702)
 
@@ -3593,7 +3593,7 @@ arXiv:2609.06098v1 Announce Type: cross Abstract: Count-valued variables arise i
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.NE, cs.AI, cs.FL, cs.LG  
 
-arXiv:2609.06102v1 Announce Type: cross Abstract: Cellular automata is a local computation paradigm where complex behavior can arise from local interactions between simple functions. This paradigm has been used to explain many systems such as biological processes, traffic simulation, computer networ...
+arXiv:2609.06102v2 Announce Type: cross Abstract: Cellular automata is a local computation paradigm where complex behavior can arise from local interactions between simple functions. This paradigm has been used to explain many systems such as biological processes, traffic simulation, computer networ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.06102)
 
@@ -3821,7 +3821,7 @@ arXiv:2609.06437v1 Announce Type: cross Abstract: Diffusion-weighted imaging (DW
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.LG  
 
-arXiv:2609.06444v1 Announce Type: cross Abstract: An LLM judge evaluates outputs at scale. Experts should label only where it is least sure. Its natural escalation signal conflates two uncertainties: aleatoric, real disagreement in the expert pool, which labels cannot reduce, and epistemic, the judg...
+arXiv:2609.06444v2 Announce Type: cross Abstract: An LLM judge evaluates outputs at scale. Experts should label only where it is least sure. Its natural escalation signal conflates two uncertainties: aleatoric, real disagreement in the expert pool, which labels cannot reduce, and epistemic, the judg...
 
 📖 [Read original article](https://arxiv.org/abs/2609.06444)
 
@@ -4337,7 +4337,7 @@ arXiv:2609.07409v1 Announce Type: cross Abstract: Recent multimodal Speech Emoti
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2609.07410v1 Announce Type: cross Abstract: Deformability cytometry (DC) is a type of imaging flow cytometry, which uses a camera-equipped device to measure cellular stiffness in addition to other cellular properties at high throughput. Cellular properties such as area and elongation can ident...
+arXiv:2609.07410v2 Announce Type: cross Abstract: Deformability cytometry (DC) is a type of imaging flow cytometry, which uses a camera-equipped device to measure cellular stiffness in addition to other cellular properties at high throughput. Cellular properties such as area and elongation can ident...
 
 📖 [Read original article](https://arxiv.org/abs/2609.07410)
 
@@ -4937,7 +4937,7 @@ arXiv:2609.08234v1 Announce Type: cross Abstract: Suppose we are given an ordere
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.CL, cs.LG  
 
-arXiv:2609.08306v1 Announce Type: cross Abstract: We introduce HoneyRoute, an inference-serving layer that detects whether an incoming request is malicious and, if so, routes it to a dedicated honeypot model, shielding production while the adversary's interaction is continuously harvested for intell...
+arXiv:2609.08306v2 Announce Type: cross Abstract: We introduce HoneyRoute, an inference-serving layer that detects whether an incoming request is malicious and, if so, routes it to a dedicated honeypot model, shielding production while the adversary's interaction is continuously harvested for intell...
 
 📖 [Read original article](https://arxiv.org/abs/2609.08306)
 
@@ -5281,11 +5281,11 @@ arXiv:2609.08961v1 Announce Type: cross Abstract: For a finite set $O$ of Boolea
 
 ## 440. Omni Interaction Agent Technical Report
 
-**Author:** Orantqing, Shengpeng Ji, Junlong Tong, Jialong Zuo, Dongjie Fu, Di Cao, Yangzhuo Li, Shangda Wu, Franz, Evan, Theron Veyra, Changhao Pan, Jingyu Lu, Dongchao Yang, Zhifei Xie, Yang Tan, Xiaoyu Shen, Xiaoda Yang, Wenfu Wang, Teddysun, Steveyves, Zhou Zhao, Bryanytian  
+**Author:** Orantqing, Shengpeng Ji, Junlong Tong, Jialong Zuo, Dongjie Fu, Di Cao, Yangzhuo Li, Shangda Wu, Franz, Evan, Theron Veyra, Changhao Pan, Jingyu Lu, Dongchao Yang, Zhifei Xie, Yang Tan, Xiaoyu Shen, Xiaoda Yang, Wenfu Wang, Teddy Sun, Steve Yves, Zhou Zhao  
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** eess.AS, cs.AI, cs.LG, cs.MM, cs.SD  
 
-arXiv:2609.08977v1 Announce Type: cross Abstract: In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional paradigms, Gander continuously receives streaming inpu...
+arXiv:2609.08977v2 Announce Type: cross Abstract: In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional paradigms, Gander continuously receives streaming inpu...
 
 📖 [Read original article](https://arxiv.org/abs/2609.08977)
 
@@ -6581,7 +6581,7 @@ arXiv:2605.08982v3 Announce Type: replace Abstract: Monte Carlo Tree Search (MCT
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.SE  
 
-arXiv:2605.09730v4 Announce Type: replace Abstract: Iterative self-refinement is a popular inference-time reliability technique, but its effectiveness in code-mode tool use depends heavily on the structure of the feedback signal: unstructured critique helps inconsistently across models, and even rev...
+arXiv:2605.09730v5 Announce Type: replace Abstract: Iterative self-refinement is a popular inference-time reliability technique, but its effectiveness in code-mode tool use depends heavily on the structure of the feedback signal: unstructured critique helps inconsistently across models, and even rev...
 
 📖 [Read original article](https://arxiv.org/abs/2605.09730)
 
@@ -7049,7 +7049,7 @@ arXiv:2607.16769v2 Announce Type: replace Abstract: Graph Neural Networks (GNNs)
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2607.20890v2 Announce Type: replace Abstract: On-device federated learning (FL) enables privacy-preserving and personalized model training on resource-constrained devices such as smartphones and IoT nodes. To reduce communication cost, sign-based methods (e.g., signSGD) transmit one-bit gradie...
+arXiv:2607.20890v3 Announce Type: replace Abstract: On-device federated learning (FL) enables privacy-preserving and personalized model training on resource-constrained devices such as smartphones and IoT nodes. To reduce communication cost, sign-based methods (e.g., signSGD) transmit one-bit gradie...
 
 📖 [Read original article](https://arxiv.org/abs/2607.20890)
 
@@ -8427,7 +8427,7 @@ arXiv:2604.22391v2 Announce Type: replace-cross Abstract: The Super Learner (SL)
 
 **Author:** Jaehong Moon  
 **Published:** 9/9/2026, 4:00:00 AM  
-**Categories:** math.NA, cs.LG, cs.NA, math.OC  
+**Categories:** math.NA, cs.LG, cs.NA, math.DS, math.OC  
 
 arXiv:2604.26993v3 Announce Type: replace-cross Abstract: We develop a state-dependent Lyapunov framework for gradient descent on rank-1 matrix factorization. A parameterized quadratic certificate $I(\delta;\,\cdot)$ generates strictly nested sublevel sets. Their ordering assigns each point a state ...
 
@@ -9149,7 +9149,7 @@ arXiv:2608.25410v2 Announce Type: replace-cross Abstract: Token communications r
 **Published:** 9/9/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.LG  
 
-arXiv:2608.25757v3 Announce Type: replace-cross Abstract: Large-scale vision--language--action (VLA) policies have advanced generalist robot control, yet most remain stimulus-to-action black boxes: actions are exposed, but their explanatory state is not. They provide no native account of three expla...
+arXiv:2608.25757v4 Announce Type: replace-cross Abstract: Large-scale vision--language--action (VLA) policies have advanced generalist robot control, yet most remain stimulus-to-action black boxes: actions are exposed, but their explanatory state is not. They provide no native account of three expla...
 
 📖 [Read original article](https://arxiv.org/abs/2608.25757)
 
