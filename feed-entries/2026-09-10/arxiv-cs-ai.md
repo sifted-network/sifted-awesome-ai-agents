@@ -533,7 +533,7 @@ arXiv:2609.10177v1 Announce Type: new Abstract: In-context learning (ICL) is wid
 **Published:** 9/10/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.10221v1 Announce Type: new Abstract: Reinforcement learning over a frozen reasoner has become a common recipe for teaching a policy which external tools to invoke. We show that this recipe becomes structurally mismatched in specialist scientific settings where the complete tool-subset spa...
+arXiv:2609.10221v2 Announce Type: new Abstract: Reinforcement learning over a frozen reasoner has become a common recipe for teaching a policy which external tools to invoke. We show that this recipe becomes structurally mismatched in specialist scientific settings where the complete tool-subset spa...
 
 📖 [Read original article](https://arxiv.org/abs/2609.10221)
 
@@ -937,11 +937,11 @@ arXiv:2609.09409v1 Announce Type: cross Abstract: Near-field localization is a p
 
 ## 78. Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements
 
-**Author:** Oliver G. B. Garrod, Robin A. A. Ince, Meng Liu, Mohamed Huti, Moritz Boos, Amy Waldock, Dominic Andrews, Paul Atherton  
+**Author:** Oliver G. B. Garrod, Robin A. A. Ince, Meng Liu, Mohamed Huti, Moritz Boos, Amy Waldock, Dominic Andrews, Romana Alonso-Kropil, Paul Atherton  
 **Published:** 9/10/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2609.09425v1 Announce Type: cross Abstract: Educational data filters have become a practical way to improve language-model pre-training, but most filters treat educational value as a single scalar property. This may be too broad for some applications, especially if the data set already feature...
+arXiv:2609.09425v2 Announce Type: cross Abstract: Educational data filters have become a practical way to improve language-model pre-training, but most filters treat educational value as a single scalar property. This may be too broad for some applications, especially if the data set already feature...
 
 📖 [Read original article](https://arxiv.org/abs/2609.09425)
 
@@ -1105,11 +1105,11 @@ arXiv:2609.09595v1 Announce Type: cross Abstract: Teacher-student systems, in wh
 
 ## 92. Compact Visuotactile World Models for Lifting: Prediction, Reward Alignment, and Force Constraints
 
-**Author:** Qinzhen Ma (Rice University), Sida Peng (Zhejiang University)  
+**Author:** Qinzhen Ma (Rice University)  
 **Published:** 9/10/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2609.09597v1 Announce Type: cross Abstract: Accurate contact prediction is useful for robotic manipulation only if it supports effective decisions. We investigate this connection using a compact, randomly initialized visuotactile world model, trajectory-level uncertainty calibration, and behav...
+arXiv:2609.09597v2 Announce Type: cross Abstract: Accurate tactile forecasts need not improve force-constrained control. We study a 652,157-parameter action-conditioned visuotactile world model with matched behavior cloning, policy learning in imagination, independent reactive implicit Q-learning, a...
 
 📖 [Read original article](https://arxiv.org/abs/2609.09597)
 
@@ -1717,11 +1717,11 @@ arXiv:2609.10364v1 Announce Type: cross Abstract: Simultaneous assessment of med
 
 ## 143. PACE: Perceived-Latency-Aware Cascading Service Routing and Filler Control for QoE-Efficient Retrieval-Augmented Dialogue Serving
 
-**Author:** Lin Huang, Yujuan Tan, Weisheng Li, Lixiang Zeng, Kun Yang, Suihan Xiao  
+**Author:** Lin Huang, Yujuan Tan, Weisheng Li, Lixiang Zeng, Kun Yang, Yongzong Wang, Suihan Xiao  
 **Published:** 9/10/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.RO  
 
-arXiv:2609.10372v1 Announce Type: cross Abstract: We present the PACE, a framework for retrieval-augmented dialogue serving that formalizes Perceived Time-to-First-Response (PTFR) as a QoE objective and minimizes it under quality/cost constraints. Unlike prior work on cascaded routing, semantic cach...
+arXiv:2609.10372v2 Announce Type: cross Abstract: We present the PACE, a framework for retrieval-augmented dialogue serving that formalizes Perceived Time-to-First-Response (PTFR) as a QoE objective and minimizes it under quality/cost constraints. Unlike prior work on cascaded routing, semantic cach...
 
 📖 [Read original article](https://arxiv.org/abs/2609.10372)
 
@@ -1957,11 +1957,11 @@ arXiv:2606.08405v4 Announce Type: replace Abstract: While neural networks excel 
 
 ## 163. EVOQUANT: Self-Evolving Verifier-Guided Strategy Optimization for Robust Quantitative Trading
 
-**Author:** Jie Mao, Changlun Li, Xiang Li, Qiqi Duan, Jinhui Yuan, Xiang Liu, Yuyu Luo, Jing Tang, Xiaowen Chu, Nan Tang  
+**Author:** Jie Mao, Changlun Li, Xiang Li, Qiqi Duan, Jinhui Yuan, Xiang Liu, Yuyu Luo, Jing Tang, Xiaowen Chu  
 **Published:** 9/10/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CE  
 
-arXiv:2607.12455v2 Announce Type: replace Abstract: Quantitative strategy optimization remains largely manual, requiring domain experts to identify weak signals, tune risk-control rules, and repeatedly validate iterative revisions. Large language models can accelerate this process, but directly rely...
+arXiv:2607.12455v3 Announce Type: replace Abstract: Quantitative strategy optimization remains largely manual, requiring domain experts to identify weak signals, tune risk-control rules, and repeatedly validate iterative revisions. Large language models can accelerate this process, but directly rely...
 
 📖 [Read original article](https://arxiv.org/abs/2607.12455)
 
@@ -2077,11 +2077,11 @@ arXiv:2609.01315v2 Announce Type: replace Abstract: Building an omni-modal found
 
 ## 173. Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation
 
-**Author:** Lin Shi (Audrey), Haowei Lin (Audrey), Zixuan Zhu (Audrey), Xiaoyue Zhou (Audrey), Xiang Li (Audrey), Xiangning Lin (Audrey), Yaxuan Deng (Audrey), Han Xu (Audrey), Yuangang Li (Audrey), Shanda Li (Audrey), Zizhao Chen (Audrey), Hanwen Xing (Audrey), Harsh Raj (Audrey), Bo Chen (Audrey), Quan Shi (Audrey), Steven Dillmann (Audrey), Yipeng Gao (Audrey), Puneesh Khanna (Audrey), Ruofan Lu (Audrey), Chao Beyond Zhou (Audrey), Michael Yang (Audrey), Robert Zhang (Audrey), Siyuan Chai (Audrey), Jiayu Chang (Audrey), Yizhao Chen (Audrey), Xiaokun Chen (Audrey), Yiwei Dai (Audrey), Wenting Yang (Audrey), Hange Liu (Audrey), Minghao Liu (Audrey), Zihan Wang (Audrey), Adnan El Assadi (Audrey), Benedikt Stroebl (Audrey), E. Kelly Buchanan (Audrey), Han Meng (Audrey), Junwei He (Audrey), Longxuan Yu (Audrey), Radin Shayanfar (Audrey), Yukyung Lee (Audrey), Zhikang Dong (Audrey), Allen G Hart (Audrey), Anjiang Wei (Audrey), Anurag Kashyap (Audrey), Arpandeep Khatua (Audrey), Audrey Jixin Zheng (Audrey), Chengrui Ma (Audrey), David Heineman (Audrey), Dubing Chen (Audrey), Hai-Anh Trinh (Audrey), Haishuo Fang (Audrey), Hefan Zhang (Audrey), Hui Shen (Audrey), Issa Sugiura (Audrey), Jiankai Sun (Audrey), Jiechao Gao (Audrey), Junhong Lin (Audrey), Junnan Li (Audrey), Kai Yang (Audrey), Lei Hsiung (Audrey), Maoyu Wang (Audrey), Mengze Tang (Audrey), Nabil Omi (Audrey), Negin Raoof (Audrey), Nicholas Edwards (Audrey), Octavia Guo (Audrey), Orfeas Menis Mastromichalakis (Audrey), Pengliang Ji (Audrey), Przemys{\l}aw Hejman (Audrey), Qi Qi (Audrey), Qunshu Lin (Audrey), Richard Zhuang (Audrey), Rui Yang (Audrey), Ruichen Zheng (Audrey), Ryan Marten (Audrey), Shaghayegh Fazliani (Audrey), Shizheng Hou (Audrey), Sicong Jiang (Audrey), Sijie Li (Audrey), Song Bian (Audrey), Terry Yue Zhuo (Audrey), Tianqing Wu (Audrey), Tom Tang (Audrey), Wanjia Zhao (Audrey), Weihao Xuan (Audrey), Wenhua Liang (Audrey), Xian Liu (Audrey), Xin Lan (Audrey), Xuan Zhang (Audrey), Xuandong Zhao (Audrey), Yanchuan Tang (Audrey), Yifan Jiang (Audrey), Yijiang Li (Audrey), Yitong Guan (Audrey), Yizhi Li (Audrey), Yonghui Liu (Audrey), Yuheng Tang (Audrey), Yujun (Audrey), Mao, Yunfei Zhao, Yuxin Wang, Yuxuan Tang, Zhenheng Tang, Zhifei Li, Ziruo Wang, Ziyu She, Kaiyuan Liu, Iheb Chaabane, Yuxin Tang, Xiangyi Li, Andy Konwinski, Boxuan Li, Leon Liangyu Chen, Alex Dimakis, Nicholas Carlini, Soroush Vosoughi, Di He, Etash Guha, Benjamin Feuer, Mike Merrill, Ludwig Schmidt, Alex Shaw  
+**Author:** Lin Shi (Audrey), Haowei Lin (Audrey), Zixuan Zhu (Audrey), Xiaoyue Zhou (Audrey), Xiang Li (Audrey), Xiangning Lin (Audrey), Yaxuan Deng (Audrey), Han Xu (Audrey), Yuangang Li (Audrey), Shanda Li (Audrey), Zizhao Chen (Audrey), Hanwen Xing (Audrey), Harsh Raj (Audrey), Bo Chen (Audrey), Quan Shi (Audrey), Steven Dillmann (Audrey), Yipeng Gao (Audrey), Puneesh Khanna (Audrey), Ruofan Lu (Audrey), Chao Beyond Zhou (Audrey), Michael Yang (Audrey), Robert Zhang (Audrey), Siyuan Chai (Audrey), Jiayu Chang (Audrey), Yizhao Chen (Audrey), Xiaokun Chen (Audrey), Yiwei Dai (Audrey), Wenting Yang (Audrey), Hange Liu (Audrey), Minghao Liu (Audrey), Zihan Wang (Audrey), Adnan El Assadi (Audrey), Benedikt Stroebl (Audrey), E. Kelly Buchanan (Audrey), Han Meng (Audrey), Junwei He (Audrey), Longxuan Yu (Audrey), Radin Shayanfar (Audrey), Yukyung Lee (Audrey), Zhikang Dong (Audrey), Allen G Hart (Audrey), Anjiang Wei (Audrey), Anurag Kashyap (Audrey), Arpandeep Khatua (Audrey), Audrey Jixin Zheng (Audrey), Chengrui Ma (Audrey), David Heineman (Audrey), Dubing Chen (Audrey), Hai-Anh Trinh (Audrey), Haishuo Fang (Audrey), Hefan Zhang (Audrey), Hui Shen (Audrey), Issa Sugiura (Audrey), Jiankai Sun (Audrey), Jiechao Gao (Audrey), Junhong Lin (Audrey), Junnan Li (Audrey), Kai Yang (Audrey), Lei Hsiung (Audrey), Maoyu Wang (Audrey), Mengze Tang (Audrey), Nabil Omi (Audrey), Negin Raoof (Audrey), Nicholas Edwards (Audrey), Octavia Guo (Audrey), Orfeas Menis Mastromichalakis (Audrey), Pengliang Ji (Audrey), Przemys{\l}aw Hejman (Audrey), Qi Qi (Audrey), Qunshu Lin (Audrey), Richard Zhuang (Audrey), Rui Yang (Audrey), Ruichen Zheng (Audrey), Ryan Marten (Audrey), Shaghayegh Fazliani (Audrey), Shizheng Hou (Audrey), Sicong Jiang (Audrey), Sijie Li (Audrey), Boqin Yuan (Audrey), Michael Glass (Audrey), Song Bian (Audrey), Terry Yue Zhuo (Audrey), Tianqing Wu (Audrey), Tom Tang (Audrey), Wanjia Zhao (Audrey), Weihao Xuan (Audrey), Wenhua Liang (Audrey), Xian Liu (Audrey), Xin Lan (Audrey), Xuan Zhang (Audrey), Xuandong Zhao (Audrey), Yanchuan Tang (Audrey), Yifan Jiang (Audrey), Yijiang Li (Audrey), Yitong Guan (Audrey), Yizhi Li (Audrey), Yonghui Liu (Audrey), Yuheng Tang (Audrey), Yujun (Audrey), Mao, Yunfei Zhao, Yuxin Wang, Yuxuan Tang, Zhenheng Tang, Zhifei Li, Ziruo Wang, Ziyu She, Kaiyuan Liu, Iheb Chaabane, Yuxin Tang, Xiangyi Li, Satya Sai Srinath Namburi GNVV, Xinyue Zheng, Andy Konwinski, Boxuan Li, Leon Liangyu Chen, Alex Dimakis, Nicholas Carlini, Soroush Vosoughi, Sanmi Koyejo, Di He, Etash Guha, Benjamin Feuer, Mike Merrill, Ludwig Schmidt, Alex Shaw  
 **Published:** 9/10/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2609.04298v2 Announce Type: replace Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work ...
+arXiv:2609.04298v3 Announce Type: replace Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.04298)
 
@@ -2437,11 +2437,11 @@ arXiv:2602.19326v3 Announce Type: replace-cross Abstract: Urban renewal requires
 
 ## 203. MOSAIC: A Universal Agent-Level Interface for Cross-Paradigm Agent Mixing and Human-AI Collaboration
 
-**Author:** Abdulhamid M. Mousa, Rakhmonberdi Khajiev, Jalaledin M. Azzabi, Abdulkarim M. Mousa, Peng Yong, Yunusa Haruna, Ming Liu  
+**Author:** Abdulhamid M. Mousa, Jinhui Pang, Rakhmonberdi Khajiev, Jalaledin M. Azzabi, Abdulkarim M. Mousa, Peng Yong, Yunusa Haruna, Ming Liu  
 **Published:** 9/10/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2603.01260v2 Announce Type: replace-cross Abstract: Existing infrastructure cannot deploy agents from different decision-making paradigms within the same environment, making fair cross-paradigm comparison under identical conditions impossible. We present MOSAIC, an open-source platform that en...
+arXiv:2603.01260v3 Announce Type: replace-cross Abstract: Existing infrastructure cannot deploy agents from different decision-making paradigms within the same environment, making fair cross-paradigm comparison under identical conditions impossible. We present MOSAIC, an open-source platform that en...
 
 📖 [Read original article](https://arxiv.org/abs/2603.01260)
 
@@ -2449,11 +2449,11 @@ arXiv:2603.01260v2 Announce Type: replace-cross Abstract: Existing infrastructur
 
 ## 204. Cognitive Amplification vs Cognitive Delegation in Human-AI Systems: A Metric Framework
 
-**Author:** Eduardo Di Santi  
+**Author:** Eduardo Di Santi, Carla Florida  
 **Published:** 9/10/2026, 4:00:00 AM  
 **Categories:** cs.HC, cs.AI, cs.CY  
 
-arXiv:2603.18677v3 Announce Type: replace-cross Abstract: Artificial intelligence is increasingly embedded in human decision-making, yet distinguishing systems that genuinely amplify human cognition from those promoting excessive dependence remains underdefined. This paper introduces a framework to ...
+arXiv:2603.18677v4 Announce Type: replace-cross Abstract: Artificial intelligence is increasingly embedded in human decision-making, yet distinguishing systems that genuinely amplify human cognition from those promoting excessive dependence remains underdefined. This paper introduces a framework to ...
 
 📖 [Read original article](https://arxiv.org/abs/2603.18677)
 
