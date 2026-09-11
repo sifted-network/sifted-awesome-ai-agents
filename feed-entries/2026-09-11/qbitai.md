@@ -2,16 +2,40 @@
 title: "qbitai - 2026-09-11"
 date: "2026-09-11"
 source: "qbitai"
-count: 6
+count: 8
 ---
 
 # qbitai - 2026-09-11
 
-6 items collected.
+8 items collected.
 
 ---
 
-## 1. 不简单，“吃货快乐榜”也全面AI化了
+## 1. 啊？Anthropic最高320万招销售，只为服务Meta
+
+**Author:** 听雨  
+**Published:** 9/11/2026, 2:05:16 PM  
+**Categories:** 资讯, AI, Claude  
+
+原来你俩互相下单呢
+
+📖 [Read original article](https://www.qbitai.com/2026/09/487573.html)
+
+---
+
+## 2. 百度秒哒再升级！让最懂业务的人，亲手造自己的系统
+
+**Author:** 听雨  
+**Published:** 9/11/2026, 1:59:09 PM  
+**Categories:** 资讯, 首页轮播, AI  
+
+把开发、交付和接单全打通了
+
+📖 [Read original article](https://www.qbitai.com/2026/09/487415.html)
+
+---
+
+## 3. 不简单，“吃货快乐榜”也全面AI化了
 
 **Author:** 林, 方舟  
 **Published:** 9/11/2026, 8:59:28 AM  
@@ -23,7 +47,7 @@ count: 6
 
 ---
 
-## 2. 墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济
+## 4. 墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济
 
 **Author:** 量子位的朋友们  
 **Published:** 9/11/2026, 6:19:03 AM  
@@ -35,7 +59,7 @@ count: 6
 
 ---
 
-## 3. 量子位「MEET2027智能未来大会」启动！年度榜单征集进行中
+## 5. 量子位「MEET2027智能未来大会」启动！年度榜单征集进行中
 
 **Author:** 量子位的朋友们  
 **Published:** 9/11/2026, 3:57:32 AM  
@@ -47,7 +71,7 @@ count: 6
 
 ---
 
-## 4. 3万台无人车之后，这家公司盯上了城市级物理AI
+## 6. 3万台无人车之后，这家公司盯上了城市级物理AI
 
 **Author:** 思邈  
 **Published:** 9/11/2026, 2:50:47 AM  
@@ -59,7 +83,7 @@ count: 6
 
 ---
 
-## 5. OpenAI这是拿千禧年难题当Benchmark刷啊。。。
+## 7. OpenAI这是拿千禧年难题当Benchmark刷啊。。。
 
 **Author:** 一水  
 **Published:** 9/11/2026, 1:46:55 AM  
@@ -71,7 +95,7 @@ count: 6
 
 ---
 
-## 6. 吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞
+## 8. 吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞
 
 **Author:** 闻乐  
 **Published:** 9/11/2026, 12:55:01 AM  
