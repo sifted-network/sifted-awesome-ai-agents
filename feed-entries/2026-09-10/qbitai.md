@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-10"
 date: "2026-09-10"
 source: "qbitai"
-count: 7
+count: 4
 ---
 
 # qbitai - 2026-09-10
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ count: 7
 轻量版LingBot-World 2.0
 
 📖 [Read original article](https://www.qbitai.com/2026/09/486716.html)
-
----
-
-## 5. AGI时代的第一个生图模型，ChatGPT Images 2.5上线
-
-**Author:** henry  
-**Published:** 9/10/2026, 7:25:39 AM  
-**Categories:** 资讯, GPT, Images  
-
-主打生成更快，细节更好，改图也终于越来越像“真·修图”了。
-
-📖 [Read original article](https://www.qbitai.com/2026/09/486684.html)
-
----
-
-## 6. 营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者
-
-**Author:** 量子位的朋友们  
-**Published:** 9/10/2026, 6:25:22 AM  
-**Categories:** 资讯, AhaCreator  
-
-从一次投放到一套增长系统，AI 让海外达人营销可规模化复制
-
-📖 [Read original article](https://www.qbitai.com/2026/09/486651.html)
-
----
-
-## 7. 一周连发6个模型！这家公司把具身智能的闭环跑通了
-
-**Author:** 克雷西  
-**Published:** 9/10/2026, 4:55:38 AM  
-**Categories:** 资讯, 首页轮播, 具身智能  
-
-模型可以开源，部署经验不能
-
-📖 [Read original article](https://www.qbitai.com/2026/09/486625.html)
 
 ---
