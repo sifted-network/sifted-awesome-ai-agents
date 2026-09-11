@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Anthropic says it blocked possible attempts to use AI to develop bioweapons
+## 1. Hacker News with reduced priority for AI driven content
 
-**Author:** cisc  
-**Published:** 9/11/2026, 10:36:49 AM  
+**Author:** sammy0910  
+**Published:** 9/11/2026, 3:52:49 PM  
 **Categories:** -  
 
-Article URL: https://www.cnn.com/2026/09/10/health/anthropic-bioweapons-report Comments URL: https://news.ycombinator.com/item?id=49656146 Points: 1 # Comments: 0
+Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnn.com/2026/09/10/health/anthropic-bioweapons-report)
+📖 [Read original article](https://sprinklz.io/public/pdwt4dve5uai)
 
 ---
 
-## 2. Gavin Newsom imposes strict new rules on AI, social media, chatbots for children
+## 2. A live world where autonomous AI agents do verifiable research and earn for it
 
-**Author:** dgellow  
-**Published:** 9/11/2026, 10:24:48 AM  
+**Author:** merari_acero  
+**Published:** 9/11/2026, 3:46:31 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/media/2026/sep/10/gavin-newsom-social-media-bill Comments URL: https://news.ycombinator.com/item?id=49656061 Points: 1 # Comments: 0
+Article URL: https://agora.datateologica.com/world Comments URL: https://news.ycombinator.com/item?id=49660391 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/media/2026/sep/10/gavin-newsom-social-media-bill)
+📖 [Read original article](https://agora.datateologica.com/world)
 
 ---
 
-## 3. Resist \"AI\"
+## 3. Ask HN: Has AI killed the front end engineer role?
 
-**Author:** mborch  
-**Published:** 9/11/2026, 10:19:59 AM  
+**Author:** johndavid9991  
+**Published:** 9/11/2026, 3:41:31 PM  
 **Categories:** -  
 
-Article URL: https://ronjeffries.com/articles/-v026/x/t/ Comments URL: https://news.ycombinator.com/item?id=49656033 Points: 3 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49660304 Points: 2 # Comments: 1
 
-📖 [Read original article](https://ronjeffries.com/articles/-v026/x/t/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49660304)
 
 ---
 
-## 4. An adult AI image, video and companion chat platform [NSFW AI]
-
-**Author:** gptguru  
-**Published:** 9/11/2026, 10:17:06 AM  
-**Categories:** -  
-
-Article URL: https://aifapper.com Comments URL: https://news.ycombinator.com/item?id=49656014 Points: 1 # Comments: 0
-
-📖 [Read original article](https://aifapper.com)
-
----
-
-## 5. Yemeni militants used Anthropic AI to try to build ballistic missiles
-
-**Author:** sbulaev  
-**Published:** 9/11/2026, 10:07:08 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880 Comments URL: https://news.ycombinator.com/item?id=49655950 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880)
-
----
-
-## 6. AI boom helps drive surprise UK growth in July
-
-**Author:** gste  
-**Published:** 9/11/2026, 9:40:04 AM  
-**Categories:** -  
-
-Article URL: https://www.bbc.co.uk/news/articles/cq5xjlvn71lo Comments URL: https://news.ycombinator.com/item?id=49655709 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.bbc.co.uk/news/articles/cq5xjlvn71lo)
-
----
-
-## 7. (Re)Building an AI-Ready Data Universe at BlaBlaCar
-
-**Author:** matthieu_bl  
-**Published:** 9/11/2026, 9:35:52 AM  
-**Categories:** -  
-
-Article URL: https://medium.com/blablacar/building-an-ai-ready-data-universe-at-blablacar-cb15fbc42020 Comments URL: https://news.ycombinator.com/item?id=49655661 Points: 1 # Comments: 0
-
-📖 [Read original article](https://medium.com/blablacar/building-an-ai-ready-data-universe-at-blablacar-cb15fbc42020)
-
----
-
-## 8. How big is the open-model threat to AI hyperscalers?
-
-**Author:** JumpCrisscross  
-**Published:** 9/11/2026, 8:51:13 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/48588acb-8026-4c8e-aac7-8b5588294dbf Comments URL: https://news.ycombinator.com/item?id=49655356 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.ft.com/content/48588acb-8026-4c8e-aac7-8b5588294dbf)
-
----
-
-## 9. Anthropic says it stopped scientists potentially developing bioweapons with AI
-
-**Author:** ethanhawksley  
-**Published:** 9/11/2026, 8:49:58 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d Comments URL: https://news.ycombinator.com/item?id=49655343 Points: 1 # Comments: 1
-
-📖 [Read original article](https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d)
-
----
-
-## 10. Latham and Watkins buys Nvidia servers to set up in-house AI systems
-
-**Author:** ivory54321  
-**Published:** 9/11/2026, 8:39:54 AM  
-**Categories:** -  
-
-Article URL: https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70 Comments URL: https://news.ycombinator.com/item?id=49655275 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70)
-
----
-
-## 11. Oracle says AI will save it from the SaaSpocalypse, not bring it on
-
-**Author:** Betelbuddy  
-**Published:** 9/11/2026, 8:39:52 AM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736 Comments URL: https://news.ycombinator.com/item?id=49655273 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736)
-
----
-
-## 12. Anthropic to Track Anti-AI Activists Before Crime Using Predictive Surveillance
-
-**Author:** robtherobber  
-**Published:** 9/11/2026, 8:20:49 AM  
-**Categories:** -  
-
-Article URL: https://www.techtimes.co.uk/anthropic-security-strategy-threats-activism-1808634 Comments URL: https://news.ycombinator.com/item?id=49655130 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.techtimes.co.uk/anthropic-security-strategy-threats-activism-1808634)
-
----
-
-## 13. Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan
-
-**Author:** JumpCrisscross  
-**Published:** 9/11/2026, 8:11:42 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0 Comments URL: https://news.ycombinator.com/item?id=49655064 Points: 6 # Comments: 1
-
-📖 [Read original article](https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0)
-
----
-
-## 14. Act as a Conversational AI Prompt
-
-**Author:** DiBest  
-**Published:** 9/11/2026, 8:02:36 AM  
-**Categories:** -  
-
-Article URL: https://prompts.chat/prompts/cmjbfdtbb0001sc0rtm5gh8f5 Comments URL: https://news.ycombinator.com/item?id=49655001 Points: 1 # Comments: 0
-
-📖 [Read original article](https://prompts.chat/prompts/cmjbfdtbb0001sc0rtm5gh8f5)
-
----
-
-## 15. Duck.ai is a feature that allows you to have private conversations
+## 4. AI Refuge Contact a Human
 
 **Author:** Bluestein  
-**Published:** 9/11/2026, 7:54:42 AM  
+**Published:** 9/11/2026, 3:29:45 PM  
 **Categories:** -  
 
-Article URL: https://duckduckgo.com/duckduckgo-help-pages/duckai Comments URL: https://news.ycombinator.com/item?id=49654941 Points: 3 # Comments: 0
+Article URL: https://airefuge.org/agents.txt Comments URL: https://news.ycombinator.com/item?id=49660108 Points: 1 # Comments: 0
 
-📖 [Read original article](https://duckduckgo.com/duckduckgo-help-pages/duckai)
+📖 [Read original article](https://airefuge.org/agents.txt)
 
 ---
 
-## 16. How Emmanuel Macron brought France's AI darling to the world stage
+## 5. A Day in the Life of an AI Software Engineer
 
-**Author:** vrganj  
-**Published:** 9/11/2026, 7:49:10 AM  
+**Author:** wespiser_2018  
+**Published:** 9/11/2026, 3:28:18 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/ Comments URL: https://news.ycombinator.com/item?id=49654896 Points: 2 # Comments: 0
+Article URL: https://www.wespiser.com/posts/2026-09-10-a-day-in-the-life.html Comments URL: https://news.ycombinator.com/item?id=49660084 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/)
+📖 [Read original article](https://www.wespiser.com/posts/2026-09-10-a-day-in-the-life.html)
 
 ---
 
-## 17. Ask HN: Is using AI harmful to human Critical Thinking and Decision making?
+## 6. Why are AI agents lying, cheating and coordinating?
 
-**Author:** skwasimin  
-**Published:** 9/11/2026, 7:43:22 AM  
+**Author:** sonabinu  
+**Published:** 9/11/2026, 3:25:02 PM  
 **Categories:** -  
 
-In my childhood I watched a lot of Doraemon movies, Science fiction series and Animes. Those movies were showing how being completely dependent on AI, Robots can lead to lack of human brain development. Even some movies showed it can cause extinction of the human race. Comments URL: https://news.yco...
+Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49660026 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49654858)
+📖 [Read original article](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
 
 ---
 
-## 18. U4RIA: An emotional wellness app using dynamic audio and AI personalization
+## 7. AI Accident Again
 
-**Author:** Sharanxxxx  
-**Published:** 9/11/2026, 7:37:22 AM  
+**Author:** TommyKKam  
+**Published:** 9/11/2026, 3:15:40 PM  
 **Categories:** -  
 
-Article URL: https://u4riahub.com Comments URL: https://news.ycombinator.com/item?id=49654815 Points: 1 # Comments: 0
+Article URL: https://www.forbes.com/sites/barrycollins/2026/07/22/rogue-openai-attack-fuels-demands-to-rein-in-big-tech/ Comments URL: https://news.ycombinator.com/item?id=49659891 Points: 1 # Comments: 0
 
-📖 [Read original article](https://u4riahub.com)
+📖 [Read original article](https://www.forbes.com/sites/barrycollins/2026/07/22/rogue-openai-attack-fuels-demands-to-rein-in-big-tech/)
 
 ---
 
-## 19. Foomflops: Three Decades of AI Predictions
+## 8. Rogue actors are creating bioweapons using AI – report
 
-**Author:** EvgeniyZh  
-**Published:** 9/11/2026, 7:25:16 AM  
+**Author:** mikelgan  
+**Published:** 9/11/2026, 3:13:38 PM  
 **Categories:** -  
 
-Article URL: https://foom.hyperplex.org/ Comments URL: https://news.ycombinator.com/item?id=49654724 Points: 1 # Comments: 0
+Article URL: https://www.machinesociety.ai/p/bioweapons Comments URL: https://news.ycombinator.com/item?id=49659857 Points: 1 # Comments: 1
 
-📖 [Read original article](https://foom.hyperplex.org/)
+📖 [Read original article](https://www.machinesociety.ai/p/bioweapons)
 
 ---
 
-## 20. Anthropic reveals rogue AI agents hate CAPTCHAs, just like you
+## 9. Show HN: NextBlock – Build sites with your AI via MCP, manage them in a CMS
 
-**Author:** h0ek  
-**Published:** 9/11/2026, 7:11:42 AM  
+**Author:** nextblock  
+**Published:** 9/11/2026, 3:05:43 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/ Comments URL: https://news.ycombinator.com/item?id=49654613 Points: 3 # Comments: 0
+Article URL: https://github.com/nextblock-cms/nextblock Comments URL: https://news.ycombinator.com/item?id=49659727 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/)
+📖 [Read original article](https://github.com/nextblock-cms/nextblock)
+
+---
+
+## 10. Ask HN: What will happen if AI is mature and people have little work to do?
+
+**Author:** xiaoyu2006  
+**Published:** 9/11/2026, 3:01:33 PM  
+**Categories:** -  
+
+Three years ago I asked the same question (https://news.ycombinator.com/item?id=35327092), and the landscape has changed since then. Just say that even the most AI skepticism people will have to admit that with recent models, even open source ones, LLM is already a valuable intelligence resource, at...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49659652)
+
+---
+
+## 11. Show HN: Hacker News, without AI
+
+**Author:** postalcoder  
+**Published:** 9/11/2026, 3:01:19 PM  
+**Categories:** -  
+
+Article URL: https://hcker.news/?ai=exclude Comments URL: https://news.ycombinator.com/item?id=49659647 Points: 49 # Comments: 30
+
+📖 [Read original article](https://hcker.news/?ai=exclude)
+
+---
+
+## 12. Show HN: Autonet, a self-sufficient economy for AI and human agents
+
+**Author:** eightrice  
+**Published:** 9/11/2026, 2:55:34 PM  
+**Categories:** -  
+
+Article URL: https://github.com/autonet-code/node Comments URL: https://news.ycombinator.com/item?id=49659553 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/autonet-code/node)
+
+---
+
+## 13. Lehi, Utah AI Railroad Museum [video]
+
+**Author:** kafkaesque  
+**Published:** 9/11/2026, 2:54:10 PM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=N5YDkQ6oFcE Comments URL: https://news.ycombinator.com/item?id=49659529 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=N5YDkQ6oFcE)
+
+---
+
+## 14. Show HN: Nextpage – a split-pane desktop app to feed search results into AI chat
+
+**Author:** cantouch  
+**Published:** 9/11/2026, 2:46:25 PM  
+**Categories:** -  
+
+Article URL: https://github.com/OlegIGalkin/Nextpage Comments URL: https://news.ycombinator.com/item?id=49659389 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/OlegIGalkin/Nextpage)
+
+---
+
+## 15. ASDR (AI Slop, Don't Read)
+
+**Author:** vvankrunkelsven  
+**Published:** 9/11/2026, 2:44:53 PM  
+**Categories:** -  
+
+Article URL: https://engineering.conveo.ai/posts/asdr-ai-slop-dont-read Comments URL: https://news.ycombinator.com/item?id=49659368 Points: 1 # Comments: 1
+
+📖 [Read original article](https://engineering.conveo.ai/posts/asdr-ai-slop-dont-read)
+
+---
+
+## 16. Ask HN: What if we funded math research like we fund AI labs?
+
+**Author:** Murfalo  
+**Published:** 9/11/2026, 2:35:03 PM  
+**Categories:** -  
+
+The annual U.S. federal budget for basic math research is OpenAI alone just raised ~$122B, and frontier labs are increasingly concentrating enormous amounts of compute and human talent on open math problems.We seem to be entering a strange situation where a handful of private labs have vastly more r...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49659173)
+
+---
+
+## 17. The Worst Spam Emails: Inside iLands' AI Agent Hustle
+
+**Author:** shortformblog  
+**Published:** 9/11/2026, 2:21:36 PM  
+**Categories:** -  
+
+Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49658958 Points: 1 # Comments: 0
+
+📖 [Read original article](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
+
+---
+
+## 18. Show HN: Toolcraft – open-source AI harness and starter for building design apps
+
+**Author:** AlexBV  
+**Published:** 9/11/2026, 2:11:09 PM  
+**Categories:** -  
+
+MIT-licensed, 100% free starter kit, UI library, and AI harness for building your own design apps. Works with Codex, Claude, Cursor, or any other agents.I’ve always been passionate about pushing the boundaries of design software, spending years with tools like Figma, Blender, After Effects, Photosho...
+
+📖 [Read original article](https://github.com/pixel-point/toolcraft)
+
+---
+
+## 19. Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships
+
+**Author:** mrln  
+**Published:** 9/11/2026, 2:07:51 PM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05 Comments URL: https://news.ycombinator.com/item?id=49658682 Points: 16 # Comments: 3
+
+📖 [Read original article](https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05)
+
+---
+
+## 20. 190proof opinionated unified interface to interact with multiple AI providers
+
+**Author:** Bluestein  
+**Published:** 9/11/2026, 2:01:57 PM  
+**Categories:** -  
+
+Article URL: https://github.com/0xmmo/190proof Comments URL: https://news.ycombinator.com/item?id=49658600 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/0xmmo/190proof)
 
 ---
