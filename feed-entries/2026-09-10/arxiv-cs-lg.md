@@ -293,7 +293,7 @@ arXiv:2609.09564v1 Announce Type: new Abstract: The digitalisation of electrical
 **Published:** 9/10/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.09567v1 Announce Type: new Abstract: Product families in large product catalogs suffer from inconsistencies such as duplicates and unit mismatches that degrade customer experience. Detecting these requires reasoning over multiple error types across lengthy product listings, where LLM clas...
+arXiv:2609.09567v2 Announce Type: new Abstract: Product families in large product catalogs suffer from inconsistencies such as duplicates and unit mismatches that degrade customer experience. Detecting these requires reasoning over multiple error types across lengthy product listings, where LLM clas...
 
 📖 [Read original article](https://arxiv.org/abs/2609.09567)
 
@@ -1943,13 +1943,13 @@ arXiv:2609.10514v1 Announce Type: cross Abstract: We determine the optimal sampl
 
 ---
 
-## 162. Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch
+## 162. Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarchy
 
 **Author:** Xiaoyu Li, Andi Han, Jiaojiao Jiang, Junbin Gao  
 **Published:** 9/10/2026, 4:00:00 AM  
 **Categories:** cs.FL, cs.LG  
 
-arXiv:2609.10525v1 Announce Type: cross Abstract: Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly wh...
+arXiv:2609.10525v2 Announce Type: cross Abstract: Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly wh...
 
 📖 [Read original article](https://arxiv.org/abs/2609.10525)
 
@@ -2185,11 +2185,11 @@ arXiv:2602.18934v3 Announce Type: replace Abstract: Membership inference attacks
 
 ## 182. MOSAIC: A Universal Agent-Level Interface for Cross-Paradigm Agent Mixing and Human-AI Collaboration
 
-**Author:** Abdulhamid M. Mousa, Rakhmonberdi Khajiev, Jalaledin M. Azzabi, Abdulkarim M. Mousa, Peng Yong, Yunusa Haruna, Ming Liu  
+**Author:** Abdulhamid M. Mousa, Jinhui Pang, Rakhmonberdi Khajiev, Jalaledin M. Azzabi, Abdulkarim M. Mousa, Peng Yong, Yunusa Haruna, Ming Liu  
 **Published:** 9/10/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2603.01260v2 Announce Type: replace Abstract: Existing infrastructure cannot deploy agents from different decision-making paradigms within the same environment, making fair cross-paradigm comparison under identical conditions impossible. We present MOSAIC, an open-source platform that enables ...
+arXiv:2603.01260v3 Announce Type: replace Abstract: Existing infrastructure cannot deploy agents from different decision-making paradigms within the same environment, making fair cross-paradigm comparison under identical conditions impossible. We present MOSAIC, an open-source platform that enables ...
 
 📖 [Read original article](https://arxiv.org/abs/2603.01260)
 
