@@ -59,19 +59,7 @@ OpenAI and GSA will offer eligible federal, state, local, and tribal governments
 
 ---
 
-## 5. Introducing the Agents API
-
-**Author:** -  
-**Published:** 9/10/2026, 12:00:00 AM  
-**Categories:** Product  
-
-Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.
-
-📖 [Read original article](https://openai.com/index/introducing-the-agents-api)
-
----
-
-## 6. Build more natural voice experiences with GPT‑Live‑1 in the API
+## 5. Build more natural voice experiences with GPT‑Live‑1 in the API
 
 **Author:** -  
 **Published:** 9/10/2026, 12:00:00 AM  
@@ -80,5 +68,17 @@ Build and launch cloud agents with the Agents API, a managed service powered by 
 GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.
 
 📖 [Read original article](https://openai.com/index/introducing-gpt-live-1-in-the-api)
+
+---
+
+## 6. Introducing the Agents API
+
+**Author:** -  
+**Published:** 9/10/2026, 12:00:00 AM  
+**Categories:** Product  
+
+Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.
+
+📖 [Read original article](https://openai.com/index/introducing-the-agents-api)
 
 ---
