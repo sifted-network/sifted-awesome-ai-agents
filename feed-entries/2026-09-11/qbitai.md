@@ -2,16 +2,28 @@
 title: "qbitai - 2026-09-11"
 date: "2026-09-11"
 source: "qbitai"
-count: 8
+count: 9
 ---
 
 # qbitai - 2026-09-11
 
-8 items collected.
+9 items collected.
 
 ---
 
-## 1. 啊？Anthropic最高320万招销售，只为服务Meta
+## 1. 银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭
+
+**Author:** Jay  
+**Published:** 9/11/2026, 6:02:36 PM  
+**Categories:** 资讯, 网商银行  
+
+看清「一个真正的人」
+
+📖 [Read original article](https://www.qbitai.com/2026/09/487631.html)
+
+---
+
+## 2. 啊？Anthropic最高320万招销售，只为服务Meta
 
 **Author:** 听雨  
 **Published:** 9/11/2026, 2:05:16 PM  
@@ -23,7 +35,7 @@ count: 8
 
 ---
 
-## 2. 百度秒哒再升级！让最懂业务的人，亲手造自己的系统
+## 3. 百度秒哒再升级！让最懂业务的人，亲手造自己的系统
 
 **Author:** 听雨  
 **Published:** 9/11/2026, 1:59:09 PM  
@@ -35,7 +47,7 @@ count: 8
 
 ---
 
-## 3. 不简单，“吃货快乐榜”也全面AI化了
+## 4. 不简单，“吃货快乐榜”也全面AI化了
 
 **Author:** 林, 方舟  
 **Published:** 9/11/2026, 8:59:28 AM  
@@ -47,7 +59,7 @@ count: 8
 
 ---
 
-## 4. 墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济
+## 5. 墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济
 
 **Author:** 量子位的朋友们  
 **Published:** 9/11/2026, 6:19:03 AM  
@@ -59,7 +71,7 @@ count: 8
 
 ---
 
-## 5. 量子位「MEET2027智能未来大会」启动！年度榜单征集进行中
+## 6. 量子位「MEET2027智能未来大会」启动！年度榜单征集进行中
 
 **Author:** 量子位的朋友们  
 **Published:** 9/11/2026, 3:57:32 AM  
@@ -71,7 +83,7 @@ count: 8
 
 ---
 
-## 6. 3万台无人车之后，这家公司盯上了城市级物理AI
+## 7. 3万台无人车之后，这家公司盯上了城市级物理AI
 
 **Author:** 思邈  
 **Published:** 9/11/2026, 2:50:47 AM  
@@ -83,7 +95,7 @@ count: 8
 
 ---
 
-## 7. OpenAI这是拿千禧年难题当Benchmark刷啊。。。
+## 8. OpenAI这是拿千禧年难题当Benchmark刷啊。。。
 
 **Author:** 一水  
 **Published:** 9/11/2026, 1:46:55 AM  
@@ -95,7 +107,7 @@ count: 8
 
 ---
 
-## 8. 吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞
+## 9. 吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞
 
 **Author:** 闻乐  
 **Published:** 9/11/2026, 12:55:01 AM  
