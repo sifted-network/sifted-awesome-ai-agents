@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-08"
 date: "2026-09-08"
 source: "OpenAI Blog"
-count: 5
+count: 3
 ---
 
 # OpenAI Blog - 2026-09-08
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ Explore how more capable, affordable AI can expand the work people and businesse
 ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.
 
 📖 [Read original article](https://openai.com/index/introducing-chatgpt-images-2-5)
-
----
-
-## 4. On the Navier–Stokes Millennium Prize Problem
-
-**Author:** -  
-**Published:** 9/8/2026, 10:00:00 AM  
-**Categories:** Research  
-
-We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
-
-📖 [Read original article](https://openai.com/index/navier-stokes-solution)
-
----
-
-## 5. Funding grants for new research into AI and teen development
-
-**Author:** -  
-**Published:** 9/8/2026, 9:00:00 AM  
-**Categories:** Safety  
-
-Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.
-
-📖 [Read original article](https://openai.com/index/teen-development-research-grants)
 
 ---
