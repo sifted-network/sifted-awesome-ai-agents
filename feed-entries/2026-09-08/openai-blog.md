@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-08"
 date: "2026-09-08"
 source: "OpenAI Blog"
-count: 7
+count: 5
 ---
 
 # OpenAI Blog - 2026-09-08
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize
 Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.
 
 📖 [Read original article](https://openai.com/index/teen-development-research-grants)
-
----
-
-## 6. OpenAI expands initiatives to support journalism from classrooms to newsrooms
-
-**Author:** -  
-**Published:** 9/8/2026, 12:00:00 AM  
-**Categories:** Company  
-
-OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.
-
-📖 [Read original article](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms)
-
----
-
-## 7. 1Password increases engineering productivity 21% with Codex
-
-**Author:** -  
-**Published:** 9/8/2026, 12:00:00 AM  
-**Categories:** -  
-
-Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.
-
-📖 [Read original article](https://openai.com/index/1password)
 
 ---
