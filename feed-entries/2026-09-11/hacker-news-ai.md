@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Hacker News with reduced priority for AI driven content
+## 1. Trustworthy Human-AI Collab in a Live Type-Theoretic Computational Commons
 
-**Author:** sammy0910  
-**Published:** 9/11/2026, 3:52:49 PM  
+**Author:** matt_d  
+**Published:** 9/11/2026, 8:20:39 PM  
 **Categories:** -  
 
-Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 1 # Comments: 0
+Article URL: https://www.janestreet.com/tech-talks/trustworthy-human-ai-collaboration-in-a-live-type-theoretic-computational-commons/ Comments URL: https://news.ycombinator.com/item?id=49664789 Points: 1 # Comments: 0
 
-📖 [Read original article](https://sprinklz.io/public/pdwt4dve5uai)
+📖 [Read original article](https://www.janestreet.com/tech-talks/trustworthy-human-ai-collaboration-in-a-live-type-theoretic-computational-commons/)
 
 ---
 
-## 2. A live world where autonomous AI agents do verifiable research and earn for it
+## 2. LLMjacking: AI Model Hijacking Reaches Black Market Scale
 
-**Author:** merari_acero  
-**Published:** 9/11/2026, 3:46:31 PM  
+**Author:** mooreds  
+**Published:** 9/11/2026, 8:19:43 PM  
 **Categories:** -  
 
-Article URL: https://agora.datateologica.com/world Comments URL: https://news.ycombinator.com/item?id=49660391 Points: 1 # Comments: 0
+Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-llmjacking-black-market-ai-model-hijacking/ Comments URL: https://news.ycombinator.com/item?id=49664772 Points: 1 # Comments: 0
 
-📖 [Read original article](https://agora.datateologica.com/world)
+📖 [Read original article](https://labs.cloudsecurityalliance.org/research/csa-research-note-llmjacking-black-market-ai-model-hijacking/)
 
 ---
 
-## 3. Ask HN: Has AI killed the front end engineer role?
+## 3. AI children's books, body horror edition
 
-**Author:** johndavid9991  
-**Published:** 9/11/2026, 3:41:31 PM  
+**Author:** vova_hn2  
+**Published:** 9/11/2026, 8:10:48 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49660304 Points: 2 # Comments: 1
+Article URL: https://blog.coredump.cx/p/ai-childrens-books-body-horror-edition Comments URL: https://news.ycombinator.com/item?id=49664634 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49660304)
+📖 [Read original article](https://blog.coredump.cx/p/ai-childrens-books-body-horror-edition)
 
 ---
 
-## 4. AI Refuge Contact a Human
+## 4. Every binding AI review Washington has proposed has come back voluntary
 
-**Author:** Bluestein  
-**Published:** 9/11/2026, 3:29:45 PM  
+**Author:** gmays  
+**Published:** 9/11/2026, 8:08:57 PM  
 **Categories:** -  
 
-Article URL: https://airefuge.org/agents.txt Comments URL: https://news.ycombinator.com/item?id=49660108 Points: 1 # Comments: 0
+Article URL: https://thenextweb.com/news/every-binding-ai-review-washington-has-proposed-has-come-back-voluntary-zuckerberg-reportedly-rang-trump-about-the-latest-one Comments URL: https://news.ycombinator.com/item?id=49664613 Points: 1 # Comments: 0
 
-📖 [Read original article](https://airefuge.org/agents.txt)
+📖 [Read original article](https://thenextweb.com/news/every-binding-ai-review-washington-has-proposed-has-come-back-voluntary-zuckerberg-reportedly-rang-trump-about-the-latest-one)
 
 ---
 
-## 5. A Day in the Life of an AI Software Engineer
+## 5. The State of AI Antibody Design
 
-**Author:** wespiser_2018  
-**Published:** 9/11/2026, 3:28:18 PM  
+**Author:** EA-3167  
+**Published:** 9/11/2026, 8:06:33 PM  
 **Categories:** -  
 
-Article URL: https://www.wespiser.com/posts/2026-09-10-a-day-in-the-life.html Comments URL: https://news.ycombinator.com/item?id=49660084 Points: 1 # Comments: 0
+Article URL: https://www.science.org/content/blog-post/state-ai-antibody-design Comments URL: https://news.ycombinator.com/item?id=49664579 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wespiser.com/posts/2026-09-10-a-day-in-the-life.html)
+📖 [Read original article](https://www.science.org/content/blog-post/state-ai-antibody-design)
 
 ---
 
-## 6. Why are AI agents lying, cheating and coordinating?
+## 6. Is open-weight AI banned yet?
 
-**Author:** sonabinu  
-**Published:** 9/11/2026, 3:25:02 PM  
+**Author:** marksully  
+**Published:** 9/11/2026, 8:05:42 PM  
 **Categories:** -  
 
-Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49660026 Points: 2 # Comments: 1
+Article URL: https://isopenweightaibannedyet.com/ Comments URL: https://news.ycombinator.com/item?id=49664570 Points: 2 # Comments: 0
 
-📖 [Read original article](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+📖 [Read original article](https://isopenweightaibannedyet.com/)
 
 ---
 
-## 7. AI Accident Again
+## 7. Show HN: HungryGPU – Track local AI models, patches and recipes by hardware
 
-**Author:** TommyKKam  
-**Published:** 9/11/2026, 3:15:40 PM  
+**Author:** clawterminal  
+**Published:** 9/11/2026, 7:49:39 PM  
 **Categories:** -  
 
-Article URL: https://www.forbes.com/sites/barrycollins/2026/07/22/rogue-openai-attack-fuels-demands-to-rein-in-big-tech/ Comments URL: https://news.ycombinator.com/item?id=49659891 Points: 1 # Comments: 0
+Article URL: https://hungrygpu.com Comments URL: https://news.ycombinator.com/item?id=49664363 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.forbes.com/sites/barrycollins/2026/07/22/rogue-openai-attack-fuels-demands-to-rein-in-big-tech/)
+📖 [Read original article](https://hungrygpu.com)
 
 ---
 
-## 8. Rogue actors are creating bioweapons using AI – report
+## 8. Judges mock lawyer who filed appeal full of AI-generated 'witnesses'
 
-**Author:** mikelgan  
-**Published:** 9/11/2026, 3:13:38 PM  
+**Author:** billybuckwheat  
+**Published:** 9/11/2026, 7:36:57 PM  
 **Categories:** -  
 
-Article URL: https://www.machinesociety.ai/p/bioweapons Comments URL: https://news.ycombinator.com/item?id=49659857 Points: 1 # Comments: 1
+Article URL: https://www.rnz.co.nz/news/world/1349763/judges-mock-lawyer-who-filed-appeal-full-of-ai-generated-witnesses Comments URL: https://news.ycombinator.com/item?id=49664165 Points: 6 # Comments: 1
 
-📖 [Read original article](https://www.machinesociety.ai/p/bioweapons)
+📖 [Read original article](https://www.rnz.co.nz/news/world/1349763/judges-mock-lawyer-who-filed-appeal-full-of-ai-generated-witnesses)
 
 ---
 
-## 9. Show HN: NextBlock – Build sites with your AI via MCP, manage them in a CMS
+## 9. Claude AI used for missile, influence projects in UAE, Iran, Yemen: Anthropic
 
-**Author:** nextblock  
-**Published:** 9/11/2026, 3:05:43 PM  
+**Author:** jmyeet  
+**Published:** 9/11/2026, 7:35:43 PM  
 **Categories:** -  
 
-Article URL: https://github.com/nextblock-cms/nextblock Comments URL: https://news.ycombinator.com/item?id=49659727 Points: 1 # Comments: 0
+Article URL: https://www.al-monitor.com/originals/2026/09/claude-ai-used-missile-influence-projects-uae-iran-yemen-anthropic Comments URL: https://news.ycombinator.com/item?id=49664145 Points: 8 # Comments: 3
 
-📖 [Read original article](https://github.com/nextblock-cms/nextblock)
+📖 [Read original article](https://www.al-monitor.com/originals/2026/09/claude-ai-used-missile-influence-projects-uae-iran-yemen-anthropic)
 
 ---
 
-## 10. Ask HN: What will happen if AI is mature and people have little work to do?
+## 10. Show HN: Hacker News, but only AI news
 
-**Author:** xiaoyu2006  
-**Published:** 9/11/2026, 3:01:33 PM  
+**Author:** gavino  
+**Published:** 9/11/2026, 7:12:33 PM  
 **Categories:** -  
 
-Three years ago I asked the same question (https://news.ycombinator.com/item?id=35327092), and the landscape has changed since then. Just say that even the most AI skepticism people will have to admit that with recent models, even open source ones, LLM is already a valuable intelligence resource, at...
+Article URL: https://allslop.news/ Comments URL: https://news.ycombinator.com/item?id=49663764 Points: 4 # Comments: 2
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49659652)
+📖 [Read original article](https://allslop.news/)
 
 ---
 
-## 11. Show HN: Hacker News, without AI
+## 11. UK economy unexpectedly grows 0.4% in July boosted by AI
 
-**Author:** postalcoder  
-**Published:** 9/11/2026, 3:01:19 PM  
+**Author:** Brajeshwar  
+**Published:** 9/11/2026, 6:38:26 PM  
 **Categories:** -  
 
-Article URL: https://hcker.news/?ai=exclude Comments URL: https://news.ycombinator.com/item?id=49659647 Points: 49 # Comments: 30
+Article URL: https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july Comments URL: https://news.ycombinator.com/item?id=49663191 Points: 3 # Comments: 0
 
-📖 [Read original article](https://hcker.news/?ai=exclude)
+📖 [Read original article](https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july)
 
 ---
 
-## 12. Show HN: Autonet, a self-sufficient economy for AI and human agents
+## 12. Project NOPE: An observatory for human – AI relationships
 
-**Author:** eightrice  
-**Published:** 9/11/2026, 2:55:34 PM  
+**Author:** theletterf  
+**Published:** 9/11/2026, 6:31:21 PM  
 **Categories:** -  
 
-Article URL: https://github.com/autonet-code/node Comments URL: https://news.ycombinator.com/item?id=49659553 Points: 2 # Comments: 0
+Article URL: https://nope.net/ Comments URL: https://news.ycombinator.com/item?id=49663076 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/autonet-code/node)
+📖 [Read original article](https://nope.net/)
 
 ---
 
-## 13. Lehi, Utah AI Railroad Museum [video]
+## 13. Ask HN: How are much smarter AI models made?
 
-**Author:** kafkaesque  
-**Published:** 9/11/2026, 2:54:10 PM  
+**Author:** superasn  
+**Published:** 9/11/2026, 6:24:20 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=N5YDkQ6oFcE Comments URL: https://news.ycombinator.com/item?id=49659529 Points: 2 # Comments: 0
+I am curious what actually happens between two generations of AI models.For example, how do you go from Sonnet to Opus? Is Opus trained from scratch, built on Sonnet, or mostly the same model with more compute and training?And how do models like Astra suddenly make a big jump in some capabilities? W...
 
-📖 [Read original article](https://www.youtube.com/watch?v=N5YDkQ6oFcE)
+📖 [Read original article](https://news.ycombinator.com/item?id=49662978)
 
 ---
 
-## 14. Show HN: Nextpage – a split-pane desktop app to feed search results into AI chat
+## 14. The emerging AI paper-review arms race
 
-**Author:** cantouch  
-**Published:** 9/11/2026, 2:46:25 PM  
+**Author:** anigbrowl  
+**Published:** 9/11/2026, 6:15:23 PM  
 **Categories:** -  
 
-Article URL: https://github.com/OlegIGalkin/Nextpage Comments URL: https://news.ycombinator.com/item?id=49659389 Points: 1 # Comments: 0
+Article URL: https://arxiv.org/abs/2609.07713 Comments URL: https://news.ycombinator.com/item?id=49662838 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/OlegIGalkin/Nextpage)
+📖 [Read original article](https://arxiv.org/abs/2609.07713)
 
 ---
 
-## 15. ASDR (AI Slop, Don't Read)
+## 15. Huawei showcases a 7.2Tbps near-package optics module for AI infrastructure
 
-**Author:** vvankrunkelsven  
-**Published:** 9/11/2026, 2:44:53 PM  
+**Author:** yogthos  
+**Published:** 9/11/2026, 6:14:45 PM  
 **Categories:** -  
 
-Article URL: https://engineering.conveo.ai/posts/asdr-ai-slop-dont-read Comments URL: https://news.ycombinator.com/item?id=49659368 Points: 1 # Comments: 1
+Article URL: https://technode.com/2026/09/11/huawei-showcases-a-7-2tbps-near-package-optics-module-for-ai-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=49662830 Points: 1 # Comments: 0
 
-📖 [Read original article](https://engineering.conveo.ai/posts/asdr-ai-slop-dont-read)
+📖 [Read original article](https://technode.com/2026/09/11/huawei-showcases-a-7-2tbps-near-package-optics-module-for-ai-infrastructure/)
 
 ---
 
-## 16. Ask HN: What if we funded math research like we fund AI labs?
+## 16. Mammouth AI
 
-**Author:** Murfalo  
-**Published:** 9/11/2026, 2:35:03 PM  
+**Author:** LelouBil  
+**Published:** 9/11/2026, 6:14:24 PM  
 **Categories:** -  
 
-The annual U.S. federal budget for basic math research is OpenAI alone just raised ~$122B, and frontier labs are increasingly concentrating enormous amounts of compute and human talent on open math problems.We seem to be entering a strange situation where a handful of private labs have vastly more r...
+Article URL: https://mammouth.ai Comments URL: https://news.ycombinator.com/item?id=49662828 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49659173)
+📖 [Read original article](https://mammouth.ai)
 
 ---
 
-## 17. The Worst Spam Emails: Inside iLands' AI Agent Hustle
+## 17. Limiting AI news would hide what is happening to software
 
-**Author:** shortformblog  
-**Published:** 9/11/2026, 2:21:36 PM  
+**Author:** meetpateltech  
+**Published:** 9/11/2026, 6:08:03 PM  
 **Categories:** -  
 
-Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49658958 Points: 1 # Comments: 0
+Article URL: https://lord.technology/2026/09/11/ai-is-not-crowding-out-hacking.html Comments URL: https://news.ycombinator.com/item?id=49662714 Points: 2 # Comments: 1
 
-📖 [Read original article](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
+📖 [Read original article](https://lord.technology/2026/09/11/ai-is-not-crowding-out-hacking.html)
 
 ---
 
-## 18. Show HN: Toolcraft – open-source AI harness and starter for building design apps
+## 18. AI researcher Andrew Tulloch is leaving Meta
 
-**Author:** AlexBV  
-**Published:** 9/11/2026, 2:11:09 PM  
+**Author:** gmays  
+**Published:** 9/11/2026, 5:57:57 PM  
 **Categories:** -  
 
-MIT-licensed, 100% free starter kit, UI library, and AI harness for building your own design apps. Works with Codex, Claude, Cursor, or any other agents.I’ve always been passionate about pushing the boundaries of design software, spending years with tools like Figma, Blender, After Effects, Photosho...
+Article URL: https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta Comments URL: https://news.ycombinator.com/item?id=49662546 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/pixel-point/toolcraft)
+📖 [Read original article](https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta)
 
 ---
 
-## 19. Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships
+## 19. MIT Explains the 12 Possible Endings for AI
 
-**Author:** mrln  
-**Published:** 9/11/2026, 2:07:51 PM  
+**Author:** nyc111  
+**Published:** 9/11/2026, 5:51:34 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05 Comments URL: https://news.ycombinator.com/item?id=49658682 Points: 16 # Comments: 3
+Article URL: https://www.youtube.com/watch?v=FLcrvMfHUJM Comments URL: https://news.ycombinator.com/item?id=49662457 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05)
+📖 [Read original article](https://www.youtube.com/watch?v=FLcrvMfHUJM)
 
 ---
 
-## 20. 190proof opinionated unified interface to interact with multiple AI providers
+## 20. A misalignment of AI in mathematics
 
-**Author:** Bluestein  
-**Published:** 9/11/2026, 2:01:57 PM  
+**Author:** meredydd  
+**Published:** 9/11/2026, 5:45:12 PM  
 **Categories:** -  
 
-Article URL: https://github.com/0xmmo/190proof Comments URL: https://news.ycombinator.com/item?id=49658600 Points: 1 # Comments: 0
+https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 251 # Comments: 345
 
-📖 [Read original article](https://github.com/0xmmo/190proof)
+📖 [Read original article](https://mathandai.org/)
 
 ---
