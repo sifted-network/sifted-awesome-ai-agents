@@ -11,7 +11,7 @@ count: 1
 
 ---
 
-## 1. Roundtables: AI’s apocalypse crisis
+## 1. Roundtables: Could AI really kill us all?
 
 **Author:** MIT Technology Review  
 **Published:** 9/11/2026, 8:05:06 PM  
