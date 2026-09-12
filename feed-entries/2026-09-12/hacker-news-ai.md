@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Reduce token cost with Metrum AI Router – routing intelligence you can train
+## 1. The Accountability Gap in AI
 
-**Author:** RouterTouter  
-**Published:** 9/12/2026, 2:39:20 PM  
+**Author:** lyfeninja  
+**Published:** 9/12/2026, 8:11:54 PM  
 **Categories:** -  
 
-Article URL: https://github.com/metrum-ai/router Comments URL: https://news.ycombinator.com/item?id=49672777 Points: 1 # Comments: 0
+Article URL: https://lyfe.ninja/news/the-accountability-gap-in-ai/ Comments URL: https://news.ycombinator.com/item?id=49676697 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/metrum-ai/router)
+📖 [Read original article](https://lyfe.ninja/news/the-accountability-gap-in-ai/)
 
 ---
 
-## 2. A Misalignment of AI in Mathematics: Kevin Buzzard Responds
+## 2. Show HN: AgentRuleBench, does AI agents violate inferred architecture rules?
 
-**Author:** mathgenius  
-**Published:** 9/12/2026, 2:19:30 PM  
+**Author:** Tommkruix123  
+**Published:** 9/12/2026, 7:57:08 PM  
 **Categories:** -  
 
-Article URL: https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/Declaration.3A.20A.20Severe.20Misalignment.20of.20AI.20in.20Mathematics/near/623707262 Comments URL: https://news.ycombinator.com/item?id=49672572 Points: 4 # Comments: 1
+Article URL: https://github.com/Tommkruix/agentrulebench Comments URL: https://news.ycombinator.com/item?id=49676575 Points: 1 # Comments: 0
 
-📖 [Read original article](https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/Declaration.3A.20A.20Severe.20Misalignment.20of.20AI.20in.20Mathematics/near/623707262)
+📖 [Read original article](https://github.com/Tommkruix/agentrulebench)
 
 ---
 
-## 3. EU tech chief backs global AI rules in wake of extinction warning
-
-**Author:** tosh  
-**Published:** 9/12/2026, 2:16:33 PM  
-**Categories:** -  
-
-Article URL: https://www.politico.eu/article/henna-virkkunen-eu-global-ai-rules-extinction-warning/ Comments URL: https://news.ycombinator.com/item?id=49672551 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.politico.eu/article/henna-virkkunen-eu-global-ai-rules-extinction-warning/)
-
----
-
-## 4. Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?
-
-**Author:** general_reveal  
-**Published:** 9/12/2026, 2:15:04 PM  
-**Categories:** -  
-
-Comments URL: https://news.ycombinator.com/item?id=49672539 Points: 1 # Comments: 1
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49672539)
-
----
-
-## 5. LLMs are real, AI is fake
-
-**Author:** danaris  
-**Published:** 9/12/2026, 1:47:28 PM  
-**Categories:** -  
-
-Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 16 # Comments: 2
-
-📖 [Read original article](https://pluralistic.net/2026/09/12/god-in-the-box/)
-
----
-
-## 6. Don't build tools for AI agents
-
-**Author:** ingve  
-**Published:** 9/12/2026, 1:20:32 PM  
-**Categories:** -  
-
-Article URL: https://www.seangoedecke.com/dont-build-tools-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49672067 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.seangoedecke.com/dont-build-tools-for-ai-agents/)
-
----
-
-## 7. Political AI Field Guide: Factions and Beliefs
+## 3. OpenAI delaying IPO amid AI safety concerns, Sam Altman says
 
 **Author:** m-hodges  
-**Published:** 9/12/2026, 1:16:34 PM  
+**Published:** 9/12/2026, 7:55:41 PM  
 **Categories:** -  
 
-Article URL: https://kategage.substack.com/p/political-ai-field-guide-factions Comments URL: https://news.ycombinator.com/item?id=49672043 Points: 1 # Comments: 0
+Article URL: https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman Comments URL: https://news.ycombinator.com/item?id=49676564 Points: 4 # Comments: 0
 
-📖 [Read original article](https://kategage.substack.com/p/political-ai-field-guide-factions)
+📖 [Read original article](https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman)
 
 ---
 
-## 8. Language Preservation Efforts Get an AI Boost
+## 4. Show HN: An independent directory of AI misalignment reports
 
-**Author:** Anon84  
-**Published:** 9/12/2026, 12:52:28 PM  
+**Author:** awormuth  
+**Published:** 9/12/2026, 7:55:19 PM  
 **Categories:** -  
 
-Article URL: https://home.dartmouth.edu/news/2025/04/language-preservations-efforts-get-ai-boost Comments URL: https://news.ycombinator.com/item?id=49671841 Points: 1 # Comments: 0
+Hey HN,In light of the concerns regarding AI safety, I created a website to track all known cases of misalignment.I will keep this up to date as more cases emerge. Anyone is encouraged to submit a report (anonymous or otherwise).Frontier labs should make all misalignment data public. Citizens have a...
 
-📖 [Read original article](https://home.dartmouth.edu/news/2025/04/language-preservations-efforts-get-ai-boost)
+📖 [Read original article](https://misalignment.xyz/)
 
 ---
 
-## 9. NüshuRescue: Reviving the Endangered Nüshu Language with AI
+## 5. Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute
 
-**Author:** Anon84  
-**Published:** 9/12/2026, 12:51:25 PM  
+**Author:** Bender  
+**Published:** 9/12/2026, 7:49:12 PM  
 **Categories:** -  
 
-Article URL: https://aclanthology.org/2025.coling-main.468/ Comments URL: https://news.ycombinator.com/item?id=49671831 Points: 1 # Comments: 0
+Article URL: https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan Comments URL: https://news.ycombinator.com/item?id=49676506 Points: 5 # Comments: 0
 
-📖 [Read original article](https://aclanthology.org/2025.coling-main.468/)
+📖 [Read original article](https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan)
 
 ---
 
-## 10. 368 of the top 2,771 sites block at least one AI search crawler
+## 6. Asking the most uncomfortable question in AI
 
-**Author:** reesecalder  
-**Published:** 9/12/2026, 12:25:58 PM  
+**Author:** danba340  
+**Published:** 9/12/2026, 7:46:42 PM  
 **Categories:** -  
 
-Article URL: https://ai-visibility.lastminutedealshq.com/sites-blocking-ai-search Comments URL: https://news.ycombinator.com/item?id=49671635 Points: 2 # Comments: 0
+Article URL: https://www.aiminority.dev/the-ai-danger-public-temperature-check Comments URL: https://news.ycombinator.com/item?id=49676468 Points: 2 # Comments: 1
 
-📖 [Read original article](https://ai-visibility.lastminutedealshq.com/sites-blocking-ai-search)
+📖 [Read original article](https://www.aiminority.dev/the-ai-danger-public-temperature-check)
 
 ---
 
-## 11. \"The CUDA Moat is Gone\" – TechTechPotato with AI& founder David Bennet [video]
+## 7. Anthropic CEO calls on AI companies to slow down development
 
-**Author:** olvy0  
-**Published:** 9/12/2026, 12:14:22 PM  
+**Author:** throwawayffffas  
+**Published:** 9/12/2026, 7:38:49 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=TiRxcPQNcBA Comments URL: https://news.ycombinator.com/item?id=49671538 Points: 4 # Comments: 0
+Article URL: https://www.euronews.com/my-europe/2026/09/12/anthropic-ceo-dario-amodei-calls-on-ai-companies-to-slow-down-ai-development-amid-superint Comments URL: https://news.ycombinator.com/item?id=49676369 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=TiRxcPQNcBA)
+📖 [Read original article](https://www.euronews.com/my-europe/2026/09/12/anthropic-ceo-dario-amodei-calls-on-ai-companies-to-slow-down-ai-development-amid-superint)
 
 ---
 
-## 12. Journal Editors: How are you evaluating AI assisted papers?
+## 8. In the Age of AI, TODOs Considered Harmful
 
-**Author:** jjgreen  
-**Published:** 9/12/2026, 12:06:57 PM  
+**Author:** TeaVMFan  
+**Published:** 9/12/2026, 7:33:48 PM  
 **Categories:** -  
 
-Article URL: https://mathoverflow.net/questions/515144/journal-editors-how-are-you-evaluating-ai-assisted-papers Comments URL: https://news.ycombinator.com/item?id=49671481 Points: 1 # Comments: 0
+Article URL: https://frequal.com/java/TodosConsideredHarmful.html Comments URL: https://news.ycombinator.com/item?id=49676305 Points: 1 # Comments: 2
 
-📖 [Read original article](https://mathoverflow.net/questions/515144/journal-editors-how-are-you-evaluating-ai-assisted-papers)
+📖 [Read original article](https://frequal.com/java/TodosConsideredHarmful.html)
 
 ---
 
-## 13. AI changing the calculus for Canadian students interested in comp sci
+## 9. Catholic tech leaders urge ethical boundaries for AI
 
-**Author:** AnodicElegy  
-**Published:** 9/12/2026, 11:59:43 AM  
+**Author:** journey2s  
+**Published:** 9/12/2026, 7:17:42 PM  
 **Categories:** -  
 
-Article URL: https://www.theglobeandmail.com/canada/article-ai-computer-science-students-and-schools-that-hope-to-teach-them/ Comments URL: https://news.ycombinator.com/item?id=49671432 Points: 3 # Comments: 1
+Article URL: https://www.ewtnnews.com/world/us/catholic-tech-leaders-urge-ethical-boundaries-for-ai Comments URL: https://news.ycombinator.com/item?id=49676123 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theglobeandmail.com/canada/article-ai-computer-science-students-and-schools-that-hope-to-teach-them/)
+📖 [Read original article](https://www.ewtnnews.com/world/us/catholic-tech-leaders-urge-ethical-boundaries-for-ai)
 
 ---
 
-## 14. Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations
+## 10. Recommendations for Teaching with AI (Fall 2026)
 
-**Author:** robot1996  
-**Published:** 9/12/2026, 11:46:14 AM  
+**Author:** alcidesfonseca  
+**Published:** 9/12/2026, 7:14:22 PM  
 **Categories:** -  
 
-Article URL: https://tattoopreviewai.com Comments URL: https://news.ycombinator.com/item?id=49671355 Points: 2 # Comments: 0
+Article URL: https://wiki.alcidesfonseca.com/blog/fall-2026-recommendations-for-ai-in-higher-education/ Comments URL: https://news.ycombinator.com/item?id=49676069 Points: 1 # Comments: 0
 
-📖 [Read original article](https://tattoopreviewai.com)
+📖 [Read original article](https://wiki.alcidesfonseca.com/blog/fall-2026-recommendations-for-ai-in-higher-education/)
 
 ---
 
-## 15. Show HN: I wrote a book on using AI in game design production (free on GitHub)
+## 11. Google allegedly stole open-source code for mobile AI tool
 
-**Author:** eremes81  
-**Published:** 9/12/2026, 11:44:34 AM  
+**Author:** OutOfHere  
+**Published:** 9/12/2026, 7:05:11 PM  
 **Categories:** -  
 
-Article URL: https://github.com/eremes81/game-design-ai-practice-en Comments URL: https://news.ycombinator.com/item?id=49671342 Points: 3 # Comments: 0
+Article URL: https://www.neowin.net/news/google-steals-open-source-code-for-mobile-ai-tool/ Comments URL: https://news.ycombinator.com/item?id=49675970 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/eremes81/game-design-ai-practice-en)
+📖 [Read original article](https://www.neowin.net/news/google-steals-open-source-code-for-mobile-ai-tool/)
 
 ---
 
-## 16. Altman tells staff OpenAI is open to slowing AI development
+## 12. Musk and Altman back Anthropic CEO on slowing AI down
 
-**Author:** signa11  
-**Published:** 9/12/2026, 11:33:02 AM  
+**Author:** andsoitis  
+**Published:** 9/12/2026, 6:45:34 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/ Comments URL: https://news.ycombinator.com/item?id=49671274 Points: 21 # Comments: 54
+Article URL: https://www.yahoo.com/news/us/article/dario-is-right-musk-and-altman-back-anthropic-ceo-on-slowing-ai-down-182008851.html Comments URL: https://news.ycombinator.com/item?id=49675740 Points: 4 # Comments: 7
 
-📖 [Read original article](https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/)
+📖 [Read original article](https://www.yahoo.com/news/us/article/dario-is-right-musk-and-altman-back-anthropic-ceo-on-slowing-ai-down-182008851.html)
 
 ---
 
-## 17. The Houthi's weapon programme and AI
+## 13. Show HN: AI-Powered Word Guessing Game
 
-**Author:** Sizzling4028  
-**Published:** 9/12/2026, 11:16:30 AM  
+**Author:** barbierocks  
+**Published:** 9/12/2026, 6:44:12 PM  
 **Categories:** -  
 
-Article URL: https://www.karlsnotes.com/the-houthis-weapon-programme-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49671169 Points: 3 # Comments: 0
+Made a word game, inspired by other popular games but with a guesser powered by Gemini 3.5 Flash Lite. Feedback welcome! Comments URL: https://news.ycombinator.com/item?id=49675722 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.karlsnotes.com/the-houthis-weapon-programme-and-ai/)
+📖 [Read original article](https://synapse.akshayr.xyz/)
 
 ---
 
-## 18. The Worst Spam Emails: Inside iLands' AI Agent Hustle
+## 14. Dario Just Said Pump the Brakes on AI
 
-**Author:** ColinWright  
-**Published:** 9/12/2026, 11:13:38 AM  
+**Author:** richartruddie  
+**Published:** 9/12/2026, 6:26:54 PM  
 **Categories:** -  
 
-Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 58 # Comments: 29
+Article URL: https://captaincompliance.com/education/dario-just-proposed-slowing-ai-development-on-purpose/ Comments URL: https://news.ycombinator.com/item?id=49675489 Points: 6 # Comments: 4
 
-📖 [Read original article](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
+📖 [Read original article](https://captaincompliance.com/education/dario-just-proposed-slowing-ai-development-on-purpose/)
 
 ---
 
-## 19. Andrew Ng: AI Engineering Skills Map: Shaping the Build
+## 15. AI Bubble Crashing Its Way into AI Abundance?
 
-**Author:** Anon84  
-**Published:** 9/12/2026, 11:05:23 AM  
+**Author:** hmichaelson24  
+**Published:** 9/12/2026, 6:16:59 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/andrewyng/status/2098459474608672916 Comments URL: https://news.ycombinator.com/item?id=49671121 Points: 3 # Comments: 0
+As we move into a world of maximum engagement over substance and hype over reality, it becomes more important than ever to sift through the noise and find the truth. This is especially true in today's AI industry. If you read Twitter, it sometimes seems like everyone believes AI is going to take ove...
 
-📖 [Read original article](https://twitter.com/andrewyng/status/2098459474608672916)
+📖 [Read original article](https://news.ycombinator.com/item?id=49675362)
 
 ---
 
-## 20. Aristotle and AI
+## 16. 'We must slow the pace': CEO of Anthropic calls for an AI slowdown
 
-**Author:** HR01  
-**Published:** 9/12/2026, 10:57:28 AM  
+**Author:** tzmlab  
+**Published:** 9/12/2026, 6:08:33 PM  
 **Categories:** -  
 
-Article URL: https://hollisrobbinsanecdotal.substack.com/p/aristotle-and-ai Comments URL: https://news.ycombinator.com/item?id=49671078 Points: 2 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown Comments URL: https://news.ycombinator.com/item?id=49675270 Points: 8 # Comments: 3
 
-📖 [Read original article](https://hollisrobbinsanecdotal.substack.com/p/aristotle-and-ai)
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown)
+
+---
+
+## 17. Scaling classical music concert crawlers with AI agents
+
+**Author:** druskacik  
+**Published:** 9/12/2026, 6:07:13 PM  
+**Categories:** -  
+
+Article URL: https://classicalbot.com/blog/scaling-classical-music-concert-crawlers-with-ai-agents Comments URL: https://news.ycombinator.com/item?id=49675250 Points: 1 # Comments: 0
+
+📖 [Read original article](https://classicalbot.com/blog/scaling-classical-music-concert-crawlers-with-ai-agents)
+
+---
+
+## 18. Anthropic CEO Says It's Time to Slow AI Model Advances
+
+**Author:** sbulaev  
+**Published:** 9/12/2026, 6:07:07 PM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models Comments URL: https://news.ycombinator.com/item?id=49675247 Points: 40 # Comments: 56
+
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
+
+---
+
+## 19. DEF Con 34 – Hacking AI – Bruce Schneier [video]
+
+**Author:** Klaster_1  
+**Published:** 9/12/2026, 6:01:35 PM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=eEBv0STiYhI Comments URL: https://news.ycombinator.com/item?id=49675185 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=eEBv0STiYhI)
+
+---
+
+## 20. Anthropic CEO calls for the AI industry to slow down
+
+**Author:** jader201  
+**Published:** 9/12/2026, 5:50:39 PM  
+**Categories:** -  
+
+Article URL: https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/ Comments URL: https://news.ycombinator.com/item?id=49675061 Points: 7 # Comments: 5
+
+📖 [Read original article](https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/)
 
 ---
