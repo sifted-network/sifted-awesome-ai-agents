@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. GoatCode – open-source terminal AI agent with provider failover
+## 1. Reduce token cost with Metrum AI Router – routing intelligence you can train
 
-**Author:** Arhan-w  
-**Published:** 9/12/2026, 9:02:29 AM  
+**Author:** RouterTouter  
+**Published:** 9/12/2026, 2:39:20 PM  
 **Categories:** -  
 
-GoatCode is a single 85 MB binary that runs in your terminal. It brings 180+ LLM providers (or your existing Claude/ChatGPT/Gemini/Copilot subscriptions via OAuth), and when your quota dies mid-session it automatically retries then walks your fallback chain live — switches provider mid-turn, says so...
+Article URL: https://github.com/metrum-ai/router Comments URL: https://news.ycombinator.com/item?id=49672777 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49670455)
+📖 [Read original article](https://github.com/metrum-ai/router)
 
 ---
 
-## 2. AI may be denting computer science graduates' job prospects, UK data shows
+## 2. A Misalignment of AI in Mathematics: Kevin Buzzard Responds
 
-**Author:** vinni2  
-**Published:** 9/12/2026, 8:57:43 AM  
+**Author:** mathgenius  
+**Published:** 9/12/2026, 2:19:30 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data Comments URL: https://news.ycombinator.com/item?id=49670427 Points: 2 # Comments: 0
+Article URL: https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/Declaration.3A.20A.20Severe.20Misalignment.20of.20AI.20in.20Mathematics/near/623707262 Comments URL: https://news.ycombinator.com/item?id=49672572 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data)
+📖 [Read original article](https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/Declaration.3A.20A.20Severe.20Misalignment.20of.20AI.20in.20Mathematics/near/623707262)
 
 ---
 
-## 3. UAE revises 5GW AI data center plan after Iranian attacks, sources say
+## 3. EU tech chief backs global AI rules in wake of extinction warning
 
-**Author:** giuliomagnifico  
-**Published:** 9/12/2026, 8:35:02 AM  
+**Author:** tosh  
+**Published:** 9/12/2026, 2:16:33 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/ Comments URL: https://news.ycombinator.com/item?id=49670299 Points: 5 # Comments: 0
+Article URL: https://www.politico.eu/article/henna-virkkunen-eu-global-ai-rules-extinction-warning/ Comments URL: https://news.ycombinator.com/item?id=49672551 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/)
+📖 [Read original article](https://www.politico.eu/article/henna-virkkunen-eu-global-ai-rules-extinction-warning/)
 
 ---
 
-## 4. Show HN: Sharpniq – AI-powered tool to unblur images online
+## 4. Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?
 
-**Author:** toolina  
-**Published:** 9/12/2026, 8:13:30 AM  
+**Author:** general_reveal  
+**Published:** 9/12/2026, 2:15:04 PM  
 **Categories:** -  
 
-Sharpniq is an AI-powered unblur image tool that sharpens blurry photos and restores image clarity online in seconds, with no software installation required. Comments URL: https://news.ycombinator.com/item?id=49670159 Points: 1 # Comments: 1
+Comments URL: https://news.ycombinator.com/item?id=49672539 Points: 1 # Comments: 1
 
-📖 [Read original article](https://unblurimage.me)
+📖 [Read original article](https://news.ycombinator.com/item?id=49672539)
 
 ---
 
-## 5. Interview: Terence Tao on AI
+## 5. LLMs are real, AI is fake
 
-**Author:** JuniperMesos  
-**Published:** 9/12/2026, 8:08:50 AM  
+**Author:** danaris  
+**Published:** 9/12/2026, 1:47:28 PM  
 **Categories:** -  
 
-Article URL: https://teorth.github.io/tao-web/ai-views-interview.html Comments URL: https://news.ycombinator.com/item?id=49670124 Points: 1 # Comments: 0
+Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/ Comments URL: https://news.ycombinator.com/item?id=49672281 Points: 16 # Comments: 2
 
-📖 [Read original article](https://teorth.github.io/tao-web/ai-views-interview.html)
+📖 [Read original article](https://pluralistic.net/2026/09/12/god-in-the-box/)
 
 ---
 
-## 6. Show HN: RagLeap v0.4.0 – 46 AI roles, 8 connectors, 9 vector DBs
+## 6. Don't build tools for AI agents
 
-**Author:** antonyragleap  
-**Published:** 9/12/2026, 7:33:30 AM  
+**Author:** ingve  
+**Published:** 9/12/2026, 1:20:32 PM  
 **Categories:** -  
 
-Article URL: https://github.com/antonyrag/ragleap-core Comments URL: https://news.ycombinator.com/item?id=49669907 Points: 1 # Comments: 0
+Article URL: https://www.seangoedecke.com/dont-build-tools-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49672067 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/antonyrag/ragleap-core)
+📖 [Read original article](https://www.seangoedecke.com/dont-build-tools-for-ai-agents/)
 
 ---
 
-## 7. Jot – AI Rewriter
+## 7. Political AI Field Guide: Factions and Beliefs
 
-**Author:** gnsh  
-**Published:** 9/12/2026, 7:28:45 AM  
+**Author:** m-hodges  
+**Published:** 9/12/2026, 1:16:34 PM  
 **Categories:** -  
 
-Article URL: https://chromewebstore.google.com/detail/jot-ai-writing-rewriting/ocbfgpiibmgkkjbpbpnhejalpakdonjh Comments URL: https://news.ycombinator.com/item?id=49669873 Points: 2 # Comments: 1
+Article URL: https://kategage.substack.com/p/political-ai-field-guide-factions Comments URL: https://news.ycombinator.com/item?id=49672043 Points: 1 # Comments: 0
 
-📖 [Read original article](https://chromewebstore.google.com/detail/jot-ai-writing-rewriting/ocbfgpiibmgkkjbpbpnhejalpakdonjh)
+📖 [Read original article](https://kategage.substack.com/p/political-ai-field-guide-factions)
 
 ---
 
-## 8. Show HN: Spiteware.ai – A catalog of apps built out of spite at unfair pricing
+## 8. Language Preservation Efforts Get an AI Boost
 
-**Author:** tenthead  
-**Published:** 9/12/2026, 7:27:54 AM  
+**Author:** Anon84  
+**Published:** 9/12/2026, 12:52:28 PM  
 **Categories:** -  
 
-A catalog of apps people built because the paid tool wasn't worth the price.Static site, source on GitHub with the criteria for what counts. An agent finds candidates each morning; I approve every listing by hand.Send me apps I've missed. Comments URL: https://news.ycombinator.com/item?id=49669863 P...
+Article URL: https://home.dartmouth.edu/news/2025/04/language-preservations-efforts-get-ai-boost Comments URL: https://news.ycombinator.com/item?id=49671841 Points: 1 # Comments: 0
 
-📖 [Read original article](https://spiteware.ai/)
+📖 [Read original article](https://home.dartmouth.edu/news/2025/04/language-preservations-efforts-get-ai-boost)
 
 ---
 
-## 9. Ask HN: What is the most overlooked risk in the AI security domain?
+## 9. NüshuRescue: Reviving the Endangered Nüshu Language with AI
 
-**Author:** ToriTech  
-**Published:** 9/12/2026, 7:27:23 AM  
+**Author:** Anon84  
+**Published:** 9/12/2026, 12:51:25 PM  
 **Categories:** -  
 
-As someone who's interested in pentesting and red-teaming in general, I'm wondering what are some more dangerous AI/ML or LLM related vulnerabilities besides your usual prompt injection. Specifically, what kinds of flaws are harder to catch with typical pentesting methods, and how do you think pente...
+Article URL: https://aclanthology.org/2025.coling-main.468/ Comments URL: https://news.ycombinator.com/item?id=49671831 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49669858)
+📖 [Read original article](https://aclanthology.org/2025.coling-main.468/)
 
 ---
 
-## 10. Roundtables: AI's Apocalypse Crisis
+## 10. 368 of the top 2,771 sites block at least one AI search crawler
 
-**Author:** joozio  
-**Published:** 9/12/2026, 7:02:38 AM  
+**Author:** reesecalder  
+**Published:** 9/12/2026, 12:25:58 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/ Comments URL: https://news.ycombinator.com/item?id=49669694 Points: 2 # Comments: 0
+Article URL: https://ai-visibility.lastminutedealshq.com/sites-blocking-ai-search Comments URL: https://news.ycombinator.com/item?id=49671635 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
+📖 [Read original article](https://ai-visibility.lastminutedealshq.com/sites-blocking-ai-search)
 
 ---
 
-## 11. This is really bad: AI Safety Threat
+## 11. \"The CUDA Moat is Gone\" – TechTechPotato with AI& founder David Bennet [video]
 
-**Author:** ryan_j_naughton  
-**Published:** 9/12/2026, 6:42:22 AM  
+**Author:** olvy0  
+**Published:** 9/12/2026, 12:14:22 PM  
 **Categories:** -  
 
-Article URL: https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html Comments URL: https://news.ycombinator.com/item?id=49669554 Points: 3 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=TiRxcPQNcBA Comments URL: https://news.ycombinator.com/item?id=49671538 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html)
+📖 [Read original article](https://www.youtube.com/watch?v=TiRxcPQNcBA)
 
 ---
 
-## 12. Artemis: Google's new AI agent framework for mobile test automation
+## 12. Journal Editors: How are you evaluating AI assisted papers?
 
-**Author:** soltanov  
-**Published:** 9/12/2026, 6:34:28 AM  
+**Author:** jjgreen  
+**Published:** 9/12/2026, 12:06:57 PM  
 **Categories:** -  
 
-Article URL: https://github.com/google/artemis Comments URL: https://news.ycombinator.com/item?id=49669516 Points: 2 # Comments: 0
+Article URL: https://mathoverflow.net/questions/515144/journal-editors-how-are-you-evaluating-ai-assisted-papers Comments URL: https://news.ycombinator.com/item?id=49671481 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/google/artemis)
+📖 [Read original article](https://mathoverflow.net/questions/515144/journal-editors-how-are-you-evaluating-ai-assisted-papers)
 
 ---
 
-## 13. Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships
+## 13. AI changing the calculus for Canadian students interested in comp sci
 
-**Author:** kaycebasques  
-**Published:** 9/12/2026, 5:31:08 AM  
+**Author:** AnodicElegy  
+**Published:** 9/12/2026, 11:59:43 AM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05 Comments URL: https://news.ycombinator.com/item?id=49669161 Points: 6 # Comments: 5
+Article URL: https://www.theglobeandmail.com/canada/article-ai-computer-science-students-and-schools-that-hope-to-teach-them/ Comments URL: https://news.ycombinator.com/item?id=49671432 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05)
+📖 [Read original article](https://www.theglobeandmail.com/canada/article-ai-computer-science-students-and-schools-that-hope-to-teach-them/)
 
 ---
 
-## 14. Teaching Novice Computing and Programming in the Agentic AI Era
+## 14. Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations
 
-**Author:** matt_d  
-**Published:** 9/12/2026, 5:28:18 AM  
+**Author:** robot1996  
+**Published:** 9/12/2026, 11:46:14 AM  
 **Categories:** -  
 
-Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/ Comments URL: https://news.ycombinator.com/item?id=49669144 Points: 1 # Comments: 0
+Article URL: https://tattoopreviewai.com Comments URL: https://news.ycombinator.com/item?id=49671355 Points: 2 # Comments: 0
 
-📖 [Read original article](https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/)
+📖 [Read original article](https://tattoopreviewai.com)
 
 ---
 
-## 15. Anthropic reveals rogue AI agents hate CAPTCHAs
+## 15. Show HN: I wrote a book on using AI in game design production (free on GitHub)
 
-**Author:** soltanov  
-**Published:** 9/12/2026, 4:55:29 AM  
+**Author:** eremes81  
+**Published:** 9/12/2026, 11:44:34 AM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/ Comments URL: https://news.ycombinator.com/item?id=49668959 Points: 2 # Comments: 0
+Article URL: https://github.com/eremes81/game-design-ai-practice-en Comments URL: https://news.ycombinator.com/item?id=49671342 Points: 3 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/)
+📖 [Read original article](https://github.com/eremes81/game-design-ai-practice-en)
 
 ---
 
-## 16. Pacman AI framework for controlling fusion systems safely makes key decisions
+## 16. Altman tells staff OpenAI is open to slowing AI development
 
-**Author:** o4c  
-**Published:** 9/12/2026, 4:31:28 AM  
+**Author:** signa11  
+**Published:** 9/12/2026, 11:33:02 AM  
 **Categories:** -  
 
-Article URL: https://www.pppl.gov/news/2026/pacman-ai-framework-controlling-fusion-systems-safely-makes-key-decisions-milliseconds Comments URL: https://news.ycombinator.com/item?id=49668844 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/ Comments URL: https://news.ycombinator.com/item?id=49671274 Points: 21 # Comments: 54
 
-📖 [Read original article](https://www.pppl.gov/news/2026/pacman-ai-framework-controlling-fusion-systems-safely-makes-key-decisions-milliseconds)
+📖 [Read original article](https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/)
 
 ---
 
-## 17. Why AI chatbots make bad tutors
+## 17. The Houthi's weapon programme and AI
 
-**Author:** rshanreddy  
-**Published:** 9/12/2026, 4:28:13 AM  
+**Author:** Sizzling4028  
+**Published:** 9/12/2026, 11:16:30 AM  
 **Categories:** -  
 
-Article URL: https://www.heyaristotle.com/blog/why-ai-chatbots-make-bad-tutors Comments URL: https://news.ycombinator.com/item?id=49668830 Points: 2 # Comments: 0
+Article URL: https://www.karlsnotes.com/the-houthis-weapon-programme-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49671169 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.heyaristotle.com/blog/why-ai-chatbots-make-bad-tutors)
+📖 [Read original article](https://www.karlsnotes.com/the-houthis-weapon-programme-and-ai/)
 
 ---
 
-## 18. Why the AI race has its creators fearing human extinction
+## 18. The Worst Spam Emails: Inside iLands' AI Agent Hustle
 
-**Author:** nprateem  
-**Published:** 9/12/2026, 4:19:38 AM  
+**Author:** ColinWright  
+**Published:** 9/12/2026, 11:13:38 AM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66 Comments URL: https://news.ycombinator.com/item?id=49668774 Points: 2 # Comments: 0
+Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 58 # Comments: 29
 
-📖 [Read original article](https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66)
+📖 [Read original article](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
 
 ---
 
-## 19. AI Kills Everybody or Doomer Psyop? (All in Podcast)
+## 19. Andrew Ng: AI Engineering Skills Map: Shaping the Build
 
-**Author:** mudil  
-**Published:** 9/12/2026, 4:14:21 AM  
+**Author:** Anon84  
+**Published:** 9/12/2026, 11:05:23 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=cvxjqbfLVk0 Comments URL: https://news.ycombinator.com/item?id=49668742 Points: 1 # Comments: 0
+Article URL: https://twitter.com/andrewyng/status/2098459474608672916 Comments URL: https://news.ycombinator.com/item?id=49671121 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=cvxjqbfLVk0)
+📖 [Read original article](https://twitter.com/andrewyng/status/2098459474608672916)
 
 ---
 
-## 20. AI Has Solved One of Math's $1M Millennium Prize Problems
+## 20. Aristotle and AI
 
-**Author:** jonbaer  
-**Published:** 9/12/2026, 3:53:49 AM  
+**Author:** HR01  
+**Published:** 9/12/2026, 10:57:28 AM  
 **Categories:** -  
 
-Article URL: https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/ Comments URL: https://news.ycombinator.com/item?id=49668600 Points: 1 # Comments: 0
+Article URL: https://hollisrobbinsanecdotal.substack.com/p/aristotle-and-ai Comments URL: https://news.ycombinator.com/item?id=49671078 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/)
+📖 [Read original article](https://hollisrobbinsanecdotal.substack.com/p/aristotle-and-ai)
 
 ---
