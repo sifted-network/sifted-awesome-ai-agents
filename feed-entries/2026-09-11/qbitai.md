@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-11"
 date: "2026-09-11"
 source: "qbitai"
-count: 6
+count: 4
 ---
 
 # qbitai - 2026-09-11
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ count: 6
 
 
 📖 [Read original article](https://www.qbitai.com/2026/09/487282.html)
-
----
-
-## 5. 墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济
-
-**Author:** 量子位的朋友们  
-**Published:** 9/11/2026, 6:19:03 AM  
-**Categories:** 资讯, 墨芯人工智能  
-
-9月9日，墨芯人工智能亮相以"共创AI新经济"为主题的2026 Inclusion·外滩大会。
-
-📖 [Read original article](https://www.qbitai.com/2026/09/487273.html)
-
----
-
-## 6. 量子位「MEET2027智能未来大会」启动！年度榜单征集进行中
-
-**Author:** 量子位的朋友们  
-**Published:** 9/11/2026, 3:57:32 AM  
-**Categories:** 资讯, MEET2027  
-
-今年12月，北京，MEET2027智能未来大会！
-
-📖 [Read original article](https://www.qbitai.com/2026/09/487176.html)
 
 ---
