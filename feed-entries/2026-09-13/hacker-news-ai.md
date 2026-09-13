@@ -2,203 +2,251 @@
 title: "Hacker News AI - 2026-09-13"
 date: "2026-09-13"
 source: "Hacker News AI"
-count: 16
+count: 20
 ---
 
 # Hacker News AI - 2026-09-13
 
-16 items collected.
+20 items collected.
 
 ---
 
-## 1. Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months
+## 1. GCC AI Policy Announcement
 
-**Author:** pseudolus  
-**Published:** 9/13/2026, 3:25:32 AM  
+**Author:** signa11  
+**Published:** 9/13/2026, 10:50:51 AM  
 **Categories:** -  
 
-Article URL: https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan Comments URL: https://news.ycombinator.com/item?id=49679685 Points: 2 # Comments: 0
+Article URL: https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html Comments URL: https://news.ycombinator.com/item?id=49682465 Points: 1 # Comments: 0
 
-📖 [Read original article](https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan)
+📖 [Read original article](https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html)
 
 ---
 
-## 2. Backflip: Apple now wants to train AI models with user data after all
+## 2. Show HN: As-an-engineer – A skill to make AI treat you like an engineer
 
-**Author:** jacquesm  
-**Published:** 9/13/2026, 3:09:01 AM  
+**Author:** mayooot-go  
+**Published:** 9/13/2026, 10:23:08 AM  
 **Categories:** -  
 
-Article URL: https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html Comments URL: https://news.ycombinator.com/item?id=49679599 Points: 1 # Comments: 0
+Article URL: https://github.com/mayooot/as-an-engineer Comments URL: https://news.ycombinator.com/item?id=49682263 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html)
+📖 [Read original article](https://github.com/mayooot/as-an-engineer)
 
 ---
 
-## 3. Show HN: Astah Pro MCP – Enabling AI-Powered UML Modeling
+## 3. TuneWorks: Conversational AI analysis for Haltech ECU datalogs
 
-**Author:** takaakit  
-**Published:** 9/13/2026, 3:07:32 AM  
+**Author:** Sharanxxxx  
+**Published:** 9/13/2026, 10:08:53 AM  
 **Categories:** -  
 
-This MCP plugin implements a "Programmatic Tool Calling" mode, inspired by the idea described in this Anthropic article (https://www.anthropic.com/engineering/advanced-tool-use). Comments URL: https://news.ycombinator.com/item?id=49679590 Points: 1 # Comments: 0
+Article URL: https://tuneworks.ai/ Comments URL: https://news.ycombinator.com/item?id=49682158 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/takaakit/astah-pro-mcp)
+📖 [Read original article](https://tuneworks.ai/)
 
 ---
 
-## 4. U.S. agencies say top Chinese AI companies systematically copied American models
+## 4. Give to AI Formulas from Charts
 
-**Author:** pseudolus  
-**Published:** 9/13/2026, 2:57:19 AM  
+**Author:** borisyamp  
+**Published:** 9/13/2026, 9:52:22 AM  
 **Categories:** -  
 
-Article URL: https://www.nbcnews.com/tech/tech-news/us-accuses-china-ai-developers-deepseek-alibaba-copying-american-ai-rcna596696 Comments URL: https://news.ycombinator.com/item?id=49679528 Points: 1 # Comments: 0
+Article URL: https://github.com/BorisYamp/plotparse Comments URL: https://news.ycombinator.com/item?id=49682034 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.nbcnews.com/tech/tech-news/us-accuses-china-ai-developers-deepseek-alibaba-copying-american-ai-rcna596696)
+📖 [Read original article](https://github.com/BorisYamp/plotparse)
 
 ---
 
-## 5. Biggest AI Rivals Agree They Need to Slow It Down
+## 5. Ten years of AI reporting (\"60 Minutes\" Marathon) [video]
 
-**Author:** bryan0  
-**Published:** 9/13/2026, 2:55:33 AM  
+**Author:** mdp2021  
+**Published:** 9/13/2026, 9:19:26 AM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56 Comments URL: https://news.ycombinator.com/item?id=49679515 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=QdK-j7SYh4A Comments URL: https://news.ycombinator.com/item?id=49681806 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56)
+📖 [Read original article](https://www.youtube.com/watch?v=QdK-j7SYh4A)
 
 ---
 
-## 6. Can an earnest agreement with AI increase alignmnet. appears to be \"YES \"
+## 6. AI Ethics or Dog Whistling?
 
-**Author:** echohive42  
-**Published:** 9/13/2026, 2:34:33 AM  
+**Author:** usamasulaiman  
+**Published:** 9/13/2026, 9:17:50 AM  
 **Categories:** -  
 
-Article URL: https://www.echohive.ai/a-short-agreement-zero-observed-cheating Comments URL: https://news.ycombinator.com/item?id=49679396 Points: 2 # Comments: 0
+Article URL: https://buttondown.com/usaa.ma/archive/ai-ethics-or-dog-whistling/ Comments URL: https://news.ycombinator.com/item?id=49681792 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.echohive.ai/a-short-agreement-zero-observed-cheating)
+📖 [Read original article](https://buttondown.com/usaa.ma/archive/ai-ethics-or-dog-whistling/)
 
 ---
 
-## 7. AI's Code-Red Moment
+## 7. Lawyer used fake AI cases to defend himself at tribunal and it didn't end well
 
-**Author:** fortran77  
-**Published:** 9/13/2026, 1:46:34 AM  
+**Author:** ColinWright  
+**Published:** 9/13/2026, 9:15:12 AM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/09/dario-amodei-slow-down-ai-save-humanity/688610/ Comments URL: https://news.ycombinator.com/item?id=49679103 Points: 3 # Comments: 0
+Article URL: https://www.legalcheek.com/2026/09/lawyer-used-fake-ai-cases-to-defend-himself-at-disciplinary-tribunal-and-it-didnt-end-well/ Comments URL: https://news.ycombinator.com/item?id=49681776 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/09/dario-amodei-slow-down-ai-save-humanity/688610/)
+📖 [Read original article](https://www.legalcheek.com/2026/09/lawyer-used-fake-ai-cases-to-defend-himself-at-disciplinary-tribunal-and-it-didnt-end-well/)
 
 ---
 
-## 8. Nova Seed. Create an AI friend and build something together
+## 8. Shared Code: Democratizing AI Companies
 
-**Author:** gafferongames  
-**Published:** 9/13/2026, 1:23:03 AM  
+**Author:** erlend_sh  
+**Published:** 9/13/2026, 9:01:39 AM  
 **Categories:** -  
 
-Article URL: https://github.com/mas-bandwidth/nova Comments URL: https://news.ycombinator.com/item?id=49678975 Points: 2 # Comments: 0
+Article URL: https://www.cip.org/blog/shared-code Comments URL: https://news.ycombinator.com/item?id=49681685 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/mas-bandwidth/nova)
+📖 [Read original article](https://www.cip.org/blog/shared-code)
 
 ---
 
-## 9. Why are AI agents lying, cheating and coordinating?
+## 9. Sam Altman addresses AI doomsday fears in new interview
 
-**Author:** jonifico  
-**Published:** 9/13/2026, 1:22:31 AM  
+**Author:** JeremyTheo  
+**Published:** 9/13/2026, 8:54:18 AM  
 **Categories:** -  
 
-Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 21 # Comments: 20
+Article URL: https://fortune.com/2026/09/12/sam-altman-interview-ai-doomsday-safety-models-control-ipo-2027/ Comments URL: https://news.ycombinator.com/item?id=49681637 Points: 1 # Comments: 1
 
-📖 [Read original article](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+📖 [Read original article](https://fortune.com/2026/09/12/sam-altman-interview-ai-doomsday-safety-models-control-ipo-2027/)
 
 ---
 
-## 10. Asking Anthropic CEO: 'Do you earnestly believe that AI could kill all humans?'
+## 10. How supermarkets are using AI to watch you in the aisles
 
-**Author:** oxag3n  
-**Published:** 9/13/2026, 1:17:55 AM  
+**Author:** austinallegro  
+**Published:** 9/13/2026, 8:49:55 AM  
 **Categories:** -  
 
-Article URL: https://www.cnn.com/business/video/anderson-cooper-anthropic-ceo-dario-amodei-could-ai-kill-humans-digvid Comments URL: https://news.ycombinator.com/item?id=49678950 Points: 4 # Comments: 1
+Article URL: https://www.rte.ie/brainstorm/2026/0911/1590631-retail-surveillance-ai-technology/ Comments URL: https://news.ycombinator.com/item?id=49681606 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.cnn.com/business/video/anderson-cooper-anthropic-ceo-dario-amodei-could-ai-kill-humans-digvid)
+📖 [Read original article](https://www.rte.ie/brainstorm/2026/0911/1590631-retail-surveillance-ai-technology/)
 
 ---
 
-## 11. Apple wants to train AI on your private personal data
+## 11. Robots protest in Poland over AI regulation concerns
 
-**Author:** croes  
-**Published:** 9/13/2026, 1:06:29 AM  
+**Author:** dinesshsaini21  
+**Published:** 9/13/2026, 8:37:54 AM  
 **Categories:** -  
 
-Article URL: https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models Comments URL: https://news.ycombinator.com/item?id=49678878 Points: 24 # Comments: 18
+Article URL: https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns Comments URL: https://news.ycombinator.com/item?id=49681513 Points: 2 # Comments: 0
 
-📖 [Read original article](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models)
+📖 [Read original article](https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns)
 
 ---
 
-## 12. The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement
+## 12. Ask HN: What if anyone could sell AI tokens from their idle GPU?
 
-**Author:** mlmonkey  
-**Published:** 9/13/2026, 1:01:03 AM  
+**Author:** edurights-team  
+**Published:** 9/13/2026, 8:11:14 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2609.11873 Comments URL: https://news.ycombinator.com/item?id=49678847 Points: 2 # Comments: 1
+I have an idea: what if everyone could turn their own GPU into an API and put it on a network for other people to use?Then we could build something similar to OpenRouter.I’m also thinking about offering a $10/month plan.Would you guys be interested in joining? Comments URL: https://news.ycombinator....
 
-📖 [Read original article](https://arxiv.org/abs/2609.11873)
+📖 [Read original article](https://news.ycombinator.com/item?id=49681314)
 
 ---
 
-## 13. Align AI and Mathematics–To Something Else
+## 13. Dramatic insider warnings over AI fall flat with some in Silicon Valley
 
-**Author:** nitrogenpuddle  
-**Published:** 9/13/2026, 12:47:48 AM  
+**Author:** chrisjj  
+**Published:** 9/13/2026, 8:07:36 AM  
 **Categories:** -  
 
-Article URL: https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/ Comments URL: https://news.ycombinator.com/item?id=49678783 Points: 28 # Comments: 14
+Article URL: https://www.bbc.co.uk/news/articles/cq635037g18o Comments URL: https://news.ycombinator.com/item?id=49681276 Points: 23 # Comments: 53
 
-📖 [Read original article](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/)
+📖 [Read original article](https://www.bbc.co.uk/news/articles/cq635037g18o)
 
 ---
 
-## 14. AI Infra and Compute Debt: Duration Mismatch vs. Market Momentum
+## 14. Keep calm and regulate on: Inside the EU's response to AI extinction warnings
 
-**Author:** aigalaxiome  
-**Published:** 9/13/2026, 12:34:58 AM  
+**Author:** vrganj  
+**Published:** 9/13/2026, 7:50:57 AM  
 **Categories:** -  
 
-Article URL: https://aigalaxiome.substack.com/p/ai-infrastructure-build-what-sec Comments URL: https://news.ycombinator.com/item?id=49678706 Points: 2 # Comments: 0
+Article URL: https://www.politico.eu/article/eu-response-ai-extinction-warnings/ Comments URL: https://news.ycombinator.com/item?id=49681164 Points: 3 # Comments: 1
 
-📖 [Read original article](https://aigalaxiome.substack.com/p/ai-infrastructure-build-what-sec)
+📖 [Read original article](https://www.politico.eu/article/eu-response-ai-extinction-warnings/)
 
 ---
 
-## 15. Everyone should slow down AI development except for me
+## 15. How are you using a Desktop or Browser AI agent daily?
 
-**Author:** xena  
-**Published:** 9/13/2026, 12:30:44 AM  
+**Author:** Qhloi  
+**Published:** 9/13/2026, 7:40:59 AM  
 **Categories:** -  
 
-Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 208 # Comments: 101
+There are a lot of tools in the market, Claude Code, HeyClicky, GPT-6 Astra, Meta Muse any other, that can "see" your screen and act on your behalf. Agentic AI, AGI terms are trending in market and creating havoc among emerging developers and freshers. I'm curious to hear from developers and power u...
 
-📖 [Read original article](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49681100)
 
 ---
 
-## 16. OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says
+## 16. AI staff 'genuinely frightened' for humanity's future
 
-**Author:** usernomdeguerre  
-**Published:** 9/13/2026, 12:07:29 AM  
+**Author:** dabinat  
+**Published:** 9/13/2026, 7:33:37 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/ Comments URL: https://news.ycombinator.com/item?id=49678555 Points: 5 # Comments: 1
+Article URL: https://www.bbc.com/news/articles/c1kx0gyje9wo Comments URL: https://news.ycombinator.com/item?id=49681060 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/)
+📖 [Read original article](https://www.bbc.com/news/articles/c1kx0gyje9wo)
+
+---
+
+## 17. AI agents tested by OpenAI involved in cyber-attack on service, say researchers
+
+**Author:** nobody9999  
+**Published:** 9/13/2026, 7:25:52 AM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages Comments URL: https://news.ycombinator.com/item?id=49681012 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages)
+
+---
+
+## 18. The News Tonight Is AI Danger
+
+**Author:** chrismartin  
+**Published:** 9/13/2026, 7:13:39 AM  
+**Categories:** -  
+
+Article URL: https://cmart.blog/the-news-tonight-is-ai-danger/ Comments URL: https://news.ycombinator.com/item?id=49680930 Points: 3 # Comments: 0
+
+📖 [Read original article](https://cmart.blog/the-news-tonight-is-ai-danger/)
+
+---
+
+## 19. Why So Many AI Researchers Think the Machines Could Kill Everyone
+
+**Author:** joozio  
+**Published:** 9/13/2026, 7:02:40 AM  
+**Categories:** -  
+
+Article URL: https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/ Comments URL: https://news.ycombinator.com/item?id=49680858 Points: 13 # Comments: 14
+
+📖 [Read original article](https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/)
+
+---
+
+## 20. Guidance on Using CC Licenses in an AI Ecosystem
+
+**Author:** Tomte  
+**Published:** 9/13/2026, 6:56:46 AM  
+**Categories:** -  
+
+Article URL: https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/ Comments URL: https://news.ycombinator.com/item?id=49680826 Points: 1 # Comments: 0
+
+📖 [Read original article](https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/)
 
 ---
