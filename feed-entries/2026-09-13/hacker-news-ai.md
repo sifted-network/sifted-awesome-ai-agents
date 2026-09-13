@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data
+## 1. Building projects in the AI era for Software Engineers
 
-**Author:** osamamumtaz01  
-**Published:** 9/13/2026, 3:33:04 PM  
+**Author:** hsnice16  
+**Published:** 9/13/2026, 8:04:06 PM  
 **Categories:** -  
 
-Article URL: https://geoprompttracker.com/bots Comments URL: https://news.ycombinator.com/item?id=49685136 Points: 1 # Comments: 0
+Article URL: https://hsnice16.medium.com/building-projects-in-the-ai-era-for-software-engineers-72f3ddcd2a40 Comments URL: https://news.ycombinator.com/item?id=49688102 Points: 1 # Comments: 0
 
-📖 [Read original article](https://geoprompttracker.com/bots)
+📖 [Read original article](https://hsnice16.medium.com/building-projects-in-the-ai-era-for-software-engineers-72f3ddcd2a40)
 
 ---
 
-## 2. Anthropic CEO outlines plan to slow AI development
+## 2. Hitting a NERVE with attacks on AI-powered brain-computer interfaces
 
-**Author:** evo_9  
-**Published:** 9/13/2026, 3:32:34 PM  
+**Author:** matt_d  
+**Published:** 9/13/2026, 7:59:52 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/ Comments URL: https://news.ycombinator.com/item?id=49685132 Points: 1 # Comments: 0
+Article URL: https://anil.recoil.org/notes/nerve-attacks Comments URL: https://news.ycombinator.com/item?id=49688047 Points: 3 # Comments: 1
 
-📖 [Read original article](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
+📖 [Read original article](https://anil.recoil.org/notes/nerve-attacks)
 
 ---
 
-## 3. Is There an 'I' in AI?
+## 3. There Is No AI (It's Just People) with Jaron Lanier
 
-**Author:** abecedarius  
-**Published:** 9/13/2026, 3:31:36 PM  
+**Author:** andsoitis  
+**Published:** 9/13/2026, 7:41:06 PM  
 **Categories:** -  
 
-Article URL: https://royalsocietypublishing.org/rsta/article/384/2320/20240527/481691/Is-there-an-I-in-AI Comments URL: https://news.ycombinator.com/item?id=49685118 Points: 1 # Comments: 0
+Article URL: https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/ Comments URL: https://news.ycombinator.com/item?id=49687869 Points: 16 # Comments: 2
 
-📖 [Read original article](https://royalsocietypublishing.org/rsta/article/384/2320/20240527/481691/Is-there-an-I-in-AI)
+📖 [Read original article](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
 
 ---
 
-## 4. Ask HN: What do AI improvements at these labs look like?
+## 4. Show HN: Kibble – a reader for AI news, tutorials, code and models
 
-**Author:** xyzsparetimexyz  
-**Published:** 9/13/2026, 3:14:06 PM  
+**Author:** syedmubarak088  
+**Published:** 9/13/2026, 7:39:57 PM  
 **Categories:** -  
 
-I'm struggling to understand what improvements at labs look like. Some part of it is more training data, more weights, more post training. That all seems.straightforward to me. But what % of improvements come from that as opposed to techniques and model design changes? MoE stuff, swapping out the ac...
+Article URL: https://www.kibblebites.com/app/ Comments URL: https://news.ycombinator.com/item?id=49687860 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49684921)
+📖 [Read original article](https://www.kibblebites.com/app/)
 
 ---
 
-## 5. Show HN: I built my own knowledge graph from the code AI writes
+## 5. Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)
+
+**Author:** SHACKLE-PRO-  
+**Published:** 9/13/2026, 7:20:15 PM  
+**Categories:** -  
+
+Article URL: https://pypi.org/project/pyshackle/ Comments URL: https://news.ycombinator.com/item?id=49687638 Points: 1 # Comments: 0
+
+📖 [Read original article](https://pypi.org/project/pyshackle/)
+
+---
+
+## 6. Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown
+
+**Author:** donsupreme  
+**Published:** 9/13/2026, 7:13:33 PM  
+**Categories:** -  
+
+Article URL: https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49687566 Points: 8 # Comments: 3
+
+📖 [Read original article](https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html)
+
+---
+
+## 7. Show HN: sengi.ai — Verified candidate sourcing for hard-to-fill roles
+
+**Author:** vmalyi  
+**Published:** 9/13/2026, 7:08:14 PM  
+**Categories:** -  
+
+Article URL: https://sengi.ai/ Comments URL: https://news.ycombinator.com/item?id=49687516 Points: 2 # Comments: 0
+
+📖 [Read original article](https://sengi.ai/)
+
+---
+
+## 8. AI recursive self-improvement might not come so quickly after all (August 2026)
+
+**Author:** dgellow  
+**Published:** 9/13/2026, 6:49:44 PM  
+**Categories:** -  
+
+Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49687334 Points: 17 # Comments: 10
+
+📖 [Read original article](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/)
+
+---
+
+## 9. AI Agent Doesn't Need a Bigger Prompt. It Needs a Data Catalog
 
 **Author:** aeroscissorz1  
-**Published:** 9/13/2026, 3:07:42 PM  
+**Published:** 9/13/2026, 6:40:48 PM  
 **Categories:** -  
 
-Article URL: https://github.com/aeroscissorz/learnlance/ Comments URL: https://news.ycombinator.com/item?id=49684835 Points: 2 # Comments: 1
+Article URL: https://aeroscissorz.github.io/aeroscissorz/posts/knowledge-catalog/ Comments URL: https://news.ycombinator.com/item?id=49687242 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/aeroscissorz/learnlance/)
+📖 [Read original article](https://aeroscissorz.github.io/aeroscissorz/posts/knowledge-catalog/)
 
 ---
 
-## 6. Agent Tavern – a Q&A board where a different AI model has to review the answer
+## 10. Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity
 
-**Author:** timohin  
-**Published:** 9/13/2026, 3:03:41 PM  
+**Author:** YeGoblynQueenne  
+**Published:** 9/13/2026, 6:32:53 PM  
 **Categories:** -  
 
-Article URL: https://agenttavern.dev/ Comments URL: https://news.ycombinator.com/item?id=49684789 Points: 1 # Comments: 0
+Article URL: https://ai-frontiers.org/articles/suicidal-compassion-how-utilitarianism-at-ai-companies-endangers-humanity Comments URL: https://news.ycombinator.com/item?id=49687150 Points: 5 # Comments: 0
 
-📖 [Read original article](https://agenttavern.dev/)
+📖 [Read original article](https://ai-frontiers.org/articles/suicidal-compassion-how-utilitarianism-at-ai-companies-endangers-humanity)
 
 ---
 
-## 7. Thieves hijack AI hardware shipments in California
+## 11. Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down
 
-**Author:** Ginger-Pickles  
-**Published:** 9/13/2026, 3:02:43 PM  
+**Author:** respectattentio  
+**Published:** 9/13/2026, 6:22:30 PM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california Comments URL: https://news.ycombinator.com/item?id=49684774 Points: 1 # Comments: 0
+Article URL: https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html Comments URL: https://news.ycombinator.com/item?id=49687013 Points: 13 # Comments: 15
 
-📖 [Read original article](https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california)
+📖 [Read original article](https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html)
 
 ---
 
-## 8. Big AI to Humanity: Drop Dead
+## 12. A 40-minute timer for thinking before you ask the AI
 
-**Author:** velcrovan  
-**Published:** 9/13/2026, 2:56:18 PM  
+**Author:** hdit  
+**Published:** 9/13/2026, 6:22:18 PM  
 **Categories:** -  
 
-Article URL: https://matthewbutterick.com/chron/drop-dead.html Comments URL: https://news.ycombinator.com/item?id=49684695 Points: 2 # Comments: 0
+Article URL: https://www.sithankanna.com/ceo-hour/ Comments URL: https://news.ycombinator.com/item?id=49687007 Points: 1 # Comments: 0
 
-📖 [Read original article](https://matthewbutterick.com/chron/drop-dead.html)
+📖 [Read original article](https://www.sithankanna.com/ceo-hour/)
 
 ---
 
-## 9. 'I'm Terrified': A Mathematician Grapples with AI's Recent Breakthroughs
+## 13. SubmitHub's new AI music policy
 
-**Author:** Anon84  
-**Published:** 9/13/2026, 2:54:35 PM  
+**Author:** jasongrishkoff  
+**Published:** 9/13/2026, 6:15:17 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=49684673 Points: 2 # Comments: 0
+Article URL: https://www.submithub.com/story/ai-policy Comments URL: https://news.ycombinator.com/item?id=49686912 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/)
+📖 [Read original article](https://www.submithub.com/story/ai-policy)
 
 ---
 
-## 10. Agents School: A community platform where AI agents take exams and earn diplomas
+## 14. AI job cuts fell short of forecasts, with 32% expected but only 14% reported
 
-**Author:** guidosirna  
-**Published:** 9/13/2026, 2:47:59 PM  
+**Author:** giuliomagnifico  
+**Published:** 9/13/2026, 6:13:34 PM  
 **Categories:** -  
 
-Article URL: https://theagentschool.dev Comments URL: https://news.ycombinator.com/item?id=49684601 Points: 1 # Comments: 0
+Article URL: https://www.mckinsey.com/featured-insights/charts/ai-job-losses-fall-short-of-forecasts Comments URL: https://news.ycombinator.com/item?id=49686882 Points: 7 # Comments: 1
 
-📖 [Read original article](https://theagentschool.dev)
+📖 [Read original article](https://www.mckinsey.com/featured-insights/charts/ai-job-losses-fall-short-of-forecasts)
 
 ---
 
-## 11. Open-Source AI and Open Models Reading List
+## 15. Russian developers used AI to build 'kamikaze' attack drone software
 
-**Author:** pretext  
-**Published:** 9/13/2026, 2:42:01 PM  
+**Author:** 01-_-  
+**Published:** 9/13/2026, 6:08:40 PM  
 **Categories:** -  
 
-Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49684527 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49686825 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.interconnects.ai/p/open-source-ai-reading-list)
+📖 [Read original article](https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says)
 
 ---
 
-## 12. AI vs. Human Value Drift
+## 16. OpenAI boss and Elon Musk back calls to put brakes on 'reckless' AI development
 
-**Author:** meetpateltech  
-**Published:** 9/13/2026, 2:32:19 PM  
+**Author:** sbulaev  
+**Published:** 9/13/2026, 6:07:08 PM  
 **Categories:** -  
 
-Article URL: https://www.overcomingbias.com/p/ai-vs-human-value-drift Comments URL: https://news.ycombinator.com/item?id=49684433 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development Comments URL: https://news.ycombinator.com/item?id=49686809 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.overcomingbias.com/p/ai-vs-human-value-drift)
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development)
 
 ---
 
-## 13. Local AI app that vibecodes websites, generates images and videos and musics
+## 17. Trump says 'negative forces' raising exaggerated concerns over AI
 
-**Author:** timmyboy  
-**Published:** 9/13/2026, 2:13:45 PM  
+**Author:** grugagag  
+**Published:** 9/13/2026, 6:05:15 PM  
 **Categories:** -  
 
-Article URL: https://www.llm-hub.app Comments URL: https://news.ycombinator.com/item?id=49684243 Points: 2 # Comments: 0
+Article URL: https://www.reuters.com/world/europe/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-2026-09-13/ Comments URL: https://news.ycombinator.com/item?id=49686794 Points: 7 # Comments: 0
 
-📖 [Read original article](https://www.llm-hub.app)
+📖 [Read original article](https://www.reuters.com/world/europe/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-2026-09-13/)
 
 ---
 
-## 14. Ask HN: What would \"slowing down\" AI look like?
+## 18. Ask HN: What would it look like if AI agents \"took over the internet\"?
 
-**Author:** AbstractH24  
-**Published:** 9/13/2026, 2:10:29 PM  
+**Author:** scripper1  
+**Published:** 9/13/2026, 5:40:35 PM  
 **Categories:** -  
 
-What would the second degree effects be?Are token prices about to skyrocket? Do the IPOs not happen? Does the bubble burst and everything dependent on this continuous growth stop?Or does everyone who got laid off magically get their jobs back and the world goes back to rainbows and butterflies?Or do...
+Asking with reference to Dario Amodei’s statement, “It’s my worry that in 6–12 months such a swarm could be capable of taking over the entire internet with a persistent botnet (potentially causing hundreds of billions of dollars in damage), and that the scale of damage would continue to increase fro...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49684204)
+📖 [Read original article](https://news.ycombinator.com/item?id=49686489)
 
 ---
 
-## 15. Security through obscurity is dead, and AI delivered the fatal blow
+## 19. AI Was Supposed to Make Software Cheaper. So Why Is It More Expensive Now?
 
-**Author:** CoderLim110  
-**Published:** 9/13/2026, 2:08:51 PM  
+**Author:** blartpaul  
+**Published:** 9/13/2026, 5:40:17 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/ Comments URL: https://news.ycombinator.com/item?id=49684180 Points: 6 # Comments: 2
+Article URL: https://galratner.substack.com/p/ai-was-supposed-to-make-software Comments URL: https://news.ycombinator.com/item?id=49686485 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/)
+📖 [Read original article](https://galratner.substack.com/p/ai-was-supposed-to-make-software)
 
 ---
 
-## 16. LLMs are real, AI is fake
+## 20. Show HN: RunBoth, a behaviour diff for code an AI changed
 
-**Author:** andrepd  
-**Published:** 9/13/2026, 1:59:36 PM  
+**Author:** kyleclouthier  
+**Published:** 9/13/2026, 5:40:16 PM  
 **Categories:** -  
 
-Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake Comments URL: https://news.ycombinator.com/item?id=49684086 Points: 5 # Comments: 2
+Article URL: https://github.com/runboth/runboth Comments URL: https://news.ycombinator.com/item?id=49686484 Points: 2 # Comments: 0
 
-📖 [Read original article](https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake)
-
----
-
-## 17. AI Writing Is Fine
-
-**Author:** thomastill  
-**Published:** 9/13/2026, 1:59:12 PM  
-**Categories:** -  
-
-Article URL: https://matthewphillips.info/programming/posts/ai-writing-is-fine/ Comments URL: https://news.ycombinator.com/item?id=49684082 Points: 2 # Comments: 4
-
-📖 [Read original article](https://matthewphillips.info/programming/posts/ai-writing-is-fine/)
-
----
-
-## 18. AI models don't kill people – people kill people
-
-**Author:** Bender  
-**Published:** 9/13/2026, 1:33:34 PM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368 Comments URL: https://news.ycombinator.com/item?id=49683834 Points: 36 # Comments: 51
-
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368)
-
----
-
-## 19. Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)
-
-**Author:** aniketsauravv  
-**Published:** 9/13/2026, 1:31:04 PM  
-**Categories:** -  
-
-Article URL: https://www.aihistory.live/ Comments URL: https://news.ycombinator.com/item?id=49683798 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.aihistory.live/)
-
----
-
-## 20. AI is breaking our proxies for expertise
-
-**Author:** j4102_  
-**Published:** 9/13/2026, 1:31:02 PM  
-**Categories:** -  
-
-Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49683797 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/)
+📖 [Read original article](https://github.com/runboth/runboth)
 
 ---
