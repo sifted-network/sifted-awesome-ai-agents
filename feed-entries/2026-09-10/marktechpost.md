@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-09-10"
 date: "2026-09-10"
 source: "MarkTechPost"
-count: 4
+count: 2
 ---
 
 # MarkTechPost - 2026-09-10
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ Production LLM applications rarely receive a question nobody has asked before. S
 NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch. In a matched benchmark on 1,000 human dimer targets across 8xH100 GPUs, BioIR-accelerated Boltz-2 delivered 58.5K successfu...
 
 📖 [Read original article](https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/)
-
----
-
-## 3. OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call
-
-**Author:** Asif Razzaq  
-**Published:** 9/10/2026, 9:21:58 PM  
-**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, For Devs, New Releases, Software Engineering, Staff, Tech News, Technology  
-
-OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent&#8217;s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is it deployable? ...
-
-📖 [Read original article](https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/)
-
----
-
-## 4. DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse
-
-**Author:** Asif Razzaq  
-**Published:** 9/10/2026, 7:31:01 AM  
-**Categories:** Agentic AI, AI Infrastructure, AI Paper Summary, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Staff, Tech News, Technology  
-
-Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Exper...
-
-📖 [Read original article](https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/)
 
 ---
