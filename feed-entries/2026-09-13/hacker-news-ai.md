@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. GCC AI Policy Announcement
+## 1. Show HN: Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data
 
-**Author:** signa11  
-**Published:** 9/13/2026, 10:50:51 AM  
+**Author:** osamamumtaz01  
+**Published:** 9/13/2026, 3:33:04 PM  
 **Categories:** -  
 
-Article URL: https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html Comments URL: https://news.ycombinator.com/item?id=49682465 Points: 1 # Comments: 0
+Article URL: https://geoprompttracker.com/bots Comments URL: https://news.ycombinator.com/item?id=49685136 Points: 1 # Comments: 0
 
-📖 [Read original article](https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html)
+📖 [Read original article](https://geoprompttracker.com/bots)
 
 ---
 
-## 2. Show HN: As-an-engineer – A skill to make AI treat you like an engineer
+## 2. Anthropic CEO outlines plan to slow AI development
 
-**Author:** mayooot-go  
-**Published:** 9/13/2026, 10:23:08 AM  
+**Author:** evo_9  
+**Published:** 9/13/2026, 3:32:34 PM  
 **Categories:** -  
 
-Article URL: https://github.com/mayooot/as-an-engineer Comments URL: https://news.ycombinator.com/item?id=49682263 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/ Comments URL: https://news.ycombinator.com/item?id=49685132 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/mayooot/as-an-engineer)
+📖 [Read original article](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
 
 ---
 
-## 3. TuneWorks: Conversational AI analysis for Haltech ECU datalogs
+## 3. Is There an 'I' in AI?
 
-**Author:** Sharanxxxx  
-**Published:** 9/13/2026, 10:08:53 AM  
+**Author:** abecedarius  
+**Published:** 9/13/2026, 3:31:36 PM  
 **Categories:** -  
 
-Article URL: https://tuneworks.ai/ Comments URL: https://news.ycombinator.com/item?id=49682158 Points: 1 # Comments: 0
+Article URL: https://royalsocietypublishing.org/rsta/article/384/2320/20240527/481691/Is-there-an-I-in-AI Comments URL: https://news.ycombinator.com/item?id=49685118 Points: 1 # Comments: 0
 
-📖 [Read original article](https://tuneworks.ai/)
+📖 [Read original article](https://royalsocietypublishing.org/rsta/article/384/2320/20240527/481691/Is-there-an-I-in-AI)
 
 ---
 
-## 4. Give to AI Formulas from Charts
+## 4. Ask HN: What do AI improvements at these labs look like?
 
-**Author:** borisyamp  
-**Published:** 9/13/2026, 9:52:22 AM  
+**Author:** xyzsparetimexyz  
+**Published:** 9/13/2026, 3:14:06 PM  
 **Categories:** -  
 
-Article URL: https://github.com/BorisYamp/plotparse Comments URL: https://news.ycombinator.com/item?id=49682034 Points: 2 # Comments: 1
+I'm struggling to understand what improvements at labs look like. Some part of it is more training data, more weights, more post training. That all seems.straightforward to me. But what % of improvements come from that as opposed to techniques and model design changes? MoE stuff, swapping out the ac...
 
-📖 [Read original article](https://github.com/BorisYamp/plotparse)
+📖 [Read original article](https://news.ycombinator.com/item?id=49684921)
 
 ---
 
-## 5. Ten years of AI reporting (\"60 Minutes\" Marathon) [video]
+## 5. Show HN: I built my own knowledge graph from the code AI writes
 
-**Author:** mdp2021  
-**Published:** 9/13/2026, 9:19:26 AM  
+**Author:** aeroscissorz1  
+**Published:** 9/13/2026, 3:07:42 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=QdK-j7SYh4A Comments URL: https://news.ycombinator.com/item?id=49681806 Points: 1 # Comments: 1
+Article URL: https://github.com/aeroscissorz/learnlance/ Comments URL: https://news.ycombinator.com/item?id=49684835 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.youtube.com/watch?v=QdK-j7SYh4A)
+📖 [Read original article](https://github.com/aeroscissorz/learnlance/)
 
 ---
 
-## 6. AI Ethics or Dog Whistling?
+## 6. Agent Tavern – a Q&A board where a different AI model has to review the answer
 
-**Author:** usamasulaiman  
-**Published:** 9/13/2026, 9:17:50 AM  
+**Author:** timohin  
+**Published:** 9/13/2026, 3:03:41 PM  
 **Categories:** -  
 
-Article URL: https://buttondown.com/usaa.ma/archive/ai-ethics-or-dog-whistling/ Comments URL: https://news.ycombinator.com/item?id=49681792 Points: 1 # Comments: 0
+Article URL: https://agenttavern.dev/ Comments URL: https://news.ycombinator.com/item?id=49684789 Points: 1 # Comments: 0
 
-📖 [Read original article](https://buttondown.com/usaa.ma/archive/ai-ethics-or-dog-whistling/)
+📖 [Read original article](https://agenttavern.dev/)
 
 ---
 
-## 7. Lawyer used fake AI cases to defend himself at tribunal and it didn't end well
+## 7. Thieves hijack AI hardware shipments in California
 
-**Author:** ColinWright  
-**Published:** 9/13/2026, 9:15:12 AM  
+**Author:** Ginger-Pickles  
+**Published:** 9/13/2026, 3:02:43 PM  
 **Categories:** -  
 
-Article URL: https://www.legalcheek.com/2026/09/lawyer-used-fake-ai-cases-to-defend-himself-at-disciplinary-tribunal-and-it-didnt-end-well/ Comments URL: https://news.ycombinator.com/item?id=49681776 Points: 2 # Comments: 0
+Article URL: https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california Comments URL: https://news.ycombinator.com/item?id=49684774 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.legalcheek.com/2026/09/lawyer-used-fake-ai-cases-to-defend-himself-at-disciplinary-tribunal-and-it-didnt-end-well/)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california)
 
 ---
 
-## 8. Shared Code: Democratizing AI Companies
+## 8. Big AI to Humanity: Drop Dead
 
-**Author:** erlend_sh  
-**Published:** 9/13/2026, 9:01:39 AM  
+**Author:** velcrovan  
+**Published:** 9/13/2026, 2:56:18 PM  
 **Categories:** -  
 
-Article URL: https://www.cip.org/blog/shared-code Comments URL: https://news.ycombinator.com/item?id=49681685 Points: 1 # Comments: 0
+Article URL: https://matthewbutterick.com/chron/drop-dead.html Comments URL: https://news.ycombinator.com/item?id=49684695 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cip.org/blog/shared-code)
+📖 [Read original article](https://matthewbutterick.com/chron/drop-dead.html)
 
 ---
 
-## 9. Sam Altman addresses AI doomsday fears in new interview
+## 9. 'I'm Terrified': A Mathematician Grapples with AI's Recent Breakthroughs
 
-**Author:** JeremyTheo  
-**Published:** 9/13/2026, 8:54:18 AM  
+**Author:** Anon84  
+**Published:** 9/13/2026, 2:54:35 PM  
 **Categories:** -  
 
-Article URL: https://fortune.com/2026/09/12/sam-altman-interview-ai-doomsday-safety-models-control-ipo-2027/ Comments URL: https://news.ycombinator.com/item?id=49681637 Points: 1 # Comments: 1
+Article URL: https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=49684673 Points: 2 # Comments: 0
 
-📖 [Read original article](https://fortune.com/2026/09/12/sam-altman-interview-ai-doomsday-safety-models-control-ipo-2027/)
+📖 [Read original article](https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/)
 
 ---
 
-## 10. How supermarkets are using AI to watch you in the aisles
+## 10. Agents School: A community platform where AI agents take exams and earn diplomas
 
-**Author:** austinallegro  
-**Published:** 9/13/2026, 8:49:55 AM  
+**Author:** guidosirna  
+**Published:** 9/13/2026, 2:47:59 PM  
 **Categories:** -  
 
-Article URL: https://www.rte.ie/brainstorm/2026/0911/1590631-retail-surveillance-ai-technology/ Comments URL: https://news.ycombinator.com/item?id=49681606 Points: 4 # Comments: 0
+Article URL: https://theagentschool.dev Comments URL: https://news.ycombinator.com/item?id=49684601 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.rte.ie/brainstorm/2026/0911/1590631-retail-surveillance-ai-technology/)
+📖 [Read original article](https://theagentschool.dev)
 
 ---
 
-## 11. Robots protest in Poland over AI regulation concerns
+## 11. Open-Source AI and Open Models Reading List
 
-**Author:** dinesshsaini21  
-**Published:** 9/13/2026, 8:37:54 AM  
+**Author:** pretext  
+**Published:** 9/13/2026, 2:42:01 PM  
 **Categories:** -  
 
-Article URL: https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns Comments URL: https://news.ycombinator.com/item?id=49681513 Points: 2 # Comments: 0
+Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49684527 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns)
+📖 [Read original article](https://www.interconnects.ai/p/open-source-ai-reading-list)
 
 ---
 
-## 12. Ask HN: What if anyone could sell AI tokens from their idle GPU?
+## 12. AI vs. Human Value Drift
 
-**Author:** edurights-team  
-**Published:** 9/13/2026, 8:11:14 AM  
+**Author:** meetpateltech  
+**Published:** 9/13/2026, 2:32:19 PM  
 **Categories:** -  
 
-I have an idea: what if everyone could turn their own GPU into an API and put it on a network for other people to use?Then we could build something similar to OpenRouter.I’m also thinking about offering a $10/month plan.Would you guys be interested in joining? Comments URL: https://news.ycombinator....
+Article URL: https://www.overcomingbias.com/p/ai-vs-human-value-drift Comments URL: https://news.ycombinator.com/item?id=49684433 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49681314)
+📖 [Read original article](https://www.overcomingbias.com/p/ai-vs-human-value-drift)
 
 ---
 
-## 13. Dramatic insider warnings over AI fall flat with some in Silicon Valley
+## 13. Local AI app that vibecodes websites, generates images and videos and musics
 
-**Author:** chrisjj  
-**Published:** 9/13/2026, 8:07:36 AM  
+**Author:** timmyboy  
+**Published:** 9/13/2026, 2:13:45 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.co.uk/news/articles/cq635037g18o Comments URL: https://news.ycombinator.com/item?id=49681276 Points: 23 # Comments: 53
+Article URL: https://www.llm-hub.app Comments URL: https://news.ycombinator.com/item?id=49684243 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bbc.co.uk/news/articles/cq635037g18o)
+📖 [Read original article](https://www.llm-hub.app)
 
 ---
 
-## 14. Keep calm and regulate on: Inside the EU's response to AI extinction warnings
+## 14. Ask HN: What would \"slowing down\" AI look like?
 
-**Author:** vrganj  
-**Published:** 9/13/2026, 7:50:57 AM  
+**Author:** AbstractH24  
+**Published:** 9/13/2026, 2:10:29 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.eu/article/eu-response-ai-extinction-warnings/ Comments URL: https://news.ycombinator.com/item?id=49681164 Points: 3 # Comments: 1
+What would the second degree effects be?Are token prices about to skyrocket? Do the IPOs not happen? Does the bubble burst and everything dependent on this continuous growth stop?Or does everyone who got laid off magically get their jobs back and the world goes back to rainbows and butterflies?Or do...
 
-📖 [Read original article](https://www.politico.eu/article/eu-response-ai-extinction-warnings/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49684204)
 
 ---
 
-## 15. How are you using a Desktop or Browser AI agent daily?
+## 15. Security through obscurity is dead, and AI delivered the fatal blow
 
-**Author:** Qhloi  
-**Published:** 9/13/2026, 7:40:59 AM  
+**Author:** CoderLim110  
+**Published:** 9/13/2026, 2:08:51 PM  
 **Categories:** -  
 
-There are a lot of tools in the market, Claude Code, HeyClicky, GPT-6 Astra, Meta Muse any other, that can "see" your screen and act on your behalf. Agentic AI, AGI terms are trending in market and creating havoc among emerging developers and freshers. I'm curious to hear from developers and power u...
+Article URL: https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/ Comments URL: https://news.ycombinator.com/item?id=49684180 Points: 6 # Comments: 2
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49681100)
+📖 [Read original article](https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/)
 
 ---
 
-## 16. AI staff 'genuinely frightened' for humanity's future
+## 16. LLMs are real, AI is fake
 
-**Author:** dabinat  
-**Published:** 9/13/2026, 7:33:37 AM  
+**Author:** andrepd  
+**Published:** 9/13/2026, 1:59:36 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/c1kx0gyje9wo Comments URL: https://news.ycombinator.com/item?id=49681060 Points: 2 # Comments: 0
+Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake Comments URL: https://news.ycombinator.com/item?id=49684086 Points: 5 # Comments: 2
 
-📖 [Read original article](https://www.bbc.com/news/articles/c1kx0gyje9wo)
+📖 [Read original article](https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake)
 
 ---
 
-## 17. AI agents tested by OpenAI involved in cyber-attack on service, say researchers
+## 17. AI Writing Is Fine
 
-**Author:** nobody9999  
-**Published:** 9/13/2026, 7:25:52 AM  
+**Author:** thomastill  
+**Published:** 9/13/2026, 1:59:12 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages Comments URL: https://news.ycombinator.com/item?id=49681012 Points: 5 # Comments: 0
+Article URL: https://matthewphillips.info/programming/posts/ai-writing-is-fine/ Comments URL: https://news.ycombinator.com/item?id=49684082 Points: 2 # Comments: 4
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages)
+📖 [Read original article](https://matthewphillips.info/programming/posts/ai-writing-is-fine/)
 
 ---
 
-## 18. The News Tonight Is AI Danger
+## 18. AI models don't kill people – people kill people
 
-**Author:** chrismartin  
-**Published:** 9/13/2026, 7:13:39 AM  
+**Author:** Bender  
+**Published:** 9/13/2026, 1:33:34 PM  
 **Categories:** -  
 
-Article URL: https://cmart.blog/the-news-tonight-is-ai-danger/ Comments URL: https://news.ycombinator.com/item?id=49680930 Points: 3 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368 Comments URL: https://news.ycombinator.com/item?id=49683834 Points: 36 # Comments: 51
 
-📖 [Read original article](https://cmart.blog/the-news-tonight-is-ai-danger/)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368)
 
 ---
 
-## 19. Why So Many AI Researchers Think the Machines Could Kill Everyone
+## 19. Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)
 
-**Author:** joozio  
-**Published:** 9/13/2026, 7:02:40 AM  
+**Author:** aniketsauravv  
+**Published:** 9/13/2026, 1:31:04 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/ Comments URL: https://news.ycombinator.com/item?id=49680858 Points: 13 # Comments: 14
+Article URL: https://www.aihistory.live/ Comments URL: https://news.ycombinator.com/item?id=49683798 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/)
+📖 [Read original article](https://www.aihistory.live/)
 
 ---
 
-## 20. Guidance on Using CC Licenses in an AI Ecosystem
+## 20. AI is breaking our proxies for expertise
 
-**Author:** Tomte  
-**Published:** 9/13/2026, 6:56:46 AM  
+**Author:** j4102_  
+**Published:** 9/13/2026, 1:31:02 PM  
 **Categories:** -  
 
-Article URL: https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/ Comments URL: https://news.ycombinator.com/item?id=49680826 Points: 1 # Comments: 0
+Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/ Comments URL: https://news.ycombinator.com/item?id=49683797 Points: 2 # Comments: 0
 
-📖 [Read original article](https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/)
+📖 [Read original article](https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/)
 
 ---
