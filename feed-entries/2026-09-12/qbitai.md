@@ -63,7 +63,7 @@ FrontierMath Tier 4，饱和了
 
 **Author:** 程浅  
 **Published:** 9/12/2026, 5:58:41 AM  
-**Categories:** 资讯, 首页轮播, Kimi, Kimi K3, 月之暗面  
+**Categories:** 资讯, Kimi, Kimi K3, 月之暗面  
 
 冲刺港股IPO
 
@@ -75,7 +75,7 @@ FrontierMath Tier 4，饱和了
 
 **Author:** 衡宇  
 **Published:** 9/12/2026, 4:53:58 AM  
-**Categories:** 资讯, 首页轮播, AI, 数学, 菲尔兹奖  
+**Categories:** 资讯, AI, 数学, 菲尔兹奖  
 
 25位菲尔兹奖得主联名吹哨
 
