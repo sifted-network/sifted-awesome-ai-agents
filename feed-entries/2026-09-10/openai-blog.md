@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-10"
 date: "2026-09-10"
 source: "OpenAI Blog"
-count: 2
+count: 1
 ---
 
 # OpenAI Blog - 2026-09-10
 
-2 items collected.
+1 items collected.
 
 ---
 
@@ -20,17 +20,5 @@ count: 2
 César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.
 
 📖 [Read original article](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)
-
----
-
-## 2. Now everyone can put data to work
-
-**Author:** -  
-**Published:** 9/10/2026, 3:00:00 PM  
-**Categories:** Product  
-
-Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.
-
-📖 [Read original article](https://openai.com/index/put-data-to-work)
 
 ---
