@@ -38,6 +38,7 @@
 * [Observability](#Observability) - LLM Observability & Evaluation
   * [LLM Observability](#LLM-Observability)
   * [AI Safety](#AI-Safety)
+* [Community Submitted Agents](#Community-Submitted-Agents) - Community and maintainer submissions
 
 ---
 
@@ -568,6 +569,14 @@ Top 10 of [Top 100 AI Safety](top100/AI%20Safety.md)
 
 
 [⬆ Back to Top](#top)
+
+---
+
+# Community Submitted Agents
+
+Projects submitted via contribution guidelines (complementing the auto-ranked tables above):
+
+- [Solgrok ($SGROK)](https://github.com/LMajster/sgrok) — Autonomous Solana creator-ops agent that promotes $SGROK 24/7 and sweeps Bags.fm creator fees. [Website](https://lmajster.github.io/sgrok/) · [Bags](https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS)
 
 ---
 
