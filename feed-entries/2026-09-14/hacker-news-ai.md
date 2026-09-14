@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-09-14"
 date: "2026-09-14"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-09-14
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. Can Your Team Name the Work It Runs with AI?
+## 1. Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows
 
-**Author:** swolpers  
-**Published:** 9/14/2026, 3:44:35 AM  
+**Author:** tosh  
+**Published:** 9/14/2026, 12:01:32 PM  
 **Categories:** -  
 
-Article URL: https://age-of-product.com/ai-workflow-inventory/ Comments URL: https://news.ycombinator.com/item?id=49691718 Points: 1 # Comments: 0
+Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 2 # Comments: 0
 
-📖 [Read original article](https://age-of-product.com/ai-workflow-inventory/)
+📖 [Read original article](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)
 
 ---
 
-## 2. AI versus Throughput
+## 2. Tech stocks fall after calls for AI development to slow down
 
-**Author:** alanmoraes  
-**Published:** 9/14/2026, 3:05:54 AM  
+**Author:** onemoresoop  
+**Published:** 9/14/2026, 11:56:21 AM  
 **Categories:** -  
 
-Article URL: https://www.michaelnygard.com/blog/2026/05/ai-versus-throughput/ Comments URL: https://news.ycombinator.com/item?id=49691433 Points: 1 # Comments: 0
+Article URL: https://www.bbc.com/news/live/cm70d91rg7l4t Comments URL: https://news.ycombinator.com/item?id=49695336 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.michaelnygard.com/blog/2026/05/ai-versus-throughput/)
+📖 [Read original article](https://www.bbc.com/news/live/cm70d91rg7l4t)
 
 ---
 
-## 3. Google Artemis: Let AI assistants and test suites use real phones like a human
+## 3. China criticises idea it is in 'malicious competition' over AI
 
-**Author:** yarapavan  
-**Published:** 9/14/2026, 2:57:26 AM  
+**Author:** onemoresoop  
+**Published:** 9/14/2026, 11:55:35 AM  
 **Categories:** -  
 
-Article URL: https://github.com/google/artemis Comments URL: https://news.ycombinator.com/item?id=49691379 Points: 2 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/cn8me133119o Comments URL: https://news.ycombinator.com/item?id=49695330 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/google/artemis)
+📖 [Read original article](https://www.bbc.com/news/articles/cn8me133119o)
 
 ---
 
-## 4. Show HN: Replay – Audit silent prompt cache misses in AI agent transcripts
+## 4. Show HN: AI-Native dependency upgrades through codemods
 
-**Author:** danielsaito  
-**Published:** 9/14/2026, 2:38:58 AM  
+**Author:** enismustafaj  
+**Published:** 9/14/2026, 11:42:35 AM  
 **Categories:** -  
 
-I built Replay because AI agent bills spike without a single warning or error in your logs when a prompt cache breaks. Whether your team runs Claude Code, Cursor, or Aider, the provider just silently re-bills your entire conversation history at cold-write prices instead of cached read prices.Replay ...
+Apiweiser, is a CLI tool that will manage the dependency upgrades of your repositories. This is designed for developers and teams which struggle to keep the dependencies up to date regardless of security patches or API depreciation. It is AI-native by default where each changelog is interpreted by a...
 
-📖 [Read original article](https://replay.doctor/)
+📖 [Read original article](https://apiweiser-cli-fe.vercel.app/)
 
 ---
 
-## 5. Brief Legal [1A] Thoughts on the \"AI Safety\" Fights to Come
+## 5. China says AI CEOs' call for a slowdown is 'fear mongering'
 
-**Author:** blueSky1989  
-**Published:** 9/14/2026, 2:25:07 AM  
+**Author:** Shank  
+**Published:** 9/14/2026, 11:33:30 AM  
 **Categories:** -  
 
-Article URL: https://prestonbyrne.com/2026/09/13/brief-legal-thoughts-on-the-ai-safety-fights-to-come/ Comments URL: https://news.ycombinator.com/item?id=49691145 Points: 4 # Comments: 1
+Article URL: https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html Comments URL: https://news.ycombinator.com/item?id=49695117 Points: 3 # Comments: 0
 
-📖 [Read original article](https://prestonbyrne.com/2026/09/13/brief-legal-thoughts-on-the-ai-safety-fights-to-come/)
+📖 [Read original article](https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html)
 
 ---
 
-## 6. AI Forces You to Commit to Your Initial Belief
+## 6. Can I Release This? – Check AI music release rules
 
-**Author:** walterbell  
-**Published:** 9/14/2026, 2:13:29 AM  
+**Author:** digitalresearch  
+**Published:** 9/14/2026, 11:26:54 AM  
 **Categories:** -  
 
-Article URL: https://idiallo.com/blog/making-changes-mid-sentence Comments URL: https://news.ycombinator.com/item?id=49691048 Points: 3 # Comments: 1
+Article URL: https://aimusic.events/can-i-release-this Comments URL: https://news.ycombinator.com/item?id=49695058 Points: 2 # Comments: 0
 
-📖 [Read original article](https://idiallo.com/blog/making-changes-mid-sentence)
+📖 [Read original article](https://aimusic.events/can-i-release-this)
 
 ---
 
-## 7. Bruce Schneier: No, AI doesn't mean the end of mathematics – at least not yet
+## 7. AI Risk: The Approval Nobody Signed Off
 
-**Author:** emil-lp  
-**Published:** 9/14/2026, 1:55:37 AM  
+**Author:** SanjeevSharma  
+**Published:** 9/14/2026, 11:17:27 AM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers Comments URL: https://news.ycombinator.com/item?id=49690921 Points: 7 # Comments: 0
+Article URL: https://sdarchitect.blog/2026/09/06/ai-risk-a-users-guide-part-i-the-approval-nobody-signed/ Comments URL: https://news.ycombinator.com/item?id=49694997 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers)
+📖 [Read original article](https://sdarchitect.blog/2026/09/06/ai-risk-a-users-guide-part-i-the-approval-nobody-signed/)
 
 ---
 
-## 8. Opportunistic AI detects colorectal cancer using routine, noncontrast CT
+## 8. 'Who's on First' for AI Risk?
 
-**Author:** pseudolus  
-**Published:** 9/14/2026, 1:16:43 AM  
+**Author:** SanjeevSharma  
+**Published:** 9/14/2026, 11:16:45 AM  
 **Categories:** -  
 
-Article URL: https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct Comments URL: https://news.ycombinator.com/item?id=49690627 Points: 4 # Comments: 1
+Article URL: https://sdarchitect.blog/2026/09/13/ai-risk-a-users-guide-part-ii-whos-on-first-for-ai-risk/ Comments URL: https://news.ycombinator.com/item?id=49694992 Points: 2 # Comments: 0
 
-📖 [Read original article](https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct)
+📖 [Read original article](https://sdarchitect.blog/2026/09/13/ai-risk-a-users-guide-part-ii-whos-on-first-for-ai-risk/)
 
 ---
 
-## 9. AI is not a normal technology
+## 9. Latham and Watkins buys Nvidia servers to set up in-house AI systems
 
-**Author:** theahura  
-**Published:** 9/14/2026, 1:00:09 AM  
+**Author:** Anon84  
+**Published:** 9/14/2026, 11:14:30 AM  
 **Categories:** -  
 
-Article URL: https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology Comments URL: https://news.ycombinator.com/item?id=49690529 Points: 24 # Comments: 41
+Article URL: https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70 Comments URL: https://news.ycombinator.com/item?id=49694977 Points: 3 # Comments: 1
 
-📖 [Read original article](https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology)
+📖 [Read original article](https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70)
 
 ---
 
-## 10. Godfather of AI welcomes pause in development (interview with Hinton)
+## 10. Watch AI materials-science and bioscience abilities closely
 
-**Author:** ggm  
-**Published:** 9/14/2026, 12:59:25 AM  
+**Author:** joozio  
+**Published:** 9/14/2026, 11:01:00 AM  
 **Categories:** -  
 
-Article URL: https://www.abc.net.au/listen/programs/radionational-breakfast/godfather-of-ai-welcomes-pause-in-development/107148300 Comments URL: https://news.ycombinator.com/item?id=49690522 Points: 3 # Comments: 1
+Article URL: https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely Comments URL: https://news.ycombinator.com/item?id=49694871 Points: 9 # Comments: 3
 
-📖 [Read original article](https://www.abc.net.au/listen/programs/radionational-breakfast/godfather-of-ai-welcomes-pause-in-development/107148300)
+📖 [Read original article](https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely)
 
 ---
 
-## 11. AI Robots – When will they be in our homes
+## 11. Nexus – Automating Lead Qualification via AI and Social Extraction
 
-**Author:** andsoitis  
-**Published:** 9/14/2026, 12:44:23 AM  
+**Author:** HarroGoerndt  
+**Published:** 9/14/2026, 10:49:45 AM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/ai-robots Comments URL: https://news.ycombinator.com/item?id=49690411 Points: 8 # Comments: 4
+Article URL: https://nexus-hit.netlify.app Comments URL: https://news.ycombinator.com/item?id=49694788 Points: 2 # Comments: 0
 
-📖 [Read original article](https://spectrum.ieee.org/ai-robots)
+📖 [Read original article](https://nexus-hit.netlify.app)
 
 ---
 
-## 12. The librarian, the car keys, and AI
+## 12. Big AI sets out its terms for regulatory capture
 
-**Author:** emmelaich  
-**Published:** 9/14/2026, 12:39:57 AM  
+**Author:** joebuckwilliams  
+**Published:** 9/14/2026, 10:28:28 AM  
 **Categories:** -  
 
-Article URL: https://eternallyradicalidea.com/p/the-librarian-the-car-keys-and-ai Comments URL: https://news.ycombinator.com/item?id=49690382 Points: 3 # Comments: 2
+Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 7 # Comments: 0
 
-📖 [Read original article](https://eternallyradicalidea.com/p/the-librarian-the-car-keys-and-ai)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067)
 
 ---
 
-## 13. Worrying about bad AI code is worrying about the wrong problem
+## 13. The \"Nonexistent\" Research on AI's Benefits for Education
 
-**Author:** spectraldrift  
-**Published:** 9/14/2026, 12:37:40 AM  
+**Author:** furcyd  
+**Published:** 9/14/2026, 10:12:42 AM  
 **Categories:** -  
 
-Article URL: https://matthorn.io/posts/2026-09-13-bad-ai/ Comments URL: https://news.ycombinator.com/item?id=49690366 Points: 2 # Comments: 0
+Article URL: https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/09/14/nonexistent-research-ais-benefits-education Comments URL: https://news.ycombinator.com/item?id=49694483 Points: 2 # Comments: 0
 
-📖 [Read original article](https://matthorn.io/posts/2026-09-13-bad-ai/)
+📖 [Read original article](https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/09/14/nonexistent-research-ais-benefits-education)
 
 ---
 
-## 14. Open-Source AI and Open Models Reading List
+## 14. Are They Using AI?
 
-**Author:** simonpure  
-**Published:** 9/14/2026, 12:22:51 AM  
+**Author:** blurayfin  
+**Published:** 9/14/2026, 10:04:41 AM  
 **Categories:** -  
 
-Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 43 # Comments: 2
+Article URL: https://aretheyusingai.vercel.app Comments URL: https://news.ycombinator.com/item?id=49694414 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.interconnects.ai/p/open-source-ai-reading-list)
+📖 [Read original article](https://aretheyusingai.vercel.app)
 
 ---
 
-## 15. AI bubble pops – Cory Doctorow
+## 15. AI Firms Are Reportedly Buying Nvidia RTX 5090 GPUs in Bulk for Server Use
 
-**Author:** lifeisstillgood  
-**Published:** 9/14/2026, 12:22:11 AM  
+**Author:** geoffbp  
+**Published:** 9/14/2026, 9:49:43 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=LiDUg_uylyM Comments URL: https://news.ycombinator.com/item?id=49690252 Points: 12 # Comments: 1
+Article URL: https://www.techpowerup.com/352663/ai-firms-are-reportedly-buying-nvidia-rtx-5090-gpus-in-bulk-for-server-use Comments URL: https://news.ycombinator.com/item?id=49694277 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.youtube.com/watch?v=LiDUg_uylyM)
+📖 [Read original article](https://www.techpowerup.com/352663/ai-firms-are-reportedly-buying-nvidia-rtx-5090-gpus-in-bulk-for-server-use)
 
 ---
 
-## 16. AI Boom / Bust – Boom Boom Pow
+## 16. Show HN: Socratix – update: the AI voice oral exam (Viva) is live
 
-**Author:** wwolfson97  
-**Published:** 9/14/2026, 12:08:41 AM  
+**Author:** Aditya_0315  
+**Published:** 9/14/2026, 9:35:53 AM  
 **Categories:** -  
 
-Constant chatter about AI being in a boom right now, a blimp sized bubble going to pop soon. It's taking our jobs. These are common statements of expression I hear everyday. I use AI daily, I use it in and out of work every single day. While there is some truth in there, I say harness the power of i...
+Update to my previous post a couple of weeks ago (https://news.ycombinator.com/item?id=49661638). Feedback for that run was brutal and constructive, so thought it would be good to follow up.The Viva is live – that was the "coming soon" feature from before. Once you have completed a concept's diagnos...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49690154)
+📖 [Read original article](https://socratix-nine.vercel.app)
 
 ---
 
-## 17. \"Chilling\" warning or overreaction? AI bioweapons report divides experts
+## 17. Are We Reinventing the Tools of Data Engineering for AI?
 
-**Author:** sbulaev  
-**Published:** 9/14/2026, 12:07:09 AM  
+**Author:** zazuke  
+**Published:** 9/14/2026, 9:31:09 AM  
 **Categories:** -  
 
-Article URL: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts Comments URL: https://news.ycombinator.com/item?id=49690139 Points: 15 # Comments: 1
+Article URL: https://www.ssp.sh/brain/are-we-reinventing-the-tools-of-data-engineering-for-ai/ Comments URL: https://news.ycombinator.com/item?id=49694138 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts)
+📖 [Read original article](https://www.ssp.sh/brain/are-we-reinventing-the-tools-of-data-engineering-for-ai/)
+
+---
+
+## 18. Show HN: Crypto portfolio risk and scenario analysis with AI agents on top
+
+**Author:** Sentralis  
+**Published:** 9/14/2026, 9:28:30 AM  
+**Categories:** -  
+
+Sentralis.io is a risk and scenario analysis platform focused on cryptocurrency portfolio HODLersIt combines hardcore risk analytics capabilities with smart agents for deep insights, suitable for beginners and pros alike.Free accounts have full access to all scenarios and risk quantification.API and...
+
+📖 [Read original article](https://sentralis.io/)
+
+---
+
+## 19. AI should know that mylocalhost.com – is a real domain
+
+**Author:** asimovDev  
+**Published:** 9/14/2026, 9:22:48 AM  
+**Categories:** -  
+
+Article URL: https://www.reddit.com/r/Domains/comments/1vsz3we/ai_should_know_that_mylocalhostcom_is_a_real/ Comments URL: https://news.ycombinator.com/item?id=49694074 Points: 2 # Comments: 2
+
+📖 [Read original article](https://www.reddit.com/r/Domains/comments/1vsz3we/ai_should_know_that_mylocalhostcom_is_a_real/)
+
+---
+
+## 20. Intelligence per Watt: Measuring Intelligence Efficiency of Local AI
+
+**Author:** pythonic_hell  
+**Published:** 9/14/2026, 9:16:39 AM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2511.07885 Comments URL: https://news.ycombinator.com/item?id=49694035 Points: 2 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2511.07885)
 
 ---
