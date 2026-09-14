@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-12"
 date: "2026-09-12"
 source: "qbitai"
-count: 6
+count: 4
 ---
 
 # qbitai - 2026-09-12
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ Claude越界攻击真实系统，并非只是测试系统的设置问题，模�
 FrontierMath Tier 4，饱和了
 
 📖 [Read original article](https://www.qbitai.com/2026/09/487701.html)
-
----
-
-## 5. Kimi突发K2.8：性能逼近K3，百万上下文全员开放
-
-**Author:** 程浅  
-**Published:** 9/12/2026, 5:58:41 AM  
-**Categories:** 资讯, Kimi, Kimi K3, 月之暗面  
-
-冲刺港股IPO
-
-📖 [Read original article](https://www.qbitai.com/2026/09/487688.html)
-
----
-
-## 6. 陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神
-
-**Author:** 衡宇  
-**Published:** 9/12/2026, 4:53:58 AM  
-**Categories:** 资讯, AI, 数学, 菲尔兹奖  
-
-25位菲尔兹奖得主联名吹哨
-
-📖 [Read original article](https://www.qbitai.com/2026/09/487653.html)
 
 ---
