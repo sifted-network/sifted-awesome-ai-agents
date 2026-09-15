@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-15"
 date: "2026-09-15"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-09-15
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Meta Introduces ZGateway: A Stateless Proxy Tier That Unifies ZippyDB Traffic and Handles Over 1 Billion Operations Per Second
+## 1. Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents
+
+**Author:** Asif Razzaq  
+**Published:** 9/15/2026, 8:53:09 PM  
+**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Staff, Tech News, Technology, Voice AI  
+
+Google has released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, its most advanced live dialogue models to date. The models execute tools and API calls in the background while the conversation keeps flowing, process live visual inputs, and switch between 97 languages mid conversation. Exte...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/)
+
+---
+
+## 2. Meta Introduces ZGateway: A Stateless Proxy Tier That Unifies ZippyDB Traffic and Handles Over 1 Billion Operations Per Second
 
 **Author:** Michal Sutter  
 **Published:** 9/15/2026, 4:28:29 AM  
@@ -23,7 +35,7 @@ Meta engineering team introduced ZGateway, a proxy tier that now sits between cl
 
 ---
 
-## 2. Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent
+## 3. Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent
 
 **Author:** Michal Sutter  
 **Published:** 9/15/2026, 4:03:20 AM  
