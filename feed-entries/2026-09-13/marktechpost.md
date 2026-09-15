@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-09-13"
 date: "2026-09-13"
 source: "MarkTechPost"
-count: 3
+count: 2
 ---
 
 # MarkTechPost - 2026-09-13
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ In this tutorial, we build an end-to-end hierarchical Neural Radiance Field (NeR
 Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hidden state and layerwise sliding-window attention cache across every prompt and response token, with no reset at the serving boundary. The reference ti...
 
 📖 [Read original article](https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/)
-
----
-
-## 3. AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents
-
-**Author:** Michal Sutter  
-**Published:** 9/13/2026, 8:10:51 AM  
-**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
-
-Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers. The post AWS Introduces Pizza Bot: An Open Source Inbox for Background...
-
-📖 [Read original article](https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/)
 
 ---
