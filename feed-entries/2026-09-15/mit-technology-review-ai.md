@@ -11,11 +11,11 @@ count: 1
 
 ---
 
-## 1. What must happen for AI’s trillion-dollar gamble to pay off
+## 1. What’s at stake in AI’s trillion-dollar gamble
 
 **Author:** David Rotman  
 **Published:** 9/15/2026, 10:00:00 AM  
-**Categories:** Artificial intelligence, App  
+**Categories:** Artificial intelligence, App, Summary  
 
 When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques...
 
