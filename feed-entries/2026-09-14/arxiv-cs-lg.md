@@ -217,11 +217,11 @@ arXiv:2609.12016v1 Announce Type: new Abstract: Self-triggered reinforcement lea
 
 ## 18. Toward Reliable Railway-Bogie Response Prediction Using Multifidelity TDNN and Physics-Informed Residual Learning
 
-**Author:** Gyeolhee Lee, Moosun Kim, Taewook Kwon, Jaehun Kim, Dongjin Lee  
+**Author:** Gyeolhee Lee, Moosun Kim, Taewook Kwon, Jaehun Kim, Changsung Jeon, Dongjin Lee  
 **Published:** 9/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, physics.app-ph  
 
-arXiv:2609.12018v1 Announce Type: new Abstract: Railway engineers need simulation models that predict vehicle responses across operating scenarios that cannot be tested exhaustively. Agreement with representative measurements provides essential evidence, but calibration at a limited set of condition...
+arXiv:2609.12018v2 Announce Type: new Abstract: Railway engineers need simulation models that predict vehicle responses across operating scenarios that cannot be tested exhaustively. Agreement with representative measurements provides essential evidence, but calibration at a limited set of condition...
 
 📖 [Read original article](https://arxiv.org/abs/2609.12018)
 
@@ -1433,7 +1433,7 @@ arXiv:2609.12157v1 Announce Type: cross Abstract: We present a framework for tra
 **Published:** 9/14/2026, 4:00:00 AM  
 **Categories:** physics.ins-det, cs.AI, cs.LG, physics.app-ph  
 
-arXiv:2609.12184v1 Announce Type: cross Abstract: Experimental TCAD calibration is essential for predictive technology modeling of emerging oxide semiconductor transistors. However, it remains time-consuming and expert dependent because of model ambiguity. Multiple physical models and parameter sets...
+arXiv:2609.12184v2 Announce Type: cross Abstract: Experimental TCAD calibration is essential for predictive technology modeling of emerging oxide semiconductor transistors. However, it remains time-consuming and expert dependent because of model ambiguity. Multiple physical models and parameter sets...
 
 📖 [Read original article](https://arxiv.org/abs/2609.12184)
 
@@ -3041,7 +3041,7 @@ arXiv:2609.03210v2 Announce Type: replace-cross Abstract: Artificial intelligenc
 **Published:** 9/14/2026, 4:00:00 AM  
 **Categories:** cs.GT, cs.LG  
 
-arXiv:2609.03846v3 Announce Type: replace-cross Abstract: We study the allocation of indivisible goods among agents with identical additive valuations, focusing on envy-freeness up to one good (EF1) and Nash social welfare (NSW). Since every maximum-NSW allocation is EF1 under additive valuations, t...
+arXiv:2609.03846v4 Announce Type: replace-cross Abstract: We study the allocation of indivisible goods among agents with identical additive valuations, focusing on envy-freeness up to one good (EF1) and Nash social welfare (NSW). Since every maximum-NSW allocation is EF1 under additive valuations, t...
 
 📖 [Read original article](https://arxiv.org/abs/2609.03846)
 
