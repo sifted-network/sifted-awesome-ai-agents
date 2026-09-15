@@ -2,16 +2,52 @@
 title: "qbitai - 2026-09-15"
 date: "2026-09-15"
 source: "qbitai"
-count: 7
+count: 10
 ---
 
 # qbitai - 2026-09-15
 
-7 items collected.
+10 items collected.
 
 ---
 
-## 1. 无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA
+## 1. 梁文锋CFO到位！投过智谱MiniMax
+
+**Author:** Jay  
+**Published:** 9/15/2026, 1:53:39 PM  
+**Categories:** 资讯  
+
+严文韬，1991年生，高瓴创投合伙人
+
+📖 [Read original article](https://www.qbitai.com/2026/09/489707.html)
+
+---
+
+## 2. 地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出
+
+**Author:** 量子位的朋友们  
+**Published:** 9/15/2026, 1:32:54 PM  
+**Categories:** 资讯, 地平线, 征程芯片  
+
+首发全场景倒车能力，体验再进一步
+
+📖 [Read original article](https://www.qbitai.com/2026/09/489698.html)
+
+---
+
+## 3. 手机替我跑了一整套流程！我就说了一句话，AI执行了100步
+
+**Author:** 克雷西  
+**Published:** 9/15/2026, 12:47:16 PM  
+**Categories:** 资讯, 首页轮播, 荣耀  
+
+一句话，YOYO全面接管我的生活
+
+📖 [Read original article](https://www.qbitai.com/2026/09/489466.html)
+
+---
+
+## 4. 无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA
 
 **Author:** 量子位的朋友们  
 **Published:** 9/15/2026, 10:43:28 AM  
@@ -23,7 +59,7 @@ count: 7
 
 ---
 
-## 2. 全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型
+## 5. 全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型
 
 **Author:** 量子位的朋友们  
 **Published:** 9/15/2026, 10:41:06 AM  
@@ -35,7 +71,7 @@ count: 7
 
 ---
 
-## 3. 一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影
+## 6. 一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影
 
 **Author:** 思邈  
 **Published:** 9/15/2026, 9:58:00 AM  
@@ -47,7 +83,19 @@ count: 7
 
 ---
 
-## 4. Meta新研究：字节模型蒸馏后，天花板破了
+## 7. 首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编
+
+**Author:** 闻乐  
+**Published:** 9/15/2026, 7:48:48 AM  
+**Categories:** 资讯, 首页轮播  
+
+刘慈欣督战
+
+📖 [Read original article](https://www.qbitai.com/2026/09/489260.html)
+
+---
+
+## 8. Meta新研究：字节模型蒸馏后，天花板破了
 
 **Author:** henry  
 **Published:** 9/15/2026, 6:37:16 AM  
@@ -59,7 +107,7 @@ count: 7
 
 ---
 
-## 5. 前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了
+## 9. 前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了
 
 **Author:** henry  
 **Published:** 9/15/2026, 5:39:10 AM  
@@ -71,7 +119,7 @@ count: 7
 
 ---
 
-## 6. 9月21日，深圳前海！聊聊工业AI与生态共创的下一步
+## 10. 9月21日，深圳前海！聊聊工业AI与生态共创的下一步
 
 **Author:** 田, 晏林  
 **Published:** 9/15/2026, 5:20:30 AM  
@@ -80,17 +128,5 @@ count: 7
 西门子Xcelerator繁星生态大会，在生态合作中共赢机遇
 
 📖 [Read original article](https://www.qbitai.com/2026/09/489277.html)
-
----
-
-## 7. 7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开
-
-**Author:** 思邈  
-**Published:** 9/15/2026, 2:17:34 AM  
-**Categories:** 资讯, ZGCM-1, 中关村学院  
-
-几百个Agent参与研发，AI开始造AI
-
-📖 [Read original article](https://www.qbitai.com/2026/09/489227.html)
 
 ---
