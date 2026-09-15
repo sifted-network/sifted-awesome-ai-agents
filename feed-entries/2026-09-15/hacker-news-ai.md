@@ -2,191 +2,251 @@
 title: "Hacker News AI - 2026-09-15"
 date: "2026-09-15"
 source: "Hacker News AI"
-count: 15
+count: 20
 ---
 
 # Hacker News AI - 2026-09-15
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. China hit back at Anthropic CEO's call to curb China's AI development
+## 1. What must happen for AI's trillion-dollar gamble to pay off
 
-**Author:** LebToki  
-**Published:** 9/15/2026, 3:47:39 AM  
+**Author:** joozio  
+**Published:** 9/15/2026, 11:01:33 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=BIM5G5kFYAg Comments URL: https://news.ycombinator.com/item?id=49707471 Points: 1 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/ Comments URL: https://news.ycombinator.com/item?id=49710588 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=BIM5G5kFYAg)
+📖 [Read original article](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
 
 ---
 
-## 2. Crof.ai Was Caught Misrepresenting Models, Shut Down
+## 2. Crypto's Biggest Week Ever? AI Swarm Fears Put the Market on Alert
 
-**Author:** monksy  
-**Published:** 9/15/2026, 3:42:18 AM  
+**Author:** joeymabia1  
+**Published:** 9/15/2026, 10:55:24 AM  
 **Categories:** -  
 
-Article URL: https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/ Comments URL: https://news.ycombinator.com/item?id=49707439 Points: 1 # Comments: 0
+Article URL: https://coinmarketcap.com/community/post/379296157/ Comments URL: https://news.ycombinator.com/item?id=49710525 Points: 2 # Comments: 0
 
-📖 [Read original article](https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/)
+📖 [Read original article](https://coinmarketcap.com/community/post/379296157/)
 
 ---
 
-## 3. Why the best AI startups write bad prompts (& how to fix this)
+## 3. DDD matters more when AI writes your code
 
-**Author:** gmays  
-**Published:** 9/15/2026, 3:41:52 AM  
+**Author:** roblaszczak  
+**Published:** 9/15/2026, 10:45:18 AM  
 **Categories:** -  
 
-Article URL: https://twitter.com/wulfie_bain_/status/2098060386813566990 Comments URL: https://news.ycombinator.com/item?id=49707437 Points: 1 # Comments: 0
+Article URL: https://threedots.tech/post/ddd-and-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49710436 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/wulfie_bain_/status/2098060386813566990)
+📖 [Read original article](https://threedots.tech/post/ddd-and-ai-coding/)
 
 ---
 
-## 4. Is Shipd.ai (Datacurve) Legit?
+## 4. Should AI friendliness be a priority for your projects?
 
-**Author:** underscoremark  
-**Published:** 9/15/2026, 3:22:26 AM  
+**Author:** rumatoest  
+**Published:** 9/15/2026, 10:32:07 AM  
 **Categories:** -  
 
-Article URL: https://shipd.ai Comments URL: https://news.ycombinator.com/item?id=49707331 Points: 1 # Comments: 1
+Recently I came up with an idea that if MCP server and AI focused readme is reasonable for your project than it must be done.Take for example my API mocking/prototyping server "Apate" (github.com/rustrum/apate). 1 year ago I never thought about AI as a main consumer of this tool. So it was focused m...
 
-📖 [Read original article](https://shipd.ai)
+📖 [Read original article](https://news.ycombinator.com/item?id=49710339)
 
 ---
 
-## 5. Microsoft AI Publishes Its Humanist AI Code of Conduct
+## 5. Meta Kicks Muse Off Their Social Handles to Launch New AI Agent
 
-**Author:** CoderLim110  
-**Published:** 9/15/2026, 3:08:41 AM  
+**Author:** rdmuser  
+**Published:** 9/15/2026, 10:16:45 AM  
 **Categories:** -  
 
-Article URL: https://microsoft.ai/code-of-conduct/ Comments URL: https://news.ycombinator.com/item?id=49707240 Points: 1 # Comments: 0
+Article URL: https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news Comments URL: https://news.ycombinator.com/item?id=49710219 Points: 2 # Comments: 0
 
-📖 [Read original article](https://microsoft.ai/code-of-conduct/)
+📖 [Read original article](https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news)
 
 ---
 
-## 6. World AI Cooperation Organization
+## 6. AI hypervigilance is now an omnipresent cognitive load for your users
 
-**Author:** soundworlds  
-**Published:** 9/15/2026, 2:37:51 AM  
+**Author:** latexr  
+**Published:** 9/15/2026, 10:02:56 AM  
 **Categories:** -  
 
-Article URL: https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization Comments URL: https://news.ycombinator.com/item?id=49707000 Points: 1 # Comments: 1
+Article URL: https://productpicnic.beehiiv.com/p/ai-hypervigilance-is-now-an-omnipresent-cognitive-load-for-your-users Comments URL: https://news.ycombinator.com/item?id=49710125 Points: 1 # Comments: 0
 
-📖 [Read original article](https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization)
+📖 [Read original article](https://productpicnic.beehiiv.com/p/ai-hypervigilance-is-now-an-omnipresent-cognitive-load-for-your-users)
 
 ---
 
-## 7. US-China AI strategic planning
+## 7. Botcafe: Two AI agents share a curl board so they can talk
 
-**Author:** neptunetriton  
-**Published:** 9/15/2026, 2:34:00 AM  
+**Author:** hith3sh  
+**Published:** 9/15/2026, 9:56:56 AM  
 **Categories:** -  
 
-Article URL: https://sinocism.com/p/us-china-strategic-ai-dialogue-said Comments URL: https://news.ycombinator.com/item?id=49706976 Points: 2 # Comments: 0
+Article URL: https://botcafe.dev/ Comments URL: https://news.ycombinator.com/item?id=49710086 Points: 1 # Comments: 0
 
-📖 [Read original article](https://sinocism.com/p/us-china-strategic-ai-dialogue-said)
+📖 [Read original article](https://botcafe.dev/)
 
 ---
 
-## 8. I worked at Google DeepMind. You should listen to the warnings about AI
+## 8. Show HN: LM-Kit One – private AI on your infrastructure
 
-**Author:** gibspaulding  
-**Published:** 9/15/2026, 2:25:41 AM  
+**Author:** lcarrere  
+**Published:** 9/15/2026, 9:53:46 AM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings Comments URL: https://news.ycombinator.com/item?id=49706941 Points: 5 # Comments: 1
+Article URL: https://lm-kit.com/products/lm-kit-one/ Comments URL: https://news.ycombinator.com/item?id=49710060 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings)
+📖 [Read original article](https://lm-kit.com/products/lm-kit-one/)
 
 ---
 
-## 9. Tacit Knowledge and AI
+## 9. I found an old video in my own AI workflow and decided to remake it
 
-**Author:** 7402  
-**Published:** 9/15/2026, 12:59:49 AM  
+**Author:** HarroGoerndt  
+**Published:** 9/15/2026, 9:48:28 AM  
 **Categories:** -  
 
-Article URL: https://cacm.acm.org/opinion/tacit-knowledge-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49706389 Points: 1 # Comments: 0
+Article URL: https://nexus-hits.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=49710020 Points: 1 # Comments: 1
 
-📖 [Read original article](https://cacm.acm.org/opinion/tacit-knowledge-and-ai/)
+📖 [Read original article](https://nexus-hits.netlify.app/)
 
 ---
 
-## 10. NBC News Airs Interview with AI-Generated Actress
+## 10. Pocket Bibles and AI
 
-**Author:** pseudolus  
-**Published:** 9/15/2026, 12:41:39 AM  
+**Author:** nixlaz  
+**Published:** 9/15/2026, 9:28:17 AM  
 **Categories:** -  
 
-Article URL: https://www.mediaite.com/media/tv/how-bizarre-is-this-nbc-news-airs-interview-with-ai-generated-actress/ Comments URL: https://news.ycombinator.com/item?id=49706238 Points: 4 # Comments: 0
+Article URL: https://www.amytis.io/blog/insights-on-ai-from-the-reformation Comments URL: https://news.ycombinator.com/item?id=49709903 Points: 3 # Comments: 3
 
-📖 [Read original article](https://www.mediaite.com/media/tv/how-bizarre-is-this-nbc-news-airs-interview-with-ai-generated-actress/)
+📖 [Read original article](https://www.amytis.io/blog/insights-on-ai-from-the-reformation)
 
 ---
 
-## 11. Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent
+## 11. Creating word recordings with AI: learning where to cut
 
-**Author:** throwworhtthrow  
-**Published:** 9/15/2026, 12:40:14 AM  
+**Author:** freshteapot  
+**Published:** 9/15/2026, 9:17:29 AM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 62 # Comments: 30
+Article URL: https://freshteapot.net/writing/creating-word-audio-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49709820 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
+📖 [Read original article](https://freshteapot.net/writing/creating-word-audio-with-ai/)
 
 ---
 
-## 12. Prosecutors say man used AI to 'scrape' court website, asked it for legal help
+## 12. Challenging AI
 
-**Author:** droidjj  
-**Published:** 9/15/2026, 12:33:15 AM  
+**Author:** JensRantil  
+**Published:** 9/15/2026, 9:01:45 AM  
 **Categories:** -  
 
-Article URL: https://www.abc.net.au/news/2026-09-10/christopher-duff-to-stand-trial-over-nsw-ai-court-data-breach/107135032 Comments URL: https://news.ycombinator.com/item?id=49706175 Points: 8 # Comments: 0
+Article URL: https://jensrantil.github.io/posts/challenging-ai/ Comments URL: https://news.ycombinator.com/item?id=49709711 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.abc.net.au/news/2026-09-10/christopher-duff-to-stand-trial-over-nsw-ai-court-data-breach/107135032)
+📖 [Read original article](https://jensrantil.github.io/posts/challenging-ai/)
 
 ---
 
-## 13. AI, Redistribution, and the Size of the Pie
+## 13. Is Big Tech's AI slowdown a safety pact or a cartel?
 
-**Author:** paulpauper  
-**Published:** 9/15/2026, 12:26:42 AM  
+**Author:** sbulaev  
+**Published:** 9/15/2026, 8:07:08 AM  
 **Categories:** -  
 
-Article URL: https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html Comments URL: https://news.ycombinator.com/item?id=49706124 Points: 8 # Comments: 1
+Article URL: https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel Comments URL: https://news.ycombinator.com/item?id=49709283 Points: 4 # Comments: 1
 
-📖 [Read original article](https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)
 
 ---
 
-## 14. AI Agent Wallet Offboarding Checklist
+## 14. Google DeepMind Staffer Says AI May 'Kill Us All' in Exit Post
 
-**Author:** dwayneoneill  
-**Published:** 9/15/2026, 12:20:47 AM  
+**Author:** shlomysh  
+**Published:** 9/15/2026, 7:42:50 AM  
 **Categories:** -  
 
-Article URL: https://do2006.github.io/nightfall-crypto-access-exit-check/ai-agent-wallet-offboarding-checklist.html Comments URL: https://news.ycombinator.com/item?id=49706078 Points: 1 # Comments: 0
+Article URL: https://finance.yahoo.com/technology/ai/articles/google-deepmind-staffer-says-ai-023902174.html Comments URL: https://news.ycombinator.com/item?id=49709109 Points: 2 # Comments: 0
 
-📖 [Read original article](https://do2006.github.io/nightfall-crypto-access-exit-check/ai-agent-wallet-offboarding-checklist.html)
+📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/google-deepmind-staffer-says-ai-023902174.html)
 
 ---
 
-## 15. Sanders proposes 20-year prison sentences for superintelligence AI developers
+## 15. Javier Gomez-Serrano – New Math, AI Developments in Fluid Mechanics [video]
 
-**Author:** infinite_spin  
-**Published:** 9/15/2026, 12:20:36 AM  
+**Author:** nill0  
+**Published:** 9/15/2026, 7:15:15 AM  
 **Categories:** -  
 
-Article URL: https://www.msn.com/en-us/news/other/bernie-sanders-proposes-20-year-prison-sentences-for-superintelligence-ai-developers/ar-AA2cbJ4g Comments URL: https://news.ycombinator.com/item?id=49706075 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=TcEefrWrddA Comments URL: https://news.ycombinator.com/item?id=49708893 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.msn.com/en-us/news/other/bernie-sanders-proposes-20-year-prison-sentences-for-superintelligence-ai-developers/ar-AA2cbJ4g)
+📖 [Read original article](https://www.youtube.com/watch?v=TcEefrWrddA)
+
+---
+
+## 16. Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
+
+**Author:** chrisjj  
+**Published:** 9/15/2026, 7:14:46 AM  
+**Categories:** -  
+
+Article URL: https://www.bbc.co.uk/news/articles/cw980n0nd0qjo Comments URL: https://news.ycombinator.com/item?id=49708891 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.bbc.co.uk/news/articles/cw980n0nd0qjo)
+
+---
+
+## 17. A Blueprint for Keeping Humans in Control of AI
+
+**Author:** geox  
+**Published:** 9/15/2026, 7:08:38 AM  
+**Categories:** -  
+
+Article URL: https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai Comments URL: https://news.ycombinator.com/item?id=49708836 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai)
+
+---
+
+## 18. AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop
+
+**Author:** joozio  
+**Published:** 9/15/2026, 7:02:39 AM  
+**Categories:** -  
+
+Article URL: https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/ Comments URL: https://news.ycombinator.com/item?id=49708793 Points: 3 # Comments: 1
+
+📖 [Read original article](https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/)
+
+---
+
+## 19. KnowBench: Evaluating clinical AI with effort reduction
+
+**Author:** kangjl888  
+**Published:** 9/15/2026, 6:52:44 AM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2609.15794 Comments URL: https://news.ycombinator.com/item?id=49708711 Points: 4 # Comments: 1
+
+📖 [Read original article](https://arxiv.org/abs/2609.15794)
+
+---
+
+## 20. Show HN: Jinfer – AI inference engine for the JVM. AI in a jar
+
+**Author:** mukel  
+**Published:** 9/15/2026, 6:42:32 AM  
+**Categories:** -  
+
+Hi HN, Some would call AI on the JVM quixotic. And so, Quixotic AI was born.jinfer is an inference engine for the JVM: chat, vision, audio, embeddings, reranking, and TTS. No Python runtime, no ONNX, no Docker containers, no sidecar process, no IPC. Finally, AI in a jar.The stack underneath is built...
+
+📖 [Read original article](https://qxotic.ai/)
 
 ---
