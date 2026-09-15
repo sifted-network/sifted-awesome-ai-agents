@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-14"
 date: "2026-09-14"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-09-14
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ AI 蛋白质设计迈入“动态时代”
 这家中国公司，刚跑完了物理闭环里最难的一段路
 
 📖 [Read original article](https://www.qbitai.com/2026/09/488725.html)
-
----
-
-## 10. 奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX
-
-**Author:** Jay  
-**Published:** 9/14/2026, 2:56:45 AM  
-**Categories:** 资讯  
-
-还是太嫩了啊Dario
-
-📖 [Read original article](https://www.qbitai.com/2026/09/488699.html)
 
 ---
