@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. What must happen for AI's trillion-dollar gamble to pay off
+## 1. OpenAI, Anthropic, Google have been in talks on AI safety for weeks
 
-**Author:** joozio  
-**Published:** 9/15/2026, 11:01:33 AM  
+**Author:** Alephinitesimal  
+**Published:** 9/15/2026, 4:19:20 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/ Comments URL: https://news.ycombinator.com/item?id=49710588 Points: 2 # Comments: 0
+Article URL: https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/ Comments URL: https://news.ycombinator.com/item?id=49714853 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
+📖 [Read original article](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/)
 
 ---
 
-## 2. Crypto's Biggest Week Ever? AI Swarm Fears Put the Market on Alert
+## 2. AI Is Lowering the Cost of Competence and Raising the Value of Judgment
 
-**Author:** joeymabia1  
-**Published:** 9/15/2026, 10:55:24 AM  
+**Author:** rodipen  
+**Published:** 9/15/2026, 4:18:39 PM  
 **Categories:** -  
 
-Article URL: https://coinmarketcap.com/community/post/379296157/ Comments URL: https://news.ycombinator.com/item?id=49710525 Points: 2 # Comments: 0
+Article URL: https://pensero.ai/blog/knowledge-is-no-longer-the-competitive-advantage.-judgment-is Comments URL: https://news.ycombinator.com/item?id=49714838 Points: 2 # Comments: 0
 
-📖 [Read original article](https://coinmarketcap.com/community/post/379296157/)
+📖 [Read original article](https://pensero.ai/blog/knowledge-is-no-longer-the-competitive-advantage.-judgment-is)
 
 ---
 
-## 3. DDD matters more when AI writes your code
+## 3. Scalpel – give AI coding agents get_symbol() instead of a whole file
 
-**Author:** roblaszczak  
-**Published:** 9/15/2026, 10:45:18 AM  
+**Author:** amritesh7  
+**Published:** 9/15/2026, 4:10:25 PM  
 **Categories:** -  
 
-Article URL: https://threedots.tech/post/ddd-and-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49710436 Points: 1 # Comments: 0
+Article URL: https://github.com/amritessh/scalpel-mcp Comments URL: https://news.ycombinator.com/item?id=49714713 Points: 2 # Comments: 0
 
-📖 [Read original article](https://threedots.tech/post/ddd-and-ai-coding/)
+📖 [Read original article](https://github.com/amritessh/scalpel-mcp)
 
 ---
 
-## 4. Should AI friendliness be a priority for your projects?
+## 4. Four Biological Conjectures: Strange and Marvelous Challenges for Biological AI
 
-**Author:** rumatoest  
-**Published:** 9/15/2026, 10:32:07 AM  
+**Author:** Stwerner  
+**Published:** 9/15/2026, 4:08:48 PM  
 **Categories:** -  
 
-Recently I came up with an idea that if MCP server and AI focused readme is reasonable for your project than it must be done.Take for example my API mocking/prototyping server "Apate" (github.com/rustrum/apate). 1 year ago I never thought about AI as a main consumer of this tool. So it was focused m...
+Article URL: https://americanwetware.substack.com/p/four-biological-conjectures Comments URL: https://news.ycombinator.com/item?id=49714687 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49710339)
+📖 [Read original article](https://americanwetware.substack.com/p/four-biological-conjectures)
 
 ---
 
-## 5. Meta Kicks Muse Off Their Social Handles to Launch New AI Agent
+## 5. Musk urges top AI labs, Chinese companies to test each other's models
 
-**Author:** rdmuser  
-**Published:** 9/15/2026, 10:16:45 AM  
+**Author:** cramer4next  
+**Published:** 9/15/2026, 4:07:36 PM  
 **Categories:** -  
 
-Article URL: https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news Comments URL: https://news.ycombinator.com/item?id=49710219 Points: 2 # Comments: 0
+Article URL: https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html Comments URL: https://news.ycombinator.com/item?id=49714673 Points: 3 # Comments: 0
 
-📖 [Read original article](https://stereogum.com/2510793/meta-kicks-muse-off-their-social-handles-to-launch-new-ai-agent/news)
+📖 [Read original article](https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html)
 
 ---
 
-## 6. AI hypervigilance is now an omnipresent cognitive load for your users
+## 6. The Dangerous Ideology Behind the AI Warnings
 
-**Author:** latexr  
-**Published:** 9/15/2026, 10:02:56 AM  
+**Author:** bilsbie  
+**Published:** 9/15/2026, 4:05:02 PM  
 **Categories:** -  
 
-Article URL: https://productpicnic.beehiiv.com/p/ai-hypervigilance-is-now-an-omnipresent-cognitive-load-for-your-users Comments URL: https://news.ycombinator.com/item?id=49710125 Points: 1 # Comments: 0
+Article URL: https://www.thefp.com/p/dangerous-ideology-effective-altruism-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=49714631 Points: 4 # Comments: 0
 
-📖 [Read original article](https://productpicnic.beehiiv.com/p/ai-hypervigilance-is-now-an-omnipresent-cognitive-load-for-your-users)
+📖 [Read original article](https://www.thefp.com/p/dangerous-ideology-effective-altruism-artificial-intelligence)
 
 ---
 
-## 7. Botcafe: Two AI agents share a curl board so they can talk
+## 7. Show HN: An open source safety layer for AI agent actions
 
-**Author:** hith3sh  
-**Published:** 9/15/2026, 9:56:56 AM  
+**Author:** arpanghoshal  
+**Published:** 9/15/2026, 4:03:31 PM  
 **Categories:** -  
 
-Article URL: https://botcafe.dev/ Comments URL: https://news.ycombinator.com/item?id=49710086 Points: 1 # Comments: 0
+Article URL: https://github.com/CTRLRun/ctrlrun Comments URL: https://news.ycombinator.com/item?id=49714619 Points: 4 # Comments: 1
 
-📖 [Read original article](https://botcafe.dev/)
+📖 [Read original article](https://github.com/CTRLRun/ctrlrun)
 
 ---
 
-## 8. Show HN: LM-Kit One – private AI on your infrastructure
+## 8. The Convenient Fear of AI
 
-**Author:** lcarrere  
-**Published:** 9/15/2026, 9:53:46 AM  
+**Author:** curial  
+**Published:** 9/15/2026, 3:51:43 PM  
 **Categories:** -  
 
-Article URL: https://lm-kit.com/products/lm-kit-one/ Comments URL: https://news.ycombinator.com/item?id=49710060 Points: 1 # Comments: 0
+Article URL: https://medium.com/@claudi.martinez/the-convenient-fear-of-ai-9f38cfa5898b Comments URL: https://news.ycombinator.com/item?id=49714428 Points: 2 # Comments: 0
 
-📖 [Read original article](https://lm-kit.com/products/lm-kit-one/)
+📖 [Read original article](https://medium.com/@claudi.martinez/the-convenient-fear-of-ai-9f38cfa5898b)
 
 ---
 
-## 9. I found an old video in my own AI workflow and decided to remake it
+## 9. Show HN: Voice AI that runs on CPUs
 
-**Author:** HarroGoerndt  
-**Published:** 9/15/2026, 9:48:28 AM  
+**Author:** lokutor  
+**Published:** 9/15/2026, 3:49:45 PM  
 **Categories:** -  
 
-Article URL: https://nexus-hits.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=49710020 Points: 1 # Comments: 1
+Article URL: https://lokutor.com/ Comments URL: https://news.ycombinator.com/item?id=49714400 Points: 2 # Comments: 0
 
-📖 [Read original article](https://nexus-hits.netlify.app/)
+📖 [Read original article](https://lokutor.com/)
 
 ---
 
-## 10. Pocket Bibles and AI
+## 10. US Commerce Department ordered Kalshi to remove AI compute futures product
 
-**Author:** nixlaz  
-**Published:** 9/15/2026, 9:28:17 AM  
+**Author:** utiiiD  
+**Published:** 9/15/2026, 3:40:04 PM  
 **Categories:** -  
 
-Article URL: https://www.amytis.io/blog/insights-on-ai-from-the-reformation Comments URL: https://news.ycombinator.com/item?id=49709903 Points: 3 # Comments: 3
+Article URL: https://www.semafor.com/article/09/15/2026/commerce-dept-ordered-kalshi-to-take-down-ai-compute-futures-product Comments URL: https://news.ycombinator.com/item?id=49714235 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.amytis.io/blog/insights-on-ai-from-the-reformation)
+📖 [Read original article](https://www.semafor.com/article/09/15/2026/commerce-dept-ordered-kalshi-to-take-down-ai-compute-futures-product)
 
 ---
 
-## 11. Creating word recordings with AI: learning where to cut
+## 11. Show HN: Leo – a Markdown engineering process for AI coding agents
 
-**Author:** freshteapot  
-**Published:** 9/15/2026, 9:17:29 AM  
+**Author:** alex-zaporozhan  
+**Published:** 9/15/2026, 3:38:37 PM  
 **Categories:** -  
 
-Article URL: https://freshteapot.net/writing/creating-word-audio-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49709820 Points: 1 # Comments: 0
+Article URL: https://github.com/alex-zaporozhan/leo Comments URL: https://news.ycombinator.com/item?id=49714211 Points: 2 # Comments: 0
 
-📖 [Read original article](https://freshteapot.net/writing/creating-word-audio-with-ai/)
+📖 [Read original article](https://github.com/alex-zaporozhan/leo)
 
 ---
 
-## 12. Challenging AI
+## 12. Arguments for Rigorous AI Training Data Transparency
 
-**Author:** JensRantil  
-**Published:** 9/15/2026, 9:01:45 AM  
+**Author:** lcubw  
+**Published:** 9/15/2026, 3:34:16 PM  
 **Categories:** -  
 
-Article URL: https://jensrantil.github.io/posts/challenging-ai/ Comments URL: https://news.ycombinator.com/item?id=49709711 Points: 1 # Comments: 0
+Article URL: https://read.misalignedmag.com/arguments-for-rigorous-ai-training-data-transparency-4d9a2a667188 Comments URL: https://news.ycombinator.com/item?id=49714136 Points: 2 # Comments: 1
 
-📖 [Read original article](https://jensrantil.github.io/posts/challenging-ai/)
+📖 [Read original article](https://read.misalignedmag.com/arguments-for-rigorous-ai-training-data-transparency-4d9a2a667188)
 
 ---
 
-## 13. Is Big Tech's AI slowdown a safety pact or a cartel?
+## 13. Axelera AI Launches Europa
 
-**Author:** sbulaev  
-**Published:** 9/15/2026, 8:07:08 AM  
+**Author:** muxamilian  
+**Published:** 9/15/2026, 3:31:29 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel Comments URL: https://news.ycombinator.com/item?id=49709283 Points: 4 # Comments: 1
+Article URL: https://axelera.ai/news/axelera-ai-launches-europa-delivers-physical-and-enterprise-ai-through-growing-partner-ecosystem-including-dell-and-supermicro Comments URL: https://news.ycombinator.com/item?id=49714083 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)
+📖 [Read original article](https://axelera.ai/news/axelera-ai-launches-europa-delivers-physical-and-enterprise-ai-through-growing-partner-ecosystem-including-dell-and-supermicro)
 
 ---
 
-## 14. Google DeepMind Staffer Says AI May 'Kill Us All' in Exit Post
+## 14. Open-source AI discussions outside the usual echo chambers
 
-**Author:** shlomysh  
-**Published:** 9/15/2026, 7:42:50 AM  
+**Author:** francescobianco  
+**Published:** 9/15/2026, 3:30:47 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/technology/ai/articles/google-deepmind-staffer-says-ai-023902174.html Comments URL: https://news.ycombinator.com/item?id=49709109 Points: 2 # Comments: 0
+Article URL: https://github.com/orgs/openapi/discussions/categories/open-source-ai Comments URL: https://news.ycombinator.com/item?id=49714073 Points: 2 # Comments: 0
 
-📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/google-deepmind-staffer-says-ai-023902174.html)
+📖 [Read original article](https://github.com/orgs/openapi/discussions/categories/open-source-ai)
 
 ---
 
-## 15. Javier Gomez-Serrano – New Math, AI Developments in Fluid Mechanics [video]
+## 15. Leadership Is the Last Line of Defence Against AI Mediocrity
 
-**Author:** nill0  
-**Published:** 9/15/2026, 7:15:15 AM  
+**Author:** mooreds  
+**Published:** 9/15/2026, 3:28:22 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=TcEefrWrddA Comments URL: https://news.ycombinator.com/item?id=49708893 Points: 1 # Comments: 0
+Article URL: https://www.brettmacfarlane.com/blog/2026/innovate-or-die--kl79e-p8n7b Comments URL: https://news.ycombinator.com/item?id=49714035 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=TcEefrWrddA)
+📖 [Read original article](https://www.brettmacfarlane.com/blog/2026/innovate-or-die--kl79e-p8n7b)
 
 ---
 
-## 16. Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
+## 16. AI Doomsday
 
-**Author:** chrisjj  
-**Published:** 9/15/2026, 7:14:46 AM  
+**Author:** getatme32  
+**Published:** 9/15/2026, 3:27:36 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.co.uk/news/articles/cw980n0nd0qjo Comments URL: https://news.ycombinator.com/item?id=49708891 Points: 2 # Comments: 0
+Article URL: https://twitter.com/Hesamation/status/2099814278626742327 Comments URL: https://news.ycombinator.com/item?id=49714018 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bbc.co.uk/news/articles/cw980n0nd0qjo)
+📖 [Read original article](https://twitter.com/Hesamation/status/2099814278626742327)
 
 ---
 
-## 17. A Blueprint for Keeping Humans in Control of AI
+## 17. Cartesian – AI 3D Modeling for Design
 
-**Author:** geox  
-**Published:** 9/15/2026, 7:08:38 AM  
+**Author:** eustoria  
+**Published:** 9/15/2026, 3:26:45 PM  
 **Categories:** -  
 
-Article URL: https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai Comments URL: https://news.ycombinator.com/item?id=49708836 Points: 4 # Comments: 0
+Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 24 # Comments: 10
 
-📖 [Read original article](https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai)
+📖 [Read original article](https://www.formas.ai/cartesian)
 
 ---
 
-## 18. AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop
+## 18. Anti AI Clothing
 
-**Author:** joozio  
-**Published:** 9/15/2026, 7:02:39 AM  
+**Author:** eustoria  
+**Published:** 9/15/2026, 3:22:28 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/ Comments URL: https://news.ycombinator.com/item?id=49708793 Points: 3 # Comments: 1
+Article URL: https://urban-privacy.com/collections/faception-reloaded Comments URL: https://news.ycombinator.com/item?id=49713928 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/)
+📖 [Read original article](https://urban-privacy.com/collections/faception-reloaded)
 
 ---
 
-## 19. KnowBench: Evaluating clinical AI with effort reduction
+## 19. Show HN: Pizza Bot – An inbox for AI agents that work in the background
 
-**Author:** kangjl888  
-**Published:** 9/15/2026, 6:52:44 AM  
+**Author:** jd_  
+**Published:** 9/15/2026, 3:20:26 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2609.15794 Comments URL: https://news.ycombinator.com/item?id=49708711 Points: 4 # Comments: 1
+Article URL: https://github.com/pizza-bot-app/pizza-bot Comments URL: https://news.ycombinator.com/item?id=49713894 Points: 3 # Comments: 1
 
-📖 [Read original article](https://arxiv.org/abs/2609.15794)
+📖 [Read original article](https://github.com/pizza-bot-app/pizza-bot)
 
 ---
 
-## 20. Show HN: Jinfer – AI inference engine for the JVM. AI in a jar
+## 20. Show HN: Visual HTML – a source-preserving WYSIWYG editor for AI-generated HTML
 
-**Author:** mukel  
-**Published:** 9/15/2026, 6:42:32 AM  
+**Author:** kong75  
+**Published:** 9/15/2026, 3:17:58 PM  
 **Categories:** -  
 
-Hi HN, Some would call AI on the JVM quixotic. And so, Quixotic AI was born.jinfer is an inference engine for the JVM: chat, vision, audio, embeddings, reranking, and TTS. No Python runtime, no ONNX, no Docker containers, no sidecar process, no IPC. Finally, AI in a jar.The stack underneath is built...
+Article URL: https://kong75.github.io/visual-html-editor/ Comments URL: https://news.ycombinator.com/item?id=49713864 Points: 4 # Comments: 0
 
-📖 [Read original article](https://qxotic.ai/)
+📖 [Read original article](https://kong75.github.io/visual-html-editor/)
 
 ---
