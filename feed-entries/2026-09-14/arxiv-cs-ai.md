@@ -281,7 +281,7 @@ arXiv:2609.12373v1 Announce Type: new Abstract: Persona drift remains a central 
 **Published:** 9/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.12394v1 Announce Type: new Abstract: Mobile GUI agents are shifting from multi-module frameworks to native models trained end-to-end, yet industrial deployment faces three persistent gaps. Sandbox training produces a distribution mismatch with production environments; expensive real-devic...
+arXiv:2609.12394v2 Announce Type: new Abstract: Mobile GUI agents are shifting from multi-module frameworks to native models trained end-to-end, yet industrial deployment faces three persistent gaps. Sandbox training produces a distribution mismatch with production environments; expensive real-devic...
 
 📖 [Read original article](https://arxiv.org/abs/2609.12394)
 
@@ -509,7 +509,7 @@ arXiv:2609.12586v1 Announce Type: new Abstract: In this reproduction paper we in
 **Published:** 9/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.12606v1 Announce Type: new Abstract: While multimodal reasoning has advanced rapidly, solving complex geometry problems critically hinges on active visual assistance, such as constructing auxiliary lines, spurring the rise of Visual Chain-of-Thought (VCoT). However, existing evaluations t...
+arXiv:2609.12606v2 Announce Type: new Abstract: While multimodal reasoning has advanced rapidly, solving complex geometry problems critically hinges on active visual assistance, such as constructing auxiliary lines, spurring the rise of Visual Chain-of-Thought (VCoT). However, existing evaluations t...
 
 📖 [Read original article](https://arxiv.org/abs/2609.12606)
 
@@ -689,7 +689,7 @@ arXiv:2609.12801v1 Announce Type: new Abstract: We introduce a rigid and compreh
 **Published:** 9/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.12808v1 Announce Type: new Abstract: Unlearning benchmarks such as TOFU and MUSE certify forgetting by reading the model's final answer, where a model that refuses to answer already counts as having forgotten. We show that this model-level certificate does not transfer once the model is d...
+arXiv:2609.12808v2 Announce Type: new Abstract: Unlearning benchmarks such as TOFU and MUSE certify forgetting by reading the model's final answer, where a model that refuses to answer already counts as having forgotten. We show that this model-level certificate does not transfer once the model is d...
 
 📖 [Read original article](https://arxiv.org/abs/2609.12808)
 
@@ -1097,7 +1097,7 @@ arXiv:2609.12179v1 Announce Type: cross Abstract: Algorithmic recourse methods t
 **Published:** 9/14/2026, 4:00:00 AM  
 **Categories:** physics.ins-det, cs.AI, cs.LG, physics.app-ph  
 
-arXiv:2609.12184v1 Announce Type: cross Abstract: Experimental TCAD calibration is essential for predictive technology modeling of emerging oxide semiconductor transistors. However, it remains time-consuming and expert dependent because of model ambiguity. Multiple physical models and parameter sets...
+arXiv:2609.12184v2 Announce Type: cross Abstract: Experimental TCAD calibration is essential for predictive technology modeling of emerging oxide semiconductor transistors. However, it remains time-consuming and expert dependent because of model ambiguity. Multiple physical models and parameter sets...
 
 📖 [Read original article](https://arxiv.org/abs/2609.12184)
 
@@ -1733,7 +1733,7 @@ arXiv:2609.12818v1 Announce Type: cross Abstract: Long video understanding often
 **Published:** 9/14/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI  
 
-arXiv:2609.12839v1 Announce Type: cross Abstract: The proliferation of highly capable open-weight Small Language Models (SLMs) democratizes access to advanced cybersecurity capabilities, posing a escalating risk as these models can bypass proprietary API guardrails when deployed locally. However, SL...
+arXiv:2609.12839v2 Announce Type: cross Abstract: The proliferation of highly capable open-weight Small Language Models (SLMs) democratizes access to advanced cybersecurity capabilities, posing a escalating risk as these models can bypass proprietary API guardrails when deployed locally. However, SL...
 
 📖 [Read original article](https://arxiv.org/abs/2609.12839)
 
