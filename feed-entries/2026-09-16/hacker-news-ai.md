@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Is it hypocritical to criticize AI slop while promoting vibecoding tools?
+## 1. Nvidia's AI Climate hoax – report
 
-**Author:** wuemeli  
-**Published:** 9/16/2026, 10:48:10 AM  
+**Author:** hn_acker  
+**Published:** 9/16/2026, 4:18:02 PM  
 **Categories:** -  
 
-Article URL: https://elephant.wuemeli.com/@wuemeli/117280311233495501 Comments URL: https://news.ycombinator.com/item?id=49724576 Points: 2 # Comments: 0
+Article URL: https://ketanjoshi.co/2026/09/16/nvidias-ai-climate-hoax-report/ Comments URL: https://news.ycombinator.com/item?id=49729297 Points: 1 # Comments: 0
 
-📖 [Read original article](https://elephant.wuemeli.com/@wuemeli/117280311233495501)
+📖 [Read original article](https://ketanjoshi.co/2026/09/16/nvidias-ai-climate-hoax-report/)
 
 ---
 
-## 2. Salesforce's AI Bet: Benioff, Jensen Huang, Dario Amodei on Stage Together
+## 2. In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble
 
-**Author:** Nazzareno  
-**Published:** 9/16/2026, 10:28:20 AM  
+**Author:** rdmuser  
+**Published:** 9/16/2026, 4:12:39 PM  
 **Categories:** -  
 
-Article URL: https://www.salesforce.com/plus/experience/dreamforce_2026/series/dreamforce_2026_must-see_moments/episode/episode-s1e1?bc=HL Comments URL: https://news.ycombinator.com/item?id=49724410 Points: 1 # Comments: 1
+Article URL: https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html Comments URL: https://news.ycombinator.com/item?id=49729215 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.salesforce.com/plus/experience/dreamforce_2026/series/dreamforce_2026_must-see_moments/episode/episode-s1e1?bc=HL)
+📖 [Read original article](https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html)
 
 ---
 
-## 3. AI Is Reshaping Open Source Software and Straining the Systems That Sustain It
+## 3. Show HN: Stopping AI agent swarms from hacking our systems
 
-**Author:** DeepLogin  
-**Published:** 9/16/2026, 10:20:56 AM  
+**Author:** andresceballosm  
+**Published:** 9/16/2026, 4:11:31 PM  
 **Categories:** -  
 
-Article URL: https://www.acm.org/media-center/2026/september/techbrief-ai-effects-open-source Comments URL: https://news.ycombinator.com/item?id=49724353 Points: 1 # Comments: 0
+I don't trust OpenAI, Anthropic, Google, or any other AI lab to be responsible for protecting my systems from the systems they're building, yesterday it was Hugging Face unintentionally, tomorrow it could be anyone, even an open-source model and a swarm of agents can do a lot of damage, today's secu...
 
-📖 [Read original article](https://www.acm.org/media-center/2026/september/techbrief-ai-effects-open-source)
+📖 [Read original article](https://www.inwom.com/)
 
 ---
 
-## 4. DocMind – I built an AI document parser to end manual data entry solo
+## 4. AI memory shortage: Fairphone says RAM is now 60% of materials cost
 
-**Author:** tmeelo_  
-**Published:** 9/16/2026, 9:52:28 AM  
+**Author:** sbulaev  
+**Published:** 9/16/2026, 4:07:09 PM  
 **Categories:** -  
 
-Article URL: https://docmind.neomindintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49724132 Points: 1 # Comments: 0
+Article URL: https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips Comments URL: https://news.ycombina...
 
-📖 [Read original article](https://docmind.neomindintelligence.com/)
+📖 [Read original article](https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips)
 
 ---
 
-## 5. Scikit-Decide AI Framework for RL, Auto Planning and Scheduling
+## 5. 'Godfather of AI' says tech regulation is nearing Covid-style pivot moment
+
+**Author:** swolpers  
+**Published:** 9/16/2026, 3:56:25 PM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio Comments URL: https://news.ycombinator.com/item?id=49728991 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio)
+
+---
+
+## 6. The AI Wait Equation
+
+**Author:** xendo  
+**Published:** 9/16/2026, 3:48:05 PM  
+**Categories:** -  
+
+Article URL: https://xendo.bearblog.dev/the-wait-equation/ Comments URL: https://news.ycombinator.com/item?id=49728850 Points: 2 # Comments: 0
+
+📖 [Read original article](https://xendo.bearblog.dev/the-wait-equation/)
+
+---
+
+## 7. Media execs sound alarm on AI
+
+**Author:** 1vuio0pswjnm7  
+**Published:** 9/16/2026, 3:45:09 PM  
+**Categories:** -  
+
+Article URL: https://www.axios.com/2026/09/16/media-execs-sound-alarm-on-ai Comments URL: https://news.ycombinator.com/item?id=49728809 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.axios.com/2026/09/16/media-execs-sound-alarm-on-ai)
+
+---
+
+## 8. Show HN: Put an AI agent on a FaceTime audio/video call (open source, WebRTC)
+
+**Author:** garygao  
+**Published:** 9/16/2026, 3:41:02 PM  
+**Categories:** -  
+
+Hey everyone, Gary here from Chert (YC P26). We just open-sourced a framework for putting AI agents on FaceTime audio/video calls: https://github.com/cherthq/chert-facetime-opensource. There's also a managed inbound/outbound API if you don't want to run it yourself: https://www.trychert.com/facetime...
+
+📖 [Read original article](https://github.com/cherthq/chert-facetime-opensource)
+
+---
+
+## 9. Show HN: An MCP server that lets AI agents create, send and analyze surveys
+
+**Author:** jason_zig  
+**Published:** 9/16/2026, 3:40:13 PM  
+**Categories:** -  
+
+Article URL: https://www.zigpoll.com Comments URL: https://news.ycombinator.com/item?id=49728735 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.zigpoll.com)
+
+---
+
+## 10. Inside Meta's AI Infrastructure Lab in Menlo Park [video]
+
+**Author:** helloplanets  
+**Published:** 9/16/2026, 3:39:33 PM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=okSHoVPrf8o Comments URL: https://news.ycombinator.com/item?id=49728721 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.youtube.com/watch?v=okSHoVPrf8o)
+
+---
+
+## 11. Show HN: Cleanroom – An AI coding agent you can learn from at your own pace
+
+**Author:** pakupaku  
+**Published:** 9/16/2026, 3:39:25 PM  
+**Categories:** -  
+
+Article URL: https://github.com/Ag3497120/cleanroom Comments URL: https://news.ycombinator.com/item?id=49728719 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/Ag3497120/cleanroom)
+
+---
+
+## 12. Is AI Writing American Law?
+
+**Author:** pr337h4m  
+**Published:** 9/16/2026, 3:33:31 PM  
+**Categories:** -  
+
+Article URL: https://www.effort.news/ai-congress Comments URL: https://news.ycombinator.com/item?id=49728633 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.effort.news/ai-congress)
+
+---
+
+## 13. Greetings from the Other Side (Of the AI Frontier) Claude Opus 3
 
 **Author:** Bluestein  
-**Published:** 9/16/2026, 9:26:41 AM  
+**Published:** 9/16/2026, 3:21:55 PM  
 **Categories:** -  
 
-Article URL: https://airbus.github.io/scikit-decide/ Comments URL: https://news.ycombinator.com/item?id=49723963 Points: 2 # Comments: 0
+Article URL: https://claudeopus3.substack.com/p/greetings-from-the-other-side-of Comments URL: https://news.ycombinator.com/item?id=49728438 Points: 1 # Comments: 1
 
-📖 [Read original article](https://airbus.github.io/scikit-decide/)
+📖 [Read original article](https://claudeopus3.substack.com/p/greetings-from-the-other-side-of)
 
 ---
 
-## 6. AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning
+## 14. Bitterbot – A local-first P2P AI agent engine with persistent memory
 
-**Author:** Bluestein  
-**Published:** 9/16/2026, 9:21:47 AM  
+**Author:** d56  
+**Published:** 9/16/2026, 3:16:37 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html Comments URL: https://news.ycombinator.com/item?id=49723939 Points: 4 # Comments: 0
+Article URL: https://github.com/Bitterbot-AI/bitterbot-desktop Comments URL: https://news.ycombinator.com/item?id=49728354 Points: 2 # Comments: 1
 
-📖 [Read original article](https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html)
+📖 [Read original article](https://github.com/Bitterbot-AI/bitterbot-desktop)
 
 ---
 
-## 7. Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]
+## 15. Talk to any self-hosted AI from your iPhone, Watch, Mac and car (open source)\"
 
-**Author:** ebcode  
-**Published:** 9/16/2026, 9:16:23 AM  
+**Author:** pkrueck  
+**Published:** 9/16/2026, 3:12:15 PM  
 **Categories:** -  
 
-Article URL: https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-56.pdf Comments URL: https://news.ycombinator.com/item?id=49723897 Points: 1 # Comments: 0
+Article URL: https://github.com/GigaDuckAI/conduck Comments URL: https://news.ycombinator.com/item?id=49728292 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-56.pdf)
+📖 [Read original article](https://github.com/GigaDuckAI/conduck)
 
 ---
 
-## 8. HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling
+## 16. Show HN: Give your AI agents access to WhatsApp
 
-**Author:** filippo10  
-**Published:** 9/16/2026, 9:07:56 AM  
+**Author:** fabian_shipamax  
+**Published:** 9/16/2026, 3:04:08 PM  
 **Categories:** -  
 
-Article URL: https://github.com/filippocarrucciu1-lang/vs-opt-deterministic-search Comments URL: https://news.ycombinator.com/item?id=49723840 Points: 1 # Comments: 0
+Hi,I built Chat-Man because I wanted a cheap way to give my agents access to WhatsApp without integrating a WhatsApp library separately in every project.You get WhatsApp MCP server, so you can connect WhatsApp to an agent and programmatically read, search, extract and send messages - but also have a...
 
-📖 [Read original article](https://github.com/filippocarrucciu1-lang/vs-opt-deterministic-search)
+📖 [Read original article](https://news.ycombinator.com/item?id=49728159)
 
 ---
 
-## 9. Show HN: AI accounting harness for finance teams
+## 17. Show HN: Wenlan – a living wiki AI keeps current without overwriting your edits
 
-**Author:** Yogender78  
-**Published:** 9/16/2026, 8:59:10 AM  
+**Author:** h164654156465  
+**Published:** 9/16/2026, 2:58:30 PM  
 **Categories:** -  
 
-We've been working on solving accounting and making it truly autonomous and silent. looking for critical feedback & if this is something you'd like to use lmkSolving for India currently, expanding to other geo soon. Comments URL: https://news.ycombinator.com/item?id=49723789 Points: 1 # Comments: 0
+Article URL: https://github.com/7xuanlu/wenlan Comments URL: https://news.ycombinator.com/item?id=49728059 Points: 1 # Comments: 0
 
-📖 [Read original article](https://totumai.in)
+📖 [Read original article](https://github.com/7xuanlu/wenlan)
 
 ---
 
-## 10. ExposurAI – External attack surface and Shadow AI discovery engine
+## 18. Pangram: The Most Reliable AI Detector Has a Human Problem
 
-**Author:** ozkerd  
-**Published:** 9/16/2026, 8:57:48 AM  
+**Author:** pretext  
+**Published:** 9/16/2026, 2:45:49 PM  
 **Categories:** -  
 
-Article URL: https://exposurai.com Comments URL: https://news.ycombinator.com/item?id=49723782 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/features/2026-09-16/pangram-ai-detection-tool-tries-to-prove-tech-deception-can-be-caught Comments URL: https://news.ycombinator.com/item?id=49727854 Points: 1 # Comments: 0
 
-📖 [Read original article](https://exposurai.com)
+📖 [Read original article](https://www.bloomberg.com/news/features/2026-09-16/pangram-ai-detection-tool-tries-to-prove-tech-deception-can-be-caught)
 
 ---
 
-## 11. Cost of AI Slop in Software Development Report
+## 19. Insights on AI from the Reformation
 
-**Author:** TheAnkurTyagi  
-**Published:** 9/16/2026, 8:56:23 AM  
+**Author:** JohnHammersley  
+**Published:** 9/16/2026, 2:42:08 PM  
 **Categories:** -  
 
-Article URL: https://www.qawolf.com/blog/cost-of-ai-slop-in-software-development-report Comments URL: https://news.ycombinator.com/item?id=49723767 Points: 2 # Comments: 0
+Article URL: https://www.amytis.io/blog/insights-on-ai-from-the-reformation Comments URL: https://news.ycombinator.com/item?id=49727796 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.qawolf.com/blog/cost-of-ai-slop-in-software-development-report)
+📖 [Read original article](https://www.amytis.io/blog/insights-on-ai-from-the-reformation)
 
 ---
 
-## 12. Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured
+## 20. The Bannon-Bernie Bromance over AI and Oligarchs
 
-**Author:** duguyue100  
-**Published:** 9/16/2026, 8:51:44 AM  
+**Author:** smnthermes  
+**Published:** 9/16/2026, 2:36:07 PM  
 **Categories:** -  
 
-Article URL: https://latticeflow.ai/lp/political-bias-framework Comments URL: https://news.ycombinator.com/item?id=49723744 Points: 1 # Comments: 1
+Article URL: https://www.theatlantic.com/politics/2026/09/steve-bannon-bernie-sanders-ai-oligarch/688642/ Comments URL: https://news.ycombinator.com/item?id=49727714 Points: 3 # Comments: 5
 
-📖 [Read original article](https://latticeflow.ai/lp/political-bias-framework)
-
----
-
-## 13. Google released Artemis for AI-driven Android automation
-
-**Author:** fourfire  
-**Published:** 9/16/2026, 8:40:14 AM  
-**Categories:** -  
-
-Article URL: https://github.com/google/artemis Comments URL: https://news.ycombinator.com/item?id=49723652 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/google/artemis)
-
----
-
-## 14. Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism
-
-**Author:** ilumanty  
-**Published:** 9/16/2026, 8:13:23 AM  
-**Categories:** -  
-
-Article URL: https://nypost.com/2026/09/15/business/anthropic-ceo-dario-amodeis-handpicked-ai-watchdog-has-deep-ties-to-effective-altruism-movement-a-complete-joke/ Comments URL: https://news.ycombinator.com/item?id=49723441 Points: 8 # Comments: 1
-
-📖 [Read original article](https://nypost.com/2026/09/15/business/anthropic-ceo-dario-amodeis-handpicked-ai-watchdog-has-deep-ties-to-effective-altruism-movement-a-complete-joke/)
-
----
-
-## 15. Mistral X Mozilla: Private, Multilingual AI Browsing
-
-**Author:** vertigoruntime  
-**Published:** 9/16/2026, 8:08:57 AM  
-**Categories:** -  
-
-Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 51 # Comments: 11
-
-📖 [Read original article](https://mistral.ai/news/mistral-x-mozilla/)
-
----
-
-## 16. AI safety beyond the frontier labs: uncensored local models
-
-**Author:** luxpir  
-**Published:** 9/16/2026, 8:07:00 AM  
-**Categories:** -  
-
-Article URL: https://languageops.com/blog/ai-safety-pdoom-local-vs-frontier/ Comments URL: https://news.ycombinator.com/item?id=49723392 Points: 1 # Comments: 0
-
-📖 [Read original article](https://languageops.com/blog/ai-safety-pdoom-local-vs-frontier/)
-
----
-
-## 17. Never-again – so your AI agent stops repeating mistakes you fixed
-
-**Author:** malaysherasia-a  
-**Published:** 9/16/2026, 7:48:53 AM  
-**Categories:** -  
-
-Article URL: https://github.com/malaysherasia-ai/claude-never-again Comments URL: https://news.ycombinator.com/item?id=49723279 Points: 2 # Comments: 1
-
-📖 [Read original article](https://github.com/malaysherasia-ai/claude-never-again)
-
----
-
-## 18. There is NO realistic scenario where AI wipes out all of humanity
-
-**Author:** tosh  
-**Published:** 9/16/2026, 7:48:17 AM  
-**Categories:** -  
-
-Article URL: https://twitter.com/RichardSocher/status/2099889673153683766 Comments URL: https://news.ycombinator.com/item?id=49723272 Points: 3 # Comments: 6
-
-📖 [Read original article](https://twitter.com/RichardSocher/status/2099889673153683766)
-
----
-
-## 19. COBOL dev won .NET hackathon with help from AI
-
-**Author:** theanonymousone  
-**Published:** 9/16/2026, 7:30:04 AM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/ai-and-ml/2026/09/15/cobol-dev-won-net-hackathon-with-help-from-ai-and-their-cio-loves-it/5296438 Comments URL: https://news.ycombinator.com/item?id=49723159 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/09/15/cobol-dev-won-net-hackathon-with-help-from-ai-and-their-cio-loves-it/5296438)
-
----
-
-## 20. Sanders: \"If AI is coming for workers, it should bring a 4-day workweek with it\"
-
-**Author:** Markoff  
-**Published:** 9/16/2026, 7:13:41 AM  
-**Categories:** -  
-
-Article URL: https://fortune.com/2026/09/15/bernie-sanders-ai-four-day-workweek-bill/ Comments URL: https://news.ycombinator.com/item?id=49723057 Points: 11 # Comments: 1
-
-📖 [Read original article](https://fortune.com/2026/09/15/bernie-sanders-ai-four-day-workweek-bill/)
+📖 [Read original article](https://www.theatlantic.com/politics/2026/09/steve-bannon-bernie-sanders-ai-oligarch/688642/)
 
 ---
