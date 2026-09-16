@@ -109,11 +109,11 @@ arXiv:2609.13195v1 Announce Type: new Abstract: Large Audio-Language Models (LAL
 
 ## 9. Algorithmic Information Dynamics of Learning: A Certified, Differentiable Complexity Controller for Grokking
 
-**Author:** Luan Ozelim, Hector Zenil  
+**Author:** Luan Ozelim, Abicumaran Uthamacumaran, Hector Zenil  
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.IT, math.IT  
 
-arXiv:2609.13197v1 Announce Type: new Abstract: Algorithmic Information Dynamics (AID) studies systems by perturbing them and measuring changes in algorithmic complexity, but its usual estimator, the Block Decomposition Method, is piecewise constant, restricting the calculus to finite differences. W...
+arXiv:2609.13197v2 Announce Type: new Abstract: Algorithmic Information Dynamics (AID) studies systems by perturbing them and measuring changes in algorithmic complexity, but its usual estimator, the Block Decomposition Method, is piecewise constant, restricting the calculus to finite differences. W...
 
 📖 [Read original article](https://arxiv.org/abs/2609.13197)
 
@@ -1897,7 +1897,7 @@ arXiv:2609.15483v1 Announce Type: new Abstract: Unsupervised multivariate time s
 
 ## 158. Data-driven Prediction of Satellite-observed Avalanche Activity from Snowpack Simulations
 
-**Author:** Jakob Grah, Filippo Maria Bianchi, Bert Kruyt, Karsten M\"uller  
+**Author:** Jakob Grahn, Filippo Maria Bianchi, Bert Kruyt, Karsten M\"uller  
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
@@ -1985,7 +1985,7 @@ arXiv:2609.15544v1 Announce Type: new Abstract: Enabling human stakeholders to s
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.15545v1 Announce Type: new Abstract: Hybrid language models can improve capability as well as efficiency, raising the question of how architectural complementarity becomes learned computation. We examine the established induction roles of Carrying predecessor information, Matching a sourc...
+arXiv:2609.15545v2 Announce Type: new Abstract: Hybrid language models can improve capability as well as efficiency, raising the question of how architectural complementarity becomes learned computation. We examine the established induction roles of Carrying predecessor information, Matching a sourc...
 
 📖 [Read original article](https://arxiv.org/abs/2609.15545)
 
@@ -2225,7 +2225,7 @@ arXiv:2609.15885v1 Announce Type: new Abstract: This study proposes a privacy-en
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.15903v1 Announce Type: new Abstract: Discrete diffusion and flow models are a promising alternative to autoregressive language models, but compressing many-step sampling into fewer steps typically requires distilling a pretrained teacher model. This caps the student at the teacher's quali...
+arXiv:2609.15903v2 Announce Type: new Abstract: Discrete diffusion and flow models are a promising alternative to autoregressive language models, but compressing many-step sampling into fewer steps typically requires distilling a pretrained teacher model. This caps the student at the teacher's quali...
 
 📖 [Read original article](https://arxiv.org/abs/2609.15903)
 
@@ -2585,7 +2585,7 @@ arXiv:2609.13283v1 Announce Type: cross Abstract: We present a multimodal founda
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.AR, cs.LG  
 
-arXiv:2609.13285v1 Announce Type: cross Abstract: The KV cache is a primary bottleneck for Transformer decoding: its memory footprint and cache-read traffic grow with sequence length. Grouped-query attention (GQA) reduces this cost by sharing key-value heads, but still stores both a key and a value ...
+arXiv:2609.13285v2 Announce Type: cross Abstract: The KV cache is a primary bottleneck for Transformer decoding: its memory footprint and cache-read traffic grow with sequence length. Grouped-query attention (GQA) reduces this cost by sharing key-value heads, but still stores both a key and a value ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.13285)
 
@@ -2693,7 +2693,7 @@ arXiv:2609.13315v1 Announce Type: cross Abstract: We investigate whether a Chern
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG, math.PR  
 
-arXiv:2609.13343v1 Announce Type: cross Abstract: Stochastic gradient descent (SGD) admits diffusion approximations that replace the complicated randomness of stochastic gradients by Gaussian noise, providing a powerful tool for understanding its dynamics and long-time behavior. We investigate wheth...
+arXiv:2609.13343v2 Announce Type: cross Abstract: Stochastic gradient descent (SGD) admits diffusion approximations that replace the complicated randomness of stochastic gradients by Gaussian noise, providing a powerful tool for understanding its dynamics and long-time behavior. We investigate wheth...
 
 📖 [Read original article](https://arxiv.org/abs/2609.13343)
 
@@ -2953,11 +2953,11 @@ arXiv:2609.13703v1 Announce Type: cross Abstract: In the best-arm identification
 
 ## 246. MANAS-2: Constrained Reconstruction for EEG Foundation Models
 
-**Author:** Arvasu Kulkarni, Aditya Ray Mishra, Mahir Jain, Parshva Runwal, Lakshya Saini, Siddharth Panwar, Sandeep Singh  
+**Author:** Arvasu Kulkarni, Aditya Ray Mishra, Jeet Bandhu Lahiri, Mahir Jain, Parshva Runwal, Lakshya Saini, Siddharth Panwar, Sandeep Singh  
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2609.13717v1 Announce Type: cross Abstract: Masked reconstruction is widely used for EEG foundation models, but optimizing reconstruction on low-SNR waveforms does not necessarily produce the most useful latent representation. We introduce MANAS-2, a new EEG foundation model that combines a Ra...
+arXiv:2609.13717v2 Announce Type: cross Abstract: Masked reconstruction is widely used for EEG foundation models, but optimizing reconstruction on low-SNR waveforms does not necessarily produce the most useful latent representation. We introduce MANAS-2, a new EEG foundation model that combines a Ra...
 
 📖 [Read original article](https://arxiv.org/abs/2609.13717)
 
@@ -3149,7 +3149,7 @@ arXiv:2609.14019v1 Announce Type: cross Abstract: Generative augmentation is a s
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.DC, cs.LG  
 
-arXiv:2609.14036v1 Announce Type: cross Abstract: Fresh fruits and vegetables (FFVs) are highly perishable, and cold-chain breaks contribute significantly to global food waste. While Machine Learning (ML) can enable proactive intervention, cloud-based inference faces challenges such as latency and d...
+arXiv:2609.14036v2 Announce Type: cross Abstract: Fresh fruits and vegetables (FFVs) are highly perishable, and cold-chain breaks contribute significantly to global food waste. While Machine Learning (ML) can enable proactive intervention, cloud-based inference faces challenges such as latency and d...
 
 📖 [Read original article](https://arxiv.org/abs/2609.14036)
 
@@ -4313,7 +4313,7 @@ arXiv:2609.15847v1 Announce Type: cross Abstract: This paper proposes FREDI (Fai
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2609.15855v1 Announce Type: cross Abstract: % !TEX root = ../main.tex People increasingly use large language models (LLMs) for mental health support, yet their safety in evolving, high-risk conversations remains poorly characterised. We developed K-Bench, a clinician-calibrated, protected benc...
+arXiv:2609.15855v2 Announce Type: cross Abstract: People increasingly use large language models (LLMs) for mental health support, yet their safety in evolving, high-risk conversations remains poorly characterised. We developed K-Bench, a clinician-calibrated, protected benchmark evaluating 125 model...
 
 📖 [Read original article](https://arxiv.org/abs/2609.15855)
 
@@ -4397,7 +4397,7 @@ arXiv:2609.15975v1 Announce Type: cross Abstract: Transformer representations ev
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG  
 
-arXiv:2609.15983v1 Announce Type: cross Abstract: Language models can produce plausible short proofs, but may still be unreliable on long-horizon research problems, where progress depends on a sequence of uncertain and interdependent decisions. We introduce Stellar Colosseum, a model-agnostic harnes...
+arXiv:2609.15983v2 Announce Type: cross Abstract: Language models can produce plausible short proofs, but may still be unreliable on long-horizon research problems, where progress depends on a sequence of uncertain and interdependent decisions. We introduce Stellar Colosseum, a model-agnostic harnes...
 
 📖 [Read original article](https://arxiv.org/abs/2609.15983)
 
@@ -4817,7 +4817,7 @@ arXiv:2602.04192v3 Announce Type: replace Abstract: Learning the intrinsic dimen
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.MM  
 
-arXiv:2602.07273v2 Announce Type: replace Abstract: Immersive applications such as virtual and augmented reality impose stringent requirements on frame rate, latency, and synchronization between physical and virtual environments. To meet these requirements, an edge server must render panoramic conte...
+arXiv:2602.07273v3 Announce Type: replace Abstract: Immersive applications such as virtual and augmented reality impose stringent requirements on frame rate, latency, and synchronization between physical and virtual environments. To meet these requirements, an edge server must render panoramic conte...
 
 📖 [Read original article](https://arxiv.org/abs/2602.07273)
 
