@@ -2,155 +2,251 @@
 title: "Hacker News AI - 2026-09-16"
 date: "2026-09-16"
 source: "Hacker News AI"
-count: 12
+count: 20
 ---
 
 # Hacker News AI - 2026-09-16
 
-12 items collected.
+20 items collected.
 
 ---
 
-## 1. Anthropic CEO renews call for AI slowdown as Nvidia's urges acceleration
+## 1. Is it hypocritical to criticize AI slop while promoting vibecoding tools?
 
-**Author:** andsoitis  
-**Published:** 9/16/2026, 3:20:10 AM  
+**Author:** wuemeli  
+**Published:** 9/16/2026, 10:48:10 AM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai Comments URL: https://news.ycombinator.com/item?id=49721736 Points: 2 # Comments: 0
+Article URL: https://elephant.wuemeli.com/@wuemeli/117280311233495501 Comments URL: https://news.ycombinator.com/item?id=49724576 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai)
+📖 [Read original article](https://elephant.wuemeli.com/@wuemeli/117280311233495501)
 
 ---
 
-## 2. The Bad Guy with an AI Named Claude
+## 2. Salesforce's AI Bet: Benioff, Jensen Huang, Dario Amodei on Stage Together
 
-**Author:** paulpauper  
-**Published:** 9/16/2026, 3:16:04 AM  
+**Author:** Nazzareno  
+**Published:** 9/16/2026, 10:28:20 AM  
 **Categories:** -  
 
-Article URL: https://thezvi.substack.com/p/the-bad-guy-with-an-ai-named-claude Comments URL: https://news.ycombinator.com/item?id=49721712 Points: 1 # Comments: 0
+Article URL: https://www.salesforce.com/plus/experience/dreamforce_2026/series/dreamforce_2026_must-see_moments/episode/episode-s1e1?bc=HL Comments URL: https://news.ycombinator.com/item?id=49724410 Points: 1 # Comments: 1
 
-📖 [Read original article](https://thezvi.substack.com/p/the-bad-guy-with-an-ai-named-claude)
+📖 [Read original article](https://www.salesforce.com/plus/experience/dreamforce_2026/series/dreamforce_2026_must-see_moments/episode/episode-s1e1?bc=HL)
 
 ---
 
-## 3. Paying for frontier AI models buys 4-month head start at 5x the cost
+## 3. AI Is Reshaping Open Source Software and Straining the Systems That Sustain It
 
-**Author:** torrance  
-**Published:** 9/16/2026, 3:02:30 AM  
+**Author:** DeepLogin  
+**Published:** 9/16/2026, 10:20:56 AM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/ Comments URL: https://news.ycombinator.com/item?id=49721626 Points: 2 # Comments: 2
+Article URL: https://www.acm.org/media-center/2026/september/techbrief-ai-effects-open-source Comments URL: https://news.ycombinator.com/item?id=49724353 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/)
+📖 [Read original article](https://www.acm.org/media-center/2026/september/techbrief-ai-effects-open-source)
 
 ---
 
-## 4. AI is not going to kill you
+## 4. DocMind – I built an AI document parser to end manual data entry solo
 
-**Author:** mohonishc  
-**Published:** 9/16/2026, 2:39:05 AM  
+**Author:** tmeelo_  
+**Published:** 9/16/2026, 9:52:28 AM  
 **Categories:** -  
 
-Article URL: https://sufficientlyadvanced.blog/ai-is-not-going-to-kill-you/ Comments URL: https://news.ycombinator.com/item?id=49721514 Points: 4 # Comments: 2
+Article URL: https://docmind.neomindintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49724132 Points: 1 # Comments: 0
 
-📖 [Read original article](https://sufficientlyadvanced.blog/ai-is-not-going-to-kill-you/)
+📖 [Read original article](https://docmind.neomindintelligence.com/)
 
 ---
 
-## 5. Stay discoverable in search while disallowing AI training
+## 5. Scikit-Decide AI Framework for RL, Auto Planning and Scheduling
 
-**Author:** djfergus  
-**Published:** 9/16/2026, 2:25:18 AM  
+**Author:** Bluestein  
+**Published:** 9/16/2026, 9:26:41 AM  
 **Categories:** -  
 
-Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 28 # Comments: 15
+Article URL: https://airbus.github.io/scikit-decide/ Comments URL: https://news.ycombinator.com/item?id=49723963 Points: 2 # Comments: 0
 
-📖 [Read original article](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
+📖 [Read original article](https://airbus.github.io/scikit-decide/)
 
 ---
 
-## 6. One seeded bug, 26 AI agents: all passed the tests, all stayed broken
+## 6. AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning
 
-**Author:** vyang472  
-**Published:** 9/16/2026, 1:48:53 AM  
+**Author:** Bluestein  
+**Published:** 9/16/2026, 9:21:47 AM  
 **Categories:** -  
 
-Article URL: https://github.com/vyang472/five-bugs Comments URL: https://news.ycombinator.com/item?id=49721214 Points: 3 # Comments: 0
+Article URL: https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html Comments URL: https://news.ycombinator.com/item?id=49723939 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/vyang472/five-bugs)
+📖 [Read original article](https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html)
 
 ---
 
-## 7. Show HN: Thurbox – A tmux-based TUI and CLI for local AI agent orchestration
+## 7. Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]
 
-**Author:** magicleturcrttm  
-**Published:** 9/16/2026, 1:25:49 AM  
+**Author:** ebcode  
+**Published:** 9/16/2026, 9:16:23 AM  
 **Categories:** -  
 
-Article URL: https://github.com/Thurbeen/thurbox Comments URL: https://news.ycombinator.com/item?id=49721082 Points: 3 # Comments: 0
+Article URL: https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-56.pdf Comments URL: https://news.ycombinator.com/item?id=49723897 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Thurbeen/thurbox)
+📖 [Read original article](https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-56.pdf)
 
 ---
 
-## 8. Musk proposes adversarsial peer review for AI Safety
+## 8. HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling
 
-**Author:** thedragongc  
-**Published:** 9/16/2026, 1:03:49 AM  
+**Author:** filippo10  
+**Published:** 9/16/2026, 9:07:56 AM  
 **Categories:** -  
 
-Article URL: https://twitter.com/theallinpod/status/2099731166530277549 Comments URL: https://news.ycombinator.com/item?id=49720938 Points: 4 # Comments: 2
+Article URL: https://github.com/filippocarrucciu1-lang/vs-opt-deterministic-search Comments URL: https://news.ycombinator.com/item?id=49723840 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/theallinpod/status/2099731166530277549)
+📖 [Read original article](https://github.com/filippocarrucciu1-lang/vs-opt-deterministic-search)
 
 ---
 
-## 9. Show HN: AgentReady – can AI assistants read your site?
+## 9. Show HN: AI accounting harness for finance teams
 
-**Author:** deusautoai725  
-**Published:** 9/16/2026, 12:50:37 AM  
+**Author:** Yogender78  
+**Published:** 9/16/2026, 8:59:10 AM  
 **Categories:** -  
 
-Article URL: https://shop.lumnika.com/lab/agentready/?src=hackernews-showhn Comments URL: https://news.ycombinator.com/item?id=49720850 Points: 2 # Comments: 0
+We've been working on solving accounting and making it truly autonomous and silent. looking for critical feedback & if this is something you'd like to use lmkSolving for India currently, expanding to other geo soon. Comments URL: https://news.ycombinator.com/item?id=49723789 Points: 1 # Comments: 0
 
-📖 [Read original article](https://shop.lumnika.com/lab/agentready/?src=hackernews-showhn)
+📖 [Read original article](https://totumai.in)
 
 ---
 
-## 10. Show HN: Leo – a Markdown engineering process for AI coding agents
+## 10. ExposurAI – External attack surface and Shadow AI discovery engine
 
-**Author:** alex-zaporozhan  
-**Published:** 9/16/2026, 12:47:27 AM  
+**Author:** ozkerd  
+**Published:** 9/16/2026, 8:57:48 AM  
 **Categories:** -  
 
-I'm the builder of LEO, and this is not a packege or a service.It's a engineering framework of the rules for Cursor or ClaudeCode, helping to build enorm AI Native projects, 300 000 + lines of code (I understand that is not the quality gate, but - zero TODO, cyclomatic complexity 368 schema constran...
+Article URL: https://exposurai.com Comments URL: https://news.ycombinator.com/item?id=49723782 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/alex-zaporozhan/leo)
+📖 [Read original article](https://exposurai.com)
 
 ---
 
-## 11. Nvidia and CrowdStrike Develop New Cybersecurity AI Models
+## 11. Cost of AI Slop in Software Development Report
 
-**Author:** gmays  
-**Published:** 9/16/2026, 12:19:09 AM  
+**Author:** TheAnkurTyagi  
+**Published:** 9/16/2026, 8:56:23 AM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa Comments URL: https://news.ycombinator.com/item?id=49720615 Points: 1 # Comments: 0
+Article URL: https://www.qawolf.com/blog/cost-of-ai-slop-in-software-development-report Comments URL: https://news.ycombinator.com/item?id=49723767 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa)
+📖 [Read original article](https://www.qawolf.com/blog/cost-of-ai-slop-in-software-development-report)
 
 ---
 
-## 12. Show HN: Biom – A visual workspace where your AI agents' work lands
+## 12. Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured
 
-**Author:** jduhking  
-**Published:** 9/16/2026, 12:02:16 AM  
+**Author:** duguyue100  
+**Published:** 9/16/2026, 8:51:44 AM  
 **Categories:** -  
 
-Article URL: https://www.biom.dev/ Comments URL: https://news.ycombinator.com/item?id=49720507 Points: 4 # Comments: 0
+Article URL: https://latticeflow.ai/lp/political-bias-framework Comments URL: https://news.ycombinator.com/item?id=49723744 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.biom.dev/)
+📖 [Read original article](https://latticeflow.ai/lp/political-bias-framework)
+
+---
+
+## 13. Google released Artemis for AI-driven Android automation
+
+**Author:** fourfire  
+**Published:** 9/16/2026, 8:40:14 AM  
+**Categories:** -  
+
+Article URL: https://github.com/google/artemis Comments URL: https://news.ycombinator.com/item?id=49723652 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/google/artemis)
+
+---
+
+## 14. Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism
+
+**Author:** ilumanty  
+**Published:** 9/16/2026, 8:13:23 AM  
+**Categories:** -  
+
+Article URL: https://nypost.com/2026/09/15/business/anthropic-ceo-dario-amodeis-handpicked-ai-watchdog-has-deep-ties-to-effective-altruism-movement-a-complete-joke/ Comments URL: https://news.ycombinator.com/item?id=49723441 Points: 8 # Comments: 1
+
+📖 [Read original article](https://nypost.com/2026/09/15/business/anthropic-ceo-dario-amodeis-handpicked-ai-watchdog-has-deep-ties-to-effective-altruism-movement-a-complete-joke/)
+
+---
+
+## 15. Mistral X Mozilla: Private, Multilingual AI Browsing
+
+**Author:** vertigoruntime  
+**Published:** 9/16/2026, 8:08:57 AM  
+**Categories:** -  
+
+Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 51 # Comments: 11
+
+📖 [Read original article](https://mistral.ai/news/mistral-x-mozilla/)
+
+---
+
+## 16. AI safety beyond the frontier labs: uncensored local models
+
+**Author:** luxpir  
+**Published:** 9/16/2026, 8:07:00 AM  
+**Categories:** -  
+
+Article URL: https://languageops.com/blog/ai-safety-pdoom-local-vs-frontier/ Comments URL: https://news.ycombinator.com/item?id=49723392 Points: 1 # Comments: 0
+
+📖 [Read original article](https://languageops.com/blog/ai-safety-pdoom-local-vs-frontier/)
+
+---
+
+## 17. Never-again – so your AI agent stops repeating mistakes you fixed
+
+**Author:** malaysherasia-a  
+**Published:** 9/16/2026, 7:48:53 AM  
+**Categories:** -  
+
+Article URL: https://github.com/malaysherasia-ai/claude-never-again Comments URL: https://news.ycombinator.com/item?id=49723279 Points: 2 # Comments: 1
+
+📖 [Read original article](https://github.com/malaysherasia-ai/claude-never-again)
+
+---
+
+## 18. There is NO realistic scenario where AI wipes out all of humanity
+
+**Author:** tosh  
+**Published:** 9/16/2026, 7:48:17 AM  
+**Categories:** -  
+
+Article URL: https://twitter.com/RichardSocher/status/2099889673153683766 Comments URL: https://news.ycombinator.com/item?id=49723272 Points: 3 # Comments: 6
+
+📖 [Read original article](https://twitter.com/RichardSocher/status/2099889673153683766)
+
+---
+
+## 19. COBOL dev won .NET hackathon with help from AI
+
+**Author:** theanonymousone  
+**Published:** 9/16/2026, 7:30:04 AM  
+**Categories:** -  
+
+Article URL: https://www.theregister.com/ai-and-ml/2026/09/15/cobol-dev-won-net-hackathon-with-help-from-ai-and-their-cio-loves-it/5296438 Comments URL: https://news.ycombinator.com/item?id=49723159 Points: 4 # Comments: 1
+
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/09/15/cobol-dev-won-net-hackathon-with-help-from-ai-and-their-cio-loves-it/5296438)
+
+---
+
+## 20. Sanders: \"If AI is coming for workers, it should bring a 4-day workweek with it\"
+
+**Author:** Markoff  
+**Published:** 9/16/2026, 7:13:41 AM  
+**Categories:** -  
+
+Article URL: https://fortune.com/2026/09/15/bernie-sanders-ai-four-day-workweek-bill/ Comments URL: https://news.ycombinator.com/item?id=49723057 Points: 11 # Comments: 1
+
+📖 [Read original article](https://fortune.com/2026/09/15/bernie-sanders-ai-four-day-workweek-bill/)
 
 ---
