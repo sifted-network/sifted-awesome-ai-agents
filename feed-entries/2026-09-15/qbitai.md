@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-15"
 date: "2026-09-15"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-09-15
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ count: 10
 未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。
 
 📖 [Read original article](https://www.qbitai.com/2026/09/489288.html)
-
----
-
-## 10. 9月21日，深圳前海！聊聊工业AI与生态共创的下一步
-
-**Author:** 田, 晏林  
-**Published:** 9/15/2026, 5:20:30 AM  
-**Categories:** 资讯  
-
-西门子Xcelerator繁星生态大会，在生态合作中共赢机遇
-
-📖 [Read original article](https://www.qbitai.com/2026/09/489277.html)
 
 ---
