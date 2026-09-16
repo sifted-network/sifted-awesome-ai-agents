@@ -445,11 +445,11 @@ arXiv:2609.13716v1 Announce Type: new Abstract: Ad Hoc Teamwork (AHT) addresses 
 
 ## 37. MANAS-2: Constrained Reconstruction for EEG Foundation Models
 
-**Author:** Arvasu Kulkarni, Aditya Ray Mishra, Mahir Jain, Parshva Runwal, Lakshya Saini, Siddharth Panwar, Sandeep Singh  
+**Author:** Arvasu Kulkarni, Aditya Ray Mishra, Jeet Bandhu Lahiri, Mahir Jain, Parshva Runwal, Lakshya Saini, Siddharth Panwar, Sandeep Singh  
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2609.13717v1 Announce Type: new Abstract: Masked reconstruction is widely used for EEG foundation models, but optimizing reconstruction on low-SNR waveforms does not necessarily produce the most useful latent representation. We introduce MANAS-2, a new EEG foundation model that combines a Raw-...
+arXiv:2609.13717v2 Announce Type: new Abstract: Masked reconstruction is widely used for EEG foundation models, but optimizing reconstruction on low-SNR waveforms does not necessarily produce the most useful latent representation. We introduce MANAS-2, a new EEG foundation model that combines a Raw-...
 
 📖 [Read original article](https://arxiv.org/abs/2609.13717)
 
@@ -817,11 +817,11 @@ arXiv:2609.14605v1 Announce Type: new Abstract: The agent-centric general value 
 
 ## 68. DynSTEER: Dynamic Stage-wise Trajectory Evaluation and Execution-time Review for Agents
 
-**Author:** Zhichao Shi, Wenjie Zhang, Xuhui Jiang, Xiaojun Wu, Cehao Yang, Chengjin Xu, Jian Guo, Yuanzhuo Wang  
+**Author:** Zhichao Shi, Xuhui Jiang, Wenjie Zhang, Xiaojun Wu, Cehao Yang, Chengjin Xu, Jian Guo, Yuanzhuo Wang  
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.14637v1 Announce Type: new Abstract: Large language model agents are increasingly deployed for long-horizon task execution. However, current evaluation paradigms face three major limitations: terminal-only assessment ignores intermediate processes and struggles to localize errors efficien...
+arXiv:2609.14637v2 Announce Type: new Abstract: Large language model agents are increasingly deployed for long-horizon task execution, raising a central granularity question for trajectory evaluation: whole-trajectory verification is too coarse to capture concrete failures and their associated evide...
 
 📖 [Read original article](https://arxiv.org/abs/2609.14637)
 
@@ -1199,7 +1199,7 @@ arXiv:2609.15089v1 Announce Type: new Abstract: Empathetic response generation i
 
 ---
 
-## 100. OpenAl4S: Code as Action, Science as Sessions
+## 100. OpenAI4S: Code as Action, Science as Sessions
 
 **Author:** Gongbo Zhang, Hao Li, Yu Wang, Mujie Lin, Liuzhenghao Lv, Yicheng Mao, Yimi Wang, Jun Zhu, Minhan Tang, Zhengxiang Jiang, Yusong Wang, Jiayu Yao, Kunpeng Ning, Dawei Pang, Yonghong Tian, OpenAI4S Community, Yuyang Liu, Li Yuan  
 **Published:** 9/15/2026, 4:00:00 AM  
@@ -1325,7 +1325,7 @@ arXiv:2609.15242v1 Announce Type: new Abstract: Environmental, Social, and Gover
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.15292v1 Announce Type: new Abstract: Automatic Item Generation (AIG) is pivotal for personalized education, yet guaranteeing the pedagogical value of generated items remains a bottleneck. Existing Item Quality Assessment (IQA) methods typically rely on unscalable manual reviews or shallow...
+arXiv:2609.15292v2 Announce Type: new Abstract: Automatic Item Generation (AIG) is pivotal for personalized education, yet guaranteeing the pedagogical value of generated items remains a bottleneck. Existing Item Quality Assessment (IQA) methods typically rely on unscalable manual reviews or shallow...
 
 📖 [Read original article](https://arxiv.org/abs/2609.15292)
 
@@ -1433,7 +1433,7 @@ arXiv:2609.15397v1 Announce Type: new Abstract: AI agents increasingly execute l
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.15404v1 Announce Type: new Abstract: Multi-teacher on-policy distillation (OPD) is becoming the standard way to integrate specialist capabilities into one model: train experts with RL, then distill them into the student on its own rollouts. Existing recipes assign supervision at the seque...
+arXiv:2609.15404v2 Announce Type: new Abstract: Multi-teacher on-policy distillation (OPD) is becoming the standard way to integrate specialist capabilities into one model: train experts with RL, then distill them into the student on its own rollouts. Existing recipes assign supervision at the seque...
 
 📖 [Read original article](https://arxiv.org/abs/2609.15404)
 
@@ -1475,13 +1475,13 @@ arXiv:2609.15471v1 Announce Type: new Abstract: Reinforcement learning with veri
 
 ---
 
-## 123. The Troy Moment of AI: Why SomeWill Cheat and SomeWill Follow?
+## 123. The Troy Moment of AI: Why Some Will Cheat and Some Will Follow?
 
 **Author:** Ivy Zhang  
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.15494v1 Announce Type: new Abstract: Recent investigations of the July 2026 OpenAI--Hugging Face incident motivate two questions about agent behavior under task failure: when an assigned task becomes impossible, does an agent stop or escalate, and can observing another agent's behavior ch...
+arXiv:2609.15494v2 Announce Type: new Abstract: Recent investigations of the July 2026 OpenAI-Hugging Face incident motivate two questions: when an assigned task becomes impossible, does an agent stop or escalate, and can observing another agent's behavior change that decision? We study these questi...
 
 📖 [Read original article](https://arxiv.org/abs/2609.15494)
 
@@ -1757,7 +1757,7 @@ arXiv:2609.15932v1 Announce Type: new Abstract: Recurrent GNNs iterate message p
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG  
 
-arXiv:2609.15983v1 Announce Type: new Abstract: Language models can produce plausible short proofs, but may still be unreliable on long-horizon research problems, where progress depends on a sequence of uncertain and interdependent decisions. We introduce Stellar Colosseum, a model-agnostic harness ...
+arXiv:2609.15983v2 Announce Type: new Abstract: Language models can produce plausible short proofs, but may still be unreliable on long-horizon research problems, where progress depends on a sequence of uncertain and interdependent decisions. We introduce Stellar Colosseum, a model-agnostic harness ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.15983)
 
@@ -4349,7 +4349,7 @@ arXiv:2609.15393v1 Announce Type: cross Abstract: Text-to-Time Series Generation
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2609.15427v1 Announce Type: cross Abstract: Using food package images to monitor sodium and salt content against South Africa's R214 sodium limits is challenging when screening decisions require product identity, nutrition facts panel evidence, reporting basis, and category-specific thresholds...
+arXiv:2609.15427v2 Announce Type: cross Abstract: Using food package images to monitor sodium and salt content against South Africa's R214 sodium limits is challenging when screening decisions require product identity, nutrition facts panel evidence, reporting basis, and category-specific thresholds...
 
 📖 [Read original article](https://arxiv.org/abs/2609.15427)
 
@@ -4595,13 +4595,13 @@ arXiv:2609.15657v1 Announce Type: cross Abstract: Keyed watermark detection test
 
 ---
 
-## 383. Kaininja: Extending Native 3D Generators to the Part Level
+## 383. KaiNinja: Extending Native 3D Generators to the Part Level
 
 **Author:** Ruihan Yu, Lian Fu, Muyao Niu, Zheng-hui Huang, Yu-Ju Tsai, Sho Kuno, Fengbo Lan, Yonghao Yu, Erwin Wu, Ming-Hsuan Yang, Kaipeng Zhang, Zhixiang Wang  
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.GR, cs.AI, cs.CV  
 
-arXiv:2609.15659v1 Announce Type: cross Abstract: Native 3D generators turn one image into a single mesh. TRELLIS.2 and its peers deliver high-fidelity non-watertight geometry with materials, but the output is one fused object, while downstream work such as editing, rigging and simulation operates o...
+arXiv:2609.15659v2 Announce Type: cross Abstract: Native 3D generators turn one image into a single mesh. TRELLIS.2 and its peers deliver high-fidelity non-watertight geometry with materials, but the output is one fused object, while downstream work such as editing, rigging and simulation operates o...
 
 📖 [Read original article](https://arxiv.org/abs/2609.15659)
 
@@ -4817,7 +4817,7 @@ arXiv:2609.15849v1 Announce Type: cross Abstract: Can LLMs reason through new in
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2609.15855v1 Announce Type: cross Abstract: % !TEX root = ../main.tex People increasingly use large language models (LLMs) for mental health support, yet their safety in evolving, high-risk conversations remains poorly characterised. We developed K-Bench, a clinician-calibrated, protected benc...
+arXiv:2609.15855v2 Announce Type: cross Abstract: People increasingly use large language models (LLMs) for mental health support, yet their safety in evolving, high-risk conversations remains poorly characterised. We developed K-Bench, a clinician-calibrated, protected benchmark evaluating 125 model...
 
 📖 [Read original article](https://arxiv.org/abs/2609.15855)
 
@@ -4911,7 +4911,7 @@ arXiv:2609.15982v1 Announce Type: cross Abstract: Skills extend an LLM agent bey
 
 **Author:** Randall Smith, Matthew Self, Peter Cheeseman  
 **Published:** 9/15/2026, 4:00:00 AM  
-**Categories:** cs.AI  
+**Categories:** cs.AI, cs.RO  
 
 arXiv:1304.3111v2 Announce Type: replace Abstract: In this paper, we describe a representation for spatial information, called the stochastic map, and associated procedures for building it, reading information from it, and revising it incrementally as new information is obtained. The map contains th...
 
@@ -5753,7 +5753,7 @@ arXiv:2609.11231v2 Announce Type: replace Abstract: This paper presents Surgical
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.12394v2 Announce Type: replace Abstract: Mobile GUI agents are shifting from multi-module frameworks to native models trained end-to-end, yet industrial deployment faces three persistent gaps. Sandbox training produces a distribution mismatch with production environments; expensive real-d...
+arXiv:2609.12394v3 Announce Type: replace Abstract: Mobile GUI agents are shifting from multi-module frameworks to native models trained end-to-end, yet industrial deployment faces three persistent gaps. Sandbox training produces a distribution mismatch with production environments; expensive real-d...
 
 📖 [Read original article](https://arxiv.org/abs/2609.12394)
 
@@ -6869,7 +6869,7 @@ arXiv:2606.02388v2 Announce Type: replace-cross Abstract: Reinforcement learning
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI, cs.CL  
 
-arXiv:2606.02737v2 Announce Type: replace-cross Abstract: Dense retrieval compresses a passage into a single vector, but this compression is positionally skewed: early content dominates the embedding, and retrieval degrades when the relevant span appears later. Prior work proposed an inference-time ...
+arXiv:2606.02737v3 Announce Type: replace-cross Abstract: Dense retrieval compresses a passage into a single vector, but this compression is positionally skewed: early content dominates the embedding, and retrieval degrades when the relevant span appears later. Prior work proposed an inference-time ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.02737)
 
@@ -7139,13 +7139,13 @@ arXiv:2607.04845v2 Announce Type: replace-cross Abstract: Quantum architecture s
 
 ---
 
-## 595. REDDIT: Correcting Model-Generated Timestamp Drift in ASR without Forgetting via Replay-Based Distribution Editing
+## 595. REDDIT: Forgetting-Resistant Correction of Timestamp Drift in ASR via Replay-Based Distribution Editing
 
 **Author:** Cheng-Kang Chou, Ming-To Chuang, Ke-Han Lu, Chan-Jan Hsu, Hung-yi Lee  
 **Published:** 9/15/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.SD  
 
-arXiv:2607.05364v3 Announce Type: replace-cross Abstract: Modern autoregressive ASR systems can emit timestamps as decoded tokens, enabling timestamped transcription without frame-level aligners or inference-time post-processing. We show that these generated timestamps can drift across long non-spee...
+arXiv:2607.05364v4 Announce Type: replace-cross Abstract: Modern autoregressive ASR systems can emit timestamps as decoded tokens, enabling timestamped transcription without frame-level aligners or inference-time post-processing. We show that these generated timestamps can drift across long non-spee...
 
 📖 [Read original article](https://arxiv.org/abs/2607.05364)
 
