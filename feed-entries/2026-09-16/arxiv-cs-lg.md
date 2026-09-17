@@ -761,7 +761,7 @@ arXiv:2609.16804v1 Announce Type: new Abstract: Time-series foundation models ha
 **Published:** 9/16/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.NE  
 
-arXiv:2609.16805v1 Announce Type: new Abstract: High-capacity associative memories based on Kernel Logistic Regression (KLR) exhibit a "Ridge of Optimization" characterized by extreme stability and a highly skewed weight spectrum. However, the dynamical process by which learning converges to this cr...
+arXiv:2609.16805v2 Announce Type: new Abstract: High-capacity associative memories based on Kernel Logistic Regression (KLR) exhibit a "Ridge of Optimization" characterized by extreme stability and a highly skewed weight spectrum. However, the dynamical process by which learning converges to this cr...
 
 📖 [Read original article](https://arxiv.org/abs/2609.16805)
 
@@ -809,7 +809,7 @@ arXiv:2609.16824v1 Announce Type: new Abstract: Decentralized bandit systems oft
 **Published:** 9/16/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.NE  
 
-arXiv:2609.16827v1 Announce Type: new Abstract: High-capacity associative memories based on Kernel Logistic Regression (KLR) exhibit exceptional storage capabilities and robustness. Previous empirical studies identified a hyperparameter regime, the "Ridge of Optimization," where attractor stability ...
+arXiv:2609.16827v2 Announce Type: new Abstract: High-capacity associative memories based on Kernel Logistic Regression (KLR) exhibit exceptional storage capabilities and robustness. Previous empirical studies identified a hyperparameter regime, the "Ridge of Optimization," where attractor stability ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.16827)
 
@@ -973,11 +973,11 @@ arXiv:2609.17160v1 Announce Type: new Abstract: Machine-learning surrogate model
 
 ## 81. A unified framework for global and local interpretability using adaptive derivative-ordered random explanation
 
-**Author:** Lemen Chao, Ming Lei, Anran Fanga  
+**Author:** Lemen Chao, Ming Lei, Anran Fang  
 **Published:** 9/16/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.17171v1 Announce Type: new Abstract: The interpretability of complex machine learning models is of paramount importance, especially in real-world high-stakes domains such as healthcare and finance. However, existing post-hoc interpretability methods suffer from inherent limitations: fragm...
+arXiv:2609.17171v2 Announce Type: new Abstract: The interpretability of complex machine learning models is of paramount importance, especially in real-world high-stakes domains such as healthcare and finance. However, existing post-hoc interpretability methods suffer from inherent limitations: fragm...
 
 📖 [Read original article](https://arxiv.org/abs/2609.17171)
 
@@ -1835,13 +1835,13 @@ arXiv:2609.16683v1 Announce Type: cross Abstract: Learning humanoid-object inter
 
 ---
 
-## 153. Seeing What Matters: Visual Cue Guided Video Planning for Generalizable Robot Navigation
+## 153. Visual Cue Guided Video Planning for Generalizable Robot Navigation
 
 **Author:** Hojin Lee, Sizhe Lester Li, Maximilian Hilger, Susie Lu, Achim J. Lilienthal, Vincent Sitzmann, Daniel A. Duecker  
 **Published:** 9/16/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.CV, cs.LG  
 
-arXiv:2609.16737v1 Announce Type: cross Abstract: Generative video models can serve as a promising backbone for robot navigation by predicting future observations as video plans. Recent approaches often condition video planning on short-horizon guidance and recover geometric waypoints through scene ...
+arXiv:2609.16737v2 Announce Type: cross Abstract: Generative video models can serve as a promising backbone for robot navigation by predicting future observations as video plans. Recent approaches often condition video planning on short-horizon guidance and recover geometric waypoints through scene ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.16737)
 
@@ -1871,13 +1871,13 @@ arXiv:2609.16742v1 Announce Type: cross Abstract: Convolutional Neural Networks 
 
 ---
 
-## 156. The Latent That Never Was: A Forensic Re-run of the CVAE Ablation in Action Chunking Transformer
+## 156. The Latent That Never Was: A Forensic Re-run of the CVAE Ablation in Action Chunking Transformers
 
 **Author:** Bo Kang  
 **Published:** 9/16/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.LG  
 
-arXiv:2609.16745v1 Announce Type: cross Abstract: Action Chunking Transformers (ACT) are widely used to learn robot manipulation from demonstrations. Their conditional variational autoencoder includes an encoder meant to capture differences between demonstrations during training. The original ACT pa...
+arXiv:2609.16745v2 Announce Type: cross Abstract: Action Chunking Transformers (ACT) are widely used to learn robot manipulation from demonstrations. Their conditional variational autoencoder includes an encoder meant to capture differences between demonstrations during training. The original ACT pa...
 
 📖 [Read original article](https://arxiv.org/abs/2609.16745)
 
@@ -2177,7 +2177,7 @@ arXiv:2609.17296v1 Announce Type: cross Abstract: Policy learning aims to determ
 **Published:** 9/16/2026, 4:00:00 AM  
 **Categories:** eess.SP, cs.LG  
 
-arXiv:2609.17297v1 Announce Type: cross Abstract: Efficient physical resource block (PRB) allocation in 5G networks requires accurate demand forecasting. Conventional methods minimize symmetric error metrics (MAE, RMSE), ignoring the operational cost asymmetry where under-provisioning (service degra...
+arXiv:2609.17297v2 Announce Type: cross Abstract: Efficient physical resource block (PRB) allocation in 5G networks requires accurate demand forecasting. Conventional methods minimize symmetric error metrics (MAE, RMSE), ignoring the operational cost asymmetry where under-provisioning (service degra...
 
 📖 [Read original article](https://arxiv.org/abs/2609.17297)
 
@@ -2273,7 +2273,7 @@ arXiv:2501.09166v2 Announce Type: replace Abstract: Pretrained Transformers keep
 **Published:** 9/16/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2503.16286v2 Announce Type: replace Abstract: Dementia affects over 55 million people worldwide, projected to reach 139 million by 2050, with Alzheimer's disease (AD) accounting for 60-70% of cases. AD is associated with disruptions in metabolic brain connectivity. Detecting these disruptions ...
+arXiv:2503.16286v3 Announce Type: replace Abstract: Dementia affects over 55 million people worldwide, projected to reach 139 million by 2050, with Alzheimer's disease (AD) accounting for 60-70% of cases. AD is associated with disruptions in metabolic brain connectivity. Detecting these disruptions ...
 
 📖 [Read original article](https://arxiv.org/abs/2503.16286)
 
@@ -2333,7 +2333,7 @@ arXiv:2509.23616v2 Announce Type: replace Abstract: The class imbalance problem 
 **Published:** 9/16/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2511.02831v2 Announce Type: replace Abstract: The data for remote sensing is constantly acquired, and new data comes from a growing number and diversity of satellites, while the vast majority of labeled data comes from older satellites. As remote-sensing foundation models for Earth observation...
+arXiv:2511.02831v3 Announce Type: replace Abstract: The data for remote sensing is constantly acquired, and new data comes from a growing number and diversity of satellites, while the vast majority of labeled data comes from older satellites. As remote-sensing foundation models for Earth observation...
 
 📖 [Read original article](https://arxiv.org/abs/2511.02831)
 
@@ -2765,7 +2765,7 @@ arXiv:2609.07529v2 Announce Type: replace Abstract: Language-model agents are vu
 **Published:** 9/16/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.08788v2 Announce Type: replace Abstract: Dense self-attention treats all token pairs as equally plausible before learning, an interaction-isotropic prior that can be mismatched to structured signals. For structured, low signal-to-noise ratio (SNR) signals such as EEG, dependencies are org...
+arXiv:2609.08788v3 Announce Type: replace Abstract: Dense self-attention treats all token pairs as equally plausible before learning, an interaction-isotropic prior that can be mismatched to structured signals. For structured, low signal-to-noise ratio (SNR) signals such as EEG, dependencies are org...
 
 📖 [Read original article](https://arxiv.org/abs/2609.08788)
 
