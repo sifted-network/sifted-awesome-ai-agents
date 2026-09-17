@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-16"
 date: "2026-09-16"
 source: "qbitai"
-count: 10
+count: 7
 ---
 
 # qbitai - 2026-09-16
 
-10 items collected.
+7 items collected.
 
 ---
 
@@ -92,41 +92,5 @@ AI协同办公的新官配，我先磕了
 9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。
 
 📖 [Read original article](https://www.qbitai.com/2026/09/490400.html)
-
----
-
-## 8. B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首
-
-**Author:** 量子位的朋友们  
-**Published:** 9/16/2026, 6:23:05 AM  
-**Categories:** 资讯, 哔哩哔哩  
-
-9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。
-
-📖 [Read original article](https://www.qbitai.com/2026/09/490396.html)
-
----
-
-## 9. 量子位2026人工智能年度榜单，正式启动！
-
-**Author:** 量子位的朋友们  
-**Published:** 9/16/2026, 4:16:10 AM  
-**Categories:** 资讯, MEET2027  
-
-报名通道已开启，欢迎参与！
-
-📖 [Read original article](https://www.qbitai.com/2026/09/490329.html)
-
----
-
-## 10. 被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」
-
-**Author:** 杰西卡  
-**Published:** 9/16/2026, 3:40:35 AM  
-**Categories:** 资讯, 首页轮播, 力文所  
-
-从想法到结果，一次对话实现
-
-📖 [Read original article](https://www.qbitai.com/2026/09/490185.html)
 
 ---
