@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-17"
 date: "2026-09-17"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-09-17
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training
+## 1. Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop
+
+**Author:** Michal Sutter  
+**Published:** 9/17/2026, 8:45:04 PM  
+**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, For Devs, New Releases, Software Engineering, Staff, Tech News, Technology, Uncategorized  
+
+Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as coordinator. You describe work, and Claude decides what becomes a thread. Each thread is a full Claude Code cloud session running on...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/)
+
+---
+
+## 2. OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training
 
 **Author:** Michal Sutter  
 **Published:** 9/17/2026, 7:35:37 AM  
@@ -23,7 +35,7 @@ OpenAI can disclose misalignment before fixes exist. Its 6 initial reports inclu
 
 ---
 
-## 2. Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12× to 20× Faster Query Fan-Out
+## 3. Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12× to 20× Faster Query Fan-Out
 
 **Author:** Asif Razzaq  
 **Published:** 9/17/2026, 6:19:38 AM  
@@ -35,7 +47,7 @@ Google Research has introduced Retrieve-for-Train (R4T), a framework for search 
 
 ---
 
-## 3. Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers
+## 4. Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers
 
 **Author:** Asif Razzaq  
 **Published:** 9/17/2026, 12:45:06 AM  
