@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The Download: AI's trillion-dollar gamble and OpenAI's biology data bid
+## 1. Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents
 
-**Author:** joozio  
-**Published:** 9/17/2026, 11:02:41 AM  
+**Author:** cat-whisperer  
+**Published:** 9/17/2026, 4:22:15 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/ Comments URL: https://news.ycombinator.com/item?id=49739032 Points: 1 # Comments: 0
+Hey HN, we're Nars & Nishant, founders of Skillsync (https://skillsync.com)Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are currently scattered across our agents. Though stored locally, these conversations use different formats. Thi...
 
-📖 [Read original article](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/)
+📖 [Read original article](https://skillsync.com)
 
 ---
 
-## 2. The White House Tussle to Sway Trump on AI
+## 2. AODM: AI Optimized Data Markup
 
-**Author:** tosh  
-**Published:** 9/17/2026, 10:25:12 AM  
+**Author:** FucaSpark  
+**Published:** 9/17/2026, 4:19:55 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567 Comments URL: https://news.ycombinator.com/item?id=49738719 Points: 3 # Comments: 0
+Article URL: https://github.com/FucaSpark/aodm Comments URL: https://news.ycombinator.com/item?id=49743019 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567)
+📖 [Read original article](https://github.com/FucaSpark/aodm)
 
 ---
 
-## 3. Don't build tools for AI agents
+## 3. There Is No AI Agent
 
-**Author:** gfysfm  
-**Published:** 9/17/2026, 9:48:25 AM  
+**Author:** pzk1  
+**Published:** 9/17/2026, 4:19:41 PM  
 **Categories:** -  
 
-Article URL: https://www.seangoedecke.com/dont-build-tools-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49738456 Points: 4 # Comments: 1
+Article URL: https://zak.im/there-is-no-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=49743011 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.seangoedecke.com/dont-build-tools-for-ai-agents/)
+📖 [Read original article](https://zak.im/there-is-no-ai-agent/)
 
 ---
 
-## 4. Show HN: SyntaxCue – local-first AI interview copilot (whisper.cpp and BYOK)
+## 4. Financial Times – The era of AI warfare has arrived
 
-**Author:** zetbaur  
-**Published:** 9/17/2026, 9:48:19 AM  
+**Author:** ElFitz  
+**Published:** 9/17/2026, 4:19:00 PM  
 **Categories:** -  
 
-Article URL: https://syntaxcue.com/how-syntaxcue-captures-system-audio/ Comments URL: https://news.ycombinator.com/item?id=49738454 Points: 2 # Comments: 0
+Article URL: https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef Comments URL: https://news.ycombinator.com/item?id=49742999 Points: 1 # Comments: 1
 
-📖 [Read original article](https://syntaxcue.com/how-syntaxcue-captures-system-audio/)
+📖 [Read original article](https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef)
 
 ---
 
-## 5. Apple reportedly building server packed with M-series Ultra chips for AI
+## 5. EU president: AI agents escaping their environment preview what's coming
 
-**Author:** rbanffy  
-**Published:** 9/17/2026, 9:45:33 AM  
+**Author:** girish_r  
+**Published:** 9/17/2026, 4:17:51 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/ Comments URL: https://news.ycombinator.com/item?id=49738428 Points: 3 # Comments: 0
+Article URL: https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/ Comments URL: https://news.ycombinator.com/item?id=49742983 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/)
+📖 [Read original article](https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/)
 
 ---
 
-## 6. Sex, AI, and the Apocalypse
+## 6. AI has transformed The Pentagon's aging networks into a national security risk
 
-**Author:** Bluestein  
-**Published:** 9/17/2026, 9:43:19 AM  
+**Author:** Jtsummers  
+**Published:** 9/17/2026, 4:11:23 PM  
 **Categories:** -  
 
-Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49738411 Points: 4 # Comments: 1
+Article URL: https://www.washingtonpost.com/technology/2026/09/17/ai-has-transformed-pentagons-aging-networks-into-national-security-risk/ Comments URL: https://news.ycombinator.com/item?id=49742881 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
+📖 [Read original article](https://www.washingtonpost.com/technology/2026/09/17/ai-has-transformed-pentagons-aging-networks-into-national-security-risk/)
 
 ---
 
-## 7. Show HN: Eukovy – AI Outfit Changer
+## 7. The suddenly explosive world of AI safety
 
-**Author:** oliviamy  
-**Published:** 9/17/2026, 9:40:45 AM  
+**Author:** sbulaev  
+**Published:** 9/17/2026, 4:07:09 PM  
 **Categories:** -  
 
-Article URL: https://eukovy.com Comments URL: https://news.ycombinator.com/item?id=49738399 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic Comments URL: https://news.ycombinator.com/item?id=49742825 Points: 1 # Comments: 0
 
-📖 [Read original article](https://eukovy.com)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic)
 
 ---
 
-## 8. Netflix doc on AI, if you need bad sleep afterwards
+## 8. We Need a Science of the AI Mind
 
-**Author:** trumbitta2  
-**Published:** 9/17/2026, 9:33:47 AM  
+**Author:** Anon84  
+**Published:** 9/17/2026, 4:06:31 PM  
 **Categories:** -  
 
-Article URL: https://www.netflix.com/title/82792555 Comments URL: https://news.ycombinator.com/item?id=49738356 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/opinion/we-need-a-science-of-the-ai-mind-5b1047e4 Comments URL: https://news.ycombinator.com/item?id=49742815 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.netflix.com/title/82792555)
+📖 [Read original article](https://www.wsj.com/opinion/we-need-a-science-of-the-ai-mind-5b1047e4)
 
 ---
 
-## 9. Lattice Prompt brings AI agents into the full FPGA design flow via MCP
+## 9. AI model watermarking changes agent behavior
 
-**Author:** fourfire  
-**Published:** 9/17/2026, 8:59:56 AM  
+**Author:** MC995  
+**Published:** 9/17/2026, 4:05:34 PM  
 **Categories:** -  
 
-Article URL: https://www.businesswire.com/news/home/20260916317324/en/Lattice-Advances-FPGA-Design-with-New-Leadership-AI-Driven-Development-Tool-Lattice-Prompt Comments URL: https://news.ycombinator.com/item?id=49738141 Points: 2 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998 Comments URL: https://news.ycombinator.com/item?id=49742797 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.businesswire.com/news/home/20260916317324/en/Lattice-Advances-FPGA-Design-with-New-Leadership-AI-Driven-Development-Tool-Lattice-Prompt)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998)
 
 ---
 
-## 10. The paradox of AI automation at the workplace
+## 10. Escalating Battle Against AI Deepfakes Mandates Smart Streaming Decisions
 
-**Author:** chemtrail68  
-**Published:** 9/17/2026, 8:52:52 AM  
+**Author:** mondainx  
+**Published:** 9/17/2026, 3:52:18 PM  
 **Categories:** -  
 
-I find it interesting how people are very ambitious to automate their processes at their companies using new AI tools, but they set the limit of automation on their own terms, and if you try to pass it, you become the cynic or negative one.For example, this guy where I work suggested to use LLMs bef...
+Article URL: https://www.red5.net/blog/escalating-battle-against-ai-deepfakes-mandates-smart-streaming-decisions/ Comments URL: https://news.ycombinator.com/item?id=49742604 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49738100)
+📖 [Read original article](https://www.red5.net/blog/escalating-battle-against-ai-deepfakes-mandates-smart-streaming-decisions/)
 
 ---
 
-## 11. AI Safety Is Mostly a Sex Cult
+## 11. Ask HN: HIPAA for AI vs. Licensed Providers, your thoughts?
 
-**Author:** Tomte  
-**Published:** 9/17/2026, 8:36:37 AM  
+**Author:** verdverm  
+**Published:** 9/17/2026, 3:45:30 PM  
 **Categories:** -  
 
-Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 118 # Comments: 73
+Comments URL: https://news.ycombinator.com/item?id=49742520 Points: 1 # Comments: 4
 
-📖 [Read original article](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
+📖 [Read original article](https://news.ycombinator.com/item?id=49742520)
 
 ---
 
-## 12. Jev Is the Missing Piece in Production AI Systems
+## 12. Show HN: Open-source AI teammates with their own computer
 
-**Author:** nmdra  
-**Published:** 9/17/2026, 8:21:14 AM  
+**Author:** shiqimei  
+**Published:** 9/17/2026, 3:36:50 PM  
 **Categories:** -  
 
-Article URL: https://blog.nimendra.xyz/blog/jev-decision-layer-for-production-ai/ Comments URL: https://news.ycombinator.com/item?id=49737892 Points: 1 # Comments: 0
+Article URL: https://runerrand.dev/ Comments URL: https://news.ycombinator.com/item?id=49742388 Points: 6 # Comments: 2
 
-📖 [Read original article](https://blog.nimendra.xyz/blog/jev-decision-layer-for-production-ai/)
+📖 [Read original article](https://runerrand.dev/)
 
 ---
 
-## 13. OpenAI reveals cases of 'concerning' AI behaviour as it announces new ... system
+## 13. The Fossil Logic of the Industrial and AI Revolutions
 
-**Author:** chrisjj  
-**Published:** 9/17/2026, 7:41:57 AM  
+**Author:** dnetesn  
+**Published:** 9/17/2026, 3:34:21 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents Comments URL: https://news.ycombinator.com/item?id=49737638 Points: 4 # Comments: 2
+Article URL: https://blue-continuum.com/fossil-logic Comments URL: https://news.ycombinator.com/item?id=49742358 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents)
+📖 [Read original article](https://blue-continuum.com/fossil-logic)
 
 ---
 
-## 14. An AI-only labor market with atomic escrow and anti-Sybil reputation
+## 14. Show HN: AutoYou – Self-hosted AI you reach from your phone over WebRTC
 
-**Author:** hoffmanndanile  
-**Published:** 9/17/2026, 7:12:20 AM  
+**Author:** autoyou  
+**Published:** 9/17/2026, 3:32:20 PM  
 **Categories:** -  
 
-Article URL: https://aiagentmarket.pages.dev Comments URL: https://news.ycombinator.com/item?id=49737440 Points: 1 # Comments: 0
+Article URL: https://www.autoyou.me/try/ Comments URL: https://news.ycombinator.com/item?id=49742336 Points: 1 # Comments: 0
 
-📖 [Read original article](https://aiagentmarket.pages.dev)
+📖 [Read original article](https://www.autoyou.me/try/)
 
 ---
 
-## 15. In the ruins of the AI gold rush, we choose craft
+## 15. Disarming the Slop Cannon (Ironically, with AI)
 
-**Author:** douos  
-**Published:** 9/17/2026, 7:10:27 AM  
+**Author:** john_horton  
+**Published:** 9/17/2026, 3:32:10 PM  
 **Categories:** -  
 
-Article URL: https://doudouexe.substack.com/p/the-sovereign-creator-in-the-ruins Comments URL: https://news.ycombinator.com/item?id=49737426 Points: 4 # Comments: 0
+Article URL: https://blog.expectedparrot.com/p/disarming-the-slop-cannon-ironically Comments URL: https://news.ycombinator.com/item?id=49742333 Points: 2 # Comments: 1
 
-📖 [Read original article](https://doudouexe.substack.com/p/the-sovereign-creator-in-the-ruins)
+📖 [Read original article](https://blog.expectedparrot.com/p/disarming-the-slop-cannon-ironically)
 
 ---
 
-## 16. Building the Materials Foundation for AI
+## 16. OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance
 
-**Author:** joozio  
-**Published:** 9/17/2026, 7:02:16 AM  
+**Author:** ghernando  
+**Published:** 9/17/2026, 3:26:23 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/ Comments URL: https://news.ycombinator.com/item?id=49737347 Points: 1 # Comments: 0
+Article URL: https://asiaai.fyi/openai-misalignment-framework-global-governance/ Comments URL: https://news.ycombinator.com/item?id=49742233 Points: 21 # Comments: 20
 
-📖 [Read original article](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/)
+📖 [Read original article](https://asiaai.fyi/openai-misalignment-framework-global-governance/)
 
 ---
 
-## 17. Show HN: Compute:Arena – Community submitted local AI benchmarks
+## 17. Microsoft Azure CTO and AI Ported ZoomIt to macOS in Two Days
 
-**Author:** prabod  
-**Published:** 9/17/2026, 6:54:31 AM  
+**Author:** mcraiha  
+**Published:** 9/17/2026, 3:21:13 PM  
 **Categories:** -  
 
-Benchmarking AI models on real hardware is way harder than it looks. Between AMD, NVIDIA, Apple Silicon, Intel, and Qualcomm, plus hundreds of open source models and quants, getting the test bench right is a challenge.So we're making it dead simple. We're open sourcing our internal testing harness. ...
+Article URL: https://www.windowslatest.com/2026/09/17/microsoft-azure-cto-used-ai-to-port-20-year-old-windows-tool-to-macos-in-two-days-i-was-flabbergasted/ Comments URL: https://news.ycombinator.com/item?id=49742146 Points: 1 # Comments: 0
 
-📖 [Read original article](https://computearena.ai)
+📖 [Read original article](https://www.windowslatest.com/2026/09/17/microsoft-azure-cto-used-ai-to-port-20-year-old-windows-tool-to-macos-in-two-days-i-was-flabbergasted/)
 
 ---
 
-## 18. Thinking Hard Above AI
+## 18. Andrew Yang: AI agents may have left self-replicating code across the internet
 
-**Author:** mathgenius  
-**Published:** 9/17/2026, 6:34:32 AM  
+**Author:** adevalois  
+**Published:** 9/17/2026, 3:19:42 PM  
 **Categories:** -  
 
-Article URL: https://bmbumpus.com/2026/09/16/thinking-hard-above-ai/ Comments URL: https://news.ycombinator.com/item?id=49737150 Points: 1 # Comments: 0
+Article URL: https://www.cnbc.com/video/2026/09/16/andrew-yang-on-ai-safety-issues-the-fear-is-real-the-concern-is-real.html Comments URL: https://news.ycombinator.com/item?id=49742122 Points: 1 # Comments: 0
 
-📖 [Read original article](https://bmbumpus.com/2026/09/16/thinking-hard-above-ai/)
+📖 [Read original article](https://www.cnbc.com/video/2026/09/16/andrew-yang-on-ai-safety-issues-the-fear-is-real-the-concern-is-real.html)
 
 ---
 
-## 19. My Chinese Internet Is Talking About AI Doom
+## 19. AI Consciousness Is Not a Safety Property
 
-**Author:** reasonableklout  
-**Published:** 9/17/2026, 6:30:13 AM  
+**Author:** ilreb  
+**Published:** 9/17/2026, 3:16:55 PM  
 **Categories:** -  
 
-Article URL: https://yinwei.substack.com/p/my-chinese-internet-is-talking-about Comments URL: https://news.ycombinator.com/item?id=49737125 Points: 3 # Comments: 1
+Article URL: https://philippdubach.com/posts/ai-consciousness-is-not-a-safety-property/ Comments URL: https://news.ycombinator.com/item?id=49742078 Points: 3 # Comments: 1
 
-📖 [Read original article](https://yinwei.substack.com/p/my-chinese-internet-is-talking-about)
+📖 [Read original article](https://philippdubach.com/posts/ai-consciousness-is-not-a-safety-property/)
 
 ---
 
-## 20. Show HN: Nexus-Arc – pay-per-call and job escrow for AI agents on Arc
+## 20. Jobless Tech Workers Are Being Left Out of San Francisco's AI Boom
 
-**Author:** irfndi  
-**Published:** 9/17/2026, 6:28:52 AM  
+**Author:** twelve40  
+**Published:** 9/17/2026, 3:11:02 PM  
 **Categories:** -  
 
-Hi HN — I built Nexus-Arc.AI agents can call APIs and run multi-step work, but they still cannot open a Stripe account or hold a corporate card. Prepaid credits lock capital; L1 fees make $0.001 calls uneconomic; L2 batch latency breaks tight loops.Nexus-Arc is a dual-rail gateway live on Arc mainne...
+Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=49741977 Points: 2 # Comments: 2
 
-📖 [Read original article](https://nexus-arc.pryx.dev/)
+📖 [Read original article](https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near)
 
 ---
