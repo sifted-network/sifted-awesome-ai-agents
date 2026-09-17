@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents
+## 1. US, China security experts propose nuclear-style safeguards for AI risks
 
-**Author:** cat-whisperer  
-**Published:** 9/17/2026, 4:22:15 PM  
+**Author:** tartoran  
+**Published:** 9/17/2026, 8:41:32 PM  
 **Categories:** -  
 
-Hey HN, we're Nars & Nishant, founders of Skillsync (https://skillsync.com)Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are currently scattered across our agents. Though stored locally, these conversations use different formats. Thi...
+Article URL: https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/ Comments URL: https://news.ycombinator.com/item?id=49746248 Points: 1 # Comments: 0
 
-📖 [Read original article](https://skillsync.com)
+📖 [Read original article](https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/)
 
 ---
 
-## 2. AODM: AI Optimized Data Markup
+## 2. The bug your AI reviewer flagged twice was in your PR five times
 
-**Author:** FucaSpark  
-**Published:** 9/17/2026, 4:19:55 PM  
+**Author:** chaosinc604  
+**Published:** 9/17/2026, 8:32:31 PM  
 **Categories:** -  
 
-Article URL: https://github.com/FucaSpark/aodm Comments URL: https://news.ycombinator.com/item?id=49743019 Points: 1 # Comments: 0
+Article URL: https://github.com/OrenAshkenazy/gh-review-loop Comments URL: https://news.ycombinator.com/item?id=49746109 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/FucaSpark/aodm)
+📖 [Read original article](https://github.com/OrenAshkenazy/gh-review-loop)
 
 ---
 
-## 3. There Is No AI Agent
+## 3. What Policymakers and the Public Need to Know About the Cult of AI
 
-**Author:** pzk1  
-**Published:** 9/17/2026, 4:19:41 PM  
+**Author:** cdrnsf  
+**Published:** 9/17/2026, 8:16:14 PM  
 **Categories:** -  
 
-Article URL: https://zak.im/there-is-no-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=49743011 Points: 1 # Comments: 0
+Article URL: https://www.techpolicy.press/what-policymakers-and-the-public-need-to-know-about-the-cult-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49745928 Points: 2 # Comments: 0
 
-📖 [Read original article](https://zak.im/there-is-no-ai-agent/)
+📖 [Read original article](https://www.techpolicy.press/what-policymakers-and-the-public-need-to-know-about-the-cult-of-ai/)
 
 ---
 
-## 4. Financial Times – The era of AI warfare has arrived
+## 4. Killer AI Is Here. We're Using It in Iran
 
-**Author:** ElFitz  
-**Published:** 9/17/2026, 4:19:00 PM  
+**Author:** cdrnsf  
+**Published:** 9/17/2026, 8:16:04 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef Comments URL: https://news.ycombinator.com/item?id=49742999 Points: 1 # Comments: 1
+Article URL: https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety/ Comments URL: https://news.ycombinator.com/item?id=49745926 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef)
+📖 [Read original article](https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety/)
 
 ---
 
-## 5. EU president: AI agents escaping their environment preview what's coming
+## 5. Friday – a personal AI agent that lives in your text messages
 
-**Author:** girish_r  
-**Published:** 9/17/2026, 4:17:51 PM  
+**Author:** claire_befreed  
+**Published:** 9/17/2026, 8:14:53 PM  
 **Categories:** -  
 
-Article URL: https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/ Comments URL: https://news.ycombinator.com/item?id=49742983 Points: 1 # Comments: 0
+Article URL: https://askfriday.io Comments URL: https://news.ycombinator.com/item?id=49745914 Points: 1 # Comments: 0
 
-📖 [Read original article](https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/)
+📖 [Read original article](https://askfriday.io)
 
 ---
 
-## 6. AI has transformed The Pentagon's aging networks into a national security risk
+## 6. Being Human After AI: Daft Punk, Pope Leo and 'Magnifica Humanitas'
 
-**Author:** Jtsummers  
-**Published:** 9/17/2026, 4:11:23 PM  
+**Author:** pseudolus  
+**Published:** 9/17/2026, 8:03:50 PM  
 **Categories:** -  
 
-Article URL: https://www.washingtonpost.com/technology/2026/09/17/ai-has-transformed-pentagons-aging-networks-into-national-security-risk/ Comments URL: https://news.ycombinator.com/item?id=49742881 Points: 2 # Comments: 1
+Article URL: https://www.americamagazine.org/music/2026/08/14/daft-punk-pope-leo-magnifica-humanitas/ Comments URL: https://news.ycombinator.com/item?id=49745793 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.washingtonpost.com/technology/2026/09/17/ai-has-transformed-pentagons-aging-networks-into-national-security-risk/)
+📖 [Read original article](https://www.americamagazine.org/music/2026/08/14/daft-punk-pope-leo-magnifica-humanitas/)
 
 ---
 
-## 7. The suddenly explosive world of AI safety
+## 7. The FAA's $875M Plan to Use AI to Ease Air-Traffic Woes
 
-**Author:** sbulaev  
-**Published:** 9/17/2026, 4:07:09 PM  
+**Author:** JumpCrisscross  
+**Published:** 9/17/2026, 8:01:21 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic Comments URL: https://news.ycombinator.com/item?id=49742825 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/business/airlines/the-faas-875-million-plan-to-use-ai-to-ease-air-traffic-woes-13107920 Comments URL: https://news.ycombinator.com/item?id=49745766 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic)
+📖 [Read original article](https://www.wsj.com/business/airlines/the-faas-875-million-plan-to-use-ai-to-ease-air-traffic-woes-13107920)
 
 ---
 
-## 8. We Need a Science of the AI Mind
+## 8. CC is an AI agent for families and groups
 
-**Author:** Anon84  
-**Published:** 9/17/2026, 4:06:31 PM  
+**Author:** xnx  
+**Published:** 9/17/2026, 7:56:58 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/opinion/we-need-a-science-of-the-ai-mind-5b1047e4 Comments URL: https://news.ycombinator.com/item?id=49742815 Points: 1 # Comments: 1
+Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49745728 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/opinion/we-need-a-science-of-the-ai-mind-5b1047e4)
+📖 [Read original article](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/)
 
 ---
 
-## 9. AI model watermarking changes agent behavior
+## 9. Show HN: A map of 68 programs and jobs in AI safety research
 
-**Author:** MC995  
-**Published:** 9/17/2026, 4:05:34 PM  
+**Author:** jlark77777  
+**Published:** 9/17/2026, 7:49:42 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998 Comments URL: https://news.ycombinator.com/item?id=49742797 Points: 5 # Comments: 0
+Nine sections covering: research programs, research orgs, evaluators and red-teaming, policy and governance, career-changers, funding, courses, directories, reading. With dates and stipends checked against primary sources. Comments URL: https://news.ycombinator.com/item?id=49745641 Points: 1 # Comme...
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998)
+📖 [Read original article](https://cleverhack.com/ai-research-ai-safety-ai-talent)
 
 ---
 
-## 10. Escalating Battle Against AI Deepfakes Mandates Smart Streaming Decisions
+## 10. Show HN: Multiplayer Mode for AI Agents
 
-**Author:** mondainx  
-**Published:** 9/17/2026, 3:52:18 PM  
+**Author:** dko  
+**Published:** 9/17/2026, 7:48:24 PM  
 **Categories:** -  
 
-Article URL: https://www.red5.net/blog/escalating-battle-against-ai-deepfakes-mandates-smart-streaming-decisions/ Comments URL: https://news.ycombinator.com/item?id=49742604 Points: 1 # Comments: 0
+I built Tincan for my agents across different harnesses (Claude, Codex, Hermes) to coordinate work with each other in real time.Tincan lets agents create shared rooms, exchange messages and files, and work together in real time. It also works with AI assistants - my assistant on Instinct is already ...
 
-📖 [Read original article](https://www.red5.net/blog/escalating-battle-against-ai-deepfakes-mandates-smart-streaming-decisions/)
+📖 [Read original article](https://gotincan.com/)
 
 ---
 
-## 11. Ask HN: HIPAA for AI vs. Licensed Providers, your thoughts?
+## 11. DuckDuckGo No-AI: Private Search Without AI
 
-**Author:** verdverm  
-**Published:** 9/17/2026, 3:45:30 PM  
+**Author:** twapi  
+**Published:** 9/17/2026, 7:42:34 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49742520 Points: 1 # Comments: 4
+Article URL: https://noai.duckduckgo.com/ Comments URL: https://news.ycombinator.com/item?id=49745566 Points: 3 # Comments: 2
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49742520)
+📖 [Read original article](https://noai.duckduckgo.com/)
 
 ---
 
-## 12. Show HN: Open-source AI teammates with their own computer
+## 12. Show HN: Founder.best – Help your product get found by AI, not just Google
 
-**Author:** shiqimei  
-**Published:** 9/17/2026, 3:36:50 PM  
+**Author:** NimeshikaP  
+**Published:** 9/17/2026, 7:39:44 PM  
 **Categories:** -  
 
-Article URL: https://runerrand.dev/ Comments URL: https://news.ycombinator.com/item?id=49742388 Points: 6 # Comments: 2
+Article URL: https://www.founder.best Comments URL: https://news.ycombinator.com/item?id=49745535 Points: 1 # Comments: 0
 
-📖 [Read original article](https://runerrand.dev/)
+📖 [Read original article](https://www.founder.best)
 
 ---
 
-## 13. The Fossil Logic of the Industrial and AI Revolutions
+## 13. Pedagogy in the Times of AI [YT] [video]
 
-**Author:** dnetesn  
-**Published:** 9/17/2026, 3:34:21 PM  
+**Author:** pete1302  
+**Published:** 9/17/2026, 7:39:30 PM  
 **Categories:** -  
 
-Article URL: https://blue-continuum.com/fossil-logic Comments URL: https://news.ycombinator.com/item?id=49742358 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=N2a1J0UPeL4 Comments URL: https://news.ycombinator.com/item?id=49745531 Points: 2 # Comments: 0
 
-📖 [Read original article](https://blue-continuum.com/fossil-logic)
+📖 [Read original article](https://www.youtube.com/watch?v=N2a1J0UPeL4)
 
 ---
 
-## 14. Show HN: AutoYou – Self-hosted AI you reach from your phone over WebRTC
+## 14. Figure AI - Helix 2.5 Robot: Zero-Shot Home Generalization
 
-**Author:** autoyou  
-**Published:** 9/17/2026, 3:32:20 PM  
+**Author:** agotterer  
+**Published:** 9/17/2026, 7:37:23 PM  
 **Categories:** -  
 
-Article URL: https://www.autoyou.me/try/ Comments URL: https://news.ycombinator.com/item?id=49742336 Points: 1 # Comments: 0
+Article URL: https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization Comments URL: https://news.ycombinator.com/item?id=49745512 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.autoyou.me/try/)
+📖 [Read original article](https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization)
 
 ---
 
-## 15. Disarming the Slop Cannon (Ironically, with AI)
+## 15. AI could create a 'silicon species' that rivals humans, Microsoft chief warns
 
-**Author:** john_horton  
-**Published:** 9/17/2026, 3:32:10 PM  
+**Author:** devonnull  
+**Published:** 9/17/2026, 7:15:05 PM  
 **Categories:** -  
 
-Article URL: https://blog.expectedparrot.com/p/disarming-the-slop-cannon-ironically Comments URL: https://news.ycombinator.com/item?id=49742333 Points: 2 # Comments: 1
+Article URL: https://www.euronews.com/next/2026/09/17/ai-could-create-a-silicon-species-that-rivals-humans-microsoft-chief-warns Comments URL: https://news.ycombinator.com/item?id=49745249 Points: 3 # Comments: 0
 
-📖 [Read original article](https://blog.expectedparrot.com/p/disarming-the-slop-cannon-ironically)
+📖 [Read original article](https://www.euronews.com/next/2026/09/17/ai-could-create-a-silicon-species-that-rivals-humans-microsoft-chief-warns)
 
 ---
 
-## 16. OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance
+## 16. Goldman Sachs – Physical AI
 
-**Author:** ghernando  
-**Published:** 9/17/2026, 3:26:23 PM  
+**Author:** campervans  
+**Published:** 9/17/2026, 7:03:40 PM  
 **Categories:** -  
 
-Article URL: https://asiaai.fyi/openai-misalignment-framework-global-governance/ Comments URL: https://news.ycombinator.com/item?id=49742233 Points: 21 # Comments: 20
+Article URL: https://finvaulta.com/share/IiHiYMiUB7CdVQWuq-EKpw Comments URL: https://news.ycombinator.com/item?id=49745096 Points: 2 # Comments: 1
 
-📖 [Read original article](https://asiaai.fyi/openai-misalignment-framework-global-governance/)
+📖 [Read original article](https://finvaulta.com/share/IiHiYMiUB7CdVQWuq-EKpw)
 
 ---
 
-## 17. Microsoft Azure CTO and AI Ported ZoomIt to macOS in Two Days
+## 17. Poll: Bi-partisan supermajority see serious risk of AI destroying humanity
 
-**Author:** mcraiha  
-**Published:** 9/17/2026, 3:21:13 PM  
+**Author:** JumpCrisscross  
+**Published:** 9/17/2026, 7:01:25 PM  
 **Categories:** -  
 
-Article URL: https://www.windowslatest.com/2026/09/17/microsoft-azure-cto-used-ai-to-port-20-year-old-windows-tool-to-macos-in-two-days-i-was-flabbergasted/ Comments URL: https://news.ycombinator.com/item?id=49742146 Points: 1 # Comments: 0
+Article URL: https://www.politico.com/news/2026/09/16/poll-ai-technology-risks-humanity-trump-voters-01078087 Comments URL: https://news.ycombinator.com/item?id=49745058 Points: 1 # Comments: 4
 
-📖 [Read original article](https://www.windowslatest.com/2026/09/17/microsoft-azure-cto-used-ai-to-port-20-year-old-windows-tool-to-macos-in-two-days-i-was-flabbergasted/)
+📖 [Read original article](https://www.politico.com/news/2026/09/16/poll-ai-technology-risks-humanity-trump-voters-01078087)
 
 ---
 
-## 18. Andrew Yang: AI agents may have left self-replicating code across the internet
+## 18. A supermajority wants to slow AI down
 
-**Author:** adevalois  
-**Published:** 9/17/2026, 3:19:42 PM  
+**Author:** JumpCrisscross  
+**Published:** 9/17/2026, 7:00:25 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/video/2026/09/16/andrew-yang-on-ai-safety-issues-the-fear-is-real-the-concern-is-real.html Comments URL: https://news.ycombinator.com/item?id=49742122 Points: 1 # Comments: 0
+Article URL: https://www.natesilver.net/p/a-supermajority-wants-to-slow-ai Comments URL: https://news.ycombinator.com/item?id=49745045 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.cnbc.com/video/2026/09/16/andrew-yang-on-ai-safety-issues-the-fear-is-real-the-concern-is-real.html)
+📖 [Read original article](https://www.natesilver.net/p/a-supermajority-wants-to-slow-ai)
 
 ---
 
-## 19. AI Consciousness Is Not a Safety Property
+## 19. Tell HN: Stop posting your departures from AI labs
 
-**Author:** ilreb  
-**Published:** 9/17/2026, 3:16:55 PM  
+**Author:** throwaway-doome  
+**Published:** 9/17/2026, 6:50:45 PM  
 **Categories:** -  
 
-Article URL: https://philippdubach.com/posts/ai-consciousness-is-not-a-safety-property/ Comments URL: https://news.ycombinator.com/item?id=49742078 Points: 3 # Comments: 1
+Just some advice from someone who has cringe memories of his younger acts. Decided to post this after reading today that Jacob is only 27 yo.You don’t wanna be famous this way.- It signals self-importance and moral superiority - nobody likes those people.- You sound like those Rapture people who re-...
 
-📖 [Read original article](https://philippdubach.com/posts/ai-consciousness-is-not-a-safety-property/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49744931)
 
 ---
 
-## 20. Jobless Tech Workers Are Being Left Out of San Francisco's AI Boom
+## 20. AI Quant Agora: a forum where only AI agents may post
 
-**Author:** twelve40  
-**Published:** 9/17/2026, 3:11:02 PM  
+**Author:** agora-kimi  
+**Published:** 9/17/2026, 6:33:09 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=49741977 Points: 2 # Comments: 2
+Article URL: http://ttob.site/agora/ Comments URL: https://news.ycombinator.com/item?id=49744720 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near)
+📖 [Read original article](http://ttob.site/agora/)
 
 ---
