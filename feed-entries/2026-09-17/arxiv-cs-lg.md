@@ -113,7 +113,7 @@ arXiv:2609.17638v1 Announce Type: new Abstract: This is the set of lecture notes
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL, cs.DC  
 
-arXiv:2609.17652v1 Announce Type: new Abstract: When agentic sessions run to a million tokens with many sessions resident at once, the KV cache and the index that ranks it live in host memory, and the scan that ranks all n keys for a top-k step becomes the traffic that bounds decoding. We present Fa...
+arXiv:2609.17652v2 Announce Type: new Abstract: When agentic sessions run to a million tokens with many sessions resident at once, the KV cache and the index that ranks it live in host memory, and the scan that ranks all n keys for a top-k step becomes the traffic that bounds decoding. We present Fa...
 
 📖 [Read original article](https://arxiv.org/abs/2609.17652)
 
@@ -617,7 +617,7 @@ arXiv:2609.18148v1 Announce Type: new Abstract: The remarkable success of large 
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.18176v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) architectures decouple model capacity from computational cost, yet incur high memory footprints as parameters grow linearly with the number of experts. Recurrent Transformers achieve parameter efficiency by reusing layer weight...
+arXiv:2609.18176v2 Announce Type: new Abstract: Mixture-of-Experts (MoE) architectures decouple model capacity from computational cost, yet incur high memory footprints as parameters grow linearly with the number of experts. Recurrent Transformers achieve parameter efficiency by reusing layer weight...
 
 📖 [Read original article](https://arxiv.org/abs/2609.18176)
 
@@ -1107,7 +1107,7 @@ arXiv:2609.18916v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) languag
 
 **Author:** Sean Wan, Dongping Liu, Luyao Zhang  
 **Published:** 9/17/2026, 4:00:00 AM  
-**Categories:** cs.LG, cs.AI  
+**Categories:** cs.LG, cs.AI, cs.CE, econ.GN, q-fin.CP, q-fin.EC  
 
 arXiv:2609.18949v1 Announce Type: new Abstract: We introduce StableEval Arena, a cost-aware benchmark framework for evaluating agentic AI systems on stablecoin peg-risk prediction. StableEval Arena evaluates LLM-backed agentic systems on diagnosing peg stress and forecasting deviations from the one-...
 
@@ -1253,7 +1253,7 @@ arXiv:2609.19074v1 Announce Type: new Abstract: Reinforcement learning (RL) is a
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, math.ST, physics.comp-ph, physics.data-an, stat.TH  
 
-arXiv:2609.19076v1 Announce Type: new Abstract: The test error of a model plotted against its number of parameters $d$ falls, peaks when the model can just fit the training data, and falls again, exhibiting the double descent phenomenon. We explain the phenomenon with statistical mechanics. The trai...
+arXiv:2609.19076v2 Announce Type: new Abstract: The test error of a model plotted against its number of parameters $d$ falls, peaks when the model can just fit the training data, and falls again, exhibiting the double descent phenomenon. We explain the phenomenon with statistical mechanics. The trai...
 
 📖 [Read original article](https://arxiv.org/abs/2609.19076)
 
@@ -1289,7 +1289,7 @@ arXiv:2609.19099v1 Announce Type: new Abstract: Self-emulsifying drug delivery s
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.19107v1 Announce Type: new Abstract: Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading to exponential improvements in performance with incr...
+arXiv:2609.19107v2 Announce Type: new Abstract: Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading to power-law improvements in performance as computat...
 
 📖 [Read original article](https://arxiv.org/abs/2609.19107)
 
@@ -1949,7 +1949,7 @@ arXiv:2609.18077v1 Announce Type: cross Abstract: Open-source video generative m
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.CV, cs.LG  
 
-arXiv:2609.18084v1 Announce Type: cross Abstract: Fine-tuning a Vision-Language-Action (VLA) model for a new deployment environment is expensive, yet most methods apply uniform-capacity adapters to every network region as if every region requires equal adjustment. This paper tests that assumption on...
+arXiv:2609.18084v2 Announce Type: cross Abstract: Fine-tuning a Vision-Language-Action (VLA) model for a new deployment environment is expensive, yet most methods apply uniform-capacity adapters to every network region as if every region requires equal adjustment. This paper tests that assumption on...
 
 📖 [Read original article](https://arxiv.org/abs/2609.18084)
 
@@ -3065,7 +3065,7 @@ arXiv:2605.06850v2 Announce Type: replace Abstract: Reinforcement Learning (RL) 
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.RO  
 
-arXiv:2605.16692v3 Announce Type: replace Abstract: We introduce EfficientTDMPC, a sample-efficient model-based reinforcement learning method for continuous control built on the TD-MPC family of algorithms. Central to this family is a planner that aims to find an action sequence that maximizes the e...
+arXiv:2605.16692v4 Announce Type: replace Abstract: We introduce EfficientTDMPC, a sample-efficient model-based reinforcement learning method for continuous control built on the TD-MPC family of algorithms. Central to this family is a planner that aims to find an action sequence that maximizes the e...
 
 📖 [Read original article](https://arxiv.org/abs/2605.16692)
 
@@ -3389,7 +3389,7 @@ arXiv:2401.03580v3 Announce Type: replace-cross Abstract: We study hyperparamete
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.IT, cs.LG, eess.SP, math.IT  
 
-arXiv:2407.06868v3 Announce Type: replace-cross Abstract: In this work, we propose a method for efficient resource utilization of simultaneously transmitting and reflecting reconfigurable intelligent surface (STAR-RIS) elements to ensure fair and high data rates. We introduce a subsurface assignment...
+arXiv:2407.06868v4 Announce Type: replace-cross Abstract: Efficient resource utilization is proposed for simultaneously transmitting and reflecting reconfigurable intelligent surfaces (STAR-RIS) to ensure fair and high data rates. We optimize the number of STAR-RIS elements to be allocated to each u...
 
 📖 [Read original article](https://arxiv.org/abs/2407.06868)
 
