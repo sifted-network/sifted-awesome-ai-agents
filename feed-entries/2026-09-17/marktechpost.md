@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-17"
 date: "2026-09-17"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-09-17
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop
+## 1. Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads
+
+**Author:** Asif Razzaq  
+**Published:** 9/17/2026, 9:21:08 PM  
+**Categories:** AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, For Devs, Machine Learning, Open Source, Python, Staff, Tech News, Technology  
+
+Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observability into one Helm install. It is MIT licensed and deployable now on any Kubernetes 1.30+ cluster with GPU nodes, kubectl an...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/)
+
+---
+
+## 2. Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop
 
 **Author:** Michal Sutter  
 **Published:** 9/17/2026, 8:45:04 PM  
@@ -23,7 +35,7 @@ Anthropic redesigned Projects in Claude Code. The old project was a folder: some
 
 ---
 
-## 2. OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training
+## 3. OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training
 
 **Author:** Michal Sutter  
 **Published:** 9/17/2026, 7:35:37 AM  
@@ -35,7 +47,7 @@ OpenAI can disclose misalignment before fixes exist. Its 6 initial reports inclu
 
 ---
 
-## 3. Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12× to 20× Faster Query Fan-Out
+## 4. Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12× to 20× Faster Query Fan-Out
 
 **Author:** Asif Razzaq  
 **Published:** 9/17/2026, 6:19:38 AM  
@@ -47,7 +59,7 @@ Google Research has introduced Retrieve-for-Train (R4T), a framework for search 
 
 ---
 
-## 4. Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers
+## 5. Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers
 
 **Author:** Asif Razzaq  
 **Published:** 9/17/2026, 12:45:06 AM  
