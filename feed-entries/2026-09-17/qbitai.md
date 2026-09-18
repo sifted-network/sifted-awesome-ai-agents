@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-17"
 date: "2026-09-17"
 source: "qbitai"
-count: 10
+count: 8
 ---
 
 # qbitai - 2026-09-17
 
-10 items collected.
+8 items collected.
 
 ---
 
@@ -104,29 +104,5 @@ AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（
 从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动
 
 📖 [Read original article](https://www.qbitai.com/2026/09/491147.html)
-
----
-
-## 9. 国产RSI模型交卷！Flash模型靠它反打旗舰
-
-**Author:** 一水  
-**Published:** 9/17/2026, 3:26:21 AM  
-**Categories:** 资讯, 首页轮播, 云知声  
-
-1亿Tokens人人免费领
-
-📖 [Read original article](https://www.qbitai.com/2026/09/491091.html)
-
----
-
-## 10. 比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌
-
-**Author:** 量子位的朋友们  
-**Published:** 9/17/2026, 2:01:15 AM  
-**Categories:** 资讯, 比亚迪  
-
-9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行
-
-📖 [Read original article](https://www.qbitai.com/2026/09/491062.html)
 
 ---
