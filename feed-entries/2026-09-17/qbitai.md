@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-17"
 date: "2026-09-17"
 source: "qbitai"
-count: 8
+count: 6
 ---
 
 # qbitai - 2026-09-17
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -35,19 +35,7 @@ count: 8
 
 ---
 
-## 3. 图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家
-
-**Author:** 衡宇  
-**Published:** 9/17/2026, 9:42:12 AM  
-**Categories:** 资讯, Meshy, 童欣  
-
-他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。
-
-📖 [Read original article](https://www.qbitai.com/2026/09/491522.html)
-
----
-
-## 4. 央企做了个通用Agent，直接杀进IDC实测前三！
+## 3. 央企做了个通用Agent，直接杀进IDC实测前三！
 
 **Author:** 十三  
 **Published:** 9/17/2026, 9:39:19 AM  
@@ -59,7 +47,7 @@ count: 8
 
 ---
 
-## 5. Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了
+## 4. Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了
 
 **Author:** 听雨  
 **Published:** 9/17/2026, 9:07:25 AM  
@@ -71,7 +59,7 @@ count: 8
 
 ---
 
-## 6. 刚刚，唐杰发布智谱RSI首个成果
+## 5. 刚刚，唐杰发布智谱RSI首个成果
 
 **Author:** 一水  
 **Published:** 9/17/2026, 8:28:23 AM  
@@ -83,7 +71,7 @@ GLM已经开始参与构建GLM了
 
 ---
 
-## 7. 马斯克睡进工地！为AI基建拼了
+## 6. 马斯克睡进工地！为AI基建拼了
 
 **Author:** 鱼羊  
 **Published:** 9/17/2026, 4:37:26 AM  
@@ -92,17 +80,5 @@ GLM已经开始参与构建GLM了
 AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）
 
 📖 [Read original article](https://www.qbitai.com/2026/09/491280.html)
-
----
-
-## 8. 首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利
-
-**Author:** 量子位的朋友们  
-**Published:** 9/17/2026, 3:39:43 AM  
-**Categories:** 资讯, 昆仑万维  
-
-从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动
-
-📖 [Read original article](https://www.qbitai.com/2026/09/491147.html)
 
 ---
