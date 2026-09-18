@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-17"
 date: "2026-09-17"
 source: "qbitai"
-count: 6
+count: 4
 ---
 
 # qbitai - 2026-09-17
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ count: 6
 文档和PPT都能做了
 
 📖 [Read original article](https://www.qbitai.com/2026/09/491391.html)
-
----
-
-## 5. 刚刚，唐杰发布智谱RSI首个成果
-
-**Author:** 一水  
-**Published:** 9/17/2026, 8:28:23 AM  
-**Categories:** 资讯, 智谱  
-
-GLM已经开始参与构建GLM了
-
-📖 [Read original article](https://www.qbitai.com/2026/09/491357.html)
-
----
-
-## 6. 马斯克睡进工地！为AI基建拼了
-
-**Author:** 鱼羊  
-**Published:** 9/17/2026, 4:37:26 AM  
-**Categories:** 资讯, 马斯克  
-
-AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）
-
-📖 [Read original article](https://www.qbitai.com/2026/09/491280.html)
 
 ---
