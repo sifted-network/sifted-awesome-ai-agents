@@ -2,16 +2,40 @@
 title: "qbitai - 2026-09-18"
 date: "2026-09-18"
 source: "qbitai"
-count: 4
+count: 6
 ---
 
 # qbitai - 2026-09-18
 
-4 items collected.
+6 items collected.
 
 ---
 
-## 1. 白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经
+## 1. 具身智能技术路线尚未定型，基础设施却先收敛
+
+**Author:** 田, 晏林  
+**Published:** 9/18/2026, 1:16:33 PM  
+**Categories:** 资讯  
+
+从一次成功到一万次稳定执行，具身智能还缺什么？
+
+📖 [Read original article](https://www.qbitai.com/2026/09/492238.html)
+
+---
+
+## 2. AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢
+
+**Author:** 梦瑶  
+**Published:** 9/18/2026, 12:22:47 PM  
+**Categories:** 资讯, AI  
+
+LimiX让模型理解数据背后的因果机制
+
+📖 [Read original article](https://www.qbitai.com/2026/09/492175.html)
+
+---
+
+## 3. 白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经
 
 **Author:** 程浅  
 **Published:** 9/18/2026, 9:19:37 AM  
@@ -23,7 +47,7 @@ count: 4
 
 ---
 
-## 2. AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线
+## 4. AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线
 
 **Author:** 克雷西  
 **Published:** 9/18/2026, 6:11:06 AM  
@@ -35,7 +59,7 @@ count: 4
 
 ---
 
-## 3. Manus重生第17天，估值居然就翻倍了
+## 5. Manus重生第17天，估值居然就翻倍了
 
 **Author:** 衡宇  
 **Published:** 9/18/2026, 12:37:13 AM  
@@ -47,7 +71,7 @@ count: 4
 
 ---
 
-## 4. 刚刚，Claude Code大重构！内部3万Agent管理技术免费开放
+## 6. 刚刚，Claude Code大重构！内部3万Agent管理技术免费开放
 
 **Author:** Jay  
 **Published:** 9/18/2026, 12:34:34 AM  
