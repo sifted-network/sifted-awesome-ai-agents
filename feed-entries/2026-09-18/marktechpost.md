@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-18"
 date: "2026-09-18"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-09-18
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Best Open-Source Agent Harnesses for Local LLMs in 2026
+## 1. PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance
+
+**Author:** Asif Razzaq  
+**Published:** 9/18/2026, 6:06:36 PM  
+**Categories:** AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Enterprise AI, For Devs, Language Model, Large Language Model, Machine Learning, New Releases, Staff, Tech News, Technology, Uncategorized  
+
+PrismML has released Ternary Bonsai 2 27B, a ternary-weight version of Qwen3.8 27B. The language model occupies 5.93 GB, against 53.80 GB in FP16. PrismML reports that it keeps 98.2% of the parent model&#8217;s average across 20 benchmarks. The model accepts text and images and supports a 262K-token...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/)
+
+---
+
+## 2. Best Open-Source Agent Harnesses for Local LLMs in 2026
 
 **Author:** Asif Razzaq  
 **Published:** 9/18/2026, 9:44:55 AM  
@@ -23,7 +35,7 @@ Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verifie
 
 ---
 
-## 2. Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use
+## 3. Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use
 
 **Author:** Asif Razzaq  
 **Published:** 9/18/2026, 8:40:37 AM  
@@ -35,7 +47,7 @@ Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls too
 
 ---
 
-## 3. Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration
+## 4. Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration
 
 **Author:** Jean-marc Mommessin  
 **Published:** 9/18/2026, 7:34:06 AM  
