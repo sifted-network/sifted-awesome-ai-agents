@@ -377,7 +377,7 @@ arXiv:2609.18057v1 Announce Type: new Abstract: Reinforcement learning with veri
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.18063v1 Announce Type: new Abstract: Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, be...
+arXiv:2609.18063v2 Announce Type: new Abstract: Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, be...
 
 📖 [Read original article](https://arxiv.org/abs/2609.18063)
 
@@ -853,11 +853,11 @@ arXiv:2609.18779v1 Announce Type: new Abstract: Current Mixture-of-Agents (MoA) 
 
 ## 71. Compositional Policy Violations: When Step-Level Compliance Fails In Agentic AI Workflows
 
-**Author:** Ashwini Kurady, Sri Sai Charith Grandhi, Rajesh Gupta, Sumit Mamoria  
+**Author:** Ashwini Kurady, Sri Sai Charith Grandhi, Rajesh Gupta, Sumit Kumar  
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.MA  
 
-arXiv:2609.18820v1 Announce Type: new Abstract: Agentic workflows now make consequential decisions in regulated settings, and the governance placed around them is almost entirely step-scoped: input-output classifiers, per turn rails, and span-level evaluators. The policies organizations actually hol...
+arXiv:2609.18820v2 Announce Type: new Abstract: Agentic workflows now make consequential decisions in regulated settings, and the governance placed around them is almost entirely step-scoped: input-output classifiers, per turn rails, and span-level evaluators. The policies organizations actually hol...
 
 📖 [Read original article](https://arxiv.org/abs/2609.18820)
 
@@ -1239,7 +1239,7 @@ arXiv:2609.17771v1 Announce Type: cross Abstract: Approaches to incorporating hu
 
 **Author:** Takes Fujita (VRI), Nobutaka Hattori (Department of Neurology, Juntendo University School of Medicine)  
 **Published:** 9/17/2026, 4:00:00 AM  
-**Categories:** stat.ME, cs.AI  
+**Categories:** stat.ME, cs.AI, q-bio.QM  
 
 arXiv:2609.17772v1 Announce Type: cross Abstract: AI-generated covariates from notes, conversations, images, and wearable streams can change the causal question when their roles are left unspecified. A generated feature may represent a treatment version, pre-action state, history, design variable, m...
 
@@ -1637,7 +1637,7 @@ arXiv:2609.18135v1 Announce Type: cross Abstract: State-of-the-art Text-to-SQL s
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.18176v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) architectures decouple model capacity from computational cost, yet incur high memory footprints as parameters grow linearly with the number of experts. Recurrent Transformers achieve parameter efficiency by reusing layer weig...
+arXiv:2609.18176v2 Announce Type: cross Abstract: Mixture-of-Experts (MoE) architectures decouple model capacity from computational cost, yet incur high memory footprints as parameters grow linearly with the number of experts. Recurrent Transformers achieve parameter efficiency by reusing layer weig...
 
 📖 [Read original article](https://arxiv.org/abs/2609.18176)
 
@@ -1727,13 +1727,13 @@ arXiv:2609.18248v1 Announce Type: cross Abstract: An advanced retrieval-augmente
 
 ---
 
-## 144. ${M}^2$Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models
+## 144. M2Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models
 
 **Author:** Chunpu Xu, Zhixuan Liang, Yuhao Zhang, Chi-Min Chan, Jessie Wang, Yang Xiao, Mengkang Hu, Xiaokang Yang, Yao Mu  
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.CL, cs.CV  
 
-arXiv:2609.18259v1 Announce Type: cross Abstract: Recent advancements have successfully adapted autoregressive language models to process multimodal signals, such as images and actions. Since raw action signals are continuous, effective tokenization is essential to map high-dimensional inputs into c...
+arXiv:2609.18259v2 Announce Type: cross Abstract: Recent advancements have successfully adapted autoregressive language models to process multimodal signals, such as images and actions. Since raw action signals are continuous, effective tokenization is essential to map high-dimensional inputs into c...
 
 📖 [Read original article](https://arxiv.org/abs/2609.18259)
 
@@ -1885,11 +1885,11 @@ arXiv:2609.18441v1 Announce Type: cross Abstract: Discrete choice model specific
 
 ## 157. CSWAM: Better Causal Semantic Representations for Out-of-Distribution Generalization in World Action Models
 
-**Author:** Tianbin Liu, Jian Zhu, Taiyi Su, Jianjun Zhang, Chong Ma, Zitai Huang, Yi Xu  
+**Author:** Tianbin Liu, Jian Zhu, Taiyi Su, Jianjun Zhang, Chong Ma, Zitai Huang, Weiyi Lu, Yi Xu  
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2609.18462v1 Announce Type: cross Abstract: FastWAM-style world action models enable efficient action-only inference, but generalize poorly under visual distribution shifts. Their reconstruction-oriented representations emphasize appearance-specific details, limiting generalization to unseen s...
+arXiv:2609.18462v2 Announce Type: cross Abstract: FastWAM-style world action models enable efficient action-only inference, but generalize poorly under visual distribution shifts. Their reconstruction-oriented representations emphasize appearance-specific details, limiting generalization to unseen s...
 
 📖 [Read original article](https://arxiv.org/abs/2609.18462)
 
@@ -2235,7 +2235,7 @@ arXiv:2609.18943v1 Announce Type: cross Abstract: Reducing radiation dose in com
 
 **Author:** Sean Wan, Dongping Liu, Luyao Zhang  
 **Published:** 9/17/2026, 4:00:00 AM  
-**Categories:** cs.LG, cs.AI  
+**Categories:** cs.LG, cs.AI, cs.CE, econ.GN, q-fin.CP, q-fin.EC  
 
 arXiv:2609.18949v1 Announce Type: cross Abstract: We introduce StableEval Arena, a cost-aware benchmark framework for evaluating agentic AI systems on stablecoin peg-risk prediction. StableEval Arena evaluates LLM-backed agentic systems on diagnosing peg stress and forecasting deviations from the on...
 
@@ -2345,7 +2345,7 @@ arXiv:2609.19074v1 Announce Type: cross Abstract: Reinforcement learning (RL) is
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, math.ST, physics.comp-ph, physics.data-an, stat.TH  
 
-arXiv:2609.19076v1 Announce Type: cross Abstract: The test error of a model plotted against its number of parameters $d$ falls, peaks when the model can just fit the training data, and falls again, exhibiting the double descent phenomenon. We explain the phenomenon with statistical mechanics. The tr...
+arXiv:2609.19076v2 Announce Type: cross Abstract: The test error of a model plotted against its number of parameters $d$ falls, peaks when the model can just fit the training data, and falls again, exhibiting the double descent phenomenon. We explain the phenomenon with statistical mechanics. The tr...
 
 📖 [Read original article](https://arxiv.org/abs/2609.19076)
 
@@ -2429,7 +2429,7 @@ arXiv:2609.19125v1 Announce Type: cross Abstract: Computer-use agents increasing
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2609.19137v1 Announce Type: cross Abstract: Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures in contact-rich tasks where appro...
+arXiv:2609.19137v2 Announce Type: cross Abstract: Video generation models have advanced rapidly and can now synthesize plausible videos of robot manipulation from image and text prompts. Recent work extracts robot actions directly from such generated videos, but the result is purely kinematic and la...
 
 📖 [Read original article](https://arxiv.org/abs/2609.19137)
 
@@ -2765,7 +2765,7 @@ arXiv:2609.16680v2 Announce Type: replace Abstract: Manufacturing consumes one t
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.IR  
 
-arXiv:2609.16814v2 Announce Type: replace Abstract: While Large Language Model (LLM)-based Natural Language Inference (NLI) systems achieve high accuracy, their decision-making processes lack auditable structures. This paper explores whether NLI can be performed using only interpretable, graph-based...
+arXiv:2609.16814v3 Announce Type: replace Abstract: While Large Language Model (LLM)-based Natural Language Inference (NLI) systems achieve high accuracy, their decision-making processes lack auditable structures. This paper explores whether NLI can be performed using only interpretable, graph-based...
 
 📖 [Read original article](https://arxiv.org/abs/2609.16814)
 
@@ -3197,7 +3197,7 @@ arXiv:2605.06850v2 Announce Type: replace-cross Abstract: Reinforcement Learning
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.RO  
 
-arXiv:2605.16692v3 Announce Type: replace-cross Abstract: We introduce EfficientTDMPC, a sample-efficient model-based reinforcement learning method for continuous control built on the TD-MPC family of algorithms. Central to this family is a planner that aims to find an action sequence that maximizes...
+arXiv:2605.16692v4 Announce Type: replace-cross Abstract: We introduce EfficientTDMPC, a sample-efficient model-based reinforcement learning method for continuous control built on the TD-MPC family of algorithms. Central to this family is a planner that aims to find an action sequence that maximizes...
 
 📖 [Read original article](https://arxiv.org/abs/2605.16692)
 
@@ -3221,7 +3221,7 @@ arXiv:2606.00435v4 Announce Type: replace-cross Abstract: Vision-language models
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI  
 
-arXiv:2606.01670v2 Announce Type: replace-cross Abstract: Recently, Generative Recommenders (GRs) have emerged as a transformative recommendation paradigm by replacing traditional item IDs with semantic indices (SIDs). Owing to the exceptional generative capabilities of diffusion models, a few pione...
+arXiv:2606.01670v3 Announce Type: replace-cross Abstract: Recently, Generative Recommenders (GRs) have emerged as a transformative recommendation paradigm by replacing traditional item IDs with semantic indices (SIDs). Owing to the exceptional generative capabilities of diffusion models, a few pione...
 
 📖 [Read original article](https://arxiv.org/abs/2606.01670)
 
@@ -3401,7 +3401,7 @@ arXiv:2608.02628v3 Announce Type: replace-cross Abstract: Symbolic regression (S
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.CV  
 
-arXiv:2608.04765v2 Announce Type: replace-cross Abstract: Vision-language-action (VLA) models provide a unified paradigm for connecting visual perception, language understanding, and robotic control. However, existing VLA models still face major challenges in long-horizon tasks: sparse expert demons...
+arXiv:2608.04765v3 Announce Type: replace-cross Abstract: Vision-language-action (VLA) models provide a unified paradigm for connecting visual perception, language understanding, and robotic control. However, existing VLA models still face major challenges in long-horizon tasks: sparse expert demons...
 
 📖 [Read original article](https://arxiv.org/abs/2608.04765)
 
@@ -3533,7 +3533,7 @@ arXiv:2609.08788v3 Announce Type: replace-cross Abstract: Dense self-attention t
 **Published:** 9/17/2026, 4:00:00 AM  
 **Categories:** cs.IT, cs.AI, cs.RO, cs.SY, eess.SY, math.IT  
 
-arXiv:2609.10986v2 Announce Type: replace-cross Abstract: We propose a mathematical theory of pragmatic information that connects communication, control, and decision-making. Its central notion is the isoteleia mapping, which formalizes equifinality: distinct semantic paths that lead to the same opt...
+arXiv:2609.10986v3 Announce Type: replace-cross Abstract: We propose a mathematical theory of pragmatic information that connects communication, control, and decision-making. Its central notion is the isoteleia mapping, which formalizes equifinality: distinct semantic paths that lead to the same opt...
 
 📖 [Read original article](https://arxiv.org/abs/2609.10986)
 
