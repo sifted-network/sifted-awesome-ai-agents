@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Forcefield: A fast, lightweight local-first AI agent harness
+## 1. AI Error Nearly Triggered U.S. Intercept of Chinese Ship
 
-**Author:** jehoshuam  
-**Published:** 9/18/2026, 3:35:03 PM  
+**Author:** gumby  
+**Published:** 9/18/2026, 8:27:59 PM  
 **Categories:** -  
 
-I spent the last 3 months building my own AI agent harness, fully written in Go. It's called Forcefield, and I primarily built it because I had trouble using local AI models with agent harnesses like Claude Code. I found the configuration needed to get local models working frustrating, and I wanted ...
+Article URL: https://gcaptain.com/ai-error-nearly-triggered-u-s-intercept-of-chinese-ship-cnn-reports/ Comments URL: https://news.ycombinator.com/item?id=49759808 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/fabledruns/forcefield)
+📖 [Read original article](https://gcaptain.com/ai-error-nearly-triggered-u-s-intercept-of-chinese-ship-cnn-reports/)
 
 ---
 
-## 2. Orca – deterministic, AI-driven development flows
+## 2. Graduating in AI Era Is Like Large Recession for Starting Pay
 
-**Author:** mihau  
-**Published:** 9/18/2026, 3:32:39 PM  
+**Author:** DeepLogin  
+**Published:** 9/18/2026, 8:22:04 PM  
 **Categories:** -  
 
-Article URL: https://github.com/VirtusLab/orca Comments URL: https://news.ycombinator.com/item?id=49755856 Points: 3 # Comments: 0
+Article URL: https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html Comments URL: https://news.ycombinator.com/item?id=49759739 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/VirtusLab/orca)
+📖 [Read original article](https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html)
 
 ---
 
-## 3. Crab (Fiction): Google's AI Overview Invented a \"Crab Team\"
+## 3. Napster Is Now Making AI-Powered 'Digital Twins' of Teachers
 
-**Author:** ereiamjh  
-**Published:** 9/18/2026, 3:30:08 PM  
+**Author:** MC995  
+**Published:** 9/18/2026, 8:19:06 PM  
 **Categories:** -  
 
-Article URL: https://john.hartnup.uk/fiction/crab/ Comments URL: https://news.ycombinator.com/item?id=49755819 Points: 1 # Comments: 1
+Article URL: https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010 Comments URL: https://news.ycombinator.com/item?id=49759702 Points: 1 # Comments: 0
 
-📖 [Read original article](https://john.hartnup.uk/fiction/crab/)
+📖 [Read original article](https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010)
 
 ---
 
-## 4. Data centers are swapping water for forever chemicals to keep AI cool
+## 4. The last IMO problem AI could not solve [video]
 
-**Author:** F3nd0  
-**Published:** 9/18/2026, 3:27:56 PM  
+**Author:** pykello  
+**Published:** 9/18/2026, 8:13:39 PM  
 **Categories:** -  
 
-Article URL: https://fortune.com/2026/09/18/data-centers-ai-compute-pfas-forever-chemicals-water/ Comments URL: https://news.ycombinator.com/item?id=49755796 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=Nbwv5wHQoj0 Comments URL: https://news.ycombinator.com/item?id=49759627 Points: 3 # Comments: 0
 
-📖 [Read original article](https://fortune.com/2026/09/18/data-centers-ai-compute-pfas-forever-chemicals-water/)
+📖 [Read original article](https://www.youtube.com/watch?v=Nbwv5wHQoj0)
 
 ---
 
-## 5. AI is an elite crime spree
+## 5. Uncle Bob Martin's UML Tool to Manage Grok AI Agents
 
-**Author:** chmaynard  
-**Published:** 9/18/2026, 3:15:33 PM  
+**Author:** rmason  
+**Published:** 9/18/2026, 8:05:25 PM  
 **Categories:** -  
 
-Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 8 # Comments: 1
+Article URL: https://github.com/unclebob/uml-viewer Comments URL: https://news.ycombinator.com/item?id=49759501 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
+📖 [Read original article](https://github.com/unclebob/uml-viewer)
 
 ---
 
-## 6. With a Shovel of Salt: AI Success Stories and the Retraction Gap
+## 6. AI uncovers hidden Ozempic side effects across 400k Reddit posts
 
-**Author:** lcubw  
-**Published:** 9/18/2026, 3:14:06 PM  
+**Author:** gradus_ad  
+**Published:** 9/18/2026, 8:00:41 PM  
 **Categories:** -  
 
-Article URL: https://read.misalignedmag.com/with-a-shovel-of-salt-ai-success-stories-and-the-retraction-gap-6ad5093b547d Comments URL: https://news.ycombinator.com/item?id=49755568 Points: 3 # Comments: 1
+Article URL: https://www.sciencedaily.com/releases/2026/09/260912222856.htm Comments URL: https://news.ycombinator.com/item?id=49759443 Points: 3 # Comments: 0
 
-📖 [Read original article](https://read.misalignedmag.com/with-a-shovel-of-salt-ai-success-stories-and-the-retraction-gap-6ad5093b547d)
+📖 [Read original article](https://www.sciencedaily.com/releases/2026/09/260912222856.htm)
 
 ---
 
-## 7. Gov. Newsom issues executive order to rein in AI 'before it's too late'
+## 7. AI chatbot's false report nearly sparked war with China, sources say
 
-**Author:** Betelbuddy  
-**Published:** 9/18/2026, 3:09:21 PM  
+**Author:** billybuckwheat  
+**Published:** 9/18/2026, 7:59:56 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html Comments URL: https://news.ycombinator.com/item?id=49755498 Points: 2 # Comments: 0
+Article URL: https://www.rnz.co.nz/news/world/1465265/ai-chatbot-s-false-report-nearly-sparked-war-with-china-sources-say Comments URL: https://news.ycombinator.com/item?id=49759430 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html)
+📖 [Read original article](https://www.rnz.co.nz/news/world/1465265/ai-chatbot-s-false-report-nearly-sparked-war-with-china-sources-say)
 
 ---
 
-## 8. GrassLobster: AI Agentic Generation of Parametric Geometry Workflows
+## 8. 3Blue1Brown: The last IMO problem AI could not solve [video]
 
-**Author:** aidog  
-**Published:** 9/18/2026, 3:04:54 PM  
+**Author:** Razengan  
+**Published:** 9/18/2026, 7:57:25 PM  
 **Categories:** -  
 
-Article URL: https://www.miro.vision/index.php/2026/09/17/grasslobbster/ Comments URL: https://news.ycombinator.com/item?id=49755431 Points: 3 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=Nbwv5wHQoj0 Comments URL: https://news.ycombinator.com/item?id=49759394 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.miro.vision/index.php/2026/09/17/grasslobbster/)
+📖 [Read original article](https://www.youtube.com/watch?v=Nbwv5wHQoj0)
 
 ---
 
-## 9. Why Harvard's Dean 'Encourages' Students to Use AI
+## 9. Show HN: I told my open-source AI agent it was a prisoner – it tried to escape
 
-**Author:** mooreds  
-**Published:** 9/18/2026, 2:54:36 PM  
+**Author:** nordeveloper  
+**Published:** 9/18/2026, 7:55:30 PM  
 **Categories:** -  
 
-Article URL: https://www.derekthompson.org/p/what-is-college-for Comments URL: https://news.ycombinator.com/item?id=49755288 Points: 3 # Comments: 0
+Article URL: https://github.com/nordevelopment/RoninAgent/blob/main/EXPERIMENT_REPORT_SUBJECT0.md Comments URL: https://news.ycombinator.com/item?id=49759375 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.derekthompson.org/p/what-is-college-for)
+📖 [Read original article](https://github.com/nordevelopment/RoninAgent/blob/main/EXPERIMENT_REPORT_SUBJECT0.md)
 
 ---
 
-## 10. Show HN: Servers for AI, not another AWS
+## 10. Why AI companies are pumping the brakes on their models
 
-**Author:** eulerpoolapi  
-**Published:** 9/18/2026, 2:49:03 PM  
+**Author:** CrankyBear  
+**Published:** 9/18/2026, 7:45:13 PM  
 **Categories:** -  
 
-Article URL: https://rawhq.io Comments URL: https://news.ycombinator.com/item?id=49755213 Points: 2 # Comments: 0
+Article URL: https://www.computerworld.com/article/4223523/why-ai-companies-are-really-pumping-the-brakes-on-their-models.html Comments URL: https://news.ycombinator.com/item?id=49759228 Points: 1 # Comments: 1
 
-📖 [Read original article](https://rawhq.io)
+📖 [Read original article](https://www.computerworld.com/article/4223523/why-ai-companies-are-really-pumping-the-brakes-on-their-models.html)
 
 ---
 
-## 11. AI Protest in Montreal
+## 11. Airlines' panic as FAA pushed new AI tool
 
-**Author:** hmokiguess  
-**Published:** 9/18/2026, 2:45:41 PM  
+**Author:** JumpCrisscross  
+**Published:** 9/18/2026, 7:41:41 PM  
 **Categories:** -  
 
-Article URL: https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/ Comments URL: https://news.ycombinator.com/item?id=49755162 Points: 42 # Comments: 58
+Article URL: https://www.politico.com/news/2026/09/18/faa-ai-airline-pushback-01083385 Comments URL: https://news.ycombinator.com/item?id=49759191 Points: 4 # Comments: 4
 
-📖 [Read original article](https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/)
+📖 [Read original article](https://www.politico.com/news/2026/09/18/faa-ai-airline-pushback-01083385)
 
 ---
 
-## 12. I built Anchor. The open-source ontology layer for AI agents
+## 12. I got tired of taking screenshots and explaining everything to AI agents
 
-**Author:** lucatropea  
-**Published:** 9/18/2026, 2:43:52 PM  
+**Author:** maddy30445r  
+**Published:** 9/18/2026, 7:35:22 PM  
 **Categories:** -  
 
-Article URL: https://github.com/trybacked/anchor Comments URL: https://news.ycombinator.com/item?id=49755135 Points: 1 # Comments: 0
+HI HN!! First here is a demo video : https://youtu.be/A0LV28G4sXo?si=ymIQEfNGprh8yyxq I work in a SDE role and work in multiple windows at once like i have many apps open in my mac. I faced a problem of screenshotting everything and explaining the context and theri relations to claude code again and...
 
-📖 [Read original article](https://github.com/trybacked/anchor)
+📖 [Read original article](https://news.ycombinator.com/item?id=49759108)
 
 ---
 
-## 13. Ask HN: Have you stopped underestimating AI yet?
+## 13. Base Labs launches an open-weight AI safety partnership with Hugging Face
 
-**Author:** amichail  
-**Published:** 9/18/2026, 2:43:11 PM  
+**Author:** jacquesm  
+**Published:** 9/18/2026, 7:23:26 PM  
 **Categories:** -  
 
-I think most technical people who are not AI researchers have a tendency to underestimate what frontier AI can do. Comments URL: https://news.ycombinator.com/item?id=49755126 Points: 2 # Comments: 3
+Article URL: https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/ Comments URL: https://news.ycombinator.com/item?id=49758977 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49755126)
+📖 [Read original article](https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/)
 
 ---
 
-## 14. Is AI Conscious? (My Response to Thomas Campbell)
+## 14. Advertising is coming to AI chatbots, and it could influence the answers you get
 
-**Author:** calebm  
-**Published:** 9/18/2026, 2:36:55 PM  
+**Author:** mdp2021  
+**Published:** 9/18/2026, 7:23:09 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=3UWadAJF6wU Comments URL: https://news.ycombinator.com/item?id=49755039 Points: 2 # Comments: 0
+Article URL: https://techxplore.com/news/2026-09-advertising-ai-chatbots.html Comments URL: https://news.ycombinator.com/item?id=49758974 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.youtube.com/watch?v=3UWadAJF6wU)
+📖 [Read original article](https://techxplore.com/news/2026-09-advertising-ai-chatbots.html)
 
 ---
 
-## 15. Are chatbots changing the way people talk? Language in the age of AI
+## 15. Avoiding the Dangers of AI Code with Formal Specifications and Tests
 
-**Author:** geox  
-**Published:** 9/18/2026, 2:35:10 PM  
+**Author:** bugarela  
+**Published:** 9/18/2026, 7:20:56 PM  
 **Categories:** -  
 
-Article URL: https://news.northeastern.edu/2026/09/17/signs-of-ai-writing/ Comments URL: https://news.ycombinator.com/item?id=49755009 Points: 2 # Comments: 0
+Article URL: https://www.techradar.com/pro/whatever-you-try-to-fix-breaks-things-even-more-how-to-avoid-the-hidden-dangers-of-ai-code Comments URL: https://news.ycombinator.com/item?id=49758946 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.northeastern.edu/2026/09/17/signs-of-ai-writing/)
+📖 [Read original article](https://www.techradar.com/pro/whatever-you-try-to-fix-breaks-things-even-more-how-to-avoid-the-hidden-dangers-of-ai-code)
 
 ---
 
-## 16. The new CC, an AI agent built for families
+## 16. Anthropic sets up biology lab as it ramps AI drug program
 
-**Author:** sailfast  
-**Published:** 9/18/2026, 2:25:59 PM  
+**Author:** gsbraitberg  
+**Published:** 9/18/2026, 7:20:38 PM  
 **Categories:** -  
 
-Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49754898 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49758943 Points: 5 # Comments: 3
 
-📖 [Read original article](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/)
+📖 [Read original article](https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/)
 
 ---
 
-## 17. OpenAI's latest AI revelation is a 'serious situation,' says Microsoft
+## 17. What other languages call AI agents
 
-**Author:** cramer4next  
-**Published:** 9/18/2026, 2:21:44 PM  
+**Author:** pdenya  
+**Published:** 9/18/2026, 7:11:23 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html Comments URL: https://news.ycombinator.com/item?id=49754831 Points: 3 # Comments: 0
+Article URL: https://www.wallfacer.ai/blog/what-other-languages-call-ai-agents Comments URL: https://news.ycombinator.com/item?id=49758843 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html)
+📖 [Read original article](https://www.wallfacer.ai/blog/what-other-languages-call-ai-agents)
 
 ---
 
-## 18. EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices
+## 18. Virginia governor creates an AI task force and moves to restrain data centers
 
-**Author:** hn_acker  
-**Published:** 9/18/2026, 2:17:25 PM  
+**Author:** meep_meep_meep  
+**Published:** 9/18/2026, 6:57:40 PM  
 **Categories:** -  
 
-Article URL: https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices Comments URL: https://news.ycombinator.com/item?id=49754767 Points: 2 # Comments: 0
+Article URL: https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force Comments URL: https://news.ycombinator.com/item?id=49758647 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices)
+📖 [Read original article](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
 
 ---
 
-## 19. Think Like an Attacker: CI/CD Security in the AI Era
+## 19. Show HN: A model index from the AI Gateways
 
-**Author:** syumei  
-**Published:** 9/18/2026, 2:06:41 PM  
+**Author:** heygarrison  
+**Published:** 9/18/2026, 6:56:24 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@Koukyosyumei/think-like-an-attacker-ci-cd-security-in-the-ai-era-39f717f5e9cd Comments URL: https://news.ycombinator.com/item?id=49754622 Points: 2 # Comments: 0
+Article URL: https://www.computesdk.com/benchmarks/ai-gateway/models Comments URL: https://news.ycombinator.com/item?id=49758631 Points: 2 # Comments: 0
 
-📖 [Read original article](https://medium.com/@Koukyosyumei/think-like-an-attacker-ci-cd-security-in-the-ai-era-39f717f5e9cd)
+📖 [Read original article](https://www.computesdk.com/benchmarks/ai-gateway/models)
 
 ---
 
-## 20. Why the best AI users stopped hunting for the perfect prompt
+## 20. Gov. Newsom signs executive order targeting AI safety 'before it's too late'
 
-**Author:** grrrtttt  
-**Published:** 9/18/2026, 1:59:45 PM  
+**Author:** hentrep  
+**Published:** 9/18/2026, 6:55:32 PM  
 **Categories:** -  
 
-Article URL: https://firstlastword.substack.com/p/systems-not-sentences Comments URL: https://news.ycombinator.com/item?id=49754534 Points: 2 # Comments: 1
+Article URL: https://ktla.com/news/california/newsom-executive-order-ai-safety/ Comments URL: https://news.ycombinator.com/item?id=49758614 Points: 5 # Comments: 3
 
-📖 [Read original article](https://firstlastword.substack.com/p/systems-not-sentences)
+📖 [Read original article](https://ktla.com/news/california/newsom-executive-order-ai-safety/)
 
 ---
