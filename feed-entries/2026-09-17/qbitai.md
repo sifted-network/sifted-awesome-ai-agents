@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-17"
 date: "2026-09-17"
 source: "qbitai"
-count: 4
+count: 2
 ---
 
 # qbitai - 2026-09-17
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ count: 4
 工程师的核心永远是Problem Solving。
 
 📖 [Read original article](https://www.qbitai.com/2026/09/491596.html)
-
----
-
-## 3. 央企做了个通用Agent，直接杀进IDC实测前三！
-
-**Author:** 十三  
-**Published:** 9/17/2026, 9:39:19 AM  
-**Categories:** 资讯, TeleAgent, TeleAI, 中国电信, 央企  
-
-中国电信，TeleAgent
-
-📖 [Read original article](https://www.qbitai.com/2026/09/491454.html)
-
----
-
-## 4. Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了
-
-**Author:** 听雨  
-**Published:** 9/17/2026, 9:07:25 AM  
-**Categories:** 资讯, AI  
-
-文档和PPT都能做了
-
-📖 [Read original article](https://www.qbitai.com/2026/09/491391.html)
 
 ---
