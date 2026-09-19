@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-16"
 date: "2026-09-16"
 source: "OpenAI Blog"
-count: 5
+count: 6
 ---
 
 # OpenAI Blog - 2026-09-16
 
-5 items collected.
+6 items collected.
 
 ---
 
@@ -47,7 +47,19 @@ Explore new AI-powered advertising experiences from OpenAI, including Sponsored 
 
 ---
 
-## 4. How to connect AI usage to business value
+## 4. Hex turns complex analysis into visual reports with GPT‑6 Astra
+
+**Author:** -  
+**Published:** 9/16/2026, 12:00:00 PM  
+**Categories:** Startup  
+
+GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.
+
+📖 [Read original article](https://openai.com/index/hex-gpt-6-astra)
+
+---
+
+## 5. How to connect AI usage to business value
 
 **Author:** -  
 **Published:** 9/16/2026, 12:00:00 PM  
@@ -59,7 +71,7 @@ Learn how ChatGPT Work and Codex analytics help teams understand AI usage and sp
 
 ---
 
-## 5. How workers are unlocking new ways of working
+## 6. How workers are unlocking new ways of working
 
 **Author:** -  
 **Published:** 9/16/2026, 9:00:00 AM  
