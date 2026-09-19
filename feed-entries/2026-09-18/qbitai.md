@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-18"
 date: "2026-09-18"
 source: "qbitai"
-count: 8
+count: 6
 ---
 
 # qbitai - 2026-09-18
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ LimiX让模型理解数据背后的因果机制
 用通用AI去啃最硬的骨头，这条路走得通
 
 📖 [Read original article](https://www.qbitai.com/2026/09/491875.html)
-
----
-
-## 7. Manus重生第17天，估值居然就翻倍了
-
-**Author:** 衡宇  
-**Published:** 9/18/2026, 12:37:13 AM  
-**Categories:** 资讯, Agent, Muans  
-
-作价40亿美元推进新融资
-
-📖 [Read original article](https://www.qbitai.com/2026/09/491764.html)
-
----
-
-## 8. 刚刚，Claude Code大重构！内部3万Agent管理技术免费开放
-
-**Author:** Jay  
-**Published:** 9/18/2026, 12:34:34 AM  
-**Categories:** 资讯  
-
-Git白学了？？？
-
-📖 [Read original article](https://www.qbitai.com/2026/09/491711.html)
 
 ---
