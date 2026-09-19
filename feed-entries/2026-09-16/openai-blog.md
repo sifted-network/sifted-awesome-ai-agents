@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-16"
 date: "2026-09-16"
 source: "OpenAI Blog"
-count: 6
+count: 5
 ---
 
 # OpenAI Blog - 2026-09-16
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizatio
 Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
 
 📖 [Read original article](https://openai.com/index/how-to-connect-ai-usage-to-business-value)
-
----
-
-## 6. How workers are unlocking new ways of working
-
-**Author:** -  
-**Published:** 9/16/2026, 9:00:00 AM  
-**Categories:** Global Affairs  
-
-New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.
-
-📖 [Read original article](https://openai.com/index/unlocking-new-ways-of-working)
 
 ---
