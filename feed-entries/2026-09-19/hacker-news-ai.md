@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Certify the Conversation, Not Just the AI Agent
+## 1. I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered
 
-**Author:** jequals5  
-**Published:** 9/19/2026, 2:55:41 PM  
+**Author:** complyyio  
+**Published:** 9/19/2026, 8:08:18 PM  
 **Categories:** -  
 
-Article URL: https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent Comments URL: https://news.ycombinator.com/item?id=49767068 Points: 2 # Comments: 0
+Article URL: https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1 Comments URL: https://news.ycombinator.com/item?id=49769723 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent)
+📖 [Read original article](https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1)
 
 ---
 
-## 2. AI Made Delegation Easy: Structure Is Still the Skill
+## 2. OpenAI and Anthropic oversold AI security breaches
 
-**Author:** andychiare  
-**Published:** 9/19/2026, 2:47:40 PM  
+**Author:** hei-lima  
+**Published:** 9/19/2026, 7:59:28 PM  
 **Categories:** -  
 
-Article URL: https://syntheticauth.ai/posts/ai-made-delegation-easy-structure-is-still-the-skill Comments URL: https://news.ycombinator.com/item?id=49766999 Points: 1 # Comments: 0
+Article URL: https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/ Comments URL: https://news.ycombinator.com/item?id=49769668 Points: 4 # Comments: 0
 
-📖 [Read original article](https://syntheticauth.ai/posts/ai-made-delegation-easy-structure-is-still-the-skill)
+📖 [Read original article](https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/)
 
 ---
 
-## 3. Guesswork – zsh autosuggestions ranked by an AI model instead of prefix match
+## 3. Founding Engineer, AI and Full-Stack
 
-**Author:** FindMalek  
-**Published:** 9/19/2026, 2:46:55 PM  
+**Author:** jillforBTRL  
+**Published:** 9/19/2026, 7:53:02 PM  
 **Categories:** -  
 
-Article URL: https://guesswork.findmalek.com Comments URL: https://news.ycombinator.com/item?id=49766992 Points: 2 # Comments: 0
+Article URL: https://bettrlife.ai/founding-engineer Comments URL: https://news.ycombinator.com/item?id=49769624 Points: 1 # Comments: 1
 
-📖 [Read original article](https://guesswork.findmalek.com)
+📖 [Read original article](https://bettrlife.ai/founding-engineer)
 
 ---
 
-## 4. Ask HN: As a freelancer how should I charge my clients in AI era?
+## 4. Curated list of hosting (VPS, GPU, infra, AI)
 
-**Author:** hhthrowaway1230  
-**Published:** 9/19/2026, 2:37:43 PM  
+**Author:** dalisoft  
+**Published:** 9/19/2026, 7:45:35 PM  
 **Categories:** -  
 
-Hi HN!As a freelancer, I usually do a requirements workshops + one or two months of development in the pre-ai era. Which was enough to pay the bills and save up. Now I can do things in a matter of days. Do I charge my clients the old time + rate, or just the new reality (which means I'd need more gi...
+Article URL: https://github.com/dalisoft/awesome-hosting Comments URL: https://news.ycombinator.com/item?id=49769580 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49766918)
+📖 [Read original article](https://github.com/dalisoft/awesome-hosting)
 
 ---
 
-## 5. AI Safety Is Mostly a Sex Cult
+## 5. How I see software dev in AI era
 
-**Author:** olalonde  
-**Published:** 9/19/2026, 2:36:28 PM  
+**Author:** geckones  
+**Published:** 9/19/2026, 7:44:56 PM  
 **Categories:** -  
 
-Article URL: https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49766911 Points: 41 # Comments: 9
+Article URL: https://dhilst.github.io/2026/09/19/sweng-as-opt-prob/ Comments URL: https://news.ycombinator.com/item?id=49769574 Points: 2 # Comments: 0
 
-📖 [Read original article](https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q)
+📖 [Read original article](https://dhilst.github.io/2026/09/19/sweng-as-opt-prob/)
 
 ---
 
-## 6. How should we evaluate whether an AI agent's memory is still current?
+## 6. PC ports of old console games are the new AI vibe coding battleground
 
-**Author:** IreneAI  
-**Published:** 9/19/2026, 2:20:37 PM  
+**Author:** adunk  
+**Published:** 9/19/2026, 7:42:35 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/AgentMemoryL/status/2101312784688726331 Comments URL: https://news.ycombinator.com/item?id=49766795 Points: 1 # Comments: 0
+Article URL: https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/ Comments URL: https://news.ycombinator.com/item?id=49769554 Points: 3 # Comments: 0
 
-📖 [Read original article](https://twitter.com/AgentMemoryL/status/2101312784688726331)
+📖 [Read original article](https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/)
 
 ---
 
-## 7. Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development
+## 7. What do you think is the prevalence of this phenomenon in current AI discourse?
 
-**Author:** MarcScott  
-**Published:** 9/19/2026, 2:09:55 PM  
+**Author:** symbolicai  
+**Published:** 9/19/2026, 7:28:30 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023 Comments URL: https://news.ycombinator.com/item?id=49766722 Points: 5 # Comments: 3
+Article URL: https://en.wikipedia.org/wiki/Preference_falsification Comments URL: https://news.ycombinator.com/item?id=49769439 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023)
+📖 [Read original article](https://en.wikipedia.org/wiki/Preference_falsification)
 
 ---
 
-## 8. Show HN: We've built an AI UGC video creator,free for one month
+## 8. Warning Signs [Economics of AI]
 
-**Author:** longyuanpro  
-**Published:** 9/19/2026, 1:55:57 PM  
+**Author:** ckmate-king-2  
+**Published:** 9/19/2026, 7:01:20 PM  
 **Categories:** -  
 
-We've built an AI UGC Video Creator,Free for one month. Comments URL: https://news.ycombinator.com/item?id=49766639 Points: 2 # Comments: 1
+Article URL: https://newleftreview.org/sidecar/posts/warning-signs Comments URL: https://news.ycombinator.com/item?id=49769259 Points: 1 # Comments: 0
 
-📖 [Read original article](https://kuvu.ai/marketing/ai-ugc)
+📖 [Read original article](https://newleftreview.org/sidecar/posts/warning-signs)
 
 ---
 
-## 9. The AI Model That Won't Talk to You: The Missing Piece for AI Workflows?
+## 9. Frustrated at state of commentary of economic impact of AI
 
-**Author:** ma1ms  
-**Published:** 9/19/2026, 1:55:12 PM  
+**Author:** erads  
+**Published:** 9/19/2026, 7:00:30 PM  
 **Categories:** -  
 
-Article URL: https://mlnotes.substack.com/p/the-ai-model-that-wont-talk-to-you Comments URL: https://news.ycombinator.com/item?id=49766635 Points: 1 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49769252 Points: 1 # Comments: 1
 
-📖 [Read original article](https://mlnotes.substack.com/p/the-ai-model-that-wont-talk-to-you)
+📖 [Read original article](https://news.ycombinator.com/item?id=49769252)
 
 ---
 
-## 10. The Wrong Race: the US, China, and AI Competition [pdf]
-
-**Author:** hunglee2  
-**Published:** 9/19/2026, 1:41:27 PM  
-**Categories:** -  
-
-Article URL: https://quincyinst-2.s3.amazonaws.com/wp-content/uploads/2026/09/17163452/QUINCY-BRIEF-NO.-110-SEPT-2026-GRAYLIN.pdf Comments URL: https://news.ycombinator.com/item?id=49766535 Points: 2 # Comments: 1
-
-📖 [Read original article](https://quincyinst-2.s3.amazonaws.com/wp-content/uploads/2026/09/17163452/QUINCY-BRIEF-NO.-110-SEPT-2026-GRAYLIN.pdf)
-
----
-
-## 11. The Science of Machine Learning vs. the Push for AI Deployment
-
-**Author:** Arshad-Talpur  
-**Published:** 9/19/2026, 1:24:35 PM  
-**Categories:** -  
-
-Article URL: https://medium.com/@MirArshadTalpur/the-science-of-machine-learning-vs-the-push-for-ai-deployment-854c659e4a6a Comments URL: https://news.ycombinator.com/item?id=49766419 Points: 1 # Comments: 1
-
-📖 [Read original article](https://medium.com/@MirArshadTalpur/the-science-of-machine-learning-vs-the-push-for-ai-deployment-854c659e4a6a)
-
----
-
-## 12. Reimagining research papers as interactive and reliable AI agents
-
-**Author:** CoderLim110  
-**Published:** 9/19/2026, 1:18:20 PM  
-**Categories:** -  
-
-Article URL: https://www.nature.com/articles/s41586-026-11044-y Comments URL: https://news.ycombinator.com/item?id=49766366 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.nature.com/articles/s41586-026-11044-y)
-
----
-
-## 13. AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom
-
-**Author:** sbulaev  
-**Published:** 9/19/2026, 1:07:08 PM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335 Comments URL: https://news.ycombinator.com/item?id=49766285 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335)
-
----
-
-## 14. Can the AI arms race be stopped?
+## 10. A new kind of AI model from a ChatGPT inventor is thrilling developers
 
 **Author:** andsoitis  
-**Published:** 9/19/2026, 1:06:02 PM  
+**Published:** 9/19/2026, 6:56:08 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/leaders/2026/09/17/can-the-ai-arms-race-be-stopped Comments URL: https://news.ycombinator.com/item?id=49766278 Points: 2 # Comments: 0
+Article URL: https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/ Comments URL: https://news.ycombinator.com/item?id=49769222 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/leaders/2026/09/17/can-the-ai-arms-race-be-stopped)
+📖 [Read original article](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/)
 
 ---
 
-## 15. Why I'm (sort of) not worried about AI – Jack Conte - SXSW [video]
+## 11. The lucrative business of reactionary AI-generated posts on Facebook
 
-**Author:** consumer451  
-**Published:** 9/19/2026, 12:58:11 PM  
+**Author:** geox  
+**Published:** 9/19/2026, 6:53:58 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=17_HcR95YBc Comments URL: https://news.ycombinator.com/item?id=49766216 Points: 2 # Comments: 0
+Article URL: https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html Comments URL: https://news.ycombinator.com/item?id=49769207 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=17_HcR95YBc)
+📖 [Read original article](https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html)
 
 ---
 
-## 16. Yoshua Bengio's non-profit LawZero to build safe AI
+## 12. How A Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying
 
-**Author:** heresie-dabord  
-**Published:** 9/19/2026, 12:48:10 PM  
+**Author:** harry_nutsachs  
+**Published:** 9/19/2026, 6:43:36 PM  
 **Categories:** -  
 
-Article URL: https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/ Comments URL: https://news.ycombinator.com/item?id=49766153 Points: 2 # Comments: 0
+Article URL: https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846 Comments URL: https://news.ycombinator.com/item?id=49769109 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/)
+📖 [Read original article](https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846)
 
 ---
 
-## 17. AI kill switch, explained: 'It's not too little, but it's probably too late'
+## 13. Trump Announces an 'AI Force'
+
+**Author:** david_shaw  
+**Published:** 9/19/2026, 6:40:41 PM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f Comments URL: https://news.ycombinator.com/item?id=49769086 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f)
+
+---
+
+## 14. When Does AI Stop Needing Us?
 
 **Author:** pseudolus  
-**Published:** 9/19/2026, 12:36:06 PM  
+**Published:** 9/19/2026, 6:40:35 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html Comments URL: https://news.ycombinator.com/item?id=49766062 Points: 1 # Comments: 0
+Article URL: https://cacm.acm.org/blogcacm/when-does-ai-stop-needing-us/ Comments URL: https://news.ycombinator.com/item?id=49769084 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html)
+📖 [Read original article](https://cacm.acm.org/blogcacm/when-does-ai-stop-needing-us/)
 
 ---
 
-## 18. AI companies sued for \"colluding\" to slow down
+## 15. Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown
 
-**Author:** trippy  
-**Published:** 9/19/2026, 12:27:16 PM  
+**Author:** embedding-shape  
+**Published:** 9/19/2026, 6:36:44 PM  
 **Categories:** -  
 
-Article URL: https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit Comments URL: https://news.ycombinator.com/item?id=49766011 Points: 2 # Comments: 4
+Article URL: https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b Comments URL: https://news.ycombinator.com/item?id=49769050 Points: 24 # Comments: 3
 
-📖 [Read original article](https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit)
+📖 [Read original article](https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b)
 
 ---
 
-## 19. Bull Beats Out HPE for Next-Gen Lumi AI Supercomputer
+## 16. AI Is Just Greg – Inside an AI Datacenter [video]
 
-**Author:** rbanffy  
-**Published:** 9/19/2026, 12:19:20 PM  
+**Author:** beacon09  
+**Published:** 9/19/2026, 6:33:49 PM  
 **Categories:** -  
 
-Article URL: https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292 Comments URL: https://news.ycombinator.com/item?id=49765950 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=0GofbjETCS4 Comments URL: https://news.ycombinator.com/item?id=49769028 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292)
+📖 [Read original article](https://www.youtube.com/watch?v=0GofbjETCS4)
 
 ---
 
-## 20. Inside the suddenly explosive world of AI safety
+## 17. Microsoft director: AI scraping 'the largest theft of labor in human history'
 
-**Author:** ilamont  
-**Published:** 9/19/2026, 12:17:33 PM  
+**Author:** jonbaer  
+**Published:** 9/19/2026, 6:21:30 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic Comments URL: https://news.ycombinator.com/item?id=49765939 Points: 2 # Comments: 0
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit Comments URL:...
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit)
+
+---
+
+## 18. Trump says he will create 'AI Force,' name AI czar
+
+**Author:** psychanarch  
+**Published:** 9/19/2026, 6:16:34 PM  
+**Categories:** -  
+
+Article URL: https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/ Comments URL: https://news.ycombinator.com/item?id=49768880 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/)
+
+---
+
+## 19. Ask HN: How do you interview devs in a post-AI world?
+
+**Author:** mdwelsh  
+**Published:** 9/19/2026, 6:10:34 PM  
+**Categories:** -  
+
+Since the rise of AI coding assistants, about 80% of the dev candidates that I interview tell me that they aren't writing much code themselves anymore - they are directing agents instead. This makes me deeply uncomfortable (although maybe I'm just being old-fashioned). I still want to know that devs...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49768826)
+
+---
+
+## 20. I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy
+
+**Author:** beardyw  
+**Published:** 9/19/2026, 6:07:26 PM  
+**Categories:** -  
+
+Article URL: https://www.404media.co/spotify-ai-music-scam/ Comments URL: https://news.ycombinator.com/item?id=49768799 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.404media.co/spotify-ai-music-scam/)
 
 ---
