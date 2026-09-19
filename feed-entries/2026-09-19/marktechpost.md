@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-19"
 date: "2026-09-19"
 source: "MarkTechPost"
-count: 4
+count: 5
 ---
 
 # MarkTechPost - 2026-09-19
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model
+## 1. TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text
+
+**Author:** Asif Razzaq  
+**Published:** 9/19/2026, 6:41:33 PM  
+**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, For Devs, Language Model, Large Language Model, Machine Learning, New Releases, Software Engineering, Staff, Tech News, Technology, Uncategorized  
+
+TypeSafe AI released Jev, a System One model that answers typed questions with probabilities instead of generating text. Input costs $0.042 per 1M tokens, and output tokens are free. We cover the API, the vendor benchmarks and their caveats, what developers are already building, and the documented l...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/)
+
+---
+
+## 2. Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model
 
 **Author:** Asif Razzaq  
 **Published:** 9/19/2026, 7:48:38 AM  
@@ -23,7 +35,7 @@ Linkup Research has released SPARSEUP, an open-source sparse embedding model bui
 
 ---
 
-## 2. Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes
+## 3. Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes
 
 **Author:** Michal Sutter  
 **Published:** 9/19/2026, 7:22:16 AM  
@@ -35,7 +47,7 @@ Meta has released Muse for Mac, the first version of Muse that can complete thin
 
 ---
 
-## 3. GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)
+## 4. GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)
 
 **Author:** Asif Razzaq  
 **Published:** 9/19/2026, 4:04:06 AM  
@@ -47,7 +59,7 @@ GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This g
 
 ---
 
-## 4. SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour
+## 5. SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour
 
 **Author:** Michal Sutter  
 **Published:** 9/19/2026, 3:42:24 AM  
