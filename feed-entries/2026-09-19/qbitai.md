@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-19"
 date: "2026-09-19"
 source: "qbitai"
-count: 6
+count: 3
 ---
 
 # qbitai - 2026-09-19
 
-6 items collected.
+3 items collected.
 
 ---
 
@@ -44,41 +44,5 @@ AI有可能终结我们所有人
 设计、前端一口气全干了，结果后端没来上班
 
 📖 [Read original article](https://www.qbitai.com/2026/09/492573.html)
-
----
-
-## 4. Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子
-
-**Author:** henry  
-**Published:** 9/19/2026, 11:36:11 AM  
-**Categories:** 资讯, AI, Nature  
-
-AI能否提出相对论？
-
-📖 [Read original article](https://www.qbitai.com/2026/09/492550.html)
-
----
-
-## 5. 千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你
-
-**Author:** 梦瑶  
-**Published:** 9/19/2026, 8:34:35 AM  
-**Categories:** 资讯, 活动  
-
-1000万，把才华送上真正的大舞台
-
-📖 [Read original article](https://www.qbitai.com/2026/09/492501.html)
-
----
-
-## 6. 华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够
-
-**Author:** 梦瑶  
-**Published:** 9/19/2026, 8:28:51 AM  
-**Categories:** 资讯, 华为  
-
-CANN跨过拐点，华为补上软件生态
-
-📖 [Read original article](https://www.qbitai.com/2026/09/492476.html)
 
 ---
