@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-19"
 date: "2026-09-19"
 source: "MarkTechPost"
-count: 5
+count: 6
 ---
 
 # MarkTechPost - 2026-09-19
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text
+## 1. OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live
+
+**Author:** Michal Sutter  
+**Published:** 9/19/2026, 9:44:23 PM  
+**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Harness, New Releases, Open Source, Staff, Tech News, Technology  
+
+OpenClaw 2026.9.5 ships 4,179 pull requests from 502 contributing accounts. The headline change is Atomic Updates, which check the next version against a private copy of your setup while the current Gateway keeps running. The release also adds plugin hot reload, read-only conversation sharing, GPT L...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/)
+
+---
+
+## 2. TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text
 
 **Author:** Asif Razzaq  
 **Published:** 9/19/2026, 6:41:33 PM  
@@ -23,7 +35,7 @@ TypeSafe AI released Jev, a System One model that answers typed questions with p
 
 ---
 
-## 2. Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model
+## 3. Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model
 
 **Author:** Asif Razzaq  
 **Published:** 9/19/2026, 7:48:38 AM  
@@ -35,7 +47,7 @@ Linkup Research has released SPARSEUP, an open-source sparse embedding model bui
 
 ---
 
-## 3. Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes
+## 4. Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes
 
 **Author:** Michal Sutter  
 **Published:** 9/19/2026, 7:22:16 AM  
@@ -47,7 +59,7 @@ Meta has released Muse for Mac, the first version of Muse that can complete thin
 
 ---
 
-## 4. GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)
+## 5. GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)
 
 **Author:** Asif Razzaq  
 **Published:** 9/19/2026, 4:04:06 AM  
@@ -59,7 +71,7 @@ GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This g
 
 ---
 
-## 5. SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour
+## 6. SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour
 
 **Author:** Michal Sutter  
 **Published:** 9/19/2026, 3:42:24 AM  
