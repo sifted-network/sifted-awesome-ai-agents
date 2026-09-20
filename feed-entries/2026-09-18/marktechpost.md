@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-09-18"
 date: "2026-09-18"
 source: "MarkTechPost"
-count: 5
+count: 4
 ---
 
 # MarkTechPost - 2026-09-18
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verifie
 Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use appeared first on M...
 
 📖 [Read original article](https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/)
-
----
-
-## 5. Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration
-
-**Author:** Jean-marc Mommessin  
-**Published:** 9/18/2026, 7:34:06 AM  
-**Categories:** Agentic AI, AI Agents, Editors Pick, New Releases, Staff  
-
-Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap from "vibe coding" to enterprise reliability by combining synthetic stress-testing, real-time optimization, dynamic agentic UIs, and deterministic guard...
-
-📖 [Read original article](https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/)
 
 ---
