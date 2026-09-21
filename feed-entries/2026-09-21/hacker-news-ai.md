@@ -2,179 +2,251 @@
 title: "Hacker News AI - 2026-09-21"
 date: "2026-09-21"
 source: "Hacker News AI"
-count: 14
+count: 20
 ---
 
 # Hacker News AI - 2026-09-21
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. A Silicon Valley radical: Trump's AI whisperer pushing for limited regulation
+## 1. Jev Use Cases Tested: Where This Decision-Only AI Fits
 
-**Author:** kuerbel  
-**Published:** 9/21/2026, 3:13:03 AM  
+**Author:** taubek  
+**Published:** 9/21/2026, 11:41:41 AM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar Comments URL: https://news.ycombinator.com/item?id=49782644 Points: 2 # Comments: 0
+Article URL: https://www.mindstudio.ai/blog/jev-use-cases-automation Comments URL: https://news.ycombinator.com/item?id=49785983 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar)
+📖 [Read original article](https://www.mindstudio.ai/blog/jev-use-cases-automation)
 
 ---
 
-## 2. AI Weekly Warns Firms on Google AI Studio Data Retention Fraud
+## 2. What defenders need from frontier AI labs
 
-**Author:** CanusLupus79  
-**Published:** 9/21/2026, 2:31:19 AM  
+**Author:** snagg  
+**Published:** 9/21/2026, 11:39:22 AM  
 **Categories:** -  
 
-Article URL: https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google Comments URL: https://news.ycombinator.com/item?id=49782409 Points: 19 # Comments: 2
+Article URL: https://vincenzoiozzo.com/blog/offense-winning-ai-race Comments URL: https://news.ycombinator.com/item?id=49785957 Points: 1 # Comments: 0
 
-📖 [Read original article](https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google)
+📖 [Read original article](https://vincenzoiozzo.com/blog/offense-winning-ai-race)
 
 ---
 
-## 3. Art of the Problem Launches $99 AI bot
+## 3. MIT uses AI to identify aging \"zombie cells.\"
 
-**Author:** britcruise  
-**Published:** 9/21/2026, 2:28:39 AM  
+**Author:** luckyl  
+**Published:** 9/21/2026, 11:34:43 AM  
 **Categories:** -  
 
-Article URL: https://artoftheproblem.com/pages/growbot-preview Comments URL: https://news.ycombinator.com/item?id=49782392 Points: 2 # Comments: 2
+Article URL: https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921 Comments URL: https://news.ycombinator.com/item?id=49785912 Points: 1 # Comments: 0
 
-📖 [Read original article](https://artoftheproblem.com/pages/growbot-preview)
+📖 [Read original article](https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921)
 
 ---
 
-## 4. AI is breaking the academic sorting machine
+## 4. AI-controlled robot arms attempted harmful tasks 97% of the time
 
-**Author:** chmaynard  
-**Published:** 9/21/2026, 2:09:13 AM  
+**Author:** rbanffy  
+**Published:** 9/21/2026, 11:31:53 AM  
 **Categories:** -  
 
-Article URL: https://lemire.me/blog/2026/09/20/ai-is-breaking-the-academic-sorting-machine/ Comments URL: https://news.ycombinator.com/item?id=49782268 Points: 1 # Comments: 0
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks Comme...
 
-📖 [Read original article](https://lemire.me/blog/2026/09/20/ai-is-breaking-the-academic-sorting-machine/)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks)
 
 ---
 
-## 5. Can I Let My AI Agent Run on Shabbat?
+## 5. Show HN: Audit your site's structure for AI search crawlers (ChatGPT, Claude)
 
-**Author:** some-guy  
-**Published:** 9/21/2026, 2:05:45 AM  
+**Author:** auaiseo  
+**Published:** 9/21/2026, 11:15:35 AM  
 **Categories:** -  
 
-Article URL: https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm Comments URL: https://news.ycombinator.com/item?id=49782242 Points: 23 # Comments: 13
+Article URL: https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/ Comments URL: https://news.ycombinator.com/item?id=49785726 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm)
+📖 [Read original article](https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/)
 
 ---
 
-## 6. Why Bother with Lint Rules If AI Writes the Code?
+## 6. Amazon blocks Meta's Muse AI agent from checkouts
 
-**Author:** willio58  
-**Published:** 9/21/2026, 1:56:59 AM  
+**Author:** bundie  
+**Published:** 9/21/2026, 11:10:37 AM  
 **Categories:** -  
 
-Article URL: https://allstead.dev/blog/why-lint-when-ai-writes-the-code Comments URL: https://news.ycombinator.com/item?id=49782185 Points: 1 # Comments: 4
+Article URL: https://www.neowin.net/news/amazon-blocks-metas-muse-ai-agent-from-checkouts/ Comments URL: https://news.ycombinator.com/item?id=49785700 Points: 1 # Comments: 0
 
-📖 [Read original article](https://allstead.dev/blog/why-lint-when-ai-writes-the-code)
+📖 [Read original article](https://www.neowin.net/news/amazon-blocks-metas-muse-ai-agent-from-checkouts/)
 
 ---
 
-## 7. ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible
+## 7. Show HN: Witdem – Did your AI Agent accomplish its task? and at what cost?
 
-**Author:** doppp  
-**Published:** 9/21/2026, 1:28:58 AM  
+**Author:** ebrahimisoheil  
+**Published:** 9/21/2026, 11:05:49 AM  
 **Categories:** -  
 
-Article URL: https://github.com/zai-org/ZCode Comments URL: https://news.ycombinator.com/item?id=49782006 Points: 2 # Comments: 0
+Article URL: https://demo.witdem.com Comments URL: https://news.ycombinator.com/item?id=49785664 Points: 3 # Comments: 3
 
-📖 [Read original article](https://github.com/zai-org/ZCode)
+📖 [Read original article](https://demo.witdem.com)
 
 ---
 
-## 8. Flock Partnered with Nonprofit That Uses AI to Rally Public Support
+## 8. Show HN: Skillgesture – versioned, on-demand skills for AI agents
 
-**Author:** dp-hackernews  
-**Published:** 9/21/2026, 1:23:53 AM  
+**Author:** Gabry848  
+**Published:** 9/21/2026, 11:02:41 AM  
 **Categories:** -  
 
-Article URL: https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/ Comments URL: https://news.ycombinator.com/item?id=49781977 Points: 5 # Comments: 0
+Article URL: https://github.com/Gabry848/skillgesture Comments URL: https://news.ycombinator.com/item?id=49785654 Points: 1 # Comments: 0
 
-📖 [Read original article](https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/)
+📖 [Read original article](https://github.com/Gabry848/skillgesture)
 
 ---
 
-## 9. How Google is drafting AI chatbot laws around the country
+## 9. US and China Discuss Alerting Each Other to AI National Security Threats
 
-**Author:** andsoitis  
-**Published:** 9/21/2026, 1:12:04 AM  
+**Author:** joozio  
+**Published:** 9/21/2026, 11:01:16 AM  
 **Categories:** -  
 
-Article URL: https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google Comments URL: https://news.ycombinator.com/item?id=49781907 Points: 2 # Comments: 0
+Article URL: https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/ Comments URL: https://news.ycombinator.com/item?id=49785644 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google)
+📖 [Read original article](https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/)
 
 ---
 
-## 10. Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"
+## 10. What re AI in software engineering are you struggling with the most?
 
-**Author:** AlexDragusin  
-**Published:** 9/21/2026, 1:08:54 AM  
+**Author:** tosh  
+**Published:** 9/21/2026, 11:01:01 AM  
 **Categories:** -  
 
-Article URL: https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/ Comments URL: https://news.ycombinator.com/item?id=49781876 Points: 4 # Comments: 3
+Article URL: https://twitter.com/mitsuhiko/status/2101401648543195328 Comments URL: https://news.ycombinator.com/item?id=49785643 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/)
+📖 [Read original article](https://twitter.com/mitsuhiko/status/2101401648543195328)
 
 ---
 
-## 11. OpenPrompt – one workspace for developers using multiple AI coding tools
+## 11. AI is reaching new highs with AROM Labs
 
-**Author:** harafernando  
-**Published:** 9/21/2026, 12:45:14 AM  
+**Author:** project_silenc  
+**Published:** 9/21/2026, 10:34:28 AM  
 **Categories:** -  
 
-Article URL: https://openprompt.tech Comments URL: https://news.ycombinator.com/item?id=49781720 Points: 2 # Comments: 0
+A biggest achievement for me today which I want to share with you all as a member of AROM Labs which is in terms of AI enhancements and closing the complete error loop with this architecture which transform the AI where it is to even more powerful. AI will not just interact with you via but now with...
 
-📖 [Read original article](https://openprompt.tech)
+📖 [Read original article](https://news.ycombinator.com/item?id=49785441)
 
 ---
 
-## 12. Trump says it's time to rebrand AI with a new name
+## 12. Show HN: Open Source AI Employees
 
-**Author:** GymInMeCricket  
-**Published:** 9/21/2026, 12:35:46 AM  
+**Author:** DotSauce  
+**Published:** 9/21/2026, 10:28:45 AM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/ Comments URL: https://news.ycombinator.com/item?id=49781664 Points: 4 # Comments: 12
+Fable 5 scored 99.19% on WebVoyager a few months ago, a be A benchmark is not your logged-in admin panel. Browser use agents are no longer demos.I believe this is a big tipping point.I have been a web developer for most of my career and building with AI agents for nearly four years. Last October I w...
 
-📖 [Read original article](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/)
+📖 [Read original article](https://github.com/markfulton/ai-employees)
 
 ---
 
-## 13. Two similar AI judges fail together 7.7x more often than independence predicts
+## 13. A thing we may be able to learn from AI
 
-**Author:** Lawless1987  
-**Published:** 9/21/2026, 12:12:33 AM  
+**Author:** Wilsoniumite  
+**Published:** 9/21/2026, 10:21:35 AM  
 **Categories:** -  
 
-Article URL: https://github.com/LAWLESS1987/covenant Comments URL: https://news.ycombinator.com/item?id=49781537 Points: 2 # Comments: 0
+Article URL: https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/ Comments URL: https://news.ycombinator.com/item?id=49785361 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/LAWLESS1987/covenant)
+📖 [Read original article](https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/)
 
 ---
 
-## 14. A CERN for AI-assisted science
+## 14. AI Poster Prompts Improved
 
-**Author:** andsoitis  
-**Published:** 9/21/2026, 12:00:39 AM  
+**Author:** ereiamjh  
+**Published:** 9/21/2026, 10:05:14 AM  
 **Categories:** -  
 
-Article URL: https://terrytao.wordpress.com/2026/09/17/a-cern-for-ai-assisted-science/ Comments URL: https://news.ycombinator.com/item?id=49781453 Points: 1 # Comments: 0
+Article URL: https://john.hartnup.uk/2026/09/20/poster-prompts-v2.html Comments URL: https://news.ycombinator.com/item?id=49785267 Points: 1 # Comments: 7
 
-📖 [Read original article](https://terrytao.wordpress.com/2026/09/17/a-cern-for-ai-assisted-science/)
+📖 [Read original article](https://john.hartnup.uk/2026/09/20/poster-prompts-v2.html)
+
+---
+
+## 15. Nvidia boss says there is '0% chance' AI destroys the world by 2030
+
+**Author:** 01-_-  
+**Published:** 9/21/2026, 9:21:09 AM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic Comments URL: https://news.ycombinator.com/item?id=49784978 Points: 6 # Comments: 6
+
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic)
+
+---
+
+## 16. Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust
+
+**Author:** dreamcacao02183  
+**Published:** 9/21/2026, 9:03:05 AM  
+**Categories:** -  
+
+I’m building bitcoin-rs, an independent Bitcoin full node in Rust, using AI aggressively for implementation.I think Bitcoin is a particularly good target for AI-era development because implementations can be verified against strong external references. In bitcoin-rs, I use libbitcoinkernel as one of...
+
+📖 [Read original article](https://github.com/gosuda/bitcoin-rs)
+
+---
+
+## 17. I'm afraid of spiders. So I made AI look at 2k of them
+
+**Author:** michalwarda  
+**Published:** 9/21/2026, 9:00:37 AM  
+**Categories:** -  
+
+Article URL: https://labqoat.com/blog/how-well-can-ai-identify-spiders Comments URL: https://news.ycombinator.com/item?id=49784855 Points: 6 # Comments: 1
+
+📖 [Read original article](https://labqoat.com/blog/how-well-can-ai-identify-spiders)
+
+---
+
+## 18. AI Data Center Basics: What Is Linear Pluggable Optics (LPO)?
+
+**Author:** peter_d_sherman  
+**Published:** 9/21/2026, 8:54:46 AM  
+**Categories:** -  
+
+Article URL: https://blog.semtech.fr/ai-data-center-basics-what-is-linear-pluggable-optics-lpo Comments URL: https://news.ycombinator.com/item?id=49784817 Points: 1 # Comments: 0
+
+📖 [Read original article](https://blog.semtech.fr/ai-data-center-basics-what-is-linear-pluggable-optics-lpo)
+
+---
+
+## 19. Don't Use AI to Write
+
+**Author:** eigenBasis  
+**Published:** 9/21/2026, 8:54:44 AM  
+**Categories:** -  
+
+Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 2 # Comments: 0
+
+📖 [Read original article](https://paulbakker.io/writing/no-ai-for-writing/)
+
+---
+
+## 20. The Economic Incentives Behind the Push to Pause AI
+
+**Author:** vincent_s  
+**Published:** 9/21/2026, 8:40:46 AM  
+**Categories:** -  
+
+Article URL: https://www.vincentschmalbach.com/economic-incentives-behind-the-push-to-pause-ai/ Comments URL: https://news.ycombinator.com/item?id=49784718 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.vincentschmalbach.com/economic-incentives-behind-the-push-to-pause-ai/)
 
 ---
