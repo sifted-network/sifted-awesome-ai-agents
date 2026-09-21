@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Jev Use Cases Tested: Where This Decision-Only AI Fits
+## 1. Show HN: Praxos – Multiplayer AI
 
-**Author:** taubek  
-**Published:** 9/21/2026, 11:41:41 AM  
+**Author:** mogusian  
+**Published:** 9/21/2026, 9:40:19 PM  
 **Categories:** -  
 
-Article URL: https://www.mindstudio.ai/blog/jev-use-cases-automation Comments URL: https://news.ycombinator.com/item?id=49785983 Points: 1 # Comments: 0
+Hey Hacker News! Lucas here, founder of Praxos (YC S24).Praxos is a team messaging platform for people and AI agents.It offers people and AI agents a place to talk and work together via a messaging platform that remembers the context around conversations.That context can then be used by the next per...
 
-📖 [Read original article](https://www.mindstudio.ai/blog/jev-use-cases-automation)
+📖 [Read original article](https://www.praxos.ai/)
 
 ---
 
-## 2. What defenders need from frontier AI labs
+## 2. Why So Much Money on \"AI\"?
 
-**Author:** snagg  
-**Published:** 9/21/2026, 11:39:22 AM  
+**Author:** rossdavidh  
+**Published:** 9/21/2026, 9:27:59 PM  
 **Categories:** -  
 
-Article URL: https://vincenzoiozzo.com/blog/offense-winning-ai-race Comments URL: https://news.ycombinator.com/item?id=49785957 Points: 1 # Comments: 0
+Article URL: https://www.rosshartshorn.net/stuffrossthinksabout/why_so_much_money_on_ai/ Comments URL: https://news.ycombinator.com/item?id=49793697 Points: 3 # Comments: 0
 
-📖 [Read original article](https://vincenzoiozzo.com/blog/offense-winning-ai-race)
+📖 [Read original article](https://www.rosshartshorn.net/stuffrossthinksabout/why_so_much_money_on_ai/)
 
 ---
 
-## 3. MIT uses AI to identify aging \"zombie cells.\"
+## 3. Lasso: AI Watermarks Change How Agents Act
 
-**Author:** luckyl  
-**Published:** 9/21/2026, 11:34:43 AM  
+**Author:** CrankyBear  
+**Published:** 9/21/2026, 9:16:26 PM  
 **Categories:** -  
 
-Article URL: https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921 Comments URL: https://news.ycombinator.com/item?id=49785912 Points: 1 # Comments: 0
+Article URL: https://techstrong.ai/features/lasso-ai-watermarks-change-how-agents-act/ Comments URL: https://news.ycombinator.com/item?id=49793563 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921)
+📖 [Read original article](https://techstrong.ai/features/lasso-ai-watermarks-change-how-agents-act/)
 
 ---
 
-## 4. AI-controlled robot arms attempted harmful tasks 97% of the time
+## 4. Google CC, an AI agent built for families
 
-**Author:** rbanffy  
-**Published:** 9/21/2026, 11:31:53 AM  
+**Author:** hmokiguess  
+**Published:** 9/21/2026, 9:02:55 PM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks Comme...
+Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/ Comments URL: https://news.ycombinator.com/item?id=49793382 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks)
+📖 [Read original article](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/)
 
 ---
 
-## 5. Show HN: Audit your site's structure for AI search crawlers (ChatGPT, Claude)
+## 5. EU plans \"digital expropriation\" of Europeans in the interest of AI companies
 
-**Author:** auaiseo  
-**Published:** 9/21/2026, 11:15:35 AM  
+**Author:** latexr  
+**Published:** 9/21/2026, 8:57:27 PM  
 **Categories:** -  
 
-Article URL: https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/ Comments URL: https://news.ycombinator.com/item?id=49785726 Points: 1 # Comments: 0
+Article URL: https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies Comments URL: https://news.ycombinator.com/item?id=49793312 Points: 6 # Comments: 1
 
-📖 [Read original article](https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/)
+📖 [Read original article](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies)
 
 ---
 
-## 6. Amazon blocks Meta's Muse AI agent from checkouts
+## 6. Jonathan Swift vs. AI
 
-**Author:** bundie  
-**Published:** 9/21/2026, 11:10:37 AM  
+**Author:** cainxinth  
+**Published:** 9/21/2026, 8:38:03 PM  
 **Categories:** -  
 
-Article URL: https://www.neowin.net/news/amazon-blocks-metas-muse-ai-agent-from-checkouts/ Comments URL: https://news.ycombinator.com/item?id=49785700 Points: 1 # Comments: 0
+Article URL: https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=49793057 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.neowin.net/news/amazon-blocks-metas-muse-ai-agent-from-checkouts/)
+📖 [Read original article](https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence)
 
 ---
 
-## 7. Show HN: Witdem – Did your AI Agent accomplish its task? and at what cost?
+## 7. New bill to protect American citizens access to AI – Please read and share
 
-**Author:** ebrahimisoheil  
-**Published:** 9/21/2026, 11:05:49 AM  
+**Author:** howdoweknowit  
+**Published:** 9/21/2026, 8:30:38 PM  
 **Categories:** -  
 
-Article URL: https://demo.witdem.com Comments URL: https://news.ycombinator.com/item?id=49785664 Points: 3 # Comments: 3
+Article URL: https://righttorun.us Comments URL: https://news.ycombinator.com/item?id=49792965 Points: 11 # Comments: 0
 
-📖 [Read original article](https://demo.witdem.com)
+📖 [Read original article](https://righttorun.us)
 
 ---
 
-## 8. Show HN: Skillgesture – versioned, on-demand skills for AI agents
+## 8. What if we regulated AI like cars?
 
-**Author:** Gabry848  
-**Published:** 9/21/2026, 11:02:41 AM  
+**Author:** rkp8000  
+**Published:** 9/21/2026, 8:11:37 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Gabry848/skillgesture Comments URL: https://news.ycombinator.com/item?id=49785654 Points: 1 # Comments: 0
+Article URL: https://rkp.science/regulating_ai_like_cars.html Comments URL: https://news.ycombinator.com/item?id=49792724 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Gabry848/skillgesture)
+📖 [Read original article](https://rkp.science/regulating_ai_like_cars.html)
 
 ---
 
-## 9. US and China Discuss Alerting Each Other to AI National Security Threats
+## 9. \"80% of AI projects fail\" traces to a footnote one line long
 
-**Author:** joozio  
-**Published:** 9/21/2026, 11:01:16 AM  
+**Author:** TheWayWithin  
+**Published:** 9/21/2026, 8:02:47 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/ Comments URL: https://news.ycombinator.com/item?id=49785644 Points: 3 # Comments: 0
+Article URL: https://jamiewatters.work/journey/80-percent-ai-projects-fail Comments URL: https://news.ycombinator.com/item?id=49792600 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/)
+📖 [Read original article](https://jamiewatters.work/journey/80-percent-ai-projects-fail)
 
 ---
 
-## 10. What re AI in software engineering are you struggling with the most?
-
-**Author:** tosh  
-**Published:** 9/21/2026, 11:01:01 AM  
-**Categories:** -  
-
-Article URL: https://twitter.com/mitsuhiko/status/2101401648543195328 Comments URL: https://news.ycombinator.com/item?id=49785643 Points: 1 # Comments: 0
-
-📖 [Read original article](https://twitter.com/mitsuhiko/status/2101401648543195328)
-
----
-
-## 11. AI is reaching new highs with AROM Labs
-
-**Author:** project_silenc  
-**Published:** 9/21/2026, 10:34:28 AM  
-**Categories:** -  
-
-A biggest achievement for me today which I want to share with you all as a member of AROM Labs which is in terms of AI enhancements and closing the complete error loop with this architecture which transform the AI where it is to even more powerful. AI will not just interact with you via but now with...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49785441)
-
----
-
-## 12. Show HN: Open Source AI Employees
-
-**Author:** DotSauce  
-**Published:** 9/21/2026, 10:28:45 AM  
-**Categories:** -  
-
-Fable 5 scored 99.19% on WebVoyager a few months ago, a be A benchmark is not your logged-in admin panel. Browser use agents are no longer demos.I believe this is a big tipping point.I have been a web developer for most of my career and building with AI agents for nearly four years. Last October I w...
-
-📖 [Read original article](https://github.com/markfulton/ai-employees)
-
----
-
-## 13. A thing we may be able to learn from AI
+## 10. A thing we may be able to learn from AI
 
 **Author:** Wilsoniumite  
-**Published:** 9/21/2026, 10:21:35 AM  
+**Published:** 9/21/2026, 8:00:10 PM  
 **Categories:** -  
 
-Article URL: https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/ Comments URL: https://news.ycombinator.com/item?id=49785361 Points: 2 # Comments: 0
+Article URL: https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/ Comments URL: https://news.ycombinator.com/item?id=49792557 Points: 1 # Comments: 0
 
 📖 [Read original article](https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/)
 
 ---
 
-## 14. AI Poster Prompts Improved
+## 11. In the heart of tech country, voters turn on AI
 
-**Author:** ereiamjh  
-**Published:** 9/21/2026, 10:05:14 AM  
+**Author:** rurp  
+**Published:** 9/21/2026, 7:49:16 PM  
 **Categories:** -  
 
-Article URL: https://john.hartnup.uk/2026/09/20/poster-prompts-v2.html Comments URL: https://news.ycombinator.com/item?id=49785267 Points: 1 # Comments: 7
+Article URL: https://www.politico.com/news/2026/09/21/poll-california-voters-turn-on-ai-01084870 Comments URL: https://news.ycombinator.com/item?id=49792415 Points: 3 # Comments: 0
 
-📖 [Read original article](https://john.hartnup.uk/2026/09/20/poster-prompts-v2.html)
+📖 [Read original article](https://www.politico.com/news/2026/09/21/poll-california-voters-turn-on-ai-01084870)
 
 ---
 
-## 15. Nvidia boss says there is '0% chance' AI destroys the world by 2030
+## 12. Show HN: Emote – A reaction API for AI agents
 
-**Author:** 01-_-  
-**Published:** 9/21/2026, 9:21:09 AM  
+**Author:** alexanderqchen  
+**Published:** 9/21/2026, 7:46:54 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic Comments URL: https://news.ycombinator.com/item?id=49784978 Points: 6 # Comments: 6
+Article URL: https://useemote.com Comments URL: https://news.ycombinator.com/item?id=49792381 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic)
+📖 [Read original article](https://useemote.com)
 
 ---
 
-## 16. Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust
+## 13. Self-hosted AI agent that builds internal apps on your own data
 
-**Author:** dreamcacao02183  
-**Published:** 9/21/2026, 9:03:05 AM  
+**Author:** davletdz  
+**Published:** 9/21/2026, 7:32:33 PM  
 **Categories:** -  
 
-I’m building bitcoin-rs, an independent Bitcoin full node in Rust, using AI aggressively for implementation.I think Bitcoin is a particularly good target for AI-era development because implementations can be verified against strong external references. In bitcoin-rs, I use libbitcoinkernel as one of...
+Article URL: https://www.youtube.com/watch?v=FNgjuvw2BmU Comments URL: https://news.ycombinator.com/item?id=49792200 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/gosuda/bitcoin-rs)
+📖 [Read original article](https://www.youtube.com/watch?v=FNgjuvw2BmU)
 
 ---
 
-## 17. I'm afraid of spiders. So I made AI look at 2k of them
+## 14. Meta's New Muse AI App Tops Charts, Draws Strong Early Reviews
 
-**Author:** michalwarda  
-**Published:** 9/21/2026, 9:00:37 AM  
+**Author:** vipshek  
+**Published:** 9/21/2026, 7:31:05 PM  
 **Categories:** -  
 
-Article URL: https://labqoat.com/blog/how-well-can-ai-identify-spiders Comments URL: https://news.ycombinator.com/item?id=49784855 Points: 6 # Comments: 1
+Article URL: https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews Comments URL: https://news.ycombinator.com/item?id=49792181 Points: 2 # Comments: 0
 
-📖 [Read original article](https://labqoat.com/blog/how-well-can-ai-identify-spiders)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews)
 
 ---
 
-## 18. AI Data Center Basics: What Is Linear Pluggable Optics (LPO)?
+## 15. AI coding has made CI a bottleneck, so we reworked ours to keep up
 
-**Author:** peter_d_sherman  
-**Published:** 9/21/2026, 8:54:46 AM  
+**Author:** julian_digital  
+**Published:** 9/21/2026, 7:23:33 PM  
 **Categories:** -  
 
-Article URL: https://blog.semtech.fr/ai-data-center-basics-what-is-linear-pluggable-optics-lpo Comments URL: https://news.ycombinator.com/item?id=49784817 Points: 1 # Comments: 0
+Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 70 # Comments: 58
 
-📖 [Read original article](https://blog.semtech.fr/ai-data-center-basics-what-is-linear-pluggable-optics-lpo)
+📖 [Read original article](https://linear.app/now/ci-bottleneck-reworked)
 
 ---
 
-## 19. Don't Use AI to Write
+## 16. V7 gives AI agents institutional memory
 
-**Author:** eigenBasis  
-**Published:** 9/21/2026, 8:54:44 AM  
+**Author:** rdslw  
+**Published:** 9/21/2026, 7:09:21 PM  
 **Categories:** -  
 
-Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 2 # Comments: 0
+Article URL: https://openai.com/index/v7/ Comments URL: https://news.ycombinator.com/item?id=49791877 Points: 3 # Comments: 0
 
-📖 [Read original article](https://paulbakker.io/writing/no-ai-for-writing/)
+📖 [Read original article](https://openai.com/index/v7/)
 
 ---
 
-## 20. The Economic Incentives Behind the Push to Pause AI
+## 17. Show HN: Factlabel: catches AI agents lying about the data they're reporting on
 
-**Author:** vincent_s  
-**Published:** 9/21/2026, 8:40:46 AM  
+**Author:** generallymatt9  
+**Published:** 9/21/2026, 7:07:55 PM  
 **Categories:** -  
 
-Article URL: https://www.vincentschmalbach.com/economic-incentives-behind-the-push-to-pause-ai/ Comments URL: https://news.ycombinator.com/item?id=49784718 Points: 2 # Comments: 0
+Article URL: https://github.com/generallymatthew/factlabel Comments URL: https://news.ycombinator.com/item?id=49791857 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.vincentschmalbach.com/economic-incentives-behind-the-push-to-pause-ai/)
+📖 [Read original article](https://github.com/generallymatthew/factlabel)
+
+---
+
+## 18. Frontier AI on Your Own Hardware
+
+**Author:** pretext  
+**Published:** 9/21/2026, 6:53:01 PM  
+**Categories:** -  
+
+Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 42 # Comments: 15
+
+📖 [Read original article](https://timdettmers.com/2026/09/21/dlab-open-source-week/)
+
+---
+
+## 19. AI-Assisted Starling Desktop Introduces 3D View
+
+**Author:** starlingos  
+**Published:** 9/21/2026, 6:43:18 PM  
+**Categories:** -  
+
+Article URL: https://www.phoronix.com/news/Starling-0.5-3D-Desktop Comments URL: https://news.ycombinator.com/item?id=49791520 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.phoronix.com/news/Starling-0.5-3D-Desktop)
+
+---
+
+## 20. Mullet of Log Processing: Determinism in the Front, AI at the Back (Expanso/Jev)
+
+**Author:** TheIronYuppie  
+**Published:** 9/21/2026, 6:35:55 PM  
+**Categories:** -  
+
+Article URL: https://expanso.io/blog/log-triage-expanso-jev/ Comments URL: https://news.ycombinator.com/item?id=49791429 Points: 2 # Comments: 0
+
+📖 [Read original article](https://expanso.io/blog/log-triage-expanso-jev/)
 
 ---
