@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-09-19"
 date: "2026-09-19"
 source: "MarkTechPost"
-count: 6
+count: 5
 ---
 
 # MarkTechPost - 2026-09-19
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Meta has released Muse for Mac, the first version of Muse that can complete thin
 GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This guide separates file containers from quantization methods. It explains bits per weight, calibration, and hardware fit. Then it shows which format to pick for Macs, consumer GPUs, and production serving. The post GGUF vs G...
 
 📖 [Read original article](https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/)
-
----
-
-## 6. SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour
-
-**Author:** Michal Sutter  
-**Published:** 9/19/2026, 3:42:24 AM  
-**Categories:** AI Shorts, Applications, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, Large Language Model, New Releases, Staff, Tech News, Technology, Uncategorized, Voice AI  
-
-SpaceXAI has released Grok Voice Transcribe 2.0, its newest speech-to-text model for batch and streaming audio. The company says it is twice as accurate as version 1.0 at the same price. Short-phrase word error rate across 19 languages fell from 20.6% to 6.8%. Pricing stays at $0.10 per hour for bat...
-
-📖 [Read original article](https://www.marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0/)
 
 ---
