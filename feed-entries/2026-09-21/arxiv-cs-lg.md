@@ -101,7 +101,7 @@ arXiv:2609.20942v1 Announce Type: new Abstract: Large language models (LLMs) inc
 **Published:** 9/21/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.20954v1 Announce Type: new Abstract: We present a novel end-to-end model-based Reinforcement Learning (RL) algorithm for efficient policy synthesis under given Linear Temporal Logic (LTL) specifications (e.g., safety or reachability) in unknown environments. To do so, a Limit-Deterministi...
+arXiv:2609.20954v2 Announce Type: new Abstract: We present a novel end-to-end model-based Reinforcement Learning (RL) algorithm for efficient policy synthesis under given Linear Temporal Logic (LTL) specifications (e.g., safety or reachability) in unknown environments. To do so, a Limit-Deterministi...
 
 📖 [Read original article](https://arxiv.org/abs/2609.20954)
 
@@ -365,7 +365,7 @@ arXiv:2609.21197v1 Announce Type: new Abstract: Sparse longitudinal CT follow-up
 **Published:** 9/21/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.21280v1 Announce Type: new Abstract: Drug mechanism-of-action (MoA) modeling commonly relies on perturbational transcriptomes, but matched microRNA (miRNA) measurements are often unavailable. Inferred regulatory features offer a scalable way to reuse these data. Here, we present MIRCID, a...
+arXiv:2609.21280v2 Announce Type: new Abstract: Drug mechanism-of-action (MoA) modeling commonly relies on perturbational transcriptomes, but matched microRNA (miRNA) measurements are often unavailable. Inferred regulatory features offer a scalable way to reuse these data. Here, we present MIRCID, a...
 
 📖 [Read original article](https://arxiv.org/abs/2609.21280)
 
@@ -533,7 +533,7 @@ arXiv:2609.21450v1 Announce Type: new Abstract: Post-training weight-activation 
 **Published:** 9/21/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.21457v1 Announce Type: new Abstract: Deep neural architectures are widely used for signal processing in automated pain assessment systems. However, architecture design has remained largely a manual task despite the potential efficiency benefits of Neural Architecture Search (NAS). Embeddi...
+arXiv:2609.21457v2 Announce Type: new Abstract: Deep neural architectures are widely used for signal processing in automated pain assessment systems. However, architecture design has remained largely a manual task despite the potential efficiency benefits of Neural Architecture Search (NAS). Embeddi...
 
 📖 [Read original article](https://arxiv.org/abs/2609.21457)
 
@@ -869,7 +869,7 @@ arXiv:2609.21926v1 Announce Type: new Abstract: Many machine learning systems tr
 **Published:** 9/21/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.21932v1 Announce Type: new Abstract: Joint remaining useful life (RUL) prediction and capacity estimation require representations of both gradual degradation and recent battery behavior. This paper presents a cross-expert framework using partial-charging measurements without measured hist...
+arXiv:2609.21932v2 Announce Type: new Abstract: Joint remaining useful life (RUL) prediction and capacity estimation require representations of both gradual degradation and recent battery behavior. This paper presents a cross-expert framework using partial-charging measurements without requiring mea...
 
 📖 [Read original article](https://arxiv.org/abs/2609.21932)
 
@@ -1577,7 +1577,7 @@ arXiv:2609.21628v1 Announce Type: cross Abstract: Automatic tooth segmentation a
 **Published:** 9/21/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.CL, cs.LG  
 
-arXiv:2609.21651v1 Announce Type: cross Abstract: Farmer.Chat is Digital Green's farm advisory service for smallholder farmers. When something looks wrong with a crop, the farmer takes a photograph and sends it, and that photograph is the whole question: no symptom described, no crop named, often no...
+arXiv:2609.21651v2 Announce Type: cross Abstract: FarmerChat is Digital Green's farm advisory service for smallholder farmers. When something looks wrong with a crop, the farmer takes a photograph and sends it, and that photograph is the whole question: no symptom described, no crop named, often no ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.21651)
 
@@ -2789,7 +2789,7 @@ arXiv:2609.09556v2 Announce Type: replace-cross Abstract: Neural networks can le
 **Published:** 9/21/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.CV, cs.LG  
 
-arXiv:2609.10706v3 Announce Type: replace-cross Abstract: Human video datasets offer an abundant and diverse source of interaction data that can complement expensive real-robot data. To bridge the human-to-robot embodiment gap, existing approaches either robotize videos in task-matched settings or a...
+arXiv:2609.10706v4 Announce Type: replace-cross Abstract: Human video datasets offer an abundant and diverse source of interaction data that can complement expensive real-robot data. To bridge the human-to-robot embodiment gap, existing approaches either robotize videos in task-matched settings or a...
 
 📖 [Read original article](https://arxiv.org/abs/2609.10706)
 
