@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-09-22"
 date: "2026-09-22"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-09-22
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. I Built an AI Dating Assistant Because Swiping Is Statistically Inefficient
+## 1. How to cut your AI agent bill without hurting output quality
 
-**Author:** am_lee  
-**Published:** 9/22/2026, 3:50:15 AM  
+**Author:** marwann  
+**Published:** 9/22/2026, 11:02:31 AM  
 **Categories:** -  
 
-Article URL: https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738 Comments URL: https://news.ycombinator.com/item?id=49796609 Points: 1 # Comments: 0
+Article URL: https://www.vybe.build/blog/how-to-cut-your-ai-agent-bill Comments URL: https://news.ycombinator.com/item?id=49799305 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738)
+📖 [Read original article](https://www.vybe.build/blog/how-to-cut-your-ai-agent-bill)
 
 ---
 
-## 2. ArtifactBench: Evaluating AI Music Detectors Under Distribution Shift
+## 2. Show HN: Watch all the AI agents on your machine
 
-**Author:** unohee  
-**Published:** 9/22/2026, 3:25:08 AM  
+**Author:** turblety  
+**Published:** 9/22/2026, 10:57:49 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2609.23550 Comments URL: https://news.ycombinator.com/item?id=49796472 Points: 1 # Comments: 0
+Article URL: https://github.com/markwylde/all-your-agents Comments URL: https://news.ycombinator.com/item?id=49799267 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2609.23550)
+📖 [Read original article](https://github.com/markwylde/all-your-agents)
 
 ---
 
-## 3. Amazon blocks Meta's Muse AI assistant
+## 3. America is getting its AI race with China wrong
 
-**Author:** colinprince  
-**Published:** 9/22/2026, 3:03:19 AM  
+**Author:** rdmuser  
+**Published:** 9/22/2026, 10:49:40 AM  
 **Categories:** -  
 
-Article URL: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/ Comments URL: https://news.ycombinator.com/item?id=49796340 Points: 1 # Comments: 0
+Article URL: https://restofworld.org/2026/america-china-ai-race-trust/ Comments URL: https://news.ycombinator.com/item?id=49799198 Points: 4 # Comments: 2
 
-📖 [Read original article](https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/)
+📖 [Read original article](https://restofworld.org/2026/america-china-ai-race-trust/)
 
 ---
 
-## 4. China's AI Realism Is Not Conspiracy
+## 4. A Self-Evident Essay Arguing for the Use of AI in Writing
 
-**Author:** xpin  
-**Published:** 9/22/2026, 3:01:06 AM  
+**Author:** sheereconomics  
+**Published:** 9/22/2026, 10:28:56 AM  
 **Categories:** -  
 
-Article URL: https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy Comments URL: https://news.ycombinator.com/item?id=49796331 Points: 1 # Comments: 0
+Article URL: https://github.com/Sheer-Economics/the-sins-of-AI-writing Comments URL: https://news.ycombinator.com/item?id=49799031 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy)
+📖 [Read original article](https://github.com/Sheer-Economics/the-sins-of-AI-writing)
 
 ---
 
-## 5. Francis Fukuyama: Why I Changed My Mind About AI Risk
+## 5. Adventures in AI Apathy
 
-**Author:** mellosouls  
-**Published:** 9/22/2026, 2:54:32 AM  
+**Author:** paltaie  
+**Published:** 9/22/2026, 10:25:42 AM  
 **Categories:** -  
 
-Article URL: https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk Comments URL: https://news.ycombinator.com/item?id=49796300 Points: 2 # Comments: 0
+Article URL: https://iconsolutions.com/blog/adventures-in-ai-apathy Comments URL: https://news.ycombinator.com/item?id=49799001 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk)
+📖 [Read original article](https://iconsolutions.com/blog/adventures-in-ai-apathy)
 
 ---
 
-## 6. Ottawa to build sovereign AI ecosystem for Canadian defence operations
+## 6. TypeSafe AI Jev vs. GPT-6 Astra
 
-**Author:** Teever  
-**Published:** 9/22/2026, 2:48:16 AM  
+**Author:** flashbrew  
+**Published:** 9/22/2026, 9:53:35 AM  
 **Categories:** -  
 
-Article URL: https://www.theglobeandmail.com/business/economy/article-ottawa-building-sovereign-ai-ecosystem-for-canadian-defence-operations/ Comments URL: https://news.ycombinator.com/item?id=49796262 Points: 1 # Comments: 0
+Article URL: https://vercel.com/i/jev-vs-gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49798734 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theglobeandmail.com/business/economy/article-ottawa-building-sovereign-ai-ecosystem-for-canadian-defence-operations/)
+📖 [Read original article](https://vercel.com/i/jev-vs-gpt-6-astra)
 
 ---
 
-## 7. Turn ad-hoc subagents into durable, accountable AI teams
+## 7. Nvidia boss says there is '0% chance' AI destroys the world by 2030
 
-**Author:** ringlochid  
-**Published:** 9/22/2026, 2:45:47 AM  
+**Author:** edward  
+**Published:** 9/22/2026, 9:36:53 AM  
 **Categories:** -  
 
-Article URL: https://github.com/ringlochid/oh-my-subagents Comments URL: https://news.ycombinator.com/item?id=49796249 Points: 4 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic Comments URL: https://news.ycombinator.com/item?id=49798601 Points: 5 # Comments: 0
 
-📖 [Read original article](https://github.com/ringlochid/oh-my-subagents)
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic)
 
 ---
 
-## 8. Vibes vs. Evidence: What delivers AI code review quality
+## 8. An AI bot appeared on the StarCraft ladder. Can you tell who's playing?
 
-**Author:** pjf  
-**Published:** 9/22/2026, 2:12:35 AM  
+**Author:** maloga  
+**Published:** 9/22/2026, 9:30:47 AM  
 **Categories:** -  
 
-Article URL: https://dsifry.github.io/harnesseval/ Comments URL: https://news.ycombinator.com/item?id=49796016 Points: 3 # Comments: 0
+Article URL: https://marianogappa.github.io/software/2026/09/22/player-fingerprinting-in-the-age-of-ai-bots/ Comments URL: https://news.ycombinator.com/item?id=49798551 Points: 1 # Comments: 0
 
-📖 [Read original article](https://dsifry.github.io/harnesseval/)
+📖 [Read original article](https://marianogappa.github.io/software/2026/09/22/player-fingerprinting-in-the-age-of-ai-bots/)
 
 ---
 
-## 9. Something bugs me about AGI AI LLM, what if we back paddled 1000 year
+## 9. FAA debuts its AI-powered tool for managing flight traffic
 
-**Author:** vseedstriker  
-**Published:** 9/22/2026, 2:10:04 AM  
+**Author:** Betelbuddy  
+**Published:** 9/22/2026, 9:22:09 AM  
 **Categories:** -  
 
-Article URL: https://shatteringtheabyss.substack.com/p/llm-agi-god-congratulations-humanity Comments URL: https://news.ycombinator.com/item?id=49795990 Points: 2 # Comments: 2
+Article URL: https://www.politico.com/news/2026/09/21/faa-ai-tool-flight-traffic-01086258 Comments URL: https://news.ycombinator.com/item?id=49798477 Points: 1 # Comments: 1
 
-📖 [Read original article](https://shatteringtheabyss.substack.com/p/llm-agi-god-congratulations-humanity)
+📖 [Read original article](https://www.politico.com/news/2026/09/21/faa-ai-tool-flight-traffic-01086258)
 
 ---
 
-## 10. I built an autonomous accounting tool to let AI do my taxes
+## 10. Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences
 
-**Author:** 7eleven2007  
-**Published:** 9/22/2026, 1:45:53 AM  
+**Author:** giuliomagnifico  
+**Published:** 9/22/2026, 9:18:54 AM  
 **Categories:** -  
 
-Article URL: https://github.com/CodeGameDev29/KFAutonomousAccounting Comments URL: https://news.ycombinator.com/item?id=49795855 Points: 4 # Comments: 1
+Article URL: https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/ Comments URL: https://news.ycombinator.com/item?id=49798451 Points: 50 # Comments: 71
 
-📖 [Read original article](https://github.com/CodeGameDev29/KFAutonomousAccounting)
+📖 [Read original article](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/)
 
 ---
 
-## 11. Ask HN: Ceremonious Architecture in Times of AI
+## 11. Ask HN: What do you expect from the next 5 years of AI?
 
-**Author:** ruxian  
-**Published:** 9/22/2026, 1:44:58 AM  
+**Author:** msuniverse2026  
+**Published:** 9/22/2026, 9:17:12 AM  
 **Categories:** -  
 
-There's extensive literature on several software architecture patterns and styles whose benefits are well known, but which are often ignored due to the cost of their boilerplatic layers and abstractions.For example: Domain-Driven Design is cool, but it probably won't be applied to a CRUD-heavy start...
+Comments URL: https://news.ycombinator.com/item?id=49798435 Points: 3 # Comments: 5
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49795847)
+📖 [Read original article](https://news.ycombinator.com/item?id=49798435)
 
 ---
 
-## 12. We're Using AI Wrong. The Chat Window Sucks
+## 12. How AI is impacting who gets to cross borders
 
-**Author:** kenxle  
-**Published:** 9/22/2026, 1:44:17 AM  
+**Author:** geox  
+**Published:** 9/22/2026, 8:59:05 AM  
 **Categories:** -  
 
-Article URL: https://www.stclair.ai/blog/the-chat-window.html Comments URL: https://news.ycombinator.com/item?id=49795841 Points: 1 # Comments: 0
+Article URL: https://newsroom.taylorandfrancisgroup.com/how-ai-is-impacting-who-gets-to-cross-borders/ Comments URL: https://news.ycombinator.com/item?id=49798308 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.stclair.ai/blog/the-chat-window.html)
+📖 [Read original article](https://newsroom.taylorandfrancisgroup.com/how-ai-is-impacting-who-gets-to-cross-borders/)
 
 ---
 
-## 13. Outages across API, Grok.com, and Grok Build – API (us-east-1.api.x.ai) Status
+## 13. AI Mode for Emacs
 
-**Author:** corvad  
-**Published:** 9/22/2026, 1:28:42 AM  
+**Author:** xvilka  
+**Published:** 9/22/2026, 8:52:02 AM  
 **Categories:** -  
 
-Article URL: https://status.x.ai/api-us-east-1/INC578e0bc8 Comments URL: https://news.ycombinator.com/item?id=49795747 Points: 2 # Comments: 0
+Article URL: https://github.com/ai-mode/ai-mode Comments URL: https://news.ycombinator.com/item?id=49798270 Points: 1 # Comments: 0
 
-📖 [Read original article](https://status.x.ai/api-us-east-1/INC578e0bc8)
+📖 [Read original article](https://github.com/ai-mode/ai-mode)
 
 ---
 
-## 14. Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'
+## 14. Et Tu, Brute? Economic Misalignment in Personal AI Agents
 
-**Author:** CharlesW  
-**Published:** 9/22/2026, 1:24:49 AM  
+**Author:** sbulaev  
+**Published:** 9/22/2026, 8:07:09 AM  
 **Categories:** -  
 
-Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/ Comments URL: https://news.ycombinator.com/item?id=49795718 Points: 76 # Comments: 40
+Article URL: https://arxiv.org/abs/2609.24927 Comments URL: https://news.ycombinator.com/item?id=49797999 Points: 1 # Comments: 0
 
-📖 [Read original article](https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/)
+📖 [Read original article](https://arxiv.org/abs/2609.24927)
 
 ---
 
-## 15. Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC
+## 15. Police hugging AI so tight, soon we'll all be pre-crime suspects
 
-**Author:** gradus_ad  
-**Published:** 9/22/2026, 12:37:57 AM  
+**Author:** DeepLogin  
+**Published:** 9/22/2026, 7:57:18 AM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html Comments URL: https://news.ycombinator.com/item?id=49795386 Points: 5 # Comments: 0
+Article URL: https://responsiblestatecraft.org/pentagon-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49797940 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html)
+📖 [Read original article](https://responsiblestatecraft.org/pentagon-artificial-intelligence/)
 
 ---
 
-## 16. How Google is drafting AI chatbot laws around the country
+## 16. KeiroLabs – Web research infrastructure for AI agents
 
-**Author:** Exoristos  
-**Published:** 9/22/2026, 12:26:02 AM  
+**Author:** Akuma_9031  
+**Published:** 9/22/2026, 7:55:09 AM  
 **Categories:** -  
 
-Article URL: https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google Comments URL: https://news.ycombinator.com/item?id=49795275 Points: 3 # Comments: 0
+Article URL: https://keirolabs.cloud/ Comments URL: https://news.ycombinator.com/item?id=49797924 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google)
+📖 [Read original article](https://keirolabs.cloud/)
 
 ---
 
-## 17. What We Should Do During a Pause on AI Development
+## 17. Show HN: Z8Log – Structured logging your AI coding agent can query
 
-**Author:** nkalupahana  
-**Published:** 9/22/2026, 12:14:52 AM  
+**Author:** relatedcode  
+**Published:** 9/22/2026, 7:50:39 AM  
 **Categories:** -  
 
-Article URL: https://blog.saikat.us/p/what-we-should-do-during-a-pause Comments URL: https://news.ycombinator.com/item?id=49795193 Points: 3 # Comments: 0
+Article URL: https://z8log.com/welcome Comments URL: https://news.ycombinator.com/item?id=49797902 Points: 2 # Comments: 0
 
-📖 [Read original article](https://blog.saikat.us/p/what-we-should-do-during-a-pause)
+📖 [Read original article](https://z8log.com/welcome)
+
+---
+
+## 18. Create AI Image Free – No Sign-Up Needed
+
+**Author:** wsm123456  
+**Published:** 9/22/2026, 7:43:24 AM  
+**Categories:** -  
+
+Article URL: https://www.createaiimage.net/ Comments URL: https://news.ycombinator.com/item?id=49797849 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.createaiimage.net/)
+
+---
+
+## 19. How people are testing AI agents?
+
+**Author:** sanathbhat  
+**Published:** 9/22/2026, 7:36:18 AM  
+**Categories:** -  
+
+Comments URL: https://news.ycombinator.com/item?id=49797801 Points: 3 # Comments: 1
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49797801)
+
+---
+
+## 20. Move On – export your AI chats, file GDPR deletion, escalate if ignored
+
+**Author:** ur-grue  
+**Published:** 9/22/2026, 7:02:03 AM  
+**Categories:** -  
+
+Article URL: https://github.com/ur-grue/move-on Comments URL: https://news.ycombinator.com/item?id=49797598 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/ur-grue/move-on)
 
 ---
