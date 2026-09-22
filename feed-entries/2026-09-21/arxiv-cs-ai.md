@@ -341,7 +341,7 @@ arXiv:2609.21493v1 Announce Type: new Abstract: Multimodal large language models
 **Published:** 9/21/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.21509v1 Announce Type: new Abstract: When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How much tree-structured compositional content survives this bottleneck? We propose a round-trip protocol ...
+arXiv:2609.21509v2 Announce Type: new Abstract: When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How much tree-structured compositional content survives this bottleneck? We propose a round-trip protocol ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.21509)
 
@@ -437,7 +437,7 @@ arXiv:2609.21672v1 Announce Type: new Abstract: Large language models (LLMs) ach
 **Published:** 9/21/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.21677v1 Announce Type: new Abstract: Recent advances in large reasoning models (LRMs) have made machine unlearning more challenging, as protected facts or unsafe rationales may surface in intermediate chain-of-thought (CoT) traces before the final answer is produced. Existing unlearning o...
+arXiv:2609.21677v2 Announce Type: new Abstract: Recent advances in large reasoning models (LRMs) have made machine unlearning more challenging, as protected facts or unsafe rationales may surface in intermediate chain-of-thought (CoT) traces before the final answer is produced. Existing unlearning o...
 
 📖 [Read original article](https://arxiv.org/abs/2609.21677)
 
@@ -701,7 +701,7 @@ arXiv:2609.20904v1 Announce Type: cross Abstract: Hybrid motor-imagery brain-com
 **Published:** 9/21/2026, 4:00:00 AM  
 **Categories:** cs.HC, cs.AI, cs.CL, cs.CY  
 
-arXiv:2609.20989v1 Announce Type: cross Abstract: As generative AI is increasingly used as a source of personal financial guidance, understanding how people appraise such advice is important for supporting appropriate reliance. We conducted a randomized vignette experiment with 285 U.S. adults acros...
+arXiv:2609.20989v2 Announce Type: cross Abstract: As generative AI is increasingly used as a source of personal financial guidance, understanding how people appraise such advice is important for supporting appropriate reliance. We conducted a randomized vignette experiment with 285 U.S. adults acros...
 
 📖 [Read original article](https://arxiv.org/abs/2609.20989)
 
@@ -1157,7 +1157,7 @@ arXiv:2609.21561v1 Announce Type: cross Abstract: On-policy self-distillation pr
 **Published:** 9/21/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.CL  
 
-arXiv:2609.21562v1 Announce Type: cross Abstract: Coding agents can modify and test code across large software projects. Game development is a domain where agents must implement gameplay rules. A game can end in a valid state even after violating its rules during the run. Current game-development be...
+arXiv:2609.21562v2 Announce Type: cross Abstract: Coding agents can modify and test code across large software projects. Game development is a domain where agents must implement gameplay rules. A game can end in a valid state even after violating its rules during the run. Current game-development be...
 
 📖 [Read original article](https://arxiv.org/abs/2609.21562)
 
