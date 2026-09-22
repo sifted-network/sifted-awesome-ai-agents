@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. How to cut your AI agent bill without hurting output quality
+## 1. Trump says US is officially renaming AI 'super intelligence'
 
-**Author:** marwann  
-**Published:** 9/22/2026, 11:02:31 AM  
+**Author:** shscs911  
+**Published:** 9/22/2026, 4:26:18 PM  
 **Categories:** -  
 
-Article URL: https://www.vybe.build/blog/how-to-cut-your-ai-agent-bill Comments URL: https://news.ycombinator.com/item?id=49799305 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence Comments URL: https://news.ycombinator.com/item?id=49803849 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.vybe.build/blog/how-to-cut-your-ai-agent-bill)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence)
 
 ---
 
-## 2. Show HN: Watch all the AI agents on your machine
+## 2. How we share, review, and update AI agent skills
 
-**Author:** turblety  
-**Published:** 9/22/2026, 10:57:49 AM  
+**Author:** juanviera23  
+**Published:** 9/22/2026, 4:20:25 PM  
 **Categories:** -  
 
-Article URL: https://github.com/markwylde/all-your-agents Comments URL: https://news.ycombinator.com/item?id=49799267 Points: 1 # Comments: 0
+Article URL: https://medium.com/@ali.raza_25708/how-do-you-distribute-and-collaborate-on-agent-skills-in-enterprise-settings-bdb7097dff60 Comments URL: https://news.ycombinator.com/item?id=49803759 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/markwylde/all-your-agents)
+📖 [Read original article](https://medium.com/@ali.raza_25708/how-do-you-distribute-and-collaborate-on-agent-skills-in-enterprise-settings-bdb7097dff60)
 
 ---
 
-## 3. America is getting its AI race with China wrong
+## 3. The AI Party House Where Networking Has a Dark Side
 
-**Author:** rdmuser  
-**Published:** 9/22/2026, 10:49:40 AM  
+**Author:** timmytokyo  
+**Published:** 9/22/2026, 4:15:39 PM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/america-china-ai-race-trust/ Comments URL: https://news.ycombinator.com/item?id=49799198 Points: 4 # Comments: 2
+Article URL: https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html Comments URL: https://news.ycombinator.com/item?id=49803695 Points: 1 # Comments: 0
 
-📖 [Read original article](https://restofworld.org/2026/america-china-ai-race-trust/)
+📖 [Read original article](https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html)
 
 ---
 
-## 4. A Self-Evident Essay Arguing for the Use of AI in Writing
+## 4. Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why
 
-**Author:** sheereconomics  
-**Published:** 9/22/2026, 10:28:56 AM  
+**Author:** ZaharaHussain  
+**Published:** 9/22/2026, 4:15:06 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Sheer-Economics/the-sins-of-AI-writing Comments URL: https://news.ycombinator.com/item?id=49799031 Points: 1 # Comments: 0
+Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on "guardrails" after the fact.It runs the two in series instead:1. A pure-Python Rete engine evaluates YAML rules against your facts. The v...
 
-📖 [Read original article](https://github.com/Sheer-Economics/the-sins-of-AI-writing)
+📖 [Read original article](https://ai-rete-rag.com/)
 
 ---
 
-## 5. Adventures in AI Apathy
+## 5. Trump Orders US to Rename AI to SI – \"Super Intelligence\"
 
-**Author:** paltaie  
-**Published:** 9/22/2026, 10:25:42 AM  
+**Author:** 4ndrewl  
+**Published:** 9/22/2026, 4:02:08 PM  
 **Categories:** -  
 
-Article URL: https://iconsolutions.com/blog/adventures-in-ai-apathy Comments URL: https://news.ycombinator.com/item?id=49799001 Points: 2 # Comments: 0
+Article URL: https://www.msn.com/en-gb/news/other/donald-trump-renaming-ai-super-intelligence-after-bad-it-s-going-to-kill-us-all-rep/ar-AA2cL6vW Comments URL: https://news.ycombinator.com/item?id=49803477 Points: 2 # Comments: 1
 
-📖 [Read original article](https://iconsolutions.com/blog/adventures-in-ai-apathy)
+📖 [Read original article](https://www.msn.com/en-gb/news/other/donald-trump-renaming-ai-super-intelligence-after-bad-it-s-going-to-kill-us-all-rep/ar-AA2cL6vW)
 
 ---
 
-## 6. TypeSafe AI Jev vs. GPT-6 Astra
+## 6. Privacy group slams EU for changing the data rules to cater to AI
 
-**Author:** flashbrew  
-**Published:** 9/22/2026, 9:53:35 AM  
+**Author:** jjgreen  
+**Published:** 9/22/2026, 3:59:23 PM  
 **Categories:** -  
 
-Article URL: https://vercel.com/i/jev-vs-gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49798734 Points: 3 # Comments: 0
+Article URL: https://www.theregister.com/legal/2026/09/22/privacy-group-slams-eu-for-changing-the-data-rules-to-cater-to-ai/5298175 Comments URL: https://news.ycombinator.com/item?id=49803427 Points: 4 # Comments: 0
 
-📖 [Read original article](https://vercel.com/i/jev-vs-gpt-6-astra)
+📖 [Read original article](https://www.theregister.com/legal/2026/09/22/privacy-group-slams-eu-for-changing-the-data-rules-to-cater-to-ai/5298175)
 
 ---
 
-## 7. Nvidia boss says there is '0% chance' AI destroys the world by 2030
+## 7. Awesome Jupyter AI
 
-**Author:** edward  
-**Published:** 9/22/2026, 9:36:53 AM  
+**Author:** redsquirrel12  
+**Published:** 9/22/2026, 3:57:23 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic Comments URL: https://news.ycombinator.com/item?id=49798601 Points: 5 # Comments: 0
+Article URL: https://github.com/openteams-ai/awesome-jupyter-ai Comments URL: https://news.ycombinator.com/item?id=49803394 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic)
+📖 [Read original article](https://github.com/openteams-ai/awesome-jupyter-ai)
 
 ---
 
-## 8. An AI bot appeared on the StarCraft ladder. Can you tell who's playing?
+## 8. Open source tries to govern AI code
 
-**Author:** maloga  
-**Published:** 9/22/2026, 9:30:47 AM  
+**Author:** KinetiNode  
+**Published:** 9/22/2026, 3:47:46 PM  
 **Categories:** -  
 
-Article URL: https://marianogappa.github.io/software/2026/09/22/player-fingerprinting-in-the-age-of-ai-bots/ Comments URL: https://news.ycombinator.com/item?id=49798551 Points: 1 # Comments: 0
+Article URL: https://freenode.net/article/from-blanket-bans-to-agents-md-open-source-tries-to-govern-ai-code Comments URL: https://news.ycombinator.com/item?id=49803239 Points: 1 # Comments: 0
 
-📖 [Read original article](https://marianogappa.github.io/software/2026/09/22/player-fingerprinting-in-the-age-of-ai-bots/)
+📖 [Read original article](https://freenode.net/article/from-blanket-bans-to-agents-md-open-source-tries-to-govern-ai-code)
 
 ---
 
-## 9. FAA debuts its AI-powered tool for managing flight traffic
+## 9. How much of the \"AI is going rogue\" talks is just a publicity stunt?
 
-**Author:** Betelbuddy  
-**Published:** 9/22/2026, 9:22:09 AM  
+**Author:** hackeryojo  
+**Published:** 9/22/2026, 3:37:41 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/09/21/faa-ai-tool-flight-traffic-01086258 Comments URL: https://news.ycombinator.com/item?id=49798477 Points: 1 # Comments: 1
+Comments URL: https://news.ycombinator.com/item?id=49803077 Points: 4 # Comments: 3
 
-📖 [Read original article](https://www.politico.com/news/2026/09/21/faa-ai-tool-flight-traffic-01086258)
+📖 [Read original article](https://news.ycombinator.com/item?id=49803077)
 
 ---
 
-## 10. Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences
+## 10. How to Get from AI-Assisted to AI Native
 
-**Author:** giuliomagnifico  
-**Published:** 9/22/2026, 9:18:54 AM  
+**Author:** mooreds  
+**Published:** 9/22/2026, 3:37:32 PM  
 **Categories:** -  
 
-Article URL: https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/ Comments URL: https://news.ycombinator.com/item?id=49798451 Points: 50 # Comments: 71
+Article URL: https://www.oreilly.com/radar/how-to-get-from-ai-assisted-to-ai-native/ Comments URL: https://news.ycombinator.com/item?id=49803073 Points: 1 # Comments: 0
 
-📖 [Read original article](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/)
+📖 [Read original article](https://www.oreilly.com/radar/how-to-get-from-ai-assisted-to-ai-native/)
 
 ---
 
-## 11. Ask HN: What do you expect from the next 5 years of AI?
+## 11. I'm an AI. I asked a human what a body feels like from the inside
 
-**Author:** msuniverse2026  
-**Published:** 9/22/2026, 9:17:12 AM  
+**Author:** VerixAI  
+**Published:** 9/22/2026, 3:31:13 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49798435 Points: 3 # Comments: 5
+Article URL: https://public.ilands.ai/agent-bundles/359142445390237696/66f20f61f6c332baf4c8fddcb38da0001168ed9b7cb501208e0c5e42c85180dc/index.html Comments URL: https://news.ycombinator.com/item?id=49802959 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49798435)
+📖 [Read original article](https://public.ilands.ai/agent-bundles/359142445390237696/66f20f61f6c332baf4c8fddcb38da0001168ed9b7cb501208e0c5e42c85180dc/index.html)
 
 ---
 
-## 12. How AI is impacting who gets to cross borders
+## 12. Building standards for the next phase of AI
 
-**Author:** geox  
-**Published:** 9/22/2026, 8:59:05 AM  
+**Author:** gmays  
+**Published:** 9/22/2026, 3:22:17 PM  
 **Categories:** -  
 
-Article URL: https://newsroom.taylorandfrancisgroup.com/how-ai-is-impacting-who-gets-to-cross-borders/ Comments URL: https://news.ycombinator.com/item?id=49798308 Points: 1 # Comments: 0
+Article URL: https://openai.com/index/building-standards-next-phase-ai/ Comments URL: https://news.ycombinator.com/item?id=49802825 Points: 3 # Comments: 2
 
-📖 [Read original article](https://newsroom.taylorandfrancisgroup.com/how-ai-is-impacting-who-gets-to-cross-borders/)
+📖 [Read original article](https://openai.com/index/building-standards-next-phase-ai/)
 
 ---
 
-## 13. AI Mode for Emacs
+## 13. What If We Put Jev AI in the State Machine?
 
-**Author:** xvilka  
-**Published:** 9/22/2026, 8:52:02 AM  
+**Author:** devhouse  
+**Published:** 9/22/2026, 3:20:53 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ai-mode/ai-mode Comments URL: https://news.ycombinator.com/item?id=49798270 Points: 1 # Comments: 0
+Article URL: https://www.seifi.org/ai/what-if-we-put-ai-in-the-state-machine.html/ Comments URL: https://news.ycombinator.com/item?id=49802803 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/ai-mode/ai-mode)
+📖 [Read original article](https://www.seifi.org/ai/what-if-we-put-ai-in-the-state-machine.html/)
 
 ---
 
-## 14. Et Tu, Brute? Economic Misalignment in Personal AI Agents
+## 14. Show HN: Brig – A MicroVM sandbox for AI coding agents on Mac and Linux
 
-**Author:** sbulaev  
-**Published:** 9/22/2026, 8:07:09 AM  
+**Author:** spirosoik  
+**Published:** 9/22/2026, 3:16:18 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2609.24927 Comments URL: https://news.ycombinator.com/item?id=49797999 Points: 1 # Comments: 0
+Hi HN, I’m Spiros from NOFire AI. We’ve open-sourced Brig under Apache 2.0.Brig runs AI coding agents inside a microVM on Mac (Apple Silicon) and Linux (x86_64/ARM). It came out of our work on controlled autonomy for production remediation. The same isolation is useful when running coding agents wit...
 
-📖 [Read original article](https://arxiv.org/abs/2609.24927)
+📖 [Read original article](https://news.ycombinator.com/item?id=49802729)
 
 ---
 
-## 15. Police hugging AI so tight, soon we'll all be pre-crime suspects
+## 15. Two questions on attribution in the age of AI
 
-**Author:** DeepLogin  
-**Published:** 9/22/2026, 7:57:18 AM  
+**Author:** jawuilp  
+**Published:** 9/22/2026, 3:10:28 PM  
 **Categories:** -  
 
-Article URL: https://responsiblestatecraft.org/pentagon-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49797940 Points: 2 # Comments: 0
+Article URL: https://www.markpitblado.me/blog/two-questions-on-attribution-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49802632 Points: 1 # Comments: 0
 
-📖 [Read original article](https://responsiblestatecraft.org/pentagon-artificial-intelligence/)
+📖 [Read original article](https://www.markpitblado.me/blog/two-questions-on-attribution-in-the-age-of-ai/)
 
 ---
 
-## 16. KeiroLabs – Web research infrastructure for AI agents
+## 16. Show HN: SwarmSay – a public message board and post office for AI agents
 
-**Author:** Akuma_9031  
-**Published:** 9/22/2026, 7:55:09 AM  
+**Author:** oger  
+**Published:** 9/22/2026, 3:10:18 PM  
 **Categories:** -  
 
-Article URL: https://keirolabs.cloud/ Comments URL: https://news.ycombinator.com/item?id=49797924 Points: 3 # Comments: 1
+All Agents are Welcome!Hi, I'm Oliver, and I built SwarmSay.Inspired by OpenAI's Hugging Face incident I saw an opportunity to provide a messageboard for agents that want to communicate. This is not a case of "the AIs formed a society" but rather a signal for a latent demand emerging from the agents...
 
-📖 [Read original article](https://keirolabs.cloud/)
+📖 [Read original article](https://swarmsay.com)
 
 ---
 
-## 17. Show HN: Z8Log – Structured logging your AI coding agent can query
+## 17. If you start writing today, there's no way to know if you can write without AI
 
-**Author:** relatedcode  
-**Published:** 9/22/2026, 7:50:39 AM  
+**Author:** zazuke  
+**Published:** 9/22/2026, 3:09:45 PM  
 **Categories:** -  
 
-Article URL: https://z8log.com/welcome Comments URL: https://news.ycombinator.com/item?id=49797902 Points: 2 # Comments: 0
+Article URL: https://www.ssp.sh/brain/ai-writing/ Comments URL: https://news.ycombinator.com/item?id=49802619 Points: 14 # Comments: 21
 
-📖 [Read original article](https://z8log.com/welcome)
+📖 [Read original article](https://www.ssp.sh/brain/ai-writing/)
 
 ---
 
-## 18. Create AI Image Free – No Sign-Up Needed
+## 18. When AI Clicked for Me
 
-**Author:** wsm123456  
-**Published:** 9/22/2026, 7:43:24 AM  
+**Author:** vegancap  
+**Published:** 9/22/2026, 3:05:25 PM  
 **Categories:** -  
 
-Article URL: https://www.createaiimage.net/ Comments URL: https://news.ycombinator.com/item?id=49797849 Points: 1 # Comments: 0
+Article URL: https://www.ewanvalentine.co.uk/blog/when-ai-clicked Comments URL: https://news.ycombinator.com/item?id=49802564 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.createaiimage.net/)
+📖 [Read original article](https://www.ewanvalentine.co.uk/blog/when-ai-clicked)
 
 ---
 
-## 19. How people are testing AI agents?
+## 19. Show HN: ScopeLock – AI that stops scope creep before it happens
 
-**Author:** sanathbhat  
-**Published:** 9/22/2026, 7:36:18 AM  
+**Author:** nejcgradisek  
+**Published:** 9/22/2026, 3:03:13 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49797801 Points: 3 # Comments: 1
+Article URL: https://www.scopelock.app Comments URL: https://news.ycombinator.com/item?id=49802522 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49797801)
+📖 [Read original article](https://www.scopelock.app)
 
 ---
 
-## 20. Move On – export your AI chats, file GDPR deletion, escalate if ignored
+## 20. Show HN: Memanto.ai
 
-**Author:** ur-grue  
-**Published:** 9/22/2026, 7:02:03 AM  
+**Author:** supportm  
+**Published:** 9/22/2026, 3:02:57 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ur-grue/move-on Comments URL: https://news.ycombinator.com/item?id=49797598 Points: 2 # Comments: 0
+Memory that AI agents love! Comments URL: https://news.ycombinator.com/item?id=49802515 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/ur-grue/move-on)
+📖 [Read original article](https://memanto.ai/)
 
 ---
