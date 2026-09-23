@@ -257,7 +257,7 @@ arXiv:2609.22156v1 Announce Type: new Abstract: Speculative decoding in Mixture-
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL, cs.CR  
 
-arXiv:2609.22157v1 Announce Type: new Abstract: KV-cache eviction methods decide which tokens to keep but not whether to evict at all, so a benchmark mean can hide a class of inputs on which compression drives accuracy from 99\% to 0\%. We reframe eviction as a per-input admission decision and show ...
+arXiv:2609.22157v2 Announce Type: new Abstract: KV-cache eviction can do more than compress. In long-context LLMs, keeping only some cached tokens sometimes matches or exceeds full-cache accuracy, because many redundant prefill tokens otherwise dilute attention away from the tokens that carry the an...
 
 📖 [Read original article](https://arxiv.org/abs/2609.22157)
 
@@ -269,7 +269,7 @@ arXiv:2609.22157v1 Announce Type: new Abstract: KV-cache eviction methods decide
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.22158v1 Announce Type: new Abstract: Key-value (KV) caching is essential for efficient autoregressive large language model (LLM) inference, but the cache grows linearly with context length, increasing storage and decoding costs. KV cache compression mitigates this cost by retaining only a...
+arXiv:2609.22158v2 Announce Type: new Abstract: Key-value (KV) caching is essential for efficient autoregressive large language model (LLM) inference, but the cache grows linearly with context length, increasing storage and decoding costs. KV cache compression mitigates this cost by retaining only a...
 
 📖 [Read original article](https://arxiv.org/abs/2609.22158)
 
@@ -373,11 +373,11 @@ arXiv:2609.22177v1 Announce Type: new Abstract: Tile-matching puzzle games serve
 
 ## 31. Beyond Task Completion: Training Capable and Safe Computer-Use Agents
 
-**Author:** Zeyu Kang, Zhenyun Yin, Yang Zhang, Shan He, Shanzhe Lei, Yanjiu Zhong, Xinquan Chen, Yuhong Wang  
+**Author:** Zeyu Kang, Zhenyun Yin, Yang Zhang, Shan He, Shanzhe Lei, Yanjiu Zhong, Xinquan Chen, Xuhong Wang  
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2609.22178v1 Announce Type: new Abstract: Computer-use agents (CUAs) have made rapid progress in completing complex tasks through graphical user interfaces, yet post-training centered on task success alone does not induce reliable safety behavior. A reliable CUA must condition its execution on...
+arXiv:2609.22178v2 Announce Type: new Abstract: Computer-use agents (CUAs) have made rapid progress in completing complex tasks through graphical user interfaces, yet post-training centered on task success alone does not induce reliable safety behavior. A reliable CUA must condition its execution on...
 
 📖 [Read original article](https://arxiv.org/abs/2609.22178)
 
@@ -791,13 +791,13 @@ arXiv:2609.22360v1 Announce Type: new Abstract: Electrical submersible pumps (ES
 
 ---
 
-## 66. Common Cause, Not Cross-Attention: Blocking Visual Shortcuts in Audio-Video Generation
+## 66. Intervention, Not Shared Latents: Blocking Visual Shortcuts in Audio-Video Generation
 
-**Author:** Jian Xu, Delu Zeng, John Paisley, Qibin Zhao  
+**Author:** Jian Xu, Delu Zeng, John Paisley  
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.GR, cs.SD  
 
-arXiv:2609.22361v1 Announce Type: new Abstract: Joint audio--video generators are trained on data in which what an event looks like and what it sounds like are strongly, often spuriously, correlated: a particular material, texture, or object appearance co-occurs with a particular sound. This paper i...
+arXiv:2609.22361v2 Announce Type: new Abstract: Joint audio--video (AV) generators are trained on data in which \emph{what an event looks like} and \emph{what it sounds like} are spuriously correlated. We present a \emph{controlled causal study} of the resulting failure mode. In an AV structural cau...
 
 📖 [Read original article](https://arxiv.org/abs/2609.22361)
 
@@ -1057,11 +1057,11 @@ arXiv:2609.22819v1 Announce Type: new Abstract: Counterfactual tool evaluation m
 
 ## 88. Beyond Average Error through Oracle-Informed Stress Tests for Time-Series Forecasting
 
-**Author:** Xu Lin (Tsinghua University, Beijing, China), Runheng Zuo (Tsinghua University, Beijing, China), Shengxuan Xu (Tsinghua University, Beijing, China), Qitai Tan (Tsinghua University, Beijing, China), Hongyu Lin (Tsinghua University, Beijing, China), Xiao-Ping Zhang (Tsinghua University, Beijing, China)  
+**Author:** Xu Lin, Runheng Zuo, Shengxuan Xu, Qitai Tan, Hongyu Lin, Xiao-Ping Zhang  
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.22820v1 Announce Type: new Abstract: Average squared error cannot reveal whether forecasting performance degrades because the future becomes less predictable or because forecasts move farther from the conditional mean. We introduce paired, mechanism-controlled stress tests that decompose ...
+arXiv:2609.22820v2 Announce Type: new Abstract: Average squared error cannot reveal whether forecasting performance degrades because the future becomes less predictable or because forecasts move farther from the conditional mean. We introduce paired, mechanism-controlled stress tests that decompose ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.22820)
 
@@ -1085,7 +1085,7 @@ arXiv:2609.22833v1 Announce Type: new Abstract: We study personalized federated 
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.22836v1 Announce Type: new Abstract: Time series foundation models (TSFMs) have recently delivered impressive zero-shot performance across diverse forecasting tasks. However, real-world decision-making frequently relies on \emph{irregular multivariate time series} (IMTS), where inconsiste...
+arXiv:2609.22836v2 Announce Type: new Abstract: Time series foundation models (TSFMs) have recently delivered impressive zero-shot performance across diverse forecasting tasks. However, real-world decision-making frequently relies on \emph{irregular multivariate time series} (IMTS), where inconsiste...
 
 📖 [Read original article](https://arxiv.org/abs/2609.22836)
 
@@ -2297,7 +2297,7 @@ arXiv:2609.24250v1 Announce Type: new Abstract: The shipping industry has a sign
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.24259v1 Announce Type: new Abstract: The effectiveness of agent memory ultimately depends on whether the underlying LLM gives each memory in context an appropriate degree of influence over its response. Yet this capability has remained largely overlooked. To assess this capability, we int...
+arXiv:2609.24259v2 Announce Type: new Abstract: The effectiveness of agent memory ultimately depends on whether the underlying LLM gives each memory in context an appropriate degree of influence over its response. Yet this capability has remained largely overlooked. To assess this capability, we int...
 
 📖 [Read original article](https://arxiv.org/abs/2609.24259)
 
@@ -4571,13 +4571,13 @@ arXiv:2609.23917v1 Announce Type: cross Abstract: Chess involves complex reasoni
 
 ---
 
-## 381. Density-Ratio Rescoring for Imbalanced Classification
+## 381. Density-Ratio Rescoring for Imbalanced Classification Using Raking Duals and Classifier Scores
 
 **Author:** Dongha Kim, Seunghwan Park  
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2609.23926v1 Announce Type: cross Abstract: Density-Ratio Rescoring (DRR) augments a classifier trained at the original class prior with a survey-raking dual score. Raking reweights the majority sample to match minority feature moments within a tolerance. DRR marginally standardizes the dual a...
+arXiv:2609.23926v2 Announce Type: cross Abstract: Density-Ratio Rescoring (DRR) augments a classifier trained at the original class prior with a survey-raking dual score. Raking reweights the majority sample to match minority feature moments within a tolerance. DRR marginally standardizes the dual a...
 
 📖 [Read original article](https://arxiv.org/abs/2609.23926)
 
@@ -4961,7 +4961,7 @@ arXiv:2609.24556v1 Announce Type: cross Abstract: Principal Component Analysis (
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.DS, cs.LG, math.OC  
 
-arXiv:2609.24569v1 Announce Type: cross Abstract: Over the past decade, a growing body of research has shown that $\gamma$-weak submodularity broadly arises in numerous subset selection tasks, including feature selection, neural network pruning, and video summarization. Despite its prevalence, maxim...
+arXiv:2609.24569v2 Announce Type: cross Abstract: Over the past decade, a growing body of research has shown that $\gamma$-weak submodularity broadly arises in numerous subset selection tasks, including feature selection, neural network pruning, and video summarization. Despite its prevalence, maxim...
 
 📖 [Read original article](https://arxiv.org/abs/2609.24569)
 
@@ -5053,11 +5053,11 @@ arXiv:2609.24791v1 Announce Type: cross Abstract: Challenging behaviors includin
 
 ## 421. Mobile Imaging Solutions for Medical Diagnosis: Trends and Applications
 
-**Author:** Syed Muhammad Ibne Zulfiker, Tanzima Hashem, Fariha Tabassum Islam, Md Sultanul Arifin, Khandker Aftarul Islam, Nishat Anjum Bristy, Faria Huq, Priyeta Saha, Syeda Nahida Akter, Arpita Saha  
+**Author:** Syed Muhammad Ibne Zulfiker, Fariha Tabassum Islam, Md Sultanul Arifin, Khandker Aftarul Islam, Nishat Anjum Bristy, Faria Huq, Priyeta Saha, Syeda Nahida Akter, Arpita Saha, Tanzima Hashem  
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2609.24814v1 Announce Type: cross Abstract: Advances in processing power, camera technologies, and mobile image analysis have made smartphones and other mobile devices, such as laptops, increasingly suitable for medical diagnosis and healthcare applications. Researchers have developed low-cost...
+arXiv:2609.24814v2 Announce Type: cross Abstract: Advances in processing power, camera technologies, and mobile image analysis have made smartphones and other mobile devices, such as laptops, increasingly suitable for medical diagnosis and healthcare applications. Researchers have developed low-cost...
 
 📖 [Read original article](https://arxiv.org/abs/2609.24814)
 
@@ -5717,7 +5717,7 @@ arXiv:2605.25548v2 Announce Type: replace Abstract: Dynamic graph neural network
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2605.26446v2 Announce Type: replace Abstract: Graph anomaly detection (GAD) commonly relies on message passing to jointly encode node attributes and neighborhood context. However, once the two are mixed, an abnormal post-encoding state may reflect either an intrinsic node deviation or incompat...
+arXiv:2605.26446v3 Announce Type: replace Abstract: Graph anomaly detection (GAD) commonly relies on message passing to jointly encode node attributes and neighborhood context. However, once the two are mixed, an abnormal post-encoding state may reflect either an intrinsic node deviation or incompat...
 
 📖 [Read original article](https://arxiv.org/abs/2605.26446)
 
@@ -6113,7 +6113,7 @@ arXiv:2609.05435v2 Announce Type: replace Abstract: Can language agents continua
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2609.06100v2 Announce Type: replace Abstract: Verifiable rewards improve language models through reliable task-level feedback, but methods based on Group Relative Policy Optimization (GRPO) apply a sequence-level advantage uniformly across all tokens. This coarse credit assignment reinforces o...
+arXiv:2609.06100v3 Announce Type: replace Abstract: Verifiable rewards improve language models through reliable task-level feedback, but methods based on Group Relative Policy Optimization (GRPO) apply a sequence-level advantage uniformly across all tokens. This coarse credit assignment reinforces o...
 
 📖 [Read original article](https://arxiv.org/abs/2609.06100)
 
@@ -6305,7 +6305,7 @@ arXiv:2609.21457v2 Announce Type: replace Abstract: Deep neural architectures ar
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.21932v2 Announce Type: replace Abstract: Joint remaining useful life (RUL) prediction and capacity estimation require representations of both gradual degradation and recent battery behavior. This paper presents a cross-expert framework using partial-charging measurements without requiring...
+arXiv:2609.21932v3 Announce Type: replace Abstract: Joint remaining useful life (RUL) prediction and capacity estimation require representations of both gradual degradation and recent battery behavior. This paper presents a cross-expert framework using partial-charging measurements without requiring...
 
 📖 [Read original article](https://arxiv.org/abs/2609.21932)
 
@@ -6425,7 +6425,7 @@ arXiv:2411.05005v2 Announce Type: replace-cross Abstract: Beyond high-fidelity i
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.GT, cs.AI, cs.LG  
 
-arXiv:2412.07813v4 Announce Type: replace-cross Abstract: To alleviate the training burden in federated learning while enhancing convergence speed, Split Federated Learning (SFL) has emerged as a promising approach by combining the advantages of federated and split learning. However, recent studies ...
+arXiv:2412.07813v5 Announce Type: replace-cross Abstract: To alleviate the training burden in federated learning while enhancing convergence speed, Split Federated Learning (SFL) has emerged as a promising approach by combining the advantages of federated and split learning. However, despite its adv...
 
 📖 [Read original article](https://arxiv.org/abs/2412.07813)
 
@@ -6653,7 +6653,7 @@ arXiv:2511.07260v3 Announce Type: replace-cross Abstract: Ad hoc teamwork (AHT) 
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** math.AT, cs.CG, cs.LG  
 
-arXiv:2512.23348v3 Announce Type: replace-cross Abstract: We introduce a data-analysis framework based on filtrations of finite topological spaces. Starting from a finite metric data set, we construct a sequence of coarsening topologies on the same set of points. These topologies give persistence mo...
+arXiv:2512.23348v4 Announce Type: replace-cross Abstract: We introduce a data-analysis framework based on filtrations of finite topological spaces. Starting from a finite metric data set, we construct a sequence of coarsening topologies on the same set of points. These topologies give persistence mo...
 
 📖 [Read original article](https://arxiv.org/abs/2512.23348)
 
@@ -7193,7 +7193,7 @@ arXiv:2607.14293v2 Announce Type: replace-cross Abstract: Ionizing radiation fro
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2607.22068v2 Announce Type: replace-cross Abstract: Multi-branch architectures and CNN-Transformer fusion are widely believed to improve vehicle re-identification (Re-ID) by combining complementary representations. We revisit this for a DINOv3-pretrained backbone. A single DINOv3-pretrained Co...
+arXiv:2607.22068v3 Announce Type: replace-cross Abstract: Multi-branch architectures and CNN-Transformer fusion are widely believed to improve vehicle re-identification (Re-ID) by combining complementary representations. We revisit this for a DINOv3-pretrained backbone. A single DINOv3-pretrained Co...
 
 📖 [Read original article](https://arxiv.org/abs/2607.22068)
 
@@ -7613,7 +7613,7 @@ arXiv:2609.20761v2 Announce Type: replace-cross Abstract: World Action Models (W
 **Published:** 9/22/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.LG  
 
-arXiv:2609.20812v2 Announce Type: replace-cross Abstract: Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to overclaim task completio...
+arXiv:2609.20812v3 Announce Type: replace-cross Abstract: Frontier coding agents are increasingly trusted to work autonomously for long periods of time, yet what they actually did is often hard to tell from their final response. We quantify the propensity of such agents to overclaim task completion,...
 
 📖 [Read original article](https://arxiv.org/abs/2609.20812)
 
