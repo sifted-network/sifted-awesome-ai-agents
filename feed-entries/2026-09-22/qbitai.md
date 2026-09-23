@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-22"
 date: "2026-09-22"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-09-22
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ Hugging Face CEO：「太棒了」
 9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”
 
 📖 [Read original article](https://www.qbitai.com/2026/09/493865.html)
-
----
-
-## 10. 首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求
-
-**Author:** 量子位的朋友们  
-**Published:** 9/22/2026, 8:35:24 AM  
-**Categories:** 资讯, 央企量子空间  
-
-9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行
-
-📖 [Read original article](https://www.qbitai.com/2026/09/493819.html)
 
 ---
