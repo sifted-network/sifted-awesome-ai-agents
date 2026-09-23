@@ -2,16 +2,40 @@
 title: "MarkTechPost - 2026-09-23"
 date: "2026-09-23"
 source: "MarkTechPost"
-count: 4
+count: 6
 ---
 
 # MarkTechPost - 2026-09-23
 
-4 items collected.
+6 items collected.
 
 ---
 
-## 1. Nokia Open-Sources AnyJev: A Training-Free Layer That Turns Any Open LLM Into a Calibrated Decision Model
+## 1. Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design
+
+**Author:** Asif Razzaq  
+**Published:** 9/23/2026, 8:20:12 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Audio Language Model, Editors Pick, Language Model, New Releases, Staff, Tech News, Technology, Voice AI  
+
+Google has released Gemini 3.8 Flash TTS and Flash-Lite TTS, 2 new text-to-speech models available now through the Gemini API and Google AI Studio. Flash TTS designs new voices from natural language prompts across 100+ languages. It ranks #1 on Hume AI's Voice Design Benchmark with a score of 71.4. ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/)
+
+---
+
+## 2. NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Open-Weight Model That Tracks 8 Speakers in Real Time
+
+**Author:** Asif Razzaq  
+**Published:** 9/23/2026, 6:17:14 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Audio Language Model, Editors Pick, For Devs, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Staff, Tech News, Technology, Voice AI  
+
+NVIDIA has released Nemotron 3 Diarization, an open-weight speaker diarization model on Hugging Face. It answers one question about any conversation: who spoke when. The 100M-parameter model tracks up to 8 speakers, including when voices overlap. One checkpoint handles both offline recordings and re...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/)
+
+---
+
+## 3. Nokia Open-Sources AnyJev: A Training-Free Layer That Turns Any Open LLM Into a Calibrated Decision Model
 
 **Author:** Asif Razzaq  
 **Published:** 9/23/2026, 7:09:38 AM  
@@ -23,7 +47,7 @@ Nokia&#8217;s applied research team has open-sourced AnyJev, a Python library th
 
 ---
 
-## 2. Kyutai Releases Voice of Reason: A Speech-Native Model that Solves Spoken Math with Reinforcement Learning
+## 4. Kyutai Releases Voice of Reason: A Speech-Native Model that Solves Spoken Math with Reinforcement Learning
 
 **Author:** Asif Razzaq  
 **Published:** 9/23/2026, 6:33:18 AM  
@@ -35,7 +59,7 @@ Kyutai has released Voice of Reason, 2 open-weight speech-to-speech models built
 
 ---
 
-## 3. OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks
+## 5. OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks
 
 **Author:** Sana Hassan  
 **Published:** 9/23/2026, 5:18:36 AM  
@@ -47,7 +71,7 @@ OpenAI has released GPT-6 Sol and GPT-6 Luna, 2 lower-cost models trained with m
 
 ---
 
-## 4. SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone
+## 6. SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone
 
 **Author:** Asif Razzaq  
 **Published:** 9/23/2026, 4:50:40 AM  
