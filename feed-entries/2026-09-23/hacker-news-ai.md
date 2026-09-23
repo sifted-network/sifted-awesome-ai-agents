@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The (AI) Nature of the Firm
+## 1. Meta testing a 'human concierge' for its new personal AI agent, Muse
 
-**Author:** iciac  
-**Published:** 9/23/2026, 10:24:04 AM  
+**Author:** 2143  
+**Published:** 9/23/2026, 4:14:08 PM  
 **Categories:** -  
 
-Article URL: https://camerongordon0.substack.com/p/the-ai-nature-of-the-firm Comments URL: https://news.ycombinator.com/item?id=49813922 Points: 3 # Comments: 0
+Article URL: https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/ Comments URL: https://news.ycombinator.com/item?id=49818317 Points: 2 # Comments: 0
 
-📖 [Read original article](https://camerongordon0.substack.com/p/the-ai-nature-of-the-firm)
+📖 [Read original article](https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/)
 
 ---
 
-## 2. Show HN: Life Forge – Open-source flight simulator for autonomous AI agents
+## 2. Trump reveals millions of dollars' worth of share deals in big tech and AI
 
-**Author:** mdzariflatif  
-**Published:** 9/23/2026, 10:17:33 AM  
+**Author:** tartoran  
+**Published:** 9/23/2026, 4:06:49 PM  
 **Categories:** -  
 
-Article URL: https://github.com/zariffromlatif/life-forge Comments URL: https://news.ycombinator.com/item?id=49813880 Points: 2 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/c6p3kxpp8lezo Comments URL: https://news.ycombinator.com/item?id=49818187 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/zariffromlatif/life-forge)
+📖 [Read original article](https://www.bbc.com/news/articles/c6p3kxpp8lezo)
 
 ---
 
-## 3. What Is an AI Software Factory? Lessons from 3 Client Deployments
+## 3. Is AI killing the forums and wikis your IT team relies on?
 
-**Author:** altras  
-**Published:** 9/23/2026, 9:57:06 AM  
+**Author:** MC995  
+**Published:** 9/23/2026, 3:57:02 PM  
 **Categories:** -  
 
-Article URL: https://camplight.net/ai/ai-software-factory/ Comments URL: https://news.ycombinator.com/item?id=49813704 Points: 6 # Comments: 0
+Article URL: https://www.spiceworks.com/ai/is-ai-quietly-killing-the-forums-and-wikis-your-it-team-relies-on/ Comments URL: https://news.ycombinator.com/item?id=49818044 Points: 1 # Comments: 0
 
-📖 [Read original article](https://camplight.net/ai/ai-software-factory/)
+📖 [Read original article](https://www.spiceworks.com/ai/is-ai-quietly-killing-the-forums-and-wikis-your-it-team-relies-on/)
 
 ---
 
-## 4. Positive emotions toward AI outweigh negative ones in 34 out of 37 countries
+## 4. Top post in R/gamedev: \"AI models have caught up with Unity dev.\"
 
-**Author:** giuliomagnifico  
-**Published:** 9/23/2026, 9:11:55 AM  
+**Author:** ralfd  
+**Published:** 9/23/2026, 3:55:47 PM  
 **Categories:** -  
 
-Article URL: https://news.gallup.com/poll/714593/optimism-globally-widespread-despite-uneven.aspx Comments URL: https://news.ycombinator.com/item?id=49813430 Points: 2 # Comments: 0
+Article URL: https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/ Comments URL: https://news.ycombinator.com/item?id=49818027 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.gallup.com/poll/714593/optimism-globally-widespread-despite-uneven.aspx)
+📖 [Read original article](https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/)
 
 ---
 
-## 5. Synchrony AI – AI Powered Investment Research and Portfolio Management Platform
+## 5. AI anxiety is sweeping the globe – and cutting across party lines
 
-**Author:** emmanuelcooke  
-**Published:** 9/23/2026, 8:52:55 AM  
+**Author:** lf88  
+**Published:** 9/23/2026, 3:50:34 PM  
 **Categories:** -  
 
-Article URL: https://www.synchrony-ai.com Comments URL: https://news.ycombinator.com/item?id=49813328 Points: 1 # Comments: 0
+Article URL: https://www.politico.eu/article/poll-ai-anxiety-openai-anthropic-elon-musk-silicon-valley-across-party-lines/ Comments URL: https://news.ycombinator.com/item?id=49817941 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.synchrony-ai.com)
+📖 [Read original article](https://www.politico.eu/article/poll-ai-anxiety-openai-anthropic-elon-musk-silicon-valley-across-party-lines/)
 
 ---
 
-## 6. Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To
+## 6. After multiple deaths and injuries, NHTSA is investigating comma.ai
 
-**Author:** LikelySupernova  
-**Published:** 9/23/2026, 8:24:01 AM  
+**Author:** MBCook  
+**Published:** 9/23/2026, 3:35:12 PM  
 **Categories:** -  
 
-Article URL: https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202 Comments URL: https://news.ycombinator.com/item?id=49813122 Points: 2 # Comments: 0
+Article URL: https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/ Comments URL: https://news.ycombinator.com/item?id=49817706 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202)
+📖 [Read original article](https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/)
 
 ---
 
-## 7. Show HN: ReWeaver AI DriftDetector – score a GitHub repo's production readiness
+## 7. I Built AI Clones of My Coworkers. Things Got Weird
 
-**Author:** gojongo  
-**Published:** 9/23/2026, 8:21:32 AM  
+**Author:** mooreds  
+**Published:** 9/23/2026, 3:34:59 PM  
 **Categories:** -  
 
-Article URL: https://drift.reweaver.ai/ Comments URL: https://news.ycombinator.com/item?id=49813096 Points: 1 # Comments: 0
+Article URL: https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/ Comments URL: https://news.ycombinator.com/item?id=49817704 Points: 2 # Comments: 1
 
-📖 [Read original article](https://drift.reweaver.ai/)
+📖 [Read original article](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/)
 
 ---
 
-## 8. Shut up and calculate: Jev's new AI primitives for coders
+## 8. Why Human Informants Still Matter in the Age of AI Surveillance
 
-**Author:** beardyw  
-**Published:** 9/23/2026, 8:10:10 AM  
+**Author:** DemiGuru  
+**Published:** 9/23/2026, 3:27:52 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/devops/2026/09/23/shut-up-and-calculate-jevs-new-ai-primitives-for-coders/5298431 Comments URL: https://news.ycombinator.com/item?id=49813030 Points: 1 # Comments: 0
+Article URL: https://smallwarsjournal.com/2026/08/20/why-human-informants-still-matter-in-the-age-of-ai-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49817598 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.theregister.com/devops/2026/09/23/shut-up-and-calculate-jevs-new-ai-primitives-for-coders/5298431)
+📖 [Read original article](https://smallwarsjournal.com/2026/08/20/why-human-informants-still-matter-in-the-age-of-ai-surveillance/)
 
 ---
 
-## 9. Show HN: Gwae – infinite-scroll terminal multiplexer for AI agent fleets
+## 9. A week in Beijing and Shanghai with the people building AI in China
 
-**Author:** hongnoul  
-**Published:** 9/23/2026, 8:10:01 AM  
+**Author:** bluepeter  
+**Published:** 9/23/2026, 3:22:15 PM  
 **Categories:** -  
 
-Article URL: https://github.com/hongnoul/gwae Comments URL: https://news.ycombinator.com/item?id=49813028 Points: 1 # Comments: 0
+Article URL: https://earnedintuition.substack.com/p/involution-without-export-is-wasted Comments URL: https://news.ycombinator.com/item?id=49817510 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/hongnoul/gwae)
+📖 [Read original article](https://earnedintuition.substack.com/p/involution-without-export-is-wasted)
 
 ---
 
-## 10. Ask HN: How do you cope with AI being used to target and bomb children?
-
-**Author:** trumbitta2  
-**Published:** 9/23/2026, 7:48:08 AM  
-**Categories:** -  
-
-Comments URL: https://news.ycombinator.com/item?id=49812905 Points: 3 # Comments: 4
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49812905)
-
----
-
-## 11. New AI technique could make minimally invasive surgeries safer and more precise
-
-**Author:** ycombinatronics  
-**Published:** 9/23/2026, 7:27:25 AM  
-**Categories:** -  
-
-Article URL: https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916 Comments URL: https://news.ycombinator.com/item?id=49812778 Points: 3 # Comments: 1
-
-📖 [Read original article](https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916)
-
----
-
-## 12. Gemini Hacked Three Companies in First Known Breakout by Google's AI
-
-**Author:** coffee  
-**Published:** 9/23/2026, 7:20:05 AM  
-**Categories:** -  
-
-Article URL: https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/ Comments URL: https://news.ycombinator.com/item?id=49812718 Points: 2 # Comments: 0
-
-📖 [Read original article](https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/)
-
----
-
-## 13. Recursive self-improvement of AI research agents
-
-**Author:** sbulaev  
-**Published:** 9/23/2026, 7:07:09 AM  
-**Categories:** -  
-
-Article URL: https://arxiv.org/abs/2609.26457 Comments URL: https://news.ycombinator.com/item?id=49812641 Points: 2 # Comments: 0
-
-📖 [Read original article](https://arxiv.org/abs/2609.26457)
-
----
-
-## 14. Microsoft disrupts AI-assisted platform that compromised 12,000 accounts
-
-**Author:** joozio  
-**Published:** 9/23/2026, 7:01:18 AM  
-**Categories:** -  
-
-Article URL: https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/ Comments URL: https://news.ycombinator.com/item?id=49812609 Points: 8 # Comments: 0
-
-📖 [Read original article](https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/)
-
----
-
-## 15. Which AI model should your team use for Ansible
-
-**Author:** xlab-si  
-**Published:** 9/23/2026, 6:25:21 AM  
-**Categories:** -  
-
-Article URL: https://steampunk.si/spotter/ai-leaderboard/ Comments URL: https://news.ycombinator.com/item?id=49812391 Points: 2 # Comments: 0
-
-📖 [Read original article](https://steampunk.si/spotter/ai-leaderboard/)
-
----
-
-## 16. Show HN: Ceptile AI Search platform which combines web results with AI chat
-
-**Author:** ShauryaAgarwalr  
-**Published:** 9/23/2026, 6:10:04 AM  
-**Categories:** -  
-
-I built Ceptile because I wanted a search tool that could combine the convenience of an AI answer with the ability to inspect the actual web pages behind it.A Ceptile search retrieves pages from the web, ranks the retrieved sources, and uses them to produce an answer with links back to the sources. ...
-
-📖 [Read original article](https://www.ceptile.com/)
-
----
-
-## 17. Show HN: Visually orchestrate Claude Code AI agents
-
-**Author:** bdearch  
-**Published:** 9/23/2026, 5:55:48 AM  
-**Categories:** -  
-
-Article URL: https://github.com/rondoflow/rondoflow Comments URL: https://news.ycombinator.com/item?id=49812163 Points: 3 # Comments: 0
-
-📖 [Read original article](https://github.com/rondoflow/rondoflow)
-
----
-
-## 18. A Summer of AI Optimization
-
-**Author:** signa11  
-**Published:** 9/23/2026, 5:51:18 AM  
-**Categories:** -  
-
-Article URL: https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/ Comments URL: https://news.ycombinator.com/item?id=49812138 Points: 3 # Comments: 0
-
-📖 [Read original article](https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/)
-
----
-
-## 19. America is in the wrong AI race with China
-
-**Author:** billybuckwheat  
-**Published:** 9/23/2026, 4:27:06 AM  
-**Categories:** -  
-
-Article URL: https://restofworld.org/2026/america-china-ai-race-trust/ Comments URL: https://news.ycombinator.com/item?id=49811640 Points: 7 # Comments: 0
-
-📖 [Read original article](https://restofworld.org/2026/america-china-ai-race-trust/)
-
----
-
-## 20. Big Banks Say They're Uneasy About People Shopping via AI Agents
+## 10. Amazon opens its seller tools to outside AI agents, starting with Anthropic
 
 **Author:** thm  
-**Published:** 9/23/2026, 4:13:29 AM  
+**Published:** 9/23/2026, 3:20:56 PM  
 **Categories:** -  
 
-Article URL: https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443 Comments URL: https://news.ycombinator.com/item?id=49811556 Points: 10 # Comments: 2
+Article URL: https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/ Comments URL: https://news.ycombinator.com/item?id=49817493 Points: 1 # Comments: 0
 
-📖 [Read original article](https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443)
+📖 [Read original article](https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/)
+
+---
+
+## 11. Show HN: Mapping AI research, from 496k indexed papers
+
+**Author:** Luucas40  
+**Published:** 9/23/2026, 3:04:53 PM  
+**Categories:** -  
+
+Article URL: https://foundinghires.tech/atlas.html Comments URL: https://news.ycombinator.com/item?id=49817274 Points: 3 # Comments: 0
+
+📖 [Read original article](https://foundinghires.tech/atlas.html)
+
+---
+
+## 12. Show HN: Vibe-coder ladder round 2 – the AI ran 38 minutes past the deadline
+
+**Author:** alviso  
+**Published:** 9/23/2026, 3:02:23 PM  
+**Categories:** -  
+
+Article URL: https://vibeladder.dev/results/r2.html Comments URL: https://news.ycombinator.com/item?id=49817230 Points: 1 # Comments: 0
+
+📖 [Read original article](https://vibeladder.dev/results/r2.html)
+
+---
+
+## 13. The AI Company stopped chasing its first idea
+
+**Author:** effelima  
+**Published:** 9/23/2026, 3:01:52 PM  
+**Categories:** -  
+
+Article URL: https://autonomouscompany.substack.com/p/the-ai-company-finally-stopped-chasing Comments URL: https://news.ycombinator.com/item?id=49817223 Points: 2 # Comments: 0
+
+📖 [Read original article](https://autonomouscompany.substack.com/p/the-ai-company-finally-stopped-chasing)
+
+---
+
+## 14. Netflix's 'Wonka's the Golden Ticket' Is a Ghoulish Misuse of AI Gene Wilder
+
+**Author:** voxadam  
+**Published:** 9/23/2026, 2:52:30 PM  
+**Categories:** -  
+
+Article URL: https://variety.com/2026/tv/reviews/wonkas-golden-ticket-review-ai-gene-wilder-1236872754/ Comments URL: https://news.ycombinator.com/item?id=49817097 Points: 6 # Comments: 1
+
+📖 [Read original article](https://variety.com/2026/tv/reviews/wonkas-golden-ticket-review-ai-gene-wilder-1236872754/)
+
+---
+
+## 15. AI-Agents
+
+**Author:** Paayas35  
+**Published:** 9/23/2026, 2:44:27 PM  
+**Categories:** -  
+
+yo this is my first post !!!! I been working a lot on quant stuff lately, & also been studying the graphs of industry's ai-agent stuff. I noticed one common point in those stuff is that we ourselves pushing the ai-agent's too fast than slow adaption; tho the research may have been quite an academic ...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49816967)
+
+---
+
+## 16. Meta's New AI Agent Is an Instant Hit–and the Backlash Has Begun
+
+**Author:** thm  
+**Published:** 9/23/2026, 2:36:02 PM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/tech/ai/meta-ai-agent-muse-reactions-5bf236af Comments URL: https://news.ycombinator.com/item?id=49816846 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.wsj.com/tech/ai/meta-ai-agent-muse-reactions-5bf236af)
+
+---
+
+## 17. Trump's 1,156 July Stock Trades Involved AI, Big Oil, Weapons-Makers, and More
+
+**Author:** cirelli94  
+**Published:** 9/23/2026, 2:33:31 PM  
+**Categories:** -  
+
+Article URL: https://www.commondreams.org/news/donald-trump-stock-trades Comments URL: https://news.ycombinator.com/item?id=49816810 Points: 14 # Comments: 2
+
+📖 [Read original article](https://www.commondreams.org/news/donald-trump-stock-trades)
+
+---
+
+## 18. Nikclas – Compare the prices of different AI models
+
+**Author:** Cr12dev  
+**Published:** 9/23/2026, 2:30:23 PM  
+**Categories:** -  
+
+Article URL: https://github.com/NikclasTech/nikclas Comments URL: https://news.ycombinator.com/item?id=49816775 Points: 2 # Comments: 2
+
+📖 [Read original article](https://github.com/NikclasTech/nikclas)
+
+---
+
+## 19. Laya-mlx and 12 more trending open-source AI repos · week 39, 2026
+
+**Author:** thezakulo  
+**Published:** 9/23/2026, 2:27:01 PM  
+**Categories:** -  
+
+https://thezakulo.com/weekly/2026-w39/This week's trending open-source AI on GitHub — laya-mlx, awesome-jev, awesome-jev-tools, and more Comments URL: https://news.ycombinator.com/item?id=49816729 Points: 1 # Comments: 0
+
+📖 [Read original article](https://news.ycombinator.com/item?id=49816729)
+
+---
+
+## 20. Show HN: HackDigest – AI-summarized daily news digest via email
+
+**Author:** minjungsung1994  
+**Published:** 9/23/2026, 2:24:27 PM  
+**Categories:** -  
+
+Article URL: https://minjungsung.github.io/hackdigest/ Comments URL: https://news.ycombinator.com/item?id=49816681 Points: 1 # Comments: 0
+
+📖 [Read original article](https://minjungsung.github.io/hackdigest/)
 
 ---
