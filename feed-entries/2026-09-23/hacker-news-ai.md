@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Meta testing a 'human concierge' for its new personal AI agent, Muse
+## 1. AI Goes to War: Ukraine AI Autonomous Drone Guidance
 
-**Author:** 2143  
-**Published:** 9/23/2026, 4:14:08 PM  
+**Author:** rmason  
+**Published:** 9/23/2026, 8:59:17 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/ Comments URL: https://news.ycombinator.com/item?id=49818317 Points: 2 # Comments: 0
+Article URL: https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous Comments URL: https://news.ycombinator.com/item?id=49822510 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/)
+📖 [Read original article](https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous)
 
 ---
 
-## 2. Trump reveals millions of dollars' worth of share deals in big tech and AI
+## 2. After AI models escaped testing environments,Irregular seeks $1.5B valuation
 
-**Author:** tartoran  
-**Published:** 9/23/2026, 4:06:49 PM  
+**Author:** myth_drannon  
+**Published:** 9/23/2026, 8:54:39 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/c6p3kxpp8lezo Comments URL: https://news.ycombinator.com/item?id=49818187 Points: 3 # Comments: 0
+Article URL: https://www.calcalistech.com/ctechnews/article/13p5khsib Comments URL: https://news.ycombinator.com/item?id=49822442 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/c6p3kxpp8lezo)
+📖 [Read original article](https://www.calcalistech.com/ctechnews/article/13p5khsib)
 
 ---
 
-## 3. Is AI killing the forums and wikis your IT team relies on?
+## 3. Agent Etna – Automated staging environment and regression compiler for AI agents
 
-**Author:** MC995  
-**Published:** 9/23/2026, 3:57:02 PM  
+**Author:** giuerr  
+**Published:** 9/23/2026, 8:35:10 PM  
 **Categories:** -  
 
-Article URL: https://www.spiceworks.com/ai/is-ai-quietly-killing-the-forums-and-wikis-your-it-team-relies-on/ Comments URL: https://news.ycombinator.com/item?id=49818044 Points: 1 # Comments: 0
+Article URL: https://www.agentetna.com/ Comments URL: https://news.ycombinator.com/item?id=49822181 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.spiceworks.com/ai/is-ai-quietly-killing-the-forums-and-wikis-your-it-team-relies-on/)
+📖 [Read original article](https://www.agentetna.com/)
 
 ---
 
-## 4. Top post in R/gamedev: \"AI models have caught up with Unity dev.\"
+## 4. AI can never produce sublime art
 
-**Author:** ralfd  
-**Published:** 9/23/2026, 3:55:47 PM  
+**Author:** bananaflag  
+**Published:** 9/23/2026, 8:33:44 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/ Comments URL: https://news.ycombinator.com/item?id=49818027 Points: 2 # Comments: 1
+Article URL: https://hilariusbookbinder.substack.com/p/ai-can-never-produce-sublime-art Comments URL: https://news.ycombinator.com/item?id=49822154 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/)
+📖 [Read original article](https://hilariusbookbinder.substack.com/p/ai-can-never-produce-sublime-art)
 
 ---
 
-## 5. AI anxiety is sweeping the globe – and cutting across party lines
+## 5. The Most Important Market in AI Is the Middle
 
-**Author:** lf88  
-**Published:** 9/23/2026, 3:50:34 PM  
+**Author:** simonpure  
+**Published:** 9/23/2026, 8:28:20 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.eu/article/poll-ai-anxiety-openai-anthropic-elon-musk-silicon-valley-across-party-lines/ Comments URL: https://news.ycombinator.com/item?id=49817941 Points: 1 # Comments: 0
+Article URL: https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/ Comments URL: https://news.ycombinator.com/item?id=49822063 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.politico.eu/article/poll-ai-anxiety-openai-anthropic-elon-musk-silicon-valley-across-party-lines/)
+📖 [Read original article](https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/)
 
 ---
 
-## 6. After multiple deaths and injuries, NHTSA is investigating comma.ai
+## 6. Show HN: Free attestation for AI agent decisions – verifying one costs $0.10
 
-**Author:** MBCook  
-**Published:** 9/23/2026, 3:35:12 PM  
+**Author:** RubricProtocol  
+**Published:** 9/23/2026, 8:18:17 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/ Comments URL: https://news.ycombinator.com/item?id=49817706 Points: 2 # Comments: 1
+Article URL: https://github.com/0xsims/rubric-attest Comments URL: https://news.ycombinator.com/item?id=49821905 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/)
+📖 [Read original article](https://github.com/0xsims/rubric-attest)
 
 ---
 
-## 7. I Built AI Clones of My Coworkers. Things Got Weird
+## 7. KDE and AI, and You, and Me
 
-**Author:** mooreds  
-**Published:** 9/23/2026, 3:34:59 PM  
+**Author:** TangerineDream  
+**Published:** 9/23/2026, 8:07:38 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/ Comments URL: https://news.ycombinator.com/item?id=49817704 Points: 2 # Comments: 1
+Article URL: https://pointieststick.com/2026/09/23/kde-and-ai-and-you-and-me/ Comments URL: https://news.ycombinator.com/item?id=49821776 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/)
+📖 [Read original article](https://pointieststick.com/2026/09/23/kde-and-ai-and-you-and-me/)
 
 ---
 
-## 8. Why Human Informants Still Matter in the Age of AI Surveillance
+## 8. Security auditing in the age of (good enough) AI
 
-**Author:** DemiGuru  
-**Published:** 9/23/2026, 3:27:52 PM  
+**Author:** wslh  
+**Published:** 9/23/2026, 8:07:20 PM  
 **Categories:** -  
 
-Article URL: https://smallwarsjournal.com/2026/08/20/why-human-informants-still-matter-in-the-age-of-ai-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49817598 Points: 1 # Comments: 1
+Article URL: https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/ Comments URL: https://news.ycombinator.com/item?id=49821770 Points: 3 # Comments: 0
 
-📖 [Read original article](https://smallwarsjournal.com/2026/08/20/why-human-informants-still-matter-in-the-age-of-ai-surveillance/)
+📖 [Read original article](https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/)
 
 ---
 
-## 9. A week in Beijing and Shanghai with the people building AI in China
+## 9. How to Build an AI Visibility Tracker from Scratch
 
-**Author:** bluepeter  
-**Published:** 9/23/2026, 3:22:15 PM  
+**Author:** njx  
+**Published:** 9/23/2026, 7:58:07 PM  
 **Categories:** -  
 
-Article URL: https://earnedintuition.substack.com/p/involution-without-export-is-wasted Comments URL: https://news.ycombinator.com/item?id=49817510 Points: 2 # Comments: 0
+Article URL: https://www.crawlspider.com/how-to-build-an-ai-visibility-tracker-from-scratch/ Comments URL: https://news.ycombinator.com/item?id=49821645 Points: 1 # Comments: 0
 
-📖 [Read original article](https://earnedintuition.substack.com/p/involution-without-export-is-wasted)
+📖 [Read original article](https://www.crawlspider.com/how-to-build-an-ai-visibility-tracker-from-scratch/)
 
 ---
 
-## 10. Amazon opens its seller tools to outside AI agents, starting with Anthropic
+## 10. Show HN: Varkos – a local AI pet that can talk, interact, and play small games
 
-**Author:** thm  
-**Published:** 9/23/2026, 3:20:56 PM  
+**Author:** pantelisk  
+**Published:** 9/23/2026, 7:54:16 PM  
 **Categories:** -  
 
-Article URL: https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/ Comments URL: https://news.ycombinator.com/item?id=49817493 Points: 1 # Comments: 0
+Article URL: https://varkos.party/ Comments URL: https://news.ycombinator.com/item?id=49821592 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/)
+📖 [Read original article](https://varkos.party/)
 
 ---
 
-## 11. Show HN: Mapping AI research, from 496k indexed papers
+## 11. Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale
 
-**Author:** Luucas40  
-**Published:** 9/23/2026, 3:04:53 PM  
+**Author:** raahelb  
+**Published:** 9/23/2026, 7:45:56 PM  
 **Categories:** -  
 
-Article URL: https://foundinghires.tech/atlas.html Comments URL: https://news.ycombinator.com/item?id=49817274 Points: 3 # Comments: 0
+Article URL: https://arxiv.org/abs/2607.29516 Comments URL: https://news.ycombinator.com/item?id=49821485 Points: 2 # Comments: 0
 
-📖 [Read original article](https://foundinghires.tech/atlas.html)
+📖 [Read original article](https://arxiv.org/abs/2607.29516)
 
 ---
 
-## 12. Show HN: Vibe-coder ladder round 2 – the AI ran 38 minutes past the deadline
+## 12. VSArena – The official open browser benchmark for embodied AI
 
-**Author:** alviso  
-**Published:** 9/23/2026, 3:02:23 PM  
+**Author:** AranKair  
+**Published:** 9/23/2026, 7:41:58 PM  
 **Categories:** -  
 
-Article URL: https://vibeladder.dev/results/r2.html Comments URL: https://news.ycombinator.com/item?id=49817230 Points: 1 # Comments: 0
+Article URL: https://vsarena.vercel.app Comments URL: https://news.ycombinator.com/item?id=49821427 Points: 2 # Comments: 0
 
-📖 [Read original article](https://vibeladder.dev/results/r2.html)
+📖 [Read original article](https://vsarena.vercel.app)
 
 ---
 
-## 13. The AI Company stopped chasing its first idea
+## 13. Shopify CEO Who Pushed Staff to Use AI Is Now Horrified by What He's Wrought
 
-**Author:** effelima  
-**Published:** 9/23/2026, 3:01:52 PM  
+**Author:** Corrado  
+**Published:** 9/23/2026, 7:36:54 PM  
 **Categories:** -  
 
-Article URL: https://autonomouscompany.substack.com/p/the-ai-company-finally-stopped-chasing Comments URL: https://news.ycombinator.com/item?id=49817223 Points: 2 # Comments: 0
+Article URL: https://futurism.com/artificial-intelligence/shopify-ceo-ai-workplace-staff-horrified-backfire Comments URL: https://news.ycombinator.com/item?id=49821377 Points: 2 # Comments: 0
 
-📖 [Read original article](https://autonomouscompany.substack.com/p/the-ai-company-finally-stopped-chasing)
+📖 [Read original article](https://futurism.com/artificial-intelligence/shopify-ceo-ai-workplace-staff-horrified-backfire)
 
 ---
 
-## 14. Netflix's 'Wonka's the Golden Ticket' Is a Ghoulish Misuse of AI Gene Wilder
+## 14. \"Good\" AI
 
-**Author:** voxadam  
-**Published:** 9/23/2026, 2:52:30 PM  
+**Author:** simplegeek  
+**Published:** 9/23/2026, 7:35:01 PM  
 **Categories:** -  
 
-Article URL: https://variety.com/2026/tv/reviews/wonkas-golden-ticket-review-ai-gene-wilder-1236872754/ Comments URL: https://news.ycombinator.com/item?id=49817097 Points: 6 # Comments: 1
+Article URL: https://thoughts.wyounas.com/p/what-does-good-ai-mean Comments URL: https://news.ycombinator.com/item?id=49821352 Points: 2 # Comments: 0
 
-📖 [Read original article](https://variety.com/2026/tv/reviews/wonkas-golden-ticket-review-ai-gene-wilder-1236872754/)
+📖 [Read original article](https://thoughts.wyounas.com/p/what-does-good-ai-mean)
 
 ---
 
-## 15. AI-Agents
+## 15. Support for Local AI Models in the Antigravity SDK
 
-**Author:** Paayas35  
-**Published:** 9/23/2026, 2:44:27 PM  
+**Author:** theanonymousone  
+**Published:** 9/23/2026, 7:33:05 PM  
 **Categories:** -  
 
-yo this is my first post !!!! I been working a lot on quant stuff lately, & also been studying the graphs of industry's ai-agent stuff. I noticed one common point in those stuff is that we ourselves pushing the ai-agent's too fast than slow adaption; tho the research may have been quite an academic ...
+Article URL: https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/ Comments URL: https://news.ycombinator.com/item?id=49821317 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49816967)
+📖 [Read original article](https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/)
 
 ---
 
-## 16. Meta's New AI Agent Is an Instant Hit–and the Backlash Has Begun
+## 16. How we made claude.ai 3x faster in two weeks
 
-**Author:** thm  
-**Published:** 9/23/2026, 2:36:02 PM  
+**Author:** matthieu_bl  
+**Published:** 9/23/2026, 7:23:40 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/meta-ai-agent-muse-reactions-5bf236af Comments URL: https://news.ycombinator.com/item?id=49816846 Points: 1 # Comments: 0
+Article URL: https://claude.dev/blog/how-we-made-claude-ai-faster/ Comments URL: https://news.ycombinator.com/item?id=49821196 Points: 83 # Comments: 55
 
-📖 [Read original article](https://www.wsj.com/tech/ai/meta-ai-agent-muse-reactions-5bf236af)
+📖 [Read original article](https://claude.dev/blog/how-we-made-claude-ai-faster/)
 
 ---
 
-## 17. Trump's 1,156 July Stock Trades Involved AI, Big Oil, Weapons-Makers, and More
+## 17. Show HN: Ceptile AI Search platform which combines web results with AI chat
 
-**Author:** cirelli94  
-**Published:** 9/23/2026, 2:33:31 PM  
+**Author:** ShauryaAgarwalr  
+**Published:** 9/23/2026, 7:22:32 PM  
 **Categories:** -  
 
-Article URL: https://www.commondreams.org/news/donald-trump-stock-trades Comments URL: https://news.ycombinator.com/item?id=49816810 Points: 14 # Comments: 2
+I built Ceptile because I wanted a search tool that could combine the convenience of an AI answer with the ability to inspect the actual web pages behind it. A Ceptile search retrieves pages from the web, ranks the retrieved sources, and uses them to produce an answer with links back to the sources....
 
-📖 [Read original article](https://www.commondreams.org/news/donald-trump-stock-trades)
+📖 [Read original article](https://www.ceptile.com/)
 
 ---
 
-## 18. Nikclas – Compare the prices of different AI models
+## 18. Jensen Huang on AI Alarmists – NYT Ezra Klein Show
 
-**Author:** Cr12dev  
-**Published:** 9/23/2026, 2:30:23 PM  
+**Author:** athrowaway3z  
+**Published:** 9/23/2026, 7:03:32 PM  
 **Categories:** -  
 
-Article URL: https://github.com/NikclasTech/nikclas Comments URL: https://news.ycombinator.com/item?id=49816775 Points: 2 # Comments: 2
+Article URL: https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html Comments URL: https://news.ycombinator.com/item?id=49820909 Points: 4 # Comments: 2
 
-📖 [Read original article](https://github.com/NikclasTech/nikclas)
+📖 [Read original article](https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html)
 
 ---
 
-## 19. Laya-mlx and 12 more trending open-source AI repos · week 39, 2026
+## 19. My relationship with AI: seductive, frustrating and always demanding vigilance
 
-**Author:** thezakulo  
-**Published:** 9/23/2026, 2:27:01 PM  
+**Author:** jethronethro  
+**Published:** 9/23/2026, 6:52:04 PM  
 **Categories:** -  
 
-https://thezakulo.com/weekly/2026-w39/This week's trending open-source AI on GitHub — laya-mlx, awesome-jev, awesome-jev-tools, and more Comments URL: https://news.ycombinator.com/item?id=49816729 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/commentisfree/2026/sep/24/my-complicated-relationship-with-ai-chatgpt-factchecking Comments URL: https://news.ycombinator.com/item?id=49820726 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49816729)
+📖 [Read original article](https://www.theguardian.com/commentisfree/2026/sep/24/my-complicated-relationship-with-ai-chatgpt-factchecking)
 
 ---
 
-## 20. Show HN: HackDigest – AI-summarized daily news digest via email
+## 20. Dr Tricks Senior Dev N2 Taking Job W AI
 
-**Author:** minjungsung1994  
-**Published:** 9/23/2026, 2:24:27 PM  
+**Author:** JacobEdmondKerr  
+**Published:** 9/23/2026, 6:52:01 PM  
 **Categories:** -  
 
-Article URL: https://minjungsung.github.io/hackdigest/ Comments URL: https://news.ycombinator.com/item?id=49816681 Points: 1 # Comments: 0
+I am a senior programmer with 23 years experience. I brought AI and my skills to a Men's Health Dr. and worked closely with the Dr at a low salary. The Men's Health Dr. talked me into working with him and teaching him vibe coding, always ensuring me that "I am not working myself out of a job". With ...
 
-📖 [Read original article](https://minjungsung.github.io/hackdigest/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49820723)
 
 ---
