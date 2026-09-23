@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-09-21"
 date: "2026-09-21"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-09-21
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that
 We cloned one 10-second voice on 7 platforms and ranked them on reference audio, consent, licensing, and cost. The post Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters appeared first on MarkTechPost.
 
 📖 [Read original article](https://www.marktechpost.com/2026/09/21/best-voice-cloning-apis-in-2026-speaker-similarity-consent-checks-and-price-per-1m-characters/)
-
----
-
-## 4. StepFun Launches Step 5 Preview: A 600B-Total, 27B-Active MoE Model With 1M Context for Long-Horizon Agentic Work
-
-**Author:** Michal Sutter  
-**Published:** 9/21/2026, 6:37:18 AM  
-**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Staff, Technology, Uncategorized  
-
-StepFun has released Step 5 Preview, a sparse Mixture-of-Experts model with 600B total parameters and 27B active per token. It supports a 1M-token context window and accepts text, image, and video input. The model targets long-horizon agentic work in software engineering, professional knowledge work...
-
-📖 [Read original article](https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview/)
 
 ---
