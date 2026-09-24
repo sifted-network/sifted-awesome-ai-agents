@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Meta puts its AI assistant on a keychain
+## 1. Vibe Coding Production Kit – a production workflow for AI coding agents
 
-**Author:** wrxd  
-**Published:** 9/24/2026, 4:24:46 PM  
+**Author:** Moeeryani  
+**Published:** 9/24/2026, 9:02:34 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/ Comments URL: https://news.ycombinator.com/item?id=49832965 Points: 2 # Comments: 1
+Article URL: https://github.com/Moeeryani/Vibe-Coding-Production-Kit Comments URL: https://news.ycombinator.com/item?id=49836678 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/)
+📖 [Read original article](https://github.com/Moeeryani/Vibe-Coding-Production-Kit)
 
 ---
 
-## 2. How to rage bait Americans (with AI) [video]
+## 2. AI Help for Biological or Chemical Weapons
 
-**Author:** NalNezumi  
-**Published:** 9/24/2026, 4:24:26 PM  
+**Author:** EA-3167  
+**Published:** 9/24/2026, 8:59:16 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=zCvPPaIN5Ew Comments URL: https://news.ycombinator.com/item?id=49832958 Points: 1 # Comments: 0
+Article URL: https://www.science.org/content/blog-post/ai-help-biological-or-chemical-weapons Comments URL: https://news.ycombinator.com/item?id=49836647 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=zCvPPaIN5Ew)
+📖 [Read original article](https://www.science.org/content/blog-post/ai-help-biological-or-chemical-weapons)
 
 ---
 
-## 3. AI Models Are Great at Finding Security Bugs. Can They Tell When They're Fixed?
+## 3. Show HN: Canary (YC) – Independent verification for AI code
 
-**Author:** ls1911  
-**Published:** 9/24/2026, 4:17:58 PM  
+**Author:** Visweshyc  
+**Published:** 9/24/2026, 8:57:52 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/meetcyber/ai-models-are-great-at-finding-security-bugs-but-can-they-tell-when-theyre-fixed-20052d828f2a Comments URL: https://news.ycombinator.com/item?id=49832880 Points: 1 # Comments: 0
+Hey HN, we are Aakash and Viswesh and we are building Canary (https://www.runcanary.ai/) - independent verification for AI code. Claude/Codex calls Canary with the changesets, intended behaviour and team knowledge. Canary then deploys agent swarms to investigate potential failures and test suspected...
 
-📖 [Read original article](https://medium.com/meetcyber/ai-models-are-great-at-finding-security-bugs-but-can-they-tell-when-theyre-fixed-20052d828f2a)
+📖 [Read original article](https://www.runcanary.ai/)
 
 ---
 
-## 4. Welcoming Jürgen Schmidhuber to Sakana AI
+## 4. How I changed teaching after AI managed to do all my homework assignments
 
-**Author:** hardmaru  
-**Published:** 9/24/2026, 4:15:30 PM  
+**Author:** azhenley  
+**Published:** 9/24/2026, 8:51:50 PM  
 **Categories:** -  
 
-Article URL: https://sakana.ai/schmidhuber/ Comments URL: https://news.ycombinator.com/item?id=49832842 Points: 3 # Comments: 0
+Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed Comments URL: https://news.ycombinator.com/item?id=49836579 Points: 3 # Comments: 0
 
-📖 [Read original article](https://sakana.ai/schmidhuber/)
+📖 [Read original article](https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed)
 
 ---
 
-## 5. AI doomers may be wrong but the skeptics seem even wronger
+## 5. Show HN: A $25 DIY alternative to $159 AI voice recorders – BYOK or local
 
-**Author:** speckx  
-**Published:** 9/24/2026, 4:12:28 PM  
+**Author:** shmlkv  
+**Published:** 9/24/2026, 8:51:25 PM  
 **Categories:** -  
 
-Article URL: https://mathewingramblog.wordpress.com/2026/09/24/ai-doomers-may-be-wrong-but-the-skeptics-seem-even-wronger/ Comments URL: https://news.ycombinator.com/item?id=49832782 Points: 3 # Comments: 0
+Article URL: https://zephclick.com Comments URL: https://news.ycombinator.com/item?id=49836576 Points: 4 # Comments: 0
 
-📖 [Read original article](https://mathewingramblog.wordpress.com/2026/09/24/ai-doomers-may-be-wrong-but-the-skeptics-seem-even-wronger/)
+📖 [Read original article](https://zephclick.com)
 
 ---
 
-## 6. Mathematics in the Age of AI Oracles [pdf]
+## 6. DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned
 
-**Author:** pharmacy7766  
-**Published:** 9/24/2026, 4:06:24 PM  
+**Author:** MBCook  
+**Published:** 9/24/2026, 8:29:34 PM  
 **Categories:** -  
 
-Article URL: https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf Comments URL: https://news.ycombinator.com/item?id=49832689 Points: 3 # Comments: 0
+Article URL: https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335 Comments URL: https://news.ycombinator.com/item?id=49836378 Points: 3 # Comments: 0
 
-📖 [Read original article](https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf)
+📖 [Read original article](https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335)
 
 ---
 
-## 7. Oracle invokes force majeure on New Mexico AI data center
+## 7. Anthropic Strikes $12B AI Computing Deal with Akamai
 
-**Author:** dgellow  
-**Published:** 9/24/2026, 3:58:40 PM  
+**Author:** mfiguiere  
+**Published:** 9/24/2026, 8:27:48 PM  
 **Categories:** -  
 
-Article URL: https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426 Comments URL: https://news.ycombinator.com/item?id=49832564 Points: 5 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-09-24/anthropic-strikes-12-billion-deal-with-akamai-for-ai-computing Comments URL: https://news.ycombinator.com/item?id=49836364 Points: 5 # Comments: 0
 
-📖 [Read original article](https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-24/anthropic-strikes-12-billion-deal-with-akamai-for-ai-computing)
 
 ---
 
-## 8. I Have a Confession: I Built This Site with AI – Please Forgive Me
+## 8. Restaurants Are Using AI to Advertise Their Food and It's Making People Sick
 
-**Author:** joelberger  
-**Published:** 9/24/2026, 3:54:23 PM  
+**Author:** victor106  
+**Published:** 9/24/2026, 8:03:11 PM  
 **Categories:** -  
 
-Article URL: https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai Comments URL: https://news.ycombinator.com/item?id=49832491 Points: 10 # Comments: 7
+Article URL: https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9 Comments URL: https://news.ycombinator.com/item?id=49836094 Points: 3 # Comments: 0
 
-📖 [Read original article](https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai)
+📖 [Read original article](https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9)
 
 ---
 
-## 9. Show HN: Trify3D – Compare AI 3D engines on one input and keep the best mesh
+## 9. How to stay smart in the age of AI: the science of critical thinking
 
-**Author:** lizoenn  
-**Published:** 9/24/2026, 3:47:11 PM  
+**Author:** digital55  
+**Published:** 9/24/2026, 7:53:23 PM  
 **Categories:** -  
 
-Article URL: https://trify3d.com Comments URL: https://news.ycombinator.com/item?id=49832351 Points: 2 # Comments: 0
+Article URL: https://www.nature.com/articles/d41586-026-02930-6 Comments URL: https://news.ycombinator.com/item?id=49835983 Points: 3 # Comments: 0
 
-📖 [Read original article](https://trify3d.com)
+📖 [Read original article](https://www.nature.com/articles/d41586-026-02930-6)
 
 ---
 
-## 10. AI Evals: Everything You Need to Know
+## 10. Why AI companies don't need new laws
 
-**Author:** tosh  
-**Published:** 9/24/2026, 3:46:51 PM  
+**Author:** MrBuddyCasino  
+**Published:** 9/24/2026, 7:51:58 PM  
 **Categories:** -  
 
-Article URL: https://hamel.dev/blog/posts/evals-faq/ Comments URL: https://news.ycombinator.com/item?id=49832346 Points: 2 # Comments: 0
+Article URL: https://twitter.com/Paul__Walsh/status/2102801667657748720 Comments URL: https://news.ycombinator.com/item?id=49835968 Points: 2 # Comments: 1
 
-📖 [Read original article](https://hamel.dev/blog/posts/evals-faq/)
+📖 [Read original article](https://twitter.com/Paul__Walsh/status/2102801667657748720)
 
 ---
 
-## 11. Show HN: Potluck – Run local AI across the computers you own
+## 11. Alexandr Wang Is Meta's Not-So-Secret Weapon in the AI Agent Promo War
 
-**Author:** robshippr  
-**Published:** 9/24/2026, 3:42:36 PM  
+**Author:** Anon84  
+**Published:** 9/24/2026, 7:51:46 PM  
 **Categories:** -  
 
-Hey All, my name is Rob and i've been working on Potluck for a couple of months. The idea is pretty simple... I can't afford a huge cluster of machines, nor can I afford a bunch of GPUs or cloud instances. But I do have a couple of laptops, a couple of gaming computers and I figured why can't I just...
+Article URL: https://www.businessinsider.com/alexandr-wang-meta-muse-social-media-posts-pr-strategy-2026-9 Comments URL: https://news.ycombinator.com/item?id=49835964 Points: 3 # Comments: 0
 
-📖 [Read original article](https://trypotluck.ai/)
+📖 [Read original article](https://www.businessinsider.com/alexandr-wang-meta-muse-social-media-posts-pr-strategy-2026-9)
 
 ---
 
-## 12. Agent-Manager: Reviewing code while an AI agent is still rewriting it
+## 12. Tech leaders to UN: For sake of humanity, please control the AI tech we created
 
-**Author:** yoanwaidev  
-**Published:** 9/24/2026, 3:38:26 PM  
+**Author:** ChrisArchitect  
+**Published:** 9/24/2026, 7:48:45 PM  
 **Categories:** -  
 
-Article URL: https://agent-manager.dev/writing/live-review-race/ Comments URL: https://news.ycombinator.com/item?id=49832209 Points: 1 # Comments: 0
+Article URL: https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211 Comments URL: https://news.ycombinator.com/item?id=49835931 Points: 5 # Comments: 3
 
-📖 [Read original article](https://agent-manager.dev/writing/live-review-race/)
+📖 [Read original article](https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211)
 
 ---
 
-## 13. Show HN: Enclawed – A hard-fork hardening framework for AI agent gateways
+## 13. Tiny-Vedas: RISC-V Infrastructure for AI Accelerator Design [pdf]
 
-**Author:** enclawed  
-**Published:** 9/24/2026, 3:35:39 PM  
+**Author:** marcux95  
+**Published:** 9/24/2026, 7:44:41 PM  
 **Categories:** -  
 
-Article URL: https://enclawed.com/ Comments URL: https://news.ycombinator.com/item?id=49832151 Points: 1 # Comments: 0
+Article URL: https://siliscale.com/papers/tiny-vedas.pdf Comments URL: https://news.ycombinator.com/item?id=49835882 Points: 1 # Comments: 0
 
-📖 [Read original article](https://enclawed.com/)
+📖 [Read original article](https://siliscale.com/papers/tiny-vedas.pdf)
 
 ---
 
-## 14. Voice AI Conference – Worth the Time?
+## 14. GizmoSQL changes the unit economics for AI analyst companies
 
-**Author:** moegevirtz  
-**Published:** 9/24/2026, 3:27:12 PM  
+**Author:** emms21  
+**Published:** 9/24/2026, 7:38:07 PM  
 **Categories:** -  
 
-Article URL: https://deepgram.com/speak Comments URL: https://news.ycombinator.com/item?id=49831994 Points: 1 # Comments: 1
+Article URL: https://emms21.github.io/gizmosql-followup/ Comments URL: https://news.ycombinator.com/item?id=49835815 Points: 1 # Comments: 1
 
-📖 [Read original article](https://deepgram.com/speak)
+📖 [Read original article](https://emms21.github.io/gizmosql-followup/)
 
 ---
 
-## 15. Show HN: Local First AI Calculator
+## 15. Ask HN: How do you coach new grads in AI Native dev environments?
 
-**Author:** jacobgold  
-**Published:** 9/24/2026, 3:25:33 PM  
+**Author:** antoineMoPa  
+**Published:** 9/24/2026, 7:12:14 PM  
 **Categories:** -  
 
-Article URL: https://axiom.clor.app/ Comments URL: https://news.ycombinator.com/item?id=49831955 Points: 1 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49835496 Points: 1 # Comments: 0
 
-📖 [Read original article](https://axiom.clor.app/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49835496)
 
 ---
 
-## 16. Paperclip: Open-source orchestration for teams of AI agents
+## 16. When AI writes almost all code, what happens to software engineering?
 
-**Author:** lobo_tuerto  
-**Published:** 9/24/2026, 3:24:21 PM  
+**Author:** gpi  
+**Published:** 9/24/2026, 7:09:23 PM  
 **Categories:** -  
 
-Article URL: https://github.com/paperclipai/paperclip Comments URL: https://news.ycombinator.com/item?id=49831929 Points: 3 # Comments: 0
+Article URL: https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what Comments URL: https://news.ycombinator.com/item?id=49835460 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/paperclipai/paperclip)
+📖 [Read original article](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what)
 
 ---
 
-## 17. Towards a future space-based, highly scalable AI infrastructure system design
+## 17. After multiple deaths and injuries, NHTSA is investigating comma.ai
 
-**Author:** andsoitis  
-**Published:** 9/24/2026, 3:23:01 PM  
+**Author:** betacollector64  
+**Published:** 9/24/2026, 7:07:55 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2511.19468 Comments URL: https://news.ycombinator.com/item?id=49831908 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/ Comments URL: https://news.ycombinator.com/item?id=49835444 Points: 3 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2511.19468)
+📖 [Read original article](https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/)
 
 ---
 
-## 18. Show HN: CraftCX – Observability and intelligence tooling for AI Support team
+## 18. Behind NAZA: How AI is used to assess, reduce collateral damage in IDF interview
 
-**Author:** dugjason  
-**Published:** 9/24/2026, 3:21:45 PM  
+**Author:** harry_nutsachs  
+**Published:** 9/24/2026, 7:06:44 PM  
 **Categories:** -  
 
-Article URL: https://craftcx.com/blog/introducing-craftcx Comments URL: https://news.ycombinator.com/item?id=49831884 Points: 1 # Comments: 0
+Article URL: https://www.jpost.com/israel-news/article-909190 Comments URL: https://news.ycombinator.com/item?id=49835428 Points: 2 # Comments: 0
 
-📖 [Read original article](https://craftcx.com/blog/introducing-craftcx)
+📖 [Read original article](https://www.jpost.com/israel-news/article-909190)
 
 ---
 
-## 19. DHH at Rails World – Ruby on Rails no longer needed now because AI can make apps
+## 19. OpenAI, Anthropic CEOs urge UN countries to cooperate on AI safety standards
 
-**Author:** thunderbong  
-**Published:** 9/24/2026, 3:21:17 PM  
+**Author:** MilnerRoute  
+**Published:** 9/24/2026, 6:40:47 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/_architected/status/2102863549689459031 Comments URL: https://news.ycombinator.com/item?id=49831875 Points: 8 # Comments: 4
+Article URL: https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards Comments URL: https://news.ycombinator.com/item?id=49835056 Points: 3 # Comments: 1
 
-📖 [Read original article](https://twitter.com/_architected/status/2102863549689459031)
+📖 [Read original article](https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards)
 
 ---
 
-## 20. AI companies don't bribe reporters. They fund fellowships
+## 20. Existing laws already cover every type of AI security incident
 
-**Author:** joshcsimmons  
-**Published:** 9/24/2026, 3:20:08 PM  
+**Author:** PKop  
+**Published:** 9/24/2026, 6:35:22 PM  
 **Categories:** -  
 
-Article URL: https://www.drjoshcsimmons.com/writing/ai-companies-dont-bribe-reporters Comments URL: https://news.ycombinator.com/item?id=49831852 Points: 2 # Comments: 0
+Article URL: https://paulfwalsh.substack.com/p/existing-laws-already-cover-every Comments URL: https://news.ycombinator.com/item?id=49834966 Points: 5 # Comments: 1
 
-📖 [Read original article](https://www.drjoshcsimmons.com/writing/ai-companies-dont-bribe-reporters)
+📖 [Read original article](https://paulfwalsh.substack.com/p/existing-laws-already-cover-every)
 
 ---
