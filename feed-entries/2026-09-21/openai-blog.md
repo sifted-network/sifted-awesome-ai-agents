@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-21"
 date: "2026-09-21"
 source: "OpenAI Blog"
-count: 5
+count: 4
 ---
 
 # OpenAI Blog - 2026-09-21
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ OpenAI outlines a path to shared global AI standards, calling for coordinated ev
 Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.
 
 📖 [Read original article](https://openai.com/index/expanding-openai-academy-with-new-learning-paths)
-
----
-
-## 5. How V7 gives AI agents institutional memory
-
-**Author:** -  
-**Published:** 9/21/2026, 12:00:00 AM  
-**Categories:** Startup  
-
-Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.
-
-📖 [Read original article](https://openai.com/index/v7)
 
 ---
