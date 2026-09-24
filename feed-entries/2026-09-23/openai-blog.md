@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-23"
 date: "2026-09-23"
 source: "OpenAI Blog"
-count: 9
+count: 10
 ---
 
 # OpenAI Blog - 2026-09-23
 
-9 items collected.
+10 items collected.
 
 ---
 
@@ -95,7 +95,19 @@ MentalHealthBench is an expert-informed benchmark for evaluating helpful and saf
 
 ---
 
-## 8. Airbnb widens access to GPT-6 Astra and OpenAI frontier models
+## 8. ChatGPT Ads expands to Southeast Asia and Taiwan
+
+**Author:** -  
+**Published:** 9/23/2026, 2:00:00 AM  
+**Categories:** Product  
+
+ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.
+
+📖 [Read original article](https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan)
+
+---
+
+## 9. Airbnb widens access to GPT-6 Astra and OpenAI frontier models
 
 **Author:** -  
 **Published:** 9/23/2026, 1:00:00 AM  
@@ -107,7 +119,7 @@ Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models t
 
 ---
 
-## 9. Grab and OpenAI bring practical AI skills to Southeast Asia
+## 10. Grab and OpenAI bring practical AI skills to Southeast Asia
 
 **Author:** -  
 **Published:** 9/23/2026, 12:00:00 AM  
