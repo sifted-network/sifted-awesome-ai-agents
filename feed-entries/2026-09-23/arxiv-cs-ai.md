@@ -605,7 +605,7 @@ arXiv:2609.25769v1 Announce Type: new Abstract: Graphical User Interface (GUI) A
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2609.25804v1 Announce Type: new Abstract: LLM agents increasingly work on long-horizon tasks, and the decisions they make along the way, such as which hypothesis to test or which implementation to build on, determine the outcome of the whole run. Making these decisions well is becoming a key c...
+arXiv:2609.25804v2 Announce Type: new Abstract: LLM agents increasingly work on long-horizon tasks, and the decisions they make along the way, such as which hypothesis to test or which implementation to build on, determine the outcome of the whole run. Making these decisions well is becoming a key c...
 
 📖 [Read original article](https://arxiv.org/abs/2609.25804)
 
@@ -1573,11 +1573,11 @@ arXiv:2609.25237v1 Announce Type: cross Abstract: Post-training is becoming a se
 
 ## 131. How Children Design and Reason about Trustworthy AI Chatbots
 
-**Author:** Deniz Ozturk (Georgie), Jiayu Li (Georgie), Daksh Pratap Singh (Georgie), Yasitha Rajapaksha (Georgie), Fasika Melese (Georgie), Bahare Riahi (Georgie), Shiyan Jiang (Georgie), Qiao (Georgie), Jin, Joey Huang, Veronica Catet\'e, Tiffany Barnes, Xiaoyi Tian  
+**Author:** Deniz Ozturk, Jiayu Li, Daksh Pratap Singh, Yasitha Rajapaksha, Fasika Melese, Bahare Riahi, Shiyan Jiang, Qiao Jin, Joey Huang, Veronica Catet\'e, Tiffany Barnes, Xiaoyi Tian  
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.HC, cs.AI  
 
-arXiv:2609.25244v1 Announce Type: cross Abstract: Children increasingly interact with AI chatbots, making trust calibration essential to AI literacy. Prior research has examined children's trust in AI mainly as users evaluating systems built by others, rather than as designers of their own chatbots....
+arXiv:2609.25244v2 Announce Type: cross Abstract: Children increasingly interact with AI chatbots, making trust calibration essential to AI literacy. Prior research has examined children's trust in AI mainly as users evaluating systems built by others, rather than as designers of their own chatbots....
 
 📖 [Read original article](https://arxiv.org/abs/2609.25244)
 
@@ -2477,7 +2477,7 @@ arXiv:2609.26342v1 Announce Type: cross Abstract: Residual Vector Quantization t
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2609.26347v1 Announce Type: cross Abstract: The scarcity of non-English language data in specialized domains significantly limits the development of effective Natural Language Processing (NLP) tools. We present TransBERT, a novel framework for pre-training language models using exclusively syn...
+arXiv:2609.26347v2 Announce Type: cross Abstract: The scarcity of non-English language data in specialized domains significantly limits the development of effective Natural Language Processing (NLP) tools. We present TransBERT, a novel framework for pre-training language models using exclusively syn...
 
 📖 [Read original article](https://arxiv.org/abs/2609.26347)
 
@@ -2549,7 +2549,7 @@ arXiv:2609.26389v1 Announce Type: cross Abstract: Real-world time series evolve 
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2609.26425v1 Announce Type: cross Abstract: KV cache memory has become a major deployment bottleneck for video generation and world models, which motivates low-bit quantization study for efficiency. Existing 2-bit KV cache quantization methods can achieve nearly lossless performance on video b...
+arXiv:2609.26425v2 Announce Type: cross Abstract: KV cache memory has become a major deployment bottleneck for video generation and world models, which motivates low-bit quantization study for efficiency. Existing 2-bit KV cache quantization methods can achieve nearly lossless performance on video b...
 
 📖 [Read original article](https://arxiv.org/abs/2609.26425)
 
@@ -2861,7 +2861,7 @@ arXiv:2609.26749v1 Announce Type: cross Abstract: Large language models (LLMs) a
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2609.26756v1 Announce Type: cross Abstract: X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modalities like CT or MRI, X-ray collapses 3D anatomy into a 2D projection, causing structures to overlap and anatomical boundaries to ...
+arXiv:2609.26756v2 Announce Type: cross Abstract: X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modalities like CT or MRI, X-ray collapses 3D anatomy into a 2D projection, causing structures to overlap and anatomical boundaries to ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.26756)
 
@@ -2885,7 +2885,7 @@ arXiv:2609.26761v1 Announce Type: cross Abstract: Agents using the Model Context
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.IR, cs.LG  
 
-arXiv:2609.26780v1 Announce Type: cross Abstract: Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perceive one another, what informati...
+arXiv:2609.26780v2 Announce Type: cross Abstract: Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perceive one another, what informati...
 
 📖 [Read original article](https://arxiv.org/abs/2609.26780)
 
@@ -3845,7 +3845,7 @@ arXiv:2606.26383v2 Announce Type: replace-cross Abstract: How fast could a deep-
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.01940v2 Announce Type: replace-cross Abstract: Mechanistic interpretability seeks to explain transformer behavior through circuits: sets of internal components that causally support a behavior. However, self-repair creates a blind spot: ablating a primary component can activate a dormant ...
+arXiv:2607.01940v3 Announce Type: replace-cross Abstract: Mechanistic interpretability seeks to explain transformer behavior through circuits: sets of internal components that causally support a behavior. However, self-repair creates a blind spot: ablating a primary component can activate a dormant ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.01940)
 
@@ -4049,7 +4049,7 @@ arXiv:2609.03480v3 Announce Type: replace-cross Abstract: We map tree species ac
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2609.06100v3 Announce Type: replace-cross Abstract: Verifiable rewards improve language models through reliable task-level feedback, but methods based on Group Relative Policy Optimization (GRPO) apply a sequence-level advantage uniformly across all tokens. This coarse credit assignment reinfo...
+arXiv:2609.06100v4 Announce Type: replace-cross Abstract: Verifiable rewards improve language models through reliable task-level feedback, but methods based on Group Relative Policy Optimization (GRPO) apply a sequence-level advantage uniformly across all tokens. This coarse credit assignment reinfo...
 
 📖 [Read original article](https://arxiv.org/abs/2609.06100)
 
@@ -4385,7 +4385,7 @@ arXiv:2609.24814v2 Announce Type: replace-cross Abstract: Advances in processing
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2609.24815v2 Announce Type: replace-cross Abstract: Scalable simulation is essential for robot data generation, policy training, evaluation, and safe iteration, yet real-world interaction is costly and conventional simulators require labor-intensive construction. We present Uranus, a data-driv...
+arXiv:2609.24815v3 Announce Type: replace-cross Abstract: Scalable simulation is essential for robot data generation, policy training, evaluation, and safe iteration, yet real-world interaction is costly and conventional simulators require labor-intensive construction. We present Uranus, a data-driv...
 
 📖 [Read original article](https://arxiv.org/abs/2609.24815)
 
