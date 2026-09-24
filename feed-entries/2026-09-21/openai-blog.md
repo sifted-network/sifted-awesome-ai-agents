@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-21"
 date: "2026-09-21"
 source: "OpenAI Blog"
-count: 4
+count: 2
 ---
 
 # OpenAI Blog - 2026-09-21
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small busines
 OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.
 
 📖 [Read original article](https://openai.com/index/advisory-group-on-mathematics-and-ai)
-
----
-
-## 3. Building standards for the next phase of AI
-
-**Author:** -  
-**Published:** 9/21/2026, 10:00:00 AM  
-**Categories:** Global Affairs  
-
-OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.
-
-📖 [Read original article](https://openai.com/index/building-standards-next-phase-ai)
-
----
-
-## 4. Expanding OpenAI Academy with new learning paths
-
-**Author:** -  
-**Published:** 9/21/2026, 7:00:00 AM  
-**Categories:** Company  
-
-Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.
-
-📖 [Read original article](https://openai.com/index/expanding-openai-academy-with-new-learning-paths)
 
 ---
