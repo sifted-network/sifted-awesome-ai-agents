@@ -89,7 +89,7 @@ arXiv:2609.25146v1 Announce Type: new Abstract: Continual learning, the ability 
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, math.CO  
 
-arXiv:2609.25149v1 Announce Type: new Abstract: Solving large-scale instances of the Traveling Salesman Problem (TSP) exactly is computationally expensive. Researchers often employ graph sparsification methods to improve computational efficiency. Traditional sparsification methods typically rely on ...
+arXiv:2609.25149v2 Announce Type: new Abstract: The maximum independent set (MIS) problem is a fundamental NP-hard combinatorial optimization problem with applications in scheduling, resource allocation, and network analysis. Exact solvers can provide high-quality solutions or optimality certificate...
 
 📖 [Read original article](https://arxiv.org/abs/2609.25149)
 
@@ -569,7 +569,7 @@ arXiv:2609.25735v1 Announce Type: new Abstract: Class-balanced replay controls c
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.25745v1 Announce Type: new Abstract: RandOpt samples weight-perturbed language models and ensembles top-ranked candidates through plurality voting, but its global perturbation scale ignores heterogeneous module geometry. We propose \mbox{\textbf{\emph{Modular Norm RandOpt}}}, an architect...
+arXiv:2609.25745v2 Announce Type: new Abstract: RandOpt samples weight-perturbed language models and ensembles top-ranked candidates through plurality voting, but its global perturbation scale ignores heterogeneous module geometry. We propose Modular Norm RandOpt, an architecture-aware sampling meth...
 
 📖 [Read original article](https://arxiv.org/abs/2609.25745)
 
@@ -2285,7 +2285,7 @@ arXiv:2609.26326v1 Announce Type: cross Abstract: We study preference elicitatio
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.LG  
 
-arXiv:2609.26347v1 Announce Type: cross Abstract: The scarcity of non-English language data in specialized domains significantly limits the development of effective Natural Language Processing (NLP) tools. We present TransBERT, a novel framework for pre-training language models using exclusively syn...
+arXiv:2609.26347v2 Announce Type: cross Abstract: The scarcity of non-English language data in specialized domains significantly limits the development of effective Natural Language Processing (NLP) tools. We present TransBERT, a novel framework for pre-training language models using exclusively syn...
 
 📖 [Read original article](https://arxiv.org/abs/2609.26347)
 
@@ -2413,11 +2413,11 @@ arXiv:2609.26581v1 Announce Type: cross Abstract: We study Polyak-type step-size
 
 ## 201. GTR: Gated Token Recurrence for Efficient Dense Prediction
 
-**Author:** Zhe Feng, Longfei Liu, Wei Liu, Kai Chen, Jiangjiang Kong, Wei Zhou, Yifeng Qian, Dexiong Chen, Xuanlong Yu, Xi Shen  
+**Author:** Zhe Feng, Longfei Liu, Wei Liu, Kai Chen, Jiangang Kong, Wei Zhou, Yifeng Qian, Dexiong Chen, Xuanlong Yu, Xi Shen  
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2609.26590v1 Announce Type: cross Abstract: Self-attention-based vision backbones perform well on dense prediction, but the quadratic computational cost of global softmax attention limits their efficiency as image resolution increases. We introduce Gated Token Recurrence (GTR), a softmax-free ...
+arXiv:2609.26590v2 Announce Type: cross Abstract: Self-attention-based vision backbones perform well on dense prediction, but the quadratic computational cost of global softmax attention limits their efficiency as image resolution increases. We introduce Gated Token Recurrence (GTR), a softmax-free ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.26590)
 
@@ -2465,7 +2465,7 @@ arXiv:2609.26617v1 Announce Type: cross Abstract: Clinical decision making heavi
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2609.26624v1 Announce Type: cross Abstract: Sparse Gaussian processes achieve $O(N)$ inference by replacing the kernel with an appropriate expansion in a fixed basis $\{\phi_j\}$ on the input space. Given a compute budget $M \ll N$, practitioners conventionally truncate the basis to its first ...
+arXiv:2609.26624v2 Announce Type: cross Abstract: Sparse Gaussian processes achieve $O(N)$ inference by replacing the kernel with an appropriate expansion in a fixed basis $\{\phi_j\}$ on the input space. Given a compute budget $M \ll N$, practitioners conventionally truncate the basis to its first ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.26624)
 
@@ -2585,7 +2585,7 @@ arXiv:2609.26779v1 Announce Type: cross Abstract: Agents often work on complex p
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.IR, cs.LG  
 
-arXiv:2609.26780v1 Announce Type: cross Abstract: Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perceive one another, what informati...
+arXiv:2609.26780v2 Announce Type: cross Abstract: Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perceive one another, what informati...
 
 📖 [Read original article](https://arxiv.org/abs/2609.26780)
 
@@ -3029,7 +3029,7 @@ arXiv:2606.29521v2 Announce Type: replace Abstract: Deep learning problems rarel
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2607.01940v2 Announce Type: replace Abstract: Mechanistic interpretability seeks to explain transformer behavior through circuits: sets of internal components that causally support a behavior. However, self-repair creates a blind spot: ablating a primary component can activate a dormant backup...
+arXiv:2607.01940v3 Announce Type: replace Abstract: Mechanistic interpretability seeks to explain transformer behavior through circuits: sets of internal components that causally support a behavior. However, self-repair creates a blind spot: ablating a primary component can activate a dormant backup...
 
 📖 [Read original article](https://arxiv.org/abs/2607.01940)
 
@@ -3161,7 +3161,7 @@ arXiv:2609.00450v2 Announce Type: replace Abstract: Block Quantization (BQ) enab
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2609.06100v3 Announce Type: replace Abstract: Verifiable rewards improve language models through reliable task-level feedback, but methods based on Group Relative Policy Optimization (GRPO) apply a sequence-level advantage uniformly across all tokens. This coarse credit assignment reinforces o...
+arXiv:2609.06100v4 Announce Type: replace Abstract: Verifiable rewards improve language models through reliable task-level feedback, but methods based on Group Relative Policy Optimization (GRPO) apply a sequence-level advantage uniformly across all tokens. This coarse credit assignment reinforces o...
 
 📖 [Read original article](https://arxiv.org/abs/2609.06100)
 
@@ -3353,7 +3353,7 @@ arXiv:2609.22178v2 Announce Type: replace Abstract: Computer-use agents (CUAs) h
 **Published:** 9/23/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.GR, cs.SD  
 
-arXiv:2609.22361v2 Announce Type: replace Abstract: Joint audio--video (AV) generators are trained on data in which \emph{what an event looks like} and \emph{what it sounds like} are spuriously correlated. We present a \emph{controlled causal study} of the resulting failure mode. In an AV structural...
+arXiv:2609.22361v3 Announce Type: replace Abstract: Joint audio--video (AV) generators are trained on data in which \emph{what an event looks like} and \emph{what it sounds like} are spuriously correlated. We present a \emph{controlled causal study} of the resulting failure mode. In an AV structural...
 
 📖 [Read original article](https://arxiv.org/abs/2609.22361)
 
