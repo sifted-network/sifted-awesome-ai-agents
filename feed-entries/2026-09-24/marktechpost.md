@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-24"
 date: "2026-09-24"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-09-24
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Contrastive-LM Releases CLM-8B: An Open System One Model That Scores Agent Actions Up to 9× Faster Than Jev
+## 1. BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost
+
+**Author:** Michal Sutter  
+**Published:** 9/24/2026, 6:58:56 PM  
+**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Tech News, Technology  
+
+BottleCap AI has released ThinkingCap-Qwen3.8-27B, a fine-tune of Qwen3.8-27B that spends 37.2% fewer thinking tokens across 12 benchmarks. Macro accuracy moves from 86.65% to 85.79%, and long-context AA-LCR improves by 2.25pp. The model is a drop-in replacement on vLLM and SGLang, with FP8, NVFP4, ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/)
+
+---
+
+## 2. Contrastive-LM Releases CLM-8B: An Open System One Model That Scores Agent Actions Up to 9× Faster Than Jev
 
 **Author:** Michal Sutter  
 **Published:** 9/24/2026, 5:27:41 AM  
@@ -23,7 +35,7 @@ Contrastive-LM has released CLM-8B, an open System One model that scores candida
 
 ---
 
-## 2. A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Confidence, and Speculative Fan-Out with a System One Model
+## 3. A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Confidence, and Speculative Fan-Out with a System One Model
 
 **Author:** Asif Razzaq  
 **Published:** 9/24/2026, 12:53:09 AM  
