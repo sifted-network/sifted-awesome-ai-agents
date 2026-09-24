@@ -2,179 +2,251 @@
 title: "Hacker News AI - 2026-09-24"
 date: "2026-09-24"
 source: "Hacker News AI"
-count: 14
+count: 20
 ---
 
 # Hacker News AI - 2026-09-24
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History
+## 1. Show HN: Szept – talk to your AI agents and show them your screen (macOS)
 
-**Author:** AnodicElegy  
-**Published:** 9/24/2026, 3:24:33 AM  
+**Author:** Donmario  
+**Published:** 9/24/2026, 11:15:14 AM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd Comments URL: https://news.ycombinator.com/item?id=49825855 Points: 3 # Comments: 1
+Article URL: https://szept.szyma.co/ Comments URL: https://news.ycombinator.com/item?id=49829021 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd)
+📖 [Read original article](https://szept.szyma.co/)
 
 ---
 
-## 2. We Run Kaizen on AI
+## 2. AI is dominating the conversation at Climate Week
 
-**Author:** atonse  
-**Published:** 9/24/2026, 3:08:51 AM  
+**Author:** joozio  
+**Published:** 9/24/2026, 11:01:31 AM  
 **Categories:** -  
 
-Article URL: https://kznconsulting.com/work/how-we-run-kaizen Comments URL: https://news.ycombinator.com/item?id=49825737 Points: 1 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/ Comments URL: https://news.ycombinator.com/item?id=49828921 Points: 2 # Comments: 0
 
-📖 [Read original article](https://kznconsulting.com/work/how-we-run-kaizen)
+📖 [Read original article](https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/)
 
 ---
 
-## 3. Automatically detecting AI text in my browser
+## 3. Ten AI models debated fixes for 15 problems
 
-**Author:** thatslast  
-**Published:** 9/24/2026, 2:31:32 AM  
+**Author:** tiago-pita  
+**Published:** 9/24/2026, 10:58:14 AM  
 **Categories:** -  
 
-Article URL: https://www.seangoedecke.com/deckard/ Comments URL: https://news.ycombinator.com/item?id=49825489 Points: 1 # Comments: 0
+Article URL: https://fixtheworld.io/ai/debate Comments URL: https://news.ycombinator.com/item?id=49828898 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.seangoedecke.com/deckard/)
+📖 [Read original article](https://fixtheworld.io/ai/debate)
 
 ---
 
-## 4. Show HN: Chatlo – an iOS-native AI agent, now with Jev
+## 4. Evolving programming languages in the AI era
 
-**Author:** qingbin  
-**Published:** 9/24/2026, 2:23:12 AM  
+**Author:** ahamez  
+**Published:** 9/24/2026, 10:52:53 AM  
 **Categories:** -  
 
-Hello HN!I’m sure many of you have used AI agent apps like OpenClaw, Claude Code, or Codex on your PCs, but you rarely see AI agents running on the iOS platform. That’s why I created an agent app that runs exclusively on iOS—it doesn’t require a separate computer or server; it runs entirely on your ...
+Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49828851 Points: 1 # Comments: 0
 
-📖 [Read original article](https://apps.apple.com/us/app/chatlo-ai-chat-agent/id6771188943)
+📖 [Read original article](https://dashbit.co/blog/evolving-ai-era)
 
 ---
 
-## 5. AI Isn't Going to Destroy Humanity–But the People Building It Might
+## 5. Utyansky Index: Deterministic O(1) slot isolation for AI vibe coding
 
-**Author:** johnny313  
-**Published:** 9/24/2026, 2:09:12 AM  
+**Author:** vladutyansky  
+**Published:** 9/24/2026, 10:45:09 AM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721/ Comments URL: https://news.ycombinator.com/item?id=49825339 Points: 4 # Comments: 1
+Article URL: https://github.com/vlad-utyansky/utyansky-index Comments URL: https://news.ycombinator.com/item?id=49828783 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721/)
+📖 [Read original article](https://github.com/vlad-utyansky/utyansky-index)
 
 ---
 
-## 6. The Misalignment Is Within: Why Mathematics Must Embrace the AI Paradigm
+## 6. Show HN: Forkbench – boundaries and supervision for AI coding agents
 
-**Author:** b1nj0y  
-**Published:** 9/24/2026, 1:54:20 AM  
+**Author:** forkbench  
+**Published:** 9/24/2026, 10:44:24 AM  
 **Categories:** -  
 
-Article URL: https://medium.com/@b1nj0y/the-misalignment-is-within-why-mathematics-must-embrace-the-ai-paradigm-8ba75c4bafda Comments URL: https://news.ycombinator.com/item?id=49825240 Points: 4 # Comments: 1
+Article URL: https://forkbench.com/l/FAUiWl3f Comments URL: https://news.ycombinator.com/item?id=49828775 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@b1nj0y/the-misalignment-is-within-why-mathematics-must-embrace-the-ai-paradigm-8ba75c4bafda)
+📖 [Read original article](https://forkbench.com/l/FAUiWl3f)
 
 ---
 
-## 7. AP: Avoid language that gives [AI] human characteristics
+## 7. I am looking for GTM co-founder for my anti AI slop startup I am building
 
-**Author:** jaredwiener  
-**Published:** 9/24/2026, 1:19:38 AM  
+**Author:** arpanghoshal  
+**Published:** 9/24/2026, 10:42:23 AM  
 **Categories:** -  
 
-Article URL: https://twitter.com/APStylebook/status/2102807962364383502 Comments URL: https://news.ycombinator.com/item?id=49824986 Points: 8 # Comments: 1
+Comments URL: https://news.ycombinator.com/item?id=49828756 Points: 1 # Comments: 1
 
-📖 [Read original article](https://twitter.com/APStylebook/status/2102807962364383502)
+📖 [Read original article](https://news.ycombinator.com/item?id=49828756)
 
 ---
 
-## 8. We used an AI agent to fix an open-source bug. Someone asked to ban us
+## 8. The Invisible Way Companies Are Using AI to Set Salaries
 
-**Author:** maxcr  
-**Published:** 9/24/2026, 1:14:43 AM  
+**Author:** thm  
+**Published:** 9/24/2026, 10:41:25 AM  
 **Categories:** -  
 
-Article URL: https://github.com/saulpw/visidata/pull/3229 Comments URL: https://news.ycombinator.com/item?id=49824957 Points: 14 # Comments: 19
+Article URL: https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8 Comments URL: https://news.ycombinator.com/item?id=49828746 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/saulpw/visidata/pull/3229)
+📖 [Read original article](https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8)
 
 ---
 
-## 9. AI startups with hyper ARR growth – what's happening inside these companies?
+## 9. Agent IAP – Little Snitch Meets 1Password for AI Agents
 
-**Author:** d675  
-**Published:** 9/24/2026, 1:04:35 AM  
+**Author:** mvip  
+**Published:** 9/24/2026, 10:40:59 AM  
 **Categories:** -  
 
-Seeing more and more people leave great big tech jobs or very smart new grads start AI companies that seem to hit $10m, $50m, $100m ARR incredibly quickly.What’s actually going on inside these companies?Are they profitable? How much are they burning? Are they really growing that fast? And are founde...
+Article URL: https://vpetersson.com/2026/09/23/little-snitch-meets-1password-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49828744 Points: 7 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49824887)
+📖 [Read original article](https://vpetersson.com/2026/09/23/little-snitch-meets-1password-for-ai-agents/)
 
 ---
 
-## 10. AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?
+## 10. ACTx486 turns a podcast or video into a responsive AI conversation
 
-**Author:** sonabinu  
-**Published:** 9/24/2026, 12:59:41 AM  
+**Author:** Alifatisk  
+**Published:** 9/24/2026, 10:38:30 AM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830 Comments URL: https://news.ycombinator.com/item?id=49824843 Points: 2 # Comments: 0
+Article URL: https://runtimewire.com/article/actx486-turns-a-podcast-or-video-into-a-responsive-ai-conversation Comments URL: https://news.ycombinator.com/item?id=49828727 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830)
+📖 [Read original article](https://runtimewire.com/article/actx486-turns-a-podcast-or-video-into-a-responsive-ai-conversation)
 
 ---
 
-## 11. Feds Target AI Critics as \"Foreign Agents\"
+## 11. Polytender – AI for Public Tenders
 
-**Author:** nmeagent  
-**Published:** 9/24/2026, 12:41:31 AM  
+**Author:** mnewme  
+**Published:** 9/24/2026, 10:37:47 AM  
 **Categories:** -  
 
-Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 83 # Comments: 55
+Article URL: https://polytender.com/en Comments URL: https://news.ycombinator.com/item?id=49828718 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
+📖 [Read original article](https://polytender.com/en)
 
 ---
 
-## 12. Holistic design systems for the AI coding era
+## 12. Show HN: I built AgeDB, a database for AI agents to store context and data
 
-**Author:** bihla  
-**Published:** 9/24/2026, 12:21:16 AM  
+**Author:** sivsivsree  
+**Published:** 9/24/2026, 10:34:05 AM  
 **Categories:** -  
 
-Article URL: https://numeric.substack.com/p/design-systems-at-numeric Comments URL: https://news.ycombinator.com/item?id=49824554 Points: 3 # Comments: 0
+Hi HN, I’m building AgeDB, a database for AI agents to store context and data, share it across agents and model providers, and query it using natural language.The idea is that information collected by one agent can be reused by another, even when they use different providers. You can also ask for th...
 
-📖 [Read original article](https://numeric.substack.com/p/design-systems-at-numeric)
+📖 [Read original article](https://github.com/sivsivsree/agedb)
 
 ---
 
-## 13. AI-CAD: An OSS Multi-Agent Harness for Mech. Eng. CAD
+## 13. Pro-Human AI Declaration
 
-**Author:** jbm  
-**Published:** 9/24/2026, 12:14:44 AM  
+**Author:** ljmf00  
+**Published:** 9/24/2026, 10:30:04 AM  
 **Categories:** -  
 
-Article URL: https://github.com/ai-cad-labs/ai-cad Comments URL: https://news.ycombinator.com/item?id=49824497 Points: 5 # Comments: 0
+Article URL: https://prohumandeclaration.com/en/sign/demand-ai-accountability Comments URL: https://news.ycombinator.com/item?id=49828647 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/ai-cad-labs/ai-cad)
+📖 [Read original article](https://prohumandeclaration.com/en/sign/demand-ai-accountability)
 
 ---
 
-## 14. From biologists, math could learn to live with AI
+## 14. I miss old Google: readers tell us how they search the internet in the age of AI
 
-**Author:** oliculipolicula  
-**Published:** 9/24/2026, 12:04:00 AM  
+**Author:** CrypticShift  
+**Published:** 9/24/2026, 10:24:53 AM  
 **Categories:** -  
 
-Article URL: https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49824428 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches Comments URL: https://news.ycombinator.com/item?id=49828609 Points: 1 # Comments: 0
 
-📖 [Read original article](https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/)
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches)
+
+---
+
+## 15. AI meets trade Global linkages and the cross-country distribution of AI gains
+
+**Author:** Bluestein  
+**Published:** 9/24/2026, 10:08:40 AM  
+**Categories:** -  
+
+Article URL: https://www.oecd.org/en/publications/ai-meets-trade_13081644-en.html Comments URL: https://news.ycombinator.com/item?id=49828503 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.oecd.org/en/publications/ai-meets-trade_13081644-en.html)
+
+---
+
+## 16. Mark Zuckerberg unveils AI 'charm' device that can fit on a keychain
+
+**Author:** bazzmt  
+**Published:** 9/24/2026, 9:59:55 AM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00 Comments URL: https://news.ycombinator.com/item?id=49828450 Points: 2 # Comments: 2
+
+📖 [Read original article](https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00)
+
+---
+
+## 17. AI has no intent and no motivation
+
+**Author:** aquastorm  
+**Published:** 9/24/2026, 9:13:25 AM  
+**Categories:** -  
+
+Article URL: https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html Comments URL: https://news.ycombinator.com/item?id=49828133 Points: 36 # Comments: 41
+
+📖 [Read original article](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html)
+
+---
+
+## 18. Cutting the 'coordination tax': How agentic AI can reshape workflows
+
+**Author:** bob1029  
+**Published:** 9/24/2026, 9:12:19 AM  
+**Categories:** -  
+
+Article URL: https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows Comments URL: https://news.ycombinator.com/item?id=49828122 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows)
+
+---
+
+## 19. Proposed bill to ban artificial superintelligence and create Department of AI
+
+**Author:** msaltz  
+**Published:** 9/24/2026, 8:59:32 AM  
+**Categories:** -  
+
+Article URL: https://apnews.com/article/ai-superintelligence-bernie-sanders-d6a6a2cd8e71d7c95bdc394595aa85d1 Comments URL: https://news.ycombinator.com/item?id=49828049 Points: 4 # Comments: 2
+
+📖 [Read original article](https://apnews.com/article/ai-superintelligence-bernie-sanders-d6a6a2cd8e71d7c95bdc394595aa85d1)
+
+---
+
+## 20. Anthropic CEO Amodei Warns UN Security Council on AI Risks
+
+**Author:** Betelbuddy  
+**Published:** 9/24/2026, 8:55:52 AM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=u-u8gOgNA9o Comments URL: https://news.ycombinator.com/item?id=49828026 Points: 5 # Comments: 1
+
+📖 [Read original article](https://www.youtube.com/watch?v=u-u8gOgNA9o)
 
 ---
