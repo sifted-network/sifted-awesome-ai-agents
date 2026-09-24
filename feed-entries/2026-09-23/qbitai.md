@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-23"
 date: "2026-09-23"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-09-23
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ count: 10
 对复杂现实进行推演与决策
 
 📖 [Read original article](https://www.qbitai.com/2026/09/496352.html)
-
----
-
-## 10. 实时世界模型进入“全科生”阶段，PixVerse R2先交卷！
-
-**Author:** 梦瑶  
-**Published:** 9/23/2026, 6:08:50 AM  
-**Categories:** 资讯, 世界模型  
-
-实时性和通用能力，世界模型可以全都要
-
-📖 [Read original article](https://www.qbitai.com/2026/09/496329.html)
 
 ---
