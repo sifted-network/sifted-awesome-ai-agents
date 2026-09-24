@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Szept – talk to your AI agents and show them your screen (macOS)
+## 1. Meta puts its AI assistant on a keychain
 
-**Author:** Donmario  
-**Published:** 9/24/2026, 11:15:14 AM  
+**Author:** wrxd  
+**Published:** 9/24/2026, 4:24:46 PM  
 **Categories:** -  
 
-Article URL: https://szept.szyma.co/ Comments URL: https://news.ycombinator.com/item?id=49829021 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/ Comments URL: https://news.ycombinator.com/item?id=49832965 Points: 2 # Comments: 1
 
-📖 [Read original article](https://szept.szyma.co/)
+📖 [Read original article](https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/)
 
 ---
 
-## 2. AI is dominating the conversation at Climate Week
+## 2. How to rage bait Americans (with AI) [video]
 
-**Author:** joozio  
-**Published:** 9/24/2026, 11:01:31 AM  
+**Author:** NalNezumi  
+**Published:** 9/24/2026, 4:24:26 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/ Comments URL: https://news.ycombinator.com/item?id=49828921 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=zCvPPaIN5Ew Comments URL: https://news.ycombinator.com/item?id=49832958 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/)
+📖 [Read original article](https://www.youtube.com/watch?v=zCvPPaIN5Ew)
 
 ---
 
-## 3. Ten AI models debated fixes for 15 problems
+## 3. AI Models Are Great at Finding Security Bugs. Can They Tell When They're Fixed?
 
-**Author:** tiago-pita  
-**Published:** 9/24/2026, 10:58:14 AM  
+**Author:** ls1911  
+**Published:** 9/24/2026, 4:17:58 PM  
 **Categories:** -  
 
-Article URL: https://fixtheworld.io/ai/debate Comments URL: https://news.ycombinator.com/item?id=49828898 Points: 1 # Comments: 0
+Article URL: https://medium.com/meetcyber/ai-models-are-great-at-finding-security-bugs-but-can-they-tell-when-theyre-fixed-20052d828f2a Comments URL: https://news.ycombinator.com/item?id=49832880 Points: 1 # Comments: 0
 
-📖 [Read original article](https://fixtheworld.io/ai/debate)
+📖 [Read original article](https://medium.com/meetcyber/ai-models-are-great-at-finding-security-bugs-but-can-they-tell-when-theyre-fixed-20052d828f2a)
 
 ---
 
-## 4. Evolving programming languages in the AI era
+## 4. Welcoming Jürgen Schmidhuber to Sakana AI
 
-**Author:** ahamez  
-**Published:** 9/24/2026, 10:52:53 AM  
+**Author:** hardmaru  
+**Published:** 9/24/2026, 4:15:30 PM  
 **Categories:** -  
 
-Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49828851 Points: 1 # Comments: 0
+Article URL: https://sakana.ai/schmidhuber/ Comments URL: https://news.ycombinator.com/item?id=49832842 Points: 3 # Comments: 0
 
-📖 [Read original article](https://dashbit.co/blog/evolving-ai-era)
+📖 [Read original article](https://sakana.ai/schmidhuber/)
 
 ---
 
-## 5. Utyansky Index: Deterministic O(1) slot isolation for AI vibe coding
+## 5. AI doomers may be wrong but the skeptics seem even wronger
 
-**Author:** vladutyansky  
-**Published:** 9/24/2026, 10:45:09 AM  
+**Author:** speckx  
+**Published:** 9/24/2026, 4:12:28 PM  
 **Categories:** -  
 
-Article URL: https://github.com/vlad-utyansky/utyansky-index Comments URL: https://news.ycombinator.com/item?id=49828783 Points: 2 # Comments: 0
+Article URL: https://mathewingramblog.wordpress.com/2026/09/24/ai-doomers-may-be-wrong-but-the-skeptics-seem-even-wronger/ Comments URL: https://news.ycombinator.com/item?id=49832782 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/vlad-utyansky/utyansky-index)
+📖 [Read original article](https://mathewingramblog.wordpress.com/2026/09/24/ai-doomers-may-be-wrong-but-the-skeptics-seem-even-wronger/)
 
 ---
 
-## 6. Show HN: Forkbench – boundaries and supervision for AI coding agents
+## 6. Mathematics in the Age of AI Oracles [pdf]
 
-**Author:** forkbench  
-**Published:** 9/24/2026, 10:44:24 AM  
+**Author:** pharmacy7766  
+**Published:** 9/24/2026, 4:06:24 PM  
 **Categories:** -  
 
-Article URL: https://forkbench.com/l/FAUiWl3f Comments URL: https://news.ycombinator.com/item?id=49828775 Points: 1 # Comments: 0
+Article URL: https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf Comments URL: https://news.ycombinator.com/item?id=49832689 Points: 3 # Comments: 0
 
-📖 [Read original article](https://forkbench.com/l/FAUiWl3f)
+📖 [Read original article](https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf)
 
 ---
 
-## 7. I am looking for GTM co-founder for my anti AI slop startup I am building
+## 7. Oracle invokes force majeure on New Mexico AI data center
 
-**Author:** arpanghoshal  
-**Published:** 9/24/2026, 10:42:23 AM  
+**Author:** dgellow  
+**Published:** 9/24/2026, 3:58:40 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49828756 Points: 1 # Comments: 1
+Article URL: https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426 Comments URL: https://news.ycombinator.com/item?id=49832564 Points: 5 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49828756)
+📖 [Read original article](https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426)
 
 ---
 
-## 8. The Invisible Way Companies Are Using AI to Set Salaries
+## 8. I Have a Confession: I Built This Site with AI – Please Forgive Me
 
-**Author:** thm  
-**Published:** 9/24/2026, 10:41:25 AM  
+**Author:** joelberger  
+**Published:** 9/24/2026, 3:54:23 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8 Comments URL: https://news.ycombinator.com/item?id=49828746 Points: 3 # Comments: 0
+Article URL: https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai Comments URL: https://news.ycombinator.com/item?id=49832491 Points: 10 # Comments: 7
 
-📖 [Read original article](https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8)
+📖 [Read original article](https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai)
 
 ---
 
-## 9. Agent IAP – Little Snitch Meets 1Password for AI Agents
+## 9. Show HN: Trify3D – Compare AI 3D engines on one input and keep the best mesh
 
-**Author:** mvip  
-**Published:** 9/24/2026, 10:40:59 AM  
+**Author:** lizoenn  
+**Published:** 9/24/2026, 3:47:11 PM  
 **Categories:** -  
 
-Article URL: https://vpetersson.com/2026/09/23/little-snitch-meets-1password-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49828744 Points: 7 # Comments: 1
+Article URL: https://trify3d.com Comments URL: https://news.ycombinator.com/item?id=49832351 Points: 2 # Comments: 0
 
-📖 [Read original article](https://vpetersson.com/2026/09/23/little-snitch-meets-1password-for-ai-agents/)
+📖 [Read original article](https://trify3d.com)
 
 ---
 
-## 10. ACTx486 turns a podcast or video into a responsive AI conversation
+## 10. AI Evals: Everything You Need to Know
 
-**Author:** Alifatisk  
-**Published:** 9/24/2026, 10:38:30 AM  
+**Author:** tosh  
+**Published:** 9/24/2026, 3:46:51 PM  
 **Categories:** -  
 
-Article URL: https://runtimewire.com/article/actx486-turns-a-podcast-or-video-into-a-responsive-ai-conversation Comments URL: https://news.ycombinator.com/item?id=49828727 Points: 1 # Comments: 0
+Article URL: https://hamel.dev/blog/posts/evals-faq/ Comments URL: https://news.ycombinator.com/item?id=49832346 Points: 2 # Comments: 0
 
-📖 [Read original article](https://runtimewire.com/article/actx486-turns-a-podcast-or-video-into-a-responsive-ai-conversation)
+📖 [Read original article](https://hamel.dev/blog/posts/evals-faq/)
 
 ---
 
-## 11. Polytender – AI for Public Tenders
+## 11. Show HN: Potluck – Run local AI across the computers you own
 
-**Author:** mnewme  
-**Published:** 9/24/2026, 10:37:47 AM  
+**Author:** robshippr  
+**Published:** 9/24/2026, 3:42:36 PM  
 **Categories:** -  
 
-Article URL: https://polytender.com/en Comments URL: https://news.ycombinator.com/item?id=49828718 Points: 1 # Comments: 0
+Hey All, my name is Rob and i've been working on Potluck for a couple of months. The idea is pretty simple... I can't afford a huge cluster of machines, nor can I afford a bunch of GPUs or cloud instances. But I do have a couple of laptops, a couple of gaming computers and I figured why can't I just...
 
-📖 [Read original article](https://polytender.com/en)
+📖 [Read original article](https://trypotluck.ai/)
 
 ---
 
-## 12. Show HN: I built AgeDB, a database for AI agents to store context and data
+## 12. Agent-Manager: Reviewing code while an AI agent is still rewriting it
 
-**Author:** sivsivsree  
-**Published:** 9/24/2026, 10:34:05 AM  
+**Author:** yoanwaidev  
+**Published:** 9/24/2026, 3:38:26 PM  
 **Categories:** -  
 
-Hi HN, I’m building AgeDB, a database for AI agents to store context and data, share it across agents and model providers, and query it using natural language.The idea is that information collected by one agent can be reused by another, even when they use different providers. You can also ask for th...
+Article URL: https://agent-manager.dev/writing/live-review-race/ Comments URL: https://news.ycombinator.com/item?id=49832209 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/sivsivsree/agedb)
+📖 [Read original article](https://agent-manager.dev/writing/live-review-race/)
 
 ---
 
-## 13. Pro-Human AI Declaration
+## 13. Show HN: Enclawed – A hard-fork hardening framework for AI agent gateways
 
-**Author:** ljmf00  
-**Published:** 9/24/2026, 10:30:04 AM  
+**Author:** enclawed  
+**Published:** 9/24/2026, 3:35:39 PM  
 **Categories:** -  
 
-Article URL: https://prohumandeclaration.com/en/sign/demand-ai-accountability Comments URL: https://news.ycombinator.com/item?id=49828647 Points: 2 # Comments: 1
+Article URL: https://enclawed.com/ Comments URL: https://news.ycombinator.com/item?id=49832151 Points: 1 # Comments: 0
 
-📖 [Read original article](https://prohumandeclaration.com/en/sign/demand-ai-accountability)
+📖 [Read original article](https://enclawed.com/)
 
 ---
 
-## 14. I miss old Google: readers tell us how they search the internet in the age of AI
+## 14. Voice AI Conference – Worth the Time?
 
-**Author:** CrypticShift  
-**Published:** 9/24/2026, 10:24:53 AM  
+**Author:** moegevirtz  
+**Published:** 9/24/2026, 3:27:12 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches Comments URL: https://news.ycombinator.com/item?id=49828609 Points: 1 # Comments: 0
+Article URL: https://deepgram.com/speak Comments URL: https://news.ycombinator.com/item?id=49831994 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches)
+📖 [Read original article](https://deepgram.com/speak)
 
 ---
 
-## 15. AI meets trade Global linkages and the cross-country distribution of AI gains
+## 15. Show HN: Local First AI Calculator
 
-**Author:** Bluestein  
-**Published:** 9/24/2026, 10:08:40 AM  
+**Author:** jacobgold  
+**Published:** 9/24/2026, 3:25:33 PM  
 **Categories:** -  
 
-Article URL: https://www.oecd.org/en/publications/ai-meets-trade_13081644-en.html Comments URL: https://news.ycombinator.com/item?id=49828503 Points: 1 # Comments: 0
+Article URL: https://axiom.clor.app/ Comments URL: https://news.ycombinator.com/item?id=49831955 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.oecd.org/en/publications/ai-meets-trade_13081644-en.html)
+📖 [Read original article](https://axiom.clor.app/)
 
 ---
 
-## 16. Mark Zuckerberg unveils AI 'charm' device that can fit on a keychain
+## 16. Paperclip: Open-source orchestration for teams of AI agents
 
-**Author:** bazzmt  
-**Published:** 9/24/2026, 9:59:55 AM  
+**Author:** lobo_tuerto  
+**Published:** 9/24/2026, 3:24:21 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00 Comments URL: https://news.ycombinator.com/item?id=49828450 Points: 2 # Comments: 2
+Article URL: https://github.com/paperclipai/paperclip Comments URL: https://news.ycombinator.com/item?id=49831929 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00)
+📖 [Read original article](https://github.com/paperclipai/paperclip)
 
 ---
 
-## 17. AI has no intent and no motivation
+## 17. Towards a future space-based, highly scalable AI infrastructure system design
 
-**Author:** aquastorm  
-**Published:** 9/24/2026, 9:13:25 AM  
+**Author:** andsoitis  
+**Published:** 9/24/2026, 3:23:01 PM  
 **Categories:** -  
 
-Article URL: https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html Comments URL: https://news.ycombinator.com/item?id=49828133 Points: 36 # Comments: 41
+Article URL: https://arxiv.org/abs/2511.19468 Comments URL: https://news.ycombinator.com/item?id=49831908 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html)
+📖 [Read original article](https://arxiv.org/abs/2511.19468)
 
 ---
 
-## 18. Cutting the 'coordination tax': How agentic AI can reshape workflows
+## 18. Show HN: CraftCX – Observability and intelligence tooling for AI Support team
 
-**Author:** bob1029  
-**Published:** 9/24/2026, 9:12:19 AM  
+**Author:** dugjason  
+**Published:** 9/24/2026, 3:21:45 PM  
 **Categories:** -  
 
-Article URL: https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows Comments URL: https://news.ycombinator.com/item?id=49828122 Points: 1 # Comments: 0
+Article URL: https://craftcx.com/blog/introducing-craftcx Comments URL: https://news.ycombinator.com/item?id=49831884 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows)
+📖 [Read original article](https://craftcx.com/blog/introducing-craftcx)
 
 ---
 
-## 19. Proposed bill to ban artificial superintelligence and create Department of AI
+## 19. DHH at Rails World – Ruby on Rails no longer needed now because AI can make apps
 
-**Author:** msaltz  
-**Published:** 9/24/2026, 8:59:32 AM  
+**Author:** thunderbong  
+**Published:** 9/24/2026, 3:21:17 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/ai-superintelligence-bernie-sanders-d6a6a2cd8e71d7c95bdc394595aa85d1 Comments URL: https://news.ycombinator.com/item?id=49828049 Points: 4 # Comments: 2
+Article URL: https://twitter.com/_architected/status/2102863549689459031 Comments URL: https://news.ycombinator.com/item?id=49831875 Points: 8 # Comments: 4
 
-📖 [Read original article](https://apnews.com/article/ai-superintelligence-bernie-sanders-d6a6a2cd8e71d7c95bdc394595aa85d1)
+📖 [Read original article](https://twitter.com/_architected/status/2102863549689459031)
 
 ---
 
-## 20. Anthropic CEO Amodei Warns UN Security Council on AI Risks
+## 20. AI companies don't bribe reporters. They fund fellowships
 
-**Author:** Betelbuddy  
-**Published:** 9/24/2026, 8:55:52 AM  
+**Author:** joshcsimmons  
+**Published:** 9/24/2026, 3:20:08 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=u-u8gOgNA9o Comments URL: https://news.ycombinator.com/item?id=49828026 Points: 5 # Comments: 1
+Article URL: https://www.drjoshcsimmons.com/writing/ai-companies-dont-bribe-reporters Comments URL: https://news.ycombinator.com/item?id=49831852 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=u-u8gOgNA9o)
+📖 [Read original article](https://www.drjoshcsimmons.com/writing/ai-companies-dont-bribe-reporters)
 
 ---
