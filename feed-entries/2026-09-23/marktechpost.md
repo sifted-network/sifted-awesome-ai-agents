@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-09-23"
 date: "2026-09-23"
 source: "MarkTechPost"
-count: 6
+count: 5
 ---
 
 # MarkTechPost - 2026-09-23
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Kyutai has released Voice of Reason, 2 open-weight speech-to-speech models built
 OpenAI has released GPT-6 Sol and GPT-6 Luna, 2 lower-cost models trained with methods similar to GPT-6 Astra. Sol costs $2/$10 and Luna $0.10/$0.50 per 1M tokens. Both are available now in the API, ChatGPT Work and Codex. They come with improved prompt caching for long-running agents. The post Open...
 
 📖 [Read original article](https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks/)
-
----
-
-## 6. SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone
-
-**Author:** Asif Razzaq  
-**Published:** 9/23/2026, 4:50:40 AM  
-**Categories:** Agentic AI, AI Agents, AI Shorts, AI Tool, Applications, Artificial Intelligence, Editors Pick, New Releases, Promote, Software Engineering, Sponsored, Staff, Tech News, Technology, Uncategorized  
-
-Voice input on phones has been solved for years. What has not been solved is the output. Speak into most dictation tools and you get back exactly what you said, fillers and false starts included, in a note you then have to clean up and move somewhere else. SpeakON attacks that gap with hardware: a [...
-
-📖 [Read original article](https://www.marktechpost.com/2026/09/22/speakon-ships-a-magsafe-ai-voice-button/)
 
 ---
