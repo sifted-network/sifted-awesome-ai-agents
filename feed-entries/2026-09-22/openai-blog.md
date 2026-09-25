@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-22"
 date: "2026-09-22"
 source: "OpenAI Blog"
-count: 4
+count: 3
 ---
 
 # OpenAI Blog - 2026-09-22
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday
 GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.
 
 📖 [Read original article](https://openai.com/index/parallel-cuts-time-and-cost-with-astra)
-
----
-
-## 4. Priorities and principles for effective third party assessments
-
-**Author:** -  
-**Published:** 9/22/2026, 12:00:00 AM  
-**Categories:** Safety  
-
-OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.
-
-📖 [Read original article](https://openai.com/index/priorities-principles-third-party-assessments)
 
 ---
