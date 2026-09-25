@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The Pentagon wants $30M to build an AI-powered lie detector
+## 1. Show HN: Built an open-source AI browser assistant remembers when you scroll
 
-**Author:** joozio  
-**Published:** 9/25/2026, 11:01:16 AM  
+**Author:** Amin_Rigi  
+**Published:** 9/25/2026, 4:35:19 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/ Comments URL: https://news.ycombinator.com/item?id=49842808 Points: 3 # Comments: 0
+Article URL: https://github.com/Kerneta/daidocs/tree/main/browser-extension Comments URL: https://news.ycombinator.com/item?id=49846741 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)
+📖 [Read original article](https://github.com/Kerneta/daidocs/tree/main/browser-extension)
 
 ---
 
-## 2. Uproar in France over award-winning author accused of using AI
+## 2. Defining AI Psychosis. Part 3: \"Parasocial AI Psychosis\"
 
-**Author:** harscoat  
-**Published:** 9/25/2026, 10:48:32 AM  
+**Author:** euthymiclabs  
+**Published:** 9/25/2026, 4:05:45 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/ck7v4y45893go Comments URL: https://news.ycombinator.com/item?id=49842707 Points: 20 # Comments: 19
+Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-3-parasocial Comments URL: https://news.ycombinator.com/item?id=49846427 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/ck7v4y45893go)
+📖 [Read original article](https://jeffs.blog/p/defining-ai-psychosis-part-3-parasocial)
 
 ---
 
-## 3. Four things I learned throughout the last years working with AI
+## 3. Trump admin using AI to deny medical care for seniors in disastrous experiment
 
-**Author:** zazuke  
-**Published:** 9/25/2026, 10:38:25 AM  
+**Author:** clumsysmurf  
+**Published:** 9/25/2026, 3:45:57 PM  
 **Categories:** -  
 
-Article URL: https://www.ssp.sh/brain/what-i-learned-writing-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49842633 Points: 3 # Comments: 1
+Article URL: https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/ Comments URL: https://news.ycombinator.com/item?id=49846177 Points: 6 # Comments: 0
 
-📖 [Read original article](https://www.ssp.sh/brain/what-i-learned-writing-with-ai/)
+📖 [Read original article](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/)
 
 ---
 
-## 4. AI-Powered Fuzzing with the GitHub Security Lab Taskflow Agent
+## 4. Cargo-atlas – A compiler-accurate Rust code map for AI coding agents
 
-**Author:** joshcsimmons  
-**Published:** 9/25/2026, 10:23:41 AM  
+**Author:** TheBlitzschnell  
+**Published:** 9/25/2026, 3:39:22 PM  
 **Categories:** -  
 
-Article URL: https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/ Comments URL: https://news.ycombinator.com/item?id=49842514 Points: 2 # Comments: 0
+Article URL: https://github.com/TheBlitzschnell/cargo-atlas Comments URL: https://news.ycombinator.com/item?id=49846100 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/)
+📖 [Read original article](https://github.com/TheBlitzschnell/cargo-atlas)
 
 ---
 
-## 5. Tell HN: PSA: AI can make old games run on 64-bit macOS
+## 5. How AI changed the Eng Manager role
 
-**Author:** Razengan  
-**Published:** 9/25/2026, 10:19:20 AM  
+**Author:** claudiacsf  
+**Published:** 9/25/2026, 3:38:37 PM  
 **Categories:** -  
 
-I had Aviary Attorney lying around (great game, whether or not you like Phoenix Wright) but it wouldn't run on newer macOS versions.I tried asking Astra on a whim, looked away, and within a few minutes it was on screen!Turns out "The game used 32-bit Node-WebKit, an old combination of Node.js and Ch...
+Article URL: https://blog.codacy.com/how-ai-is-changing-the-engineering-manager-role-more-context-more-capacity-and-the-new-job-of-protecting-focus Comments URL: https://news.ycombinator.com/item?id=49846086 Points: 3 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49842482)
+📖 [Read original article](https://blog.codacy.com/how-ai-is-changing-the-engineering-manager-role-more-context-more-capacity-and-the-new-job-of-protecting-focus)
 
 ---
 
-## 6. Show HN: Rigo Studio | AI Farm Intelligence
+## 6. 200B Tokens Later: A Month of Letting AI Agents Decompile MW2
 
-**Author:** ernestkapesa  
-**Published:** 9/25/2026, 10:02:08 AM  
+**Author:** mindracer  
+**Published:** 9/25/2026, 3:29:03 PM  
 **Categories:** -  
 
-Article URL: https://agririgo.com Comments URL: https://news.ycombinator.com/item?id=49842358 Points: 2 # Comments: 0
+Article URL: https://momo5502.com/posts/2026-08-17-mw2-decompilation/ Comments URL: https://news.ycombinator.com/item?id=49845969 Points: 2 # Comments: 0
 
-📖 [Read original article](https://agririgo.com)
+📖 [Read original article](https://momo5502.com/posts/2026-08-17-mw2-decompilation/)
 
 ---
 
-## 7. How Does AI Change Labor Demand? Evidence from 41 Countries
+## 7. Classified Estimates Show the NSA Is Paying Billions to Test AI Models
 
-**Author:** latentframe  
-**Published:** 9/25/2026, 10:00:19 AM  
+**Author:** rdmuser  
+**Published:** 9/25/2026, 3:27:35 PM  
 **Categories:** -  
 
-Article URL: https://digitaleconomy.stanford.edu/publication/how-does-ai-change-labor-demand/ Comments URL: https://news.ycombinator.com/item?id=49842337 Points: 3 # Comments: 0
+Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/item?id=49845952 Points: 76 # Comments: 30
 
-📖 [Read original article](https://digitaleconomy.stanford.edu/publication/how-does-ai-change-labor-demand/)
+📖 [Read original article](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
 
 ---
 
-## 8. Show HN: AtlasBurn – Know what your AI costs and stop runaway agents
+## 8. Woman Climbed Gate to Escape Notorious AI Hacker House After Repeated
 
-**Author:** Akhil__Anand  
-**Published:** 9/25/2026, 9:37:55 AM  
+**Author:** g-b-r  
+**Published:** 9/25/2026, 3:08:41 PM  
 **Categories:** -  
 
-Article URL: https://atlasburn.com/ Comments URL: https://news.ycombinator.com/item?id=49842163 Points: 2 # Comments: 0
+Article URL: https://www.techtimes.co.uk/agi-house-police-complaints-sexual-pressure-1808775 Comments URL: https://news.ycombinator.com/item?id=49845728 Points: 1 # Comments: 1
 
-📖 [Read original article](https://atlasburn.com/)
+📖 [Read original article](https://www.techtimes.co.uk/agi-house-police-complaints-sexual-pressure-1808775)
 
 ---
 
-## 9. AI as a Tool in Taste Research: decoding the taste of bitterness
+## 9. AI boom could wipe 230M budget phones a year from the market
 
-**Author:** giuliomagnifico  
-**Published:** 9/25/2026, 9:25:11 AM  
+**Author:** Bender  
+**Published:** 9/25/2026, 3:01:57 PM  
 **Categories:** -  
 
-Article URL: https://www.leibniz-lsb.de/en/press-public-relations/pm-20260922-press-release-ai-as-a-tool-in-taste-research Comments URL: https://news.ycombinator.com/item?id=49842079 Points: 2 # Comments: 0
+Article URL: https://www.theregister.com/personal-tech/2026/09/24/ai-boom-could-wipe-230-million-budget-phones-a-year-from-the-market/5298906 Comments URL: https://news.ycombinator.com/item?id=49845658 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.leibniz-lsb.de/en/press-public-relations/pm-20260922-press-release-ai-as-a-tool-in-taste-research)
+📖 [Read original article](https://www.theregister.com/personal-tech/2026/09/24/ai-boom-could-wipe-230-million-budget-phones-a-year-from-the-market/5298906)
 
 ---
 
-## 10. Show HN: Proxima Forma – Designs that my AI agents understand
+## 10. The Chasm: The Shape of Unfinished AI Codebases
 
-**Author:** Modecir  
-**Published:** 9/25/2026, 9:22:55 AM  
+**Author:** surprisetalk  
+**Published:** 9/25/2026, 3:00:11 PM  
 **Categories:** -  
 
-Hey HN!I built Proxima Forma because sharing screenshots with my agents was not really doing the job. I am a UX Designer with a developer background so I needed a better tool.Wanted the agents to have full design history, design decisions, product notes, etc. in a format they could actually understa...
+Article URL: http://jimmyhmiller.com/shape-of-unfinished-ai-codebases Comments URL: https://news.ycombinator.com/item?id=49845633 Points: 2 # Comments: 0
 
-📖 [Read original article](https://proximaforma.com/)
+📖 [Read original article](http://jimmyhmiller.com/shape-of-unfinished-ai-codebases)
 
 ---
 
-## 11. Show HN: Apowerb, the open-source AI agent runtime (RAG, Text-to-SQL, webhooks)
+## 11. Show HN: I built a tool to combine separate photos into one scene using AI
 
-**Author:** Anis_FA  
-**Published:** 9/25/2026, 9:12:30 AM  
+**Author:** tancky  
+**Published:** 9/25/2026, 2:45:29 PM  
 **Categories:** -  
 
-Article URL: https://github.com/apowerb/apowerb Comments URL: https://news.ycombinator.com/item?id=49841997 Points: 1 # Comments: 0
+Article URL: https://tancky.io/ Comments URL: https://news.ycombinator.com/item?id=49845397 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/apowerb/apowerb)
+📖 [Read original article](https://tancky.io/)
 
 ---
 
-## 12. AI for Creativity
+## 12. What's still manual when debugging AI agents?
 
-**Author:** tosh  
-**Published:** 9/25/2026, 8:18:58 AM  
+**Author:** Tussa_Domingos  
+**Published:** 9/25/2026, 2:43:32 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/jeffreykWNDR/status/2102774995315245469 Comments URL: https://news.ycombinator.com/item?id=49841655 Points: 3 # Comments: 0
+Article URL: https://www.traser.dev/ Comments URL: https://news.ycombinator.com/item?id=49845366 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/jeffreykWNDR/status/2102774995315245469)
+📖 [Read original article](https://www.traser.dev/)
 
 ---
 
-## 13. Legal AI Harvey's margins went from +50% to -50% in 6 months on frontier costs
+## 13. Show HN: PixelSniff – Check if a photo is AI-generated, no sign-up
 
-**Author:** joennlae  
-**Published:** 9/25/2026, 8:08:30 AM  
+**Author:** songtianlun1  
+**Published:** 9/25/2026, 2:34:16 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/technology/ai/articles/openai-anthropic-costs-push-more-160523322.html Comments URL: https://news.ycombinator.com/item?id=49841581 Points: 3 # Comments: 2
+Article URL: https://pixelsniff.com/ Comments URL: https://news.ycombinator.com/item?id=49845249 Points: 1 # Comments: 2
 
-📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/openai-anthropic-costs-push-more-160523322.html)
+📖 [Read original article](https://pixelsniff.com/)
 
 ---
 
-## 14. Real-Time AI Simplification (A2, B1, B2) of BBC World News Live
+## 14. Giving AI agents a voice at the table
 
-**Author:** BrandiATMuhkuh  
-**Published:** 9/25/2026, 8:06:55 AM  
+**Author:** ZappoMan  
+**Published:** 9/25/2026, 2:32:02 PM  
 **Categories:** -  
 
-Article URL: https://voicefrom.ai/restate/ Comments URL: https://news.ycombinator.com/item?id=49841565 Points: 2 # Comments: 0
+Article URL: https://www.highfidelity.com/blog/giving-our-a.i.-agents-a-voice-at-the-table Comments URL: https://news.ycombinator.com/item?id=49845215 Points: 2 # Comments: 0
 
-📖 [Read original article](https://voicefrom.ai/restate/)
+📖 [Read original article](https://www.highfidelity.com/blog/giving-our-a.i.-agents-a-voice-at-the-table)
 
 ---
 
-## 15. Show HN: Can an AI agent bypass a post-quantum signed authorization policy?
+## 15. Evolving programming languages in the AI era – by Jose Valim
 
-**Author:** max-russo  
-**Published:** 9/25/2026, 7:55:01 AM  
+**Author:** vmg12  
+**Published:** 9/25/2026, 2:27:30 PM  
 **Categories:** -  
 
-Article URL: https://github.com/max-russo-com/MAX_AUTHORIZATION_SANDBOX Comments URL: https://news.ycombinator.com/item?id=49841469 Points: 3 # Comments: 0
+Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49845162 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/max-russo-com/MAX_AUTHORIZATION_SANDBOX)
+📖 [Read original article](https://dashbit.co/blog/evolving-ai-era)
 
 ---
 
-## 16. Explyt 5.20 – background task panel for AI agent runs in JetBrains IDEs
+## 16. Israel weaponises AI for West Bank demolitions
 
-**Author:** Explyt-ai  
-**Published:** 9/25/2026, 7:07:26 AM  
+**Author:** harry_nutsachs  
+**Published:** 9/25/2026, 2:23:12 PM  
 **Categories:** -  
 
-Article URL: https://explyt.ai/docs/explyt-test/whats-new-explyt Comments URL: https://news.ycombinator.com/item?id=49841139 Points: 1 # Comments: 0
+Article URL: https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions Comments URL: https://news.ycombinator.com/item?id=49845109 Points: 11 # Comments: 5
 
-📖 [Read original article](https://explyt.ai/docs/explyt-test/whats-new-explyt)
+📖 [Read original article](https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions)
 
 ---
 
-## 17. Jensen Huang says with AI 'in order to save you, they've got to hurt you first.'
+## 17. Four AI Giants Agreed to Slow Down. Four Subscribers Sued Them for It
 
-**Author:** pera  
-**Published:** 9/25/2026, 6:52:12 AM  
+**Author:** bmcdresson  
+**Published:** 9/25/2026, 2:19:08 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain Comments URL: https://news.ycombinator.com/item?id=49841032 Points: 6 # Comments: 4
+Article URL: https://mrkt30.com/ai-slowdown-lawsuit-anthropic-openai-antitrust/ Comments URL: https://news.ycombinator.com/item?id=49845065 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain)
+📖 [Read original article](https://mrkt30.com/ai-slowdown-lawsuit-anthropic-openai-antitrust/)
 
 ---
 
-## 18. Show HN: Reteach – AI tutor that feels human
+## 18. Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot
 
-**Author:** antariksh_verma  
-**Published:** 9/25/2026, 6:26:14 AM  
+**Author:** sbulaev  
+**Published:** 9/25/2026, 2:07:08 PM  
 **Categories:** -  
 
-Tutoring is very expensive. reteach makes it cheap. Comments URL: https://news.ycombinator.com/item?id=49840850 Points: 3 # Comments: 1
+Article URL: https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 32 # Comments: 23
 
-📖 [Read original article](https://www.reteach.study/)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot)
 
 ---
 
-## 19. Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party
+## 19. The US stood alone in dismissing AI safety concerns at the UN
 
-**Author:** vrganj  
-**Published:** 9/25/2026, 6:03:56 AM  
+**Author:** ilamont  
+**Published:** 9/25/2026, 1:54:05 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850 Comments URL: https://news.ycombinator.com/item?id=49840681 Points: 6 # Comments: 3
+Article URL: https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety Comments URL: https://news.ycombinator.com/item?id=49844717 Points: 2 # Comments: 2
 
-📖 [Read original article](https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850)
+📖 [Read original article](https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety)
 
 ---
 
-## 20. Tell HN: No company scaled revenue as fast as AI companies
+## 20. Cracks in Oracle's AI Data-Center Build-Out Appear in New Mexico Project
 
-**Author:** silexia  
-**Published:** 9/25/2026, 5:50:23 AM  
+**Author:** hodgesrm  
+**Published:** 9/25/2026, 1:46:40 PM  
 **Categories:** -  
 
-No company in recorded business history has scaled recurring revenue as fast as OpenAI and Anthropic. Forecasts show AI is advancing far faster than all human predictions. If you don't use paid frontier AI daily, your mental model is likely far behind where it currently is. Even for those of us who ...
+Article URL: https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2 Comments URL: https://news.ycombinator.com/item?id=49844634 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49840597)
+📖 [Read original article](https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2)
 
 ---
