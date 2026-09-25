@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-24"
 date: "2026-09-24"
 source: "qbitai"
-count: 5
+count: 3
 ---
 
 # qbitai - 2026-09-24
 
-5 items collected.
+3 items collected.
 
 ---
 
@@ -44,29 +44,5 @@ count: 5
 让自动驾驶“走一步想十步”
 
 📖 [Read original article](https://www.qbitai.com/2026/09/496834.html)
-
----
-
-## 4. GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案
-
-**Author:** 量子位的朋友们  
-**Published:** 9/24/2026, 8:20:12 AM  
-**Categories:** 资讯, 具身智能, 诺因  
-
-人类演示一次，机器人即可实现跨场景任务复用
-
-📖 [Read original article](https://www.qbitai.com/2026/09/496816.html)
-
----
-
-## 5. Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长
-
-**Author:** 量子位的朋友们  
-**Published:** 9/24/2026, 5:46:10 AM  
-**Categories:** 资讯, AI金融, Stripe  
-
-Stripe Managed Payments (SMP) 现已全面上线
-
-📖 [Read original article](https://www.qbitai.com/2026/09/496779.html)
 
 ---
