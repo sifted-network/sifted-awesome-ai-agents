@@ -101,7 +101,7 @@ arXiv:2609.26853v1 Announce Type: new Abstract: While Large Language Models (LLM
 **Published:** 9/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2609.26855v1 Announce Type: new Abstract: Relational Deep Learning (RDL) models multi-table databases as heterogeneous temporal graphs, and graph transformers currently achieve state-of-the-art performance on benchmarks like RelBench. However, the current leading model, RelGT, suffers from two...
+arXiv:2609.26855v2 Announce Type: new Abstract: Relational Deep Learning (RDL) models multi-table databases as heterogeneous temporal graphs, and graph transformers currently achieve state-of-the-art performance on benchmarks like RelBench. However, the current leading model, RelGT, suffers from two...
 
 📖 [Read original article](https://arxiv.org/abs/2609.26855)
 
@@ -301,11 +301,11 @@ arXiv:2609.27158v1 Announce Type: new Abstract: To make claims about representat
 
 ## 25. Scaling of Capability and Efficiency at Inference Time in Large Reasoning Models
 
-**Author:** Moritz Laber, Zohair Shafi, Germans Savcisens, Brennan Klein, Matteo Chinazzi, Samuel V. Scarpino, Albert-L\'aszl\'o Barab\'asi, Tina Eliassi-Rad  
+**Author:** Moritz Laber, Zohair Shafi, Germans Savcisens, Brennan Klein, Matteo Chinazzi, Samuel V. Scarpino, Albert-L\'aszl\'o Barab\'asi, Alessandro Vespignani, Tina Eliassi-Rad  
 **Published:** 9/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, physics.soc-ph  
 
-arXiv:2609.27166v1 Announce Type: new Abstract: Capability and efficiency are two key dimensions of reasoning in large language models (LLMs). Capability refers to the ability to solve a given problem correctly, whereas efficiency refers to the ability to do so with limited resources. When LLMs use ...
+arXiv:2609.27166v2 Announce Type: new Abstract: Capability and efficiency are two key dimensions of reasoning in large language models (LLMs). Capability refers to the ability to solve a given problem correctly, whereas efficiency refers to the ability to do so with limited resources. When LLMs use ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.27166)
 
@@ -617,7 +617,7 @@ arXiv:2609.27473v1 Announce Type: new Abstract: PPG-to-vital-sign reconstruction
 **Published:** 9/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2609.27532v1 Announce Type: new Abstract: Long-horizon agentic tasks require an agent to modify an environment through a sequence of tool calls, with success determined by the final state. The standard recipe assigns a single outcome reward at the end and compares trajectories sampled for the ...
+arXiv:2609.27532v2 Announce Type: new Abstract: Long-horizon agentic tasks require an agent to modify an environment through a sequence of tool calls, with success determined by the final state. The standard recipe assigns a single outcome reward at the end and compares trajectories sampled for the ...
 
 📖 [Read original article](https://arxiv.org/abs/2609.27532)
 
@@ -809,7 +809,7 @@ arXiv:2609.27679v1 Announce Type: new Abstract: What reusable computation should
 **Published:** 9/24/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2609.27735v1 Announce Type: new Abstract: Newton-Schulz (NS) iteration has recently been used in the Muon optimizer to transform update matrices during the training of large language models. Motivated by its spectral effect, we investigate applying NS directly to Transformer attention represen...
+arXiv:2609.27735v2 Announce Type: new Abstract: Newton-Schulz (NS) iteration has recently been used in the Muon optimizer to transform update matrices during the training of large language models. Motivated by its spectral effect, we investigate applying NS directly to Transformer attention represen...
 
 📖 [Read original article](https://arxiv.org/abs/2609.27735)
 
@@ -1169,7 +1169,7 @@ arXiv:2609.28085v1 Announce Type: new Abstract: The job shop scheduling problem 
 **Published:** 9/24/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CV  
 
-arXiv:2609.28086v1 Announce Type: new Abstract: We propose LAYERSCOPE, a label-free, layerwise framework that aims to characterize a model's learned representations in video and multimodal settings. Evaluating downstream performance using representations from final or intermediate layers typically r...
+arXiv:2609.28086v2 Announce Type: new Abstract: We propose LAYERSCOPE, a label-free, layerwise framework that aims to characterize a model's learned representations in video and multimodal settings. Evaluating downstream performance using representations from final or intermediate layers typically r...
 
 📖 [Read original article](https://arxiv.org/abs/2609.28086)
 
@@ -1445,7 +1445,7 @@ arXiv:2609.26841v1 Announce Type: cross Abstract: High-capacity neural network m
 **Published:** 9/24/2026, 4:00:00 AM  
 **Categories:** cs.HC, cs.AI, cs.CY, cs.LG  
 
-arXiv:2609.26865v1 Announce Type: cross Abstract: Conversational AI systems can pose safety risks to their users such as hallucination, sycophancy, overconfidence, and anthropomorphism, but these risks are difficult for users to detect during everyday use. We introduce Safety Nudges, a browser-based...
+arXiv:2609.26865v2 Announce Type: cross Abstract: Conversational AI systems can pose safety risks to their users such as hallucination, sycophancy, overconfidence, and anthropomorphism, but these risks are difficult for users to detect during everyday use. We introduce Safety Nudges, a browser-based...
 
 📖 [Read original article](https://arxiv.org/abs/2609.26865)
 
@@ -2273,7 +2273,7 @@ arXiv:2609.28099v1 Announce Type: cross Abstract: Deep vision systems remain vul
 **Published:** 9/24/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.LG  
 
-arXiv:2609.28107v1 Announce Type: cross Abstract: Advances in generative modeling have recently been extensively employed in robotics for policy learning. In particular, Conditional Flow Matching (CFM) trained with expert demonstrations has been shown to outperform existing methods on robot manipula...
+arXiv:2609.28107v2 Announce Type: cross Abstract: Advances in generative modeling have recently been extensively employed in robotics for policy learning. In particular, Conditional Flow Matching (CFM) trained with expert demonstrations has been shown to outperform existing methods on robot manipula...
 
 📖 [Read original article](https://arxiv.org/abs/2609.28107)
 
@@ -2393,7 +2393,7 @@ arXiv:2609.28286v1 Announce Type: cross Abstract: Estimating the Planetary Bound
 **Published:** 9/24/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.GT, cs.LG  
 
-arXiv:2609.28322v1 Announce Type: cross Abstract: Benchmarking and routing platforms increasingly act as intermediaries connecting large language model providers with end-users. However, providers on these platforms typically use a fixed price per token, preventing users from achieving the most comp...
+arXiv:2609.28322v2 Announce Type: cross Abstract: Benchmarking and routing platforms increasingly act as intermediaries connecting large language model providers with end-users. However, providers on these platforms typically use a fixed price per token, preventing users from achieving the most comp...
 
 📖 [Read original article](https://arxiv.org/abs/2609.28322)
 
@@ -2691,7 +2691,7 @@ arXiv:2601.13566v2 Announce Type: replace Abstract: Can language models improve 
 
 **Author:** Zhengyan Huan, Camila Pazos, Martin Klassen, Vincent Croft, Pierre-Hugues Beauchemin, Shuchin Aeron  
 **Published:** 9/24/2026, 4:00:00 AM  
-**Categories:** cs.LG  
+**Categories:** cs.LG, stat.ML  
 
 arXiv:2601.22029v2 Announce Type: replace Abstract: We introduce a new multivariate statistical problem that we refer to as the Ensemble-conditioned Inverse Problem (EIP). The aim of EIP is to invert for an ensemble that is distributed according to the pushforward of a prior under a forward process....
 
