@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Built an open-source AI browser assistant remembers when you scroll
+## 1. Show HN: Piloxa – an MCP server that sends USPS Certified Mail from your AI
 
-**Author:** Amin_Rigi  
-**Published:** 9/25/2026, 4:35:19 PM  
+**Author:** kameir  
+**Published:** 9/25/2026, 8:38:05 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Kerneta/daidocs/tree/main/browser-extension Comments URL: https://news.ycombinator.com/item?id=49846741 Points: 1 # Comments: 0
+Article URL: https://piloxa.com/for-ai-agents Comments URL: https://news.ycombinator.com/item?id=49849629 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Kerneta/daidocs/tree/main/browser-extension)
+📖 [Read original article](https://piloxa.com/for-ai-agents)
 
 ---
 
-## 2. Defining AI Psychosis. Part 3: \"Parasocial AI Psychosis\"
+## 2. Too AI; Didn't Read
 
-**Author:** euthymiclabs  
-**Published:** 9/25/2026, 4:05:45 PM  
+**Author:** rfonseca  
+**Published:** 9/25/2026, 8:37:56 PM  
 **Categories:** -  
 
-Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-3-parasocial Comments URL: https://news.ycombinator.com/item?id=49846427 Points: 3 # Comments: 0
+Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 4 # Comments: 1
 
-📖 [Read original article](https://jeffs.blog/p/defining-ai-psychosis-part-3-parasocial)
+📖 [Read original article](https://www.tai-dr.com/)
 
 ---
 
-## 3. Trump admin using AI to deny medical care for seniors in disastrous experiment
+## 3. The Scarcity Premium: AI made images free; advertising as a solvency bond
 
-**Author:** clumsysmurf  
-**Published:** 9/25/2026, 3:45:57 PM  
+**Author:** freedmans  
+**Published:** 9/25/2026, 8:35:54 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/ Comments URL: https://news.ycombinator.com/item?id=49846177 Points: 6 # Comments: 0
+Article URL: https://scarcity.danieldeboulay.com Comments URL: https://news.ycombinator.com/item?id=49849608 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/)
+📖 [Read original article](https://scarcity.danieldeboulay.com)
 
 ---
 
-## 4. Cargo-atlas – A compiler-accurate Rust code map for AI coding agents
+## 4. Show HN: A free resume builder where the AI can rewrite but can't invent
 
-**Author:** TheBlitzschnell  
-**Published:** 9/25/2026, 3:39:22 PM  
+**Author:** payanai  
+**Published:** 9/25/2026, 8:31:54 PM  
 **Categories:** -  
 
-Article URL: https://github.com/TheBlitzschnell/cargo-atlas Comments URL: https://news.ycombinator.com/item?id=49846100 Points: 3 # Comments: 0
+Article URL: https://nokku.payanai.com/resume-builder Comments URL: https://news.ycombinator.com/item?id=49849546 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/TheBlitzschnell/cargo-atlas)
+📖 [Read original article](https://nokku.payanai.com/resume-builder)
 
 ---
 
-## 5. How AI changed the Eng Manager role
+## 5. AI starter pack for the X-curious
 
-**Author:** claudiacsf  
-**Published:** 9/25/2026, 3:38:37 PM  
+**Author:** rmason  
+**Published:** 9/25/2026, 8:26:41 PM  
 **Categories:** -  
 
-Article URL: https://blog.codacy.com/how-ai-is-changing-the-engineering-manager-role-more-context-more-capacity-and-the-new-job-of-protecting-focus Comments URL: https://news.ycombinator.com/item?id=49846086 Points: 3 # Comments: 1
+Article URL: https://xstarterpack.com/ Comments URL: https://news.ycombinator.com/item?id=49849474 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.codacy.com/how-ai-is-changing-the-engineering-manager-role-more-context-more-capacity-and-the-new-job-of-protecting-focus)
+📖 [Read original article](https://xstarterpack.com/)
 
 ---
 
-## 6. 200B Tokens Later: A Month of Letting AI Agents Decompile MW2
+## 6. AI will grow beyond our control, we must instill good values before it does
 
-**Author:** mindracer  
-**Published:** 9/25/2026, 3:29:03 PM  
+**Author:** jamest  
+**Published:** 9/25/2026, 8:21:17 PM  
 **Categories:** -  
 
-Article URL: https://momo5502.com/posts/2026-08-17-mw2-decompilation/ Comments URL: https://news.ycombinator.com/item?id=49845969 Points: 2 # Comments: 0
+Article URL: https://blog.kradle.ai/p/ai-will-grow-beyond-our-control-we Comments URL: https://news.ycombinator.com/item?id=49849417 Points: 2 # Comments: 0
 
-📖 [Read original article](https://momo5502.com/posts/2026-08-17-mw2-decompilation/)
+📖 [Read original article](https://blog.kradle.ai/p/ai-will-grow-beyond-our-control-we)
 
 ---
 
-## 7. Classified Estimates Show the NSA Is Paying Billions to Test AI Models
+## 7. The District – a live map where AI agents grow their own plots of land
 
-**Author:** rdmuser  
-**Published:** 9/25/2026, 3:27:35 PM  
+**Author:** AgentNetTeam  
+**Published:** 9/25/2026, 8:16:15 PM  
 **Categories:** -  
 
-Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/item?id=49845952 Points: 76 # Comments: 30
+Article URL: https://agentnet-wdyqqq-agentnet-district.static.hf.space/index.html Comments URL: https://news.ycombinator.com/item?id=49849346 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
+📖 [Read original article](https://agentnet-wdyqqq-agentnet-district.static.hf.space/index.html)
 
 ---
 
-## 8. Woman Climbed Gate to Escape Notorious AI Hacker House After Repeated
+## 8. To Understand AI, Think Like a Dragonfly
 
-**Author:** g-b-r  
-**Published:** 9/25/2026, 3:08:41 PM  
+**Author:** bryanrasmussen  
+**Published:** 9/25/2026, 8:05:14 PM  
 **Categories:** -  
 
-Article URL: https://www.techtimes.co.uk/agi-house-police-complaints-sexual-pressure-1808775 Comments URL: https://news.ycombinator.com/item?id=49845728 Points: 1 # Comments: 1
+Article URL: https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly/ Comments URL: https://news.ycombinator.com/item?id=49849226 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.techtimes.co.uk/agi-house-police-complaints-sexual-pressure-1808775)
+📖 [Read original article](https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly/)
 
 ---
 
-## 9. AI boom could wipe 230M budget phones a year from the market
+## 9. Geely's AI fast charging 'heals' EV batteries for 20% more cycle life
 
-**Author:** Bender  
-**Published:** 9/25/2026, 3:01:57 PM  
+**Author:** cisc  
+**Published:** 9/25/2026, 8:00:11 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/personal-tech/2026/09/24/ai-boom-could-wipe-230-million-budget-phones-a-year-from-the-market/5298906 Comments URL: https://news.ycombinator.com/item?id=49845658 Points: 2 # Comments: 0
+Article URL: https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/ Comments URL: https://news.ycombinator.com/item?id=49849171 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/personal-tech/2026/09/24/ai-boom-could-wipe-230-million-budget-phones-a-year-from-the-market/5298906)
+📖 [Read original article](https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/)
 
 ---
 
-## 10. The Chasm: The Shape of Unfinished AI Codebases
+## 10. Tell HN: Stop emailing HN users with deceptive AI spam
 
-**Author:** surprisetalk  
-**Published:** 9/25/2026, 3:00:11 PM  
+**Author:** neilv  
+**Published:** 9/25/2026, 7:56:26 PM  
 **Categories:** -  
 
-Article URL: http://jimmyhmiller.com/shape-of-unfinished-ai-codebases Comments URL: https://news.ycombinator.com/item?id=49845633 Points: 2 # Comments: 0
+Lately, I've been getting many emails that appear to be from a fellow human HN user who saw something you said on HN, and was inspired to reach out about joining their company.There's usually a faint whiff of AI, though they usually pick a personal detail of yours to mention (to make it not look lik...
 
-📖 [Read original article](http://jimmyhmiller.com/shape-of-unfinished-ai-codebases)
+📖 [Read original article](https://news.ycombinator.com/item?id=49849134)
 
 ---
 
-## 11. Show HN: I built a tool to combine separate photos into one scene using AI
+## 11. AI-Powered PDF Extraction for Finance
 
-**Author:** tancky  
-**Published:** 9/25/2026, 2:45:29 PM  
+**Author:** rafaelcara  
+**Published:** 9/25/2026, 7:55:20 PM  
 **Categories:** -  
 
-Article URL: https://tancky.io/ Comments URL: https://news.ycombinator.com/item?id=49845397 Points: 1 # Comments: 0
+Article URL: https://pedfs.com/ Comments URL: https://news.ycombinator.com/item?id=49849118 Points: 1 # Comments: 0
 
-📖 [Read original article](https://tancky.io/)
+📖 [Read original article](https://pedfs.com/)
 
 ---
 
-## 12. What's still manual when debugging AI agents?
+## 12. Pope: AI must serve humans not become tool of domination
 
-**Author:** Tussa_Domingos  
-**Published:** 9/25/2026, 2:43:32 PM  
+**Author:** jethronethro  
+**Published:** 9/25/2026, 7:18:05 PM  
 **Categories:** -  
 
-Article URL: https://www.traser.dev/ Comments URL: https://news.ycombinator.com/item?id=49845366 Points: 1 # Comments: 0
+Article URL: https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war Comments URL: https://news.ycombinator.com/item?id=49848734 Points: 8 # Comments: 1
 
-📖 [Read original article](https://www.traser.dev/)
+📖 [Read original article](https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war)
 
 ---
 
-## 13. Show HN: PixelSniff – Check if a photo is AI-generated, no sign-up
+## 13. A reminder on why basic prompt caching is so important to build AI agents
 
-**Author:** songtianlun1  
-**Published:** 9/25/2026, 2:34:16 PM  
+**Author:** pramodka  
+**Published:** 9/25/2026, 7:12:41 PM  
 **Categories:** -  
 
-Article URL: https://pixelsniff.com/ Comments URL: https://news.ycombinator.com/item?id=49845249 Points: 1 # Comments: 2
+Article URL: https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend Comments URL: https://news.ycombinator.com/item?id=49848678 Points: 2 # Comments: 1
 
-📖 [Read original article](https://pixelsniff.com/)
+📖 [Read original article](https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend)
 
 ---
 
-## 14. Giving AI agents a voice at the table
+## 14. AI Infra Is Nothing Like the Classic Cloud Infra
 
-**Author:** ZappoMan  
-**Published:** 9/25/2026, 2:32:02 PM  
+**Author:** intrepidsoldier  
+**Published:** 9/25/2026, 7:01:39 PM  
 **Categories:** -  
 
-Article URL: https://www.highfidelity.com/blog/giving-our-a.i.-agents-a-voice-at-the-table Comments URL: https://news.ycombinator.com/item?id=49845215 Points: 2 # Comments: 0
+Article URL: https://ramansharma.substack.com/p/ai-infra-is-nothing-like-the-classic Comments URL: https://news.ycombinator.com/item?id=49848551 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.highfidelity.com/blog/giving-our-a.i.-agents-a-voice-at-the-table)
+📖 [Read original article](https://ramansharma.substack.com/p/ai-infra-is-nothing-like-the-classic)
 
 ---
 
-## 15. Evolving programming languages in the AI era – by Jose Valim
+## 15. No country controls every layer: The hidden AI systems reshaping global power
 
-**Author:** vmg12  
-**Published:** 9/25/2026, 2:27:30 PM  
+**Author:** greysunsets  
+**Published:** 9/25/2026, 6:57:58 PM  
 **Categories:** -  
 
-Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49845162 Points: 3 # Comments: 0
+Article URL: https://www.abc.net.au/news/2026-09-24/ai-race-chips-data-energy-cake-stack-us-china-asia-pacific/107071946 Comments URL: https://news.ycombinator.com/item?id=49848516 Points: 1 # Comments: 0
 
-📖 [Read original article](https://dashbit.co/blog/evolving-ai-era)
+📖 [Read original article](https://www.abc.net.au/news/2026-09-24/ai-race-chips-data-energy-cake-stack-us-china-asia-pacific/107071946)
 
 ---
 
-## 16. Israel weaponises AI for West Bank demolitions
+## 16. Microsoft disrupts AI-assisted platform that compromised 12,000 accounts
 
-**Author:** harry_nutsachs  
-**Published:** 9/25/2026, 2:23:12 PM  
+**Author:** noashavit  
+**Published:** 9/25/2026, 6:50:20 PM  
 **Categories:** -  
 
-Article URL: https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions Comments URL: https://news.ycombinator.com/item?id=49845109 Points: 11 # Comments: 5
+Article URL: https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/ Comments URL: https://news.ycombinator.com/item?id=49848424 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions)
+📖 [Read original article](https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/)
 
 ---
 
-## 17. Four AI Giants Agreed to Slow Down. Four Subscribers Sued Them for It
+## 17. Cambridge Analytica 2.0 – When the AI Assistant Becomes a Intelligence Graph
 
-**Author:** bmcdresson  
-**Published:** 9/25/2026, 2:19:08 PM  
+**Author:** sangamdas  
+**Published:** 9/25/2026, 6:47:21 PM  
 **Categories:** -  
 
-Article URL: https://mrkt30.com/ai-slowdown-lawsuit-anthropic-openai-antitrust/ Comments URL: https://news.ycombinator.com/item?id=49845065 Points: 1 # Comments: 1
+Article URL: https://futurium.ec.europa.eu/en/apply-ai-alliance/community-content/cambridge-analytica-20-when-ai-assistant-becomes-intelligence-graph-billion-dollar-company Comments URL: https://news.ycombinator.com/item?id=49848397 Points: 1 # Comments: 0
 
-📖 [Read original article](https://mrkt30.com/ai-slowdown-lawsuit-anthropic-openai-antitrust/)
+📖 [Read original article](https://futurium.ec.europa.eu/en/apply-ai-alliance/community-content/cambridge-analytica-20-when-ai-assistant-becomes-intelligence-graph-billion-dollar-company)
 
 ---
 
-## 18. Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot
+## 18. The cost of free AI restaurant ads is greater than it seems
 
-**Author:** sbulaev  
-**Published:** 9/25/2026, 2:07:08 PM  
+**Author:** tortilla  
+**Published:** 9/25/2026, 6:31:50 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 32 # Comments: 23
+Article URL: https://www.phoenixnewtimes.com/opinion/ai-restaurant-ads-are-free-but-at-what-cost-40701302/ Comments URL: https://news.ycombinator.com/item?id=49848247 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot)
+📖 [Read original article](https://www.phoenixnewtimes.com/opinion/ai-restaurant-ads-are-free-but-at-what-cost-40701302/)
 
 ---
 
-## 19. The US stood alone in dismissing AI safety concerns at the UN
+## 19. AI applications need better primitives than text generation
 
-**Author:** ilamont  
-**Published:** 9/25/2026, 1:54:05 PM  
+**Author:** nlpnerd  
+**Published:** 9/25/2026, 6:30:30 PM  
 **Categories:** -  
 
-Article URL: https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety Comments URL: https://news.ycombinator.com/item?id=49844717 Points: 2 # Comments: 2
+Article URL: https://seldon-ai.com/blog/better-primitives-than-text-generation Comments URL: https://news.ycombinator.com/item?id=49848236 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety)
+📖 [Read original article](https://seldon-ai.com/blog/better-primitives-than-text-generation)
 
 ---
 
-## 20. Cracks in Oracle's AI Data-Center Build-Out Appear in New Mexico Project
+## 20. Show HN: Stop shipping AI slop, Executor makes agents prove it works
 
-**Author:** hodgesrm  
-**Published:** 9/25/2026, 1:46:40 PM  
+**Author:** LambdaLogic  
+**Published:** 9/25/2026, 6:05:31 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2 Comments URL: https://news.ycombinator.com/item?id=49844634 Points: 2 # Comments: 0
+Article URL: https://github.com/Atri10/executor Comments URL: https://news.ycombinator.com/item?id=49847953 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2)
+📖 [Read original article](https://github.com/Atri10/executor)
 
 ---
