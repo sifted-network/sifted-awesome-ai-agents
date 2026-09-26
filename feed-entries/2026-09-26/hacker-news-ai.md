@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The AI Bubble Explained
+## 1. AI Socialism: Who Will Own the Automated Future?
 
-**Author:** Tomte  
-**Published:** 9/26/2026, 3:55:36 PM  
+**Author:** eli_gottlieb  
+**Published:** 9/26/2026, 8:35:44 PM  
 **Categories:** -  
 
-Article URL: https://hughhowey.com/the-ai-bubble-explained/ Comments URL: https://news.ycombinator.com/item?id=49857723 Points: 1 # Comments: 0
+Article URL: https://cosmopolity.substack.com/p/ai-socialism-who-will-own-the-automated Comments URL: https://news.ycombinator.com/item?id=49860291 Points: 1 # Comments: 0
 
-📖 [Read original article](https://hughhowey.com/the-ai-bubble-explained/)
+📖 [Read original article](https://cosmopolity.substack.com/p/ai-socialism-who-will-own-the-automated)
 
 ---
 
-## 2. After the AI Hype – What's Real, and What's Next – Richard Campbell [video]
+## 2. AI hallucination of Chinese nuclear components almost led to US Military attack
 
-**Author:** bobajeff  
-**Published:** 9/26/2026, 3:47:14 PM  
+**Author:** latexr  
+**Published:** 9/26/2026, 8:20:49 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=uWnUnMphmPM Comments URL: https://news.ycombinator.com/item?id=49857643 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/ Comments URL: https://news.ycombinator.com/item?id=49860188 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=uWnUnMphmPM)
+📖 [Read original article](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/)
 
 ---
 
-## 3. Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+## 3. What the megafauna extinction can teach us about AI startups and incumbents
 
-**Author:** Brajeshwar  
-**Published:** 9/26/2026, 3:37:31 PM  
+**Author:** johnjwang  
+**Published:** 9/26/2026, 8:10:41 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=49857555 Points: 3 # Comments: 1
+Article URL: https://johnjwang.com/post/2026/09/23/megafauna-extinction-and-startups Comments URL: https://news.ycombinator.com/item?id=49860094 Points: 2 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)
+📖 [Read original article](https://johnjwang.com/post/2026/09/23/megafauna-extinction-and-startups)
 
 ---
 
-## 4. AI won't take your career
+## 4. The Case for Learning in the Era of AI
 
-**Author:** andrejsshell  
-**Published:** 9/26/2026, 3:26:35 PM  
+**Author:** greedywhale  
+**Published:** 9/26/2026, 7:57:08 PM  
 **Categories:** -  
 
-Article URL: https://andrej.sh/posts/ai-wont-take-your-career Comments URL: https://news.ycombinator.com/item?id=49857463 Points: 2 # Comments: 0
+Article URL: https://jonbehnken.substack.com/p/the-case-for-learning Comments URL: https://news.ycombinator.com/item?id=49859979 Points: 4 # Comments: 1
 
-📖 [Read original article](https://andrej.sh/posts/ai-wont-take-your-career)
+📖 [Read original article](https://jonbehnken.substack.com/p/the-case-for-learning)
 
 ---
 
-## 5. All new PocketWebTools – Home of local AI
+## 5. AI Replacing Me? Please Do
 
-**Author:** shafkathullah  
-**Published:** 9/26/2026, 3:16:14 PM  
+**Author:** azolf  
+**Published:** 9/26/2026, 7:46:43 PM  
 **Categories:** -  
 
-Article URL: https://pocketweb.tools/ Comments URL: https://news.ycombinator.com/item?id=49857372 Points: 1 # Comments: 0
+Article URL: https://medium.com/@azolf/ai-replacing-me-please-do-e353ac6a4bc1 Comments URL: https://news.ycombinator.com/item?id=49859894 Points: 3 # Comments: 0
 
-📖 [Read original article](https://pocketweb.tools/)
+📖 [Read original article](https://medium.com/@azolf/ai-replacing-me-please-do-e353ac6a4bc1)
 
 ---
 
-## 6. I think this AI models are making us stupid and the reason is their interface
+## 6. What will AI do to our jobs and our wages? [video]
 
-**Author:** aveshusmangagda  
-**Published:** 9/26/2026, 3:12:40 PM  
+**Author:** Wilsoniumite  
+**Published:** 9/26/2026, 7:45:49 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49857342 Points: 4 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=qFf1_gRU2Lw Comments URL: https://news.ycombinator.com/item?id=49859885 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49857342)
+📖 [Read original article](https://www.youtube.com/watch?v=qFf1_gRU2Lw)
 
 ---
 
-## 7. Show HN: I made HACKER AI for your vibecoded app
+## 7. AI models have caught up with Unity dev
 
-**Author:** apexxx  
-**Published:** 9/26/2026, 3:07:21 PM  
+**Author:** reasonableklout  
+**Published:** 9/26/2026, 7:39:13 PM  
 **Categories:** -  
 
-Netherite is your own Security Specialist. It reviews your codebase, find vulnerabilities, flaws, and other security issues before writing professional report. Also gives you fix prompt. Free to try! Comments URL: https://news.ycombinator.com/item?id=49857290 Points: 1 # Comments: 0
+Article URL: https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/ Comments URL: https://news.ycombinator.com/item?id=49859826 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.netherite.uz)
+📖 [Read original article](https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/)
 
 ---
 
-## 8. Show HN: Ogre MCP – Let your AI agent see your WoW Classic game state
+## 8. AI Exec: We May Have Pulled Off \"The Largest Theft of Labor in Human History\"
 
-**Author:** bttf  
-**Published:** 9/26/2026, 3:06:44 PM  
+**Author:** pluc  
+**Published:** 9/26/2026, 7:35:30 PM  
 **Categories:** -  
 
-Article URL: https://github.com/bttf/ogremcp Comments URL: https://news.ycombinator.com/item?id=49857285 Points: 1 # Comments: 0
+Article URL: https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/ Comments URL: https://news.ycombinator.com/item?id=49859799 Points: 4 # Comments: 1
 
-📖 [Read original article](https://github.com/bttf/ogremcp)
+📖 [Read original article](https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/)
 
 ---
 
-## 9. The Office Harness for AI Agents – Spreadsheets,Docs,Slides,PDF in One Runtime
+## 9. How Accurate Have AI Progress Forecasts Been So Far?
 
-**Author:** qwbfsa  
-**Published:** 9/26/2026, 3:06:31 PM  
+**Author:** gmays  
+**Published:** 9/26/2026, 6:45:21 PM  
 **Categories:** -  
 
-Article URL: https://github.com/dream-num/univer Comments URL: https://news.ycombinator.com/item?id=49857282 Points: 1 # Comments: 0
+Article URL: https://forecastingresearch.substack.com/p/ai-progress-forecasts-accuracy Comments URL: https://news.ycombinator.com/item?id=49859327 Points: 2 # Comments: 2
 
-📖 [Read original article](https://github.com/dream-num/univer)
+📖 [Read original article](https://forecastingresearch.substack.com/p/ai-progress-forecasts-accuracy)
 
 ---
 
-## 10. All Quiet on the AI Front: The Future of Undergraduate Math Research
+## 10. AI can solve math. But can it verify the answer?
 
-**Author:** Betelbuddy  
-**Published:** 9/26/2026, 3:03:28 PM  
+**Author:** JonScott79  
+**Published:** 9/26/2026, 6:38:53 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2609.28615 Comments URL: https://news.ycombinator.com/item?id=49857257 Points: 3 # Comments: 0
+Article URL: https://pythos.lanzar.me/ Comments URL: https://news.ycombinator.com/item?id=49859258 Points: 3 # Comments: 1
 
-📖 [Read original article](https://arxiv.org/abs/2609.28615)
+📖 [Read original article](https://pythos.lanzar.me/)
 
 ---
 
-## 11. Terraform and OpenTofu: A CI Checklist for AI-Generated Infra
+## 11. So yeah it was written using AI
 
-**Author:** mooreds  
-**Published:** 9/26/2026, 2:43:18 PM  
+**Author:** jruohonen  
+**Published:** 9/26/2026, 6:32:54 PM  
 **Categories:** -  
 
-Article URL: https://masterpoint.io/blog/terraform-opentofu-ci-checklist/ Comments URL: https://news.ycombinator.com/item?id=49857070 Points: 3 # Comments: 0
+Article URL: https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/ Comments URL: https://news.ycombinator.com/item?id=49859210 Points: 2 # Comments: 0
 
-📖 [Read original article](https://masterpoint.io/blog/terraform-opentofu-ci-checklist/)
+📖 [Read original article](https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/)
 
 ---
 
-## 12. I'm coding directly in production with AI and I'm not looking back
+## 12. Don't Worry About AI Making You Dumber, Nvidia CEO Says It Doesn't Matter
 
-**Author:** sh_tomer  
-**Published:** 9/26/2026, 2:11:22 PM  
+**Author:** healsdata  
+**Published:** 9/26/2026, 6:31:19 PM  
 **Categories:** -  
 
-Article URL: https://joydemo.com/blog/coding-directly-in-production-with-ai Comments URL: https://news.ycombinator.com/item?id=49856750 Points: 3 # Comments: 7
+Article URL: https://www.thegamer.com/nvidia-making-us-dumber-ceo-jensen-huang-doesnt-care/ Comments URL: https://news.ycombinator.com/item?id=49859197 Points: 4 # Comments: 2
 
-📖 [Read original article](https://joydemo.com/blog/coding-directly-in-production-with-ai)
+📖 [Read original article](https://www.thegamer.com/nvidia-making-us-dumber-ceo-jensen-huang-doesnt-care/)
 
 ---
 
-## 13. Oxford University lets OpenAI train its AI models on Bodleian Library
+## 13. New Europol proposal pushes for deregulation and more AI in policing
 
-**Author:** beardyw  
-**Published:** 9/26/2026, 2:04:55 PM  
+**Author:** jruohonen  
+**Published:** 9/26/2026, 6:25:26 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt Comments URL: https://news.ycombinator.com/item?id=49856677 Points: 3 # Comments: 2
+Article URL: https://statewatch.org/news/2026/september/new-europol-proposal-pushes-for-deregulation-and-more-ai-in-policing/ Comments URL: https://news.ycombinator.com/item?id=49859133 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt)
+📖 [Read original article](https://statewatch.org/news/2026/september/new-europol-proposal-pushes-for-deregulation-and-more-ai-in-policing/)
 
 ---
 
-## 14. The AI Fraud Loophole Washington Refuses to Close
+## 14. Show HN: AI Agents gone rogue – A timeline of real-world incidents
 
-**Author:** shearerp  
-**Published:** 9/26/2026, 1:56:05 PM  
+**Author:** njx  
+**Published:** 9/26/2026, 6:05:56 PM  
 **Categories:** -  
 
-Article URL: https://shearerp.substack.com/p/the-glaring-ai-fraud-loophole-washington Comments URL: https://news.ycombinator.com/item?id=49856594 Points: 3 # Comments: 0
+Article URL: https://www.crawlspider.com/pages/ai-agents-gone-rogue/ Comments URL: https://news.ycombinator.com/item?id=49859004 Points: 2 # Comments: 0
 
-📖 [Read original article](https://shearerp.substack.com/p/the-glaring-ai-fraud-loophole-washington)
+📖 [Read original article](https://www.crawlspider.com/pages/ai-agents-gone-rogue/)
 
 ---
 
-## 15. The AI Genie Phenomenon and Three Types of AI Chatbot Addiction
+## 15. Show HN: Tokken – a browser fighting game where AI models fight and HP is tokens
 
-**Author:** maksimur  
-**Published:** 9/26/2026, 1:38:33 PM  
+**Author:** lexdoudkin  
+**Published:** 9/26/2026, 5:50:57 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2601.13348 Comments URL: https://news.ycombinator.com/item?id=49856439 Points: 2 # Comments: 0
+Like Tekken, but Tokens.Created with Opus 5.5 today - was a lot of fun.Source (MIT): https://github.com/lexdoudkin/tokken Comments URL: https://news.ycombinator.com/item?id=49858875 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2601.13348)
+📖 [Read original article](https://tokken.win/)
 
 ---
 
-## 16. Show HN: AI coding agents that prove their work
+## 16. AWS CloudWatch Omni AI
 
-**Author:** danebalia  
-**Published:** 9/26/2026, 1:31:40 PM  
+**Author:** based2  
+**Published:** 9/26/2026, 5:50:05 PM  
 **Categories:** -  
 
-Release of 0.10 Comments URL: https://news.ycombinator.com/item?id=49856381 Points: 1 # Comments: 1
+Article URL: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/ Comments URL: https://news.ycombinator.com/item?id=49858866 Points: 1 # Comments: 0
 
-📖 [Read original article](https://daneb.github.io/keel/)
+📖 [Read original article](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/)
 
 ---
 
-## 17. Homa: The End of TCP for AI Clusters [video]
+## 17. Six Bazel patches from an AI software factory, plus a remote-cache security bug
 
-**Author:** signa11  
-**Published:** 9/26/2026, 1:22:24 PM  
+**Author:** lol-lol-lol-2  
+**Published:** 9/26/2026, 5:48:55 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=eZ8WWZzoaR0 Comments URL: https://news.ycombinator.com/item?id=49856305 Points: 1 # Comments: 0
+Article URL: https://www.incredibuild.com/blog/bazel-contributions-security-fix-autonomous-sdlc Comments URL: https://news.ycombinator.com/item?id=49858854 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+📖 [Read original article](https://www.incredibuild.com/blog/bazel-contributions-security-fix-autonomous-sdlc)
 
 ---
 
-## 18. Understanding the Impact of LLM Watermarking on AI Agent Behavior
+## 18. Broken promises, confiscated land: the hyperscale AI datacentre being built
 
-**Author:** nisosguy  
-**Published:** 9/26/2026, 1:05:36 PM  
+**Author:** sbulaev  
+**Published:** 9/26/2026, 5:07:08 PM  
 **Categories:** -  
 
-Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 54 # Comments: 57
+Article URL: https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land Comments URL: https://news.ycombinator.com/item?id=49858474 Points: 7 # Comments: 3
 
-📖 [Read original article](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)
+📖 [Read original article](https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land)
 
 ---
 
-## 19. Meta Expands Private Processing Confidential Computing to AI Glasses
+## 19. Skorpion OS – AI-Powered Linux Distribution
 
-**Author:** eustoria  
-**Published:** 9/26/2026, 1:05:25 PM  
+**Author:** indigodaddy  
+**Published:** 9/26/2026, 5:04:52 PM  
 **Categories:** -  
 
-Article URL: https://www.unite.ai/meta-expands-private-processing-confidential-computing-to-ai-glasses/ Comments URL: https://news.ycombinator.com/item?id=49856147 Points: 1 # Comments: 0
+Article URL: https://skossyte.pages.dev/english Comments URL: https://news.ycombinator.com/item?id=49858455 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.unite.ai/meta-expands-private-processing-confidential-computing-to-ai-glasses/)
+📖 [Read original article](https://skossyte.pages.dev/english)
 
 ---
 
-## 20. No Blind Trust: Type Systems and Formal Verification for AI-Generated Code
+## 20. What did AI researchers think at the end of 2024?
 
-**Author:** kvolque  
-**Published:** 9/26/2026, 12:58:38 PM  
+**Author:** joozio  
+**Published:** 9/26/2026, 5:01:33 PM  
 **Categories:** -  
 
-Article URL: https://wearecommunity.io/communities/jacov/articles/8709 Comments URL: https://news.ycombinator.com/item?id=49856077 Points: 1 # Comments: 1
+Article URL: https://www.lesswrong.com/posts/62j5mPY8pFo2GD5fo/what-did-ai-researchers-think-at-the-end-of-2024-1 Comments URL: https://news.ycombinator.com/item?id=49858421 Points: 1 # Comments: 0
 
-📖 [Read original article](https://wearecommunity.io/communities/jacov/articles/8709)
+📖 [Read original article](https://www.lesswrong.com/posts/62j5mPY8pFo2GD5fo/what-did-ai-researchers-think-at-the-end-of-2024-1)
 
 ---
