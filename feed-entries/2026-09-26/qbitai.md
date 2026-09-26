@@ -2,16 +2,28 @@
 title: "qbitai - 2026-09-26"
 date: "2026-09-26"
 source: "qbitai"
-count: 5
+count: 6
 ---
 
 # qbitai - 2026-09-26
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo
+## 1. 索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准
+
+**Author:** 量子位的朋友们  
+**Published:** 9/26/2026, 11:49:43 AM  
+**Categories:** 资讯, 美梦空间  
+
+“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。
+
+📖 [Read original article](https://www.qbitai.com/2026/09/498478.html)
+
+---
+
+## 2. AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo
 
 **Author:** 田, 晏林  
 **Published:** 9/26/2026, 9:07:41 AM  
@@ -23,7 +35,7 @@ Simate将训练、推理与评测全流程接入自研Infra，通过极致的任
 
 ---
 
-## 2. 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub
+## 3. 笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub
 
 **Author:** 田, 晏林  
 **Published:** 9/26/2026, 9:01:00 AM  
@@ -35,7 +47,7 @@ GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？
 
 ---
 
-## 3. 在云栖大会，我终于看懂了米哈游千亿AI野心
+## 4. 在云栖大会，我终于看懂了米哈游千亿AI野心
 
 **Author:** 听雨  
 **Published:** 9/26/2026, 7:18:05 AM  
@@ -47,7 +59,7 @@ GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？
 
 ---
 
-## 4. 谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架
+## 5. 谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架
 
 **Author:** 听雨  
 **Published:** 9/26/2026, 7:12:05 AM  
@@ -59,7 +71,7 @@ vLLM人马创业公司团队出品
 
 ---
 
-## 5. OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光
+## 6. OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光
 
 **Author:** 听雨  
 **Published:** 9/26/2026, 7:04:15 AM  
