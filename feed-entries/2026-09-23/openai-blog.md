@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-23"
 date: "2026-09-23"
 source: "OpenAI Blog"
-count: 7
+count: 6
 ---
 
 # OpenAI Blog - 2026-09-23
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ With GPT‑6 Astra, invideo plans edits with greater precision, improves color c
 Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
 
 📖 [Read original article](https://openai.com/index/ringg)
-
----
-
-## 7. Introducing MentalHealthBench
-
-**Author:** -  
-**Published:** 9/23/2026, 10:00:00 AM  
-**Categories:** Publication  
-
-MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.
-
-📖 [Read original article](https://openai.com/index/introducing-mentalhealthbench)
 
 ---
