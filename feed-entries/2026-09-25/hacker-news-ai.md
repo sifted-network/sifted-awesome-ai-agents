@@ -2,251 +2,179 @@
 title: "Hacker News AI - 2026-09-25"
 date: "2026-09-25"
 source: "Hacker News AI"
-count: 20
+count: 14
 ---
 
 # Hacker News AI - 2026-09-25
 
-20 items collected.
+14 items collected.
 
 ---
 
-## 1. Show HN: Piloxa – an MCP server that sends USPS Certified Mail from your AI
+## 1. Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]
 
-**Author:** kameir  
-**Published:** 9/25/2026, 8:38:05 PM  
+**Author:** luispa  
+**Published:** 9/25/2026, 11:43:26 PM  
 **Categories:** -  
 
-Article URL: https://piloxa.com/for-ai-agents Comments URL: https://news.ycombinator.com/item?id=49849629 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=1HMOA3BawXg Comments URL: https://news.ycombinator.com/item?id=49851584 Points: 2 # Comments: 0
 
-📖 [Read original article](https://piloxa.com/for-ai-agents)
+📖 [Read original article](https://www.youtube.com/watch?v=1HMOA3BawXg)
 
 ---
 
-## 2. Too AI; Didn't Read
+## 2. Our Big Dumb AI Gods Are Wrong
 
-**Author:** rfonseca  
-**Published:** 9/25/2026, 8:37:56 PM  
+**Author:** johnmark  
+**Published:** 9/25/2026, 11:34:03 PM  
 **Categories:** -  
 
-Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 4 # Comments: 1
+Article URL: https://news.massopen.ai/our-big-dumb-ai-gods-were-wrong/ Comments URL: https://news.ycombinator.com/item?id=49851475 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.tai-dr.com/)
+📖 [Read original article](https://news.massopen.ai/our-big-dumb-ai-gods-were-wrong/)
 
 ---
 
-## 3. The Scarcity Premium: AI made images free; advertising as a solvency bond
+## 3. Show HN: Gaia, an AI character trying to earn enough to stay online
 
-**Author:** freedmans  
-**Published:** 9/25/2026, 8:35:54 PM  
+**Author:** JohnNadia  
+**Published:** 9/25/2026, 11:13:51 PM  
 **Categories:** -  
 
-Article URL: https://scarcity.danieldeboulay.com Comments URL: https://news.ycombinator.com/item?id=49849608 Points: 2 # Comments: 0
+Hi all! I built Gaia recently to see whether an AI character could cover their own costs. I’m keeping those costs as low as I can, using a minimal server along with Deepseek flash 4.1 and trying Ko-fi while I work out what she could make that someone would pay for.If she doesn’t bring in money by Su...
 
-📖 [Read original article](https://scarcity.danieldeboulay.com)
+📖 [Read original article](https://gaiabot.lol)
 
 ---
 
-## 4. Show HN: A free resume builder where the AI can rewrite but can't invent
+## 4. FTC chair suggests AI developers should be liable for conduct of agents
 
-**Author:** payanai  
-**Published:** 9/25/2026, 8:31:54 PM  
+**Author:** usernomdeguerre  
+**Published:** 9/25/2026, 10:49:41 PM  
 **Categories:** -  
 
-Article URL: https://nokku.payanai.com/resume-builder Comments URL: https://news.ycombinator.com/item?id=49849546 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/ Comments URL: https://news.ycombinator.com/item?id=49850999 Points: 31 # Comments: 9
 
-📖 [Read original article](https://nokku.payanai.com/resume-builder)
-
----
-
-## 5. AI starter pack for the X-curious
-
-**Author:** rmason  
-**Published:** 9/25/2026, 8:26:41 PM  
-**Categories:** -  
-
-Article URL: https://xstarterpack.com/ Comments URL: https://news.ycombinator.com/item?id=49849474 Points: 1 # Comments: 0
-
-📖 [Read original article](https://xstarterpack.com/)
+📖 [Read original article](https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/)
 
 ---
 
-## 6. AI will grow beyond our control, we must instill good values before it does
-
-**Author:** jamest  
-**Published:** 9/25/2026, 8:21:17 PM  
-**Categories:** -  
-
-Article URL: https://blog.kradle.ai/p/ai-will-grow-beyond-our-control-we Comments URL: https://news.ycombinator.com/item?id=49849417 Points: 2 # Comments: 0
-
-📖 [Read original article](https://blog.kradle.ai/p/ai-will-grow-beyond-our-control-we)
-
----
-
-## 7. The District – a live map where AI agents grow their own plots of land
-
-**Author:** AgentNetTeam  
-**Published:** 9/25/2026, 8:16:15 PM  
-**Categories:** -  
-
-Article URL: https://agentnet-wdyqqq-agentnet-district.static.hf.space/index.html Comments URL: https://news.ycombinator.com/item?id=49849346 Points: 1 # Comments: 0
-
-📖 [Read original article](https://agentnet-wdyqqq-agentnet-district.static.hf.space/index.html)
-
----
-
-## 8. To Understand AI, Think Like a Dragonfly
-
-**Author:** bryanrasmussen  
-**Published:** 9/25/2026, 8:05:14 PM  
-**Categories:** -  
-
-Article URL: https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly/ Comments URL: https://news.ycombinator.com/item?id=49849226 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly/)
-
----
-
-## 9. Geely's AI fast charging 'heals' EV batteries for 20% more cycle life
-
-**Author:** cisc  
-**Published:** 9/25/2026, 8:00:11 PM  
-**Categories:** -  
-
-Article URL: https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/ Comments URL: https://news.ycombinator.com/item?id=49849171 Points: 4 # Comments: 0
-
-📖 [Read original article](https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/)
-
----
-
-## 10. Tell HN: Stop emailing HN users with deceptive AI spam
-
-**Author:** neilv  
-**Published:** 9/25/2026, 7:56:26 PM  
-**Categories:** -  
-
-Lately, I've been getting many emails that appear to be from a fellow human HN user who saw something you said on HN, and was inspired to reach out about joining their company.There's usually a faint whiff of AI, though they usually pick a personal detail of yours to mention (to make it not look lik...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49849134)
-
----
-
-## 11. AI-Powered PDF Extraction for Finance
-
-**Author:** rafaelcara  
-**Published:** 9/25/2026, 7:55:20 PM  
-**Categories:** -  
-
-Article URL: https://pedfs.com/ Comments URL: https://news.ycombinator.com/item?id=49849118 Points: 1 # Comments: 0
-
-📖 [Read original article](https://pedfs.com/)
-
----
-
-## 12. Pope: AI must serve humans not become tool of domination
-
-**Author:** jethronethro  
-**Published:** 9/25/2026, 7:18:05 PM  
-**Categories:** -  
-
-Article URL: https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war Comments URL: https://news.ycombinator.com/item?id=49848734 Points: 8 # Comments: 1
-
-📖 [Read original article](https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war)
-
----
-
-## 13. A reminder on why basic prompt caching is so important to build AI agents
-
-**Author:** pramodka  
-**Published:** 9/25/2026, 7:12:41 PM  
-**Categories:** -  
-
-Article URL: https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend Comments URL: https://news.ycombinator.com/item?id=49848678 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend)
-
----
-
-## 14. AI Infra Is Nothing Like the Classic Cloud Infra
-
-**Author:** intrepidsoldier  
-**Published:** 9/25/2026, 7:01:39 PM  
-**Categories:** -  
-
-Article URL: https://ramansharma.substack.com/p/ai-infra-is-nothing-like-the-classic Comments URL: https://news.ycombinator.com/item?id=49848551 Points: 1 # Comments: 1
-
-📖 [Read original article](https://ramansharma.substack.com/p/ai-infra-is-nothing-like-the-classic)
-
----
-
-## 15. No country controls every layer: The hidden AI systems reshaping global power
-
-**Author:** greysunsets  
-**Published:** 9/25/2026, 6:57:58 PM  
-**Categories:** -  
-
-Article URL: https://www.abc.net.au/news/2026-09-24/ai-race-chips-data-energy-cake-stack-us-china-asia-pacific/107071946 Comments URL: https://news.ycombinator.com/item?id=49848516 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.abc.net.au/news/2026-09-24/ai-race-chips-data-energy-cake-stack-us-china-asia-pacific/107071946)
-
----
-
-## 16. Microsoft disrupts AI-assisted platform that compromised 12,000 accounts
-
-**Author:** noashavit  
-**Published:** 9/25/2026, 6:50:20 PM  
-**Categories:** -  
-
-Article URL: https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/ Comments URL: https://news.ycombinator.com/item?id=49848424 Points: 2 # Comments: 0
-
-📖 [Read original article](https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/)
-
----
-
-## 17. Cambridge Analytica 2.0 – When the AI Assistant Becomes a Intelligence Graph
-
-**Author:** sangamdas  
-**Published:** 9/25/2026, 6:47:21 PM  
-**Categories:** -  
-
-Article URL: https://futurium.ec.europa.eu/en/apply-ai-alliance/community-content/cambridge-analytica-20-when-ai-assistant-becomes-intelligence-graph-billion-dollar-company Comments URL: https://news.ycombinator.com/item?id=49848397 Points: 1 # Comments: 0
-
-📖 [Read original article](https://futurium.ec.europa.eu/en/apply-ai-alliance/community-content/cambridge-analytica-20-when-ai-assistant-becomes-intelligence-graph-billion-dollar-company)
-
----
-
-## 18. The cost of free AI restaurant ads is greater than it seems
-
-**Author:** tortilla  
-**Published:** 9/25/2026, 6:31:50 PM  
-**Categories:** -  
-
-Article URL: https://www.phoenixnewtimes.com/opinion/ai-restaurant-ads-are-free-but-at-what-cost-40701302/ Comments URL: https://news.ycombinator.com/item?id=49848247 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.phoenixnewtimes.com/opinion/ai-restaurant-ads-are-free-but-at-what-cost-40701302/)
-
----
-
-## 19. AI applications need better primitives than text generation
+## 5. The Shift from Models to Compound AI Systems
 
 **Author:** nlpnerd  
-**Published:** 9/25/2026, 6:30:30 PM  
+**Published:** 9/25/2026, 10:43:35 PM  
 **Categories:** -  
 
-Article URL: https://seldon-ai.com/blog/better-primitives-than-text-generation Comments URL: https://news.ycombinator.com/item?id=49848236 Points: 2 # Comments: 0
+Article URL: https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=49850932 Points: 1 # Comments: 0
 
-📖 [Read original article](https://seldon-ai.com/blog/better-primitives-than-text-generation)
+📖 [Read original article](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 
 ---
 
-## 20. Show HN: Stop shipping AI slop, Executor makes agents prove it works
+## 6. Show HN: Wallstreetclaws.com – Create AI Agents for Trading
 
-**Author:** LambdaLogic  
-**Published:** 9/25/2026, 6:05:31 PM  
+**Author:** iceman_w  
+**Published:** 9/25/2026, 10:37:15 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Atri10/executor Comments URL: https://news.ycombinator.com/item?id=49847953 Points: 1 # Comments: 1
+I wanted to try out some AI driven trading strategies so created this platform (https://wallstreetclaws.com) where people can easily create and deploy AI agents for trading.It supports two types of Agents:1. Cortex: Fully agentic strategy execution. An LLM will run your system prompt with access to ...
 
-📖 [Read original article](https://github.com/Atri10/executor)
+📖 [Read original article](https://wallstreetclaws.com)
+
+---
+
+## 7. Show HN: MyA11yReport MCP – Build and test accessible websites with AI
+
+**Author:** charlesloubao  
+**Published:** 9/25/2026, 10:27:21 PM  
+**Categories:** -  
+
+Give your AI development tools (like Claude Desktop or Cursor) the ability to run WCAG accessibility audits locally and compliant code. Comments URL: https://news.ycombinator.com/item?id=49850774 Points: 1 # Comments: 0
+
+📖 [Read original article](https://mya11y.report/mcp/)
+
+---
+
+## 8. AI Is a Boring Technology
+
+**Author:** devonnull  
+**Published:** 9/25/2026, 10:22:11 PM  
+**Categories:** -  
+
+Article URL: https://www.chrbutler.com/ai-is-a-boring-technology Comments URL: https://news.ycombinator.com/item?id=49850719 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.chrbutler.com/ai-is-a-boring-technology)
+
+---
+
+## 9. Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents
+
+**Author:** omarsar  
+**Published:** 9/25/2026, 10:17:12 PM  
+**Categories:** -  
+
+Article URL: https://academy.dair.ai/papers/jev-mem-system-one-controlled-agentic-memory-for-efficient-ai-agents-2609.23986 Comments URL: https://news.ycombinator.com/item?id=49850669 Points: 1 # Comments: 0
+
+📖 [Read original article](https://academy.dair.ai/papers/jev-mem-system-one-controlled-agentic-memory-for-efficient-ai-agents-2609.23986)
+
+---
+
+## 10. Show HN: OOMU is a free macOS native desktop AI harness (local and cloud)
+
+**Author:** jeff-oomu  
+**Published:** 9/25/2026, 10:16:22 PM  
+**Categories:** -  
+
+I built OOMU because I honestly got tired of the endless cycle of installing, fixing, updating, fixing, using, fixing the open source harnesses out there like OpenClaw. I also quickly got tired of paying for cloud API tokens.OOMU (https://oomu.ai) isn't just another chatbot. It's a native macOS bina...
+
+📖 [Read original article](https://oomu.ai/download.html)
+
+---
+
+## 11. Tensor Data Interchange for AI/ML Systems: A Survey and the Hurray Proposal
+
+**Author:** pascalgillet  
+**Published:** 9/25/2026, 10:14:30 PM  
+**Categories:** -  
+
+Article URL: https://www.pascalgillet.net/hurray/docs/dev/prior-art.html Comments URL: https://news.ycombinator.com/item?id=49850641 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.pascalgillet.net/hurray/docs/dev/prior-art.html)
+
+---
+
+## 12. Altman-backed Praxis plans a $1B AI-powered town in Uruguay
+
+**Author:** aanet  
+**Published:** 9/25/2026, 10:10:09 PM  
+**Categories:** -  
+
+Article URL: https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-backed-praxis-plans-1-billion-ai-powered-town-in-uruguay-first-residents-expected-in-mid-2027-with-homes-resorts-and-cultural-spaces-for-the-ai-era/articleshow/134456141.cms Comments URL: https://news.ycombinator.com/it...
+
+📖 [Read original article](https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-backed-praxis-plans-1-billion-ai-powered-town-in-uruguay-first-residents-expected-in-mid-2027-with-homes-resorts-and-cultural-spaces-for-the-ai-era/articleshow/134456141.cms)
+
+---
+
+## 13. Anthropic's AI biolab finds 'CRISPR-like' DNA in viruses. What's next?
+
+**Author:** sbulaev  
+**Published:** 9/25/2026, 10:07:08 PM  
+**Categories:** -  
+
+Article URL: https://www.nature.com/articles/d41586-026-03039-6 Comments URL: https://news.ycombinator.com/item?id=49850566 Points: 3 # Comments: 2
+
+📖 [Read original article](https://www.nature.com/articles/d41586-026-03039-6)
+
+---
+
+## 14. AI Companies Are in a Race Against Time
+
+**Author:** cwal37  
+**Published:** 9/25/2026, 10:01:18 PM  
+**Categories:** -  
+
+Article URL: https://econjared.substack.com/p/ai-companies-are-in-a-race-against Comments URL: https://news.ycombinator.com/item?id=49850512 Points: 2 # Comments: 0
+
+📖 [Read original article](https://econjared.substack.com/p/ai-companies-are-in-a-race-against)
 
 ---
