@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-26"
 date: "2026-09-26"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-09-26
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building
+## 1. Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU
+
+**Author:** Michal Sutter  
+**Published:** 9/26/2026, 7:50:57 PM  
+**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Deep Learning, Editors Pick, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
+
+Supersonic Labs has released Julia 1, a 144.3M-parameter decision model built on mmBERT-small. It takes context, a question, and 2 to 20 options, then returns one choice with probabilities. The model runs on a CPU and ships under Apache 2.0. It beat Jev reference values on 3 of 4 pilots but trailed ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/)
+
+---
+
+## 2. Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building
 
 **Author:** Michal Sutter  
 **Published:** 9/26/2026, 8:04:08 AM  
@@ -23,7 +35,7 @@ Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It c
 
 ---
 
-## 2. End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch
+## 3. End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch
 
 **Author:** Sana Hassan  
 **Published:** 9/26/2026, 7:22:46 AM  
