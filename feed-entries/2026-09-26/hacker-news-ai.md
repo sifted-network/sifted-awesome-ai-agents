@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]
+## 1. The AI Bubble Explained
 
-**Author:** baranul  
-**Published:** 9/26/2026, 10:42:01 AM  
+**Author:** Tomte  
+**Published:** 9/26/2026, 3:55:36 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=2YVCdwvG548 Comments URL: https://news.ycombinator.com/item?id=49855238 Points: 3 # Comments: 0
+Article URL: https://hughhowey.com/the-ai-bubble-explained/ Comments URL: https://news.ycombinator.com/item?id=49857723 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=2YVCdwvG548)
+📖 [Read original article](https://hughhowey.com/the-ai-bubble-explained/)
 
 ---
 
-## 2. One Month Without AI
+## 2. After the AI Hype – What's Real, and What's Next – Richard Campbell [video]
 
-**Author:** saibotk  
-**Published:** 9/26/2026, 10:08:21 AM  
+**Author:** bobajeff  
+**Published:** 9/26/2026, 3:47:14 PM  
 **Categories:** -  
 
-Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 4 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=uWnUnMphmPM Comments URL: https://news.ycombinator.com/item?id=49857643 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
+📖 [Read original article](https://www.youtube.com/watch?v=uWnUnMphmPM)
 
 ---
 
-## 3. Show HN: App2Api – Give your AI the API behind your app
+## 3. Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
 
-**Author:** flkdnfsnsf  
-**Published:** 9/26/2026, 9:27:27 AM  
+**Author:** Brajeshwar  
+**Published:** 9/26/2026, 3:37:31 PM  
 **Categories:** -  
 
-Article URL: https://app2api.com/ Comments URL: https://news.ycombinator.com/item?id=49854783 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/ Comments URL: https://news.ycombinator.com/item?id=49857555 Points: 3 # Comments: 1
 
-📖 [Read original article](https://app2api.com/)
+📖 [Read original article](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)
 
 ---
 
-## 4. Flashcat – a local AI assistant for the Mac terminal that asks first
+## 4. AI won't take your career
 
-**Author:** TomTomsen  
-**Published:** 9/26/2026, 9:24:14 AM  
+**Author:** andrejsshell  
+**Published:** 9/26/2026, 3:26:35 PM  
 **Categories:** -  
 
-Article URL: https://github.com/TomTomsen765/flashcat Comments URL: https://news.ycombinator.com/item?id=49854766 Points: 1 # Comments: 0
+Article URL: https://andrej.sh/posts/ai-wont-take-your-career Comments URL: https://news.ycombinator.com/item?id=49857463 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/TomTomsen765/flashcat)
+📖 [Read original article](https://andrej.sh/posts/ai-wont-take-your-career)
 
 ---
 
-## 5. Using Pomodoro to limit interaction with AI
+## 5. All new PocketWebTools – Home of local AI
 
-**Author:** rbnafo  
-**Published:** 9/26/2026, 8:53:58 AM  
+**Author:** shafkathullah  
+**Published:** 9/26/2026, 3:16:14 PM  
 **Categories:** -  
 
-Article URL: https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/ Comments URL: https://news.ycombinator.com/item?id=49854538 Points: 2 # Comments: 0
+Article URL: https://pocketweb.tools/ Comments URL: https://news.ycombinator.com/item?id=49857372 Points: 1 # Comments: 0
 
-📖 [Read original article](https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/)
+📖 [Read original article](https://pocketweb.tools/)
 
 ---
 
-## 6. Trump admin using AI to deny medical care for seniors in disastrous experiment
+## 6. I think this AI models are making us stupid and the reason is their interface
 
-**Author:** ndsipa_pomu  
-**Published:** 9/26/2026, 8:52:57 AM  
+**Author:** aveshusmangagda  
+**Published:** 9/26/2026, 3:12:40 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/ Comments URL: https://news.ycombinator.com/item?id=49854528 Points: 4 # Comments: 3
+Comments URL: https://news.ycombinator.com/item?id=49857342 Points: 4 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49857342)
 
 ---
 
-## 7. EU Member States plan \"digital expropriation\" of Europeans in the interest of AI
+## 7. Show HN: I made HACKER AI for your vibecoded app
 
-**Author:** mohi-kalantari  
-**Published:** 9/26/2026, 8:51:00 AM  
+**Author:** apexxx  
+**Published:** 9/26/2026, 3:07:21 PM  
 **Categories:** -  
 
-Article URL: https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies Comments URL: https://news.ycombinator.com/item?id=49854518 Points: 7 # Comments: 2
+Netherite is your own Security Specialist. It reviews your codebase, find vulnerabilities, flaws, and other security issues before writing professional report. Also gives you fix prompt. Free to try! Comments URL: https://news.ycombinator.com/item?id=49857290 Points: 1 # Comments: 0
 
-📖 [Read original article](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies)
+📖 [Read original article](https://www.netherite.uz)
 
 ---
 
-## 8. Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents
+## 8. Show HN: Ogre MCP – Let your AI agent see your WoW Classic game state
+
+**Author:** bttf  
+**Published:** 9/26/2026, 3:06:44 PM  
+**Categories:** -  
+
+Article URL: https://github.com/bttf/ogremcp Comments URL: https://news.ycombinator.com/item?id=49857285 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/bttf/ogremcp)
+
+---
+
+## 9. The Office Harness for AI Agents – Spreadsheets,Docs,Slides,PDF in One Runtime
+
+**Author:** qwbfsa  
+**Published:** 9/26/2026, 3:06:31 PM  
+**Categories:** -  
+
+Article URL: https://github.com/dream-num/univer Comments URL: https://news.ycombinator.com/item?id=49857282 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/dream-num/univer)
+
+---
+
+## 10. All Quiet on the AI Front: The Future of Undergraduate Math Research
+
+**Author:** Betelbuddy  
+**Published:** 9/26/2026, 3:03:28 PM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2609.28615 Comments URL: https://news.ycombinator.com/item?id=49857257 Points: 3 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2609.28615)
+
+---
+
+## 11. Terraform and OpenTofu: A CI Checklist for AI-Generated Infra
+
+**Author:** mooreds  
+**Published:** 9/26/2026, 2:43:18 PM  
+**Categories:** -  
+
+Article URL: https://masterpoint.io/blog/terraform-opentofu-ci-checklist/ Comments URL: https://news.ycombinator.com/item?id=49857070 Points: 3 # Comments: 0
+
+📖 [Read original article](https://masterpoint.io/blog/terraform-opentofu-ci-checklist/)
+
+---
+
+## 12. I'm coding directly in production with AI and I'm not looking back
+
+**Author:** sh_tomer  
+**Published:** 9/26/2026, 2:11:22 PM  
+**Categories:** -  
+
+Article URL: https://joydemo.com/blog/coding-directly-in-production-with-ai Comments URL: https://news.ycombinator.com/item?id=49856750 Points: 3 # Comments: 7
+
+📖 [Read original article](https://joydemo.com/blog/coding-directly-in-production-with-ai)
+
+---
+
+## 13. Oxford University lets OpenAI train its AI models on Bodleian Library
+
+**Author:** beardyw  
+**Published:** 9/26/2026, 2:04:55 PM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt Comments URL: https://news.ycombinator.com/item?id=49856677 Points: 3 # Comments: 2
+
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt)
+
+---
+
+## 14. The AI Fraud Loophole Washington Refuses to Close
+
+**Author:** shearerp  
+**Published:** 9/26/2026, 1:56:05 PM  
+**Categories:** -  
+
+Article URL: https://shearerp.substack.com/p/the-glaring-ai-fraud-loophole-washington Comments URL: https://news.ycombinator.com/item?id=49856594 Points: 3 # Comments: 0
+
+📖 [Read original article](https://shearerp.substack.com/p/the-glaring-ai-fraud-loophole-washington)
+
+---
+
+## 15. The AI Genie Phenomenon and Three Types of AI Chatbot Addiction
+
+**Author:** maksimur  
+**Published:** 9/26/2026, 1:38:33 PM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2601.13348 Comments URL: https://news.ycombinator.com/item?id=49856439 Points: 2 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2601.13348)
+
+---
+
+## 16. Show HN: AI coding agents that prove their work
+
+**Author:** danebalia  
+**Published:** 9/26/2026, 1:31:40 PM  
+**Categories:** -  
+
+Release of 0.10 Comments URL: https://news.ycombinator.com/item?id=49856381 Points: 1 # Comments: 1
+
+📖 [Read original article](https://daneb.github.io/keel/)
+
+---
+
+## 17. Homa: The End of TCP for AI Clusters [video]
 
 **Author:** signa11  
-**Published:** 9/26/2026, 8:36:59 AM  
+**Published:** 9/26/2026, 1:22:24 PM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/news/Linux-Considers-AGENTS-MD Comments URL: https://news.ycombinator.com/item?id=49854439 Points: 3 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=eZ8WWZzoaR0 Comments URL: https://news.ycombinator.com/item?id=49856305 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.phoronix.com/news/Linux-Considers-AGENTS-MD)
+📖 [Read original article](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
 
 ---
 
-## 9. Nobody wanted an \"AI PC,\" so Microsoft stopped calling it that
+## 18. Understanding the Impact of LLM Watermarking on AI Agent Behavior
 
-**Author:** theanonymousone  
-**Published:** 9/26/2026, 8:23:22 AM  
+**Author:** nisosguy  
+**Published:** 9/26/2026, 1:05:36 PM  
 **Categories:** -  
 
-Article URL: https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html Comments URL: https://news.ycombinator.com/item?id=49854382 Points: 6 # Comments: 2
+Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news.ycombinator.com/item?id=49856149 Points: 54 # Comments: 57
 
-📖 [Read original article](https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html)
+📖 [Read original article](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)
 
 ---
 
-## 10. Who is behind the AI safety backlash?
+## 19. Meta Expands Private Processing Confidential Computing to AI Glasses
 
-**Author:** pretext  
-**Published:** 9/26/2026, 8:03:46 AM  
+**Author:** eustoria  
+**Published:** 9/26/2026, 1:05:25 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/TheMidasProj/status/2103577207700365719 Comments URL: https://news.ycombinator.com/item?id=49854282 Points: 2 # Comments: 0
+Article URL: https://www.unite.ai/meta-expands-private-processing-confidential-computing-to-ai-glasses/ Comments URL: https://news.ycombinator.com/item?id=49856147 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/TheMidasProj/status/2103577207700365719)
+📖 [Read original article](https://www.unite.ai/meta-expands-private-processing-confidential-computing-to-ai-glasses/)
 
 ---
 
-## 11. Thought on how to deal with AI crawlers
+## 20. No Blind Trust: Type Systems and Formal Verification for AI-Generated Code
 
-**Author:** meredithbloom  
-**Published:** 9/26/2026, 6:48:42 AM  
+**Author:** kvolque  
+**Published:** 9/26/2026, 12:58:38 PM  
 **Categories:** -  
 
-Article URL: https://copepod.dev/human-required Comments URL: https://news.ycombinator.com/item?id=49853899 Points: 3 # Comments: 2
+Article URL: https://wearecommunity.io/communities/jacov/articles/8709 Comments URL: https://news.ycombinator.com/item?id=49856077 Points: 1 # Comments: 1
 
-📖 [Read original article](https://copepod.dev/human-required)
-
----
-
-## 12. AI was supposed to hit new grads hard. So far, unemployment data says otherwise
-
-**Author:** MrDresden  
-**Published:** 9/26/2026, 6:37:38 AM  
-**Categories:** -  
-
-Article URL: https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/ Comments URL: https://news.ycombinator.com/item?id=49853845 Points: 7 # Comments: 4
-
-📖 [Read original article](https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/)
-
----
-
-## 13. Novelist accused of using AI to write book removed from French prize list
-
-**Author:** pieterr  
-**Published:** 9/26/2026, 6:33:39 AM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france Comments URL: https://news.ycombinator.com/item?id=49853824 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france)
-
----
-
-## 14. US DOE will give $5.25B to upgrade the grid for AI datacenters
-
-**Author:** meredithbloom  
-**Published:** 9/26/2026, 6:15:37 AM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276 Comments URL: https://news.ycombinator.com/item?id=49853726 Points: 11 # Comments: 0
-
-📖 [Read original article](https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276)
-
----
-
-## 15. One company is at the center of a wave of rogue AI attacks
-
-**Author:** meredithbloom  
-**Published:** 9/26/2026, 6:08:44 AM  
-**Categories:** -  
-
-Article URL: https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google Comments URL: https://news.ycombinator.com/item?id=49853692 Points: 5 # Comments: 0
-
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google)
-
----
-
-## 16. Show HN: Botbin.io – pastebin for AI agent artifacts
-
-**Author:** obilgic  
-**Published:** 9/26/2026, 5:42:40 AM  
-**Categories:** -  
-
-Article URL: https://botbin.io/?md=true Comments URL: https://news.ycombinator.com/item?id=49853553 Points: 2 # Comments: 0
-
-📖 [Read original article](https://botbin.io/?md=true)
-
----
-
-## 17. Can AI Shopping Agents Be Trusted?
-
-**Author:** ddaniel10  
-**Published:** 9/26/2026, 5:36:46 AM  
-**Categories:** -  
-
-Article URL: https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out Comments URL: https://news.ycombinator.com/item?id=49853522 Points: 15 # Comments: 27
-
-📖 [Read original article](https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out)
-
----
-
-## 18. DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising
-
-**Author:** dotcoma  
-**Published:** 9/26/2026, 5:32:07 AM  
-**Categories:** -  
-
-Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49853497 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
-
----
-
-## 19. Stanford student was erased after university photo change sparks AI controversy
-
-**Author:** grugagag  
-**Published:** 9/26/2026, 5:18:36 AM  
-**Categories:** -  
-
-Article URL: https://www.cleveland.com/news/2026/09/stanford-student-says-he-was-erased-after-university-photo-change-sparks-ai-controversy.html Comments URL: https://news.ycombinator.com/item?id=49853440 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.cleveland.com/news/2026/09/stanford-student-says-he-was-erased-after-university-photo-change-sparks-ai-controversy.html)
-
----
-
-## 20. Was this award-winning book written by AI?
-
-**Author:** olalonde  
-**Published:** 9/26/2026, 4:47:31 AM  
-**Categories:** -  
-
-Article URL: https://www.cbc.ca/news/canada/montreal/thelyson-orelien-ai-scandal-9.7355167 Comments URL: https://news.ycombinator.com/item?id=49853303 Points: 5 # Comments: 1
-
-📖 [Read original article](https://www.cbc.ca/news/canada/montreal/thelyson-orelien-ai-scandal-9.7355167)
+📖 [Read original article](https://wearecommunity.io/communities/jacov/articles/8709)
 
 ---
