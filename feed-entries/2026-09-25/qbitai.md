@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-25"
 date: "2026-09-25"
 source: "qbitai"
-count: 7
+count: 5
 ---
 
 # qbitai - 2026-09-25
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ Agent的手越伸越长
 一场物理世界的基模实验
 
 📖 [Read original article](https://www.qbitai.com/2026/09/497070.html)
-
----
-
-## 6. 呃…小扎「自研Manus」刚成Meta太子，就塌房了
-
-**Author:** Jay  
-**Published:** 9/25/2026, 6:11:10 AM  
-**Categories:** 资讯  
-
-人工外包团队
-
-📖 [Read original article](https://www.qbitai.com/2026/09/497060.html)
-
----
-
-## 7. 给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了
-
-**Author:** 林, 方舟  
-**Published:** 9/25/2026, 5:52:18 AM  
-**Categories:** 资讯, 具身数据, 无本体数据  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/09/497012.html)
 
 ---
