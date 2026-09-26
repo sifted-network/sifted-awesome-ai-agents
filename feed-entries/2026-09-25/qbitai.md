@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-25"
 date: "2026-09-25"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-09-25
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ count: 5
 Agent的手越伸越长
 
 📖 [Read original article](https://www.qbitai.com/2026/09/497075.html)
-
----
-
-## 5. 华为大模型双子星联手创业，要找物理世界的Scaling Law
-
-**Author:** Jay  
-**Published:** 9/25/2026, 6:14:07 AM  
-**Categories:** 资讯  
-
-一场物理世界的基模实验
-
-📖 [Read original article](https://www.qbitai.com/2026/09/497070.html)
 
 ---
