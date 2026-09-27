@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-26"
 date: "2026-09-26"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-09-26
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU
+## 1. Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English
+
+**Author:** Asif Razzaq  
+**Published:** 9/26/2026, 9:56:23 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Audio Language Model, Editors Pick, For Devs, Language Model, Large Language Model, New Releases, Staff, Tech News, Technology, Uncategorized  
+
+Sarvam AI's Saaras V4 is a speech-to-text model covering all 22 Indian languages plus global English. It pairs an audio encoder with a 3B hybrid state-space decoder. It adds keyterm prompting for up to 50 terms, 5 output modes from 1 model, and streaming with first-token latency under 150 ms. It is ...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/)
+
+---
+
+## 2. Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU
 
 **Author:** Michal Sutter  
 **Published:** 9/26/2026, 7:50:57 PM  
@@ -23,7 +35,7 @@ Supersonic Labs has released Julia 1, a 144.3M-parameter decision model built on
 
 ---
 
-## 2. Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building
+## 3. Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building
 
 **Author:** Michal Sutter  
 **Published:** 9/26/2026, 8:04:08 AM  
@@ -35,7 +47,7 @@ Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It c
 
 ---
 
-## 3. End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch
+## 4. End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch
 
 **Author:** Sana Hassan  
 **Published:** 9/26/2026, 7:22:46 AM  
