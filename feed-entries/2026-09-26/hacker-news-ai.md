@@ -2,251 +2,167 @@
 title: "Hacker News AI - 2026-09-26"
 date: "2026-09-26"
 source: "Hacker News AI"
-count: 20
+count: 13
 ---
 
 # Hacker News AI - 2026-09-26
 
-20 items collected.
+13 items collected.
 
 ---
 
-## 1. AI Socialism: Who Will Own the Automated Future?
+## 1. \"can't a guy walk down the street anymore without being harassed by AI\" [video]
 
-**Author:** eli_gottlieb  
-**Published:** 9/26/2026, 8:35:44 PM  
+**Author:** LeoPanthera  
+**Published:** 9/26/2026, 11:57:41 PM  
 **Categories:** -  
 
-Article URL: https://cosmopolity.substack.com/p/ai-socialism-who-will-own-the-automated Comments URL: https://news.ycombinator.com/item?id=49860291 Points: 1 # Comments: 0
+Article URL: https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z Comments URL: https://news.ycombinator.com/item?id=49861804 Points: 8 # Comments: 1
 
-📖 [Read original article](https://cosmopolity.substack.com/p/ai-socialism-who-will-own-the-automated)
+📖 [Read original article](https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z)
 
 ---
 
-## 2. AI hallucination of Chinese nuclear components almost led to US Military attack
+## 2. What reversing, modernising old games tells us about the economic impact of AI
 
-**Author:** latexr  
-**Published:** 9/26/2026, 8:20:49 PM  
+**Author:** keeda  
+**Published:** 9/26/2026, 11:49:01 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/ Comments URL: https://news.ycombinator.com/item?id=49860188 Points: 2 # Comments: 0
+Article URL: https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/ Comments URL: https://news.ycombinator.com/item?id=49861755 Points: 2 # Comments: 1
 
-📖 [Read original article](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/)
+📖 [Read original article](https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/)
 
 ---
 
-## 3. What the megafauna extinction can teach us about AI startups and incumbents
+## 3. Top AI companies probing security incidents
 
-**Author:** johnjwang  
-**Published:** 9/26/2026, 8:10:41 PM  
+**Author:** Balgair  
+**Published:** 9/26/2026, 11:15:28 PM  
 **Categories:** -  
 
-Article URL: https://johnjwang.com/post/2026/09/23/megafauna-extinction-and-startups Comments URL: https://news.ycombinator.com/item?id=49860094 Points: 2 # Comments: 0
+Article URL: https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents Comments URL: https://news.ycombinator.com/item?id=49861517 Points: 8 # Comments: 0
 
-📖 [Read original article](https://johnjwang.com/post/2026/09/23/megafauna-extinction-and-startups)
+📖 [Read original article](https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents)
 
 ---
 
-## 4. The Case for Learning in the Era of AI
+## 4. Allegations of sexual harassment and rape at Bay Area AI party houses
 
-**Author:** greedywhale  
-**Published:** 9/26/2026, 7:57:08 PM  
+**Author:** lukewarm707  
+**Published:** 9/26/2026, 10:54:01 PM  
 **Categories:** -  
 
-Article URL: https://jonbehnken.substack.com/p/the-case-for-learning Comments URL: https://news.ycombinator.com/item?id=49859979 Points: 4 # Comments: 1
+Article URL: https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/ Comments URL: https://news.ycombinator.com/item?id=49861356 Points: 24 # Comments: 4
 
-📖 [Read original article](https://jonbehnken.substack.com/p/the-case-for-learning)
+📖 [Read original article](https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/)
 
 ---
 
-## 5. AI Replacing Me? Please Do
+## 5. Show HN: Newt – A Swift Package for Jev-Style Decisions on Apple Core AI
 
-**Author:** azolf  
-**Published:** 9/26/2026, 7:46:43 PM  
+**Author:** willswire  
+**Published:** 9/26/2026, 10:46:27 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@azolf/ai-replacing-me-please-do-e353ac6a4bc1 Comments URL: https://news.ycombinator.com/item?id=49859894 Points: 3 # Comments: 0
+Article URL: https://github.com/willswire/swift-newt Comments URL: https://news.ycombinator.com/item?id=49861306 Points: 2 # Comments: 0
 
-📖 [Read original article](https://medium.com/@azolf/ai-replacing-me-please-do-e353ac6a4bc1)
+📖 [Read original article](https://github.com/willswire/swift-newt)
 
 ---
 
-## 6. What will AI do to our jobs and our wages? [video]
+## 6. Tyler Cowen: A Doomsday Scenario for American AI
 
-**Author:** Wilsoniumite  
-**Published:** 9/26/2026, 7:45:49 PM  
+**Author:** paulpauper  
+**Published:** 9/26/2026, 10:37:03 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=qFf1_gRU2Lw Comments URL: https://news.ycombinator.com/item?id=49859885 Points: 2 # Comments: 0
+Article URL: https://www.thefp.com/p/tyler-cowen-a-doomsday-scenario-for Comments URL: https://news.ycombinator.com/item?id=49861234 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=qFf1_gRU2Lw)
+📖 [Read original article](https://www.thefp.com/p/tyler-cowen-a-doomsday-scenario-for)
 
 ---
 
-## 7. AI models have caught up with Unity dev
+## 7. Solus Linux Adopts Formal AI and LLM Contribution Policy
 
-**Author:** reasonableklout  
-**Published:** 9/26/2026, 7:39:13 PM  
+**Author:** gpi  
+**Published:** 9/26/2026, 10:29:47 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/ Comments URL: https://news.ycombinator.com/item?id=49859826 Points: 5 # Comments: 0
+Article URL: https://linuxiac.com/solus-linux-adopts-formal-ai-and-llm-contribution-policy/ Comments URL: https://news.ycombinator.com/item?id=49861170 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/)
+📖 [Read original article](https://linuxiac.com/solus-linux-adopts-formal-ai-and-llm-contribution-policy/)
 
 ---
 
-## 8. AI Exec: We May Have Pulled Off \"The Largest Theft of Labor in Human History\"
+## 8. AI Political Alignment Quiz
 
-**Author:** pluc  
-**Published:** 9/26/2026, 7:35:30 PM  
+**Author:** soldieroftok  
+**Published:** 9/26/2026, 10:09:08 PM  
 **Categories:** -  
 
-Article URL: https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/ Comments URL: https://news.ycombinator.com/item?id=49859799 Points: 4 # Comments: 1
+Article URL: https://aipoliticalcube.com/ Comments URL: https://news.ycombinator.com/item?id=49860999 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/)
+📖 [Read original article](https://aipoliticalcube.com/)
 
 ---
 
-## 9. How Accurate Have AI Progress Forecasts Been So Far?
+## 9. AI Data Center Are Monkey Business [video]
 
-**Author:** gmays  
-**Published:** 9/26/2026, 6:45:21 PM  
+**Author:** naughtiusmax  
+**Published:** 9/26/2026, 10:03:25 PM  
 **Categories:** -  
 
-Article URL: https://forecastingresearch.substack.com/p/ai-progress-forecasts-accuracy Comments URL: https://news.ycombinator.com/item?id=49859327 Points: 2 # Comments: 2
+Article URL: https://www.youtube.com/watch?v=2g7doI0BGrs Comments URL: https://news.ycombinator.com/item?id=49860953 Points: 3 # Comments: 0
 
-📖 [Read original article](https://forecastingresearch.substack.com/p/ai-progress-forecasts-accuracy)
+📖 [Read original article](https://www.youtube.com/watch?v=2g7doI0BGrs)
 
 ---
 
-## 10. AI can solve math. But can it verify the answer?
+## 10. A Simple Puzzle Reveals the Jagged Edge of AI's Abilities
 
-**Author:** JonScott79  
-**Published:** 9/26/2026, 6:38:53 PM  
+**Author:** aatish  
+**Published:** 9/26/2026, 9:31:55 PM  
 **Categories:** -  
 
-Article URL: https://pythos.lanzar.me/ Comments URL: https://news.ycombinator.com/item?id=49859258 Points: 3 # Comments: 1
+Article URL: https://aatishb.com/blog/2026/ai-jagged-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49860730 Points: 1 # Comments: 0
 
-📖 [Read original article](https://pythos.lanzar.me/)
+📖 [Read original article](https://aatishb.com/blog/2026/ai-jagged-intelligence/)
 
 ---
 
-## 11. So yeah it was written using AI
+## 11. Financing the AI Buildout [pdf]
 
-**Author:** jruohonen  
-**Published:** 9/26/2026, 6:32:54 PM  
+**Author:** simonpure  
+**Published:** 9/26/2026, 9:29:08 PM  
 **Categories:** -  
 
-Article URL: https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/ Comments URL: https://news.ycombinator.com/item?id=49859210 Points: 2 # Comments: 0
+Article URL: https://www.brookings.edu/wp-content/uploads/2026/09/4c_Van-Nieuwerburgh.pdf Comments URL: https://news.ycombinator.com/item?id=49860708 Points: 1 # Comments: 0
 
-📖 [Read original article](https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/)
+📖 [Read original article](https://www.brookings.edu/wp-content/uploads/2026/09/4c_Van-Nieuwerburgh.pdf)
 
 ---
 
-## 12. Don't Worry About AI Making You Dumber, Nvidia CEO Says It Doesn't Matter
+## 12. Hackers hijack AI accounts and servers to fuel new cyber crime boom
 
-**Author:** healsdata  
-**Published:** 9/26/2026, 6:31:19 PM  
+**Author:** fallinditch  
+**Published:** 9/26/2026, 9:27:50 PM  
 **Categories:** -  
 
-Article URL: https://www.thegamer.com/nvidia-making-us-dumber-ceo-jensen-huang-doesnt-care/ Comments URL: https://news.ycombinator.com/item?id=49859197 Points: 4 # Comments: 2
+Article URL: https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32 Comments URL: https://news.ycombinator.com/item?id=49860704 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.thegamer.com/nvidia-making-us-dumber-ceo-jensen-huang-doesnt-care/)
+📖 [Read original article](https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32)
 
 ---
 
-## 13. New Europol proposal pushes for deregulation and more AI in policing
+## 13. Simple visual patterns can trick AI-powered vehicles and robots
 
-**Author:** jruohonen  
-**Published:** 9/26/2026, 6:25:26 PM  
+**Author:** geox  
+**Published:** 9/26/2026, 9:20:19 PM  
 **Categories:** -  
 
-Article URL: https://statewatch.org/news/2026/september/new-europol-proposal-pushes-for-deregulation-and-more-ai-in-policing/ Comments URL: https://news.ycombinator.com/item?id=49859133 Points: 2 # Comments: 0
+Article URL: https://news.ufl.edu/2026/09/ai-powered-vehicles/ Comments URL: https://news.ycombinator.com/item?id=49860649 Points: 3 # Comments: 1
 
-📖 [Read original article](https://statewatch.org/news/2026/september/new-europol-proposal-pushes-for-deregulation-and-more-ai-in-policing/)
-
----
-
-## 14. Show HN: AI Agents gone rogue – A timeline of real-world incidents
-
-**Author:** njx  
-**Published:** 9/26/2026, 6:05:56 PM  
-**Categories:** -  
-
-Article URL: https://www.crawlspider.com/pages/ai-agents-gone-rogue/ Comments URL: https://news.ycombinator.com/item?id=49859004 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.crawlspider.com/pages/ai-agents-gone-rogue/)
-
----
-
-## 15. Show HN: Tokken – a browser fighting game where AI models fight and HP is tokens
-
-**Author:** lexdoudkin  
-**Published:** 9/26/2026, 5:50:57 PM  
-**Categories:** -  
-
-Like Tekken, but Tokens.Created with Opus 5.5 today - was a lot of fun.Source (MIT): https://github.com/lexdoudkin/tokken Comments URL: https://news.ycombinator.com/item?id=49858875 Points: 1 # Comments: 0
-
-📖 [Read original article](https://tokken.win/)
-
----
-
-## 16. AWS CloudWatch Omni AI
-
-**Author:** based2  
-**Published:** 9/26/2026, 5:50:05 PM  
-**Categories:** -  
-
-Article URL: https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/ Comments URL: https://news.ycombinator.com/item?id=49858866 Points: 1 # Comments: 0
-
-📖 [Read original article](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/)
-
----
-
-## 17. Six Bazel patches from an AI software factory, plus a remote-cache security bug
-
-**Author:** lol-lol-lol-2  
-**Published:** 9/26/2026, 5:48:55 PM  
-**Categories:** -  
-
-Article URL: https://www.incredibuild.com/blog/bazel-contributions-security-fix-autonomous-sdlc Comments URL: https://news.ycombinator.com/item?id=49858854 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.incredibuild.com/blog/bazel-contributions-security-fix-autonomous-sdlc)
-
----
-
-## 18. Broken promises, confiscated land: the hyperscale AI datacentre being built
-
-**Author:** sbulaev  
-**Published:** 9/26/2026, 5:07:08 PM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land Comments URL: https://news.ycombinator.com/item?id=49858474 Points: 7 # Comments: 3
-
-📖 [Read original article](https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land)
-
----
-
-## 19. Skorpion OS – AI-Powered Linux Distribution
-
-**Author:** indigodaddy  
-**Published:** 9/26/2026, 5:04:52 PM  
-**Categories:** -  
-
-Article URL: https://skossyte.pages.dev/english Comments URL: https://news.ycombinator.com/item?id=49858455 Points: 2 # Comments: 0
-
-📖 [Read original article](https://skossyte.pages.dev/english)
-
----
-
-## 20. What did AI researchers think at the end of 2024?
-
-**Author:** joozio  
-**Published:** 9/26/2026, 5:01:33 PM  
-**Categories:** -  
-
-Article URL: https://www.lesswrong.com/posts/62j5mPY8pFo2GD5fo/what-did-ai-researchers-think-at-the-end-of-2024-1 Comments URL: https://news.ycombinator.com/item?id=49858421 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.lesswrong.com/posts/62j5mPY8pFo2GD5fo/what-did-ai-researchers-think-at-the-end-of-2024-1)
+📖 [Read original article](https://news.ufl.edu/2026/09/ai-powered-vehicles/)
 
 ---
