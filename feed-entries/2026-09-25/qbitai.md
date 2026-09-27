@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-25"
 date: "2026-09-25"
 source: "qbitai"
-count: 4
+count: 3
 ---
 
 # qbitai - 2026-09-25
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ count: 4
 大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。
 
 📖 [Read original article](https://www.qbitai.com/2026/09/497108.html)
-
----
-
-## 4. 别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill
-
-**Author:** Jay  
-**Published:** 9/25/2026, 6:20:56 AM  
-**Categories:** 资讯  
-
-Agent的手越伸越长
-
-📖 [Read original article](https://www.qbitai.com/2026/09/497075.html)
 
 ---
