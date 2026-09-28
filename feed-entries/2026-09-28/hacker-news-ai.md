@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Banning AI in Law School: We've Seen This Before
+## 1. What if automating AI R&D triggers an intelligence explosion? [pdf]
 
-**Author:** fagnerbrack  
-**Published:** 9/28/2026, 1:00:39 PM  
+**Author:** whyleyc  
+**Published:** 9/28/2026, 10:41:59 PM  
 **Categories:** -  
 
-Article URL: https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve Comments URL: https://news.ycombinator.com/item?id=49877276 Points: 1 # Comments: 0
+Article URL: https://casp.ac/__l5e/assets-v1/5efd4b41-deb5-4513-a0a3-b4f82d2b79ea/intelligence-explosion.pdf Comments URL: https://news.ycombinator.com/item?id=49885476 Points: 1 # Comments: 0
 
-📖 [Read original article](https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve)
+📖 [Read original article](https://casp.ac/__l5e/assets-v1/5efd4b41-deb5-4513-a0a3-b4f82d2b79ea/intelligence-explosion.pdf)
 
 ---
 
-## 2. LabMCP: Open-source connectors for AI-controlled lab instruments
+## 2. AI Almost Started a U.S.–China War – and No One Seems to Care
 
-**Author:** CoderLim110  
-**Published:** 9/28/2026, 12:52:46 PM  
+**Author:** cdrnsf  
+**Published:** 9/28/2026, 10:34:48 PM  
 **Categories:** -  
 
-Article URL: https://www.k-dense.ai/blog/introducing-labmcp Comments URL: https://news.ycombinator.com/item?id=49877188 Points: 1 # Comments: 0
+Article URL: https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/ Comments URL: https://news.ycombinator.com/item?id=49885420 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.k-dense.ai/blog/introducing-labmcp)
+📖 [Read original article](https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/)
 
 ---
 
-## 3. What is the AI capex breakeven rate?
+## 3. Reliable AI automation done right (not with a model)
 
-**Author:** AnodicElegy  
-**Published:** 9/28/2026, 12:48:20 PM  
+**Author:** senorcarbone  
+**Published:** 9/28/2026, 10:31:53 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977 Comments URL: https://news.ycombinator.com/item?id=49877137 Points: 1 # Comments: 1
+Article URL: https://skeptical.ai/ Comments URL: https://news.ycombinator.com/item?id=49885387 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977)
+📖 [Read original article](https://skeptical.ai/)
 
 ---
 
-## 4. The next AI divide is between learning and earning
+## 4. AI is eroding the barriers that kept biological weapons rare
 
-**Author:** sarnet  
-**Published:** 9/28/2026, 12:43:17 PM  
+**Author:** EA-3167  
+**Published:** 9/28/2026, 10:30:48 PM  
 **Categories:** -  
 
-Article URL: https://www.weforum.org/stories/artificial-intelligence/ai-young-skills-jobs/ Comments URL: https://news.ycombinator.com/item?id=49877081 Points: 1 # Comments: 0
+Article URL: https://www.statnews.com/2026/09/28/ai-bioweapons-pathogens-guardrails-policy-warning/ Comments URL: https://news.ycombinator.com/item?id=49885373 Points: 2 # Comments: 2
 
-📖 [Read original article](https://www.weforum.org/stories/artificial-intelligence/ai-young-skills-jobs/)
+📖 [Read original article](https://www.statnews.com/2026/09/28/ai-bioweapons-pathogens-guardrails-policy-warning/)
 
 ---
 
-## 5. CortextAI – A private, offline AI operating system for personal productivity
+## 5. SBX env: consistent and shareable AI sandbox configurations
 
-**Author:** jimmy_lee  
-**Published:** 9/28/2026, 12:19:18 PM  
+**Author:** pploug  
+**Published:** 9/28/2026, 10:28:02 PM  
 **Categories:** -  
 
-Article URL: https://cortextai.saposs.com Comments URL: https://news.ycombinator.com/item?id=49876843 Points: 2 # Comments: 0
+Article URL: https://docs.docker.com/ai/sandboxes/configuration/environment-files Comments URL: https://news.ycombinator.com/item?id=49885345 Points: 2 # Comments: 0
 
-📖 [Read original article](https://cortextai.saposs.com)
+📖 [Read original article](https://docs.docker.com/ai/sandboxes/configuration/environment-files)
 
 ---
 
-## 6. China Broadens Travel Curbs to Encompass Family of Top AI Talent
+## 6. OpenAI Scraps Release of New AI Model over Safety Concerns
 
-**Author:** sbulaev  
-**Published:** 9/28/2026, 12:07:08 PM  
+**Author:** borski  
+**Published:** 9/28/2026, 10:07:59 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent Comments URL: https://news.ycombinator.com/item?id=49876719 Points: 2 # Comments: 1
+Article URL: https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42 Comments URL: https://news.ycombinator.com/item?id=49885133 Points: 9 # Comments: 2
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent)
+📖 [Read original article](https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42)
 
 ---
 
-## 7. Cohesix – find out what happened to a local AI job
+## 7. Who should be held accountable when an AI Agent (accidentally) acts maliciously?
 
-**Author:** Cohesix  
-**Published:** 9/28/2026, 12:05:22 PM  
+**Author:** Greenpants  
+**Published:** 9/28/2026, 10:05:46 PM  
 **Categories:** -  
 
-Article URL: https://github.com/lukeb-aidev/cohesix/releases/tag/v1.2.0 Comments URL: https://news.ycombinator.com/item?id=49876700 Points: 2 # Comments: 0
+Article URL: https://blog.greenpants.net/ai-accountability/ Comments URL: https://news.ycombinator.com/item?id=49885109 Points: 15 # Comments: 11
 
-📖 [Read original article](https://github.com/lukeb-aidev/cohesix/releases/tag/v1.2.0)
+📖 [Read original article](https://blog.greenpants.net/ai-accountability/)
 
 ---
 
-## 8. SlopTotal, a Self-hosted AI text detector that runs 23 open models
+## 8. Range – open a 1 TB AI model in 3 seconds without downloading it
 
-**Author:** sloptotal  
-**Published:** 9/28/2026, 12:00:05 PM  
+**Author:** andreygrehov  
+**Published:** 9/28/2026, 9:50:23 PM  
 **Categories:** -  
 
-Article URL: https://github.com/pablocaeg/sloptotal Comments URL: https://news.ycombinator.com/item?id=49876638 Points: 3 # Comments: 1
+Article URL: https://getrange.sh/ Comments URL: https://news.ycombinator.com/item?id=49884918 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/pablocaeg/sloptotal)
+📖 [Read original article](https://getrange.sh/)
 
 ---
 
-## 9. Hospitals use AI to find more things to bill for. Insurers use AI to deny them.
+## 9. Recalld – A memory layer for AI agents that returns only relevant facts
 
-**Author:** MrBuddyCasino  
-**Published:** 9/28/2026, 11:53:18 AM  
+**Author:** costinu  
+**Published:** 9/28/2026, 9:43:13 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/HedgieMarkets/status/2104266774766039301 Comments URL: https://news.ycombinator.com/item?id=49876581 Points: 2 # Comments: 0
+Article URL: https://recalld.ai/ Comments URL: https://news.ycombinator.com/item?id=49884835 Points: 2 # Comments: 1
 
-📖 [Read original article](https://twitter.com/HedgieMarkets/status/2104266774766039301)
+📖 [Read original article](https://recalld.ai/)
 
 ---
 
-## 10. Corporate America embraces cheaper 'open' AI models
+## 10. Walmart promises to never use AI to charge shoppers higher prices
 
-**Author:** ostenbom  
-**Published:** 9/28/2026, 11:49:12 AM  
+**Author:** DeepLogin  
+**Published:** 9/28/2026, 9:41:12 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd Comments URL: https://news.ycombinator.com/item?id=49876558 Points: 1 # Comments: 0
+Article URL: https://corporate.walmart.com/about/everyday-affordability/letter-from-our-ceo Comments URL: https://news.ycombinator.com/item?id=49884802 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd)
+📖 [Read original article](https://corporate.walmart.com/about/everyday-affordability/letter-from-our-ceo)
 
 ---
 
-## 11. Applying Deming's Continuous Improvement to Multi-Agent AI Systems
+## 11. The AI as the New Compiler
 
-**Author:** taivare  
-**Published:** 9/28/2026, 11:47:08 AM  
+**Author:** wslh  
+**Published:** 9/28/2026, 9:37:12 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@zrkjsy/deming-in-the-machine-running-an-ai-assisted-film-production-on-continuous-improvement-0337a3112111 Comments URL: https://news.ycombinator.com/item?id=49876540 Points: 1 # Comments: 0
+Article URL: https://www.buildwithdc.co/posts/beyond-ai-driven-development-part-1-the-ai-as-the-new-compiler/ Comments URL: https://news.ycombinator.com/item?id=49884754 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@zrkjsy/deming-in-the-machine-running-an-ai-assisted-film-production-on-continuous-improvement-0337a3112111)
+📖 [Read original article](https://www.buildwithdc.co/posts/beyond-ai-driven-development-part-1-the-ai-as-the-new-compiler/)
 
 ---
 
-## 12. Show HN: Algebrix Identity – B2B SaaS IAM for Users, Services, and AI Agents
+## 12. Show HN: What a VM for your AI agent costs across 13 sandbox providers
 
-**Author:** jahangir_d  
-**Published:** 9/28/2026, 11:30:33 AM  
+**Author:** theMackabu  
+**Published:** 9/28/2026, 9:31:39 PM  
 **Categories:** -  
 
-Article URL: https://identity.algebrix.co Comments URL: https://news.ycombinator.com/item?id=49876415 Points: 1 # Comments: 0
+I was annoyed by tracking all these new sandbox prices manually, and seeing a new one pop up on X every week.So I built a page where you describe the machine, and it shows what provider can provide it for the cheapest, free tiers included.Am I missing any providers? I can add more!page: https://vm-p...
 
-📖 [Read original article](https://identity.algebrix.co)
+📖 [Read original article](https://vm-price-board.sf.tools/)
 
 ---
 
-## 13. OpenAI, Anthropic CEOs called to appear at Australian AI probe
+## 13. Researchers proved AI has deleted every reason universities exist
 
-**Author:** qprofyeh  
-**Published:** 9/28/2026, 11:21:57 AM  
+**Author:** pretext  
+**Published:** 9/28/2026, 9:11:21 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/litigation/openai-anthropic-ceos-called-appear-australian-ai-probe-2026-09-27/ Comments URL: https://news.ycombinator.com/item?id=49876338 Points: 1 # Comments: 0
+Article URL: https://twitter.com/thesupermannx/status/2104519992532496810 Comments URL: https://news.ycombinator.com/item?id=49884413 Points: 2 # Comments: 3
 
-📖 [Read original article](https://www.reuters.com/legal/litigation/openai-anthropic-ceos-called-appear-australian-ai-probe-2026-09-27/)
+📖 [Read original article](https://twitter.com/thesupermannx/status/2104519992532496810)
 
 ---
 
-## 14. What Would a Serious AI Product Look Like?
+## 14. Man Says Meta's Muse AI Gave His Home Address Out to Strangers
 
-**Author:** lumpa  
-**Published:** 9/28/2026, 11:02:12 AM  
+**Author:** cdrnsf  
+**Published:** 9/28/2026, 9:08:27 PM  
 **Categories:** -  
 
-Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 2 # Comments: 0
+Article URL: https://futurism.com/artificial-intelligence/metas-muse-ai-giving-users-home-addresses Comments URL: https://news.ycombinator.com/item?id=49884367 Points: 6 # Comments: 1
 
-📖 [Read original article](https://blog.glyph.im/2026/09/serious-ai-product.html)
+📖 [Read original article](https://futurism.com/artificial-intelligence/metas-muse-ai-giving-users-home-addresses)
 
 ---
 
-## 15. Who's liable when AI agents go rogue?
+## 15. Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust
 
-**Author:** joozio  
-**Published:** 9/28/2026, 11:01:39 AM  
+**Author:** ndesaulniers  
+**Published:** 9/28/2026, 8:58:20 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/ Comments URL: https://news.ycombinator.com/item?id=49876144 Points: 1 # Comments: 0
+Article URL: https://bughunters.google.com/blog/scaling-memory-safety Comments URL: https://news.ycombinator.com/item?id=49884237 Points: 8 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/)
+📖 [Read original article](https://bughunters.google.com/blog/scaling-memory-safety)
 
 ---
 
-## 16. It's Time to Investigate the AI Labs
+## 16. Nvidia launches new tool to keep AI agents from going rogue
 
-**Author:** tolugenius  
-**Published:** 9/28/2026, 11:00:37 AM  
+**Author:** rawgabbit  
+**Published:** 9/28/2026, 8:54:31 PM  
 **Categories:** -  
 
-Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49876129 Points: 2 # Comments: 0
+Article URL: https://www.cnn.com/2026/09/28/business/nvidia-ai-safety-system Comments URL: https://news.ycombinator.com/item?id=49884188 Points: 1 # Comments: 2
 
-📖 [Read original article](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
+📖 [Read original article](https://www.cnn.com/2026/09/28/business/nvidia-ai-safety-system)
 
 ---
 
-## 17. Guide to Investigating Tech and AI in Modern Warfare
+## 17. AMD to buy Fei-Fei Li's AI startup for $8B
 
-**Author:** robtherobber  
-**Published:** 9/28/2026, 10:50:58 AM  
+**Author:** doener  
+**Published:** 9/28/2026, 8:51:29 PM  
 **Categories:** -  
 
-Article URL: https://gijn.org/resource/investigate-tech-ai-modern-warfare/ Comments URL: https://news.ycombinator.com/item?id=49876042 Points: 3 # Comments: 0
+Article URL: https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd Comments URL: https://news.ycombinator.com/item?id=49884163 Points: 2 # Comments: 1
 
-📖 [Read original article](https://gijn.org/resource/investigate-tech-ai-modern-warfare/)
+📖 [Read original article](https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd)
 
 ---
 
-## 18. Show HN: Yaystack.ch, check whether AI answer engines can see your website
+## 18. Pacing the Frontier is not the actual goal for AI labs
 
-**Author:** shipcraft  
-**Published:** 9/28/2026, 10:50:15 AM  
+**Author:** brlewis  
+**Published:** 9/28/2026, 8:47:26 PM  
 **Categories:** -  
 
-Article URL: https://yaystack.ch/ Comments URL: https://news.ycombinator.com/item?id=49876037 Points: 1 # Comments: 0
+Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs Comments URL: https://news.ycombinator.com/item?id=49884119 Points: 61 # Comments: 52
 
-📖 [Read original article](https://yaystack.ch/)
+📖 [Read original article](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs)
 
 ---
 
-## 19. Nvidia releases software platform to stop AI agents from misbehaving
+## 19. AMD to Acquire World Labs to Advance the Future of AI
 
-**Author:** pseudolus  
-**Published:** 9/28/2026, 10:45:53 AM  
+**Author:** Anon84  
+**Published:** 9/28/2026, 8:47:09 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49876019 Points: 2 # Comments: 0
+Article URL: https://newsroom.amd.com/news/amd-acquire-world-labs/ Comments URL: https://news.ycombinator.com/item?id=49884114 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/09/28/nvidia-releases.html)
+📖 [Read original article](https://newsroom.amd.com/news/amd-acquire-world-labs/)
 
 ---
 
-## 20. Show HN: Codify, AI for transforming and reforming law
+## 20. AMD to Buy Fei-Fei Li's World Labs AI Startup for $8.2B
 
-**Author:** crimsoneer  
-**Published:** 9/28/2026, 10:21:59 AM  
+**Author:** forthwall  
+**Published:** 9/28/2026, 8:17:30 PM  
 **Categories:** -  
 
-hey folks, sharing this cool project (not the author) on codifying law for AI.Full source here:https://github.com/TBI-AI-Incubator/codify Comments URL: https://news.ycombinator.com/item?id=49875854 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion Comments URL: https://news.ycombinator.com/item?id=49883752 Points: 4 # Comments: 3
 
-📖 [Read original article](https://codify.centreai.global/)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion)
 
 ---
