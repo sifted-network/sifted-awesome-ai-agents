@@ -2,203 +2,251 @@
 title: "Hacker News AI - 2026-09-28"
 date: "2026-09-28"
 source: "Hacker News AI"
-count: 16
+count: 20
 ---
 
 # Hacker News AI - 2026-09-28
 
-16 items collected.
+20 items collected.
 
 ---
 
-## 1. Ukraine's new military AI does more than watch the battlefield–it helps commande
+## 1. Banning AI in Law School: We've Seen This Before
 
-**Author:** snarky-comments  
-**Published:** 9/28/2026, 4:13:03 AM  
+**Author:** fagnerbrack  
+**Published:** 9/28/2026, 1:00:39 PM  
 **Categories:** -  
 
-Article URL: https://euromaidanpress.com/2026/09/25/ukraines-new-military-ai-does-more-than-watch-the-battlefield-it-helps-commanders-plan-what-comes-next/ Comments URL: https://news.ycombinator.com/item?id=49873552 Points: 1 # Comments: 0
+Article URL: https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve Comments URL: https://news.ycombinator.com/item?id=49877276 Points: 1 # Comments: 0
 
-📖 [Read original article](https://euromaidanpress.com/2026/09/25/ukraines-new-military-ai-does-more-than-watch-the-battlefield-it-helps-commanders-plan-what-comes-next/)
+📖 [Read original article](https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve)
 
 ---
 
-## 2. How the stories about all-powerful AI are swallowing the world
+## 2. LabMCP: Open-source connectors for AI-controlled lab instruments
 
-**Author:** eustoria  
-**Published:** 9/28/2026, 3:38:55 AM  
+**Author:** CoderLim110  
+**Published:** 9/28/2026, 12:52:46 PM  
 **Categories:** -  
 
-Article URL: https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful Comments URL: https://news.ycombinator.com/item?id=49873320 Points: 1 # Comments: 0
+Article URL: https://www.k-dense.ai/blog/introducing-labmcp Comments URL: https://news.ycombinator.com/item?id=49877188 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful)
+📖 [Read original article](https://www.k-dense.ai/blog/introducing-labmcp)
 
 ---
 
-## 3. Ask HN: Do you think AI agents can escape human control?
+## 3. What is the AI capex breakeven rate?
 
-**Author:** automaticallyfl  
-**Published:** 9/28/2026, 3:36:14 AM  
+**Author:** AnodicElegy  
+**Published:** 9/28/2026, 12:48:20 PM  
 **Categories:** -  
 
-With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring. I'm less concerned with sci-fi "sentience" and more interested in the practical securit...
+Article URL: https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977 Comments URL: https://news.ycombinator.com/item?id=49877137 Points: 1 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49873303)
+📖 [Read original article](https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977)
 
 ---
 
-## 4. Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry
+## 4. The next AI divide is between learning and earning
 
-**Author:** oxag3n  
-**Published:** 9/28/2026, 3:26:57 AM  
+**Author:** sarnet  
+**Published:** 9/28/2026, 12:43:17 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry Comments URL: https://news.ycombinator.com/item?id=49873255 Points: 3 # Comments: 0
+Article URL: https://www.weforum.org/stories/artificial-intelligence/ai-young-skills-jobs/ Comments URL: https://news.ycombinator.com/item?id=49877081 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry)
+📖 [Read original article](https://www.weforum.org/stories/artificial-intelligence/ai-young-skills-jobs/)
 
 ---
 
-## 5. Thinking Fast and Slow in AI: The Role of Metacognition
+## 5. CortextAI – A private, offline AI operating system for personal productivity
 
-**Author:** teleforce  
-**Published:** 9/28/2026, 3:23:53 AM  
+**Author:** jimmy_lee  
+**Published:** 9/28/2026, 12:19:18 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 10 # Comments: 0
+Article URL: https://cortextai.saposs.com Comments URL: https://news.ycombinator.com/item?id=49876843 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2110.01834)
-
----
-
-## 6. The next AI breakout will come from a services firm
-
-**Author:** asasidh  
-**Published:** 9/28/2026, 2:08:53 AM  
-**Categories:** -  
-
-Article URL: https://www.introspection.dev/manifesto Comments URL: https://news.ycombinator.com/item?id=49872746 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.introspection.dev/manifesto)
+📖 [Read original article](https://cortextai.saposs.com)
 
 ---
 
-## 7. OpenAI pauses top-model work after AI bypasses internet safeguards [video]
-
-**Author:** kbn  
-**Published:** 9/28/2026, 1:46:23 AM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=a1qnCu1t9hI Comments URL: https://news.ycombinator.com/item?id=49872608 Points: 1 # Comments: 1
-
-📖 [Read original article](https://www.youtube.com/watch?v=a1qnCu1t9hI)
-
----
-
-## 8. Show HN: Panda, the world's first personal AI computer
-
-**Author:** moezee1  
-**Published:** 9/28/2026, 1:35:14 AM  
-**Categories:** -  
-
-We're building an AI computer for consumers, most of whom are quite hesitant with existing services due to privacy concerns and because of costs that add up when using various AI tools. Comments URL: https://news.ycombinator.com/item?id=49872550 Points: 8 # Comments: 34
-
-📖 [Read original article](https://pandax1.com)
-
----
-
-## 9. \"The refrigerator is dead\": Samsung's AI fridges shut down after update
-
-**Author:** RachelF  
-**Published:** 9/28/2026, 1:28:34 AM  
-**Categories:** -  
-
-Article URL: https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html Comments URL: https://news.ycombinator.com/item?id=49872507 Points: 7 # Comments: 2
-
-📖 [Read original article](https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html)
-
----
-
-## 10. AI is not an alien, it's our offspring: Reframing the alignment problem
-
-**Author:** sovereignai  
-**Published:** 9/28/2026, 1:24:55 AM  
-**Categories:** -  
-
-Article URL: https://sovereignintelligence1313mhz.substack.com/p/the-titan-dilemma Comments URL: https://news.ycombinator.com/item?id=49872488 Points: 2 # Comments: 4
-
-📖 [Read original article](https://sovereignintelligence1313mhz.substack.com/p/the-titan-dilemma)
-
----
-
-## 11. From Geisha Face Paint to Servers, Sakai Chemical Emerges as AI Linchpin
+## 6. China Broadens Travel Curbs to Encompass Family of Top AI Talent
 
 **Author:** sbulaev  
-**Published:** 9/28/2026, 1:07:08 AM  
+**Published:** 9/28/2026, 12:07:08 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-09-27/from-geisha-face-paint-to-servers-sakai-chemical-emerges-as-ai-linchpin Comments URL: https://news.ycombinator.com/item?id=49872409 Points: 2 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent Comments URL: https://news.ycombinator.com/item?id=49876719 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-27/from-geisha-face-paint-to-servers-sakai-chemical-emerges-as-ai-linchpin)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent)
 
 ---
 
-## 12. Show HN: Stepgate – AI agents that can't skip steps, in one portable file
+## 7. Cohesix – find out what happened to a local AI job
 
-**Author:** charangan  
-**Published:** 9/28/2026, 12:57:31 AM  
+**Author:** Cohesix  
+**Published:** 9/28/2026, 12:05:22 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Chaarangan/stepgate Comments URL: https://news.ycombinator.com/item?id=49872350 Points: 2 # Comments: 0
+Article URL: https://github.com/lukeb-aidev/cohesix/releases/tag/v1.2.0 Comments URL: https://news.ycombinator.com/item?id=49876700 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/Chaarangan/stepgate)
+📖 [Read original article](https://github.com/lukeb-aidev/cohesix/releases/tag/v1.2.0)
 
 ---
 
-## 13. Financing of historic AI buildout raises systemic risks in US, researcher says
+## 8. SlopTotal, a Self-hosted AI text detector that runs 23 open models
 
-**Author:** defrost  
-**Published:** 9/28/2026, 12:49:55 AM  
+**Author:** sloptotal  
+**Published:** 9/28/2026, 12:00:05 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/finance/financing-historic-ai-buildout-raises-systemic-risks-us-researcher-says-2026-09-24/ Comments URL: https://news.ycombinator.com/item?id=49872317 Points: 1 # Comments: 0
+Article URL: https://github.com/pablocaeg/sloptotal Comments URL: https://news.ycombinator.com/item?id=49876638 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/business/finance/financing-historic-ai-buildout-raises-systemic-risks-us-researcher-says-2026-09-24/)
+📖 [Read original article](https://github.com/pablocaeg/sloptotal)
 
 ---
 
-## 14. Show HN: Ghostfox – Self-hosted stealth browser for AI agents
+## 9. Hospitals use AI to find more things to bill for. Insurers use AI to deny them.
 
-**Author:** ajat82  
-**Published:** 9/28/2026, 12:45:37 AM  
+**Author:** MrBuddyCasino  
+**Published:** 9/28/2026, 11:53:18 AM  
 **Categories:** -  
 
-Article URL: https://github.com/autokeren/ghostfox Comments URL: https://news.ycombinator.com/item?id=49872295 Points: 1 # Comments: 0
+Article URL: https://twitter.com/HedgieMarkets/status/2104266774766039301 Comments URL: https://news.ycombinator.com/item?id=49876581 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/autokeren/ghostfox)
+📖 [Read original article](https://twitter.com/HedgieMarkets/status/2104266774766039301)
 
 ---
 
-## 15. Cambrian Explosion of AI
+## 10. Corporate America embraces cheaper 'open' AI models
 
-**Author:** debarshri  
-**Published:** 9/28/2026, 12:25:57 AM  
+**Author:** ostenbom  
+**Published:** 9/28/2026, 11:49:12 AM  
 **Categories:** -  
 
-Article URL: https://debarshibasak.github.io/readables/blogs/cambrian-explosion Comments URL: https://news.ycombinator.com/item?id=49872200 Points: 2 # Comments: 2
+Article URL: https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd Comments URL: https://news.ycombinator.com/item?id=49876558 Points: 1 # Comments: 0
 
-📖 [Read original article](https://debarshibasak.github.io/readables/blogs/cambrian-explosion)
+📖 [Read original article](https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd)
 
 ---
 
-## 16. How do I promote an anti AI slop tool I built? It's free and genuine
+## 11. Applying Deming's Continuous Improvement to Multi-Agent AI Systems
 
-**Author:** arpanghoshal  
-**Published:** 9/28/2026, 12:08:00 AM  
+**Author:** taivare  
+**Published:** 9/28/2026, 11:47:08 AM  
 **Categories:** -  
 
-I am scared of Show HN: what if it is a flop show :( Comments URL: https://news.ycombinator.com/item?id=49872106 Points: 2 # Comments: 2
+Article URL: https://medium.com/@zrkjsy/deming-in-the-machine-running-an-ai-assisted-film-production-on-continuous-improvement-0337a3112111 Comments URL: https://news.ycombinator.com/item?id=49876540 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49872106)
+📖 [Read original article](https://medium.com/@zrkjsy/deming-in-the-machine-running-an-ai-assisted-film-production-on-continuous-improvement-0337a3112111)
+
+---
+
+## 12. Show HN: Algebrix Identity – B2B SaaS IAM for Users, Services, and AI Agents
+
+**Author:** jahangir_d  
+**Published:** 9/28/2026, 11:30:33 AM  
+**Categories:** -  
+
+Article URL: https://identity.algebrix.co Comments URL: https://news.ycombinator.com/item?id=49876415 Points: 1 # Comments: 0
+
+📖 [Read original article](https://identity.algebrix.co)
+
+---
+
+## 13. OpenAI, Anthropic CEOs called to appear at Australian AI probe
+
+**Author:** qprofyeh  
+**Published:** 9/28/2026, 11:21:57 AM  
+**Categories:** -  
+
+Article URL: https://www.reuters.com/legal/litigation/openai-anthropic-ceos-called-appear-australian-ai-probe-2026-09-27/ Comments URL: https://news.ycombinator.com/item?id=49876338 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.reuters.com/legal/litigation/openai-anthropic-ceos-called-appear-australian-ai-probe-2026-09-27/)
+
+---
+
+## 14. What Would a Serious AI Product Look Like?
+
+**Author:** lumpa  
+**Published:** 9/28/2026, 11:02:12 AM  
+**Categories:** -  
+
+Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 2 # Comments: 0
+
+📖 [Read original article](https://blog.glyph.im/2026/09/serious-ai-product.html)
+
+---
+
+## 15. Who's liable when AI agents go rogue?
+
+**Author:** joozio  
+**Published:** 9/28/2026, 11:01:39 AM  
+**Categories:** -  
+
+Article URL: https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/ Comments URL: https://news.ycombinator.com/item?id=49876144 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/)
+
+---
+
+## 16. It's Time to Investigate the AI Labs
+
+**Author:** tolugenius  
+**Published:** 9/28/2026, 11:00:37 AM  
+**Categories:** -  
+
+Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49876129 Points: 2 # Comments: 0
+
+📖 [Read original article](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
+
+---
+
+## 17. Guide to Investigating Tech and AI in Modern Warfare
+
+**Author:** robtherobber  
+**Published:** 9/28/2026, 10:50:58 AM  
+**Categories:** -  
+
+Article URL: https://gijn.org/resource/investigate-tech-ai-modern-warfare/ Comments URL: https://news.ycombinator.com/item?id=49876042 Points: 3 # Comments: 0
+
+📖 [Read original article](https://gijn.org/resource/investigate-tech-ai-modern-warfare/)
+
+---
+
+## 18. Show HN: Yaystack.ch, check whether AI answer engines can see your website
+
+**Author:** shipcraft  
+**Published:** 9/28/2026, 10:50:15 AM  
+**Categories:** -  
+
+Article URL: https://yaystack.ch/ Comments URL: https://news.ycombinator.com/item?id=49876037 Points: 1 # Comments: 0
+
+📖 [Read original article](https://yaystack.ch/)
+
+---
+
+## 19. Nvidia releases software platform to stop AI agents from misbehaving
+
+**Author:** pseudolus  
+**Published:** 9/28/2026, 10:45:53 AM  
+**Categories:** -  
+
+Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html Comments URL: https://news.ycombinator.com/item?id=49876019 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.cnbc.com/2026/09/28/nvidia-releases.html)
+
+---
+
+## 20. Show HN: Codify, AI for transforming and reforming law
+
+**Author:** crimsoneer  
+**Published:** 9/28/2026, 10:21:59 AM  
+**Categories:** -  
+
+hey folks, sharing this cool project (not the author) on codifying law for AI.Full source here:https://github.com/TBI-AI-Incubator/codify Comments URL: https://news.ycombinator.com/item?id=49875854 Points: 1 # Comments: 0
+
+📖 [Read original article](https://codify.centreai.global/)
 
 ---
