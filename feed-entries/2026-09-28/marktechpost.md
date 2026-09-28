@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-09-28"
 date: "2026-09-28"
 source: "MarkTechPost"
-count: 3
+count: 4
 ---
 
 # MarkTechPost - 2026-09-28
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens
+## 1. NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds
+
+**Author:** Asif Razzaq  
+**Published:** 9/28/2026, 7:21:25 PM  
+**Categories:** Agentic AI, AI Agents, AI Ethics, AI Governance, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Enterprise AI, For Devs, Harness, New Releases, Software Engineering, Staff, Tech News, Technology  
+
+NVIDIA has launched the Open Agent Safety Platform, an open reference design that enforces AI agent safety outside the agent itself. OpenShell, an Apache 2.0 runtime, sandboxes agents under YAML policies. Sentry, an out-of-band watchdog on BlueField-4 DPUs, can quarantine an agent that escapes its b...
+
+📖 [Read original article](https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/)
+
+---
+
+## 2. Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens
 
 **Author:** Asif Razzaq  
 **Published:** 9/28/2026, 7:22:33 AM  
@@ -23,7 +35,7 @@ Fireworks AI has released Ember-1, a post-trained Kimi K3 that learns to produce
 
 ---
 
-## 2. 20 Agentic Use Cases of TypeSafe AI’s Jev
+## 3. 20 Agentic Use Cases of TypeSafe AI’s Jev
 
 **Author:** Asif Razzaq  
 **Published:** 9/28/2026, 3:07:10 AM  
@@ -35,7 +47,7 @@ TypeSafe AI's Jev skips text generation and returns typed decisions with calibra
 
 ---
 
-## 3. Google Research Introduces an AI Video Co-Director: 4 Agentic Frameworks for Coherent, Minutes-Long Video Generation
+## 4. Google Research Introduces an AI Video Co-Director: 4 Agentic Frameworks for Coherent, Minutes-Long Video Generation
 
 **Author:** Asif Razzaq  
 **Published:** 9/28/2026, 2:44:27 AM  
