@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-09-25"
 date: "2026-09-25"
 source: "MarkTechPost"
-count: 4
+count: 2
 ---
 
 # MarkTechPost - 2026-09-25
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that 
 Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI&#8217;s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company&#8217;s autonomous pentesting appliance for on-prem and air-gapped netw...
 
 📖 [Read original article](https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/)
-
----
-
-## 3. Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation
-
-**Author:** Michal Sutter  
-**Published:** 9/25/2026, 2:30:26 PM  
-**Categories:** Agentic AI, AI Agents, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Language Model, Large Language Model, Staff, Tech News, Technology  
-
-Perplexity Research published a new post-training study. It trains a model inside Perplexity Computer on real user sessions, including failed ones. The method pairs rejection sampling fine-tuning with hint-guided self-distillation. In a live A/B test, tool-call failures fell from 2.24% to 1.77% betw...
-
-📖 [Read original article](https://www.marktechpost.com/2026/09/25/perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-distillation/)
-
----
-
-## 4. Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU
-
-**Author:** Sana Hassan  
-**Published:** 9/25/2026, 4:46:38 AM  
-**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Context Engineering, Deep Learning, Editors Pick, Knowledge Graphs, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
-
-Fastino Labs has released GLiNER2.5-Decide, a 340M-parameter open-weight decision model. It takes text and a schema of typed questions and returns structured answers. Each answer comes with a probability distribution, a confidence score, and constraint-feasibility metadata. It targets the frequent j...
-
-📖 [Read original article](https://www.marktechpost.com/2026/09/24/fastino-releases-gliner2-5-decide-a-340m-open-weight-decision-model-that-runs-on-cpu/)
 
 ---
