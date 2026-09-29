@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-09-28"
 date: "2026-09-28"
 source: "OpenAI Blog"
-count: 4
+count: 5
 ---
 
 # OpenAI Blog - 2026-09-28
 
-4 items collected.
+5 items collected.
 
 ---
 
@@ -23,7 +23,19 @@ OpenAI apologises for incidents involving Australian government websites and out
 
 ---
 
-## 2. The Lenfest Institute grows landmark program with expanded OpenAI support
+## 2. Towards safety cases for frontier AI training
+
+**Author:** -  
+**Published:** 9/28/2026, 7:00:00 PM  
+**Categories:** Safety  
+
+Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents
+
+📖 [Read original article](https://openai.com/index/towards-safety-cases-for-frontier-ai-training)
+
+---
+
+## 3. The Lenfest Institute grows landmark program with expanded OpenAI support
 
 **Author:** -  
 **Published:** 9/28/2026, 7:00:00 AM  
@@ -35,7 +47,7 @@ OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 
 
 ---
 
-## 3. Are you a Codex Original?
+## 4. Are you a Codex Original?
 
 **Author:** -  
 **Published:** 9/28/2026, 12:00:00 AM  
@@ -47,7 +59,7 @@ We’re collecting real stories of builders, tinkerers, researchers, and creator
 
 ---
 
-## 4. Basis completes a tax workbook 2x faster with GPT-6 Astra
+## 5. Basis completes a tax workbook 2x faster with GPT-6 Astra
 
 **Author:** -  
 **Published:** 9/28/2026, 12:00:00 AM  
