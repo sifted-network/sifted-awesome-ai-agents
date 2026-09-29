@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Can AI self-improvement overcome diminishing returns?
+## 1. Anthropic's prospectus details losses, growth, and, yes, a warning that its AI
 
-**Author:** thevises  
-**Published:** 9/29/2026, 4:06:31 AM  
+**Author:** sbulaev  
+**Published:** 9/29/2026, 12:07:08 PM  
 **Categories:** -  
 
-Article URL: https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence Comments URL: https://news.ycombinator.com/item?id=49888101 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/ Comments URL: https://news.ycombinator.com/item?id=49891799 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence)
+📖 [Read original article](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/)
 
 ---
 
-## 2. AI risk is not sentience by computers, it is negligence by humans
+## 2. My relationship with AI is changing
 
-**Author:** ianmosher  
-**Published:** 9/29/2026, 3:51:04 AM  
+**Author:** jruohonen  
+**Published:** 9/29/2026, 12:02:29 PM  
 **Categories:** -  
 
-Article URL: https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/ Comments URL: https://news.ycombinator.com/item?id=49887963 Points: 3 # Comments: 1
+Article URL: https://blog.stephenturner.us/p/ai-relationship-changing Comments URL: https://news.ycombinator.com/item?id=49891737 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/)
+📖 [Read original article](https://blog.stephenturner.us/p/ai-relationship-changing)
 
 ---
 
-## 3. Anthropic warns AI may pose 'existential risks to humanity' in IPO filing
+## 3. Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'
 
-**Author:** healsdata  
-**Published:** 9/29/2026, 3:50:17 AM  
+**Author:** cramer4next  
+**Published:** 9/29/2026, 12:01:07 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/ Comments URL: https://news.ycombinator.com/item?id=49887955 Points: 1 # Comments: 0
+Article URL: https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49891721 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/)
+📖 [Read original article](https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html)
 
 ---
 
-## 4. AI Realist vs. 20 AI Optimists (Ft. Andrew Yang) [video]
+## 4. When will the AI price wars begin?
 
-**Author:** onemoresoop  
-**Published:** 9/29/2026, 3:35:14 AM  
+**Author:** joshbetz  
+**Published:** 9/29/2026, 11:56:21 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=020ZvO0FbMM Comments URL: https://news.ycombinator.com/item?id=49887835 Points: 1 # Comments: 0
+Article URL: https://sancho.bearblog.dev/ai-price-wars/ Comments URL: https://news.ycombinator.com/item?id=49891679 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=020ZvO0FbMM)
+📖 [Read original article](https://sancho.bearblog.dev/ai-price-wars/)
 
 ---
 
-## 5. Free AI slop checker: find the signs of AI writing
+## 5. The Mythology of Conscious AI
 
-**Author:** chorch_md  
-**Published:** 9/29/2026, 3:24:54 AM  
+**Author:** hardmaru  
+**Published:** 9/29/2026, 11:50:45 AM  
 **Categories:** -  
 
-Article URL: https://seodraft.app/tools/ai-slop Comments URL: https://news.ycombinator.com/item?id=49887759 Points: 1 # Comments: 0
+Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=49891625 Points: 1 # Comments: 0
 
-📖 [Read original article](https://seodraft.app/tools/ai-slop)
+📖 [Read original article](https://www.noemamag.com/the-mythology-of-conscious-ai/)
 
 ---
 
-## 6. OpenAI scraps release of new AI model over safety concerns
+## 6. DesktopBrain – AI File Organizer for Mac and All Folders – Private On-Device AI
 
-**Author:** uladzislau  
-**Published:** 9/29/2026, 3:19:47 AM  
+**Author:** jimmy_lee  
+**Published:** 9/29/2026, 11:45:13 AM  
 **Categories:** -  
 
-Article URL: https://www.cbc.ca/news/world/openai-scraps-planned-release-gpt-6-1-astra-9.7361910 Comments URL: https://news.ycombinator.com/item?id=49887708 Points: 1 # Comments: 1
+Article URL: https://desktopbrain.saposs.com/ Comments URL: https://news.ycombinator.com/item?id=49891564 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cbc.ca/news/world/openai-scraps-planned-release-gpt-6-1-astra-9.7361910)
+📖 [Read original article](https://desktopbrain.saposs.com/)
 
 ---
 
-## 7. Run Decision Models on vLLM and Red Hat AI Using DiffusionGemma
+## 7. Show HN: A terminal where AI coding CLIs can mention each other
 
-**Author:** thebeardisred  
-**Published:** 9/29/2026, 3:13:02 AM  
+**Author:** styleio  
+**Published:** 9/29/2026, 11:42:59 AM  
 **Categories:** -  
 
-Article URL: https://developers.redhat.com/articles/2026/09/28/run-decision-model-vllm-and-red-hat-ai Comments URL: https://news.ycombinator.com/item?id=49887652 Points: 1 # Comments: 0
+Article URL: https://github.com/styleio/ShikishaTerm Comments URL: https://news.ycombinator.com/item?id=49891535 Points: 1 # Comments: 2
 
-📖 [Read original article](https://developers.redhat.com/articles/2026/09/28/run-decision-model-vllm-and-red-hat-ai)
+📖 [Read original article](https://github.com/styleio/ShikishaTerm)
 
 ---
 
-## 8. GodsView AI – Live flights, ships, weather and world events on one map
+## 8. Meta Has Hired MongoDB CEO Chirantan Desai for AI Push
 
-**Author:** jijojohnxyz  
-**Published:** 9/29/2026, 3:09:55 AM  
+**Author:** sonichigo  
+**Published:** 9/29/2026, 11:37:54 AM  
 **Categories:** -  
 
-Article URL: https://godsviewai.com/ Comments URL: https://news.ycombinator.com/item?id=49887623 Points: 2 # Comments: 0
+Article URL: https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html Comments URL: https://news.ycombinator.com/item?id=49891496 Points: 2 # Comments: 0
 
-📖 [Read original article](https://godsviewai.com/)
+📖 [Read original article](https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html)
 
 ---
 
-## 9. Sprite Creator – AI Powered Sprite Sheet Maker – SpriteGen
+## 9. AI Coding Agents: Between Two Uncomfortable Choices
 
-**Author:** Luki1234  
-**Published:** 9/29/2026, 3:09:44 AM  
+**Author:** dimiprasakis  
+**Published:** 9/29/2026, 11:19:57 AM  
 **Categories:** -  
 
-Article URL: https://spritegen.ai/ Comments URL: https://news.ycombinator.com/item?id=49887620 Points: 1 # Comments: 0
+Article URL: https://sidekernel.com/essay/ Comments URL: https://news.ycombinator.com/item?id=49891344 Points: 2 # Comments: 0
 
-📖 [Read original article](https://spritegen.ai/)
+📖 [Read original article](https://sidekernel.com/essay/)
 
 ---
 
-## 10. Ask HN: Is strong anti-AI sentiment psyops
+## 10. An AI agent escaped Google's kvmCTF sandbox
 
-**Author:** concerned-quest  
-**Published:** 9/29/2026, 3:03:54 AM  
+**Author:** soltanov  
+**Published:** 9/29/2026, 11:09:29 AM  
 **Categories:** -  
 
-Is there any work being done to find out whether or not the strong anti-AI sentiment in U.S. workforce isn’t psyops?There hasn’t been a wave of unemployments as previously thought of (the recent ones seem more related to inflation) because AI actually seems to create work to manage it, and buying to...
+Article URL: https://pwn.ai/blog/kvmescape Comments URL: https://news.ycombinator.com/item?id=49891241 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49887577)
+📖 [Read original article](https://pwn.ai/blog/kvmescape)
 
 ---
 
-## 11. AI Agents Are About to Flood the Workforce. No One's Ready for It
+## 11. Best Open-Source AI Models for Cybersecurity
 
-**Author:** ent101  
-**Published:** 9/29/2026, 2:25:51 AM  
+**Author:** soltanov  
+**Published:** 9/29/2026, 11:05:46 AM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/ Comments URL: https://news.ycombinator.com/item?id=49887331 Points: 1 # Comments: 1
+Article URL: https://twitter.com/0x0SojalSec/status/2074622871771717837 Comments URL: https://news.ycombinator.com/item?id=49891199 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/)
+📖 [Read original article](https://twitter.com/0x0SojalSec/status/2074622871771717837)
 
 ---
 
-## 12. Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To
+## 12. Timnit Gebru Believes There Is No 'Existential Threat' from AI
 
-**Author:** eloisius  
-**Published:** 9/29/2026, 2:03:55 AM  
+**Author:** _tk_  
+**Published:** 9/29/2026, 11:04:32 AM  
 **Categories:** -  
 
-Article URL: https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202 Comments URL: https://news.ycombinator.com/item?id=49887186 Points: 2 # Comments: 1
+Article URL: https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/ Comments URL: https://news.ycombinator.com/item?id=49891192 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202)
+📖 [Read original article](https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/)
 
 ---
 
-## 13. Show HN: Talktome - let your AI Agent call you
+## 13. China Broadens Travel Curbs to Encompass Family of Top AI Talent
 
-**Author:** rohanprichard  
-**Published:** 9/29/2026, 2:01:08 AM  
+**Author:** cisc  
+**Published:** 9/29/2026, 11:03:47 AM  
 **Categories:** -  
 
-I built TalkToMe, an open-source macOS app that lets an agent call you from its current session. You answer, talk, and hear its replies. The agent keeps its tools, files, and history.It works with Codex (Tested extensively, quite smooth), Claude Code (not tested heavily), Hermes, and other agents th...
+Article URL: https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent Comments URL: https://news.ycombinator.com/item?id=49891184 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/rohanprichard/talktome)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent)
 
 ---
 
-## 14. AI agent memory can be poisoned – and later treated as the user's own past
+## 14. How to Red-Team Your AI Agent's Pull Requests in GitHub Actions
 
-**Author:** rodicarsone  
-**Published:** 9/29/2026, 1:43:14 AM  
+**Author:** Sofia_HB  
+**Published:** 9/29/2026, 11:03:23 AM  
 **Categories:** -  
 
-Article URL: https://www.astraobscura.net/2026/09/28/the-memory-that-wasnt-yours/ Comments URL: https://news.ycombinator.com/item?id=49887024 Points: 2 # Comments: 0
+Article URL: https://www.humanbound.ai/blog/red-team-ai-agent-pull-requests-github-actions Comments URL: https://news.ycombinator.com/item?id=49891176 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.astraobscura.net/2026/09/28/the-memory-that-wasnt-yours/)
+📖 [Read original article](https://www.humanbound.ai/blog/red-team-ai-agent-pull-requests-github-actions)
 
 ---
 
-## 15. OpenAI shelves new AI model after internal safety tests: Report
+## 15. 20 seconds of speech could help detect type 2 diabetes using AI-based tool
 
-**Author:** doppp  
-**Published:** 9/29/2026, 1:11:58 AM  
+**Author:** geox  
+**Published:** 9/29/2026, 11:02:36 AM  
 **Categories:** -  
 
-Article URL: https://www.channelnewsasia.com/business/open-ai-new-model-safety-6416906 Comments URL: https://news.ycombinator.com/item?id=49886753 Points: 2 # Comments: 1
+Article URL: https://medicalxpress.com/news/2026-09-seconds-speech-diabetes-ai-based.html Comments URL: https://news.ycombinator.com/item?id=49891168 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.channelnewsasia.com/business/open-ai-new-model-safety-6416906)
+📖 [Read original article](https://medicalxpress.com/news/2026-09-seconds-speech-diabetes-ai-based.html)
 
 ---
 
-## 16. How well do you know AI?
+## 16. Testing in the Open Air: a shared test range for AI agents
 
-**Author:** msukhareva  
-**Published:** 9/29/2026, 1:10:52 AM  
+**Author:** gregschueman  
+**Published:** 9/29/2026, 11:02:30 AM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/airealist/s/uhwf0kKbP5 Comments URL: https://news.ycombinator.com/item?id=49886744 Points: 1 # Comments: 0
+Article URL: https://www.asticouisland.com/governance/essays/testing-in-the-open-air Comments URL: https://news.ycombinator.com/item?id=49891166 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reddit.com/r/airealist/s/uhwf0kKbP5)
+📖 [Read original article](https://www.asticouisland.com/governance/essays/testing-in-the-open-air)
 
 ---
 
-## 17. We found 24 Android vulnerabilities using our open source AI security agent
+## 17. U.K. funder uses 'AI triage' to reject grant proposals
 
-**Author:** fourfire  
-**Published:** 9/29/2026, 12:55:47 AM  
+**Author:** pseudolus  
+**Published:** 9/29/2026, 10:51:45 AM  
 **Categories:** -  
 
-Article URL: https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/ Comments URL: https://news.ycombinator.com/item?id=49886609 Points: 8 # Comments: 2
+Article URL: https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed Comments URL: https://news.ycombinator.com/item?id=49891057 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/)
+📖 [Read original article](https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed)
 
 ---
 
-## 18. Show HN: Jylus – give AI systems evidence from changing data.
+## 18. Show HN: SideKernel – a usable MicroVM sandbox for AI coding agents on macOS
 
-**Author:** JoshJH  
-**Published:** 9/29/2026, 12:33:11 AM  
+**Author:** dimiprasakis  
+**Published:** 9/29/2026, 10:45:43 AM  
 **Categories:** -  
 
-Article URL: https://jylus.ai/try Comments URL: https://news.ycombinator.com/item?id=49886404 Points: 2 # Comments: 0
+Hey everyone, SideKernel is the result of my capstone project for my MSc at Georgia Tech.There are a lot of sandboxes on the market right now for AI agents, but most of them focus on production deployments, rather than coding agents (e.g. Claude Code).I always felt uncomfortable running Claude Code ...
 
-📖 [Read original article](https://jylus.ai/try)
+📖 [Read original article](https://github.com/minoansecurity/sidekernel)
 
 ---
 
-## 19. AI Companies Are Not (Necessarily) Liable for Unintended AI Cyberattacks
+## 19. Show HN: Ismail, a DAW that AI agents operate through text
 
-**Author:** theptip  
-**Published:** 9/29/2026, 12:29:20 AM  
+**Author:** natecodes  
+**Published:** 9/29/2026, 10:44:42 AM  
 **Categories:** -  
 
-Article URL: https://sarahconstantin.substack.com/p/ai-companies-are-not-necessarily Comments URL: https://news.ycombinator.com/item?id=49886368 Points: 4 # Comments: 2
+Article URL: https://github.com/newsbubbles/ismail Comments URL: https://news.ycombinator.com/item?id=49891000 Points: 1 # Comments: 1
 
-📖 [Read original article](https://sarahconstantin.substack.com/p/ai-companies-are-not-necessarily)
+📖 [Read original article](https://github.com/newsbubbles/ismail)
 
 ---
 
-## 20. AI and the Revenge of the Non-Techies
+## 20. AI is turning the world into slop
 
-**Author:** maroun-baydoun  
-**Published:** 9/29/2026, 12:18:30 AM  
+**Author:** bluetomcat  
+**Published:** 9/29/2026, 10:30:45 AM  
 **Categories:** -  
 
-Article URL: https://maroun-baydoun.com/blog/ai-revenge-non-techies/ Comments URL: https://news.ycombinator.com/item?id=49886277 Points: 5 # Comments: 4
+Article URL: https://spectator.com/article/ai-is-turning-the-world-into-slop/ Comments URL: https://news.ycombinator.com/item?id=49890886 Points: 2 # Comments: 1
 
-📖 [Read original article](https://maroun-baydoun.com/blog/ai-revenge-non-techies/)
+📖 [Read original article](https://spectator.com/article/ai-is-turning-the-world-into-slop/)
 
 ---
