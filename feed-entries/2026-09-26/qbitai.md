@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-26"
 date: "2026-09-26"
 source: "qbitai"
-count: 4
+count: 3
 ---
 
 # qbitai - 2026-09-26
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Simate将训练、推理与评测全流程接入自研Infra，通过极致的任
 GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？
 
 📖 [Read original article](https://www.qbitai.com/2026/09/497624.html)
-
----
-
-## 4. 在云栖大会，我终于看懂了米哈游千亿AI野心
-
-**Author:** 听雨  
-**Published:** 9/26/2026, 7:18:05 AM  
-**Categories:** 资讯, 首页轮播, AI  
-
-大伟哥：如果做不到，一年两年之后过来打我脸
-
-📖 [Read original article](https://www.qbitai.com/2026/09/497613.html)
 
 ---
