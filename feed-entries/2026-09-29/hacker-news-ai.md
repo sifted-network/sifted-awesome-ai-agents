@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Anthropic's prospectus details losses, growth, and, yes, a warning that its AI
+## 1. No Time to Pwn – Can AI Find and Exploit the Linux Kernel?
 
-**Author:** sbulaev  
-**Published:** 9/29/2026, 12:07:08 PM  
+**Author:** _xor_  
+**Published:** 9/29/2026, 9:51:11 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/ Comments URL: https://news.ycombinator.com/item?id=49891799 Points: 1 # Comments: 0
+Article URL: https://xbow.com/blog/no-time-to-pwn-cve-2026-72018 Comments URL: https://news.ycombinator.com/item?id=49901191 Points: 2 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/)
+📖 [Read original article](https://xbow.com/blog/no-time-to-pwn-cve-2026-72018)
 
 ---
 
-## 2. My relationship with AI is changing
+## 2. Pluralis Towards a Multicultural Multimodal, Multilingual Benchmark for AI Risk
 
-**Author:** jruohonen  
-**Published:** 9/29/2026, 12:02:29 PM  
+**Author:** thinkevolve  
+**Published:** 9/29/2026, 9:50:41 PM  
 **Categories:** -  
 
-Article URL: https://blog.stephenturner.us/p/ai-relationship-changing Comments URL: https://news.ycombinator.com/item?id=49891737 Points: 2 # Comments: 0
+Article URL: https://arxiv.org/abs/2607.06196 Comments URL: https://news.ycombinator.com/item?id=49901179 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.stephenturner.us/p/ai-relationship-changing)
+📖 [Read original article](https://arxiv.org/abs/2607.06196)
 
 ---
 
-## 3. Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'
+## 3. Can AI Decipher the Indus Valley Script?
 
-**Author:** cramer4next  
-**Published:** 9/29/2026, 12:01:07 PM  
+**Author:** aadyachinubhai  
+**Published:** 9/29/2026, 9:50:06 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49891721 Points: 2 # Comments: 0
+If AI can solve Navier Stokes grade problems, it should take a stab at such a thing too. I know the language is fundamentally not "english" or another widely used one so it can't do any inference on it but worth an experiment. Comments URL: https://news.ycombinator.com/item?id=49901168 Points: 1 # C...
 
-📖 [Read original article](https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html)
+📖 [Read original article](https://news.ycombinator.com/item?id=49901168)
 
 ---
 
-## 4. When will the AI price wars begin?
+## 4. GPT-6.1 Astra Is Grounded: OpenAI's Safety Decision Puts the AI Race on Notice
 
-**Author:** joshbetz  
-**Published:** 9/29/2026, 11:56:21 AM  
+**Author:** joeymabia1  
+**Published:** 9/29/2026, 9:38:54 PM  
 **Categories:** -  
 
-Article URL: https://sancho.bearblog.dev/ai-price-wars/ Comments URL: https://news.ycombinator.com/item?id=49891679 Points: 1 # Comments: 0
+Article URL: https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3 Comments URL: https://news.ycombinator.com/item?id=49901029 Points: 2 # Comments: 2
 
-📖 [Read original article](https://sancho.bearblog.dev/ai-price-wars/)
+📖 [Read original article](https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3)
 
 ---
 
-## 5. The Mythology of Conscious AI
+## 5. Drift: An AI idea map that grows as you explore. free to use
 
-**Author:** hardmaru  
-**Published:** 9/29/2026, 11:50:45 AM  
+**Author:** echohive42  
+**Published:** 9/29/2026, 9:30:23 PM  
 **Categories:** -  
 
-Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=49891625 Points: 1 # Comments: 0
+Article URL: https://www.echohive.ai/drift Comments URL: https://news.ycombinator.com/item?id=49900914 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.noemamag.com/the-mythology-of-conscious-ai/)
+📖 [Read original article](https://www.echohive.ai/drift)
 
 ---
 
-## 6. DesktopBrain – AI File Organizer for Mac and All Folders – Private On-Device AI
+## 6. Show HN: Self healing AI Assistant with a 4B model on a Raspberry Pi5
 
-**Author:** jimmy_lee  
-**Published:** 9/29/2026, 11:45:13 AM  
+**Author:** phntmcore  
+**Published:** 9/29/2026, 9:29:19 PM  
 **Categories:** -  
 
-Article URL: https://desktopbrain.saposs.com/ Comments URL: https://news.ycombinator.com/item?id=49891564 Points: 1 # Comments: 0
+Article URL: https://www.phntmcore.com/ Comments URL: https://news.ycombinator.com/item?id=49900895 Points: 3 # Comments: 0
 
-📖 [Read original article](https://desktopbrain.saposs.com/)
+📖 [Read original article](https://www.phntmcore.com/)
 
 ---
 
-## 7. Show HN: A terminal where AI coding CLIs can mention each other
+## 7. CodeCrab – Local-first desktop app for AI code reviews
 
-**Author:** styleio  
-**Published:** 9/29/2026, 11:42:59 AM  
+**Author:** edyaguirre  
+**Published:** 9/29/2026, 9:27:15 PM  
 **Categories:** -  
 
-Article URL: https://github.com/styleio/ShikishaTerm Comments URL: https://news.ycombinator.com/item?id=49891535 Points: 1 # Comments: 2
+Article URL: https://www.codecrab.ai/ Comments URL: https://news.ycombinator.com/item?id=49900868 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/styleio/ShikishaTerm)
+📖 [Read original article](https://www.codecrab.ai/)
 
 ---
 
-## 8. Meta Has Hired MongoDB CEO Chirantan Desai for AI Push
+## 8. Reliable AI Automation done right (it's not a model this time)
 
-**Author:** sonichigo  
-**Published:** 9/29/2026, 11:37:54 AM  
+**Author:** senorcarbone  
+**Published:** 9/29/2026, 9:22:23 PM  
 **Categories:** -  
 
-Article URL: https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html Comments URL: https://news.ycombinator.com/item?id=49891496 Points: 2 # Comments: 0
+Article URL: https://skeptical.io/ Comments URL: https://news.ycombinator.com/item?id=49900802 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.moneycontrol.com/artificial-intelligence/meta-taps-indian-origin-mongodb-ceo-chirantan-cj-desai-to-lead-its-enterprise-ai-push-article-14040379.html)
+📖 [Read original article](https://skeptical.io/)
 
 ---
 
-## 9. AI Coding Agents: Between Two Uncomfortable Choices
+## 9. The best explanation I've found about the state of AI hype and hysteria [video]
 
-**Author:** dimiprasakis  
-**Published:** 9/29/2026, 11:19:57 AM  
+**Author:** yogthos  
+**Published:** 9/29/2026, 9:15:09 PM  
 **Categories:** -  
 
-Article URL: https://sidekernel.com/essay/ Comments URL: https://news.ycombinator.com/item?id=49891344 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=claxN4oxDuY Comments URL: https://news.ycombinator.com/item?id=49900679 Points: 2 # Comments: 0
 
-📖 [Read original article](https://sidekernel.com/essay/)
+📖 [Read original article](https://www.youtube.com/watch?v=claxN4oxDuY)
 
 ---
 
-## 10. An AI agent escaped Google's kvmCTF sandbox
+## 10. Colonel JD AI Codec Conversation [video]
 
-**Author:** soltanov  
-**Published:** 9/29/2026, 11:09:29 AM  
+**Author:** pulkitsh1234  
+**Published:** 9/29/2026, 9:10:37 PM  
 **Categories:** -  
 
-Article URL: https://pwn.ai/blog/kvmescape Comments URL: https://news.ycombinator.com/item?id=49891241 Points: 3 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=eKl6WjfDqYA Comments URL: https://news.ycombinator.com/item?id=49900611 Points: 1 # Comments: 0
 
-📖 [Read original article](https://pwn.ai/blog/kvmescape)
+📖 [Read original article](https://www.youtube.com/watch?v=eKl6WjfDqYA)
 
 ---
 
-## 11. Best Open-Source AI Models for Cybersecurity
+## 11. Software Investing in the Age of AI and Slower Growth
 
-**Author:** soltanov  
-**Published:** 9/29/2026, 11:05:46 AM  
+**Author:** T-A  
+**Published:** 9/29/2026, 9:08:57 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/0x0SojalSec/status/2074622871771717837 Comments URL: https://news.ycombinator.com/item?id=49891199 Points: 1 # Comments: 0
+Article URL: https://www.bain.com/insights/software-investing-in-the-age-of-ai-and-slower-growth-technology-report-2026/ Comments URL: https://news.ycombinator.com/item?id=49900583 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/0x0SojalSec/status/2074622871771717837)
+📖 [Read original article](https://www.bain.com/insights/software-investing-in-the-age-of-ai-and-slower-growth-technology-report-2026/)
 
 ---
 
-## 12. Timnit Gebru Believes There Is No 'Existential Threat' from AI
+## 12. Beyond the Prompt Loop: Architecting AI Agent State Machines: Architecture, Late
 
-**Author:** _tk_  
-**Published:** 9/29/2026, 11:04:32 AM  
+**Author:** dusynblog  
+**Published:** 9/29/2026, 9:02:47 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/ Comments URL: https://news.ycombinator.com/item?id=49891192 Points: 3 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49900500 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49900500)
 
 ---
 
-## 13. China Broadens Travel Curbs to Encompass Family of Top AI Talent
+## 13. AMD Boosting AI/LLM Performance for Radeon iGPUs as Much as 18~23% with Linux7.4
 
-**Author:** cisc  
-**Published:** 9/29/2026, 11:03:47 AM  
+**Author:** pella  
+**Published:** 9/29/2026, 8:59:43 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent Comments URL: https://news.ycombinator.com/item?id=49891184 Points: 2 # Comments: 0
+Article URL: https://www.phoronix.com/review/amd-perfopt Comments URL: https://news.ycombinator.com/item?id=49900455 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent)
+📖 [Read original article](https://www.phoronix.com/review/amd-perfopt)
 
 ---
 
-## 14. How to Red-Team Your AI Agent's Pull Requests in GitHub Actions
+## 14. AI data centres in N.L.? The door is 'open for business,' says energy minister
 
-**Author:** Sofia_HB  
-**Published:** 9/29/2026, 11:03:23 AM  
+**Author:** cdrnsf  
+**Published:** 9/29/2026, 8:51:23 PM  
 **Categories:** -  
 
-Article URL: https://www.humanbound.ai/blog/red-team-ai-agent-pull-requests-github-actions Comments URL: https://news.ycombinator.com/item?id=49891176 Points: 1 # Comments: 0
+Article URL: https://www.cbc.ca/news/canada/newfoundland-labrador/ai-data-centres-nl-9.7361381 Comments URL: https://news.ycombinator.com/item?id=49900317 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.humanbound.ai/blog/red-team-ai-agent-pull-requests-github-actions)
+📖 [Read original article](https://www.cbc.ca/news/canada/newfoundland-labrador/ai-data-centres-nl-9.7361381)
 
 ---
 
-## 15. 20 seconds of speech could help detect type 2 diabetes using AI-based tool
+## 15. Trump to sign order renaming AI as 'superintelligence'
 
-**Author:** geox  
-**Published:** 9/29/2026, 11:02:36 AM  
+**Author:** tolugenius  
+**Published:** 9/29/2026, 8:38:57 PM  
 **Categories:** -  
 
-Article URL: https://medicalxpress.com/news/2026-09-seconds-speech-diabetes-ai-based.html Comments URL: https://news.ycombinator.com/item?id=49891168 Points: 1 # Comments: 0
+Article URL: https://thehill.com/policy/technology/6118532-trump-to-rename-ai-superintelligence/ Comments URL: https://news.ycombinator.com/item?id=49900110 Points: 3 # Comments: 0
 
-📖 [Read original article](https://medicalxpress.com/news/2026-09-seconds-speech-diabetes-ai-based.html)
+📖 [Read original article](https://thehill.com/policy/technology/6118532-trump-to-rename-ai-superintelligence/)
 
 ---
 
-## 16. Testing in the Open Air: a shared test range for AI agents
+## 16. Rats are constantly talking to each other. Boston is using AI to eavesdrop
 
-**Author:** gregschueman  
-**Published:** 9/29/2026, 11:02:30 AM  
+**Author:** pvaldes  
+**Published:** 9/29/2026, 8:34:04 PM  
 **Categories:** -  
 
-Article URL: https://www.asticouisland.com/governance/essays/testing-in-the-open-air Comments URL: https://news.ycombinator.com/item?id=49891166 Points: 1 # Comments: 0
+Article URL: https://www.wbur.org/news/2026/09/29/boston-rats-ai-voice-technology Comments URL: https://news.ycombinator.com/item?id=49900037 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.asticouisland.com/governance/essays/testing-in-the-open-air)
+📖 [Read original article](https://www.wbur.org/news/2026/09/29/boston-rats-ai-voice-technology)
 
 ---
 
-## 17. U.K. funder uses 'AI triage' to reject grant proposals
+## 17. Show HN: Fab – a fast browser CLI for AI agents
 
-**Author:** pseudolus  
-**Published:** 9/29/2026, 10:51:45 AM  
+**Author:** ianks  
+**Published:** 9/29/2026, 8:27:39 PM  
 **Categories:** -  
 
-Article URL: https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed Comments URL: https://news.ycombinator.com/item?id=49891057 Points: 1 # Comments: 0
+Article URL: https://github.com/ianks/fast-agentic-browser Comments URL: https://news.ycombinator.com/item?id=49899942 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed)
+📖 [Read original article](https://github.com/ianks/fast-agentic-browser)
 
 ---
 
-## 18. Show HN: SideKernel – a usable MicroVM sandbox for AI coding agents on macOS
+## 18. Jev Turns AI into Software That Gets Things Done [video]
 
-**Author:** dimiprasakis  
-**Published:** 9/29/2026, 10:45:43 AM  
+**Author:** tosh  
+**Published:** 9/29/2026, 8:19:31 PM  
 **Categories:** -  
 
-Hey everyone, SideKernel is the result of my capstone project for my MSc at Georgia Tech.There are a lot of sandboxes on the market right now for AI agents, but most of them focus on production deployments, rather than coding agents (e.g. Claude Code).I always felt uncomfortable running Claude Code ...
+Article URL: https://www.youtube.com/watch?v=Ut3LOjKNJaE Comments URL: https://news.ycombinator.com/item?id=49899801 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/minoansecurity/sidekernel)
+📖 [Read original article](https://www.youtube.com/watch?v=Ut3LOjKNJaE)
 
 ---
 
-## 19. Show HN: Ismail, a DAW that AI agents operate through text
+## 19. Calling the AI bluff: \"Make no mistakes\" made no difference
 
-**Author:** natecodes  
-**Published:** 9/29/2026, 10:44:42 AM  
+**Author:** theshowforbirds  
+**Published:** 9/29/2026, 8:17:45 PM  
 **Categories:** -  
 
-Article URL: https://github.com/newsbubbles/ismail Comments URL: https://news.ycombinator.com/item?id=49891000 Points: 1 # Comments: 1
+Article URL: https://earnanhonestdollar.com/bench/folklore Comments URL: https://news.ycombinator.com/item?id=49899764 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/newsbubbles/ismail)
+📖 [Read original article](https://earnanhonestdollar.com/bench/folklore)
 
 ---
 
-## 20. AI is turning the world into slop
+## 20. Is open-weight AI banned yet?
 
-**Author:** bluetomcat  
-**Published:** 9/29/2026, 10:30:45 AM  
+**Author:** kartikarti  
+**Published:** 9/29/2026, 8:16:25 PM  
 **Categories:** -  
 
-Article URL: https://spectator.com/article/ai-is-turning-the-world-into-slop/ Comments URL: https://news.ycombinator.com/item?id=49890886 Points: 2 # Comments: 1
+Article URL: https://isopenweightaibannedyet.com Comments URL: https://news.ycombinator.com/item?id=49899734 Points: 2 # Comments: 0
 
-📖 [Read original article](https://spectator.com/article/ai-is-turning-the-world-into-slop/)
+📖 [Read original article](https://isopenweightaibannedyet.com)
 
 ---
