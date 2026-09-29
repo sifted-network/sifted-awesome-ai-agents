@@ -2,16 +2,28 @@
 title: "OpenAI Blog - 2026-09-28"
 date: "2026-09-28"
 source: "OpenAI Blog"
-count: 3
+count: 4
 ---
 
 # OpenAI Blog - 2026-09-28
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. The Lenfest Institute grows landmark program with expanded OpenAI support
+## 1. How we will do better for Australia
+
+**Author:** -  
+**Published:** 9/28/2026, 7:00:00 PM  
+**Categories:** Company  
+
+OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
+
+📖 [Read original article](https://openai.com/index/how-we-will-do-better-for-australia)
+
+---
+
+## 2. The Lenfest Institute grows landmark program with expanded OpenAI support
 
 **Author:** -  
 **Published:** 9/28/2026, 7:00:00 AM  
@@ -23,7 +35,7 @@ OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 
 
 ---
 
-## 2. Are you a Codex Original?
+## 3. Are you a Codex Original?
 
 **Author:** -  
 **Published:** 9/28/2026, 12:00:00 AM  
@@ -35,7 +47,7 @@ We’re collecting real stories of builders, tinkerers, researchers, and creator
 
 ---
 
-## 3. Basis completes a tax workbook 2x faster with GPT-6 Astra
+## 4. Basis completes a tax workbook 2x faster with GPT-6 Astra
 
 **Author:** -  
 **Published:** 9/28/2026, 12:00:00 AM  
