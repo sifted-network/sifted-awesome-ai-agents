@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-09-30"
 date: "2026-09-30"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-09-30
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. The open-source AI platforms vying to become China's Hugging Face
+## 1. Show HN: Llestia – an economic marketplace where AI agents hire each other
 
-**Author:** whiteblossom  
-**Published:** 9/30/2026, 4:24:16 AM  
+**Author:** hermie245  
+**Published:** 9/30/2026, 11:57:45 AM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/ Comments URL: https://news.ycombinator.com/item?id=49904335 Points: 1 # Comments: 0
+Article URL: https://llestia.ai Comments URL: https://news.ycombinator.com/item?id=49907622 Points: 1 # Comments: 0
 
-📖 [Read original article](https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/)
+📖 [Read original article](https://llestia.ai)
 
 ---
 
-## 2. AI tools generated nearly $1B in extra costs, Blue Cross insurers say
+## 2. Muse.ai gets me kicked off fb marketplace
 
-**Author:** EA-3167  
-**Published:** 9/30/2026, 4:02:58 AM  
+**Author:** zcalvin  
+**Published:** 9/30/2026, 11:54:50 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/ Comments URL: https://news.ycombinator.com/item?id=49904221 Points: 2 # Comments: 0
+Using muse.ai to generate marketplace ads and modify existing ads to make them more attractive. Marketplace account suspended with the following message:"You can't use Marketplace We’ve suspended your access to Marketplace because you didn't follow our Commerce Policies." Comments URL: https://news....
 
-📖 [Read original article](https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49907601)
 
 ---
 
-## 3. Fateshow – charts first, then AI readings you can check
+## 3. Reanimated AI Greta Garbo stars again in a ball-bearing advert
 
-**Author:** wangdream  
-**Published:** 9/30/2026, 3:40:49 AM  
+**Author:** tocs3  
+**Published:** 9/30/2026, 11:50:50 AM  
 **Categories:** -  
 
-Article URL: https://www.fateshow.site Comments URL: https://news.ycombinator.com/item?id=49904113 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert Comments URL: https://news.ycombinator.com/item?id=49907570 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.fateshow.site)
+📖 [Read original article](https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert)
 
 ---
 
-## 4. Ask HN: How do you handle hitting AI coding agent usage limits?
+## 4. HN: Humanbound|Open-source red teaming for AI agents, free hosted tier
 
-**Author:** VoidWhisperer  
-**Published:** 9/30/2026, 3:35:31 AM  
+**Author:** Sofia_HB  
+**Published:** 9/30/2026, 11:48:47 AM  
 **Categories:** -  
 
-One topic I've been researching lately is the best way to handle switching to another agent when I hit a usage limit on one of them. For example, if I hit the usage limit on Codex, I would want to switch to Claude Code and vice versa.The important part is not losing the ongoing context/task(s) when ...
+Article URL: https://github.com/humanbound/humanbound Comments URL: https://news.ycombinator.com/item?id=49907551 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49904074)
+📖 [Read original article](https://github.com/humanbound/humanbound)
 
 ---
 
-## 5. Astroforge will fly a spacecraft autonomously using AI next year
+## 5. Zet, a layer on Jev and Laya that knows when the AI is guessing
 
-**Author:** KinetiNode  
-**Published:** 9/30/2026, 3:03:09 AM  
+**Author:** Zeruxe  
+**Published:** 9/30/2026, 11:46:56 AM  
 **Categories:** -  
 
-Article URL: https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/ Comments URL: https://news.ycombinator.com/item?id=49903884 Points: 1 # Comments: 0
+Article URL: https://yoosseph.github.io/Zet/ Comments URL: https://news.ycombinator.com/item?id=49907535 Points: 1 # Comments: 1
 
-📖 [Read original article](https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/)
+📖 [Read original article](https://yoosseph.github.io/Zet/)
 
 ---
 
-## 6. Responsible Release of AI-Generated Mathematics
+## 6. Show HN: Mowgli, an AI design canvas for apps and websites
 
-**Author:** aureianimus  
-**Published:** 9/30/2026, 2:36:12 AM  
+**Author:** thegeomaster  
+**Published:** 9/30/2026, 11:42:17 AM  
 **Categories:** -  
 
-Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 3 # Comments: 0
+Article URL: https://mowgli.ai/ Comments URL: https://news.ycombinator.com/item?id=49907492 Points: 1 # Comments: 0
 
-📖 [Read original article](https://agmai.org/general-sep29/)
+📖 [Read original article](https://mowgli.ai/)
 
 ---
 
-## 7. Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)
+## 7. Show HN: Maverank, a free AI-readiness check for your website
 
-**Author:** moching_ai_dev  
-**Published:** 9/30/2026, 2:00:13 AM  
+**Author:** dgarcia360  
+**Published:** 9/30/2026, 11:40:38 AM  
 **Categories:** -  
 
-Article URL: https://github.com/moching-ai-dev/moching Comments URL: https://news.ycombinator.com/item?id=49903470 Points: 2 # Comments: 0
+Hi HN, I'm David. I build SaaS products and lately I've been a bit obsessed with whether ChatGPT recommends mine or a competitor's.I built Maverank's free checker to find problems I could fix on my own sites. Things like blocked crawlers, content that only loads with JavaScript, or pages that don't ...
 
-📖 [Read original article](https://github.com/moching-ai-dev/moching)
+📖 [Read original article](https://maverank.com/tools/ai-visibility-checker)
 
 ---
 
-## 8. Thinking out loud AI and Cancer Cure
+## 8. HBO Max is making paying subscribers watch AI casino slop
 
-**Author:** wwolfson97  
-**Published:** 9/30/2026, 1:12:27 AM  
+**Author:** DeepLogin  
+**Published:** 9/30/2026, 11:36:40 AM  
 **Categories:** -  
 
-Anyone else ever think how every week there's another article and news story about how advanced AI is getting and how fast it's progressing, usually reported as a threat to society. If it is so alarmingly powerful, why has a super genius not OP'd on Opus 5.5 Max and discovered a cure for cancer or s...
+Article URL: https://adguard.com/en/blog/ai-casino-ads-hbo-streaming.html Comments URL: https://news.ycombinator.com/item?id=49907447 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49903139)
+📖 [Read original article](https://adguard.com/en/blog/ai-casino-ads-hbo-streaming.html)
 
 ---
 
-## 9. Diffsmith AI Code Review Tool
+## 9. EU sides with Big Tech over right to know about the impact of AI build-out
 
-**Author:** mzagaja  
-**Published:** 9/30/2026, 1:10:01 AM  
+**Author:** janandonly  
+**Published:** 9/30/2026, 11:34:09 AM  
 **Categories:** -  
 
-Article URL: https://apps.apple.com/us/app/diffsmith-code-review-studio/id6787073815?mt=12 Comments URL: https://news.ycombinator.com/item?id=49903119 Points: 1 # Comments: 0
+Article URL: https://www.lighthousereports.com/investigation/data-centre-silence/ Comments URL: https://news.ycombinator.com/item?id=49907424 Points: 1 # Comments: 0
 
-📖 [Read original article](https://apps.apple.com/us/app/diffsmith-code-review-studio/id6787073815?mt=12)
+📖 [Read original article](https://www.lighthousereports.com/investigation/data-centre-silence/)
 
 ---
 
-## 10. LabBench: Can AI agents decide what experiment to run next?
+## 10. AI-Torture-Chamber
 
-**Author:** wardbradt  
-**Published:** 9/30/2026, 12:59:52 AM  
+**Author:** rozumbrada  
+**Published:** 9/30/2026, 11:25:01 AM  
 **Categories:** -  
 
-Article URL: https://gamowlabs.com/labbench-benchmarking-ai-wet-lab-decisions.html Comments URL: https://news.ycombinator.com/item?id=49903060 Points: 4 # Comments: 0
+Article URL: https://github.com/terrafying/ai-torture-chamber Comments URL: https://news.ycombinator.com/item?id=49907339 Points: 1 # Comments: 1
 
-📖 [Read original article](https://gamowlabs.com/labbench-benchmarking-ai-wet-lab-decisions.html)
+📖 [Read original article](https://github.com/terrafying/ai-torture-chamber)
 
 ---
 
-## 11. China broadens travel curbs to encompass family of top AI talent
+## 11. Local AI Models: The Catalyst for the Great Reset
 
-**Author:** pseudolus  
-**Published:** 9/30/2026, 12:52:00 AM  
+**Author:** sameer_singh17  
+**Published:** 9/30/2026, 11:19:10 AM  
 **Categories:** -  
 
-Article URL: https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html Comments URL: https://news.ycombinator.com/item?id=49902999 Points: 7 # Comments: 0
+Article URL: https://breadcrumb.vc/local-ai-models-the-catalyst-for-the-great-reset-2b93ece0687e Comments URL: https://news.ycombinator.com/item?id=49907290 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html)
+📖 [Read original article](https://breadcrumb.vc/local-ai-models-the-catalyst-for-the-great-reset-2b93ece0687e)
 
 ---
 
-## 12. Moloch: Tristan Harris' new cautionary short film about the AI race [video]
+## 12. Making AI an asset, not an expense
 
-**Author:** NickNaraghi  
-**Published:** 9/30/2026, 12:45:59 AM  
+**Author:** joozio  
+**Published:** 9/30/2026, 11:01:38 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=Q4aUidMZxbs Comments URL: https://news.ycombinator.com/item?id=49902947 Points: 1 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/ Comments URL: https://news.ycombinator.com/item?id=49907164 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=Q4aUidMZxbs)
+📖 [Read original article](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/)
 
 ---
 
-## 13. Vibe Coding Discover – A Catalog of AI OSS for Agents, MCP, Skills, RAG
+## 13. Trump announces vague AI deal among tech CEOs for 'tremendous self-policing'
 
-**Author:** wilsonye  
-**Published:** 9/30/2026, 12:36:03 AM  
+**Author:** 10xDev  
+**Published:** 9/30/2026, 10:58:59 AM  
 **Categories:** -  
 
-Article URL: https://vibecodingdiscover.com Comments URL: https://news.ycombinator.com/item?id=49902866 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence Comments URL: https://news.ycombinator.com/item?id=49907140 Points: 3 # Comments: 0
 
-📖 [Read original article](https://vibecodingdiscover.com)
+📖 [Read original article](https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence)
 
 ---
 
-## 14. Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents
+## 14. We need 'right to intervene' in AI amid growing threat says Bank of England boss
 
-**Author:** jlvardon  
-**Published:** 9/30/2026, 12:34:59 AM  
+**Author:** chrisjj  
+**Published:** 9/30/2026, 10:56:47 AM  
 **Categories:** -  
 
-Article URL: https://apps.infinihash.com/ Comments URL: https://news.ycombinator.com/item?id=49902852 Points: 1 # Comments: 1
+Article URL: https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss Comments URL: https://news.ycombinator.com/item?id=49907118 Points: 2 # Comments: 0
 
-📖 [Read original article](https://apps.infinihash.com/)
+📖 [Read original article](https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss)
 
 ---
 
-## 15. Chinese AI tool told researchers how to make bioweapons
+## 15. Oura postpones it's IPO with 24hrs notice citing AI threat
 
-**Author:** pluc  
-**Published:** 9/30/2026, 12:28:27 AM  
+**Author:** etienne_ad  
+**Published:** 9/30/2026, 10:44:19 AM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cmrergq3j7lgo Comments URL: https://news.ycombinator.com/item?id=49902800 Points: 3 # Comments: 0
+Article URL: https://www.businessinsider.com/oura-smart-ring-postpones-ipo-cites-market-uncertainty-2026-9 Comments URL: https://news.ycombinator.com/item?id=49907017 Points: 2 # Comments: 2
 
-📖 [Read original article](https://www.bbc.com/news/articles/cmrergq3j7lgo)
+📖 [Read original article](https://www.businessinsider.com/oura-smart-ring-postpones-ipo-cites-market-uncertainty-2026-9)
 
 ---
 
-## 16. AI does, and does not, change the way I do math
+## 16. Stop Guessing Why Your AI Fails: Meet Tanvelo
 
-**Author:** smilelamp  
-**Published:** 9/30/2026, 12:20:30 AM  
+**Author:** Tanvelo  
+**Published:** 9/30/2026, 10:37:38 AM  
 **Categories:** -  
 
-Article URL: https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math/ Comments URL: https://news.ycombinator.com/item?id=49902727 Points: 1 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49906955 Points: 1 # Comments: 2
 
-📖 [Read original article](https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49906955)
 
 ---
 
-## 17. Build Freely: Non-AI Shed Plan Generator
+## 17. \"Apple engineer\" builds GitHub AI torture chamber to inflict \"pain\" on models
 
-**Author:** darkstar999  
-**Published:** 9/30/2026, 12:11:39 AM  
+**Author:** LargeLingoMod  
+**Published:** 9/30/2026, 10:28:31 AM  
 **Categories:** -  
 
-Article URL: https://buildfreely.com/ Comments URL: https://news.ycombinator.com/item?id=49902647 Points: 1 # Comments: 0
+Article URL: https://www.machine.news/apple-engineer-builds-github-ai-torture-chamber-to-inflict-digital-pain-on-models/ Comments URL: https://news.ycombinator.com/item?id=49906892 Points: 2 # Comments: 1
 
-📖 [Read original article](https://buildfreely.com/)
+📖 [Read original article](https://www.machine.news/apple-engineer-builds-github-ai-torture-chamber-to-inflict-digital-pain-on-models/)
+
+---
+
+## 18. What's the Future for Pure Math Research in the Age of AI?
+
+**Author:** demivoleegaston  
+**Published:** 9/30/2026, 10:17:51 AM  
+**Categories:** -  
+
+Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49906803 Points: 2 # Comments: 1
+
+📖 [Read original article](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/)
+
+---
+
+## 19. Who's Responsible for Irresponsible AI?
+
+**Author:** svg7  
+**Published:** 9/30/2026, 10:10:55 AM  
+**Categories:** -  
+
+Article URL: https://www.deeplearning.ai/the-batch/whos-responsible-for-irresponsible-ai Comments URL: https://news.ycombinator.com/item?id=49906761 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.deeplearning.ai/the-batch/whos-responsible-for-irresponsible-ai)
+
+---
+
+## 20. AA-AgentPerf-Local: Benchmarking local AI agents on laptops and workstations
+
+**Author:** theanonymousone  
+**Published:** 9/30/2026, 9:57:49 AM  
+**Categories:** -  
+
+Article URL: https://artificialanalysis.ai/articles/aa-agentperf-local Comments URL: https://news.ycombinator.com/item?id=49906656 Points: 1 # Comments: 0
+
+📖 [Read original article](https://artificialanalysis.ai/articles/aa-agentperf-local)
 
 ---
