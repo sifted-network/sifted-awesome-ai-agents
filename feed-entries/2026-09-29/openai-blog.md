@@ -41,7 +41,7 @@ Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astr
 **Published:** 9/29/2026, 12:00:00 AM  
 **Categories:** Product  
 
-Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.
+Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.
 
 📖 [Read original article](https://openai.com/index/introducing-dots)
 
