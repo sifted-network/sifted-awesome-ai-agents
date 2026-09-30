@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-29"
 date: "2026-09-29"
 source: "qbitai"
-count: 4
+count: 2
 ---
 
 # qbitai - 2026-09-29
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ count: 4
 推动公司具身模型、本体、软件等全栈能力进入更多真实场景
 
 📖 [Read original article](https://www.qbitai.com/2026/09/499239.html)
-
----
-
-## 3. 精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！
-
-**Author:** 文婷  
-**Published:** 9/29/2026, 7:59:46 AM  
-**Categories:** 资讯, AI大模型, IQuest-Q1, RL  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/09/499188.html)
-
----
-
-## 4. OpenAI因新模型太强叫停发布
-
-**Author:** 程浅  
-**Published:** 9/29/2026, 7:49:20 AM  
-**Categories:** 资讯, GPT-6 Astra, OpenAI  
-
-AGI计划暂停。
-
-📖 [Read original article](https://www.qbitai.com/2026/09/499140.html)
 
 ---
