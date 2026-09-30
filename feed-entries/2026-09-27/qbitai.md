@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-27"
 date: "2026-09-27"
 source: "qbitai"
-count: 3
+count: 1
 ---
 
 # qbitai - 2026-09-27
 
-3 items collected.
+1 items collected.
 
 ---
 
@@ -20,29 +20,5 @@ count: 3
 
 
 📖 [Read original article](https://www.qbitai.com/2026/09/498633.html)
-
----
-
-## 2. 量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门
-
-**Author:** 衡宇  
-**Published:** 9/27/2026, 1:57:57 PM  
-**Categories:** 资讯, 上海交通大学, 开发者, 数据隐私, 量子计算  
-
-想让开发者“说句话就能跑量子计算”
-
-📖 [Read original article](https://www.qbitai.com/2026/09/498605.html)
-
----
-
-## 3. 又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录
-
-**Author:** 衡宇  
-**Published:** 9/27/2026, 1:40:02 PM  
-**Categories:** 资讯, 首页轮播, Coding, flash模型, 匿名大模型  
-
-中秋假期文具OpenRouter调用日榜榜首
-
-📖 [Read original article](https://www.qbitai.com/2026/09/498584.html)
 
 ---
