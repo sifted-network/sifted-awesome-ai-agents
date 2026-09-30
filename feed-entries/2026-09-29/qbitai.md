@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-29"
 date: "2026-09-29"
 source: "qbitai"
-count: 6
+count: 4
 ---
 
 # qbitai - 2026-09-29
 
-6 items collected.
+4 items collected.
 
 ---
 
@@ -56,29 +56,5 @@ count: 6
 AGI计划暂停。
 
 📖 [Read original article](https://www.qbitai.com/2026/09/499140.html)
-
----
-
-## 5. 成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元
-
-**Author:** 量子位的朋友们  
-**Published:** 9/29/2026, 7:10:59 AM  
-**Categories:** 资讯, 融资, 诺因智能  
-
-诺因从Demo走向家庭
-
-📖 [Read original article](https://www.qbitai.com/2026/09/499135.html)
-
----
-
-## 6. 李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地
-
-**Author:** 梦晨  
-**Published:** 9/29/2026, 12:49:30 AM  
-**Categories:** 资讯, AMD, 李飞飞  
-
-李飞飞将入职AMD首席科学家
-
-📖 [Read original article](https://www.qbitai.com/2026/09/499098.html)
 
 ---
