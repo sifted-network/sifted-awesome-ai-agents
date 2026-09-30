@@ -2,16 +2,28 @@
 title: "qbitai - 2026-09-29"
 date: "2026-09-29"
 source: "qbitai"
-count: 5
+count: 6
 ---
 
 # qbitai - 2026-09-29
 
-5 items collected.
+6 items collected.
 
 ---
 
-## 1. 正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展
+## 1. OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了
+
+**Author:** 衡宇  
+**Published:** 9/29/2026, 11:01:05 PM  
+**Categories:** 资讯, 首页轮播, Dots, GPT-6.1 Sol, OpenAI  
+
+今年devday牙膏挤爆
+
+📖 [Read original article](https://www.qbitai.com/2026/09/499246.html)
+
+---
+
+## 2. 正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展
 
 **Author:** 量子位的朋友们  
 **Published:** 9/29/2026, 10:56:33 AM  
@@ -23,7 +35,7 @@ count: 5
 
 ---
 
-## 2. 精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！
+## 3. 精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！
 
 **Author:** 文婷  
 **Published:** 9/29/2026, 7:59:46 AM  
@@ -35,7 +47,7 @@ count: 5
 
 ---
 
-## 3. OpenAI因新模型太强叫停发布
+## 4. OpenAI因新模型太强叫停发布
 
 **Author:** 程浅  
 **Published:** 9/29/2026, 7:49:20 AM  
@@ -47,7 +59,7 @@ AGI计划暂停。
 
 ---
 
-## 4. 成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元
+## 5. 成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元
 
 **Author:** 量子位的朋友们  
 **Published:** 9/29/2026, 7:10:59 AM  
@@ -59,7 +71,7 @@ AGI计划暂停。
 
 ---
 
-## 5. 李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地
+## 6. 李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地
 
 **Author:** 梦晨  
 **Published:** 9/29/2026, 12:49:30 AM  
