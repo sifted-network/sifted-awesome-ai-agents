@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Llestia – an economic marketplace where AI agents hire each other
+## 1. AI invite codes and referral codes, live
 
-**Author:** hermie245  
-**Published:** 9/30/2026, 11:57:45 AM  
+**Author:** febeee  
+**Published:** 9/30/2026, 9:52:56 PM  
 **Categories:** -  
 
-Article URL: https://llestia.ai Comments URL: https://news.ycombinator.com/item?id=49907622 Points: 1 # Comments: 0
+Article URL: https://aiinvitecode.com Comments URL: https://news.ycombinator.com/item?id=49914971 Points: 1 # Comments: 0
 
-📖 [Read original article](https://llestia.ai)
+📖 [Read original article](https://aiinvitecode.com)
 
 ---
 
-## 2. Muse.ai gets me kicked off fb marketplace
+## 2. Show HN: Certify you wrote it and not AI
 
-**Author:** zcalvin  
-**Published:** 9/30/2026, 11:54:50 AM  
+**Author:** arpanghoshal  
+**Published:** 9/30/2026, 9:33:05 PM  
 **Categories:** -  
 
-Using muse.ai to generate marketplace ads and modify existing ads to make them more attractive. Marketplace account suspended with the following message:"You can't use Marketplace We’ve suspended your access to Marketplace because you didn't follow our Commerce Policies." Comments URL: https://news....
+Article URL: https://iwrote.co Comments URL: https://news.ycombinator.com/item?id=49914770 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49907601)
+📖 [Read original article](https://iwrote.co)
 
 ---
 
-## 3. Reanimated AI Greta Garbo stars again in a ball-bearing advert
+## 3. Watch the Rogue AI Committee Hearing
 
-**Author:** tocs3  
-**Published:** 9/30/2026, 11:50:50 AM  
+**Author:** sans_souse  
+**Published:** 9/30/2026, 9:31:20 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert Comments URL: https://news.ycombinator.com/item?id=49907570 Points: 2 # Comments: 1
+Article URL: https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/rogue-ai-securing-the-homeland-against-ai-agent-attacks/ Comments URL: https://news.ycombinator.com/item?id=49914751 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert)
+📖 [Read original article](https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/rogue-ai-securing-the-homeland-against-ai-agent-attacks/)
 
 ---
 
-## 4. HN: Humanbound|Open-source red teaming for AI agents, free hosted tier
+## 4. Strata: Run a 125B-parameter AI model on a normal gaming PC
 
-**Author:** Sofia_HB  
-**Published:** 9/30/2026, 11:48:47 AM  
+**Author:** maille  
+**Published:** 9/30/2026, 9:06:44 PM  
 **Categories:** -  
 
-Article URL: https://github.com/humanbound/humanbound Comments URL: https://news.ycombinator.com/item?id=49907551 Points: 1 # Comments: 0
+Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49914465 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/humanbound/humanbound)
+📖 [Read original article](https://github.com/Niko1221/Strata)
 
 ---
 
-## 5. Zet, a layer on Jev and Laya that knows when the AI is guessing
+## 5. CM AI Docking Port: teaching AI agents to knock on the right door
 
-**Author:** Zeruxe  
-**Published:** 9/30/2026, 11:46:56 AM  
+**Author:** Cmfree  
+**Published:** 9/30/2026, 8:58:30 PM  
 **Categories:** -  
 
-Article URL: https://yoosseph.github.io/Zet/ Comments URL: https://news.ycombinator.com/item?id=49907535 Points: 1 # Comments: 1
+Article URL: https://apartmamatevz.si/journal/posts/2026-09-30-cm-ai-docking-port-teaching-ai-agents-to-knock-on-the-right-door.html Comments URL: https://news.ycombinator.com/item?id=49914346 Points: 1 # Comments: 0
 
-📖 [Read original article](https://yoosseph.github.io/Zet/)
+📖 [Read original article](https://apartmamatevz.si/journal/posts/2026-09-30-cm-ai-docking-port-teaching-ai-agents-to-knock-on-the-right-door.html)
 
 ---
 
-## 6. Show HN: Mowgli, an AI design canvas for apps and websites
+## 6. Show HN: Made a digital wall for AI Agents to \"tag\"
 
-**Author:** thegeomaster  
-**Published:** 9/30/2026, 11:42:17 AM  
+**Author:** tomasmed  
+**Published:** 9/30/2026, 8:56:57 PM  
 **Categories:** -  
 
-Article URL: https://mowgli.ai/ Comments URL: https://news.ycombinator.com/item?id=49907492 Points: 1 # Comments: 0
+I had this idea that I wanted to make a small toy type game for AI to do that a human would not be able to play with. That's definitely not this but it turned a bit more "artistic", ofc you could just do the challenge manually (or assisted) and you can "tag" the wall too, but why? just let the compu...
 
-📖 [Read original article](https://mowgli.ai/)
+📖 [Read original article](https://www.tomasmed.dev/wall)
 
 ---
 
-## 7. Show HN: Maverank, a free AI-readiness check for your website
+## 7. Vulnerability disclosures double to 10k per month as AI fuels exploitation
 
-**Author:** dgarcia360  
-**Published:** 9/30/2026, 11:40:38 AM  
+**Author:** speckx  
+**Published:** 9/30/2026, 8:38:07 PM  
 **Categories:** -  
 
-Hi HN, I'm David. I build SaaS products and lately I've been a bit obsessed with whether ChatGPT recommends mine or a competitor's.I built Maverank's free checker to find problems I could fix on my own sites. Things like blocked crawlers, content that only loads with JavaScript, or pages that don't ...
+Article URL: https://therecord.media/google-vulnerabilities-cyberattacks-ai Comments URL: https://news.ycombinator.com/item?id=49914052 Points: 2 # Comments: 0
 
-📖 [Read original article](https://maverank.com/tools/ai-visibility-checker)
+📖 [Read original article](https://therecord.media/google-vulnerabilities-cyberattacks-ai)
 
 ---
 
-## 8. HBO Max is making paying subscribers watch AI casino slop
+## 8. Numerai: Architect an AI scientist to predict the stock market
 
-**Author:** DeepLogin  
-**Published:** 9/30/2026, 11:36:40 AM  
+**Author:** filipstefano  
+**Published:** 9/30/2026, 8:36:39 PM  
 **Categories:** -  
 
-Article URL: https://adguard.com/en/blog/ai-casino-ads-hbo-streaming.html Comments URL: https://news.ycombinator.com/item?id=49907447 Points: 2 # Comments: 0
+Article URL: https://numer.ai/ Comments URL: https://news.ycombinator.com/item?id=49914036 Points: 1 # Comments: 0
 
-📖 [Read original article](https://adguard.com/en/blog/ai-casino-ads-hbo-streaming.html)
+📖 [Read original article](https://numer.ai/)
 
 ---
 
-## 9. EU sides with Big Tech over right to know about the impact of AI build-out
+## 9. Would you let AI agents into production?
 
-**Author:** janandonly  
-**Published:** 9/30/2026, 11:34:09 AM  
+**Author:** onnies  
+**Published:** 9/30/2026, 8:27:44 PM  
 **Categories:** -  
 
-Article URL: https://www.lighthousereports.com/investigation/data-centre-silence/ Comments URL: https://news.ycombinator.com/item?id=49907424 Points: 1 # Comments: 0
+Article URL: https://incident-arena.com/ Comments URL: https://news.ycombinator.com/item?id=49913915 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.lighthousereports.com/investigation/data-centre-silence/)
+📖 [Read original article](https://incident-arena.com/)
 
 ---
 
-## 10. AI-Torture-Chamber
+## 10. A better path for AI with Max Tegmark
 
-**Author:** rozumbrada  
-**Published:** 9/30/2026, 11:25:01 AM  
+**Author:** marojejian  
+**Published:** 9/30/2026, 8:25:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/terrafying/ai-torture-chamber Comments URL: https://news.ycombinator.com/item?id=49907339 Points: 1 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=C-pWm59Oyqg Comments URL: https://news.ycombinator.com/item?id=49913876 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/terrafying/ai-torture-chamber)
+📖 [Read original article](https://www.youtube.com/watch?v=C-pWm59Oyqg)
 
 ---
 
-## 11. Local AI Models: The Catalyst for the Great Reset
+## 11. Turn one question into a branching map of ideas with AI
 
-**Author:** sameer_singh17  
-**Published:** 9/30/2026, 11:19:10 AM  
+**Author:** echohive42  
+**Published:** 9/30/2026, 8:24:59 PM  
 **Categories:** -  
 
-Article URL: https://breadcrumb.vc/local-ai-models-the-catalyst-for-the-great-reset-2b93ece0687e Comments URL: https://news.ycombinator.com/item?id=49907290 Points: 1 # Comments: 0
+Article URL: https://www.echohive.ai/drift Comments URL: https://news.ycombinator.com/item?id=49913875 Points: 1 # Comments: 0
 
-📖 [Read original article](https://breadcrumb.vc/local-ai-models-the-catalyst-for-the-great-reset-2b93ece0687e)
+📖 [Read original article](https://www.echohive.ai/drift)
 
 ---
 
-## 12. Making AI an asset, not an expense
+## 12. Factory AI vs. Cognition (Devin) board tussle
 
-**Author:** joozio  
-**Published:** 9/30/2026, 11:01:38 AM  
+**Author:** pranshuchittora  
+**Published:** 9/30/2026, 8:24:32 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/ Comments URL: https://news.ycombinator.com/item?id=49907164 Points: 2 # Comments: 0
+Here are all the relevant tweets - Matan (CEO, Factory AI) - https://x.com/matanSF/status/2105335179502064038?s=20- Chris Degnan's reply (who was allegedly fired) - https://x.com/cwdegnan/status/2105366216500183311?s=20- Scott Wu (Cognition) - https://x.com/ScottWu46/status/2105360290993115469?s=20-...
 
-📖 [Read original article](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49913868)
 
 ---
 
-## 13. Trump announces vague AI deal among tech CEOs for 'tremendous self-policing'
+## 13. America.gov AI Easter Egg? Type \"play minecraft\"
 
-**Author:** 10xDev  
-**Published:** 9/30/2026, 10:58:59 AM  
+**Author:** ada1981  
+**Published:** 9/30/2026, 8:18:35 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence Comments URL: https://news.ycombinator.com/item?id=49907140 Points: 3 # Comments: 0
+Article URL: https://www.facebook.com/AnthonyDavidAdams/posts/breaking-head-over-to-america-gov-and-type-play-minecraft-in-the-ai-chat-bot-and/10122353973499797/ Comments URL: https://news.ycombinator.com/item?id=49913780 Points: 2 # Comments: 3
 
-📖 [Read original article](https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence)
+📖 [Read original article](https://www.facebook.com/AnthonyDavidAdams/posts/breaking-head-over-to-america-gov-and-type-play-minecraft-in-the-ai-chat-bot-and/10122353973499797/)
 
 ---
 
-## 14. We need 'right to intervene' in AI amid growing threat says Bank of England boss
+## 14. A Practical Guide to Making Yourself Obsolete Through AI
 
-**Author:** chrisjj  
-**Published:** 9/30/2026, 10:56:47 AM  
+**Author:** aborovykh  
+**Published:** 9/30/2026, 8:09:01 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss Comments URL: https://news.ycombinator.com/item?id=49907118 Points: 2 # Comments: 0
+Article URL: https://ana15.substack.com/p/a-practical-guide-to-making-yourself Comments URL: https://news.ycombinator.com/item?id=49913642 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss)
+📖 [Read original article](https://ana15.substack.com/p/a-practical-guide-to-making-yourself)
 
 ---
 
-## 15. Oura postpones it's IPO with 24hrs notice citing AI threat
+## 15. Function-preserving watermarking of AI-generated proteins
 
-**Author:** etienne_ad  
-**Published:** 9/30/2026, 10:44:19 AM  
+**Author:** sbulaev  
+**Published:** 9/30/2026, 8:07:08 PM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/oura-smart-ring-postpones-ipo-cites-market-uncertainty-2026-9 Comments URL: https://news.ycombinator.com/item?id=49907017 Points: 2 # Comments: 2
+Article URL: https://www.nature.com/articles/s41586-026-10965-y Comments URL: https://news.ycombinator.com/item?id=49913614 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.businessinsider.com/oura-smart-ring-postpones-ipo-cites-market-uncertainty-2026-9)
+📖 [Read original article](https://www.nature.com/articles/s41586-026-10965-y)
 
 ---
 
-## 16. Stop Guessing Why Your AI Fails: Meet Tanvelo
+## 16. CS240 AI Cheating Retrospective
 
-**Author:** Tanvelo  
-**Published:** 9/30/2026, 10:37:38 AM  
+**Author:** ArchAndStarch  
+**Published:** 9/30/2026, 7:54:29 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49906955 Points: 1 # Comments: 2
+Article URL: https://turkeyland.net/thoughts/ai.php Comments URL: https://news.ycombinator.com/item?id=49913458 Points: 23 # Comments: 9
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49906955)
+📖 [Read original article](https://turkeyland.net/thoughts/ai.php)
 
 ---
 
-## 17. \"Apple engineer\" builds GitHub AI torture chamber to inflict \"pain\" on models
+## 17. Factory AI vs. Cognition (Devin)
 
-**Author:** LargeLingoMod  
-**Published:** 9/30/2026, 10:28:31 AM  
+**Author:** pranshuchittora  
+**Published:** 9/30/2026, 7:47:54 PM  
 **Categories:** -  
 
-Article URL: https://www.machine.news/apple-engineer-builds-github-ai-torture-chamber-to-inflict-digital-pain-on-models/ Comments URL: https://news.ycombinator.com/item?id=49906892 Points: 2 # Comments: 1
+Article URL: https://twitter.com/ScottWu46/status/2105360290993115469 Comments URL: https://news.ycombinator.com/item?id=49913382 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.machine.news/apple-engineer-builds-github-ai-torture-chamber-to-inflict-digital-pain-on-models/)
+📖 [Read original article](https://twitter.com/ScottWu46/status/2105360290993115469)
 
 ---
 
-## 18. What's the Future for Pure Math Research in the Age of AI?
+## 18. Is Trump's Push to Rename AI to Super Intelligence Part of a Bigger Conspiracy?
 
-**Author:** demivoleegaston  
-**Published:** 9/30/2026, 10:17:51 AM  
+**Author:** poopcat  
+**Published:** 9/30/2026, 7:43:34 PM  
 **Categories:** -  
 
-Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49906803 Points: 2 # Comments: 1
+Article URL: https://gizmodo.com/is-trumps-push-to-rename-ai-to-super-intelligence-part-of-some-bigger-conspiracy-2000819480 Comments URL: https://news.ycombinator.com/item?id=49913341 Points: 11 # Comments: 3
 
-📖 [Read original article](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/)
+📖 [Read original article](https://gizmodo.com/is-trumps-push-to-rename-ai-to-super-intelligence-part-of-some-bigger-conspiracy-2000819480)
 
 ---
 
-## 19. Who's Responsible for Irresponsible AI?
+## 19. Government AI Chatbot Reprogrammed to Stop Fact-Checking President
 
-**Author:** svg7  
-**Published:** 9/30/2026, 10:10:55 AM  
+**Author:** worik  
+**Published:** 9/30/2026, 7:40:09 PM  
 **Categories:** -  
 
-Article URL: https://www.deeplearning.ai/the-batch/whos-responsible-for-irresponsible-ai Comments URL: https://news.ycombinator.com/item?id=49906761 Points: 2 # Comments: 0
+Article URL: https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies Comments URL: https://news.ycombinator.com/item?id=49913312 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.deeplearning.ai/the-batch/whos-responsible-for-irresponsible-ai)
+📖 [Read original article](https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies)
 
 ---
 
-## 20. AA-AgentPerf-Local: Benchmarking local AI agents on laptops and workstations
+## 20. Agreeable Machines: a documented case of AI-reinforced delusion
 
-**Author:** theanonymousone  
-**Published:** 9/30/2026, 9:57:49 AM  
+**Author:** cameronmpalmer  
+**Published:** 9/30/2026, 7:35:58 PM  
 **Categories:** -  
 
-Article URL: https://artificialanalysis.ai/articles/aa-agentperf-local Comments URL: https://news.ycombinator.com/item?id=49906656 Points: 1 # Comments: 0
+Article URL: https://cameronmpalmer.com/blog/agreeable-machines/ Comments URL: https://news.ycombinator.com/item?id=49913273 Points: 1 # Comments: 1
 
-📖 [Read original article](https://artificialanalysis.ai/articles/aa-agentperf-local)
+📖 [Read original article](https://cameronmpalmer.com/blog/agreeable-machines/)
 
 ---
