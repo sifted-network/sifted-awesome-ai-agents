@@ -2,12 +2,12 @@
 title: "MIT Technology Review AI - 2026-09-28"
 date: "2026-09-28"
 source: "MIT Technology Review AI"
-count: 3
+count: 2
 ---
 
 # MIT Technology Review AI - 2026-09-28
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Listen to the session or watch below The US has spent billions building a “vir
 This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro...
 
 📖 [Read original article](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/)
-
----
-
-## 3. Who’s liable when AI agents go rogue?
-
-**Author:** Michelle Kim  
-**Published:** 9/28/2026, 8:06:22 AM  
-**Categories:** Artificial intelligence, App, MIT Technology Review Explains  
-
-MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a ...
-
-📖 [Read original article](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/)
 
 ---
