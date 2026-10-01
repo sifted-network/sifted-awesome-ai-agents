@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-10-01"
 date: "2026-10-01"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-10-01
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. NVIDIA Releases Kumo Tabular: Open Tabular Foundation Models That Predict New Rows in a Single Forward Pass
+## 1. Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI
+
+**Author:** Sana Hassan  
+**Published:** 10/1/2026, 5:13:12 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Embedding Model, Enterprise AI, For Devs, Language Model, Large Language Model, New Releases, Staff, Technology  
+
+Cohere has released Embed 5, a new embedding model family. It targets enterprise search, RAG, and agentic retrieval. The model family ships in 2 tiers. Embed 5 Pro targets maximum retrieval quality. Embed 5 Fast targets latency and cost on the live query path. Both accept text, images, and fused tex...
+
+📖 [Read original article](https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/)
+
+---
+
+## 2. NVIDIA Releases Kumo Tabular: Open Tabular Foundation Models That Predict New Rows in a Single Forward Pass
 
 **Author:** Asif Razzaq  
 **Published:** 10/1/2026, 6:57:50 AM  
@@ -23,7 +35,7 @@ NVIDIA has released Kumo Tabular, a new family of tabular foundation models (TFM
 
 ---
 
-## 2. Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence
+## 3. Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence
 
 **Author:** Asif Razzaq  
 **Published:** 10/1/2026, 3:23:39 AM  
