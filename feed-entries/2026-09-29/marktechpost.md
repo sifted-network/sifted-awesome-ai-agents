@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-09-29"
 date: "2026-09-29"
 source: "MarkTechPost"
-count: 4
+count: 3
 ---
 
 # MarkTechPost - 2026-09-29
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ OpenAI just introduced dots at their DevDay today. Dots are persistent AI agents
 Nebius and NVIDIA are running the 2026 Physical AI Awards for startups with products in the field. Five category winners each get $150,000 in compute credits, joint promotion, executive mentorship, and seats at an executive dinner. Applications close October 25. The post Nebius Opens 2026 Physical A...
 
 📖 [Read original article](https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/)
-
----
-
-## 4. Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting
-
-**Author:** Asif Razzaq  
-**Published:** 9/29/2026, 9:01:36 AM  
-**Categories:** Agentic AI, AI Agents, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Editors Pick, Harness, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
-
-Google Cloud AI Research has open-sourced RRSI, a framework that lets LLM agents rewrite their own prompts, tools and memory while model weights stay frozen. It adds a leakage critic, a noise floor, a cost rule and pruning so gains carry over to new tasks. With Claude Opus 4.8, Terminal-Bench 2.1 ro...
-
-📖 [Read original article](https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-without-overfitting/)
 
 ---
