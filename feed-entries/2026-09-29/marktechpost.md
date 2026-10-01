@@ -2,12 +2,12 @@
 title: "MarkTechPost - 2026-09-29"
 date: "2026-09-29"
 source: "MarkTechPost"
-count: 5
+count: 4
 ---
 
 # MarkTechPost - 2026-09-29
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ Nebius and NVIDIA are running the 2026 Physical AI Awards for startups with prod
 Google Cloud AI Research has open-sourced RRSI, a framework that lets LLM agents rewrite their own prompts, tools and memory while model weights stay frozen. It adds a leakage critic, a noise floor, a cost rule and pruning so gains carry over to new tasks. With Claude Opus 4.8, Terminal-Bench 2.1 ro...
 
 📖 [Read original article](https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-without-overfitting/)
-
----
-
-## 5. H Company Releases Holo4: Open-Weight Computer-Use Models That Click, Code and Call Tools Across Desktop, Web, Android and APIs
-
-**Author:** Michal Sutter  
-**Published:** 9/29/2026, 7:38:13 AM  
-**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Computer-Use, Editors Pick, Enterprise AI, Language Model, New Releases, Software Engineering, Staff, Tech News, Technology  
-
-H Company has released Holo4, a family of generalist computer-use models for AI agents. One set of weights clicks and types on screens. It also writes code and calls MCP or API tools. Holo4 ships in 2 sizes: Holo4 27B (dense) and Holo4 35B-A3B (Mixture of Experts, 3B active). Both serve a 256K conte...
-
-📖 [Read original article](https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-and-apis/)
 
 ---
