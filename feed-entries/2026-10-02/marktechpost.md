@@ -2,16 +2,28 @@
 title: "MarkTechPost - 2026-10-02"
 date: "2026-10-02"
 source: "MarkTechPost"
-count: 2
+count: 3
 ---
 
 # MarkTechPost - 2026-10-02
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text
+## 1. AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms
+
+**Author:** Asif Razzaq  
+**Published:** 10/2/2026, 6:35:00 AM  
+**Categories:** Agentic AI, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Deep Learning, Editors Pick, Embedding Model, For Devs, Language Model, Large Language Model, Machine Learning, New Releases, Open Source, Software Engineering, Staff, Tech News, Technology  
+
+AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores 0.723 on the JevBench pub...
+
+📖 [Read original article](https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/)
+
+---
+
+## 2. Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text
 
 **Author:** Asif Razzaq  
 **Published:** 10/2/2026, 1:00:41 AM  
@@ -23,7 +35,7 @@ Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision mod
 
 ---
 
-## 2. A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End
+## 3. A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End
 
 **Author:** Sana Hassan  
 **Published:** 10/2/2026, 12:32:50 AM  
