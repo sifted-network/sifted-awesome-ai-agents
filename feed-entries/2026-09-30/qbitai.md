@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-30"
 date: "2026-09-30"
 source: "qbitai"
-count: 8
+count: 5
 ---
 
 # qbitai - 2026-09-30
 
-8 items collected.
+5 items collected.
 
 ---
 
@@ -68,41 +68,5 @@ count: 8
 让GPT把机器人技能当工具调用
 
 📖 [Read original article](https://www.qbitai.com/2026/09/499493.html)
-
----
-
-## 6. DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec
-
-**Author:** 量子位的朋友们  
-**Published:** 9/30/2026, 5:18:05 AM  
-**Categories:** 资讯, 知乎  
-
-DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）
-
-📖 [Read original article](https://www.qbitai.com/2026/09/499308.html)
-
----
-
-## 7. 36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了
-
-**Author:** 杰西卡  
-**Published:** 9/30/2026, 4:42:22 AM  
-**Categories:** 智能车参考, 具身智能  
-
-机器人上市，风向有变
-
-📖 [Read original article](https://www.qbitai.com/2026/09/499280.html)
-
----
-
-## 8. DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态
-
-**Author:** 量子位的朋友们  
-**Published:** 9/30/2026, 2:53:17 AM  
-**Categories:** 资讯, 华为  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/09/499263.html)
 
 ---
