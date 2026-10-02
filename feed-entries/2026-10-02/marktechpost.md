@@ -2,16 +2,40 @@
 title: "MarkTechPost - 2026-10-02"
 date: "2026-10-02"
 source: "MarkTechPost"
-count: 3
+count: 5
 ---
 
 # MarkTechPost - 2026-10-02
 
-3 items collected.
+5 items collected.
 
 ---
 
-## 1. AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms
+## 1. NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference
+
+**Author:** Jean-marc Mommessin  
+**Published:** 10/2/2026, 6:04:56 PM  
+**Categories:** Agentic AI, AI Agents, AI Infrastructure, AI Shorts, Applications, Artificial Intelligence, Deep Learning, Editors Pick, Enterprise AI, For Devs, Hardware, Machine Learning, New Releases, Promote, Software Engineering, Sponsored, Staff, Tech News, Technology, Uncategorized  
+
+NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the cluster and more compu...
+
+📖 [Read original article](https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/)
+
+---
+
+## 2. Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks
+
+**Author:** Asif Razzaq  
+**Published:** 10/2/2026, 3:23:35 PM  
+**Categories:** Agentic AI, AI Shorts, Applications, Artificial Intelligence, Computer Vision, Editors Pick, Embedding Model, For Devs, Generative AI, Machine Learning, New Releases, OCR, Open Source, Promote, Python, Software Engineering, Sponsored, Staff, Tech News, Technology, Vision Language Model  
+
+Content-based row matching, 6 per-value verdicts and a null rule make OmniExtractBench an extraction benchmark anyone can audit. The post Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks appeared first on MarkTechPost.
+
+📖 [Read original article](https://www.marktechpost.com/2026/10/02/datalab-introduces-omniextractbench-to-fix-bias-and-opacity-in-extraction-benchmarks/)
+
+---
+
+## 3. AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms
 
 **Author:** Asif Razzaq  
 **Published:** 10/2/2026, 6:35:00 AM  
@@ -23,7 +47,7 @@ AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision mo
 
 ---
 
-## 2. Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text
+## 4. Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text
 
 **Author:** Asif Razzaq  
 **Published:** 10/2/2026, 1:00:41 AM  
@@ -35,7 +59,7 @@ Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision mod
 
 ---
 
-## 3. A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End
+## 5. A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End
 
 **Author:** Sana Hassan  
 **Published:** 10/2/2026, 12:32:50 AM  
