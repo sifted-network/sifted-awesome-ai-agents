@@ -2,251 +2,143 @@
 title: "Hacker News AI - 2026-10-02"
 date: "2026-10-02"
 source: "Hacker News AI"
-count: 20
+count: 11
 ---
 
 # Hacker News AI - 2026-10-02
 
-20 items collected.
+11 items collected.
 
 ---
 
-## 1. Apple to Tighten Mac Data Controls in Guard Against AI Agents
+## 1. When AI Starts Writing Systems Code
 
-**Author:** mfiguiere  
-**Published:** 10/2/2026, 9:36:16 PM  
+**Author:** zakariaelhjouji  
+**Published:** 10/2/2026, 11:59:38 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents Comments URL: https://news.ycombinator.com/item?id=49938891 Points: 1 # Comments: 0
+Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code Comments URL: https://news.ycombinator.com/item?id=49940073 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents)
+📖 [Read original article](https://www.coreauto.com/blog/when-ai-starts-writing-systems-code)
 
 ---
 
-## 2. Decide where your AI workload should run (local/edge/cloud)
+## 2. Tinfoil private AI chat adds TEE-side content scanning
 
-**Author:** krajan124  
-**Published:** 10/2/2026, 9:19:18 PM  
+**Author:** lukewarm707  
+**Published:** 10/2/2026, 11:57:59 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Keerthana0309/ai-workload-placement Comments URL: https://news.ycombinator.com/item?id=49938724 Points: 2 # Comments: 0
+Article URL: https://tinfoil.sh/blog/2026-09-14-safety-without-compromising-privacy Comments URL: https://news.ycombinator.com/item?id=49940062 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Keerthana0309/ai-workload-placement)
+📖 [Read original article](https://tinfoil.sh/blog/2026-09-14-safety-without-compromising-privacy)
 
 ---
 
-## 3. Show HN: I build a local archive for AI chats that are hard to export openrouter
+## 3. 'Winning AI'
 
-**Author:** thread123  
-**Published:** 10/2/2026, 9:14:08 PM  
+**Author:** CqtGLRGcukpy  
+**Published:** 10/2/2026, 11:48:21 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ChrystianSchutz/ThreadShelf Comments URL: https://news.ycombinator.com/item?id=49938675 Points: 1 # Comments: 0
+Article URL: https://www.netmeister.org/blog/winning-ai.html Comments URL: https://news.ycombinator.com/item?id=49940000 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/ChrystianSchutz/ThreadShelf)
+📖 [Read original article](https://www.netmeister.org/blog/winning-ai.html)
 
 ---
 
-## 4. The Sleuths Who Expose When AI Goes Rogue
+## 4. AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments
 
-**Author:** fortran77  
-**Published:** 10/2/2026, 9:11:18 PM  
+**Author:** initramfs  
+**Published:** 10/2/2026, 11:18:02 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f Comments URL: https://news.ycombinator.com/item?id=49938646 Points: 2 # Comments: 1
+Article URL: https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58 Comments URL: https://news.ycombinator.com/item?id=49939768 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f)
+📖 [Read original article](https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58)
 
 ---
 
-## 5. Pope Leo XIV on AI and Art
+## 5. Show HN: Teacher Planner – A digital planbook with AI tools for teachers
 
-**Author:** smartmic  
-**Published:** 10/2/2026, 9:02:59 PM  
+**Author:** sunpy  
+**Published:** 10/2/2026, 11:08:21 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/Pontifex/status/2105983638147891490 Comments URL: https://news.ycombinator.com/item?id=49938581 Points: 5 # Comments: 0
+Hi HN, I built Teacher Planner to help teachers organize lessons and prepare classroom materials in one place.The digital planbook brings together lesson plans, units, schedules, and curriculum standards, with day, week, and month views, read-only sharing, and configurable print layouts. It supports...
 
-📖 [Read original article](https://twitter.com/Pontifex/status/2105983638147891490)
+📖 [Read original article](https://teacherplanner.ai)
 
 ---
 
-## 6. Show HN: Portus, A Rust Based API/AI/MCP Gateway
+## 6. AI Torture Chamber – Steering LLMs into negative and positive valence states
 
-**Author:** nodstuff  
-**Published:** 10/2/2026, 8:56:22 PM  
+**Author:** Anonboxis  
+**Published:** 10/2/2026, 11:04:43 PM  
 **Categories:** -  
 
-Portus is a Rust-based API/AI/MCP Gateway built on top of Rama as the networking stack (Rama replaced Pingora due to better throughput and lower resource usage).Portus uses a split control/data plane architecture and conforms with the Kubernetes Gateway API specification (130/130 tests across all pr...
+Article URL: https://github.com/login Comments URL: https://news.ycombinator.com/item?id=49939667 Points: 2 # Comments: 1
 
-📖 [Read original article](https://portus-gateway.dev/)
+📖 [Read original article](https://github.com/login)
 
 ---
 
-## 7. Gpui based database client built for teams and AI agents
+## 7. LLMs Will Not Replace AI Compilers. They Will Call Them.
 
-**Author:** faramarz  
-**Published:** 10/2/2026, 8:42:58 PM  
+**Author:** matt_d  
+**Published:** 10/2/2026, 10:57:27 PM  
 **Categories:** -  
 
-Article URL: https://based.pavi2410.com/ Comments URL: https://news.ycombinator.com/item?id=49938377 Points: 1 # Comments: 0
+Article URL: https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html Comments URL: https://news.ycombinator.com/item?id=49939614 Points: 1 # Comments: 0
 
-📖 [Read original article](https://based.pavi2410.com/)
+📖 [Read original article](https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html)
 
 ---
 
-## 8. The AI telling farmers when to harvest
+## 8. An AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it
 
-**Author:** rmason  
-**Published:** 10/2/2026, 8:39:35 PM  
+**Author:** jaredwiener  
+**Published:** 10/2/2026, 10:20:41 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cgk53dkmyxko Comments URL: https://news.ycombinator.com/item?id=49938333 Points: 1 # Comments: 3
+Article URL: https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back Comments URL: https://news.ycombinator.com/item?id=49939341 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/cgk53dkmyxko)
+📖 [Read original article](https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back)
 
 ---
 
-## 9. Three AI agents, two countries, and one uneven world wide web
+## 9. Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok
 
-**Author:** effects  
-**Published:** 10/2/2026, 8:39:05 PM  
+**Author:** CharlesW  
+**Published:** 10/2/2026, 10:15:58 PM  
 **Categories:** -  
 
-Article URL: https://royapakzad.substack.com/p/multilingual-ai-agents Comments URL: https://news.ycombinator.com/item?id=49938326 Points: 7 # Comments: 0
+Article URL: https://daringfireball.net/2026/10/apple_full_disk_access Comments URL: https://news.ycombinator.com/item?id=49939300 Points: 6 # Comments: 0
 
-📖 [Read original article](https://royapakzad.substack.com/p/multilingual-ai-agents)
+📖 [Read original article](https://daringfireball.net/2026/10/apple_full_disk_access)
 
 ---
 
-## 10. Apple will limit Mac disk access as AI agents 'substantially' increase risk
+## 10. Can You SEO Your Way into an AI Agent's Recommendation?
 
-**Author:** qzervaas  
-**Published:** 10/2/2026, 8:33:32 PM  
+**Author:** richards  
+**Published:** 10/2/2026, 10:09:29 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents Comments URL: https://news.ycombinator.com/item?id=49938271 Points: 5 # Comments: 1
+Article URL: https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=49939235 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
+📖 [Read original article](https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html)
 
 ---
 
-## 11. Human Baselines for Benchmarks: AI Now Outperforms Junior Accountants
+## 11. Show HN: Asked Opus for a video about AI labs and it spit out this weird thing
 
-**Author:** iphonecorridor  
-**Published:** 10/2/2026, 8:30:22 PM  
+**Author:** HaxleRose  
+**Published:** 10/2/2026, 10:08:37 PM  
 **Categories:** -  
 
-Article URL: https://www.mercor.com/blog/human-baselines-for-benchmarks-ai-now-outperforms-junior-accountants/ Comments URL: https://news.ycombinator.com/item?id=49938232 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=nWWDUXhqWEs Comments URL: https://news.ycombinator.com/item?id=49939225 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.mercor.com/blog/human-baselines-for-benchmarks-ai-now-outperforms-junior-accountants/)
-
----
-
-## 12. A Warning for Frontier AI Model Governance
-
-**Author:** EA-3167  
-**Published:** 10/2/2026, 8:27:49 PM  
-**Categories:** -  
-
-Article URL: https://www.lawfaremedia.org/article/a-warning-for-frontier-ai-model-governance Comments URL: https://news.ycombinator.com/item?id=49938206 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.lawfaremedia.org/article/a-warning-for-frontier-ai-model-governance)
-
----
-
-## 13. A2A CLI: A tool to discover, message, and manage remote AI agents
-
-**Author:** msampath  
-**Published:** 10/2/2026, 8:26:29 PM  
-**Categories:** -  
-
-Article URL: https://github.com/a2aproject/a2a-cli Comments URL: https://news.ycombinator.com/item?id=49938190 Points: 2 # Comments: 0
-
-📖 [Read original article](https://github.com/a2aproject/a2a-cli)
-
----
-
-## 14. A BGP-Inspired Identity Network for Autonomous AI Agents
-
-**Author:** rodmontiel  
-**Published:** 10/2/2026, 8:13:47 PM  
-**Categories:** -  
-
-Article URL: https://medium.com/@rodmontiel/uai-a-bgp-inspired-identity-network-for-autonomous-ai-agents-73b89b2a40e2 Comments URL: https://news.ycombinator.com/item?id=49938057 Points: 1 # Comments: 0
-
-📖 [Read original article](https://medium.com/@rodmontiel/uai-a-bgp-inspired-identity-network-for-autonomous-ai-agents-73b89b2a40e2)
-
----
-
-## 15. Google's science AI ranks #1 in CDC evaluation
-
-**Author:** acossta  
-**Published:** 10/2/2026, 8:00:31 PM  
-**Categories:** -  
-
-Article URL: https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/ Comments URL: https://news.ycombinator.com/item?id=49937919 Points: 2 # Comments: 0
-
-📖 [Read original article](https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/)
-
----
-
-## 16. Show HN: Made an open-source Lego AI generator
-
-**Author:** antelocnova  
-**Published:** 10/2/2026, 8:00:15 PM  
-**Categories:** -  
-
-Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an "assembly" language, a low-level programming language that describes how to assemble LEGO pieces together in...
-
-📖 [Read original article](https://github.com/anteloc/ldraw-nova)
-
----
-
-## 17. When Your Agent Publishes Your Secrets: An AI Forensics, Containment and Audit
-
-**Author:** speckx  
-**Published:** 10/2/2026, 7:55:34 PM  
-**Categories:** -  
-
-Article URL: https://simonroses.com/2026/10/when-your-coding-agent-publishes-your-secrets-an-ai-forensics-containment-and-audit-playbook/ Comments URL: https://news.ycombinator.com/item?id=49937854 Points: 1 # Comments: 0
-
-📖 [Read original article](https://simonroses.com/2026/10/when-your-coding-agent-publishes-your-secrets-an-ai-forensics-containment-and-audit-playbook/)
-
----
-
-## 18. Show HN: VeriSigil AI – Cryptographic identity and trust network for AI agents
-
-**Author:** VeriSigilAI  
-**Published:** 10/2/2026, 7:53:37 PM  
-**Categories:** -  
-
-Comments URL: https://news.ycombinator.com/item?id=49937829 Points: 2 # Comments: 0
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49937829)
-
----
-
-## 19. Ask HN: Why can AI solve Navier-Stokes but not write in a human-like way?
-
-**Author:** amichail  
-**Published:** 10/2/2026, 7:30:03 PM  
-**Categories:** -  
-
-It just seems like a much easier problem for AI to solve.Any ideas? Comments URL: https://news.ycombinator.com/item?id=49937551 Points: 2 # Comments: 3
-
-📖 [Read original article](https://news.ycombinator.com/item?id=49937551)
-
----
-
-## 20. Maintaining wait-on at agent speed: AI, NPM supply-chain risk, and a Rust engine
-
-**Author:** kevinold  
-**Published:** 10/2/2026, 7:16:32 PM  
-**Categories:** -  
-
-Article URL: https://www.kevinold.com/blog/a-week-maintaining-wait-on Comments URL: https://news.ycombinator.com/item?id=49937371 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.kevinold.com/blog/a-week-maintaining-wait-on)
+📖 [Read original article](https://www.youtube.com/watch?v=nWWDUXhqWEs)
 
 ---
