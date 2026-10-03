@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-30"
 date: "2026-09-30"
 source: "qbitai"
-count: 4
+count: 2
 ---
 
 # qbitai - 2026-09-30
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ count: 4
 什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？
 
 📖 [Read original article](https://www.qbitai.com/2026/09/499605.html)
-
----
-
-## 3. Anthropic，你是来给智谱打广告的吧！
-
-**Author:** 十三  
-**Published:** 9/30/2026, 10:04:12 AM  
-**Categories:** 资讯, Anthropic, 智谱, 网络安全  
-
-实测说GLM-5.3很强
-
-📖 [Read original article](https://www.qbitai.com/2026/09/499597.html)
-
----
-
-## 4. Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活
-
-**Author:** henry  
-**Published:** 9/30/2026, 7:58:37 AM  
-**Categories:** 资讯, Agent, Manus  
-
-给Agent配上手机号，再拉个群
-
-📖 [Read original article](https://www.qbitai.com/2026/09/499592.html)
 
 ---
