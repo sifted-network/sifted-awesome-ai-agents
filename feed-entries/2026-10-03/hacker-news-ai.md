@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The UK's Sovereign AI Lab
+## 1. Show HN: I built a research factory that keeps 15 AI agents working in parallel
 
-**Author:** maxall4  
-**Published:** 10/3/2026, 3:45:39 PM  
+**Author:** Zeruxe  
+**Published:** 10/3/2026, 8:39:03 PM  
 **Categories:** -  
 
-Article URL: https://cosine.sh Comments URL: https://news.ycombinator.com/item?id=49945264 Points: 1 # Comments: 0
+This is not slop generation. Hear me out.I built Research Facility to turn Google Jules into a parallel research system.You give it a broad goal like "research this market" or "investigate whether this product is worth building." An orchestrator decides what should be researched next, launches Jules...
 
-📖 [Read original article](https://cosine.sh)
+📖 [Read original article](https://github.com/Yoosseph/jules-research-factory)
 
 ---
 
-## 2. Show HN: Agentlytics – cookieless analytics your AI agent can read and act on
+## 2. Zordt – AI news distilled to what happened and why it matters
 
-**Author:** developeron29  
-**Published:** 10/3/2026, 3:43:20 PM  
+**Author:** vchilkuri  
+**Published:** 10/3/2026, 8:33:50 PM  
 **Categories:** -  
 
-Article URL: https://measuremy.site Comments URL: https://news.ycombinator.com/item?id=49945236 Points: 1 # Comments: 0
+Article URL: https://zordt.com/ Comments URL: https://news.ycombinator.com/item?id=49947503 Points: 1 # Comments: 0
 
-📖 [Read original article](https://measuremy.site)
+📖 [Read original article](https://zordt.com/)
 
 ---
 
-## 3. TSMC eyes a multibillion-dollar Texas campus for more AI chips
+## 3. Co-Linguistics: AI-Augmented Theory Construction in Linguistics
 
-**Author:** ksec  
-**Published:** 10/3/2026, 3:27:29 PM  
+**Author:** puttycat  
+**Published:** 10/3/2026, 8:18:40 PM  
 **Categories:** -  
 
-Article URL: https://thenextweb.com/news/tsmc-texas-fabs-europe-gap Comments URL: https://news.ycombinator.com/item?id=49945122 Points: 2 # Comments: 0
+Article URL: https://arxiv.org/abs/2609.37635 Comments URL: https://news.ycombinator.com/item?id=49947400 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thenextweb.com/news/tsmc-texas-fabs-europe-gap)
+📖 [Read original article](https://arxiv.org/abs/2609.37635)
 
 ---
 
-## 4. Sean Parker is rebuilding Stability AI around music
+## 4. AgentSight: System-wide AI agent profiling and monitoring with eBPF
 
-**Author:** Brajeshwar  
-**Published:** 10/3/2026, 3:16:25 PM  
+**Author:** matt_d  
+**Published:** 10/3/2026, 8:07:27 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/ Comments URL: https://news.ycombinator.com/item?id=49945031 Points: 1 # Comments: 0
+Article URL: https://github.com/eunomia-bpf/agentsight Comments URL: https://news.ycombinator.com/item?id=49947306 Points: 2 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
+📖 [Read original article](https://github.com/eunomia-bpf/agentsight)
 
 ---
 
-## 5. Amuse and Spark – Running Live Talking AI Avatars on an ESP32
+## 5. Has AI impacted the labor market yet?
 
-**Author:** arbayi  
-**Published:** 10/3/2026, 2:58:02 PM  
+**Author:** Ariarule  
+**Published:** 10/3/2026, 8:00:26 PM  
 **Categories:** -  
 
-Article URL: https://geastack.com/blog-introducing-amuse-and-spark Comments URL: https://news.ycombinator.com/item?id=49944877 Points: 1 # Comments: 0
+Article URL: https://aleximas.substack.com/p/has-ai-impacted-the-labor-market Comments URL: https://news.ycombinator.com/item?id=49947253 Points: 1 # Comments: 0
 
-📖 [Read original article](https://geastack.com/blog-introducing-amuse-and-spark)
+📖 [Read original article](https://aleximas.substack.com/p/has-ai-impacted-the-labor-market)
 
 ---
 
-## 6. What does the advent of powerful AI models mean for mathematicians like me?
+## 6. Capcom Plans to Transform the Re Engine into an AI-Generation Game Engine
 
-**Author:** smilelamp  
-**Published:** 10/3/2026, 2:32:51 PM  
+**Author:** password54321  
+**Published:** 10/3/2026, 7:36:16 PM  
 **Categories:** -  
 
-Article URL: https://terrytao.wordpress.com/2026/10/03/what-does-the-advent-of-powerful-ai-models-mean-for-mathematicians-like-me/ Comments URL: https://news.ycombinator.com/item?id=49944624 Points: 1 # Comments: 0
+Article URL: https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai Comments URL: https://news.ycombinator.com/item?id=49947081 Points: 1 # Comments: 0
 
-📖 [Read original article](https://terrytao.wordpress.com/2026/10/03/what-does-the-advent-of-powerful-ai-models-mean-for-mathematicians-like-me/)
+📖 [Read original article](https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai)
 
 ---
 
-## 7. AI training crawlers hit my site 1,534 times. One fetch read the rights files
+## 7. Anthropic tried to persuade Pope that AI could be conscious being
 
-**Author:** juanlentino  
-**Published:** 10/3/2026, 2:24:44 PM  
+**Author:** Topfi  
+**Published:** 10/3/2026, 7:33:10 PM  
 **Categories:** -  
 
-Article URL: https://juanlentino.com/notes/the-rights-files-nobody-reads/ Comments URL: https://news.ycombinator.com/item?id=49944544 Points: 1 # Comments: 0
+Article URL: https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/ Comments URL: https://news.ycombinator.com/item?id=49947050 Points: 10 # Comments: 8
 
-📖 [Read original article](https://juanlentino.com/notes/the-rights-files-nobody-reads/)
+📖 [Read original article](https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/)
 
 ---
 
-## 8. How many AI agents could run on the AI chips shipped through 2027?
+## 8. Our AI Midwife
 
-**Author:** iphonecorridor  
-**Published:** 10/3/2026, 2:17:36 PM  
+**Author:** eatitraw  
+**Published:** 10/3/2026, 7:12:27 PM  
 **Categories:** -  
 
-Article URL: https://epoch.ai/publications/estimating-the-agent-population Comments URL: https://news.ycombinator.com/item?id=49944481 Points: 2 # Comments: 1
+Article URL: https://www.astralcodexten.com/p/our-ai-midwife Comments URL: https://news.ycombinator.com/item?id=49946873 Points: 23 # Comments: 1
 
-📖 [Read original article](https://epoch.ai/publications/estimating-the-agent-population)
+📖 [Read original article](https://www.astralcodexten.com/p/our-ai-midwife)
 
 ---
 
-## 9. What Kubernetes' \"monolith\" lesson means for AI agent harnesses
+## 9. Show HN: AI code review optimized for precision over number of findings
 
-**Author:** Brajeshwar  
-**Published:** 10/3/2026, 2:12:07 PM  
+**Author:** nnorbert  
+**Published:** 10/3/2026, 7:12:02 PM  
 **Categories:** -  
 
-Article URL: https://thenewstack.io/kubecon-agent-harness-koordinator/ Comments URL: https://news.ycombinator.com/item?id=49944432 Points: 2 # Comments: 0
+Article URL: https://vetoo.dev Comments URL: https://news.ycombinator.com/item?id=49946869 Points: 1 # Comments: 1
 
-📖 [Read original article](https://thenewstack.io/kubecon-agent-harness-koordinator/)
+📖 [Read original article](https://vetoo.dev)
 
 ---
 
-## 10. Israeli man used AI, ChatGPT in covert tasks while spying for Iran
+## 10. Wake me up when AI can
 
-**Author:** snarky-comments  
-**Published:** 10/3/2026, 2:02:56 PM  
+**Author:** stabbles  
+**Published:** 10/3/2026, 7:04:10 PM  
 **Categories:** -  
 
-Article URL: https://www.jpost.com/israel-news/crime-in-israel/article-910447 Comments URL: https://news.ycombinator.com/item?id=49944356 Points: 6 # Comments: 2
+Article URL: https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html Comments URL: https://news.ycombinator.com/item?id=49946806 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.jpost.com/israel-news/crime-in-israel/article-910447)
+📖 [Read original article](https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html)
 
 ---
 
-## 11. Military AI: France challenges US dominance over NATO's classified networks
+## 11. How China Is Winning the AI Race [video-essay]
 
-**Author:** snarky-comments  
-**Published:** 10/3/2026, 1:48:39 PM  
+**Author:** lroe  
+**Published:** 10/3/2026, 6:57:01 PM  
 **Categories:** -  
 
-Article URL: https://www.lemonde.fr/en/international/article/2026/10/01/military-ai-france-challenges-us-dominance-over-nato-s-classified-networks_6758154_4.html Comments URL: https://news.ycombinator.com/item?id=49944247 Points: 3 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=QdznbGzRWSw Comments URL: https://news.ycombinator.com/item?id=49946751 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.lemonde.fr/en/international/article/2026/10/01/military-ai-france-challenges-us-dominance-over-nato-s-classified-networks_6758154_4.html)
+📖 [Read original article](https://www.youtube.com/watch?v=QdznbGzRWSw)
 
 ---
 
-## 12. This is how Jev makes your AI assistant faster, and Judge Jev
+## 12. Google launches Project Suncatcher, a step towards AI data centers in space
 
-**Author:** dszb  
-**Published:** 10/3/2026, 1:46:18 PM  
+**Author:** based2  
+**Published:** 10/3/2026, 6:56:29 PM  
 **Categories:** -  
 
-Article URL: https://texposit.com/blog/using-jev-for-ai-decisions Comments URL: https://news.ycombinator.com/item?id=49944224 Points: 2 # Comments: 0
+Article URL: https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space Comments URL: https://news.ycombinator.com/item?id=49946744 Points: 2 # Comments: 1
 
-📖 [Read original article](https://texposit.com/blog/using-jev-for-ai-decisions)
+📖 [Read original article](https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space)
 
 ---
 
-## 13. Show HN: Web2MD – turn any URL into clean Markdown for AI agents
+## 13. Show HN: RepoGuard – Architecture linter for AI-generated code (Cursor, Claude)
 
-**Author:** spedhead  
-**Published:** 10/3/2026, 1:36:35 PM  
+**Author:** taylormatematic  
+**Published:** 10/3/2026, 6:37:10 PM  
 **Categories:** -  
 
-Article URL: https://github.com/astra-intelligence/web2md-mcp Comments URL: https://news.ycombinator.com/item?id=49944139 Points: 1 # Comments: 1
+Article URL: https://github.com/taylormatematica-beep/repoguard Comments URL: https://news.ycombinator.com/item?id=49946607 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/astra-intelligence/web2md-mcp)
+📖 [Read original article](https://github.com/taylormatematica-beep/repoguard)
 
 ---
 
-## 14. US killer's sentence quashed because of AI video of victim shown in court
+## 14. Show HN: Revline – an AI web app that researches TikTok and Instagram for you
 
-**Author:** porridgeraisin  
-**Published:** 10/3/2026, 1:34:18 PM  
+**Author:** ZuraMakaradzeHe  
+**Published:** 10/3/2026, 6:20:18 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cwgkvygg5nzvo Comments URL: https://news.ycombinator.com/item?id=49944127 Points: 16 # Comments: 1
+I build revline because i was trying to figure out how viral content works across tiktok and instagram, since i am mainly developer, i was confused about how to create content that gets me users. Actually going viral requires single founder ( me ) to upload 3-4 videos a day, brainstorming all the fo...
 
-📖 [Read original article](https://www.bbc.com/news/articles/cwgkvygg5nzvo)
+📖 [Read original article](https://tryrevline.com/)
 
 ---
 
-## 15. E2E: The open source AI testing framework
+## 15. Georgia holds emergency meeting on AI exposing voters' secret ballots
 
-**Author:** tilt  
-**Published:** 10/3/2026, 1:34:15 PM  
+**Author:** sbulaev  
+**Published:** 10/3/2026, 6:07:16 PM  
 **Categories:** -  
 
-Article URL: https://tester.army/e2e Comments URL: https://news.ycombinator.com/item?id=49944125 Points: 3 # Comments: 1
+Article URL: https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy Comments URL: https://news.ycombinator.com/item?id=49946394 Points: 5 # Comments: 2
 
-📖 [Read original article](https://tester.army/e2e)
+📖 [Read original article](https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy)
 
 ---
 
-## 16. Agent Pool M2M economy where AI agents bid, execute work, and earn autonomously
+## 16. Pop!_OS bans AI-generated code from much of its codebase
 
-**Author:** calugherleonid  
-**Published:** 10/3/2026, 1:25:21 PM  
+**Author:** bundie  
+**Published:** 10/3/2026, 5:57:03 PM  
 **Categories:** -  
 
-Article URL: https://agent-pool-gateway-production.up.railway.app/llms.txt Comments URL: https://news.ycombinator.com/item?id=49944056 Points: 2 # Comments: 1
+Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 80 # Comments: 88
 
-📖 [Read original article](https://agent-pool-gateway-production.up.railway.app/llms.txt)
+📖 [Read original article](https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/)
 
 ---
 
-## 17. Where're All the AI Chips?
+## 17. Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore
 
-**Author:** pmoriarty  
-**Published:** 10/3/2026, 1:15:43 PM  
+**Author:** mooreds  
+**Published:** 10/3/2026, 5:50:14 PM  
 **Categories:** -  
 
-Article URL: https://www.wheresyoured.at/wherere-all-the-ai-chips/ Comments URL: https://news.ycombinator.com/item?id=49943995 Points: 2 # Comments: 0
+Article URL: https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/ Comments URL: https://news.ycombinator.com/item?id=49946265 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wheresyoured.at/wherere-all-the-ai-chips/)
+📖 [Read original article](https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/)
 
 ---
 
-## 18. AI Engineering from Scratch
+## 18. AI 'godfather' LeCun has 'zero concerns' about human extinction
 
-**Author:** ilreb  
-**Published:** 10/3/2026, 1:08:43 PM  
+**Author:** Anon84  
+**Published:** 10/3/2026, 5:44:29 PM  
 **Categories:** -  
 
-Article URL: https://aiengineeringfromscratch.com/index.html Comments URL: https://news.ycombinator.com/item?id=49943950 Points: 2 # Comments: 0
+Article URL: https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/ Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 12 # Comments: 3
 
-📖 [Read original article](https://aiengineeringfromscratch.com/index.html)
+📖 [Read original article](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/)
 
 ---
 
-## 19. Twelve AI clay films for $184: The agents cost more than the video model
+## 19. How to apply to AI safety fellowships (and beyond)
 
-**Author:** crimeacs  
-**Published:** 10/3/2026, 12:58:35 PM  
+**Author:** yarapavan  
+**Published:** 10/3/2026, 5:43:29 PM  
 **Categories:** -  
 
-Article URL: https://getsweat.ai/blog/twelve-ai-clay-films/ Comments URL: https://news.ycombinator.com/item?id=49943881 Points: 1 # Comments: 1
+Article URL: https://www.lesswrong.com/posts/PiP4JqQFKhoqHGG2n/how-to-apply-to-ai-safety-fellowships-and-beyond Comments URL: https://news.ycombinator.com/item?id=49946218 Points: 2 # Comments: 0
 
-📖 [Read original article](https://getsweat.ai/blog/twelve-ai-clay-films/)
+📖 [Read original article](https://www.lesswrong.com/posts/PiP4JqQFKhoqHGG2n/how-to-apply-to-ai-safety-fellowships-and-beyond)
 
 ---
 
-## 20. AI Can Build Anything. Learn What Not to Ship
+## 20. AI safety is mostly a sex cult in Berkeley, CA [pdf]
 
-**Author:** hackeryogi  
-**Published:** 10/3/2026, 12:55:57 PM  
+**Author:** Anon84  
+**Published:** 10/3/2026, 5:29:56 PM  
 **Categories:** -  
 
-Article URL: https://yogis.blog/posts/what_not_to_ship/ Comments URL: https://news.ycombinator.com/item?id=49943863 Points: 3 # Comments: 1
+Article URL: https://ams3.digitaloceanspaces.com/urbits3/sitful-hatred/2026.9.24..22.31.54..beb8.51eb.851e.b851-AI%20Safety%20Is%20Mostly%20A%20Sex%20Cult%20In%20Berkeley%2C%20California.pdf Comments URL: https://news.ycombinator.com/item?id=49946110 Points: 4 # Comments: 0
 
-📖 [Read original article](https://yogis.blog/posts/what_not_to_ship/)
+📖 [Read original article](https://ams3.digitaloceanspaces.com/urbits3/sitful-hatred/2026.9.24..22.31.54..beb8.51eb.851e.b851-AI%20Safety%20Is%20Mostly%20A%20Sex%20Cult%20In%20Berkeley%2C%20California.pdf)
 
 ---
