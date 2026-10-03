@@ -2,12 +2,12 @@
 title: "qbitai - 2026-09-30"
 date: "2026-09-30"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-09-30
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ count: 5
 给Agent配上手机号，再拉个群
 
 📖 [Read original article](https://www.qbitai.com/2026/09/499592.html)
-
----
-
-## 5. 刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！
-
-**Author:** henry  
-**Published:** 9/30/2026, 7:54:54 AM  
-**Categories:** 资讯, 具身智能, 宇树  
-
-让GPT把机器人技能当工具调用
-
-📖 [Read original article](https://www.qbitai.com/2026/09/499493.html)
 
 ---
