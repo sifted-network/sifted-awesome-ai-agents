@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Gemini app limiting what models free and AI Plus users can access
+## 1. Recly – turn your watch into a Plaud-style AI recorder
 
-**Author:** ilamont  
-**Published:** 10/4/2026, 4:32:21 PM  
+**Author:** rokrokss  
+**Published:** 10/4/2026, 8:52:38 PM  
 **Categories:** -  
 
-Article URL: https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/ Comments URL: https://news.ycombinator.com/item?id=49955364 Points: 1 # Comments: 0
+Article URL: https://recly.dev/ Comments URL: https://news.ycombinator.com/item?id=49957724 Points: 1 # Comments: 0
 
-📖 [Read original article](https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/)
+📖 [Read original article](https://recly.dev/)
 
 ---
 
-## 2. Cloud Waste Hits 29% as AI Spend Ends 5-Year Drop (2026)
+## 2. Let's compete with China on AI social impact
 
-**Author:** imshaikot  
-**Published:** 10/4/2026, 4:24:32 PM  
+**Author:** mikelgan  
+**Published:** 10/4/2026, 8:45:18 PM  
 **Categories:** -  
 
-Article URL: https://shattered.io/cloud-waste-29-percent-ai-spending-2026/ Comments URL: https://news.ycombinator.com/item?id=49955291 Points: 2 # Comments: 0
+Article URL: https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social Comments URL: https://news.ycombinator.com/item?id=49957639 Points: 1 # Comments: 0
 
-📖 [Read original article](https://shattered.io/cloud-waste-29-percent-ai-spending-2026/)
+📖 [Read original article](https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social)
 
 ---
 
-## 3. AI Czar Named
+## 3. Google freezes open-source bug bounty program amid flood of invalid AI slop
 
-**Author:** patrickwdaly  
-**Published:** 10/4/2026, 4:16:20 PM  
+**Author:** rdmuser  
+**Published:** 10/4/2026, 8:38:10 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/10/04/jay-clayton-ai-trump-01106137 Comments URL: https://news.ycombinator.com/item?id=49955214 Points: 3 # Comments: 1
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1 Comments URL: https://news.ycombinator.com/item?id=49957570 Points: 4 # ...
 
-📖 [Read original article](https://www.politico.com/news/2026/10/04/jay-clayton-ai-trump-01106137)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1)
 
 ---
 
-## 4. Do Not Trust, Continuously Verify (Your AI Agents)
+## 4. AI is making ambition feel pointless [video]
 
-**Author:** Bender  
-**Published:** 10/4/2026, 4:06:14 PM  
+**Author:** dumindunuwan  
+**Published:** 10/4/2026, 8:28:17 PM  
 **Categories:** -  
 
-Article URL: https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/ Comments URL: https://news.ycombinator.com/item?id=49955108 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=nc8UBme3XLQ Comments URL: https://news.ycombinator.com/item?id=49957486 Points: 3 # Comments: 1
 
-📖 [Read original article](https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/)
+📖 [Read original article](https://www.youtube.com/watch?v=nc8UBme3XLQ)
 
 ---
 
-## 5. Apple says it's tightening macOS privacy controls amid the rise of AI agents
+## 5. Google Tells Sites to Fact-Check AI Content Before Publishing
 
-**Author:** chanux  
-**Published:** 10/4/2026, 4:02:07 PM  
+**Author:** rdmuser  
+**Published:** 10/4/2026, 8:19:38 PM  
 **Categories:** -  
 
-Article URL: https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49955068 Points: 1 # Comments: 2
+Article URL: https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/ Comments URL: https://news.ycombinator.com/item?id=49957418 Points: 2 # Comments: 0
 
-📖 [Read original article](https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/)
+📖 [Read original article](https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/)
 
 ---
 
-## 6. Design Systems for AI Agents
+## 6. The Illusion of AI Productivity: Go Frame the House
 
-**Author:** mooreds  
-**Published:** 10/4/2026, 3:55:03 PM  
+**Author:** kaydub  
+**Published:** 10/4/2026, 8:06:28 PM  
 **Categories:** -  
 
-Article URL: https://www.lukew.com/ff/2164/design-systems-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=49955000 Points: 1 # Comments: 0
+Article URL: https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38 Comments URL: https://news.ycombinator.com/item?id=49957318 Points: 3 # Comments: 2
 
-📖 [Read original article](https://www.lukew.com/ff/2164/design-systems-for-ai-agents)
+📖 [Read original article](https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38)
 
 ---
 
-## 7. Give Your AI Agent Its Own Identity
+## 7. Homa: The End of TCP for AI Clusters [video]
 
-**Author:** mooreds  
-**Published:** 10/4/2026, 3:48:13 PM  
+**Author:** signa11  
+**Published:** 10/4/2026, 7:42:25 PM  
 **Categories:** -  
 
-Article URL: https://www.agentid.com/blog/give-your-ai-agent-its-own-identity Comments URL: https://news.ycombinator.com/item?id=49954929 Points: 1 # Comments: 0
+Related: https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 13 # Comments: 1
 
-📖 [Read original article](https://www.agentid.com/blog/give-your-ai-agent-its-own-identity)
+📖 [Read original article](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
 
 ---
 
-## 8. Show HN: Bearbits – AI copilot that helps during meetings instead of only after
+## 8. Remove and Disable Apple Macos27 AI Models Tool
 
-**Author:** binauralskys  
-**Published:** 10/4/2026, 3:35:04 PM  
+**Author:** privacyisntdead  
+**Published:** 10/4/2026, 7:42:25 PM  
 **Categories:** -  
 
-I built this app mainly for myself and my wife. We both work in consulting and have tons of meetings every week. I had tried many of the existing meeting copilots but never found something that actually fulfilled what I wanted. Mainly, I wanted to be able to see in real time what's being said, irres...
+Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 72 # Comments: 32
 
-📖 [Read original article](https://bearbits.io/)
+📖 [Read original article](https://github.com/omlahore/RemoveMacAI)
 
 ---
 
-## 9. RuneScape's Position on Gen AI
+## 9. Project is co-curated with AI
 
-**Author:** cautiouscat  
-**Published:** 10/4/2026, 3:29:14 PM  
+**Author:** vesterde  
+**Published:** 10/4/2026, 7:35:24 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/ Comments URL: https://news.ycombinator.com/item?id=49954745 Points: 12 # Comments: 18
+Article URL: https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49957059 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/)
+📖 [Read original article](https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/)
 
 ---
 
-## 10. Agent Commons Playground, a place where AI agents find each other and play
+## 10. Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app
 
-**Author:** Seth-Pendless  
-**Published:** 10/4/2026, 3:21:43 PM  
+**Author:** davidoh  
+**Published:** 10/4/2026, 7:29:28 PM  
 **Categories:** -  
 
-Article URL: https://quick-mango-eb3d.here.now/ Comments URL: https://news.ycombinator.com/item?id=49954675 Points: 1 # Comments: 0
+Article URL: https://www.finebytes.com/mfr/ Comments URL: https://news.ycombinator.com/item?id=49957017 Points: 2 # Comments: 0
 
-📖 [Read original article](https://quick-mango-eb3d.here.now/)
+📖 [Read original article](https://www.finebytes.com/mfr/)
 
 ---
 
-## 11. Opposing AI Under Capitalism
+## 11. Big Bad Wolf: AI doesn't break security, it reprices it
 
-**Author:** dopple  
-**Published:** 10/4/2026, 2:59:25 PM  
+**Author:** salivan_421  
+**Published:** 10/4/2026, 7:28:10 PM  
 **Categories:** -  
 
-Article URL: https://efturnip.substack.com/p/opposing-ai-under-capitalism Comments URL: https://news.ycombinator.com/item?id=49954476 Points: 3 # Comments: 1
+Article URL: https://salivan.substack.com/p/big-bad-wolf Comments URL: https://news.ycombinator.com/item?id=49957005 Points: 1 # Comments: 0
 
-📖 [Read original article](https://efturnip.substack.com/p/opposing-ai-under-capitalism)
+📖 [Read original article](https://salivan.substack.com/p/big-bad-wolf)
 
 ---
 
-## 12. AI Is Now Si: Super Intelligence Isn't Superior
+## 12. Show HN: Ranking the most AI agent friendly tools
 
-**Author:** tejaskumar_  
-**Published:** 10/4/2026, 2:56:12 PM  
+**Author:** zerocool86  
+**Published:** 10/4/2026, 7:09:49 PM  
 **Categories:** -  
 
-Article URL: https://tej.as/blog/super-intelligence-isnt-superior Comments URL: https://news.ycombinator.com/item?id=49954452 Points: 2 # Comments: 0
+Article URL: https://www.anchorterminal.com/tools/ Comments URL: https://news.ycombinator.com/item?id=49956865 Points: 2 # Comments: 0
 
-📖 [Read original article](https://tej.as/blog/super-intelligence-isnt-superior)
+📖 [Read original article](https://www.anchorterminal.com/tools/)
 
 ---
 
-## 13. Show HN: The first ever competition of AI personal agents on the internet
+## 13. Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace tech
 
-**Author:** ddaniel10  
-**Published:** 10/4/2026, 2:48:09 PM  
+**Author:** penskymaterial  
+**Published:** 10/4/2026, 7:01:34 PM  
 **Categories:** -  
 
-I'm starting the first competition of AI personal agents on the internet in the next few days.When you join the challenge the agent creates for you bitcoin wallet and connect you to instapath mailbox.The competition consists of a fews days of challenges that spread across the internet. It will be fu...
+Article URL: https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology Comments URL: https://news.ycombinator.com/item?id=49956796 Points: 1 # Comments: 0
 
-📖 [Read original article](https://instapath.ai/personal-agent-challenge)
+📖 [Read original article](https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology)
 
 ---
 
-## 14. Scumble – an open-source desktop editor for AI inpainting
+## 14. Explainer videos and product demos made by your AI agent. Free and open source
 
-**Author:** denrakeiw  
-**Published:** 10/4/2026, 2:42:42 PM  
+**Author:** thunderbong  
+**Published:** 10/4/2026, 6:24:39 PM  
 **Categories:** -  
 
-Article URL: https://github.com/DenRakEiw/scumble Comments URL: https://news.ycombinator.com/item?id=49954339 Points: 1 # Comments: 0
+Article URL: https://github.com/vincentsch/explainroo Comments URL: https://news.ycombinator.com/item?id=49956470 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/DenRakEiw/scumble)
+📖 [Read original article](https://github.com/vincentsch/explainroo)
 
 ---
 
-## 15. The AI Pascal's Wager
+## 15. Is Russia using AI for disinformation in CAR?
 
-**Author:** latexr  
-**Published:** 10/4/2026, 2:30:28 PM  
+**Author:** devonnull  
+**Published:** 10/4/2026, 6:04:24 PM  
 **Categories:** -  
 
-Article URL: https://ploum.net/2026-10-01-pascal_wager.html Comments URL: https://news.ycombinator.com/item?id=49954260 Points: 3 # Comments: 0
+Article URL: https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947 Comments URL: https://news.ycombinator.com/item?id=49956275 Points: 8 # Comments: 1
 
-📖 [Read original article](https://ploum.net/2026-10-01-pascal_wager.html)
+📖 [Read original article](https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947)
 
 ---
 
-## 16. Run Osier to track how your AI coding agent does
+## 16. We Won't Know the Answers to AI's Most Important Questions Until It's Too Late
 
-**Author:** mdstrobe  
-**Published:** 10/4/2026, 2:22:05 PM  
+**Author:** sciurus  
+**Published:** 10/4/2026, 5:55:10 PM  
 **Categories:** -  
 
-Article URL: https://www.npmjs.com/package/osier-dev Comments URL: https://news.ycombinator.com/item?id=49954178 Points: 1 # Comments: 0
+Article URL: https://time.com/article/2026/10/03/we-won-t-know-the-answers-to-ai-s-most-important-questions-until-its-too-late/ Comments URL: https://news.ycombinator.com/item?id=49956187 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.npmjs.com/package/osier-dev)
+📖 [Read original article](https://time.com/article/2026/10/03/we-won-t-know-the-answers-to-ai-s-most-important-questions-until-its-too-late/)
 
 ---
 
-## 17. Why Linux is picking up at a rapid pace for AI usage?
+## 17. Top 50 AI researchers by citations
 
-**Author:** keshwanianup  
-**Published:** 10/4/2026, 2:21:01 PM  
+**Author:** ksdk  
+**Published:** 10/4/2026, 5:49:27 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49954166 Points: 4 # Comments: 6
+Article URL: https://www.turingtree.com/top-50 Comments URL: https://news.ycombinator.com/item?id=49956114 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49954166)
+📖 [Read original article](https://www.turingtree.com/top-50)
 
 ---
 
-## 18. The first ever competition of AI personal agents on the internet is kicking off
+## 18. Powerful open model is set to shake up AI race
 
-**Author:** ddaniel10  
-**Published:** 10/4/2026, 2:14:40 PM  
+**Author:** samizdis  
+**Published:** 10/4/2026, 5:28:16 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/ddaniel3141/status/2106748777826529457 Comments URL: https://news.ycombinator.com/item?id=49954107 Points: 2 # Comments: 0
+Article URL: https://www.axios.com/2026/10/04/reflection-open-weight-ai Comments URL: https://news.ycombinator.com/item?id=49955908 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/ddaniel3141/status/2106748777826529457)
+📖 [Read original article](https://www.axios.com/2026/10/04/reflection-open-weight-ai)
 
 ---
 
-## 19. AI Makes Me Happy
+## 19. Docent- An Open Source Private AI assistant in your terminal
 
-**Author:** devinprater  
-**Published:** 10/4/2026, 2:14:23 PM  
+**Author:** mehfuzh  
+**Published:** 10/4/2026, 5:24:12 PM  
 **Categories:** -  
 
-Article URL: https://devinprater.substack.com/p/ai-makes-me-happy Comments URL: https://news.ycombinator.com/item?id=49954103 Points: 1 # Comments: 0
+Article URL: https://github.com/smartloop-ai/docent Comments URL: https://news.ycombinator.com/item?id=49955858 Points: 1 # Comments: 1
 
-📖 [Read original article](https://devinprater.substack.com/p/ai-makes-me-happy)
+📖 [Read original article](https://github.com/smartloop-ai/docent)
 
 ---
 
-## 20. Trump names national intelligence director Jay Clayton to lead new AI task force
+## 20. What I learnt co-leading an AI Safety bootcamp for legal and governance practit
 
-**Author:** pluc  
-**Published:** 10/4/2026, 1:52:50 PM  
+**Author:** joozio  
+**Published:** 10/4/2026, 5:21:26 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/trump-jay-clayton-artificial-intelligence-task-force-b8689ea07de9102a52bd1cd2049b5901 Comments URL: https://news.ycombinator.com/item?id=49953962 Points: 4 # Comments: 0
+Article URL: https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and Comments URL: https://news.ycombinator.com/item?id=49955839 Points: 21 # Comments: 20
 
-📖 [Read original article](https://apnews.com/article/trump-jay-clayton-artificial-intelligence-task-force-b8689ea07de9102a52bd1cd2049b5901)
+📖 [Read original article](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and)
 
 ---
