@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Asia-Pacific Journal Series – Introduction: Military AI Has Left the Laboratory
+## 1. Gemini app limiting what models free and AI Plus users can access
 
-**Author:** snarky-comments  
-**Published:** 10/4/2026, 11:39:21 AM  
+**Author:** ilamont  
+**Published:** 10/4/2026, 4:32:21 PM  
 **Categories:** -  
 
-Article URL: https://lieber.westpoint.edu/asia-pacific-ai-series-introduction-military-ai-has-left-laboratory/ Comments URL: https://news.ycombinator.com/item?id=49952994 Points: 1 # Comments: 0
+Article URL: https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/ Comments URL: https://news.ycombinator.com/item?id=49955364 Points: 1 # Comments: 0
 
-📖 [Read original article](https://lieber.westpoint.edu/asia-pacific-ai-series-introduction-military-ai-has-left-laboratory/)
+📖 [Read original article](https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/)
 
 ---
 
-## 2. The Mythology of Conscious AI
+## 2. Cloud Waste Hits 29% as AI Spend Ends 5-Year Drop (2026)
 
-**Author:** Anon84  
-**Published:** 10/4/2026, 11:38:46 AM  
+**Author:** imshaikot  
+**Published:** 10/4/2026, 4:24:32 PM  
 **Categories:** -  
 
-Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=49952991 Points: 1 # Comments: 0
+Article URL: https://shattered.io/cloud-waste-29-percent-ai-spending-2026/ Comments URL: https://news.ycombinator.com/item?id=49955291 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.noemamag.com/the-mythology-of-conscious-ai/)
+📖 [Read original article](https://shattered.io/cloud-waste-29-percent-ai-spending-2026/)
 
 ---
 
-## 3. MentaAgent – a self-hosted AI analyst for a company's own files
+## 3. AI Czar Named
 
-**Author:** kdaniel_03  
-**Published:** 10/4/2026, 11:06:39 AM  
+**Author:** patrickwdaly  
+**Published:** 10/4/2026, 4:16:20 PM  
 **Categories:** -  
 
-Article URL: https://github.com/DanielKim03/mentaagent Comments URL: https://news.ycombinator.com/item?id=49952810 Points: 2 # Comments: 0
+Article URL: https://www.politico.com/news/2026/10/04/jay-clayton-ai-trump-01106137 Comments URL: https://news.ycombinator.com/item?id=49955214 Points: 3 # Comments: 1
 
-📖 [Read original article](https://github.com/DanielKim03/mentaagent)
+📖 [Read original article](https://www.politico.com/news/2026/10/04/jay-clayton-ai-trump-01106137)
 
 ---
 
-## 4. The ML4Good Technical AI Safety Bootcamp: What to Expect
+## 4. Do Not Trust, Continuously Verify (Your AI Agents)
 
-**Author:** joozio  
-**Published:** 10/4/2026, 11:04:14 AM  
+**Author:** Bender  
+**Published:** 10/4/2026, 4:06:14 PM  
 **Categories:** -  
 
-Article URL: https://www.lesswrong.com/posts/a7Lds5i5rfEE2doFa/inside-the-ml4good-technical-ai-safety-bootcamp-what-to-1 Comments URL: https://news.ycombinator.com/item?id=49952800 Points: 1 # Comments: 0
+Article URL: https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/ Comments URL: https://news.ycombinator.com/item?id=49955108 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.lesswrong.com/posts/a7Lds5i5rfEE2doFa/inside-the-ml4good-technical-ai-safety-bootcamp-what-to-1)
+📖 [Read original article](https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/)
 
 ---
 
-## 5. AI Policy Enforcement Report
+## 5. Apple says it's tightening macOS privacy controls amid the rise of AI agents
 
-**Author:** based2  
-**Published:** 10/4/2026, 10:55:01 AM  
+**Author:** chanux  
+**Published:** 10/4/2026, 4:02:07 PM  
 **Categories:** -  
 
-Article URL: https://delinea.com/resources/ai-policy-enforcement-report Comments URL: https://news.ycombinator.com/item?id=49952749 Points: 1 # Comments: 0
+Article URL: https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49955068 Points: 1 # Comments: 2
 
-📖 [Read original article](https://delinea.com/resources/ai-policy-enforcement-report)
+📖 [Read original article](https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/)
 
 ---
 
-## 6. [No] Use for Humans in the Age of AI
+## 6. Design Systems for AI Agents
 
-**Author:** Suor  
-**Published:** 10/4/2026, 10:53:01 AM  
+**Author:** mooreds  
+**Published:** 10/4/2026, 3:55:03 PM  
 **Categories:** -  
 
-Article URL: https://blog.hackflow.ru/blog/2026/10/04/ai-balance-of-power/ Comments URL: https://news.ycombinator.com/item?id=49952728 Points: 2 # Comments: 0
+Article URL: https://www.lukew.com/ff/2164/design-systems-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=49955000 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.hackflow.ru/blog/2026/10/04/ai-balance-of-power/)
+📖 [Read original article](https://www.lukew.com/ff/2164/design-systems-for-ai-agents)
 
 ---
 
-## 7. Show HN: ViralReel – Make the viral Hotel Lobby AI template video in 60 seconds
+## 7. Give Your AI Agent Its Own Identity
 
-**Author:** kevinnzheng  
-**Published:** 10/4/2026, 10:21:56 AM  
+**Author:** mooreds  
+**Published:** 10/4/2026, 3:48:13 PM  
 **Categories:** -  
 
-Hotel lobby AI template: upload two photos, star in the viral orange-booth video in 60 seconds. Auto lip-sync, gestures and lighting for couples, pets, babies. Comments URL: https://news.ycombinator.com/item?id=49952515 Points: 1 # Comments: 0
+Article URL: https://www.agentid.com/blog/give-your-ai-agent-its-own-identity Comments URL: https://news.ycombinator.com/item?id=49954929 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.viralreel.app/)
+📖 [Read original article](https://www.agentid.com/blog/give-your-ai-agent-its-own-identity)
 
 ---
 
-## 8. Show HN: Telegram AI Video Generator – Create AI Videos in Chat
+## 8. Show HN: Bearbits – AI copilot that helps during meetings instead of only after
 
-**Author:** henryjin76  
-**Published:** 10/4/2026, 10:19:12 AM  
+**Author:** binauralskys  
+**Published:** 10/4/2026, 3:35:04 PM  
 **Categories:** -  
 
-A Telegram bot that generates AI videos from text prompts or images. Supports 8 top models including Kling, Runway, Seedance, Veo, Wan, Hailuo, MiniMax, and Grok. No desktop software needed - just chat with the bot and get videos in seconds. Comments URL: https://news.ycombinator.com/item?id=4995248...
+I built this app mainly for myself and my wife. We both work in consulting and have tons of meetings every week. I had tried many of the existing meeting copilots but never found something that actually fulfilled what I wanted. Mainly, I wanted to be able to see in real time what's being said, irres...
 
-📖 [Read original article](https://videoall.ai/telegram-ai-video-generator)
+📖 [Read original article](https://bearbits.io/)
 
 ---
 
-## 9. NIST AI SEC Core
+## 9. RuneScape's Position on Gen AI
 
-**Author:** based2  
-**Published:** 10/4/2026, 9:37:41 AM  
+**Author:** cautiouscat  
+**Published:** 10/4/2026, 3:29:14 PM  
 **Categories:** -  
 
-Article URL: https://airc.nist.gov/airmf-resources/airmf/5-sec-core/ Comments URL: https://news.ycombinator.com/item?id=49952190 Points: 1 # Comments: 0
+Article URL: https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/ Comments URL: https://news.ycombinator.com/item?id=49954745 Points: 12 # Comments: 18
 
-📖 [Read original article](https://airc.nist.gov/airmf-resources/airmf/5-sec-core/)
+📖 [Read original article](https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/)
 
 ---
 
-## 10. EU Enforcement AI Act
+## 10. Agent Commons Playground, a place where AI agents find each other and play
 
-**Author:** based2  
-**Published:** 10/4/2026, 9:36:32 AM  
+**Author:** Seth-Pendless  
+**Published:** 10/4/2026, 3:21:43 PM  
 **Categories:** -  
 
-Article URL: https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act Comments URL: https://news.ycombinator.com/item?id=49952181 Points: 3 # Comments: 1
+Article URL: https://quick-mango-eb3d.here.now/ Comments URL: https://news.ycombinator.com/item?id=49954675 Points: 1 # Comments: 0
 
-📖 [Read original article](https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act)
+📖 [Read original article](https://quick-mango-eb3d.here.now/)
 
 ---
 
-## 11. Show HN: AI search for every photo and every frame of video on macOS
+## 11. Opposing AI Under Capitalism
 
-**Author:** allenleee  
-**Published:** 10/4/2026, 9:24:52 AM  
+**Author:** dopple  
+**Published:** 10/4/2026, 2:59:25 PM  
 **Categories:** -  
 
-Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 3 # Comments: 0
+Article URL: https://efturnip.substack.com/p/opposing-ai-under-capitalism Comments URL: https://news.ycombinator.com/item?id=49954476 Points: 3 # Comments: 1
 
-📖 [Read original article](https://github.com/allenv0/SCM)
+📖 [Read original article](https://efturnip.substack.com/p/opposing-ai-under-capitalism)
 
 ---
 
-## 12. AI, Desire, and Fictional Characters
+## 12. AI Is Now Si: Super Intelligence Isn't Superior
 
-**Author:** BerislavLopac  
-**Published:** 10/4/2026, 8:45:05 AM  
+**Author:** tejaskumar_  
+**Published:** 10/4/2026, 2:56:12 PM  
 **Categories:** -  
 
-Article URL: https://endsdontjustifythemeans.com/p/on-ai-desire-and-fictional-characters Comments URL: https://news.ycombinator.com/item?id=49951918 Points: 1 # Comments: 0
+Article URL: https://tej.as/blog/super-intelligence-isnt-superior Comments URL: https://news.ycombinator.com/item?id=49954452 Points: 2 # Comments: 0
 
-📖 [Read original article](https://endsdontjustifythemeans.com/p/on-ai-desire-and-fictional-characters)
+📖 [Read original article](https://tej.as/blog/super-intelligence-isnt-superior)
 
 ---
 
-## 13. AI as Normal Technology (2025)
+## 13. Show HN: The first ever competition of AI personal agents on the internet
 
-**Author:** BerislavLopac  
-**Published:** 10/4/2026, 8:44:48 AM  
+**Author:** ddaniel10  
+**Published:** 10/4/2026, 2:48:09 PM  
 **Categories:** -  
 
-Article URL: https://knightcolumbia.org/content/ai-as-normal-technology Comments URL: https://news.ycombinator.com/item?id=49951916 Points: 2 # Comments: 0
+I'm starting the first competition of AI personal agents on the internet in the next few days.When you join the challenge the agent creates for you bitcoin wallet and connect you to instapath mailbox.The competition consists of a fews days of challenges that spread across the internet. It will be fu...
 
-📖 [Read original article](https://knightcolumbia.org/content/ai-as-normal-technology)
+📖 [Read original article](https://instapath.ai/personal-agent-challenge)
 
 ---
 
-## 14. Aura – a self-hosted AI agent with temporal graph memory, written in Go
+## 14. Scumble – an open-source desktop editor for AI inpainting
 
-**Author:** chettto983  
-**Published:** 10/4/2026, 8:42:20 AM  
+**Author:** denrakeiw  
+**Published:** 10/4/2026, 2:42:42 PM  
 **Categories:** -  
 
-Article URL: https://github.com/chetto1983/Aura Comments URL: https://news.ycombinator.com/item?id=49951895 Points: 2 # Comments: 0
+Article URL: https://github.com/DenRakEiw/scumble Comments URL: https://news.ycombinator.com/item?id=49954339 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/chetto1983/Aura)
+📖 [Read original article](https://github.com/DenRakEiw/scumble)
 
 ---
 
-## 15. How to scale intent, quality, and artistry with AI [video]
+## 15. The AI Pascal's Wager
 
-**Author:** simonjgreen  
-**Published:** 10/4/2026, 8:41:58 AM  
+**Author:** latexr  
+**Published:** 10/4/2026, 2:30:28 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 3 # Comments: 1
+Article URL: https://ploum.net/2026-10-01-pascal_wager.html Comments URL: https://news.ycombinator.com/item?id=49954260 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=GLvFTMtw4Jk)
+📖 [Read original article](https://ploum.net/2026-10-01-pascal_wager.html)
 
 ---
 
-## 16. Impact of AI Search Summaries on Website Traffic
+## 16. Run Osier to track how your AI coding agent does
 
-**Author:** geox  
-**Published:** 10/4/2026, 8:40:59 AM  
+**Author:** mdstrobe  
+**Published:** 10/4/2026, 2:22:05 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2602.18455 Comments URL: https://news.ycombinator.com/item?id=49951888 Points: 3 # Comments: 1
+Article URL: https://www.npmjs.com/package/osier-dev Comments URL: https://news.ycombinator.com/item?id=49954178 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2602.18455)
+📖 [Read original article](https://www.npmjs.com/package/osier-dev)
 
 ---
 
-## 17. How does the AI and Agent Gateway market will shape up going forward
+## 17. Why Linux is picking up at a rapid pace for AI usage?
 
-**Author:** sameerdeshmukh  
-**Published:** 10/4/2026, 8:39:15 AM  
+**Author:** keshwanianup  
+**Published:** 10/4/2026, 2:21:01 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49951873 Points: 1 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=49954166 Points: 4 # Comments: 6
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49951873)
+📖 [Read original article](https://news.ycombinator.com/item?id=49954166)
 
 ---
 
-## 18. AI Learning to Play Chess
+## 18. The first ever competition of AI personal agents on the internet is kicking off
 
-**Author:** porridgeraisin  
-**Published:** 10/4/2026, 8:08:34 AM  
+**Author:** ddaniel10  
+**Published:** 10/4/2026, 2:14:40 PM  
 **Categories:** -  
 
-Article URL: https://ailearningchess.ai-learning-chess.workers.dev/ Comments URL: https://news.ycombinator.com/item?id=49951733 Points: 1 # Comments: 1
+Article URL: https://twitter.com/ddaniel3141/status/2106748777826529457 Comments URL: https://news.ycombinator.com/item?id=49954107 Points: 2 # Comments: 0
 
-📖 [Read original article](https://ailearningchess.ai-learning-chess.workers.dev/)
+📖 [Read original article](https://twitter.com/ddaniel3141/status/2106748777826529457)
 
 ---
 
-## 19. IBM Debuts Brain-Inspired Chip for Speedy, Efficient AI (2023)
+## 19. AI Makes Me Happy
 
-**Author:** lioeters  
-**Published:** 10/4/2026, 8:07:54 AM  
+**Author:** devinprater  
+**Published:** 10/4/2026, 2:14:23 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/neuromorphic-computing-ibm-northpole Comments URL: https://news.ycombinator.com/item?id=49951729 Points: 1 # Comments: 0
+Article URL: https://devinprater.substack.com/p/ai-makes-me-happy Comments URL: https://news.ycombinator.com/item?id=49954103 Points: 1 # Comments: 0
 
-📖 [Read original article](https://spectrum.ieee.org/neuromorphic-computing-ibm-northpole)
+📖 [Read original article](https://devinprater.substack.com/p/ai-makes-me-happy)
 
 ---
 
-## 20. \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet
+## 20. Trump names national intelligence director Jay Clayton to lead new AI task force
 
-**Author:** airhangerf15  
-**Published:** 10/4/2026, 8:02:33 AM  
+**Author:** pluc  
+**Published:** 10/4/2026, 1:52:50 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/ Comments URL: https://news.ycombinator.com/item?id=49951684 Points: 32 # Comments: 57
+Article URL: https://apnews.com/article/trump-jay-clayton-artificial-intelligence-task-force-b8689ea07de9102a52bd1cd2049b5901 Comments URL: https://news.ycombinator.com/item?id=49953962 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/)
+📖 [Read original article](https://apnews.com/article/trump-jay-clayton-artificial-intelligence-task-force-b8689ea07de9102a52bd1cd2049b5901)
 
 ---
