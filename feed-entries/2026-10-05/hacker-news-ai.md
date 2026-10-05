@@ -2,227 +2,251 @@
 title: "Hacker News AI - 2026-10-05"
 date: "2026-10-05"
 source: "Hacker News AI"
-count: 18
+count: 20
 ---
 
 # Hacker News AI - 2026-10-05
 
-18 items collected.
+20 items collected.
 
 ---
 
-## 1. The AI industry is booming. Women are getting left behind
+## 1. Design Systems for AI Agents (Luke Wroblewski)
 
-**Author:** shadow28  
-**Published:** 10/5/2026, 4:36:50 AM  
+**Author:** bpierre  
+**Published:** 10/5/2026, 11:39:08 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality Comments URL: https://news.ycombinator.com/item?id=49960725 Points: 1 # Comments: 0
+Article URL: https://www.lukew.com/ff/2164/design-systems-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=49972245 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality)
+📖 [Read original article](https://www.lukew.com/ff/2164/design-systems-for-ai-agents)
 
 ---
 
-## 2. Paid.Expert – discover paid expert gigs for training AI
+## 2. Ask HN: Are there AI models for generating sounds based on a text and reference?
 
-**Author:** paid_dot_expert  
-**Published:** 10/5/2026, 4:32:25 AM  
+**Author:** onemiketwelve  
+**Published:** 10/5/2026, 11:24:44 PM  
 **Categories:** -  
 
-Article URL: https://paid.expert Comments URL: https://news.ycombinator.com/item?id=49960705 Points: 1 # Comments: 0
+I've been having a hard time finding a solution. Is there really no commercialized model that I can feed in a reference sound and text instruction and get another sound out?Right now having a multimodal inputs to image or text output is a commodotized, solved problem. IE you can put a prompt for som...
 
-📖 [Read original article](https://paid.expert)
+📖 [Read original article](https://news.ycombinator.com/item?id=49972125)
 
 ---
 
-## 3. The AI Safety community is unfortunately doing more harm than good
+## 3. Nova Sprint. Coordinate AI sprints across multiple models and harnesses
 
-**Author:** gmays  
-**Published:** 10/5/2026, 3:35:54 AM  
+**Author:** gafferongames  
+**Published:** 10/5/2026, 11:03:46 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/knowerofmarkets/status/2105330652732125602 Comments URL: https://news.ycombinator.com/item?id=49960418 Points: 2 # Comments: 1
+Article URL: https://github.com/mas-bandwidth/nova-sprint Comments URL: https://news.ycombinator.com/item?id=49971987 Points: 2 # Comments: 2
 
-📖 [Read original article](https://twitter.com/knowerofmarkets/status/2105330652732125602)
+📖 [Read original article](https://github.com/mas-bandwidth/nova-sprint)
 
 ---
 
-## 4. Postgres: Are we reverting patches because of bugs found by AI?
+## 4. I'm building a personal AI computer startup in Mumbai
 
-**Author:** Shorn  
-**Published:** 10/5/2026, 3:27:36 AM  
+**Author:** testingsaket  
+**Published:** 10/5/2026, 10:47:22 PM  
 **Categories:** -  
 
-Article URL: https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/ Comments URL: https://news.ycombinator.com/item?id=49960374 Points: 1 # Comments: 0
+Article URL: https://x.com/gfaang97609 Comments URL: https://news.ycombinator.com/item?id=49971850 Points: 2 # Comments: 0
 
-📖 [Read original article](https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/)
+📖 [Read original article](https://x.com/gfaang97609)
 
 ---
 
-## 5. How is your country doing on \"AI inside Drones\"?
+## 5. It's a Plan – issue tracker where people and AI agents ship together
 
-**Author:** laumer  
-**Published:** 10/5/2026, 3:24:47 AM  
+**Author:** throwaway888abc  
+**Published:** 10/5/2026, 10:05:17 PM  
 **Categories:** -  
 
-Article URL: https://dronegpt.ai/ Comments URL: https://news.ycombinator.com/item?id=49960355 Points: 1 # Comments: 1
+Article URL: https://itsaplan.dev Comments URL: https://news.ycombinator.com/item?id=49971516 Points: 1 # Comments: 0
 
-📖 [Read original article](https://dronegpt.ai/)
+📖 [Read original article](https://itsaplan.dev)
 
 ---
 
-## 6. Calling AI 'other intelligence' better describes the advent of a new lifeform
+## 6. Give Your AI Agent a Domain-Specific Language
 
-**Author:** jyhrow  
-**Published:** 10/5/2026, 3:23:12 AM  
+**Author:** lhh  
+**Published:** 10/5/2026, 10:05:15 PM  
 **Categories:** -  
 
-Article URL: https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762 Comments URL: https://news.ycombinator.com/item?id=49960347 Points: 2 # Comments: 4
+Article URL: https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl Comments URL: https://news.ycombinator.com/item?id=49971515 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762)
+📖 [Read original article](https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl)
 
 ---
 
-## 7. Turbomail.ai – AI email that lives on your device, not theirs
+## 7. Show HN: The mainbrella effect – AI code / Agent machines
 
-**Author:** namanpundir  
-**Published:** 10/5/2026, 2:46:03 AM  
+**Author:** cs1996  
+**Published:** 10/5/2026, 10:04:23 PM  
 **Categories:** -  
 
-Article URL: https://turbomail.ai/ Comments URL: https://news.ycombinator.com/item?id=49960162 Points: 1 # Comments: 0
+Hi, my name is Andrew and I'm the founder of mainbrella co. Just a few days ago Cloudflare launched their container sandbox service. That inspired me to see what I could build in terms of a better e2b.dev or daytona.io type system. It is all open source GPL 3.0 and we offer the same services as the ...
 
-📖 [Read original article](https://turbomail.ai/)
+📖 [Read original article](https://news.ycombinator.com/item?id=49971503)
 
 ---
 
-## 8. OptChat: An endless chat where the AI remembers everything
+## 8. Fixer, financier, spymaster: UAE's Sheikh Tahnoon setting sights on AI dominance
 
-**Author:** simonpure  
-**Published:** 10/5/2026, 2:44:17 AM  
+**Author:** pluc  
+**Published:** 10/5/2026, 9:57:12 PM  
 **Categories:** -  
 
-Article URL: https://gist.github.com/VictorTaelin/91837951a5ce5b38f341ec1ba1df6449 Comments URL: https://news.ycombinator.com/item?id=49960158 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/news/ng-interactive/2026/oct/01/fixer-financier-spymaster-how-the-uaes-sheikh-tahnoon-is-setting-his-sights-on-ai-dominance Comments URL: https://news.ycombinator.com/item?id=49971426 Points: 1 # Comments: 0
 
-📖 [Read original article](https://gist.github.com/VictorTaelin/91837951a5ce5b38f341ec1ba1df6449)
+📖 [Read original article](https://www.theguardian.com/news/ng-interactive/2026/oct/01/fixer-financier-spymaster-how-the-uaes-sheikh-tahnoon-is-setting-his-sights-on-ai-dominance)
 
 ---
 
-## 9. Building a new path to make medicines with AI
+## 9. Top Consumer AI Apps
 
-**Author:** codeplay  
-**Published:** 10/5/2026, 2:32:27 AM  
+**Author:** svobodamartin  
+**Published:** 10/5/2026, 9:33:12 PM  
 **Categories:** -  
 
-Article URL: https://www.isomorphiclabs.com/articles/building-a-new-path-to-make-medicines-with-ai Comments URL: https://news.ycombinator.com/item?id=49960090 Points: 1 # Comments: 0
+Article URL: https://www.a16z.news/p/top-100-consumer-ai-apps-seventh Comments URL: https://news.ycombinator.com/item?id=49971117 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.isomorphiclabs.com/articles/building-a-new-path-to-make-medicines-with-ai)
+📖 [Read original article](https://www.a16z.news/p/top-100-consumer-ai-apps-seventh)
 
 ---
 
-## 10. BanProof – AI that scans TikTok Shop videos for violation points before you post
+## 10. Testing AI on Real-World Tasks
 
-**Author:** Pratham3690  
-**Published:** 10/5/2026, 2:12:19 AM  
+**Author:** doener  
+**Published:** 10/5/2026, 9:10:49 PM  
 **Categories:** -  
 
-Article URL: https://banproof.io/ Comments URL: https://news.ycombinator.com/item?id=49959954 Points: 1 # Comments: 0
+Article URL: https://www.vals.ai/home Comments URL: https://news.ycombinator.com/item?id=49970806 Points: 3 # Comments: 0
 
-📖 [Read original article](https://banproof.io/)
+📖 [Read original article](https://www.vals.ai/home)
 
 ---
 
-## 11. My New Course at UT Austin: AI Alignment Theory
+## 11. Agility: Build Software at AI Speed
 
-**Author:** magoghm  
-**Published:** 10/5/2026, 2:04:11 AM  
+**Author:** doener  
+**Published:** 10/5/2026, 9:06:56 PM  
 **Categories:** -  
 
-Article URL: https://scottaaronson.blog/?p=10125 Comments URL: https://news.ycombinator.com/item?id=49959916 Points: 5 # Comments: 1
+Article URL: https://www.agilityio.com Comments URL: https://news.ycombinator.com/item?id=49970747 Points: 1 # Comments: 0
 
-📖 [Read original article](https://scottaaronson.blog/?p=10125)
+📖 [Read original article](https://www.agilityio.com)
 
 ---
 
-## 12. Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)
+## 12. Lighthouse Legal – Voice AI for personal injury intake
 
-**Author:** moching_ai_dev  
-**Published:** 10/5/2026, 2:00:19 AM  
+**Author:** fkodom  
+**Published:** 10/5/2026, 8:37:40 PM  
 **Categories:** -  
 
-Article URL: https://github.com/moching-ai-dev/moching Comments URL: https://news.ycombinator.com/item?id=49959897 Points: 1 # Comments: 1
+Article URL: https://www.lighthouselegal.ai/ Comments URL: https://news.ycombinator.com/item?id=49970343 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/moching-ai-dev/moching)
+📖 [Read original article](https://www.lighthouselegal.ai/)
 
 ---
 
-## 13. L402 edge cache for AI agents paying over Lightning
+## 13. Free AI Construction Estimating in the Web
 
-**Author:** CharlesRStrogis  
-**Published:** 10/5/2026, 1:29:00 AM  
+**Author:** reverseforward  
+**Published:** 10/5/2026, 8:32:19 PM  
 **Categories:** -  
 
-Article URL: https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp Comments URL: https://news.ycombinator.com/item?id=49959733 Points: 1 # Comments: 0
+Article URL: https://www.supadocs.app/ Comments URL: https://news.ycombinator.com/item?id=49970275 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp)
+📖 [Read original article](https://www.supadocs.app/)
 
 ---
 
-## 14. Primitives for Sane Conversation About AI
+## 14. Ask HN: Feedback regarding my AI setup
 
-**Author:** colingauvin  
-**Published:** 10/5/2026, 1:13:27 AM  
+**Author:** seifbenayed1992  
+**Published:** 10/5/2026, 8:22:38 PM  
 **Categories:** -  
 
-Article URL: https://humanparadox.org/primitives-for-sane-conversation-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49959663 Points: 1 # Comments: 0
+Article URL: https://claude.ai/artifact/YVmnQojHNnSmijpVRtZ4xe Comments URL: https://news.ycombinator.com/item?id=49970144 Points: 2 # Comments: 0
 
-📖 [Read original article](https://humanparadox.org/primitives-for-sane-conversation-about-ai/)
+📖 [Read original article](https://claude.ai/artifact/YVmnQojHNnSmijpVRtZ4xe)
 
 ---
 
-## 15. Fix Your AI Slop Problem by Giving Reviewers Credit
+## 15. Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent
 
-**Author:** sambellll  
-**Published:** 10/5/2026, 1:06:07 AM  
+**Author:** tanmay007  
+**Published:** 10/5/2026, 8:11:08 PM  
 **Categories:** -  
 
-Article URL: https://danunparsed.com/p/giving-code-reviewers-credit Comments URL: https://news.ycombinator.com/item?id=49959618 Points: 1 # Comments: 0
+Halo is privacy focused personal assistant for iOS that uses a custom built agent harness with support to use you existing LLM subscriptions, Wiki based memory system backed by on-device RAG, a full-fledged local browser agent, chat with generative UI and more.TLDR: It's a better version of Hermes/O...
 
-📖 [Read original article](https://danunparsed.com/p/giving-code-reviewers-credit)
+📖 [Read original article](https://apps.apple.com/us/app/halo-personal-ai/id6783715054)
 
 ---
 
-## 16. Military AI and autonomous systems: views in The Strategist
+## 16. Pentagon stops using Anthropic AI tools after blacklisting company, BBC told
 
-**Author:** snarky-comments  
-**Published:** 10/5/2026, 12:38:47 AM  
+**Author:** sbulaev  
+**Published:** 10/5/2026, 8:07:10 PM  
 **Categories:** -  
 
-Article URL: https://www.aspistrategist.org.au/military-ai-and-autonomous-systems-views-in-the-strategist/ Comments URL: https://news.ycombinator.com/item?id=49959499 Points: 2 # Comments: 0
+Article URL: https://www.bbc.co.uk/news/articles/c5j9x9pr0240o Comments URL: https://news.ycombinator.com/item?id=49969929 Points: 8 # Comments: 0
 
-📖 [Read original article](https://www.aspistrategist.org.au/military-ai-and-autonomous-systems-views-in-the-strategist/)
+📖 [Read original article](https://www.bbc.co.uk/news/articles/c5j9x9pr0240o)
 
 ---
 
-## 17. Can AI run an family/organization if so for who?
+## 17. Ghost.ai's new personal AI computer, Nvidia RTX PRO 4000 Blackwell
 
-**Author:** DeonRob  
-**Published:** 10/5/2026, 12:13:28 AM  
+**Author:** mccauley  
+**Published:** 10/5/2026, 7:50:02 PM  
 **Categories:** -  
 
-Article URL: https://cahootzcommons.com/blog/ai-can-run-an-organization-its-members-must-decide-who-the-organization-is-for Comments URL: https://news.ycombinator.com/item?id=49959325 Points: 1 # Comments: 2
+Article URL: https://twitter.com/zainmfj/status/2107146556176798081 Comments URL: https://news.ycombinator.com/item?id=49969707 Points: 1 # Comments: 0
 
-📖 [Read original article](https://cahootzcommons.com/blog/ai-can-run-an-organization-its-members-must-decide-who-the-organization-is-for)
+📖 [Read original article](https://twitter.com/zainmfj/status/2107146556176798081)
 
 ---
 
-## 18. Show HN: The Poteto Frontier for AI Agents
+## 18. Three AI models, same prompt, before and after a testing tool
 
-**Author:** transitivebs  
-**Published:** 10/5/2026, 12:03:12 AM  
+**Author:** lovesworking  
+**Published:** 10/5/2026, 7:49:10 PM  
 **Categories:** -  
 
-I made this lil meme app based on @poteto (lauren tan)'s amazing talk asking: how many agents do you generally have working on your behalf?her original talk: https://x.com/poteto/status/2102050467505430555source: https://github.com/transitive-bullshit/poteto-frontier Comments URL: https://news.ycomb...
+Article URL: https://buoy.gg/blog/ai-models-before-and-after-buoy Comments URL: https://news.ycombinator.com/item?id=49969692 Points: 1 # Comments: 0
 
-📖 [Read original article](https://poteto-frontier.vercel.app/)
+📖 [Read original article](https://buoy.gg/blog/ai-models-before-and-after-buoy)
+
+---
+
+## 19. AI nonprofit will spend $10M on journalism
+
+**Author:** SLHamlet  
+**Published:** 10/5/2026, 7:44:35 PM  
+**Categories:** -  
+
+Article URL: https://www.semafor.com/article/10/04/2026/ai-nonprofit-will-spend-10-million-on-journalism Comments URL: https://news.ycombinator.com/item?id=49969629 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.semafor.com/article/10/04/2026/ai-nonprofit-will-spend-10-million-on-journalism)
+
+---
+
+## 20. Reflection AI unveils an open-source Western answer to Chinese labs
+
+**Author:** CoryOndrejka  
+**Published:** 10/5/2026, 7:42:07 PM  
+**Categories:** -  
+
+Article URL: https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs Comments URL: https://news.ycombinator.com/item?id=49969590 Points: 4 # Comments: 2
+
+📖 [Read original article](https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs)
 
 ---
