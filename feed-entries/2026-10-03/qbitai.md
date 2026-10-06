@@ -2,12 +2,12 @@
 title: "qbitai - 2026-10-03"
 date: "2026-10-03"
 source: "qbitai"
-count: 3
+count: 1
 ---
 
 # qbitai - 2026-10-03
 
-3 items collected.
+1 items collected.
 
 ---
 
@@ -20,29 +20,5 @@ count: 3
 岗位JD甩了篇技术报告
 
 📖 [Read original article](https://www.qbitai.com/2026/10/501381.html)
-
----
-
-## 2. OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开
-
-**Author:** 衡宇  
-**Published:** 10/3/2026, 4:41:24 AM  
-**Categories:** 资讯, OpenAI安全团队  
-
-又咋啦。。。
-
-📖 [Read original article](https://www.qbitai.com/2026/10/501368.html)
-
----
-
-## 3. Jev估值100亿美元！创始人Diogo Almeida回答一切
-
-**Author:** 梦晨  
-**Published:** 10/3/2026, 2:38:19 AM  
-**Categories:** 资讯  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/10/500148.html)
 
 ---
