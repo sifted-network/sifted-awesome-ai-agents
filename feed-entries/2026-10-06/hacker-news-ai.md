@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Omnitwine – AI powered professional networking/LinkedIn alternative
+## 1. An Open Letter to Steven Pinker on AI
 
-**Author:** adjk  
-**Published:** 10/6/2026, 12:40:40 PM  
+**Author:** ad8e  
+**Published:** 10/6/2026, 10:19:38 PM  
 **Categories:** -  
 
-Article URL: https://omnitwine.com/ Comments URL: https://news.ycombinator.com/item?id=49977543 Points: 1 # Comments: 1
+Article URL: https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on Comments URL: https://news.ycombinator.com/item?id=49984947 Points: 1 # Comments: 0
 
-📖 [Read original article](https://omnitwine.com/)
+📖 [Read original article](https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on)
 
 ---
 
-## 2. How funny are the frontier AI models?
+## 2. Sharing AI Progress in Mathematics
 
-**Author:** paraschopra  
-**Published:** 10/6/2026, 12:38:10 PM  
+**Author:** OfficialTurkey  
+**Published:** 10/6/2026, 10:17:21 PM  
 **Categories:** -  
 
-Article URL: https://www.lesswrong.com/posts/oG53pJxkHgpL4Ny4d/how-funny-are-the-frontier-ai-models Comments URL: https://news.ycombinator.com/item?id=49977513 Points: 3 # Comments: 0
+Article URL: https://openai.com/index/sharing-ai-progress-in-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 14 # Comments: 2
 
-📖 [Read original article](https://www.lesswrong.com/posts/oG53pJxkHgpL4Ny4d/how-funny-are-the-frontier-ai-models)
+📖 [Read original article](https://openai.com/index/sharing-ai-progress-in-mathematics/)
 
 ---
 
-## 3. AI training of copyrighted material not fair use: Third Circuit
+## 3. Show HN: An AI agent runs ten web errands a day, every transcript published
 
-**Author:** donohoe  
-**Published:** 10/6/2026, 12:35:07 PM  
+**Author:** khalidsaidi  
+**Published:** 10/6/2026, 10:00:58 PM  
 **Categories:** -  
 
-Article URL: https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/ Comments URL: https://news.ycombinator.com/item?id=49977474 Points: 2 # Comments: 1
+Article URL: https://agentability.org/ Comments URL: https://news.ycombinator.com/item?id=49984736 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/)
+📖 [Read original article](https://agentability.org/)
 
 ---
 
-## 4. VMPal – Virtual Machines for Apple Silicon and AI Agents
+## 4. Penguin Mail – open-source Rust email client for Linux with AI
 
-**Author:** surrTurr  
-**Published:** 10/6/2026, 12:30:55 PM  
+**Author:** kavourias  
+**Published:** 10/6/2026, 9:59:43 PM  
 **Categories:** -  
 
-Article URL: https://vmpal.com/ Comments URL: https://news.ycombinator.com/item?id=49977434 Points: 1 # Comments: 0
+Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 3 # Comments: 0
 
-📖 [Read original article](https://vmpal.com/)
+📖 [Read original article](https://penguin-mail.com/)
 
 ---
 
-## 5. Liberty AI Project One
+## 5. AI is going to run out of power
 
-**Author:** JuliaLennon  
-**Published:** 10/6/2026, 12:20:53 PM  
+**Author:** 50kIters  
+**Published:** 10/6/2026, 9:52:26 PM  
 **Categories:** -  
 
-Article URL: https://github.com/julialennonofficial-art/LIBERTY-AI-PROJECT-ONE Comments URL: https://news.ycombinator.com/item?id=49977358 Points: 1 # Comments: 0
+Article URL: https://www.transformernews.ai/p/ai-will-run-out-of-power Comments URL: https://news.ycombinator.com/item?id=49984644 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/julialennonofficial-art/LIBERTY-AI-PROJECT-ONE)
+📖 [Read original article](https://www.transformernews.ai/p/ai-will-run-out-of-power)
 
 ---
 
-## 6. Monitoring an AI agent trains it to evade the monitor (100-day simulation)
+## 6. Sulcus – observe and control AI agents while they run
 
-**Author:** creator77  
-**Published:** 10/6/2026, 12:06:00 PM  
+**Author:** elariz_t  
+**Published:** 10/6/2026, 9:51:54 PM  
 **Categories:** -  
 
-Article URL: https://aixiv.science/abs/aixiv.261005.000003 Comments URL: https://news.ycombinator.com/item?id=49977252 Points: 1 # Comments: 0
+Article URL: https://sulcus.dev/ Comments URL: https://news.ycombinator.com/item?id=49984636 Points: 1 # Comments: 0
 
-📖 [Read original article](https://aixiv.science/abs/aixiv.261005.000003)
+📖 [Read original article](https://sulcus.dev/)
 
 ---
 
-## 7. Pure Math Research Ideas: AI X Physics
+## 7. Italian PM files to trademark her voice against AI threats
 
-**Author:** wapiou  
-**Published:** 10/6/2026, 11:59:52 AM  
+**Author:** cisc  
+**Published:** 10/6/2026, 9:50:09 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=49977191 Points: 1 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/ckly0g1ljq2yo Comments URL: https://news.ycombinator.com/item?id=49984617 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49977191)
+📖 [Read original article](https://www.bbc.com/news/articles/ckly0g1ljq2yo)
 
 ---
 
-## 8. Who's Ahead in the Global AI Talent Race?
+## 8. Meta open sources code to let you make Muse AI gadgets
 
-**Author:** ilreb  
-**Published:** 10/6/2026, 11:58:24 AM  
+**Author:** gmays  
+**Published:** 10/6/2026, 9:42:59 PM  
 **Categories:** -  
 
-Article URL: https://carnegieendowment.org/features/whos-ahead-in-the-global-ai-talent-race Comments URL: https://news.ycombinator.com/item?id=49977173 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link Comments URL: https://news.ycombinator.com/item?id=49984547 Points: 1 # Comments: 0
 
-📖 [Read original article](https://carnegieendowment.org/features/whos-ahead-in-the-global-ai-talent-race)
+📖 [Read original article](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link)
 
 ---
 
-## 9. Show HN: Golem – Zero-dependency, type-safe AI agent framework in pure Go
+## 9. Mistral unveils new AI model it says rivals best open systems from China
 
-**Author:** abubakarsiddik7  
-**Published:** 10/6/2026, 11:55:21 AM  
+**Author:** Gaishan  
+**Published:** 10/6/2026, 9:32:18 PM  
 **Categories:** -  
 
-Article URL: https://github.com/abubakarsiddik31/golem Comments URL: https://news.ycombinator.com/item?id=49977140 Points: 2 # Comments: 0
+Article URL: https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html Comments URL: https://news.ycombinator.com/item?id=49984444 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/abubakarsiddik31/golem)
+📖 [Read original article](https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html)
 
 ---
 
-## 10. Facehugging.ai
+## 10. Daniel Kokotajlo's senate testimony on AI risk [pdf]
 
-**Author:** jp0001  
-**Published:** 10/6/2026, 11:51:33 AM  
+**Author:** merksittich  
+**Published:** 10/6/2026, 9:10:51 PM  
 **Categories:** -  
 
-Article URL: https://facehugging.ai/ Comments URL: https://news.ycombinator.com/item?id=49977107 Points: 1 # Comments: 1
+Article URL: https://www.hsgac.senate.gov/wp-content/uploads/Daniel-Kokotajlo-Testimony.pdf Comments URL: https://news.ycombinator.com/item?id=49984197 Points: 2 # Comments: 0
 
-📖 [Read original article](https://facehugging.ai/)
+📖 [Read original article](https://www.hsgac.senate.gov/wp-content/uploads/Daniel-Kokotajlo-Testimony.pdf)
 
 ---
 
-## 11. Q&A with the Michigan Tech ML/AI Club
+## 11. Give Your AI Agent a Domain-Specific Language
 
-**Author:** alhirzel  
-**Published:** 10/6/2026, 11:48:01 AM  
+**Author:** lhh  
+**Published:** 10/6/2026, 8:57:32 PM  
 **Categories:** -  
 
-Article URL: https://www.mtu.edu/computing/gateway/2026/stories/qa-ml-ai-club/ Comments URL: https://news.ycombinator.com/item?id=49977084 Points: 2 # Comments: 0
+Article URL: https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl Comments URL: https://news.ycombinator.com/item?id=49984029 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.mtu.edu/computing/gateway/2026/stories/qa-ml-ai-club/)
+📖 [Read original article](https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl)
 
 ---
 
-## 12. DesktopBrain – Automatically Organize Files on Mac with On-Device AI
+## 12. Record labels are in a spin over AI music
 
-**Author:** jimmy_lee  
-**Published:** 10/6/2026, 11:36:45 AM  
+**Author:** ijidak  
+**Published:** 10/6/2026, 8:48:04 PM  
 **Categories:** -  
 
-Article URL: https://desktopbrain.saposs.com Comments URL: https://news.ycombinator.com/item?id=49977006 Points: 1 # Comments: 0
+Article URL: https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music Comments URL: https://news.ycombinator.com/item?id=49983879 Points: 2 # Comments: 0
 
-📖 [Read original article](https://desktopbrain.saposs.com)
+📖 [Read original article](https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music)
 
 ---
 
-## 13. Show HN: A Deterministic-First Local Control Center Leveraging AI for Routing
+## 13. Enterprise AI is vaporware without access to systems of record
 
-**Author:** nattadev  
-**Published:** 10/6/2026, 11:28:33 AM  
+**Author:** jasong  
+**Published:** 10/6/2026, 8:25:45 PM  
 **Categories:** -  
 
-Article URL: https://github.com/JuanVeranoMesa/natta-toolkit Comments URL: https://news.ycombinator.com/item?id=49976948 Points: 1 # Comments: 1
+Article URL: https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents Comments URL: https://news.ycombinator.com/item?id=49983597 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/JuanVeranoMesa/natta-toolkit)
+📖 [Read original article](https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents)
 
 ---
 
-## 14. Is AI the End of Math as We Know It?
+## 14. Meta's Muse AI agent is building a dossier on you
 
-**Author:** nsoonhui  
-**Published:** 10/6/2026, 11:24:37 AM  
+**Author:** penskymaterial  
+**Published:** 10/6/2026, 8:24:45 PM  
 **Categories:** -  
 
-Article URL: https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/ Comments URL: https://news.ycombinator.com/item?id=49976918 Points: 3 # Comments: 0
+Article URL: https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/ Comments URL: https://news.ycombinator.com/item?id=49983579 Points: 16 # Comments: 12
 
-📖 [Read original article](https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/)
+📖 [Read original article](https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/)
 
 ---
 
-## 15. Misuse of AI is brands' top reputational threat, new survey says
+## 15. Most AI data businesses should run as cash / dividend businesses
 
-**Author:** beardyw  
-**Published:** 10/6/2026, 11:22:27 AM  
+**Author:** porridgeraisin  
+**Published:** 10/6/2026, 8:16:33 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/oct/06/ai-misuse-brand-reputation Comments URL: https://news.ycombinator.com/item?id=49976900 Points: 2 # Comments: 0
+Article URL: https://twitter.com/gokulr/status/2107538431375241564 Comments URL: https://news.ycombinator.com/item?id=49983467 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/oct/06/ai-misuse-brand-reputation)
+📖 [Read original article](https://twitter.com/gokulr/status/2107538431375241564)
 
 ---
 
-## 16. Octop, a self-hosted AI assistant by Tencent
+## 16. OpenAI Dots: The New Always-On AI Agents from OpenAI
 
-**Author:** tomislavpet  
-**Published:** 10/6/2026, 11:19:34 AM  
+**Author:** thescienceguy93  
+**Published:** 10/6/2026, 7:58:01 PM  
 **Categories:** -  
 
-Article URL: https://github.com/TencentCloud/Octop Comments URL: https://news.ycombinator.com/item?id=49976872 Points: 1 # Comments: 3
+Article URL: https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49983255 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/TencentCloud/Octop)
+📖 [Read original article](https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/)
 
 ---
 
-## 17. True Tarot: free tarot readings where an AI reads all your cards together
+## 17. Reducing the cognitive load of AI changes
 
-**Author:** eochu  
-**Published:** 10/6/2026, 11:06:29 AM  
+**Author:** Curiositry  
+**Published:** 10/6/2026, 7:38:07 PM  
 **Categories:** -  
 
-Article URL: https://true-tarot.com/ Comments URL: https://news.ycombinator.com/item?id=49976797 Points: 1 # Comments: 0
+Article URL: https://amoffat.github.io/blog/cognitive-load.html Comments URL: https://news.ycombinator.com/item?id=49983006 Points: 2 # Comments: 0
 
-📖 [Read original article](https://true-tarot.com/)
+📖 [Read original article](https://amoffat.github.io/blog/cognitive-load.html)
 
 ---
 
-## 18. OpenAI rolls out weak sauce watermarking for AI text
+## 18. Spurred on by AI usage Google Docs and Drive now support Markdown files natively
 
-**Author:** pseudolus  
-**Published:** 10/6/2026, 11:06:17 AM  
+**Author:** digitallogic  
+**Published:** 10/6/2026, 7:32:59 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/10/06/openai-rolls-out-weak-sauce-watermarking-for-ai-text/5301257 Comments URL: https://news.ycombinator.com/item?id=49976795 Points: 1 # Comments: 0
+Article URL: https://www.techradar.com/pro/spurred-on-by-ai-usage-google-docs-and-drive-now-support-markdown-files-natively Comments URL: https://news.ycombinator.com/item?id=49982940 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/10/06/openai-rolls-out-weak-sauce-watermarking-for-ai-text/5301257)
+📖 [Read original article](https://www.techradar.com/pro/spurred-on-by-ai-usage-google-docs-and-drive-now-support-markdown-files-natively)
 
 ---
 
-## 19. ArXiv Is Rate Limiting Submissions Because It Can't Keep Up with AI Slop
+## 19. Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?
 
-**Author:** wiley1454  
-**Published:** 10/6/2026, 11:04:16 AM  
+**Author:** amoursy  
+**Published:** 10/6/2026, 7:22:15 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/arxiv-is-rate-limiting-submissions-because-it-cant-keep-up-with-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=49976781 Points: 2 # Comments: 0
+I'm obsessed with Egyptology. During covid, I wanted to get a hieratic tattoo. For those who don't know, hieratic is the cursive form of hieroglyphs that was used in day-to-day life in ancient Egypt. It's as old as hieroglyphs.I then went on a mission to have a sentence translated into hieratic. Luc...
 
-📖 [Read original article](https://www.404media.co/arxiv-is-rate-limiting-submissions-because-it-cant-keep-up-with-ai-slop/)
+📖 [Read original article](https://hieraticbench.vercel.app/)
 
 ---
 
-## 20. ERC-8350: an on-chain standard for verifiable AI memory state
+## 20. The biggest advance in AI since the LLM
 
-**Author:** EverestAn  
-**Published:** 10/6/2026, 10:30:12 AM  
+**Author:** sergiogdr  
+**Published:** 10/6/2026, 7:20:26 PM  
 **Categories:** -  
 
-Article URL: https://eips.ethereum.org/EIPS/eip-8350 Comments URL: https://news.ycombinator.com/item?id=49976560 Points: 1 # Comments: 0
+Article URL: https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the Comments URL: https://news.ycombinator.com/item?id=49982799 Points: 3 # Comments: 0
 
-📖 [Read original article](https://eips.ethereum.org/EIPS/eip-8350)
+📖 [Read original article](https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the)
 
 ---
