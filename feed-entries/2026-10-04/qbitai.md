@@ -2,12 +2,12 @@
 title: "qbitai - 2026-10-04"
 date: "2026-10-04"
 source: "qbitai"
-count: 3
+count: 2
 ---
 
 # qbitai - 2026-10-04
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ count: 3
 什么是FDE？它会一直存在吗？
 
 📖 [Read original article](https://www.qbitai.com/2026/10/501506.html)
-
----
-
-## 3. GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元
-
-**Author:** 听雨  
-**Published:** 10/4/2026, 12:53:29 AM  
-**Categories:** 资讯, 3D  
-
-专业3D模型反而更稀缺了
-
-📖 [Read original article](https://www.qbitai.com/2026/10/501451.html)
 
 ---
