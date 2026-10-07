@@ -2,16 +2,28 @@
 title: "qbitai - 2026-10-07"
 date: "2026-10-07"
 source: "qbitai"
-count: 4
+count: 5
 ---
 
 # qbitai - 2026-10-07
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. 《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！
+## 1. 迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦
+
+**Author:** 衡宇  
+**Published:** 10/7/2026, 2:10:33 PM  
+**Categories:** 资讯  
+
+
+
+📖 [Read original article](https://www.qbitai.com/2026/10/501825.html)
+
+---
+
+## 2. 《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！
 
 **Author:** 量子位的朋友们  
 **Published:** 10/7/2026, 11:34:47 AM  
@@ -23,7 +35,7 @@ count: 4
 
 ---
 
-## 2. 晕…这年头还有说人话的AI不
+## 3. 晕…这年头还有说人话的AI不
 
 **Author:** 衡宇  
 **Published:** 10/7/2026, 8:41:13 AM  
@@ -35,7 +47,7 @@ count: 4
 
 ---
 
-## 3. Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司
+## 4. Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司
 
 **Author:** 量子位的朋友们  
 **Published:** 10/7/2026, 6:39:36 AM  
@@ -47,7 +59,7 @@ count: 4
 
 ---
 
-## 4. OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来
+## 5. OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来
 
 **Author:** 听雨  
 **Published:** 10/7/2026, 1:05:13 AM  
