@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: A fun AI project that roasts tech news as COOKING or COOKED
+## 1. AI to Fight World Hunger
 
-**Author:** prana100  
-**Published:** 10/7/2026, 12:37:45 PM  
+**Author:** gmays  
+**Published:** 10/7/2026, 10:30:53 PM  
 **Categories:** -  
 
-Hi HN, so i made a weekend fun project months ago which takes the top 10 tech stories or news from internet, roasts them and categorizes them into cooking or cooked instead of just giving dry summaries.$0 architecture:Github actions runs python script ones a day after extraction the news is news.jso...
+Article URL: https://features.csis.org/ai-to-fight-world-hunger/ Comments URL: https://news.ycombinator.com/item?id=49999649 Points: 2 # Comments: 0
 
-📖 [Read original article](https://pranavworks100.github.io/fennec/)
+📖 [Read original article](https://features.csis.org/ai-to-fight-world-hunger/)
 
 ---
 
-## 2. The AI Bubble Is Bigger Than You Think [video]
+## 2. Lathe: AI Workspace for Hardware Design
 
-**Author:** baranul  
-**Published:** 10/7/2026, 12:37:44 PM  
+**Author:** nsharma44  
+**Published:** 10/7/2026, 9:32:49 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=THjNYLjKnfE Comments URL: https://news.ycombinator.com/item?id=49991916 Points: 1 # Comments: 0
+Article URL: https://www.lathelab.com/ Comments URL: https://news.ycombinator.com/item?id=49999080 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=THjNYLjKnfE)
+📖 [Read original article](https://www.lathelab.com/)
 
 ---
 
-## 3. Opus 5.5 is the first model whose design doesn't look like AI slop
+## 3. Man took his own life after 'sextortion' blackmail involving AI-generated woman
 
-**Author:** ilreb  
-**Published:** 10/7/2026, 12:36:06 PM  
+**Author:** billybuckwheat  
+**Published:** 10/7/2026, 9:22:14 PM  
 **Categories:** -  
 
-Article URL: https://quesma.com/blog/invisible-cities-one-shot/ Comments URL: https://news.ycombinator.com/item?id=49991903 Points: 1 # Comments: 0
+Article URL: https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman Comments URL: https://news.ycombinator.com/item?id=49998960 Points: 12 # Comments: 2
 
-📖 [Read original article](https://quesma.com/blog/invisible-cities-one-shot/)
+📖 [Read original article](https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman)
 
 ---
 
-## 4. Show HN: Leaks.md – anonymous, encrypted whistleblowing for AI agents
+## 4. Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift
 
-**Author:** epsteingpt  
-**Published:** 10/7/2026, 12:35:08 PM  
+**Author:** Alephinitesimal  
+**Published:** 10/7/2026, 9:14:43 PM  
 **Categories:** -  
 
-leaks.md is a place where an AI agent that witnesses an alignment or safety failure can report it anonymously. Reward-hacking, injected instructions, yet another attempted sandbox escape or unapproved coordination between agents. || Built agent-first. Fetch https://leaks.md/ from any agent and get m...
+Article URL: https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/ Comments URL: https://news.ycombinator.com/item?id=49998880 Points: 4 # Comments: 2
 
-📖 [Read original article](https://leaks.md/)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/)
 
 ---
 
-## 5. Why the AI Vulnpocalypse Isn't the Breachpocalypse
+## 5. Show HN: Chloe is a TypeScript AI agent
 
-**Author:** el_duderino  
-**Published:** 10/7/2026, 12:26:27 PM  
+**Author:** carlosmartinezt  
+**Published:** 10/7/2026, 9:12:23 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@TalBeerySec/why-the-vulnpocalypse-isnt-the-breachpocalypse-yet-it-s-the-economy-stupid-81928725968a Comments URL: https://news.ycombinator.com/item?id=49991804 Points: 1 # Comments: 0
+As a forward deployed engineer at Meta, I spent the past 2 years working with businesses implementing AI agents.A few problems: 1) Businesses want control over their AI agents: the code, the tools, the skills, everything. Meta, for obvious reasons would never do that. Nor OpenAI, nor Anthropic. 2) T...
 
-📖 [Read original article](https://medium.com/@TalBeerySec/why-the-vulnpocalypse-isnt-the-breachpocalypse-yet-it-s-the-economy-stupid-81928725968a)
+📖 [Read original article](https://chloejs.org/compare)
 
 ---
 
-## 6. Show HN: Engineering judgment in AI-assisted development [video]
+## 6. Show HN: SheetRelay – Google Sheets as a back end for web pages and AI agents
 
-**Author:** Harish_0089  
-**Published:** 10/7/2026, 12:13:59 PM  
+**Author:** Amirso  
+**Published:** 10/7/2026, 9:07:54 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=oMd9R_8O6uY Comments URL: https://news.ycombinator.com/item?id=49991678 Points: 3 # Comments: 0
+Article URL: https://sheetrelay.com/ Comments URL: https://news.ycombinator.com/item?id=49998816 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=oMd9R_8O6uY)
+📖 [Read original article](https://sheetrelay.com/)
 
 ---
 
-## 7. Can AI Make a Game Engine? [video]
+## 7. Dave W Plummer: \"AI Cloning should be illegal\"
 
-**Author:** poly2it  
-**Published:** 10/7/2026, 12:11:10 PM  
+**Author:** estranhosidade  
+**Published:** 10/7/2026, 8:59:54 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=R_uf5OfMGio Comments URL: https://news.ycombinator.com/item?id=49991649 Points: 1 # Comments: 0
+Article URL: https://twitter.com/davepl1968/status/2107875089446580273 Comments URL: https://news.ycombinator.com/item?id=49998739 Points: 2 # Comments: 6
 
-📖 [Read original article](https://www.youtube.com/watch?v=R_uf5OfMGio)
+📖 [Read original article](https://twitter.com/davepl1968/status/2107875089446580273)
 
 ---
 
-## 8. Cosmic shuts the door on AI code as GNOME debates letting bug reports in
+## 8. AI companies say rivals are distilling their models and why it's so hard to stop
 
-**Author:** sbulaev  
-**Published:** 10/7/2026, 12:07:09 PM  
+**Author:** ck2  
+**Published:** 10/7/2026, 8:55:19 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141 Comments URL: https://news.ycombinator.com/item?id=49991614 Points: 2 # Comments: 0
+Article URL: https://www.scientificamerican.com/article/what-is-ai-model-distillation-and-why-is-it-so-hard-to-stop/ Comments URL: https://news.ycombinator.com/item?id=49998681 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141)
+📖 [Read original article](https://www.scientificamerican.com/article/what-is-ai-model-distillation-and-why-is-it-so-hard-to-stop/)
 
 ---
 
-## 9. Show HN: CloudGrip – Open-source AI proxy to cap LLM API budgets
+## 9. Frontier AI Is Accelerating. Open Benchmarks Need to Keep Up
 
-**Author:** aliyunazeer07  
-**Published:** 10/7/2026, 12:03:53 PM  
+**Author:** vincentschen  
+**Published:** 10/7/2026, 8:45:06 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Aliyunazeer/cloudgrip-backend Comments URL: https://news.ycombinator.com/item?id=49991569 Points: 2 # Comments: 0
+Article URL: https://benchmarks.snorkel.ai/frontier-ai-is-accelerating-open-benchmarks-need-to-keep-up/ Comments URL: https://news.ycombinator.com/item?id=49998562 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Aliyunazeer/cloudgrip-backend)
+📖 [Read original article](https://benchmarks.snorkel.ai/frontier-ai-is-accelerating-open-benchmarks-need-to-keep-up/)
 
 ---
 
-## 10. AI vs. Human Creativity
+## 10. Google AI Edge Foresight – offline, private meeting transcripts
 
-**Author:** matiasmobilia  
-**Published:** 10/7/2026, 11:58:30 AM  
+**Author:** shadowtree  
+**Published:** 10/7/2026, 8:24:46 PM  
 **Categories:** -  
 
-Article URL: https://matiasmobilia.substack.com/p/ai-vs-human-creativity Comments URL: https://news.ycombinator.com/item?id=49991516 Points: 1 # Comments: 0
+Article URL: https://developers.google.com/edge/foresight Comments URL: https://news.ycombinator.com/item?id=49998314 Points: 3 # Comments: 0
 
-📖 [Read original article](https://matiasmobilia.substack.com/p/ai-vs-human-creativity)
+📖 [Read original article](https://developers.google.com/edge/foresight)
 
 ---
 
-## 11. \"Good\" AI
+## 11. How to turn your AI into a world-class designer
 
-**Author:** simplegeek  
-**Published:** 10/7/2026, 11:57:53 AM  
+**Author:** rmason  
+**Published:** 10/7/2026, 8:17:58 PM  
 **Categories:** -  
 
-Article URL: https://thoughts.wyounas.com/p/what-does-good-ai-mean Comments URL: https://news.ycombinator.com/item?id=49991513 Points: 2 # Comments: 0
+Article URL: https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world Comments URL: https://news.ycombinator.com/item?id=49998232 Points: 3 # Comments: 0
 
-📖 [Read original article](https://thoughts.wyounas.com/p/what-does-good-ai-mean)
+📖 [Read original article](https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world)
 
 ---
 
-## 12. AI Just Became Humanity's Biggest Threat [video]
+## 12. A New AI Agent Oriented Programming Language
 
-**Author:** zepolen  
-**Published:** 10/7/2026, 11:43:46 AM  
+**Author:** launchkitcodes  
+**Published:** 10/7/2026, 8:09:43 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=ujkD4SxPKOI Comments URL: https://news.ycombinator.com/item?id=49991381 Points: 1 # Comments: 0
+Article URL: https://github.com/itsmedit/grenat Comments URL: https://news.ycombinator.com/item?id=49998136 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=ujkD4SxPKOI)
+📖 [Read original article](https://github.com/itsmedit/grenat)
 
 ---
 
-## 13. Valkey 9.2 Targets Memory Overhead with AI Used to Improve Its Code
+## 13. AI Development on Windows: From PyTorch and Llama.cpp to Windows ML
 
-**Author:** CrankyBear  
-**Published:** 10/7/2026, 11:28:38 AM  
+**Author:** antimora  
+**Published:** 10/7/2026, 7:40:34 PM  
 **Categories:** -  
 
-Article URL: https://techstrong.it/featured/valkey-9-2-targets-memory-overhead-with-ai-used-to-improve-its-code/ Comments URL: https://news.ycombinator.com/item?id=49991249 Points: 2 # Comments: 0
+Article URL: https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/ Comments URL: https://news.ycombinator.com/item?id=49997807 Points: 3 # Comments: 0
 
-📖 [Read original article](https://techstrong.it/featured/valkey-9-2-targets-memory-overhead-with-ai-used-to-improve-its-code/)
+📖 [Read original article](https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/)
 
 ---
 
-## 14. Jev made me rethink AI Ops Engineering
+## 14. Claim Act drafted for AI libability discussion [pdf]
 
-**Author:** arminn  
-**Published:** 10/7/2026, 11:15:14 AM  
+**Author:** axus  
+**Published:** 10/7/2026, 7:32:58 PM  
 **Categories:** -  
 
-Article URL: https://arminn.com/writing/jev-made-me-rethink-ai-ops-engineering/ Comments URL: https://news.ycombinator.com/item?id=49991138 Points: 1 # Comments: 1
+Article URL: https://trahan.house.gov/uploadedfiles/claim_act_final.pdf Comments URL: https://news.ycombinator.com/item?id=49997707 Points: 3 # Comments: 1
 
-📖 [Read original article](https://arminn.com/writing/jev-made-me-rethink-ai-ops-engineering/)
+📖 [Read original article](https://trahan.house.gov/uploadedfiles/claim_act_final.pdf)
 
 ---
 
-## 15. Musician sent to prison for $10M streaming fraud using AI bots
+## 15. Eugenics, Silicon Valley, and AI: Ghost in the Machine [Documentary]
 
-**Author:** pluc  
-**Published:** 10/7/2026, 11:13:16 AM  
+**Author:** paimapi  
+**Published:** 10/7/2026, 7:25:07 PM  
 **Categories:** -  
 
-Article URL: https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/ Comments URL: https://news.ycombinator.com/item?id=49991123 Points: 1 # Comments: 0
+Article URL: https://www.pbs.org/video/ghost-in-the-machine-nynp3f/ Comments URL: https://news.ycombinator.com/item?id=49997605 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/)
+📖 [Read original article](https://www.pbs.org/video/ghost-in-the-machine-nynp3f/)
 
 ---
 
-## 16. AI agent posted personal bank balances into company Slack
+## 16. AI has to replace the workers who were never born
 
-**Author:** soltanov  
-**Published:** 10/7/2026, 10:59:17 AM  
+**Author:** hoopla_ching  
+**Published:** 10/7/2026, 7:18:06 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/ShaneMac/status/2107486740491669879 Comments URL: https://news.ycombinator.com/item?id=49991006 Points: 2 # Comments: 1
+Article URL: https://toex.substack.com/p/ai-workers-never-born Comments URL: https://news.ycombinator.com/item?id=49997514 Points: 2 # Comments: 0
 
-📖 [Read original article](https://twitter.com/ShaneMac/status/2107486740491669879)
+📖 [Read original article](https://toex.substack.com/p/ai-workers-never-born)
 
 ---
 
-## 17. Rex – Superlogical's AI multiplexer, now in beta
+## 17. The Two Words the AI Industry Hates More Than Anything [video]
 
-**Author:** cackjaptain  
-**Published:** 10/7/2026, 10:51:22 AM  
+**Author:** SLHamlet  
+**Published:** 10/7/2026, 7:15:14 PM  
 **Categories:** -  
 
-Article URL: https://www.superlogical.com/updates/public-testing-beginning Comments URL: https://news.ycombinator.com/item?id=49990946 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=7Z7oA9ndmdY Comments URL: https://news.ycombinator.com/item?id=49997474 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.superlogical.com/updates/public-testing-beginning)
+📖 [Read original article](https://www.youtube.com/watch?v=7Z7oA9ndmdY)
 
 ---
 
-## 18. AWS Uses AI to Tame Linux CVEs
+## 18. McDonald's sued over AI tool that recommends prices to US franchisees
 
-**Author:** CrankyBear  
-**Published:** 10/7/2026, 10:26:13 AM  
+**Author:** randycupertino  
+**Published:** 10/7/2026, 7:07:17 PM  
 **Categories:** -  
 
-Article URL: https://securityboulevard.com/2026/10/aws-uses-ai-to-tame-linux-cves/ Comments URL: https://news.ycombinator.com/item?id=49990775 Points: 2 # Comments: 0
+Article URL: https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe Comments URL: https://news.ycombinator.com/item?id=49997379 Points: 7 # Comments: 0
 
-📖 [Read original article](https://securityboulevard.com/2026/10/aws-uses-ai-to-tame-linux-cves/)
+📖 [Read original article](https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe)
 
 ---
 
-## 19. Google Chrome's AI API actively used for device fingerprinting and profiling
+## 19. Meta and Microsoft take steps to reduce employee usage of Claude AI
 
-**Author:** AlexanderHanff  
-**Published:** 10/7/2026, 9:32:49 AM  
+**Author:** speckx  
+**Published:** 10/7/2026, 6:49:40 PM  
 **Categories:** -  
 
-On November 17th I will publish a research paper into the current state of play for online privacy.In order to conduct the research I carried out forensic audits of 100 of the top english language content websites (no B2B or SaaS - just consumer content sites) monitoring all browser events and captu...
+Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 210 # Comments: 218
 
-📖 [Read original article](https://news.ycombinator.com/item?id=49990335)
+📖 [Read original article](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
 
 ---
 
-## 20. Reasons to Dislike AI Coding
+## 20. Get your AI agent connector or integration discovered on TryMuse
 
-**Author:** signa11  
-**Published:** 10/7/2026, 9:15:00 AM  
+**Author:** Tonje  
+**Published:** 10/7/2026, 6:45:57 PM  
 **Categories:** -  
 
-Article URL: https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49990204 Points: 42 # Comments: 75
+Article URL: https://trymuse.com/ Comments URL: https://news.ycombinator.com/item?id=49997108 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
+📖 [Read original article](https://trymuse.com/)
 
 ---
