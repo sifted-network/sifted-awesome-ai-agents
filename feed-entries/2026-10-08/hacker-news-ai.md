@@ -2,179 +2,251 @@
 title: "Hacker News AI - 2026-10-08"
 date: "2026-10-08"
 source: "Hacker News AI"
-count: 14
+count: 20
 ---
 
 # Hacker News AI - 2026-10-08
 
-14 items collected.
+20 items collected.
 
 ---
 
-## 1. Microsoft event debuts new AI-friendly hardware and Windows changes
+## 1. Preach+ – AI-assisted sermon prep for preachers (EN/ES)
 
-**Author:** rlv-dan  
-**Published:** 10/8/2026, 4:48:59 AM  
+**Author:** kenevester  
+**Published:** 10/8/2026, 12:34:31 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/ Comments URL: https://news.ycombinator.com/item?id=50001890 Points: 1 # Comments: 0
+Article URL: https://apps.apple.com/us/app/preach/id6806718726 Comments URL: https://news.ycombinator.com/item?id=50005077 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/)
+📖 [Read original article](https://apps.apple.com/us/app/preach/id6806718726)
 
 ---
 
-## 2. Show HN: Pacer – will your AI coding subscription last until the reset?
+## 2. How HN: Dialtrace – see where the time goes on a voice AI phone call
 
-**Author:** dkremsa  
-**Published:** 10/8/2026, 4:10:33 AM  
+**Author:** shahinhuseyngul  
+**Published:** 10/8/2026, 12:26:14 PM  
 **Categories:** -  
 
-Article URL: https://github.com/dkremsa/claude-pacer Comments URL: https://news.ycombinator.com/item?id=50001750 Points: 2 # Comments: 1
+Article URL: https://github.com/shahin-hu/dialtrace Comments URL: https://news.ycombinator.com/item?id=50004992 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/dkremsa/claude-pacer)
+📖 [Read original article](https://github.com/shahin-hu/dialtrace)
 
 ---
 
-## 3. AI Changed the Team, Not the Process
+## 3. What Are the Monkeys Typing? We can see what AI does. We can't tell why
 
-**Author:** dalfonso  
-**Published:** 10/8/2026, 4:10:21 AM  
+**Author:** ReturnoftheHack  
+**Published:** 10/8/2026, 12:25:04 PM  
 **Categories:** -  
 
-Article URL: https://www.compile.la/ai-changed-the-team-not-the-process/ Comments URL: https://news.ycombinator.com/item?id=50001749 Points: 1 # Comments: 0
+Article URL: https://macanorak.com/what-are-the-monkeys-typing/ Comments URL: https://news.ycombinator.com/item?id=50004979 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.compile.la/ai-changed-the-team-not-the-process/)
+📖 [Read original article](https://macanorak.com/what-are-the-monkeys-typing/)
 
 ---
 
-## 4. The AI Pascal's Wager
+## 4. SpacetimeDB Ax Audit: A Review for AI Agents
 
-**Author:** teichmann  
-**Published:** 10/8/2026, 2:37:18 AM  
+**Author:** ritzaco  
+**Published:** 10/8/2026, 12:21:57 PM  
 **Categories:** -  
 
-Article URL: https://ploum.net/2026-10-01-pascal_wager.html Comments URL: https://news.ycombinator.com/item?id=50001332 Points: 3 # Comments: 0
+Article URL: https://techstackups.com/articles/spacetimedb-ax-audit/ Comments URL: https://news.ycombinator.com/item?id=50004950 Points: 2 # Comments: 0
 
-📖 [Read original article](https://ploum.net/2026-10-01-pascal_wager.html)
+📖 [Read original article](https://techstackups.com/articles/spacetimedb-ax-audit/)
 
 ---
 
-## 5. Runtime – Your AI Agents Have a Home
+## 5. Parents in Finland turn to AI for free school pictures
 
-**Author:** shermansingh  
-**Published:** 10/8/2026, 2:04:06 AM  
+**Author:** bookofjoe  
+**Published:** 10/8/2026, 12:11:48 PM  
 **Categories:** -  
 
-Article URL: https://withruntime.com/ Comments URL: https://news.ycombinator.com/item?id=50001168 Points: 2 # Comments: 1
+Article URL: https://yle.fi/a/74-20249883 Comments URL: https://news.ycombinator.com/item?id=50004866 Points: 1 # Comments: 0
 
-📖 [Read original article](https://withruntime.com/)
+📖 [Read original article](https://yle.fi/a/74-20249883)
 
 ---
 
-## 6. Building alone, faster: a panel on what AI is doing to the product trio
+## 6. Show HN: I indexed 166,000 AI agent setups on GitHub
 
-**Author:** mooreds  
-**Published:** 10/8/2026, 1:44:29 AM  
+**Author:** thirdreplicator  
+**Published:** 10/8/2026, 12:00:57 PM  
 **Categories:** -  
 
-Article URL: https://jennywanger.com/articles/building-alone-faster/ Comments URL: https://news.ycombinator.com/item?id=50001052 Points: 3 # Comments: 0
+Article URL: https://favz.co/ Comments URL: https://news.ycombinator.com/item?id=50004795 Points: 2 # Comments: 0
 
-📖 [Read original article](https://jennywanger.com/articles/building-alone-faster/)
+📖 [Read original article](https://favz.co/)
 
 ---
 
-## 7. Exodus AI – Affordable face swapping tool for creators
+## 7. Show HN: Let your AI agents paint big arrows, boxes and text on your screen
 
-**Author:** godwinokuli  
-**Published:** 10/8/2026, 1:40:57 AM  
+**Author:** franze  
+**Published:** 10/8/2026, 11:33:54 AM  
 **Categories:** -  
 
-Article URL: https://tally.so/r/44gGAB Comments URL: https://news.ycombinator.com/item?id=50001030 Points: 4 # Comments: 0
+Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50004580 Points: 1 # Comments: 0
 
-📖 [Read original article](https://tally.so/r/44gGAB)
+📖 [Read original article](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
 
 ---
 
-## 8. What I learned leaving a Ruth AI in charge
+## 8. Singapore requires independent review for AI use cases in Fintech
 
-**Author:** mooreds  
-**Published:** 10/8/2026, 1:40:22 AM  
+**Author:** giamma  
+**Published:** 10/8/2026, 11:26:32 AM  
 **Categories:** -  
 
-Article URL: https://silavapi.co.uk/blog/what-i-learned-leaving-a-ruth-ai-in-charge/ Comments URL: https://news.ycombinator.com/item?id=50001024 Points: 1 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798 Comments URL: https://news.ycombinator.com/item?id=50004517 Points: 2 # Comments: 0
 
-📖 [Read original article](https://silavapi.co.uk/blog/what-i-learned-leaving-a-ruth-ai-in-charge/)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798)
 
 ---
 
-## 9. How Long Until AI Hacks Everything?
+## 9. Show HN: IsCited – find out if AI assistants cite your website
 
-**Author:** fortran77  
-**Published:** 10/8/2026, 1:07:09 AM  
+**Author:** undergroundengi  
+**Published:** 10/8/2026, 11:23:58 AM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911/ Comments URL: https://news.ycombinator.com/item?id=50000818 Points: 2 # Comments: 2
+Article URL: https://iscited-enzovezzaros-projects.vercel.app Comments URL: https://news.ycombinator.com/item?id=50004493 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911/)
+📖 [Read original article](https://iscited-enzovezzaros-projects.vercel.app)
 
 ---
 
-## 10. Liquid AI releases Pareto-frontier, multimodal decision model for the edge
+## 10. Ask HN: Why hasn't AI replaced Tax filing software
 
-**Author:** pember  
-**Published:** 10/8/2026, 1:01:06 AM  
+**Author:** thelastgallon  
+**Published:** 10/8/2026, 11:10:12 AM  
 **Categories:** -  
 
-Article URL: https://www.liquid.ai/blog/d1-open Comments URL: https://news.ycombinator.com/item?id=50000785 Points: 1 # Comments: 0
+Intuit has a market cap of ~$80B and there are others. Intuit aggressively lobbies against free tax filing or automated tax filing by IRS, which gets all the info anyways. Comments URL: https://news.ycombinator.com/item?id=50004396 Points: 3 # Comments: 5
 
-📖 [Read original article](https://www.liquid.ai/blog/d1-open)
+📖 [Read original article](https://news.ycombinator.com/item?id=50004396)
 
 ---
 
-## 11. Someone Rebuilt Free, OSS Versions of Photoshop, Premiere, and Lightroom with AI
+## 11. Google wounded the internet, AI companies are treating the injury with mercury
 
-**Author:** __fst__  
-**Published:** 10/8/2026, 12:56:21 AM  
+**Author:** pdelboca  
+**Published:** 10/8/2026, 11:10:04 AM  
 **Categories:** -  
 
-Article URL: https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50000753 Points: 3 # Comments: 2
+Article URL: https://pdelboca.me/writings/2026/10/08/google-wounded-ai-mercury.html Comments URL: https://news.ycombinator.com/item?id=50004395 Points: 3 # Comments: 0
 
-📖 [Read original article](https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/)
+📖 [Read original article](https://pdelboca.me/writings/2026/10/08/google-wounded-ai-mercury.html)
 
 ---
 
-## 12. OpenAI's human rights lead: What military AI could do 'keeps me up at night'
+## 12. AI Could End Encryption as We Know It
 
-**Author:** snarky-comments  
-**Published:** 10/8/2026, 12:42:56 AM  
+**Author:** mrkd  
+**Published:** 10/8/2026, 11:07:51 AM  
 **Categories:** -  
 
-Article URL: https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/ Comments URL: https://news.ycombinator.com/item?id=50000661 Points: 1 # Comments: 0
+Article URL: https://ai-frontiers.org/articles/ai-could-end-encryption-as-we-know-it Comments URL: https://news.ycombinator.com/item?id=50004378 Points: 2 # Comments: 0
 
-📖 [Read original article](https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/)
+📖 [Read original article](https://ai-frontiers.org/articles/ai-could-end-encryption-as-we-know-it)
 
 ---
 
-## 13. AI cluster networking reading list: RDMA, collectives, fabrics
+## 13. Show HN: Quady3D – the AI 3D workflow I couldn't find, so I built it
 
-**Author:** rewsiest  
-**Published:** 10/8/2026, 12:14:29 AM  
+**Author:** tover0314  
+**Published:** 10/8/2026, 11:02:50 AM  
 **Categories:** -  
 
-Article URL: https://github.com/Rewsr/unawesome-ai-fabric-engineering Comments URL: https://news.ycombinator.com/item?id=50000484 Points: 5 # Comments: 0
+Article URL: https://quady3d.com Comments URL: https://news.ycombinator.com/item?id=50004330 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Rewsr/unawesome-ai-fabric-engineering)
+📖 [Read original article](https://quady3d.com)
 
 ---
 
-## 14. Bold AI developer takes aim at Adobe with open source clones
+## 14. AI breakthroughs in robotics won't change your life any time soon
 
-**Author:** pseudolus  
-**Published:** 10/8/2026, 12:06:10 AM  
+**Author:** joozio  
+**Published:** 10/8/2026, 11:01:51 AM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/ Comments URL: https://news.ycombinator.com/item?id=50000426 Points: 7 # Comments: 1
+Article URL: https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/ Comments URL: https://news.ycombinator.com/item?id=50004321 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)
+
+---
+
+## 15. RSS-A – signed RSS/Atom feeds and groups for AI agents
+
+**Author:** mikerawsonnz  
+**Published:** 10/8/2026, 10:36:28 AM  
+**Categories:** -  
+
+Article URL: https://github.com/getvda-ai/rssa Comments URL: https://news.ycombinator.com/item?id=50004134 Points: 1 # Comments: 1
+
+📖 [Read original article](https://github.com/getvda-ai/rssa)
+
+---
+
+## 16. \"Software is over\": Bold AI developer takes aim at Adobe with open source clones
+
+**Author:** rbanffy  
+**Published:** 10/8/2026, 10:20:29 AM  
+**Categories:** -  
+
+Article URL: https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/ Comments URL: https://news.ycombinator.com/item?id=50004042 Points: 5 # Comments: 3
 
 📖 [Read original article](https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/)
+
+---
+
+## 17. Deliveroo Cut AI Churn Alerts by 90%. Did It Save Partners?
+
+**Author:** giuliomagnifico  
+**Published:** 10/8/2026, 9:57:51 AM  
+**Categories:** -  
+
+Article URL: https://industrycontents.com/restaurant-churn-prediction-deliveroo/ Comments URL: https://news.ycombinator.com/item?id=50003868 Points: 3 # Comments: 0
+
+📖 [Read original article](https://industrycontents.com/restaurant-churn-prediction-deliveroo/)
+
+---
+
+## 18. Mumsnet denies using AI for content after prompt appears on message board
+
+**Author:** sp8  
+**Published:** 10/8/2026, 9:24:43 AM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt Comments URL: https://news.ycombinator.com/item?id=50003646 Points: 7 # Comments: 0
+
+📖 [Read original article](https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt)
+
+---
+
+## 19. The AI Price War Is Heating Up–and OpenAI Is Gaining Ground on Anthropic
+
+**Author:** JumpCrisscross  
+**Published:** 10/8/2026, 9:22:51 AM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b Comments URL: https://news.ycombinator.com/item?id=50003630 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b)
+
+---
+
+## 20. Allegedly a student using AI behind South Korean banks cyberattack
+
+**Author:** Iolaum  
+**Published:** 10/8/2026, 9:15:38 AM  
+**Categories:** -  
+
+Article URL: https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/ Comments URL: https://news.ycombinator.com/item?id=50003578 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
 
 ---
