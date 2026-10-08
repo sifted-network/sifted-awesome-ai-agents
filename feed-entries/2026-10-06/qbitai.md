@@ -2,12 +2,12 @@
 title: "qbitai - 2026-10-06"
 date: "2026-10-06"
 source: "qbitai"
-count: 3
+count: 2
 ---
 
 # qbitai - 2026-10-06
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ count: 3
 
 
 📖 [Read original article](https://www.qbitai.com/2026/10/501736.html)
-
----
-
-## 3. OpenAI「疯狂28天」首日，这都发了些啥啊…
-
-**Author:** 林, 方舟  
-**Published:** 10/6/2026, 6:45:40 AM  
-**Categories:** 资讯, OpenAI  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/10/501726.html)
 
 ---
