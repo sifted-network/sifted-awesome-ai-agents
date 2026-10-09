@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Trump says anyone who does not refer to AI as super intelligence is 'THE ENEMY'
+## 1. Japan urges firms to boost cybersecurity as AI-driven cyberattacks surge
 
-**Author:** vrganj  
-**Published:** 10/9/2026, 12:42:51 PM  
+**Author:** thoughtpeddler  
+**Published:** 10/9/2026, 10:16:39 PM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404 Comments URL: https://news.ycombinator.com/item?id=50019684 Points: 1 # Comments: 0
+Article URL: https://en.sedaily.com/international/2026/10/09/japan-urges-firms-to-boost-cybersecurity-as-ai-driven Comments URL: https://news.ycombinator.com/item?id=50027275 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404)
+📖 [Read original article](https://en.sedaily.com/international/2026/10/09/japan-urges-firms-to-boost-cybersecurity-as-ai-driven)
 
 ---
 
-## 2. How AI Is Upending the World of Mathematics
+## 2. Can AI automate AI R&D yet?
 
-**Author:** sbulaev  
-**Published:** 10/9/2026, 12:07:08 PM  
+**Author:** merksittich  
+**Published:** 10/9/2026, 10:14:40 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/videos/2026-10-09/how-ai-is-upending-the-world-of-mathematics-video Comments URL: https://news.ycombinator.com/item?id=50019332 Points: 2 # Comments: 0
+Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/videos/2026-10-09/how-ai-is-upending-the-world-of-mathematics-video)
+📖 [Read original article](https://epoch.ai/publications/innovationeval)
 
 ---
 
-## 3. Have your AI assistant book hotels
+## 3. Anthropic AI model submits false tip on unsolved Philly murder
 
-**Author:** ashwinkumar01  
-**Published:** 10/9/2026, 12:05:32 PM  
+**Author:** Zambyte  
+**Published:** 10/9/2026, 10:00:35 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/mcp/comments/1x1j0xx/mcp_server_that_books_hotels_in_dachgermany/ Comments URL: https://news.ycombinator.com/item?id=50019318 Points: 2 # Comments: 0
+Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.reddit.com/r/mcp/comments/1x1j0xx/mcp_server_that_books_hotels_in_dachgermany/)
+📖 [Read original article](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
 
 ---
 
-## 4. AI leaders game out public revolt scenarios after catastrophic events
+## 4. Teams too busy doing their job to experiment with AI are going to be replaced
 
-**Author:** soltanov  
-**Published:** 10/9/2026, 12:03:45 PM  
+**Author:** ai_critic  
+**Published:** 10/9/2026, 9:39:39 PM  
 **Categories:** -  
 
-Article URL: https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack Comments URL: https://news.ycombinator.com/item?id=50019306 Points: 3 # Comments: 0
+Article URL: https://ghuntley.com/replaced/ Comments URL: https://news.ycombinator.com/item?id=50026906 Points: 4 # Comments: 1
+
+📖 [Read original article](https://ghuntley.com/replaced/)
+
+---
+
+## 5. Autonomous AI Lamp
+
+**Author:** handfuloflight  
+**Published:** 10/9/2026, 9:10:37 PM  
+**Categories:** -  
+
+Article URL: https://www.autonomous.ai/lamp Comments URL: https://news.ycombinator.com/item?id=50026596 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.autonomous.ai/lamp)
+
+---
+
+## 6. AI companies plot \"the day after\"
+
+**Author:** jna_sh  
+**Published:** 10/9/2026, 8:58:04 PM  
+**Categories:** -  
+
+Article URL: https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack Comments URL: https://news.ycombinator.com/item?id=50026477 Points: 2 # Comments: 1
 
 📖 [Read original article](https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack)
 
 ---
 
-## 5. Speakoflow – Free Voice Dictation and AI Assistant for Windows, macOS, and Linux
+## 7. Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi
 
-**Author:** HSO  
-**Published:** 10/9/2026, 11:51:59 AM  
+**Author:** yogthos  
+**Published:** 10/9/2026, 8:55:42 PM  
 **Categories:** -  
 
-Article URL: https://github.com/AbhishekBarali/SpeakoFlow Comments URL: https://news.ycombinator.com/item?id=50019199 Points: 1 # Comments: 1
+Article URL: https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/ Comments URL: https://news.ycombinator.com/item?id=50026463 Points: 4 # Comments: 2
 
-📖 [Read original article](https://github.com/AbhishekBarali/SpeakoFlow)
+📖 [Read original article](https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/)
 
 ---
 
-## 6. I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More
+## 8. Show HN: Memdebug – See what changed in your AI agent's memory, and undo it
 
-**Author:** piratebroadcast  
-**Published:** 10/9/2026, 11:36:20 AM  
+**Author:** Termich  
+**Published:** 10/9/2026, 8:51:42 PM  
 **Categories:** -  
 
-Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 1 # Comments: 1
+Article URL: https://github.com/juraj-jumic/memdebug Comments URL: https://news.ycombinator.com/item?id=50026431 Points: 1 # Comments: 1
 
-📖 [Read original article](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)
+📖 [Read original article](https://github.com/juraj-jumic/memdebug)
 
 ---
 
-## 7. A US charity plans to use AI to monitor its Gaza schools
+## 9. Agent-history CLI – Fast OMZ/Bash cmd to jump between recent AI coding sessions
 
-**Author:** CrypticShift  
-**Published:** 10/9/2026, 11:17:14 AM  
+**Author:** aaronbronow  
+**Published:** 10/9/2026, 8:41:15 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53 Comments URL: https://news.ycombinator.com/item?id=50018904 Points: 1 # Comments: 0
+Article URL: https://github.com/aaronbronow/agent-history Comments URL: https://news.ycombinator.com/item?id=50026323 Points: 1 # Comments: 0
 
-📖 [Read original article](https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53)
+📖 [Read original article](https://github.com/aaronbronow/agent-history)
 
 ---
 
-## 8. I Use AI to Learn Things [video]
+## 10. Problems in 22 scientific fields had solutions hiding in plain sight. An AI has
 
-**Author:** ssernikk  
-**Published:** 10/9/2026, 11:04:26 AM  
+**Author:** sbulaev  
+**Published:** 10/9/2026, 8:07:09 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=kzcI5F4tGiU Comments URL: https://news.ycombinator.com/item?id=50018824 Points: 2 # Comments: 2
+Article URL: https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them Comments URL: https://news.ycombinator.com/item?id=50025967 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=kzcI5F4tGiU)
+📖 [Read original article](https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them)
 
 ---
 
-## 9. Let your AI agents paint big arrows, boxes and text on your screen
+## 11. open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI
 
-**Author:** franze  
-**Published:** 10/9/2026, 11:03:48 AM  
+**Author:** smartmic  
+**Published:** 10/9/2026, 7:50:16 PM  
 **Categories:** -  
 
-Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 102 # Comments: 36
+Article URL: https://codeberg.org/ethical-foss/open-slopware Comments URL: https://news.ycombinator.com/item?id=50025767 Points: 17 # Comments: 6
 
-📖 [Read original article](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+📖 [Read original article](https://codeberg.org/ethical-foss/open-slopware)
 
 ---
 
-## 10. We're putting too much faith in AI's ability to say no
+## 12. I Reverse Engineered a Popular iPad App with AI
 
-**Author:** joozio  
-**Published:** 10/9/2026, 11:02:17 AM  
+**Author:** melon_taeppe  
+**Published:** 10/9/2026, 7:45:16 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/ Comments URL: https://news.ycombinator.com/item?id=50018805 Points: 2 # Comments: 0
+Article URL: https://computerchale.com/writing/i-reverse-engineered-a-popular-ipad-app-with-ai Comments URL: https://news.ycombinator.com/item?id=50025714 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/)
+📖 [Read original article](https://computerchale.com/writing/i-reverse-engineered-a-popular-ipad-app-with-ai)
 
 ---
 
-## 11. AI Assistants Transform Nuclear Power Plant Work
+## 13. An Anthropic AI model sent a false homicide tip to the police
 
-**Author:** rbanffy  
-**Published:** 10/9/2026, 10:58:04 AM  
+**Author:** mikelgan  
+**Published:** 10/9/2026, 7:44:59 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/ai-assistants-nuclear-power-plant Comments URL: https://news.ycombinator.com/item?id=50018761 Points: 2 # Comments: 0
+Article URL: https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/ Comments URL: https://news.ycombinator.com/item?id=50025713 Points: 7 # Comments: 1
 
-📖 [Read original article](https://spectrum.ieee.org/ai-assistants-nuclear-power-plant)
+📖 [Read original article](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)
 
 ---
 
-## 12. Self-host your own AI text detector on CPU to filter out slop
+## 14. Agent swarms in business is AI larping
 
-**Author:** sloptotal  
-**Published:** 10/9/2026, 10:47:28 AM  
+**Author:** saintvinasse  
+**Published:** 10/9/2026, 7:34:45 PM  
 **Categories:** -  
 
-Article URL: https://github.com/pablocaeg/sloptotal Comments URL: https://news.ycombinator.com/item?id=50018677 Points: 1 # Comments: 0
+Article URL: https://agentic-larp.ing/ Comments URL: https://news.ycombinator.com/item?id=50025601 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/pablocaeg/sloptotal)
+📖 [Read original article](https://agentic-larp.ing/)
 
 ---
 
-## 13. Samsung expects 780% quarterly operating profit jump on AI boom
+## 15. Show HN: Lacuna – open-source inline AI writing suggestions for your Mac
 
-**Author:** theanonymousone  
-**Published:** 10/9/2026, 10:38:00 AM  
+**Author:** jdamon96  
+**Published:** 10/9/2026, 7:31:15 PM  
 **Categories:** -  
 
-Article URL: https://www.france24.com/en/live-news/20261008-samsung-expects-780-quarterly-operating-profit-jump-on-ai-boom Comments URL: https://news.ycombinator.com/item?id=50018602 Points: 1 # Comments: 1
+This past week I built (prompted) a tool I find myself using day to day and wanted to share it with others who may find it useful as well.“Lacuna” is an opinionated way to invoke LLMs into any text input on your Mac. Specifically, you can type bracketed phrases {such as this}, press Shift-Command-K ...
 
-📖 [Read original article](https://www.france24.com/en/live-news/20261008-samsung-expects-780-quarterly-operating-profit-jump-on-ai-boom)
+📖 [Read original article](https://jackdamon.org/blog/lacuna/)
 
 ---
 
-## 14. Docsy for AI Agents, Oh, and People Too
+## 16. Liquid AI d1: open decision models that answer in one forward pass
+
+**Author:** acossta  
+**Published:** 10/9/2026, 7:27:59 PM  
+**Categories:** -  
+
+Article URL: https://huggingface.co/blog/LiquidAI/open-d1 Comments URL: https://news.ycombinator.com/item?id=50025515 Points: 1 # Comments: 0
+
+📖 [Read original article](https://huggingface.co/blog/LiquidAI/open-d1)
+
+---
+
+## 17. The Danger May Be AI as Dumb as Us
+
+**Author:** billybuckwheat  
+**Published:** 10/9/2026, 7:26:19 PM  
+**Categories:** -  
+
+Article URL: https://foreignpolicy.com/2026/10/08/ai-jagged-super-intelligence-mistakes/ Comments URL: https://news.ycombinator.com/item?id=50025493 Points: 4 # Comments: 0
+
+📖 [Read original article](https://foreignpolicy.com/2026/10/08/ai-jagged-super-intelligence-mistakes/)
+
+---
+
+## 18. Small Local AI Models – Can you prove them to be useful at all?
+
+**Author:** justforviewes  
+**Published:** 10/9/2026, 7:03:57 PM  
+**Categories:** -  
+
+Article URL: https://open-ryze.web.app/ Comments URL: https://news.ycombinator.com/item?id=50025215 Points: 2 # Comments: 0
+
+📖 [Read original article](https://open-ryze.web.app/)
+
+---
+
+## 19. McDonald's AI pricing lands the fast-food giant in court
+
+**Author:** bundie  
+**Published:** 10/9/2026, 7:00:03 PM  
+**Categories:** -  
+
+Article URL: https://neow.in/NzlrdjU5 Comments URL: https://news.ycombinator.com/item?id=50025174 Points: 2 # Comments: 1
+
+📖 [Read original article](https://neow.in/NzlrdjU5)
+
+---
+
+## 20. 'I use AI to do the things that I'm bad at' Linus Torvalds on why it works
 
 **Author:** CrankyBear  
-**Published:** 10/9/2026, 10:17:37 AM  
+**Published:** 10/9/2026, 6:56:53 PM  
 **Categories:** -  
 
-Article URL: https://devops.com/docsy-for-ai-agents-oh-and-people-too/ Comments URL: https://news.ycombinator.com/item?id=50018447 Points: 2 # Comments: 0
+Article URL: https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/ Comments URL: https://news.ycombinator.com/item?id=50025141 Points: 6 # Comments: 2
 
-📖 [Read original article](https://devops.com/docsy-for-ai-agents-oh-and-people-too/)
-
----
-
-## 15. Stop Looking for the Best Way to Retrieve Context for AI Agents. Build a Router
-
-**Author:** manveerc  
-**Published:** 10/9/2026, 10:16:35 AM  
-**Categories:** -  
-
-Article URL: https://manveerc.substack.com/p/context-retrieval-ai-agent Comments URL: https://news.ycombinator.com/item?id=50018445 Points: 2 # Comments: 0
-
-📖 [Read original article](https://manveerc.substack.com/p/context-retrieval-ai-agent)
-
----
-
-## 16. The Programmer's Job in an AI World
-
-**Author:** Bluestein  
-**Published:** 10/9/2026, 10:05:56 AM  
-**Categories:** -  
-
-Article URL: https://www.dgt.is/blog/2026-05-27-programmers-job/ Comments URL: https://news.ycombinator.com/item?id=50018389 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.dgt.is/blog/2026-05-27-programmers-job/)
-
----
-
-## 17. He Built Free, Open-Source Versions of Photoshop, Premiere, Lightroom with AI
-
-**Author:** adriand  
-**Published:** 10/9/2026, 9:48:46 AM  
-**Categories:** -  
-
-Article URL: https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50018278 Points: 3 # Comments: 1
-
-📖 [Read original article](https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/)
-
----
-
-## 18. Show HN: VendIQ – AI agent for vendor follow-ups and ops automation
-
-**Author:** rishailabs  
-**Published:** 10/9/2026, 9:33:14 AM  
-**Categories:** -  
-
-Article URL: https://vendiq.rishailabs.com/ Comments URL: https://news.ycombinator.com/item?id=50018161 Points: 1 # Comments: 0
-
-📖 [Read original article](https://vendiq.rishailabs.com/)
-
----
-
-## 19. The looming AI consciousness trainwreck (2022)
-
-**Author:** mike_hearn  
-**Published:** 10/9/2026, 9:30:55 AM  
-**Categories:** -  
-
-Article URL: https://blog.plan99.net/the-looming-ai-consciousness-train-wreck-2e23165b3246 Comments URL: https://news.ycombinator.com/item?id=50018146 Points: 3 # Comments: 0
-
-📖 [Read original article](https://blog.plan99.net/the-looming-ai-consciousness-train-wreck-2e23165b3246)
-
----
-
-## 20. If your team is too busy doing their 'job' to experiment with AI
-
-**Author:** ghuntley  
-**Published:** 10/9/2026, 9:18:05 AM  
-**Categories:** -  
-
-Article URL: https://ghuntley.com/replaced/ Comments URL: https://news.ycombinator.com/item?id=50018057 Points: 1 # Comments: 0
-
-📖 [Read original article](https://ghuntley.com/replaced/)
+📖 [Read original article](https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/)
 
 ---
