@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-08"
 date: "2026-10-08"
 source: "OpenAI Blog"
-count: 3
+count: 4
 ---
 
 # OpenAI Blog - 2026-10-08
 
-3 items collected.
+4 items collected.
 
 ---
 
@@ -35,7 +35,19 @@ With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn b
 
 ---
 
-## 3. Disrupting AI-enabled “false front” operations
+## 3. LegalOn halves Codex costs while maintaining development speed
+
+**Author:** -  
+**Published:** 10/8/2026, 12:00:00 PM  
+**Categories:** -  
+
+LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.
+
+📖 [Read original article](https://openai.com/index/legalon-halves-codex-costs)
+
+---
+
+## 4. Disrupting AI-enabled “false front” operations
 
 **Author:** -  
 **Published:** 10/8/2026, 12:00:00 AM  
