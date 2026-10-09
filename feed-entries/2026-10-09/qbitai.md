@@ -2,16 +2,88 @@
 title: "qbitai - 2026-10-09"
 date: "2026-10-09"
 source: "qbitai"
-count: 6
+count: 10
 ---
 
 # qbitai - 2026-10-09
 
-6 items collected.
+10 items collected.
 
 ---
 
-## 1. 清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据
+## 1. TRAE终于把Code和Work合并了
+
+**Author:** 十三  
+**Published:** 10/9/2026, 9:19:57 AM  
+**Categories:** 资讯, 首页轮播, AI Coding, TRAE  
+
+大写的方便
+
+📖 [Read original article](https://www.qbitai.com/2026/10/502426.html)
+
+---
+
+## 2. 联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一
+
+**Author:** 量子位的朋友们  
+**Published:** 10/9/2026, 8:53:08 AM  
+**Categories:** 资讯, 联想  
+
+联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名
+
+📖 [Read original article](https://www.qbitai.com/2026/10/502422.html)
+
+---
+
+## 3. 0.2秒急停、秒级重规划！因果智能走进真实世界
+
+**Author:** Jay  
+**Published:** 10/9/2026, 8:47:34 AM  
+**Categories:** 资讯, 因果  
+
+这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间
+
+📖 [Read original article](https://www.qbitai.com/2026/10/502411.html)
+
+---
+
+## 4. 字节找到了DeepSeek时强时弱的原因
+
+**Author:** 闻乐  
+**Published:** 10/9/2026, 7:11:55 AM  
+**Categories:** 资讯, Deepseek, 字节Seed  
+
+答不答得对，得看Token站位
+
+📖 [Read original article](https://www.qbitai.com/2026/10/502364.html)
+
+---
+
+## 5. 《柳叶刀》研究表明：AI 有望改善医患关系
+
+**Author:** 梦晨  
+**Published:** 10/9/2026, 6:28:55 AM  
+**Categories:** 资讯, 谷歌  
+
+Google 研究成果首次登上《柳叶刀》主刊
+
+📖 [Read original article](https://www.qbitai.com/2026/10/502359.html)
+
+---
+
+## 6. 灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」
+
+**Author:** 贾浩楠  
+**Published:** 10/9/2026, 4:15:05 AM  
+**Categories:** 资讯, 具身智能  
+
+机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？
+
+📖 [Read original article](https://www.qbitai.com/2026/10/502330.html)
+
+---
+
+## 7. 清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据
 
 **Author:** 田, 晏林  
 **Published:** 10/9/2026, 3:52:21 AM  
@@ -23,7 +95,7 @@ count: 6
 
 ---
 
-## 2. 尊界深夜回应“刹车踏板断裂”，懂车帝再发声
+## 8. 尊界深夜回应“刹车踏板断裂”，懂车帝再发声
 
 **Author:** 杰西卡  
 **Published:** 10/9/2026, 2:51:10 AM  
@@ -35,7 +107,7 @@ count: 6
 
 ---
 
-## 3. openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业
+## 9. openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业
 
 **Author:** 思邈  
 **Published:** 10/9/2026, 2:37:22 AM  
@@ -47,7 +119,7 @@ count: 6
 
 ---
 
-## 4. 代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化
+## 10. 代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化
 
 **Author:** 思邈  
 **Published:** 10/9/2026, 2:03:48 AM  
@@ -56,29 +128,5 @@ count: 6
 让AI反复试错的“练兵场”来了
 
 📖 [Read original article](https://www.qbitai.com/2026/10/502096.html)
-
----
-
-## 5. 陶哲轩带头宣战！人类数学家联合抵制OpenAI
-
-**Author:** Jay  
-**Published:** 10/9/2026, 12:35:57 AM  
-**Categories:** 资讯  
-
-彻底撕破脸了
-
-📖 [Read original article](https://www.qbitai.com/2026/10/502089.html)
-
----
-
-## 6. 不等Gemini 4了！谷歌发布办公Agent，支持调用Claude
-
-**Author:** 衡宇  
-**Published:** 10/9/2026, 12:16:56 AM  
-**Categories:** 资讯, Gemini Agent, 谷歌  
-
-新的“缝合怪”已经出现，怎么能够停滞不前
-
-📖 [Read original article](https://www.qbitai.com/2026/10/502083.html)
 
 ---
