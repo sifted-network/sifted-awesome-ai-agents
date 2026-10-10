@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-07"
 date: "2026-10-07"
 source: "OpenAI Blog"
-count: 3
+count: 2
 ---
 
 # OpenAI Blog - 2026-10-07
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ College Planner is coming to ChatGPT for Teens to help students manage college a
 Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.
 
 📖 [Read original article](https://openai.com/index/radisson)
-
----
-
-## 3. GPT-6 and Intelligent UI for everyone
-
-**Author:** -  
-**Published:** 10/7/2026, 12:00:00 AM  
-**Categories:** Product  
-
-GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.
-
-📖 [Read original article](https://openai.com/index/gpt-6-for-everyone)
 
 ---
