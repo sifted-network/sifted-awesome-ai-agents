@@ -2,12 +2,12 @@
 title: "qbitai - 2026-10-09"
 date: "2026-10-09"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-10-09
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ Google 研究成果首次登上《柳叶刀》主刊
 多Agent协同还能自我进化
 
 📖 [Read original article](https://www.qbitai.com/2026/10/502106.html)
-
----
-
-## 10. 代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化
-
-**Author:** 思邈  
-**Published:** 10/9/2026, 2:03:48 AM  
-**Categories:** 资讯, AgentGarten, MirroS, RSI  
-
-让AI反复试错的“练兵场”来了
-
-📖 [Read original article](https://www.qbitai.com/2026/10/502096.html)
 
 ---
