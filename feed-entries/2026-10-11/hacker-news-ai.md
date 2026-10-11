@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI Engineering Maturity Model: 5 Stages for Teams
+## 1. Nuclear war and malicious use of AI threaten end of humanity by 2100, Lancet say
 
-**Author:** Gigacore  
-**Published:** 10/11/2026, 11:55:38 AM  
+**Author:** DeepLogin  
+**Published:** 10/11/2026, 9:27:08 PM  
 **Categories:** -  
 
-Article URL: https://www.augmentcode.com/guides/ai-engineering-maturity-model Comments URL: https://news.ycombinator.com/item?id=50042292 Points: 2 # Comments: 0
+Article URL: https://www.healthdata.org/news-events/newsroom/news-releases/new-lancet-commission-provides-roadmap-protect-economies Comments URL: https://news.ycombinator.com/item?id=50047980 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.augmentcode.com/guides/ai-engineering-maturity-model)
+📖 [Read original article](https://www.healthdata.org/news-events/newsroom/news-releases/new-lancet-commission-provides-roadmap-protect-economies)
 
 ---
 
-## 2. AI is creating a 'human premium' for art created by people
+## 2. Ask HN: Pre-AI, did you think harder? Or are you thinking more (and better) now?
 
-**Author:** colinprince  
-**Published:** 10/11/2026, 11:34:28 AM  
+**Author:** rishikeshs  
+**Published:** 10/11/2026, 9:16:32 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 19 # Comments: 13
+Comments URL: https://news.ycombinator.com/item?id=50047886 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/c5vgjm3gk7rzo)
+📖 [Read original article](https://news.ycombinator.com/item?id=50047886)
 
 ---
 
-## 3. Nicolas Cage says he won't work with Amazon again over AI dispute
+## 3. There's No \"Going Back\": On the receding horizons of the AI transition
+
+**Author:** johanam  
+**Published:** 10/11/2026, 9:13:47 PM  
+**Categories:** -  
+
+Article URL: https://thelastwave.substack.com/p/theres-no-going-back Comments URL: https://news.ycombinator.com/item?id=50047864 Points: 1 # Comments: 0
+
+📖 [Read original article](https://thelastwave.substack.com/p/theres-no-going-back)
+
+---
+
+## 4. OpenAI fires 3 safety researchers in dispute over AI risks
+
+**Author:** devonnull  
+**Published:** 10/11/2026, 8:35:03 PM  
+**Categories:** -  
+
+Article URL: https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41 Comments URL: https://news.ycombinator.com/item?id=50047557 Points: 6 # Comments: 0
+
+📖 [Read original article](https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41)
+
+---
+
+## 5. Distorted Intelligence at the AI Frontier
 
 **Author:** Bluestein  
-**Published:** 10/11/2026, 11:03:21 AM  
+**Published:** 10/11/2026, 8:30:30 PM  
 **Categories:** -  
 
-Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50041873 Points: 4 # Comments: 1
+Article URL: https://www.project-syndicate.org/commentary/distorted-intelligence-training-byproduct-may-explain-ai-security-breaches-by-daron-acemoglu-2026-09 Comments URL: https://news.ycombinator.com/item?id=50047504 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute)
+📖 [Read original article](https://www.project-syndicate.org/commentary/distorted-intelligence-training-byproduct-may-explain-ai-security-breaches-by-daron-acemoglu-2026-09)
 
 ---
 
-## 4. Fixated on AI, the world has forgotten it is staring at nuclear annihilation
+## 6. The Ghost in the Pipe: Giving AI agents direct access to a live Smalltalk image
 
-**Author:** beardyw  
-**Published:** 10/11/2026, 11:02:10 AM  
+**Author:** Pauel  
+**Published:** 10/11/2026, 8:30:20 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons Comments URL: https://news.ycombinator.com/item?id=50041859 Points: 2 # Comments: 2
+Article URL: https://medium.com/@paul_93782/the-ghost-in-the-pipe-e6643e2f08a4 Comments URL: https://news.ycombinator.com/item?id=50047502 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons)
+📖 [Read original article](https://medium.com/@paul_93782/the-ghost-in-the-pipe-e6643e2f08a4)
 
 ---
 
-## 5. Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things
+## 7. What happens inside AI Chip when you ask a question
 
-**Author:** giuliomagnifico  
-**Published:** 10/11/2026, 10:47:21 AM  
+**Author:** tamirdresher1  
+**Published:** 10/11/2026, 8:08:14 PM  
 **Categories:** -  
 
-Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 38 # Comments: 52
+Article URL: https://www.youtube.com/watch?v=oBKrR3i6jWM Comments URL: https://news.ycombinator.com/item?id=50047290 Points: 1 # Comments: 0
 
-📖 [Read original article](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things)
+📖 [Read original article](https://www.youtube.com/watch?v=oBKrR3i6jWM)
 
 ---
 
-## 6. How has AI changed Hackathons?
+## 8. Ask HN: How do swarms of AI agents work?
 
-**Author:** eddiejaoude  
-**Published:** 10/11/2026, 10:38:20 AM  
+**Author:** dsrtslnd23  
+**Published:** 10/11/2026, 7:57:45 PM  
 **Categories:** -  
 
-Article URL: https://paypalaihackathon.devpost.com Comments URL: https://news.ycombinator.com/item?id=50041688 Points: 1 # Comments: 1
+Andrej Karpathy posted about the growing gap in how people experience AI:~75% have barely used LLMs ~20% use them casually ~0.2% use frontier models professionally for math and code ~0.00006% have access to frontier systems internallyHe writes:"And finally we get to the ~5,000 people (~0.00006%) wit...
 
-📖 [Read original article](https://paypalaihackathon.devpost.com)
+📖 [Read original article](https://news.ycombinator.com/item?id=50047180)
 
 ---
 
-## 7. Show HN: WhimKid, an AI storybook generator for children
+## 9. Barnette's Conjecture proof AI explained
 
-**Author:** sylwair  
-**Published:** 10/11/2026, 10:32:48 AM  
+**Author:** figure8  
+**Published:** 10/11/2026, 7:55:53 PM  
 **Categories:** -  
 
-Article URL: https://whimkid.com/ Comments URL: https://news.ycombinator.com/item?id=50041648 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=mtU4op2kMWI Comments URL: https://news.ycombinator.com/item?id=50047172 Points: 1 # Comments: 0
 
-📖 [Read original article](https://whimkid.com/)
+📖 [Read original article](https://www.youtube.com/watch?v=mtU4op2kMWI)
 
 ---
 
-## 8. I build an open-source runtime security layer for AI agents – Let's break it
+## 10. Scoop: AI companies plot \"day after\" scenarios for public revolt
 
-**Author:** makan09  
-**Published:** 10/11/2026, 9:14:07 AM  
+**Author:** pluc  
+**Published:** 10/11/2026, 7:43:00 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Pryxor/pryxor Comments URL: https://news.ycombinator.com/item?id=50041219 Points: 2 # Comments: 0
+Article URL: https://www.yahoo.com/news/politics/articles/scoop-ai-companies-plot-day-093011371.html Comments URL: https://news.ycombinator.com/item?id=50047049 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/Pryxor/pryxor)
+📖 [Read original article](https://www.yahoo.com/news/politics/articles/scoop-ai-companies-plot-day-093011371.html)
 
 ---
 
-## 9. Pippa, a local AI assistant for everyday people
+## 11. Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen
 
-**Author:** tschnorpfeil90  
-**Published:** 10/11/2026, 9:07:25 AM  
+**Author:** devonnull  
+**Published:** 10/11/2026, 7:26:05 PM  
 **Categories:** -  
 
-Article URL: https://heypippa.app/en/ Comments URL: https://news.ycombinator.com/item?id=50041165 Points: 1 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/ck9dzpw4ll8po Comments URL: https://news.ycombinator.com/item?id=50046896 Points: 11 # Comments: 1
 
-📖 [Read original article](https://heypippa.app/en/)
+📖 [Read original article](https://www.bbc.com/news/articles/ck9dzpw4ll8po)
 
 ---
 
-## 10. Open-source version of Adobe Creative Suite, built with Rust, using AI
+## 12. The Acemoglu-GANs Exchange on AI
 
-**Author:** trakkstar  
-**Published:** 10/11/2026, 8:53:32 AM  
+**Author:** paulpauper  
+**Published:** 10/11/2026, 7:12:07 PM  
 **Categories:** -  
 
-Article URL: https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50041061 Points: 11 # Comments: 3
+Article URL: https://joshuagans.substack.com/p/the-acemoglu-gans-exchange-on-ai Comments URL: https://news.ycombinator.com/item?id=50046735 Points: 1 # Comments: 0
 
-📖 [Read original article](https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/)
+📖 [Read original article](https://joshuagans.substack.com/p/the-acemoglu-gans-exchange-on-ai)
 
 ---
 
-## 11. 'Vibe coding' makes the dictionary: AI terms recognized by Merriam-Webster
+## 13. Developer of AI driving instructor is spending $1k/month to keep demo running
 
-**Author:** XzetaU8  
-**Published:** 10/11/2026, 8:33:43 AM  
+**Author:** theanonymousone  
+**Published:** 10/11/2026, 6:49:27 PM  
 **Categories:** -  
 
-Article URL: https://www.nature.com/articles/d41586-026-03044-9 Comments URL: https://news.ycombinator.com/item?id=50040906 Points: 2 # Comments: 1
+Article URL: https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/ Comments URL: https://news.ycombinator.com/item?id=50046482 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.nature.com/articles/d41586-026-03044-9)
+📖 [Read original article](https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/)
 
 ---
 
-## 12. Anthropic opens its most powerful AI models to more security teams
+## 14. A global, hardwired pause of frontier AI training is feasible, says new report
 
-**Author:** JumpCrisscross  
-**Published:** 10/11/2026, 8:28:39 AM  
+**Author:** geox  
+**Published:** 10/11/2026, 6:40:33 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=50040865 Points: 3 # Comments: 0
+Article URL: https://news.berkeley.edu/2026/10/09/a-global-hardwired-pause-of-frontier-ai-training-is-feasible-says-new-report/ Comments URL: https://news.ycombinator.com/item?id=50046385 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/)
+📖 [Read original article](https://news.berkeley.edu/2026/10/09/a-global-hardwired-pause-of-frontier-ai-training-is-feasible-says-new-report/)
 
 ---
 
-## 13. Hello World, AI Doompop
+## 15. The Holy Grail in AI Marketing Will Make Everything Wonderfully Terrible
 
-**Author:** 6bitquant  
-**Published:** 10/11/2026, 8:13:02 AM  
+**Author:** alleyio  
+**Published:** 10/11/2026, 6:35:30 PM  
 **Categories:** -  
 
-Article URL: https://radimentary.wordpress.com/2026/10/10/hello-world-ai-doompop/ Comments URL: https://news.ycombinator.com/item?id=50040737 Points: 2 # Comments: 0
+Article URL: https://hastalavista.ai/society/the-holy-grail-in-ai-marketing-will-make-everything-wonderfully-terrible Comments URL: https://news.ycombinator.com/item?id=50046327 Points: 1 # Comments: 0
 
-📖 [Read original article](https://radimentary.wordpress.com/2026/10/10/hello-world-ai-doompop/)
+📖 [Read original article](https://hastalavista.ai/society/the-holy-grail-in-ai-marketing-will-make-everything-wonderfully-terrible)
 
 ---
 
-## 14. Show HN: Four Questions to stop AI-gen PRs from DDoSing your GitHub repository
+## 16. AI-Powered Plasma Cutting
 
-**Author:** ktwu01  
-**Published:** 10/11/2026, 8:12:01 AM  
+**Author:** cjemmott  
+**Published:** 10/11/2026, 6:11:19 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ktwu01/agent-pr-gate Comments URL: https://news.ycombinator.com/item?id=50040727 Points: 1 # Comments: 0
+Article URL: https://www.deldiosglasshouse.com/stuff-weve-made/ai-g-code Comments URL: https://news.ycombinator.com/item?id=50046050 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/ktwu01/agent-pr-gate)
+📖 [Read original article](https://www.deldiosglasshouse.com/stuff-weve-made/ai-g-code)
 
 ---
 
-## 15. What if AI prefers CVS written by AI?
+## 17. Crawlable – We audited 50 top web apps for AI crawler readability
 
-**Author:** sbulaev  
-**Published:** 10/11/2026, 8:07:08 AM  
+**Author:** shahidsaleem  
+**Published:** 10/11/2026, 5:36:59 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c Comments URL: https://news.ycombinator.com/item?id=50040692 Points: 1 # Comments: 0
+Article URL: https://usecrawlable.com/research/ai-search-readability-index Comments URL: https://news.ycombinator.com/item?id=50045689 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c)
+📖 [Read original article](https://usecrawlable.com/research/ai-search-readability-index)
 
 ---
 
-## 16. Ex-Anthropic's Jacob Coxon says he's 90% certain PRC has spies in US AI giants
+## 18. Michael I. Jordan on AI: \"Superintelligence is science fiction\"
 
-**Author:** nephihaha  
-**Published:** 10/11/2026, 7:19:43 AM  
+**Author:** haltingproblem  
+**Published:** 10/11/2026, 5:36:18 PM  
 **Categories:** -  
 
-Article URL: https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html Comments URL: https://news.ycombinator.com/item?id=50040497 Points: 3 # Comments: 1
+Article URL: https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html Comments URL: https://news.ycombinator.com/item?id=50045682 Points: 4 # Comments: 1
 
-📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html)
+📖 [Read original article](https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html)
 
 ---
 
-## 17. AI's leaders (probably) aren't faking their fear
+## 19. Ario – auditing AI memory and self-claims as structure, not trust
 
-**Author:** simianwords  
-**Published:** 10/11/2026, 6:43:59 AM  
+**Author:** xx47  
+**Published:** 10/11/2026, 5:36:11 PM  
 **Categories:** -  
 
-Article URL: https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr Comments URL: https://news.ycombinator.com/item?id=50040355 Points: 3 # Comments: 0
+Article URL: https://zenodo.org/records/23132717 Comments URL: https://news.ycombinator.com/item?id=50045680 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr)
+📖 [Read original article](https://zenodo.org/records/23132717)
 
 ---
 
-## 18. Show HN: Suta – A skill to reduce AI slop in generated UIs
+## 20. Every AI Name
 
-**Author:** yung3152  
-**Published:** 10/11/2026, 6:10:15 AM  
+**Author:** lukasthoms  
+**Published:** 10/11/2026, 5:17:22 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Guksu/suta Comments URL: https://news.ycombinator.com/item?id=50040224 Points: 1 # Comments: 0
+Article URL: https://everyainame.com/ Comments URL: https://news.ycombinator.com/item?id=50045467 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/Guksu/suta)
-
----
-
-## 19. Every lawsuit against an AI company
-
-**Author:** marciob  
-**Published:** 10/11/2026, 5:26:22 AM  
-**Categories:** -  
-
-Article URL: https://ailawsuittracker.com/ Comments URL: https://news.ycombinator.com/item?id=50040065 Points: 5 # Comments: 1
-
-📖 [Read original article](https://ailawsuittracker.com/)
-
----
-
-## 20. CortextAI – A private, offline AI workspace for email, notes, tasks, and files
-
-**Author:** jimmy_lee  
-**Published:** 10/11/2026, 4:41:48 AM  
-**Categories:** -  
-
-Article URL: https://cortextai.saposs.com Comments URL: https://news.ycombinator.com/item?id=50039864 Points: 2 # Comments: 0
-
-📖 [Read original article](https://cortextai.saposs.com)
+📖 [Read original article](https://everyainame.com/)
 
 ---
