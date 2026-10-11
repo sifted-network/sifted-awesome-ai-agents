@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-08"
 date: "2026-10-08"
 source: "OpenAI Blog"
-count: 3
+count: 1
 ---
 
 # OpenAI Blog - 2026-10-08
 
-3 items collected.
+1 items collected.
 
 ---
 
@@ -20,29 +20,5 @@ count: 3
 Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.
 
 📖 [Read original article](https://openai.com/index/oracle)
-
----
-
-## 2. Pollo AI turns creative ideas into campaigns with OpenAI
-
-**Author:** -  
-**Published:** 10/8/2026, 12:00:00 PM  
-**Categories:** Startup  
-
-With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.
-
-📖 [Read original article](https://openai.com/index/pollo-ai)
-
----
-
-## 3. LegalOn halves Codex costs while maintaining development speed
-
-**Author:** -  
-**Published:** 10/8/2026, 12:00:00 PM  
-**Categories:** -  
-
-LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.
-
-📖 [Read original article](https://openai.com/index/legalon-halves-codex-costs)
 
 ---
