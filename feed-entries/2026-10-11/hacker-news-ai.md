@@ -2,191 +2,251 @@
 title: "Hacker News AI - 2026-10-11"
 date: "2026-10-11"
 source: "Hacker News AI"
-count: 15
+count: 20
 ---
 
 # Hacker News AI - 2026-10-11
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. Europe confident its rules can thwart rogue AI
+## 1. AI Engineering Maturity Model: 5 Stages for Teams
 
-**Author:** billybuckwheat  
-**Published:** 10/11/2026, 3:57:03 AM  
+**Author:** Gigacore  
+**Published:** 10/11/2026, 11:55:38 AM  
 **Categories:** -  
 
-Article URL: https://www.rnz.co.nz/news/science-and-technology/1824809/europe-confident-its-rules-can-thwart-rogue-ai Comments URL: https://news.ycombinator.com/item?id=50039678 Points: 5 # Comments: 0
+Article URL: https://www.augmentcode.com/guides/ai-engineering-maturity-model Comments URL: https://news.ycombinator.com/item?id=50042292 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.rnz.co.nz/news/science-and-technology/1824809/europe-confident-its-rules-can-thwart-rogue-ai)
+📖 [Read original article](https://www.augmentcode.com/guides/ai-engineering-maturity-model)
 
 ---
 
-## 2. Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list
+## 2. AI is creating a 'human premium' for art created by people
 
-**Author:** vscarpenter  
-**Published:** 10/11/2026, 3:42:56 AM  
+**Author:** colinprince  
+**Published:** 10/11/2026, 11:34:28 AM  
 **Categories:** -  
 
-Article URL: https://github.com/vscarpenter/gsd-task-manager Comments URL: https://news.ycombinator.com/item?id=50039633 Points: 5 # Comments: 2
+Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 19 # Comments: 13
 
-📖 [Read original article](https://github.com/vscarpenter/gsd-task-manager)
+📖 [Read original article](https://www.bbc.com/news/articles/c5vgjm3gk7rzo)
 
 ---
 
-## 3. AI agents in a stand-up call
+## 3. Nicolas Cage says he won't work with Amazon again over AI dispute
 
-**Author:** jonbaer  
-**Published:** 10/11/2026, 3:42:47 AM  
+**Author:** Bluestein  
+**Published:** 10/11/2026, 11:03:21 AM  
 **Categories:** -  
 
-Article URL: https://atoll92.github.io/agent-standup/ Comments URL: https://news.ycombinator.com/item?id=50039630 Points: 2 # Comments: 0
+Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute Comments URL: https://news.ycombinator.com/item?id=50041873 Points: 4 # Comments: 1
 
-📖 [Read original article](https://atoll92.github.io/agent-standup/)
+📖 [Read original article](https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute)
 
 ---
 
-## 4. Satya Nadella says we should assume all AI models are 'compromised'
+## 4. Fixated on AI, the world has forgotten it is staring at nuclear annihilation
 
-**Author:** jonbaer  
-**Published:** 10/11/2026, 3:41:53 AM  
+**Author:** beardyw  
+**Published:** 10/11/2026, 11:02:10 AM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised Comments URL: https://news.ycombinator.com/item?id=50039627 Points: 22 # Comments: 13
+Article URL: https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons Comments URL: https://news.ycombinator.com/item?id=50041859 Points: 2 # Comments: 2
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
+📖 [Read original article](https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons)
 
 ---
 
-## 5. AI Layer – Claude Code Plugins with DuckDB Memory and CI Workflows
+## 5. Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things
 
-**Author:** kriscodes2  
-**Published:** 10/11/2026, 3:23:53 AM  
+**Author:** giuliomagnifico  
+**Published:** 10/11/2026, 10:47:21 AM  
 **Categories:** -  
 
-Article URL: https://gitlab.com/kriscodes2-claude-plugins/ai-layer Comments URL: https://news.ycombinator.com/item?id=50039548 Points: 1 # Comments: 0
+Article URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things Comments URL: https://news.ycombinator.com/item?id=50041765 Points: 38 # Comments: 52
 
-📖 [Read original article](https://gitlab.com/kriscodes2-claude-plugins/ai-layer)
+📖 [Read original article](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things)
 
 ---
 
-## 6. A new AI model that renders generative visuals of what you see
+## 6. How has AI changed Hackathons?
 
-**Author:** inshard  
-**Published:** 10/11/2026, 2:49:23 AM  
+**Author:** eddiejaoude  
+**Published:** 10/11/2026, 10:38:20 AM  
 **Categories:** -  
 
-Article URL: https://www.weizmann.ac.il/pages/news/mathematics-and-computer-science/the-new-science-of-mind-reading Comments URL: https://news.ycombinator.com/item?id=50039367 Points: 6 # Comments: 0
+Article URL: https://paypalaihackathon.devpost.com Comments URL: https://news.ycombinator.com/item?id=50041688 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.weizmann.ac.il/pages/news/mathematics-and-computer-science/the-new-science-of-mind-reading)
+📖 [Read original article](https://paypalaihackathon.devpost.com)
 
 ---
 
-## 7. Rogue Anthropic AI agent gave police fake tip in unsolved murder case
+## 7. Show HN: WhimKid, an AI storybook generator for children
 
-**Author:** rmason  
-**Published:** 10/11/2026, 2:41:19 AM  
+**Author:** sylwair  
+**Published:** 10/11/2026, 10:32:48 AM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/cqkg50j1yd5lo Comments URL: https://news.ycombinator.com/item?id=50039318 Points: 5 # Comments: 4
+Article URL: https://whimkid.com/ Comments URL: https://news.ycombinator.com/item?id=50041648 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/cqkg50j1yd5lo)
+📖 [Read original article](https://whimkid.com/)
 
 ---
 
-## 8. 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter
+## 8. I build an open-source runtime security layer for AI agents – Let's break it
 
-**Author:** davikr  
-**Published:** 10/11/2026, 2:02:38 AM  
+**Author:** makan09  
+**Published:** 10/11/2026, 9:14:07 AM  
 **Categories:** -  
 
-Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 62 # Comments: 44
+Article URL: https://github.com/Pryxor/pryxor Comments URL: https://news.ycombinator.com/item?id=50041219 Points: 2 # Comments: 0
 
-📖 [Read original article](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+📖 [Read original article](https://github.com/Pryxor/pryxor)
 
 ---
 
-## 9. Show HN: I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]
+## 9. Pippa, a local AI assistant for everyday people
 
-**Author:** jaronilan  
-**Published:** 10/11/2026, 1:52:38 AM  
+**Author:** tschnorpfeil90  
+**Published:** 10/11/2026, 9:07:25 AM  
 **Categories:** -  
 
-Article URL: https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf Comments URL: https://news.ycombinator.com/item?id=50039051 Points: 3 # Comments: 1
+Article URL: https://heypippa.app/en/ Comments URL: https://news.ycombinator.com/item?id=50041165 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf)
+📖 [Read original article](https://heypippa.app/en/)
 
 ---
 
-## 10. GMKtec EVO-X3 Mini-PC Review Looking at a 128GB AMD Local AI Box
+## 10. Open-source version of Adobe Creative Suite, built with Rust, using AI
 
-**Author:** lumpa  
-**Published:** 10/11/2026, 1:43:22 AM  
+**Author:** trakkstar  
+**Published:** 10/11/2026, 8:53:32 AM  
 **Categories:** -  
 
-Article URL: https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/ Comments URL: https://news.ycombinator.com/item?id=50039003 Points: 4 # Comments: 0
+Article URL: https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50041061 Points: 11 # Comments: 3
 
-📖 [Read original article](https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/)
+📖 [Read original article](https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/)
 
 ---
 
-## 11. Ask HN: Resources for best practices in software development with AI?
+## 11. 'Vibe coding' makes the dictionary: AI terms recognized by Merriam-Webster
 
-**Author:** sergio-gdr  
-**Published:** 10/11/2026, 1:37:35 AM  
+**Author:** XzetaU8  
+**Published:** 10/11/2026, 8:33:43 AM  
 **Categories:** -  
 
-What resources (authors, podcasts, books, etc) do you follow to keep up with best practices, patterns, methodologies, for software development with AI?There is so much noise that I want to know a few trusted resources (especially authors) to follow to keep up with latest best practices (an example o...
+Article URL: https://www.nature.com/articles/d41586-026-03044-9 Comments URL: https://news.ycombinator.com/item?id=50040906 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50038971)
+📖 [Read original article](https://www.nature.com/articles/d41586-026-03044-9)
 
 ---
 
-## 12. Why your AI agents can't reach the tools you're signed in to, and how to fix it
+## 12. Anthropic opens its most powerful AI models to more security teams
 
-**Author:** alexeyindeev  
-**Published:** 10/11/2026, 1:03:41 AM  
+**Author:** JumpCrisscross  
+**Published:** 10/11/2026, 8:28:39 AM  
 **Categories:** -  
 
-Article URL: https://read.aindeev.com/p/why-your-ai-agents-cant-reach-the Comments URL: https://news.ycombinator.com/item?id=50038743 Points: 9 # Comments: 0
+Article URL: https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=50040865 Points: 3 # Comments: 0
 
-📖 [Read original article](https://read.aindeev.com/p/why-your-ai-agents-cant-reach-the)
+📖 [Read original article](https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/)
 
 ---
 
-## 13. Long-term memory for AI coding agents as a tree of plain files
+## 13. Hello World, AI Doompop
 
-**Author:** gonzar79  
-**Published:** 10/11/2026, 1:02:14 AM  
+**Author:** 6bitquant  
+**Published:** 10/11/2026, 8:13:02 AM  
 **Categories:** -  
 
-Article URL: https://github.com/gonzaroman/IHMT-MEMORY Comments URL: https://news.ycombinator.com/item?id=50038733 Points: 4 # Comments: 0
+Article URL: https://radimentary.wordpress.com/2026/10/10/hello-world-ai-doompop/ Comments URL: https://news.ycombinator.com/item?id=50040737 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/gonzaroman/IHMT-MEMORY)
+📖 [Read original article](https://radimentary.wordpress.com/2026/10/10/hello-world-ai-doompop/)
 
 ---
 
-## 14. Generative AI scandal has come to one of Nikon's competitions
+## 14. Show HN: Four Questions to stop AI-gen PRs from DDoSing your GitHub repository
 
-**Author:** DASD  
-**Published:** 10/11/2026, 12:47:37 AM  
+**Author:** ktwu01  
+**Published:** 10/11/2026, 8:12:01 AM  
 **Categories:** -  
 
-Article URL: https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/ Comments URL: https://news.ycombinator.com/item?id=50038640 Points: 32 # Comments: 50
+Article URL: https://github.com/ktwu01/agent-pr-gate Comments URL: https://news.ycombinator.com/item?id=50040727 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)
+📖 [Read original article](https://github.com/ktwu01/agent-pr-gate)
 
 ---
 
-## 15. Microsoft CEO Nadella Calls for 'Emergency Brake' on Advanced AI
+## 15. What if AI prefers CVS written by AI?
 
 **Author:** sbulaev  
-**Published:** 10/11/2026, 12:07:08 AM  
+**Published:** 10/11/2026, 8:07:08 AM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai Comments URL: https://news.ycombinator.com/item?id=50038376 Points: 8 # Comments: 0
+Article URL: https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c Comments URL: https://news.ycombinator.com/item?id=50040692 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai)
+📖 [Read original article](https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c)
+
+---
+
+## 16. Ex-Anthropic's Jacob Coxon says he's 90% certain PRC has spies in US AI giants
+
+**Author:** nephihaha  
+**Published:** 10/11/2026, 7:19:43 AM  
+**Categories:** -  
+
+Article URL: https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html Comments URL: https://news.ycombinator.com/item?id=50040497 Points: 3 # Comments: 1
+
+📖 [Read original article](https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html)
+
+---
+
+## 17. AI's leaders (probably) aren't faking their fear
+
+**Author:** simianwords  
+**Published:** 10/11/2026, 6:43:59 AM  
+**Categories:** -  
+
+Article URL: https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr Comments URL: https://news.ycombinator.com/item?id=50040355 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr)
+
+---
+
+## 18. Show HN: Suta – A skill to reduce AI slop in generated UIs
+
+**Author:** yung3152  
+**Published:** 10/11/2026, 6:10:15 AM  
+**Categories:** -  
+
+Article URL: https://github.com/Guksu/suta Comments URL: https://news.ycombinator.com/item?id=50040224 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/Guksu/suta)
+
+---
+
+## 19. Every lawsuit against an AI company
+
+**Author:** marciob  
+**Published:** 10/11/2026, 5:26:22 AM  
+**Categories:** -  
+
+Article URL: https://ailawsuittracker.com/ Comments URL: https://news.ycombinator.com/item?id=50040065 Points: 5 # Comments: 1
+
+📖 [Read original article](https://ailawsuittracker.com/)
+
+---
+
+## 20. CortextAI – A private, offline AI workspace for email, notes, tasks, and files
+
+**Author:** jimmy_lee  
+**Published:** 10/11/2026, 4:41:48 AM  
+**Categories:** -  
+
+Article URL: https://cortextai.saposs.com Comments URL: https://news.ycombinator.com/item?id=50039864 Points: 2 # Comments: 0
+
+📖 [Read original article](https://cortextai.saposs.com)
 
 ---
