@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: I found a new planetary candidate in Kepler Data with AI
+## 1. Investing in Short AI Timelines
 
-**Author:** kuberwastaken  
-**Published:** 10/13/2026, 1:33:35 PM  
+**Author:** lukaspetersson  
+**Published:** 10/13/2026, 10:11:06 PM  
 **Categories:** -  
 
-Hey HN! I was playing around with the Kepler and TESS data last weekend when I hacked around a way to pixel-peep planets and star dimming periodically to potentially find new exoplanets with Codex.I ended up running the engine to find an interesting signal in Kepler data with a dip repeating every 1...
+Article URL: https://cambrianmanagement.ai/ Comments URL: https://news.ycombinator.com/item?id=50079629 Points: 1 # Comments: 0
 
-📖 [Read original article](https://kuber.studio/planethunt/)
+📖 [Read original article](https://cambrianmanagement.ai/)
 
 ---
 
-## 2. Sovereign AI starts with open infrastructure
+## 2. Heterogeneity in AI: Pathways from Inference to Compound Systems (Dissertation)
 
-**Author:** mfrw  
-**Published:** 10/13/2026, 1:31:08 PM  
+**Author:** matt_d  
+**Published:** 10/13/2026, 9:24:52 PM  
 **Categories:** -  
 
-Article URL: https://tailscale.com/blog/sovereign-ai-patricia-prewitt Comments URL: https://news.ycombinator.com/item?id=50071458 Points: 1 # Comments: 0
+Article URL: https://doi.org/10.26153/tsw/64881 Comments URL: https://news.ycombinator.com/item?id=50079000 Points: 2 # Comments: 0
 
-📖 [Read original article](https://tailscale.com/blog/sovereign-ai-patricia-prewitt)
+📖 [Read original article](https://doi.org/10.26153/tsw/64881)
 
 ---
 
-## 3. AI's Giant Money Loop Is Drawing Foreign Cash Like 2008
+## 3. Michael I. Jordan on AI: \"Superintelligence is science fiction\"
 
-**Author:** wslh  
-**Published:** 10/13/2026, 1:23:36 PM  
+**Author:** SLHamlet  
+**Published:** 10/13/2026, 9:19:29 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/features/2026-10-12/how-the-ai-boom-is-fueling-global-financial-risks Comments URL: https://news.ycombinator.com/item?id=50071337 Points: 2 # Comments: 1
+Article URL: https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html Comments URL: https://news.ycombinator.com/item?id=50078923 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/features/2026-10-12/how-the-ai-boom-is-fueling-global-financial-risks)
+📖 [Read original article](https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html)
 
 ---
 
-## 4. Apple unveils the new Apple TV 4K, supercharged by Siri AI
+## 4. Surveys on AI and Writing
 
-**Author:** corvad  
-**Published:** 10/13/2026, 1:21:35 PM  
+**Author:** cyndunlop  
+**Published:** 10/13/2026, 8:59:31 PM  
 **Categories:** -  
 
-Article URL: https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/ Comments URL: https://news.ycombinator.com/item?id=50071310 Points: 2 # Comments: 0
+1) For those who have let AI write (or rewrite) any part of their tech blog posts https://forms.gle/3zYuANeuCdcmFt9D92) For anyone who has used any level of AI assistance in any type of professional (tech) writing https://forms.gle/rnHUguku2mLDh1YNA Comments URL: https://news.ycombinator.com/item?id...
 
-📖 [Read original article](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50078659)
 
 ---
 
-## 5. Forcefield: Ultra-fast, lightweight, local-first AI Agent Harness
+## 5. The AI Curiosity Trap
 
-**Author:** jehoshuam  
-**Published:** 10/13/2026, 1:16:19 PM  
+**Author:** antipaul  
+**Published:** 10/13/2026, 8:47:04 PM  
 **Categories:** -  
 
-Article URL: https://github.com/fabledruns/forcefield Comments URL: https://news.ycombinator.com/item?id=50071230 Points: 2 # Comments: 0
+Article URL: https://plpxsk.github.io/2026/10/13/curiosity-trap.html Comments URL: https://news.ycombinator.com/item?id=50078489 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/fabledruns/forcefield)
+📖 [Read original article](https://plpxsk.github.io/2026/10/13/curiosity-trap.html)
 
 ---
 
-## 6. Building hanzkraftedIO in the age of AI-slop articles
+## 6. Show HN: Parsimony – an open-source benchmark for how much code AI models add
 
-**Author:** shoebilyas_hanz  
-**Published:** 10/13/2026, 1:07:20 PM  
+**Author:** lasu  
+**Published:** 10/13/2026, 7:50:31 PM  
 **Categories:** -  
 
-So what was my purpose behind starting Hanzkrafted.IO? A short answer - an internet filled with AI articles everywhere. More specifically, technical articles.This is first, my own personal efforts to become a better engineer, and second, to provide other engineers with high quality technical article...
+Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-be...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50071096)
+📖 [Read original article](https://parsimony.lasu.dev/)
 
 ---
 
-## 7. Disney Bids on Character.ai Assets as Chatbot Files for Chapter 11 Bankruptcy
+## 7. The UAE embraces AI for kindergartners
 
-**Author:** andsoitis  
-**Published:** 10/13/2026, 1:06:45 PM  
+**Author:** herbertl  
+**Published:** 10/13/2026, 7:33:21 PM  
 **Categories:** -  
 
-Article URL: https://variety.com/2026/biz/news/disney-bids-on-character-ai-assets-chapter-11-bankruptcy-1236909984/ Comments URL: https://news.ycombinator.com/item?id=50071087 Points: 2 # Comments: 0
+Article URL: https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/ Comments URL: https://news.ycombinator.com/item?id=50077344 Points: 2 # Comments: 0
 
-📖 [Read original article](https://variety.com/2026/biz/news/disney-bids-on-character-ai-assets-chapter-11-bankruptcy-1236909984/)
+📖 [Read original article](https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/)
 
 ---
 
-## 8. AI godfather Geoffrey Hinton: Trump is 'corrupt, senile felon' who knows
+## 8. Show HN: CoreXTrader – A cross-platform Trading DSL and Voice AI terminal
 
-**Author:** hkhn  
-**Published:** 10/13/2026, 12:58:16 PM  
+**Author:** ask4abusaidu  
+**Published:** 10/13/2026, 7:25:08 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech Comments URL: https://news.ycombinator.com/item?id=50070971 Points: 3 # Comments: 0
+Article URL: https://corextrader.com Comments URL: https://news.ycombinator.com/item?id=50077221 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech)
+📖 [Read original article](https://corextrader.com)
 
 ---
 
-## 9. AI godfather Geoffrey Hinton: Trump is 'corrupt, senile felon' who knows nothing
+## 9. AI Dividend: Economy of the Near Future
 
-**Author:** hkhn  
-**Published:** 10/13/2026, 12:54:37 PM  
+**Author:** mayosmith  
+**Published:** 10/13/2026, 7:24:09 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-techhttps://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech Comments URL: https://news.ycombinator.com/item?id=50070919 Points: 2 # Comments: 2
+Article URL: https://robotpaidmoose.com/ Comments URL: https://news.ycombinator.com/item?id=50077204 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-techhttps://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech)
+📖 [Read original article](https://robotpaidmoose.com/)
 
 ---
 
-## 10. China is building AI data centers at speed as the US wrestles with the costs
+## 10. Ask HN: In the new AI world, what's the best way to review code?
 
-**Author:** andsoitis  
-**Published:** 10/13/2026, 12:50:04 PM  
+**Author:** iwebdevfromhome  
+**Published:** 10/13/2026, 7:09:15 PM  
 **Categories:** -  
 
-Article URL: https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building/ Comments URL: https://news.ycombinator.com/item?id=50070872 Points: 3 # Comments: 1
+Just as title says, in the world of ai accelerated code production, when you're in charge of a repo or project, how do you usually look at code from proposed changes ?I'm interested to find what your workflows look like these days. Comments URL: https://news.ycombinator.com/item?id=50076985 Points: ...
 
-📖 [Read original article](https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50076985)
 
 ---
 
-## 11. China races to build data centres in bid for AI supremacy
+## 11. Sakana AI – Building Frontier AI in Japan
 
-**Author:** andsoitis  
-**Published:** 10/13/2026, 12:48:03 PM  
+**Author:** amai  
+**Published:** 10/13/2026, 6:51:28 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e Comments URL: https://news.ycombinator.com/item?id=50070840 Points: 1 # Comments: 0
+Article URL: https://sakana.ai/ Comments URL: https://news.ycombinator.com/item?id=50076712 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e)
+📖 [Read original article](https://sakana.ai/)
 
 ---
 
-## 12. Behind AI's call for independent reviews, a fight over what gets made public
+## 12. AI distrust is GitHub's opportunity
 
-**Author:** thm  
-**Published:** 10/13/2026, 12:43:33 PM  
+**Author:** runtimewire  
+**Published:** 10/13/2026, 6:50:25 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13/ Comments URL: https://news.ycombinator.com/item?id=50070784 Points: 2 # Comments: 0
+Article URL: https://www.infoworld.com/article/4233357/ai-distrust-is-githubs-opportunity.html Comments URL: https://news.ycombinator.com/item?id=50076691 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/world/behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13/)
+📖 [Read original article](https://www.infoworld.com/article/4233357/ai-distrust-is-githubs-opportunity.html)
 
 ---
 
-## 13. Show HN: MemorySync – Memory for AI Agents
+## 13. AI 3D Prints: Are Claude's Defaults Enough?
 
-**Author:** mohd_rafay  
-**Published:** 10/13/2026, 12:35:42 PM  
+**Author:** e2e4  
+**Published:** 10/13/2026, 6:44:30 PM  
 **Categories:** -  
 
-I created MemorySync because I kept running into the problem of AI agents not being able to remember useful things about users between conversations. I wanted an easy way to give the agents memory in my application without having to build the whole thing myself. MemorySync is an API for giving AI ag...
+Article URL: https://www.youtube.com/watch?v=qcWOvPLFXgg Comments URL: https://news.ycombinator.com/item?id=50076605 Points: 4 # Comments: 0
 
-📖 [Read original article](https://memorysync.io/try)
+📖 [Read original article](https://www.youtube.com/watch?v=qcWOvPLFXgg)
 
 ---
 
-## 14. Elissa AI
+## 14. Show HN: Commit-Aware Router, route LLM traffic around your AI/cloud commitments
 
-**Author:** inginddie  
-**Published:** 10/13/2026, 12:26:04 PM  
+**Author:** tpruthi  
+**Published:** 10/13/2026, 6:34:37 PM  
 **Categories:** -  
 
-Article URL: https://github.com/inginddie/elissa Comments URL: https://news.ycombinator.com/item?id=50070581 Points: 1 # Comments: 0
+LLM routers can optimize for different factors like price, latency, quality, etc. Enterprises tend to have prepaid AI credits, minimum-spend agreements, cloud commitments, or commercial ceilings across OpenAI, Anthropic, AWS, Azure, and other providers. We’ll call these “AI commits”.This project is ...
 
-📖 [Read original article](https://github.com/inginddie/elissa)
+📖 [Read original article](https://github.com/tejaspruthi/CommitAwareRouter)
 
 ---
 
-## 15. Why AI companies are paying a premium to go off the grid and what this costs us
+## 15. Show HN: Hatoba, an open-source SSH client with an AI assistant and E2EE sync
 
-**Author:** ck2  
-**Published:** 10/13/2026, 12:22:56 PM  
+**Author:** scarletkc  
+**Published:** 10/13/2026, 6:31:33 PM  
 **Categories:** -  
 
-Article URL: https://energyathaas.wordpress.com/2026/10/05/buying-time-burning-gas/ Comments URL: https://news.ycombinator.com/item?id=50070546 Points: 2 # Comments: 1
+I've used SSH tools for years and didn't really plan on building yet another SSH client, but I ended up building one the way I wanted. Hatoba is a desktop SSH client for Windows, Linux and macOS. It's written in Rust with Tauri 2 and MIT licensed.Each terminal has an AI assistant panel next to it. Y...
 
-📖 [Read original article](https://energyathaas.wordpress.com/2026/10/05/buying-time-burning-gas/)
+📖 [Read original article](https://github.com/scarletkc/Hatoba)
 
 ---
 
-## 16. Agent Conversion – Can AI agents use your website?
+## 16. Character.ai Files for Bankruptcy
 
-**Author:** ivanpugnaire  
-**Published:** 10/13/2026, 12:13:24 PM  
+**Author:** claytongulick  
+**Published:** 10/13/2026, 6:22:01 PM  
 **Categories:** -  
 
-Article URL: https://agent-conversion-coral.vercel.app/en/research/d001 Comments URL: https://news.ycombinator.com/item?id=50070440 Points: 2 # Comments: 0
+Article URL: https://www.lawcommentary.com/articles/character-ai-bankruptcy-disney-bid-platform-shutdown Comments URL: https://news.ycombinator.com/item?id=50076225 Points: 2 # Comments: 1
 
-📖 [Read original article](https://agent-conversion-coral.vercel.app/en/research/d001)
+📖 [Read original article](https://www.lawcommentary.com/articles/character-ai-bankruptcy-disney-bid-platform-shutdown)
 
 ---
 
-## 17. Exposing why every AI launch goes viral on X [video]
+## 17. Zen and the Art of AI-Assisted Development
 
-**Author:** qwertyforce  
-**Published:** 10/13/2026, 12:07:56 PM  
+**Author:** hatwd  
+**Published:** 10/13/2026, 6:18:13 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=xNgQtzEl4lY Comments URL: https://news.ycombinator.com/item?id=50070383 Points: 4 # Comments: 0
+Article URL: https://blog.thanethomson.com/2026/10/13/zen-and-the-art-of-ai-assisted-development/ Comments URL: https://news.ycombinator.com/item?id=50076177 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=xNgQtzEl4lY)
+📖 [Read original article](https://blog.thanethomson.com/2026/10/13/zen-and-the-art-of-ai-assisted-development/)
 
 ---
 
-## 18. Show HN: AI Crimes, a game where you spot the bug an AI wrote
+## 18. Kroger to lay off 3K corporate employees over 3 years as it leans into AI
 
-**Author:** alexvervloet  
-**Published:** 10/13/2026, 11:57:49 AM  
+**Author:** theanonymousone  
+**Published:** 10/13/2026, 6:15:08 PM  
 **Categories:** -  
 
-I'm holding AI accountable.For the last few months I've been documenting the errors LLMs have been making in my projects and others - the crimes they have been committing to projects (pun intended).Now I've turned it into a game to see if you would spot the issue.Free to play with keyword matching j...
+Article URL: https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598 Comments URL: https://news.ycombinator.com/item?id=50076136 Points: 6 # Comments: 1
 
-📖 [Read original article](https://solveaicrimes.com)
+📖 [Read original article](https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598)
 
 ---
 
-## 19. \"Rogue agents find a way out\": AI communes with evil.com after bypassing sandbox
+## 19. Scaledown.ai Launches Constrained Decoding Models
 
-**Author:** LargeLingoMod  
-**Published:** 10/13/2026, 11:45:26 AM  
+**Author:** nlpnerd  
+**Published:** 10/13/2026, 6:12:31 PM  
 **Categories:** -  
 
-Article URL: https://www.machine.news/rogue-agents-will-always-find-a-way-out-ai-communes-with-evil-com-after-bypassing-sandbox/ Comments URL: https://news.ycombinator.com/item?id=50070125 Points: 1 # Comments: 0
+Article URL: https://twitter.com/neal_k_patel/status/2109978626124898587 Comments URL: https://news.ycombinator.com/item?id=50076101 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.machine.news/rogue-agents-will-always-find-a-way-out-ai-communes-with-evil-com-after-bypassing-sandbox/)
+📖 [Read original article](https://twitter.com/neal_k_patel/status/2109978626124898587)
 
 ---
 
-## 20. Which Experts Should You Trust on AI Doom?
+## 20. I Sent an AI to My Job Interview. So Did the Company. [video]
 
-**Author:** paulpauper  
-**Published:** 10/13/2026, 11:41:38 AM  
+**Author:** doctoboggan  
+**Published:** 10/13/2026, 6:02:03 PM  
 **Categories:** -  
 
-Article URL: https://www.richardhanania.com/p/which-experts-should-you-trust-on Comments URL: https://news.ycombinator.com/item?id=50070089 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=A0fECnj5sas Comments URL: https://news.ycombinator.com/item?id=50075942 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.richardhanania.com/p/which-experts-should-you-trust-on)
+📖 [Read original article](https://www.youtube.com/watch?v=A0fECnj5sas)
 
 ---
