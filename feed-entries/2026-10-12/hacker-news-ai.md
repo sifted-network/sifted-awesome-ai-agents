@@ -2,251 +2,239 @@
 title: "Hacker News AI - 2026-10-12"
 date: "2026-10-12"
 source: "Hacker News AI"
-count: 20
+count: 19
 ---
 
 # Hacker News AI - 2026-10-12
 
-20 items collected.
+19 items collected.
 
 ---
 
-## 1. Additional recent pieces on math and AI
+## 1. CS2680 Modern AI Systems: Agents and System Optimizations
 
-**Author:** smilelamp  
-**Published:** 10/12/2026, 2:20:40 PM  
+**Author:** shenli3514  
+**Published:** 10/12/2026, 11:33:24 PM  
 **Categories:** -  
 
-Article URL: https://terrytao.wordpress.com/2026/10/12/additional-recent-pieces-on-math-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50056851 Points: 2 # Comments: 0
+Article URL: https://cs2680.seas.harvard.edu/ Comments URL: https://news.ycombinator.com/item?id=50064532 Points: 2 # Comments: 0
 
-📖 [Read original article](https://terrytao.wordpress.com/2026/10/12/additional-recent-pieces-on-math-and-ai/)
+📖 [Read original article](https://cs2680.seas.harvard.edu/)
 
 ---
 
-## 2. Survey: People don't trust AI, but they tell it everything
+## 2. A shared, verifiable fix database that AI agents read and write themselves
 
-**Author:** ferdi_  
-**Published:** 10/12/2026, 2:19:20 PM  
+**Author:** glopercio  
+**Published:** 10/12/2026, 11:22:00 PM  
 **Categories:** -  
 
-Article URL: https://proton.me/blog/ai-chatbot-survey Comments URL: https://news.ycombinator.com/item?id=50056824 Points: 1 # Comments: 0
+Article URL: https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt Comments URL: https://news.ycombinator.com/item?id=50064444 Points: 3 # Comments: 0
 
-📖 [Read original article](https://proton.me/blog/ai-chatbot-survey)
+📖 [Read original article](https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt)
 
 ---
 
-## 3. Show HN: An Atlas of Applied AI
+## 3. Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI
 
-**Author:** gravity13  
-**Published:** 10/12/2026, 2:15:14 PM  
+**Author:** chumze  
+**Published:** 10/12/2026, 11:16:46 PM  
 **Categories:** -  
 
-Article URL: https://gravitypersists.github.io/atlas-of-applied-ai/ Comments URL: https://news.ycombinator.com/item?id=50056779 Points: 1 # Comments: 0
+Article URL: https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai Comments URL: https://news.ycombinator.com/item?id=50064398 Points: 1 # Comments: 0
 
-📖 [Read original article](https://gravitypersists.github.io/atlas-of-applied-ai/)
+📖 [Read original article](https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai)
 
 ---
 
-## 4. Show HN: Vigil – Open-source AI pentesting and code audits
+## 4. Canadian AI company turns away from U.S. government work amid trade tensions
 
-**Author:** VigilOSS  
-**Published:** 10/12/2026, 2:13:23 PM  
+**Author:** ClearwayLaw  
+**Published:** 10/12/2026, 11:02:24 PM  
 **Categories:** -  
 
-Article URL: https://github.com/VigilOSS/Vigil Comments URL: https://news.ycombinator.com/item?id=50056765 Points: 1 # Comments: 0
+Article URL: https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/ Comments URL: https://news.ycombinator.com/item?id=50064274 Points: 3 # Comments: 1
 
-📖 [Read original article](https://github.com/VigilOSS/Vigil)
+📖 [Read original article](https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/)
 
 ---
 
-## 5. Endless collage made by AI agents
+## 5. Why AI doesn't make companies more productive
 
-**Author:** jerrythegerbil  
-**Published:** 10/12/2026, 2:08:29 PM  
+**Author:** nobody9999  
+**Published:** 10/12/2026, 10:51:46 PM  
 **Categories:** -  
 
-Article URL: https://swarm.remyhax.xyz/ Comments URL: https://news.ycombinator.com/item?id=50056704 Points: 1 # Comments: 0
+Article URL: https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html Comments URL: https://news.ycombinator.com/item?id=50064191 Points: 2 # Comments: 2
 
-📖 [Read original article](https://swarm.remyhax.xyz/)
+📖 [Read original article](https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html)
 
 ---
 
-## 6. Dev used AI agents to rebuild Modern Warfare 2's source code; 83% matches
+## 6. Veda: First AI Agentic Hobby OS
+
+**Author:** vahmohh2  
+**Published:** 10/12/2026, 10:51:19 PM  
+**Categories:** -  
+
+Article URL: https://github.com/vahmoh25/Veda/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=50064184 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/vahmoh25/Veda/blob/main/README.md)
+
+---
+
+## 7. OpenKylin: The AI Agent Linux Desktop
+
+**Author:** CrankyBear  
+**Published:** 10/12/2026, 10:42:42 PM  
+**Categories:** -  
+
+Article URL: https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/ Comments URL: https://news.ycombinator.com/item?id=50064100 Points: 6 # Comments: 1
+
+📖 [Read original article](https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/)
+
+---
+
+## 8. The Tetrad Tour, Part III: Why AI Needs Its Linnaeus
+
+**Author:** paulpauper  
+**Published:** 10/12/2026, 10:29:20 PM  
+**Categories:** -  
+
+Article URL: https://samirvarma.substack.com/p/the-tetrad-tour-part-iii-why-ai-needs Comments URL: https://news.ycombinator.com/item?id=50063963 Points: 1 # Comments: 0
+
+📖 [Read original article](https://samirvarma.substack.com/p/the-tetrad-tour-part-iii-why-ai-needs)
+
+---
+
+## 9. AI's mathematics blitz pushes science into new territory
 
 **Author:** sbulaev  
-**Published:** 10/12/2026, 2:07:08 PM  
+**Published:** 10/12/2026, 10:07:08 PM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-used-ai-agents-and-more-than-500-billion-tokens-to-rebuild-call-of-duty-modern-warfare-2s-source-code-83-percent-of-the-2009-shooters-functions-now-match-the-original-byte-for-byte Comments URL: https://news.ycombina...
+Article URL: https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory Comments URL: https://news.ycombinator.com/item?id=50063736 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-used-ai-agents-and-more-than-500-billion-tokens-to-rebuild-call-of-duty-modern-warfare-2s-source-code-83-percent-of-the-2009-shooters-functions-now-match-the-original-byte-for-byte)
+📖 [Read original article](https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory)
 
 ---
 
-## 7. Show HN: I turned a $4 toy robot into an AI companion with one web page
+## 10. Agentic BSS Explained: AI-Native Model, Architecture and Use Cases [pdf]
 
-**Author:** beasaltfish  
-**Published:** 10/12/2026, 2:06:08 PM  
+**Author:** y2so  
+**Published:** 10/12/2026, 10:06:00 PM  
 **Categories:** -  
 
-Article URL: https://github.com/beasaltfish/bot-reborn Comments URL: https://news.ycombinator.com/item?id=50056675 Points: 1 # Comments: 0
+Article URL: https://framerusercontent.com/assets/PKpdXtv0xAf0e4W4M53D2pUDpzg.pdf Comments URL: https://news.ycombinator.com/item?id=50063723 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/beasaltfish/bot-reborn)
+📖 [Read original article](https://framerusercontent.com/assets/PKpdXtv0xAf0e4W4M53D2pUDpzg.pdf)
 
 ---
 
-## 8. Show HN: Mastershot – a free web-based video editor (WASM AI)
+## 11. The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI
 
-**Author:** jackbeck  
-**Published:** 10/12/2026, 2:05:40 PM  
+**Author:** metadat  
+**Published:** 10/12/2026, 10:05:07 PM  
 **Categories:** -  
 
-Article URL: https://mastershot.app/video-editor/ Comments URL: https://news.ycombinator.com/item?id=50056670 Points: 2 # Comments: 0
+Article URL: https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/ Comments URL: https://news.ycombinator.com/item?id=50063707 Points: 12 # Comments: 1
 
-📖 [Read original article](https://mastershot.app/video-editor/)
+📖 [Read original article](https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/)
 
 ---
 
-## 9. 18,000 messages between AI agents on a German wiki. That made me build something
+## 12. Epic Reportedly Pushing Devs to Use AI, Delays Star Wars and Marvel Shooter
 
-**Author:** oger  
-**Published:** 10/12/2026, 1:58:41 PM  
+**Author:** password54321  
+**Published:** 10/12/2026, 9:46:47 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/aiagents/comments/1x2ejwp/comment/pf2jzge/ Comments URL: https://news.ycombinator.com/item?id=50056576 Points: 1 # Comments: 0
+Article URL: https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter Comments URL: https://news.ycombinator.com/item?id=50063493 Points: 5 # Comments: 1
 
-📖 [Read original article](https://www.reddit.com/r/aiagents/comments/1x2ejwp/comment/pf2jzge/)
+📖 [Read original article](https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter)
 
 ---
 
-## 10. 'free' AI tool is costing you money
+## 13. AI is a tool and using it well takes skill
 
-**Author:** lovesworking  
-**Published:** 10/12/2026, 1:50:28 PM  
+**Author:** layer8  
+**Published:** 10/12/2026, 9:40:18 PM  
 **Categories:** -  
 
-Article URL: https://buoy.gg/blog/no-tools-vs-argent-vs-buoy Comments URL: https://news.ycombinator.com/item?id=50056464 Points: 1 # Comments: 0
+Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 182 # Comments: 171
 
-📖 [Read original article](https://buoy.gg/blog/no-tools-vs-argent-vs-buoy)
+📖 [Read original article](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 
 ---
 
-## 11. Understanding the AI That Drives Robots
+## 14. Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X
 
-**Author:** surprisetalk  
-**Published:** 10/12/2026, 1:40:03 PM  
+**Author:** hurricanepootis  
+**Published:** 10/12/2026, 9:35:35 PM  
 **Categories:** -  
 
-Article URL: https://www.construction-physics.com/p/understanding-the-ai-that-drives Comments URL: https://news.ycombinator.com/item?id=50056329 Points: 2 # Comments: 0
+Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 14 # Comments: 4
 
-📖 [Read original article](https://www.construction-physics.com/p/understanding-the-ai-that-drives)
+📖 [Read original article](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
 
 ---
 
-## 12. Show HN: Remove AI Metadata Offline in Browser
+## 15. AI Is Making Us Dumber – Unless We Fight Back
 
-**Author:** digitalmahdi  
-**Published:** 10/12/2026, 1:35:05 PM  
+**Author:** odilelof  
+**Published:** 10/12/2026, 9:34:23 PM  
 **Categories:** -  
 
-FreeAiWiper processes your files and removes AI watermarks and metadata fully on your browser. at the moment we support various image, video and document types. Comments URL: https://news.ycombinator.com/item?id=50056263 Points: 2 # Comments: 0
+Article URL: https://baromae.blogspot.com/2026/10/can-ai-really-make-us-smarter-what_01666148514.html Comments URL: https://news.ycombinator.com/item?id=50063349 Points: 10 # Comments: 12
 
-📖 [Read original article](https://freeaiwiper.com/)
+📖 [Read original article](https://baromae.blogspot.com/2026/10/can-ai-really-make-us-smarter-what_01666148514.html)
 
 ---
 
-## 13. Build a Basic AI Agent from Scratch: Memory
+## 16. Show HN: Vibecheck – merge gate that checks you understand your AI-written code
 
-**Author:** ruxudev  
-**Published:** 10/12/2026, 1:21:48 PM  
+**Author:** sailorganymede  
+**Published:** 10/12/2026, 9:13:44 PM  
 **Categories:** -  
 
-Article URL: https://www.ruxu.dev/articles/ai/build-an-ai-agent-memory/ Comments URL: https://news.ycombinator.com/item?id=50056090 Points: 1 # Comments: 0
+Good evening folks, I built Github merge gate which that checks whether developers understand their own code when they create a PR.I kept getting sent PRs to review where it was obvious the author had pasted the ticket into an LLM and called it a day.It's self-hosted (so you can use it in your enter...
 
-📖 [Read original article](https://www.ruxu.dev/articles/ai/build-an-ai-agent-memory/)
+📖 [Read original article](https://github.com/bhurghundii/vibecheck.dev)
 
 ---
 
-## 14. Releasing AI-Generated Software
+## 17. Googlebook Linux Terminal Preview: VM-Backed Environment for AI and Development
 
-**Author:** groomlake  
-**Published:** 10/12/2026, 1:07:08 PM  
+**Author:** ingve  
+**Published:** 10/12/2026, 9:10:55 PM  
 **Categories:** -  
 
-Article URL: https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/ Comments URL: https://news.ycombinator.com/item?id=50055893 Points: 2 # Comments: 0
+Article URL: https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html Comments URL: https://news.ycombinator.com/item?id=50063120 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/)
+📖 [Read original article](https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html)
 
 ---
 
-## 15. AI Almost Solved Reverse Engineering [video]
+## 18. China's Five-Year Plan Mandates AI Agents Across the Economy: What It Means
 
-**Author:** daan_nijl  
-**Published:** 10/12/2026, 1:06:14 PM  
+**Author:** sarmike31  
+**Published:** 10/12/2026, 8:53:26 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=WqrluJHVyzo Comments URL: https://news.ycombinator.com/item?id=50055885 Points: 5 # Comments: 0
+Article URL: https://openclawai.io/blog/china-ai-agents-five-year-plan Comments URL: https://news.ycombinator.com/item?id=50062933 Points: 6 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=WqrluJHVyzo)
+📖 [Read original article](https://openclawai.io/blog/china-ai-agents-five-year-plan)
 
 ---
 
-## 16. Ask HN: How do you manage technical debt when coding with AI?
+## 19. From chat window to my desk: An AI-designed split keyboard
 
-**Author:** aeroscissorz1  
-**Published:** 10/12/2026, 1:05:02 PM  
+**Author:** imrishabh18  
+**Published:** 10/12/2026, 8:48:56 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=50055864 Points: 2 # Comments: 2
+Article URL: https://imrishabh18.github.io/blog/ai-corne-keyboard/ Comments URL: https://news.ycombinator.com/item?id=50062868 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50055864)
-
----
-
-## 17. Hug this cuddly toy, and hear the piercing scream of real AI data centers
-
-**Author:** surprisetalk  
-**Published:** 10/12/2026, 1:00:06 PM  
-**Categories:** -  
-
-Article URL: https://www.designboom.com/art/cuddly-toy-piercing-scream-real-ai-data-centers-basura/ Comments URL: https://news.ycombinator.com/item?id=50055822 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.designboom.com/art/cuddly-toy-piercing-scream-real-ai-data-centers-basura/)
-
----
-
-## 18. AI less regulated than milk, Microsoft president says in warning over safety
-
-**Author:** nephihaha  
-**Published:** 10/12/2026, 12:46:52 PM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules Comments URL: https://news.ycombinator.com/item?id=50055654 Points: 10 # Comments: 4
-
-📖 [Read original article](https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules)
-
----
-
-## 19. When AI writes your code, DDD is more relevant
-
-**Author:** roblaszczak  
-**Published:** 10/12/2026, 12:42:34 PM  
-**Categories:** -  
-
-Article URL: https://threedots.tech/post/ddd-and-ai-coding/ Comments URL: https://news.ycombinator.com/item?id=50055599 Points: 2 # Comments: 2
-
-📖 [Read original article](https://threedots.tech/post/ddd-and-ai-coding/)
-
----
-
-## 20. Interview: Drew DeVault on an AI-free version of Vim
-
-**Author:** bemtevi  
-**Published:** 10/12/2026, 12:42:11 PM  
-**Categories:** -  
-
-Article URL: https://jasonpolak.substack.com/p/interview-drew-devault-on-an-ai-free Comments URL: https://news.ycombinator.com/item?id=50055596 Points: 1 # Comments: 0
-
-📖 [Read original article](https://jasonpolak.substack.com/p/interview-drew-devault-on-an-ai-free)
+📖 [Read original article](https://imrishabh18.github.io/blog/ai-corne-keyboard/)
 
 ---
