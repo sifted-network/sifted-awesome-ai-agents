@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Reasons the AI-Apocalypse May Never Arrive
+## 1. Man sentenced to 18 months for AI music scam
 
-**Author:** paulpauper  
-**Published:** 10/14/2026, 4:18:14 PM  
+**Author:** fallinditch  
+**Published:** 10/14/2026, 9:08:55 PM  
 **Categories:** -  
 
-Article URL: https://mon0.substack.com/p/7-reasons-the-ai-apocalypse-may-never Comments URL: https://news.ycombinator.com/item?id=50090118 Points: 1 # Comments: 0
+Article URL: https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music Comments URL: https://news.ycombinator.com/item?id=50095314 Points: 2 # Comments: 0
 
-📖 [Read original article](https://mon0.substack.com/p/7-reasons-the-ai-apocalypse-may-never)
+📖 [Read original article](https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music)
 
 ---
 
-## 2. Palantir CTO: researchers are taking up smoking as they expect AI to cure cancer
+## 2. Veda – An AI-Native Operating System Built from the Ground Up
 
-**Author:** gregsadetsky  
-**Published:** 10/14/2026, 4:13:21 PM  
+**Author:** saeedmh10  
+**Published:** 10/14/2026, 8:53:20 PM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10 Comments URL: https://news.ycombinator.com/item?id=50090024 Points: 1 # Comments: 1
+Article URL: https://github.com/vahmoh25/Veda/commit/4ff28a2a4530799f72117057c428a4eed3392bb4 Comments URL: https://news.ycombinator.com/item?id=50095049 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10)
+📖 [Read original article](https://github.com/vahmoh25/Veda/commit/4ff28a2a4530799f72117057c428a4eed3392bb4)
 
 ---
 
-## 3. Tagg, a new browser interface with an AI that takes action for you
+## 3. The AI labor apocalypse is on hold (for now)
 
-**Author:** Kam_bam  
-**Published:** 10/14/2026, 4:09:27 PM  
+**Author:** Betelbuddy  
+**Published:** 10/14/2026, 8:23:12 PM  
 **Categories:** -  
 
-Article URL: https://tagg.now/ Comments URL: https://news.ycombinator.com/item?id=50089939 Points: 1 # Comments: 0
+Article URL: https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html Comments URL: https://news.ycombinator.com/item?id=50094575 Points: 2 # Comments: 0
 
-📖 [Read original article](https://tagg.now/)
+📖 [Read original article](https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html)
 
 ---
 
-## 4. Show HN: Sonia. Local AI Assistant Linux. 13Gb RAM, No GPU, Skills Supported
+## 4. Making 3D Model with Meta Oakley AI Glasses and Digital Tape Measure [video]
 
-**Author:** grigio  
-**Published:** 10/14/2026, 4:08:09 PM  
+**Author:** moonsafari508  
+**Published:** 10/14/2026, 8:14:35 PM  
 **Categories:** -  
 
-Article URL: https://github.com/grigio/sonia-assistant Comments URL: https://news.ycombinator.com/item?id=50089901 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/shorts/g2mN4-uiW58 Comments URL: https://news.ycombinator.com/item?id=50094437 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/grigio/sonia-assistant)
+📖 [Read original article](https://www.youtube.com/shorts/g2mN4-uiW58)
 
 ---
 
-## 5. Mathematics and AI Oracles [pdf]
+## 5. AI systems are improving rapidly at Slay the Spire and its sequel
 
-**Author:** shanest  
-**Published:** 10/14/2026, 3:55:43 PM  
+**Author:** tokepi  
+**Published:** 10/14/2026, 8:09:29 PM  
 **Categories:** -  
 
-Article URL: https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf Comments URL: https://news.ycombinator.com/item?id=50089674 Points: 3 # Comments: 0
+Article URL: https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel Comments URL: https://news.ycombinator.com/item?id=50094355 Points: 2 # Comments: 0
 
-📖 [Read original article](https://colala.berkeley.edu/papers/piantadosi2026mathematics.pdf)
+📖 [Read original article](https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel)
 
 ---
 
-## 6. Celestial AI Introduces Photonic Fabric [2x HBM3e and DDR5 Memory] Module (2025)
+## 6. We should reject AI in academia
 
-**Author:** peter_d_sherman  
-**Published:** 10/14/2026, 3:50:30 PM  
+**Author:** speckx  
+**Published:** 10/14/2026, 7:54:43 PM  
 **Categories:** -  
 
-Article URL: https://chiplet-marketplace.com/insights/news/celestial-ai-photonic-fabric-module-soc-with-in-die-optical-interconnect Comments URL: https://news.ycombinator.com/item?id=50089598 Points: 1 # Comments: 1
+Article URL: https://aeporreca.org/blog/why-we-should-reject-ai-in-academia/ Comments URL: https://news.ycombinator.com/item?id=50094095 Points: 3 # Comments: 2
 
-📖 [Read original article](https://chiplet-marketplace.com/insights/news/celestial-ai-photonic-fabric-module-soc-with-in-die-optical-interconnect)
+📖 [Read original article](https://aeporreca.org/blog/why-we-should-reject-ai-in-academia/)
 
 ---
 
-## 7. The state of agentic AI in chip design tools in 2026
+## 7. Show HN: Checkobot – Detect Deepfakes and AI Images
 
-**Author:** i_like_pcbs  
-**Published:** 10/14/2026, 3:48:15 PM  
+**Author:** krtk00  
+**Published:** 10/14/2026, 7:52:36 PM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers Comments URL: https://news.ycombinator.com/item?id=50089558 Points: 1 # Comments: 0
+Hello HN, I am Kartikeya & we are building the best AI Slop Detector - Checkobot.Current AI Image Detectors are functionally jagged. Some are not able to detect deepfakes, some fail on the latest flux models. Some have an unacceptable false flag rate on genuine images.We have been solving the deepfa...
 
-📖 [Read original article](https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers)
+📖 [Read original article](https://checkobot.ai)
 
 ---
 
-## 8. The AI race: China's open-weight models trail US closed models by just 7 months
+## 8. Show HN: OSS AI engineering telemetry without collecting prompts or code
 
-**Author:** CharlesW  
-**Published:** 10/14/2026, 3:44:04 PM  
+**Author:** emotf  
+**Published:** 10/14/2026, 7:51:47 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/ Comments URL: https://news.ycombinator.com/item?id=50089482 Points: 1 # Comments: 0
+Article URL: https://github.com/ascendaone-com/ai-engineer-tools Comments URL: https://news.ycombinator.com/item?id=50094034 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/)
+📖 [Read original article](https://github.com/ascendaone-com/ai-engineer-tools)
 
 ---
 
-## 9. OpenAI CFO Says Firms Using Chinese AI Models Are Risking Safety
+## 9. AI agents overstate their results and remain far from autonomous
 
-**Author:** toomuchtodo  
-**Published:** 10/14/2026, 3:40:55 PM  
+**Author:** elorant  
+**Published:** 10/14/2026, 7:37:54 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety Comments URL: https://news.ycombinator.com/item?id=50089421 Points: 4 # Comments: 3
+Article URL: https://www.renascence.io/news/104630/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study- Comments URL: https://news.ycombinator.com/item?id=50093787 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety)
+📖 [Read original article](https://www.renascence.io/news/104630/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-)
 
 ---
 
-## 10. Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work
+## 10. Show HN: AI Interview Index – which companies allow AI in coding interviews
 
-**Author:** Luc  
-**Published:** 10/14/2026, 3:39:45 PM  
+**Author:** MoritzWall  
+**Published:** 10/14/2026, 7:35:52 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/ Comments URL: https://news.ycombinator.com/item?id=50089395 Points: 40 # Comments: 26
+Article URL: https://aiinterviewindex.com Comments URL: https://news.ycombinator.com/item?id=50093749 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
+📖 [Read original article](https://aiinterviewindex.com)
 
 ---
 
-## 11. Veda: The First AI Native Hobby OS
+## 11. AI safety money floods into politics
 
-**Author:** vahmoh111  
-**Published:** 10/14/2026, 3:39:06 PM  
+**Author:** worik  
+**Published:** 10/14/2026, 7:34:32 PM  
 **Categories:** -  
 
-Article URL: https://github.com/vahmoh25/Veda/blob/main/documentation/images/desktop.png Comments URL: https://news.ycombinator.com/item?id=50089385 Points: 1 # Comments: 0
+Article URL: https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million Comments URL: https://news.ycombinator.com/item?id=50093725 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/vahmoh25/Veda/blob/main/documentation/images/desktop.png)
+📖 [Read original article](https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million)
 
 ---
 
-## 12. Make Your Coding Assistant a 10x AI Engineer
+## 12. Why Does AI Write Like Yoda?
 
-**Author:** gmays  
-**Published:** 10/14/2026, 3:39:05 PM  
+**Author:** BerislavLopac  
+**Published:** 10/14/2026, 7:26:04 PM  
 **Categories:** -  
 
-Article URL: https://sarthakai.substack.com/p/a-coding-plugin-to-make-you-a-10x Comments URL: https://news.ycombinator.com/item?id=50089384 Points: 2 # Comments: 0
+Article URL: https://www.oreilly.com/radar/why-does-ai-write-like-yoda/ Comments URL: https://news.ycombinator.com/item?id=50093561 Points: 3 # Comments: 0
 
-📖 [Read original article](https://sarthakai.substack.com/p/a-coding-plugin-to-make-you-a-10x)
+📖 [Read original article](https://www.oreilly.com/radar/why-does-ai-write-like-yoda/)
 
 ---
 
-## 13. Amazon uses AI-powered 'risk' system to track union activity globally
+## 13. AI sector wipeout risks global financial contagion, IMF report warns
 
-**Author:** mooreds  
-**Published:** 10/14/2026, 3:36:27 PM  
+**Author:** geox  
+**Published:** 10/14/2026, 7:18:55 PM  
 **Categories:** -  
 
-Article URL: https://www.computerweekly.com/news/366652174/Amazon-uses-AI-powered-risk-system-to-track-union-activity-globally Comments URL: https://news.ycombinator.com/item?id=50089333 Points: 3 # Comments: 0
+Article URL: https://www.tomshardware.com/tech-industry/big-tech/the-imf-highlights-how-a-financial-wipeout-in-the-ai-sector-could-become-a-global-contagion-agency-report-shines-light-on-circular-economics-and-leveraged-loans Comments URL: https://news.ycombinator.com/item?id=50093439 Points: 2 # Co...
 
-📖 [Read original article](https://www.computerweekly.com/news/366652174/Amazon-uses-AI-powered-risk-system-to-track-union-activity-globally)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/big-tech/the-imf-highlights-how-a-financial-wipeout-in-the-ai-sector-could-become-a-global-contagion-agency-report-shines-light-on-circular-economics-and-leveraged-loans)
 
 ---
 
-## 14. I Want More from AI Than Another Agent
+## 14. Show HN: Run AI-generated logic safely inside your app
 
-**Author:** nickstinemates  
-**Published:** 10/14/2026, 3:36:22 PM  
+**Author:** cj-builds  
+**Published:** 10/14/2026, 7:18:46 PM  
 **Categories:** -  
 
-Article URL: https://matgreten.dev/posts/i-want-more-from-ai-than-another-agent/ Comments URL: https://news.ycombinator.com/item?id=50089330 Points: 3 # Comments: 0
+Stof is an open-source runtime for logic you don't own or fully trust.Imagine a JSON document with functions inside, scoped to just the document that contains them. Stof instantiates this doc as a small wasm env, and makes these functions safe to call. They can't access or manipulate anything but th...
 
-📖 [Read original article](https://matgreten.dev/posts/i-want-more-from-ai-than-another-agent/)
+📖 [Read original article](https://stof.dev/)
 
 ---
 
-## 15. Anyone built something where AI computation get cryptography receipts
+## 15. Researchers cig-nal their faith in AI by taking up smoking
 
-**Author:** hsma  
-**Published:** 10/14/2026, 3:30:42 PM  
+**Author:** galaxyLogic  
+**Published:** 10/14/2026, 6:36:46 PM  
 **Categories:** -  
 
-We're a small proof-of-useful-work project. The validators don't mine — they verify AI computations (matrix multiplications + activation functions) and get consensus weight for it.The part that matters to you: submit any GEMM workload up to 256×256 and we return the result plus a cryptographic recei...
+Article URL: https://www.theregister.com/ai-and-ml/2026/10/14/researchers-cig-nal-their-faith-in-ai-by-taking-up-smoking/5303118 Comments URL: https://news.ycombinator.com/item?id=50092718 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50089213)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/10/14/researchers-cig-nal-their-faith-in-ai-by-taking-up-smoking/5303118)
 
 ---
 
-## 16. Behavior-Centric AI Design
+## 16. Banks are now trying to offload the AI data center debt they just underwrote
 
-**Author:** nhanlon  
-**Published:** 10/14/2026, 3:26:43 PM  
+**Author:** smartmic  
+**Published:** 10/14/2026, 6:32:52 PM  
 **Categories:** -  
 
-Article URL: https://swamp-club.com/behavior Comments URL: https://news.ycombinator.com/item?id=50089119 Points: 15 # Comments: 1
+Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 183 # Comments: 141
 
-📖 [Read original article](https://swamp-club.com/behavior)
+📖 [Read original article](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
 
 ---
 
-## 17. Show HN: Live release calendar for frontier AI models, from Polymarket odds
+## 17. Through the Visual Language of AI
 
-**Author:** bgolson  
-**Published:** 10/14/2026, 3:25:37 PM  
+**Author:** microsoftedging  
+**Published:** 10/14/2026, 6:20:29 PM  
 **Categories:** -  
 
-Article URL: https://whenitships.com Comments URL: https://news.ycombinator.com/item?id=50089096 Points: 2 # Comments: 1
+Article URL: https://blog.criti.ca/posts/through-the-visual-language-of-ai Comments URL: https://news.ycombinator.com/item?id=50092411 Points: 3 # Comments: 0
 
-📖 [Read original article](https://whenitships.com)
+📖 [Read original article](https://blog.criti.ca/posts/through-the-visual-language-of-ai)
 
 ---
 
-## 18. Show HN: The first short movie built using code and AI
+## 18. Cerebras CEO pushes back on AI doomsday warnings
 
-**Author:** neogoose  
-**Published:** 10/14/2026, 3:23:13 PM  
+**Author:** joebuckwilliams  
+**Published:** 10/14/2026, 6:16:09 PM  
 **Categories:** -  
 
-Article URL: https://fframes.studio/the-why/ Comments URL: https://news.ycombinator.com/item?id=50089045 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/ Comments URL: https://news.ycombinator.com/item?id=50092326 Points: 3 # Comments: 1
 
-📖 [Read original article](https://fframes.studio/the-why/)
+📖 [Read original article](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/)
 
 ---
 
-## 19. Altitude: An AI Workspace for Enterprise
+## 19. Europe's leaders abandon the race for frontier AI
 
-**Author:** buhlake  
-**Published:** 10/14/2026, 3:14:57 PM  
+**Author:** miohtama  
+**Published:** 10/14/2026, 6:15:05 PM  
 **Categories:** -  
 
-Article URL: https://www.altitude.so Comments URL: https://news.ycombinator.com/item?id=50088913 Points: 1 # Comments: 0
+Article URL: https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/ Comments URL: https://news.ycombinator.com/item?id=50092311 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.altitude.so)
+📖 [Read original article](https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/)
 
 ---
 
-## 20. What llms.txt files tell AI agents (beware)
+## 20. I spent 48 hours in SF hanging out with billionaires, data labs and AI execs
 
-**Author:** panoramas4good  
-**Published:** 10/14/2026, 3:11:11 PM  
+**Author:** bigwheels  
+**Published:** 10/14/2026, 6:12:19 PM  
 **Categories:** -  
 
-Article URL: https://www.signalscorps.com/blog/llms-txt-instructions-to-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50088856 Points: 1 # Comments: 0
+Article URL: https://twitter.com/gregisenberg/status/2110414696037716372 Comments URL: https://news.ycombinator.com/item?id=50092262 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.signalscorps.com/blog/llms-txt-instructions-to-ai-agents/)
+📖 [Read original article](https://twitter.com/gregisenberg/status/2110414696037716372)
 
 ---
