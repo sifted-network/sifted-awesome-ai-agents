@@ -2,16 +2,28 @@
 title: "qbitai - 2026-10-14"
 date: "2026-10-14"
 source: "qbitai"
-count: 9
+count: 10
 ---
 
 # qbitai - 2026-10-14
 
-9 items collected.
+10 items collected.
 
 ---
 
-## 1. 阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行
+## 1. 抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！
+
+**Author:** 量子位的朋友们  
+**Published:** 10/14/2026, 10:41:47 AM  
+**Categories:** 资讯, 全球开发者先锋大会  
+
+“具身进实景，劳动最光荣”
+
+📖 [Read original article](https://www.qbitai.com/2026/10/503294.html)
+
+---
+
+## 2. 阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行
 
 **Author:** Jay  
 **Published:** 10/14/2026, 8:01:18 AM  
@@ -23,7 +35,7 @@ count: 9
 
 ---
 
-## 2. 智能不出彩的「领克」，刚靠一次坠崖事故出圈了
+## 3. 智能不出彩的「领克」，刚靠一次坠崖事故出圈了
 
 **Author:** 杰西卡  
 **Published:** 10/14/2026, 7:12:02 AM  
@@ -35,7 +47,7 @@ count: 9
 
 ---
 
-## 3. 《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了
+## 4. 《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了
 
 **Author:** 梦瑶  
 **Published:** 10/14/2026, 7:03:44 AM  
@@ -47,7 +59,7 @@ count: 9
 
 ---
 
-## 4. STEPX首款大模型原生智能体手机STEPX Neo正式发布
+## 5. STEPX首款大模型原生智能体手机STEPX Neo正式发布
 
 **Author:** 量子位的朋友们  
 **Published:** 10/14/2026, 6:45:38 AM  
@@ -59,7 +71,7 @@ count: 9
 
 ---
 
-## 5. MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片
+## 6. MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片
 
 **Author:** 量子位的朋友们  
 **Published:** 10/14/2026, 6:24:00 AM  
@@ -71,7 +83,7 @@ CMOS标准工艺兼容的1TnR技术路线加速研发。
 
 ---
 
-## 6. 国内最年轻AI教授创业：要让世界模型走向全身全模态
+## 7. 国内最年轻AI教授创业：要让世界模型走向全身全模态
 
 **Author:** 思邈  
 **Published:** 10/14/2026, 4:51:32 AM  
@@ -83,7 +95,7 @@ CMOS标准工艺兼容的1TnR技术路线加速研发。
 
 ---
 
-## 7. 调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地
+## 8. 调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地
 
 **Author:** 量子位的朋友们  
 **Published:** 10/14/2026, 4:09:29 AM  
@@ -95,7 +107,7 @@ CMOS标准工艺兼容的1TnR技术路线加速研发。
 
 ---
 
-## 8. 响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent
+## 9. 响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent
 
 **Author:** 量子位的朋友们  
 **Published:** 10/14/2026, 3:32:48 AM  
@@ -107,7 +119,7 @@ CMOS标准工艺兼容的1TnR技术路线加速研发。
 
 ---
 
-## 9. 告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！
+## 10. 告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！
 
 **Author:** 思邈  
 **Published:** 10/14/2026, 2:14:50 AM  
