@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-14"
 date: "2026-10-14"
 source: "OpenAI Blog"
-count: 4
+count: 5
 ---
 
 # OpenAI Blog - 2026-10-14
 
-4 items collected.
+5 items collected.
 
 ---
 
@@ -47,7 +47,19 @@ With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI
 
 ---
 
-## 4. The EU’s next chapter in AI is agentic
+## 4. How Block is building AI-powered security with OpenAI technology
+
+**Author:** -  
+**Published:** 10/14/2026, 7:00:00 AM  
+**Categories:** -  
+
+Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
+
+📖 [Read original article](https://openai.com/index/block-ai-powered-security)
+
+---
+
+## 5. The EU’s next chapter in AI is agentic
 
 **Author:** -  
 **Published:** 10/14/2026, 12:00:00 AM  
