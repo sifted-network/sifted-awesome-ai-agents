@@ -2381,7 +2381,7 @@ arXiv:2610.15760v1 Announce Type: new Abstract: Multiscale structure is central 
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2610.15778v1 Announce Type: new Abstract: When a policy is trained with GRPO against a frozen, reference-free LLM judge, the judge accepts more of its answers, but in a post-hoc analysis we detect no gain in held-out greedy accuracy: in all 12 (policy, judge) cells, the seed-mean gain never ex...
+arXiv:2610.15778v2 Announce Type: new Abstract: Under GRPO against a frozen, reference-free LLM judge, RL exploits the judge's false positives. Does the policy-judge capability gap or the judge itself set how fast and how far? We train 0.5B and 1.5B Qwen2.5 policies on GSM8K against four judges at l...
 
 📖 [Read original article](https://arxiv.org/abs/2610.15778)
 
@@ -3257,7 +3257,7 @@ arXiv:2610.16589v1 Announce Type: new Abstract: Electroencephalography (EEG) rep
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.16596v1 Announce Type: new Abstract: Seizure prediction and detection, essential for clinical treatment of epilepsy, remain the crucial task of this neurological disease. EEG and iEEG are widely used to analyze epilepsy due to its capability of capturing discriminative brain activities at...
+arXiv:2610.16596v2 Announce Type: new Abstract: Seizure prediction and detection, essential for clinical treatment of epilepsy, remain the crucial task of this neurological disease. EEG and iEEG are widely used to analyze epilepsy due to its capability of capturing discriminative brain activities at...
 
 📖 [Read original article](https://arxiv.org/abs/2610.16596)
 
@@ -3269,7 +3269,7 @@ arXiv:2610.16596v1 Announce Type: new Abstract: Seizure prediction and detection
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.RO  
 
-arXiv:2610.16597v1 Announce Type: new Abstract: Expressive flow policies can represent multiple high-value actions, but sampling them with few integration steps while retaining tractable action densities remains challenging. We introduce DEFlow, a deep equilibrium flow policy that replaces explicit ...
+arXiv:2610.16597v2 Announce Type: new Abstract: Expressive flow policies can represent multiple high-value actions, but sampling them with few integration steps while retaining tractable action densities remains challenging. We introduce DEFlow, a deep equilibrium flow policy that replaces explicit ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.16597)
 
@@ -3725,7 +3725,7 @@ arXiv:2610.16946v1 Announce Type: new Abstract: Descriptions of how people use A
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.MS  
 
-arXiv:2610.16948v1 Announce Type: new Abstract: Convex relaxations make nonconvex optimization tractable by replacing hard nonconvex problems with convex surrogates that give valid bounds. Yet their design is still largely manual: a human expert must decide where to relax, which relaxation to use, a...
+arXiv:2610.16948v2 Announce Type: new Abstract: Convex relaxations make nonconvex optimization tractable by replacing hard nonconvex problems with convex surrogates that give valid bounds. Yet their design is still largely manual: a human expert must decide where to relax, which relaxation to use, a...
 
 📖 [Read original article](https://arxiv.org/abs/2610.16948)
 
@@ -4313,7 +4313,7 @@ arXiv:2610.17399v1 Announce Type: new Abstract: Continuous monitoring of generat
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.17407v1 Announce Type: new Abstract: Generating realistic time-series requires faithfully reproducing rare but high-impact extreme events. Existing approaches often rely on specialized representations or extreme-focused training objectives, which may restrict the diversity of captured ext...
+arXiv:2610.17407v2 Announce Type: new Abstract: Generating realistic time-series requires faithfully reproducing rare but high-impact extreme events. Existing approaches often rely on specialized representations or extreme-focused training objectives, which may restrict the diversity of captured ext...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17407)
 
@@ -4577,7 +4577,7 @@ arXiv:2610.17621v1 Announce Type: new Abstract: We propose FedLoRD, a personaliz
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2610.17623v1 Announce Type: new Abstract: Rubric-based reinforcement learning grades a response against many written criteria but collapses them into one reward, which discards the detail the rubric carries and gives no GRPO reward gradient when a group's responses tie. A frozen teacher that r...
+arXiv:2610.17623v2 Announce Type: new Abstract: Rubric-based reinforcement learning grades a response against many written criteria but collapses them into one reward, which discards the detail the rubric carries and gives no GRPO reward gradient when a group's responses tie. A frozen teacher that r...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17623)
 
@@ -4901,7 +4901,7 @@ arXiv:2610.17848v1 Announce Type: new Abstract: Persistence diagrams (PDs) repre
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.17856v1 Announce Type: new Abstract: Time-series analysis is increasingly studied in multimodal settings, yet most benchmarks pair temporal signals with text or with visualizations derived from the same signal. This leaves open whether multimodal large language models (MLLMs) can integrat...
+arXiv:2610.17856v2 Announce Type: new Abstract: Time-series analysis is increasingly studied in multimodal settings, yet most benchmarks pair temporal signals with text or with visualizations derived from the same signal. This leaves open whether multimodal large language models (MLLMs) can integrat...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17856)
 
@@ -4925,7 +4925,7 @@ arXiv:2610.17864v1 Announce Type: new Abstract: Long-term time series forecastin
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.DB  
 
-arXiv:2610.17867v1 Announce Type: new Abstract: Foundation models for tables and relational databases are increasingly used for predictive tasks across various scientific and industrial domains. However, adapting existing models to unseen datasets requires tens of thousands of examples. Here we intr...
+arXiv:2610.17867v2 Announce Type: new Abstract: Foundation models for tables and relational databases are increasingly used for predictive tasks across various scientific and industrial domains. However, adapting existing models to unseen datasets requires tens of thousands of examples. Here we intr...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17867)
 
@@ -4961,7 +4961,7 @@ arXiv:2610.17885v1 Announce Type: new Abstract: Microscopic simulations resolve 
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.SE  
 
-arXiv:2610.17895v1 Announce Type: new Abstract: Coding agents are tasked with producing sophisticated interactive applications such as websites, desktop applications, and games. While humans assess these applications interactively, current automated LLM evaluations primarily focus on code analysis a...
+arXiv:2610.17895v2 Announce Type: new Abstract: Coding agents are tasked with producing sophisticated interactive applications such as websites, desktop applications, and games. While humans assess these applications interactively, current automated LLM evaluations primarily focus on code analysis a...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17895)
 
@@ -5593,11 +5593,11 @@ arXiv:2610.18459v1 Announce Type: new Abstract: External tools can extend the ca
 
 ## 466. Readout Scaling Shapes Sparse Feature Recovery
 
-**Author:** Brain Xiao, Sarah Wilson  
+**Author:** Brian Xiao, Sarah Wilson  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2610.18462v1 Announce Type: new Abstract: Readout scaling changes what a sparse autoencoder (SAE) learns, but the benefit of removing it depends on the data. We use readout-canonicalized decision-space (RC-DS) coordinates to remove singular-value gains while preserving retained decision inform...
+arXiv:2610.18462v2 Announce Type: new Abstract: Readout scaling changes what a sparse autoencoder (SAE) learns, but the benefit of removing it depends on the data. We use readout-canonicalized decision-space (RC-DS) coordinates to remove singular-value gains while preserving retained decision inform...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18462)
 
@@ -5801,7 +5801,7 @@ arXiv:2610.18649v1 Announce Type: new Abstract: Message passing neural networks 
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL, physics.chem-ph  
 
-arXiv:2610.18651v1 Announce Type: new Abstract: Chemical language models (CLMs) are pretrained on large corpora of molecules with the aim of learning representations that transfer to diverse downstream tasks. Here, we systematically study the effects of pretraining using a series of such CLMs across...
+arXiv:2610.18651v2 Announce Type: new Abstract: Chemical language models (CLMs) are pretrained on large corpora of molecules with the aim of learning representations that transfer to diverse downstream tasks. Here, we systematically study the effects of pretraining using a series of such CLMs across...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18651)
 
@@ -6437,7 +6437,7 @@ arXiv:2610.14307v1 Announce Type: cross Abstract: We propose ConicFlow, which fr
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2610.14315v1 Announce Type: cross Abstract: Reconstructing accurate camera poses and floor-plan layouts from sparse, unposed, wide-baseline RGB panoramas remains a challenging open problem. Direct multi-room floor-plan prediction is especially difficult in this setting: pose, geometry, semanti...
+arXiv:2610.14315v2 Announce Type: cross Abstract: Reconstructing accurate camera poses and floor-plan layouts from sparse, unposed, wide-baseline RGB panoramas remains a challenging open problem. Direct multi-room floor-plan prediction is especially difficult in this setting: pose, geometry, semanti...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14315)
 
@@ -6473,7 +6473,7 @@ arXiv:2610.14338v1 Announce Type: cross Abstract: TREGO, a trust-region Bayesian
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI, cs.LG  
 
-arXiv:2610.14350v1 Announce Type: cross Abstract: Having demonstrated a strong potential for automating vulnerability discovery, AI agents can also be used to attack software systems at scale. Today's software systems need mechanisms to level the playing field by slowing down potential attacks, givi...
+arXiv:2610.14350v2 Announce Type: cross Abstract: Having demonstrated a strong potential for automating vulnerability discovery, AI agents can also be used to attack software systems at scale. Today's software systems need mechanisms to level the playing field by slowing down potential attacks, givi...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14350)
 
@@ -6659,13 +6659,13 @@ arXiv:2610.14564v1 Announce Type: cross Abstract: Model-based reinforcement lear
 
 ---
 
-## 555. Strong Gaussian Approximation of Constant-Learning-Rate SGD: Bias and Trajectory Inference
+## 555. Strong Gaussian Approximation of Constant Learning Rate SGD: Bias and Trajectory Inference
 
 **Author:** Joseph Keslin, Wei Biao Wu  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2610.14567v1 Announce Type: cross Abstract: This paper develops strong Gaussian approximations (KMT type) for constant learning rate stochastic gradient descent (SGD). We work with heavy tailed noise and assume that the number of iterates grows and the learning rate shrinks simultaneously. Our...
+arXiv:2610.14567v2 Announce Type: cross Abstract: This paper develops strong Gaussian approximations (KMT type) for constant learning rate stochastic gradient descent (SGD). We work with heavy tailed noise and assume that the number of iterates grows and the learning rate shrinks simultaneously. Our...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14567)
 
@@ -6917,7 +6917,7 @@ arXiv:2610.14958v1 Announce Type: cross Abstract: Activation steering has recent
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG, q-fin.PM  
 
-arXiv:2610.14959v1 Announce Type: cross Abstract: Formulaic alpha mining seeks to discover executable expressions that capture predictive market signals in a vast, noisy search space. Recent LLM-based approaches use prompting, iterative search, or seed-factor evolution, leaving direct factor constru...
+arXiv:2610.14959v2 Announce Type: cross Abstract: Formulaic alpha mining seeks to discover executable expressions that capture predictive market signals in a vast, noisy search space. Recent LLM-based approaches use prompting, iterative search, or seed-factor evolution, leaving direct factor constru...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14959)
 
@@ -7169,7 +7169,7 @@ arXiv:2610.15286v1 Announce Type: cross Abstract: The accuracy of detecting prot
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2610.15322v1 Announce Type: cross Abstract: Enabling the reuse and composition of knowledge and capabilities distributed across foundation models is an important step toward building scalable artificial intelligence (AI) systems. However, architectural differences and incompatible representati...
+arXiv:2610.15322v2 Announce Type: cross Abstract: Enabling the reuse and composition of knowledge and capabilities distributed across foundation models is an important step toward building scalable artificial intelligence (AI) systems. However, architectural differences and incompatible representati...
 
 📖 [Read original article](https://arxiv.org/abs/2610.15322)
 
@@ -7421,7 +7421,7 @@ arXiv:2610.15628v1 Announce Type: cross Abstract: Deep learning is now central t
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2610.15669v1 Announce Type: cross Abstract: Weak bag-level labels are widely available in computational pathology, whereas reliable instance-level annotations for whole-slide images remain expensive and ambiguous. Weakly supervised multiple instance learning (MIL) achieves strong bag-level cla...
+arXiv:2610.15669v2 Announce Type: cross Abstract: Weak bag-level labels are widely available in computational pathology, whereas reliable instance-level annotations for whole-slide images remain expensive and ambiguous. Weakly supervised multiple instance learning (MIL) achieves strong bag-level cla...
 
 📖 [Read original article](https://arxiv.org/abs/2610.15669)
 
@@ -7595,7 +7595,7 @@ arXiv:2610.15892v1 Announce Type: cross Abstract: We study eigenpair estimation 
 
 ---
 
-## 633. Lightweight Scheduling Policies for Continuously Batched LLLM Serving Across GPU Architectures
+## 633. Lightweight Scheduling Policies for Continuously Batched LLM Serving Across GPU Architectures
 
 **Author:** Ashman Mehra, Akshan Agarwal, Aryeh Carmi  
 **Published:** 10/14/2026, 4:00:00 AM  
@@ -9629,7 +9629,7 @@ arXiv:2610.18053v1 Announce Type: cross Abstract: General-purpose robot manipula
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.LG  
 
-arXiv:2610.18054v1 Announce Type: cross Abstract: Anti-money laundering (AML) in financial networks requires modeling transaction patterns that span multiple institutions. In practice, however, banks cannot share account and transaction features due to strict privacy regulations. We propose a privac...
+arXiv:2610.18054v2 Announce Type: cross Abstract: Anti-money laundering (AML) in financial networks requires modeling transaction patterns that span multiple institutions. In practice, however, banks cannot share account and transaction features due to strict privacy regulations. We propose a privac...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18054)
 
@@ -9661,11 +9661,11 @@ arXiv:2610.18067v1 Announce Type: cross Abstract: Scaling interactive environmen
 
 ## 805. ResearchFlow-Eval: Tracing the Execution Gap in End-to-End Multi-Claim Autoresearch
 
-**Author:** Peng Jiang (Tsinghua University), Dongyang Li (Tsinghua University), Quanying Liu (Southern University of Science,Technology), Xiaoxuan Jia (Tsinghua University)  
+**Author:** Peng Jiang, Dongyang Li, Quanying Liu, Xiaoxuan Jia  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2610.18088v1 Announce Type: cross Abstract: Autoresearch systems increasingly undertake entire research projects. In practice, scientific research requires systems to pursue multiple interdependent claims through a continuous, multi-stage workflow and revise experiments as evidence accumulates...
+arXiv:2610.18088v2 Announce Type: cross Abstract: Autoresearch systems increasingly undertake entire research projects. In practice, scientific research requires systems to pursue multiple interdependent claims through a continuous, multi-stage workflow and revise experiments as evidence accumulates...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18088)
 
@@ -9851,13 +9851,13 @@ arXiv:2610.18420v1 Announce Type: cross Abstract: We trained Agaram 2.5B, a 2.5-
 
 ---
 
-## 821. Convergence-Rate-Guided Algorithm Design of Expected Improvement for Continuous Simulation Optimization
+## 821. Principled Design of Expected Improvement for Continuous Simulation Optimization
 
 **Author:** Songhao Wang, Jianglin Xia, Haowei Wang, Szu Hui Ng  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2610.18434v1 Announce Type: cross Abstract: Expected improvement (EI) based on stochastic kriging (SK) surrogate is widely used in continuous simulation optimization, but unknown heteroscedastic noise on simulation output makes three basic design choices consequential: the incumbent used to de...
+arXiv:2610.18434v2 Announce Type: cross Abstract: Expected improvement based on stochastic kriging (SK) surrogate is widely used in continuous simulation optimization, but unknown heteroscedastic noise makes three basic design choices consequential: the incumbent to define improvement, replication a...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18434)
 
@@ -10247,13 +10247,13 @@ arXiv:2610.18825v1 Announce Type: cross Abstract: Simulation-based Bayesian infe
 
 ---
 
-## 854. RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks
+## 854. RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks
 
 **Author:** Kaiyuan Chen, Shuangyu Xie, Uksang Yoo, Xinyue Zhu, Cael Magner, Alvin Zhu, Daehwa Kim, Eric Heiden, Erwin Coumans, Miles Macklin, Spencer Huang, Ken Goldberg  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.GR, cs.LG  
 
-arXiv:2610.18835v1 Announce Type: cross Abstract: It is difficult to accurately model the physics of the interaction between a robot and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformations, stiffness and friction. We present RoboSimStudio (RSS), an interac...
+arXiv:2610.18835v2 Announce Type: cross Abstract: It has been difficult to accurately model the physics of the interaction between a robot and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformations, stiffness and friction. We present RoboSimStudio (RSS), an i...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18835)
 
@@ -10883,13 +10883,13 @@ arXiv:2511.01605v3 Announce Type: replace Abstract: Toeplitz covariance estimati
 
 ---
 
-## 907. A Nesterov-Accelerated Byzantine-Robust Federated Learning
+## 907. A Byzantine-Robust Federated Learning with Nesterov Momentum
 
 **Author:** Lihan Xu, Xiaoyi Fan, Gang Wang, Runhao Zeng, Xiping Hu, Yanjie Dong  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2511.02657v3 Announce Type: replace Abstract: We investigate robust federated learning, where a group of workers collaboratively train a shared model under the orchestration of a central server in the presence of Byzantine adversaries capable of arbitrary and potentially malicious behaviors. T...
+arXiv:2511.02657v4 Announce Type: replace Abstract: We investigate robust federated learning, where a group of workers collaboratively train a shared model under the orchestration of a central server in the presence of Byzantine adversaries capable of arbitrary and potentially malicious behaviors. T...
 
 📖 [Read original article](https://arxiv.org/abs/2511.02657)
 
@@ -11285,7 +11285,7 @@ arXiv:2602.07496v2 Announce Type: replace Abstract: Inverse Reinforcement Learni
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2602.08302v2 Announce Type: replace Abstract: Delayed generalization, where training accuracy becomes nearly perfect substantially before test accuracy, has often been studied in the context of the depth and compositional structure of deep networks. In this paper, we ask whether delayed genera...
+arXiv:2602.08302v3 Announce Type: replace Abstract: Delayed generalization, where training accuracy becomes nearly perfect substantially before test accuracy, has often been studied in the context of the depth and compositional structure of deep networks. In this paper, we ask whether delayed genera...
 
 📖 [Read original article](https://arxiv.org/abs/2602.08302)
 
@@ -11477,7 +11477,7 @@ arXiv:2603.21862v2 Announce Type: replace Abstract: Scaling laws govern macrosco
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CY  
 
-arXiv:2603.28916v2 Announce Type: replace Abstract: Football action-value approaches estimate scoring, possession, or other downstream outcome value; complementary descriptions can characterise how a pass relates to the opposition's spatial structure. We introduce an interpretable structural-passing...
+arXiv:2603.28916v3 Announce Type: replace Abstract: Passing actions are commonly evaluated through ball progression and attacking outcomes, yet their relationship with the spatial organisation of the opposition provides an additional perspective on passing behaviour. This study introduces an interpr...
 
 📖 [Read original article](https://arxiv.org/abs/2603.28916)
 
@@ -11909,7 +11909,7 @@ arXiv:2605.17938v2 Announce Type: replace Abstract: Training data attribution (T
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2605.19660v2 Announce Type: replace Abstract: The rapid advancement toward long-context reasoning and multi-modal intelligence has made the memory footprint of the Key-Value (KV) cache a dominant memory bottleneck for efficient deployment. While the established per-channel quantization effecti...
+arXiv:2605.19660v3 Announce Type: replace Abstract: The rapid advancement toward long-context reasoning and multi-modal intelligence has made the memory footprint of the Key-Value (KV) cache a dominant memory bottleneck for efficient deployment. While the established per-channel quantization effecti...
 
 📖 [Read original article](https://arxiv.org/abs/2605.19660)
 
@@ -12245,7 +12245,7 @@ arXiv:2606.27354v2 Announce Type: replace Abstract: Neural surrogate models offe
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.SI  
 
-arXiv:2606.29240v2 Announce Type: replace Abstract: Heterogeneous graph neural networks (HGNNs) perform well on graphs with multiple node and relation types, but their robustness to attacks with restricted structural access remains insufficiently understood. We propose Blackknife, a query-free, stri...
+arXiv:2606.29240v3 Announce Type: replace Abstract: Heterogeneous graph neural networks (HGNNs) perform well on graphs with multiple node and relation types, but their robustness to attacks with restricted structural access remains insufficiently understood. We propose Blackknife, a query-free, stri...
 
 📖 [Read original article](https://arxiv.org/abs/2606.29240)
 
@@ -12889,11 +12889,11 @@ arXiv:2609.08445v2 Announce Type: replace Abstract: Working entirely on topologi
 
 ## 1074. Structured Multi-Level-Set Inversion for 3-D Electromagnetic Inverse Scattering
 
-**Author:** Yutong Du, Zicheng Liu, Bo Qi, Yali Zong, Peixian Han  
+**Author:** Yutong Du, Zicheng Liu, Bo Qi, Yali Zong, Xin Li, Peixian Han  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, physics.comp-ph  
 
-arXiv:2609.08594v2 Announce Type: replace Abstract: Many dielectric targets encountered in 3-D electromagnetic inverse scattering exhibit piecewise-homogeneous material distributions, which provide useful structural information for inversion. To exploit this property, this paper proposes a structure...
+arXiv:2609.08594v3 Announce Type: replace Abstract: Many dielectric targets encountered in 3-D electromagnetic inverse scattering exhibit piecewise-homogeneous material distributions, which provide useful structural information for inversion. To exploit this property, this paper proposes a structure...
 
 📖 [Read original article](https://arxiv.org/abs/2609.08594)
 
@@ -13193,7 +13193,7 @@ arXiv:2609.34692v3 Announce Type: replace Abstract: The reliable prediction of p
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, q-bio.NC  
 
-arXiv:2609.35445v3 Announce Type: replace Abstract: Effective central nervous system (CNS) intervention requires more than predicting biological responses: a scientific system must determine which intervention, observation, or additional evidence can improve a decision under uncertainty. However, in...
+arXiv:2609.35445v4 Announce Type: replace Abstract: Effective central nervous system (CNS) intervention requires more than predicting biological responses: a scientific system must determine which intervention, observation, or additional evidence can improve a decision under uncertainty. However, in...
 
 📖 [Read original article](https://arxiv.org/abs/2609.35445)
 
@@ -13673,7 +13673,7 @@ arXiv:2610.11065v2 Announce Type: replace Abstract: Automating city-scale wirele
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2610.11152v2 Announce Type: replace Abstract: LLM agents increasingly improve at inference time by accumulating experience in context rather than by updating parameters. This process is often described as in-context reinforcement learning (ICRL). Whether in-context learning (ICL) can actually ...
+arXiv:2610.11152v3 Announce Type: replace Abstract: LLM agents increasingly improve at inference time by accumulating experience in context rather than by updating parameters. This process is often described as in-context reinforcement learning (ICRL). Whether in-context learning (ICL) can actually ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.11152)
 
@@ -13889,7 +13889,7 @@ arXiv:2303.07308v3 Announce Type: replace-cross Abstract: We present NeuSE, a no
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.LG  
 
-arXiv:2404.01867v2 Announce Type: replace-cross Abstract: Efficiently tackling multiple tasks within complex environments, such as those found in robot manipulation, remains an ongoing challenge in robotics and an opportunity for data-driven solutions such as reinforcement learning (RL). The high co...
+arXiv:2404.01867v3 Announce Type: replace-cross Abstract: Efficiently tackling multiple tasks within complex environments, such as those found in robot manipulation, remains an ongoing challenge in robotics and an opportunity for data-driven solutions such as reinforcement learning (RL). The high co...
 
 📖 [Read original article](https://arxiv.org/abs/2404.01867)
 
@@ -14233,11 +14233,11 @@ arXiv:2510.17063v2 Announce Type: replace-cross Abstract: Mean-field variational
 
 ## 1186. Toward Agents That Reason About Their Computation
 
-**Author:** Adrian Orenstein, Jiajing Chen, Gwyneth Anne Delos Santos, Bayley Sapara, Michael Bowling  
+**Author:** Adrian Orenstein, Jessica Jiajing Chen, Gwyneth Anne Delos Santos, Bayley Sapara, Michael Bowling  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2510.22833v2 Announce Type: replace-cross Abstract: While reinforcement learning agents can achieve superhuman performance in many complex tasks, they typically do not become more computationally efficient as they improve. In contrast, humans gradually require less cognitive effort as they bec...
+arXiv:2510.22833v3 Announce Type: replace-cross Abstract: While reinforcement learning agents can achieve superhuman performance in many complex tasks, they typically do not become more computationally efficient as they improve. In contrast, humans gradually require less cognitive effort as they bec...
 
 📖 [Read original article](https://arxiv.org/abs/2510.22833)
 
@@ -15101,7 +15101,7 @@ arXiv:2606.25600v2 Announce Type: replace-cross Abstract: In the first part of t
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI, cs.CE, cs.CL, cs.LG  
 
-arXiv:2606.26277v2 Announce Type: replace-cross Abstract: Sequential user behavior modeling is widely adopted in industrial recommender systems; however, significant gaps remain in financial services, where pre-login web interactions and authenticated in-app experiences differ drastically. Specifica...
+arXiv:2606.26277v3 Announce Type: replace-cross Abstract: Sequential user behavior modeling is widely adopted in industrial recommender systems; however, significant gaps remain in financial services, where pre-login web interactions and authenticated in-app experiences differ drastically. Specifica...
 
 📖 [Read original article](https://arxiv.org/abs/2606.26277)
 
@@ -15341,7 +15341,7 @@ arXiv:2607.28829v2 Announce Type: replace-cross Abstract: Embedded AI agents on 
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.LG  
 
-arXiv:2607.29606v2 Announce Type: replace-cross Abstract: A fundamental challenge of vector search is achieving consistently high recall while minimizing computational costs. Fixed search parameters cause significant performance variance across queries, and conventional evaluation on average recall ...
+arXiv:2607.29606v3 Announce Type: replace-cross Abstract: A fundamental challenge of vector search is achieving consistently high recall while minimizing computational costs. Fixed search parameters cause significant performance variance across queries, and conventional evaluation on average recall ...
 
 📖 [Read original article](https://arxiv.org/abs/2607.29606)
 
@@ -15389,7 +15389,7 @@ arXiv:2608.01454v4 Announce Type: replace-cross Abstract: Provenance-based intru
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2608.03172v4 Announce Type: replace-cross Abstract: Structure-preserving de-identification replaces each detected identifier with a realistic same-type surrogate ("Anna S." -> "Maria S.") rather than a tag such as [NAME]. If downstream PHI detectors no longer recognise surrogates, hiding-in-pl...
+arXiv:2608.03172v5 Announce Type: replace-cross Abstract: Structure-preserving de-identification replaces each detected identifier with a realistic same-type surrogate ("Anna S." -> "Maria S.") rather than a tag such as [NAME]. If downstream PHI detectors no longer recognise surrogates, hiding-in-pl...
 
 📖 [Read original article](https://arxiv.org/abs/2608.03172)
 
@@ -16133,7 +16133,7 @@ arXiv:2610.13217v2 Announce Type: replace-cross Abstract: Video generation suppo
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2610.13935v2 Announce Type: replace-cross Abstract: Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only ...
+arXiv:2610.13935v3 Announce Type: replace-cross Abstract: Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.13935)
 
