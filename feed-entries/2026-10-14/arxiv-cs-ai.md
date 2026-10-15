@@ -53,7 +53,7 @@ arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large L
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.14136v1 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier ...
+arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14136)
 
@@ -541,11 +541,11 @@ arXiv:2610.14700v1 Announce Type: new Abstract: Most text-to-SQL benchmarks prov
 
 ## 45. How to Build a Benchmark That Actually Measures Taste
 
-**Author:** Xiaofan Wu, Xi Zeng, Miaoxia Chen, Peishan Chen, Shuyan Li, Chen Wang, Jiyun Yao, Hanyong Zhong, Jiahao Zhu  
+**Author:** Xiaofan Wu, Xi Zeng, Miaoxia Chen, Peishan Chen, Shuyan Li, Chen Wang, Xiaohan Wang, Wanling Xu, Jiyun Yao, Hanyong Zhong, Jiahao Zhu  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.CV  
 
-arXiv:2610.14707v1 Announce Type: new Abstract: Expert-aligned "taste" benchmarks should reward craft judgment, not the ability to game the test. We introduce TasteBench, a pairwise good-vs-bad benchmark across visual, brand, book, and tech items under a frozen rubric with expert-only gold (panel n>...
+arXiv:2610.14707v2 Announce Type: new Abstract: Expert-aligned "taste" benchmarks should reward craft judgment, not the ability to game the test. We introduce TasteBench, a pairwise good-vs-bad benchmark across visual, brand, book, and tech items under a frozen rubric with expert-only gold (panel n>...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14707)
 
@@ -637,11 +637,11 @@ arXiv:2610.14763v1 Announce Type: new Abstract: Multimodal large language models
 
 ## 53. How Should a Camera-First AI Agent Work?
 
-**Author:** Xiaofan Wu, Xi Zeng, Miaoxia Chen, Peishan Chen, Shuyan Li, Chen Wang, Jiyun Yao, Hanyong Zhong, Jiahao Zhu  
+**Author:** Xiaofan Wu, Xi Zeng, Miaoxia Chen, Peishan Chen, Shuyan Li, Chen Wang, Xiaohan Wang, Wanling Xu, Jiyun Yao, Hanyong Zhong, Jiahao Zhu  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.HC, cs.LO  
 
-arXiv:2610.14772v1 Announce Type: new Abstract: Camera-first agents must act on the visual world as it unfolds. We argue that the central obstacle for future camera-first agents is not recognition ability - multimodal models (vision-language and live/streaming alike) generalize well through language...
+arXiv:2610.14772v2 Announce Type: new Abstract: Camera-first agents must act on the visual world as it unfolds. We argue that the central obstacle for future camera-first agents is not recognition ability - multimodal models (vision-language and live/streaming alike) generalize well through language...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14772)
 
@@ -905,7 +905,7 @@ arXiv:2610.14958v1 Announce Type: new Abstract: Activation steering has recently
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG, q-fin.PM  
 
-arXiv:2610.14959v1 Announce Type: new Abstract: Formulaic alpha mining seeks to discover executable expressions that capture predictive market signals in a vast, noisy search space. Recent LLM-based approaches use prompting, iterative search, or seed-factor evolution, leaving direct factor construct...
+arXiv:2610.14959v2 Announce Type: new Abstract: Formulaic alpha mining seeks to discover executable expressions that capture predictive market signals in a vast, noisy search space. Recent LLM-based approaches use prompting, iterative search, or seed-factor evolution, leaving direct factor construct...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14959)
 
@@ -1265,7 +1265,7 @@ arXiv:2610.15298v1 Announce Type: new Abstract: Large language models (LLMs) off
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2610.15322v1 Announce Type: new Abstract: Enabling the reuse and composition of knowledge and capabilities distributed across foundation models is an important step toward building scalable artificial intelligence (AI) systems. However, architectural differences and incompatible representation...
+arXiv:2610.15322v2 Announce Type: new Abstract: Enabling the reuse and composition of knowledge and capabilities distributed across foundation models is an important step toward building scalable artificial intelligence (AI) systems. However, architectural differences and incompatible representation...
 
 📖 [Read original article](https://arxiv.org/abs/2610.15322)
 
@@ -1369,11 +1369,11 @@ arXiv:2610.15417v1 Announce Type: new Abstract: Mixture-of-experts (MoE) models 
 
 ## 114. Hidden in Plain Sight: Advancing Harmful Content Understanding via Perception-Aware Adversarial Self-Play
 
-**Author:** Yisong Xiao, Benlei Cui, Shiji Zhao, Zonghao Ying, Yaoyuan Zhang, Longtao Huang, Aishan Liu, Hui Xue, Ting Ma, Haiwen Hong, Xianglong Liu  
+**Author:** Yisong Xiao, Benlei Cui, Haiwen Hong, Shiji Zhao, Zonghao Ying, Yaoyuan Zhang, Longtao Huang, Aishan Liu, Hui Xue, Ting Ma, Xianglong Liu  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2610.15449v1 Announce Type: new Abstract: Despite significant advances in language understanding, Large Language Models (LLMs) can still miss meaning hidden in plain sight, failing to identify harmful intent in expressions readily understood by humans. Malicious users exploit this gap by strat...
+arXiv:2610.15449v2 Announce Type: new Abstract: Despite significant advances in language understanding, Large Language Models (LLMs) can still miss meaning hidden in plain sight, failing to identify harmful intent in expressions readily understood by humans. Malicious users exploit this gap by strat...
 
 📖 [Read original article](https://arxiv.org/abs/2610.15449)
 
@@ -1457,7 +1457,7 @@ arXiv:2610.15503v1 Announce Type: new Abstract: This Article critically examines
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.15529v1 Announce Type: new Abstract: Agent-to-agent protocols allow LLM agents to discover peers, exchange results, and coordinate tool use. A locally successful protocol attack, however, may be rejected by a later agent or propagated into a consequential task decision. Measuring local ex...
+arXiv:2610.15529v2 Announce Type: new Abstract: Agent-to-agent protocols allow LLM agents to discover peers, exchange results, and coordinate tool use. A locally successful protocol attack, however, may be rejected by a later agent or propagated into a consequential task decision. Measuring local ex...
 
 📖 [Read original article](https://arxiv.org/abs/2610.15529)
 
@@ -1937,7 +1937,7 @@ arXiv:2610.16110v1 Announce Type: new Abstract: Ultra-short-term forecasting of 
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.MA  
 
-arXiv:2610.16117v1 Announce Type: new Abstract: LLM-based multi-agent collaboration is increasingly used to solve complex tasks by dividing work among specialized agents and integrating complementary expertise. Yet existing systems and evaluations largely rest on an implicit perfect-colleague assump...
+arXiv:2610.16117v2 Announce Type: new Abstract: LLM-based multi-agent collaboration is increasingly used to solve complex tasks by dividing work among specialized agents and integrating complementary expertise. Yet existing systems and evaluations largely rest on an implicit perfect-colleague assump...
 
 📖 [Read original article](https://arxiv.org/abs/2610.16117)
 
@@ -2117,7 +2117,7 @@ arXiv:2610.16280v1 Announce Type: new Abstract: Before changing a deployed AI ag
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2610.16288v1 Announce Type: new Abstract: Frontier LLM agents perform complex interactive tasks, but their inference costs motivate transferring their experience to smaller open-source agents. Distillation and latent communication typically require target-model training or access to source-mod...
+arXiv:2610.16288v2 Announce Type: new Abstract: Frontier LLM agents perform complex interactive tasks, but their inference costs motivate transferring their experience to smaller open-source agents. Distillation and latent communication typically require target-model training or access to source-mod...
 
 📖 [Read original article](https://arxiv.org/abs/2610.16288)
 
@@ -2809,11 +2809,11 @@ arXiv:2610.17118v1 Announce Type: new Abstract: Future AI-native networks are be
 
 ## 234. EvoQuantLab: Training-Free Dual-Loop Evolution for Auditable Quantitative Research
 
-**Author:** Haolin Yang, Zhiqiang Qian, Chutian Chen, Jipeng Zhang, Tangjia Deng, Jian Xie, Shuaishuai Gong, Sirui Han, Yike Guo  
+**Author:** Haolin Yang, Zhiqiang Qian, Chutian Chen, Jipeng Zhang, Zhenghao Zhu, Tangjia Deng, Jian Xie, Shuaishuai Gong, Yike Guo, Sirui Han  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.17130v1 Announce Type: new Abstract: Automated alpha factor discovery is critical for modern quantitative research. While large language models (LLMs) have increasingly been integrated into quantitative workflows, existing agent-based approaches remain highly susceptible to severe backtes...
+arXiv:2610.17130v2 Announce Type: new Abstract: Automated alpha factor discovery is critical for modern quantitative research. While large language models (LLMs) have increasingly been integrated into quantitative workflows, existing agent-based approaches remain highly susceptible to severe backtes...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17130)
 
@@ -3209,7 +3209,7 @@ arXiv:2610.17609v1 Announce Type: new Abstract: Training-free self-improvement l
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.17610v1 Announce Type: new Abstract: Recently, the integration of generative priors has revolutionized Monocular Depth Estimation (MDE), achieving state-of-the-art (SOTA) performance with remarkably high data efficiency. However, although methods based on Text-to-Image (T2I) models excel ...
+arXiv:2610.17610v2 Announce Type: new Abstract: Recently, the integration of generative priors has revolutionized Monocular Depth Estimation (MDE), achieving state-of-the-art (SOTA) performance with remarkably high data efficiency. However, although methods based on Text-to-Image (T2I) models excel ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17610)
 
@@ -3281,7 +3281,7 @@ arXiv:2610.17659v1 Announce Type: new Abstract: Large language model (LLM) agent
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.17665v1 Announce Type: new Abstract: Can vision-language models turn 2D observations into 3D understanding that supports precise action? This requires inferring object geometry, anticipating the effects of rotation, and refining actions through visual feedback. We introduce RoTA-Bench to ...
+arXiv:2610.17665v2 Announce Type: new Abstract: Can vision-language models turn 2D observations into 3D understanding that supports precise action? This requires inferring object geometry, anticipating the effects of rotation, and refining actions through visual feedback. We introduce RoTA-Bench to ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17665)
 
@@ -3673,11 +3673,11 @@ arXiv:2610.18083v1 Announce Type: new Abstract: Scaling recursive self-improveme
 
 ## 306. ResearchFlow-Eval: Tracing the Execution Gap in End-to-End Multi-Claim Autoresearch
 
-**Author:** Peng Jiang (Tsinghua University), Dongyang Li (Tsinghua University), Quanying Liu (Southern University of Science,Technology), Xiaoxuan Jia (Tsinghua University)  
+**Author:** Peng Jiang, Dongyang Li, Quanying Liu, Xiaoxuan Jia  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2610.18088v1 Announce Type: new Abstract: Autoresearch systems increasingly undertake entire research projects. In practice, scientific research requires systems to pursue multiple interdependent claims through a continuous, multi-stage workflow and revise experiments as evidence accumulates. ...
+arXiv:2610.18088v2 Announce Type: new Abstract: Autoresearch systems increasingly undertake entire research projects. In practice, scientific research requires systems to pursue multiple interdependent claims through a continuous, multi-stage workflow and revise experiments as evidence accumulates. ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18088)
 
@@ -3941,7 +3941,7 @@ arXiv:2610.18354v1 Announce Type: new Abstract: Game-theoretic benchmarks claim 
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.18355v1 Announce Type: new Abstract: We introduce \textbf{ABot Embodied Reasoning (ABot-ER)}, a unified embodied reasoning foundation model that breaks the tension between breadth and depth in embodied reasoning. Embodied intelligence demands the joint mastery of perception, planning, and...
+arXiv:2610.18355v2 Announce Type: new Abstract: We introduce ABot Embodied Reasoning (ABot-ER), a unified embodied reasoning foundation model that breaks the tension between breadth and depth in embodied reasoning. Embodied intelligence demands the joint mastery of perception, planning, and executio...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18355)
 
@@ -3977,7 +3977,7 @@ arXiv:2610.18445v1 Announce Type: new Abstract: Automating AI research creates a
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CV, cs.RO  
 
-arXiv:2610.18447v1 Announce Type: new Abstract: World models have emerged as a promising paradigm for embodied AI, yet existing systems often remain fragmented in the modalities they model and the functions they support. In particular, visual dynamics, geometric structure, and executable action are ...
+arXiv:2610.18447v2 Announce Type: new Abstract: World models have emerged as a promising paradigm for embodied AI, yet existing systems often remain fragmented in the modalities they model and the functions they support. In particular, visual dynamics, geometric structure, and executable action are ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18447)
 
@@ -4265,7 +4265,7 @@ arXiv:2610.18780v1 Announce Type: new Abstract: Large language model multi-agent
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2610.18784v1 Announce Type: new Abstract: Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horizon context instead be organized around reusable prog...
+arXiv:2610.18784v2 Announce Type: new Abstract: Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horizon context instead be organized around reusable prog...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18784)
 
@@ -4289,7 +4289,7 @@ arXiv:2610.18813v1 Announce Type: new Abstract: Harness self-evolution revises a
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2610.18820v1 Announce Type: new Abstract: Large language models (LLMs) generally rely on sampling temperature to regulate the amount of randomness in their outputs. Mainstream methods for selecting temperature typically involve fixed, heuristic global settings and context or token-level calibr...
+arXiv:2610.18820v2 Announce Type: new Abstract: Large language models (LLMs) generally rely on sampling temperature to regulate the amount of randomness in their outputs. Mainstream methods for selecting temperature typically involve fixed, heuristic global settings and context or token-level calibr...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18820)
 
@@ -4985,7 +4985,7 @@ arXiv:2610.14299v1 Announce Type: cross Abstract: Recent Speech Full-Duplex (FDX
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2610.14315v1 Announce Type: cross Abstract: Reconstructing accurate camera poses and floor-plan layouts from sparse, unposed, wide-baseline RGB panoramas remains a challenging open problem. Direct multi-room floor-plan prediction is especially difficult in this setting: pose, geometry, semanti...
+arXiv:2610.14315v2 Announce Type: cross Abstract: Reconstructing accurate camera poses and floor-plan layouts from sparse, unposed, wide-baseline RGB panoramas remains a challenging open problem. Direct multi-room floor-plan prediction is especially difficult in this setting: pose, geometry, semanti...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14315)
 
@@ -5021,7 +5021,7 @@ arXiv:2610.14332v1 Announce Type: cross Abstract: Accurate sampling from continu
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI, cs.LG  
 
-arXiv:2610.14350v1 Announce Type: cross Abstract: Having demonstrated a strong potential for automating vulnerability discovery, AI agents can also be used to attack software systems at scale. Today's software systems need mechanisms to level the playing field by slowing down potential attacks, givi...
+arXiv:2610.14350v2 Announce Type: cross Abstract: Having demonstrated a strong potential for automating vulnerability discovery, AI agents can also be used to attack software systems at scale. Today's software systems need mechanisms to level the playing field by slowing down potential attacks, givi...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14350)
 
@@ -5053,11 +5053,11 @@ arXiv:2610.14385v1 Announce Type: cross Abstract: This article offers an overvie
 
 ## 421. RealityBench: Simulated Environments to Evaluate a Vision Language Model's Ability to Document Human Physical Work
 
-**Author:** Andrew Perrault (Relantic, Inc., Columbus, OH, USA), Anmol Takiar (Relantic, Inc., Columbus, OH, USA), Dominik Wienecki (Relantic, Inc., Columbus, OH, USA), Arnab Nandi (Relantic, Inc., Columbus, OH, USA)  
+**Author:** Andrew Perrault (Relantic, Inc., Columbus, OH, USA), Anmol Takiar (Relantic, Inc., Columbus, OH, USA), Dominik Winecki (Relantic, Inc., Columbus, OH, USA), Arnab Nandi (Relantic, Inc., Columbus, OH, USA)  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.CL  
 
-arXiv:2610.14397v1 Announce Type: cross Abstract: Augmenting worker capabilities in the physical world through guidance has been a decades-long goal for AI agents. One key supporting capability is to understand what the worker is doing, seeing through the human's camera or smart glasses, and assist ...
+arXiv:2610.14397v2 Announce Type: cross Abstract: Augmenting worker capabilities in the physical world through guidance has been a decades-long goal for AI agents. One key supporting capability is to understand what the worker is doing, seeing through the human's camera or smart glasses, and assist ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14397)
 
@@ -5269,11 +5269,11 @@ arXiv:2610.14541v1 Announce Type: cross Abstract: Emerging strong Vision-Languag
 
 ## 439. A Self-Defining Operator for Distributed Applications
 
-**Author:** Shihang Li, Thomas Anderson, Ratul Mahajan, Simon Peter  
+**Author:** Shihang Li, Thomas Anderson, Ratul Mahajan, Simon Peter, Luke Zettlemoyer  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.DC, cs.AI  
 
-arXiv:2610.14547v1 Announce Type: cross Abstract: To operate distributed applications with high availability, operators must rapidly diagnose and mitigate any incident. LLM-based agents can help, but unlike experienced human operators they do not improve as they handle more incidents. Each investiga...
+arXiv:2610.14547v2 Announce Type: cross Abstract: To operate distributed applications with high availability, operators must rapidly diagnose and mitigate any incident. LLM-based agents can help, but unlike experienced human operators they do not improve as they handle more incidents. Each investiga...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14547)
 
@@ -5357,7 +5357,7 @@ arXiv:2610.14654v1 Announce Type: cross Abstract: Autoregressive video generator
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2610.14691v1 Announce Type: cross Abstract: Recent advances in 3D hand-object interaction (HOI) perception have opened new opportunities for learning dexterous robotic skills from human videos. However, existing dexterous imitation learning methods often rely on costly and manually teleoperate...
+arXiv:2610.14691v2 Announce Type: cross Abstract: Recent advances in 3D hand-object interaction (HOI) perception have opened new opportunities for learning dexterous robotic skills from human videos. However, existing dexterous imitation learning methods often rely on costly and manually teleoperate...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14691)
 
@@ -6341,7 +6341,7 @@ arXiv:2610.15724v1 Announce Type: cross Abstract: Denoising Diffusion Probabilis
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI  
 
-arXiv:2610.15725v1 Announce Type: cross Abstract: Agent skills encode operational procedures and domain expertise as reusable knowledge assets, yet their distribution in plaintext exposes them to unauthorized copying and leakage. However, practical mechanisms for skill ownership verification and lea...
+arXiv:2610.15725v2 Announce Type: cross Abstract: Agent skills encode operational procedures and domain expertise as reusable knowledge assets, yet their distribution in plaintext exposes them to unauthorized copying and leakage. However, practical mechanisms for skill ownership verification and lea...
 
 📖 [Read original article](https://arxiv.org/abs/2610.15725)
 
@@ -6485,7 +6485,7 @@ arXiv:2610.15894v1 Announce Type: cross Abstract: Large language model (LLM) cod
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2610.15897v1 Announce Type: cross Abstract: Qwen3-8B reviewing Llama-3.1-8B in math adds 33.2 points, yet Qwen3-8B alone is 6.4 points more accurate than the result. Reviewing another model's answer is usually judged by its gain over the generator. We show that this confuses verification, whic...
+arXiv:2610.15897v2 Announce Type: cross Abstract: Qwen3-8B reviewing Llama-3.1-8B in math adds 33.2 points, yet Qwen3-8B alone is 6.4 points more accurate than the result. Reviewing another model's answer is usually judged by its gain over the generator. We show that this confuses verification, whic...
 
 📖 [Read original article](https://arxiv.org/abs/2610.15897)
 
@@ -7157,7 +7157,7 @@ arXiv:2610.16567v1 Announce Type: cross Abstract: Vision-Language-Action models 
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.16596v1 Announce Type: cross Abstract: Seizure prediction and detection, essential for clinical treatment of epilepsy, remain the crucial task of this neurological disease. EEG and iEEG are widely used to analyze epilepsy due to its capability of capturing discriminative brain activities ...
+arXiv:2610.16596v2 Announce Type: cross Abstract: Seizure prediction and detection, essential for clinical treatment of epilepsy, remain the crucial task of this neurological disease. EEG and iEEG are widely used to analyze epilepsy due to its capability of capturing discriminative brain activities ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.16596)
 
@@ -7745,7 +7745,7 @@ arXiv:2610.17126v1 Announce Type: cross Abstract: The rapid proliferation of aut
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.SD, cs.AI, eess.AS  
 
-arXiv:2610.17131v1 Announce Type: cross Abstract: Dynamic spatial audio reasoning requires a model to associate changing acoustic observations with the correct source and recover its spatial state at a queried time or interval, a challenge intensified by overlapping speech and source motion. To stud...
+arXiv:2610.17131v2 Announce Type: cross Abstract: Dynamic spatial audio reasoning requires a model to associate changing acoustic observations with the correct source and recover its spatial state at a queried time or interval, a challenge intensified by overlapping speech and source motion. To stud...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17131)
 
@@ -7985,7 +7985,7 @@ arXiv:2610.17404v1 Announce Type: cross Abstract: Earthquake catalogs underpin s
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.17407v1 Announce Type: cross Abstract: Generating realistic time-series requires faithfully reproducing rare but high-impact extreme events. Existing approaches often rely on specialized representations or extreme-focused training objectives, which may restrict the diversity of captured e...
+arXiv:2610.17407v2 Announce Type: cross Abstract: Generating realistic time-series requires faithfully reproducing rare but high-impact extreme events. Existing approaches often rely on specialized representations or extreme-focused training objectives, which may restrict the diversity of captured e...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17407)
 
@@ -8309,7 +8309,7 @@ arXiv:2610.17603v1 Announce Type: cross Abstract: Background: Five-year survival
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2610.17623v1 Announce Type: cross Abstract: Rubric-based reinforcement learning grades a response against many written criteria but collapses them into one reward, which discards the detail the rubric carries and gives no GRPO reward gradient when a group's responses tie. A frozen teacher that...
+arXiv:2610.17623v2 Announce Type: cross Abstract: Rubric-based reinforcement learning grades a response against many written criteria but collapses them into one reward, which discards the detail the rubric carries and gives no GRPO reward gradient when a group's responses tie. A frozen teacher that...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17623)
 
@@ -8465,7 +8465,7 @@ arXiv:2610.17726v1 Announce Type: cross Abstract: Large language model (LLM) age
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI, cs.CL  
 
-arXiv:2610.17727v1 Announce Type: cross Abstract: Agent skills turn natural-language instructions into actions, creating a security challenge: legitimate automation and malicious behaviour can look deceptively similar. A practical screen must catch nearly every attack while keeping the review load m...
+arXiv:2610.17727v2 Announce Type: cross Abstract: Agent skills turn natural-language instructions into actions, creating a security challenge: legitimate automation and malicious behaviour can look deceptively similar. A practical screen must catch nearly every attack while keeping the review load m...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17727)
 
@@ -8645,7 +8645,7 @@ arXiv:2610.17824v1 Announce Type: cross Abstract: Reinforcement learning with ve
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2610.17829v1 Announce Type: cross Abstract: Multimodal Diffusion Transformers (MM-DiTs) have recently emerged as a powerful framework for unified text-vision synthesis, surpassing traditional U-Net architectures in generative tasks. One key innovation lies in its Multimodal Self-Attention (MM-...
+arXiv:2610.17829v2 Announce Type: cross Abstract: Multimodal Diffusion Transformers (MM-DiTs) have recently emerged as a powerful framework for unified text-vision synthesis, surpassing traditional U-Net architectures in generative tasks. One key innovation lies in its Multimodal Self-Attention (MM-...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17829)
 
@@ -8717,7 +8717,7 @@ arXiv:2610.17841v1 Announce Type: cross Abstract: Evaluating fashion retrieval s
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.17856v1 Announce Type: cross Abstract: Time-series analysis is increasingly studied in multimodal settings, yet most benchmarks pair temporal signals with text or with visualizations derived from the same signal. This leaves open whether multimodal large language models (MLLMs) can integr...
+arXiv:2610.17856v2 Announce Type: cross Abstract: Time-series analysis is increasingly studied in multimodal settings, yet most benchmarks pair temporal signals with text or with visualizations derived from the same signal. This leaves open whether multimodal large language models (MLLMs) can integr...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17856)
 
@@ -8741,7 +8741,7 @@ arXiv:2610.17864v1 Announce Type: cross Abstract: Long-term time series forecast
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.DB  
 
-arXiv:2610.17867v1 Announce Type: cross Abstract: Foundation models for tables and relational databases are increasingly used for predictive tasks across various scientific and industrial domains. However, adapting existing models to unseen datasets requires tens of thousands of examples. Here we in...
+arXiv:2610.17867v2 Announce Type: cross Abstract: Foundation models for tables and relational databases are increasingly used for predictive tasks across various scientific and industrial domains. However, adapting existing models to unseen datasets requires tens of thousands of examples. Here we in...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17867)
 
@@ -8765,7 +8765,7 @@ arXiv:2610.17880v1 Announce Type: cross Abstract: Persona vectors are linear dir
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.SE  
 
-arXiv:2610.17895v1 Announce Type: cross Abstract: Coding agents are tasked with producing sophisticated interactive applications such as websites, desktop applications, and games. While humans assess these applications interactively, current automated LLM evaluations primarily focus on code analysis...
+arXiv:2610.17895v2 Announce Type: cross Abstract: Coding agents are tasked with producing sophisticated interactive applications such as websites, desktop applications, and games. While humans assess these applications interactively, current automated LLM evaluations primarily focus on code analysis...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17895)
 
@@ -9053,7 +9053,7 @@ arXiv:2610.18027v1 Announce Type: cross Abstract: Although machine learning pote
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2610.18039v1 Announce Type: cross Abstract: Vision Transformers achieve strong performance but incur high computational costs from quadratic token interactions. Training-free token reduction methods improve efficiency, but their robustness remains underexplored. We propose Prune-and Merge ViT,...
+arXiv:2610.18039v2 Announce Type: cross Abstract: Vision Transformers achieve strong performance but incur high computational costs from quadratic token interactions. Training-free token reduction methods improve efficiency, but their robustness remains underexplored. We propose Prune-and Merge ViT,...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18039)
 
@@ -9577,11 +9577,11 @@ arXiv:2610.18456v1 Announce Type: cross Abstract: AI-based cellular perturbation
 
 ## 798. Readout Scaling Shapes Sparse Feature Recovery
 
-**Author:** Brain Xiao, Sarah Wilson  
+**Author:** Brian Xiao, Sarah Wilson  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2610.18462v1 Announce Type: cross Abstract: Readout scaling changes what a sparse autoencoder (SAE) learns, but the benefit of removing it depends on the data. We use readout-canonicalized decision-space (RC-DS) coordinates to remove singular-value gains while preserving retained decision info...
+arXiv:2610.18462v2 Announce Type: cross Abstract: Readout scaling changes what a sparse autoencoder (SAE) learns, but the benefit of removing it depends on the data. We use readout-canonicalized decision-space (RC-DS) coordinates to remove singular-value gains while preserving retained decision info...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18462)
 
@@ -9637,11 +9637,11 @@ arXiv:2610.18499v1 Announce Type: cross Abstract: Egocentric video understanding
 
 ## 803. A Global View of How LLMs Value Human Time
 
-**Author:** Yifan He, Sofie Goethals, Manon Reusens, David Martens  
+**Author:** Yifan He, Manon Reusens, Sofie Goethals, David Martens  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CY, cs.AI  
 
-arXiv:2610.18515v1 Announce Type: cross Abstract: Large language models (LLMs) increasingly act as personal assistants; however, little is known about how they capture national-level preferences on a global scale. Given that "time" is a universal and representative concept, we examine LLMs' time pre...
+arXiv:2610.18515v2 Announce Type: cross Abstract: Large language models (LLMs) increasingly act as personal assistants; however, little is known about how they capture national-level preferences on a global scale. Given that "time" is a universal and representative concept, we examine LLMs' time pre...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18515)
 
@@ -10121,19 +10121,19 @@ arXiv:2610.18808v1 Announce Type: cross Abstract: In cooperative Multi-Agent Rei
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2610.18818v1 Announce Type: cross Abstract: Pre-trained Large Language Model (LLMs) are effective on many tasks in zero-shot and few-shot settings. For machine translation of low-resource languages, the obvious options are few-shot prompting and fine-tuning on a small parallel set. We ask: wha...
+arXiv:2610.18818v2 Announce Type: cross Abstract: Pre-trained Large Language Model (LLMs) are effective on many tasks in zero-shot and few-shot settings. For machine translation of low-resource languages, the obvious options are few-shot prompting and fine-tuning on a small parallel set. We ask: wha...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18818)
 
 ---
 
-## 844. RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks
+## 844. RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks
 
 **Author:** Kaiyuan Chen, Shuangyu Xie, Uksang Yoo, Xinyue Zhu, Cael Magner, Alvin Zhu, Daehwa Kim, Eric Heiden, Erwin Coumans, Miles Macklin, Spencer Huang, Ken Goldberg  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI, cs.GR, cs.LG  
 
-arXiv:2610.18835v1 Announce Type: cross Abstract: It is difficult to accurately model the physics of the interaction between a robot and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformations, stiffness and friction. We present RoboSimStudio (RSS), an interac...
+arXiv:2610.18835v2 Announce Type: cross Abstract: It has been difficult to accurately model the physics of the interaction between a robot and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformations, stiffness and friction. We present RoboSimStudio (RSS), an i...
 
 📖 [Read original article](https://arxiv.org/abs/2610.18835)
 
@@ -10417,11 +10417,11 @@ arXiv:2510.14980v4 Announce Type: replace Abstract: Large language models (LLMs)
 
 ## 868. Toward Agents That Reason About Their Computation
 
-**Author:** Adrian Orenstein, Jiajing Chen, Gwyneth Anne Delos Santos, Bayley Sapara, Michael Bowling  
+**Author:** Adrian Orenstein, Jessica Jiajing Chen, Gwyneth Anne Delos Santos, Bayley Sapara, Michael Bowling  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2510.22833v2 Announce Type: replace Abstract: While reinforcement learning agents can achieve superhuman performance in many complex tasks, they typically do not become more computationally efficient as they improve. In contrast, humans gradually require less cognitive effort as they become mo...
+arXiv:2510.22833v3 Announce Type: replace Abstract: While reinforcement learning agents can achieve superhuman performance in many complex tasks, they typically do not become more computationally efficient as they improve. In contrast, humans gradually require less cognitive effort as they become mo...
 
 📖 [Read original article](https://arxiv.org/abs/2510.22833)
 
@@ -11237,7 +11237,7 @@ arXiv:2608.01822v2 Announce Type: replace Abstract: Training LLM-based search ag
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2608.03172v4 Announce Type: replace Abstract: Structure-preserving de-identification replaces each detected identifier with a realistic same-type surrogate ("Anna S." -> "Maria S.") rather than a tag such as [NAME]. If downstream PHI detectors no longer recognise surrogates, hiding-in-plain-si...
+arXiv:2608.03172v5 Announce Type: replace Abstract: Structure-preserving de-identification replaces each detected identifier with a realistic same-type surrogate ("Anna S." -> "Maria S.") rather than a tag such as [NAME]. If downstream PHI detectors no longer recognise surrogates, hiding-in-plain-si...
 
 📖 [Read original article](https://arxiv.org/abs/2608.03172)
 
@@ -11849,7 +11849,7 @@ arXiv:2610.03251v2 Announce Type: replace Abstract: A model trained on "The capi
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.03948v2 Announce Type: replace Abstract: Autonomous driving decision systems must balance safety, efficiency, and social norms in complex traffic interactions. Philosophical and ethical considerations have received limited attention in existing autonomous driving decision-making approache...
+arXiv:2610.03948v3 Announce Type: replace Abstract: Autonomous driving decision systems must balance safety, efficiency, and social norms in complex traffic interactions. Philosophical and ethical considerations have received limited attention in existing autonomous driving decision-making approache...
 
 📖 [Read original article](https://arxiv.org/abs/2610.03948)
 
@@ -13241,7 +13241,7 @@ arXiv:2602.06219v3 Announce Type: replace-cross Abstract: World models offer a p
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2602.08302v2 Announce Type: replace-cross Abstract: Delayed generalization, where training accuracy becomes nearly perfect substantially before test accuracy, has often been studied in the context of the depth and compositional structure of deep networks. In this paper, we ask whether delayed ...
+arXiv:2602.08302v3 Announce Type: replace-cross Abstract: Delayed generalization, where training accuracy becomes nearly perfect substantially before test accuracy, has often been studied in the context of the depth and compositional structure of deep networks. In this paper, we ask whether delayed ...
 
 📖 [Read original article](https://arxiv.org/abs/2602.08302)
 
@@ -13379,13 +13379,13 @@ arXiv:2603.07373v2 Announce Type: replace-cross Abstract: The rapid growth of AI
 
 ---
 
-## 1115. HybridStitch: Pixel and Timestep Level Model Stitching for Diffusion Acceleration
+## 1115. HybridStitch: Token-Adaptive Model Stitching for Efficient Diffusion Generation
 
 **Author:** Desen Sun, Jason Hon, Jintao Zhang, Sihang Liu  
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2603.07815v2 Announce Type: replace-cross Abstract: Iterative diffusion generation requires different amounts of model capacity at different token positions. Prior model combinations allocate capacity by denoising step or by drafting and verification role. We present HybridStitch, a training-f...
+arXiv:2603.07815v3 Announce Type: replace-cross Abstract: Iterative diffusion generation requires different amounts of model capacity at different token positions. Prior model combinations allocate capacity by denoising step or by drafting and verification role. We present HybridStitch, a training-f...
 
 📖 [Read original article](https://arxiv.org/abs/2603.07815)
 
@@ -13409,7 +13409,7 @@ arXiv:2603.11479v5 Announce Type: replace-cross Abstract: Time Series Event Dete
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2603.14371v3 Announce Type: replace-cross Abstract: Embodied AI agents increasingly require parallel execution of multiple tasks, such as manipulation, conversation, and memory construction, from shared observations under distinct time constraints. Recent Mixture-of-Transformers (MoT) Vision-L...
+arXiv:2603.14371v4 Announce Type: replace-cross Abstract: Embodied AI agents increasingly require parallel execution of multiple tasks, such as manipulation, conversation, and memory construction, from shared observations under distinct time constraints. Recent Mixture-of-Transformers (MoT) Vision-L...
 
 📖 [Read original article](https://arxiv.org/abs/2603.14371)
 
@@ -14561,7 +14561,7 @@ arXiv:2606.25451v2 Announce Type: replace-cross Abstract: Group Relative Policy 
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI, cs.CE, cs.CL, cs.LG  
 
-arXiv:2606.26277v2 Announce Type: replace-cross Abstract: Sequential user behavior modeling is widely adopted in industrial recommender systems; however, significant gaps remain in financial services, where pre-login web interactions and authenticated in-app experiences differ drastically. Specifica...
+arXiv:2606.26277v3 Announce Type: replace-cross Abstract: Sequential user behavior modeling is widely adopted in industrial recommender systems; however, significant gaps remain in financial services, where pre-login web interactions and authenticated in-app experiences differ drastically. Specifica...
 
 📖 [Read original article](https://arxiv.org/abs/2606.26277)
 
@@ -16241,7 +16241,7 @@ arXiv:2610.13225v2 Announce Type: replace-cross Abstract: Generative modeling fo
 **Published:** 10/14/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2610.13935v2 Announce Type: replace-cross Abstract: Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only ...
+arXiv:2610.13935v3 Announce Type: replace-cross Abstract: Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.13935)
 
