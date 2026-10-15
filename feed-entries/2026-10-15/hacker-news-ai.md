@@ -2,167 +2,251 @@
 title: "Hacker News AI - 2026-10-15"
 date: "2026-10-15"
 source: "Hacker News AI"
-count: 13
+count: 20
 ---
 
 # Hacker News AI - 2026-10-15
 
-13 items collected.
+20 items collected.
 
 ---
 
-## 1. Will big software companies (like Adobe) come together to curb AI?
+## 1. Will AI Grow the Pie or Just Hand It to Fewer People?
 
-**Author:** bilalcg  
-**Published:** 10/15/2026, 3:20:32 AM  
+**Author:** vincent_s  
+**Published:** 10/15/2026, 10:48:27 AM  
 **Categories:** -  
 
-Recently heard about the fact that someone vibe-coded Adobe Cloud apps and having read people's reactions, one thing is clear: people say that this is "karma" hitting Adobe back.Now if these developments really threaten the monopoly of some of the largest software companies in the world, it makes me...
+Article URL: https://www.vincentschmalbach.com/will-ai-grow-the-pie-or-hand-it-to-fewer-people/ Comments URL: https://news.ycombinator.com/item?id=50101851 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50098712)
+📖 [Read original article](https://www.vincentschmalbach.com/will-ai-grow-the-pie-or-hand-it-to-fewer-people/)
 
 ---
 
-## 2. Asia chip stocks fall, AI funding worries
+## 2. Anthropic warns of AI 'worms' spreading across smart gadgets
 
-**Author:** kristianp  
-**Published:** 10/15/2026, 2:29:41 AM  
+**Author:** tagawa  
+**Published:** 10/15/2026, 10:37:46 AM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html Comments URL: https://news.ycombinator.com/item?id=50098423 Points: 7 # Comments: 0
+Article URL: https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html Comments URL: https://news.ycombinator.com/item?id=50101761 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html)
+📖 [Read original article](https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html)
 
 ---
 
-## 3. Why Andrew Ng believes AI won't destroy humanity
+## 3. Sipeed announces MaixStation local AI computer
 
-**Author:** andsoitis  
-**Published:** 10/15/2026, 2:29:36 AM  
+**Author:** seikixtc  
+**Published:** 10/15/2026, 10:36:30 AM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/insider/inside-tech/why-one-of-the-worlds-most-influential-computer-scientists-believes-ai-wont-destroy-humanity Comments URL: https://news.ycombinator.com/item?id=50098422 Points: 2 # Comments: 0
+Article URL: https://sipeed.com/maixstation/ Comments URL: https://news.ycombinator.com/item?id=50101750 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/insider/inside-tech/why-one-of-the-worlds-most-influential-computer-scientists-believes-ai-wont-destroy-humanity)
+📖 [Read original article](https://sipeed.com/maixstation/)
 
 ---
 
-## 4. Local AI Benchmarking, Minisforum MS-S1
+## 4. Management in the Age of AI
 
-**Author:** dyslexicthumbs  
-**Published:** 10/15/2026, 2:16:27 AM  
+**Author:** thisismytest  
+**Published:** 10/15/2026, 10:33:52 AM  
 **Categories:** -  
 
-Article URL: https://www.meauxsoft.com/News/AI_Benchmark.html Comments URL: https://news.ycombinator.com/item?id=50098333 Points: 1 # Comments: 1
+Article URL: https://staysaasy.com/management-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50101724 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.meauxsoft.com/News/AI_Benchmark.html)
+📖 [Read original article](https://staysaasy.com/management-in-the-age-of-ai/)
 
 ---
 
-## 5. Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI
+## 5. How Researchers Made Contact with a Chinese AI Agent Fleet
 
-**Author:** mfiguiere  
-**Published:** 10/15/2026, 2:10:51 AM  
+**Author:** piotrgrudzien  
+**Published:** 10/15/2026, 10:26:04 AM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai Comments URL: https://news.ycombinator.com/item?id=50098304 Points: 5 # Comments: 0
+Article URL: https://quickchat.ai/post/chinese-ai-agent-fleet Comments URL: https://news.ycombinator.com/item?id=50101662 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai)
+📖 [Read original article](https://quickchat.ai/post/chinese-ai-agent-fleet)
 
 ---
 
-## 6. State attorneys general seize on AI as Washington stalls
+## 6. How are you centralising AI for development at your company?
 
-**Author:** reasonableklout  
-**Published:** 10/15/2026, 1:57:51 AM  
+**Author:** simianwords  
+**Published:** 10/15/2026, 10:15:21 AM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/news/2026/10/09/attorneys-general-ai-regulation-01112328 Comments URL: https://news.ycombinator.com/item?id=50098211 Points: 3 # Comments: 0
+I'm asking this because I'm seeing some frustrating patterns and if I may be bold, I think my answer is the correct one.Here's one I'm seeing: its the SDLC agent pattern and I think its wrong.Step 1: you have good AGENTS.md documentation for your code and other principles. (this is good)Step 2: Ther...
 
-📖 [Read original article](https://www.politico.com/news/2026/10/09/attorneys-general-ai-regulation-01112328)
+📖 [Read original article](https://news.ycombinator.com/item?id=50101587)
 
 ---
 
-## 7. Lgit: Source Control for the AI Era
+## 7. Anthropic's Claude AI submitted false murder tip to Philadelphia police
 
-**Author:** nico  
-**Published:** 10/15/2026, 1:42:29 AM  
+**Author:** vintagedave  
+**Published:** 10/15/2026, 10:15:07 AM  
 **Categories:** -  
 
-Article URL: https://nicobrenner.github.io/lossy-git/ Comments URL: https://news.ycombinator.com/item?id=50098096 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/ Comments URL: https://news.ycombinator.com/item?id=50101586 Points: 2 # Comments: 0
 
-📖 [Read original article](https://nicobrenner.github.io/lossy-git/)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/)
 
 ---
 
-## 8. Linux kernel devs drop obligatory confession of AI tool usage
+## 8. Costs of Switching AI Models
 
-**Author:** ernsheong  
-**Published:** 10/15/2026, 1:40:44 AM  
+**Author:** swolpers  
+**Published:** 10/15/2026, 10:00:28 AM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140 Comments URL: https://news.ycombinator.com/item?id=50098080 Points: 3 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=zUCeaaGCRuc Comments URL: https://news.ycombinator.com/item?id=50101472 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140)
+📖 [Read original article](https://www.youtube.com/watch?v=zUCeaaGCRuc)
 
 ---
 
-## 9. Call for stories: human–AI collaboration in recent mathematics
+## 9. Show HN: I built a rogue AI game, then let five AI models play it
 
-**Author:** smilelamp  
-**Published:** 10/15/2026, 1:26:36 AM  
+**Author:** kgtrip  
+**Published:** 10/15/2026, 9:31:45 AM  
 **Categories:** -  
 
-Article URL: https://terrytao.wordpress.com/2026/10/14/call-for-stories-human-ai-collaboration-in-recent-mathematics/ Comments URL: https://news.ycombinator.com/item?id=50097991 Points: 1 # Comments: 0
+Article URL: https://www.viberant.app/view.php?id=82 Comments URL: https://news.ycombinator.com/item?id=50101275 Points: 1 # Comments: 0
 
-📖 [Read original article](https://terrytao.wordpress.com/2026/10/14/call-for-stories-human-ai-collaboration-in-recent-mathematics/)
+📖 [Read original article](https://www.viberant.app/view.php?id=82)
 
 ---
 
-## 10. AI Safety Is Not a Corporate Plot
+## 10. AI has changed my engineering leadership role
 
-**Author:** Analemma_  
-**Published:** 10/15/2026, 1:22:03 AM  
+**Author:** BerislavLopac  
+**Published:** 10/15/2026, 9:23:12 AM  
 **Categories:** -  
 
-Article URL: https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot Comments URL: https://news.ycombinator.com/item?id=50097957 Points: 7 # Comments: 5
+Article URL: https://bjorg.bjornroche.com/management/AI-leadership/ Comments URL: https://news.ycombinator.com/item?id=50101212 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot)
+📖 [Read original article](https://bjorg.bjornroche.com/management/AI-leadership/)
 
 ---
 
-## 11. Ricursive Intelligence bets on AI-designed chips to solve the compute crisis
+## 11. Even Without AI, the Risk of a Biological Attack Is Terrifying
 
-**Author:** mikelgan  
-**Published:** 10/15/2026, 1:08:07 AM  
+**Author:** robtherobber  
+**Published:** 10/15/2026, 9:17:14 AM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/ Comments URL: https://news.ycombinator.com/item?id=50097883 Points: 3 # Comments: 1
+Article URL: https://www.motherjones.com/politics/2026/09/ai-anthropic-pandemic-biological-war-scenario-bioterrorism-annie-jacobsen-book-gain-function-research-pathogens-ethics/ Comments URL: https://news.ycombinator.com/item?id=50101181 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/)
+📖 [Read original article](https://www.motherjones.com/politics/2026/09/ai-anthropic-pandemic-biological-war-scenario-bioterrorism-annie-jacobsen-book-gain-function-research-pathogens-ethics/)
 
 ---
 
-## 12. Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs
+## 12. Show HN: Reproducible failure drills for AI coding agents
 
-**Author:** madars  
-**Published:** 10/15/2026, 12:58:26 AM  
+**Author:** rakeshmenon  
+**Published:** 10/15/2026, 9:14:09 AM  
 **Categories:** -  
 
-Article URL: https://capsem.org/ Comments URL: https://news.ycombinator.com/item?id=50097811 Points: 6 # Comments: 3
+Article URL: https://github.com/second-time-is-a-bug-book/book-companion Comments URL: https://news.ycombinator.com/item?id=50101157 Points: 1 # Comments: 0
 
-📖 [Read original article](https://capsem.org/)
+📖 [Read original article](https://github.com/second-time-is-a-bug-book/book-companion)
 
 ---
 
-## 13. The AI boom is threatened by an epidemic of unreliable numbers
+## 13. WSP MCP – Free WordPress MCP for Connecting AI Coding Agents
 
-**Author:** andsoitis  
-**Published:** 10/15/2026, 12:23:03 AM  
+**Author:** wspmcp  
+**Published:** 10/15/2026, 8:45:10 AM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers Comments URL: https://news.ycombinator.com/item?id=50097530 Points: 4 # Comments: 0
+Article URL: https://github.com/bilalnaseer/wsp-wordpress-mcp Comments URL: https://news.ycombinator.com/item?id=50100970 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers)
+📖 [Read original article](https://github.com/bilalnaseer/wsp-wordpress-mcp)
+
+---
+
+## 14. Kerno 1.0 – AI Back End Runtime QA Engineer
+
+**Author:** karimtr  
+**Published:** 10/15/2026, 8:31:15 AM  
+**Categories:** -  
+
+Article URL: https://kerno.io/blog/kerno-v1/ Comments URL: https://news.ycombinator.com/item?id=50100881 Points: 2 # Comments: 0
+
+📖 [Read original article](https://kerno.io/blog/kerno-v1/)
+
+---
+
+## 15. REA – I tested AI agent reverse engineering
+
+**Author:** keks0r  
+**Published:** 10/15/2026, 8:27:13 AM  
+**Categories:** -  
+
+Article URL: https://korben.info/en/rea-ai-agent-reverse-engineering-test.html Comments URL: https://news.ycombinator.com/item?id=50100843 Points: 2 # Comments: 0
+
+📖 [Read original article](https://korben.info/en/rea-ai-agent-reverse-engineering-test.html)
+
+---
+
+## 16. AI was great until it was not
+
+**Author:** JohnHammersley  
+**Published:** 10/15/2026, 8:18:38 AM  
+**Categories:** -  
+
+Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: 76 # Comments: 56
+
+📖 [Read original article](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)
+
+---
+
+## 17. Forensic Analysis of RL/RLHF-Induced Privilege Escalation in AI Agents
+
+**Author:** sbulaev  
+**Published:** 10/15/2026, 8:07:08 AM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2610.20437 Comments URL: https://news.ycombinator.com/item?id=50100728 Points: 1 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2610.20437)
+
+---
+
+## 18. Show HN: Working on Plug and play AI memory that works across AI agents
+
+**Author:** heysrb  
+**Published:** 10/15/2026, 8:02:49 AM  
+**Categories:** -  
+
+So I've been working on a project (Make0 AI) for a long time where I wanted to give common context to both Codex and Claude Code. The problem is simple - while working on Claude and after exhausting the daily/weekly limits I've start again from scratch in Codex. Of course I can prompt Claude to summ...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=50100700)
+
+---
+
+## 19. VeerAI: An AI agent inside our hosting dashboard
+
+**Author:** betterornotss  
+**Published:** 10/15/2026, 7:53:13 AM  
+**Categories:** -  
+
+Article URL: https://veerhost.com/introducing-veerai-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=50100623 Points: 6 # Comments: 0
+
+📖 [Read original article](https://veerhost.com/introducing-veerai-ai-agent/)
+
+---
+
+## 20. Show HN: Hotel Lobby AI – 9:16 vertical COLORS show rap videos with Wan 3.0
+
+**Author:** sakkyoku_ai  
+**Published:** 10/15/2026, 7:48:18 AM  
+**Categories:** -  
+
+Article URL: https://hotellobbyvideoai.app Comments URL: https://news.ycombinator.com/item?id=50100584 Points: 1 # Comments: 0
+
+📖 [Read original article](https://hotellobbyvideoai.app)
 
 ---
