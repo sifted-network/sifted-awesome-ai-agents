@@ -2,12 +2,12 @@
 title: "qbitai - 2026-10-14"
 date: "2026-10-14"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-10-14
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ CMOS标准工艺兼容的1TnR技术路线加速研发。
 10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent
 
 📖 [Read original article](https://www.qbitai.com/2026/10/503165.html)
-
----
-
-## 10. 告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！
-
-**Author:** 思邈  
-**Published:** 10/14/2026, 2:14:50 AM  
-**Categories:** 资讯, openJiuwen, 个人知识空间, 华为  
-
-一次采集，反复使用
-
-📖 [Read original article](https://www.qbitai.com/2026/10/503157.html)
 
 ---
