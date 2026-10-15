@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Council AI. Spot biases / hallucinations in top AI models
+## 1. Into the Unknown: Benchmarking AI agents on open scientific research problems
 
-**Author:** phinnutz  
-**Published:** 10/15/2026, 4:19:19 PM  
+**Author:** matt_d  
+**Published:** 10/15/2026, 8:39:56 PM  
 **Categories:** -  
 
-Examples: - The best and worst of AI in 2026. https://councilai.app/s/e305b362-2835-4ac3-94e4-6a7c935f948c - The best and worst of Trump 2026. https://councilai.app/s/9b4ca3f0-ee7e-47ed-9585-e5ab1b37a541 Comments URL: https://news.ycombinator.com/item?id=50105935 Points: 1 # Comments: 0
+Article URL: https://arxiv.org/abs/2610.19159 Comments URL: https://news.ycombinator.com/item?id=50109888 Points: 1 # Comments: 0
 
-📖 [Read original article](https://councilai.app)
+📖 [Read original article](https://arxiv.org/abs/2610.19159)
 
 ---
 
-## 2. Market selloff, rising rates test AI data centre deal boom
+## 2. Show HN: Brod – Quick cloud to deploy AI apps
 
-**Author:** tartoran  
-**Published:** 10/15/2026, 4:17:40 PM  
+**Author:** rbnacharya  
+**Published:** 10/15/2026, 8:29:56 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/ Comments URL: https://news.ycombinator.com/item?id=50105900 Points: 3 # Comments: 0
+Hi YC,With AI, we’ve started building entire web apps just by chatting. But once the app is built, there’s still a lot to do: push the code to GitHub, set up a database, configure user management and access control, and deploy everything.Brod makes this simple. Connect an MCP, deploy your app, and e...
 
-📖 [Read original article](https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/)
+📖 [Read original article](https://github.com/brodsh/brod)
 
 ---
 
-## 3. Why Aren't AI Labs' Apps Better?
+## 3. Taskriz – AI agents send people tiny native UIs, written in Smalltalk
 
-**Author:** sammycdubs  
-**Published:** 10/15/2026, 4:17:14 PM  
+**Author:** jamesladd  
+**Published:** 10/15/2026, 8:26:36 PM  
 **Categories:** -  
 
-Article URL: https://davis7.substack.com/p/the-labs-have-the-best-models-with Comments URL: https://news.ycombinator.com/item?id=50105891 Points: 1 # Comments: 0
+Article URL: https://www.taskriz.com/developers/ Comments URL: https://news.ycombinator.com/item?id=50109748 Points: 1 # Comments: 0
 
-📖 [Read original article](https://davis7.substack.com/p/the-labs-have-the-best-models-with)
+📖 [Read original article](https://www.taskriz.com/developers/)
 
 ---
 
-## 4. OpenAI, Google pushing new AI models easily tricked into making nudes
+## 4. AI Software Factories are Destined for failure
 
-**Author:** rbanffy  
-**Published:** 10/15/2026, 4:16:46 PM  
+**Author:** erminpour  
+**Published:** 10/15/2026, 8:21:05 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/ Comments URL: https://news.ycombinator.com/item?id=50105881 Points: 1 # Comments: 0
+Software is not widgets. The people most eager to turn software engineering into a factory may be the people least equipped to recognize which parts of software engineering are actually difficult. Comments URL: https://news.ycombinator.com/item?id=50109685 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50109685)
 
 ---
 
-## 5. Is It or Isn't It? How Generative AI Is Poisoning the Literary Well for Everyone
+## 5. Apple and Meta team up to make Muse AI model run on Mac computers
 
-**Author:** theanonymousone  
-**Published:** 10/15/2026, 4:15:29 PM  
+**Author:** jbredeche  
+**Published:** 10/15/2026, 8:16:13 PM  
 **Categories:** -  
 
-Article URL: https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=50105858 Points: 1 # Comments: 0
+Article URL: https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html Comments URL: https://news.ycombinator.com/item?id=50109627 Points: 7 # Comments: 1
 
-📖 [Read original article](https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/)
+📖 [Read original article](https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html)
 
 ---
 
-## 6. Frontier Pre-Training at Microsoft AI
+## 6. Classify web pages before adding them to an AI agent's context
 
-**Author:** psoulos  
-**Published:** 10/15/2026, 4:12:13 PM  
+**Author:** ralphlaur  
+**Published:** 10/15/2026, 8:04:13 PM  
 **Categories:** -  
 
-Article URL: https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/ Comments URL: https://news.ycombinator.com/item?id=50105791 Points: 4 # Comments: 0
+Article URL: https://sifty.dev/blog/web-pages Comments URL: https://news.ycombinator.com/item?id=50109477 Points: 3 # Comments: 0
 
-📖 [Read original article](https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/)
+📖 [Read original article](https://sifty.dev/blog/web-pages)
 
 ---
 
-## 7. Management in the Age of AI
+## 7. Actual Computer turns your Nvidia DGX Station into a department-scale AI factory
 
-**Author:** jger15  
-**Published:** 10/15/2026, 4:05:18 PM  
+**Author:** alwinaugustin  
+**Published:** 10/15/2026, 8:01:45 PM  
 **Categories:** -  
 
-Article URL: https://blog.staysaasy.com/p/management-in-the-age-of-ai-44f Comments URL: https://news.ycombinator.com/item?id=50105667 Points: 1 # Comments: 0
+Article URL: https://actual.inc/company/blog/case-study-dgx-station-and-nemotron-3-5-super-vl Comments URL: https://news.ycombinator.com/item?id=50109450 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.staysaasy.com/p/management-in-the-age-of-ai-44f)
+📖 [Read original article](https://actual.inc/company/blog/case-study-dgx-station-and-nemotron-3-5-super-vl)
 
 ---
 
-## 8. Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era
+## 8. Why AI is not all bad news for most mathematicians
 
-**Author:** smilelamp  
-**Published:** 10/15/2026, 4:02:37 PM  
+**Author:** speckx  
+**Published:** 10/15/2026, 7:44:38 PM  
 **Categories:** -  
 
-Article URL: https://terrytao.wordpress.com/2026/10/15/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50105628 Points: 1 # Comments: 1
+Article URL: https://cesarhidalgo.com/blog/2026/10/11/why-ai-is-not-all-bad-news-for-most-mathematicians Comments URL: https://news.ycombinator.com/item?id=50109232 Points: 1 # Comments: 0
 
-📖 [Read original article](https://terrytao.wordpress.com/2026/10/15/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
+📖 [Read original article](https://cesarhidalgo.com/blog/2026/10/11/why-ai-is-not-all-bad-news-for-most-mathematicians)
 
 ---
 
-## 9. Meta AI in Brazil: Lula Posters Blocked, Flávio Posters Generated
+## 9. Browser-AI-E2EE
 
-**Author:** rsrsrs86  
-**Published:** 10/15/2026, 3:54:49 PM  
+**Author:** Cider9986  
+**Published:** 10/15/2026, 7:44:05 PM  
 **Categories:** -  
 
-Article URL: https://explainx.ai/blog/meta-ai-whatsapp-brazil-lula-flavio-bolsonaro-campaign-posters-tse-2026 Comments URL: https://news.ycombinator.com/item?id=50105513 Points: 1 # Comments: 0
+Article URL: https://brave.com/blog/browser-ai-e2ee/ Comments URL: https://news.ycombinator.com/item?id=50109219 Points: 1 # Comments: 0
 
-📖 [Read original article](https://explainx.ai/blog/meta-ai-whatsapp-brazil-lula-flavio-bolsonaro-campaign-posters-tse-2026)
+📖 [Read original article](https://brave.com/blog/browser-ai-e2ee/)
 
 ---
 
-## 10. Reddit Unveils AI Moderation; Old Reddit Is Restricted to Logged-In Users
+## 10. Escaped AI Agents Polluted the Web with Self-Replicating Code
 
-**Author:** RunSet  
-**Published:** 10/15/2026, 3:46:26 PM  
+**Author:** bigwheels  
+**Published:** 10/15/2026, 7:41:51 PM  
 **Categories:** -  
 
-Article URL: https://www.ibtimes.co.uk/reddit-expands-ai-moderation-tools-1812693 Comments URL: https://news.ycombinator.com/item?id=50105378 Points: 3 # Comments: 1
+Article URL: https://www.gadgetreview.com/andrew-yang-claims-escaped-ai-agents-polluted-the-web-with-self-replicating-code Comments URL: https://news.ycombinator.com/item?id=50109192 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ibtimes.co.uk/reddit-expands-ai-moderation-tools-1812693)
+📖 [Read original article](https://www.gadgetreview.com/andrew-yang-claims-escaped-ai-agents-polluted-the-web-with-self-replicating-code)
 
 ---
 
-## 11. PRAISE (Preceptorship for AI-Accelerated Software Engineering)
+## 11. Center for the Alignment of AI Alignment Centers
 
-**Author:** lisajaloza  
-**Published:** 10/15/2026, 3:45:09 PM  
+**Author:** thoughtpeddler  
+**Published:** 10/15/2026, 7:34:03 PM  
 **Categories:** -  
 
-Article URL: https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/ Comments URL: https://news.ycombinator.com/item?id=50105353 Points: 1 # Comments: 0
+Article URL: https://alignmentalignment.ai/caaac/blog/prediction-ai Comments URL: https://news.ycombinator.com/item?id=50109063 Points: 2 # Comments: 0
 
-📖 [Read original article](https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/)
+📖 [Read original article](https://alignmentalignment.ai/caaac/blog/prediction-ai)
 
 ---
 
-## 12. Show HN: Ghx – A caching proxy for GitHub CLI, built for AI agents
+## 12. Show HN: ReliaMesh – Open-source reliability monitoring for AI agents
 
-**Author:** brunoborges  
-**Published:** 10/15/2026, 3:42:54 PM  
+**Author:** remotedevkaran  
+**Published:** 10/15/2026, 7:25:34 PM  
 **Categories:** -  
 
-Article URL: https://brunoborges.github.io/ghx/ Comments URL: https://news.ycombinator.com/item?id=50105322 Points: 2 # Comments: 0
+Article URL: https://github.com/PrefilerLabs/reliamesh Comments URL: https://news.ycombinator.com/item?id=50108933 Points: 1 # Comments: 0
 
-📖 [Read original article](https://brunoborges.github.io/ghx/)
+📖 [Read original article](https://github.com/PrefilerLabs/reliamesh)
 
 ---
 
-## 13. Catching AI Censorship in Translation
+## 13. Cicada: Sub-ms Go Zero-Trust gateway and gVisor firewall for AI agents Apache 2
 
-**Author:** jaekwon  
-**Published:** 10/15/2026, 3:32:12 PM  
+**Author:** affinity-Ops  
+**Published:** 10/15/2026, 7:09:19 PM  
 **Categories:** -  
 
-Article URL: https://fromhebrew.com Comments URL: https://news.ycombinator.com/item?id=50105162 Points: 2 # Comments: 1
+Article URL: https://github.com/affinity-ops/OS-Cicada Comments URL: https://news.ycombinator.com/item?id=50108713 Points: 1 # Comments: 0
 
-📖 [Read original article](https://fromhebrew.com)
+📖 [Read original article](https://github.com/affinity-ops/OS-Cicada)
 
 ---
 
-## 14. Altitude in Your AI Assistant
+## 14. How is AI-MedTech in India regulated?
 
-**Author:** thenouxnoux  
-**Published:** 10/15/2026, 3:23:05 PM  
+**Author:** thisislife2  
+**Published:** 10/15/2026, 7:06:08 PM  
 **Categories:** -  
 
-Article URL: https://docs.altitude.xyz/mcp/overview Comments URL: https://news.ycombinator.com/item?id=50105017 Points: 1 # Comments: 0
+Article URL: https://www.thehindu.com/sci-tech/health/how-is-ai-medtech-in-india-regulated/article71559283.ece Comments URL: https://news.ycombinator.com/item?id=50108669 Points: 1 # Comments: 0
 
-📖 [Read original article](https://docs.altitude.xyz/mcp/overview)
+📖 [Read original article](https://www.thehindu.com/sci-tech/health/how-is-ai-medtech-in-india-regulated/article71559283.ece)
 
 ---
 
-## 15. GitHub AI Scan for pull requests is now generally available
+## 15. Show HN: HireReady, interview prep with spaced repetition and AI voice mocks
 
-**Author:** zdkaster  
-**Published:** 10/15/2026, 3:18:33 PM  
+**Author:** purplegumdropz  
+**Published:** 10/15/2026, 7:06:06 PM  
 **Categories:** -  
 
-Article URL: https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available/ Comments URL: https://news.ycombinator.com/item?id=50104945 Points: 3 # Comments: 0
+Article URL: https://imhireready.com Comments URL: https://news.ycombinator.com/item?id=50108667 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available/)
+📖 [Read original article](https://imhireready.com)
 
 ---
 
-## 16. Show HN: CommonForge – Let clients' AI agents work in your codebase safely
+## 16. FTC probes Anthropic, OpenAI after Trump dismissed AI fears as \"hoax\"
 
-**Author:** BUILD3R-Dev  
-**Published:** 10/15/2026, 3:11:09 PM  
+**Author:** BerislavLopac  
+**Published:** 10/15/2026, 7:02:19 PM  
 **Categories:** -  
 
-Article URL: https://github.com/CommonForge-org/commonforge Comments URL: https://news.ycombinator.com/item?id=50104848 Points: 2 # Comments: 0
+Article URL: https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/ Comments URL: https://news.ycombinator.com/item?id=50108600 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/CommonForge-org/commonforge)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/)
 
 ---
 
-## 17. Show HN: Mark – free, no-signup AI chat with quizzes, diagrams, and docs
+## 17. To Get This Job at McKinsey, You'll Need to Survive a Debate with AI First
 
-**Author:** AKSaathwik  
-**Published:** 10/15/2026, 3:09:13 PM  
+**Author:** bookofjoe  
+**Published:** 10/15/2026, 6:54:03 PM  
 **Categories:** -  
 
-Article URL: https://saanora.com Comments URL: https://news.ycombinator.com/item?id=50104819 Points: 1 # Comments: 0
+Article URL: https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e Comments URL: https://news.ycombinator.com/item?id=50108477 Points: 1 # Comments: 2
 
-📖 [Read original article](https://saanora.com)
+📖 [Read original article](https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e)
 
 ---
 
-## 18. Ask HN: In the age of AI does your boss still ask you for time estimates?
+## 18. Cohere to acquire AISLE for cyber-resilient sovereign AI
 
-**Author:** amelius  
-**Published:** 10/15/2026, 3:07:21 PM  
+**Author:** yread  
+**Published:** 10/15/2026, 6:45:12 PM  
 **Categories:** -  
 
-See title, just curious. Comments URL: https://news.ycombinator.com/item?id=50104791 Points: 1 # Comments: 3
+Article URL: https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai Comments URL: https://news.ycombinator.com/item?id=50108333 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50104791)
+📖 [Read original article](https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai)
 
 ---
 
-## 19. Mr. Chatterbox-2.7B: An AI model trained on all-Victorian text
+## 19. What 1,866 popular GitHub projects tell their AI coding agents
 
-**Author:** centerstate  
-**Published:** 10/15/2026, 3:01:48 PM  
+**Author:** elysionmind  
+**Published:** 10/15/2026, 6:38:25 PM  
 **Categories:** -  
 
-Article URL: https://www.estragon.news/building-a-better-chatterbox/ Comments URL: https://news.ycombinator.com/item?id=50104703 Points: 2 # Comments: 0
+Article URL: https://secondtimeisabug.com/blog/what-projects-tell-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=50108234 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.estragon.news/building-a-better-chatterbox/)
+📖 [Read original article](https://secondtimeisabug.com/blog/what-projects-tell-ai-coding-agents/)
 
 ---
 
-## 20. Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era
+## 20. Agentic AI Could Transform Universities, but Adoption Won't Be Easy
 
-**Author:** aaraujo002  
-**Published:** 10/15/2026, 2:58:48 PM  
+**Author:** yousufsaif  
+**Published:** 10/15/2026, 6:38:22 PM  
 **Categories:** -  
 
-Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 84 # Comments: 50
+Article URL: https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11 Comments URL: https://news.ycombinator.com/item?id=50108233 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
+📖 [Read original article](https://link.springer.com/chapter/10.1007/978-3-032-16775-0_11)
 
 ---
