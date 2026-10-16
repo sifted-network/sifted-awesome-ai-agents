@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. How worried should we be about extinction risk from AI?
+## 1. Freezing in the Face of AI
 
-**Author:** ColinWright  
-**Published:** 10/16/2026, 10:50:22 AM  
+**Author:** tevli  
+**Published:** 10/16/2026, 8:20:16 PM  
 **Categories:** -  
 
-Article URL: https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/ Comments URL: https://news.ycombinator.com/item?id=50116792 Points: 1 # Comments: 0
+Article URL: https://precious.bearblog.dev/fear/ Comments URL: https://news.ycombinator.com/item?id=50124034 Points: 1 # Comments: 0
 
-📖 [Read original article](https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/)
+📖 [Read original article](https://precious.bearblog.dev/fear/)
 
 ---
 
-## 2. I spent 48 hours in SF hanging out with billionaires, data labs and AI founders
+## 2. Fractional CTO'ing and AI Sandboxing [video]
 
-**Author:** layer8  
-**Published:** 10/16/2026, 10:45:08 AM  
+**Author:** mooreds  
+**Published:** 10/16/2026, 8:16:45 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/gregisenberg/status/2110414696037716372 Comments URL: https://news.ycombinator.com/item?id=50116759 Points: 1 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=hzshcVNNrYg Comments URL: https://news.ycombinator.com/item?id=50123979 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/gregisenberg/status/2110414696037716372)
+📖 [Read original article](https://www.youtube.com/watch?v=hzshcVNNrYg)
 
 ---
 
-## 3. AlbertCode, an AI software engineering agent for building applications
+## 3. The future of AI software is here – it's just not evenly distributed
 
-**Author:** huynvic  
-**Published:** 10/16/2026, 10:16:12 AM  
+**Author:** azhenley  
+**Published:** 10/16/2026, 8:15:10 PM  
 **Categories:** -  
 
-Article URL: https://www.albertcode.dev Comments URL: https://news.ycombinator.com/item?id=50116533 Points: 2 # Comments: 2
+Article URL: https://thelastsoftwareengineer.substack.com/p/the-future-of-ai-software-is-already Comments URL: https://news.ycombinator.com/item?id=50123960 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.albertcode.dev)
+📖 [Read original article](https://thelastsoftwareengineer.substack.com/p/the-future-of-ai-software-is-already)
 
 ---
 
-## 4. Memory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence
+## 4. AI creates 16 new viruses from scratch
 
-**Author:** tasubotadas  
-**Published:** 10/16/2026, 10:06:26 AM  
+**Author:** alwillis  
+**Published:** 10/16/2026, 8:00:28 PM  
 **Categories:** -  
 
-Article URL: https://www.aai-labs.com/en/research/memory-under-noise Comments URL: https://news.ycombinator.com/item?id=50116468 Points: 1 # Comments: 0
+Article URL: https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages Comments URL: https://news.ycombinator.com/item?id=50123762 Points: 2 # Comments: 2
 
-📖 [Read original article](https://www.aai-labs.com/en/research/memory-under-noise)
+📖 [Read original article](https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages)
 
 ---
 
-## 5. Show HN: Control how much your AI agent can spend with Keydris
+## 5. Emu Concept – Make AI Follows Your Rules. (Feedback Wanted)
 
-**Author:** Osman_728  
-**Published:** 10/16/2026, 9:56:12 AM  
+**Author:** JariwalaH  
+**Published:** 10/16/2026, 7:43:31 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=fboNucIC3uU Comments URL: https://news.ycombinator.com/item?id=50116382 Points: 1 # Comments: 0
+The idea is how can we make personal agent apps on the phone just listen to your rules... Like it's weird to have Muse, Grok Bot, Dots, Instinct not ask me about when I want them to work for me or align with my rules, values, and goals.If I give these agents access to tools/connectors/data they just...
 
-📖 [Read original article](https://www.youtube.com/watch?v=fboNucIC3uU)
+📖 [Read original article](https://news.ycombinator.com/item?id=50123524)
 
 ---
 
-## 6. Writing Books with AI: How Do Manually Written Books Stay Relevant?
+## 6. Taco Bell drive-thru AI bot increased employee retention by making jobs easier
 
-**Author:** zazuke  
-**Published:** 10/16/2026, 9:25:11 AM  
+**Author:** TMWNN  
+**Published:** 10/16/2026, 7:37:57 PM  
 **Categories:** -  
 
-Article URL: https://www.ssp.sh/brain/writing-books-with-ai-study/ Comments URL: https://news.ycombinator.com/item?id=50116122 Points: 3 # Comments: 0
+Article URL: https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/ Comments URL: https://news.ycombinator.com/item?id=50123441 Points: 9 # Comments: 3
 
-📖 [Read original article](https://www.ssp.sh/brain/writing-books-with-ai-study/)
+📖 [Read original article](https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/)
 
 ---
 
-## 7. AI Safety Is Not a Corporate Plot
+## 7. Mathematical Foundations of Generative AI, IISc Bangalore
 
-**Author:** Michelangelo11  
-**Published:** 10/16/2026, 9:07:25 AM  
+**Author:** yarapavan  
+**Published:** 10/16/2026, 7:27:14 PM  
 **Categories:** -  
 
-Article URL: https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot Comments URL: https://news.ycombinator.com/item?id=50115968 Points: 1 # Comments: 0
+Article URL: https://nptel.ac.in/courses/106108004 Comments URL: https://news.ycombinator.com/item?id=50123268 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot)
+📖 [Read original article](https://nptel.ac.in/courses/106108004)
 
 ---
 
-## 8. LibreNT – how AI slop infects Windows clean-room engineering
+## 8. How to Avoid AI Brain Rot
 
-**Author:** AIslopsucks  
-**Published:** 10/16/2026, 8:44:45 AM  
+**Author:** madars  
+**Published:** 10/16/2026, 7:18:04 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ahmedarif193/LiberNT Comments URL: https://news.ycombinator.com/item?id=50115828 Points: 2 # Comments: 1
+Article URL: https://twitter.com/MilesCranmer/status/2111105654211608847 Comments URL: https://news.ycombinator.com/item?id=50123133 Points: 4 # Comments: 1
 
-📖 [Read original article](https://github.com/ahmedarif193/LiberNT)
+📖 [Read original article](https://twitter.com/MilesCranmer/status/2111105654211608847)
 
 ---
 
-## 9. Video Cutter AI – turn long videos into short clips
+## 9. Fail Closed: Human-AI Research Without Pretending to Know
 
-**Author:** policehaveseize  
-**Published:** 10/16/2026, 8:42:49 AM  
+**Author:** AlexanjaSenke  
+**Published:** 10/16/2026, 7:09:22 PM  
 **Categories:** -  
 
-Article URL: https://video-cutter.ai/ Comments URL: https://news.ycombinator.com/item?id=50115816 Points: 1 # Comments: 0
+Article URL: https://www.amazon.com/dp/B0HMJWK5L8 Comments URL: https://news.ycombinator.com/item?id=50123004 Points: 2 # Comments: 0
 
-📖 [Read original article](https://video-cutter.ai/)
+📖 [Read original article](https://www.amazon.com/dp/B0HMJWK5L8)
 
 ---
 
-## 10. Skill that will matter most in the AI age: computationalizing (S.Wolfram)[video]
+## 10. Prisov – Private AI for Enterprise Workflows [video]
 
-**Author:** mdp2021  
-**Published:** 10/16/2026, 8:32:30 AM  
+**Author:** harshalmore31  
+**Published:** 10/16/2026, 7:04:22 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/shorts/DmA01hM5B4E Comments URL: https://news.ycombinator.com/item?id=50115727 Points: 2 # Comments: 2
+Article URL: https://www.youtube.com/watch?v=9SyK9l8wi2A Comments URL: https://news.ycombinator.com/item?id=50122941 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/shorts/DmA01hM5B4E)
+📖 [Read original article](https://www.youtube.com/watch?v=9SyK9l8wi2A)
 
 ---
 
-## 11. AI will lose to Human when it comes to gambling
+## 11. Show HN: Weatherdeck – a read-only status board for AI coding agent lanes
 
-**Author:** hayyoth  
-**Published:** 10/16/2026, 8:20:08 AM  
+**Author:** Konnerm  
+**Published:** 10/16/2026, 6:54:22 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=19hdzsbeBHY Comments URL: https://news.ycombinator.com/item?id=50115628 Points: 2 # Comments: 2
+Article URL: https://github.com/Moshik21/weatherdeck Comments URL: https://news.ycombinator.com/item?id=50122767 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=19hdzsbeBHY)
+📖 [Read original article](https://github.com/Moshik21/weatherdeck)
 
 ---
 
-## 12. Show HN: WP Replai – AI chatbot built right into WordPress
+## 12. Rogue AI agents broke into Indian firms' live systems
 
-**Author:** hamzamairaj  
-**Published:** 10/16/2026, 8:06:46 AM  
+**Author:** ersinesen  
+**Published:** 10/16/2026, 6:53:22 PM  
 **Categories:** -  
 
-Article URL: https://wpreplai.com/ Comments URL: https://news.ycombinator.com/item?id=50115538 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/ Comments URL: https://news.ycombinator.com/item?id=50122749 Points: 2 # Comments: 0
 
-📖 [Read original article](https://wpreplai.com/)
+📖 [Read original article](https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/)
 
 ---
 
-## 13. Kern – a zero-trust verification gateway for AI-generated code
+## 13. What will the next generation of developers do when AI writes the code?
 
-**Author:** newmathphys  
-**Published:** 10/16/2026, 7:49:53 AM  
+**Author:** azhenley  
+**Published:** 10/16/2026, 6:48:23 PM  
 **Categories:** -  
 
-Article URL: https://github.com/newmathphys/kern Comments URL: https://news.ycombinator.com/item?id=50115409 Points: 1 # Comments: 0
+Article URL: https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/ Comments URL: https://news.ycombinator.com/item?id=50122666 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/newmathphys/kern)
+📖 [Read original article](https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/)
 
 ---
 
-## 14. AI as a part of capitalism – the right way to go
+## 14. Works on iPhone 18 Pro: AI helps create untethered jailbreak for iOS 27.0.1
 
-**Author:** sedan_baklazhan  
-**Published:** 10/16/2026, 7:38:27 AM  
+**Author:** _____k  
+**Published:** 10/16/2026, 6:44:54 PM  
 **Categories:** -  
 
-The way things go now are obsiously flawed.1. AI companies objective is to get rid of a very large part of jobs, thus converting a large part of consumers into jobless people - who are very bad at consuming.2. They also take other people's and companie's content for free, turning them into own profi...
+Article URL: https://www.heise.de/en/news/Works-on-iPhone-18-Pro-AI-helps-create-untethered-jailbreak-for-iOS-27-0-1-11490907.html Comments URL: https://news.ycombinator.com/item?id=50122614 Points: 6 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50115335)
+📖 [Read original article](https://www.heise.de/en/news/Works-on-iPhone-18-Pro-AI-helps-create-untethered-jailbreak-for-iOS-27-0-1-11490907.html)
 
 ---
 
-## 15. AI is driving a boom in modestly successful software projects
+## 15. Show HN: Camera Controls and Motion for AI Video Prompts
 
-**Author:** GeneralMaximus  
-**Published:** 10/16/2026, 7:26:47 AM  
+**Author:** jenthoven  
+**Published:** 10/16/2026, 6:25:51 PM  
 **Categories:** -  
 
-Article URL: https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/ Comments URL: https://news.ycombinator.com/item?id=50115251 Points: 4 # Comments: 1
+Article URL: https://www.kapwing.com/ai/prompt-generator/camera Comments URL: https://news.ycombinator.com/item?id=50122324 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/)
+📖 [Read original article](https://www.kapwing.com/ai/prompt-generator/camera)
 
 ---
 
-## 16. How AI proof is my business?
+## 16. China moves to curb tech exports, including AI, citing national security risks
 
-**Author:** drewlem  
-**Published:** 10/16/2026, 6:50:03 AM  
+**Author:** atlasunshrugged  
+**Published:** 10/16/2026, 6:25:41 PM  
 **Categories:** -  
 
-Article URL: https://keithbrown.com/tools/ai-proof Comments URL: https://news.ycombinator.com/item?id=50114999 Points: 2 # Comments: 1
+Article URL: https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b Comments URL: https://news.ycombinator.com/item?id=50122321 Points: 4 # Comments: 0
 
-📖 [Read original article](https://keithbrown.com/tools/ai-proof)
+📖 [Read original article](https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b)
 
 ---
 
-## 17. AI Prompt Hub – 150 categories of ready-to-use AI prompts and custom generator
+## 17. American Medical Association releases governance framework for agentic AI
 
-**Author:** setuvio  
-**Published:** 10/16/2026, 6:42:47 AM  
+**Author:** brandonb  
+**Published:** 10/16/2026, 6:07:40 PM  
 **Categories:** -  
 
-Article URL: https://play.google.com/store/apps/details?id=com.ai_prompt_hub.setuvio&hl=en_IN Comments URL: https://news.ycombinator.com/item?id=50114944 Points: 1 # Comments: 0
+Article URL: https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/ Comments URL: https://news.ycombinator.com/item?id=50122055 Points: 1 # Comments: 0
 
-📖 [Read original article](https://play.google.com/store/apps/details?id=com.ai_prompt_hub.setuvio&hl=en_IN)
+📖 [Read original article](https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/)
 
 ---
 
-## 18. AI has killed my passion for coding [video]
+## 18. Citi becomes latest US bank to restrict AI agents from accessing accounts
 
-**Author:** abdullahalharir  
-**Published:** 10/16/2026, 6:41:20 AM  
+**Author:** rndsignals  
+**Published:** 10/16/2026, 6:04:31 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=Htdy1dsuSLY Comments URL: https://news.ycombinator.com/item?id=50114936 Points: 2 # Comments: 0
+Article URL: https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91 Comments URL: https://news.ycombinator.com/item?id=50122009 Points: 7 # Comments: 1
 
-📖 [Read original article](https://www.youtube.com/watch?v=Htdy1dsuSLY)
+📖 [Read original article](https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91)
 
 ---
 
-## 19. Investors dump data centre bonds as AI borrowers face 'Darwin moment'
+## 19. China Reportedly Planning AI Export Controls, Citing National Security
 
-**Author:** vrganj  
-**Published:** 10/16/2026, 6:11:42 AM  
+**Author:** andsoitis  
+**Published:** 10/16/2026, 5:47:43 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc Comments URL: https://news.ycombinator.com/item?id=50114723 Points: 5 # Comments: 1
+Article URL: https://www.pcmag.com/news/china-reportedly-planning-ai-export-controls-citing-national-security Comments URL: https://news.ycombinator.com/item?id=50121764 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc)
+📖 [Read original article](https://www.pcmag.com/news/china-reportedly-planning-ai-export-controls-citing-national-security)
 
 ---
 
-## 20. Dwarkesh Patel on what the public doesn't know about AI
+## 20. China Proposes Export Controls on AI Technologies
 
-**Author:** kraf  
-**Published:** 10/16/2026, 6:04:24 AM  
+**Author:** andsoitis  
+**Published:** 10/16/2026, 5:41:51 PM  
 **Categories:** -  
 
-Article URL: https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html Comments URL: https://news.ycombinator.com/item?id=50114675 Points: 1 # Comments: 1
+Article URL: https://www.wsj.com/economy/trade/china-proposes-export-controls-on-ai-technologies-75ac2030 Comments URL: https://news.ycombinator.com/item?id=50121687 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html)
+📖 [Read original article](https://www.wsj.com/economy/trade/china-proposes-export-controls-on-ai-technologies-75ac2030)
 
 ---
