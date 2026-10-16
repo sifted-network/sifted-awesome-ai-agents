@@ -1055,13 +1055,13 @@ arXiv:2610.19712v1 Announce Type: new Abstract: Multi-session agents can switch 
 
 ---
 
-## 88. TIMERSI: Towards Self-Improved Agentic Deployment for Time-Series Foundation Models
+## 88. TimeRSI: Towards Self-Improved Agentic Deployment for Time-Series Foundation Models
 
 **Author:** Haoxin Liu, Deqing Fu, Lucheng Fu, Yiqiao Jin, Rushi Qiang, Harshavardhan Kamarthi, B. Aditya Prakash  
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2610.19725v1 Announce Type: new Abstract: Time-series foundation models provide strong zero-shot forecast, but deployment for real- world applications still requires task-specific designs for model inputs and outputs. Direct inference can leave domain knowledge and re- curring forecast errors ...
+arXiv:2610.19725v2 Announce Type: new Abstract: Time-series foundation models provide strong zero-shot forecast, but deployment for real-world applications still requires task-specific designs for model inputs and outputs. Direct inference can leave domain knowledge and recurring forecast errors una...
 
 📖 [Read original article](https://arxiv.org/abs/2610.19725)
 
@@ -1553,7 +1553,7 @@ arXiv:2610.20104v1 Announce Type: new Abstract: Autoregressive transformers trai
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2610.20108v1 Announce Type: new Abstract: Neural symbolic regression (SR) models require diverse datasets of mathematical expressions for robust training. However, existing datasets rely predominantly on stochastic sampling methods, which suffer from high structural redundancy and incomplete f...
+arXiv:2610.20108v2 Announce Type: new Abstract: Neural symbolic regression (SR) models require diverse datasets of mathematical expressions for robust training. However, existing datasets rely predominantly on stochastic sampling methods, which suffer from high structural redundancy and incomplete f...
 
 📖 [Read original article](https://arxiv.org/abs/2610.20108)
 
@@ -1613,7 +1613,7 @@ arXiv:2610.20136v1 Announce Type: new Abstract: Vision-language models (VLMs) ar
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2610.20138v1 Announce Type: new Abstract: Batch black-box optimization is important for expensive systems where many candidates can be evaluated in parallel, yet only a few rounds of evaluation are affordable. In this regime, effective batch construction must identify multiple promising region...
+arXiv:2610.20138v2 Announce Type: new Abstract: Batch black-box optimization is important for expensive systems where many candidates can be evaluated in parallel, yet only a few rounds of evaluation are affordable. In this regime, effective batch construction must identify multiple promising region...
 
 📖 [Read original article](https://arxiv.org/abs/2610.20138)
 
@@ -1637,7 +1637,7 @@ arXiv:2610.20170v1 Announce Type: new Abstract: We study the problem of learning
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2610.20174v1 Announce Type: new Abstract: Reinforcement Learning on Mixed-domain preference data (Mix-RL) has become the mainstream approach for training general-purpose Generative Reward Models (GRMs). However, Mix-RL suffers from two critical bottlenecks: the reward sparsity induced by outco...
+arXiv:2610.20174v2 Announce Type: new Abstract: Reinforcement Learning on Mixed-domain preference data (Mix-RL) has become the mainstream approach for training general-purpose Generative Reward Models (GRMs). However, Mix-RL suffers from two critical bottlenecks: the reward sparsity induced by outco...
 
 📖 [Read original article](https://arxiv.org/abs/2610.20174)
 
@@ -1685,7 +1685,7 @@ arXiv:2610.20238v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) exc
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.20243v1 Announce Type: new Abstract: Anomaly detection is a fundamental task for time-series analytics, with important implications for the downstream performance of many applications. Despite the large number of anomaly detection methods proposed in the literature, recent benchmark studi...
+arXiv:2610.20243v2 Announce Type: new Abstract: Anomaly detection is a fundamental task for time-series analytics, with important implications for the downstream performance of many applications. Despite the large number of anomaly detection methods proposed in the literature, recent benchmark studi...
 
 📖 [Read original article](https://arxiv.org/abs/2610.20243)
 
@@ -1863,7 +1863,7 @@ arXiv:2610.20347v1 Announce Type: new Abstract: We study the finite-sample conve
 
 **Author:** Yaozhi Wen, Kun Zhao, Wei Wei, Haoyang Chen, Kangning Wang, Yi Sun, Shaowei Gu, Dingkun Liu, Shuang Qiu, Huiguang He  
 **Published:** 10/15/2026, 4:00:00 AM  
-**Categories:** cs.LG  
+**Categories:** cs.LG, cs.CV  
 
 arXiv:2610.20349v1 Announce Type: new Abstract: Asynchronous EEG event detection supports practical brain-computer interfaces by identifying event classes and temporal boundaries directly from continuous recordings without predefined event boundaries at inference time. The primary challenge lies in ...
 
@@ -2069,7 +2069,7 @@ arXiv:2610.20486v1 Announce Type: new Abstract: In reinforcement learning, an ag
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.20497v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) trains language models from checked task outcomes, but assigning a terminal reward to individual reasoning tokens or actions remains difficult. Group-relative methods such as Group Relative Policy O...
+arXiv:2610.20497v2 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) trains language models from checked task outcomes, but assigning a terminal reward to individual reasoning tokens or actions remains difficult. Group-relative methods such as Group Relative Policy O...
 
 📖 [Read original article](https://arxiv.org/abs/2610.20497)
 
@@ -3365,7 +3365,7 @@ arXiv:2610.20229v1 Announce Type: cross Abstract: We investigate the minimal wid
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.LG  
 
-arXiv:2610.20247v1 Announce Type: cross Abstract: Multilingual models share capacity across languages, so adding languages can hurt performance on existing ones. Mixture-of-experts models expand this capacity with little additional per-token computation. Given this extra capacity, does adding expert...
+arXiv:2610.20247v2 Announce Type: cross Abstract: Multilingual models share capacity across languages, so adding languages can hurt performance on existing ones. Mixture-of-experts models expand this capacity with little additional per-token computation. Given this extra capacity, does adding expert...
 
 📖 [Read original article](https://arxiv.org/abs/2610.20247)
 
@@ -3641,7 +3641,7 @@ arXiv:2610.20587v1 Announce Type: cross Abstract: An agentic market is a decentr
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2610.20597v1 Announce Type: cross Abstract: Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work e...
+arXiv:2610.20597v2 Announce Type: cross Abstract: Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work e...
 
 📖 [Read original article](https://arxiv.org/abs/2610.20597)
 
@@ -4085,7 +4085,7 @@ arXiv:2605.08733v2 Announce Type: replace Abstract: Expressive generative polici
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2605.09424v2 Announce Type: replace Abstract: Generative modelling is a demanding test of foundation models, because it requires robust, holistic representation learning for a given data modality, rather than optimisation for a supervised prediction target alone. While recent work on tabular f...
+arXiv:2605.09424v3 Announce Type: replace Abstract: Generative modelling is a demanding test of foundation models, because it requires robust, holistic representation learning for a given data modality, rather than optimisation for a supervised prediction target alone. While recent work on tabular f...
 
 📖 [Read original article](https://arxiv.org/abs/2605.09424)
 
@@ -4913,7 +4913,7 @@ arXiv:2610.17856v2 Announce Type: replace Abstract: Time-series analysis is incr
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.DB  
 
-arXiv:2610.17867v2 Announce Type: replace Abstract: Foundation models for tables and relational databases are increasingly used for predictive tasks across various scientific and industrial domains. However, adapting existing models to unseen datasets requires tens of thousands of examples. Here we ...
+arXiv:2610.17867v3 Announce Type: replace Abstract: Foundation models for tables and relational databases are increasingly used for predictive tasks across various scientific and industrial domains. However, adapting existing models to unseen datasets requires tens of thousands of examples. Here we ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.17867)
 
@@ -5111,13 +5111,13 @@ arXiv:2512.10309v3 Announce Type: replace-cross Abstract: Chemical reaction netw
 
 ---
 
-## 426. Imaging-anchored Multiomics in Cardiovascular Disease: Integrating Cardiac Imaging, Bulk, Single-cell, and Spatial Transcriptomics
+## 426. Imaging-anchored multiomics in cardiovascular disease: integrating cardiac imaging, bulk, single-cell, and spatial transcriptomics
 
-**Author:** Minh H. N. Le, Tuan Vinh, Thanh-Huy Nguyen, Tao Li, Bao Quang Gia Le, Han H. Huynh, Monika Raj, Carl Yang, Min Xu, Nguyen Quoc Khanh Le  
+**Author:** Minh H. N. Le, Thanh-Huy Nguyen, Tao Li, Bao Quang Gia Le, Han H. Huynh, Monika Raj, Carl Yang, Min Xu, Tuan Vinh, Nguyen Quoc Khanh Le  
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** q-bio.QM, cs.AI, cs.CV, cs.LG  
 
-arXiv:2601.07871v2 Announce Type: replace-cross Abstract: Cardiovascular disease arises from interactions between inherited risk, molecular programmes, and tissue-scale remodelling that are observed clinically through imaging. Health systems now routinely generate large volumes of cardiac MRI, CT an...
+arXiv:2601.07871v3 Announce Type: replace-cross Abstract: Cardiovascular disease arises from interactions between inherited risk, molecular programmes, and tissue-scale remodelling that are observed clinically through imaging. Cardiac MRI (CMR), computed tomography (CT), and echocardiography are int...
 
 📖 [Read original article](https://arxiv.org/abs/2601.07871)
 
@@ -5273,7 +5273,7 @@ arXiv:2605.07191v2 Announce Type: replace-cross Abstract: A recent work shows th
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** math.ST, cs.DS, cs.LG, stat.ML, stat.TH  
 
-arXiv:2605.12461v2 Announce Type: replace-cross Abstract: We propose an algorithm to sample from composite log-concave distributions over $\mathbb{R}^d$, i.e., densities of the form $\pi\propto e^{-f-g}$, assuming access to gradient evaluations of $\alpha_f$-convex $f$ and a restricted Gaussian orac...
+arXiv:2605.12461v3 Announce Type: replace-cross Abstract: We propose an algorithm to sample from composite log-concave distributions over $\mathbb{R}^d$, i.e., densities of the form $\pi\propto e^{-f-g}$, assuming access to gradient evaluations of $\alpha_f$-convex $f$ and a restricted Gaussian orac...
 
 📖 [Read original article](https://arxiv.org/abs/2605.12461)
 
@@ -5761,11 +5761,11 @@ arXiv:2610.14567v2 Announce Type: replace-cross Abstract: This paper develops st
 
 ## 480. AlphaRLM: Aligning Language Models for Literature-Grounded Symbolic Factor Discovery
 
-**Author:** Jie Huang, Yuecheng Hong, Yao Chen, Hao Zhong, Linfeng Xiao, Xudong Liu, Hao Xia, Jianxuan Xin  
+**Author:** Jie Huang, Yuecheng Hong, Yao Chen, Hao Zhong, Linfeng Xiao, Xudong Liu, Qiang Ye, Hao Xia, Jianxuan Xin  
 **Published:** 10/15/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL, cs.LG, q-fin.PM  
 
-arXiv:2610.14959v2 Announce Type: replace-cross Abstract: Formulaic alpha mining seeks to discover executable expressions that capture predictive market signals in a vast, noisy search space. Recent LLM-based approaches use prompting, iterative search, or seed-factor evolution, leaving direct factor...
+arXiv:2610.14959v3 Announce Type: replace-cross Abstract: Formulaic alpha mining seeks to discover executable expressions that capture predictive market signals in a vast, noisy search space. Recent LLM-based approaches use prompting, iterative search, or seed-factor evolution, leaving direct factor...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14959)
 
