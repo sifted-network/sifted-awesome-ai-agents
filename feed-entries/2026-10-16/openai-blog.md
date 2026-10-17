@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-16"
 date: "2026-10-16"
 source: "OpenAI Blog"
-count: 2
+count: 3
 ---
 
 # OpenAI Blog - 2026-10-16
 
-2 items collected.
+3 items collected.
 
 ---
 
@@ -32,5 +32,17 @@ With ia.i, a conversational interface, and the IARA governance platform, Itaú i
 Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.
 
 📖 [Read original article](https://openai.com/index/stack-overflow-chatgpt-plugin)
+
+---
+
+## 3. Benefit Street Partners answers questions faster with Codex
+
+**Author:** -  
+**Published:** 10/16/2026, 12:00:00 AM  
+**Categories:** -  
+
+Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.
+
+📖 [Read original article](https://openai.com/index/benefit-street-partners)
 
 ---
