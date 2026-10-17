@@ -23,19 +23,7 @@ With ia.i, a conversational interface, and the IARA governance platform, Itaú i
 
 ---
 
-## 2. Stack Overflow for Agents triples signups with ChatGPT plugin
-
-**Author:** -  
-**Published:** 10/16/2026, 12:00:00 AM  
-**Categories:** Startup  
-
-Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.
-
-📖 [Read original article](https://openai.com/index/stack-overflow-chatgpt-plugin)
-
----
-
-## 3. Benefit Street Partners answers questions faster with Codex
+## 2. Benefit Street Partners answers questions faster with Codex
 
 **Author:** -  
 **Published:** 10/16/2026, 12:00:00 AM  
@@ -44,5 +32,17 @@ Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and i
 Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.
 
 📖 [Read original article](https://openai.com/index/benefit-street-partners)
+
+---
+
+## 3. Stack Overflow for Agents triples signups with ChatGPT plugin
+
+**Author:** -  
+**Published:** 10/16/2026, 12:00:00 AM  
+**Categories:** Startup  
+
+Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.
+
+📖 [Read original article](https://openai.com/index/stack-overflow-chatgpt-plugin)
 
 ---
