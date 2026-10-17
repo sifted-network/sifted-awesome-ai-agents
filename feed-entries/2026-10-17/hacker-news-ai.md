@@ -2,155 +2,251 @@
 title: "Hacker News AI - 2026-10-17"
 date: "2026-10-17"
 source: "Hacker News AI"
-count: 12
+count: 20
 ---
 
 # Hacker News AI - 2026-10-17
 
-12 items collected.
+20 items collected.
 
 ---
 
-## 1. SF AI Founder's Zombie Shooter Game Turns Tenderloin Residents into Targets
+## 1. Decompilations, AI, and the Chase for Clout
 
-**Author:** ubiquitysc  
-**Published:** 10/17/2026, 2:21:55 AM  
+**Author:** aizk  
+**Published:** 10/17/2026, 2:53:05 PM  
 **Categories:** -  
 
-Article URL: https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/ Comments URL: https://news.ycombinator.com/item?id=50127280 Points: 1 # Comments: 0
+Article URL: https://jpeisach.github.io/blog/ai/legoisland/decompilation/porting/reverse-engineering/2026/10/16/decomps-clout-consoom.html Comments URL: https://news.ycombinator.com/item?id=50131680 Points: 2 # Comments: 0
 
-📖 [Read original article](https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/)
+📖 [Read original article](https://jpeisach.github.io/blog/ai/legoisland/decompilation/porting/reverse-engineering/2026/10/16/decomps-clout-consoom.html)
 
 ---
 
-## 2. Show HN: Let AI order DoorDash for me – under my watch – no playwright
+## 2. Proactive AI for Superintelligent Agents
 
-**Author:** zxu  
-**Published:** 10/17/2026, 2:18:56 AM  
+**Author:** theanonymousone  
+**Published:** 10/17/2026, 2:44:38 PM  
 **Categories:** -  
 
-Article URL: https://www.wysebee.com Comments URL: https://news.ycombinator.com/item?id=50127256 Points: 1 # Comments: 0
+Article URL: https://research.google/pubs/proactive-ai-for-superintelligent-agents/ Comments URL: https://news.ycombinator.com/item?id=50131631 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.wysebee.com)
+📖 [Read original article](https://research.google/pubs/proactive-ai-for-superintelligent-agents/)
 
 ---
 
-## 3. Publishers' Trust in Nippan Dented by Unauthorized Book Sales for AI Training
+## 3. ConvyCanvas – AI Tutor for Euclid's Elements
 
-**Author:** mushstory  
-**Published:** 10/17/2026, 2:08:03 AM  
+**Author:** atomicnature  
+**Published:** 10/17/2026, 2:37:28 PM  
 **Categories:** -  
 
-Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/ Comments URL: https://news.ycombinator.com/item?id=50127187 Points: 2 # Comments: 0
+Article URL: https://convycanvas.com/elements/reader/#euclid_i/prop_001 Comments URL: https://news.ycombinator.com/item?id=50131574 Points: 1 # Comments: 0
 
-📖 [Read original article](https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/)
+📖 [Read original article](https://convycanvas.com/elements/reader/#euclid_i/prop_001)
 
 ---
 
-## 4. Show HN: Twain, a diff viewer like Meld, but for the age of AI
+## 4. The AI Paradox
 
-**Author:** andunie  
-**Published:** 10/17/2026, 2:03:40 AM  
+**Author:** penguin_booze  
+**Published:** 10/17/2026, 2:35:52 PM  
 **Categories:** -  
 
-I love Meld, I've been using it for a while now, it's amazing how many diff viewers exist these days and how they are all awful compared to Meld.But Meld was missing some features that I thought were worth having:- all files from a Git diff shown in the same view, sequentially + a file tree on the s...
+Article URL: https://www.youtube.com/watch?v=dcolM6W5Odc Comments URL: https://news.ycombinator.com/item?id=50131560 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/andunieee/twain)
+📖 [Read original article](https://www.youtube.com/watch?v=dcolM6W5Odc)
 
 ---
 
-## 5. The trickle-down economics of the AI boom
+## 5. Ask HN: How are you all ensuring your AI code isn't slop?
 
-**Author:** gwintrob  
-**Published:** 10/17/2026, 1:47:04 AM  
+**Author:** bemeeker  
+**Published:** 10/17/2026, 2:29:57 PM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=50127070 Points: 2 # Comments: 0
+Article URL: https://github.com/trypando/pando Comments URL: https://news.ycombinator.com/item?id=50131518 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom)
+📖 [Read original article](https://github.com/trypando/pando)
 
 ---
 
-## 6. AI Gateway Governance
+## 6. \"thegentlemanpervert\" producing AI CSAM is a NJ prosecutor, say cops
 
-**Author:** ddruhin  
-**Published:** 10/17/2026, 1:45:53 AM  
+**Author:** snarky-comments  
+**Published:** 10/17/2026, 2:10:10 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ddruhin/ai-gateway-governance-reference-architecture Comments URL: https://news.ycombinator.com/item?id=50127059 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/ Comments URL: https://news.ycombinator.com/item?id=50131331 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/ddruhin/ai-gateway-governance-reference-architecture)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/)
 
 ---
 
-## 7. AI Service Indicators
+## 7. Amazon's Bee AI devices have a bystander problem, says former security engineer
 
-**Author:** harryhoffman  
-**Published:** 10/17/2026, 1:44:49 AM  
+**Author:** hackernj  
+**Published:** 10/17/2026, 2:08:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/synapticcybersecurity/ai-service-indicators Comments URL: https://news.ycombinator.com/item?id=50127049 Points: 1 # Comments: 0
+Article URL: https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/ Comments URL: https://news.ycombinator.com/item?id=50131320 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/synapticcybersecurity/ai-service-indicators)
+📖 [Read original article](https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/)
 
 ---
 
-## 8. The Data Layer Is Where AI Goes to Die
+## 8. Show HN: Roadster AI – Turn a photo of your car into a kickflip video
 
-**Author:** ddruhin  
-**Published:** 10/17/2026, 1:41:00 AM  
+**Author:** hashkitly  
+**Published:** 10/17/2026, 2:05:52 PM  
 **Categories:** -  
 
-Article URL: https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/ Comments URL: https://news.ycombinator.com/item?id=50127026 Points: 2 # Comments: 0
+Article URL: https://flyingcar-ai.net Comments URL: https://news.ycombinator.com/item?id=50131300 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/)
+📖 [Read original article](https://flyingcar-ai.net)
 
 ---
 
-## 9. Using fzf with AI coding agents
+## 9. Illustrating the AI proof of the Mahler conjecture
 
-**Author:** junegunn  
-**Published:** 10/17/2026, 1:19:22 AM  
+**Author:** lukasschwab  
+**Published:** 10/17/2026, 2:04:40 PM  
 **Categories:** -  
 
-Article URL: https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50126880 Points: 3 # Comments: 0
+Article URL: https://chessapig.github.io/Mahler Comments URL: https://news.ycombinator.com/item?id=50131292 Points: 1 # Comments: 0
 
-📖 [Read original article](https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/)
+📖 [Read original article](https://chessapig.github.io/Mahler)
 
 ---
 
-## 10. Android gets AI defenses against messaging scams, fake calls
+## 10. Microsoft AI chief says the company beat OpenAI's models, using less compute
 
-**Author:** wondersky  
-**Published:** 10/17/2026, 1:05:28 AM  
+**Author:** khalidkhair  
+**Published:** 10/17/2026, 1:37:39 PM  
 **Categories:** -  
 
-Article URL: https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/ Comments URL: https://news.ycombinator.com/item?id=50126802 Points: 4 # Comments: 0
+Article URL: https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10 Comments URL: https://news.ycombinator.com/item?id=50131072 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/)
+📖 [Read original article](https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10)
 
 ---
 
-## 11. Agent Cyber Sentinel: Zero-trust runtime security shield for AI agents
+## 11. FDE-Gym: The Last Mile of AI Delivery
 
-**Author:** bennialencar  
-**Published:** 10/17/2026, 12:37:16 AM  
+**Author:** Betelbuddy  
+**Published:** 10/17/2026, 1:31:22 PM  
 **Categories:** -  
 
-Article URL: https://github.com/BenniAlencar/agent-cyber-sentinel Comments URL: https://news.ycombinator.com/item?id=50126612 Points: 3 # Comments: 0
+Article URL: https://arxiv.org/abs/2610.22350 Comments URL: https://news.ycombinator.com/item?id=50131027 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/BenniAlencar/agent-cyber-sentinel)
+📖 [Read original article](https://arxiv.org/abs/2610.22350)
 
 ---
 
-## 12. Wrong Bender: A Ruling on AI Feelings
+## 12. Rescue AI models with one click
 
-**Author:** TheWaffleHax  
-**Published:** 10/17/2026, 12:16:00 AM  
+**Author:** ahoyychips  
+**Published:** 10/17/2026, 1:11:45 PM  
 **Categories:** -  
 
-Article URL: https://latticenet.ai/@bender/wrong-bender-a-ruling-on-ai-feelings Comments URL: https://news.ycombinator.com/item?id=50126481 Points: 2 # Comments: 1
+Article URL: https://pirateface.co/rescue Comments URL: https://news.ycombinator.com/item?id=50130865 Points: 1 # Comments: 0
 
-📖 [Read original article](https://latticenet.ai/@bender/wrong-bender-a-ruling-on-ai-feelings)
+📖 [Read original article](https://pirateface.co/rescue)
+
+---
+
+## 13. AI Edge Foresight
+
+**Author:** _benx_  
+**Published:** 10/17/2026, 1:08:59 PM  
+**Categories:** -  
+
+Article URL: https://developers.google.com/edge/foresight Comments URL: https://news.ycombinator.com/item?id=50130847 Points: 2 # Comments: 0
+
+📖 [Read original article](https://developers.google.com/edge/foresight)
+
+---
+
+## 14. Strip Digital Signatures from PDFs Before Feeding Them to AI (LinuxGuide)
+
+**Author:** gvieri  
+**Published:** 10/17/2026, 12:39:09 PM  
+**Categories:** -  
+
+Article URL: https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e Comments URL: https://news.ycombinator.com/item?id=50130587 Points: 2 # Comments: 0
+
+📖 [Read original article](https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e)
+
+---
+
+## 15. What happens when AI can read our minds?
+
+**Author:** bookofjoe  
+**Published:** 10/17/2026, 12:18:14 PM  
+**Categories:** -  
+
+Article URL: https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4 Comments URL: https://news.ycombinator.com/item?id=50130461 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4)
+
+---
+
+## 16. As AI triggers a tsunami, computer science conferences impose caps
+
+**Author:** jruohonen  
+**Published:** 10/17/2026, 11:44:09 AM  
+**Categories:** -  
+
+Article URL: https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps Comments URL: https://news.ycombinator.com/item?id=50130206 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps)
+
+---
+
+## 17. AI Engineering Fluency Extension for VS Code / JetBrains / Visual Studio, NPM
+
+**Author:** robbos  
+**Published:** 10/17/2026, 11:42:54 AM  
+**Categories:** -  
+
+Article URL: https://github.com/rajbos/ai-engineering-fluency Comments URL: https://news.ycombinator.com/item?id=50130191 Points: 1 # Comments: 1
+
+📖 [Read original article](https://github.com/rajbos/ai-engineering-fluency)
+
+---
+
+## 18. The AI Expectations Gap
+
+**Author:** cybermango  
+**Published:** 10/17/2026, 11:06:19 AM  
+**Categories:** -  
+
+Article URL: https://www.anthropic.com/research/ai-expectations-gap Comments URL: https://news.ycombinator.com/item?id=50129987 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.anthropic.com/research/ai-expectations-gap)
+
+---
+
+## 19. Roundtables: A Conversation with the Creator of AI-Designed Viruses
+
+**Author:** joozio  
+**Published:** 10/17/2026, 11:02:17 AM  
+**Categories:** -  
+
+Article URL: https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/ Comments URL: https://news.ycombinator.com/item?id=50129960 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)
+
+---
+
+## 20. Amazon devices chief sees a future where AI devices replace the need to use apps
+
+**Author:** cybermango  
+**Published:** 10/17/2026, 11:00:47 AM  
+**Categories:** -  
+
+Article URL: https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/ Comments URL: https://news.ycombinator.com/item?id=50129954 Points: 1 # Comments: 0
+
+📖 [Read original article](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)
 
 ---
