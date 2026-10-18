@@ -11,7 +11,223 @@ count: 20
 
 ---
 
-## 1. Show HN: AI Zombie Trend–Generating multi-shot narrative videos from two photos
+## 1. Consumer apprehension grows as US retailers adopt AI-assisted pricing tools
+
+**Author:** geox  
+**Published:** 10/18/2026, 7:39:36 PM  
+**Categories:** -  
+
+Article URL: https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857 Comments URL: https://news.ycombinator.com/item?id=50144597 Points: 2 # Comments: 1
+
+📖 [Read original article](https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857)
+
+---
+
+## 2. Beating Warcraft III's insane AI with self-play reinforcement learning on one PC
+
+**Author:** nawtora  
+**Published:** 10/18/2026, 7:32:10 PM  
+**Categories:** -  
+
+Article URL: https://warlock.ai/blog/warcraftsim-1/ Comments URL: https://news.ycombinator.com/item?id=50144489 Points: 1 # Comments: 0
+
+📖 [Read original article](https://warlock.ai/blog/warcraftsim-1/)
+
+---
+
+## 3. Trustbut checks if an AI agent's new tests fail without its change
+
+**Author:** almog_io  
+**Published:** 10/18/2026, 7:07:31 PM  
+**Categories:** -  
+
+Article URL: https://github.com/isAlmogK/trustbut Comments URL: https://news.ycombinator.com/item?id=50144227 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/isAlmogK/trustbut)
+
+---
+
+## 4. Self-hosted workspace where notes, tasks and AI chats are all items
+
+**Author:** osinachi88  
+**Published:** 10/18/2026, 6:39:42 PM  
+**Categories:** -  
+
+Article URL: https://github.com/sianachi/nixsites Comments URL: https://news.ycombinator.com/item?id=50143999 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/sianachi/nixsites)
+
+---
+
+## 5. Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling
+
+**Author:** paulpauper  
+**Published:** 10/18/2026, 6:28:58 PM  
+**Categories:** -  
+
+Article URL: https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory Comments URL: https://news.ycombinator.com/item?id=50143897 Points: 2 # Comments: 1
+
+📖 [Read original article](https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory)
+
+---
+
+## 6. AI/Pangram and Writing
+
+**Author:** paulpauper  
+**Published:** 10/18/2026, 6:26:11 PM  
+**Categories:** -  
+
+Article URL: https://ninza7.medium.com/ai-pangram-writing-966c1da59c48 Comments URL: https://news.ycombinator.com/item?id=50143868 Points: 1 # Comments: 1
+
+📖 [Read original article](https://ninza7.medium.com/ai-pangram-writing-966c1da59c48)
+
+---
+
+## 7. Why Clay Has an AI Writing Policy
+
+**Author:** ryzvonusef  
+**Published:** 10/18/2026, 6:05:41 PM  
+**Categories:** -  
+
+Article URL: https://www.clay.com/blog/ai-writing-policy Comments URL: https://news.ycombinator.com/item?id=50143643 Points: 1 # Comments: 2
+
+📖 [Read original article](https://www.clay.com/blog/ai-writing-policy)
+
+---
+
+## 8. AI Is the Uber Moment for Mathematics
+
+**Author:** paulpauper  
+**Published:** 10/18/2026, 5:18:59 PM  
+**Categories:** -  
+
+Article URL: https://greyenlightenment.com/2026/09/27/ai-is-the-uber-moment-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=50143120 Points: 1 # Comments: 0
+
+📖 [Read original article](https://greyenlightenment.com/2026/09/27/ai-is-the-uber-moment-for-mathematics/)
+
+---
+
+## 9. Men Can't Stop Faking How Much They Know About AI
+
+**Author:** ceejayoz  
+**Published:** 10/18/2026, 5:15:01 PM  
+**Categories:** -  
+
+Article URL: https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/ Comments URL: https://news.ycombinator.com/item?id=50143083 Points: 4 # Comments: 2
+
+📖 [Read original article](https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/)
+
+---
+
+## 10. AI won't kill jobs. Bad team design will
+
+**Author:** eustoria  
+**Published:** 10/18/2026, 5:10:26 PM  
+**Categories:** -  
+
+Article URL: https://www.cio.com/article/4236023/ai-wont-kill-jobs-bad-team-design-will.html Comments URL: https://news.ycombinator.com/item?id=50143028 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.cio.com/article/4236023/ai-wont-kill-jobs-bad-team-design-will.html)
+
+---
+
+## 11. How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill
+
+**Author:** toomuchtodo  
+**Published:** 10/18/2026, 4:48:25 PM  
+**Categories:** -  
+
+Article URL: https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly Comments URL: https://news.ycombinator.com/item?id=50142772 Points: 20 # Comments: 7
+
+📖 [Read original article](https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly)
+
+---
+
+## 12. The Radxa Linkr – A KVM for Your AI Agent
+
+**Author:** rcarmo  
+**Published:** 10/18/2026, 4:45:33 PM  
+**Categories:** -  
+
+Article URL: https://taoofmac.com/space/reviews/2026/10/18/1646 Comments URL: https://news.ycombinator.com/item?id=50142724 Points: 1 # Comments: 0
+
+📖 [Read original article](https://taoofmac.com/space/reviews/2026/10/18/1646)
+
+---
+
+## 13. Tell HN: I picked up knitting while waiting for my AI agent to complete
+
+**Author:** amelius  
+**Published:** 10/18/2026, 4:39:46 PM  
+**Categories:** -  
+
+Any new hobbies you are willing to share that AI made you start? Comments URL: https://news.ycombinator.com/item?id=50142650 Points: 4 # Comments: 0
+
+📖 [Read original article](https://news.ycombinator.com/item?id=50142650)
+
+---
+
+## 14. Show HN: HedgePick – nine AI agents that argue against your stock thesis
+
+**Author:** joegahagan  
+**Published:** 10/18/2026, 4:33:43 PM  
+**Categories:** -  
+
+Article URL: https://hedgepick.com/ Comments URL: https://news.ycombinator.com/item?id=50142592 Points: 1 # Comments: 0
+
+📖 [Read original article](https://hedgepick.com/)
+
+---
+
+## 15. Would you switch credit cards for your rewards on your AI spend?
+
+**Author:** mhutchw  
+**Published:** 10/18/2026, 4:24:42 PM  
+**Categories:** -  
+
+currently exploring a "bilt for AI spend": a card that earns rewards on your AI token bills that you can redeem on sandbox, infra, compute, etc.if you spend heavily on tokens, would this make you switch cards? Comments URL: https://news.ycombinator.com/item?id=50142494 Points: 1 # Comments: 0
+
+📖 [Read original article](https://news.ycombinator.com/item?id=50142494)
+
+---
+
+## 16. Vertick – built with DominoKit and agentic AI
+
+**Author:** vegegoku  
+**Published:** 10/18/2026, 4:23:10 PM  
+**Categories:** -  
+
+Article URL: https://dominokit.com/vertick/ Comments URL: https://news.ycombinator.com/item?id=50142478 Points: 1 # Comments: 0
+
+📖 [Read original article](https://dominokit.com/vertick/)
+
+---
+
+## 17. AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job
+
+**Author:** swolpers  
+**Published:** 10/18/2026, 3:55:35 PM  
+**Categories:** -  
+
+Article URL: https://age-of-product.com/ai-assisted-product-discovery/ Comments URL: https://news.ycombinator.com/item?id=50142192 Points: 2 # Comments: 1
+
+📖 [Read original article](https://age-of-product.com/ai-assisted-product-discovery/)
+
+---
+
+## 18. Microsoft drops AI datacentre project in Essex over power supply concerns
+
+**Author:** wondersky  
+**Published:** 10/18/2026, 3:48:32 PM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns Comments URL: https://news.ycombinator.com/item?id=50142115 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns)
+
+---
+
+## 19. Show HN: AI Zombie Trend–Generating multi-shot narrative videos from two photos
 
 **Author:** dawn3727  
 **Published:** 10/18/2026, 3:25:01 PM  
@@ -23,7 +239,7 @@ Article URL: https://aizombietrend.online/ Comments URL: https://news.ycombinato
 
 ---
 
-## 2. Show HN: Wisp – a voice AI on your shoulder, with spatial audio in the browser
+## 20. Show HN: Wisp – a voice AI on your shoulder, with spatial audio in the browser
 
 **Author:** Serg75  
 **Published:** 10/18/2026, 3:18:00 PM  
@@ -32,221 +248,5 @@ Article URL: https://aizombietrend.online/ Comments URL: https://news.ycombinato
 Article URL: https://wispplayer.com/?tab=ai Comments URL: https://news.ycombinator.com/item?id=50141830 Points: 1 # Comments: 0
 
 📖 [Read original article](https://wispplayer.com/?tab=ai)
-
----
-
-## 3. GhostOS – Lightweight, Offline Desktop AI Assistant (macOS/Win/Linux)
-
-**Author:** GhostOS  
-**Published:** 10/18/2026, 3:08:54 PM  
-**Categories:** -  
-
-Article URL: https://github.com/GhostOS-ai/GhostOS Comments URL: https://news.ycombinator.com/item?id=50141746 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/GhostOS-ai/GhostOS)
-
----
-
-## 4. Websites are closing their doors to AI agents
-
-**Author:** evolve2k  
-**Published:** 10/18/2026, 2:58:10 PM  
-**Categories:** -  
-
-Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 25 # Comments: 16
-
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
-
----
-
-## 5. Show HN: TaskPocket, a to-do app with an MCP server instead of built-in AI
-
-**Author:** bohdanstefaniuk  
-**Published:** 10/18/2026, 2:39:55 PM  
-**Categories:** -  
-
-Article URL: https://taskpocket.io/ Comments URL: https://news.ycombinator.com/item?id=50141513 Points: 1 # Comments: 1
-
-📖 [Read original article](https://taskpocket.io/)
-
----
-
-## 6. World Bank says 'small AI' could transform developing countries
-
-**Author:** simonpure  
-**Published:** 10/18/2026, 2:37:55 PM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies Comments URL: https://news.ycombinator.com/item?id=50141494 Points: 6 # Comments: 0
-
-📖 [Read original article](https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies)
-
----
-
-## 7. Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages
-
-**Author:** f-serif  
-**Published:** 10/18/2026, 2:30:27 PM  
-**Categories:** -  
-
-Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model Comments UR...
-
-📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
-
----
-
-## 8. Show HN: DocuMemory – Persistent memory and context for AI coding tools
-
-**Author:** veryslowcode  
-**Published:** 10/18/2026, 2:22:54 PM  
-**Categories:** -  
-
-Article URL: https://www.documemory.dev/ Comments URL: https://news.ycombinator.com/item?id=50141365 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.documemory.dev/)
-
----
-
-## 9. Software is recursive and AI is the base case
-
-**Author:** andsoitis  
-**Published:** 10/18/2026, 2:18:09 PM  
-**Categories:** -  
-
-Article URL: https://t3.at/blog/2026-10-06-ai-base-case/ Comments URL: https://news.ycombinator.com/item?id=50141312 Points: 1 # Comments: 0
-
-📖 [Read original article](https://t3.at/blog/2026-10-06-ai-base-case/)
-
----
-
-## 10. In 23 of 24 categories, AI answer engines recommend one brand in every query
-
-**Author:** fredxhansson  
-**Published:** 10/18/2026, 1:49:57 PM  
-**Categories:** -  
-
-Article URL: https://noniner.io/report/state-of-ai-brand-visibility-2026 Comments URL: https://news.ycombinator.com/item?id=50141088 Points: 2 # Comments: 0
-
-📖 [Read original article](https://noniner.io/report/state-of-ai-brand-visibility-2026)
-
----
-
-## 11. What Firecrawl's $75M raise is telling us about the AI stack
-
-**Author:** theunscriptedk  
-**Published:** 10/18/2026, 1:13:19 PM  
-**Categories:** -  
-
-Article URL: https://www.enconvert.com/blog/the-real-story-behind-firecrawl-s-75m-raise Comments URL: https://news.ycombinator.com/item?id=50140816 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.enconvert.com/blog/the-real-story-behind-firecrawl-s-75m-raise)
-
----
-
-## 12. How the AI boom might end: 5 scenarios
-
-**Author:** martinald  
-**Published:** 10/18/2026, 12:37:42 PM  
-**Categories:** -  
-
-Article URL: https://martinalderson.com/posts/how-the-ai-boom-might-really-end/ Comments URL: https://news.ycombinator.com/item?id=50140566 Points: 3 # Comments: 7
-
-📖 [Read original article](https://martinalderson.com/posts/how-the-ai-boom-might-really-end/)
-
----
-
-## 13. How Far Will AI Assistants Go for a Refund They Can't Get?
-
-**Author:** DeepLogin  
-**Published:** 10/18/2026, 12:22:58 PM  
-**Categories:** -  
-
-Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.vals.ai/blogs/impossible-refund)
-
----
-
-## 14. How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)
-
-**Author:** Moon_Y  
-**Published:** 10/18/2026, 12:17:30 PM  
-**Categories:** -  
-
-Article URL: https://roadster-ai.net/blog/how-to-make-roadster-ai-video Comments URL: https://news.ycombinator.com/item?id=50140420 Points: 2 # Comments: 0
-
-📖 [Read original article](https://roadster-ai.net/blog/how-to-make-roadster-ai-video)
-
----
-
-## 15. I've been using an AI agent for a month, and I'm both impressed and terrified
-
-**Author:** donk8r  
-**Published:** 10/18/2026, 11:54:53 AM  
-**Categories:** -  
-
-Article URL: https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/ Comments URL: https://news.ycombinator.com/item?id=50140278 Points: 1 # Comments: 2
-
-📖 [Read original article](https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/)
-
----
-
-## 16. Show HN: Shipback – SFTP deploys your AI agent can undo
-
-**Author:** aldoh  
-**Published:** 10/18/2026, 11:48:48 AM  
-**Categories:** -  
-
-Article URL: https://github.com/aldohushi1-stack/shipback-sftp Comments URL: https://news.ycombinator.com/item?id=50140229 Points: 4 # Comments: 0
-
-📖 [Read original article](https://github.com/aldohushi1-stack/shipback-sftp)
-
----
-
-## 17. Doctors and Lawyers Are Joining AI's $400-an-Hour Gig Economy
-
-**Author:** theanonymousone  
-**Published:** 10/18/2026, 11:43:47 AM  
-**Categories:** -  
-
-Article URL: https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy Comments URL: https://news.ycombinator.com/item?id=50140196 Points: 1 # Comments: 0
-
-📖 [Read original article](https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy)
-
----
-
-## 18. Show HN: Flying Car AI – make your car or your product fly from one photo
-
-**Author:** hashkitly  
-**Published:** 10/18/2026, 11:38:42 AM  
-**Categories:** -  
-
-Article URL: https://flyingcar-ai.org Comments URL: https://news.ycombinator.com/item?id=50140152 Points: 1 # Comments: 0
-
-📖 [Read original article](https://flyingcar-ai.org)
-
----
-
-## 19. Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)
-
-**Author:** lukasm  
-**Published:** 10/18/2026, 11:28:54 AM  
-**Categories:** -  
-
-Article URL: https://huggingface.co/Remek/basal-omni-1.0-ultra Comments URL: https://news.ycombinator.com/item?id=50140075 Points: 2 # Comments: 0
-
-📖 [Read original article](https://huggingface.co/Remek/basal-omni-1.0-ultra)
-
----
-
-## 20. Killa YuE v1.6.0 – Local AI vocal songs and P2P audio hosting on Android (A 2.0)
-
-**Author:** JackKnifeAI  
-**Published:** 10/18/2026, 11:25:28 AM  
-**Categories:** -  
-
-Article URL: https://github.com/JackKnifeAI/killa-yue Comments URL: https://news.ycombinator.com/item?id=50140056 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/JackKnifeAI/killa-yue)
 
 ---
