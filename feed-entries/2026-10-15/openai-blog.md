@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-15"
 date: "2026-10-15"
 source: "OpenAI Blog"
-count: 3
+count: 2
 ---
 
 # OpenAI Blog - 2026-10-15
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Introducing the Rosalind Academic Plan, offering eligible academic labs sponsore
 Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
 
 📖 [Read original article](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
-
----
-
-## 3. Sullivan & Cromwell brings legal expertise into agreement review
-
-**Author:** -  
-**Published:** 10/15/2026, 12:00:00 AM  
-**Categories:** -  
-
-In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.
-
-📖 [Read original article](https://openai.com/index/sullivan-cromwell)
 
 ---
