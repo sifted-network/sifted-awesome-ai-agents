@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety
+## 1. Show HN: AI Zombie Trend–Generating multi-shot narrative videos from two photos
 
-**Author:** adityam_9911  
-**Published:** 10/18/2026, 10:11:16 AM  
+**Author:** dawn3727  
+**Published:** 10/18/2026, 3:25:01 PM  
 **Categories:** -  
 
-Article URL: https://github.com/matricphase-dot/aiops Comments URL: https://news.ycombinator.com/item?id=50139640 Points: 1 # Comments: 0
+Article URL: https://aizombietrend.online/ Comments URL: https://news.ycombinator.com/item?id=50141889 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/matricphase-dot/aiops)
+📖 [Read original article](https://aizombietrend.online/)
 
 ---
 
-## 2. China proposes export controls on its advanced AI models and chip designs
+## 2. Show HN: Wisp – a voice AI on your shoulder, with spatial audio in the browser
 
-**Author:** poszlem  
-**Published:** 10/18/2026, 10:01:06 AM  
+**Author:** Serg75  
+**Published:** 10/18/2026, 3:18:00 PM  
 **Categories:** -  
 
-Article URL: https://thenextweb.com/news/china-ai-export-controls-draft Comments URL: https://news.ycombinator.com/item?id=50139587 Points: 1 # Comments: 0
+Article URL: https://wispplayer.com/?tab=ai Comments URL: https://news.ycombinator.com/item?id=50141830 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thenextweb.com/news/china-ai-export-controls-draft)
+📖 [Read original article](https://wispplayer.com/?tab=ai)
 
 ---
 
-## 3. Ask HN: Why people keep posting AI-generated projects around the Internet?
+## 3. GhostOS – Lightweight, Offline Desktop AI Assistant (macOS/Win/Linux)
 
-**Author:** Eliah_Lakhin  
-**Published:** 10/18/2026, 10:00:32 AM  
+**Author:** GhostOS  
+**Published:** 10/18/2026, 3:08:54 PM  
 **Categories:** -  
 
-Programming-related subreddits and other media platforms are current flooded by the waterfall of AI-generated projects. A typical post contains a problem description and the link to GitHub repo created just recently with sustainable amount of generated code in it. With the invite to review it, and t...
+Article URL: https://github.com/GhostOS-ai/GhostOS Comments URL: https://news.ycombinator.com/item?id=50141746 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50139584)
+📖 [Read original article](https://github.com/GhostOS-ai/GhostOS)
 
 ---
 
-## 4. Deezer Will Let Listeners Filter Out AI Music
+## 4. Websites are closing their doors to AI agents
 
-**Author:** rdmuser  
-**Published:** 10/18/2026, 9:19:13 AM  
+**Author:** evolve2k  
+**Published:** 10/18/2026, 2:58:10 PM  
 **Categories:** -  
 
-Article URL: https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music/ Comments URL: https://news.ycombinator.com/item?id=50139390 Points: 3 # Comments: 0
+Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 25 # Comments: 16
 
-📖 [Read original article](https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music/)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
 
 ---
 
-## 5. Why CoreWeave is in the crosshairs of the AI scare
+## 5. Show HN: TaskPocket, a to-do app with an MCP server instead of built-in AI
 
-**Author:** giuliomagnifico  
-**Published:** 10/18/2026, 9:17:02 AM  
+**Author:** bohdanstefaniuk  
+**Published:** 10/18/2026, 2:39:55 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16/ Comments URL: https://news.ycombinator.com/item?id=50139375 Points: 2 # Comments: 0
+Article URL: https://taskpocket.io/ Comments URL: https://news.ycombinator.com/item?id=50141513 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16/)
+📖 [Read original article](https://taskpocket.io/)
 
 ---
 
-## 6. Show HN: Risphai – picks the AI model, tools and prompt for each request
+## 6. World Bank says 'small AI' could transform developing countries
 
-**Author:** risphere  
-**Published:** 10/18/2026, 9:11:39 AM  
+**Author:** simonpure  
+**Published:** 10/18/2026, 2:37:55 PM  
 **Categories:** -  
 
-I noticed that a lot of non-technical people don’t use AI to its full extent. Like they use the wrong model for the task, the wrong reasoning effort, or vague prompts. That gap between "what the AI can do" and "what people actually get" is what I wanted to fix.So I spent the last two years in my spa...
+Article URL: https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies Comments URL: https://news.ycombinator.com/item?id=50141494 Points: 6 # Comments: 0
 
-📖 [Read original article](https://risphai.com)
+📖 [Read original article](https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies)
 
 ---
 
-## 7. The Universe as a Test Harness: Meat AI and God's Admin Panel
+## 7. Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages
 
-**Author:** rebeccapowell  
-**Published:** 10/18/2026, 9:00:20 AM  
+**Author:** f-serif  
+**Published:** 10/18/2026, 2:30:27 PM  
 **Categories:** -  
 
-Article URL: https://rebecca-powell.com/posts/meat-ai-universe-test-harness/ Comments URL: https://news.ycombinator.com/item?id=50139275 Points: 2 # Comments: 0
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model Comments UR...
 
-📖 [Read original article](https://rebecca-powell.com/posts/meat-ai-universe-test-harness/)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
 
 ---
 
-## 8. Abolish AI Manifesto (under construction)
+## 8. Show HN: DocuMemory – Persistent memory and context for AI coding tools
 
-**Author:** classified  
-**Published:** 10/18/2026, 8:20:45 AM  
+**Author:** veryslowcode  
+**Published:** 10/18/2026, 2:22:54 PM  
 **Categories:** -  
 
-Article URL: https://abolish-ai.net/abolish-ai-a-manifesto/ Comments URL: https://news.ycombinator.com/item?id=50139072 Points: 3 # Comments: 0
+Article URL: https://www.documemory.dev/ Comments URL: https://news.ycombinator.com/item?id=50141365 Points: 2 # Comments: 0
 
-📖 [Read original article](https://abolish-ai.net/abolish-ai-a-manifesto/)
+📖 [Read original article](https://www.documemory.dev/)
 
 ---
 
-## 9. Show HN: Connecting Captions Local Private AI Interpreter
+## 9. Software is recursive and AI is the base case
 
-**Author:** chrisswimlee  
-**Published:** 10/18/2026, 7:41:31 AM  
+**Author:** andsoitis  
+**Published:** 10/18/2026, 2:18:09 PM  
 **Categories:** -  
 
-Hi HN,I built Connecting Captions, a live captioning and translation overlay for macOS that runs entirely on-device. Nothing goes over the network: no API calls, no audio leaving your machine, and it keeps working offline.I wanted live translation I could use in meetings and conversations without wo...
+Article URL: https://t3.at/blog/2026-10-06-ai-base-case/ Comments URL: https://news.ycombinator.com/item?id=50141312 Points: 1 # Comments: 0
 
-📖 [Read original article](https://local-host.ai/connectingCaptions/)
+📖 [Read original article](https://t3.at/blog/2026-10-06-ai-base-case/)
 
 ---
 
-## 10. AgentBlackBox – a policy gate and tamper-evident audit log for AI agents
+## 10. In 23 of 24 categories, AI answer engines recommend one brand in every query
 
-**Author:** sontoshbhn  
-**Published:** 10/18/2026, 7:25:01 AM  
+**Author:** fredxhansson  
+**Published:** 10/18/2026, 1:49:57 PM  
 **Categories:** -  
 
-Article URL: https://agent-blackbox-five.vercel.app/demo Comments URL: https://news.ycombinator.com/item?id=50138752 Points: 1 # Comments: 0
+Article URL: https://noniner.io/report/state-of-ai-brand-visibility-2026 Comments URL: https://news.ycombinator.com/item?id=50141088 Points: 2 # Comments: 0
 
-📖 [Read original article](https://agent-blackbox-five.vercel.app/demo)
+📖 [Read original article](https://noniner.io/report/state-of-ai-brand-visibility-2026)
 
 ---
 
-## 11. ArXiv versus AI slop: will capping preprint submissions work?
+## 11. What Firecrawl's $75M raise is telling us about the AI stack
 
-**Author:** XzetaU8  
-**Published:** 10/18/2026, 7:15:57 AM  
+**Author:** theunscriptedk  
+**Published:** 10/18/2026, 1:13:19 PM  
 **Categories:** -  
 
-Article URL: https://www.nature.com/articles/d41586-026-03194-w Comments URL: https://news.ycombinator.com/item?id=50138702 Points: 2 # Comments: 1
+Article URL: https://www.enconvert.com/blog/the-real-story-behind-firecrawl-s-75m-raise Comments URL: https://news.ycombinator.com/item?id=50140816 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.nature.com/articles/d41586-026-03194-w)
+📖 [Read original article](https://www.enconvert.com/blog/the-real-story-behind-firecrawl-s-75m-raise)
 
 ---
 
-## 12. Weights AI – AI Song Cover Generator
+## 12. How the AI boom might end: 5 scenarios
 
-**Author:** gregzeng95  
-**Published:** 10/18/2026, 7:11:34 AM  
+**Author:** martinald  
+**Published:** 10/18/2026, 12:37:42 PM  
 **Categories:** -  
 
-Article URL: https://weightsai.net/ Comments URL: https://news.ycombinator.com/item?id=50138672 Points: 1 # Comments: 0
+Article URL: https://martinalderson.com/posts/how-the-ai-boom-might-really-end/ Comments URL: https://news.ycombinator.com/item?id=50140566 Points: 3 # Comments: 7
 
-📖 [Read original article](https://weightsai.net/)
+📖 [Read original article](https://martinalderson.com/posts/how-the-ai-boom-might-really-end/)
 
 ---
 
-## 13. America's $10T AI infrastructure boom is starting to fray
+## 13. How Far Will AI Assistants Go for a Refund They Can't Get?
 
-**Author:** cheesecompiler  
-**Published:** 10/18/2026, 6:46:50 AM  
+**Author:** DeepLogin  
+**Published:** 10/18/2026, 12:22:58 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c Comments URL: https://news.ycombinator.com/item?id=50138511 Points: 3 # Comments: 0
+Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c)
+📖 [Read original article](https://www.vals.ai/blogs/impossible-refund)
 
 ---
 
-## 14. Anthropic turns to lawyers to help AI agents strike deals
+## 14. How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)
 
-**Author:** thm  
-**Published:** 10/18/2026, 6:03:17 AM  
+**Author:** Moon_Y  
+**Published:** 10/18/2026, 12:17:30 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9 Comments URL: https://news.ycombinator.com/item?id=50138318 Points: 1 # Comments: 0
+Article URL: https://roadster-ai.net/blog/how-to-make-roadster-ai-video Comments URL: https://news.ycombinator.com/item?id=50140420 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9)
+📖 [Read original article](https://roadster-ai.net/blog/how-to-make-roadster-ai-video)
 
 ---
 
-## 15. TurboScribe AI: Free video to text and audio to text converter
+## 15. I've been using an AI agent for a month, and I'm both impressed and terrified
 
-**Author:** wsm123456  
-**Published:** 10/18/2026, 5:55:29 AM  
+**Author:** donk8r  
+**Published:** 10/18/2026, 11:54:53 AM  
 **Categories:** -  
 
-Article URL: https://www.turboscribeai.org/ Comments URL: https://news.ycombinator.com/item?id=50138286 Points: 1 # Comments: 0
+Article URL: https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/ Comments URL: https://news.ycombinator.com/item?id=50140278 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.turboscribeai.org/)
+📖 [Read original article](https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/)
 
 ---
 
-## 16. AI Slop? Nay, AI Gourmet
+## 16. Show HN: Shipback – SFTP deploys your AI agent can undo
 
-**Author:** securitypedant  
-**Published:** 10/18/2026, 5:00:17 AM  
+**Author:** aldoh  
+**Published:** 10/18/2026, 11:48:48 AM  
 **Categories:** -  
 
-Article URL: https://octomon.dev/blog/ai-slop-and-ai-gourmet/ Comments URL: https://news.ycombinator.com/item?id=50138046 Points: 1 # Comments: 1
+Article URL: https://github.com/aldohushi1-stack/shipback-sftp Comments URL: https://news.ycombinator.com/item?id=50140229 Points: 4 # Comments: 0
 
-📖 [Read original article](https://octomon.dev/blog/ai-slop-and-ai-gourmet/)
+📖 [Read original article](https://github.com/aldohushi1-stack/shipback-sftp)
 
 ---
 
-## 17. Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping
+## 17. Doctors and Lawyers Are Joining AI's $400-an-Hour Gig Economy
 
-**Author:** critiquebrowser  
-**Published:** 10/18/2026, 4:33:49 AM  
+**Author:** theanonymousone  
+**Published:** 10/18/2026, 11:43:47 AM  
 **Categories:** -  
 
-FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 135 # Comments: 33
+Article URL: https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy Comments URL: https://news.ycombinator.com/item?id=50140196 Points: 1 # Comments: 0
 
-📖 [Read original article](https://sphinx-six-theta.vercel.app/)
+📖 [Read original article](https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy)
 
 ---
 
-## 18. Phishing emails are baiting your AI assistant
+## 18. Show HN: Flying Car AI – make your car or your product fly from one photo
 
-**Author:** cdrnsf  
-**Published:** 10/18/2026, 3:52:35 AM  
+**Author:** hashkitly  
+**Published:** 10/18/2026, 11:38:42 AM  
 **Categories:** -  
 
-Article URL: https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant Comments URL: https://news.ycombinator.com/item?id=50137768 Points: 3 # Comments: 0
+Article URL: https://flyingcar-ai.org Comments URL: https://news.ycombinator.com/item?id=50140152 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant)
+📖 [Read original article](https://flyingcar-ai.org)
 
 ---
 
-## 19. Best Free GPU Cloud Options for AI Startups and Researchers
+## 19. Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)
 
-**Author:** peter_d_sherman  
-**Published:** 10/18/2026, 2:35:00 AM  
+**Author:** lukasm  
+**Published:** 10/18/2026, 11:28:54 AM  
 **Categories:** -  
 
-Article URL: https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers Comments URL: https://news.ycombinator.com/item?id=50137325 Points: 2 # Comments: 0
+Article URL: https://huggingface.co/Remek/basal-omni-1.0-ultra Comments URL: https://news.ycombinator.com/item?id=50140075 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers)
+📖 [Read original article](https://huggingface.co/Remek/basal-omni-1.0-ultra)
 
 ---
 
-## 20. OpenAI Saudi national bugging case shows threat to U.S. leadership in AI
+## 20. Killa YuE v1.6.0 – Local AI vocal songs and P2P audio hosting on Android (A 2.0)
 
-**Author:** snarky-comments  
-**Published:** 10/18/2026, 2:20:40 AM  
+**Author:** JackKnifeAI  
+**Published:** 10/18/2026, 11:25:28 AM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html Comments URL: https://news.ycombinator.com/item?id=50137246 Points: 2 # Comments: 0
+Article URL: https://github.com/JackKnifeAI/killa-yue Comments URL: https://news.ycombinator.com/item?id=50140056 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html)
+📖 [Read original article](https://github.com/JackKnifeAI/killa-yue)
 
 ---
