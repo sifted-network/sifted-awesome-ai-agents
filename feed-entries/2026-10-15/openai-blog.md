@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-15"
 date: "2026-10-15"
 source: "OpenAI Blog"
-count: 2
+count: 1
 ---
 
 # OpenAI Blog - 2026-10-15
 
-2 items collected.
+1 items collected.
 
 ---
 
@@ -20,17 +20,5 @@ count: 2
 Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.
 
 📖 [Read original article](https://openai.com/index/introducing-the-rosalind-academic-plan)
-
----
-
-## 2. Teaching students to think and learn through questions
-
-**Author:** -  
-**Published:** 10/15/2026, 1:00:00 PM  
-**Categories:** Company  
-
-Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
-
-📖 [Read original article](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
 
 ---
