@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Marcus – catches the fake source links AI search engines invent
+## 1. Show HN: Accessibility Context for UI with AI
 
-**Author:** lwgray  
-**Published:** 10/19/2026, 12:15:26 PM  
+**Author:** elwingo1  
+**Published:** 10/19/2026, 9:46:15 PM  
 **Categories:** -  
 
-Article URL: https://marcus-ai.dev/on-the-record/ Comments URL: https://news.ycombinator.com/item?id=50151466 Points: 1 # Comments: 0
+Article URL: https://www.typeui.sh/ui-foundations/configurator Comments URL: https://news.ycombinator.com/item?id=50158513 Points: 1 # Comments: 0
 
-📖 [Read original article](https://marcus-ai.dev/on-the-record/)
+📖 [Read original article](https://www.typeui.sh/ui-foundations/configurator)
 
 ---
 
-## 2. AI native Requirements, design and simulations
+## 2. Lessons from Watching an AI Agent Swarm Self-Organize
 
-**Author:** kunalsin9h  
-**Published:** 10/19/2026, 11:45:59 AM  
+**Author:** benarent  
+**Published:** 10/19/2026, 9:38:09 PM  
 **Categories:** -  
 
-Article URL: https://www.meltred.com/ Comments URL: https://news.ycombinator.com/item?id=50151207 Points: 2 # Comments: 0
+Article URL: https://goteleport.com/blog/ai-agent-swarm-security-lessons/ Comments URL: https://news.ycombinator.com/item?id=50158410 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.meltred.com/)
+📖 [Read original article](https://goteleport.com/blog/ai-agent-swarm-security-lessons/)
 
 ---
 
-## 3. It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe
+## 3. AI Discovery in Combinatorics: From Problems to Solutions and Back
 
-**Author:** baranul  
-**Published:** 10/19/2026, 11:31:58 AM  
+**Author:** JohnHammersley  
+**Published:** 10/19/2026, 9:33:28 PM  
 **Categories:** -  
 
-Article URL: https://www.inc.com/jason-aten/it-turns-out-the-only-thing-people-like-less-than-ai-is-paying-for-adobe-creative-cloud/91418566 Comments URL: https://news.ycombinator.com/item?id=50151084 Points: 3 # Comments: 0
+Article URL: https://arxiv.org/abs/2610.16555 Comments URL: https://news.ycombinator.com/item?id=50158361 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.inc.com/jason-aten/it-turns-out-the-only-thing-people-like-less-than-ai-is-paying-for-adobe-creative-cloud/91418566)
+📖 [Read original article](https://arxiv.org/abs/2610.16555)
 
 ---
 
-## 4. AI firm Anthropic to commit 5% of shares to fund for 'public good'
+## 4. Technocapitalist AI-Powered Blues
 
-**Author:** beardyw  
-**Published:** 10/19/2026, 11:31:19 AM  
+**Author:** d0able  
+**Published:** 10/19/2026, 9:15:44 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good Comments URL: https://news.ycombinator.com/item?id=50151080 Points: 5 # Comments: 2
+Article URL: https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/ Comments URL: https://news.ycombinator.com/item?id=50158179 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good)
+📖 [Read original article](https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/)
 
 ---
 
-## 5. Britain should reject the lure of cheap – and scary – Chinese AI
+## 5. Quizera – Create and deploy AI-assisted assessments in minutes
 
-**Author:** irthomasthomas  
-**Published:** 10/19/2026, 11:25:18 AM  
+**Author:** agsperry  
+**Published:** 10/19/2026, 9:12:45 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai Comments URL: https://news.ycombinator.com/item?id=50151038 Points: 2 # Comments: 1
+Article URL: https://quizera.ai/ Comments URL: https://news.ycombinator.com/item?id=50158148 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai)
+📖 [Read original article](https://quizera.ai/)
 
 ---
 
-## 6. Ask HN: How to deal with shipping AI-written code you don't understand?
+## 6. Scope: Open-source evaluation for AI coding agents
 
-**Author:** rzk  
-**Published:** 10/19/2026, 11:24:34 AM  
+**Author:** notfried  
+**Published:** 10/19/2026, 8:57:44 PM  
 **Categories:** -  
 
-I saw this LinkedIn post from a Meta engineer and it resonated with me:https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all fee...
+Article URL: https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=50157945 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50151036)
+📖 [Read original article](https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/)
 
 ---
 
-## 7. AI researchers stranded Claude on a virtual desert island. It started to \"play.\"
+## 7. Show HN: One-click AI PR review buttons (no API keys, no CI)
 
-**Author:** joozio  
-**Published:** 10/19/2026, 11:02:45 AM  
+**Author:** alexdykyi  
+**Published:** 10/19/2026, 8:55:51 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/ Comments URL: https://news.ycombinator.com/item?id=50150871 Points: 2 # Comments: 1
+Article URL: https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons Comments URL: https://news.ycombinator.com/item?id=50157926 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)
+📖 [Read original article](https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons)
 
 ---
 
-## 8. Top six AI spenders are spending more than the Russian govt. this year
+## 8. Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts
 
-**Author:** hayekstan  
-**Published:** 10/19/2026, 11:02:33 AM  
+**Author:** vatsachak  
+**Published:** 10/19/2026, 8:54:50 PM  
 **Categories:** -  
 
-Article URL: https://www.takingstock.ai/ Comments URL: https://news.ycombinator.com/item?id=50150869 Points: 1 # Comments: 2
+Article URL: https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst Comments URL: https://news.ycombinator.com/item?id=50157912 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.takingstock.ai/)
+📖 [Read original article](https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst)
 
 ---
 
-## 9. How AI is creating a lopsided US economy
+## 9. Blocking the Internet Archive Will Not Stop AI
 
-**Author:** tys-  
-**Published:** 10/19/2026, 10:47:37 AM  
+**Author:** rbanffy  
+**Published:** 10/19/2026, 8:49:29 PM  
 **Categories:** -  
 
-Article URL: https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078 Comments URL: https://news.ycombinator.com/item?id=50150771 Points: 2 # Comments: 0
+Article URL: https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/ Comments URL: https://news.ycombinator.com/item?id=50157858 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078)
+📖 [Read original article](https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/)
 
 ---
 
-## 10. Show HN: CanaryGuard – A <0.1ms deterministic AI prompt firewall with $5 bounty
+## 10. Red Hat Engineering Director Uses AI to Tackle Linux's Undocumented Driver Woes
 
-**Author:** kurox_real  
-**Published:** 10/19/2026, 10:46:14 AM  
+**Author:** CrankyBear  
+**Published:** 10/19/2026, 7:56:58 PM  
 **Categories:** -  
 
-Article URL: https://canaryguard-402.onrender.com/bounty.html Comments URL: https://news.ycombinator.com/item?id=50150758 Points: 1 # Comments: 0
+Article URL: https://techstrong.it/featured/red-hat-engineering-director-uses-ai-to-tackle-linuxs-undocumented-driver-problem/ Comments URL: https://news.ycombinator.com/item?id=50157257 Points: 2 # Comments: 0
 
-📖 [Read original article](https://canaryguard-402.onrender.com/bounty.html)
+📖 [Read original article](https://techstrong.it/featured/red-hat-engineering-director-uses-ai-to-tackle-linuxs-undocumented-driver-problem/)
 
 ---
 
-## 11. The Weak Points in AI Bonds Are Becoming Clearer
+## 11. Linus Torvalds' AI Code Improved: Performance Wins with Reworked Code
 
-**Author:** AnodicElegy  
-**Published:** 10/19/2026, 10:42:34 AM  
+**Author:** maxloh  
+**Published:** 10/19/2026, 7:48:58 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6 Comments URL: https://news.ycombinator.com/item?id=50150736 Points: 1 # Comments: 0
+Article URL: https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref Comments URL: https://news.ycombinator.com/item?id=50157158 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6)
+📖 [Read original article](https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref)
 
 ---
 
-## 12. Rebuilding the API edge for AI Agents
+## 12. What is still hard to become good at as AI makes coding easier?
 
-**Author:** michalbu  
-**Published:** 10/19/2026, 10:28:39 AM  
+**Author:** Bhavya031  
+**Published:** 10/19/2026, 7:43:46 PM  
 **Categories:** -  
 
-Article URL: https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/ Comments URL: https://news.ycombinator.com/item?id=50150640 Points: 1 # Comments: 0
+Since LLMs came, how I build software changed for so many reasons. Since then, I’ve spent most of my time deciding what I want to build, how I want to build it, how I want to give the context, checking the result, seeing if there is an error, and paving the way for the LLM to do the right thing. And...
 
-📖 [Read original article](https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50157098)
 
 ---
 
-## 13. Show HN: Gsearch – Real Google Search for AI Agents, via a Real Firefox (MCP)
+## 13. Loud, Fast, and Everywhere: Anatomy of a Real AI-Driven Cloud Attack
 
-**Author:** rayenmlayeh  
-**Published:** 10/19/2026, 10:17:12 AM  
+**Author:** wondersky  
+**Published:** 10/19/2026, 7:35:24 PM  
 **Categories:** -  
 
-Article URL: https://github.com/RayenMlayeh/gsearch Comments URL: https://news.ycombinator.com/item?id=50150561 Points: 1 # Comments: 0
+Article URL: https://www.wiz.io/blog/anatomy-of-ai-driven-cloud-attacks Comments URL: https://news.ycombinator.com/item?id=50156982 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/RayenMlayeh/gsearch)
+📖 [Read original article](https://www.wiz.io/blog/anatomy-of-ai-driven-cloud-attacks)
 
 ---
 
-## 14. Lend your AI wIthout giving away your keys.
+## 14. Show HN: Maali – Privacy-first personal finance app with a local AI analyst
 
-**Author:** BmHassen  
-**Published:** 10/19/2026, 9:50:14 AM  
+**Author:** zukhan  
+**Published:** 10/19/2026, 7:25:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/EagleMind/tokenbud Comments URL: https://news.ycombinator.com/item?id=50150376 Points: 1 # Comments: 0
+I never felt comfortable signing up for cloud budgeting apps and having them store all of my financial data on their servers. I also didn't find locally hosted options that I liked using.That led me to build Maali (https://maali.app) over the past year. It is currently a Mac and Windows app that let...
 
-📖 [Read original article](https://github.com/EagleMind/tokenbud)
+📖 [Read original article](https://maali.app/)
 
 ---
 
-## 15. Show HN: Free design canvas for your AI (open source)
+## 15. AI, Math, the Document-Drop. Non-Tech Thoughts
 
-**Author:** janpmz  
-**Published:** 10/19/2026, 9:23:12 AM  
+**Author:** speckx  
+**Published:** 10/19/2026, 7:14:52 PM  
 **Categories:** -  
 
-Hey, sometimes it's easier to just move around some buttons in an editor instead of waiting a minute for the AI result.E.g. take a screenshot of your UI, cut out a button, move it around to see what it looks like.Your AI can send HTML into the editor, or screenshots.Then you can edit it, move things...
+Article URL: https://blog.computationalcomplexity.org/2026/10/ai-math-document-drop-non-tech-thoughts.html Comments URL: https://news.ycombinator.com/item?id=50156676 Points: 2 # Comments: 0
 
-📖 [Read original article](https://uidesigneditor.com/)
+📖 [Read original article](https://blog.computationalcomplexity.org/2026/10/ai-math-document-drop-non-tech-thoughts.html)
 
 ---
 
-## 16. The Universe as a Test Harness: Meat AI and God's Admin Panel
+## 16. Show HN: Personal AI on your Mac – SuperDuck.AI (beta testers wanted)
 
-**Author:** Bluestein  
-**Published:** 10/19/2026, 9:15:18 AM  
+**Author:** dirk94018  
+**Published:** 10/19/2026, 7:13:10 PM  
 **Categories:** -  
 
-Article URL: https://rebecca-powell.com/posts/meat-ai-universe-test-harness/ Comments URL: https://news.ycombinator.com/item?id=50150182 Points: 2 # Comments: 0
+Personal AI has arrived, and it's now as easy as downloading a Mac app.SuperDuck.AI runs the model on your own Mac. Your conversations, your files, your notes stay on your machine. No account, no cloud AI needed. There's an iPhone/iPad app that talks to your Mac over an end-to-end encrypted link, so...
 
-📖 [Read original article](https://rebecca-powell.com/posts/meat-ai-universe-test-harness/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50156655)
 
 ---
 
-## 17. AI made the lean startup more important
+## 17. Security patches need patches now that attackers have AI
 
-**Author:** flail  
-**Published:** 10/19/2026, 9:11:27 AM  
+**Author:** speckx  
+**Published:** 10/19/2026, 7:03:43 PM  
 **Categories:** -  
 
-Article URL: https://jgothelf.substack.com/p/ai-made-the-lean-startup-even-more Comments URL: https://news.ycombinator.com/item?id=50150144 Points: 1 # Comments: 1
+Article URL: https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927 Comments URL: https://news.ycombinator.com/item?id=50156529 Points: 2 # Comments: 0
 
-📖 [Read original article](https://jgothelf.substack.com/p/ai-made-the-lean-startup-even-more)
+📖 [Read original article](https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927)
 
 ---
 
-## 18. Show HN: Panel Font-AI Manga Translator
+## 18. As the coding boom fades, CS grads focus on AI skills in choppy job market
 
-**Author:** machinetree  
-**Published:** 10/19/2026, 9:03:58 AM  
+**Author:** koolhead17  
+**Published:** 10/19/2026, 6:59:42 PM  
 **Categories:** -  
 
-Text removal happens in browsers through Panel Font, an all-in-one manga tool for text removal, coloring, translation, and manga generation. Access is free and requires neither account registration nor software installation. Comments URL: https://news.ycombinator.com/item?id=50150083 Points: 1 # Com...
+Article URL: https://apnews.com/article/ai-computer-science-jobs-college-degree-99416cc8981d701e3674cf3dfa501491 Comments URL: https://news.ycombinator.com/item?id=50156467 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.panelfont.com/)
+📖 [Read original article](https://apnews.com/article/ai-computer-science-jobs-college-degree-99416cc8981d701e3674cf3dfa501491)
 
 ---
 
-## 19. Show HN: AI decision model plays Mortal Kombat II
+## 19. Disney found a way to buy Character.AI without buying its lawsuits
 
-**Author:** pradachan  
-**Published:** 10/19/2026, 8:45:03 AM  
+**Author:** calcifer  
+**Published:** 10/19/2026, 6:54:20 PM  
 **Categories:** -  
 
-i created a benchmark which evaluates the ai decision models.i thought the idea, by watching jev playing doomi thought, games are the right place to evaluate these things :- real-life network latency - decision probabilityfeedbacks welcome :) Comments URL: https://news.ycombinator.com/item?id=501499...
+Article URL: https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/ Comments URL: https://news.ycombinator.com/item?id=50156383 Points: 5 # Comments: 0
 
-📖 [Read original article](https://github.com/aipdv/fightbench)
+📖 [Read original article](https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/)
 
 ---
 
-## 20. Why you should not install unvetted AI agent skills
+## 20. AI Came for Math. Now It's Chasing the Rest of Science
 
-**Author:** georgikalchev  
-**Published:** 10/19/2026, 8:12:51 AM  
+**Author:** Betelbuddy  
+**Published:** 10/19/2026, 6:53:18 PM  
 **Categories:** -  
 
-Article URL: https://aiskills402.com/blog/agent-skills-security-risks Comments URL: https://news.ycombinator.com/item?id=50149698 Points: 1 # Comments: 1
+Article URL: https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/ Comments URL: https://news.ycombinator.com/item?id=50156361 Points: 1 # Comments: 0
 
-📖 [Read original article](https://aiskills402.com/blog/agent-skills-security-risks)
+📖 [Read original article](https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/)
 
 ---
