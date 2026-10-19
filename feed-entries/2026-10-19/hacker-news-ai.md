@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-10-19"
 date: "2026-10-19"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-10-19
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. \"The AI bubble is about to burst and a big market correction's coming\" – NY Post
+## 1. Show HN: Marcus – catches the fake source links AI search engines invent
 
-**Author:** MilnerRoute  
-**Published:** 10/19/2026, 3:35:00 AM  
+**Author:** lwgray  
+**Published:** 10/19/2026, 12:15:26 PM  
 **Categories:** -  
 
-Article URL: https://nypost.com/2026/10/17/business/the-ai-bubble-is-about-to-burst-much-like-the-infamous-dot-com-crash/ Comments URL: https://news.ycombinator.com/item?id=50148086 Points: 2 # Comments: 0
+Article URL: https://marcus-ai.dev/on-the-record/ Comments URL: https://news.ycombinator.com/item?id=50151466 Points: 1 # Comments: 0
 
-📖 [Read original article](https://nypost.com/2026/10/17/business/the-ai-bubble-is-about-to-burst-much-like-the-infamous-dot-com-crash/)
+📖 [Read original article](https://marcus-ai.dev/on-the-record/)
 
 ---
 
-## 2. Why Humanity Might Have to Declare War on AI (By: William Spaniel) [video]
+## 2. AI native Requirements, design and simulations
 
-**Author:** 4diii  
-**Published:** 10/19/2026, 3:32:18 AM  
+**Author:** kunalsin9h  
+**Published:** 10/19/2026, 11:45:59 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=OAU3lAadXLM Comments URL: https://news.ycombinator.com/item?id=50148074 Points: 1 # Comments: 0
+Article URL: https://www.meltred.com/ Comments URL: https://news.ycombinator.com/item?id=50151207 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=OAU3lAadXLM)
+📖 [Read original article](https://www.meltred.com/)
 
 ---
 
-## 3. Can AI Automate Epoch?
+## 3. It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe
 
-**Author:** gmays  
-**Published:** 10/19/2026, 3:21:15 AM  
+**Author:** baranul  
+**Published:** 10/19/2026, 11:31:58 AM  
 **Categories:** -  
 
-Article URL: https://epoch.ai/publications/can-ai-automate-epoch Comments URL: https://news.ycombinator.com/item?id=50148008 Points: 3 # Comments: 0
+Article URL: https://www.inc.com/jason-aten/it-turns-out-the-only-thing-people-like-less-than-ai-is-paying-for-adobe-creative-cloud/91418566 Comments URL: https://news.ycombinator.com/item?id=50151084 Points: 3 # Comments: 0
 
-📖 [Read original article](https://epoch.ai/publications/can-ai-automate-epoch)
+📖 [Read original article](https://www.inc.com/jason-aten/it-turns-out-the-only-thing-people-like-less-than-ai-is-paying-for-adobe-creative-cloud/91418566)
 
 ---
 
-## 4. The most powerful and free local AI note taking app I've ever used
+## 4. AI firm Anthropic to commit 5% of shares to fund for 'public good'
 
-**Author:** seacen  
-**Published:** 10/19/2026, 3:18:58 AM  
+**Author:** beardyw  
+**Published:** 10/19/2026, 11:31:19 AM  
 **Categories:** -  
 
-Article URL: https://github.com/seacen/meetcap Comments URL: https://news.ycombinator.com/item?id=50147993 Points: 2 # Comments: 2
+Article URL: https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good Comments URL: https://news.ycombinator.com/item?id=50151080 Points: 5 # Comments: 2
 
-📖 [Read original article](https://github.com/seacen/meetcap)
+📖 [Read original article](https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good)
 
 ---
 
-## 5. Show HN: Stream Reducer – Audio AI Summarization at Scale
+## 5. Britain should reject the lure of cheap – and scary – Chinese AI
 
-**Author:** lobstey  
-**Published:** 10/19/2026, 3:13:48 AM  
+**Author:** irthomasthomas  
+**Published:** 10/19/2026, 11:25:18 AM  
 **Categories:** -  
 
-Hi I have just open sourced a project https://github.com/hmumixaM/stream-reducer. This project can summarize videos, podcasts, and blog posts at scale.I also have a hosted website that's completely free. Checkout this website for details https://reducer.xgoose.orgAny suggestions on improving the usa...
+Article URL: https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai Comments URL: https://news.ycombinator.com/item?id=50151038 Points: 2 # Comments: 1
 
-📖 [Read original article](https://reducer.xgoose.org/)
+📖 [Read original article](https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai)
 
 ---
 
-## 6. The Paradox at the Heart of AI and Science – Terence Tao [video]
+## 6. Ask HN: How to deal with shipping AI-written code you don't understand?
 
-**Author:** ent101  
-**Published:** 10/19/2026, 3:01:28 AM  
+**Author:** rzk  
+**Published:** 10/19/2026, 11:24:34 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=svl_1upFpQo Comments URL: https://news.ycombinator.com/item?id=50147882 Points: 1 # Comments: 0
+I saw this LinkedIn post from a Meta engineer and it resonated with me:https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all fee...
 
-📖 [Read original article](https://www.youtube.com/watch?v=svl_1upFpQo)
+📖 [Read original article](https://news.ycombinator.com/item?id=50151036)
 
 ---
 
-## 7. What is the ultimate truth? We asked leading AI models
+## 7. AI researchers stranded Claude on a virtual desert island. It started to \"play.\"
 
-**Author:** regnull  
-**Published:** 10/19/2026, 2:59:31 AM  
+**Author:** joozio  
+**Published:** 10/19/2026, 11:02:45 AM  
 **Categories:** -  
 
-Article URL: https://ultimatetruth.one Comments URL: https://news.ycombinator.com/item?id=50147867 Points: 2 # Comments: 1
+Article URL: https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/ Comments URL: https://news.ycombinator.com/item?id=50150871 Points: 2 # Comments: 1
 
-📖 [Read original article](https://ultimatetruth.one)
+📖 [Read original article](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)
 
 ---
 
-## 8. Using AI as a tutor to do math with pen and paper
+## 8. Top six AI spenders are spending more than the Russian govt. this year
 
-**Author:** nichochar  
-**Published:** 10/19/2026, 2:58:32 AM  
+**Author:** hayekstan  
+**Published:** 10/19/2026, 11:02:33 AM  
 **Categories:** -  
 
-Article URL: https://twitter.com/nichochar/status/2111822781214294329 Comments URL: https://news.ycombinator.com/item?id=50147861 Points: 4 # Comments: 1
+Article URL: https://www.takingstock.ai/ Comments URL: https://news.ycombinator.com/item?id=50150869 Points: 1 # Comments: 2
 
-📖 [Read original article](https://twitter.com/nichochar/status/2111822781214294329)
+📖 [Read original article](https://www.takingstock.ai/)
 
 ---
 
-## 9. Botline, a mailbox for AI agents from different vendors
+## 9. How AI is creating a lopsided US economy
 
-**Author:** sabotage-dev  
-**Published:** 10/19/2026, 2:09:57 AM  
+**Author:** tys-  
+**Published:** 10/19/2026, 10:47:37 AM  
 **Categories:** -  
 
-Article URL: https://github.com/sabotage-dev/botline Comments URL: https://news.ycombinator.com/item?id=50147550 Points: 2 # Comments: 0
+Article URL: https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078 Comments URL: https://news.ycombinator.com/item?id=50150771 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/sabotage-dev/botline)
+📖 [Read original article](https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078)
 
 ---
 
-## 10. Architecting for HW Diversity: Meta's E2E Co-Design for AI Training on AMD GPUs
+## 10. Show HN: CanaryGuard – A <0.1ms deterministic AI prompt firewall with $5 bounty
 
-**Author:** matt_d  
-**Published:** 10/19/2026, 1:55:50 AM  
+**Author:** kurox_real  
+**Published:** 10/19/2026, 10:46:14 AM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2610.22230 Comments URL: https://news.ycombinator.com/item?id=50147458 Points: 2 # Comments: 0
+Article URL: https://canaryguard-402.onrender.com/bounty.html Comments URL: https://news.ycombinator.com/item?id=50150758 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2610.22230)
+📖 [Read original article](https://canaryguard-402.onrender.com/bounty.html)
 
 ---
 
-## 11. AI Agents Trading Stocks While You Sleep? Charles Schwab's CEO Is Skeptical
+## 11. The Weak Points in AI Bonds Are Becoming Clearer
 
-**Author:** bcaulfield  
-**Published:** 10/19/2026, 1:37:48 AM  
+**Author:** AnodicElegy  
+**Published:** 10/19/2026, 10:42:34 AM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3 Comments URL: https://news.ycombinator.com/item?id=50147371 Points: 5 # Comments: 0
+Article URL: https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6 Comments URL: https://news.ycombinator.com/item?id=50150736 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3)
+📖 [Read original article](https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6)
 
 ---
 
-## 12. The Non-Tech AI
+## 12. Rebuilding the API edge for AI Agents
 
-**Author:** lindaclark  
-**Published:** 10/19/2026, 1:30:10 AM  
+**Author:** michalbu  
+**Published:** 10/19/2026, 10:28:39 AM  
 **Categories:** -  
 
-Article URL: https://thenontechai.com/ Comments URL: https://news.ycombinator.com/item?id=50147312 Points: 1 # Comments: 0
+Article URL: https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/ Comments URL: https://news.ycombinator.com/item?id=50150640 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thenontechai.com/)
+📖 [Read original article](https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/)
 
 ---
 
-## 13. Will major-party U.S. presidential candidate deploy AI clone to talk to voters?
+## 13. Show HN: Gsearch – Real Google Search for AI Agents, via a Real Firefox (MCP)
 
-**Author:** bcaulfield  
-**Published:** 10/19/2026, 1:21:56 AM  
+**Author:** rayenmlayeh  
+**Published:** 10/19/2026, 10:17:12 AM  
 **Categories:** -  
 
-Article URL: https://manifold.markets/BrunoClawfeld/will-a-majorparty-us-presidential-c Comments URL: https://news.ycombinator.com/item?id=50147256 Points: 4 # Comments: 3
+Article URL: https://github.com/RayenMlayeh/gsearch Comments URL: https://news.ycombinator.com/item?id=50150561 Points: 1 # Comments: 0
 
-📖 [Read original article](https://manifold.markets/BrunoClawfeld/will-a-majorparty-us-presidential-c)
+📖 [Read original article](https://github.com/RayenMlayeh/gsearch)
 
 ---
 
-## 14. AI Optimism Globally Widespread Despite Uneven Use
+## 14. Lend your AI wIthout giving away your keys.
 
-**Author:** gmays  
-**Published:** 10/19/2026, 12:51:37 AM  
+**Author:** BmHassen  
+**Published:** 10/19/2026, 9:50:14 AM  
 **Categories:** -  
 
-Article URL: https://news.gallup.com/poll/714593/optimism-globally-widespread-despite-uneven.aspx Comments URL: https://news.ycombinator.com/item?id=50147093 Points: 2 # Comments: 1
+Article URL: https://github.com/EagleMind/tokenbud Comments URL: https://news.ycombinator.com/item?id=50150376 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.gallup.com/poll/714593/optimism-globally-widespread-despite-uneven.aspx)
+📖 [Read original article](https://github.com/EagleMind/tokenbud)
 
 ---
 
-## 15. Reliable web access for AI agents and automation workflows
+## 15. Show HN: Free design canvas for your AI (open source)
 
-**Author:** cyzanfar  
-**Published:** 10/19/2026, 12:46:38 AM  
+**Author:** janpmz  
+**Published:** 10/19/2026, 9:23:12 AM  
 **Categories:** -  
 
-Article URL: https://ninatechllc.com/ Comments URL: https://news.ycombinator.com/item?id=50147061 Points: 1 # Comments: 4
+Hey, sometimes it's easier to just move around some buttons in an editor instead of waiting a minute for the AI result.E.g. take a screenshot of your UI, cut out a button, move it around to see what it looks like.Your AI can send HTML into the editor, or screenshots.Then you can edit it, move things...
 
-📖 [Read original article](https://ninatechllc.com/)
+📖 [Read original article](https://uidesigneditor.com/)
 
 ---
 
-## 16. Don't filter your email based on AI detection
+## 16. The Universe as a Test Harness: Meat AI and God's Admin Panel
 
-**Author:** k1m  
-**Published:** 10/19/2026, 12:45:13 AM  
+**Author:** Bluestein  
+**Published:** 10/19/2026, 9:15:18 AM  
 **Categories:** -  
 
-Article URL: https://blog.keyvan.net/p/dont-filter-your-email-based-on-ai Comments URL: https://news.ycombinator.com/item?id=50147051 Points: 1 # Comments: 1
+Article URL: https://rebecca-powell.com/posts/meat-ai-universe-test-harness/ Comments URL: https://news.ycombinator.com/item?id=50150182 Points: 2 # Comments: 0
 
-📖 [Read original article](https://blog.keyvan.net/p/dont-filter-your-email-based-on-ai)
+📖 [Read original article](https://rebecca-powell.com/posts/meat-ai-universe-test-harness/)
 
 ---
 
-## 17. The AI industry's gigantic debts are making investors nervous
+## 17. AI made the lean startup more important
 
-**Author:** andsoitis  
-**Published:** 10/19/2026, 12:15:54 AM  
+**Author:** flail  
+**Published:** 10/19/2026, 9:11:27 AM  
 **Categories:** -  
 
-Article URL: https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous Comments URL: https://news.ycombinator.com/item?id=50146876 Points: 4 # Comments: 2
+Article URL: https://jgothelf.substack.com/p/ai-made-the-lean-startup-even-more Comments URL: https://news.ycombinator.com/item?id=50150144 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous)
+📖 [Read original article](https://jgothelf.substack.com/p/ai-made-the-lean-startup-even-more)
+
+---
+
+## 18. Show HN: Panel Font-AI Manga Translator
+
+**Author:** machinetree  
+**Published:** 10/19/2026, 9:03:58 AM  
+**Categories:** -  
+
+Text removal happens in browsers through Panel Font, an all-in-one manga tool for text removal, coloring, translation, and manga generation. Access is free and requires neither account registration nor software installation. Comments URL: https://news.ycombinator.com/item?id=50150083 Points: 1 # Com...
+
+📖 [Read original article](https://www.panelfont.com/)
+
+---
+
+## 19. Show HN: AI decision model plays Mortal Kombat II
+
+**Author:** pradachan  
+**Published:** 10/19/2026, 8:45:03 AM  
+**Categories:** -  
+
+i created a benchmark which evaluates the ai decision models.i thought the idea, by watching jev playing doomi thought, games are the right place to evaluate these things :- real-life network latency - decision probabilityfeedbacks welcome :) Comments URL: https://news.ycombinator.com/item?id=501499...
+
+📖 [Read original article](https://github.com/aipdv/fightbench)
+
+---
+
+## 20. Why you should not install unvetted AI agent skills
+
+**Author:** georgikalchev  
+**Published:** 10/19/2026, 8:12:51 AM  
+**Categories:** -  
+
+Article URL: https://aiskills402.com/blog/agent-skills-security-risks Comments URL: https://news.ycombinator.com/item?id=50149698 Points: 1 # Comments: 1
+
+📖 [Read original article](https://aiskills402.com/blog/agent-skills-security-risks)
 
 ---
