@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-16"
 date: "2026-10-16"
 source: "OpenAI Blog"
-count: 3
+count: 1
 ---
 
 # OpenAI Blog - 2026-10-16
 
-3 items collected.
+1 items collected.
 
 ---
 
@@ -20,29 +20,5 @@ count: 3
 With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.
 
 📖 [Read original article](https://openai.com/index/itau-generative-ai)
-
----
-
-## 2. Benefit Street Partners answers questions faster with Codex
-
-**Author:** -  
-**Published:** 10/16/2026, 12:00:00 AM  
-**Categories:** -  
-
-Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.
-
-📖 [Read original article](https://openai.com/index/benefit-street-partners)
-
----
-
-## 3. Stack Overflow for Agents triples signups with ChatGPT plugin
-
-**Author:** -  
-**Published:** 10/16/2026, 12:00:00 AM  
-**Categories:** Startup  
-
-Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.
-
-📖 [Read original article](https://openai.com/index/stack-overflow-chatgpt-plugin)
 
 ---
