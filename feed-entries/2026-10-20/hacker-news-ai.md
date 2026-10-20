@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-10-20"
 date: "2026-10-20"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-10-20
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. Textideo Director – an AI video creation tool for scenes, shots
+## 1. Amazon opens its AWS Trainium AI chips to every PyTorch developer
 
-**Author:** Yummiy  
-**Published:** 10/20/2026, 3:13:03 AM  
+**Author:** axolotl_raja  
+**Published:** 10/20/2026, 10:38:07 AM  
 **Categories:** -  
 
-Article URL: https://textideo.com/director Comments URL: https://news.ycombinator.com/item?id=50160927 Points: 1 # Comments: 0
+Article URL: https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai Comments URL: https://news.ycombinator.com/item?id=50164120 Points: 2 # Comments: 0
 
-📖 [Read original article](https://textideo.com/director)
+📖 [Read original article](https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai)
 
 ---
 
-## 2. Show HN: Search for AI-agents and usefulness score
+## 2. Smart delegation pipeline for AI agents (up to 15-20% on costs)
 
-**Author:** Ayobamiu  
-**Published:** 10/20/2026, 2:57:52 AM  
+**Author:** adriencloud  
+**Published:** 10/20/2026, 10:30:25 AM  
 **Categories:** -  
 
-We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. Wh...
+Article URL: https://github.com/aeppling/rtk-pipeline-laya-delegate Comments URL: https://news.ycombinator.com/item?id=50164018 Points: 1 # Comments: 3
 
-📖 [Read original article](https://xtract-production-2efc.up.railway.app/)
+📖 [Read original article](https://github.com/aeppling/rtk-pipeline-laya-delegate)
 
 ---
 
-## 3. Show HN: AppMaker – Build business apps with AI, visual editing and code
+## 3. How to save money on tokens for your AI agents
 
-**Author:** codeguppy  
-**Published:** 10/20/2026, 2:55:31 AM  
+**Author:** alexmikhalev  
+**Published:** 10/20/2026, 10:24:13 AM  
 **Categories:** -  
 
-Hi HN,I've been working on AppMaker, a tool for building with AI business apps like CRMs, dashboards, and internal tools. It is NOT a low-code.https://appmaker.ioApps come with a database, authentication, and backend logic, and can be exported as standalone Node.js applications.It's still in beta, a...
+Article URL: https://terraphim.ai/posts/save-money-tokens-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50163942 Points: 1 # Comments: 0
 
-📖 [Read original article](https://appmaker.io/)
+📖 [Read original article](https://terraphim.ai/posts/save-money-tokens-ai-agents/)
 
 ---
 
-## 4. Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust
+## 4. Show HN: Make AI coding agents verify its own work
 
-**Author:** vutam  
-**Published:** 10/20/2026, 2:48:40 AM  
+**Author:** dshekhar17  
+**Published:** 10/20/2026, 10:20:33 AM  
 **Categories:** -  
 
-Article URL: https://github.com/yanacuti1121/yana-ai Comments URL: https://news.ycombinator.com/item?id=50160774 Points: 3 # Comments: 0
+Article URL: https://github.com/reticlehq/reticle Comments URL: https://news.ycombinator.com/item?id=50163896 Points: 9 # Comments: 6
 
-📖 [Read original article](https://github.com/yanacuti1121/yana-ai)
+📖 [Read original article](https://github.com/reticlehq/reticle)
 
 ---
 
-## 5. New AI tool can predict cancer survival by a single patient selfie
+## 5. Study: New AI tool can predict cancer survival by a single patient selfie
 
-**Author:** ranit  
-**Published:** 10/20/2026, 1:50:20 AM  
+**Author:** giuliomagnifico  
+**Published:** 10/20/2026, 10:01:28 AM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie Comments URL: https://news.ycombinator.com/item?id=50160395 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie Comments URL: https://news.ycombinator.com/item?id=50163691 Points: 2 # Comments: 0
 
 📖 [Read original article](https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie)
 
 ---
 
-## 6. US banning Chinese AI DeepSeek from government agency IT systems
+## 6. Stateless Agents: How to make AI work for teams
 
-**Author:** nsoonhui  
-**Published:** 10/20/2026, 1:37:45 AM  
+**Author:** poppylorry  
+**Published:** 10/20/2026, 9:49:33 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/ Comments URL: https://news.ycombinator.com/item?id=50160306 Points: 1 # Comments: 1
+Article URL: https://busabase.com/blog/how-to-make-ai-work-for-teams Comments URL: https://news.ycombinator.com/item?id=50163588 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
+📖 [Read original article](https://busabase.com/blog/how-to-make-ai-work-for-teams)
 
 ---
 
-## 7. AI experts to school Congress wanted
+## 7. AI slop is a human problem
 
-**Author:** Animats  
-**Published:** 10/20/2026, 1:28:25 AM  
+**Author:** crazyphoton  
+**Published:** 10/20/2026, 9:38:19 AM  
 **Categories:** -  
 
-Article URL: https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931 Comments URL: https://news.ycombinator.com/item?id=50160249 Points: 2 # Comments: 0
+Article URL: https://nishanth.blog/posts/ai-slop-is-a-human-problem/ Comments URL: https://news.ycombinator.com/item?id=50163516 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931)
+📖 [Read original article](https://nishanth.blog/posts/ai-slop-is-a-human-problem/)
 
 ---
 
-## 8. Show HN: Self-hosted AI spend attribution
+## 8. Everygen AI – AI Video, Image, Shorts and Ads Studio
 
-**Author:** 0set0set  
-**Published:** 10/20/2026, 1:08:20 AM  
+**Author:** Follow_Cloud  
+**Published:** 10/20/2026, 9:26:56 AM  
 **Categories:** -  
 
-Article URL: https://demo.costura.ai/overview Comments URL: https://news.ycombinator.com/item?id=50160102 Points: 4 # Comments: 0
+Article URL: https://www.everygens.com/ Comments URL: https://news.ycombinator.com/item?id=50163425 Points: 1 # Comments: 0
 
-📖 [Read original article](https://demo.costura.ai/overview)
+📖 [Read original article](https://www.everygens.com/)
 
 ---
 
-## 9. Self-hosted AI spend attribution
+## 9. HAR 1.0: The open harness for AI coding workflows you can trust and verify
 
-**Author:** cauebraz  
-**Published:** 10/20/2026, 1:04:38 AM  
+**Author:** karimtr  
+**Published:** 10/20/2026, 9:25:59 AM  
 **Categories:** -  
 
-Article URL: https://github.com/CosturaAI/costura Comments URL: https://news.ycombinator.com/item?id=50160072 Points: 3 # Comments: 0
+Article URL: https://github.com/os-factory/har Comments URL: https://news.ycombinator.com/item?id=50163417 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/CosturaAI/costura)
+📖 [Read original article](https://github.com/os-factory/har)
 
 ---
 
-## 10. Vortex Code: one prompt, an AI software team that ships
+## 10. Show HN: Sandkiln – Fast Firecracker MicroVM sandboxes for AI-generated code
 
-**Author:** Krissh_C  
-**Published:** 10/20/2026, 12:40:56 AM  
+**Author:** sumitkumar-17  
+**Published:** 10/20/2026, 9:09:46 AM  
 **Categories:** -  
 
-Article URL: https://spinozalabs.ai/news/introducing-vortex-code Comments URL: https://news.ycombinator.com/item?id=50159911 Points: 6 # Comments: 8
+Article URL: https://sandkiln.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50163287 Points: 1 # Comments: 0
 
-📖 [Read original article](https://spinozalabs.ai/news/introducing-vortex-code)
+📖 [Read original article](https://sandkiln.vercel.app/)
 
 ---
 
-## 11. AI Discovery Index
+## 11. Show HN: I built an AI tool that turns two photos into a dance video
 
-**Author:** zenincognito  
-**Published:** 10/20/2026, 12:38:55 AM  
+**Author:** fourfire  
+**Published:** 10/20/2026, 9:06:42 AM  
 **Categories:** -  
 
-Article URL: https://mojodojo.io/ai-discovery-index Comments URL: https://news.ycombinator.com/item?id=50159896 Points: 9 # Comments: 2
+Article URL: https://a2oliteai.com/ Comments URL: https://news.ycombinator.com/item?id=50163258 Points: 3 # Comments: 0
 
-📖 [Read original article](https://mojodojo.io/ai-discovery-index)
+📖 [Read original article](https://a2oliteai.com/)
 
 ---
 
-## 12. Ask HN: What Have You Built Privately with AI That You'd Like to Share?
+## 12. Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF
 
-**Author:** erelong  
-**Published:** 10/20/2026, 12:37:45 AM  
+**Author:** chatgpt2notion  
+**Published:** 10/20/2026, 8:39:04 AM  
 **Categories:** -  
 
-An idea has circulated that a lot of us are just privately building software for our own projects without sharing the buildWe could however share the ideas of what we're building so that other people could build sometime similar to fill their own needs or the ideas could be incorporated in to other ...
+Article URL: https://chatgpt2notion.com/products/aiexporthub-hero/ Comments URL: https://news.ycombinator.com/item?id=50163035 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50159886)
+📖 [Read original article](https://chatgpt2notion.com/products/aiexporthub-hero/)
 
 ---
 
-## 13. People are using AI to make smart TVs, dumb TVs
+## 13. The chase is becoming an AI feature. In Portugal, nobody asks yet
 
-**Author:** privacyisntdead  
-**Published:** 10/20/2026, 12:19:13 AM  
+**Author:** gilneto8  
+**Published:** 10/20/2026, 8:24:35 AM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/ Comments URL: https://news.ycombinator.com/item?id=50159765 Points: 23 # Comments: 1
+Article URL: https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/ Comments URL: https://news.ycombinator.com/item?id=50162912 Points: 2 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/)
+📖 [Read original article](https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/)
 
 ---
 
-## 14. Game decompilation site is closing because AI has 'broken the community aspect'
+## 14. Reducing the cognitive load of AI changes
 
-**Author:** CharlesW  
-**Published:** 10/20/2026, 12:17:11 AM  
+**Author:** birdculture  
+**Published:** 10/20/2026, 8:05:13 AM  
 **Categories:** -  
 
-Article URL: https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/ Comments URL: https://news.ycombinator.com/item?id=50159754 Points: 10 # Comments: 0
+Article URL: https://amoffat.github.io/blog/cognitive-load.html Comments URL: https://news.ycombinator.com/item?id=50162767 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/)
+📖 [Read original article](https://amoffat.github.io/blog/cognitive-load.html)
 
 ---
 
-## 15. Skymizer HTX301 – IP Licensable AI Accelerator Card with 384GB for 700B Models
+## 15. Show HN: A practical framework for evaluating agentic AI systems
 
-**Author:** peter_d_sherman  
-**Published:** 10/20/2026, 12:15:09 AM  
+**Author:** nvmdbljstm  
+**Published:** 10/20/2026, 7:45:13 AM  
 **Categories:** -  
 
-Article URL: https://skymizer.ai/products/htx301/ Comments URL: https://news.ycombinator.com/item?id=50159734 Points: 7 # Comments: 1
+Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50162634 Points: 1 # Comments: 0
 
-📖 [Read original article](https://skymizer.ai/products/htx301/)
+📖 [Read original article](https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/)
 
 ---
 
-## 16. Show HN: OpenFlow – AI Agent Workflow Builder
+## 16. I Talked to Workers at Amazon, Meta, & Microsoft About the AI Watching Them [video]
 
-**Author:** searay112023  
-**Published:** 10/20/2026, 12:12:44 AM  
+**Author:** vrganj  
+**Published:** 10/20/2026, 7:45:05 AM  
 **Categories:** -  
 
-Article URL: https://github.com/SeeRay11/OpenFlow Comments URL: https://news.ycombinator.com/item?id=50159710 Points: 3 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=ca7ufSI1Qxg Comments URL: https://news.ycombinator.com/item?id=50162633 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/SeeRay11/OpenFlow)
+📖 [Read original article](https://www.youtube.com/watch?v=ca7ufSI1Qxg)
 
 ---
 
-## 17. Show HN: Chai-UI – A design system to generative AI apps
+## 17. Will developing nations be able to handle AI agents?
 
-**Author:** KazaNLP  
-**Published:** 10/20/2026, 12:06:14 AM  
+**Author:** donk8r  
+**Published:** 10/20/2026, 7:40:14 AM  
 **Categories:** -  
 
-Article URL: https://chai-ui.com/ Comments URL: https://news.ycombinator.com/item?id=50159662 Points: 2 # Comments: 0
+Article URL: https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/ Comments URL: https://news.ycombinator.com/item?id=50162608 Points: 1 # Comments: 0
 
-📖 [Read original article](https://chai-ui.com/)
+📖 [Read original article](https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/)
+
+---
+
+## 18. Making the internet better for AI agents might make it worse for everyone else
+
+**Author:** joozio  
+**Published:** 10/20/2026, 7:02:41 AM  
+**Categories:** -  
+
+Article URL: https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/ Comments URL: https://news.ycombinator.com/item?id=50162329 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/)
+
+---
+
+## 19. Vite+ an excellent toolchain for AI agent development
+
+**Author:** kanbaruu  
+**Published:** 10/20/2026, 6:40:49 AM  
+**Categories:** -  
+
+Article URL: https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en Comments URL: https://news.ycombinator.com/item?id=50162198 Points: 23 # Comments: 19
+
+📖 [Read original article](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
+
+---
+
+## 20. AegisKernel – Zero-Trust deterministic security runtime for AI agents
+
+**Author:** adityawebde  
+**Published:** 10/20/2026, 6:12:48 AM  
+**Categories:** -  
+
+Article URL: https://github.com/adikshatriyag-crypto/aegis-kernel Comments URL: https://news.ycombinator.com/item?id=50161984 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/adikshatriyag-crypto/aegis-kernel)
 
 ---
