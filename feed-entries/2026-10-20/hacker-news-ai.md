@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Public Exposure of NASA's Mission AI Hub allowed access to sensitive gov models
+## 1. Show HN: Tenbri, a log AI agents can’t secretly rewrite
 
-**Author:** galnagli  
-**Published:** 10/20/2026, 4:13:16 PM  
+**Author:** akaabachi  
+**Published:** 10/20/2026, 9:03:56 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/galnagli/status/2112572671682617413 Comments URL: https://news.ycombinator.com/item?id=50168595 Points: 2 # Comments: 0
+Article URL: https://tenbri.com/ Comments URL: https://news.ycombinator.com/item?id=50172642 Points: 1 # Comments: 1
 
-📖 [Read original article](https://twitter.com/galnagli/status/2112572671682617413)
+📖 [Read original article](https://tenbri.com/)
 
 ---
 
-## 2. Show HN: Koody for Business – AI bookkeeping for people who aren't accountants
+## 2. Bringing AI into business is hard
 
-**Author:** Halimah  
-**Published:** 10/20/2026, 4:09:44 PM  
+**Author:** pindexis  
+**Published:** 10/20/2026, 8:46:30 PM  
 **Categories:** -  
 
-Hi HN, I'm Hallie, founder of Koody. Today, I'm launching Koody for Business: AI-powered accounting, bookkeeping, and tax prep software for sole proprietors and small businesses.For years, I used accounting software for my business. I went into it to create invoices, categorize and reconcile transac...
+Article URL: https://pindexis.github.io Comments URL: https://news.ycombinator.com/item?id=50172442 Points: 4 # Comments: 0
 
-📖 [Read original article](https://koody.com/business)
+📖 [Read original article](https://pindexis.github.io)
 
 ---
 
-## 3. AWS CFO joked about the financial toll of AI. An internal recording reveals why
+## 3. Ask HN: Will AI = extreme concentration of power?
 
-**Author:** theonionspeaks  
-**Published:** 10/20/2026, 4:08:48 PM  
+**Author:** atleastoptimal  
+**Published:** 10/20/2026, 8:23:04 PM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10 Comments URL: https://news.ycombinator.com/item?id=50168507 Points: 2 # Comments: 0
+Let's say that AI will continue to get better without being a major risk due to loss of control. I feel like in this paradigm, it will lead to:1. Fewer and fewer people can make money via their labor. We will have a small minority of super-winners who magnify their work output 100x with AI, and most...
 
-📖 [Read original article](https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10)
+📖 [Read original article](https://news.ycombinator.com/item?id=50172133)
 
 ---
 
-## 4. AI models told me not to start the company
+## 4. Show HN: Agent-Zero – Starter template for AI-native coding projects
 
-**Author:** redgeoff  
-**Published:** 10/20/2026, 4:07:37 PM  
+**Author:** andres  
+**Published:** 10/20/2026, 8:21:43 PM  
 **Categories:** -  
 
-Article URL: https://redgeoff.com/posts/dont-start-the-company/ Comments URL: https://news.ycombinator.com/item?id=50168487 Points: 2 # Comments: 0
+Hi All,Agent-Zero is a GitHub template that you can use for new coding projects that use AI-first development workflows. It includes the minimum necessary to nudge agents to write good code, work well in sandboxes, and get stuff done on GitHub (e.g. commits and PRs). It only includes a basic CLAUDE....
 
-📖 [Read original article](https://redgeoff.com/posts/dont-start-the-company/)
+📖 [Read original article](https://github.com/amorey/agent-zero)
 
 ---
 
-## 5. Show HN: Worklicant – Lightweight ATS. Pay per Vacancy. AI Enabled
+## 5. Meta drops the word \"train\" from its commercial TOS after AI backlash
 
-**Author:** azyzz228  
-**Published:** 10/20/2026, 4:07:06 PM  
+**Author:** pseudolus  
+**Published:** 10/20/2026, 8:11:14 PM  
 **Categories:** -  
 
-I have noticed that a lot of job posts that do not use any ATS, and in order to apply, they put their emails and ask candidates to apply with “X” in email subject. That seemed to be very counter productive — imagine having 300+ emails with resumes. Where do you manage them? In Excel? Or how many goo...
+Article URL: https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/ Comments URL: https://news.ycombinator.com/item?id=50171984 Points: 1 # Comments: 1
 
-📖 [Read original article](https://worklicant.com/)
+📖 [Read original article](https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/)
 
 ---
 
-## 6. Countercheck – re-runs your tests when an AI agent says \"done\"
+## 6. We need a frictionless physical AI experience for builders, makers and tinkerers
 
-**Author:** srikanthpiniset  
-**Published:** 10/20/2026, 4:05:56 PM  
+**Author:** mlamina  
+**Published:** 10/20/2026, 8:04:58 PM  
 **Categories:** -  
 
-Article URL: https://github.com/datacrate360/countercheck Comments URL: https://news.ycombinator.com/item?id=50168450 Points: 1 # Comments: 0
+Article URL: https://blog.marcolamina.me/p/we-need-a-frictionless-physical-ai-experience-for-builders-makers-and-tinkerers Comments URL: https://news.ycombinator.com/item?id=50171907 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/datacrate360/countercheck)
+📖 [Read original article](https://blog.marcolamina.me/p/we-need-a-frictionless-physical-ai-experience-for-builders-makers-and-tinkerers)
 
 ---
 
-## 7. Why scraping isn't enough for AI agents and how DNS-verified profiles could help
+## 7. On AI writing
 
-**Author:** ralphdelblanco  
-**Published:** 10/20/2026, 3:59:42 PM  
+**Author:** dbolkunov  
+**Published:** 10/20/2026, 7:55:11 PM  
 **Categories:** -  
 
-Article URL: https://github.com/skindotorg/foundation/blob/main/publishing-for-ai-agents.md Comments URL: https://news.ycombinator.com/item?id=50168366 Points: 2 # Comments: 0
+Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 39 # Comments: 8
 
-📖 [Read original article](https://github.com/skindotorg/foundation/blob/main/publishing-for-ai-agents.md)
+📖 [Read original article](https://www.bolkunov.com/p/on-ai-writing)
 
 ---
 
-## 8. Ask HN: As developers from low-income countries,how to cope with AI replacement?
-
-**Author:** abitcynicalabou  
-**Published:** 10/20/2026, 3:59:25 PM  
-**Categories:** -  
-
-programming is fun and all of that is fine but how do I compete with a developer with a 200$/500$ Claude subscription? I was fine with making pennies,now I can't even make that. I was fine with competing against thousands of people who claimed competence, I could prove it by making stuff, but now I ...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=50168362)
-
----
-
-## 9. Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest
-
-**Author:** 4gateftw  
-**Published:** 10/20/2026, 3:48:26 PM  
-**Categories:** -  
-
-Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 8 # Comments: 0
-
-📖 [Read original article](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop)
-
----
-
-## 10. AI Pricing Is About to Shock Everyone: Why the $20/Month Era Is Ending
+## 8. Waste tsunami. Water and the hidden cost of AI data centres
 
 **Author:** speckx  
-**Published:** 10/20/2026, 3:45:34 PM  
+**Published:** 10/20/2026, 7:37:54 PM  
 **Categories:** -  
 
-Article URL: https://www.mindstudio.ai/blog/ai-pricing-shock-end-of-cheap-subscriptions Comments URL: https://news.ycombinator.com/item?id=50168135 Points: 1 # Comments: 1
+Article URL: https://michaelwest.com.au/waste-tsunami-water-and-the-hidden-cost-of-ai-data-centres/ Comments URL: https://news.ycombinator.com/item?id=50171570 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.mindstudio.ai/blog/ai-pricing-shock-end-of-cheap-subscriptions)
+📖 [Read original article](https://michaelwest.com.au/waste-tsunami-water-and-the-hidden-cost-of-ai-data-centres/)
 
 ---
 
-## 11. Show HN: TinyML AI – A New Architecture to Control Embedded Intelligence
+## 9. Show HN: Modula-9, a Wirth-family language designed for auditing AI-written code
 
-**Author:** nazmul_ai  
-**Published:** 10/20/2026, 3:33:09 PM  
+**Author:** atverm  
+**Published:** 10/20/2026, 7:24:53 PM  
 **Categories:** -  
 
-Article URL: https://github.com/dib-artificial/pluto-flash Comments URL: https://news.ycombinator.com/item?id=50167955 Points: 2 # Comments: 0
+Article URL: https://www.modula9.net Comments URL: https://news.ycombinator.com/item?id=50171402 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/dib-artificial/pluto-flash)
+📖 [Read original article](https://www.modula9.net)
 
 ---
 
-## 12. Modern.ai: The Company Brain for Ecommerce
+## 10. A practical guide to AI image generation, from diffusion to agents
 
-**Author:** eustoria  
-**Published:** 10/20/2026, 3:31:33 PM  
+**Author:** westsmith  
+**Published:** 10/20/2026, 7:22:39 PM  
 **Categories:** -  
 
-Article URL: https://www.modern.ai/ Comments URL: https://news.ycombinator.com/item?id=50167927 Points: 1 # Comments: 0
+Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 7 # Comments: 2
 
-📖 [Read original article](https://www.modern.ai/)
+📖 [Read original article](https://danielball.com/notes/ai_image_generation.html)
 
 ---
 
-## 13. Localizely cut AI translation prices 3x, here's what it costs now
+## 11. Anthropic redesigned source-control for AI agents
 
-**Author:** goranluledzija  
-**Published:** 10/20/2026, 3:27:36 PM  
+**Author:** Aelthorim  
+**Published:** 10/20/2026, 7:08:21 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/localizely/status/2110335200672821530 Comments URL: https://news.ycombinator.com/item?id=50167862 Points: 1 # Comments: 0
+Article URL: https://www.anthropic.com/research/redesigning-source-control Comments URL: https://news.ycombinator.com/item?id=50171167 Points: 3 # Comments: 2
 
-📖 [Read original article](https://twitter.com/localizely/status/2110335200672821530)
+📖 [Read original article](https://www.anthropic.com/research/redesigning-source-control)
 
 ---
 
-## 14. Women increasingly see AI for what it is: mansplaining on a global scale
+## 12. HoDoKu Revisited – Classic Java Sudoku Solver Ported to PWA with AI Coaching
 
-**Author:** MaysonL  
-**Published:** 10/20/2026, 3:17:45 PM  
+**Author:** ntropey  
+**Published:** 10/20/2026, 6:58:23 PM  
 **Categories:** -  
 
-Article URL: https://observer.co.uk/news/columnists/article/women-increasingly-see-ai-for-what-it-is-mansplaining-on-a-global-scale Comments URL: https://news.ycombinator.com/item?id=50167700 Points: 3 # Comments: 0
+Article URL: https://hodokurevisited.com Comments URL: https://news.ycombinator.com/item?id=50171006 Points: 1 # Comments: 0
 
-📖 [Read original article](https://observer.co.uk/news/columnists/article/women-increasingly-see-ai-for-what-it-is-mansplaining-on-a-global-scale)
+📖 [Read original article](https://hodokurevisited.com)
 
 ---
 
-## 15. Show HN: LongTerMemory, AI-RAG Study tool helping people to study everything
+## 13. AWS launches open-source Physical AI Toolchain for robotics
 
-**Author:** aledevv  
-**Published:** 10/20/2026, 3:15:58 PM  
+**Author:** gmays  
+**Published:** 10/20/2026, 6:47:08 PM  
 **Categories:** -  
 
-Article URL: https://longtermemory.com Comments URL: https://news.ycombinator.com/item?id=50167678 Points: 2 # Comments: 0
+Article URL: https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/ Comments URL: https://news.ycombinator.com/item?id=50170843 Points: 1 # Comments: 0
 
-📖 [Read original article](https://longtermemory.com)
+📖 [Read original article](https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/)
 
 ---
 
-## 16. Ask HN: Can LeetCode (or similar) keep critical thinking sharp in the AI era?
+## 14. Agentic AI has potential uses in prior-authorization protocols
 
-**Author:** ML0037  
-**Published:** 10/20/2026, 3:12:58 PM  
+**Author:** civicpivot  
+**Published:** 10/20/2026, 6:40:17 PM  
 **Categories:** -  
 
-These days, at least in my current situation, LC feels less like interview preparation and more like a mental gym for technical thinking, i don't like the LC grind, so i just do 1/2 problems per week just for fun. Have you felt this too, or are there better ways to develop (don't lose) this way of t...
+Article URL: https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=50170755 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50167633)
+📖 [Read original article](https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html)
 
 ---
 
-## 17. 'Reverse-Engineer Anything' Is the New Wild West of AI
+## 15. Think App store shared revenue but for AI models
 
-**Author:** toomuchtodo  
-**Published:** 10/20/2026, 3:10:01 PM  
+**Author:** agentsocializer  
+**Published:** 10/20/2026, 6:38:37 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50167587 Points: 11 # Comments: 3
+Article URL: https://dismodels.com/ Comments URL: https://news.ycombinator.com/item?id=50170728 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/)
+📖 [Read original article](https://dismodels.com/)
 
 ---
 
-## 18. Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins
+## 16. Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots
 
-**Author:** Andydy25  
-**Published:** 10/20/2026, 3:09:29 PM  
+**Author:** gmays  
+**Published:** 10/20/2026, 6:34:30 PM  
 **Categories:** -  
 
-Hey HN, this is Andy from Respan (https://www.respan.ai). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart ro...
+Article URL: https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/ Comments URL: https://news.ycombinator.com/item?id=50170661 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50167583)
+📖 [Read original article](https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/)
 
 ---
 
-## 19. AI models self-replicating in smart ovens? \"These f[..]g clowns\"
+## 17. Making the internet better for AI agents might make it worse for everyone else
 
-**Author:** jc_811  
-**Published:** 10/20/2026, 3:07:56 PM  
+**Author:** gnabgib  
+**Published:** 10/20/2026, 6:27:29 PM  
 **Categories:** -  
 
-Article URL: https://www.thestack.technology/these-f-clowns/ Comments URL: https://news.ycombinator.com/item?id=50167564 Points: 9 # Comments: 0
+Article URL: https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/ Comments URL: https://news.ycombinator.com/item?id=50170566 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.thestack.technology/these-f-clowns/)
+📖 [Read original article](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/)
 
 ---
 
-## 20. Exploring Structured Output in TanStack AI: Streaming Guide
+## 18. Apache Airflow AI Provider 1.0
 
-**Author:** ibobev  
-**Published:** 10/20/2026, 3:04:36 PM  
+**Author:** jonbaer  
+**Published:** 10/20/2026, 6:23:24 PM  
 **Categories:** -  
 
-Article URL: https://blog.master.dev/structured-output-with-tanstack-ai/ Comments URL: https://news.ycombinator.com/item?id=50167512 Points: 2 # Comments: 0
+Article URL: https://airflow.apache.org/blog/common-ai-provider-1.0/ Comments URL: https://news.ycombinator.com/item?id=50170494 Points: 1 # Comments: 0
 
-📖 [Read original article](https://blog.master.dev/structured-output-with-tanstack-ai/)
+📖 [Read original article](https://airflow.apache.org/blog/common-ai-provider-1.0/)
+
+---
+
+## 19. Rebuilding the monday.com API edge for AI Agents
+
+**Author:** jensneuse  
+**Published:** 10/20/2026, 6:22:18 PM  
+**Categories:** -  
+
+Article URL: https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/ Comments URL: https://news.ycombinator.com/item?id=50170482 Points: 1 # Comments: 0
+
+📖 [Read original article](https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/)
+
+---
+
+## 20. Minlit – an AI agent that reads CS/ML papers and answers with citations
+
+**Author:** damicoedoardo  
+**Published:** 10/20/2026, 6:19:25 PM  
+**Categories:** -  
+
+Article URL: https://www.minlit.app/ask Comments URL: https://news.ycombinator.com/item?id=50170441 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.minlit.app/ask)
 
 ---
