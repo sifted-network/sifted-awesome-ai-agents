@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Amazon opens its AWS Trainium AI chips to every PyTorch developer
+## 1. Public Exposure of NASA's Mission AI Hub allowed access to sensitive gov models
 
-**Author:** axolotl_raja  
-**Published:** 10/20/2026, 10:38:07 AM  
+**Author:** galnagli  
+**Published:** 10/20/2026, 4:13:16 PM  
 **Categories:** -  
 
-Article URL: https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai Comments URL: https://news.ycombinator.com/item?id=50164120 Points: 2 # Comments: 0
+Article URL: https://twitter.com/galnagli/status/2112572671682617413 Comments URL: https://news.ycombinator.com/item?id=50168595 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai)
+📖 [Read original article](https://twitter.com/galnagli/status/2112572671682617413)
 
 ---
 
-## 2. Smart delegation pipeline for AI agents (up to 15-20% on costs)
+## 2. Show HN: Koody for Business – AI bookkeeping for people who aren't accountants
 
-**Author:** adriencloud  
-**Published:** 10/20/2026, 10:30:25 AM  
+**Author:** Halimah  
+**Published:** 10/20/2026, 4:09:44 PM  
 **Categories:** -  
 
-Article URL: https://github.com/aeppling/rtk-pipeline-laya-delegate Comments URL: https://news.ycombinator.com/item?id=50164018 Points: 1 # Comments: 3
+Hi HN, I'm Hallie, founder of Koody. Today, I'm launching Koody for Business: AI-powered accounting, bookkeeping, and tax prep software for sole proprietors and small businesses.For years, I used accounting software for my business. I went into it to create invoices, categorize and reconcile transac...
 
-📖 [Read original article](https://github.com/aeppling/rtk-pipeline-laya-delegate)
+📖 [Read original article](https://koody.com/business)
 
 ---
 
-## 3. How to save money on tokens for your AI agents
+## 3. AWS CFO joked about the financial toll of AI. An internal recording reveals why
 
-**Author:** alexmikhalev  
-**Published:** 10/20/2026, 10:24:13 AM  
+**Author:** theonionspeaks  
+**Published:** 10/20/2026, 4:08:48 PM  
 **Categories:** -  
 
-Article URL: https://terraphim.ai/posts/save-money-tokens-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50163942 Points: 1 # Comments: 0
+Article URL: https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10 Comments URL: https://news.ycombinator.com/item?id=50168507 Points: 2 # Comments: 0
 
-📖 [Read original article](https://terraphim.ai/posts/save-money-tokens-ai-agents/)
+📖 [Read original article](https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10)
 
 ---
 
-## 4. Show HN: Make AI coding agents verify its own work
+## 4. AI models told me not to start the company
 
-**Author:** dshekhar17  
-**Published:** 10/20/2026, 10:20:33 AM  
+**Author:** redgeoff  
+**Published:** 10/20/2026, 4:07:37 PM  
 **Categories:** -  
 
-Article URL: https://github.com/reticlehq/reticle Comments URL: https://news.ycombinator.com/item?id=50163896 Points: 9 # Comments: 6
+Article URL: https://redgeoff.com/posts/dont-start-the-company/ Comments URL: https://news.ycombinator.com/item?id=50168487 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/reticlehq/reticle)
+📖 [Read original article](https://redgeoff.com/posts/dont-start-the-company/)
 
 ---
 
-## 5. Study: New AI tool can predict cancer survival by a single patient selfie
+## 5. Show HN: Worklicant – Lightweight ATS. Pay per Vacancy. AI Enabled
 
-**Author:** giuliomagnifico  
-**Published:** 10/20/2026, 10:01:28 AM  
+**Author:** azyzz228  
+**Published:** 10/20/2026, 4:07:06 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie Comments URL: https://news.ycombinator.com/item?id=50163691 Points: 2 # Comments: 0
+I have noticed that a lot of job posts that do not use any ATS, and in order to apply, they put their emails and ask candidates to apply with “X” in email subject. That seemed to be very counter productive — imagine having 300+ emails with resumes. Where do you manage them? In Excel? Or how many goo...
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie)
+📖 [Read original article](https://worklicant.com/)
 
 ---
 
-## 6. Stateless Agents: How to make AI work for teams
+## 6. Countercheck – re-runs your tests when an AI agent says \"done\"
 
-**Author:** poppylorry  
-**Published:** 10/20/2026, 9:49:33 AM  
+**Author:** srikanthpiniset  
+**Published:** 10/20/2026, 4:05:56 PM  
 **Categories:** -  
 
-Article URL: https://busabase.com/blog/how-to-make-ai-work-for-teams Comments URL: https://news.ycombinator.com/item?id=50163588 Points: 1 # Comments: 0
+Article URL: https://github.com/datacrate360/countercheck Comments URL: https://news.ycombinator.com/item?id=50168450 Points: 1 # Comments: 0
 
-📖 [Read original article](https://busabase.com/blog/how-to-make-ai-work-for-teams)
+📖 [Read original article](https://github.com/datacrate360/countercheck)
 
 ---
 
-## 7. AI slop is a human problem
+## 7. Why scraping isn't enough for AI agents and how DNS-verified profiles could help
 
-**Author:** crazyphoton  
-**Published:** 10/20/2026, 9:38:19 AM  
+**Author:** ralphdelblanco  
+**Published:** 10/20/2026, 3:59:42 PM  
 **Categories:** -  
 
-Article URL: https://nishanth.blog/posts/ai-slop-is-a-human-problem/ Comments URL: https://news.ycombinator.com/item?id=50163516 Points: 2 # Comments: 1
+Article URL: https://github.com/skindotorg/foundation/blob/main/publishing-for-ai-agents.md Comments URL: https://news.ycombinator.com/item?id=50168366 Points: 2 # Comments: 0
 
-📖 [Read original article](https://nishanth.blog/posts/ai-slop-is-a-human-problem/)
+📖 [Read original article](https://github.com/skindotorg/foundation/blob/main/publishing-for-ai-agents.md)
 
 ---
 
-## 8. Everygen AI – AI Video, Image, Shorts and Ads Studio
+## 8. Ask HN: As developers from low-income countries,how to cope with AI replacement?
 
-**Author:** Follow_Cloud  
-**Published:** 10/20/2026, 9:26:56 AM  
+**Author:** abitcynicalabou  
+**Published:** 10/20/2026, 3:59:25 PM  
 **Categories:** -  
 
-Article URL: https://www.everygens.com/ Comments URL: https://news.ycombinator.com/item?id=50163425 Points: 1 # Comments: 0
+programming is fun and all of that is fine but how do I compete with a developer with a 200$/500$ Claude subscription? I was fine with making pennies,now I can't even make that. I was fine with competing against thousands of people who claimed competence, I could prove it by making stuff, but now I ...
 
-📖 [Read original article](https://www.everygens.com/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50168362)
 
 ---
 
-## 9. HAR 1.0: The open harness for AI coding workflows you can trust and verify
+## 9. Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest
 
-**Author:** karimtr  
-**Published:** 10/20/2026, 9:25:59 AM  
+**Author:** 4gateftw  
+**Published:** 10/20/2026, 3:48:26 PM  
 **Categories:** -  
 
-Article URL: https://github.com/os-factory/har Comments URL: https://news.ycombinator.com/item?id=50163417 Points: 1 # Comments: 0
+Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 8 # Comments: 0
 
-📖 [Read original article](https://github.com/os-factory/har)
+📖 [Read original article](https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop)
 
 ---
 
-## 10. Show HN: Sandkiln – Fast Firecracker MicroVM sandboxes for AI-generated code
+## 10. AI Pricing Is About to Shock Everyone: Why the $20/Month Era Is Ending
 
-**Author:** sumitkumar-17  
-**Published:** 10/20/2026, 9:09:46 AM  
+**Author:** speckx  
+**Published:** 10/20/2026, 3:45:34 PM  
 **Categories:** -  
 
-Article URL: https://sandkiln.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50163287 Points: 1 # Comments: 0
+Article URL: https://www.mindstudio.ai/blog/ai-pricing-shock-end-of-cheap-subscriptions Comments URL: https://news.ycombinator.com/item?id=50168135 Points: 1 # Comments: 1
 
-📖 [Read original article](https://sandkiln.vercel.app/)
+📖 [Read original article](https://www.mindstudio.ai/blog/ai-pricing-shock-end-of-cheap-subscriptions)
 
 ---
 
-## 11. Show HN: I built an AI tool that turns two photos into a dance video
+## 11. Show HN: TinyML AI – A New Architecture to Control Embedded Intelligence
 
-**Author:** fourfire  
-**Published:** 10/20/2026, 9:06:42 AM  
+**Author:** nazmul_ai  
+**Published:** 10/20/2026, 3:33:09 PM  
 **Categories:** -  
 
-Article URL: https://a2oliteai.com/ Comments URL: https://news.ycombinator.com/item?id=50163258 Points: 3 # Comments: 0
+Article URL: https://github.com/dib-artificial/pluto-flash Comments URL: https://news.ycombinator.com/item?id=50167955 Points: 2 # Comments: 0
 
-📖 [Read original article](https://a2oliteai.com/)
+📖 [Read original article](https://github.com/dib-artificial/pluto-flash)
 
 ---
 
-## 12. Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF
+## 12. Modern.ai: The Company Brain for Ecommerce
 
-**Author:** chatgpt2notion  
-**Published:** 10/20/2026, 8:39:04 AM  
+**Author:** eustoria  
+**Published:** 10/20/2026, 3:31:33 PM  
 **Categories:** -  
 
-Article URL: https://chatgpt2notion.com/products/aiexporthub-hero/ Comments URL: https://news.ycombinator.com/item?id=50163035 Points: 1 # Comments: 0
+Article URL: https://www.modern.ai/ Comments URL: https://news.ycombinator.com/item?id=50167927 Points: 1 # Comments: 0
 
-📖 [Read original article](https://chatgpt2notion.com/products/aiexporthub-hero/)
+📖 [Read original article](https://www.modern.ai/)
 
 ---
 
-## 13. The chase is becoming an AI feature. In Portugal, nobody asks yet
+## 13. Localizely cut AI translation prices 3x, here's what it costs now
 
-**Author:** gilneto8  
-**Published:** 10/20/2026, 8:24:35 AM  
+**Author:** goranluledzija  
+**Published:** 10/20/2026, 3:27:36 PM  
 **Categories:** -  
 
-Article URL: https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/ Comments URL: https://news.ycombinator.com/item?id=50162912 Points: 2 # Comments: 0
+Article URL: https://twitter.com/localizely/status/2110335200672821530 Comments URL: https://news.ycombinator.com/item?id=50167862 Points: 1 # Comments: 0
 
-📖 [Read original article](https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/)
+📖 [Read original article](https://twitter.com/localizely/status/2110335200672821530)
 
 ---
 
-## 14. Reducing the cognitive load of AI changes
+## 14. Women increasingly see AI for what it is: mansplaining on a global scale
 
-**Author:** birdculture  
-**Published:** 10/20/2026, 8:05:13 AM  
+**Author:** MaysonL  
+**Published:** 10/20/2026, 3:17:45 PM  
 **Categories:** -  
 
-Article URL: https://amoffat.github.io/blog/cognitive-load.html Comments URL: https://news.ycombinator.com/item?id=50162767 Points: 1 # Comments: 1
+Article URL: https://observer.co.uk/news/columnists/article/women-increasingly-see-ai-for-what-it-is-mansplaining-on-a-global-scale Comments URL: https://news.ycombinator.com/item?id=50167700 Points: 3 # Comments: 0
 
-📖 [Read original article](https://amoffat.github.io/blog/cognitive-load.html)
+📖 [Read original article](https://observer.co.uk/news/columnists/article/women-increasingly-see-ai-for-what-it-is-mansplaining-on-a-global-scale)
 
 ---
 
-## 15. Show HN: A practical framework for evaluating agentic AI systems
+## 15. Show HN: LongTerMemory, AI-RAG Study tool helping people to study everything
 
-**Author:** nvmdbljstm  
-**Published:** 10/20/2026, 7:45:13 AM  
+**Author:** aledevv  
+**Published:** 10/20/2026, 3:15:58 PM  
 **Categories:** -  
 
-Article URL: https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/ Comments URL: https://news.ycombinator.com/item?id=50162634 Points: 1 # Comments: 0
+Article URL: https://longtermemory.com Comments URL: https://news.ycombinator.com/item?id=50167678 Points: 2 # Comments: 0
 
-📖 [Read original article](https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/)
+📖 [Read original article](https://longtermemory.com)
 
 ---
 
-## 16. I Talked to Workers at Amazon, Meta, & Microsoft About the AI Watching Them [video]
+## 16. Ask HN: Can LeetCode (or similar) keep critical thinking sharp in the AI era?
 
-**Author:** vrganj  
-**Published:** 10/20/2026, 7:45:05 AM  
+**Author:** ML0037  
+**Published:** 10/20/2026, 3:12:58 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=ca7ufSI1Qxg Comments URL: https://news.ycombinator.com/item?id=50162633 Points: 2 # Comments: 0
+These days, at least in my current situation, LC feels less like interview preparation and more like a mental gym for technical thinking, i don't like the LC grind, so i just do 1/2 problems per week just for fun. Have you felt this too, or are there better ways to develop (don't lose) this way of t...
 
-📖 [Read original article](https://www.youtube.com/watch?v=ca7ufSI1Qxg)
+📖 [Read original article](https://news.ycombinator.com/item?id=50167633)
 
 ---
 
-## 17. Will developing nations be able to handle AI agents?
+## 17. 'Reverse-Engineer Anything' Is the New Wild West of AI
 
-**Author:** donk8r  
-**Published:** 10/20/2026, 7:40:14 AM  
+**Author:** toomuchtodo  
+**Published:** 10/20/2026, 3:10:01 PM  
 **Categories:** -  
 
-Article URL: https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/ Comments URL: https://news.ycombinator.com/item?id=50162608 Points: 1 # Comments: 0
+Article URL: https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50167587 Points: 11 # Comments: 3
 
-📖 [Read original article](https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/)
+📖 [Read original article](https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/)
 
 ---
 
-## 18. Making the internet better for AI agents might make it worse for everyone else
+## 18. Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins
 
-**Author:** joozio  
-**Published:** 10/20/2026, 7:02:41 AM  
+**Author:** Andydy25  
+**Published:** 10/20/2026, 3:09:29 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/ Comments URL: https://news.ycombinator.com/item?id=50162329 Points: 2 # Comments: 0
+Hey HN, this is Andy from Respan (https://www.respan.ai). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart ro...
 
-📖 [Read original article](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50167583)
 
 ---
 
-## 19. Vite+ an excellent toolchain for AI agent development
+## 19. AI models self-replicating in smart ovens? \"These f[..]g clowns\"
 
-**Author:** kanbaruu  
-**Published:** 10/20/2026, 6:40:49 AM  
+**Author:** jc_811  
+**Published:** 10/20/2026, 3:07:56 PM  
 **Categories:** -  
 
-Article URL: https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en Comments URL: https://news.ycombinator.com/item?id=50162198 Points: 23 # Comments: 19
+Article URL: https://www.thestack.technology/these-f-clowns/ Comments URL: https://news.ycombinator.com/item?id=50167564 Points: 9 # Comments: 0
 
-📖 [Read original article](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
+📖 [Read original article](https://www.thestack.technology/these-f-clowns/)
 
 ---
 
-## 20. AegisKernel – Zero-Trust deterministic security runtime for AI agents
+## 20. Exploring Structured Output in TanStack AI: Streaming Guide
 
-**Author:** adityawebde  
-**Published:** 10/20/2026, 6:12:48 AM  
+**Author:** ibobev  
+**Published:** 10/20/2026, 3:04:36 PM  
 **Categories:** -  
 
-Article URL: https://github.com/adikshatriyag-crypto/aegis-kernel Comments URL: https://news.ycombinator.com/item?id=50161984 Points: 2 # Comments: 0
+Article URL: https://blog.master.dev/structured-output-with-tanstack-ai/ Comments URL: https://news.ycombinator.com/item?id=50167512 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/adikshatriyag-crypto/aegis-kernel)
+📖 [Read original article](https://blog.master.dev/structured-output-with-tanstack-ai/)
 
 ---
