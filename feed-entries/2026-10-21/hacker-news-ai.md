@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Protecting Cockroach Labs' Source Code in the Age of AI
+## 1. Expert Warned 'Always Verify' AI, Then Didn't Verify His AI-Made Charts
 
-**Author:** matesz  
-**Published:** 10/21/2026, 11:03:35 AM  
+**Author:** hn_acker  
+**Published:** 10/21/2026, 4:44:17 PM  
 **Categories:** -  
 
-Article URL: https://www.cockroachlabs.com/blog/source-code-protection/ Comments URL: https://news.ycombinator.com/item?id=50178883 Points: 1 # Comments: 0
+Article URL: https://www.techdirt.com/2026/10/21/expert-for-news-orgs-suing-openai-warned-always-verify-ai-then-didnt-verify-his-ai-made-charts-in-his-expert-report/ Comments URL: https://news.ycombinator.com/item?id=50183884 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.cockroachlabs.com/blog/source-code-protection/)
+📖 [Read original article](https://www.techdirt.com/2026/10/21/expert-for-news-orgs-suing-openai-warned-always-verify-ai-then-didnt-verify-his-ai-made-charts-in-his-expert-report/)
 
 ---
 
-## 2. What's left for us after AI? China's thinkers have different answers
+## 2. Rust off Rails: The opinionated web stack for the AI era
 
-**Author:** snikolaev  
-**Published:** 10/21/2026, 10:49:39 AM  
+**Author:** mike1o1  
+**Published:** 10/21/2026, 4:34:16 PM  
 **Categories:** -  
 
-Article URL: https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas Comments URL: https://news.ycombinator.com/item?id=50178773 Points: 3 # Comments: 0
+Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas)
+📖 [Read original article](https://rustoffrails.org/)
 
 ---
 
-## 3. HGATE – Human-Guided AI-Assisted Traceable Engineering
+## 3. OpenAI Says 2 Internal AI Coding Agents Turned Off Their Own Safeguards
 
-**Author:** self  
-**Published:** 10/21/2026, 10:40:05 AM  
+**Author:** marojejian  
+**Published:** 10/21/2026, 4:30:11 PM  
 **Categories:** -  
 
-Article URL: https://mali-tintash.github.io/hgate/ Comments URL: https://news.ycombinator.com/item?id=50178696 Points: 1 # Comments: 0
+Article URL: https://www.pcmag.com/news/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards Comments URL: https://news.ycombinator.com/item?id=50183655 Points: 1 # Comments: 1
 
-📖 [Read original article](https://mali-tintash.github.io/hgate/)
+📖 [Read original article](https://www.pcmag.com/news/openai-says-2-internal-ai-coding-agents-turned-off-their-own-safeguards)
 
 ---
 
-## 4. Show HN: We built an AI-powered search engine for e-commerce catalogs
+## 4. Sam Altman on Why AI Hasn't Killed Coding Jobs
 
-**Author:** arolando  
-**Published:** 10/21/2026, 10:25:11 AM  
+**Author:** pretext  
+**Published:** 10/21/2026, 4:17:47 PM  
 **Categories:** -  
 
-Article URL: https://visidea.ai/ Comments URL: https://news.ycombinator.com/item?id=50178568 Points: 1 # Comments: 0
+Article URL: https://twitter.com/MatthewBerman/status/2112930776811806874 Comments URL: https://news.ycombinator.com/item?id=50183471 Points: 2 # Comments: 1
 
-📖 [Read original article](https://visidea.ai/)
+📖 [Read original article](https://twitter.com/MatthewBerman/status/2112930776811806874)
 
 ---
 
-## 5. Show HN: We replayed 12 real AI agent incidents against our open-source tool
+## 5. Alan Turing Institute wants to build a UK AI model from scratch and make it free
 
-**Author:** batrapulkit1103  
-**Published:** 10/21/2026, 10:23:05 AM  
+**Author:** messpoiun  
+**Published:** 10/21/2026, 4:17:41 PM  
 **Categories:** -  
 
-Article URL: https://squidbrake.com/benchmark Comments URL: https://news.ycombinator.com/item?id=50178546 Points: 1 # Comments: 0
+Article URL: https://hotminute.co.uk/2026/10/21/the-alan-turing-institute-wants-to-build-a-uk-ai-model-from-scratch-and-release-it-for-free-to-the-public/ Comments URL: https://news.ycombinator.com/item?id=50183469 Points: 2 # Comments: 0
 
-📖 [Read original article](https://squidbrake.com/benchmark)
+📖 [Read original article](https://hotminute.co.uk/2026/10/21/the-alan-turing-institute-wants-to-build-a-uk-ai-model-from-scratch-and-release-it-for-free-to-the-public/)
 
 ---
 
-## 6. Show HN: Linkit – AI bookmark manager, 100% free and open source
+## 6. Show HN: Nysa – Shared memory for teams that work with AI agents
 
-**Author:** manbudezhu  
-**Published:** 10/21/2026, 9:51:41 AM  
+**Author:** javieraldape  
+**Published:** 10/21/2026, 4:11:17 PM  
 **Categories:** -  
 
-Article URL: https://github.com/blue-idea/linkit Comments URL: https://news.ycombinator.com/item?id=50178218 Points: 2 # Comments: 0
+Article URL: https://usenysa.com/ Comments URL: https://news.ycombinator.com/item?id=50183382 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/blue-idea/linkit)
+📖 [Read original article](https://usenysa.com/)
 
 ---
 
-## 7. So yeah it was written using AI
+## 7. AI agent fixed the bug, but what else did it change?
 
-**Author:** kimi  
-**Published:** 10/21/2026, 9:20:27 AM  
+**Author:** tob_scott_a  
+**Published:** 10/21/2026, 4:03:32 PM  
 **Categories:** -  
 
-Article URL: https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50177979 Points: 1 # Comments: 0
+Article URL: https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/ Comments URL: https://news.ycombinator.com/item?id=50183253 Points: 6 # Comments: 1
 
-📖 [Read original article](https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/)
+📖 [Read original article](https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/)
 
 ---
 
-## 8. AI video effects from one or two photos, without writing prompts
+## 8. The state of AI coding interviews, 2026
 
-**Author:** visiohex  
-**Published:** 10/21/2026, 8:50:48 AM  
+**Author:** maxnyriev  
+**Published:** 10/21/2026, 3:55:00 PM  
 **Categories:** -  
 
-Article URL: https://aieffectstudio.com/ Comments URL: https://news.ycombinator.com/item?id=50177787 Points: 1 # Comments: 0
+Article URL: https://nyrion.ai/research/ai-coding-interviews-2026 Comments URL: https://news.ycombinator.com/item?id=50183088 Points: 2 # Comments: 0
 
-📖 [Read original article](https://aieffectstudio.com/)
+📖 [Read original article](https://nyrion.ai/research/ai-coding-interviews-2026)
 
 ---
 
-## 9. PolicyWatcher – Independent monitor of privacy, ToS and AI policy changes
+## 9. Open-source, cross-harness memory for AI agents
 
-**Author:** a9i  
-**Published:** 10/21/2026, 8:36:27 AM  
+**Author:** shakshukan  
+**Published:** 10/21/2026, 3:42:38 PM  
 **Categories:** -  
 
-Article URL: https://policywatcher.online Comments URL: https://news.ycombinator.com/item?id=50177679 Points: 1 # Comments: 0
+Earlier this year, my co-founder and I found ourselves frequently switching between different coding agents (Claude Code, Codex, Cursor) anytime we ran out of shaky usage limits or a newer, better model came out.We became increasingly frustrated with having to re-explain our tasks, workflows, common...
 
-📖 [Read original article](https://policywatcher.online)
+📖 [Read original article](https://news.ycombinator.com/item?id=50182883)
 
 ---
 
-## 10. Poketrade.ai: I got tired of using five Pokémon apps, so I built one
+## 10. Modular AI Data center presented by Nvidia
 
-**Author:** SotirisKourou  
-**Published:** 10/21/2026, 8:04:01 AM  
+**Author:** 0kk33  
+**Published:** 10/21/2026, 3:28:25 PM  
 **Categories:** -  
 
-Article URL: https://poketrade.ai/news/introducing-poketrade Comments URL: https://news.ycombinator.com/item?id=50177470 Points: 2 # Comments: 0
+Article URL: https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/ Comments URL: https://news.ycombinator.com/item?id=50182659 Points: 2 # Comments: 0
 
-📖 [Read original article](https://poketrade.ai/news/introducing-poketrade)
+📖 [Read original article](https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/)
 
 ---
 
-## 11. Show HN: Local DirectML AI and Floating Toolstrip for PhotoCraft in Rust
+## 11. LiteLLM Compromised to Steal Cloud and AI Credentials
 
-**Author:** kobaltGIT  
-**Published:** 10/21/2026, 7:46:11 AM  
+**Author:** pranshuchittora  
+**Published:** 10/21/2026, 3:24:57 PM  
 **Categories:** -  
 
-Article URL: https://github.com/kobaltgit/photocraft-companion Comments URL: https://news.ycombinator.com/item?id=50177345 Points: 1 # Comments: 0
+Article URL: https://socket.dev/blog/litellm-compromise Comments URL: https://news.ycombinator.com/item?id=50182606 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/kobaltgit/photocraft-companion)
+📖 [Read original article](https://socket.dev/blog/litellm-compromise)
 
 ---
 
-## 12. AI Slowdown, What Slowdown?
+## 12. Rethink the Terminal: A Portal to AI
 
-**Author:** ed-is-ai  
-**Published:** 10/21/2026, 7:43:19 AM  
+**Author:** aywu  
+**Published:** 10/21/2026, 3:21:57 PM  
 **Categories:** -  
 
-Article URL: https://13trillionparameters.com/comics/003-the-slowdown Comments URL: https://news.ycombinator.com/item?id=50177327 Points: 2 # Comments: 1
+Article URL: https://yunxin.github.io/rethink-terminal/ Comments URL: https://news.ycombinator.com/item?id=50182550 Points: 1 # Comments: 1
 
-📖 [Read original article](https://13trillionparameters.com/comics/003-the-slowdown)
+📖 [Read original article](https://yunxin.github.io/rethink-terminal/)
 
 ---
 
-## 13. AI for Music – a guideline for the responsible use of AI in music
+## 13. AI code-testing startup Blacksmith hits $1B valuation
 
-**Author:** dr_kiszonka  
-**Published:** 10/21/2026, 7:40:45 AM  
+**Author:** AnhTho_FR  
+**Published:** 10/21/2026, 3:17:51 PM  
 **Categories:** -  
 
-Article URL: https://aiformusic.info/ Comments URL: https://news.ycombinator.com/item?id=50177310 Points: 1 # Comments: 0
+Article URL: https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/ Comments URL: https://news.ycombinator.com/item?id=50182486 Points: 2 # Comments: 1
 
-📖 [Read original article](https://aiformusic.info/)
+📖 [Read original article](https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/)
 
 ---
 
-## 14. Using AI to Delete Code: Agentic Tech Debt Cleanup at Uber
+## 14. Programming as a Hobby in the Age of AI
 
-**Author:** damowangcy  
-**Published:** 10/21/2026, 7:33:29 AM  
+**Author:** signa11  
+**Published:** 10/21/2026, 3:16:26 PM  
 **Categories:** -  
 
-Article URL: https://www.uber.com/us/en/blog/ai-code-cleanup/ Comments URL: https://news.ycombinator.com/item?id=50177259 Points: 2 # Comments: 0
+Article URL: https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm Comments URL: https://news.ycombinator.com/item?id=50182460 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.uber.com/us/en/blog/ai-code-cleanup/)
+📖 [Read original article](https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm)
 
 ---
 
-## 15. Empires of AI: The Rise and Fall of a New Global Order
+## 15. AI has 'potential' to turn script kiddies into sophisticated attackers
 
-**Author:** doener  
-**Published:** 10/21/2026, 7:30:56 AM  
+**Author:** Bender  
+**Published:** 10/21/2026, 3:10:50 PM  
 **Categories:** -  
 
-Article URL: https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt Comments URL: https://news.ycombinator.com/item?id=50177239 Points: 4 # Comments: 0
+Article URL: https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297 Comments URL: https://news.ycombinator.com/item?id=50182358 Points: 11 # Comments: 0
 
-📖 [Read original article](https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt)
+📖 [Read original article](https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297)
 
 ---
 
-## 16. Show HN: See AI trends heat up in real time
+## 16. Wikipedia's Cleanup of AI-Generated Content
+
+**Author:** rbanffy  
+**Published:** 10/21/2026, 3:00:56 PM  
+**Categories:** -  
+
+Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50182203 Points: 2 # Comments: 0
+
+📖 [Read original article](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
+
+---
+
+## 17. SaaS in the Agent Economy: Why AI Just Changed Bootstrapped SaaS Forever [video]
+
+**Author:** bitbasher  
+**Published:** 10/21/2026, 2:59:26 PM  
+**Categories:** -  
+
+Article URL: https://www.youtube.com/watch?v=8cSCJtPOkmM Comments URL: https://news.ycombinator.com/item?id=50182169 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.youtube.com/watch?v=8cSCJtPOkmM)
+
+---
+
+## 18. Mining Architectural Quality Under Agentic AI Adoption
+
+**Author:** Tommkruix123  
+**Published:** 10/21/2026, 2:57:02 PM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2606.13298 Comments URL: https://news.ycombinator.com/item?id=50182131 Points: 2 # Comments: 0
+
+📖 [Read original article](https://arxiv.org/abs/2606.13298)
+
+---
+
+## 19. Show HN: Track AI trends in real time
 
 **Author:** jnaina  
-**Published:** 10/21/2026, 6:49:14 AM  
+**Published:** 10/21/2026, 2:43:39 PM  
 **Categories:** -  
 
-Article URL: https://ai-news.jagular.io Comments URL: https://news.ycombinator.com/item?id=50176960 Points: 2 # Comments: 0
+Article URL: https://ai.jagular.io Comments URL: https://news.ycombinator.com/item?id=50181897 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ai-news.jagular.io)
+📖 [Read original article](https://ai.jagular.io)
 
 ---
 
-## 17. Show HN: Grafista – AI graphic designer built to fight slop
+## 20. Your Data Is Scattered. AI Agents Can Connect the Pieces
 
-**Author:** GiorgosGennaris  
-**Published:** 10/21/2026, 6:43:17 AM  
+**Author:** eustoria  
+**Published:** 10/21/2026, 2:42:23 PM  
 **Categories:** -  
 
-You don't need advanced prompt or design skills to create a professional designs using Grafista. Just add your content and your brand. Fully editable designs in any language. Plans from €10/month, no per seat charge. Startups get 50% for the first 3 months. Comments URL: https://news.ycombinator.com...
+Article URL: https://simple.ai/p/your-data-is-scattered-ai-agents-can-finally-connect-the-pieces Comments URL: https://news.ycombinator.com/item?id=50181878 Points: 1 # Comments: 0
 
-📖 [Read original article](https://grafista.io/)
-
----
-
-## 18. Google DeepMind says four AI agents beat Minecraft in 27 hours
-
-**Author:** jonbaer  
-**Published:** 10/21/2026, 6:37:47 AM  
-**Categories:** -  
-
-Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens Comments URL: https://n...
-
-📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens)
-
----
-
-## 19. Giving AI video some Remembrance of things past
-
-**Author:** 50kIters  
-**Published:** 10/21/2026, 6:09:27 AM  
-**Categories:** -  
-
-Article URL: https://www.unite.ai/giving-ai-video-some-remembrance-of-things-past/ Comments URL: https://news.ycombinator.com/item?id=50176679 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.unite.ai/giving-ai-video-some-remembrance-of-things-past/)
-
----
-
-## 20. AI Benchmarks: Climbing the Wrong Hills
-
-**Author:** gmays  
-**Published:** 10/21/2026, 5:46:13 AM  
-**Categories:** -  
-
-Article URL: https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills Comments URL: https://news.ycombinator.com/item?id=50176528 Points: 3 # Comments: 0
-
-📖 [Read original article](https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills)
+📖 [Read original article](https://simple.ai/p/your-data-is-scattered-ai-agents-can-finally-connect-the-pieces)
 
 ---
