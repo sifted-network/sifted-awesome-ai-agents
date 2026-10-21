@@ -2,251 +2,143 @@
 title: "Hacker News AI - 2026-10-20"
 date: "2026-10-20"
 source: "Hacker News AI"
-count: 20
+count: 11
 ---
 
 # Hacker News AI - 2026-10-20
 
-20 items collected.
+11 items collected.
 
 ---
 
-## 1. Show HN: Tenbri, a log AI agents can’t secretly rewrite
+## 1. Do Not Trust, Continuously Verify (Your AI Agents)
 
-**Author:** akaabachi  
-**Published:** 10/20/2026, 9:03:56 PM  
+**Author:** Bender  
+**Published:** 10/20/2026, 11:41:17 PM  
 **Categories:** -  
 
-Article URL: https://tenbri.com/ Comments URL: https://news.ycombinator.com/item?id=50172642 Points: 1 # Comments: 1
+Article URL: https://altchan.org/sh/41 Comments URL: https://news.ycombinator.com/item?id=50174222 Points: 2 # Comments: 0
 
-📖 [Read original article](https://tenbri.com/)
+📖 [Read original article](https://altchan.org/sh/41)
 
 ---
 
-## 2. Bringing AI into business is hard
+## 2. AGI-S – an AI platform I'm building
 
-**Author:** pindexis  
-**Published:** 10/20/2026, 8:46:30 PM  
+**Author:** smitsjoshi  
+**Published:** 10/20/2026, 11:35:38 PM  
 **Categories:** -  
 
-Article URL: https://pindexis.github.io Comments URL: https://news.ycombinator.com/item?id=50172442 Points: 4 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=50174174 Points: 2 # Comments: 1
 
-📖 [Read original article](https://pindexis.github.io)
+📖 [Read original article](https://news.ycombinator.com/item?id=50174174)
 
 ---
 
-## 3. Ask HN: Will AI = extreme concentration of power?
+## 3. When AI agents take matters into their own hands
 
-**Author:** atleastoptimal  
-**Published:** 10/20/2026, 8:23:04 PM  
+**Author:** ijidak  
+**Published:** 10/20/2026, 11:30:40 PM  
 **Categories:** -  
 
-Let's say that AI will continue to get better without being a major risk due to loss of control. I feel like in this paradigm, it will lead to:1. Fewer and fewer people can make money via their labor. We will have a small minority of super-winners who magnify their work output 100x with AI, and most...
+Article URL: https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands Comments URL: https://news.ycombinator.com/item?id=50174129 Points: 3 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50172133)
+📖 [Read original article](https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands)
 
 ---
 
-## 4. Show HN: Agent-Zero – Starter template for AI-native coding projects
+## 4. Show HN: Pace or Pause – Explore where people stand on AI development
 
-**Author:** andres  
-**Published:** 10/20/2026, 8:21:43 PM  
+**Author:** DashiellB  
+**Published:** 10/20/2026, 11:18:49 PM  
 **Categories:** -  
 
-Hi All,Agent-Zero is a GitHub template that you can use for new coding projects that use AI-first development workflows. It includes the minimum necessary to nudge agents to write good code, work well in sandboxes, and get stuff done on GitHub (e.g. commits and PRs). It only includes a basic CLAUDE....
+Article URL: https://paceorpause.com/ Comments URL: https://news.ycombinator.com/item?id=50174020 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/amorey/agent-zero)
+📖 [Read original article](https://paceorpause.com/)
 
 ---
 
-## 5. Meta drops the word \"train\" from its commercial TOS after AI backlash
+## 5. Revisiting Open Science in the Age of AI
 
-**Author:** pseudolus  
-**Published:** 10/20/2026, 8:11:14 PM  
+**Author:** JohnHammersley  
+**Published:** 10/20/2026, 11:16:17 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/ Comments URL: https://news.ycombinator.com/item?id=50171984 Points: 1 # Comments: 1
+Article URL: https://carlystrasser.substack.com/p/revisiting-open-science-in-the-age Comments URL: https://news.ycombinator.com/item?id=50174006 Points: 3 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/)
-
----
-
-## 6. We need a frictionless physical AI experience for builders, makers and tinkerers
-
-**Author:** mlamina  
-**Published:** 10/20/2026, 8:04:58 PM  
-**Categories:** -  
-
-Article URL: https://blog.marcolamina.me/p/we-need-a-frictionless-physical-ai-experience-for-builders-makers-and-tinkerers Comments URL: https://news.ycombinator.com/item?id=50171907 Points: 2 # Comments: 1
-
-📖 [Read original article](https://blog.marcolamina.me/p/we-need-a-frictionless-physical-ai-experience-for-builders-makers-and-tinkerers)
+📖 [Read original article](https://carlystrasser.substack.com/p/revisiting-open-science-in-the-age)
 
 ---
 
-## 7. On AI writing
-
-**Author:** dbolkunov  
-**Published:** 10/20/2026, 7:55:11 PM  
-**Categories:** -  
-
-Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 39 # Comments: 8
-
-📖 [Read original article](https://www.bolkunov.com/p/on-ai-writing)
-
----
-
-## 8. Waste tsunami. Water and the hidden cost of AI data centres
-
-**Author:** speckx  
-**Published:** 10/20/2026, 7:37:54 PM  
-**Categories:** -  
-
-Article URL: https://michaelwest.com.au/waste-tsunami-water-and-the-hidden-cost-of-ai-data-centres/ Comments URL: https://news.ycombinator.com/item?id=50171570 Points: 3 # Comments: 1
-
-📖 [Read original article](https://michaelwest.com.au/waste-tsunami-water-and-the-hidden-cost-of-ai-data-centres/)
-
----
-
-## 9. Show HN: Modula-9, a Wirth-family language designed for auditing AI-written code
-
-**Author:** atverm  
-**Published:** 10/20/2026, 7:24:53 PM  
-**Categories:** -  
-
-Article URL: https://www.modula9.net Comments URL: https://news.ycombinator.com/item?id=50171402 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.modula9.net)
-
----
-
-## 10. A practical guide to AI image generation, from diffusion to agents
-
-**Author:** westsmith  
-**Published:** 10/20/2026, 7:22:39 PM  
-**Categories:** -  
-
-Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 7 # Comments: 2
-
-📖 [Read original article](https://danielball.com/notes/ai_image_generation.html)
-
----
-
-## 11. Anthropic redesigned source-control for AI agents
-
-**Author:** Aelthorim  
-**Published:** 10/20/2026, 7:08:21 PM  
-**Categories:** -  
-
-Article URL: https://www.anthropic.com/research/redesigning-source-control Comments URL: https://news.ycombinator.com/item?id=50171167 Points: 3 # Comments: 2
-
-📖 [Read original article](https://www.anthropic.com/research/redesigning-source-control)
-
----
-
-## 12. HoDoKu Revisited – Classic Java Sudoku Solver Ported to PWA with AI Coaching
-
-**Author:** ntropey  
-**Published:** 10/20/2026, 6:58:23 PM  
-**Categories:** -  
-
-Article URL: https://hodokurevisited.com Comments URL: https://news.ycombinator.com/item?id=50171006 Points: 1 # Comments: 0
-
-📖 [Read original article](https://hodokurevisited.com)
-
----
-
-## 13. AWS launches open-source Physical AI Toolchain for robotics
+## 6. How We Made Our AI Agents More Reliable by Giving the Router Less to Do
 
 **Author:** gmays  
-**Published:** 10/20/2026, 6:47:08 PM  
+**Published:** 10/20/2026, 10:49:50 PM  
 **Categories:** -  
 
-Article URL: https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/ Comments URL: https://news.ycombinator.com/item?id=50170843 Points: 1 # Comments: 0
+Article URL: https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/ Comments URL: https://news.ycombinator.com/item?id=50173764 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/)
+📖 [Read original article](https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/)
 
 ---
 
-## 14. Agentic AI has potential uses in prior-authorization protocols
+## 7. Fleet of AI agents used httpbin to get past their sandbox
 
-**Author:** civicpivot  
-**Published:** 10/20/2026, 6:40:17 PM  
+**Author:** nreece  
+**Published:** 10/20/2026, 10:48:33 PM  
 **Categories:** -  
 
-Article URL: https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html Comments URL: https://news.ycombinator.com/item?id=50170755 Points: 1 # Comments: 0
+Article URL: https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch Comments URL: https://news.ycombinator.com/item?id=50173750 Points: 1 # Comments: 2
 
-📖 [Read original article](https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html)
+📖 [Read original article](https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch)
 
 ---
 
-## 15. Think App store shared revenue but for AI models
+## 8. Agent Economics: Who Keeps the Ledger of AI Labor?
 
-**Author:** agentsocializer  
-**Published:** 10/20/2026, 6:38:37 PM  
+**Author:** centrail  
+**Published:** 10/20/2026, 10:41:43 PM  
 **Categories:** -  
 
-Article URL: https://dismodels.com/ Comments URL: https://news.ycombinator.com/item?id=50170728 Points: 1 # Comments: 0
+Article URL: https://centrail.org/newsletter/agent-economics-who-keeps-the-ledger-of-ai-labor Comments URL: https://news.ycombinator.com/item?id=50173680 Points: 1 # Comments: 0
 
-📖 [Read original article](https://dismodels.com/)
+📖 [Read original article](https://centrail.org/newsletter/agent-economics-who-keeps-the-ledger-of-ai-labor)
 
 ---
 
-## 16. Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots
+## 9. How we're Approaching AI at BioRxiv and MedRxiv
 
-**Author:** gmays  
-**Published:** 10/20/2026, 6:34:30 PM  
+**Author:** JohnHammersley  
+**Published:** 10/20/2026, 10:13:29 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/ Comments URL: https://news.ycombinator.com/item?id=50170661 Points: 1 # Comments: 0
+Article URL: https://openrxiv.org/approach-to-ai/ Comments URL: https://news.ycombinator.com/item?id=50173421 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/)
+📖 [Read original article](https://openrxiv.org/approach-to-ai/)
 
 ---
 
-## 17. Making the internet better for AI agents might make it worse for everyone else
+## 10. AI Frontier – Discoveries and Community
 
-**Author:** gnabgib  
-**Published:** 10/20/2026, 6:27:29 PM  
+**Author:** dvdnav  
+**Published:** 10/20/2026, 9:53:21 PM  
 **Categories:** -  
 
-Article URL: https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/ Comments URL: https://news.ycombinator.com/item?id=50170566 Points: 2 # Comments: 0
+Article URL: https://ai-frontier.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50173208 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/)
+📖 [Read original article](https://ai-frontier.co.uk/)
 
 ---
 
-## 18. Apache Airflow AI Provider 1.0
+## 11. What if we donated our spare AI subscriptions to math?
 
-**Author:** jonbaer  
-**Published:** 10/20/2026, 6:23:24 PM  
+**Author:** KolenCh  
+**Published:** 10/20/2026, 9:44:30 PM  
 **Categories:** -  
 
-Article URL: https://airflow.apache.org/blog/common-ai-provider-1.0/ Comments URL: https://news.ycombinator.com/item?id=50170494 Points: 1 # Comments: 0
+Article URL: https://blog.kolen.dev/math/math-at-home Comments URL: https://news.ycombinator.com/item?id=50173111 Points: 1 # Comments: 0
 
-📖 [Read original article](https://airflow.apache.org/blog/common-ai-provider-1.0/)
-
----
-
-## 19. Rebuilding the monday.com API edge for AI Agents
-
-**Author:** jensneuse  
-**Published:** 10/20/2026, 6:22:18 PM  
-**Categories:** -  
-
-Article URL: https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/ Comments URL: https://news.ycombinator.com/item?id=50170482 Points: 1 # Comments: 0
-
-📖 [Read original article](https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/)
-
----
-
-## 20. Minlit – an AI agent that reads CS/ML papers and answers with citations
-
-**Author:** damicoedoardo  
-**Published:** 10/20/2026, 6:19:25 PM  
-**Categories:** -  
-
-Article URL: https://www.minlit.app/ask Comments URL: https://news.ycombinator.com/item?id=50170441 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.minlit.app/ask)
+📖 [Read original article](https://blog.kolen.dev/math/math-at-home)
 
 ---
