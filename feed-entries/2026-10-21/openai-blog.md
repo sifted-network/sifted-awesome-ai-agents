@@ -2,16 +2,28 @@
 title: "OpenAI Blog - 2026-10-21"
 date: "2026-10-21"
 source: "OpenAI Blog"
-count: 5
+count: 7
 ---
 
 # OpenAI Blog - 2026-10-21
 
-5 items collected.
+7 items collected.
 
 ---
 
-## 1. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
+## 1. How AT&T is rethinking in-house legal work with OpenAI
+
+**Author:** -  
+**Published:** 10/21/2026, 5:00:00 PM  
+**Categories:** -  
+
+AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.
+
+📖 [Read original article](https://openai.com/index/att-legal)
+
+---
+
+## 2. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
 
 **Author:** -  
 **Published:** 10/21/2026, 1:00:00 PM  
@@ -23,7 +35,7 @@ From local businesses to global brands, more advertisers can now reach people as
 
 ---
 
-## 2. OpenAI models are coming to Google Cloud
+## 3. OpenAI models are coming to Google Cloud
 
 **Author:** -  
 **Published:** 10/21/2026, 12:00:00 PM  
@@ -35,7 +47,7 @@ OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemi
 
 ---
 
-## 3. Patch the Planet: global response coordination as agents uncover critical vulnerabilities
+## 4. Patch the Planet: global response coordination as agents uncover critical vulnerabilities
 
 **Author:** -  
 **Published:** 10/21/2026, 7:00:00 AM  
@@ -47,7 +59,7 @@ Patch the Planet connects security researchers, maintainers, and incident respon
 
 ---
 
-## 4. How we built ChatGPT’s novel ad stack for user trust and relevance
+## 5. How we built ChatGPT’s novel ad stack for user trust and relevance
 
 **Author:** -  
 **Published:** 10/21/2026, 7:00:00 AM  
@@ -59,7 +71,7 @@ Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversati
 
 ---
 
-## 5. Using thousands of AI agents to uncover new leads in biological data
+## 6. Using thousands of AI agents to uncover new leads in biological data
 
 **Author:** -  
 **Published:** 10/21/2026, 4:50:00 AM  
@@ -68,5 +80,17 @@ Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversati
 See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
 
 📖 [Read original article](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
+
+---
+
+## 7. Democratic governance of frontier AI, part II: Empowering cyber defenders
+
+**Author:** -  
+**Published:** 10/21/2026, 12:00:00 AM  
+**Categories:** Global Affairs  
+
+OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.
+
+📖 [Read original article](https://openai.com/index/empowering-cyber-defenders)
 
 ---
