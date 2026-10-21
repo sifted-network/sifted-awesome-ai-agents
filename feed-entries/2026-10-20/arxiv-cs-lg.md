@@ -221,7 +221,7 @@ arXiv:2610.23942v1 Announce Type: new Abstract: LLM agents accumulate valuable t
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2610.23946v1 Announce Type: new Abstract: Pretraining scaling laws treat training data as a one-dimensional quantity: a token count. Agentic reinforcement learning (RL) inherits this scalar abstraction, but modern synthesis pipelines now generate \textit{tasks}, \textit{environments}, and \tex...
+arXiv:2610.23946v2 Announce Type: new Abstract: Pretraining scaling laws treat training data as a one-dimensional quantity: a token count. Agentic reinforcement learning (RL) inherits this scalar abstraction, but modern synthesis pipelines now generate \textit{tasks}, \textit{environments}, and \tex...
 
 📖 [Read original article](https://arxiv.org/abs/2610.23946)
 
@@ -653,7 +653,7 @@ arXiv:2610.24305v1 Announce Type: new Abstract: We study the Muon optimizer usin
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.24306v1 Announce Type: new Abstract: Location encoders learn compact representations of latitude--longitude coordinates for downstream geospatial prediction tasks. Existing approaches are pretrained using continuous or naturally occurring supervision, such as imagery, climate variables, o...
+arXiv:2610.24306v2 Announce Type: new Abstract: Location encoders learn compact representations of latitude--longitude coordinates for downstream geospatial prediction tasks. Existing approaches are pretrained using continuous or naturally occurring supervision, such as imagery, climate variables, o...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24306)
 
@@ -1013,7 +1013,7 @@ arXiv:2610.24571v1 Announce Type: new Abstract: Recent work has shown that deep 
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2610.24585v1 Announce Type: new Abstract: Delirium affects a large fraction of intensive care unit (ICU) patients and foreshadows longer stays, lasting cognitive decline, and higher mortality. Flagging the patients who will become delirious within the first day of admission would give clinicia...
+arXiv:2610.24585v2 Announce Type: new Abstract: Delirium affects a large fraction of intensive care unit (ICU) patients and foreshadows longer stays, lasting cognitive decline, and higher mortality. Flagging the patients who will become delirious within the first day of admission would give clinicia...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24585)
 
@@ -1193,7 +1193,7 @@ arXiv:2610.24775v1 Announce Type: new Abstract: Existing convergence analyses of
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2610.24777v1 Announce Type: new Abstract: Predictive Process Monitoring (PPM) forecasts future events of ongoing business processes based on event logs. However, deep learning PPM approaches are often limited by labeled data scarcity and the low variability of real-world logs. To address this,...
+arXiv:2610.24777v2 Announce Type: new Abstract: Predictive Process Monitoring (PPM) forecasts future events of ongoing business processes based on event logs. However, deep learning PPM approaches are often limited by labeled data scarcity and the low variability of real-world logs. To address this,...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24777)
 
@@ -1697,7 +1697,7 @@ arXiv:2610.25113v1 Announce Type: new Abstract: The explore/exploit trade-off is
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG  
 
-arXiv:2610.25116v1 Announce Type: new Abstract: We study bias-free, one-hidden-layer ReLU networks with nonnegative output weights under standard Gaussian inputs. Hidden directions may be arbitrarily close or linearly dependent. The labels have the target as their conditional mean, and only the unco...
+arXiv:2610.25116v2 Announce Type: new Abstract: We study positive, bias-free, one-hidden-layer ReLU networks under standard Gaussian inputs. We obtain algorithms with polynomial sample and real-arithmetic complexity, without separation or conditioning assumptions on the hidden directions. When the c...
 
 📖 [Read original article](https://arxiv.org/abs/2610.25116)
 
@@ -2969,7 +2969,7 @@ arXiv:2610.26009v1 Announce Type: new Abstract: Performing accurate protein-glyc
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, stat.ML  
 
-arXiv:2610.26030v1 Announce Type: new Abstract: Looped transformers reuse a shared block of layers to increase computational depth without increasing the number of trainable parameters. They are trained with backpropagation through time (BPTT). To save training compute, BPTT is often truncated to th...
+arXiv:2610.26030v2 Announce Type: new Abstract: Looped transformers reuse a shared block of layers to increase computational depth without increasing the number of trainable parameters. They are trained with backpropagation through time (BPTT). To save training compute, BPTT is often truncated to th...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26030)
 
@@ -3233,7 +3233,7 @@ arXiv:2610.26379v1 Announce Type: new Abstract: Irregular multivariate time seri
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, stat.ML  
 
-arXiv:2610.26407v1 Announce Type: new Abstract: This paper considers the Bayesian top-$k$ identification problem, wherein a decision maker is tasked with selecting $k$ items from a pool of items of unknown quality. To assess the items, the decision maker adaptively allocates a fixed sampling budget,...
+arXiv:2610.26407v2 Announce Type: new Abstract: This paper considers the Bayesian top-$k$ identification problem, wherein a decision maker is tasked with selecting $k$ items from a pool of items of unknown quality. To assess the items, the decision maker adaptively allocates a fixed sampling budget,...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26407)
 
@@ -3241,11 +3241,11 @@ arXiv:2610.26407v1 Announce Type: new Abstract: This paper considers the Bayesia
 
 ## 270. Rethinking LLM Fine-Tuning via Weight Space Reparameterization: Preserving Safety during Downstream Adaptation
 
-**Author:** Minseong Kim, Jongbok Won, Jeesup Park, Yonghee Choi, Dongjun Han  
+**Author:** Min-Seong Kim, Jongbok Won, Jeesup Park, Yonghee Choi, Dong-Jun Han  
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.26443v1 Announce Type: new Abstract: Fine-tuning large language models (LLMs) on downstream tasks often weakens their previously aligned safety behavior, creating an inherent trade-off between task adaptation and safety preservation. Existing approaches attempt to mitigate this issue by i...
+arXiv:2610.26443v2 Announce Type: new Abstract: Fine-tuning large language models (LLMs) on downstream tasks often weakens their previously aligned safety behavior, creating an inherent trade-off between task adaptation and safety preservation. Existing approaches attempt to mitigate this issue by i...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26443)
 
@@ -3581,7 +3581,7 @@ arXiv:2610.26757v1 Announce Type: new Abstract: Reinforcement learning enables l
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CL  
 
-arXiv:2610.26770v1 Announce Type: new Abstract: Harness development plays a crucial role in building capable AI agents. Recent approaches improve harnesses through recursive self-improvement (RSI), but their performance gains often come with higher execution costs. We introduce HarnessPro, a label-f...
+arXiv:2610.26770v2 Announce Type: new Abstract: Harness development plays a crucial role in building capable AI agents. Recent approaches improve harnesses through recursive self-improvement (RSI), but their performance gains often come with higher execution costs. We introduce HarnessPro, a label-f...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26770)
 
@@ -3689,7 +3689,7 @@ arXiv:2610.26834v1 Announce Type: new Abstract: We propose KronLSTM, a linear at
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2610.26847v1 Announce Type: new Abstract: Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As a trajectory unfolds, different...
+arXiv:2610.26847v2 Announce Type: new Abstract: Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As a trajectory unfolds, different...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26847)
 
@@ -3701,7 +3701,7 @@ arXiv:2610.26847v1 Announce Type: new Abstract: Long-horizon agents must learn h
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.CV  
 
-arXiv:2610.26863v1 Announce Type: new Abstract: Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal auto...
+arXiv:2610.26863v2 Announce Type: new Abstract: Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal auto...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26863)
 
@@ -4265,7 +4265,7 @@ arXiv:2610.24343v1 Announce Type: cross Abstract: Training large language models
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.NI, cs.LG  
 
-arXiv:2610.24348v1 Announce Type: cross Abstract: LLMs are becoming an indispensable part of network control systems due to their impressive reasoning. Before such LLM-enabled systems can be deployed, it is imperative to develop tools that can audit their performance on previously unseen inputs. How...
+arXiv:2610.24348v2 Announce Type: cross Abstract: LLMs are becoming an indispensable part of network control systems due to their impressive reasoning. Before such LLM-enabled systems can be deployed, it is imperative to develop tools that can audit their performance on previously unseen inputs. How...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24348)
 
@@ -5789,7 +5789,7 @@ arXiv:2610.26351v1 Announce Type: cross Abstract: The continuous evolution of ne
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** stat.ML, cs.LG  
 
-arXiv:2610.26380v1 Announce Type: cross Abstract: This paper considers a decision-maker tasked with identifying the $k$ best items from a large pool of candidates, such as job applicants, LLMs, award nominees, or new product ideas. The decision-maker learns about the items' quality by soliciting hum...
+arXiv:2610.26380v2 Announce Type: cross Abstract: This paper considers a decision-maker tasked with identifying the $k$ best items from a large pool of candidates, such as job applicants, LLMs, award nominees, or new product ideas. The decision-maker learns about the items' quality by soliciting hum...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26380)
 
@@ -6065,7 +6065,7 @@ arXiv:2610.26797v1 Announce Type: cross Abstract: Candidate-scoring decision mod
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.LG  
 
-arXiv:2610.26825v1 Announce Type: cross Abstract: Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that int...
+arXiv:2610.26825v2 Announce Type: cross Abstract: Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that int...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26825)
 
@@ -6269,7 +6269,7 @@ arXiv:2502.11480v2 Announce Type: replace Abstract: Offline model-based reinforc
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, stat.ML  
 
-arXiv:2505.19183v3 Announce Type: replace Abstract: This book offers a hands-on introduction to building and understanding federated learning (FL) systems. FL enables multiple devices -- such as smartphones, sensors, or local computers -- to collaboratively train machine learning (ML) models, while ...
+arXiv:2505.19183v4 Announce Type: replace Abstract: This book offers a hands-on introduction to building and understanding federated learning (FL) systems. FL enables multiple devices -- such as smartphones, sensors, or local computers -- to collaboratively train machine learning (ML) models, while ...
 
 📖 [Read original article](https://arxiv.org/abs/2505.19183)
 
@@ -6677,7 +6677,7 @@ arXiv:2601.22456v2 Announce Type: replace Abstract: Machine Unlearning (MU) aims
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2601.22628v2 Announce Type: replace Abstract: Test-Time Training offers a promising way to improve the reasoning ability of large language models (LLMs) by adapting the model using only the test questions. However, existing methods struggle with difficult reasoning problems for two reasons: ra...
+arXiv:2601.22628v3 Announce Type: replace Abstract: Test-Time Training offers a promising way to improve the reasoning ability of large language models (LLMs) by adapting the model using only the test questions. However, existing methods struggle with difficult reasoning problems for two reasons: ra...
 
 📖 [Read original article](https://arxiv.org/abs/2601.22628)
 
@@ -7697,7 +7697,7 @@ arXiv:2609.15498v2 Announce Type: replace Abstract: Recurrent Transformers reusi
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.SE  
 
-arXiv:2609.19616v3 Announce Type: replace Abstract: Measuring complexity from a model's own code is biased by failure: a hard prompt can produce a short, broken program that looks simple. We instead score each prompt's structure on six dimensions from the prompt alone, never from generated code or t...
+arXiv:2609.19616v4 Announce Type: replace Abstract: Measuring complexity from a model's own code is biased by failure: a hard prompt can produce a short, broken program that looks simple. We instead score each prompt's structure on six dimensions from the prompt alone, never from generated code or t...
 
 📖 [Read original article](https://arxiv.org/abs/2609.19616)
 
@@ -8717,7 +8717,7 @@ arXiv:2603.05504v3 Announce Type: replace-cross Abstract: Scaling robot learning
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.LG  
 
-arXiv:2603.22908v4 Announce Type: replace-cross Abstract: Assuming that neither source data nor source model parameters are accessible, black-box domain adaptation (BBDA) represents a highly practical yet challenging setting, where transferable knowledge is limited to the predictions of a black-box ...
+arXiv:2603.22908v5 Announce Type: replace-cross Abstract: Assuming that neither source data nor source model parameters are accessible, black-box domain adaptation (BBDA) represents a highly practical yet challenging setting, where transferable knowledge is limited to the predictions of a black-box ...
 
 📖 [Read original article](https://arxiv.org/abs/2603.22908)
 
@@ -8993,7 +8993,7 @@ arXiv:2605.18170v2 Announce Type: replace-cross Abstract: Signal integrity (SI) 
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** q-bio.GN, cs.LG  
 
-arXiv:2605.18587v3 Announce Type: replace-cross Abstract: Single-cell trajectory inference from destructive time-course snapshots is fundamentally ill-posed: neither cross-time cell correspondences nor continuous trajectories are observed, so the snapshot distributions alone do not uniquely determin...
+arXiv:2605.18587v4 Announce Type: replace-cross Abstract: Single-cell trajectory inference from destructive time-course snapshots is fundamentally ill-posed: neither cross-time cell correspondences nor continuous trajectories are observed, so the snapshot distributions alone do not uniquely determin...
 
 📖 [Read original article](https://arxiv.org/abs/2605.18587)
 
@@ -9065,7 +9065,7 @@ arXiv:2606.14867v2 Announce Type: replace-cross Abstract: Proof autoformalizatio
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** math.OC, cs.AI, cs.LG, stat.ML  
 
-arXiv:2606.15555v2 Announce Type: replace-cross Abstract: In large language model (LLM) serving, each request accumulates persistent graphics processing unit (GPU) memory during service as its key-value cache grows with every generated token. Under high concurrency, aggregate memory usage therefore ...
+arXiv:2606.15555v3 Announce Type: replace-cross Abstract: In large language model (LLM) serving, each request accumulates persistent graphics processing unit (GPU) memory during service as its key-value cache grows with every generated token. Under high concurrency, aggregate memory usage therefore ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.15555)
 
@@ -9545,7 +9545,7 @@ arXiv:2610.01560v2 Announce Type: replace-cross Abstract: Model intelligence and
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** physics.ao-ph, cs.AI, cs.LG  
 
-arXiv:2610.03759v2 Announce Type: replace-cross Abstract: Ocean wave forecasting is essential for maritime safety, offshore operations, and coastal resilience, yet remains challenging due to systematic biases in physics-based models. Physical models, while widely used, rely on approximations and par...
+arXiv:2610.03759v3 Announce Type: replace-cross Abstract: Ocean wave forecasting is essential for maritime safety, offshore operations, and coastal resilience, yet remains challenging due to systematic biases in physics-based models. Physical models, while widely used, rely on approximations and par...
 
 📖 [Read original article](https://arxiv.org/abs/2610.03759)
 
@@ -9785,7 +9785,7 @@ arXiv:2610.22471v2 Announce Type: replace-cross Abstract: GPT-6-Astra demonstrat
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.LG  
 
-arXiv:2610.23271v2 Announce Type: replace-cross Abstract: Vision--Language--Action (VLA) models promise generalist robotic agents, yet consolidating skills learned across heterogeneous tasks and environments remains difficult: training data is fragmented across platforms, joint multi-task training s...
+arXiv:2610.23271v3 Announce Type: replace-cross Abstract: Vision-language-action (VLA) models can learn a wide range of robotic skills, but combining separately trained skills remains challenging. The original training data may be unavailable for joint retraining, while directly merging model weight...
 
 📖 [Read original article](https://arxiv.org/abs/2610.23271)
 
