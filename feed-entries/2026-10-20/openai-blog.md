@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-20"
 date: "2026-10-20"
 source: "OpenAI Blog"
-count: 2
+count: 3
 ---
 
 # OpenAI Blog - 2026-10-20
 
-2 items collected.
+3 items collected.
 
 ---
 
@@ -23,7 +23,19 @@ An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by
 
 ---
 
-## 2. OpenAI acquires Orchestra Bio
+## 2. Terminal X matches senior investor judgment 88.6% with GPT-6.1
+
+**Author:** -  
+**Published:** 10/20/2026, 7:00:00 AM  
+**Categories:** Startup  
+
+Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.
+
+📖 [Read original article](https://openai.com/index/terminal-x)
+
+---
+
+## 3. OpenAI acquires Orchestra Bio
 
 **Author:** -  
 **Published:** 10/20/2026, 12:00:00 AM  
