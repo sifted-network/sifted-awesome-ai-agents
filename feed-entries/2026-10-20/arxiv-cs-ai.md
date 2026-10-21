@@ -161,7 +161,7 @@ arXiv:2610.24133v1 Announce Type: new Abstract: We ask how much an autoregressiv
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.24161v1 Announce Type: new Abstract: TorchTPU is an open-source collaboration between Google and Meta that introduces a native and principled PyTorch backend for Google TPUs. It enables seamless out-of-the-box model execution and TPU migration while delivering industry-competitive inferen...
+arXiv:2610.24161v2 Announce Type: new Abstract: TorchTPU is an open-source collaboration between Google and Meta that introduces a native and principled PyTorch backend for Google TPUs. It enables seamless out-of-the-box model execution and TPU migration while delivering industry-competitive inferen...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24161)
 
@@ -245,7 +245,7 @@ arXiv:2610.24255v1 Announce Type: new Abstract: A coding agent combines a large 
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.24264v1 Announce Type: new Abstract: As LLM-based agents are deployed with increasing autonomy in real-world environments, a critical failure mode emerges: agentic misalignment, where agents choose harmful actions over failure. However, existing safety benchmarks primarily evaluate whethe...
+arXiv:2610.24264v2 Announce Type: new Abstract: As LLM-based agents are deployed with increasing autonomy in real-world environments, a critical failure mode emerges: agentic misalignment, where agents choose harmful actions over failure. However, existing safety benchmarks primarily evaluate whethe...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24264)
 
@@ -577,11 +577,11 @@ arXiv:2610.24519v1 Announce Type: new Abstract: Recent research-level physics-re
 
 ## 48. HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory
 
-**Author:** Junming Zhang, Rubin Wei, Xu Cheng, Hao Sun, Ruoxi Cheng, Xiquan Wang, Peisong Wu, Mingsong Chen, Zhouhan Lin  
+**Author:** Junming Zhang, Rubin Wei, Xu Cheng, Hao Sun, Jiarui Wang, Ruoxi Cheng, Xiquan Wang, Peisong Wu, Mingsong Chen, Zhouhan Lin  
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.24520v1 Announce Type: new Abstract: In long-term interactions with large language model (LLM) agents, users reveal habits through their choices and actions. These habits capture implicit user information that agents must infer across conversations. However, individual observations may pr...
+arXiv:2610.24520v2 Announce Type: new Abstract: In long-term interactions with large language model (LLM) agents, users reveal habits through their choices and actions. These habits capture implicit user information that agents must infer across conversations. However, individual observations may pr...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24520)
 
@@ -641,7 +641,7 @@ arXiv:2610.24597v1 Announce Type: new Abstract: Large language models are increa
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.24611v1 Announce Type: new Abstract: Evaluating software agents on a full benchmark is expensive. A small task subset can preserve agent rankings while yielding inaccurate scores. Historical responses provide useful structure, but tasks with identical source responses can have different o...
+arXiv:2610.24611v2 Announce Type: new Abstract: Evaluating software agents on a full benchmark is expensive. A small task subset can preserve agent rankings while yielding inaccurate scores. Historical responses provide useful structure, but tasks with identical source responses can have different o...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24611)
 
@@ -1025,7 +1025,7 @@ arXiv:2610.24977v1 Announce Type: new Abstract: Large language models (LLMs) hav
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.RO  
 
-arXiv:2610.25043v1 Announce Type: new Abstract: Flow-matching vision-language-action (VLA) models generate an action chunk by iteratively denoising Gaussian noise, but typically execute only a short prefix before replanning with updated observations. Under this receding-horizon paradigm, the unexecu...
+arXiv:2610.25043v2 Announce Type: new Abstract: Flow-matching vision-language-action (VLA) models generate an action chunk by iteratively denoising Gaussian noise, but typically execute only a short prefix before replanning with updated observations. Under this receding-horizon paradigm, the unexecu...
 
 📖 [Read original article](https://arxiv.org/abs/2610.25043)
 
@@ -1253,7 +1253,7 @@ arXiv:2610.25474v1 Announce Type: new Abstract: Decision models answer typed que
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.25496v1 Announce Type: new Abstract: In many human-AI systems, candidate actions are not executed directly but are first evaluated by another decision-making entity under a potentially different objective or decision model. Standard decision-theoretic frameworks do not require this intera...
+arXiv:2610.25496v2 Announce Type: new Abstract: In many human-AI systems, candidate actions are not executed directly but are first evaluated by another decision-making entity under a potentially different objective or decision model. Standard decision-theoretic frameworks do not require this intera...
 
 📖 [Read original article](https://arxiv.org/abs/2610.25496)
 
@@ -2285,7 +2285,7 @@ arXiv:2610.26340v1 Announce Type: new Abstract: Earth observation satellites acq
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2610.26342v1 Announce Type: new Abstract: Recursive self-improvement (RSI) requires agents to diagnose system bottlenecks and coordinate improvements across training and inference. We refer to the agents' capability to jointly optimize training data, the trainer, and the inference harness as c...
+arXiv:2610.26342v2 Announce Type: new Abstract: Recursive self-improvement (RSI) requires agents to diagnose system bottlenecks and coordinate improvements across training and inference. We refer to the agents' capability to jointly optimize training data, the trainer, and the inference harness as c...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26342)
 
@@ -2549,7 +2549,7 @@ arXiv:2610.26632v1 Announce Type: new Abstract: Agent harnesses decide what a la
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.26636v1 Announce Type: new Abstract: Code generation models are increasingly used to produce interactive artifacts, such as websites and user interfaces. Many properties that determine whether these interfaces are useful only become apparent through realistic interaction, making them diff...
+arXiv:2610.26636v2 Announce Type: new Abstract: Code generation models are increasingly used to produce interactive artifacts, such as websites and user interfaces. Many properties that determine whether these interfaces are useful only become apparent through realistic interaction, making them diff...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26636)
 
@@ -2561,7 +2561,7 @@ arXiv:2610.26636v1 Announce Type: new Abstract: Code generation models are incre
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CL  
 
-arXiv:2610.26650v1 Announce Type: new Abstract: An LLM-generated repair action specifies which records to change and by how much. A failed action may still contain a useful target set or numerical update, depending on how the two are paired. We evaluate this problem in traffic networks and databases...
+arXiv:2610.26650v2 Announce Type: new Abstract: A repair action proposed by a large language model (LLM) specifies which records to change and how to change their values. A failed action may still contain a useful choice of records or a useful update, depending on how the two are paired. We introduc...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26650)
 
@@ -2603,7 +2603,7 @@ arXiv:2610.26664v1 Announce Type: new Abstract: AI agents deployed inside organi
 
 ---
 
-## 217. StebBench: Diagnosing Real-World Procedural Understanding in AI Agents
+## 217. StepBench: Diagnosing Real-World Procedural Understanding in AI Agents
 
 **Author:** Hossein A. Rahmani, Bin Wu, Chaeeun Lee, Fanghua Ye, Sahan Bulathwela, Sujay Kumar Jauhar, Marzieh Fadaee, Nick Craswell, Emine Yilmaz  
 **Published:** 10/20/2026, 4:00:00 AM  
@@ -3509,7 +3509,7 @@ arXiv:2610.24289v1 Announce Type: cross Abstract: Large language model (LLM) age
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.24306v1 Announce Type: cross Abstract: Location encoders learn compact representations of latitude--longitude coordinates for downstream geospatial prediction tasks. Existing approaches are pretrained using continuous or naturally occurring supervision, such as imagery, climate variables,...
+arXiv:2610.24306v2 Announce Type: cross Abstract: Location encoders learn compact representations of latitude--longitude coordinates for downstream geospatial prediction tasks. Existing approaches are pretrained using continuous or naturally occurring supervision, such as imagery, climate variables,...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24306)
 
@@ -3649,11 +3649,11 @@ arXiv:2610.24447v1 Announce Type: cross Abstract: Recent 3D Large Language Model
 
 ## 304. HumanSkill-4D: Training-Free Language Querying of Animatable Gaussian Avatars in Space and Time
 
-**Author:** unsu Kim, Naeun Kim, Dongyoon Han, Seungryul Baek  
+**Author:** Junsu Kim, Naeun Kim, Dongyoon Han, Seungryul Baek  
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2610.24452v1 Announce Type: cross Abstract: We introduce avatar referring segmentation, which selects regions of animatable Gaussian avatars from language queries. A query can also specify a pose or motion to select matching intervals. This lets users interact with avatars for local editing an...
+arXiv:2610.24452v2 Announce Type: cross Abstract: We introduce avatar referring segmentation, which selects regions of animatable Gaussian avatars from language queries. A query can also specify a pose or motion to select matching intervals. This lets users interact with avatars for local editing an...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24452)
 
@@ -3829,11 +3829,11 @@ arXiv:2610.24613v1 Announce Type: cross Abstract: One powerful way to safeguard 
 
 ## 319. Muse Glimmer 30B: An On-Device Agentic Model
 
-**Author:** Arash Ebrahim Abtahizadeh, Muna Aghamelu, Adil Ahmed, Juan C. Angeles Acuna, Alexis Audran-Reiss, Asaf Avrahamy, Yoram Bachrach, Can Balioglu, Amar Budhiraja, Onur \c{C}elebi, Gaurav Chaurasia, Joy Chen, Lynn Cherif, Lucia Cipolina-Kun, Gal Cohen, Timoth\'ee Darcet, Beto de Paola, Digant Desai, Sam Devlin, Derek Dunfield, Ivan Evtimov, Maryam Fazel-Zarandi, Rob Fergus, Jean-Christophe Gagnon-Audet, Grant Gardner, Bhavul Gauri, Paris Giampouras, Sujan Kumar Gonugondla, Antoine Grosnit, Young Han, Michael Hassid, Monuril Islam, Masoud Jalili Sabet, Songhao Jia, Narine Kokhlikyan, Svetlana Kurtsman, Sandra Lefdal, Chee Hau Leow, Noam Levi, Mike Lewis, Sanae Lotfi, Xiyang Luo, Despoina Magka, Saeed Mahloujifar, Neal Mangaokar, Ishita Mediratta, Alexander H. Miller, Hela Momand, Saba Nazir, Kelvin Niu, Mattia Opper, Parth Pathak, Alberto Pepe, Danielle Pintz, Mikhail Plekhanov, Sidhartha Reddy Potu, Anton Protopopov, Shengyi Qian, Shashank Rajput, Joseph Rocca, Scott Roy, Luca Sbordone, Amin Shakeri, Tatiana Shavrina, Michael Shvartsman, Ruan Silva, Anya Sims, Eric Michael Smith, Hugo Touvron, Mabel Ubong, Isabel Urrego, Yanzheng Xiang, Zhiyuan Yao, Alex Yarmula, He Ye, Jade Yu, Luke Zettlemoyer, Arman Zharmagambetov, Perpetua Fathima Ahlijah, Tremo Ahmed, Enrique Alfonseca, Pedram Bashiri, Nikolay Bashlykov, Aaron Berman, Rohith Bhatia, Siddharth Bhattacharya, Prashant Bhende, Chloe Bi, Shuchao Bi, Clement Anthonioz Blanc, Allen Bolourchi, Andrea Caciolai, Erica Cai, Xiang Tony Cao, Yue Cao, Andrew Caples, Jinzhao Chang, Lele Chen, Moya Chen, Weijie Chen, Wenhu Chen, Xiaobai Chen, Yinyin Chen, Zhengxing Chen, Wei Cheng, Pavel Chikulaev, Edward Chou, Sy Choudhury, Brian Clerkin, Marta R. Costa-juss\`a, Curtis Davis, Myra Deng, Dujian Ding, Hantian Ding, Shuangrui Ding, Jesse Dodge, Shweta Doshi, Shirin Eghtesadi, Faith Eischen, Athyu Eleti, Alex Fabbri, Han Fang, Paula Farani, Aiman Farooq, Christoph Feichtenhofer, Darius Feher, Amanda Felix, Carl Chengyan Fu, Sean Gahagan, Yifan Gao, Itai Gat, Akashdeep Goel, Ahuva Goldstand, Bo He, David Heineman, Dylan Herman, Irene Hjelt, Joonas Hjelt, Alexander Holz, Rui Hou, Annie Hu, Yuan-Ting Hu, Bernie Huang, Jing Huang, Kun Huang, Pere-Llu\'is Huguet Cabot, Ashley Hunter, Srinivasan Iyer, Somya Jain, Michael Jiang, Song Jiang, Wenwen Jiang, Lin Jin, Jacob Kahn, Melanie Kambadur, Yingxin Kang, Justine Kao, Stephane Kasriel, Hossein Kavianihamedani, Ameya Khandekar, Yash Khare, Gefen Kohavi, Kavya Kopparapu, Praveen Krishnan, Venu Kuchibhotla, Ananya Kumar, Leona Lan, Jack Lanchantin, Hunter Lang, Nikolay Pavlovich Laptev, Yuanzhi Li, Yunlu Li, Asad Liaqat, Johnson Lin, Runwei Lin, Zhichao Lin, Shaun Lindsay, Yaron Lipman, Frederick Liu, Mengchen Liu, Qiang Liu, Yinghai Lu, Yujie Lu, Christopher Luc, Faye Ma, Pingchuan Ma, Tengyu Ma, Wufei Ma, Xiaodong Ma, Damir Maksyutov, Josh Malone, Udeep Manchanda, Thomas Mann, Kalyani Marathe, Roberto-Rafael Maura-Rivero, Ruslan Mavlyutov, Thomas Mesnard, Julian Michael, Sagar Miglani, Todor Mihaylov, Naureen Mitha, Archi Mitra, Leo Mok, Naila Murray, Muthukumaravel Muthuraman, Mergen Nachin, Nese Demir Nalci, Saaketh Narayan, Alyssa Newcomb, Peter Ney, Joycelyn Ng, Devin Norder, Maxwell Nye, Rajvardhan Oak, Cody Ohlsen, Artidoro Pagnoni, Yi Pan, Nilesh Pandey, Guan Pang, Richard Yuanzhe Pang, Mahesh Pasupuleti, Parth Patel, Yash Patel, Vladan Petrovic, Norman Ponte, Yundi Qian, Zengyi Qin, Jack Rae, Emmanuel Ramirez, Ramya Raghavendra, Nikhila Ravi, Hongyu Ren, Riandy Riandy, Harrison Rudolph, Kalyan Saladi, Eduardo S\'anchez, Karthik Abinav Sankararaman, Aman Shankar, Paresh Shenoy, Alana Shine, Hamid Shojanazeri, Iva Simon-Bubalo, Mitesh Kumar Singh, Tiffany Siqi, Pawan Sisodiya, Ali Sol, Sten Sootla, Leslie St. Pierre, DiJia Su, Suraj Subramanian, Brian Sun, Tony Sun, Zhiqing Sun, Natacha Supper, Jason Talpalar, Ellen Xiaoqing Tan, Liang Tan, Jean-Christophe Testud, Parth Thakkar, Joseph Tighe, Ty Toledano, T Tse, Igor Tufanov, Alex Vaughan, Josh Walters, Alex Wang, Bethany Wang, Meng Wang, Rocky Wang, Weiyue Wang, Xiaolan Wang, Xin Wang, Zijian Wang, Bram Wasti, Quentin Wellens, Yeming Wen, Mary Williamson, Yuncheng Wu, Fei Xia, Tian Xie, David Xu, Jacob Xu, Puxin Xu, Zheng Xu, Shen Yan, Megan Yang, Yining Yang, Nick Yannopoulos, Kevin Yao, Michihiro Yasunaga, Haoxuan You, Michael You, Dingli Yu, Tianhe Yu, Summer Yue, Xiang Yue, Shuwei Zeng, Hanwen Zha, Chen Zhang, Hongming Zhang, Kaiyu Zhang, Meng Zhang, Mingyang Zhang, Yi Zhang, Shengjia Zhao, Chao Zhou, Claire Zhou, Shuyan Zhou, Yanjun Zhou, Yaxuan Zhou, Rosalie Zhu, Yun Zhu  
+**Author:** Arash Ebrahim Abtahizadeh, Muna Aghamelu, Adil Ahmed, Juan C. Angeles Acuna, Alexis Audran-Reiss, Asaf Avrahamy, Yoram Bachrach, Can Balioglu, Amar Budhiraja, Onur \c{C}elebi, Gaurav Chaurasia, Joy Chen, Lynn Cherif, Lucia Cipolina-Kun, Gal Cohen, Timoth\'ee Darcet, Beto de Paola, Digant Desai, Sam Devlin, Derek Dunfield, Ivan Evtimov, Maryam Fazel-Zarandi, Rob Fergus, Jean-Christophe Gagnon-Audet, Grant Gardner, Bhavul Gauri, Paris Giampouras, Sujan Kumar Gonugondla, Antoine Grosnit, Young Han, Michael Hassid, Monuril Islam, Masoud Jalili Sabet, Songhao Jia, Narine Kokhlikyan, Svetlana Kurtsman, Sandra Lefdal, Chee Hau Leow, Noam Levi, Mike Lewis, Sanae Lotfi, Xiyang Luo, Despoina Magka, Saeed Mahloujifar, Neal Mangaokar, Ishita Mediratta, Alexander H. Miller, Hela Momand, Saba Nazir, Kelvin Niu, Mattia Opper, Parth Pathak, Alberto Pepe, Danielle Pintz, Mikhail Plekhanov, Sidhartha Reddy Potu, Anton Protopopov, Shengyi Qian, Shashank Rajput, Joseph Rocca, Scott Roy, Luca Sbordone, Amin Shakeri, Tatiana Shavrina, Michael Shvartsman, Ruan Silva, Anya Sims, Eric Michael Smith, Hugo Touvron, Mabel Ubong, Isabel Urrego, Yanzheng Xiang, Zhiyuan Yao, Alex Yarmula, He Ye, Jade Yu, Luke Zettlemoyer, Arman Zharmagambetov, Perpetua Fathima Ahlijah, Tremo Ahmed, Enrique Alfonseca, Pedram Bashiri, Nikolay Bashlykov, Amine Benhalloum, Aaron Berman, Rohith Bhatia, Siddharth Bhattacharya, Prashant Bhende, Chloe Bi, Shuchao Bi, Clement Anthonioz Blanc, Allen Bolourchi, Iva Simon-Bubalo, Pere-Llu\'is Huguet Cabot, Andrea Caciolai, Erica Cai, Xiang Tony Cao, Yue Cao, Andrew Caples, Jinzhao Chang, Lele Chen, Moya Chen, Weijie Chen, Wenhu Chen, Xiaobai Chen, Yinyin Chen, Zhengxing Chen, Wei Cheng, Pavel Chikulaev, Edward Chou, Sy Choudhury, Brian Clerkin, Marta R. Costa-juss\`a, Hanjun Dai, Curtis Davis, Myra Deng, Tiffany Siqi Deng, Dujian Ding, Hantian Ding, Shuangrui Ding, Jesse Dodge, Carl Domond, Shweta Doshi, Shirin Eghtesadi, Faith Eischen, Athyu Eleti, Jordi Armengol-Estape, Alex Fabbri, Han Fang, Paula Farani, Aiman Farooq, Darius Feher, Christoph Feichtenhofer, Amanda Felix, Romain Froger, Carl Chengyan Fu, Sean Gahagan, Yifan Gao, Itai Gat, Jannes Gladrow, Akashdeep Goel, Ahuva Goldstand, Bo He, David Heineman, Dylan Herman, Irene Hjelt, Joonas Hjelt, Alexander Holz, Rui Hou, Annie Hu, Yuan-Ting Hu, Bernie Huang, Jing Huang, Kun Huang, Ashley Hunter, Srinivasan Iyer, Somya Jain, Bei Jia, Michael Jiang, Song Jiang, Wenwen Jiang, Lin Jin, Jacob Kahn, Melanie Kambadur, Yingxin Kang, Justine Kao, Stephane Kasriel, Hossein Kavianihamedani, Madian Khabsa, Ameya Khandekar, Yash Khare, Gefen Kohavi, Kavya Kopparapu, Praveen Krishnan, Venu Kuchibhotla, Ananya Kumar, Leona Lan, Jack Lanchantin, Hunter Lang, Nikolay Pavlovich Laptev, Yuanzhi Li, Yunlu Li, Asad Liaqat, Johnson Lin, Runwei Lin, Zhichao Lin, Shaun Lindsay, Yaron Lipman, Frederick Liu, Mengchen Liu, Qiang Liu, Yinghai Lu, Yujie Lu, Christopher Luc, Faye Ma, Pingchuan Ma, Tengyu Ma, Wufei Ma, Xiaodong Ma, Damir Maksyutov, Josh Malone, Udeep Manchanda, Thomas Mann, Kalyani Marathe, Akhil Mathur, Roberto-Rafael Maura-Rivero, Ruslan Mavlyutov, Thomas Mesnard, Gregoire Mialon, Julian Michael, Sagar Miglani, Todor Mihaylov, Naureen Mitha, Archi Mitra, Leo Mok, Naila Murray, Muthukumaravel Muthuraman, Mergen Nachin, Nese Demir Nalci, Saaketh Narayan, Alyssa Newcomb, Peter Ney, Joycelyn Ng, Devin Norder, Maxwell Nye, Rajvardhan Oak, Cody Ohlsen, Artidoro Pagnoni, Yi Pan, Nilesh Pandey, Guan Pang, Richard Yuanzhe Pang, Mahesh Pasupuleti, Parth Patel, Yash Patel, Vladan Petrovic, Leslie St. Pierre, Norman Ponte, Yundi Qian, Zengyi Qin, Jack Rae, Ramya Raghavendra, Emmanuel Ramirez, Nikhila Ravi, Hongyu Ren, Riandy Riandy, Harrison Rudolph, Kalyan Saladi, Eduardo S\'anchez, Karthik Abinav Sankararaman, Alan Schelten, Thomas Scialom, Aman Shankar, Paresh Shenoy, Alana Shine, Hamid Shojanazeri, Mitesh Kumar Singh, Pawan Sisodiya, Ali Sol, Sten Sootla, DiJia Su, Suraj Subramanian, Brian Sun, Tony Sun, Zhiqing Sun, Natacha Supper, Jason Talpalar, Ellen Xiaoqing Tan, Liang Tan, Bu\u{g}ra Tekin, Jean-Christophe Testud, Parth Thakkar, Joseph Tighe, Ty Toledano, T Tse, Igor Tufanov, Alex Vaughan, Josh Walters, Alex Wang, Bethany Wang, Meng Wang, Rocky Wang, Weiyue Wang, Xiaolan Wang, Xin Wang, Zijian Wang, Bram Wasti, Quentin Wellens, Yeming Wen, Mary Williamson, Yuncheng Wu, Fei Xia, Tian Xie, Anlu Xing, David Xu, Jacob Xu, Puxin Xu, Zheng Xu, Shen Yan, Megan Yang, Yining Yang, Nick Yannopoulos, Kevin Yao, Michihiro Yasunaga, Haoxuan You, Michael You, Dingli Yu, Tianhe Yu, Yue Yu, Summer Yue, Xiang Yue, Shuwei Zeng, Hanwen Zha, Chen Zhang, Fred Zhang, Hongming Zhang, Kaiyu Zhang, Meng Zhang, Mingyang Zhang, Yi Zhang, Shengjia Zhao, Chao Zhou, Claire Zhou, Shuyan Zhou, Yanjun Zhou, Yaxuan Zhou, Jiacheng Zhu, Rosalie Zhu, Yun Zhu  
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2610.24628v1 Announce Type: cross Abstract: We introduce Muse Glimmer, an open-source 30B parameter causal language model with perception encoder, purpose-built for autonomous agentic tasks on consumer hardware. Muse Glimmer integrates multi-step reasoning, reliable tool use and failure recove...
+arXiv:2610.24628v2 Announce Type: cross Abstract: We introduce Muse Glimmer, an open-source 30B parameter causal language model with perception encoder, purpose-built for autonomous agentic tasks on consumer hardware. Muse Glimmer integrates multi-step reasoning, reliable tool use and failure recove...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24628)
 
@@ -4061,7 +4061,7 @@ arXiv:2610.24917v1 Announce Type: cross Abstract: Large Language Models (LLMs) h
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.CL, cs.GR  
 
-arXiv:2610.24926v1 Announce Type: cross Abstract: We present Stable Signer V3, an interactive high-resolution sign language avatar system built on 4D Deformable Primitive Splatting. It addresses three limitations of existing avatars: restricted facial expression, inaccurate identity-specific body de...
+arXiv:2610.24926v2 Announce Type: cross Abstract: We present Stable Signer V3, an interactive high-resolution sign language avatar system built on 4D Deformable Primitive Splatting. It addresses three limitations of existing avatars: restricted facial expression, inaccurate identity-specific body de...
 
 📖 [Read original article](https://arxiv.org/abs/2610.24926)
 
@@ -4685,7 +4685,7 @@ arXiv:2610.25463v1 Announce Type: cross Abstract: How well can transformer-based
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2610.25481v1 Announce Type: cross Abstract: Spatiotemporal forecasting of 3D anatomical changes is a critical generative vision challenge for modeling Alzheimer's Disease (AD) progression. While brain MRI forecasting from single-modality data has advanced, other key complementary multimodal bi...
+arXiv:2610.25481v2 Announce Type: cross Abstract: Spatiotemporal forecasting of 3D anatomical changes is a critical generative vision challenge for modeling Alzheimer's Disease (AD) progression. While brain MRI forecasting from single-modality data has advanced, other key complementary multimodal bi...
 
 📖 [Read original article](https://arxiv.org/abs/2610.25481)
 
@@ -5141,7 +5141,7 @@ arXiv:2610.25892v1 Announce Type: cross Abstract: Large self-supervised speech m
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.CR, cs.AI  
 
-arXiv:2610.25916v1 Announce Type: cross Abstract: As coding models and agent harnesses become more capable, reliable security verification is becoming a central bottleneck. Improving secure code generation requires a signal whose reported progress remains aligned with actual program behavior under o...
+arXiv:2610.25916v2 Announce Type: cross Abstract: As coding models and agent harnesses become more capable, reliable security verification is becoming a central bottleneck. Improving secure code generation requires a signal whose reported progress remains aligned with actual program behavior under o...
 
 📖 [Read original article](https://arxiv.org/abs/2610.25916)
 
@@ -5189,7 +5189,7 @@ arXiv:2610.25933v1 Announce Type: cross Abstract: Offline compaction of the key-
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2610.25946v1 Announce Type: cross Abstract: Developing coordination policies for complex multi-agent systems relies on either labor-intensive algorithm design or opaque task-specific reinforcement learning. With recent advances in autonomous coding agents, we show that policy search directly i...
+arXiv:2610.25946v2 Announce Type: cross Abstract: Developing coordination policies for complex multi-agent systems relies on either labor-intensive algorithm design or opaque task-specific reinforcement learning. With recent advances in autonomous coding agents, we show that policy search directly i...
 
 📖 [Read original article](https://arxiv.org/abs/2610.25946)
 
@@ -5315,13 +5315,13 @@ arXiv:2610.26024v1 Announce Type: cross Abstract: Recommender systems often suff
 
 ---
 
-## 443. TamedFlow: Trajectory-Aware Distillation\\\\for Teacher-Assisted Diffusion Sampling
+## 443. TamedFlow: Trajectory-Aware Distillation for Teacher-Assisted Diffusion Sampling
 
-**Author:** Shuaiqi Cheng, Jiahao Zhang, Boyuan Gu, Siyu You, Yuxi Chen, Haiying Xu, Zexin Lu, Huiyu Zhou, Xuming Hu  
+**Author:** Shuaiqi Cheng, Jiahao Zhang, Boyuan Gu, Yuxi Chen, Haiying Xu, Zexin Lu, Huiyu Zhou, Xuming Hu  
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2610.26025v1 Announce Type: cross Abstract: Diffusion Transformers (DiTs) deliver high-fidelity image and video generation, but inference requires many sequential model evaluations. Two acceleration strategies are increasingly important: model compression makes each evaluation cheaper, while a...
+arXiv:2610.26025v2 Announce Type: cross Abstract: Diffusion Transformers (DiTs) deliver high-fidelity image and video generation, but inference requires many sequential model evaluations. Two acceleration strategies are increasingly important: model compression makes each evaluation cheaper, while a...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26025)
 
@@ -5521,11 +5521,11 @@ arXiv:2610.26438v1 Announce Type: cross Abstract: Large language model (LLM) age
 
 ## 460. Rethinking LLM Fine-Tuning via Weight Space Reparameterization: Preserving Safety during Downstream Adaptation
 
-**Author:** Minseong Kim, Jongbok Won, Jeesup Park, Yonghee Choi, Dongjun Han  
+**Author:** Min-Seong Kim, Jongbok Won, Jeesup Park, Yonghee Choi, Dong-Jun Han  
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.26443v1 Announce Type: cross Abstract: Fine-tuning large language models (LLMs) on downstream tasks often weakens their previously aligned safety behavior, creating an inherent trade-off between task adaptation and safety preservation. Existing approaches attempt to mitigate this issue by...
+arXiv:2610.26443v2 Announce Type: cross Abstract: Fine-tuning large language models (LLMs) on downstream tasks often weakens their previously aligned safety behavior, creating an inherent trade-off between task adaptation and safety preservation. Existing approaches attempt to mitigate this issue by...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26443)
 
@@ -5789,7 +5789,7 @@ arXiv:2610.26840v1 Announce Type: cross Abstract: Systems that combine several l
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2610.26847v1 Announce Type: cross Abstract: Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As a trajectory unfolds, differe...
+arXiv:2610.26847v2 Announce Type: cross Abstract: Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As a trajectory unfolds, differe...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26847)
 
@@ -6569,7 +6569,7 @@ arXiv:2609.08729v2 Announce Type: replace Abstract: The transition from single-c
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.NE  
 
-arXiv:2609.09306v2 Announce Type: replace Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions (Jacobians) shapes the structure of phenomenal experience. Two measures of Jacobian structure are introduced: transparency, the effective rank, which cou...
+arXiv:2609.09306v3 Announce Type: replace Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions (Jacobians) shapes the structure of phenomenal experience. Two measures of Jacobian structure are introduced: transparency, the effective rank, which cou...
 
 📖 [Read original article](https://arxiv.org/abs/2609.09306)
 
@@ -6953,7 +6953,7 @@ arXiv:2610.13521v2 Announce Type: replace Abstract: Multi-teacher on-policy dist
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.MA  
 
-arXiv:2610.14539v2 Announce Type: replace Abstract: Real-world business requests often leave key requirements unstated because frontline practitioners struggle to articulate rules they know from experience. Forward-deployed engineers (FDEs) must elicit these requirements through dialogue and iterati...
+arXiv:2610.14539v3 Announce Type: replace Abstract: Real-world business requests often leave key requirements unstated because frontline practitioners struggle to articulate rules they know from experience. Forward-deployed engineers (FDEs) must elicit these requirements through dialogue and iterati...
 
 📖 [Read original article](https://arxiv.org/abs/2610.14539)
 
@@ -7661,7 +7661,7 @@ arXiv:2601.22456v2 Announce Type: replace-cross Abstract: Machine Unlearning (MU
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI, cs.CL  
 
-arXiv:2601.22628v2 Announce Type: replace-cross Abstract: Test-Time Training offers a promising way to improve the reasoning ability of large language models (LLMs) by adapting the model using only the test questions. However, existing methods struggle with difficult reasoning problems for two reaso...
+arXiv:2601.22628v3 Announce Type: replace-cross Abstract: Test-Time Training offers a promising way to improve the reasoning ability of large language models (LLMs) by adapting the model using only the test questions. However, existing methods struggle with difficult reasoning problems for two reaso...
 
 📖 [Read original article](https://arxiv.org/abs/2601.22628)
 
@@ -8561,7 +8561,7 @@ arXiv:2606.14867v2 Announce Type: replace-cross Abstract: Proof autoformalizatio
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** math.OC, cs.AI, cs.LG, stat.ML  
 
-arXiv:2606.15555v2 Announce Type: replace-cross Abstract: In large language model (LLM) serving, each request accumulates persistent graphics processing unit (GPU) memory during service as its key-value cache grows with every generated token. Under high concurrency, aggregate memory usage therefore ...
+arXiv:2606.15555v3 Announce Type: replace-cross Abstract: In large language model (LLM) serving, each request accumulates persistent graphics processing unit (GPU) memory during service as its key-value cache grows with every generated token. Under high concurrency, aggregate memory usage therefore ...
 
 📖 [Read original article](https://arxiv.org/abs/2606.15555)
 
@@ -9197,7 +9197,7 @@ arXiv:2610.02967v2 Announce Type: replace-cross Abstract: Recent text-to-image g
 **Published:** 10/20/2026, 4:00:00 AM  
 **Categories:** physics.ao-ph, cs.AI, cs.LG  
 
-arXiv:2610.03759v2 Announce Type: replace-cross Abstract: Ocean wave forecasting is essential for maritime safety, offshore operations, and coastal resilience, yet remains challenging due to systematic biases in physics-based models. Physical models, while widely used, rely on approximations and par...
+arXiv:2610.03759v3 Announce Type: replace-cross Abstract: Ocean wave forecasting is essential for maritime safety, offshore operations, and coastal resilience, yet remains challenging due to systematic biases in physics-based models. Physical models, while widely used, rely on approximations and par...
 
 📖 [Read original article](https://arxiv.org/abs/2610.03759)
 
