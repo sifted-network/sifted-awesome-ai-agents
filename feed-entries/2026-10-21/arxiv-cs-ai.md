@@ -413,7 +413,7 @@ arXiv:2610.27305v1 Announce Type: new Abstract: Industrial artificial intelligen
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.27307v1 Announce Type: new Abstract: For AI assistants to move beyond simple chat interfaces and reliably assist users with applications like Gmail, Venmo, and Slack, we need to improve their tool-use capabilities. However, existing tool use benchmarks are still limited and difficult to s...
+arXiv:2610.27307v2 Announce Type: new Abstract: For AI assistants to move beyond simple chat interfaces and reliably assist users with applications like Gmail, Venmo, and Slack, we need to improve their tool-use capabilities. However, existing tool use benchmarks are still limited and difficult to s...
 
 📖 [Read original article](https://arxiv.org/abs/2610.27307)
 
@@ -665,7 +665,7 @@ arXiv:2610.27531v1 Announce Type: new Abstract: Agentic system design is increas
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.CR, cs.HC  
 
-arXiv:2610.27548v1 Announce Type: new Abstract: When an LLM agent acts on behalf of a user, it is expected to act within the authorization scope the user grants. Existing agent evaluations largely measure task completion or harmful consequences and can therefore overlook actions that violate this de...
+arXiv:2610.27548v2 Announce Type: new Abstract: When an LLM agent acts on behalf of a user, it is expected to act within the authorization scope the user grants. Existing agent evaluations largely measure task completion or harmful consequences and can therefore overlook actions that violate this de...
 
 📖 [Read original article](https://arxiv.org/abs/2610.27548)
 
@@ -1073,7 +1073,7 @@ arXiv:2610.27860v1 Announce Type: new Abstract: Cavitation diagnosis in industri
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.NA, math.NA  
 
-arXiv:2610.27888v1 Announce Type: new Abstract: Approximate solutions of partial differential equations (PDEs) on unstructured grids can be represented on a graph. Numerical optimization involving stiff evolutionary and static PDEs often requires solving a large system of equations, which can be tre...
+arXiv:2610.27888v2 Announce Type: new Abstract: Approximate solutions of partial differential equations (PDEs) on unstructured grids can be represented on a graph. Numerical optimization involving stiff evolutionary and static PDEs often requires solving a large system of equations, which can be tre...
 
 📖 [Read original article](https://arxiv.org/abs/2610.27888)
 
@@ -1789,11 +1789,11 @@ arXiv:2610.26938v1 Announce Type: cross Abstract: Retrieval-Augmented Generation
 
 ## 149. Beyond Policy Discrepancy: Capability-Aware Multi-Teacher On-Policy Distillation
 
-**Author:** Xuanfeng Yang, Le Gui, Jiaming Wang, Xuan Zhang  
+**Author:** Xuanfeng Yang, Le Gai, Jiaming Wang, Xuan Zhang  
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.26950v1 Announce Type: cross Abstract: Multi-teacher on-policy distillation (MOPD) integrates domain specialists into a shared student, but determining how strongly each teacher should supervise remains challenging. Existing discrepancy-based allocation can assign strong supervision even ...
+arXiv:2610.26950v2 Announce Type: cross Abstract: Multi-teacher on-policy distillation (MOPD) integrates domain specialists into a shared student, but determining how strongly each teacher should supervise remains challenging. Existing discrepancy-based allocation can assign strong supervision even ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26950)
 
@@ -2177,7 +2177,7 @@ arXiv:2610.27257v1 Announce Type: cross Abstract: Large language models can dete
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cs.LO, cs.AI  
 
-arXiv:2610.27264v1 Announce Type: cross Abstract: This paper is an exposition of the theorem prover Arend developed at JetBrains Research. Arend language has been designed to facilitate the formalization of mathematics within the framework of univalent foundations and with the focus on constructive ...
+arXiv:2610.27264v2 Announce Type: cross Abstract: This paper is an exposition of the theorem prover Arend developed at JetBrains Research. Arend language has been designed to facilitate the formalization of mathematics within the framework of univalent foundations and with the focus on constructive ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.27264)
 
@@ -2861,7 +2861,7 @@ arXiv:2610.27745v1 Announce Type: cross Abstract: Large language models (LLMs) a
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cs.MA, cs.AI  
 
-arXiv:2610.27746v1 Announce Type: cross Abstract: Simulating economic responses at society scale requires agents whose decisions reflect household circumstances and the effects of earlier actions. We introduce S$^2$-MAS, a society-scale multi-agent simulation framework built on 500 million synthetic...
+arXiv:2610.27746v2 Announce Type: cross Abstract: Simulating economic responses at society scale requires agents whose decisions reflect household circumstances and the effects of earlier actions. We introduce S$^2$-MAS, a society-scale multi-agent simulation framework built on 500 million synthetic...
 
 📖 [Read original article](https://arxiv.org/abs/2610.27746)
 
@@ -3449,7 +3449,7 @@ arXiv:2610.28350v1 Announce Type: cross Abstract: Realistic few-shot adaptation 
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2610.28351v1 Announce Type: cross Abstract: Reconstructing dynamic 3D scenes from monocular video requires inferring motion from noisy and intermittently visible observations. Long-range tracks provide valuable geometric constraints, but integrating their fragmented temporal coverage into shar...
+arXiv:2610.28351v2 Announce Type: cross Abstract: Reconstructing dynamic 3D scenes from monocular video requires inferring motion from noisy and intermittently visible observations. Long-range tracks provide valuable geometric constraints, but integrating their fragmented temporal coverage into shar...
 
 📖 [Read original article](https://arxiv.org/abs/2610.28351)
 
@@ -3461,7 +3461,7 @@ arXiv:2610.28351v1 Announce Type: cross Abstract: Reconstructing dynamic 3D scen
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI, cs.LG  
 
-arXiv:2610.28356v1 Announce Type: cross Abstract: Object counting in videos remains a poorly characterized capability of multimodal large language models. Counting questions are included in many existing VideoQA benchmarks, but the ground-truth count distributions in these benchmarks are heavily ske...
+arXiv:2610.28356v2 Announce Type: cross Abstract: Object counting in videos remains a poorly characterized capability of multimodal large language models. Counting questions are included in many existing VideoQA benchmarks, but the ground-truth count distributions in these benchmarks are heavily ske...
 
 📖 [Read original article](https://arxiv.org/abs/2610.28356)
 
@@ -4385,7 +4385,7 @@ arXiv:2610.14958v2 Announce Type: replace Abstract: Activation steering has rece
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.16975v2 Announce Type: replace Abstract: Drug discovery remains a resource-intensive and time-consuming process, involving billions of dollars and a decade of development to advance a drug to market. While many in silico tools have accelerated this process, operating them still demands su...
+arXiv:2610.16975v3 Announce Type: replace Abstract: Drug discovery remains a resource-intensive and time-consuming process, involving billions of dollars and a decade of development to advance a drug to market. While many in silico tools have accelerated this process, operating them still demands su...
 
 📖 [Read original article](https://arxiv.org/abs/2610.16975)
 
@@ -4517,7 +4517,7 @@ arXiv:2610.24611v2 Announce Type: replace Abstract: Evaluating software agents o
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.RO  
 
-arXiv:2610.25043v2 Announce Type: replace Abstract: Flow-matching vision-language-action (VLA) models generate an action chunk by iteratively denoising Gaussian noise, but typically execute only a short prefix before replanning with updated observations. Under this receding-horizon paradigm, the une...
+arXiv:2610.25043v3 Announce Type: replace Abstract: Flow-matching vision-language-action (VLA) models generate an action chunk by iteratively denoising Gaussian noise, but typically execute only a short prefix before replanning with updated observations. Under this receding-horizon paradigm, the une...
 
 📖 [Read original article](https://arxiv.org/abs/2610.25043)
 
@@ -4835,13 +4835,13 @@ arXiv:2601.22628v3 Announce Type: replace-cross Abstract: Test-Time Training off
 
 ---
 
-## 403. Graph-Theoretic Analysis of Phase Optimization Complexity in Variational Wave Functions for Heisenberg Antiferromagnets
+## 403. Graph-Theoretic Formulation of Hamiltonian and Ground-State Sign Structures in Heisenberg Antiferromagnets
 
-**Author:** Mahmud Ashraf Shamim, Md Moshiur Rahman Raj, Mohamed Hibat-Allah, Paulo T Araujo  
+**Author:** Mahmud Ashraf Shamim, Md Moshiur Rahman Raj, Mohamed Hibat-Allah, Ruy Fabila-Monroy, Nobuchika Okada, Paulo T. Araujo  
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cond-mat.str-el, cond-mat.dis-nn, cs.AI, cs.CC, quant-ph  
 
-arXiv:2602.04943v4 Announce Type: replace-cross Abstract: We study the computational complexity of learning the ground state phase structure of Heisenberg antiferromagnets. Representing Hilbert space as a weighted graph, the variational energy defines a weighted XY model that, for $\mathbb{Z}_2$ pha...
+arXiv:2602.04943v5 Announce Type: replace-cross Abstract: We study Heisenberg antiferromagnets through a graph-theoretic representation of their Hamiltonians. In the computational basis of a fixed-magnetization sector, the Heisenberg Hamiltonian equals a constant minus the weighted Laplacian of a gr...
 
 📖 [Read original article](https://arxiv.org/abs/2602.04943)
 
@@ -5441,7 +5441,7 @@ arXiv:2610.11376v2 Announce Type: replace-cross Abstract: Latent LiDAR pipelines
 **Published:** 10/21/2026, 4:00:00 AM  
 **Categories:** cs.IR, cs.AI  
 
-arXiv:2610.16979v2 Announce Type: replace-cross Abstract: Generative retrieval (GR) offers a promising paradigm for industrial search by unifying candidate generation within an autoregressive framework. However, effectively leveraging user behaviors in industrial GR remains challenging: existing SID...
+arXiv:2610.16979v3 Announce Type: replace-cross Abstract: Generative retrieval (GR) offers a promising paradigm for industrial search by unifying candidate generation within an autoregressive framework. However, effectively leveraging user behaviors in industrial GR remains challenging: existing SID...
 
 📖 [Read original article](https://arxiv.org/abs/2610.16979)
 
