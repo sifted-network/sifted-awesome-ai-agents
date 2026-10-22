@@ -2,16 +2,28 @@
 title: "OpenAI Blog - 2026-10-21"
 date: "2026-10-21"
 source: "OpenAI Blog"
-count: 7
+count: 9
 ---
 
 # OpenAI Blog - 2026-10-21
 
-7 items collected.
+9 items collected.
 
 ---
 
-## 1. How AT&T is rethinking in-house legal work with OpenAI
+## 1. Broad access through consistent standards
+
+**Author:** -  
+**Published:** 10/21/2026, 9:00:00 PM  
+**Categories:** Safety  
+
+How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.
+
+📖 [Read original article](https://openai.com/index/broad-access-through-consistent-standards)
+
+---
+
+## 2. How AT&T is rethinking in-house legal work with OpenAI
 
 **Author:** -  
 **Published:** 10/21/2026, 5:00:00 PM  
@@ -23,7 +35,7 @@ AT&T is working with OpenAI to make legal knowledge easier to access. Learn how 
 
 ---
 
-## 2. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
+## 3. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
 
 **Author:** -  
 **Published:** 10/21/2026, 1:00:00 PM  
@@ -35,7 +47,7 @@ From local businesses to global brands, more advertisers can now reach people as
 
 ---
 
-## 3. OpenAI models are coming to Google Cloud
+## 4. OpenAI models are coming to Google Cloud
 
 **Author:** -  
 **Published:** 10/21/2026, 12:00:00 PM  
@@ -47,7 +59,7 @@ OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemi
 
 ---
 
-## 4. Patch the Planet: global response coordination as agents uncover critical vulnerabilities
+## 5. Patch the Planet: global response coordination as agents uncover critical vulnerabilities
 
 **Author:** -  
 **Published:** 10/21/2026, 7:00:00 AM  
@@ -59,7 +71,7 @@ Patch the Planet connects security researchers, maintainers, and incident respon
 
 ---
 
-## 5. How we built ChatGPT’s novel ad stack for user trust and relevance
+## 6. How we built ChatGPT’s novel ad stack for user trust and relevance
 
 **Author:** -  
 **Published:** 10/21/2026, 7:00:00 AM  
@@ -71,7 +83,7 @@ Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversati
 
 ---
 
-## 6. Using thousands of AI agents to uncover new leads in biological data
+## 7. Using thousands of AI agents to uncover new leads in biological data
 
 **Author:** -  
 **Published:** 10/21/2026, 4:50:00 AM  
@@ -83,7 +95,19 @@ See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to un
 
 ---
 
-## 7. Democratic governance of frontier AI, part II: Empowering cyber defenders
+## 8. Cloudflare links vulnerability discovery to defense with OpenAI
+
+**Author:** -  
+**Published:** 10/21/2026, 12:00:00 AM  
+**Categories:** -  
+
+Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.
+
+📖 [Read original article](https://openai.com/index/cloudflare-cyber)
+
+---
+
+## 9. Democratic governance of frontier AI, part II: Empowering cyber defenders
 
 **Author:** -  
 **Published:** 10/21/2026, 12:00:00 AM  
