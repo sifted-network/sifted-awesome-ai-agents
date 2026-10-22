@@ -2,16 +2,28 @@
 title: "OpenAI Blog - 2026-10-22"
 date: "2026-10-22"
 source: "OpenAI Blog"
-count: 2
+count: 3
 ---
 
 # OpenAI Blog - 2026-10-22
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. What FDE means at OpenAI
+## 1. Build more responsive apps with the Decisions API
+
+**Author:** -  
+**Published:** 10/22/2026, 7:00:00 PM  
+**Categories:** Product  
+
+Fast, focused, low-cost decisions for any application.
+
+📖 [Read original article](https://openai.com/index/decisions-api)
+
+---
+
+## 2. What FDE means at OpenAI
 
 **Author:** -  
 **Published:** 10/22/2026, 6:00:00 AM  
@@ -23,7 +35,7 @@ What forward deployed engineering means at OpenAI
 
 ---
 
-## 2. Uber brings ChatGPT Work to all employees with OpenAI
+## 3. Uber brings ChatGPT Work to all employees with OpenAI
 
 **Author:** -  
 **Published:** 10/22/2026, 12:00:00 AM  
