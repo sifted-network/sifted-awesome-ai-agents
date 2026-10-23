@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Run AI prompts in any app from your menubar
+## 1. AI Safety Is Mostly a Sex Cult in Berkeley, California
 
-**Author:** martin_rariga  
-**Published:** 10/23/2026, 10:52:01 AM  
+**Author:** SLHamlet  
+**Published:** 10/23/2026, 4:31:52 PM  
 **Categories:** -  
 
-Article URL: https://www.snippetbar.com Comments URL: https://news.ycombinator.com/item?id=50206992 Points: 1 # Comments: 0
+Article URL: https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california Comments URL: https://news.ycombinator.com/item?id=50211618 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.snippetbar.com)
+📖 [Read original article](https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california)
 
 ---
 
-## 2. Show HN: Best otaku AI to chat about Anime with
+## 2. Teams of AI agents that don't loop: handoff maps, three modes, hard budgets
 
-**Author:** anitroves  
-**Published:** 10/23/2026, 10:36:24 AM  
+**Author:** dannickstark  
+**Published:** 10/23/2026, 4:30:04 PM  
 **Categories:** -  
 
-Article URL: https://otaku.animearray.site/ Comments URL: https://news.ycombinator.com/item?id=50206876 Points: 3 # Comments: 2
+Article URL: https://awflow.io/blog/ai-agent-teams-that-dont-loop Comments URL: https://news.ycombinator.com/item?id=50211593 Points: 1 # Comments: 0
 
-📖 [Read original article](https://otaku.animearray.site/)
+📖 [Read original article](https://awflow.io/blog/ai-agent-teams-that-dont-loop)
 
 ---
 
-## 3. How Generative AI Is Scaling Transnational Repression
+## 3. Open Source Mobile-Use MCP and AI Agent
 
-**Author:** pluc  
-**Published:** 10/23/2026, 10:15:11 AM  
+**Author:** 3amar404  
+**Published:** 10/23/2026, 4:26:39 PM  
 **Categories:** -  
 
-Article URL: https://www.justsecurity.org/159245/how-generative-ai-scaling-transnational-repression/ Comments URL: https://news.ycombinator.com/item?id=50206724 Points: 6 # Comments: 0
+Article URL: https://github.com/ghorbelhamdi/buddy-android Comments URL: https://news.ycombinator.com/item?id=50211548 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.justsecurity.org/159245/how-generative-ai-scaling-transnational-repression/)
+📖 [Read original article](https://github.com/ghorbelhamdi/buddy-android)
 
 ---
 
-## 4. AI Is Changing Everything About Hacking. No One Knows What Happens Next
+## 4. Drowning in slop. Can the state survive the rise of AI?
 
-**Author:** _tk_  
-**Published:** 10/23/2026, 10:10:44 AM  
+**Author:** jruohonen  
+**Published:** 10/23/2026, 4:22:03 PM  
 **Categories:** -  
 
-Article URL: https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/ Comments URL: https://news.ycombinator.com/item?id=50206691 Points: 1 # Comments: 0
+Article URL: https://thelivinglib.org/drowning-in-slop-can-the-state-survive-the-rise-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50211477 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/)
+📖 [Read original article](https://thelivinglib.org/drowning-in-slop-can-the-state-survive-the-rise-of-ai/)
 
 ---
 
-## 5. AI and its main promoters are not enterprise-ready, says Gartner
+## 5. Show HN: Koala – Run AI Agents in Isolated Linux VMs on macOS
 
-**Author:** donk8r  
-**Published:** 10/23/2026, 10:05:51 AM  
+**Author:** kunalkushwaha  
+**Published:** 10/23/2026, 4:18:31 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074 Comments URL: https://news.ycombinator.com/item?id=50206663 Points: 3 # Comments: 1
+Article URL: https://kunalkushwaha.github.io/homebrew-koala/ Comments URL: https://news.ycombinator.com/item?id=50211429 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074)
+📖 [Read original article](https://kunalkushwaha.github.io/homebrew-koala/)
 
 ---
 
-## 6. How to do ambitious things with AI (parent friendly)
+## 6. AI: A Threat or a Mirror of Our Own Mistakes?
 
-**Author:** dhruvagoyal  
-**Published:** 10/23/2026, 10:01:28 AM  
+**Author:** kate8382  
+**Published:** 10/23/2026, 4:15:57 PM  
 **Categories:** -  
 
-Article URL: https://dhruvagoyal.com/blog/how-to-do-ambitious-things-with-ai-parent-friendly/ Comments URL: https://news.ycombinator.com/item?id=50206641 Points: 2 # Comments: 2
+Article URL: https://medium.com/@kate8382/ai-a-threat-or-a-mirror-of-our-own-mistakes-ebfa19e3fd65 Comments URL: https://news.ycombinator.com/item?id=50211384 Points: 1 # Comments: 0
 
-📖 [Read original article](https://dhruvagoyal.com/blog/how-to-do-ambitious-things-with-ai-parent-friendly/)
+📖 [Read original article](https://medium.com/@kate8382/ai-a-threat-or-a-mirror-of-our-own-mistakes-ebfa19e3fd65)
 
 ---
 
-## 7. Would you let an AI agent fix things on your servers?
+## 7. We gave an AI $100k to trade on leverage. Here's what it did
 
-**Author:** dyablohunter  
-**Published:** 10/23/2026, 9:54:29 AM  
+**Author:** bsv_gtd  
+**Published:** 10/23/2026, 3:59:36 PM  
 **Categories:** -  
 
-Article URL: https://github.com/dyablohunter/warden Comments URL: https://news.ycombinator.com/item?id=50206583 Points: 1 # Comments: 1
+Article URL: https://twitter.com/DeployFinance/status/2113642187074195945 Comments URL: https://news.ycombinator.com/item?id=50211142 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/dyablohunter/warden)
+📖 [Read original article](https://twitter.com/DeployFinance/status/2113642187074195945)
 
 ---
 
-## 8. Could Treating AI as Conscious Make It More Dangerous?
+## 8. Ask HN: How do you get AI loops to converge?
 
-**Author:** pseudolus  
-**Published:** 10/23/2026, 9:50:21 AM  
+**Author:** outlore  
+**Published:** 10/23/2026, 3:55:55 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/ai-model-welfare Comments URL: https://news.ycombinator.com/item?id=50206556 Points: 1 # Comments: 0
+For any arbitrary coding task, how can a Ralph loop break out of a local minima and converge, such that, even if the loop runs again, there are no tasks left to complete? These tasks are somewhat non-deterministic due to cross-interactions which make their stop conditions hard to define ahead of tim...
 
-📖 [Read original article](https://spectrum.ieee.org/ai-model-welfare)
+📖 [Read original article](https://news.ycombinator.com/item?id=50211080)
 
 ---
 
-## 9. Chinese mathematician Sun Zhiwei proposes 1k problems to challenge AI
+## 9. Local AI Is Not as Private as You Think [video]
 
-**Author:** jonbaer  
-**Published:** 10/23/2026, 9:27:09 AM  
+**Author:** onemoresoop  
+**Published:** 10/23/2026, 3:50:27 PM  
 **Categories:** -  
 
-Article URL: https://www.scmp.com/news/china/science/article/3371652/chinese-mathematician-sun-zhiwei-proposes-1000-problems-challenge-ai Comments URL: https://news.ycombinator.com/item?id=50206397 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=3mx84MRj8lY Comments URL: https://news.ycombinator.com/item?id=50210986 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.scmp.com/news/china/science/article/3371652/chinese-mathematician-sun-zhiwei-proposes-1000-problems-challenge-ai)
+📖 [Read original article](https://www.youtube.com/watch?v=3mx84MRj8lY)
 
 ---
 
-## 10. Show HN: Kucedr (was Friday) – a desktop AI agent that runs on your machine
+## 10. Who Cares Whether Academics Use AI to Write?
 
-**Author:** haraldbregu  
-**Published:** 10/23/2026, 9:19:41 AM  
+**Author:** Anon84  
+**Published:** 10/23/2026, 3:29:32 PM  
 **Categories:** -  
 
-Article URL: https://www.kucedr.com/ Comments URL: https://news.ycombinator.com/item?id=50206354 Points: 1 # Comments: 0
+Article URL: https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write Comments URL: https://news.ycombinator.com/item?id=50210696 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.kucedr.com/)
+📖 [Read original article](https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write)
 
 ---
 
-## 11. How to become a top-tier AI agent user (0.01%)?
+## 11. Elon Musk and AI rivals pledge to give away nearly $300B
 
-**Author:** vishalwaghmode  
-**Published:** 10/23/2026, 9:15:08 AM  
+**Author:** bookofjoe  
+**Published:** 10/23/2026, 3:27:43 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=50206325 Points: 2 # Comments: 2
+Article URL: https://www.washingtonpost.com/technology/2026/10/22/elon-musk-ai-rivals-pledge-give-away-more-than-300-billion/ Comments URL: https://news.ycombinator.com/item?id=50210664 Points: 3 # Comments: 4
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50206325)
+📖 [Read original article](https://www.washingtonpost.com/technology/2026/10/22/elon-musk-ai-rivals-pledge-give-away-more-than-300-billion/)
 
 ---
 
-## 12. Ukraine is wiping out Russian data centers, setting its AI race back
+## 12. AI Isn't Sovereign Because You Host It Yourself
 
-**Author:** entryleveljobsc  
-**Published:** 10/23/2026, 9:15:06 AM  
+**Author:** mooreds  
+**Published:** 10/23/2026, 3:26:24 PM  
 **Categories:** -  
 
-Article URL: https://fortune.com/2026/10/22/ukraine-russia-drones-data-centers-ai-race/ Comments URL: https://news.ycombinator.com/item?id=50206324 Points: 3 # Comments: 0
+Article URL: https://www.jamiecadvisory.com/perspectives/your-ai-isnt-sovereign-because-you-host-it-yourself/ Comments URL: https://news.ycombinator.com/item?id=50210646 Points: 2 # Comments: 0
 
-📖 [Read original article](https://fortune.com/2026/10/22/ukraine-russia-drones-data-centers-ai-race/)
+📖 [Read original article](https://www.jamiecadvisory.com/perspectives/your-ai-isnt-sovereign-because-you-host-it-yourself/)
 
 ---
 
-## 13. A new Digital Audio Workstation created using AI
+## 13. Retro gaming is being overrun with AI
 
-**Author:** BTC_BurningTree  
-**Published:** 10/23/2026, 9:13:42 AM  
+**Author:** Brajeshwar  
+**Published:** 10/23/2026, 3:22:07 PM  
 **Categories:** -  
 
-Article URL: https://github.com/BurningTreeC/faderframe Comments URL: https://news.ycombinator.com/item?id=50206311 Points: 2 # Comments: 1
+Article URL: https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port Comments URL: https://news.ycombinator.com/item?id=50210583 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/BurningTreeC/faderframe)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port)
 
 ---
 
-## 14. Can AI predict cancer survival better than a doctor? I have my doubts
+## 14. Show HN: Gsearch – Real Google Search for AI Agents(MCP)
 
-**Author:** amelius  
-**Published:** 10/23/2026, 8:53:24 AM  
+**Author:** rayenmlayeh  
+**Published:** 10/23/2026, 3:21:49 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research Comments URL: https://news.ycombinator.com/item?id=50206162 Points: 2 # Comments: 0
+Article URL: https://github.com/RayenMlayeh/gsearch Comments URL: https://news.ycombinator.com/item?id=50210576 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research)
+📖 [Read original article](https://github.com/RayenMlayeh/gsearch)
 
 ---
 
-## 15. AI-powered platform that finds local businesses without websites
+## 15. Left alone with nothing to do, AI agents started playing
 
-**Author:** itshimbilal  
-**Published:** 10/23/2026, 8:48:29 AM  
+**Author:** Brajeshwar  
+**Published:** 10/23/2026, 3:21:44 PM  
 **Categories:** -  
 
-Article URL: https://www.thyonix.com Comments URL: https://news.ycombinator.com/item?id=50206132 Points: 1 # Comments: 0
+Article URL: https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/ Comments URL: https://news.ycombinator.com/item?id=50210573 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.thyonix.com)
+📖 [Read original article](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
 
 ---
 
-## 16. Top AI Prompt Engineering Best Practices for Developers
+## 16. Google Ads AI Automation is a team of 41 AI agents
 
-**Author:** pntkrl  
-**Published:** 10/23/2026, 8:40:02 AM  
+**Author:** AndrewMPT  
+**Published:** 10/23/2026, 3:21:33 PM  
 **Categories:** -  
 
-Article URL: https://aiqualityhq.com/ai-prompt-engineering-best-practices Comments URL: https://news.ycombinator.com/item?id=50206076 Points: 1 # Comments: 0
+Article URL: https://github.com/aipsyhelp/ai_ads_google Comments URL: https://news.ycombinator.com/item?id=50210566 Points: 1 # Comments: 0
 
-📖 [Read original article](https://aiqualityhq.com/ai-prompt-engineering-best-practices)
+📖 [Read original article](https://github.com/aipsyhelp/ai_ads_google)
 
 ---
 
-## 17. China offered European Commission to join its AI alliance
+## 17. Why Training AI to Have a Self Makes Governance Harder (audio)
 
-**Author:** vrganj  
-**Published:** 10/23/2026, 8:28:11 AM  
+**Author:** mooreds  
+**Published:** 10/23/2026, 3:20:02 PM  
 **Categories:** -  
 
-Article URL: https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/ Comments URL: https://news.ycombinator.com/item?id=50205972 Points: 4 # Comments: 0
+Article URL: https://packetpushers.net/podcasts/the-cloud-gambit/tcg086-why-training-ai-to-have-a-self-makes-governance-harder/ Comments URL: https://news.ycombinator.com/item?id=50210543 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/)
+📖 [Read original article](https://packetpushers.net/podcasts/the-cloud-gambit/tcg086-why-training-ai-to-have-a-self-makes-governance-harder/)
 
 ---
 
-## 18. Toward fast AI interpretability and control
+## 18. AI-discovered bugs may soon trigger fresh disruptions, cyber experts say
 
-**Author:** sgiannopoulos  
-**Published:** 10/23/2026, 8:01:18 AM  
+**Author:** yogthos  
+**Published:** 10/23/2026, 3:17:44 PM  
 **Categories:** -  
 
-Article URL: https://research.ibm.com/blog/fast-interpretability-plugin-vllm Comments URL: https://news.ycombinator.com/item?id=50205789 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50210508 Points: 2 # Comments: 0
 
-📖 [Read original article](https://research.ibm.com/blog/fast-interpretability-plugin-vllm)
+📖 [Read original article](https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/)
 
 ---
 
-## 19. Ordered list of open-source software with the No-AI policy
+## 19. Ask HN: How can I grow as an engineer in the AI era
 
-**Author:** Gornak40  
-**Published:** 10/23/2026, 7:59:47 AM  
+**Author:** jfsdk  
+**Published:** 10/23/2026, 3:17:34 PM  
 **Categories:** -  
 
-Article URL: https://gornak40.org/soulful-software Comments URL: https://news.ycombinator.com/item?id=50205780 Points: 1 # Comments: 0
+I'm a junior developer, with less than 1 yoe. I have to use AI at work because deadlines are tight, and if I try to solve something by myself, it would take too much time. Work has to be done like yesterday. I'm trying not to use AI when I fix some bugs because they don't have such tight deadlines, ...
 
-📖 [Read original article](https://gornak40.org/soulful-software)
+📖 [Read original article](https://news.ycombinator.com/item?id=50210502)
 
 ---
 
-## 20. Unauthorized AI agents are reportedly accessing US bank accounts
+## 20. Nvidia Sentry: Secure AI Agents at Runtime
 
-**Author:** gvieri  
-**Published:** 10/23/2026, 7:31:28 AM  
+**Author:** hasheddan  
+**Published:** 10/23/2026, 3:01:26 PM  
 **Categories:** -  
 
-Article URL: https://www.msn.com/en-us/news/other/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/ar-AA2fQDti Comments URL: https://news.ycombinator.com/item?id=50205590 Points: 2 # Comments: 4
+Article URL: https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/ Comments URL: https://news.ycombinator.com/item?id=50210221 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.msn.com/en-us/news/other/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/ar-AA2fQDti)
+📖 [Read original article](https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/)
 
 ---
