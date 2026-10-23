@@ -2,16 +2,28 @@
 title: "MIT Technology Review AI - 2026-10-22"
 date: "2026-10-22"
 source: "MIT Technology Review AI"
-count: 3
+count: 4
 ---
 
 # MIT Technology Review AI - 2026-10-22
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. The Foundations of Scalable AI
+## 1. Designing an AI serving harness built to last
+
+**Author:** Anand Logani  
+**Published:** 10/22/2026, 9:17:29 PM  
+**Categories:** Artificial intelligence, sponsored  
+
+The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,...
+
+📖 [Read original article](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)
+
+---
+
+## 2. The Foundations of Scalable AI
 
 **Author:** MIT Technology Review Events  
 **Published:** 10/22/2026, 6:48:04 PM  
@@ -23,7 +35,7 @@ A scalable AI system requires a strong foundation. Data, engineering, platforms,
 
 ---
 
-## 2. Making the case for context-aware AI
+## 3. Making the case for context-aware AI
 
 **Author:** MIT Technology Review Insights  
 **Published:** 10/22/2026, 10:00:00 AM  
@@ -35,7 +47,7 @@ Enterprise AI can generate recommendations, automate tasks, and help organizatio
 
 ---
 
-## 3. AI’s hidden storage bill: What inference leaves behind
+## 4. AI’s hidden storage bill: What inference leaves behind
 
 **Author:** Tim Rausch  
 **Published:** 10/22/2026, 8:41:18 AM  
