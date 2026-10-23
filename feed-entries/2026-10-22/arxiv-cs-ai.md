@@ -365,7 +365,7 @@ arXiv:2610.29121v1 Announce Type: new Abstract: A coding agent that rewrites its
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.AI, stat.AP  
 
-arXiv:2610.29122v1 Announce Type: new Abstract: Individual patient data are the gold standard for secondary analysis of time-to-event evidence, but they are rarely released, and reconstruction from a published Kaplan-Meier figure could help. Existing methods all claim high fidelity, each judged by w...
+arXiv:2610.29122v2 Announce Type: new Abstract: Individual patient data are the gold standard for secondary analysis of time-to-event evidence, but they are rarely released, and reconstruction from a published Kaplan-Meier figure could help. Existing methods all claim high fidelity, each judged by w...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29122)
 
@@ -423,7 +423,7 @@ arXiv:2610.29167v1 Announce Type: new Abstract: On-policy self-distillation (OPS
 
 **Author:** Rushab Munot  
 **Published:** 10/22/2026, 4:00:00 AM  
-**Categories:** cs.AI  
+**Categories:** cs.AI, cs.CL  
 
 arXiv:2610.29217v1 Announce Type: new Abstract: Decision models return normalized probability distributions over candidate choices, which downstream applications can use to select among choices. Although their providers emphasize the reliability of these probabilities, calibration on tasks with a si...
 
@@ -509,7 +509,7 @@ arXiv:2610.29317v1 Announce Type: new Abstract: Spatial reasoning requires more 
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.29330v1 Announce Type: new Abstract: How do LLM agents' strategies differ, and how much can instructions to adopt a persona change their behavior over a game? We study these questions with AgentMonopoly, an environment where agents communicate, buy and trade properties, and make decisions...
+arXiv:2610.29330v2 Announce Type: new Abstract: How do LLM agents' strategies differ, and how much can instructions to adopt a persona change their behavior over a game? We study these questions with AgentMonopoly, an environment where agents communicate, buy and trade properties, and make decisions...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29330)
 
@@ -629,7 +629,7 @@ arXiv:2610.29646v1 Announce Type: new Abstract: Choosing among robot demonstrati
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2610.29680v1 Announce Type: new Abstract: Using an LLM to generate training data for another is among the most general ways to train one, and it remains common practice. Some frontier teams have closed that route for their own models: what comes back is an answer, or a short summary, without t...
+arXiv:2610.29680v2 Announce Type: new Abstract: Using an LLM to generate training data for another is among the most general ways to train one, and it remains common practice. Some frontier teams have closed that route for their own models: what comes back is an answer, or a short summary, without t...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29680)
 
@@ -1721,7 +1721,7 @@ arXiv:2610.29313v1 Announce Type: cross Abstract: Multimodal ocean modeling rema
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.CV, cs.AI  
 
-arXiv:2610.29322v1 Announce Type: cross Abstract: Accurate localization of neonatal hypoxic--ischemic encephalopathy (HIE) lesions on apparent diffusion coefficient (ADC) images is clinically important but is limited by scarce expert annotations and substantial variation in lesion appearance. We pro...
+arXiv:2610.29322v2 Announce Type: cross Abstract: Accurate localization of neonatal hypoxic--ischemic encephalopathy (HIE) lesions on apparent diffusion coefficient (ADC) images is clinically important but is limited by scarce expert annotations and substantial variation in lesion appearance. We pro...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29322)
 
@@ -1769,7 +1769,7 @@ arXiv:2610.29358v1 Announce Type: cross Abstract: Deep learning based models acc
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.29385v1 Announce Type: cross Abstract: Language models relying on verbalized Chain-of-Thought (CoT) are constrained to token-by-token generation in the language space, where many tokens serve textual coherence rather than core reasoning. This entangles genuine differences in logical traje...
+arXiv:2610.29385v2 Announce Type: cross Abstract: Language models relying on verbalized Chain-of-Thought (CoT) are constrained to token-by-token generation in the language space, where many tokens serve textual coherence rather than core reasoning. This entangles genuine differences in logical traje...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29385)
 
@@ -1957,11 +1957,11 @@ arXiv:2610.29605v1 Announce Type: cross Abstract: Stochastic flow maps promise f
 
 ## 163. Overview of CHIP 2026 Shared Task 1: Patient-Specific Phenotype Concept Recognition in Full-Text Biomedical Literature
 
-**Author:** Xuanlyu Zhu, Feng Tian, Yang Zhong, Pengqi Zheng, Xiwen Bi, Ling Luo, Yuanyuan Sun, Jian Wang, Lingfei Lin  
+**Author:** Xuanlyu Zhu, Feng Tian, Yang Zhong, Pengqi Zheng, Xiwen Bi, Ling Luo, Yuanyuan Sun, Jian Wang, Hongfei Lin  
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI  
 
-arXiv:2610.29606v1 Announce Type: cross Abstract: Automatic phenotype information extraction plays an important role in rare disease diagnosis, genotype-phenotype analysis, and precision medicine. However, accurately identifying phenotype concepts and determining their associations with specific pat...
+arXiv:2610.29606v2 Announce Type: cross Abstract: Automatic phenotype information extraction plays an important role in rare disease diagnosis, genotype-phenotype analysis, and precision medicine. However, accurately identifying phenotype concepts and determining their associations with specific pat...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29606)
 
@@ -2137,11 +2137,11 @@ arXiv:2610.29823v1 Announce Type: cross Abstract: Agent memory systems such as M
 
 ## 178. Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities
 
-**Author:** Rafael Felix  
+**Author:** Rafael Felix, Flavia Yanase  
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.AI  
 
-arXiv:2610.29829v1 Announce Type: cross Abstract: General-purpose robots must handle tasks, objects and environments they were never trained on, yet zero-shot generalization remains one of the least solved problems in physical AI. In digital AI, zero-shot capability grew with the volume and, above a...
+arXiv:2610.29829v2 Announce Type: cross Abstract: General-purpose robots must handle tasks, objects and environments they were never trained on, yet zero-shot generalization remains one of the least solved problems in physical AI. In digital AI, zero-shot capability grew with the volume and, above a...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29829)
 
@@ -2345,7 +2345,7 @@ arXiv:2610.30014v1 Announce Type: cross Abstract: LLM agents with similar succes
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.LG  
 
-arXiv:2610.30016v1 Announce Type: cross Abstract: Understanding large, complex, and rapidly evolving code bases remains a core challenge for software engineering at scale, hindering onboarding, maintenance, refactoring, and impact analysis. Providing this information to a Large-Language Model (LLM) ...
+arXiv:2610.30016v2 Announce Type: cross Abstract: Understanding large, complex, and rapidly evolving code bases remains a core challenge for software engineering at scale, hindering onboarding, maintenance, refactoring, and impact analysis. Providing this information to a Large-Language Model (LLM) ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.30016)
 
@@ -2813,7 +2813,7 @@ arXiv:2608.26950v2 Announce Type: replace Abstract: Large Language Models (LLMs)
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2609.03966v2 Announce Type: replace Abstract: Agent evaluations report a tool-call rate read off the serving stack. That number can be zero while the model is emitting well-formed calls: the interface censors the trajectory before anything downstream sees it. On BFCL v4's own data, executor an...
+arXiv:2609.03966v3 Announce Type: replace Abstract: Tool-use evaluations typically measure calls through a serving stack, which can report zero calls even when model outputs contain call-shaped payloads. We study interface-induced trajectory censoring: a mismatch between model emissions and the inte...
 
 📖 [Read original article](https://arxiv.org/abs/2609.03966)
 
@@ -3089,7 +3089,7 @@ arXiv:2610.25402v2 Announce Type: replace Abstract: Large language models (LLMs)
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.AI  
 
-arXiv:2610.26261v2 Announce Type: replace Abstract: RNA molecules often function through multiple experimentally observed conformational states. A central challenge is to capture ensemble diversity without sacrificing structural fidelity: samples may collapse toward averaged representative structure...
+arXiv:2610.26261v3 Announce Type: replace Abstract: RNA molecules often function through multiple experimentally observed conformational states. A central challenge is to capture ensemble diversity without sacrificing structural fidelity: samples may collapse toward averaged representative structure...
 
 📖 [Read original article](https://arxiv.org/abs/2610.26261)
 
@@ -3699,7 +3699,7 @@ arXiv:2604.24920v4 Announce Type: replace-cross Abstract: Agentic systems now ac
 
 **Author:** Zixi Shao, Tao Wang, Ye Shen, Tianyi Huang, Yibei Xiao  
 **Published:** 10/22/2026, 4:00:00 AM  
-**Categories:** cs.LG, cs.AI  
+**Categories:** cs.LG, cs.AI, q-bio.BM  
 
 arXiv:2605.01513v2 Announce Type: replace-cross Abstract: Designing therapeutic messenger RNA (mRNA) requires generating full-length transcripts that optimally balance intracellular stability and translation efficiency. While generative models have advanced mRNA design, existing approaches rely on r...
 
@@ -3881,7 +3881,7 @@ arXiv:2606.15735v3 Announce Type: replace-cross Abstract: Discharge summaries ar
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.CL, cs.AI, cs.DB  
 
-arXiv:2606.28916v2 Announce Type: replace-cross Abstract: We introduce GRAB, a constructor-encoder-bridge pipeline for table question answering. Our method lifts relational data into an heterogeneous graph, encodes it via message passing, and transfers the signals to an LLM through a small set of qu...
+arXiv:2606.28916v3 Announce Type: replace-cross Abstract: We introduce GRAB, a constructor-encoder-bridge pipeline for table question answering. Our method lifts relational data into an heterogeneous graph, encodes it via message passing, and transfers the signals to an LLM through a small set of qu...
 
 📖 [Read original article](https://arxiv.org/abs/2606.28916)
 
@@ -4417,11 +4417,11 @@ arXiv:2610.27264v2 Announce Type: replace-cross Abstract: This paper is an expos
 
 ## 368. S$^2$-MAS: A Society-Scale Multi-Agent Simulation Framework with 500 Million Household Persona Agents
 
-**Author:** Yang Li, Di Wan, Yike Wang, Chujun He, Zongsi Xu, Xiyu Chen, Sheng Zhong, Deng Binjie, Zhenwei Guo, Hou Jun, Kunhan Guo, Weihao Lin, Tuo Zhou, Hai Liu, Ye Luo  
+**Author:** Yang Li, Yike Wang, Di Wan, Chujun He, Zongsi Xu, Yitao Yu, Quanfeng Lu, Xiyu Chen, Sheng Zhong, Deng Binjie, Yichen Guo, Zhenwei Guo, Hou Jun, Kunhan Guo, Weihao Lin, Tuo Zhou, Hai Liu, Chenwei Wu, Jianyuan Zhong, Xilin Dai, Ye Luo  
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.MA, cs.AI  
 
-arXiv:2610.27746v2 Announce Type: replace-cross Abstract: Simulating economic responses at society scale requires agents whose decisions reflect household circumstances and the effects of earlier actions. We introduce S$^2$-MAS, a society-scale multi-agent simulation framework built on 500 million s...
+arXiv:2610.27746v3 Announce Type: replace-cross Abstract: Simulating economic responses at society scale requires agents whose decisions reflect household circumstances and the effects of earlier actions. We introduce S$^2$-MAS, a society-scale multi-agent simulation framework built on 500 million s...
 
 📖 [Read original article](https://arxiv.org/abs/2610.27746)
 
