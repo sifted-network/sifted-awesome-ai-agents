@@ -2,12 +2,12 @@
 title: "MIT Technology Review AI - 2026-10-20"
 date: "2026-10-20"
 source: "MIT Technology Review AI"
-count: 3
+count: 2
 ---
 
 # MIT Technology Review AI - 2026-10-20
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ Imagine your company just discovered electricity. At first only a few machines r
 The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts curre...
 
 📖 [Read original article](https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/)
-
----
-
-## 3. A visit to Samsung’s massive new semiconductor hub
-
-**Author:** Michelle Kim  
-**Published:** 10/20/2026, 9:00:00 AM  
-**Categories:** Artificial intelligence, App  
-
-Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar...
-
-📖 [Read original article](https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/)
 
 ---
