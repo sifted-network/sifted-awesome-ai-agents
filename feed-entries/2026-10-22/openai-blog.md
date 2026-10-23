@@ -27,7 +27,7 @@ Fast, focused, low-cost decisions for any application.
 
 **Author:** -  
 **Published:** 10/22/2026, 6:00:00 AM  
-**Categories:** Engineering  
+**Categories:** AI Adoption  
 
 What forward deployed engineering means at OpenAI
 
