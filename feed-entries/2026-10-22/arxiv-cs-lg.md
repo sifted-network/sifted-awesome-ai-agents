@@ -929,7 +929,7 @@ arXiv:2610.29381v1 Announce Type: new Abstract: We propose a novel stochastic ca
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, cs.AI  
 
-arXiv:2610.29385v1 Announce Type: new Abstract: Language models relying on verbalized Chain-of-Thought (CoT) are constrained to token-by-token generation in the language space, where many tokens serve textual coherence rather than core reasoning. This entangles genuine differences in logical traject...
+arXiv:2610.29385v2 Announce Type: new Abstract: Language models relying on verbalized Chain-of-Thought (CoT) are constrained to token-by-token generation in the language space, where many tokens serve textual coherence rather than core reasoning. This entangles genuine differences in logical traject...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29385)
 
@@ -2357,7 +2357,7 @@ arXiv:2610.29345v1 Announce Type: cross Abstract: High linear decodability does 
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.SD, cs.CL, cs.LG, eess.AS  
 
-arXiv:2610.29351v1 Announce Type: cross Abstract: Zero-shot cross-lingual voice cloning often carries the reference speaker's accent into the target language. We propose closed-loop dual-reference guidance, which pairs the original reference with a reusable native anchor constructed by voice convers...
+arXiv:2610.29351v2 Announce Type: cross Abstract: Zero-shot cross-lingual voice cloning often carries the reference speaker's accent into the target language. We propose closed-loop dual-reference guidance, which pairs the original reference with a reusable native anchor constructed by voice convers...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29351)
 
@@ -2633,7 +2633,7 @@ arXiv:2610.29679v1 Announce Type: cross Abstract: Principal Component Analysis (
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2610.29680v1 Announce Type: cross Abstract: Using an LLM to generate training data for another is among the most general ways to train one, and it remains common practice. Some frontier teams have closed that route for their own models: what comes back is an answer, or a short summary, without...
+arXiv:2610.29680v2 Announce Type: cross Abstract: Using an LLM to generate training data for another is among the most general ways to train one, and it remains common practice. Some frontier teams have closed that route for their own models: what comes back is an answer, or a short summary, without...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29680)
 
@@ -2705,7 +2705,7 @@ arXiv:2610.29815v1 Announce Type: cross Abstract: Driven by recent advancements 
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.RO, cs.LG  
 
-arXiv:2610.29845v1 Announce Type: cross Abstract: Autonomous mobile robots operating in dense crowds and cluttered sites require $360^\circ$ perception to react to surrounding hazards. While panoramic LiDAR offers full-surround coverage, learning representations within reinforcement learning (RL) is...
+arXiv:2610.29845v2 Announce Type: cross Abstract: Autonomous mobile robots operating in dense crowds and cluttered sites require $360^\circ$ perception to react to surrounding hazards. While panoramic LiDAR offers full-surround coverage, learning representations within reinforcement learning (RL) is...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29845)
 
@@ -2725,11 +2725,11 @@ arXiv:2610.29864v1 Announce Type: cross Abstract: We study gradient flow in a tw
 
 ## 227. Tractable Inference with Kolmogorov-Arnold Networks
 
-**Author:** Juan Diego Toscano, Sascha Ranft, Zhiwei Gao, Li-Lian Wang, George Em Karniadakis  
+**Author:** Juan Diego Toscano, Sascha Ranftl, Zhiwei Gao, Li-Lian Wang, George Em Karniadakis  
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** physics.comp-ph, cs.LG, cs.NA, math.NA  
 
-arXiv:2610.29909v1 Announce Type: cross Abstract: Machine-learning surrogates in computational science often require not only accurate predictions but also expectations, variances, conserved integrals, and normalization constants. Conventional neural networks, including Kolmogorov--Arnold networks (...
+arXiv:2610.29909v2 Announce Type: cross Abstract: Machine-learning surrogates in computational science often require not only accurate predictions but also expectations, variances, conserved integrals, and normalization constants. Conventional neural networks, including Kolmogorov--Arnold networks (...
 
 📖 [Read original article](https://arxiv.org/abs/2610.29909)
 
@@ -2789,7 +2789,7 @@ arXiv:2610.29985v1 Announce Type: cross Abstract: Benchmark performance is the d
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.SE, cs.AI, cs.LG  
 
-arXiv:2610.30016v1 Announce Type: cross Abstract: Understanding large, complex, and rapidly evolving code bases remains a core challenge for software engineering at scale, hindering onboarding, maintenance, refactoring, and impact analysis. Providing this information to a Large-Language Model (LLM) ...
+arXiv:2610.30016v2 Announce Type: cross Abstract: Understanding large, complex, and rapidly evolving code bases remains a core challenge for software engineering at scale, hindering onboarding, maintenance, refactoring, and impact analysis. Providing this information to a Large-Language Model (LLM) ...
 
 📖 [Read original article](https://arxiv.org/abs/2610.30016)
 
@@ -3099,7 +3099,7 @@ arXiv:2510.16511v2 Announce Type: replace Abstract: Real-world multivariate time
 
 **Author:** Kenan Li, Yijian Zhang, Jin Wang, Haipeng Gan, Zeying Sun, Xiaoguang Lei, Hao Dong  
 **Published:** 10/22/2026, 4:00:00 AM  
-**Categories:** cs.LG  
+**Categories:** cs.LG, cs.CL  
 
 arXiv:2601.02915v2 Announce Type: replace Abstract: Recent advances in large language models (LLMs) have demonstrated transformative potential across diverse fields. However, in computer-aided synthesis planning (CASP), current LLM methodologies are often restricted to single-molecule representation...
 
@@ -3315,7 +3315,7 @@ arXiv:2604.18936v2 Announce Type: replace Abstract: Despite the growing applicat
 
 **Author:** Zixi Shao, Tao Wang, Ye Shen, Tianyi Huang, Yibei Xiao  
 **Published:** 10/22/2026, 4:00:00 AM  
-**Categories:** cs.LG, cs.AI  
+**Categories:** cs.LG, cs.AI, q-bio.BM  
 
 arXiv:2605.01513v2 Announce Type: replace Abstract: Designing therapeutic messenger RNA (mRNA) requires generating full-length transcripts that optimally balance intracellular stability and translation efficiency. While generative models have advanced mRNA design, existing approaches rely on region-...
 
@@ -3593,7 +3593,7 @@ arXiv:2608.28425v3 Announce Type: replace Abstract: Fourier neural operators (FN
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.LG, astro-ph.IM  
 
-arXiv:2609.02766v2 Announce Type: replace Abstract: Tabular foundation models (TFMs) learn to fill in tables the way language models fill in text --- and tables are arguably the format in which most physical measurement arrives. Did they learn any physics in the process? They are Bayesian by constru...
+arXiv:2609.02766v3 Announce Type: replace Abstract: Tabular foundation models (TFMs) learn to fill in tables the way language models fill in text --- and tables are arguably the format in which most physical measurement arrives. Did they learn any physics in the process? They are Bayesian by constru...
 
 📖 [Read original article](https://arxiv.org/abs/2609.02766)
 
@@ -4361,7 +4361,7 @@ arXiv:2608.23356v2 Announce Type: replace-cross Abstract: Accurate watch-time (W
 **Published:** 10/22/2026, 4:00:00 AM  
 **Categories:** cs.AI, cs.LG  
 
-arXiv:2609.03966v2 Announce Type: replace-cross Abstract: Agent evaluations report a tool-call rate read off the serving stack. That number can be zero while the model is emitting well-formed calls: the interface censors the trajectory before anything downstream sees it. On BFCL v4's own data, execu...
+arXiv:2609.03966v3 Announce Type: replace-cross Abstract: Tool-use evaluations typically measure calls through a serving stack, which can report zero calls even when model outputs contain call-shaped payloads. We study interface-induced trajectory censoring: a mismatch between model emissions and th...
 
 📖 [Read original article](https://arxiv.org/abs/2609.03966)
 
