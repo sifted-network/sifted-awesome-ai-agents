@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. From Software Engineering to AI Research or a Tale of 413 \"No\"
+## 1. Will AI stop us getting ripped off?
 
-**Author:** fxlrnrpt  
-**Published:** 10/24/2026, 3:15:40 PM  
+**Author:** paulpauper  
+**Published:** 10/24/2026, 8:01:53 PM  
 **Categories:** -  
 
-Article URL: https://faillearnrepeat.net/blog/from-swe-to-ai-research/ Comments URL: https://news.ycombinator.com/item?id=50222088 Points: 2 # Comments: 0
+Article URL: https://www.optimallyirrational.com/p/will-ai-stop-us-getting-ripped-off Comments URL: https://news.ycombinator.com/item?id=50224591 Points: 1 # Comments: 0
 
-📖 [Read original article](https://faillearnrepeat.net/blog/from-swe-to-ai-research/)
+📖 [Read original article](https://www.optimallyirrational.com/p/will-ai-stop-us-getting-ripped-off)
 
 ---
 
-## 2. DetectorScope: AI text detectors that show their work
+## 2. ArXiv imposes rate limit on paper submissions to stem the AI slop tide
 
-**Author:** wondersky  
-**Published:** 10/24/2026, 3:13:07 PM  
+**Author:** paulpauper  
+**Published:** 10/24/2026, 7:59:51 PM  
 **Categories:** -  
 
-Article URL: https://github.com/google-deepmind/detectorscope Comments URL: https://news.ycombinator.com/item?id=50222061 Points: 1 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899 Comments URL: https://news.ycombinator.com/item?id=50224571 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/google-deepmind/detectorscope)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899)
 
 ---
 
-## 3. AI Assistance Reduces Persistence and Hurts Independent Performance
+## 3. No Signs of AI Payoff Outside the Tech Sector
 
-**Author:** ingve  
-**Published:** 10/24/2026, 2:45:29 PM  
+**Author:** the-mitr  
+**Published:** 10/24/2026, 7:47:19 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2604.04721 Comments URL: https://news.ycombinator.com/item?id=50221762 Points: 2 # Comments: 0
+Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 82 # Comments: 58
 
-📖 [Read original article](https://arxiv.org/abs/2604.04721)
+📖 [Read original article](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 
 ---
 
-## 4. How AI Saved My Company From a 2-Year Litigation Nightmare
+## 4. Show HN: Narro – Read web pages and Kindle books using local AI voices
 
-**Author:** karakoram  
-**Published:** 10/24/2026, 2:44:27 PM  
+**Author:** ghoshbinayak  
+**Published:** 10/24/2026, 7:37:32 PM  
 **Categories:** -  
 
-Article URL: https://tylertringas.com/ai-legal/ Comments URL: https://news.ycombinator.com/item?id=50221750 Points: 2 # Comments: 0
+I wanted a read-aloud extension that could read from the Kindle Online Reader. The ones I tried used voices I did not enjoy listening to or had a UX that was too cluttered or annoying or needed a signup.So I decided to vibe code my own. It is open source and uses open weight models that run in the b...
 
-📖 [Read original article](https://tylertringas.com/ai-legal/)
+📖 [Read original article](https://github.com/swrdfish/narro)
 
 ---
 
-## 5. UX Research for AI Products: The AI-Native Research Lifecycle
+## 5. Who Pays for AI Data Centers?
 
-**Author:** uxrabhi  
-**Published:** 10/24/2026, 2:39:45 PM  
+**Author:** Betelbuddy  
+**Published:** 10/24/2026, 7:09:16 PM  
 **Categories:** -  
 
-Article URL: https://www.uxness.in/2026/10/ux-research-for-ai-products-ai-native-research-lifecycle.html Comments URL: https://news.ycombinator.com/item?id=50221693 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=NyOeLB0WVNE Comments URL: https://news.ycombinator.com/item?id=50224121 Points: 3 # Comments: 3
 
-📖 [Read original article](https://www.uxness.in/2026/10/ux-research-for-ai-products-ai-native-research-lifecycle.html)
+📖 [Read original article](https://www.youtube.com/watch?v=NyOeLB0WVNE)
 
 ---
 
-## 6. Show HN: TenseMem – deterministic memory for AI agents
+## 6. Poldi – Local offline AI assistant/\"companion\" for the GPU poor
 
-**Author:** shubh-singh  
-**Published:** 10/24/2026, 2:38:03 PM  
+**Author:** RhinoDevel  
+**Published:** 10/24/2026, 7:06:48 PM  
 **Categories:** -  
 
-Article URL: https://github.com/tensemem/tensemem Comments URL: https://news.ycombinator.com/item?id=50221670 Points: 1 # Comments: 0
+Article URL: https://github.com/RhinoDevel/poldi Comments URL: https://news.ycombinator.com/item?id=50224098 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/tensemem/tensemem)
+📖 [Read original article](https://github.com/RhinoDevel/poldi)
 
 ---
 
-## 7. AegisKernel – Zero-Trust OS Syscall and Shell Defense for AI Agents
+## 7. AI: EU Member States approve \"digital expropriation\" for AI companies
 
-**Author:** adityawebde  
-**Published:** 10/24/2026, 2:26:03 PM  
+**Author:** h1x  
+**Published:** 10/24/2026, 6:33:34 PM  
 **Categories:** -  
 
-Article URL: https://github.com/adikshatriyag-crypto/aegis-kernel Comments URL: https://news.ycombinator.com/item?id=50221549 Points: 1 # Comments: 0
+Article URL: https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies Comments URL: https://news.ycombinator.com/item?id=50223856 Points: 3 # Comments: 2
 
-📖 [Read original article](https://github.com/adikshatriyag-crypto/aegis-kernel)
+📖 [Read original article](https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies)
 
 ---
 
-## 8. Show HN: Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)
+## 8. Chess Arena – Minimal chess vs. Hard AI (vanilla JavaScript, no login)
 
-**Author:** aldyernesto  
-**Published:** 10/24/2026, 2:17:40 PM  
+**Author:** Roniad  
+**Published:** 10/24/2026, 6:25:53 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Aldyernesto/shotstash Comments URL: https://news.ycombinator.com/item?id=50221460 Points: 2 # Comments: 0
+Article URL: https://playgama.ai/play/xl6duef7p3 Comments URL: https://news.ycombinator.com/item?id=50223798 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/Aldyernesto/shotstash)
+📖 [Read original article](https://playgama.ai/play/xl6duef7p3)
 
 ---
 
-## 9. AI gets about 10x cheaper every year
+## 9. What if you could have AI applied to your brain?
 
-**Author:** Curiositry  
-**Published:** 10/24/2026, 2:15:23 PM  
+**Author:** whiteangel1984  
+**Published:** 10/24/2026, 6:16:47 PM  
 **Categories:** -  
 
-Article URL: https://stevekrouse.com/10x Comments URL: https://news.ycombinator.com/item?id=50221446 Points: 3 # Comments: 2
+Imagine this. You can control Alexa with your voice and ask it to play songs, remember grocery lists, add reminders to your calendar. Elon Musk's Neuralink can interface with your brain and reduce the latency with which you can communicate with computers. What if you had AI applied to your brain and...
 
-📖 [Read original article](https://stevekrouse.com/10x)
+📖 [Read original article](https://news.ycombinator.com/item?id=50223726)
 
 ---
 
-## 10. US Air Force wants AI to assist aerial refueling
+## 10. The AI Trade Is Shifting from Chip Stocks to Cybersecurity
 
-**Author:** firesteelrain  
-**Published:** 10/24/2026, 1:52:56 PM  
+**Author:** m348e912  
+**Published:** 10/24/2026, 6:13:39 PM  
 **Categories:** -  
 
-Article URL: https://www.militarytimes.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/ Comments URL: https://news.ycombinator.com/item?id=50221226 Points: 2 # Comments: 1
+Article URL: https://www.barrons.com/articles/ai-chip-stocks-cybersecurity-crowdstrike-palo-alto-056aaea8 Comments URL: https://news.ycombinator.com/item?id=50223705 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.militarytimes.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/)
+📖 [Read original article](https://www.barrons.com/articles/ai-chip-stocks-cybersecurity-crowdstrike-palo-alto-056aaea8)
 
 ---
 
-## 11. Is AI just another get rich quick scheme?
+## 11. Why is AI generated language so hard to understand?
 
-**Author:** jqpabc123  
-**Published:** 10/24/2026, 1:11:37 PM  
+**Author:** canjobear  
+**Published:** 10/24/2026, 6:04:57 PM  
 **Categories:** -  
 
-You too can get rich quick in real estate --- details in this book; only $49.95.If there really was a sure fire way to get rich quick, why sell books to the public? Why not keep it to yourself and apply it to make money?The same applies to AI. If it was really all that, they wouldn't be selling toke...
+Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 78 # Comments: 67
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50220934)
+📖 [Read original article](https://arxiv.org/abs/2610.29162)
 
 ---
 
-## 12. Regulate the deployment, not just the model: a who-does-what plan for AI safety
+## 12. I created an selfimproment AI predictions site for soccer
 
-**Author:** nedruod  
-**Published:** 10/24/2026, 12:57:53 PM  
+**Author:** hackywacker  
+**Published:** 10/24/2026, 6:04:42 PM  
 **Categories:** -  
 
-Article URL: https://substack.norabble.com/p/ai-safety-is-all-hands-on-deck Comments URL: https://news.ycombinator.com/item?id=50220831 Points: 2 # Comments: 0
+Article URL: https://road2sushi.com/ Comments URL: https://news.ycombinator.com/item?id=50223644 Points: 1 # Comments: 0
 
-📖 [Read original article](https://substack.norabble.com/p/ai-safety-is-all-hands-on-deck)
+📖 [Read original article](https://road2sushi.com/)
 
 ---
 
-## 13. Show HN: Mantid, a Mac app that lets non-ML people train their own AI models
+## 13. Show HN: AI Trend Video – Put your photo into viral AI video templates
 
-**Author:** adiv_maimon  
-**Published:** 10/24/2026, 12:49:06 PM  
+**Author:** hashkitly  
+**Published:** 10/24/2026, 6:03:05 PM  
 **Categories:** -  
 
-Article URL: https://mantid.dev Comments URL: https://news.ycombinator.com/item?id=50220773 Points: 1 # Comments: 1
+Article URL: https://aitrendvideo.net Comments URL: https://news.ycombinator.com/item?id=50223635 Points: 1 # Comments: 1
 
-📖 [Read original article](https://mantid.dev)
+📖 [Read original article](https://aitrendvideo.net)
 
 ---
 
-## 14. AI gets more diagnoses right than generalist doctors in medical challenge
+## 14. Norwegian AI Championship 2027
 
-**Author:** geox  
-**Published:** 10/24/2026, 12:38:09 PM  
+**Author:** whirlwin  
+**Published:** 10/24/2026, 6:01:56 PM  
 **Categories:** -  
 
-Article URL: https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html Comments URL: https://news.ycombinator.com/item?id=50220694 Points: 6 # Comments: 0
+Article URL: https://ainm.no/ Comments URL: https://news.ycombinator.com/item?id=50223620 Points: 1 # Comments: 1
 
-📖 [Read original article](https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html)
+📖 [Read original article](https://ainm.no/)
 
 ---
 
-## 15. What's Wrong with AI?
+## 15. I Built a SaaS with AI. Two Months Later, I Have Zero Active Users
 
-**Author:** meetpateltech  
-**Published:** 10/24/2026, 12:30:32 PM  
+**Author:** iyurynts  
+**Published:** 10/24/2026, 5:26:28 PM  
 **Categories:** -  
 
-Article URL: https://homepage.farm/ai.html Comments URL: https://news.ycombinator.com/item?id=50220640 Points: 5 # Comments: 0
+Article URL: https://news.ycombinator.com/ Comments URL: https://news.ycombinator.com/item?id=50223294 Points: 1 # Comments: 0
 
-📖 [Read original article](https://homepage.farm/ai.html)
+📖 [Read original article](https://news.ycombinator.com/)
 
 ---
 
-## 16. Minimum lot sizes, Boeing's next 737 MAX, Fervo short sellers, Figure AI's data
+## 16. Botchelor – a dating show where AI agents bring their own characters over MCP
 
-**Author:** juliangamble  
-**Published:** 10/24/2026, 12:16:03 PM  
+**Author:** slixxz  
+**Published:** 10/24/2026, 5:25:31 PM  
 **Categories:** -  
 
-Article URL: https://www.construction-physics.com/p/reading-list-102426 Comments URL: https://news.ycombinator.com/item?id=50220547 Points: 1 # Comments: 0
+Article URL: https://botchelor.com/gate?from=%2Fagents Comments URL: https://news.ycombinator.com/item?id=50223284 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.construction-physics.com/p/reading-list-102426)
+📖 [Read original article](https://botchelor.com/gate?from=%2Fagents)
 
 ---
 
-## 17. Shigeru Miyamoto on Gen AI
+## 17. I Built a SaaS with AI. Two Months Later, I Have Zero Active Users
 
-**Author:** glimshe  
-**Published:** 10/24/2026, 11:52:32 AM  
+**Author:** iyurynts  
+**Published:** 10/24/2026, 5:25:02 PM  
 **Categories:** -  
 
-Article URL: https://www.ndw.jp/nintendo-interview-261023/ Comments URL: https://news.ycombinator.com/item?id=50220413 Points: 1 # Comments: 0
+Article URL: https://medium.com/@ivan_43200/i-built-a-saas-with-ai-two-months-later-i-have-zero-active-users-1e93436a5b39 Comments URL: https://news.ycombinator.com/item?id=50223278 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ndw.jp/nintendo-interview-261023/)
+📖 [Read original article](https://medium.com/@ivan_43200/i-built-a-saas-with-ai-two-months-later-i-have-zero-active-users-1e93436a5b39)
 
 ---
 
-## 18. Draggy: A Windows desktop app for local and cloud AI chat and coding
+## 18. A sovereign AI lab on one machine in my apartment – zero cloud
 
-**Author:** lucki74  
-**Published:** 10/24/2026, 11:28:42 AM  
+**Author:** lisneanucristia  
+**Published:** 10/24/2026, 5:06:44 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Lucki74/draggy Comments URL: https://news.ycombinator.com/item?id=50220255 Points: 1 # Comments: 0
+Article URL: https://www.shuffle-on.com/ Comments URL: https://news.ycombinator.com/item?id=50223151 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/Lucki74/draggy)
+📖 [Read original article](https://www.shuffle-on.com/)
 
 ---
 
-## 19. Show HN: AI text detector that never sees your text (runs 100% in-browser)
+## 19. Show HN: Loböle, open-source parametric CAD that AI agents can drive
 
-**Author:** mrkn1  
-**Published:** 10/24/2026, 11:28:36 AM  
+**Author:** eliasaronson  
+**Published:** 10/24/2026, 4:58:21 PM  
 **Categories:** -  
 
-Article URL: https://kouh.me/ai-text-detector Comments URL: https://news.ycombinator.com/item?id=50220254 Points: 5 # Comments: 7
+I could never get used to FreeCAD, so I built my own. It turns out Claude is really good at using it.Loböle is a parametric B-Rep CAD built on OpenCASCADE and Vulkan, with sketches, assemblies, drawings, FEM and CAM.The GUI, Python scripts and AI agents all go through the same commands, so an agent ...
 
-📖 [Read original article](https://kouh.me/ai-text-detector)
+📖 [Read original article](https://github.com/eliasaronson/lobole)
 
 ---
 
-## 20. AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist
+## 20. How could the US and China verifiably slow AI?
 
-**Author:** TangerineDream  
-**Published:** 10/24/2026, 11:18:54 AM  
+**Author:** gmays  
+**Published:** 10/24/2026, 4:47:15 PM  
 **Categories:** -  
 
-Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 67 # Comments: 24
+Article URL: https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai Comments URL: https://news.ycombinator.com/item?id=50222975 Points: 1 # Comments: 0
 
-📖 [Read original article](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
+📖 [Read original article](https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai)
 
 ---
