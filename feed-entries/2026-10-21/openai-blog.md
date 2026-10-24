@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-21"
 date: "2026-10-21"
 source: "OpenAI Blog"
-count: 7
+count: 4
 ---
 
 # OpenAI Blog - 2026-10-21
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ From local businesses to global brands, more advertisers can now reach people as
 OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.
 
 📖 [Read original article](https://openai.com/index/openai-models-google-cloud)
-
----
-
-## 5. Patch the Planet: global response coordination as agents uncover critical vulnerabilities
-
-**Author:** -  
-**Published:** 10/21/2026, 7:00:00 AM  
-**Categories:** Security  
-
-Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.
-
-📖 [Read original article](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities)
-
----
-
-## 6. How we built ChatGPT’s novel ad stack for user trust and relevance
-
-**Author:** -  
-**Published:** 10/21/2026, 7:00:00 AM  
-**Categories:** Engineering  
-
-Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.
-
-📖 [Read original article](https://openai.com/index/building-chatgpt-ad-stack)
-
----
-
-## 7. Using thousands of AI agents to uncover new leads in biological data
-
-**Author:** -  
-**Published:** 10/21/2026, 4:50:00 AM  
-**Categories:** Publication  
-
-See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
-
-📖 [Read original article](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
 
 ---
