@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-21"
 date: "2026-10-21"
 source: "OpenAI Blog"
-count: 9
+count: 7
 ---
 
 # OpenAI Blog - 2026-10-21
 
-9 items collected.
+7 items collected.
 
 ---
 
@@ -92,29 +92,5 @@ Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversati
 See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
 
 📖 [Read original article](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
-
----
-
-## 8. Cloudflare links vulnerability discovery to defense with OpenAI
-
-**Author:** -  
-**Published:** 10/21/2026, 12:00:00 AM  
-**Categories:** -  
-
-Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.
-
-📖 [Read original article](https://openai.com/index/cloudflare-cyber)
-
----
-
-## 9. Democratic governance of frontier AI, part II: Empowering cyber defenders
-
-**Author:** -  
-**Published:** 10/21/2026, 12:00:00 AM  
-**Categories:** Global Affairs  
-
-OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.
-
-📖 [Read original article](https://openai.com/index/empowering-cyber-defenders)
 
 ---
