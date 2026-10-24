@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Peer-review failures at NeurIPS, IEEE, and ACM introduced flawed AI logic
+## 1. From Software Engineering to AI Research or a Tale of 413 \"No\"
 
-**Author:** saadchakra  
-**Published:** 10/24/2026, 10:19:29 AM  
+**Author:** fxlrnrpt  
+**Published:** 10/24/2026, 3:15:40 PM  
 **Categories:** -  
 
-Article URL: https://pansophics.substack.com/p/how-some-peer-reviewed-journals-contaminated Comments URL: https://news.ycombinator.com/item?id=50219825 Points: 1 # Comments: 0
+Article URL: https://faillearnrepeat.net/blog/from-swe-to-ai-research/ Comments URL: https://news.ycombinator.com/item?id=50222088 Points: 2 # Comments: 0
 
-📖 [Read original article](https://pansophics.substack.com/p/how-some-peer-reviewed-journals-contaminated)
+📖 [Read original article](https://faillearnrepeat.net/blog/from-swe-to-ai-research/)
 
 ---
 
-## 2. 5GW / $350B Power Plants and AI Data Centers
+## 2. DetectorScope: AI text detectors that show their work
 
-**Author:** memming  
-**Published:** 10/24/2026, 9:12:33 AM  
+**Author:** wondersky  
+**Published:** 10/24/2026, 3:13:07 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout Comments URL: https://news.ycombinator.com/item?id=50219467 Points: 1 # Comments: 0
+Article URL: https://github.com/google-deepmind/detectorscope Comments URL: https://news.ycombinator.com/item?id=50222061 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout)
+📖 [Read original article](https://github.com/google-deepmind/detectorscope)
 
 ---
 
-## 3. Mace AI founders warn of AI double agents amid banks detecting unauthorized AI
+## 3. AI Assistance Reduces Persistence and Hurts Independent Performance
 
-**Author:** TruffleLabs  
-**Published:** 10/24/2026, 8:54:54 AM  
+**Author:** ingve  
+**Published:** 10/24/2026, 2:45:29 PM  
 **Categories:** -  
 
-Article URL: https://www.thestreet.com/crypto/artificial-intelligence/mace-ai-founders-warn-of-ai-double-agents-amid-banks-detecting-unauthorized-ai-agents- Comments URL: https://news.ycombinator.com/item?id=50219381 Points: 2 # Comments: 1
+Article URL: https://arxiv.org/abs/2604.04721 Comments URL: https://news.ycombinator.com/item?id=50221762 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.thestreet.com/crypto/artificial-intelligence/mace-ai-founders-warn-of-ai-double-agents-amid-banks-detecting-unauthorized-ai-agents-)
+📖 [Read original article](https://arxiv.org/abs/2604.04721)
 
 ---
 
-## 4. UK to invest £100M in 'world first' AI Biosecurity Lab
+## 4. How AI Saved My Company From a 2-Year Litigation Nightmare
 
-**Author:** chrisjj  
-**Published:** 10/24/2026, 8:44:57 AM  
+**Author:** karakoram  
+**Published:** 10/24/2026, 2:44:27 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo Comments URL: https://news.ycombinator.com/item?id=50219343 Points: 3 # Comments: 0
+Article URL: https://tylertringas.com/ai-legal/ Comments URL: https://news.ycombinator.com/item?id=50221750 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo)
+📖 [Read original article](https://tylertringas.com/ai-legal/)
 
 ---
 
-## 5. Show HN: Local AI for dictation, meetings, background tasks and more
+## 5. UX Research for AI Products: The AI-Native Research Lifecycle
 
-**Author:** askintml  
-**Published:** 10/24/2026, 8:04:16 AM  
+**Author:** uxrabhi  
+**Published:** 10/24/2026, 2:39:45 PM  
 **Categories:** -  
 
-Article URL: https://sideos.ai Comments URL: https://news.ycombinator.com/item?id=50219166 Points: 1 # Comments: 0
+Article URL: https://www.uxness.in/2026/10/ux-research-for-ai-products-ai-native-research-lifecycle.html Comments URL: https://news.ycombinator.com/item?id=50221693 Points: 1 # Comments: 0
 
-📖 [Read original article](https://sideos.ai)
+📖 [Read original article](https://www.uxness.in/2026/10/ux-research-for-ai-products-ai-native-research-lifecycle.html)
 
 ---
 
-## 6. USB AI
+## 6. Show HN: TenseMem – deterministic memory for AI agents
 
-**Author:** fipra1969  
-**Published:** 10/24/2026, 7:59:50 AM  
+**Author:** shubh-singh  
+**Published:** 10/24/2026, 2:38:03 PM  
 **Categories:** -  
 
-Article URL: https://usb-ai-hazel.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50219139 Points: 1 # Comments: 0
+Article URL: https://github.com/tensemem/tensemem Comments URL: https://news.ycombinator.com/item?id=50221670 Points: 1 # Comments: 0
 
-📖 [Read original article](https://usb-ai-hazel.vercel.app/)
+📖 [Read original article](https://github.com/tensemem/tensemem)
 
 ---
 
-## 7. Show HN: Inspect AI recommendation evidence and turn findings into website tasks
+## 7. AegisKernel – Zero-Trust OS Syscall and Shell Defense for AI Agents
 
-**Author:** chuanbuilds  
-**Published:** 10/24/2026, 7:47:51 AM  
+**Author:** adityawebde  
+**Published:** 10/24/2026, 2:26:03 PM  
 **Categories:** -  
 
-Article URL: https://aicitewho.com/ Comments URL: https://news.ycombinator.com/item?id=50219085 Points: 1 # Comments: 0
+Article URL: https://github.com/adikshatriyag-crypto/aegis-kernel Comments URL: https://news.ycombinator.com/item?id=50221549 Points: 1 # Comments: 0
 
-📖 [Read original article](https://aicitewho.com/)
+📖 [Read original article](https://github.com/adikshatriyag-crypto/aegis-kernel)
 
 ---
 
-## 8. ZK-irp-firewall – Rust/Python ZK security framework for AI agents
+## 8. Show HN: Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)
 
-**Author:** trenttrinder111  
-**Published:** 10/24/2026, 7:43:40 AM  
+**Author:** aldyernesto  
+**Published:** 10/24/2026, 2:17:40 PM  
 **Categories:** -  
 
-Article URL: https://github.com/trenttrinder1111-byte/zk-irp-firewall Comments URL: https://news.ycombinator.com/item?id=50219061 Points: 1 # Comments: 0
+Article URL: https://github.com/Aldyernesto/shotstash Comments URL: https://news.ycombinator.com/item?id=50221460 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/trenttrinder1111-byte/zk-irp-firewall)
+📖 [Read original article](https://github.com/Aldyernesto/shotstash)
 
 ---
 
-## 9. Samsung TV on-device AI listening, using soundbar's mic if the TV has none
+## 9. AI gets about 10x cheaper every year
 
-**Author:** saulapremium  
-**Published:** 10/24/2026, 7:13:52 AM  
+**Author:** Curiositry  
+**Published:** 10/24/2026, 2:15:23 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218950 Points: 3 # Comments: 1
+Article URL: https://stevekrouse.com/10x Comments URL: https://news.ycombinator.com/item?id=50221446 Points: 3 # Comments: 2
 
-📖 [Read original article](https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/)
+📖 [Read original article](https://stevekrouse.com/10x)
 
 ---
 
-## 10. Few Americans Say They Are Asking AI Chatbots for 2026 Election Information
+## 10. US Air Force wants AI to assist aerial refueling
 
-**Author:** giuliomagnifico  
-**Published:** 10/24/2026, 7:10:15 AM  
+**Author:** firesteelrain  
+**Published:** 10/24/2026, 1:52:56 PM  
 **Categories:** -  
 
-Article URL: https://www.pewresearch.org/short-reads/2026/10/23/few-americans-say-they-are-asking-ai-chatbots-for-2026-election-information/ Comments URL: https://news.ycombinator.com/item?id=50218935 Points: 2 # Comments: 0
+Article URL: https://www.militarytimes.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/ Comments URL: https://news.ycombinator.com/item?id=50221226 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.pewresearch.org/short-reads/2026/10/23/few-americans-say-they-are-asking-ai-chatbots-for-2026-election-information/)
+📖 [Read original article](https://www.militarytimes.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/)
 
 ---
 
-## 11. That AI Temptation
+## 11. Is AI just another get rich quick scheme?
 
-**Author:** robin_reala  
-**Published:** 10/24/2026, 6:18:39 AM  
+**Author:** jqpabc123  
+**Published:** 10/24/2026, 1:11:37 PM  
 **Categories:** -  
 
-Article URL: https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation Comments URL: https://news.ycombinator.com/item?id=50218743 Points: 3 # Comments: 1
+You too can get rich quick in real estate --- details in this book; only $49.95.If there really was a sure fire way to get rich quick, why sell books to the public? Why not keep it to yourself and apply it to make money?The same applies to AI. If it was really all that, they wouldn't be selling toke...
 
-📖 [Read original article](https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation)
+📖 [Read original article](https://news.ycombinator.com/item?id=50220934)
 
 ---
 
-## 12. California has more revenue than expected thanks to AI. Should it save it?
+## 12. Regulate the deployment, not just the model: a who-does-what plan for AI safety
 
-**Author:** MilnerRoute  
-**Published:** 10/24/2026, 6:06:12 AM  
+**Author:** nedruod  
+**Published:** 10/24/2026, 12:57:53 PM  
 **Categories:** -  
 
-Article URL: https://calmatters.org/politics/2026/10/california-proposition-2-explained/ Comments URL: https://news.ycombinator.com/item?id=50218702 Points: 3 # Comments: 0
+Article URL: https://substack.norabble.com/p/ai-safety-is-all-hands-on-deck Comments URL: https://news.ycombinator.com/item?id=50220831 Points: 2 # Comments: 0
 
-📖 [Read original article](https://calmatters.org/politics/2026/10/california-proposition-2-explained/)
+📖 [Read original article](https://substack.norabble.com/p/ai-safety-is-all-hands-on-deck)
 
 ---
 
-## 13. Show HN: Let your AI agent put things on a screen
+## 13. Show HN: Mantid, a Mac app that lets non-ML people train their own AI models
 
-**Author:** linxy97  
-**Published:** 10/24/2026, 5:59:23 AM  
+**Author:** adiv_maimon  
+**Published:** 10/24/2026, 12:49:06 PM  
 **Categories:** -  
 
-Article URL: https://console.usetd.com/ Comments URL: https://news.ycombinator.com/item?id=50218670 Points: 1 # Comments: 0
+Article URL: https://mantid.dev Comments URL: https://news.ycombinator.com/item?id=50220773 Points: 1 # Comments: 1
 
-📖 [Read original article](https://console.usetd.com/)
+📖 [Read original article](https://mantid.dev)
 
 ---
 
-## 14. Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended
+## 14. AI gets more diagnoses right than generalist doctors in medical challenge
 
-**Author:** testing22321  
-**Published:** 10/24/2026, 5:49:57 AM  
+**Author:** geox  
+**Published:** 10/24/2026, 12:38:09 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 149 # Comments: 29
+Article URL: https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html Comments URL: https://news.ycombinator.com/item?id=50220694 Points: 6 # Comments: 0
 
-📖 [Read original article](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
+📖 [Read original article](https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html)
 
 ---
 
-## 15. Show HN: Code Counter Machine a modern analysis of AI driven development costs
+## 15. What's Wrong with AI?
 
-**Author:** vikrantrathore  
-**Published:** 10/24/2026, 5:47:12 AM  
+**Author:** meetpateltech  
+**Published:** 10/24/2026, 12:30:32 PM  
 **Categories:** -  
 
-I worked a lot of cloc, sloc and scc and used them for various usage. But with AI driven development some of the models COCOMO I and II might not be that relevant.So built a new cli ccm short for code counter machine.Documentation: https://insanai.github.io/ccm/ Comments URL: https://news.ycombinato...
+Article URL: https://homepage.farm/ai.html Comments URL: https://news.ycombinator.com/item?id=50220640 Points: 5 # Comments: 0
 
-📖 [Read original article](https://github.com/insanai/ccm)
+📖 [Read original article](https://homepage.farm/ai.html)
 
 ---
 
-## 16. Show HN: Latch – Make any website usable by AI agents in one line (WebMCP)
+## 16. Minimum lot sizes, Boeing's next 737 MAX, Fervo short sellers, Figure AI's data
 
-**Author:** r0bertini  
-**Published:** 10/24/2026, 5:41:41 AM  
+**Author:** juliangamble  
+**Published:** 10/24/2026, 12:16:03 PM  
 **Categories:** -  
 
-Article URL: https://latch.tools/ Comments URL: https://news.ycombinator.com/item?id=50218601 Points: 1 # Comments: 1
+Article URL: https://www.construction-physics.com/p/reading-list-102426 Comments URL: https://news.ycombinator.com/item?id=50220547 Points: 1 # Comments: 0
 
-📖 [Read original article](https://latch.tools/)
+📖 [Read original article](https://www.construction-physics.com/p/reading-list-102426)
 
 ---
 
-## 17. Show HN: Pilely – Build and ship web apps within your AI chat
+## 17. Shigeru Miyamoto on Gen AI
 
-**Author:** pcpliu  
-**Published:** 10/24/2026, 5:32:49 AM  
+**Author:** glimshe  
+**Published:** 10/24/2026, 11:52:32 AM  
 **Categories:** -  
 
-Article URL: https://pilely.ai/ Comments URL: https://news.ycombinator.com/item?id=50218573 Points: 2 # Comments: 0
+Article URL: https://www.ndw.jp/nintendo-interview-261023/ Comments URL: https://news.ycombinator.com/item?id=50220413 Points: 1 # Comments: 0
 
-📖 [Read original article](https://pilely.ai/)
+📖 [Read original article](https://www.ndw.jp/nintendo-interview-261023/)
 
 ---
 
-## 18. Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups
+## 18. Draggy: A Windows desktop app for local and cloud AI chat and coding
 
-**Author:** thm  
-**Published:** 10/24/2026, 5:27:03 AM  
+**Author:** lucki74  
+**Published:** 10/24/2026, 11:28:42 AM  
 **Categories:** -  
 
-Article URL: https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/ Comments URL: https://news.ycombinator.com/item?id=50218553 Points: 8 # Comments: 0
+Article URL: https://github.com/Lucki74/draggy Comments URL: https://news.ycombinator.com/item?id=50220255 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/)
+📖 [Read original article](https://github.com/Lucki74/draggy)
 
 ---
 
-## 19. 'Smart Wall' of AI Cameras Is Watching the Border and More Than a Million People
+## 19. Show HN: AI text detector that never sees your text (runs 100% in-browser)
 
-**Author:** ryan_j_naughton  
-**Published:** 10/24/2026, 4:55:56 AM  
+**Author:** mrkn1  
+**Published:** 10/24/2026, 11:28:36 AM  
 **Categories:** -  
 
-Article URL: https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html Comments URL: https://news.ycombinator.com/item?id=50218450 Points: 4 # Comments: 0
+Article URL: https://kouh.me/ai-text-detector Comments URL: https://news.ycombinator.com/item?id=50220254 Points: 5 # Comments: 7
 
-📖 [Read original article](https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html)
+📖 [Read original article](https://kouh.me/ai-text-detector)
 
 ---
 
-## 20. Pangram CEO: People believe AI writing is indistinguishable from ours. It's not
+## 20. AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist
 
-**Author:** paulpauper  
-**Published:** 10/24/2026, 4:52:28 AM  
+**Author:** TangerineDream  
+**Published:** 10/24/2026, 11:18:54 AM  
 **Categories:** -  
 
-Article URL: https://bigthink.com/science-tech/trust-issues/ Comments URL: https://news.ycombinator.com/item?id=50218438 Points: 2 # Comments: 0
+Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 67 # Comments: 24
 
-📖 [Read original article](https://bigthink.com/science-tech/trust-issues/)
+📖 [Read original article](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
 
 ---
