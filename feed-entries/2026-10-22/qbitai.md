@@ -2,12 +2,12 @@
 title: "qbitai - 2026-10-22"
 date: "2026-10-22"
 source: "qbitai"
-count: 4
+count: 2
 ---
 
 # qbitai - 2026-10-22
 
-4 items collected.
+2 items collected.
 
 ---
 
@@ -32,29 +32,5 @@ count: 4
 FSD一年增长70万付费用户
 
 📖 [Read original article](https://www.qbitai.com/2026/10/504841.html)
-
----
-
-## 3. 既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布
-
-**Author:** 量子位的朋友们  
-**Published:** 10/22/2026, 7:11:14 AM  
-**Categories:** 资讯, 华为, 电信  
-
-中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent
-
-📖 [Read original article](https://www.qbitai.com/2026/10/504832.html)
-
----
-
-## 4. 谁在给OpenAI供应具身数据？
-
-**Author:** 梦瑶  
-**Published:** 10/22/2026, 7:05:59 AM  
-**Categories:** 资讯, OpenAI  
-
-挤进全球Physical AI核心供应链
-
-📖 [Read original article](https://www.qbitai.com/2026/10/504800.html)
 
 ---
