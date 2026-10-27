@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. OSRS Wiki and RuneLite increasingly under strain from low-effort AI development
+## 1. Show HN: Spend Extra AI Usage Transcribing Murray's New English Dictionary
 
-**Author:** Planktonne  
-**Published:** 10/27/2026, 5:29:11 PM  
+**Author:** dvorak007  
+**Published:** 10/27/2026, 9:44:13 PM  
 **Categories:** -  
 
-Article URL: https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development Comments URL: https://news.ycombinator.com/item?id=50262634 Points: 1 # Comments: 0
+I've been working on transcribing the New English Dictionary ( NED ) into clean text using my extra usage on my AI sub.Thought I'd open it up to everyone and see if anyone want's to put their leftover usage to good use!Also would welcome any pointers getting something like this transcribed. Thanks! ...
 
-📖 [Read original article](https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development)
+📖 [Read original article](https://github.com/timjonez/new-english-dictionary)
 
 ---
 
-## 2. I benchmarked 4 web search APIs for AI agents on 30 live queries
+## 2. The doorman fallacy in the age of AI
 
-**Author:** pallavisingla  
-**Published:** 10/27/2026, 5:25:18 PM  
+**Author:** hubraumhugo  
+**Published:** 10/27/2026, 9:31:42 PM  
 **Categories:** -  
 
-Article URL: https://github.com/psinglap/websearch-api-eval Comments URL: https://news.ycombinator.com/item?id=50262573 Points: 1 # Comments: 0
+Article URL: https://www.adriankrebs.ch/blog/ai-and-the-doorman-fallacy/ Comments URL: https://news.ycombinator.com/item?id=50266138 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/psinglap/websearch-api-eval)
+📖 [Read original article](https://www.adriankrebs.ch/blog/ai-and-the-doorman-fallacy/)
 
 ---
 
-## 3. Satya Nadella Rethinks Whether More Powerful AI Is Safer
+## 3. Head of ADL claims they are \"cleaning up\" AI and Wikipedia
 
-**Author:** hirodxb  
-**Published:** 10/27/2026, 5:18:36 PM  
+**Author:** newspaper1  
+**Published:** 10/27/2026, 9:27:55 PM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/satya-nadella-ai-alignment-changed-mind-different-problem-scales-2026-10 Comments URL: https://news.ycombinator.com/item?id=50262470 Points: 3 # Comments: 1
+Article URL: https://twitter.com/infolibnews/status/2115106467460108731 Comments URL: https://news.ycombinator.com/item?id=50266079 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.businessinsider.com/satya-nadella-ai-alignment-changed-mind-different-problem-scales-2026-10)
+📖 [Read original article](https://twitter.com/infolibnews/status/2115106467460108731)
 
 ---
 
-## 4. Show HN: Search2o Simplifies AI Agents
+## 4. Meta launches plan for $95B stock offering to fund AI expansion
 
-**Author:** ramvenkat11  
-**Published:** 10/27/2026, 5:18:03 PM  
+**Author:** gmays  
+**Published:** 10/27/2026, 9:08:59 PM  
 **Categories:** -  
 
-Article URL: https://search2o.com/ Comments URL: https://news.ycombinator.com/item?id=50262458 Points: 2 # Comments: 0
+Article URL: https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html Comments URL: https://news.ycombinator.com/item?id=50265833 Points: 4 # Comments: 0
 
-📖 [Read original article](https://search2o.com/)
+📖 [Read original article](https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html)
 
 ---
 
-## 5. Prose and Thorns – romantasy book discovery with AI-synthesized quality scores
+## 5. I put an AI in the Garden of Eden. Then I introduced the serpent
 
-**Author:** mattbaum  
-**Published:** 10/27/2026, 5:12:26 PM  
+**Author:** absurdwebsite  
+**Published:** 10/27/2026, 8:51:54 PM  
 **Categories:** -  
 
-Article URL: https://proseandthorns.com Comments URL: https://news.ycombinator.com/item?id=50262361 Points: 1 # Comments: 0
+Article URL: https://www.reddit.com/r/ChatGPT/comments/1xh30mr/i_put_an_ai_in_the_garden_of_eden_then_i/ Comments URL: https://news.ycombinator.com/item?id=50265624 Points: 2 # Comments: 0
 
-📖 [Read original article](https://proseandthorns.com)
+📖 [Read original article](https://www.reddit.com/r/ChatGPT/comments/1xh30mr/i_put_an_ai_in_the_garden_of_eden_then_i/)
 
 ---
 
-## 6. Agentic AI Foundation Adds Four New Open Agent Projects
+## 6. In China, the AI bubble has burst
 
-**Author:** CrankyBear  
-**Published:** 10/27/2026, 5:09:25 PM  
+**Author:** smurda  
+**Published:** 10/27/2026, 8:44:20 PM  
 **Categories:** -  
 
-Article URL: https://techstrong.ai/building-with-ai/featured/agentic-ai-foundation-adds-four-new-open-agent-projects/ Comments URL: https://news.ycombinator.com/item?id=50262308 Points: 1 # Comments: 0
+Article URL: https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html Comments URL: https://news.ycombinator.com/item?id=50265525 Points: 12 # Comments: 3
 
-📖 [Read original article](https://techstrong.ai/building-with-ai/featured/agentic-ai-foundation-adds-four-new-open-agent-projects/)
+📖 [Read original article](https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html)
 
 ---
 
-## 7. Show HN: AgenticBench, 9 security tests run on 25 AI coding agents
+## 7. The US AI Labs, Part 2: The Suppliers Are Financing Their Own Customers
 
-**Author:** pantaleone  
-**Published:** 10/27/2026, 5:08:18 PM  
+**Author:** nedsma  
+**Published:** 10/27/2026, 8:37:03 PM  
 **Categories:** -  
 
-Article URL: https://agenticbench.org/ Comments URL: https://news.ycombinator.com/item?id=50262290 Points: 1 # Comments: 0
+Article URL: https://codingplans.dev/briefs/us-model-labs-part-2/ Comments URL: https://news.ycombinator.com/item?id=50265421 Points: 2 # Comments: 0
 
-📖 [Read original article](https://agenticbench.org/)
+📖 [Read original article](https://codingplans.dev/briefs/us-model-labs-part-2/)
 
 ---
 
-## 8. Who needs AI psychosis? I gave myself VR psychosis
+## 8. Ask HN: How will HN transition to allowing AI writing when society accepts it?
 
-**Author:** jakey_bakey  
-**Published:** 10/27/2026, 4:45:50 PM  
+**Author:** amichail  
+**Published:** 10/27/2026, 8:33:42 PM  
 **Categories:** -  
 
-Article URL: https://blog.jacobstechtavern.com/p/vr-psychosis Comments URL: https://news.ycombinator.com/item?id=50261905 Points: 4 # Comments: 0
+In the near future, using AI to write will be just as acceptable as using glasses to read.How will HN make the transition when this happens? Comments URL: https://news.ycombinator.com/item?id=50265376 Points: 1 # Comments: 6
 
-📖 [Read original article](https://blog.jacobstechtavern.com/p/vr-psychosis)
+📖 [Read original article](https://news.ycombinator.com/item?id=50265376)
 
 ---
 
-## 9. At 14 Justine Tunney published software. Now she makes AI models run from a file
+## 9. Can maths survive AI? Fields medallist Terence Tao calls for a 'Maths 2.0' world
 
-**Author:** hochmartinez  
-**Published:** 10/27/2026, 4:44:50 PM  
+**Author:** bookofjoe  
+**Published:** 10/27/2026, 8:22:48 PM  
 **Categories:** -  
 
-Article URL: https://timesofindia.indiatimes.com/education/news/at-14-justine-tunney-was-already-publishing-software-years-later-her-five-year-project-helped-make-local-ai-models-run-from-a-single-file/articleshow/134581627.cms Comments URL: https://news.ycombinator.com/item?id=50261887 Points: 2 # ...
+Article URL: https://www.nature.com/articles/d41586-026-03389-1 Comments URL: https://news.ycombinator.com/item?id=50265245 Points: 1 # Comments: 1
 
-📖 [Read original article](https://timesofindia.indiatimes.com/education/news/at-14-justine-tunney-was-already-publishing-software-years-later-her-five-year-project-helped-make-local-ai-models-run-from-a-single-file/articleshow/134581627.cms)
+📖 [Read original article](https://www.nature.com/articles/d41586-026-03389-1)
 
 ---
 
-## 10. AI co-authored commits: 3 open-source projects in 2023, 686 of 874 in 2026
+## 10. AI-Generated Motion Graphics and the Prompts Behind Them?
 
-**Author:** nerolabs  
-**Published:** 10/27/2026, 4:42:48 PM  
+**Author:** Adam-Hincu  
+**Published:** 10/27/2026, 8:09:40 PM  
 **Categories:** -  
 
-Article URL: https://borehole.dev/data/ai-policies Comments URL: https://news.ycombinator.com/item?id=50261855 Points: 1 # Comments: 1
+Article URL: https://medium.com/@Edem.mirotan/ai-generated-motion-graphics-and-the-prompts-behind-them-751128b3e336 Comments URL: https://news.ycombinator.com/item?id=50265076 Points: 3 # Comments: 0
 
-📖 [Read original article](https://borehole.dev/data/ai-policies)
+📖 [Read original article](https://medium.com/@Edem.mirotan/ai-generated-motion-graphics-and-the-prompts-behind-them-751128b3e336)
 
 ---
 
-## 11. Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior
+## 11. Trump isn't happy people are ignoring his new name for AI
 
-**Author:** gumby  
-**Published:** 10/27/2026, 4:40:15 PM  
+**Author:** bundie  
+**Published:** 10/27/2026, 8:06:36 PM  
 **Categories:** -  
 
-Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 77 # Comments: 18
+Article URL: https://www.neowin.net/news/trump-isnt-happy-people-are-ignoring-his-new-name-for-ai/ Comments URL: https://news.ycombinator.com/item?id=50265042 Points: 5 # Comments: 1
 
-📖 [Read original article](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
+📖 [Read original article](https://www.neowin.net/news/trump-isnt-happy-people-are-ignoring-his-new-name-for-ai/)
 
 ---
 
-## 12. A Framework Toward Responsible and Beneficial AI for Fundraising
+## 12. Vibe coded a point-and-click game to learn about the Drupal AI Ecosystem
 
-**Author:** eustoria  
-**Published:** 10/27/2026, 4:25:39 PM  
+**Author:** Bluestein  
+**Published:** 10/27/2026, 8:01:53 PM  
 **Categories:** -  
 
-Article URL: https://fundraising.ai/framework/ Comments URL: https://news.ycombinator.com/item?id=50261590 Points: 2 # Comments: 0
+Article URL: https://workflows-of-ai.com/blog/i-vibe-coded-a-point-and-click-game-to-learn-about-the-drupal-ai-ecosystem Comments URL: https://news.ycombinator.com/item?id=50264962 Points: 1 # Comments: 0
 
-📖 [Read original article](https://fundraising.ai/framework/)
+📖 [Read original article](https://workflows-of-ai.com/blog/i-vibe-coded-a-point-and-click-game-to-learn-about-the-drupal-ai-ecosystem)
 
 ---
 
-## 13. Amazon Is Gutting Its AI Division After Sustained Failure
+## 13. Anthropic IPO might kick off tech reset if the AI stock underperforms
 
-**Author:** dpflan  
-**Published:** 10/27/2026, 4:25:30 PM  
+**Author:** gmays  
+**Published:** 10/27/2026, 7:59:31 PM  
 **Categories:** -  
 
-Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 15 # Comments: 3
+Article URL: https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html Comments URL: https://news.ycombinator.com/item?id=50264920 Points: 4 # Comments: 1
 
-📖 [Read original article](https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova)
+📖 [Read original article](https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html)
 
 ---
 
-## 14. Cerebras and Oracle Team Up to Bring Cerebras AI Inference to OCI
+## 14. Survival LLM: AI assistant and emergency library that runs on your own computer
 
-**Author:** 6thbit  
-**Published:** 10/27/2026, 4:24:10 PM  
+**Author:** Luc  
+**Published:** 10/27/2026, 7:55:06 PM  
 **Categories:** -  
 
-Article URL: https://www.cerebras.ai/press-release/cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-inf-3389429 Comments URL: https://news.ycombinator.com/item?id=50261568 Points: 5 # Comments: 0
+Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 77 # Comments: 54
 
-📖 [Read original article](https://www.cerebras.ai/press-release/cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-inf-3389429)
+📖 [Read original article](https://www.brangus.io/survival-llm)
 
 ---
 
-## 15. Dataset of 50k AI generated \"podcasts\"
+## 15. Meta plans $95B stock offering to bankroll AI expansion
 
-**Author:** wenbin  
-**Published:** 10/27/2026, 4:18:40 PM  
+**Author:** JumpCrisscross  
+**Published:** 10/27/2026, 7:49:31 PM  
 **Categories:** -  
 
-Article URL: https://www.kaggle.com/datasets/listennotes/ai-generated-fake-podcasts-spams Comments URL: https://news.ycombinator.com/item?id=50261498 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555 Comments URL: https://news.ycombinator.com/item?id=50264771 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.kaggle.com/datasets/listennotes/ai-generated-fake-podcasts-spams)
+📖 [Read original article](https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555)
 
 ---
 
-## 16. Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts
+## 16. Show HN: Autosomal.ai Free AI-Based Age, Gender, and Ethnicity Guesser
 
-**Author:** Refreeze5224  
-**Published:** 10/27/2026, 4:18:35 PM  
+**Author:** romon  
+**Published:** 10/27/2026, 7:32:36 PM  
 **Categories:** -  
 
-Article URL: https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst Comments URL: https://news.ycombinator.com/item?id=50261497 Points: 2 # Comments: 0
+The age and gender prediction are based on open models.The ethnicity guesser is a private model I have been developing. Accuracy is continuously being fine-tuned. Please submit feedback on the site when a model predicts incorrectly so we can improve the model. Comments URL: https://news.ycombinator....
 
-📖 [Read original article](https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst)
+📖 [Read original article](https://autosomal.ai/)
 
 ---
 
-## 17. Show HN: Freightfloor. Have 3 minutes? Drive a forklift vs. AI
+## 17. AI refutes 30-year-old mathematical assumption in computer science
 
-**Author:** davenportjw  
-**Published:** 10/27/2026, 4:18:00 PM  
+**Author:** emil-lp  
+**Published:** 10/27/2026, 7:31:16 PM  
 **Categories:** -  
 
-Have 3 minutes? Drive a forklift, and compete for the high score (and see how AI can work with regular programming). Comments URL: https://news.ycombinator.com/item?id=50261492 Points: 3 # Comments: 0
+Article URL: https://www.newscientist.com/article/2596045-ai-refutes-30-year-old-mathematical-assumption-in-computer-science/ Comments URL: https://news.ycombinator.com/item?id=50264510 Points: 4 # Comments: 2
 
-📖 [Read original article](https://freightfloor.com)
+📖 [Read original article](https://www.newscientist.com/article/2596045-ai-refutes-30-year-old-mathematical-assumption-in-computer-science/)
 
 ---
 
-## 18. Aulico: Learn to Invest with AI
+## 18. Working with AI: Lessons from software's head start
 
-**Author:** rendernos  
-**Published:** 10/27/2026, 4:13:35 PM  
+**Author:** jdamon96  
+**Published:** 10/27/2026, 7:17:06 PM  
 **Categories:** -  
 
-Article URL: https://www.aulico.com Comments URL: https://news.ycombinator.com/item?id=50261421 Points: 1 # Comments: 0
+Article URL: https://jackdamon.org/blog/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50264316 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.aulico.com)
+📖 [Read original article](https://jackdamon.org/blog/working-with-ai/)
 
 ---
 
-## 19. Show HN: Crulon – Business phone where AI does the work, humans make the calls
+## 19. Show HN: Dola AI – AI images, video, creative and office tools
 
-**Author:** rayn11  
-**Published:** 10/27/2026, 4:10:26 PM  
+**Author:** vantareed  
+**Published:** 10/27/2026, 7:13:29 PM  
 **Categories:** -  
 
-Hi HN, I’m Rayhan. Crulon is a business phone system where an AI agent answers the line and your team works alongside it. You can talk with our demo agent right in your browser, no sign-up: https://crulon.ai/#talkWhy I built it: I’ve spent eight years as a software and network engineer, mostly build...
+Article URL: https://dola-ai.com/ Comments URL: https://news.ycombinator.com/item?id=50264266 Points: 1 # Comments: 0
 
-📖 [Read original article](https://crulon.ai/#talk)
+📖 [Read original article](https://dola-ai.com/)
 
 ---
 
-## 20. Show HN: Weir - Catch credential leaks in the AI agents you build and use
+## 20. Cowboy Space unveils 'Big Iron' rocket to launch 20k AI data centers
 
-**Author:** CodeNinja778  
-**Published:** 10/27/2026, 4:07:29 PM  
+**Author:** svggrfgovgf  
+**Published:** 10/27/2026, 7:10:17 PM  
 **Categories:** -  
 
-Hi HN. Weir is for one problem: credentials crossing the boundaries of your AI agent.For agents you build, Weir plants fake credentials where real ones would live, runs the agent's normal flows, and checks what comes out: telemetry, logs, console output, model requests, and requests to other service...
+Article URL: https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers Comments URL: https://news.ycombinator.com/item?id=50264210 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/IdoGol24/weir)
+📖 [Read original article](https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers)
 
 ---
