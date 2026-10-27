@@ -2,239 +2,251 @@
 title: "Hacker News AI - 2026-10-27"
 date: "2026-10-27"
 source: "Hacker News AI"
-count: 19
+count: 20
 ---
 
 # Hacker News AI - 2026-10-27
 
-19 items collected.
+20 items collected.
 
 ---
 
-## 1. Create and edit images with a collection of easy-to-use AI tools
+## 1. Show HN: I built a tool to audit Shopify stores for AI agent and Google Shopping
 
-**Author:** madisonmothkuri  
-**Published:** 10/27/2026, 3:39:12 AM  
+**Author:** emirhanozsoy  
+**Published:** 10/27/2026, 11:41:44 AM  
 **Categories:** -  
 
-Article URL: https://www.picttool.com/ Comments URL: https://news.ycombinator.com/item?id=50254470 Points: 3 # Comments: 0
+Article URL: https://catalogaudit.app/ Comments URL: https://news.ycombinator.com/item?id=50257657 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.picttool.com/)
+📖 [Read original article](https://catalogaudit.app/)
 
 ---
 
-## 2. Kazakhstan Expands Compute for Its AI Future
+## 2. Wikipedia's Cleanup of AI-Generated Content
 
-**Author:** gmays  
-**Published:** 10/27/2026, 3:23:52 AM  
+**Author:** rbanffy  
+**Published:** 10/27/2026, 11:08:15 AM  
 **Categories:** -  
 
-Article URL: https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/ Comments URL: https://news.ycombinator.com/item?id=50254386 Points: 3 # Comments: 1
+Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 7 # Comments: 2
 
-📖 [Read original article](https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/)
+📖 [Read original article](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
 
 ---
 
-## 3. Ask HN: Do you feel like you're seeing fewer bugs since the AI coding era began?
+## 3. AI promised less work. I've never worked more
 
-**Author:** harry8  
-**Published:** 10/27/2026, 2:47:06 AM  
+**Author:** oorestisime  
+**Published:** 10/27/2026, 11:08:14 AM  
 **Categories:** -  
 
-Just gut feel. Software you encounter, use regularly, whatever. Not the stuff you work on if you do.Feel like things are more stable and work better? Less so? About the same? Comments URL: https://news.ycombinator.com/item?id=50254174 Points: 3 # Comments: 3
+Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 2 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50254174)
+📖 [Read original article](https://oioannou.com/blog/ai-promised-less-work/)
 
 ---
 
-## 4. AI and the Rise of Cognitive Overload
+## 4. Meet The AI Agents Trying to Be Real-Life Journalists
 
-**Author:** abixb  
-**Published:** 10/27/2026, 1:54:14 AM  
+**Author:** thm  
+**Published:** 10/27/2026, 10:51:36 AM  
 **Categories:** -  
 
-Article URL: https://www.psychologytoday.com/us/blog/the-mindful-epidemiologist/202603/ai-and-the-rise-of-cognitive-overload Comments URL: https://news.ycombinator.com/item?id=50253788 Points: 1 # Comments: 0
+Article URL: https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/ Comments URL: https://news.ycombinator.com/item?id=50257178 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.psychologytoday.com/us/blog/the-mindful-epidemiologist/202603/ai-and-the-rise-of-cognitive-overload)
+📖 [Read original article](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/)
 
 ---
 
-## 5. AI Science vs. Human Science
+## 5. Highlighting What Changed: A Go Diff-Mask for AI Agent Screenshots
 
-**Author:** martincsweiss  
-**Published:** 10/27/2026, 1:51:04 AM  
+**Author:** cheikhdev  
+**Published:** 10/27/2026, 10:48:38 AM  
 **Categories:** -  
 
-Article URL: https://lacuna.tiptreesystems.com/paper/ai-science-vs-human-science/art_3901430d6c0e4bddb284362100ef8548 Comments URL: https://news.ycombinator.com/item?id=50253759 Points: 4 # Comments: 1
+Article URL: https://towardsdev.com/highlighting-what-changed-a-go-diff-mask-for-ai-agent-screenshots-64551334911a?sk=5efd0778f96236fa3fbefdb52727b5d5 Comments URL: https://news.ycombinator.com/item?id=50257151 Points: 1 # Comments: 0
 
-📖 [Read original article](https://lacuna.tiptreesystems.com/paper/ai-science-vs-human-science/art_3901430d6c0e4bddb284362100ef8548)
+📖 [Read original article](https://towardsdev.com/highlighting-what-changed-a-go-diff-mask-for-ai-agent-screenshots-64551334911a?sk=5efd0778f96236fa3fbefdb52727b5d5)
 
 ---
 
-## 6. What to do if you discover AI models trained using your copywrighted book?
+## 6. Show HN: HypeSeoul – AI-painted isometric map of Seoul that runs on Seoul time
 
-**Author:** andrea81  
-**Published:** 10/27/2026, 1:18:50 AM  
+**Author:** bitjaru0402  
+**Published:** 10/27/2026, 10:47:54 AM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=50253561 Points: 11 # Comments: 4
+Article URL: https://hypeseoul.xyz/?s=hn Comments URL: https://news.ycombinator.com/item?id=50257143 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50253561)
+📖 [Read original article](https://hypeseoul.xyz/?s=hn)
 
 ---
 
-## 7. Do you want to keep your job? Stop feeding AI models
+## 7. MCP-warden local credential broker so AI agents never see your secrets
 
-**Author:** andrea81  
-**Published:** 10/27/2026, 1:14:09 AM  
+**Author:** ermoluk  
+**Published:** 10/27/2026, 10:28:15 AM  
 **Categories:** -  
 
-How about we stop giving your skills to these guys who are putting us out of work? Comments URL: https://news.ycombinator.com/item?id=50253524 Points: 5 # Comments: 4
+Article URL: https://github.com/ermoluk/mcp-warden Comments URL: https://news.ycombinator.com/item?id=50256991 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50253524)
+📖 [Read original article](https://github.com/ermoluk/mcp-warden)
 
 ---
 
-## 8. AI wasn't overhyped. Almost everyone underestimated it
+## 8. GDPR change lets companies train AI on Europeans' personal data without consent
 
-**Author:** gmays  
-**Published:** 10/27/2026, 1:07:00 AM  
+**Author:** weberer  
+**Published:** 10/27/2026, 10:10:40 AM  
 **Categories:** -  
 
-Article URL: https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last Comments URL: https://news.ycombinator.com/item?id=50253468 Points: 2 # Comments: 1
+Article URL: https://twitter.com/IntCyberDigest/status/2114838732197224927 Comments URL: https://news.ycombinator.com/item?id=50256839 Points: 2 # Comments: 1
 
-📖 [Read original article](https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last)
+📖 [Read original article](https://twitter.com/IntCyberDigest/status/2114838732197224927)
 
 ---
 
-## 9. The \"let-it-rip\" camp is wrong on AI
+## 9. Keeping API keys out of our AI agent's sandbox, and what that doesn't solve
 
-**Author:** andsoitis  
-**Published:** 10/27/2026, 1:00:27 AM  
+**Author:** shivsarthak  
+**Published:** 10/27/2026, 10:10:25 AM  
 **Categories:** -  
 
-Article URL: https://economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-is-wrong-on-ai Comments URL: https://news.ycombinator.com/item?id=50253428 Points: 1 # Comments: 1
+Article URL: https://askdoozy.com/blog/ai-agent-api-keys-sandbox Comments URL: https://news.ycombinator.com/item?id=50256835 Points: 1 # Comments: 0
 
-📖 [Read original article](https://economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-is-wrong-on-ai)
+📖 [Read original article](https://askdoozy.com/blog/ai-agent-api-keys-sandbox)
 
 ---
 
-## 10. Show HN: Marlow – Build full-stack apps with AI and own your code
+## 10. 1 in 8B – An AI-Powered Life Simulator
 
-**Author:** kristapsmarlow  
-**Published:** 10/27/2026, 1:00:23 AM  
+**Author:** dotcurio  
+**Published:** 10/27/2026, 9:39:14 AM  
 **Categories:** -  
 
-Article URL: https://marlow.app/beta Comments URL: https://news.ycombinator.com/item?id=50253426 Points: 1 # Comments: 1
+Article URL: https://1in8billion.games Comments URL: https://news.ycombinator.com/item?id=50256598 Points: 2 # Comments: 0
 
-📖 [Read original article](https://marlow.app/beta)
+📖 [Read original article](https://1in8billion.games)
 
 ---
 
-## 11. Request for Immediate Release of Yang–Mills AI Output
+## 11. I tested 12 small AI models on 2,500 design-system questions
 
-**Author:** kerim-ca  
-**Published:** 10/27/2026, 12:51:10 AM  
+**Author:** elwingo1  
+**Published:** 10/27/2026, 9:34:32 AM  
 **Categories:** -  
 
-Article URL: https://agmai.org/#request-immediate-release Comments URL: https://news.ycombinator.com/item?id=50253373 Points: 1 # Comments: 0
+Article URL: https://www.designsystemscollective.com/i-tested-12-small-ai-models-on-2-500-design-system-questions-the-model-wasnt-what-mattered-4ef16e69ad64 Comments URL: https://news.ycombinator.com/item?id=50256562 Points: 3 # Comments: 0
 
-📖 [Read original article](https://agmai.org/#request-immediate-release)
+📖 [Read original article](https://www.designsystemscollective.com/i-tested-12-small-ai-models-on-2-500-design-system-questions-the-model-wasnt-what-mattered-4ef16e69ad64)
 
 ---
 
-## 12. Why using AI saves doctors time but won't fix physician burnout
+## 12. RFC AI Tooling: 40x fewer tokens while reading the RFC corpus
 
-**Author:** beansovertoast  
-**Published:** 10/27/2026, 12:48:39 AM  
+**Author:** shbernal01  
+**Published:** 10/27/2026, 9:29:57 AM  
 **Categories:** -  
 
-Article URL: https://theconversation.com/why-using-ai-saves-doctors-time-but-wont-fix-physician-burnout-291250 Comments URL: https://news.ycombinator.com/item?id=50253357 Points: 1 # Comments: 0
+Article URL: https://github.com/shbernal/rfc-ai-tooling Comments URL: https://news.ycombinator.com/item?id=50256531 Points: 1 # Comments: 0
 
-📖 [Read original article](https://theconversation.com/why-using-ai-saves-doctors-time-but-wont-fix-physician-burnout-291250)
+📖 [Read original article](https://github.com/shbernal/rfc-ai-tooling)
 
 ---
 
-## 13. AI Crisis in Math: Navier-Stokes, Riemann Hypothesis and Complexity Theory [video]
+## 13. Putting the Cart Before the AI
 
-**Author:** vismit2000  
-**Published:** 10/27/2026, 12:47:20 AM  
+**Author:** ankitg12  
+**Published:** 10/27/2026, 9:27:44 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=ZAzWPE9CItg Comments URL: https://news.ycombinator.com/item?id=50253346 Points: 2 # Comments: 1
+Article URL: https://blog.tohojo.dk/2025/06/putting-the-cart-before-the-ai.html Comments URL: https://news.ycombinator.com/item?id=50256507 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=ZAzWPE9CItg)
+📖 [Read original article](https://blog.tohojo.dk/2025/06/putting-the-cart-before-the-ai.html)
 
 ---
 
-## 14. Meaning After an AI Eucatastrophe
+## 14. Ask HN: Can we do something about this impending AI dystopia
 
-**Author:** eatitraw  
-**Published:** 10/27/2026, 12:45:16 AM  
+**Author:** justforfunhere  
+**Published:** 10/27/2026, 9:05:20 AM  
 **Categories:** -  
 
-Article URL: https://meaningness.substack.com/p/meaning-after-an-ai-eucatastrophe Comments URL: https://news.ycombinator.com/item?id=50253325 Points: 5 # Comments: 0
+There have been, increasingly, a large number of posts [1] on HN in the past few weeks, where developers are slowly coming to terms with the breakneck speed with which Agentic Coding has advanced in the past few months.We all agree that an average software developer today is closely resembling the h...
 
-📖 [Read original article](https://meaningness.substack.com/p/meaning-after-an-ai-eucatastrophe)
+📖 [Read original article](https://news.ycombinator.com/item?id=50256342)
 
 ---
 
-## 15. In China, the AI bubble has already burst
+## 15. Offcut, design furniture by chatting with AI
 
-**Author:** thunderbong  
-**Published:** 10/27/2026, 12:44:23 AM  
+**Author:** mixandgo  
+**Published:** 10/27/2026, 8:56:00 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/ Comments URL: https://news.ycombinator.com/item?id=50253320 Points: 8 # Comments: 0
+Article URL: https://offcut.diy Comments URL: https://news.ycombinator.com/item?id=50256274 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/)
+📖 [Read original article](https://offcut.diy)
 
 ---
 
-## 16. Goldman Sachs puts $500M into small-business AI with four AI labs
+## 16. Just Eat apologises for AI food mistakes
 
-**Author:** vismit2000  
-**Published:** 10/27/2026, 12:43:55 AM  
+**Author:** soheilpro  
+**Published:** 10/27/2026, 8:55:50 AM  
 **Categories:** -  
 
-Article URL: https://thenextweb.com/news/goldman-sachs-frontier-models-small-business-ai-institute-500m Comments URL: https://news.ycombinator.com/item?id=50253319 Points: 2 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/crz981p0klvgo Comments URL: https://news.ycombinator.com/item?id=50256270 Points: 3 # Comments: 0
 
-📖 [Read original article](https://thenextweb.com/news/goldman-sachs-frontier-models-small-business-ai-institute-500m)
+📖 [Read original article](https://www.bbc.com/news/articles/crz981p0klvgo)
 
 ---
 
-## 17. Show HN: Aroha – signed, shrinking permissions for AI agents, checked offline
+## 17. AI is ruining haunted houses
 
-**Author:** rajganesan-aroh  
-**Published:** 10/27/2026, 12:43:16 AM  
+**Author:** mikelgan  
+**Published:** 10/27/2026, 8:50:33 AM  
 **Categories:** -  
 
-Article URL: https://github.com/ArohaLabs/aroha-protocol Comments URL: https://news.ycombinator.com/item?id=50253316 Points: 1 # Comments: 0
+Article URL: https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/ Comments URL: https://news.ycombinator.com/item?id=50256230 Points: 38 # Comments: 62
 
-📖 [Read original article](https://github.com/ArohaLabs/aroha-protocol)
+📖 [Read original article](https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/)
 
 ---
 
-## 18. Some cybersecurity x AI dichotomies
+## 18. Police Pulling People over Because AI Deems Their Driving Patterns Suspicious
 
-**Author:** caseyjohnellis  
-**Published:** 10/27/2026, 12:01:35 AM  
+**Author:** Markoff  
+**Published:** 10/27/2026, 8:42:41 AM  
 **Categories:** -  
 
-Article URL: https://cje.io/2026/10/26/some-cyber-ai-dichotomies/ Comments URL: https://news.ycombinator.com/item?id=50252948 Points: 1 # Comments: 0
+Article URL: https://www.aclu.org/news/privacy-technology/ai-driven-police-stops Comments URL: https://news.ycombinator.com/item?id=50256169 Points: 6 # Comments: 2
 
-📖 [Read original article](https://cje.io/2026/10/26/some-cyber-ai-dichotomies/)
+📖 [Read original article](https://www.aclu.org/news/privacy-technology/ai-driven-police-stops)
 
 ---
 
-## 19. AI talk has nearly doubled outside tech. Proof of payoff is still rare
+## 19. AI slop is the new TLDR
 
-**Author:** daniel3303  
-**Published:** 10/27/2026, 12:00:26 AM  
+**Author:** lumpa  
+**Published:** 10/27/2026, 8:40:07 AM  
 **Categories:** -  
 
-Article URL: https://equibles.com/research/ai-talk-has-nearly-doubled-outside-tech-proof-of-payoff-is-still-rare Comments URL: https://news.ycombinator.com/item?id=50252932 Points: 3 # Comments: 0
+Article URL: https://grahamdumpleton.me/posts/2026/10/ai-slop-is-the-new-tldr/ Comments URL: https://news.ycombinator.com/item?id=50256154 Points: 2 # Comments: 0
 
-📖 [Read original article](https://equibles.com/research/ai-talk-has-nearly-doubled-outside-tech-proof-of-payoff-is-still-rare)
+📖 [Read original article](https://grahamdumpleton.me/posts/2026/10/ai-slop-is-the-new-tldr/)
+
+---
+
+## 20. Chinese markets lose trillions as race for AI supremacy with US takes its toll
+
+**Author:** YeGoblynQueenne  
+**Published:** 10/27/2026, 8:36:56 AM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing Comments URL: https://news.ycombinator.com/item?id=50256131 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
 
 ---
