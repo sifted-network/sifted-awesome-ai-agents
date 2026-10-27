@@ -2,16 +2,40 @@
 title: "OpenAI Blog - 2026-10-26"
 date: "2026-10-26"
 source: "OpenAI Blog"
-count: 6
+count: 7
 ---
 
 # OpenAI Blog - 2026-10-26
 
-6 items collected.
+7 items collected.
 
 ---
 
-## 1. GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases
+## 1. Greptile takes bug detection beyond code review with GPT-6 Astra
+
+**Author:** -  
+**Published:** 10/26/2026, 10:00:00 PM  
+**Categories:** Startup  
+
+How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.
+
+📖 [Read original article](https://openai.com/index/greptile-code-review-codex-astra)
+
+---
+
+## 2. Working with academic communities to build scientific understanding
+
+**Author:** -  
+**Published:** 10/26/2026, 2:30:00 PM  
+**Categories:** Research  
+
+OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.
+
+📖 [Read original article](https://openai.com/index/building-scientific-understanding-with-academic-communities)
+
+---
+
+## 3. GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases
 
 **Author:** -  
 **Published:** 10/26/2026, 1:45:00 PM  
@@ -23,7 +47,7 @@ CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebas
 
 ---
 
-## 2. ChatGPT’s expanding world of work
+## 4. ChatGPT’s expanding world of work
 
 **Author:** -  
 **Published:** 10/26/2026, 10:00:00 AM  
@@ -35,7 +59,7 @@ Explore OpenAI Signals data on 165 work activities across nearly 100 countries, 
 
 ---
 
-## 3. How Fanatics and OpenAI streamline the fan experience
+## 5. How Fanatics and OpenAI streamline the fan experience
 
 **Author:** -  
 **Published:** 10/26/2026, 7:00:00 AM  
@@ -47,7 +71,7 @@ Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the 
 
 ---
 
-## 4. How Ultrafast cut incident investigation from hours to minutes at OpenAI
+## 6. How Ultrafast cut incident investigation from hours to minutes at OpenAI
 
 **Author:** -  
 **Published:** 10/26/2026, 7:00:00 AM  
@@ -59,19 +83,7 @@ See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes
 
 ---
 
-## 5. Working with academic communities to build scientific understanding
-
-**Author:** -  
-**Published:** 10/26/2026, 12:00:00 AM  
-**Categories:** Research  
-
-OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.
-
-📖 [Read original article](https://openai.com/index/building-scientific-understanding-with-academic-communities)
-
----
-
-## 6. Introducing GPT-6.1 Terra
+## 7. Introducing GPT-6.1 Terra
 
 **Author:** -  
 **Published:** 10/26/2026, 12:00:00 AM  
