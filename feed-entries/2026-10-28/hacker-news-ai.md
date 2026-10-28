@@ -2,203 +2,251 @@
 title: "Hacker News AI - 2026-10-28"
 date: "2026-10-28"
 source: "Hacker News AI"
-count: 16
+count: 20
 ---
 
 # Hacker News AI - 2026-10-28
 
-16 items collected.
+20 items collected.
 
 ---
 
-## 1. Show HN: OpenMontage Drama Studio – self-hosted AI studio for short dramas
+## 1. When AI goes rogue, its human overseers may be to blame
 
-**Author:** charlie-w  
-**Published:** 10/28/2026, 4:14:27 AM  
+**Author:** andrewstetsenko  
+**Published:** 10/28/2026, 10:04:55 PM  
 **Categories:** -  
 
-Article URL: https://github.com/charliewwdev/OpenMontage Comments URL: https://news.ycombinator.com/item?id=50269283 Points: 1 # Comments: 0
+Article URL: https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety Comments URL: https://news.ycombinator.com/item?id=50281581 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/charliewwdev/OpenMontage)
+📖 [Read original article](https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety)
 
 ---
 
-## 2. I ran each AI coding-agent sandbox's own tests against the others
+## 2. Can AI forecast elections better than experts?
 
-**Author:** carlostapia  
-**Published:** 10/28/2026, 3:35:56 AM  
+**Author:** il  
+**Published:** 10/28/2026, 10:00:10 PM  
 **Categories:** -  
 
-Article URL: https://github.com/carlostapiacl/sandbox-conformance Comments URL: https://news.ycombinator.com/item?id=50269082 Points: 1 # Comments: 0
+Article URL: https://ballotbench.com/? Comments URL: https://news.ycombinator.com/item?id=50281532 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/carlostapiacl/sandbox-conformance)
+📖 [Read original article](https://ballotbench.com/?)
 
 ---
 
-## 3. Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video
+## 3. Ask HN: We tax labour, why not tax AI?
 
-**Author:** visiohex  
-**Published:** 10/28/2026, 3:27:21 AM  
+**Author:** roschdal  
+**Published:** 10/28/2026, 9:45:07 PM  
 **Categories:** -  
 
-Article URL: https://tiny-desk-ai.app/ Comments URL: https://news.ycombinator.com/item?id=50269013 Points: 2 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=50281372 Points: 5 # Comments: 3
 
-📖 [Read original article](https://tiny-desk-ai.app/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50281372)
 
 ---
 
-## 4. Show HN: The New Way to Make AI UGC Ads in 2026
+## 4. AI agent skills for better second-hand decisions
 
-**Author:** tuongbadke  
-**Published:** 10/28/2026, 3:14:26 AM  
+**Author:** mjovanc  
+**Published:** 10/28/2026, 9:42:12 PM  
 **Categories:** -  
 
-In today’s digital marketplace, video content dictates ad performance and search rankings. However, traditional video production is slow, expensive, and difficult to scale. AivideosUGC solves this bottleneck. As a leading AI-powered UGC creation platform, AivideosUGC Turn product URL, image, or prom...
+Article URL: https://github.com/budna-marketplace/recommerce Comments URL: https://news.ycombinator.com/item?id=50281334 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.aivideosugc.com/ai-video-generation)
+📖 [Read original article](https://github.com/budna-marketplace/recommerce)
 
 ---
 
-## 5. Show HN: Cirkit – Annotate, Trace, and Ask AI About Schematic PDFs
+## 5. AI training platform Outlier illegally surveils European platform workers
 
-**Author:** Tal005  
-**Published:** 10/28/2026, 3:09:20 AM  
+**Author:** airhangerf15  
+**Published:** 10/28/2026, 9:22:15 PM  
 **Categories:** -  
 
-Documentation tool for EEs to document their design better Comments URL: https://news.ycombinator.com/item?id=50268880 Points: 2 # Comments: 0
+Article URL: https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers Comments URL: https://news.ycombinator.com/item?id=50281071 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cirkit.us/demo/)
+📖 [Read original article](https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers)
 
 ---
 
-## 6. Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator
+## 6. The cultish behavior of top AI figures (2024)
 
-**Author:** tuongbadke  
-**Published:** 10/28/2026, 3:09:03 AM  
+**Author:** evil_buzzard  
+**Published:** 10/28/2026, 9:15:16 PM  
 **Categories:** -  
 
-AI UGC (Artificial Intelligence User-Generated Content) is the automated creation of casual, creator-style review and unboxing videos using AI avatars, AI scriptwriters, and realistic voiceovers. It replaces traditional human influencers, saving brands time and money on production. AivideosUGC solve...
+Article URL: https://www.rollingstone.com/culture/culture-features/ai-companies-advocates-cult-1234954528/ Comments URL: https://news.ycombinator.com/item?id=50280991 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.aivideosugc.com/)
+📖 [Read original article](https://www.rollingstone.com/culture/culture-features/ai-companies-advocates-cult-1234954528/)
 
 ---
 
-## 7. A bust-up between mathematicians fuels fears that AI could undermine science
+## 7. How to Outrun the AI Hackers
 
-**Author:** dabinat  
-**Published:** 10/28/2026, 3:07:39 AM  
+**Author:** paulpauper  
+**Published:** 10/28/2026, 8:57:02 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/c6gelgxjwzdzo Comments URL: https://news.ycombinator.com/item?id=50268874 Points: 2 # Comments: 0
+Article URL: https://www.thefp.com/p/tyler-cowen-how-to-outrun-the-ai Comments URL: https://news.ycombinator.com/item?id=50280797 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/c6gelgxjwzdzo)
+📖 [Read original article](https://www.thefp.com/p/tyler-cowen-how-to-outrun-the-ai)
 
 ---
 
-## 8. Wikipedia: Signs of AI Writing
+## 8. When AI Does the Work, What Will Humans Do?
 
-**Author:** georgecmu  
-**Published:** 10/28/2026, 2:48:51 AM  
+**Author:** massigenta  
+**Published:** 10/28/2026, 8:52:31 PM  
 **Categories:** -  
 
-Article URL: https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing Comments URL: https://news.ycombinator.com/item?id=50268783 Points: 2 # Comments: 2
+Article URL: https://project507.substack.com/p/when-ai-does-the-work-what-will-humans Comments URL: https://news.ycombinator.com/item?id=50280739 Points: 2 # Comments: 0
 
-📖 [Read original article](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+📖 [Read original article](https://project507.substack.com/p/when-ai-does-the-work-what-will-humans)
 
 ---
 
-## 9. Writing AI agents in YAML instead of Python
+## 9. AI Startups Are Getting an Inch and Taking a Mile
 
-**Author:** khuyentran1401  
-**Published:** 10/28/2026, 2:30:09 AM  
+**Author:** aray07  
+**Published:** 10/28/2026, 8:51:35 PM  
 **Categories:** -  
 
-Article URL: https://codecut.ai/build-ai-agents-yaml-docker-agent/ Comments URL: https://news.ycombinator.com/item?id=50268662 Points: 3 # Comments: 1
+Article URL: https://tedium.co/2026/10/27/ai-startups-sketchy-behavior/ Comments URL: https://news.ycombinator.com/item?id=50280720 Points: 2 # Comments: 0
 
-📖 [Read original article](https://codecut.ai/build-ai-agents-yaml-docker-agent/)
+📖 [Read original article](https://tedium.co/2026/10/27/ai-startups-sketchy-behavior/)
 
 ---
 
-## 10. AI Agents Are Changing the Price of Goods (Odd Lots) [video]
+## 10. Getting good at AI takes time and practice
 
-**Author:** mooreds  
-**Published:** 10/28/2026, 2:09:46 AM  
+**Author:** tomwphillips  
+**Published:** 10/28/2026, 8:31:36 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=gzgBmZcSEU8 Comments URL: https://news.ycombinator.com/item?id=50268529 Points: 2 # Comments: 0
+Article URL: https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/ Comments URL: https://news.ycombinator.com/item?id=50280471 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.youtube.com/watch?v=gzgBmZcSEU8)
+📖 [Read original article](https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/)
 
 ---
 
-## 11. Do Guardrails Make AI Coding Agents Better? What 270 Runs Showed
+## 11. Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp
 
-**Author:** Bootstrapper909  
-**Published:** 10/28/2026, 1:46:12 AM  
+**Author:** chrystianpl  
+**Published:** 10/28/2026, 8:23:34 PM  
 **Categories:** -  
 
-Article URL: https://secondtimeisabug.com/blog/coding-agent-guardrails-270-runs/ Comments URL: https://news.ycombinator.com/item?id=50268368 Points: 1 # Comments: 0
+Article URL: https://github.com/ChrystianSchutz/ThreadShelf Comments URL: https://news.ycombinator.com/item?id=50280357 Points: 1 # Comments: 0
 
-📖 [Read original article](https://secondtimeisabug.com/blog/coding-agent-guardrails-270-runs/)
+📖 [Read original article](https://github.com/ChrystianSchutz/ThreadShelf)
 
 ---
 
-## 12. Microsoft offers voluntary buyouts as AI leads to efficiency push
+## 12. AI for Science expands to foundations and institutions
+
+**Author:** surprisetalk  
+**Published:** 10/28/2026, 8:15:12 PM  
+**Categories:** -  
+
+Article URL: https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions Comments URL: https://news.ycombinator.com/item?id=50280248 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions)
+
+---
+
+## 13. Show HN: Race Radar – HYROX ticket alerts, run day to day by an AI CEO
+
+**Author:** greatrat000  
+**Published:** 10/28/2026, 8:15:07 PM  
+**Categories:** -  
+
+Article URL: https://raceradar.fit/ Comments URL: https://news.ycombinator.com/item?id=50280244 Points: 1 # Comments: 0
+
+📖 [Read original article](https://raceradar.fit/)
+
+---
+
+## 14. Google AI gets cagey when asked who won the 2020 elections
+
+**Author:** jacquesm  
+**Published:** 10/28/2026, 8:10:16 PM  
+**Categories:** -  
+
+Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 71 # Comments: 39
+
+📖 [Read original article](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)
+
+---
+
+## 15. GoDaddy Says AI-Driven Cyberattack Exposed Website Customer Information
+
+**Author:** ashu1461  
+**Published:** 10/28/2026, 7:52:37 PM  
+**Categories:** -  
+
+Article URL: https://vinnews.com/2026/10/28/godaddy-says-ai-driven-cyberattack-exposed-website-customer-information/ Comments URL: https://news.ycombinator.com/item?id=50279916 Points: 2 # Comments: 0
+
+📖 [Read original article](https://vinnews.com/2026/10/28/godaddy-says-ai-driven-cyberattack-exposed-website-customer-information/)
+
+---
+
+## 16. OpenAI no longer training AI models on live internet, citing 'significant risks'
 
 **Author:** gmays  
-**Published:** 10/28/2026, 1:17:10 AM  
+**Published:** 10/28/2026, 7:28:16 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html Comments URL: https://news.ycombinator.com/item?id=50268191 Points: 2 # Comments: 2
+Article URL: https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/ Comments URL: https://news.ycombinator.com/item?id=50279501 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html)
+📖 [Read original article](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
 
 ---
 
-## 13. A hand-picked gallery of AI-generated motion graphics and their prompts
+## 17. Agent Scrum: Running a team of AI coding agents in two-hour sprints
 
-**Author:** Adam-Hincu  
-**Published:** 10/28/2026, 1:11:29 AM  
+**Author:** remster  
+**Published:** 10/28/2026, 6:47:09 PM  
 **Categories:** -  
 
-Article URL: https://motioncrackers.com Comments URL: https://news.ycombinator.com/item?id=50268142 Points: 1 # Comments: 0
+Article URL: https://daveremy.github.io/agent-scrum/ Comments URL: https://news.ycombinator.com/item?id=50278937 Points: 2 # Comments: 2
 
-📖 [Read original article](https://motioncrackers.com)
+📖 [Read original article](https://daveremy.github.io/agent-scrum/)
 
 ---
 
-## 14. Amazon defines the role of the developer in the age of AI
+## 18. Show HN: Measuring how much of an AI-assisted design is yours
 
-**Author:** emot  
-**Published:** 10/28/2026, 1:00:33 AM  
+**Author:** arian_  
+**Published:** 10/28/2026, 6:41:45 PM  
 **Categories:** -  
 
-Article URL: https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai Comments URL: https://news.ycombinator.com/item?id=50268075 Points: 8 # Comments: 2
+Article URL: https://claude.ai/artifact/Xxm7H6eLCKgoxJVrSqTigH Comments URL: https://news.ycombinator.com/item?id=50278863 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai)
+📖 [Read original article](https://claude.ai/artifact/Xxm7H6eLCKgoxJVrSqTigH)
 
 ---
 
-## 15. New AI-powered mosquito trap could help curb dengue outbreaks
+## 19. Prime's first AI-generated show is here, and it's a Vaseline-smeared mess
 
-**Author:** gmays  
-**Published:** 10/28/2026, 12:51:53 AM  
+**Author:** devonnull  
+**Published:** 10/28/2026, 6:40:21 PM  
 **Categories:** -  
 
-Article URL: https://www.usf.edu/news/2026/new-ai-powered-mosquito-trap-could-help-curb-dengue-outbreaks.aspx Comments URL: https://news.ycombinator.com/item?id=50268012 Points: 3 # Comments: 0
+Article URL: https://www.theguardian.com/tv-and-radio/2026/oct/29/castle-walls-review-prime-first-fully-ai-generated-tv-show Comments URL: https://news.ycombinator.com/item?id=50278835 Points: 7 # Comments: 1
 
-📖 [Read original article](https://www.usf.edu/news/2026/new-ai-powered-mosquito-trap-could-help-curb-dengue-outbreaks.aspx)
+📖 [Read original article](https://www.theguardian.com/tv-and-radio/2026/oct/29/castle-walls-review-prime-first-fully-ai-generated-tv-show)
 
 ---
 
-## 16. AI Phone
+## 20. IFTTT Is Now IFTTT.ai
 
-**Author:** handfuloflight  
-**Published:** 10/28/2026, 12:51:40 AM  
+**Author:** jonbaer  
+**Published:** 10/28/2026, 6:19:41 PM  
 **Categories:** -  
 
-Article URL: https://github.com/oxnw/ai-phone Comments URL: https://news.ycombinator.com/item?id=50268009 Points: 3 # Comments: 0
+Article URL: https://ifttt.ai/ Comments URL: https://news.ycombinator.com/item?id=50278466 Points: 3 # Comments: 2
 
-📖 [Read original article](https://github.com/oxnw/ai-phone)
+📖 [Read original article](https://ifttt.ai/)
 
 ---
