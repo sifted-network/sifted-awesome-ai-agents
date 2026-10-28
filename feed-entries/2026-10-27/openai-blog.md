@@ -2,16 +2,28 @@
 title: "OpenAI Blog - 2026-10-27"
 date: "2026-10-27"
 source: "OpenAI Blog"
-count: 2
+count: 3
 ---
 
 # OpenAI Blog - 2026-10-27
 
-2 items collected.
+3 items collected.
 
 ---
 
-## 1. OpenAI expands partnership with Oracle to bring its apps to ChatGPT
+## 1. Retell uses OpenAI models to help power 100M monthly calls
+
+**Author:** -  
+**Published:** 10/27/2026, 3:00:00 PM  
+**Categories:** -  
+
+GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.
+
+📖 [Read original article](https://openai.com/index/retell-ai)
+
+---
+
+## 2. OpenAI expands partnership with Oracle to bring its apps to ChatGPT
 
 **Author:** -  
 **Published:** 10/27/2026, 7:00:00 AM  
@@ -23,7 +35,7 @@ OpenAI and Oracle are expanding their partnership to bring business applications
 
 ---
 
-## 2. How Check Point accelerates vulnerability research with Daybreak
+## 3. How Check Point accelerates vulnerability research with Daybreak
 
 **Author:** -  
 **Published:** 10/27/2026, 12:00:00 AM  
