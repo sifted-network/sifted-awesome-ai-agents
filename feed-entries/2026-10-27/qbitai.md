@@ -2,12 +2,12 @@
 title: "qbitai - 2026-10-27"
 date: "2026-10-27"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-10-27
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ OCR 3.0时代，来了
 开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐
 
 📖 [Read original article](https://www.qbitai.com/2026/10/505635.html)
-
----
-
-## 10. 2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕
-
-**Author:** 量子位的朋友们  
-**Published:** 10/27/2026, 7:25:51 AM  
-**Categories:** 资讯, 2026全球开发者先锋大会  
-
-GDPS全球开发者先锋大会将持续推动应用成果落地转化和国际产业交流合作。
-
-📖 [Read original article](https://www.qbitai.com/2026/10/505615.html)
 
 ---
