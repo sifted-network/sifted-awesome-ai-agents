@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. What Drives AI Citations? FAQ isn't what drives ChatGPT citations
+## 1. Google value plunges by $500B as AI fears rattle Wall Street
 
-**Author:** aidotguru  
-**Published:** 10/29/2026, 12:14:17 PM  
+**Author:** dabinat  
+**Published:** 10/29/2026, 10:22:13 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2610.15033 Comments URL: https://news.ycombinator.com/item?id=50287741 Points: 1 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 3 # Comments: 1
 
-📖 [Read original article](https://arxiv.org/abs/2610.15033)
+📖 [Read original article](https://www.bbc.com/news/articles/cm9qzdqpxy48o)
 
 ---
 
-## 2. AI recommends more expensive treatment than physicians, analysis suggests
+## 2. Biltong.ai
 
-**Author:** dberhane  
-**Published:** 10/29/2026, 12:12:11 PM  
+**Author:** almogo  
+**Published:** 10/29/2026, 10:17:48 PM  
 **Categories:** -  
 
-Article URL: https://www.bmj.com/content/395/bmj-2026-101271 Comments URL: https://news.ycombinator.com/item?id=50287724 Points: 4 # Comments: 1
+Article URL: https://biltong.ai/ Comments URL: https://news.ycombinator.com/item?id=50296990 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bmj.com/content/395/bmj-2026-101271)
+📖 [Read original article](https://biltong.ai/)
 
 ---
 
-## 3. Google struggling to make money from AI Mode
+## 3. Building an AI-native engineering org
 
-**Author:** giamma  
-**Published:** 10/29/2026, 11:38:56 AM  
+**Author:** sgondala_ycapp  
+**Published:** 10/29/2026, 9:58:34 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181 Comments URL: https://news.ycombinator.com/item?id=50287431 Points: 3 # Comments: 2
+Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181)
+📖 [Read original article](https://twitter.com/sgondala2/status/2115832070274723875)
 
 ---
 
-## 4. Show HN: AI social media interview platform
+## 4. Why Is AI Bad at Writing?
 
-**Author:** zerodollar  
-**Published:** 10/29/2026, 11:33:29 AM  
+**Author:** paulpauper  
+**Published:** 10/29/2026, 9:51:29 PM  
 **Categories:** -  
 
-Looking for feedback on product functionality wise.Already working on design changes. Comments URL: https://news.ycombinator.com/item?id=50287379 Points: 2 # Comments: 0
+Article URL: https://weightythoughts.com/p/why-is-ai-bad-at-writing Comments URL: https://news.ycombinator.com/item?id=50296630 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.spotlytt.com/)
+📖 [Read original article](https://weightythoughts.com/p/why-is-ai-bad-at-writing)
 
 ---
 
-## 5. Content creator gets their Facebook hacked. Now Meta's AI is stuck in a loop [video]
+## 5. Reddit will force users to log in as AI is killing search traffic
 
-**Author:** robinduckett  
-**Published:** 10/29/2026, 11:28:34 AM  
+**Author:** kotaKat  
+**Published:** 10/29/2026, 9:51:18 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/shorts/TUH_tNq1Ou8 Comments URL: https://news.ycombinator.com/item?id=50287348 Points: 3 # Comments: 0
+Article URL: https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/ Comments URL: https://news.ycombinator.com/item?id=50296625 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/shorts/TUH_tNq1Ou8)
+📖 [Read original article](https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/)
 
 ---
 
-## 6. AWF – AI Workflow Framework
+## 6. AI often makes writing worse. (Even if it makes it better)
 
-**Author:** porker  
-**Published:** 10/29/2026, 11:15:46 AM  
+**Author:** paulpauper  
+**Published:** 10/29/2026, 9:49:57 PM  
 **Categories:** -  
 
-Article URL: https://awf-project.ai/ Comments URL: https://news.ycombinator.com/item?id=50287254 Points: 1 # Comments: 0
+Article URL: https://www.economist.com/britain/2026/09/24/ai-often-makes-writing-worse-even-if-it-makes-it-better Comments URL: https://news.ycombinator.com/item?id=50296605 Points: 1 # Comments: 0
 
-📖 [Read original article](https://awf-project.ai/)
+📖 [Read original article](https://www.economist.com/britain/2026/09/24/ai-often-makes-writing-worse-even-if-it-makes-it-better)
 
 ---
 
-## 7. Why AI design tools keep making the same flyer
+## 7. Proton goes all in on using AI
 
-**Author:** GiorgosGennaris  
-**Published:** 10/29/2026, 11:11:55 AM  
+**Author:** ColinWright  
+**Published:** 10/29/2026, 9:49:28 PM  
 **Categories:** -  
 
-Article URL: https://grafista.io/blog/posts/grafista-vs-claude-vs-canva-vs-moda Comments URL: https://news.ycombinator.com/item?id=50287227 Points: 1 # Comments: 0
+Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 4 # Comments: 1
 
-📖 [Read original article](https://grafista.io/blog/posts/grafista-vs-claude-vs-canva-vs-moda)
+📖 [Read original article](https://convo.casa/@b/117525936178835007)
 
 ---
 
-## 8. AI infra financials leading/lagging indicators data vis and analysis page
+## 8. AI Writing Has Entered Its Post-Shame Era
 
-**Author:** ndom91  
-**Published:** 10/29/2026, 10:57:29 AM  
+**Author:** paulpauper  
+**Published:** 10/29/2026, 9:49:09 PM  
 **Categories:** -  
 
-Article URL: https://artificialliabilities.com/ Comments URL: https://news.ycombinator.com/item?id=50287110 Points: 2 # Comments: 0
+Article URL: https://www.theatlantic.com/podcasts/2026/09/is-ai-writing-inevitable/688578/ Comments URL: https://news.ycombinator.com/item?id=50296592 Points: 1 # Comments: 0
 
-📖 [Read original article](https://artificialliabilities.com/)
+📖 [Read original article](https://www.theatlantic.com/podcasts/2026/09/is-ai-writing-inevitable/688578/)
 
 ---
 
-## 9. Open Source or Custom in Enterprise AI Systems?
+## 9. LessWrong Sans AI
 
-**Author:** nvmdbljstm  
-**Published:** 10/29/2026, 10:56:07 AM  
+**Author:** mudil  
+**Published:** 10/29/2026, 9:45:24 PM  
 **Categories:** -  
 
-Article URL: https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=50287093 Points: 3 # Comments: 0
+Article URL: https://jimrandomh.github.io/LesswrongSansAI/ Comments URL: https://news.ycombinator.com/item?id=50296548 Points: 1 # Comments: 0
 
-📖 [Read original article](https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/)
+📖 [Read original article](https://jimrandomh.github.io/LesswrongSansAI/)
 
 ---
 
-## 10. Control Planes of Agentic AI Infrastructure for Reliable Software Delivery
+## 10. We ran AI agent swarms in Minecraft and Mindustry
 
-**Author:** nvmdbljstm  
-**Published:** 10/29/2026, 10:54:29 AM  
+**Author:** sandslash  
+**Published:** 10/29/2026, 9:40:28 PM  
 **Categories:** -  
 
-Article URL: https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/ Comments URL: https://news.ycombinator.com/item?id=50287073 Points: 3 # Comments: 0
+Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 41 # Comments: 16
 
-📖 [Read original article](https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/)
+📖 [Read original article](https://labs.ycombinator.com/projects/games/index.html)
 
 ---
 
-## 11. AI Industry's Gamble on Trump Crashes into New Political Reality
+## 11. Show HN: AI Knows Us – see who ChatGPT and Perplexity recommend instead of you
 
-**Author:** angry_impala  
-**Published:** 10/29/2026, 10:36:03 AM  
+**Author:** goeladityx  
+**Published:** 10/29/2026, 9:27:11 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/features/2026-10-29/ai-industry-stands-to-lose-in-midterm-elections-after-aligning-with-trump Comments URL: https://news.ycombinator.com/item?id=50286937 Points: 1 # Comments: 0
+Article URL: https://www.aiknowsus.com Comments URL: https://news.ycombinator.com/item?id=50296304 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/features/2026-10-29/ai-industry-stands-to-lose-in-midterm-elections-after-aligning-with-trump)
+📖 [Read original article](https://www.aiknowsus.com)
 
 ---
 
-## 12. AI Article Reviews Dominate Human Peer Reviews at Their Best [pdf]
+## 12. Apple bullied flash memory suppliers, and why AI datacenters changed the game
 
-**Author:** qsi  
-**Published:** 10/29/2026, 10:18:52 AM  
+**Author:** mydreamof  
+**Published:** 10/29/2026, 8:52:44 PM  
 **Categories:** -  
 
-Article URL: https://gking.harvard.edu/files/peerless.pdf Comments URL: https://news.ycombinator.com/item?id=50286818 Points: 2 # Comments: 0
+Article URL: https://www.msn.com/en-us/news/other/the-beleaguered-chip-sellers-getting-their-revenge-on-apple/ar-AA2ghTPi Comments URL: https://news.ycombinator.com/item?id=50295755 Points: 9 # Comments: 0
 
-📖 [Read original article](https://gking.harvard.edu/files/peerless.pdf)
+📖 [Read original article](https://www.msn.com/en-us/news/other/the-beleaguered-chip-sellers-getting-their-revenge-on-apple/ar-AA2ghTPi)
 
 ---
 
-## 13. Building a Banana Sorter AI Machine
+## 13. AI microdrama edit of Neighbours worries actors and crew
 
-**Author:** vb7132  
-**Published:** 10/29/2026, 10:15:17 AM  
+**Author:** cisc  
+**Published:** 10/29/2026, 8:52:30 PM  
 **Categories:** -  
 
-Article URL: https://www.bvaibhav.info/notes/banana-sorter Comments URL: https://news.ycombinator.com/item?id=50286792 Points: 1 # Comments: 0
+Article URL: https://www.bbc.com/news/articles/cj1dw9znd1q1o Comments URL: https://news.ycombinator.com/item?id=50295748 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bvaibhav.info/notes/banana-sorter)
+📖 [Read original article](https://www.bbc.com/news/articles/cj1dw9znd1q1o)
 
 ---
 
-## 14. I Used AI to Fake a Scientific Paper. Here's What Happened
+## 14. The AI bubble is about to pop [video]
 
-**Author:** pseudolus  
-**Published:** 10/29/2026, 10:08:04 AM  
+**Author:** Bender  
+**Published:** 10/29/2026, 8:46:45 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/ai-generated-scientific-papers Comments URL: https://news.ycombinator.com/item?id=50286738 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=MgngwkPAuqQ Comments URL: https://news.ycombinator.com/item?id=50295666 Points: 9 # Comments: 1
 
-📖 [Read original article](https://spectrum.ieee.org/ai-generated-scientific-papers)
+📖 [Read original article](https://www.youtube.com/watch?v=MgngwkPAuqQ)
 
 ---
 
-## 15. AI Did Not Break Education, It Revealed the Bug
+## 15. Comments on any web page that your AI agent can read and reply to
 
-**Author:** lumpa  
-**Published:** 10/29/2026, 9:20:57 AM  
+**Author:** thegr8gatsby  
+**Published:** 10/29/2026, 8:37:31 PM  
 **Categories:** -  
 
-Article URL: https://georgiker.com/blog/ai-did-not-break-education/ Comments URL: https://news.ycombinator.com/item?id=50286401 Points: 3 # Comments: 1
+Article URL: https://www.npmjs.com/package/pipeup Comments URL: https://news.ycombinator.com/item?id=50295535 Points: 1 # Comments: 0
 
-📖 [Read original article](https://georgiker.com/blog/ai-did-not-break-education/)
+📖 [Read original article](https://www.npmjs.com/package/pipeup)
 
 ---
 
-## 16. Robotics AI Suite
+## 16. (Simple AI) Introducing Sentiment: How Tango Hears What Customers Feel
 
-**Author:** T-A  
-**Published:** 10/29/2026, 9:18:13 AM  
+**Author:** catherynl  
+**Published:** 10/29/2026, 8:30:30 PM  
 **Categories:** -  
 
-Article URL: https://developer.robotics.intel.com/ Comments URL: https://news.ycombinator.com/item?id=50286387 Points: 1 # Comments: 0
+Article URL: https://www.usesimple.ai/blog/tango-sentiment Comments URL: https://news.ycombinator.com/item?id=50295423 Points: 1 # Comments: 0
 
-📖 [Read original article](https://developer.robotics.intel.com/)
+📖 [Read original article](https://www.usesimple.ai/blog/tango-sentiment)
 
 ---
 
-## 17. First EU AI Act harmonised standard
+## 17. AI Made Me Homeless
 
-**Author:** fscaramuzza  
-**Published:** 10/29/2026, 9:10:40 AM  
+**Author:** thelifeline  
+**Published:** 10/29/2026, 8:19:09 PM  
 **Categories:** -  
 
-Article URL: https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal Comments URL: https://news.ycombinator.com/item?id=50286332 Points: 3 # Comments: 0
+Article URL: https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59 Comments URL: https://news.ycombinator.com/item?id=50295248 Points: 9 # Comments: 3
 
-📖 [Read original article](https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal)
+📖 [Read original article](https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59)
 
 ---
 
-## 18. Out of My Other Mind – What are the defining characteristics of a conscious AI?
+## 18. The Surprising Popularity of AI
 
-**Author:** rbanffy  
-**Published:** 10/29/2026, 9:06:14 AM  
+**Author:** Gander5739  
+**Published:** 10/29/2026, 8:07:17 PM  
 **Categories:** -  
 
-Article URL: https://theofficialacm.substack.com/p/what-would-it-take-to-convince-us Comments URL: https://news.ycombinator.com/item?id=50286307 Points: 2 # Comments: 0
+Article URL: https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai Comments URL: https://news.ycombinator.com/item?id=50295041 Points: 2 # Comments: 1
 
-📖 [Read original article](https://theofficialacm.substack.com/p/what-would-it-take-to-convince-us)
+📖 [Read original article](https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai)
 
 ---
 
-## 19. An AI agent performed brain surgery on a mouse
+## 19. The AI cost of JavaScript frameworks
 
-**Author:** dsrtslnd23  
-**Published:** 10/29/2026, 9:03:59 AM  
+**Author:** rmason  
+**Published:** 10/29/2026, 7:59:58 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50286286 Points: 1 # Comments: 0
+Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50294925 Points: 2 # Comments: 0
 
-📖 [Read original article](https://twitter.com/OcanaSantero/status/2115442964574908902)
+📖 [Read original article](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
 
 ---
 
-## 20. I Created an MMO (AI Slop?)
+## 20. A Catalog of AI Failure Modes
 
-**Author:** yourneighbor  
-**Published:** 10/29/2026, 8:49:39 AM  
+**Author:** ChilledTonic  
+**Published:** 10/29/2026, 7:57:00 PM  
 **Categories:** -  
 
-Article URL: https://aetheriammorpg.online/ Comments URL: https://news.ycombinator.com/item?id=50286161 Points: 3 # Comments: 1
+Article URL: https://lagomor.ph/indieweb/20261029/1313-note/ Comments URL: https://news.ycombinator.com/item?id=50294889 Points: 1 # Comments: 0
 
-📖 [Read original article](https://aetheriammorpg.online/)
+📖 [Read original article](https://lagomor.ph/indieweb/20261029/1313-note/)
 
 ---
