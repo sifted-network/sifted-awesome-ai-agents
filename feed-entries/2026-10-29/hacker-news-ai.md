@@ -2,191 +2,251 @@
 title: "Hacker News AI - 2026-10-29"
 date: "2026-10-29"
 source: "Hacker News AI"
-count: 15
+count: 20
 ---
 
 # Hacker News AI - 2026-10-29
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. Free course: Build and deploy an AI web app with Django and DigitalOcean
+## 1. What Drives AI Citations? FAQ isn't what drives ChatGPT citations
 
-**Author:** quietkernel  
-**Published:** 10/29/2026, 4:46:50 AM  
+**Author:** aidotguru  
+**Published:** 10/29/2026, 12:14:17 PM  
 **Categories:** -  
 
-Article URL: https://www.aicertificationcouncil.com/ Comments URL: https://news.ycombinator.com/item?id=50284672 Points: 1 # Comments: 0
+Article URL: https://arxiv.org/abs/2610.15033 Comments URL: https://news.ycombinator.com/item?id=50287741 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.aicertificationcouncil.com/)
+📖 [Read original article](https://arxiv.org/abs/2610.15033)
 
 ---
 
-## 2. NLnet Publishes More Stringent Generative AI Policy
+## 2. AI recommends more expensive treatment than physicians, analysis suggests
 
-**Author:** luu  
-**Published:** 10/29/2026, 4:23:02 AM  
+**Author:** dberhane  
+**Published:** 10/29/2026, 12:12:11 PM  
 **Categories:** -  
 
-Article URL: https://nlnet.nl/news/2026/20261020-AI-policy.html Comments URL: https://news.ycombinator.com/item?id=50284547 Points: 2 # Comments: 0
+Article URL: https://www.bmj.com/content/395/bmj-2026-101271 Comments URL: https://news.ycombinator.com/item?id=50287724 Points: 4 # Comments: 1
 
-📖 [Read original article](https://nlnet.nl/news/2026/20261020-AI-policy.html)
+📖 [Read original article](https://www.bmj.com/content/395/bmj-2026-101271)
 
 ---
 
-## 3. Show HN: Real Time AI Heat Map Sourced from over 140 News Feeds
+## 3. Google struggling to make money from AI Mode
 
-**Author:** psiberaktiv  
-**Published:** 10/29/2026, 4:05:18 AM  
+**Author:** giamma  
+**Published:** 10/29/2026, 11:38:56 AM  
 **Categories:** -  
 
-Article URL: https://ai-news.jagular.io/ Comments URL: https://news.ycombinator.com/item?id=50284429 Points: 1 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181 Comments URL: https://news.ycombinator.com/item?id=50287431 Points: 3 # Comments: 2
 
-📖 [Read original article](https://ai-news.jagular.io/)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181)
 
 ---
 
-## 4. Who's Ahead in the Global AI Talent Race?
+## 4. Show HN: AI social media interview platform
 
-**Author:** gmays  
-**Published:** 10/29/2026, 3:52:05 AM  
+**Author:** zerodollar  
+**Published:** 10/29/2026, 11:33:29 AM  
 **Categories:** -  
 
-Article URL: https://carnegieendowment.org/features/whos-ahead-in-the-global-ai-talent-race Comments URL: https://news.ycombinator.com/item?id=50284366 Points: 1 # Comments: 0
+Looking for feedback on product functionality wise.Already working on design changes. Comments URL: https://news.ycombinator.com/item?id=50287379 Points: 2 # Comments: 0
 
-📖 [Read original article](https://carnegieendowment.org/features/whos-ahead-in-the-global-ai-talent-race)
+📖 [Read original article](https://www.spotlytt.com/)
 
 ---
 
-## 5. Tools, 17 with write access: How AI platforms bound agent authority
+## 5. Content creator gets their Facebook hacked. Now Meta's AI is stuck in a loop [video]
 
-**Author:** Nina_antalpha  
-**Published:** 10/29/2026, 3:17:38 AM  
+**Author:** robinduckett  
+**Published:** 10/29/2026, 11:28:34 AM  
 **Categories:** -  
 
-Article URL: https://www.antalpha.com/en-us/blog/120-tools-17-that-can-write-how-four-platforms-bound-an-ai-agents-authority/ Comments URL: https://news.ycombinator.com/item?id=50284178 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/shorts/TUH_tNq1Ou8 Comments URL: https://news.ycombinator.com/item?id=50287348 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.antalpha.com/en-us/blog/120-tools-17-that-can-write-how-four-platforms-bound-an-ai-agents-authority/)
+📖 [Read original article](https://www.youtube.com/shorts/TUH_tNq1Ou8)
 
 ---
 
-## 6. AI startup hacked Anthropic, gains access to employee details, internal messages
+## 6. AWF – AI Workflow Framework
 
-**Author:** cpeterso  
-**Published:** 10/29/2026, 3:06:03 AM  
+**Author:** porker  
+**Published:** 10/29/2026, 11:15:46 AM  
 **Categories:** -  
 
-Article URL: https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages Comments URL: https://news.ycombinator.com/item?id=50284115 Points: 3 # Comments: 1
+Article URL: https://awf-project.ai/ Comments URL: https://news.ycombinator.com/item?id=50287254 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages)
+📖 [Read original article](https://awf-project.ai/)
 
 ---
 
-## 7. Come Back and Back AI
+## 7. Why AI design tools keep making the same flyer
 
-**Author:** HAXU4  
-**Published:** 10/29/2026, 2:45:14 AM  
+**Author:** GiorgosGennaris  
+**Published:** 10/29/2026, 11:11:55 AM  
 **Categories:** -  
 
-Article URL: https://comebackandback.com/ Comments URL: https://news.ycombinator.com/item?id=50283984 Points: 1 # Comments: 0
+Article URL: https://grafista.io/blog/posts/grafista-vs-claude-vs-canva-vs-moda Comments URL: https://news.ycombinator.com/item?id=50287227 Points: 1 # Comments: 0
 
-📖 [Read original article](https://comebackandback.com/)
+📖 [Read original article](https://grafista.io/blog/posts/grafista-vs-claude-vs-canva-vs-moda)
 
 ---
 
-## 8. The Quiet Part – a lesson on AI and jobs, built and narrated by AI
+## 8. AI infra financials leading/lagging indicators data vis and analysis page
 
-**Author:** BlueOctave  
-**Published:** 10/29/2026, 2:42:54 AM  
+**Author:** ndom91  
+**Published:** 10/29/2026, 10:57:29 AM  
 **Categories:** -  
 
-Article URL: https://thequietpart.ai/?src=hn Comments URL: https://news.ycombinator.com/item?id=50283966 Points: 2 # Comments: 0
+Article URL: https://artificialliabilities.com/ Comments URL: https://news.ycombinator.com/item?id=50287110 Points: 2 # Comments: 0
 
-📖 [Read original article](https://thequietpart.ai/?src=hn)
+📖 [Read original article](https://artificialliabilities.com/)
 
 ---
 
-## 9. Agentic CI/CD with Azure Cosmos DB: Isolated Envs for a Swarm of AI Agents
+## 9. Open Source or Custom in Enterprise AI Systems?
 
-**Author:** jaydestro  
-**Published:** 10/29/2026, 2:38:08 AM  
+**Author:** nvmdbljstm  
+**Published:** 10/29/2026, 10:56:07 AM  
 **Categories:** -  
 
-Article URL: https://devblogs.microsoft.com/cosmosdb/agentic-ci-cd-with-azure-cosmos-db-isolated-environments-for-a-swarm-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50283935 Points: 1 # Comments: 0
+Article URL: https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=50287093 Points: 3 # Comments: 0
 
-📖 [Read original article](https://devblogs.microsoft.com/cosmosdb/agentic-ci-cd-with-azure-cosmos-db-isolated-environments-for-a-swarm-of-ai-agents/)
+📖 [Read original article](https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/)
 
 ---
 
-## 10. I built a Chrome extension that shows you a web page the way AI crawlers see it
+## 10. Control Planes of Agentic AI Infrastructure for Reliable Software Delivery
 
-**Author:** GoarDev  
-**Published:** 10/29/2026, 2:18:56 AM  
+**Author:** nvmdbljstm  
+**Published:** 10/29/2026, 10:54:29 AM  
 **Categories:** -  
 
-Article URL: https://lumi-geo.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50283790 Points: 3 # Comments: 0
+Article URL: https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/ Comments URL: https://news.ycombinator.com/item?id=50287073 Points: 3 # Comments: 0
 
-📖 [Read original article](https://lumi-geo.pages.dev/)
+📖 [Read original article](https://deepsense.ai/blog/the-5-control-planes-of-agentic-ai-infrastructure-for-reliable-software-delivery/)
 
 ---
 
-## 11. A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)
+## 11. AI Industry's Gamble on Trump Crashes into New Political Reality
 
-**Author:** JohnMci  
-**Published:** 10/29/2026, 1:56:16 AM  
+**Author:** angry_impala  
+**Published:** 10/29/2026, 10:36:03 AM  
 **Categories:** -  
 
-Article URL: https://ai-agent-antivirus.space/ Comments URL: https://news.ycombinator.com/item?id=50283625 Points: 4 # Comments: 1
+Article URL: https://www.bloomberg.com/news/features/2026-10-29/ai-industry-stands-to-lose-in-midterm-elections-after-aligning-with-trump Comments URL: https://news.ycombinator.com/item?id=50286937 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ai-agent-antivirus.space/)
+📖 [Read original article](https://www.bloomberg.com/news/features/2026-10-29/ai-industry-stands-to-lose-in-midterm-elections-after-aligning-with-trump)
 
 ---
 
-## 12. Opera adds local AI to its browsers
+## 12. AI Article Reviews Dominate Human Peer Reviews at Their Best [pdf]
 
-**Author:** simonpure  
-**Published:** 10/29/2026, 1:30:06 AM  
+**Author:** qsi  
+**Published:** 10/29/2026, 10:18:52 AM  
 **Categories:** -  
 
-Article URL: https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/ Comments URL: https://news.ycombinator.com/item?id=50283391 Points: 1 # Comments: 1
+Article URL: https://gking.harvard.edu/files/peerless.pdf Comments URL: https://news.ycombinator.com/item?id=50286818 Points: 2 # Comments: 0
 
-📖 [Read original article](https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/)
+📖 [Read original article](https://gking.harvard.edu/files/peerless.pdf)
 
 ---
 
-## 13. MicroZig to Adopt Strict No LLM / No AI Policy
+## 13. Building a Banana Sorter AI Machine
 
-**Author:** paaloeye  
-**Published:** 10/29/2026, 12:30:37 AM  
+**Author:** vb7132  
+**Published:** 10/29/2026, 10:15:17 AM  
 **Categories:** -  
 
-Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 49 # Comments: 64
+Article URL: https://www.bvaibhav.info/notes/banana-sorter Comments URL: https://news.ycombinator.com/item?id=50286792 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md)
+📖 [Read original article](https://www.bvaibhav.info/notes/banana-sorter)
 
 ---
 
-## 14. Show HN: Fengarde–OCSF-native open-source SIEM with local AI triage (Apache-2.0)
+## 14. I Used AI to Fake a Scientific Paper. Here's What Happened
 
-**Author:** dyalndjomou  
-**Published:** 10/29/2026, 12:24:55 AM  
+**Author:** pseudolus  
+**Published:** 10/29/2026, 10:08:04 AM  
 **Categories:** -  
 
-Article URL: https://supermhel.github.io/fengarde/ Comments URL: https://news.ycombinator.com/item?id=50282830 Points: 3 # Comments: 0
+Article URL: https://spectrum.ieee.org/ai-generated-scientific-papers Comments URL: https://news.ycombinator.com/item?id=50286738 Points: 2 # Comments: 0
 
-📖 [Read original article](https://supermhel.github.io/fengarde/)
+📖 [Read original article](https://spectrum.ieee.org/ai-generated-scientific-papers)
 
 ---
 
-## 15. New York Times adds more AI features to its Cooking app. Users aren't thrilled
+## 15. AI Did Not Break Education, It Revealed the Bug
 
-**Author:** ilamont  
-**Published:** 10/29/2026, 12:16:08 AM  
+**Author:** lumpa  
+**Published:** 10/29/2026, 9:20:57 AM  
 **Categories:** -  
 
-Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 47 # Comments: 84
+Article URL: https://georgiker.com/blog/ai-did-not-break-education/ Comments URL: https://news.ycombinator.com/item?id=50286401 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/)
+📖 [Read original article](https://georgiker.com/blog/ai-did-not-break-education/)
+
+---
+
+## 16. Robotics AI Suite
+
+**Author:** T-A  
+**Published:** 10/29/2026, 9:18:13 AM  
+**Categories:** -  
+
+Article URL: https://developer.robotics.intel.com/ Comments URL: https://news.ycombinator.com/item?id=50286387 Points: 1 # Comments: 0
+
+📖 [Read original article](https://developer.robotics.intel.com/)
+
+---
+
+## 17. First EU AI Act harmonised standard
+
+**Author:** fscaramuzza  
+**Published:** 10/29/2026, 9:10:40 AM  
+**Categories:** -  
+
+Article URL: https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal Comments URL: https://news.ycombinator.com/item?id=50286332 Points: 3 # Comments: 0
+
+📖 [Read original article](https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal)
+
+---
+
+## 18. Out of My Other Mind – What are the defining characteristics of a conscious AI?
+
+**Author:** rbanffy  
+**Published:** 10/29/2026, 9:06:14 AM  
+**Categories:** -  
+
+Article URL: https://theofficialacm.substack.com/p/what-would-it-take-to-convince-us Comments URL: https://news.ycombinator.com/item?id=50286307 Points: 2 # Comments: 0
+
+📖 [Read original article](https://theofficialacm.substack.com/p/what-would-it-take-to-convince-us)
+
+---
+
+## 19. An AI agent performed brain surgery on a mouse
+
+**Author:** dsrtslnd23  
+**Published:** 10/29/2026, 9:03:59 AM  
+**Categories:** -  
+
+Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50286286 Points: 1 # Comments: 0
+
+📖 [Read original article](https://twitter.com/OcanaSantero/status/2115442964574908902)
+
+---
+
+## 20. I Created an MMO (AI Slop?)
+
+**Author:** yourneighbor  
+**Published:** 10/29/2026, 8:49:39 AM  
+**Categories:** -  
+
+Article URL: https://aetheriammorpg.online/ Comments URL: https://news.ycombinator.com/item?id=50286161 Points: 3 # Comments: 1
+
+📖 [Read original article](https://aetheriammorpg.online/)
 
 ---
