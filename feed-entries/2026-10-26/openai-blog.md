@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-26"
 date: "2026-10-26"
 source: "OpenAI Blog"
-count: 7
+count: 6
 ---
 
 # OpenAI Blog - 2026-10-26
 
-7 items collected.
+6 items collected.
 
 ---
 
@@ -80,17 +80,5 @@ Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the 
 See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.
 
 📖 [Read original article](https://openai.com/index/openai-cut-incident-investigation)
-
----
-
-## 7. Introducing GPT-6.1 Terra
-
-**Author:** -  
-**Published:** 10/26/2026, 12:00:00 AM  
-**Categories:** Product  
-
-Bringing fast and capable computer use to everyone
-
-📖 [Read original article](https://openai.com/index/introducing-gpt-6-1-terra)
 
 ---
