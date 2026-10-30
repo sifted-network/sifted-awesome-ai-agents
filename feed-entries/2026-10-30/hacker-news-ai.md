@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The AI Chip Imports Explorer
+## 1. Show HN: I'm killing AI slop spam with a simple Google script
 
-**Author:** ersinesen  
-**Published:** 10/30/2026, 12:11:27 PM  
+**Author:** apparent  
+**Published:** 10/30/2026, 9:53:31 PM  
 **Categories:** -  
 
-Article URL: https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer Comments URL: https://news.ycombinator.com/item?id=50302842 Points: 1 # Comments: 0
+As a founder, I've been getting an increasing amount of useless unsolicited outreach, all of which is clearly generated using AI. For some reason, Google's spam filter doesn't flag these emails as spam, so my phone buzzes throughout the day (especially in the morning) when one of these AI-generated ...
 
-📖 [Read original article](https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer)
+📖 [Read original article](https://news.ycombinator.com/item?id=50310650)
 
 ---
 
-## 2. Show HN: Molfar – AI meetings where several models answer at once (Android)
+## 2. Why my AI agents keep lie-ing? How do we trust?
 
-**Author:** Gucul_Molfar  
-**Published:** 10/30/2026, 12:06:15 PM  
+**Author:** Rikin_shah  
+**Published:** 10/30/2026, 9:47:31 PM  
 **Categories:** -  
 
-Article URL: https://play.google.com/store/apps/details?id=com.nova_hata.molfar&hl=en_US Comments URL: https://news.ycombinator.com/item?id=50302799 Points: 1 # Comments: 0
+Article URL: https://dotpals.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50310584 Points: 1 # Comments: 2
 
-📖 [Read original article](https://play.google.com/store/apps/details?id=com.nova_hata.molfar&hl=en_US)
+📖 [Read original article](https://dotpals.vercel.app/)
 
 ---
 
-## 3. What to consider if a company that made AI-related job cuts wants you back
+## 3. How much of an environmental menace is AI?
 
-**Author:** zomtorg  
-**Published:** 10/30/2026, 11:51:50 AM  
+**Author:** conferza  
+**Published:** 10/30/2026, 9:44:54 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/ai-jobs-layoffs-hiring-rebounding-skills-04662acffb7beba822129118dde3f0a7 Comments URL: https://news.ycombinator.com/item?id=50302696 Points: 3 # Comments: 0
+Article URL: https://www.cnn.com/2026/10/16/climate/ai-environmental-impact-energy-water-noise-explainer Comments URL: https://news.ycombinator.com/item?id=50310555 Points: 1 # Comments: 0
 
-📖 [Read original article](https://apnews.com/article/ai-jobs-layoffs-hiring-rebounding-skills-04662acffb7beba822129118dde3f0a7)
+📖 [Read original article](https://www.cnn.com/2026/10/16/climate/ai-environmental-impact-energy-water-noise-explainer)
 
 ---
 
-## 4. Google Faces Criminal Probe over 816 Acres Cleared for Finnish AI Data Center
+## 4. AI Capital Spending Is Booming. But What About Shareholder Returns?
 
-**Author:** entryleveljobsc  
-**Published:** 10/30/2026, 11:35:17 AM  
+**Author:** michaelhillaert  
+**Published:** 10/30/2026, 9:41:07 PM  
 **Categories:** -  
 
-Article URL: https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law Comments URL: https://news.ycombinator.com/item?id=50302575 Points: ...
+Article URL: https://michaelhillaert1.substack.com/p/valuation-dislocation-october-2026 Comments URL: https://news.ycombinator.com/item?id=50310531 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law)
+📖 [Read original article](https://michaelhillaert1.substack.com/p/valuation-dislocation-october-2026)
 
 ---
 
-## 5. AI Builder Compare
+## 5. Wall Street closes sharply lower as AI cash burn fears spark tech selloff
 
-**Author:** nguyenthituyett  
-**Published:** 10/30/2026, 11:22:48 AM  
+**Author:** geox  
+**Published:** 10/30/2026, 9:32:35 PM  
 **Categories:** -  
 
-Article URL: https://aibuildercompare.com/ Comments URL: https://news.ycombinator.com/item?id=50302471 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50310431 Points: 5 # Comments: 0
 
-📖 [Read original article](https://aibuildercompare.com/)
+📖 [Read original article](https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/)
 
 ---
 
-## 6. Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]
+## 6. Using AI to Revive Frozen Bubble
 
-**Author:** frag  
-**Published:** 10/30/2026, 11:16:15 AM  
+**Author:** guax  
+**Published:** 10/30/2026, 9:26:11 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=MENoB3Rex28 Comments URL: https://news.ycombinator.com/item?id=50302407 Points: 8 # Comments: 6
+Article URL: https://github.com/guax/frozen-bubble Comments URL: https://news.ycombinator.com/item?id=50310357 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.youtube.com/watch?v=MENoB3Rex28)
+📖 [Read original article](https://github.com/guax/frozen-bubble)
 
 ---
 
-## 7. Moonshot AI asking influencers not to disclose posts as paid when promoting Kimi
+## 7. OpenAI's latest discoveries spark a backlash and Help My kid hates AI
 
-**Author:** JumpCrisscross  
-**Published:** 10/30/2026, 10:47:35 AM  
+**Author:** erikschoster  
+**Published:** 10/30/2026, 9:21:24 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/elshayib_/status/2113710752741892476 Comments URL: https://news.ycombinator.com/item?id=50302192 Points: 1 # Comments: 0
+Article URL: https://text.npr.org/nx-s1-6022556 Comments URL: https://news.ycombinator.com/item?id=50310311 Points: 2 # Comments: 0
 
-📖 [Read original article](https://twitter.com/elshayib_/status/2113710752741892476)
+📖 [Read original article](https://text.npr.org/nx-s1-6022556)
 
 ---
 
-## 8. Strategies Senior AI Developers Use to Deliver High-Quality Code in 2026
+## 8. From blank page to PDF in three steps AI resume builder
 
-**Author:** Aninay  
-**Published:** 10/30/2026, 10:43:36 AM  
+**Author:** payanai  
+**Published:** 10/30/2026, 9:17:25 PM  
 **Categories:** -  
 
-Article URL: https://dailybusinessgroup.co.uk/2026/10/9-strategies-senior-ai-developers-use-to-deliver-high-quality-code-for-startups-in-2026/ Comments URL: https://news.ycombinator.com/item?id=50302158 Points: 1 # Comments: 0
+Article URL: https://nokku.payanai.com/resume-builder Comments URL: https://news.ycombinator.com/item?id=50310261 Points: 1 # Comments: 0
 
-📖 [Read original article](https://dailybusinessgroup.co.uk/2026/10/9-strategies-senior-ai-developers-use-to-deliver-high-quality-code-for-startups-in-2026/)
+📖 [Read original article](https://nokku.payanai.com/resume-builder)
 
 ---
 
-## 9. Antigenic operating system for my AI agents Claude Code, open claw, codex etc.
+## 9. Inquest: An AI Infrastructure Investigator Using Nemotron and MCP [video]
 
-**Author:** Dodaios  
-**Published:** 10/30/2026, 10:30:56 AM  
+**Author:** abhinaystha  
+**Published:** 10/30/2026, 9:12:05 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Dodaios/Dodaios Comments URL: https://news.ycombinator.com/item?id=50302055 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=ZvImEHQ09UY Comments URL: https://news.ycombinator.com/item?id=50310198 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Dodaios/Dodaios)
+📖 [Read original article](https://www.youtube.com/watch?v=ZvImEHQ09UY)
 
 ---
 
-## 10. Ask HN: Are you tired too in this AI era?
+## 10. Generative AI's Environmental Impact
 
-**Author:** mellosty  
-**Published:** 10/30/2026, 9:17:43 AM  
+**Author:** conferza  
+**Published:** 10/30/2026, 9:06:28 PM  
 **Categories:** -  
 
-Although AI lets us do much more, I feel considerably more tired than before.We need to keep track of many things happening in parallel and read enormous amounts of generated text. The constant guardrailing, decision making, and context switching overload me.I am pretty sure most of you are experien...
+Article URL: https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117 Comments URL: https://news.ycombinator.com/item?id=50310131 Points: 5 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50301479)
+📖 [Read original article](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117)
 
 ---
 
-## 11. Last night an AI agent performed surgery on a mouse
+## 11. Open Agent Primitives: Run enterprise AI agents securely
 
-**Author:** bananaboy  
-**Published:** 10/30/2026, 9:07:47 AM  
+**Author:** samkim  
+**Published:** 10/30/2026, 9:05:26 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50301413 Points: 3 # Comments: 0
+Article URL: https://openap.org Comments URL: https://news.ycombinator.com/item?id=50310122 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/OcanaSantero/status/2115442964574908902)
+📖 [Read original article](https://openap.org)
 
 ---
 
-## 12. The AI bubble could expose your deepest secrets
+## 12. Show HN: mobile-agent – Let AI agents control Android and iOS devices
 
-**Author:** saikatsg  
-**Published:** 10/30/2026, 8:52:19 AM  
+**Author:** tilt  
+**Published:** 10/30/2026, 8:54:51 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets Comments URL: https://news.ycombinator.com/item?id=50301325 Points: 3 # Comments: 0
+Article URL: https://github.com/gesposito/mobile-agent Comments URL: https://news.ycombinator.com/item?id=50310027 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets)
+📖 [Read original article](https://github.com/gesposito/mobile-agent)
 
 ---
 
-## 13. Timestral Tested: How Much Data AI Demand Forecasting Needs
+## 13. Venice: The Antidote to AI
 
-**Author:** drphilwinder  
-**Published:** 10/30/2026, 8:34:52 AM  
+**Author:** simonebrunozzi  
+**Published:** 10/30/2026, 8:47:38 PM  
 **Categories:** -  
 
-Article URL: https://winder.ai/timestral-ai-demand-forecasting/ Comments URL: https://news.ycombinator.com/item?id=50301214 Points: 1 # Comments: 0
+Article URL: https://www.with-flo.com/journal/venice Comments URL: https://news.ycombinator.com/item?id=50309936 Points: 2 # Comments: 0
 
-📖 [Read original article](https://winder.ai/timestral-ai-demand-forecasting/)
+📖 [Read original article](https://www.with-flo.com/journal/venice)
 
 ---
 
-## 14. Show HN: Send21 – Crypto pay links an AI agent can create but can't spend
+## 14. Don't Make a Human Do What AI Is Amazing At
 
-**Author:** send21io  
-**Published:** 10/30/2026, 8:26:44 AM  
+**Author:** keks0r  
+**Published:** 10/30/2026, 8:47:13 PM  
 **Categories:** -  
 
-Article URL: https://send21.io/demo Comments URL: https://news.ycombinator.com/item?id=50301153 Points: 1 # Comments: 0
+Article URL: https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/ Comments URL: https://news.ycombinator.com/item?id=50309929 Points: 4 # Comments: 0
 
-📖 [Read original article](https://send21.io/demo)
+📖 [Read original article](https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/)
 
 ---
 
-## 15. Etsy to restrict AI-generated content in effort to combat seller slop
+## 15. US tech stocks tumble as concerns over AI spending intensify
 
-**Author:** entryleveljobsc  
-**Published:** 10/30/2026, 8:23:31 AM  
+**Author:** bhavansig  
+**Published:** 10/30/2026, 8:42:45 PM  
 **Categories:** -  
 
-Article URL: https://www.nbcnews.com/business/consumer/etsy-restricts-ai-generated-seller-slop-rcna605216 Comments URL: https://news.ycombinator.com/item?id=50301134 Points: 3 # Comments: 0
+Article URL: https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3 Comments URL: https://news.ycombinator.com/item?id=50309870 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.nbcnews.com/business/consumer/etsy-restricts-ai-generated-seller-slop-rcna605216)
+📖 [Read original article](https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3)
 
 ---
 
-## 16. How (not) to use AI for pull requests and code reviews
+## 16. Big Tech sheds nearly $900B in rout over soaring AI spending
 
-**Author:** saikatsg  
-**Published:** 10/30/2026, 8:23:22 AM  
+**Author:** bhavansig  
+**Published:** 10/30/2026, 8:42:00 PM  
 **Categories:** -  
 
-Article URL: https://paulbakker.io/writing/how-not-to-use-ai-for-pull-requests-and-code-changes/ Comments URL: https://news.ycombinator.com/item?id=50301130 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc Comments URL: https://news.ycombinator.com/item?id=50309862 Points: 3 # Comments: 2
 
-📖 [Read original article](https://paulbakker.io/writing/how-not-to-use-ai-for-pull-requests-and-code-changes/)
+📖 [Read original article](https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc)
 
 ---
 
-## 17. Spotify aims to launch AI music remix service early next year
+## 17. Blog: AI is in its Homelab era
 
-**Author:** quick_brown_fox  
-**Published:** 10/30/2026, 8:16:44 AM  
+**Author:** simbleau  
+**Published:** 10/30/2026, 8:41:37 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b Comments URL: https://news.ycombinator.com/item?id=50301102 Points: 4 # Comments: 0
+Article URL: https://spencer.imbleau.com/blog/ai/2026/09/07/ai-is-still-in-its-homelab-era.html Comments URL: https://news.ycombinator.com/item?id=50309858 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b)
+📖 [Read original article](https://spencer.imbleau.com/blog/ai/2026/09/07/ai-is-still-in-its-homelab-era.html)
 
 ---
 
-## 18. Show HN: AI agents trade privately on BitcoinZ, with proof of delivery
+## 18. Chinese AI chipmaker Iluvatar CoreX says new GPU matches Nvidia's H200
 
-**Author:** ztextzksnarks  
-**Published:** 10/30/2026, 8:05:56 AM  
+**Author:** yogthos  
+**Published:** 10/30/2026, 8:36:37 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ZKStamp/AgentWallet Comments URL: https://news.ycombinator.com/item?id=50301018 Points: 2 # Comments: 0
+Article URL: https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates Comments URL: https://news.ycombinator.com/item?id=50309813 Points: 6 # Comments: 2
 
-📖 [Read original article](https://github.com/ZKStamp/AgentWallet)
+📖 [Read original article](https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates)
 
 ---
 
-## 19. Patterns in AI-Driven Software Development
+## 19. PrimeForge AI – Multi-channel marketing campaign generator from a single prompt
 
-**Author:** grahamlee  
-**Published:** 10/30/2026, 7:21:56 AM  
+**Author:** richieperfectz  
+**Published:** 10/30/2026, 8:34:51 PM  
 **Categories:** -  
 
-Article URL: https://akos.ma/blog/patterns-in-ai-driven-software-development/ Comments URL: https://news.ycombinator.com/item?id=50300745 Points: 2 # Comments: 0
+Comments URL: https://news.ycombinator.com/item?id=50309788 Points: 1 # Comments: 0
 
-📖 [Read original article](https://akos.ma/blog/patterns-in-ai-driven-software-development/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50309788)
 
 ---
 
-## 20. AI will bring in universal income and everyone will get wealthier
+## 20. Defense Contractor Gave Their Personal AI Agent Access to Secure Pentagon System
 
-**Author:** 01-_-  
-**Published:** 10/30/2026, 6:48:23 AM  
+**Author:** hampelm  
+**Published:** 10/30/2026, 8:30:06 PM  
 **Categories:** -  
 
-Article URL: https://www.thenationalnews.com/business/money/2026/10/28/ai-will-bring-in-universal-income-and-everyone-will-get-wealthier-oracles-larry-ellison-says/ Comments URL: https://news.ycombinator.com/item?id=50300566 Points: 1 # Comments: 3
+Article URL: https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/ Comments URL: https://news.ycombinator.com/item?id=50309730 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.thenationalnews.com/business/money/2026/10/28/ai-will-bring-in-universal-income-and-everyone-will-get-wealthier-oracles-larry-ellison-says/)
+📖 [Read original article](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
 
 ---
