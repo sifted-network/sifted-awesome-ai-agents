@@ -2,71 +2,59 @@
 title: "qbitai - 2026-10-29"
 date: "2026-10-29"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-10-29
 
-5 items collected.
+4 items collected.
 
 ---
 
-## 1. 文远知行001号员工带队，景烁科技首轮融资数千万美元
+## 1. STEPX Neo 发布两周即迎首次升级，智能体能力持续释放
 
 **Author:** 量子位的朋友们  
-**Published:** 10/29/2026, 3:27:50 AM  
-**Categories:** 资讯, 景烁科技  
+**Published:** 10/29/2026, 9:58:26 AM  
+**Categories:** 资讯, 阶跃  
 
-10月29日，文远知行披露旗下子公司景烁科技首次融资进展
+阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级
 
-📖 [Read original article](https://www.qbitai.com/2026/10/506281.html)
+📖 [Read original article](https://www.qbitai.com/2026/10/506554.html)
 
 ---
 
-## 2. 小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实
+## 2. 中国MaaS市场TOP2，商汤大装置再度蝉联
 
 **Author:** 量子位的朋友们  
-**Published:** 10/29/2026, 2:51:45 AM  
-**Categories:** 资讯, 小雨智造  
+**Published:** 10/29/2026, 9:52:05 AM  
+**Categories:** 资讯, 商汤  
 
-2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。
+在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位
 
-📖 [Read original article](https://www.qbitai.com/2026/10/506273.html)
-
----
-
-## 3. 刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍
-
-**Author:** henry  
-**Published:** 10/29/2026, 2:18:28 AM  
-**Categories:** 资讯, Agent, 扩散模型  
-
-用扩散模型怎么做做Agent？
-
-📖 [Read original article](https://www.qbitai.com/2026/10/505934.html)
+📖 [Read original article](https://www.qbitai.com/2026/10/506550.html)
 
 ---
 
-## 4. 24万开卖！理想重造i6，李想：目标全球畅销
+## 3. AI安全是AI规模化应用“加速器”
 
-**Author:** 杰西卡  
-**Published:** 10/29/2026, 12:59:26 AM  
-**Categories:** 智能车参考, 理想汽车  
+**Author:** 量子位的朋友们  
+**Published:** 10/29/2026, 8:50:14 AM  
+**Categories:** 资讯, 中国电信  
 
-理想今年最后一场发布会，自研电池芯片全部上车
+AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。
 
-📖 [Read original article](https://www.qbitai.com/2026/10/506246.html)
+📖 [Read original article](https://www.qbitai.com/2026/10/506544.html)
 
 ---
 
-## 5. 刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价
+## 4. 奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧
 
-**Author:** 梦晨  
-**Published:** 10/29/2026, 12:03:58 AM  
-**Categories:** 资讯, Gemini  
+**Author:** 听雨  
+**Published:** 10/29/2026, 6:53:19 AM  
+**Categories:** 资讯, AI, 多模态  
 
-能连肝数日修Bug，免疫提示词注入
+All in one、任何人都能用
 
-📖 [Read original article](https://www.qbitai.com/2026/10/506227.html)
+📖 [Read original article](https://www.qbitai.com/2026/10/506478.html)
 
 ---
