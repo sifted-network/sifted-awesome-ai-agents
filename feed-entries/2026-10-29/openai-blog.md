@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-29"
 date: "2026-10-29"
 source: "OpenAI Blog"
-count: 3
+count: 4
 ---
 
 # OpenAI Blog - 2026-10-29
 
-3 items collected.
+4 items collected.
 
 ---
 
@@ -44,5 +44,17 @@ OpenAI uses layered monitoring to detect frontier model misalignment and unautho
 Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.
 
 📖 [Read original article](https://openai.com/index/ropes-gray-ai-diligence)
+
+---
+
+## 4. Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot
+
+**Author:** -  
+**Published:** 10/29/2026, 12:00:00 AM  
+**Categories:** -  
+
+Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.
+
+📖 [Read original article](https://openai.com/index/credit-saison)
 
 ---
