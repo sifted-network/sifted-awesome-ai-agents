@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI-Run Companies Are Coming. Delaware Wants to Get Ahead of Them
+## 1. People are the hard part of AI
 
-**Author:** ColinWright  
-**Published:** 10/31/2026, 4:44:45 PM  
+**Author:** drewlem  
+**Published:** 10/31/2026, 8:39:17 PM  
 **Categories:** -  
 
-Article URL: https://news.bloomberglaw.com/esg/ai-run-companies-are-coming-delaware-wants-to-get-ahead-of-them Comments URL: https://news.ycombinator.com/item?id=50317727 Points: 1 # Comments: 0
+Article URL: https://keithbrown.com/proton-ai-manifesto Comments URL: https://news.ycombinator.com/item?id=50319959 Points: 1 # Comments: 2
 
-📖 [Read original article](https://news.bloomberglaw.com/esg/ai-run-companies-are-coming-delaware-wants-to-get-ahead-of-them)
+📖 [Read original article](https://keithbrown.com/proton-ai-manifesto)
 
 ---
 
-## 2. Show HN: CiteLLM – Verify AI Answers in PDFs
+## 2. Free AI
 
-**Author:** f_k  
-**Published:** 10/31/2026, 4:29:43 PM  
+**Author:** Armsn  
+**Published:** 10/31/2026, 8:37:46 PM  
 **Categories:** -  
 
-Article URL: https://citellm.com/ Comments URL: https://news.ycombinator.com/item?id=50317589 Points: 1 # Comments: 0
+Article URL: https://cloudy.chat/ Comments URL: https://news.ycombinator.com/item?id=50319941 Points: 1 # Comments: 0
 
-📖 [Read original article](https://citellm.com/)
+📖 [Read original article](https://cloudy.chat/)
 
 ---
 
-## 3. PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden
-
-**Author:** mikece  
-**Published:** 10/31/2026, 4:25:38 PM  
-**Categories:** -  
-
-Article URL: https://www.phoronix.com/news/PostgreSQL-19-Late Comments URL: https://news.ycombinator.com/item?id=50317562 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.phoronix.com/news/PostgreSQL-19-Late)
-
----
-
-## 4. Ask HN: Are you using AI to do election choices like Mayor, Special Measures
-
-**Author:** andsoitis  
-**Published:** 10/31/2026, 3:59:29 PM  
-**Categories:** -  
-
-Comments URL: https://news.ycombinator.com/item?id=50317351 Points: 3 # Comments: 1
-
-📖 [Read original article](https://news.ycombinator.com/item?id=50317351)
-
----
-
-## 5. Anthropic hacked by AI startup in less than 12hrs
-
-**Author:** thatsabadlook  
-**Published:** 10/31/2026, 3:56:16 PM  
-**Categories:** -  
-
-Article URL: https://www.msn.com/en-au/news/other/anthropic-hacked-by-ai-startup-in-less-than-12-hours/ar-AA2gaEHw Comments URL: https://news.ycombinator.com/item?id=50317327 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.msn.com/en-au/news/other/anthropic-hacked-by-ai-startup-in-less-than-12-hours/ar-AA2gaEHw)
-
----
-
-## 6. Hans Moravec was right about AI. Is he right about the fate of humanity?
-
-**Author:** Teever  
-**Published:** 10/31/2026, 3:48:35 PM  
-**Categories:** -  
-
-Article URL: https://www.msn.com/en-us/science/general/hans-moravec-was-right-about-ai-is-he-right-about-the-fate-of-humanity/ar-AA28ALzg Comments URL: https://news.ycombinator.com/item?id=50317261 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.msn.com/en-us/science/general/hans-moravec-was-right-about-ai-is-he-right-about-the-fate-of-humanity/ar-AA28ALzg)
-
----
-
-## 7. Photo Studios Are Closing as the Fashion Industry Embraces Generative AI
-
-**Author:** tobiasrenger  
-**Published:** 10/31/2026, 3:41:39 PM  
-**Categories:** -  
-
-Article URL: https://petapixel.com/2026/10/28/photo-studios-are-closing-as-the-fashion-industry-embraces-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=50317196 Points: 3 # Comments: 0
-
-📖 [Read original article](https://petapixel.com/2026/10/28/photo-studios-are-closing-as-the-fashion-industry-embraces-generative-ai/)
-
----
-
-## 8. Ask HN: How are the other sciences using AI?
-
-**Author:** sroerick  
-**Published:** 10/31/2026, 3:38:33 PM  
-**Categories:** -  
-
-I understand CS and mathematics. But I've heard it claimed that a lot of the other sciences are using LLMs every day as well. Can anybody explain these workflows? Comments URL: https://news.ycombinator.com/item?id=50317158 Points: 1 # Comments: 0
-
-📖 [Read original article](https://news.ycombinator.com/item?id=50317158)
-
----
-
-## 9. mobile-agent: faster mobile app iteration for AI coding agents
-
-**Author:** tilt  
-**Published:** 10/31/2026, 3:21:57 PM  
-**Categories:** -  
-
-Article URL: https://mobileagent.dev Comments URL: https://news.ycombinator.com/item?id=50316984 Points: 3 # Comments: 0
-
-📖 [Read original article](https://mobileagent.dev)
-
----
-
-## 10. SBoM creator and Vulnerability scanner (Threatclaw.ai)
-
-**Author:** manindersinghx  
-**Published:** 10/31/2026, 3:21:57 PM  
-**Categories:** -  
-
-Article URL: https://www.threatclaw.ai/free-tools Comments URL: https://news.ycombinator.com/item?id=50316982 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.threatclaw.ai/free-tools)
-
----
-
-## 11. Goldman says AI layoffs are leaving 'long-lasting' scar, like the last 40 years
+## 3. Reddit shares plunge as Google's AI search squeezes traffic
 
 **Author:** randycupertino  
-**Published:** 10/31/2026, 3:19:40 PM  
+**Published:** 10/31/2026, 8:31:09 PM  
 **Categories:** -  
 
-Article URL: https://fortune.com/2026/10/30/goldman-sachs-ai-layoffs-displaced-workers-older-workers-past-tech-disruptions/ Comments URL: https://news.ycombinator.com/item?id=50316955 Points: 2 # Comments: 1
+Article URL: https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50319851 Points: 5 # Comments: 1
 
-📖 [Read original article](https://fortune.com/2026/10/30/goldman-sachs-ai-layoffs-displaced-workers-older-workers-past-tech-disruptions/)
+📖 [Read original article](https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/)
 
 ---
 
-## 12. The mathematical sciences in an AI-enabled world
+## 4. Show HN: Read your Character.AI data export in the browser, nothing uploaded
 
-**Author:** smilelamp  
-**Published:** 10/31/2026, 3:18:52 PM  
+**Author:** Amavie  
+**Published:** 10/31/2026, 7:53:20 PM  
 **Categories:** -  
 
-Article URL: https://terrytao.wordpress.com/2026/10/31/the-mathematical-sciences-in-an-ai-enabled-world/ Comments URL: https://news.ycombinator.com/item?id=50316948 Points: 1 # Comments: 0
+Article URL: https://github.com/anima-universe/character-ai-export-viewer Comments URL: https://news.ycombinator.com/item?id=50319478 Points: 1 # Comments: 0
 
-📖 [Read original article](https://terrytao.wordpress.com/2026/10/31/the-mathematical-sciences-in-an-ai-enabled-world/)
+📖 [Read original article](https://github.com/anima-universe/character-ai-export-viewer)
 
 ---
 
-## 13. AI Is a Coup by the Tasteless
+## 5. Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry
 
-**Author:** sancho-panza  
-**Published:** 10/31/2026, 3:14:53 PM  
+**Author:** castov  
+**Published:** 10/31/2026, 7:30:14 PM  
 **Categories:** -  
 
-Article URL: https://sancho.bearblog.dev/ai-is-a-coup-by-the-tasteless/ Comments URL: https://news.ycombinator.com/item?id=50316911 Points: 7 # Comments: 1
+Article URL: https://castov.com Comments URL: https://news.ycombinator.com/item?id=50319273 Points: 2 # Comments: 0
 
-📖 [Read original article](https://sancho.bearblog.dev/ai-is-a-coup-by-the-tasteless/)
+📖 [Read original article](https://castov.com)
 
 ---
 
-## 14. NatWest announces 1k more jobs cut after AI efficiency drive
+## 6. Cisco gives engineer unlimited AI tokens to rewrite company's legacy code
+
+**Author:** runwithdata  
+**Published:** 10/31/2026, 7:25:06 PM  
+**Categories:** -  
+
+Article URL: https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts Comments URL: https://news.ycombinator.com/item?id=50319...
+
+📖 [Read original article](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts)
+
+---
+
+## 7. The Limits of AI as an Economic Weapon
+
+**Author:** billybuckwheat  
+**Published:** 10/31/2026, 6:56:26 PM  
+**Categories:** -  
+
+Article URL: https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/ Comments URL: https://news.ycombinator.com/item?id=50318940 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/)
+
+---
+
+## 8. The Smartest People in AI Believe This Is the World's Most Important Chart
+
+**Author:** bookofjoe  
+**Published:** 10/31/2026, 6:54:27 PM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815 Comments URL: https://news.ycombinator.com/item?id=50318912 Points: 5 # Comments: 2
+
+📖 [Read original article](https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815)
+
+---
+
+## 9. Ask HN: Has Google started cleaning their search results from AI slop?
+
+**Author:** gosen  
+**Published:** 10/31/2026, 6:50:25 PM  
+**Categories:** -  
+
+Hey everyone,I'm maintaining a couple personal pet projects and I've recently noticed in google search console that on both projects impressions and clicks went from 500-700 impressions / 10-15 clicks daily to almost zero in one day. First I thought that I broke something (e.g. added noindex by mist...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=50318869)
+
+---
+
+## 10. Google's AI satellite sends a expensive haiku to Earth
+
+**Author:** saikatsg  
+**Published:** 10/31/2026, 6:48:53 PM  
+**Categories:** -  
+
+Article URL: https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818 Comments URL: https://news.ycombinator.com/item?id=50318849 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818)
+
+---
+
+## 11. Software is Eating AI (2017)
+
+**Author:** jruohonen  
+**Published:** 10/31/2026, 6:27:27 PM  
+**Categories:** -  
+
+Article URL: https://hyperparameter.space/blog/software-is-eating-ai/ Comments URL: https://news.ycombinator.com/item?id=50318620 Points: 3 # Comments: 1
+
+📖 [Read original article](https://hyperparameter.space/blog/software-is-eating-ai/)
+
+---
+
+## 12. Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs
+
+**Author:** rifmj  
+**Published:** 10/31/2026, 6:14:17 PM  
+**Categories:** -  
+
+Article URL: https://www.arxo.io/findings/ARXO-2026-0413/ Comments URL: https://news.ycombinator.com/item?id=50318494 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.arxo.io/findings/ARXO-2026-0413/)
+
+---
+
+## 13. The Impact of Generative AI on Critical Thinking: Self-Reported (2025)
+
+**Author:** the-mitr  
+**Published:** 10/31/2026, 6:02:29 PM  
+**Categories:** -  
+
+https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 65 # Comments: 43
+
+📖 [Read original article](https://dl.acm.org/doi/full/10.1145/3706598.3713778)
+
+---
+
+## 14. Sovereign Inference Mesh – Phone-native AI inference and edge compute on Android
+
+**Author:** davidingalls  
+**Published:** 10/31/2026, 5:59:27 PM  
+**Categories:** -  
+
+Article URL: https://zenodo.org/records/21909447 Comments URL: https://news.ycombinator.com/item?id=50318373 Points: 1 # Comments: 0
+
+📖 [Read original article](https://zenodo.org/records/21909447)
+
+---
+
+## 15. Show HN: Publishub. An AI copilot for video creators and editors.
+
+**Author:** valmirjunior  
+**Published:** 10/31/2026, 5:52:36 PM  
+**Categories:** -  
+
+Article URL: https://www.getpublishub.com Comments URL: https://news.ycombinator.com/item?id=50318318 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.getpublishub.com)
+
+---
+
+## 16. NichiHab Android app blocker with Gemini AI task verification
+
+**Author:** alepoll  
+**Published:** 10/31/2026, 5:37:54 PM  
+**Categories:** -  
+
+Article URL: https://github.com/alepoll/NichiHab Comments URL: https://news.ycombinator.com/item?id=50318196 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/alepoll/NichiHab)
+
+---
+
+## 17. AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030
 
 **Author:** entryleveljobsc  
-**Published:** 10/31/2026, 3:01:01 PM  
+**Published:** 10/31/2026, 5:34:23 PM  
 **Categories:** -  
 
-Article URL: https://www.independent.co.uk/news/uk/home-news/natwest-bank-jobs-cuts-uk-ai-evelyn-partners-b3076369.html Comments URL: https://news.ycombinator.com/item?id=50316783 Points: 2 # Comments: 0
+Article URL: https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030 Comments URL: https://news.ycombinator.com/item?id=50318169 Points: 13 # Comments: 5
 
-📖 [Read original article](https://www.independent.co.uk/news/uk/home-news/natwest-bank-jobs-cuts-uk-ai-evelyn-partners-b3076369.html)
+📖 [Read original article](https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030)
 
 ---
 
-## 15. Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents
+## 18. Ask HN: Is AI destroying public online community as a protective moat?
 
-**Author:** kurienbytes  
-**Published:** 10/31/2026, 2:59:36 PM  
+**Author:** AbstractH24  
+**Published:** 10/31/2026, 5:25:32 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Annora998/inboxwall Comments URL: https://news.ycombinator.com/item?id=50316779 Points: 1 # Comments: 0
+Initially my question was going to be about Reddit and how/why they let it go down the tubes with AI slop and declining confidence in ranking to a human. But as I think through it, the question applies to all of social media. Are they afraid if they meaningfully prevent bots traffic and [perceived] ...
 
-📖 [Read original article](https://github.com/Annora998/inboxwall)
+📖 [Read original article](https://news.ycombinator.com/item?id=50318091)
 
 ---
 
-## 16. Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows
+## 19. Amazon sends chills through its workforce with mixed message memo about AI use
 
-**Author:** entryleveljobsc  
-**Published:** 10/31/2026, 2:59:11 PM  
+**Author:** Logans_Run  
+**Published:** 10/31/2026, 5:21:16 PM  
 **Categories:** -  
 
-Article URL: https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media Comments URL: https://news.ycombinator.com/item?id=50316775 Points: 2 # Comments: 0
+Article URL: https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804 Comments URL: https://news.ycombinator.com/item?id=50318063 Points: 20 # Comments: 8
 
-📖 [Read original article](https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804)
 
 ---
 
-## 17. Anthropic orders AI tool Claude to stop remaking video games
+## 20. Cheaper AI inference is making it harder to profit from renting out compute
 
-**Author:** llm_nerd  
-**Published:** 10/31/2026, 2:41:44 PM  
+**Author:** zomtorg  
+**Published:** 10/31/2026, 5:13:50 PM  
 **Categories:** -  
 
-Article URL: https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games Comments URL: https://news.ycombinator.com/item?id=50316635 Points: 7 # Comments: 1
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent Comments URL: https://news.yc...
 
-📖 [Read original article](https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games)
-
----
-
-## 18. Ask HN: What are your go-to free/open-source alternatives to $20/mo AI SaaS?
-
-**Author:** varunkalakal  
-**Published:** 10/31/2026, 2:37:00 PM  
-**Categories:** -  
-
-Comments URL: https://news.ycombinator.com/item?id=50316590 Points: 1 # Comments: 0
-
-📖 [Read original article](https://news.ycombinator.com/item?id=50316590)
-
----
-
-## 19. An AI Agent Injected Drugs into a Live Mouse's Brain
-
-**Author:** Brajeshwar  
-**Published:** 10/31/2026, 2:21:19 PM  
-**Categories:** -  
-
-Article URL: https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/ Comments URL: https://news.ycombinator.com/item?id=50316468 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/)
-
----
-
-## 20. Goal Pilot AI – Turn goal into AI-generated daily action plans
-
-**Author:** victorofficial  
-**Published:** 10/31/2026, 1:59:06 PM  
-**Categories:** -  
-
-Article URL: https://play.google.com/store/apps/details?id=com.ropixo.goalpilotai&hl=en_US Comments URL: https://news.ycombinator.com/item?id=50316266 Points: 1 # Comments: 0
-
-📖 [Read original article](https://play.google.com/store/apps/details?id=com.ropixo.goalpilotai&hl=en_US)
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent)
 
 ---
