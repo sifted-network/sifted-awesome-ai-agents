@@ -2,12 +2,12 @@
 title: "qbitai - 2026-10-30"
 date: "2026-10-30"
 source: "qbitai"
-count: 7
+count: 3
 ---
 
 # qbitai - 2026-10-30
 
-7 items collected.
+3 items collected.
 
 ---
 
@@ -44,53 +44,5 @@ xs，还要给机器人打绩效
 10月30日，联想天禧AI 4.5迎来AIPC端正式发布。
 
 📖 [Read original article](https://www.qbitai.com/2026/10/506779.html)
-
----
-
-## 4. 百度 APP 发布四大 AI 升级，搜索已实现递归自我进化
-
-**Author:** 听雨  
-**Published:** 10/30/2026, 8:50:44 AM  
-**Categories:** 资讯  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/10/506771.html)
-
----
-
-## 5. 好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单
-
-**Author:** 量子位的朋友们  
-**Published:** 10/30/2026, 8:12:11 AM  
-**Categories:** 资讯, Utopai Studios  
-
-创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。
-
-📖 [Read original article](https://www.qbitai.com/2026/10/506747.html)
-
----
-
-## 6. 英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成
-
-**Author:** 量子位的朋友们  
-**Published:** 10/30/2026, 7:31:11 AM  
-**Categories:** 资讯, MiniMax  
-
-英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重
-
-📖 [Read original article](https://www.qbitai.com/2026/10/506743.html)
-
----
-
-## 7. RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR
-
-**Author:** Jay  
-**Published:** 10/30/2026, 5:52:47 AM  
-**Categories:** 资讯, OCR  
-
-解析一切
-
-📖 [Read original article](https://www.qbitai.com/2026/10/506686.html)
 
 ---
