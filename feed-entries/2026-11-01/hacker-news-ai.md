@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The question we should all be asking about AI
+## 1. Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents
 
-**Author:** heresie-dabord  
-**Published:** 11/1/2026, 12:44:36 PM  
+**Author:** richardmeng  
+**Published:** 11/1/2026, 9:44:21 PM  
 **Categories:** -  
 
-Article URL: https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt Comments URL: https://news.ycombinator.com/item?id=50325107 Points: 1 # Comments: 0
+Hi HN! We built nonce, an open-source tool that sits between personal AI agents (Muse, Grok, ChatGPT, Claude) and your personal data in Gmail, Calendar, Drive and more.Today, if you connect Gmail to an AI agent like Muse, it can read your entire inbox. Whether on purpose or not, they can read far mo...
 
-📖 [Read original article](https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt)
+📖 [Read original article](https://www.anonce.io/)
 
 ---
 
-## 2. Context Mode – An Open-Source MCP Server That Reduces AI Coding Context Usage
+## 2. Show HN: Building an AI Traffic Guardrail(kilasec)
 
-**Author:** Moon_Y  
-**Published:** 11/1/2026, 11:56:19 AM  
+**Author:** kilasec  
+**Published:** 11/1/2026, 9:37:05 PM  
 **Categories:** -  
 
-Article URL: https://github.com/mksglu/context-mode Comments URL: https://news.ycombinator.com/item?id=50324789 Points: 1 # Comments: 0
+Show HN: An AI traffic guardrailBuilding something based on 2 decades of support experience.It's a guardrail for AI traffic where you can apply policies, redact PII and API keys, set model destinations, catch destructive actions before execution, etc.The whole thing is built with Claude and can also...
 
-📖 [Read original article](https://github.com/mksglu/context-mode)
+📖 [Read original article](https://kilasec.com)
 
 ---
 
-## 3. When AI Writes the Code, Show Your Judgment
+## 3. Early Career Researcher Responses to AI in Math
 
-**Author:** Eyosias_x5  
-**Published:** 11/1/2026, 11:44:25 AM  
+**Author:** joshbuddy  
+**Published:** 11/1/2026, 9:21:55 PM  
 **Categories:** -  
 
-Article URL: https://www.eyosias.dev/case-studies/ai-mailbox-analysis Comments URL: https://news.ycombinator.com/item?id=50324711 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.eyosias.dev/case-studies/ai-mailbox-analysis)
-
----
-
-## 4. Will Agent Resource Registries ever have their moment, the way AI gateways did?
-
-**Author:** Dhanpraja231  
-**Published:** 11/1/2026, 11:39:35 AM  
-**Categories:** -  
-
-Article URL: https://agenticresourcediscovery.org/ Comments URL: https://news.ycombinator.com/item?id=50324679 Points: 3 # Comments: 1
-
-📖 [Read original article](https://agenticresourcediscovery.org/)
-
----
-
-## 5. Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety
-
-**Author:** adityam_9911  
-**Published:** 11/1/2026, 10:48:39 AM  
-**Categories:** -  
-
-Article URL: https://github.com/matricphase-dot/aiops Comments URL: https://news.ycombinator.com/item?id=50324396 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/matricphase-dot/aiops)
-
----
-
-## 6. AI Warning for Steam – Increases Visibility of AI Generated Content Disclosures
-
-**Author:** SockThief  
-**Published:** 11/1/2026, 10:47:55 AM  
-**Categories:** -  
-
-Article URL: https://github.com/seeeeew/aiwarningforsteam Comments URL: https://news.ycombinator.com/item?id=50324387 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/seeeeew/aiwarningforsteam)
-
----
-
-## 7. Fruth – A semantic state inference engine for AI
-
-**Author:** fl0ri0  
-**Published:** 11/1/2026, 10:14:07 AM  
-**Categories:** -  
-
-Article URL: https://github.com/fl0ri0/fruth Comments URL: https://news.ycombinator.com/item?id=50324172 Points: 2 # Comments: 1
-
-📖 [Read original article](https://github.com/fl0ri0/fruth)
-
----
-
-## 8. FreeGent: Free Agentic AI for Everyone
-
-**Author:** anttttti  
-**Published:** 11/1/2026, 9:20:16 AM  
-**Categories:** -  
-
-Article URL: https://freegent.ai Comments URL: https://news.ycombinator.com/item?id=50323876 Points: 2 # Comments: 0
-
-📖 [Read original article](https://freegent.ai)
-
----
-
-## 9. AI-driven layoffs are creating a new class of boomerang employees
-
-**Author:** zomtorg  
-**Published:** 11/1/2026, 9:07:46 AM  
-**Categories:** -  
-
-Article URL: https://www.reddit.com/r/technology/s/bU94PCfFwr Comments URL: https://news.ycombinator.com/item?id=50323813 Points: 4 # Comments: 1
-
-📖 [Read original article](https://www.reddit.com/r/technology/s/bU94PCfFwr)
-
----
-
-## 10. What operational task would you hand to a 7-day custom AI tool?
-
-**Author:** plakhlani2  
-**Published:** 11/1/2026, 9:02:12 AM  
-**Categories:** -  
-
-Article URL: https://www.indiehackers.com/post/i-m-building-25-free-ai-tools-for-small-businesses-in-7-days-each-here-s-why-and-what-i-need-from-you-e253531348 Comments URL: https://news.ycombinator.com/item?id=50323792 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.indiehackers.com/post/i-m-building-25-free-ai-tools-for-small-businesses-in-7-days-each-here-s-why-and-what-i-need-from-you-e253531348)
-
----
-
-## 11. Early Career Researcher Responses to AI in Math
-
-**Author:** nill0  
-**Published:** 11/1/2026, 8:47:22 AM  
-**Categories:** -  
-
-Article URL: https://arxiv.org/abs/2610.40584 Comments URL: https://news.ycombinator.com/item?id=50323728 Points: 2 # Comments: 0
+Article URL: https://arxiv.org/abs/2610.40584 Comments URL: https://news.ycombinator.com/item?id=50330023 Points: 3 # Comments: 0
 
 📖 [Read original article](https://arxiv.org/abs/2610.40584)
 
 ---
 
-## 12. Is AI Cheap Enough to Replace Developers?
+## 4. Commodore 64 AI Image Generator
 
-**Author:** sanjays442  
-**Published:** 11/1/2026, 8:04:48 AM  
+**Author:** watercooler_guy  
+**Published:** 11/1/2026, 9:21:10 PM  
 **Categories:** -  
 
-Article URL: https://zyvop.com/is-ai-actually-cheap-enough-to-replace-developers-8i74u Comments URL: https://news.ycombinator.com/item?id=50323552 Points: 1 # Comments: 2
+Article URL: https://hackaday.io/project/195819-commodore-64-ai-image-generator Comments URL: https://news.ycombinator.com/item?id=50330018 Points: 1 # Comments: 0
 
-📖 [Read original article](https://zyvop.com/is-ai-actually-cheap-enough-to-replace-developers-8i74u)
+📖 [Read original article](https://hackaday.io/project/195819-commodore-64-ai-image-generator)
 
 ---
 
-## 13. Ghost in the machine: how AI is haunting the search for the supernatural
+## 5. About Platform Engineering and AI
 
-**Author:** nephihaha  
-**Published:** 11/1/2026, 7:46:28 AM  
+**Author:** eminetto  
+**Published:** 11/1/2026, 9:17:58 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting Comments URL: https://news.ycombinator.com/item?id=50323470 Points: 2 # Comments: 0
+Article URL: https://eltonminetto.dev/en/post/2026-10-04-platform-engineering-p5/ Comments URL: https://news.ycombinator.com/item?id=50329989 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting)
+📖 [Read original article](https://eltonminetto.dev/en/post/2026-10-04-platform-engineering-p5/)
 
 ---
 
-## 14. Bubbuild/republic: A Python library for AI providers
+## 6. Gnosh.ai for \"Functional AI\"; functional context management, no compaction
 
-**Author:** l2dy  
-**Published:** 11/1/2026, 7:32:47 AM  
+**Author:** jaekwon  
+**Published:** 11/1/2026, 9:04:08 PM  
 **Categories:** -  
 
-Article URL: https://github.com/bubbuild/republic Comments URL: https://news.ycombinator.com/item?id=50323414 Points: 1 # Comments: 0
+Article URL: https://gnosh.ai/head-to-head.html Comments URL: https://news.ycombinator.com/item?id=50329860 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/bubbuild/republic)
+📖 [Read original article](https://gnosh.ai/head-to-head.html)
 
 ---
 
-## 15. Show HN: AnchorGit – Hardware-signed Git decision ledger for AI code
+## 7. Turn Superlogical's Rex into an AI Harness
 
-**Author:** rahool-bk  
-**Published:** 11/1/2026, 7:04:15 AM  
+**Author:** alpcan  
+**Published:** 11/1/2026, 8:37:52 PM  
 **Categories:** -  
 
-Article URL: https://www.anchorgit.com Comments URL: https://news.ycombinator.com/item?id=50323310 Points: 1 # Comments: 0
+Article URL: https://github.com/alpcanaydin/rexmod/ Comments URL: https://news.ycombinator.com/item?id=50329578 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.anchorgit.com)
+📖 [Read original article](https://github.com/alpcanaydin/rexmod/)
 
 ---
 
-## 16. How to Live with AI
+## 8. Are There Problems Beyond the Reach of AI [video]
 
-**Author:** gx  
-**Published:** 11/1/2026, 6:54:59 AM  
+**Author:** efavdb  
+**Published:** 11/1/2026, 8:06:51 PM  
 **Categories:** -  
 
-Article URL: https://humanpro.co/articles/how-to-live-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50323273 Points: 1 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=NWNbAEivyvs Comments URL: https://news.ycombinator.com/item?id=50329218 Points: 4 # Comments: 0
 
-📖 [Read original article](https://humanpro.co/articles/how-to-live-with-ai/)
+📖 [Read original article](https://www.youtube.com/watch?v=NWNbAEivyvs)
 
 ---
 
-## 17. Who pays for the AI power boom?
+## 9. Show HN: Castov – A local-first desktop automation engine using local AI
 
-**Author:** latentframe  
-**Published:** 11/1/2026, 6:20:11 AM  
+**Author:** castov  
+**Published:** 11/1/2026, 7:59:55 PM  
 **Categories:** -  
 
-Article URL: https://www.axios.com/2026/10/31/who-pays-ai-power-boom Comments URL: https://news.ycombinator.com/item?id=50323148 Points: 2 # Comments: 0
+Article URL: https://castov.com Comments URL: https://news.ycombinator.com/item?id=50329149 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.axios.com/2026/10/31/who-pays-ai-power-boom)
+📖 [Read original article](https://castov.com)
 
 ---
 
-## 18. Work, Art, and Study: AI and Ownership
+## 10. Slop Code Monitor – scanned 2.6B of code to quantify AI cognitive debt
 
-**Author:** jbethune  
-**Published:** 11/1/2026, 6:11:38 AM  
+**Author:** mramilli  
+**Published:** 11/1/2026, 7:30:12 PM  
 **Categories:** -  
 
-Article URL: https://ninchiai.substack.com/p/work-art-and-study-ai-and-ownership Comments URL: https://news.ycombinator.com/item?id=50323113 Points: 1 # Comments: 0
+Article URL: https://slopcodemonitor.ai/ Comments URL: https://news.ycombinator.com/item?id=50328840 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ninchiai.substack.com/p/work-art-and-study-ai-and-ownership)
+📖 [Read original article](https://slopcodemonitor.ai/)
 
 ---
 
-## 19. The AI cost of JavaScript frameworks
+## 11. Ask HN: What mistakes did AI make in your codebase?
 
-**Author:** luu  
-**Published:** 11/1/2026, 6:06:19 AM  
+**Author:** underdeserver  
+**Published:** 11/1/2026, 7:25:25 PM  
 **Categories:** -  
 
-Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 123 # Comments: 73
+In the past few weeks I've beeing working with frontier AI - Opus 5.5, Astra, Sol 6.1, Fable 5.1 and Gemini Argon.AI has become really good at coding in some sense, that's undeniable, and there are people that say you don't really need to review their code anymore.But I keep getting stuck in a sensa...
 
-📖 [Read original article](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50328797)
 
 ---
 
-## 20. Computerized clairvoyance: psychics push back against AI-generated readings
+## 12. \"AI for everyone would cost a tenth of a kettle a day
 
-**Author:** stevenalowe  
-**Published:** 11/1/2026, 5:32:41 AM  
+**Author:** dolbydb  
+**Published:** 11/1/2026, 7:23:16 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings Comments URL: https://news.ycombinator.com/item?id=50322959 Points: 3 # Comments: 1
+Article URL: https://allyburns.com/musings/ai-for-all/ Comments URL: https://news.ycombinator.com/item?id=50328776 Points: 1 # Comments: 5
 
-📖 [Read original article](https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings)
+📖 [Read original article](https://allyburns.com/musings/ai-for-all/)
+
+---
+
+## 13. Versuscraft: Fact-checked AI comparison posts for dev tools
+
+**Author:** aishwaryashthe  
+**Published:** 11/1/2026, 7:10:41 PM  
+**Categories:** -  
+
+Article URL: https://versuscraft.xyz/sample Comments URL: https://news.ycombinator.com/item?id=50328665 Points: 1 # Comments: 0
+
+📖 [Read original article](https://versuscraft.xyz/sample)
+
+---
+
+## 14. It wasn't AI that flipped Proton's charge
+
+**Author:** Raed667  
+**Published:** 11/1/2026, 6:53:55 PM  
+**Categories:** -  
+
+Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 120 # Comments: 70
+
+📖 [Read original article](https://blog.raed.dev/posts/proton-loser-thinking/)
+
+---
+
+## 15. VisionQuest is what happens when AI goes rogue
+
+**Author:** saikatsg  
+**Published:** 11/1/2026, 6:51:37 PM  
+**Categories:** -  
+
+Article URL: https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai Comments URL: https://news.ycombinator.com/item?id=50328464 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai)
+
+---
+
+## 16. The AI bubble could expose your deepest secrets
+
+**Author:** devonnull  
+**Published:** 11/1/2026, 6:41:23 PM  
+**Categories:** -  
+
+Article URL: https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets Comments URL: https://news.ycombinator.com/item?id=50328384 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets)
+
+---
+
+## 17. Google, Anthropic and others to support new AI crawling opt-out standard
+
+**Author:** noptd  
+**Published:** 11/1/2026, 6:39:51 PM  
+**Categories:** -  
+
+Article URL: https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/ Comments URL: https://news.ycombinator.com/item?id=50328365 Points: 2 # Comments: 0
+
+📖 [Read original article](https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/)
+
+---
+
+## 18. Making it easier for websites to express AI training preferences
+
+**Author:** noptd  
+**Published:** 11/1/2026, 6:39:20 PM  
+**Categories:** -  
+
+Article URL: https://openai.com/index/helping-websites-express-ai-training-preferences/ Comments URL: https://news.ycombinator.com/item?id=50328357 Points: 2 # Comments: 0
+
+📖 [Read original article](https://openai.com/index/helping-websites-express-ai-training-preferences/)
+
+---
+
+## 19. I didn't hand my NPM updates to an AI
+
+**Author:** csababalazs  
+**Published:** 11/1/2026, 6:35:47 PM  
+**Categories:** -  
+
+Article URL: https://medium.com/@balazs.csaba.diy/why-i-didnt-hand-my-npm-updates-to-an-ai-ca5603552e70 Comments URL: https://news.ycombinator.com/item?id=50328319 Points: 1 # Comments: 0
+
+📖 [Read original article](https://medium.com/@balazs.csaba.diy/why-i-didnt-hand-my-npm-updates-to-an-ai-ca5603552e70)
+
+---
+
+## 20. Muse AI agent is a commercial surveillance network disguised as an AI assistant
+
+**Author:** Anon84  
+**Published:** 11/1/2026, 6:33:02 PM  
+**Categories:** -  
+
+Article URL: https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial Comments URL: https://news.ycombinator.com/item?id=50328293 Points: 10 # Comments: 2
+
+📖 [Read original article](https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial)
 
 ---
