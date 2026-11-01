@@ -2,16 +2,28 @@
 title: "qbitai - 2026-10-31"
 date: "2026-10-31"
 source: "qbitai"
-count: 3
+count: 4
 ---
 
 # qbitai - 2026-10-31
 
-3 items collected.
+4 items collected.
 
 ---
 
-## 1. 你的8G iPad里有12G内存！库克走了但他的刀法追着我砍
+## 1. 刚刚，DeepSeek重磅开源：Agent底座架构！
+
+**Author:** 梦瑶  
+**Published:** 10/31/2026, 1:49:44 PM  
+**Categories:** 资讯, Deepseek  
+
+AI已经自己找到Bug并提交PR
+
+📖 [Read original article](https://www.qbitai.com/2026/10/506904.html)
+
+---
+
+## 2. 你的8G iPad里有12G内存！库克走了但他的刀法追着我砍
 
 **Author:** 梦瑶  
 **Published:** 10/31/2026, 5:17:50 AM  
@@ -23,7 +35,7 @@ count: 3
 
 ---
 
-## 2. 世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用
+## 3. 世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用
 
 **Author:** 梦瑶  
 **Published:** 10/31/2026, 5:11:19 AM  
@@ -35,7 +47,7 @@ AI算力利用“九九成”
 
 ---
 
-## 3. 刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」
+## 4. 刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」
 
 **Author:** 梦瑶  
 **Published:** 10/31/2026, 5:05:29 AM  
