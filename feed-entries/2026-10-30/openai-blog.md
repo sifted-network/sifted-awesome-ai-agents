@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-10-30"
 date: "2026-10-30"
 source: "OpenAI Blog"
-count: 3
+count: 2
 ---
 
 # OpenAI Blog - 2026-10-30
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ OpenAI will honor a shared robots.txt signal to help website operators communica
 OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.
 
 📖 [Read original article](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
-
----
-
-## 3. Fair use benefits everyone
-
-**Author:** -  
-**Published:** 10/30/2026, 12:00:00 AM  
-**Categories:** Company  
-
-OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.
-
-📖 [Read original article](https://openai.com/index/fair-use-benefits-everyone)
 
 ---
