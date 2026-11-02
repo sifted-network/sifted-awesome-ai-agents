@@ -2,12 +2,12 @@
 title: "qbitai - 2026-11-01"
 date: "2026-11-01"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-11-01
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ count: 5
 这事还是想得太简单了
 
 📖 [Read original article](https://www.qbitai.com/2026/11/506990.html)
-
----
-
-## 5. Jev新成果，再次引爆开源
-
-**Author:** Jay  
-**Published:** 11/1/2026, 4:18:37 AM  
-**Categories:** 资讯, Jev  
-
-再次“性价比屠夫”
-
-📖 [Read original article](https://www.qbitai.com/2026/11/506922.html)
 
 ---
