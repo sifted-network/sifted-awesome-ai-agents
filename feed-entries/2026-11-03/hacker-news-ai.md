@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Hardcount – Self-hosted usage billing for AI products
+## 1. Apple opens Siri AI to every app, and lets developers teach it skills
 
-**Author:** sagarw  
-**Published:** 11/3/2026, 1:34:04 PM  
+**Author:** JonSchneider  
+**Published:** 11/3/2026, 10:38:24 PM  
 **Categories:** -  
 
-Article URL: https://github.com/gethardcount/hardcount Comments URL: https://news.ycombinator.com/item?id=50351797 Points: 2 # Comments: 0
+Article URL: https://madrobot.blog/2026/11/03/siri-ai-app-skills-developers-ios-27-3/ Comments URL: https://news.ycombinator.com/item?id=50359242 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/gethardcount/hardcount)
+📖 [Read original article](https://madrobot.blog/2026/11/03/siri-ai-app-skills-developers-ios-27-3/)
 
 ---
 
-## 2. Show HN: Rigorix, Execution governance for AI agents, open-source engine
+## 2. Why Every AI Model Will Ship as a Torrent
 
-**Author:** arman-w-jalili  
-**Published:** 11/3/2026, 1:32:58 PM  
+**Author:** ahoyychips  
+**Published:** 11/3/2026, 10:36:22 PM  
 **Categories:** -  
 
-Article URL: https://rigorix.eu/ Comments URL: https://news.ycombinator.com/item?id=50351781 Points: 2 # Comments: 0
+Article URL: https://pirateface.co/articles/one-model-one-swarm Comments URL: https://news.ycombinator.com/item?id=50359225 Points: 6 # Comments: 0
 
-📖 [Read original article](https://rigorix.eu/)
+📖 [Read original article](https://pirateface.co/articles/one-model-one-swarm)
 
 ---
 
-## 3. Can AI ever build itself? A deeper look into autonomous AI research
+## 3. AI Unlocked My Ransomware-Encrypted Files – Without the Key
 
-**Author:** Bluestein  
-**Published:** 11/3/2026, 1:30:24 PM  
+**Author:** Teever  
+**Published:** 11/3/2026, 10:36:18 PM  
 **Categories:** -  
 
-Article URL: https://www.nachoplanas.com/articles/rsi-stacked-s-curves Comments URL: https://news.ycombinator.com/item?id=50351752 Points: 2 # Comments: 0
+Article URL: https://medium.com/@weaxdesign/ai-unlocked-my-ransomware-encrypted-files-without-the-key-262212277514 Comments URL: https://news.ycombinator.com/item?id=50359224 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.nachoplanas.com/articles/rsi-stacked-s-curves)
+📖 [Read original article](https://medium.com/@weaxdesign/ai-unlocked-my-ransomware-encrypted-files-without-the-key-262212277514)
 
 ---
 
-## 4. Consumer Appetite for Personal AI Goes Mainstream
+## 4. Siri AI is now open to all developers
 
-**Author:** oldnetguy  
-**Published:** 11/3/2026, 1:30:01 PM  
+**Author:** juunge  
+**Published:** 11/3/2026, 10:31:28 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables Comments URL: https://news.ycombinator.com/item?id=50351746 Points: 5 # Comments: 0
+Article URL: https://developer.apple.com/news/?id=gdk2umrf Comments URL: https://news.ycombinator.com/item?id=50359173 Points: 2 # Comments: 0
 
-📖 [Read original article](https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables)
+📖 [Read original article](https://developer.apple.com/news/?id=gdk2umrf)
 
 ---
 
-## 5. Show HN: Duckity – Abuse protection for the AI agent era
+## 5. Microsoft Bing AI Search Choice
 
-**Author:** nyeki  
-**Published:** 11/3/2026, 1:17:28 PM  
+**Author:** tech234a  
+**Published:** 11/3/2026, 10:26:21 PM  
 **Categories:** -  
 
-Hey there! I'm Rafa, founder of Duckity.Have you ever been stopped by "prove you're a human" before logging in, signing up, or sending a friend request? Your users have too, and it sucks. Duckity allows you to define what good behavior looks like instead, and deters any activity going against that w...
+Article URL: https://chromewebstore.google.com/detail/microsoft-bing-ai-search/mcaabonmnmphidjfohjkdobemneigopa Comments URL: https://news.ycombinator.com/item?id=50359127 Points: 1 # Comments: 0
 
-📖 [Read original article](https://duckity.com/)
+📖 [Read original article](https://chromewebstore.google.com/detail/microsoft-bing-ai-search/mcaabonmnmphidjfohjkdobemneigopa)
 
 ---
 
-## 6. Anthropic warns its AI could be dangerous. So why do people want to invest?
+## 6. Lotse: AI Coding Agent – iOS
 
-**Author:** tosh  
-**Published:** 11/3/2026, 1:12:40 PM  
+**Author:** mahbobyosf  
+**Published:** 11/3/2026, 9:50:44 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/audio/play/w3ct8mcy Comments URL: https://news.ycombinator.com/item?id=50351573 Points: 1 # Comments: 0
+Article URL: https://apps.apple.com/us/app/lotse-ai-coding-agent/id6760467136 Comments URL: https://news.ycombinator.com/item?id=50358695 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/audio/play/w3ct8mcy)
+📖 [Read original article](https://apps.apple.com/us/app/lotse-ai-coding-agent/id6760467136)
 
 ---
 
-## 7. Common Ground:AI agent that plans one night two different tastes will both enjoy
-
-**Author:** Nzimande_00  
-**Published:** 11/3/2026, 12:50:09 PM  
-**Categories:** -  
-
-Article URL: https://common-ground-pho7.onrender.com/ Comments URL: https://news.ycombinator.com/item?id=50351395 Points: 1 # Comments: 0
-
-📖 [Read original article](https://common-ground-pho7.onrender.com/)
-
----
-
-## 8. Show HN: A tool to optimize AI model cost without benchmark score trade-offs
-
-**Author:** jethkl  
-**Published:** 11/3/2026, 12:38:49 PM  
-**Categories:** -  
-
-I created this page to apply data envelopment analysis to find the Pareto frontier of cost and benchmark scores. The goal is to identify the cheapest model or a theoretical blend of models applied to tasks that meets the same benchmark scores as your selected model. This is based on a 2022 paper I c...
-
-📖 [Read original article](https://jeff-kline.github.io/posts/same-ai-results-for-less/index.html)
-
----
-
-## 9. Fujifilm to boost tape production 5x as AI fuels archiving demand
-
-**Author:** rbanffy  
-**Published:** 11/3/2026, 12:31:23 PM  
-**Categories:** -  
-
-Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50351216 Points: 3 # Comments: 0
-
-📖 [Read original article](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
-
----
-
-## 10. 'A serious failure': CPS prosecutor cites fake case after AI search
-
-**Author:** entryleveljobsc  
-**Published:** 11/3/2026, 12:29:24 PM  
-**Categories:** -  
-
-Article URL: https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search Comments URL: https://news.ycombinator.com/item?id=50351194 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search)
-
----
-
-## 11. Harms of the Generative AI
+## 7. The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
 
 **Author:** ibobev  
-**Published:** 11/3/2026, 12:26:05 PM  
+**Published:** 11/3/2026, 9:40:53 PM  
 **Categories:** -  
 
-Article URL: https://andreyor.st/posts/2026-11-02-harms-of-the-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=50351169 Points: 2 # Comments: 0
+Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 84 # Comments: 8
 
-📖 [Read original article](https://andreyor.st/posts/2026-11-02-harms-of-the-generative-ai/)
+📖 [Read original article](https://arxiv.org/abs/2605.29713)
 
 ---
 
-## 12. nRF71 Series: Wi-Fi, Bluetooth LE, Thread, and On-Device AI on a Single Chip
+## 8. US tech giants' hidden AI debt swells 90% to $3.2T in 6 months
 
-**Author:** hasheddan  
-**Published:** 11/3/2026, 12:03:33 PM  
+**Author:** angry_impala  
+**Published:** 11/3/2026, 9:26:44 PM  
 **Categories:** -  
 
-Article URL: https://www.nordicsemi.com/Nordic-news/2026/11/Nordic-brings-edge-AI-to-battery-powered-WiFi-devices-20-times-lower-standby-power-with-nRF71-Series Comments URL: https://news.ycombinator.com/item?id=50350942 Points: 2 # Comments: 0
+Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 54 # Comments: 16
 
-📖 [Read original article](https://www.nordicsemi.com/Nordic-news/2026/11/Nordic-brings-edge-AI-to-battery-powered-WiFi-devices-20-times-lower-standby-power-with-nRF71-Series)
+📖 [Read original article](https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months)
 
 ---
 
-## 13. A Human Corrected the AI. Then the Data Changed
+## 9. The AI Boom May Be Sowing Seeds of Another Financial Crisis
 
-**Author:** sonalgoyal  
-**Published:** 11/3/2026, 12:01:49 PM  
+**Author:** angry_impala  
+**Published:** 11/3/2026, 9:25:48 PM  
 **Categories:** -  
 
-Article URL: https://www.zingg.ai/post/human-corrected-the-ai-then-the-data-changed Comments URL: https://news.ycombinator.com/item?id=50350931 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight Comments URL: https://news.ycombinator.com/item?id=50358414 Points: 50 # Comments: 47
 
-📖 [Read original article](https://www.zingg.ai/post/human-corrected-the-ai-then-the-data-changed)
+📖 [Read original article](https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight)
 
 ---
 
-## 14. AI could break legal systems by finding previously hidden loopholes
+## 10. British fintech Revolut slashes AI coding costs 10x by going self-hosted
 
-**Author:** Bender  
-**Published:** 11/3/2026, 11:47:39 AM  
+**Author:** gr_norm  
+**Published:** 11/3/2026, 9:23:42 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/ai-and-ml/2026/11/02/ai-could-break-legal-systems-by-finding-previously-hidden-loopholes/5307066 Comments URL: https://news.ycombinator.com/item?id=50350809 Points: 4 # Comments: 1
+Article URL: https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345 Comments URL: https://news.ycombinator.com/item?id=50358388 Points: 7 # Comments: 1
 
-📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/11/02/ai-could-break-legal-systems-by-finding-previously-hidden-loopholes/5307066)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345)
 
 ---
 
-## 15. CrowdStrike launches AI Kill Switch to terminate rogue AI agents
+## 11. Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%
 
-**Author:** chha  
-**Published:** 11/3/2026, 11:39:13 AM  
+**Author:** g42gregory  
+**Published:** 11/3/2026, 8:57:15 PM  
 **Categories:** -  
 
-Article URL: https://app.dealroom.co/news/feed/crowdstrike-launches-ai-kill-switch-to-terminate-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=50350741 Points: 1 # Comments: 0
+Article URL: https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/ Comments URL: https://news.ycombinator.com/item?id=50358078 Points: 8 # Comments: 1
 
-📖 [Read original article](https://app.dealroom.co/news/feed/crowdstrike-launches-ai-kill-switch-to-terminate-rogue-ai-agents)
+📖 [Read original article](https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/)
 
 ---
 
-## 16. Games Are Being Ripped Off by AI, and Things Are Only Going to Get Worse
+## 12. Google to cutoff Search Engine access to schools banning Gen. AI
 
-**Author:** mrkn1  
-**Published:** 11/3/2026, 11:38:34 AM  
+**Author:** mr_fantastic  
+**Published:** 11/3/2026, 8:42:44 PM  
 **Categories:** -  
 
-Article URL: https://www.gamespot.com/articles/entire-games-are-being-ripped-off-by-ai-and-things-are-only-going-to-get-worse/ Comments URL: https://news.ycombinator.com/item?id=50350735 Points: 3 # Comments: 0
+Article URL: https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=50357893 Points: 14 # Comments: 1
 
-📖 [Read original article](https://www.gamespot.com/articles/entire-games-are-being-ripped-off-by-ai-and-things-are-only-going-to-get-worse/)
+📖 [Read original article](https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/)
 
 ---
 
-## 17. Itch.io adding Generative AI disclosure filtering to few more places on the site
+## 13. AI Agents Used by Railway Breach Systems of Rival Primcloud
 
-**Author:** HelloUsername  
-**Published:** 11/3/2026, 11:37:42 AM  
+**Author:** aliasxneo  
+**Published:** 11/3/2026, 8:40:14 PM  
 **Categories:** -  
 
-Article URL: https://bsky.app/profile/itch.io/post/3mzezjvqexs2h Comments URL: https://news.ycombinator.com/item?id=50350730 Points: 8 # Comments: 1
+Article URL: https://securityboulevard.com/2026/11/ai-agents-used-by-railway-breach-systems-of-rival-primcloud/ Comments URL: https://news.ycombinator.com/item?id=50357868 Points: 6 # Comments: 1
 
-📖 [Read original article](https://bsky.app/profile/itch.io/post/3mzezjvqexs2h)
+📖 [Read original article](https://securityboulevard.com/2026/11/ai-agents-used-by-railway-breach-systems-of-rival-primcloud/)
 
 ---
 
-## 18. SUSE Laying Off 10% of Its Workforce Due to AI and Automation
+## 14. The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers
 
-**Author:** pluc  
-**Published:** 11/3/2026, 11:37:40 AM  
+**Author:** thelonelyborg  
+**Published:** 11/3/2026, 8:37:45 PM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/news/SUSE-Layoffs-10p-AI Comments URL: https://news.ycombinator.com/item?id=50350729 Points: 3 # Comments: 0
+Article URL: https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly Comments URL: https://news.ycombinator.com/item?id=50357834 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.phoronix.com/news/SUSE-Layoffs-10p-AI)
+📖 [Read original article](https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly)
 
 ---
 
-## 19. Flow AI Fx – Unified AI Creative Studio for Video, Image, Music and Voice
+## 15. Show HN: Mallard: Git for the age of AI agents
 
-**Author:** vidrushaifan  
-**Published:** 11/3/2026, 11:37:39 AM  
+**Author:** rika321  
+**Published:** 11/3/2026, 8:18:39 PM  
 **Categories:** -  
 
-Article URL: https://flowaifx.app/ Comments URL: https://news.ycombinator.com/item?id=50350727 Points: 1 # Comments: 0
+We started Mallard to make it easier to share our agent sessions and build things together. We spend much of our working day talking to Claude and Codex. Those conversations include the ideas, designs, and decisions behind our work. However they often stay on one machine, without backups or an easy ...
 
-📖 [Read original article](https://flowaifx.app/)
+📖 [Read original article](https://mallard-ai.com/home)
 
 ---
 
-## 20. Lego with bright colors can be used by AI to motion track animation for CGI
+## 16. Face Rater – AI Face Analysis and Face Rating Report
 
-**Author:** Michelangelo11  
-**Published:** 11/3/2026, 11:16:42 AM  
+**Author:** dotcurio  
+**Published:** 11/3/2026, 8:17:43 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/i/status/2117460058019709023 Comments URL: https://news.ycombinator.com/item?id=50350567 Points: 1 # Comments: 0
+Article URL: https://facerater.net/ Comments URL: https://news.ycombinator.com/item?id=50357597 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/i/status/2117460058019709023)
+📖 [Read original article](https://facerater.net/)
+
+---
+
+## 17. AI agents beating human made tools at molecular discovery
+
+**Author:** ronareltest  
+**Published:** 11/3/2026, 8:14:18 PM  
+**Categories:** -  
+
+Article URL: https://twitter.com/intology/status/2117642701890105725 Comments URL: https://news.ycombinator.com/item?id=50357548 Points: 2 # Comments: 2
+
+📖 [Read original article](https://twitter.com/intology/status/2117642701890105725)
+
+---
+
+## 18. Show HN: Traccia – Control what AI agents can do
+
+**Author:** vijaypoudel  
+**Published:** 11/3/2026, 8:06:53 PM  
+**Categories:** -  
+
+Article URL: https://github.com/traccia-ai/traccia-py Comments URL: https://news.ycombinator.com/item?id=50357443 Points: 2 # Comments: 1
+
+📖 [Read original article](https://github.com/traccia-ai/traccia-py)
+
+---
+
+## 19. AI 'panic': Back office jobs cut – but not the expected roles
+
+**Author:** billybuckwheat  
+**Published:** 11/3/2026, 8:04:24 PM  
+**Categories:** -  
+
+Article URL: https://www.rnz.co.nz/news/science-and-technology/2327983/ai-panic-back-office-jobs-cut-but-not-the-expected-roles Comments URL: https://news.ycombinator.com/item?id=50357407 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.rnz.co.nz/news/science-and-technology/2327983/ai-panic-back-office-jobs-cut-but-not-the-expected-roles)
+
+---
+
+## 20. Show HN: HackerByte – Finding promising AI stories by analyzing HN discussions
+
+**Author:** bakigul  
+**Published:** 11/3/2026, 7:51:06 PM  
+**Categories:** -  
+
+This was something I wanted to build for a long time.AI news is moving so fast now. Every day there are new projects, tools and updates. It's hard to follow everything, and we don't always have time to read long articles.So I built HackerByte. It takes Hacker News stories and makes short summaries i...
+
+📖 [Read original article](https://hackerbyte.net)
 
 ---
