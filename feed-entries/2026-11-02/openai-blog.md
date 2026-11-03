@@ -11,19 +11,7 @@ count: 7
 
 ---
 
-## 1. Rewarding defenders with bigger bug bounties
-
-**Author:** -  
-**Published:** 11/2/2026, 6:00:00 PM  
-**Categories:** Security  
-
-OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.
-
-📖 [Read original article](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)
-
----
-
-## 2. Preparing our next security sprint to harden OpenAI
+## 1. Preparing our next security sprint to harden OpenAI
 
 **Author:** -  
 **Published:** 11/2/2026, 6:00:00 PM  
@@ -32,6 +20,18 @@ OpenAI is raising Security Bug Bounty rewards and introducing report quality, lo
 OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.
 
 📖 [Read original article](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)
+
+---
+
+## 2. Rewarding defenders with bigger bug bounties
+
+**Author:** -  
+**Published:** 11/2/2026, 6:00:00 PM  
+**Categories:** Security  
+
+OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.
+
+📖 [Read original article](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)
 
 ---
 
@@ -71,19 +71,7 @@ Introducing LifeVal, a benchmark measuring how well AI helps people complete eve
 
 ---
 
-## 6. Qodo builds context into AI code review with Codex
-
-**Author:** -  
-**Published:** 11/2/2026, 12:00:00 AM  
-**Categories:** Startup  
-
-Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.
-
-📖 [Read original article](https://openai.com/index/qodo-codex-plugin)
-
----
-
-## 7. OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization
+## 6. OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization
 
 **Author:** -  
 **Published:** 11/2/2026, 12:00:00 AM  
@@ -92,5 +80,17 @@ Qodo brings company knowledge and coding standards into Codex, helping developer
 OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.
 
 📖 [Read original article](https://openai.com/index/dan-driscoll-joins-openai)
+
+---
+
+## 7. Qodo builds context into AI code review with Codex
+
+**Author:** -  
+**Published:** 11/2/2026, 12:00:00 AM  
+**Categories:** Startup  
+
+Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.
+
+📖 [Read original article](https://openai.com/index/qodo-codex-plugin)
 
 ---
