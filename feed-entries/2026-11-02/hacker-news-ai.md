@@ -2,251 +2,239 @@
 title: "Hacker News AI - 2026-11-02"
 date: "2026-11-02"
 source: "Hacker News AI"
-count: 20
+count: 19
 ---
 
 # Hacker News AI - 2026-11-02
 
-20 items collected.
+19 items collected.
 
 ---
 
-## 1. I Am Dr. Jekyll and Mr. Hyde about AI
+## 1. Developers are downgrading their AI on purpose – and it's working
 
-**Author:** otter-in-a-suit  
-**Published:** 11/2/2026, 2:57:30 PM  
+**Author:** noptd  
+**Published:** 11/2/2026, 11:53:41 PM  
 **Categories:** -  
 
-Article URL: https://chollinger.com/blog/2026/11/i-am-dr-jekyll-and-mr-hyde-about-ai/ Comments URL: https://news.ycombinator.com/item?id=50337678 Points: 1 # Comments: 0
+Article URL: https://thenewstack.io/claude-code-developer-refusals/ Comments URL: https://news.ycombinator.com/item?id=50346001 Points: 2 # Comments: 0
 
-📖 [Read original article](https://chollinger.com/blog/2026/11/i-am-dr-jekyll-and-mr-hyde-about-ai/)
+📖 [Read original article](https://thenewstack.io/claude-code-developer-refusals/)
 
 ---
 
-## 2. Your AI Coding Agent Needs More Than a Good Prompt
+## 2. An open-source tool that makes eye-candy Instagram posts that doesn't use AI
 
-**Author:** its_ajseven  
-**Published:** 11/2/2026, 2:50:47 PM  
+**Author:** nicholasxdavis  
+**Published:** 11/2/2026, 11:50:38 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@ajseven/your-ai-coding-agent-needs-more-than-a-good-prompt-8b5b4de1cf70 Comments URL: https://news.ycombinator.com/item?id=50337599 Points: 1 # Comments: 0
+Article URL: https://www.useinstatools.com/ Comments URL: https://news.ycombinator.com/item?id=50345955 Points: 1 # Comments: 1
 
-📖 [Read original article](https://medium.com/@ajseven/your-ai-coding-agent-needs-more-than-a-good-prompt-8b5b4de1cf70)
+📖 [Read original article](https://www.useinstatools.com/)
 
 ---
 
-## 3. Mediroute: An open-source AI platform exposing global drug price disparities
+## 3. CloudOpsBench: AI benchmark shows FAI models struggling with cloud infra
 
-**Author:** foxpppp  
-**Published:** 11/2/2026, 2:44:15 PM  
+**Author:** anmejia  
+**Published:** 11/2/2026, 11:05:45 PM  
 **Categories:** -  
 
-Article URL: https://github.com/54jo3vmp/mediroute Comments URL: https://news.ycombinator.com/item?id=50337507 Points: 1 # Comments: 0
+Article URL: https://cloudopsbench.ai Comments URL: https://news.ycombinator.com/item?id=50345377 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/54jo3vmp/mediroute)
+📖 [Read original article](https://cloudopsbench.ai)
 
 ---
 
-## 4. Show HN: AgentTrafficCop – Stop AI agents from looping and burning money
+## 4. Alphabet in talks to acquire assistant startup Howie AI
 
-**Author:** bshafiq  
-**Published:** 11/2/2026, 2:43:09 PM  
+**Author:** simonpure  
+**Published:** 11/2/2026, 10:41:23 PM  
 **Categories:** -  
 
-Article URL: https://agenttrafficcop.com Comments URL: https://news.ycombinator.com/item?id=50337488 Points: 1 # Comments: 0
+Article URL: https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant Comments URL: https://news.ycombinator.com/item?id=50345068 Points: 3 # Comments: 0
 
-📖 [Read original article](https://agenttrafficcop.com)
+📖 [Read original article](https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant)
 
 ---
 
-## 5. Jobless Tech Workers Are Being Left Out of San Francisco's AI Boom
+## 5. The AI bubble could expose your deepest secrets
 
-**Author:** mancerayder  
-**Published:** 11/2/2026, 2:40:05 PM  
+**Author:** mrkn1  
+**Published:** 11/2/2026, 10:27:25 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near Comments URL: https://news.ycombinator.com/item?id=50337454 Points: 3 # Comments: 2
+Article URL: https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets Comments URL: https://news.ycombinator.com/item?id=50344871 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near)
+📖 [Read original article](https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets)
 
 ---
 
-## 6. Show HN: AI portfolio with RAG, Browser TTS-Highlight Engine & Developer Area
+## 6. AI Voice Translator
 
-**Author:** Venkat_Pabolu  
-**Published:** 11/2/2026, 2:33:19 PM  
+**Author:** uncleandyv  
+**Published:** 11/2/2026, 10:04:25 PM  
 **Categories:** -  
 
-Article URL: https://venkatpabolu.onrender.com/ Comments URL: https://news.ycombinator.com/item?id=50337362 Points: 1 # Comments: 0
+Article URL: https://github.com/UncleAndy/ai-translator Comments URL: https://news.ycombinator.com/item?id=50344525 Points: 1 # Comments: 0
 
-📖 [Read original article](https://venkatpabolu.onrender.com/)
+📖 [Read original article](https://github.com/UncleAndy/ai-translator)
 
 ---
 
-## 7. Foreigners Record Withdrawal from Taiwan Stocks Amid AI Rout
+## 7. Will AI Replace Engineers? I Ran the Experiment [video]
 
-**Author:** AInvest  
-**Published:** 11/2/2026, 2:15:22 PM  
+**Author:** dkobia  
+**Published:** 11/2/2026, 10:01:29 PM  
 **Categories:** -  
 
-Article URL: https://www.ainvest.com/news/foreigners-record-withdrawal-taiwan-stocks-ai-rout-2611/ Comments URL: https://news.ycombinator.com/item?id=50337107 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=K5gXc6kDgsE Comments URL: https://news.ycombinator.com/item?id=50344481 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ainvest.com/news/foreigners-record-withdrawal-taiwan-stocks-ai-rout-2611/)
+📖 [Read original article](https://www.youtube.com/watch?v=K5gXc6kDgsE)
 
 ---
 
-## 8. AI Transformation Is a Leadership Problem
+## 8. AI and Incidents with Sylvain Kalache [video]
 
-**Author:** dgalarza  
-**Published:** 11/2/2026, 2:13:53 PM  
+**Author:** mooreds  
+**Published:** 11/2/2026, 9:55:34 PM  
 **Categories:** -  
 
-Article URL: https://www.praxisforward.ai/articles/ai-transformation-is-a-leadership-problem/ Comments URL: https://news.ycombinator.com/item?id=50337091 Points: 1 # Comments: 0
+Article URL: https://www.arresteddevops.com/ai-and-incidents/ Comments URL: https://news.ycombinator.com/item?id=50344404 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.praxisforward.ai/articles/ai-transformation-is-a-leadership-problem/)
+📖 [Read original article](https://www.arresteddevops.com/ai-and-incidents/)
 
 ---
 
-## 9. Fujifilm to boost tape production 5x as AI fuels archiving demand
+## 9. AI models may not be so opaque after all
 
-**Author:** bookofjoe  
-**Published:** 11/2/2026, 2:02:42 PM  
+**Author:** vinni2  
+**Published:** 11/2/2026, 9:53:32 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/ Comments URL: https://news.ycombinator.com/item?id=50336918 Points: 5 # Comments: 0
+Article URL: https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all Comments URL: https://news.ycombinator.com/item?id=50344367 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
+📖 [Read original article](https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all)
 
 ---
 
-## 10. Show HN: Maat – AI agents that can diagnose Ubuntu but can't change it
+## 10. AI × Hiring
 
-**Author:** boulesmarzouk  
-**Published:** 11/2/2026, 1:53:51 PM  
+**Author:** vzhou842  
+**Published:** 11/2/2026, 9:34:59 PM  
 **Categories:** -  
 
-Article URL: https://github.com/bolesawny7/maat Comments URL: https://news.ycombinator.com/item?id=50336823 Points: 3 # Comments: 0
+Article URL: https://worklabs.sh Comments URL: https://news.ycombinator.com/item?id=50344128 Points: 2 # Comments: 1
 
-📖 [Read original article](https://github.com/bolesawny7/maat)
+📖 [Read original article](https://worklabs.sh)
 
 ---
 
-## 11. Why I'm experimenting with 25 small AI tools instead of building another SaaS
+## 11. Lyngvi – A Hardened Sandbox for AI
 
-**Author:** plakhlani2  
-**Published:** 11/2/2026, 1:48:02 PM  
+**Author:** joachimhs  
+**Published:** 11/2/2026, 9:31:49 PM  
 **Categories:** -  
 
-Article URL: https://www.indiehackers.com/post/i-think-small-businesses-need-fewer-saas-tools-not-more-1213eafddc Comments URL: https://news.ycombinator.com/item?id=50336757 Points: 2 # Comments: 1
+Article URL: https://lyngvi.skaperiet.no Comments URL: https://news.ycombinator.com/item?id=50344087 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.indiehackers.com/post/i-think-small-businesses-need-fewer-saas-tools-not-more-1213eafddc)
+📖 [Read original article](https://lyngvi.skaperiet.no)
 
 ---
 
-## 12. AI solution for reshooting video. edit a transcript and the video matches
+## 12. Oracle taps investors for $20B to finance AI expansion
 
-**Author:** adarshmd  
-**Published:** 11/2/2026, 1:47:45 PM  
+**Author:** rurp  
+**Published:** 11/2/2026, 9:23:36 PM  
 **Categories:** -  
 
-Article URL: https://use-retake.up.railway.app Comments URL: https://news.ycombinator.com/item?id=50336751 Points: 1 # Comments: 0
+Article URL: https://www.reuters.com/business/oracle-offer-10-billion-bonds-2026-11-02/ Comments URL: https://news.ycombinator.com/item?id=50343968 Points: 6 # Comments: 3
 
-📖 [Read original article](https://use-retake.up.railway.app)
+📖 [Read original article](https://www.reuters.com/business/oracle-offer-10-billion-bonds-2026-11-02/)
 
 ---
 
-## 13. Improve AI Visibility
+## 13. Speeding up [building] planning decisions with AI
 
-**Author:** sharp_entrepren  
-**Published:** 11/2/2026, 1:34:22 PM  
+**Author:** xnx  
+**Published:** 11/2/2026, 9:01:01 PM  
 **Categories:** -  
 
-Article URL: https://shodenltd.com/free-ai-visibility-report/ Comments URL: https://news.ycombinator.com/item?id=50336621 Points: 1 # Comments: 1
+Article URL: https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50343671 Points: 1 # Comments: 0
 
-📖 [Read original article](https://shodenltd.com/free-ai-visibility-report/)
+📖 [Read original article](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)
 
 ---
 
-## 14. 23andMe Plans to Use AI to Fight Disease [video]
+## 14. LifeVal: Measuring AI progress on the tasks that matter in everyday life
 
-**Author:** mgh2  
-**Published:** 11/2/2026, 1:34:04 PM  
+**Author:** pretext  
+**Published:** 11/2/2026, 8:54:47 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=KOk6u5-sK2s Comments URL: https://news.ycombinator.com/item?id=50336618 Points: 2 # Comments: 1
+Article URL: https://openai.com/index/lifeval/ Comments URL: https://news.ycombinator.com/item?id=50343589 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=KOk6u5-sK2s)
+📖 [Read original article](https://openai.com/index/lifeval/)
 
 ---
 
-## 15. The $1.8B Bet on AI and Biology [video]
+## 15. Hercules Founder Brendan Falk on the AI Opportunity
 
-**Author:** mgh2  
-**Published:** 11/2/2026, 1:33:41 PM  
+**Author:** davinci123  
+**Published:** 11/2/2026, 8:43:15 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=k8-cf_vCAP0 Comments URL: https://news.ycombinator.com/item?id=50336611 Points: 2 # Comments: 0
+Article URL: https://www.codeship.com/articles/founders-room-brendan-falk-hercules Comments URL: https://news.ycombinator.com/item?id=50343434 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=k8-cf_vCAP0)
+📖 [Read original article](https://www.codeship.com/articles/founders-room-brendan-falk-hercules)
 
 ---
 
-## 16. Pure HTML just works and beats AI Slop (YouTube) (Hayyoth)
+## 16. Marvell doubles down on AI boom with costly $115B Lumentum deal
 
-**Author:** expedited123  
-**Published:** 11/2/2026, 1:22:27 PM  
+**Author:** Element_  
+**Published:** 11/2/2026, 8:34:34 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=fG7mM6Yymaw Comments URL: https://news.ycombinator.com/item?id=50336485 Points: 2 # Comments: 0
+Article URL: https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/ Comments URL: https://news.ycombinator.com/item?id=50343329 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=fG7mM6Yymaw)
+📖 [Read original article](https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/)
 
 ---
 
-## 17. What a Swedish Mammography Trial Shows About Medical AI
+## 17. AI evals for agents: what they are and how to write them
 
-**Author:** atombender  
-**Published:** 11/2/2026, 1:21:28 PM  
+**Author:** nupize  
+**Published:** 11/2/2026, 8:21:27 PM  
 **Categories:** -  
 
-Article URL: https://readpublicforum.com/article/what-a-swedish-mammography-trial-shows-about-medical-ai-94 Comments URL: https://news.ycombinator.com/item?id=50336479 Points: 1 # Comments: 0
+Article URL: https://www.evalshift.dev/blog/ai-evals-for-agents Comments URL: https://news.ycombinator.com/item?id=50343122 Points: 1 # Comments: 0
 
-📖 [Read original article](https://readpublicforum.com/article/what-a-swedish-mammography-trial-shows-about-medical-ai-94)
+📖 [Read original article](https://www.evalshift.dev/blog/ai-evals-for-agents)
 
 ---
 
-## 18. HelpPuff – AI site chat your coding agent deploys to your Cloudflare
+## 18. Bcbsa Analysis How AI Coding Tools Affect Healthcare Costs
 
-**Author:** ahadyekta  
-**Published:** 11/2/2026, 1:11:03 PM  
+**Author:** coloneltcb  
+**Published:** 11/2/2026, 8:06:59 PM  
 **Categories:** -  
 
-Article URL: https://knowtific.github.io/helppuff/ Comments URL: https://news.ycombinator.com/item?id=50336375 Points: 1 # Comments: 0
+Article URL: https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs Comments URL: https://news.ycombinator.com/item?id=50342912 Points: 1 # Comments: 0
 
-📖 [Read original article](https://knowtific.github.io/helppuff/)
+📖 [Read original article](https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs)
 
 ---
 
-## 19. Taghash launches AI assistant Brain for investment funds
+## 19. First Publicly Available Neuron-Derived AI Video Model
 
-**Author:** koolhead17  
-**Published:** 11/2/2026, 1:04:15 PM  
+**Author:** dan_p  
+**Published:** 11/2/2026, 8:00:16 PM  
 **Categories:** -  
 
-Article URL: https://entrackr.com/snippets/taghash-launches-ai-assistant-brain-for-investment-funds-12776701 Comments URL: https://news.ycombinator.com/item?id=50336283 Points: 1 # Comments: 0
+Article URL: https://www.tbc.co/press-releases/neuron-derived-ai-video-model Comments URL: https://news.ycombinator.com/item?id=50342799 Points: 1 # Comments: 1
 
-📖 [Read original article](https://entrackr.com/snippets/taghash-launches-ai-assistant-brain-for-investment-funds-12776701)
-
----
-
-## 20. Last night an AI agent performed brain surgery on a mouse
-
-**Author:** FacZap  
-**Published:** 11/2/2026, 12:50:59 PM  
-**Categories:** -  
-
-Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 51 # Comments: 42
-
-📖 [Read original article](https://twitter.com/OcanaSantero/status/2115442964574908902)
+📖 [Read original article](https://www.tbc.co/press-releases/neuron-derived-ai-video-model)
 
 ---
