@@ -2,16 +2,40 @@
 title: "OpenAI Blog - 2026-11-03"
 date: "2026-11-03"
 source: "OpenAI Blog"
-count: 1
+count: 4
 ---
 
 # OpenAI Blog - 2026-11-03
 
-1 items collected.
+4 items collected.
 
 ---
 
-## 1. Heimstaden is changing residential real estate management with AI
+## 1. Accelerating engineering for the physical world
+
+**Author:** -  
+**Published:** 11/3/2026, 12:00:00 PM  
+**Categories:** Research  
+
+Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.
+
+📖 [Read original article](https://openai.com/index/accelerating-engineering-for-the-physical-world)
+
+---
+
+## 2. How Cisco defends at machine speed with OpenAI
+
+**Author:** -  
+**Published:** 11/3/2026, 8:00:00 AM  
+**Categories:** -  
+
+Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.
+
+📖 [Read original article](https://openai.com/index/cisco-cyber)
+
+---
+
+## 3. Heimstaden is changing residential real estate management with AI
 
 **Author:** -  
 **Published:** 11/3/2026, 8:00:00 AM  
@@ -20,5 +44,17 @@ count: 1
 Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.
 
 📖 [Read original article](https://openai.com/index/heimstaden)
+
+---
+
+## 4. OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer
+
+**Author:** -  
+**Published:** 11/3/2026, 12:00:00 AM  
+**Categories:** Company  
+
+Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.
+
+📖 [Read original article](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer)
 
 ---
