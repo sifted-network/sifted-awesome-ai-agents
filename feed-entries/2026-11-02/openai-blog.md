@@ -11,19 +11,7 @@ count: 7
 
 ---
 
-## 1. Preparing our next security sprint to harden OpenAI
-
-**Author:** -  
-**Published:** 11/2/2026, 6:00:00 PM  
-**Categories:** Security  
-
-OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.
-
-📖 [Read original article](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)
-
----
-
-## 2. Rewarding defenders with bigger bug bounties
+## 1. Rewarding defenders with bigger bug bounties
 
 **Author:** -  
 **Published:** 11/2/2026, 6:00:00 PM  
@@ -32,6 +20,18 @@ OpenAI is preparing its next internal security sprint with Cathedral Systems to 
 OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.
 
 📖 [Read original article](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)
+
+---
+
+## 2. Preparing our next security sprint to harden OpenAI
+
+**Author:** -  
+**Published:** 11/2/2026, 6:00:00 PM  
+**Categories:** Security  
+
+OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.
+
+📖 [Read original article](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)
 
 ---
 
