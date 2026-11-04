@@ -2,12 +2,12 @@
 title: "qbitai - 2026-11-03"
 date: "2026-11-03"
 source: "qbitai"
-count: 6
+count: 5
 ---
 
 # qbitai - 2026-11-03
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ AI的下一程是生产力系统之争
 TeleAI智慧看护助手
 
 📖 [Read original article](https://www.qbitai.com/2026/11/507410.html)
-
----
-
-## 6. AI数据平台OceanBase获世界互联网大会杰出贡献奖
-
-**Author:** 量子位的朋友们  
-**Published:** 11/3/2026, 5:59:05 AM  
-**Categories:** 资讯, 蚂蚁  
-
-11月3日上午，2026世界互联网大会在浙江乌镇开幕。
-
-📖 [Read original article](https://www.qbitai.com/2026/11/507405.html)
 
 ---
