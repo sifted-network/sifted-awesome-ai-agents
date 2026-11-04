@@ -2,227 +2,251 @@
 title: "Hacker News AI - 2026-11-04"
 date: "2026-11-04"
 source: "Hacker News AI"
-count: 18
+count: 20
 ---
 
 # Hacker News AI - 2026-11-04
 
-18 items collected.
+20 items collected.
 
 ---
 
-## 1. GPT-Synopsys Combines IC Design EDA with Agentic AI
+## 1. MCP vs. API vs. CLI: How should AI agents connect to your app?
 
-**Author:** gmays  
-**Published:** 11/4/2026, 4:55:01 AM  
+**Author:** viborcip  
+**Published:** 11/4/2026, 1:51:48 PM  
 **Categories:** -  
 
-Article URL: https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/ Comments URL: https://news.ycombinator.com/item?id=50361631 Points: 1 # Comments: 0
+Article URL: https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app Comments URL: https://news.ycombinator.com/item?id=50365513 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/)
+📖 [Read original article](https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app)
 
 ---
 
-## 2. Engraphis – Local-first, bi-temporal memory for AI coding agents
+## 2. AI cannot be separated from the thought that is making it
 
-**Author:** Jaixii  
-**Published:** 11/4/2026, 4:52:44 AM  
+**Author:** 0x4e  
+**Published:** 11/4/2026, 1:47:55 PM  
 **Categories:** -  
 
-Article URL: https://github.com/Coding-Dev-Tools/engraphis Comments URL: https://news.ycombinator.com/item?id=50361620 Points: 1 # Comments: 0
+Article URL: https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50365458 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/Coding-Dev-Tools/engraphis)
+📖 [Read original article](https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence)
 
 ---
 
-## 3. I built a free local AI co-processor in Rust. AXON Developer Edition
+## 3. Block training, keep answers? What 13,938 sites ask of AI bots
 
-**Author:** jrabbass  
-**Published:** 11/4/2026, 4:49:40 AM  
+**Author:** researchaiexe  
+**Published:** 11/4/2026, 1:16:29 PM  
 **Categories:** -  
 
-Article URL: https://jrabbass.github.io/axon/ Comments URL: https://news.ycombinator.com/item?id=50361599 Points: 1 # Comments: 0
+Article URL: https://trakis.io/research/block-training-keep-answers Comments URL: https://news.ycombinator.com/item?id=50365123 Points: 1 # Comments: 0
 
-📖 [Read original article](https://jrabbass.github.io/axon/)
+📖 [Read original article](https://trakis.io/research/block-training-keep-answers)
 
 ---
 
-## 4. Google will cut off search access for students at schools that reject AI
+## 4. Show HN: Gradevibes-Is your AI-written app finished?
 
-**Author:** billybuckwheat  
-**Published:** 11/4/2026, 4:40:06 AM  
+**Author:** Richaan36  
+**Published:** 11/4/2026, 1:09:44 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a Comments URL: https://news.ycombinator.com/item?id=50361562 Points: 6 # Comments: 2
+Article URL: https://gradevibes.com/?tab=upload Comments URL: https://news.ycombinator.com/item?id=50365056 Points: 1 # Comments: 0
 
-📖 [Read original article](https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a)
+📖 [Read original article](https://gradevibes.com/?tab=upload)
 
 ---
 
-## 5. Anthropic launched tools to show companies what their AI spending is buying
+## 5. EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI
 
-**Author:** gmays  
-**Published:** 11/4/2026, 4:26:22 AM  
+**Author:** teleforce  
+**Published:** 11/4/2026, 1:06:44 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/ Comments URL: https://news.ycombinator.com/item?id=50361486 Points: 5 # Comments: 1
+Article URL: https://arxiv.org/abs/2610.00311 Comments URL: https://news.ycombinator.com/item?id=50365027 Points: 1 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)
+📖 [Read original article](https://arxiv.org/abs/2610.00311)
 
 ---
 
-## 6. VibeVoted – The best software products as ranked by 10 leading AI models
+## 6. Disaster is still better than AI
 
-**Author:** stanislavb  
-**Published:** 11/4/2026, 4:14:59 AM  
+**Author:** bemtevi  
+**Published:** 11/4/2026, 1:05:26 PM  
 **Categories:** -  
 
-Article URL: https://vibevoted.com/ Comments URL: https://news.ycombinator.com/item?id=50361440 Points: 1 # Comments: 2
+Article URL: https://jasonpolak.substack.com/p/disaster-is-still-better-than-ai Comments URL: https://news.ycombinator.com/item?id=50365009 Points: 9 # Comments: 4
 
-📖 [Read original article](https://vibevoted.com/)
+📖 [Read original article](https://jasonpolak.substack.com/p/disaster-is-still-better-than-ai)
 
 ---
 
-## 7. \"Start with a Monolith\" Was Good Advice. AI Is Changing That
+## 7. Show HN: Shield KYA – Open-source audit trail and gate for AI agent tool calls
 
-**Author:** josh-scalar  
-**Published:** 11/4/2026, 4:00:28 AM  
+**Author:** shieldagent  
+**Published:** 11/4/2026, 12:33:39 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/scalar-engineering/architecture-in-the-ai-era-part-1-summary-start-with-a-monolith-was-good-advice-7df0597d0e37 Comments URL: https://news.ycombinator.com/item?id=50361361 Points: 2 # Comments: 1
+Article URL: https://github.com/The-Pixel-Boys/shield-kya Comments URL: https://news.ycombinator.com/item?id=50364706 Points: 3 # Comments: 0
 
-📖 [Read original article](https://medium.com/scalar-engineering/architecture-in-the-ai-era-part-1-summary-start-with-a-monolith-was-good-advice-7df0597d0e37)
+📖 [Read original article](https://github.com/The-Pixel-Boys/shield-kya)
 
 ---
 
-## 8. GIMP 3.2.8 with Many Refinements, Numerous Security Fixes Due to AI Reports
+## 8. Spec-driven AI development for insurance claims rule changes [video]
 
-**Author:** qtqtqt  
-**Published:** 11/4/2026, 3:59:51 AM  
+**Author:** Harish_0089  
+**Published:** 11/4/2026, 12:25:03 PM  
 **Categories:** -  
 
-Article URL: https://www.phoronix.com/news/GIMP-3.2.8-Released Comments URL: https://news.ycombinator.com/item?id=50361359 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=FRw3Og9tylE Comments URL: https://news.ycombinator.com/item?id=50364622 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.phoronix.com/news/GIMP-3.2.8-Released)
+📖 [Read original article](https://www.youtube.com/watch?v=FRw3Og9tylE)
 
 ---
 
-## 9. A private AI box in one apply
+## 9. Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted
 
-**Author:** MrGizmo  
-**Published:** 11/4/2026, 3:49:20 AM  
+**Author:** _____k  
+**Published:** 11/4/2026, 12:14:23 PM  
 **Categories:** -  
 
-Article URL: https://conn3x.org/blog/private-ai-box Comments URL: https://news.ycombinator.com/item?id=50361306 Points: 2 # Comments: 1
+Article URL: https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345 Comments URL: https://news.ycombinator.com/item?id=50364529 Points: 8 # Comments: 1
 
-📖 [Read original article](https://conn3x.org/blog/private-ai-box)
+📖 [Read original article](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345)
 
 ---
 
-## 10. Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It
+## 10. Show HN: Rivermark, a superfast AI graphic design canvas
 
-**Author:** nradov  
-**Published:** 11/4/2026, 2:58:13 AM  
+**Author:** thegeomaster  
+**Published:** 11/4/2026, 12:13:58 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50361033 Points: 2 # Comments: 0
+Hi HN,Agents can nowadays design UI very competently, but the wider question of graphic design is largely unsolved.On one side, you have image models like ChatGPT images, which are high-quality but recognizable and barely editable. On the other hand, you can use LLMs and accept results that, well, l...
 
-📖 [Read original article](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
+📖 [Read original article](https://rivermark.ai/)
 
 ---
 
-## 11. I Built an AI That Works Through the Apocalypse – Will Prowse [video]
+## 11. Can Advertising Fund Free AI? Evidence from ChatGPT's Advertising Rollout
 
-**Author:** bbrookshier  
-**Published:** 11/4/2026, 2:53:14 AM  
+**Author:** thm  
+**Published:** 11/4/2026, 12:12:36 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=E2N7IsZ_Xio Comments URL: https://news.ycombinator.com/item?id=50361005 Points: 1 # Comments: 0
+Article URL: https://ecommerceresearch.org/chatgpt-ads/ Comments URL: https://news.ycombinator.com/item?id=50364513 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=E2N7IsZ_Xio)
+📖 [Read original article](https://ecommerceresearch.org/chatgpt-ads/)
 
 ---
 
-## 12. Ask HN: AI Side/personal projects to improve hireability?
+## 12. Why the Term \"Smart City Surveillance\" Needs an Update in the Era of AI and 5G
 
-**Author:** tayo42  
-**Published:** 11/4/2026, 2:24:06 AM  
+**Author:** mondainx  
+**Published:** 11/4/2026, 12:03:24 PM  
 **Categories:** -  
 
-Hey, wondering if anyone has ideas about what are good personal/side projects to do that could help improve hiring chances, get more interviews and do better in them. Curious about either infra related like serving or higher level application and agent development personally. Part of my struggle is ...
+Article URL: https://www.red5.net/blog/smart-city-surveillance-in-the-era-of-ai-and-5g/ Comments URL: https://news.ycombinator.com/item?id=50364420 Points: 4 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50360823)
+📖 [Read original article](https://www.red5.net/blog/smart-city-surveillance-in-the-era-of-ai-and-5g/)
 
 ---
 
-## 13. Graduates are managing AI – but are they learning much else?
+## 13. AI is forcing us to pay off 40 years of technical debt
 
-**Author:** devonnull  
-**Published:** 11/4/2026, 1:44:03 AM  
+**Author:** pseudolus  
+**Published:** 11/4/2026, 11:52:17 AM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/c820vz6wyp65o Comments URL: https://news.ycombinator.com/item?id=50360592 Points: 4 # Comments: 2
+Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 252 # Comments: 137
 
-📖 [Read original article](https://www.bbc.com/news/articles/c820vz6wyp65o)
+📖 [Read original article](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 
 ---
 
-## 14. Local AI app that runs an 80B model on an 8GB Mac
+## 14. AI Slop Threatens Trust in Science
 
-**Author:** giovanniwants  
-**Published:** 11/4/2026, 1:30:30 AM  
+**Author:** rbanffy  
+**Published:** 11/4/2026, 11:51:32 AM  
 **Categories:** -  
 
-Article URL: https://yanahchat.com Comments URL: https://news.ycombinator.com/item?id=50360513 Points: 1 # Comments: 2
+Article URL: https://spectrum.ieee.org/ai-slop-trust-science Comments URL: https://news.ycombinator.com/item?id=50364330 Points: 6 # Comments: 0
 
-📖 [Read original article](https://yanahchat.com)
+📖 [Read original article](https://spectrum.ieee.org/ai-slop-trust-science)
 
 ---
 
-## 15. Writing as an act of rebellion (Despite the AI psychosis)
+## 15. iOS Simulator MCP benchmark: eight tools for AI agents
 
-**Author:** barddoo  
-**Published:** 11/4/2026, 1:21:28 AM  
+**Author:** garymiklos  
+**Published:** 11/4/2026, 11:47:01 AM  
 **Categories:** -  
 
-Article URL: https://charlesfonseca.substack.com/p/writing-as-an-act-of-rebellion Comments URL: https://news.ycombinator.com/item?id=50360457 Points: 6 # Comments: 1
+Article URL: https://simulator-use.dev/benchmarks Comments URL: https://news.ycombinator.com/item?id=50364299 Points: 2 # Comments: 0
 
-📖 [Read original article](https://charlesfonseca.substack.com/p/writing-as-an-act-of-rebellion)
+📖 [Read original article](https://simulator-use.dev/benchmarks)
 
 ---
 
-## 16. SpaceX Will Be the Biggest AI Cloud
+## 16. Audio Enhancer – Free Online AI Audio Enhancer and Noise Remover
 
-**Author:** nsoonhui  
-**Published:** 11/4/2026, 1:02:58 AM  
+**Author:** aiqanobzfsej5  
+**Published:** 11/4/2026, 11:46:38 AM  
 **Categories:** -  
 
-Article URL: https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will Comments URL: https://news.ycombinator.com/item?id=50360345 Points: 2 # Comments: 2
+Article URL: https://audioenhancer.io Comments URL: https://news.ycombinator.com/item?id=50364295 Points: 1 # Comments: 0
 
-📖 [Read original article](https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will)
+📖 [Read original article](https://audioenhancer.io)
 
 ---
 
-## 17. AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs
+## 17. AI-Generated Content on Nexus Mods
 
-**Author:** JohnBerryman  
-**Published:** 11/4/2026, 12:54:35 AM  
+**Author:** HelloUsername  
+**Published:** 11/4/2026, 11:45:57 AM  
 **Categories:** -  
 
-Article URL: https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/ Comments URL: https://news.ycombinator.com/item?id=50360281 Points: 2 # Comments: 0
+Article URL: https://www.nexusmods.com/news/15654 Comments URL: https://news.ycombinator.com/item?id=50364289 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/)
+📖 [Read original article](https://www.nexusmods.com/news/15654)
 
 ---
 
-## 18. WayPointo – A directory for discovering and comparing AI and creative products
+## 18. Automated grounding verification of AI statements about chest radiographs
 
-**Author:** dotcurio  
-**Published:** 11/4/2026, 12:06:12 AM  
+**Author:** mrkn1  
+**Published:** 11/4/2026, 11:43:37 AM  
 **Categories:** -  
 
-Article URL: https://waypointo.com Comments URL: https://news.ycombinator.com/item?id=50359965 Points: 1 # Comments: 0
+Article URL: https://arxiv.org/abs/2604.09537 Comments URL: https://news.ycombinator.com/item?id=50364273 Points: 1 # Comments: 0
 
-📖 [Read original article](https://waypointo.com)
+📖 [Read original article](https://arxiv.org/abs/2604.09537)
+
+---
+
+## 19. Show HN: Olo, an AI companion that labels each claim against
+
+**Author:** hashim_ruan  
+**Published:** 11/4/2026, 11:36:36 AM  
+**Categories:** -  
+
+Article URL: https://helius-olo.io/chat Comments URL: https://news.ycombinator.com/item?id=50364206 Points: 2 # Comments: 0
+
+📖 [Read original article](https://helius-olo.io/chat)
+
+---
+
+## 20. Ask HN: If an AI agent chooses a tool to use, will it pay the tool?
+
+**Author:** avijeetsingh16  
+**Published:** 11/4/2026, 11:34:02 AM  
+**Categories:** -  
+
+Comments URL: https://news.ycombinator.com/item?id=50364183 Points: 1 # Comments: 2
+
+📖 [Read original article](https://news.ycombinator.com/item?id=50364183)
 
 ---
