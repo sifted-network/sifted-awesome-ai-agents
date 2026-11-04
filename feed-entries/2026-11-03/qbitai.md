@@ -2,12 +2,12 @@
 title: "qbitai - 2026-11-03"
 date: "2026-11-03"
 source: "qbitai"
-count: 10
+count: 9
 ---
 
 # qbitai - 2026-11-03
 
-10 items collected.
+9 items collected.
 
 ---
 
@@ -116,17 +116,5 @@ TeleAI智慧看护助手
 GPU迭代一百次的事，它一步做完
 
 📖 [Read original article](https://www.qbitai.com/2026/11/507367.html)
-
----
-
-## 10. B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相
-
-**Author:** 量子位的朋友们  
-**Published:** 11/3/2026, 2:02:05 AM  
-**Categories:** 资讯, 哔哩哔哩  
-
-10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。
-
-📖 [Read original article](https://www.qbitai.com/2026/11/507339.html)
 
 ---
