@@ -2,12 +2,12 @@
 title: "qbitai - 2026-11-03"
 date: "2026-11-03"
 source: "qbitai"
-count: 9
+count: 6
 ---
 
 # qbitai - 2026-11-03
 
-9 items collected.
+6 items collected.
 
 ---
 
@@ -80,41 +80,5 @@ TeleAI智慧看护助手
 11月3日上午，2026世界互联网大会在浙江乌镇开幕。
 
 📖 [Read original article](https://www.qbitai.com/2026/11/507405.html)
-
----
-
-## 7. 小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”
-
-**Author:** 量子位的朋友们  
-**Published:** 11/3/2026, 5:16:35 AM  
-**Categories:** 资讯, 小米  
-
-11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项
-
-📖 [Read original article](https://www.qbitai.com/2026/11/507396.html)
-
----
-
-## 8. A社紧急修改招股书！RSI我们快要控制不住了
-
-**Author:** 鱼羊  
-**Published:** 11/3/2026, 3:41:06 AM  
-**Categories:** 资讯, Anthropic, RSI  
-
-单季狂揽1130亿人民币，但...
-
-📖 [Read original article](https://www.qbitai.com/2026/11/507382.html)
-
----
-
-## 9. 模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义
-
-**Author:** 克雷西  
-**Published:** 11/3/2026, 3:16:23 AM  
-**Categories:** 资讯  
-
-GPU迭代一百次的事，它一步做完
-
-📖 [Read original article](https://www.qbitai.com/2026/11/507367.html)
 
 ---
