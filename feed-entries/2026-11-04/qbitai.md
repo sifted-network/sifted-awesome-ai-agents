@@ -2,16 +2,28 @@
 title: "qbitai - 2026-11-04"
 date: "2026-11-04"
 source: "qbitai"
-count: 4
+count: 5
 ---
 
 # qbitai - 2026-11-04
 
-4 items collected.
+5 items collected.
 
 ---
 
-## 1. 不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型
+## 1. 百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年
+
+**Author:** 杰西卡  
+**Published:** 11/4/2026, 4:13:23 PM  
+**Categories:** 资讯, 首页轮播, 百度Apollo  
+
+连路人都有自己的想法
+
+📖 [Read original article](https://www.qbitai.com/2026/11/507647.html)
+
+---
+
+## 2. 不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型
 
 **Author:** 思邈  
 **Published:** 11/4/2026, 10:08:38 AM  
@@ -23,7 +35,7 @@ count: 4
 
 ---
 
-## 2. 超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场
+## 3. 超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场
 
 **Author:** 量子位的朋友们  
 **Published:** 11/4/2026, 8:59:57 AM  
@@ -35,7 +47,7 @@ count: 4
 
 ---
 
-## 3. 虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上
+## 4. 虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上
 
 **Author:** 量子位的朋友们  
 **Published:** 11/4/2026, 8:49:12 AM  
@@ -47,7 +59,7 @@ count: 4
 
 ---
 
-## 4. 让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落
+## 5. 让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落
 
 **Author:** 思邈  
 **Published:** 11/4/2026, 2:49:02 AM  
