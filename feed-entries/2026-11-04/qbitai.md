@@ -2,12 +2,12 @@
 title: "qbitai - 2026-11-04"
 date: "2026-11-04"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-11-04
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ count: 5
 11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。
 
 📖 [Read original article](https://www.qbitai.com/2026/11/507567.html)
-
----
-
-## 5. 让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落
-
-**Author:** 思邈  
-**Published:** 11/4/2026, 2:49:02 AM  
-**Categories:** 资讯, Agent, openJiuwen, 记忆  
-
-长视频记忆精度飙升，问答时延最高降97%
-
-📖 [Read original article](https://www.qbitai.com/2026/11/507533.html)
 
 ---
