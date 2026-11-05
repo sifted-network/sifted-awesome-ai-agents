@@ -15,7 +15,7 @@ count: 2
 
 **Author:** James O'Donnell  
 **Published:** 11/4/2026, 6:50:55 PM  
-**Categories:** Artificial intelligence, App, artificial intelligence  
+**Categories:** Artificial intelligence, App, artificial intelligence, Summary  
 
 Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern...
 
