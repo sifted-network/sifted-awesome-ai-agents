@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-11-04"
 date: "2026-11-04"
 source: "OpenAI Blog"
-count: 4
+count: 5
 ---
 
 # OpenAI Blog - 2026-11-04
 
-4 items collected.
+5 items collected.
 
 ---
 
@@ -47,7 +47,19 @@ Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East
 
 ---
 
-## 4. DevRev delivers autonomous self-service with GPT-6.1 Sol
+## 4. Introducing Images 2.6
+
+**Author:** -  
+**Published:** 11/4/2026, 12:00:00 AM  
+**Categories:** Product  
+
+Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.
+
+📖 [Read original article](https://openai.com/index/introducing-images-2-6)
+
+---
+
+## 5. DevRev delivers autonomous self-service with GPT-6.1 Sol
 
 **Author:** -  
 **Published:** 11/4/2026, 12:00:00 AM  
