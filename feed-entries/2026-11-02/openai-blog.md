@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-11-02"
 date: "2026-11-02"
 source: "OpenAI Blog"
-count: 7
+count: 5
 ---
 
 # OpenAI Blog - 2026-11-02
 
-7 items collected.
+5 items collected.
 
 ---
 
@@ -68,29 +68,5 @@ OpenAI’s Grid Protectors Program will work with utilities to help future compu
 Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.
 
 📖 [Read original article](https://openai.com/index/lifeval)
-
----
-
-## 6. Qodo builds context into AI code review with Codex
-
-**Author:** -  
-**Published:** 11/2/2026, 12:00:00 AM  
-**Categories:** Startup  
-
-Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.
-
-📖 [Read original article](https://openai.com/index/qodo-codex-plugin)
-
----
-
-## 7. OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization
-
-**Author:** -  
-**Published:** 11/2/2026, 12:00:00 AM  
-**Categories:** Company  
-
-OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.
-
-📖 [Read original article](https://openai.com/index/dan-driscoll-joins-openai)
 
 ---
