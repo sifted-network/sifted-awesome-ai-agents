@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. The best-designed websites in AI. Hand-picked
+## 1. AbMaze: Evaluating frontier AI agents on protein fitness landscapes
 
-**Author:** pierrebressonIO  
-**Published:** 11/6/2026, 1:45:08 PM  
+**Author:** rohitrustagi  
+**Published:** 11/6/2026, 10:31:45 PM  
 **Categories:** -  
 
-Article URL: https://token-gallery.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=50392220 Points: 1 # Comments: 0
+Article URL: https://valenlabs.com/blog/abmaze Comments URL: https://news.ycombinator.com/item?id=50399378 Points: 3 # Comments: 0
 
-📖 [Read original article](https://token-gallery.netlify.app/)
+📖 [Read original article](https://valenlabs.com/blog/abmaze)
 
 ---
 
-## 2. Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding
+## 2. Show HN: AJX – Find out where AI agents get stuck using your product
 
-**Author:** novaRom  
-**Published:** 11/6/2026, 1:32:54 PM  
+**Author:** royosherove  
+**Published:** 11/6/2026, 10:31:02 PM  
 **Categories:** -  
 
-Article URL: https://www.morningstar.com/news/dow-jones/202611064621/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding Comments URL: https://news.ycombinator.com/item?id=50392087 Points: 3 # Comments: 0
+Hi HN. I made AJX (Agent Journey Experience). It is a CLI and skill bundle that you run to test what your product feels like to use from the point of view of an agent, and you get back a list of "asks" that would improve your product from an agentic usability perspective: so that agents spend less t...
 
-📖 [Read original article](https://www.morningstar.com/news/dow-jones/202611064621/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding)
+📖 [Read original article](https://ajx.dev/)
 
 ---
 
-## 3. The AI sell-off compared to other S&P 500 stock market crashes
+## 3. Can AI self-improvement overcome diminishing returns?
 
-**Author:** embedding-shape  
-**Published:** 11/6/2026, 1:31:50 PM  
+**Author:** layer8  
+**Published:** 11/6/2026, 10:20:04 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/dataisbeautiful/comments/1xp9khz/oc_the_ai_selloff_compared_to_other_sp_500_stock/ Comments URL: https://news.ycombinator.com/item?id=50392075 Points: 2 # Comments: 0
+Article URL: https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence Comments URL: https://news.ycombinator.com/item?id=50399272 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reddit.com/r/dataisbeautiful/comments/1xp9khz/oc_the_ai_selloff_compared_to_other_sp_500_stock/)
+📖 [Read original article](https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence)
 
 ---
 
-## 4. The Non-Financial Costs of AI
+## 4. Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity
+
+**Author:** petethomas  
+**Published:** 11/6/2026, 9:51:21 PM  
+**Categories:** -  
+
+Article URL: https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity Comments URL: https://news.ycombinator.com/item?id=50398993 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity)
+
+---
+
+## 5. Measuring how AI agents handle everyday wet-lab science
+
+**Author:** asdfasdf45  
+**Published:** 11/6/2026, 9:51:16 PM  
+**Categories:** -  
+
+Article URL: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/ Comments URL: https://news.ycombinator.com/item?id=50398991 Points: 4 # Comments: 0
+
+📖 [Read original article](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/)
+
+---
+
+## 6. Combining freelancing, social networking, and AI
+
+**Author:** svoxx  
+**Published:** 11/6/2026, 9:43:59 PM  
+**Categories:** -  
+
+Article URL: https://freelancer.svoxx.com/int/en Comments URL: https://news.ycombinator.com/item?id=50398916 Points: 2 # Comments: 0
+
+📖 [Read original article](https://freelancer.svoxx.com/int/en)
+
+---
+
+## 7. Ask HN: Are AI-written reviews a safety risk? Evidence from ICLR2027 scores
+
+**Author:** fsabau  
+**Published:** 11/6/2026, 9:29:50 PM  
+**Categories:** -  
+
+There are two things I noticed. First, it seems that interpretability research got the lowest scores. And that the highest scored paper (444 with highest confidence) is the "Context Language Models" paper which lets models modify their context. This seems to support OpenAI latest findings.scores by ...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=50398781)
+
+---
+
+## 8. New Research Tests Whether AI Models Know Their Own Thoughts
+
+**Author:** dogscatstrees  
+**Published:** 11/6/2026, 9:27:07 PM  
+**Categories:** -  
+
+Article URL: https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/ Comments URL: https://news.ycombinator.com/item?id=50398758 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/)
+
+---
+
+## 9. How I Learned to Stop Worrying and Love AI
+
+**Author:** vnglst  
+**Published:** 11/6/2026, 9:25:47 PM  
+**Categories:** -  
+
+Article URL: https://koenvangilst.nl/lab/how-i-stopped-worrying-and-learned-to-love-ai Comments URL: https://news.ycombinator.com/item?id=50398741 Points: 4 # Comments: 1
+
+📖 [Read original article](https://koenvangilst.nl/lab/how-i-stopped-worrying-and-learned-to-love-ai)
+
+---
+
+## 10. Ballast – cold email infrastructure with AI and MCP
+
+**Author:** yetanotherdevz  
+**Published:** 11/6/2026, 9:25:33 PM  
+**Categories:** -  
+
+Article URL: https://ballast.to Comments URL: https://news.ycombinator.com/item?id=50398734 Points: 1 # Comments: 1
+
+📖 [Read original article](https://ballast.to)
+
+---
+
+## 11. Teaching AI to build scientific models
+
+**Author:** pretext  
+**Published:** 11/6/2026, 9:24:28 PM  
+**Categories:** -  
+
+Article URL: https://www.anthropic.com/research/teaching-ai-to-build-scientific-models Comments URL: https://news.ycombinator.com/item?id=50398727 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.anthropic.com/research/teaching-ai-to-build-scientific-models)
+
+---
+
+## 12. The End of AI Frontiers
+
+**Author:** gmays  
+**Published:** 11/6/2026, 9:10:55 PM  
+**Categories:** -  
+
+Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50398596 Points: 1 # Comments: 0
+
+📖 [Read original article](https://hunch.net/?p=13764006)
+
+---
+
+## 13. Protesters break into Microsoft AI data centre site in Amsterdam
+
+**Author:** cdrnsf  
+**Published:** 11/6/2026, 9:07:45 PM  
+**Categories:** -  
+
+Article URL: https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam Comments URL: https://news.ycombinator.com/item?id=50398562 Points: 6 # Comments: 1
+
+📖 [Read original article](https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam)
+
+---
+
+## 14. Leeroy: Making AI agents play World of Warcraft
 
 **Author:** speckx  
-**Published:** 11/6/2026, 1:31:11 PM  
+**Published:** 11/6/2026, 9:07:44 PM  
 **Categories:** -  
 
-Article URL: https://www.winstonhearn.com/wrote/2026/costs-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50392071 Points: 1 # Comments: 0
+Article URL: https://pthm.dev/leeroy-making-ai-agents-play-world-of-warcraft/ Comments URL: https://news.ycombinator.com/item?id=50398561 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.winstonhearn.com/wrote/2026/costs-of-ai/)
+📖 [Read original article](https://pthm.dev/leeroy-making-ai-agents-play-world-of-warcraft/)
 
 ---
 
-## 5. Supermicro Super AI Station Review: The AI Server That Doubles as a Workstation
+## 15. VFlash: Enabling System-1 VLMs for Physical AI
 
-**Author:** rbanffy  
-**Published:** 11/6/2026, 1:28:57 PM  
+**Author:** gmays  
+**Published:** 11/6/2026, 9:04:04 PM  
 **Categories:** -  
 
-Article URL: https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/ Comments URL: https://news.ycombinator.com/item?id=50392049 Points: 1 # Comments: 0
+Article URL: https://research.nvidia.com/labs/lpr/vflash/ Comments URL: https://news.ycombinator.com/item?id=50398514 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/)
+📖 [Read original article](https://research.nvidia.com/labs/lpr/vflash/)
 
 ---
 
-## 6. Baton – Keep long coding goals moving across AI coding agents
+## 16. AI-supported woodworking: Building an up-and-over tool chest with a clever hinge
 
-**Author:** cahian  
-**Published:** 11/6/2026, 1:24:08 PM  
+**Author:** mpalme  
+**Published:** 11/6/2026, 9:02:26 PM  
 **Categories:** -  
 
-Article URL: https://github.com/cahian/baton Comments URL: https://news.ycombinator.com/item?id=50392004 Points: 1 # Comments: 0
+Article URL: https://portalworkers.com/blog/up-and-over-tool-chest/ Comments URL: https://news.ycombinator.com/item?id=50398485 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/cahian/baton)
+📖 [Read original article](https://portalworkers.com/blog/up-and-over-tool-chest/)
 
 ---
 
-## 7. The Experts Being Recruited to Teach AI Their Professions
+## 17. Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain
 
-**Author:** muturii  
-**Published:** 11/6/2026, 1:23:06 PM  
+**Author:** Betelbuddy  
+**Published:** 11/6/2026, 8:57:13 PM  
 **Categories:** -  
 
-Article URL: https://seeglassbox.com/market/ai-professional-expertise Comments URL: https://news.ycombinator.com/item?id=50391998 Points: 1 # Comments: 1
+Article URL: https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html Comments URL: https://news.ycombinator.com/item?id=50398421 Points: 5 # Comments: 0
 
-📖 [Read original article](https://seeglassbox.com/market/ai-professional-expertise)
+📖 [Read original article](https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html)
 
 ---
 
-## 8. Everything I Wish I Knew About AI Inference Engineering [video]
+## 18. 2026 AI Adoption Report
 
-**Author:** lroe  
-**Published:** 11/6/2026, 1:16:14 PM  
+**Author:** keeda  
+**Published:** 11/6/2026, 8:49:59 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=bn82CJfeYko Comments URL: https://news.ycombinator.com/item?id=50391948 Points: 2 # Comments: 0
+Article URL: https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report/ Comments URL: https://news.ycombinator.com/item?id=50398321 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=bn82CJfeYko)
+📖 [Read original article](https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report/)
 
 ---
 
-## 9. Smooth Outdoor-Indoor Mapping, JWT Auth and AI Analytics
+## 19. AI is dramatically accelerating AI research
 
-**Author:** SmartDS  
-**Published:** 11/6/2026, 1:08:34 PM  
+**Author:** yurivish  
+**Published:** 11/6/2026, 8:27:23 PM  
 **Categories:** -  
 
-Article URL: https://navigine.com/blog/product-release-roundup-next-gen-mobile-mapping-ai-analytics-and-platform-security/ Comments URL: https://news.ycombinator.com/item?id=50391892 Points: 1 # Comments: 0
+Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 110 # Comments: 65
 
-📖 [Read original article](https://navigine.com/blog/product-release-roundup-next-gen-mobile-mapping-ai-analytics-and-platform-security/)
+📖 [Read original article](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
 
 ---
 
-## 10. Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI
+## 20. AI Text Watermarking May Not Be Able to Meet the E.U.'S New Rules
 
-**Author:** beardyw  
-**Published:** 11/6/2026, 1:08:20 PM  
+**Author:** pseudolus  
+**Published:** 11/6/2026, 8:24:46 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai Comments URL: https://news.ycombinator.com/item?id=50391890 Points: 2 # Comments: 0
+Article URL: https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe Comments URL: https://news.ycombinator.com/item?id=50397951 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai)
-
----
-
-## 11. Show HN: Antidraw – Open-source AI prototyping canvas for any React library
-
-**Author:** buriedstupidity  
-**Published:** 11/6/2026, 1:07:31 PM  
-**Categories:** -  
-
-Article URL: https://github.com/AntidrawHQ/antidraw Comments URL: https://news.ycombinator.com/item?id=50391875 Points: 3 # Comments: 1
-
-📖 [Read original article](https://github.com/AntidrawHQ/antidraw)
-
----
-
-## 12. Nvidia Crashed 9.3%. Is the AI Data-Center Boom Starting to Crack?
-
-**Author:** oplexa07  
-**Published:** 11/6/2026, 12:47:45 PM  
-**Categories:** -  
-
-Article URL: https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/ Comments URL: https://news.ycombinator.com/item?id=50391705 Points: 2 # Comments: 0
-
-📖 [Read original article](https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/)
-
----
-
-## 13. Cross-platform frameworks are dead. AI killed them
-
-**Author:** jtreitz  
-**Published:** 11/6/2026, 12:47:02 PM  
-**Categories:** -  
-
-Article URL: https://www.werkbook.app/articles/cross-platform-frameworks-are-dead-ai-killed-them?locale=en Comments URL: https://news.ycombinator.com/item?id=50391701 Points: 1 # Comments: 1
-
-📖 [Read original article](https://www.werkbook.app/articles/cross-platform-frameworks-are-dead-ai-killed-them?locale=en)
-
----
-
-## 14. Lowvram: A CLI tool to run large AI models in low VRAM GPUs
-
-**Author:** henriquegogo  
-**Published:** 11/6/2026, 12:29:42 PM  
-**Categories:** -  
-
-Article URL: https://soarhen.com/how-run-ai-in-low-vram/ Comments URL: https://news.ycombinator.com/item?id=50391571 Points: 1 # Comments: 0
-
-📖 [Read original article](https://soarhen.com/how-run-ai-in-low-vram/)
-
----
-
-## 15. Vals AI found a critical safety and alignment issue in recent models
-
-**Author:** fscaramuzza  
-**Published:** 11/6/2026, 12:22:46 PM  
-**Categories:** -  
-
-Article URL: https://twitter.com/ValsAI/status/2118473836710760816 Comments URL: https://news.ycombinator.com/item?id=50391518 Points: 1 # Comments: 0
-
-📖 [Read original article](https://twitter.com/ValsAI/status/2118473836710760816)
-
----
-
-## 16. AI Companies Scramble to Navigate a World Hostile to Data Centers
-
-**Author:** thm  
-**Published:** 11/6/2026, 12:00:26 PM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/ai-companies-scramble-to-navigate-a-world-hostile-to-data-centers-c6023a14 Comments URL: https://news.ycombinator.com/item?id=50391339 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.wsj.com/tech/ai/ai-companies-scramble-to-navigate-a-world-hostile-to-data-centers-c6023a14)
-
----
-
-## 17. AI Needed to Produce More Gas to Power More AI, Tech Firm Cohere Says
-
-**Author:** mrkn1  
-**Published:** 11/6/2026, 11:53:25 AM  
-**Categories:** -  
-
-Article URL: https://www.desmog.com/2026/11/04/ai-needed-to-produce-more-gas-to-power-more-ai-tech-firm-cohere-says/ Comments URL: https://news.ycombinator.com/item?id=50391269 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.desmog.com/2026/11/04/ai-needed-to-produce-more-gas-to-power-more-ai-tech-firm-cohere-says/)
-
----
-
-## 18. Launch a swarm of obliterated AI agents to hack your site
-
-**Author:** timm37  
-**Published:** 11/6/2026, 11:45:59 AM  
-**Categories:** -  
-
-Article URL: https://mockhack.com Comments URL: https://news.ycombinator.com/item?id=50391195 Points: 3 # Comments: 3
-
-📖 [Read original article](https://mockhack.com)
-
----
-
-## 19. Markeplay – Run an online store with specialized AI agents
-
-**Author:** dome0506  
-**Published:** 11/6/2026, 11:37:49 AM  
-**Categories:** -  
-
-Article URL: https://markeplay.channel.markedev.com/ Comments URL: https://news.ycombinator.com/item?id=50391127 Points: 1 # Comments: 0
-
-📖 [Read original article](https://markeplay.channel.markedev.com/)
-
----
-
-## 20. Together Compiler: Continual Compilation for AI Inference
-
-**Author:** rerx  
-**Published:** 11/6/2026, 11:36:38 AM  
-**Categories:** -  
-
-Article URL: https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference Comments URL: https://news.ycombinator.com/item?id=50391112 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference)
+📖 [Read original article](https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe)
 
 ---
