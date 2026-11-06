@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-11-03"
 date: "2026-11-03"
 source: "OpenAI Blog"
-count: 4
+count: 3
 ---
 
 # OpenAI Blog - 2026-11-03
 
-4 items collected.
+3 items collected.
 
 ---
 
@@ -44,17 +44,5 @@ Cisco combines network intelligence with OpenAI models to strengthen enterprise 
 Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.
 
 📖 [Read original article](https://openai.com/index/heimstaden)
-
----
-
-## 4. OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer
-
-**Author:** -  
-**Published:** 11/3/2026, 12:00:00 AM  
-**Categories:** Company  
-
-Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.
-
-📖 [Read original article](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer)
 
 ---
