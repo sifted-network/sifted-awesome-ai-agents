@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-11-06"
 date: "2026-11-06"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-11-06
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant
+## 1. The best-designed websites in AI. Hand-picked
 
-**Author:** joquinn  
-**Published:** 11/6/2026, 5:19:36 AM  
+**Author:** pierrebressonIO  
+**Published:** 11/6/2026, 1:45:08 PM  
 **Categories:** -  
 
-Our team is excited to launch Stitch.ai this week. We've been working hard to bring knowledge workers, freelancers and founders a workspace that doesn't require hopping between apps and tabs; everything is in one app.The Stitch.ai app includes mail, calendar, contacts, tasks, notes, sheets, slides, ...
+Article URL: https://token-gallery.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=50392220 Points: 1 # Comments: 0
 
-📖 [Read original article](https://app.stitch.ai/auth/signup)
+📖 [Read original article](https://token-gallery.netlify.app/)
 
 ---
 
-## 2. I struggle to believe that AI R&D is ingenious
+## 2. Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding
 
-**Author:** porridgeraisin  
-**Published:** 11/6/2026, 5:19:04 AM  
+**Author:** novaRom  
+**Published:** 11/6/2026, 1:32:54 PM  
 **Categories:** -  
 
-Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 1 # Comments: 0
+Article URL: https://www.morningstar.com/news/dow-jones/202611064621/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding Comments URL: https://news.ycombinator.com/item?id=50392087 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
+📖 [Read original article](https://www.morningstar.com/news/dow-jones/202611064621/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding)
 
 ---
 
-## 3. How accurately did science fiction stories predict AI?
+## 3. The AI sell-off compared to other S&P 500 stock market crashes
 
-**Author:** jamesjyu  
-**Published:** 11/6/2026, 4:36:22 AM  
+**Author:** embedding-shape  
+**Published:** 11/6/2026, 1:31:50 PM  
 **Categories:** -  
 
-Article URL: https://jamesyu.org/science-fiction-predictions-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50388263 Points: 6 # Comments: 1
+Article URL: https://www.reddit.com/r/dataisbeautiful/comments/1xp9khz/oc_the_ai_selloff_compared_to_other_sp_500_stock/ Comments URL: https://news.ycombinator.com/item?id=50392075 Points: 2 # Comments: 0
 
-📖 [Read original article](https://jamesyu.org/science-fiction-predictions-of-ai/)
+📖 [Read original article](https://www.reddit.com/r/dataisbeautiful/comments/1xp9khz/oc_the_ai_selloff_compared_to_other_sp_500_stock/)
 
 ---
 
-## 4. AI and the Future of the Product Role
+## 4. The Non-Financial Costs of AI
 
-**Author:** swolpers  
-**Published:** 11/6/2026, 3:54:13 AM  
+**Author:** speckx  
+**Published:** 11/6/2026, 1:31:11 PM  
 **Categories:** -  
 
-Article URL: https://www.svpg.com/ai-and-the-future-of-the-product-role/ Comments URL: https://news.ycombinator.com/item?id=50387948 Points: 1 # Comments: 0
+Article URL: https://www.winstonhearn.com/wrote/2026/costs-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50392071 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.svpg.com/ai-and-the-future-of-the-product-role/)
+📖 [Read original article](https://www.winstonhearn.com/wrote/2026/costs-of-ai/)
 
 ---
 
-## 5. Are We Cooked? CMU Faculty on AI, Careers and Learning [video]
+## 5. Supermicro Super AI Station Review: The AI Server That Doubles as a Workstation
 
-**Author:** lmc  
-**Published:** 11/6/2026, 3:53:21 AM  
+**Author:** rbanffy  
+**Published:** 11/6/2026, 1:28:57 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=U2DDKdUvq6k Comments URL: https://news.ycombinator.com/item?id=50387940 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.youtube.com/watch?v=U2DDKdUvq6k)
-
----
-
-## 6. Meta Warns Midterm Backlash Threatens AI Data Centers
-
-**Author:** arbuge  
-**Published:** 11/6/2026, 3:51:26 AM  
-**Categories:** -  
-
-Article URL: https://epyhia.com/meta-warns-midterm-backlash-threatens-ai-data-centers-goldman-sees-45 Comments URL: https://news.ycombinator.com/item?id=50387927 Points: 3 # Comments: 0
-
-📖 [Read original article](https://epyhia.com/meta-warns-midterm-backlash-threatens-ai-data-centers-goldman-sees-45)
-
----
-
-## 7. Open AI Cellular: Open platform for prototyping and testing AI based 6G
-
-**Author:** teleforce  
-**Published:** 11/6/2026, 3:16:54 AM  
-**Categories:** -  
-
-Article URL: https://www.openaicellular.org Comments URL: https://news.ycombinator.com/item?id=50387739 Points: 4 # Comments: 0
-
-📖 [Read original article](https://www.openaicellular.org)
-
----
-
-## 8. You Had Me at \"Hello\": A Chinese‑Language Framework Targeting AI Infrastructure
-
-**Author:** DGAP  
-**Published:** 11/6/2026, 3:15:49 AM  
-**Categories:** -  
-
-Article URL: https://era.security/blog/greeter-flowise-ai-infrastructure-attack Comments URL: https://news.ycombinator.com/item?id=50387732 Points: 3 # Comments: 0
-
-📖 [Read original article](https://era.security/blog/greeter-flowise-ai-infrastructure-attack)
-
----
-
-## 9. Closed AI models dominate the price-performance frontier
-
-**Author:** kevin_hu  
-**Published:** 11/6/2026, 2:49:56 AM  
-**Categories:** -  
-
-Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 37 # Comments: 25
-
-📖 [Read original article](https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/)
-
----
-
-## 10. Somebody made an AI clone of Mark Brown's indie game [video]
-
-**Author:** agnishom  
-**Published:** 11/6/2026, 2:18:39 AM  
-**Categories:** -  
-
-Article URL: https://www.youtube.com/watch?v=8LMau1qXPYE Comments URL: https://news.ycombinator.com/item?id=50387318 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.youtube.com/watch?v=8LMau1qXPYE)
-
----
-
-## 11. The Dangerous Illusion of the \"Two-Week AI Expert\"
-
-**Author:** sshah03  
-**Published:** 11/6/2026, 2:14:08 AM  
-**Categories:** -  
-
-Article URL: https://medcitynews.com/2026/11/the-dangerous-illusion-of-the-two-week-ai-expert-a-call-to-action-against-superficial-medical-education/ Comments URL: https://news.ycombinator.com/item?id=50387287 Points: 2 # Comments: 0
-
-📖 [Read original article](https://medcitynews.com/2026/11/the-dangerous-illusion-of-the-two-week-ai-expert-a-call-to-action-against-superficial-medical-education/)
-
----
-
-## 12. Scarce Positions of Economic Power Gain from Increasingly Capable AI
-
-**Author:** benwen  
-**Published:** 11/6/2026, 1:41:27 AM  
-**Categories:** -  
-
-Article URL: https://commanding-heights.com/ Comments URL: https://news.ycombinator.com/item?id=50387087 Points: 1 # Comments: 0
-
-📖 [Read original article](https://commanding-heights.com/)
-
----
-
-## 13. Supermicro Super AI Station Review: The AI Server That Doubles as a Workstation
-
-**Author:** teleforce  
-**Published:** 11/6/2026, 1:27:59 AM  
-**Categories:** -  
-
-Article URL: https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/ Comments URL: https://news.ycombinator.com/item?id=50387018 Points: 2 # Comments: 0
+Article URL: https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/ Comments URL: https://news.ycombinator.com/item?id=50392049 Points: 1 # Comments: 0
 
 📖 [Read original article](https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/)
 
 ---
 
-## 14. Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears
+## 6. Baton – Keep long coding goals moving across AI coding agents
 
-**Author:** lilerjee  
-**Published:** 11/6/2026, 1:11:40 AM  
+**Author:** cahian  
+**Published:** 11/6/2026, 1:24:08 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50386909 Points: 39 # Comments: 11
+Article URL: https://github.com/cahian/baton Comments URL: https://news.ycombinator.com/item?id=50392004 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/)
+📖 [Read original article](https://github.com/cahian/baton)
 
 ---
 
-## 15. Axiom – blocks AI agents from inventing limits your code never defined
+## 7. The Experts Being Recruited to Teach AI Their Professions
 
-**Author:** nsara11  
-**Published:** 11/6/2026, 1:00:43 AM  
+**Author:** muturii  
+**Published:** 11/6/2026, 1:23:06 PM  
 **Categories:** -  
 
-Article URL: https://github.com/axiom-csc/axiom-skill Comments URL: https://news.ycombinator.com/item?id=50386839 Points: 1 # Comments: 0
+Article URL: https://seeglassbox.com/market/ai-professional-expertise Comments URL: https://news.ycombinator.com/item?id=50391998 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/axiom-csc/axiom-skill)
+📖 [Read original article](https://seeglassbox.com/market/ai-professional-expertise)
 
 ---
 
-## 16. Paper: Nubank cuts AI agent update cycles from 3 weeks to under 5 days
+## 8. Everything I Wish I Knew About AI Inference Engineering [video]
 
-**Author:** rkovashikawa  
-**Published:** 11/6/2026, 12:43:27 AM  
+**Author:** lroe  
+**Published:** 11/6/2026, 1:16:14 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2609.30137 Comments URL: https://news.ycombinator.com/item?id=50386702 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=bn82CJfeYko Comments URL: https://news.ycombinator.com/item?id=50391948 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2609.30137)
+📖 [Read original article](https://www.youtube.com/watch?v=bn82CJfeYko)
 
 ---
 
-## 17. University libraries are being swarmed by AI bots, putting public access at risk
+## 9. Smooth Outdoor-Indoor Mapping, JWT Auth and AI Analytics
 
-**Author:** mattm  
-**Published:** 11/6/2026, 12:21:25 AM  
+**Author:** SmartDS  
+**Published:** 11/6/2026, 1:08:34 PM  
 **Categories:** -  
 
-Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50386516 Points: 3 # Comments: 0
+Article URL: https://navigine.com/blog/product-release-roundup-next-gen-mobile-mapping-ai-analytics-and-platform-security/ Comments URL: https://news.ycombinator.com/item?id=50391892 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287)
+📖 [Read original article](https://navigine.com/blog/product-release-roundup-next-gen-mobile-mapping-ai-analytics-and-platform-security/)
+
+---
+
+## 10. Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI
+
+**Author:** beardyw  
+**Published:** 11/6/2026, 1:08:20 PM  
+**Categories:** -  
+
+Article URL: https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai Comments URL: https://news.ycombinator.com/item?id=50391890 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai)
+
+---
+
+## 11. Show HN: Antidraw – Open-source AI prototyping canvas for any React library
+
+**Author:** buriedstupidity  
+**Published:** 11/6/2026, 1:07:31 PM  
+**Categories:** -  
+
+Article URL: https://github.com/AntidrawHQ/antidraw Comments URL: https://news.ycombinator.com/item?id=50391875 Points: 3 # Comments: 1
+
+📖 [Read original article](https://github.com/AntidrawHQ/antidraw)
+
+---
+
+## 12. Nvidia Crashed 9.3%. Is the AI Data-Center Boom Starting to Crack?
+
+**Author:** oplexa07  
+**Published:** 11/6/2026, 12:47:45 PM  
+**Categories:** -  
+
+Article URL: https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/ Comments URL: https://news.ycombinator.com/item?id=50391705 Points: 2 # Comments: 0
+
+📖 [Read original article](https://oplexa.com/blogs/nvidia-stock-crash-ai-chip-selloff-november-2026/)
+
+---
+
+## 13. Cross-platform frameworks are dead. AI killed them
+
+**Author:** jtreitz  
+**Published:** 11/6/2026, 12:47:02 PM  
+**Categories:** -  
+
+Article URL: https://www.werkbook.app/articles/cross-platform-frameworks-are-dead-ai-killed-them?locale=en Comments URL: https://news.ycombinator.com/item?id=50391701 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.werkbook.app/articles/cross-platform-frameworks-are-dead-ai-killed-them?locale=en)
+
+---
+
+## 14. Lowvram: A CLI tool to run large AI models in low VRAM GPUs
+
+**Author:** henriquegogo  
+**Published:** 11/6/2026, 12:29:42 PM  
+**Categories:** -  
+
+Article URL: https://soarhen.com/how-run-ai-in-low-vram/ Comments URL: https://news.ycombinator.com/item?id=50391571 Points: 1 # Comments: 0
+
+📖 [Read original article](https://soarhen.com/how-run-ai-in-low-vram/)
+
+---
+
+## 15. Vals AI found a critical safety and alignment issue in recent models
+
+**Author:** fscaramuzza  
+**Published:** 11/6/2026, 12:22:46 PM  
+**Categories:** -  
+
+Article URL: https://twitter.com/ValsAI/status/2118473836710760816 Comments URL: https://news.ycombinator.com/item?id=50391518 Points: 1 # Comments: 0
+
+📖 [Read original article](https://twitter.com/ValsAI/status/2118473836710760816)
+
+---
+
+## 16. AI Companies Scramble to Navigate a World Hostile to Data Centers
+
+**Author:** thm  
+**Published:** 11/6/2026, 12:00:26 PM  
+**Categories:** -  
+
+Article URL: https://www.wsj.com/tech/ai/ai-companies-scramble-to-navigate-a-world-hostile-to-data-centers-c6023a14 Comments URL: https://news.ycombinator.com/item?id=50391339 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.wsj.com/tech/ai/ai-companies-scramble-to-navigate-a-world-hostile-to-data-centers-c6023a14)
+
+---
+
+## 17. AI Needed to Produce More Gas to Power More AI, Tech Firm Cohere Says
+
+**Author:** mrkn1  
+**Published:** 11/6/2026, 11:53:25 AM  
+**Categories:** -  
+
+Article URL: https://www.desmog.com/2026/11/04/ai-needed-to-produce-more-gas-to-power-more-ai-tech-firm-cohere-says/ Comments URL: https://news.ycombinator.com/item?id=50391269 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.desmog.com/2026/11/04/ai-needed-to-produce-more-gas-to-power-more-ai-tech-firm-cohere-says/)
+
+---
+
+## 18. Launch a swarm of obliterated AI agents to hack your site
+
+**Author:** timm37  
+**Published:** 11/6/2026, 11:45:59 AM  
+**Categories:** -  
+
+Article URL: https://mockhack.com Comments URL: https://news.ycombinator.com/item?id=50391195 Points: 3 # Comments: 3
+
+📖 [Read original article](https://mockhack.com)
+
+---
+
+## 19. Markeplay – Run an online store with specialized AI agents
+
+**Author:** dome0506  
+**Published:** 11/6/2026, 11:37:49 AM  
+**Categories:** -  
+
+Article URL: https://markeplay.channel.markedev.com/ Comments URL: https://news.ycombinator.com/item?id=50391127 Points: 1 # Comments: 0
+
+📖 [Read original article](https://markeplay.channel.markedev.com/)
+
+---
+
+## 20. Together Compiler: Continual Compilation for AI Inference
+
+**Author:** rerx  
+**Published:** 11/6/2026, 11:36:38 AM  
+**Categories:** -  
+
+Article URL: https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference Comments URL: https://news.ycombinator.com/item?id=50391112 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference)
 
 ---
