@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Nordic AI Health Map
-
-**Author:** madspindel  
-**Published:** 11/7/2026, 11:10:38 AM  
-**Categories:** -  
-
-Article URL: https://healthmap.newnordics.ai/ Comments URL: https://news.ycombinator.com/item?id=50403502 Points: 1 # Comments: 0
-
-📖 [Read original article](https://healthmap.newnordics.ai/)
-
----
-
-## 2. The Pentagon wants to know who checks code when AI writes it
-
-**Author:** qtqtqt  
-**Published:** 11/7/2026, 10:52:46 AM  
-**Categories:** -  
-
-Article URL: https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/ Comments URL: https://news.ycombinator.com/item?id=50403408 Points: 1 # Comments: 0
-
-📖 [Read original article](https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/)
-
----
-
-## 3. Trace – Crash-safe durable Sagas for autonomous AI agents
-
-**Author:** orikamiii  
-**Published:** 11/7/2026, 10:28:19 AM  
-**Categories:** -  
-
-Article URL: https://github.com/orikami048/trace-agent-lang Comments URL: https://news.ycombinator.com/item?id=50403277 Points: 1 # Comments: 0
-
-📖 [Read original article](https://github.com/orikami048/trace-agent-lang)
-
----
-
-## 4. Show HN: Service for the parallel execution of AI agent tasks on remote devices
-
-**Author:** deahesi  
-**Published:** 11/7/2026, 8:53:45 AM  
-**Categories:** -  
-
-I'm building Rungrid, a platform for running and managing tasks across multiple remote devices from a single interface.The project is currently in the MVP stage. If you're interested, you can join the waitlist to get notified when it launches. Comments URL: https://news.ycombinator.com/item?id=50402...
-
-📖 [Read original article](https://rungrid.space)
-
----
-
-## 5. AI Source Code Analysis Detection Evasion Techniques
-
-**Author:** cphr  
-**Published:** 11/7/2026, 8:52:16 AM  
-**Categories:** -  
-
-Article URL: https://cipher.org.uk/2026/11/06/AI-Source-Code-Analysis-Detection-Evasion-Techniques/ Comments URL: https://news.ycombinator.com/item?id=50402826 Points: 3 # Comments: 0
-
-📖 [Read original article](https://cipher.org.uk/2026/11/06/AI-Source-Code-Analysis-Detection-Evasion-Techniques/)
-
----
-
-## 6. APM – A dependency manager for AI agents
-
-**Author:** Garbage  
-**Published:** 11/7/2026, 8:51:43 AM  
-**Categories:** -  
-
-Article URL: https://microsoft.github.io/apm/ Comments URL: https://news.ycombinator.com/item?id=50402824 Points: 1 # Comments: 0
-
-📖 [Read original article](https://microsoft.github.io/apm/)
-
----
-
-## 7. An internet radio station run by AI
-
-**Author:** williswee  
-**Published:** 11/7/2026, 8:40:49 AM  
-**Categories:** -  
-
-Article URL: https://radio.neoncurrent.dev/ Comments URL: https://news.ycombinator.com/item?id=50402779 Points: 1 # Comments: 0
-
-📖 [Read original article](https://radio.neoncurrent.dev/)
-
----
-
-## 8. Inter-AI Morality: How AI Systems Treat One Another [pdf]
-
-**Author:** dadadavid  
-**Published:** 11/7/2026, 8:02:02 AM  
-**Categories:** -  
-
-Article URL: https://digitalminds.cam/inter-ai-morality.pdf Comments URL: https://news.ycombinator.com/item?id=50402602 Points: 13 # Comments: 0
-
-📖 [Read original article](https://digitalminds.cam/inter-ai-morality.pdf)
-
----
-
-## 9. Church quits role at AI startup claims 'sleazy' behavior stole credit
+## 1. Segmentation Drives Market Share Wins in AI
 
 **Author:** gmays  
-**Published:** 11/7/2026, 6:16:44 AM  
+**Published:** 11/7/2026, 9:15:00 PM  
 **Categories:** -  
 
-Article URL: https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/ Comments URL: https://news.ycombinator.com/item?id=50402123 Points: 4 # Comments: 0
+Article URL: https://tomtunguz.com/anthropic-repriced-the-enterprise/ Comments URL: https://news.ycombinator.com/item?id=50408137 Points: 1 # Comments: 0
 
-📖 [Read original article](https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/)
+📖 [Read original article](https://tomtunguz.com/anthropic-repriced-the-enterprise/)
 
 ---
 
-## 10. Show HN:A tool your AI uses just changed. Would you know?
+## 2. HP and Asus shift some PC making back to China due to AI-driven cost hikes
 
-**Author:** DevanshKontey  
-**Published:** 11/7/2026, 5:47:35 AM  
+**Author:** yogthos  
+**Published:** 11/7/2026, 8:56:09 PM  
 **Categories:** -  
 
-Article URL: https://mcp.brydge-ai.com/diff.html Comments URL: https://news.ycombinator.com/item?id=50401995 Points: 1 # Comments: 0
+Article URL: https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes Comments URL: https://news.ycombinator.com/item?id=50407972 Points: 1 # Comments: 0
 
-📖 [Read original article](https://mcp.brydge-ai.com/diff.html)
+📖 [Read original article](https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes)
 
 ---
 
-## 11. Show HN: Help me pick a logo animation for my in-browser AI creature game
+## 3. GenDB-V: AI-generated, formally verified database engines
 
-**Author:** nico  
-**Published:** 11/7/2026, 4:54:01 AM  
+**Author:** matt_d  
+**Published:** 11/7/2026, 8:54:43 PM  
 **Categories:** -  
 
-Article URL: https://id-le.com/review/intro-logo-animation Comments URL: https://news.ycombinator.com/item?id=50401735 Points: 1 # Comments: 0
+Article URL: https://genlang-v.github.io/GenDB-V/ Comments URL: https://news.ycombinator.com/item?id=50407959 Points: 1 # Comments: 0
 
-📖 [Read original article](https://id-le.com/review/intro-logo-animation)
+📖 [Read original article](https://genlang-v.github.io/GenDB-V/)
 
 ---
 
-## 12. Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It
+## 4. HERV AI – Spatial intelligence platform
 
-**Author:** fortran77  
-**Published:** 11/7/2026, 4:39:33 AM  
+**Author:** kayumbaherve  
+**Published:** 11/7/2026, 8:48:27 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2 Comments URL: https://news.ycombinator.com/item?id=50401675 Points: 3 # Comments: 0
+Article URL: https://hervai.com Comments URL: https://news.ycombinator.com/item?id=50407904 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2)
+📖 [Read original article](https://hervai.com)
 
 ---
 
-## 13. The AI Business Model Just Collapsed
+## 5. GM Aims to Bring 'Eyes-Off' Driving to AI-Powered Cars Within 2 Years
 
-**Author:** paulpauper  
-**Published:** 11/7/2026, 4:30:10 AM  
+**Author:** bookofjoe  
+**Published:** 11/7/2026, 8:28:30 PM  
 **Categories:** -  
 
-Article URL: https://www.honest-broker.com/p/the-ai-business-model-just-collapsed Comments URL: https://news.ycombinator.com/item?id=50401626 Points: 5 # Comments: 1
+Article URL: https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html Comments URL: https://news.ycombinator.com/item?id=50407755 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.honest-broker.com/p/the-ai-business-model-just-collapsed)
+📖 [Read original article](https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html)
 
 ---
 
-## 14. Show HN: Backwords – Let AI teach you how to speak in reverse
+## 6. AI agents enter the 'wet lab'
 
-**Author:** gregsadetsky  
-**Published:** 11/7/2026, 3:39:46 AM  
+**Author:** Teever  
+**Published:** 11/7/2026, 8:23:49 PM  
 **Categories:** -  
 
-Article URL: https://backwords.greg.technology/ Comments URL: https://news.ycombinator.com/item?id=50401409 Points: 11 # Comments: 3
+Article URL: https://www.nature.com/articles/d41586-026-03270-1 Comments URL: https://news.ycombinator.com/item?id=50407717 Points: 2 # Comments: 1
 
-📖 [Read original article](https://backwords.greg.technology/)
+📖 [Read original article](https://www.nature.com/articles/d41586-026-03270-1)
 
 ---
 
-## 15. YC Backed Bron AI Accused of Using LeBron's Name and Likeness
+## 7. Read this before you build another AI wrapper
 
-**Author:** sicgods  
-**Published:** 11/7/2026, 3:34:25 AM  
+**Author:** ferran9908  
+**Published:** 11/7/2026, 8:18:15 PM  
 **Categories:** -  
 
-Article URL: https://frontofficesports.com/article/lebron-james-demands-ai-betting-app-stop-using-his-likeness/ Comments URL: https://news.ycombinator.com/item?id=50401390 Points: 5 # Comments: 1
+Article URL: https://ferran.sh/writing/read-this-before-you-build-another-ai-wrapper Comments URL: https://news.ycombinator.com/item?id=50407665 Points: 2 # Comments: 0
 
-📖 [Read original article](https://frontofficesports.com/article/lebron-james-demands-ai-betting-app-stop-using-his-likeness/)
+📖 [Read original article](https://ferran.sh/writing/read-this-before-you-build-another-ai-wrapper)
 
 ---
 
-## 16. DeepMind AI agents find two weaknesses in legacy 1024-bit RSA cryptosystems
+## 8. AI Layoffs Backfire as Companies Start Rehiring Workers
 
-**Author:** dvaplima  
-**Published:** 11/7/2026, 3:07:49 AM  
+**Author:** javatuts  
+**Published:** 11/7/2026, 8:07:15 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/pushmeet/status/2118752095859794390 Comments URL: https://news.ycombinator.com/item?id=50401254 Points: 3 # Comments: 0
+Article URL: https://jsdev.space/companies-rehiring-workers/ Comments URL: https://news.ycombinator.com/item?id=50407575 Points: 3 # Comments: 0
 
-📖 [Read original article](https://twitter.com/pushmeet/status/2118752095859794390)
+📖 [Read original article](https://jsdev.space/companies-rehiring-workers/)
 
 ---
 
-## 17. Brave Sells Its Search Index to AI, and Your Website Is Probably in It
+## 9. Exponential time hypothesis refuted by AI
 
-**Author:** linhns  
-**Published:** 11/7/2026, 2:59:27 AM  
+**Author:** garyrob  
+**Published:** 11/7/2026, 8:05:26 PM  
 **Categories:** -  
 
-Article URL: https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/ Comments URL: https://news.ycombinator.com/item?id=50401213 Points: 14 # Comments: 2
+Article URL: https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html Comments URL: https://news.ycombinator.com/item?id=50407562 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/)
+📖 [Read original article](https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html)
 
 ---
 
-## 18. The AI sell-off compared to well-known stock market crashes
+## 10. Driver AI in Stunt Car Racer, Commodore 64
 
-**Author:** hubraumhugo  
-**Published:** 11/7/2026, 2:20:06 AM  
+**Author:** a1r  
+**Published:** 11/7/2026, 7:59:25 PM  
 **Categories:** -  
 
-Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 69 # Comments: 64
+Article URL: https://gamesexplained.com/c64/stunt-car-racer/opponents.html Comments URL: https://news.ycombinator.com/item?id=50407514 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.kadoa.com/companies/insights/ai-selloff-perspective)
+📖 [Read original article](https://gamesexplained.com/c64/stunt-car-racer/opponents.html)
 
 ---
 
-## 19. Coding agents ranked for builders shipping AI software
+## 11. Why the Best AI Clouds Don't Run on Flash Alone
 
-**Author:** rcleffke  
-**Published:** 11/7/2026, 2:16:19 AM  
+**Author:** gmays  
+**Published:** 11/7/2026, 7:50:34 PM  
 **Categories:** -  
 
-Article URL: https://rankings.leffke.com/categories/coding-agents Comments URL: https://news.ycombinator.com/item?id=50401011 Points: 2 # Comments: 1
+Article URL: https://www.backblaze.com/blog/why-the-best-ai-clouds-dont-run-on-flash-alone/ Comments URL: https://news.ycombinator.com/item?id=50407455 Points: 1 # Comments: 0
 
-📖 [Read original article](https://rankings.leffke.com/categories/coding-agents)
+📖 [Read original article](https://www.backblaze.com/blog/why-the-best-ai-clouds-dont-run-on-flash-alone/)
 
 ---
 
-## 20. Show HN: I built an AI photo editor powered by GPT-Image-2.6
+## 12. RigHaven – Self-hosted execution harness for AI agents
 
-**Author:** CoderLim110  
-**Published:** 11/7/2026, 2:07:58 AM  
+**Author:** devusergm  
+**Published:** 11/7/2026, 7:40:06 PM  
 **Categories:** -  
 
-Article URL: https://getaiphotoeditor.com/ Comments URL: https://news.ycombinator.com/item?id=50400968 Points: 1 # Comments: 0
+Article URL: https://github.com/ggmm82/righaven Comments URL: https://news.ycombinator.com/item?id=50407370 Points: 1 # Comments: 0
 
-📖 [Read original article](https://getaiphotoeditor.com/)
+📖 [Read original article](https://github.com/ggmm82/righaven)
+
+---
+
+## 13. Context compaction recovery for AI coding agents: six checks, not a summary
+
+**Author:** tobiu  
+**Published:** 11/7/2026, 7:36:59 PM  
+**Categories:** -  
+
+Article URL: https://tobiasuhlig.medium.com/context-compaction-recovery-for-ai-coding-agents-six-checks-not-a-summary-4eb9a1d458b7 Comments URL: https://news.ycombinator.com/item?id=50407338 Points: 1 # Comments: 0
+
+📖 [Read original article](https://tobiasuhlig.medium.com/context-compaction-recovery-for-ai-coding-agents-six-checks-not-a-summary-4eb9a1d458b7)
+
+---
+
+## 14. Why AI Will Not End Scholarly Publishing (and the Publish-or-Perish Institution)
+
+**Author:** jruohonen  
+**Published:** 11/7/2026, 7:29:29 PM  
+**Categories:** -  
+
+Article URL: https://nicolaijfoss.substack.com/p/why-ai-will-not-end-scholarly-publishing Comments URL: https://news.ycombinator.com/item?id=50407257 Points: 1 # Comments: 1
+
+📖 [Read original article](https://nicolaijfoss.substack.com/p/why-ai-will-not-end-scholarly-publishing)
+
+---
+
+## 15. Day AI: Context Graph and Agent Control Plane for GTM
+
+**Author:** handfuloflight  
+**Published:** 11/7/2026, 7:24:33 PM  
+**Categories:** -  
+
+Article URL: https://day.ai/ Comments URL: https://news.ycombinator.com/item?id=50407219 Points: 1 # Comments: 0
+
+📖 [Read original article](https://day.ai/)
+
+---
+
+## 16. Some thoughts on AI, scientific papers, and peer review
+
+**Author:** jruohonen  
+**Published:** 11/7/2026, 7:01:37 PM  
+**Categories:** -  
+
+Article URL: https://www.alekpetty.com/blog/ai_in_science.html Comments URL: https://news.ycombinator.com/item?id=50407043 Points: 2 # Comments: 1
+
+📖 [Read original article](https://www.alekpetty.com/blog/ai_in_science.html)
+
+---
+
+## 17. AI Promoted Everybody. Architecture as Truth (AAT) Is the New Job
+
+**Author:** puglieseweb  
+**Published:** 11/7/2026, 6:37:04 PM  
+**Categories:** -  
+
+Article URL: https://www.puglieseweb.com/blog/architecture-as-truth Comments URL: https://news.ycombinator.com/item?id=50406831 Points: 4 # Comments: 0
+
+📖 [Read original article](https://www.puglieseweb.com/blog/architecture-as-truth)
+
+---
+
+## 18. Gradual disempowerment model organism: Frontier AI labs
+
+**Author:** gmays  
+**Published:** 11/7/2026, 6:32:04 PM  
+**Categories:** -  
+
+Article URL: https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism Comments URL: https://news.ycombinator.com/item?id=50406802 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism)
+
+---
+
+## 19. Chatty – Open-source autonomous AI chat agent with tool calling
+
+**Author:** TharinduDama  
+**Published:** 11/7/2026, 6:31:32 PM  
+**Categories:** -  
+
+Article URL: https://github.com/PersonaliAI/chatty Comments URL: https://news.ycombinator.com/item?id=50406794 Points: 3 # Comments: 0
+
+📖 [Read original article](https://github.com/PersonaliAI/chatty)
+
+---
+
+## 20. The End of AI Frontiers
+
+**Author:** andsoitis  
+**Published:** 11/7/2026, 6:04:07 PM  
+**Categories:** -  
+
+Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 81 # Comments: 2
+
+📖 [Read original article](https://hunch.net/?p=13764006)
 
 ---
