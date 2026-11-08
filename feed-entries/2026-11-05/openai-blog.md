@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-11-05"
 date: "2026-11-05"
 source: "OpenAI Blog"
-count: 7
+count: 4
 ---
 
 # OpenAI Blog - 2026-11-05
 
-7 items collected.
+4 items collected.
 
 ---
 
@@ -56,41 +56,5 @@ Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitabl
 Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.
 
 📖 [Read original article](https://openai.com/index/merge-builds-with-openai)
-
----
-
-## 5. Setting a new standard for responsible AI infrastructure
-
-**Author:** -  
-**Published:** 11/5/2026, 2:00:00 AM  
-**Categories:** Global Affairs  
-
-OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.
-
-📖 [Read original article](https://openai.com/index/setting-new-standard-responsible-ai-infrastructure)
-
----
-
-## 6. Flipsnack grows product signups with conversion optimization
-
-**Author:** -  
-**Published:** 11/5/2026, 12:45:15 AM  
-**Categories:** -  
-
-Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.
-
-📖 [Read original article](https://openai.com/ads/customers/flipsnack)
-
----
-
-## 7. Franklin Templeton uses OpenAI to support investment research
-
-**Author:** -  
-**Published:** 11/5/2026, 12:00:00 AM  
-**Categories:** -  
-
-Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.
-
-📖 [Read original article](https://openai.com/index/franklin-templeton)
 
 ---
