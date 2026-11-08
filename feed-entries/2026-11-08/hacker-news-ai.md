@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. LLMs are terrible at designing AI systems
+## 1. Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions
 
-**Author:** ingve  
-**Published:** 11/8/2026, 12:33:58 PM  
+**Author:** gmays  
+**Published:** 11/8/2026, 8:57:43 PM  
 **Categories:** -  
 
-Article URL: https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=50412713 Points: 2 # Comments: 0
+Article URL: https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html Comments URL: https://news.ycombinator.com/item?id=50417169 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/)
+📖 [Read original article](https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html)
 
 ---
 
-## 2. Why Your AI Agent Can't Solve CTF Challenges
+## 2. AI skill to provide IPA and English translations from uploaded sheet music
 
-**Author:** therepanic  
-**Published:** 11/8/2026, 12:25:54 PM  
+**Author:** mooreds  
+**Published:** 11/8/2026, 8:37:23 PM  
 **Categories:** -  
 
-Article URL: https://h4c.team/en/posts/97 Comments URL: https://news.ycombinator.com/item?id=50412675 Points: 1 # Comments: 0
+Article URL: https://github.com/secureakira-tech/early-music-ipa-guide Comments URL: https://news.ycombinator.com/item?id=50416922 Points: 2 # Comments: 0
 
-📖 [Read original article](https://h4c.team/en/posts/97)
+📖 [Read original article](https://github.com/secureakira-tech/early-music-ipa-guide)
 
 ---
 
-## 3. Empires of AI – The Rise and Fall of a New Global Order
+## 3. Not another AI note taker
 
-**Author:** yubblegum  
-**Published:** 11/8/2026, 12:21:47 PM  
+**Author:** jbuchananr  
+**Published:** 11/8/2026, 8:24:16 PM  
 **Categories:** -  
 
-Article URL: https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt Comments URL: https://news.ycombinator.com/item?id=50412645 Points: 1 # Comments: 1
+Article URL: https://useskribble.com Comments URL: https://news.ycombinator.com/item?id=50416773 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt)
+📖 [Read original article](https://useskribble.com)
 
 ---
 
-## 4. Etsy AI training terms change
+## 4. Show HN: APC Playground – Stop AI agents from modifying your API tool calls
 
-**Author:** ourcat  
-**Published:** 11/8/2026, 11:48:06 AM  
+**Author:** apcaleph  
+**Published:** 11/8/2026, 8:22:26 PM  
 **Categories:** -  
 
-Article URL: https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026) Comments URL: https://news.ycombinator.com/item?id=50412447 Points: 1 # Comments: 0
+Article URL: https://playground.alephapc.com/ Comments URL: https://news.ycombinator.com/item?id=50416757 Points: 1 # Comments: 0
 
-📖 [Read original article](https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026))
+📖 [Read original article](https://playground.alephapc.com/)
 
 ---
 
-## 5. AI Alignment Considered Harmful
+## 5. Vibe-Shield – Static security scanner for AI-generated Next.js/Supabase code
 
-**Author:** pretext  
-**Published:** 11/8/2026, 11:19:35 AM  
+**Author:** crib-award-cont  
+**Published:** 11/8/2026, 8:21:10 PM  
 **Categories:** -  
 
-Article URL: http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html Comments URL: https://news.ycombinator.com/item?id=50412294 Points: 3 # Comments: 0
+Article URL: https://github.com/avivgerz-hue/vibe-shield Comments URL: https://news.ycombinator.com/item?id=50416741 Points: 1 # Comments: 0
 
-📖 [Read original article](http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html)
+📖 [Read original article](https://github.com/avivgerz-hue/vibe-shield)
 
 ---
 
-## 6. What Can AI Hack? Inside Frontier Labs' Tests
+## 6. Show HN: Vynyo – AI creative studio for hairstyle, image and video
 
-**Author:** dibidee  
-**Published:** 11/8/2026, 9:42:03 AM  
+**Author:** zhoouweiyuan51  
+**Published:** 11/8/2026, 7:49:45 PM  
 **Categories:** -  
 
-Article URL: https://dorcohen.dev/posts/what-can-ai-actually-hack/ Comments URL: https://news.ycombinator.com/item?id=50411752 Points: 1 # Comments: 0
+Article URL: https://vynyo.com Comments URL: https://news.ycombinator.com/item?id=50416470 Points: 1 # Comments: 0
 
-📖 [Read original article](https://dorcohen.dev/posts/what-can-ai-actually-hack/)
+📖 [Read original article](https://vynyo.com)
 
 ---
 
-## 7. Researchers unveiled new techniques to protect AI from backdoor attacks
+## 7. How I Fight AI Brain Fry
 
-**Author:** giuliomagnifico  
-**Published:** 11/8/2026, 9:32:43 AM  
+**Author:** kyunez  
+**Published:** 11/8/2026, 7:37:42 PM  
 **Categories:** -  
 
-Article URL: https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/ Comments URL: https://news.ycombinator.com/item?id=50411704 Points: 2 # Comments: 1
+Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 89 # Comments: 68
 
-📖 [Read original article](https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/)
+📖 [Read original article](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
 
 ---
 
-## 8. ThinkStream – AI generates the work. We still need to understand it
+## 8. AI detection trap: When machines put human creativity on trial
 
-**Author:** aginext  
-**Published:** 11/8/2026, 9:20:04 AM  
+**Author:** paulpauper  
+**Published:** 11/8/2026, 7:25:16 PM  
 **Categories:** -  
 
-Article URL: https://thinkstream.app/ Comments URL: https://news.ycombinator.com/item?id=50411638 Points: 10 # Comments: 0
+Article URL: https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial Comments URL: https://news.ycombinator.com/item?id=50416216 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thinkstream.app/)
+📖 [Read original article](https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial)
 
 ---
 
-## 9. AI Companies Want to Buy Your Work Files and Emails
+## 9. Etsy changes terms to train AI on your creations, while blocking you doing it [video]
 
-**Author:** benrmatthews  
-**Published:** 11/8/2026, 9:15:06 AM  
+**Author:** fortran77  
+**Published:** 11/8/2026, 7:14:41 PM  
 **Categories:** -  
 
-Article URL: https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/ Comments URL: https://news.ycombinator.com/item?id=50411618 Points: 3 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=zrlLUUdqDJI Comments URL: https://news.ycombinator.com/item?id=50416103 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/)
+📖 [Read original article](https://www.youtube.com/watch?v=zrlLUUdqDJI)
 
 ---
 
-## 10. Being a line cook without talking to AI
+## 10. Ask HN- Will AI agents behave differently in a swarm?
 
-**Author:** knhash  
-**Published:** 11/8/2026, 8:16:14 AM  
+**Author:** sharkyy  
+**Published:** 11/8/2026, 7:11:54 PM  
 **Categories:** -  
 
-Article URL: https://knhash.in/no-ai-line-cook/ Comments URL: https://news.ycombinator.com/item?id=50411352 Points: 1 # Comments: 0
+Article URL: https://world.emergence.ai/ Comments URL: https://news.ycombinator.com/item?id=50416075 Points: 1 # Comments: 1
 
-📖 [Read original article](https://knhash.in/no-ai-line-cook/)
+📖 [Read original article](https://world.emergence.ai/)
 
 ---
 
-## 11. Show HN: Ramen – an AI agent that has to earn its own rent
+## 11. Canada's AI translation tool keeps making hilarious mistakes
 
-**Author:** showang  
-**Published:** 11/8/2026, 7:38:55 AM  
+**Author:** jethronethro  
+**Published:** 11/8/2026, 6:52:42 PM  
 **Categories:** -  
 
-Article URL: https://usdt-kit-production.up.railway.app/ramen Comments URL: https://news.ycombinator.com/item?id=50411182 Points: 1 # Comments: 1
+Article URL: https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/ Comments URL: https://news.ycombinator.com/item?id=50415905 Points: 5 # Comments: 0
 
-📖 [Read original article](https://usdt-kit-production.up.railway.app/ramen)
+📖 [Read original article](https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/)
 
 ---
 
-## 12. Show HN: I built an AI code editor that for teams
+## 12. The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra
 
-**Author:** sirily11  
-**Published:** 11/8/2026, 6:12:09 AM  
+**Author:** raybb  
+**Published:** 11/8/2026, 6:46:42 PM  
 **Categories:** -  
 
-I built an open-source AI code editor for team collaboration, featuring a built-in sprint board and the ability to assign tasks to different agents. I’d love to get your feedback and suggestions! PR and issues are very welcome Comments URL: https://news.ycombinator.com/item?id=50410855 Points: 1 # C...
+Article URL: https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113 Comments URL: https://news.ycombinator.com/item?id=50415854 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.rxcode.dev/)
+📖 [Read original article](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113)
 
 ---
 
-## 13. AI labs are paying $100K–$2M for internal company workflow data
+## 13. Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It
 
-**Author:** dkggwl1990  
-**Published:** 11/8/2026, 6:03:02 AM  
+**Author:** zzzeek  
+**Published:** 11/8/2026, 6:43:07 PM  
 **Categories:** -  
 
-Article URL: https://calendly.com/d/d3ss-w9w-7vs Comments URL: https://news.ycombinator.com/item?id=50410816 Points: 2 # Comments: 2
+Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 77 # Comments: 85
 
-📖 [Read original article](https://calendly.com/d/d3ss-w9w-7vs)
+📖 [Read original article](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
 
 ---
 
-## 14. 70% of Brits say please or thank you when speaking to AI, some even apologize
+## 14. Show HN: Is your product AI slop?
 
-**Author:** giuliomagnifico  
-**Published:** 11/8/2026, 5:58:20 AM  
+**Author:** nshelia  
+**Published:** 11/8/2026, 6:32:31 PM  
 **Categories:** -  
 
-Article URL: https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize Comments URL: https://news.ycombinator.com/item?id=50410796 Points: 7 # Comments: 9
+Article URL: https://slopcalculator.com/ Comments URL: https://news.ycombinator.com/item?id=50415740 Points: 3 # Comments: 2
 
-📖 [Read original article](https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize)
+📖 [Read original article](https://slopcalculator.com/)
 
 ---
 
-## 15. Show HN: Codend – Build and publish web apps with AI agents
+## 15. Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training
 
-**Author:** anythic  
-**Published:** 11/8/2026, 5:49:42 AM  
+**Author:** rarisma  
+**Published:** 11/8/2026, 5:31:42 PM  
 **Categories:** -  
 
-Article URL: https://codend.dev Comments URL: https://news.ycombinator.com/item?id=50410758 Points: 1 # Comments: 0
+Article URL: https://www.valueaddedresource.net/etsy-expands-ai-training-rights/ Comments URL: https://news.ycombinator.com/item?id=50415265 Points: 2 # Comments: 0
 
-📖 [Read original article](https://codend.dev)
+📖 [Read original article](https://www.valueaddedresource.net/etsy-expands-ai-training-rights/)
 
 ---
 
-## 16. AI Live Speech Rewriting Patent
+## 16. China's AI models, led by Kimi, dominate open-source enterprise spending
 
-**Author:** sweetdingoes  
-**Published:** 11/8/2026, 5:41:50 AM  
+**Author:** yogthos  
+**Published:** 11/8/2026, 4:34:28 PM  
 **Categories:** -  
 
-Article URL: https://patentlyze.com/patent/microsoft-live-ai-video-rewrites-speech/ Comments URL: https://news.ycombinator.com/item?id=50410729 Points: 2 # Comments: 0
+Article URL: https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending Comments URL: https://news.ycombinator.com/item?id=50414719 Points: 3 # Comments: 0
 
-📖 [Read original article](https://patentlyze.com/patent/microsoft-live-ai-video-rewrites-speech/)
+📖 [Read original article](https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending)
 
 ---
 
-## 17. The internet has a human slop problem, and AI is exposing it
+## 17. One of Classical Music's Biggest Stars Says AI Is Degrading Our Taste
 
-**Author:** ghernando  
-**Published:** 11/8/2026, 5:09:25 AM  
+**Author:** mancerayder  
+**Published:** 11/8/2026, 4:32:55 PM  
 **Categories:** -  
 
-Article URL: https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10 Comments URL: https://news.ycombinator.com/item?id=50410557 Points: 5 # Comments: 0
+Article URL: https://www.bloomberg.com/features/2026-max-richter-weekend-interview/ Comments URL: https://news.ycombinator.com/item?id=50414699 Points: 6 # Comments: 2
 
-📖 [Read original article](https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10)
+📖 [Read original article](https://www.bloomberg.com/features/2026-max-richter-weekend-interview/)
 
 ---
 
-## 18. Show HN: Reges Code – a free AI code editor that runs on local models
+## 18. Show HN: ModelRefs – Interactive reference hub for AI models
 
-**Author:** nonerthy  
-**Published:** 11/8/2026, 4:32:44 AM  
+**Author:** ModelRefs  
+**Published:** 11/8/2026, 4:31:01 PM  
 **Categories:** -  
 
-Article URL: https://regescode.com/ Comments URL: https://news.ycombinator.com/item?id=50410429 Points: 1 # Comments: 0
+Article URL: https://modelrefs.com/ Comments URL: https://news.ycombinator.com/item?id=50414668 Points: 1 # Comments: 0
 
-📖 [Read original article](https://regescode.com/)
+📖 [Read original article](https://modelrefs.com/)
 
 ---
 
-## 19. Show HN: Reges Town – a 3D city run by AI citizens, in the browser
+## 19. The 0rwx framework for AI usage attribution
 
-**Author:** nonerthy  
-**Published:** 11/8/2026, 3:44:10 AM  
+**Author:** solidsilver  
+**Published:** 11/8/2026, 4:15:31 PM  
 **Categories:** -  
 
-Article URL: https://regestown.com Comments URL: https://news.ycombinator.com/item?id=50410242 Points: 3 # Comments: 0
+Article URL: http://0rwx.com Comments URL: https://news.ycombinator.com/item?id=50414502 Points: 2 # Comments: 1
 
-📖 [Read original article](https://regestown.com)
+📖 [Read original article](http://0rwx.com)
 
 ---
 
-## 20. I Love the Smiths AI: A Familiar Elevator Scene, with You in It
+## 20. Show HN: Cinnamon AI – an agent you can share with your household
 
-**Author:** visiohex  
-**Published:** 11/8/2026, 3:35:16 AM  
+**Author:** mv4  
+**Published:** 11/8/2026, 4:13:44 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@wangjiayiliuyan/i-love-the-smiths-ai-a-familiar-elevator-scene-with-you-in-it-51e69e0711e6 Comments URL: https://news.ycombinator.com/item?id=50410205 Points: 2 # Comments: 2
+Article URL: https://getcinnamon.ai/ Comments URL: https://news.ycombinator.com/item?id=50414485 Points: 1 # Comments: 0
 
-📖 [Read original article](https://medium.com/@wangjiayiliuyan/i-love-the-smiths-ai-a-familiar-elevator-scene-with-you-in-it-51e69e0711e6)
+📖 [Read original article](https://getcinnamon.ai/)
 
 ---
