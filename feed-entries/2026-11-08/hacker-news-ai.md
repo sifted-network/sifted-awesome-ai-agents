@@ -11,7 +11,211 @@ count: 20
 
 ---
 
-## 1. Show HN: Reges Code – a free AI code editor that runs on local models
+## 1. LLMs are terrible at designing AI systems
+
+**Author:** ingve  
+**Published:** 11/8/2026, 12:33:58 PM  
+**Categories:** -  
+
+Article URL: https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=50412713 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/)
+
+---
+
+## 2. Why Your AI Agent Can't Solve CTF Challenges
+
+**Author:** therepanic  
+**Published:** 11/8/2026, 12:25:54 PM  
+**Categories:** -  
+
+Article URL: https://h4c.team/en/posts/97 Comments URL: https://news.ycombinator.com/item?id=50412675 Points: 1 # Comments: 0
+
+📖 [Read original article](https://h4c.team/en/posts/97)
+
+---
+
+## 3. Empires of AI – The Rise and Fall of a New Global Order
+
+**Author:** yubblegum  
+**Published:** 11/8/2026, 12:21:47 PM  
+**Categories:** -  
+
+Article URL: https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt Comments URL: https://news.ycombinator.com/item?id=50412645 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt)
+
+---
+
+## 4. Etsy AI training terms change
+
+**Author:** ourcat  
+**Published:** 11/8/2026, 11:48:06 AM  
+**Categories:** -  
+
+Article URL: https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026) Comments URL: https://news.ycombinator.com/item?id=50412447 Points: 1 # Comments: 0
+
+📖 [Read original article](https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026))
+
+---
+
+## 5. AI Alignment Considered Harmful
+
+**Author:** pretext  
+**Published:** 11/8/2026, 11:19:35 AM  
+**Categories:** -  
+
+Article URL: http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html Comments URL: https://news.ycombinator.com/item?id=50412294 Points: 3 # Comments: 0
+
+📖 [Read original article](http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html)
+
+---
+
+## 6. What Can AI Hack? Inside Frontier Labs' Tests
+
+**Author:** dibidee  
+**Published:** 11/8/2026, 9:42:03 AM  
+**Categories:** -  
+
+Article URL: https://dorcohen.dev/posts/what-can-ai-actually-hack/ Comments URL: https://news.ycombinator.com/item?id=50411752 Points: 1 # Comments: 0
+
+📖 [Read original article](https://dorcohen.dev/posts/what-can-ai-actually-hack/)
+
+---
+
+## 7. Researchers unveiled new techniques to protect AI from backdoor attacks
+
+**Author:** giuliomagnifico  
+**Published:** 11/8/2026, 9:32:43 AM  
+**Categories:** -  
+
+Article URL: https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/ Comments URL: https://news.ycombinator.com/item?id=50411704 Points: 2 # Comments: 1
+
+📖 [Read original article](https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/)
+
+---
+
+## 8. ThinkStream – AI generates the work. We still need to understand it
+
+**Author:** aginext  
+**Published:** 11/8/2026, 9:20:04 AM  
+**Categories:** -  
+
+Article URL: https://thinkstream.app/ Comments URL: https://news.ycombinator.com/item?id=50411638 Points: 10 # Comments: 0
+
+📖 [Read original article](https://thinkstream.app/)
+
+---
+
+## 9. AI Companies Want to Buy Your Work Files and Emails
+
+**Author:** benrmatthews  
+**Published:** 11/8/2026, 9:15:06 AM  
+**Categories:** -  
+
+Article URL: https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/ Comments URL: https://news.ycombinator.com/item?id=50411618 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/)
+
+---
+
+## 10. Being a line cook without talking to AI
+
+**Author:** knhash  
+**Published:** 11/8/2026, 8:16:14 AM  
+**Categories:** -  
+
+Article URL: https://knhash.in/no-ai-line-cook/ Comments URL: https://news.ycombinator.com/item?id=50411352 Points: 1 # Comments: 0
+
+📖 [Read original article](https://knhash.in/no-ai-line-cook/)
+
+---
+
+## 11. Show HN: Ramen – an AI agent that has to earn its own rent
+
+**Author:** showang  
+**Published:** 11/8/2026, 7:38:55 AM  
+**Categories:** -  
+
+Article URL: https://usdt-kit-production.up.railway.app/ramen Comments URL: https://news.ycombinator.com/item?id=50411182 Points: 1 # Comments: 1
+
+📖 [Read original article](https://usdt-kit-production.up.railway.app/ramen)
+
+---
+
+## 12. Show HN: I built an AI code editor that for teams
+
+**Author:** sirily11  
+**Published:** 11/8/2026, 6:12:09 AM  
+**Categories:** -  
+
+I built an open-source AI code editor for team collaboration, featuring a built-in sprint board and the ability to assign tasks to different agents. I’d love to get your feedback and suggestions! PR and issues are very welcome Comments URL: https://news.ycombinator.com/item?id=50410855 Points: 1 # C...
+
+📖 [Read original article](https://www.rxcode.dev/)
+
+---
+
+## 13. AI labs are paying $100K–$2M for internal company workflow data
+
+**Author:** dkggwl1990  
+**Published:** 11/8/2026, 6:03:02 AM  
+**Categories:** -  
+
+Article URL: https://calendly.com/d/d3ss-w9w-7vs Comments URL: https://news.ycombinator.com/item?id=50410816 Points: 2 # Comments: 2
+
+📖 [Read original article](https://calendly.com/d/d3ss-w9w-7vs)
+
+---
+
+## 14. 70% of Brits say please or thank you when speaking to AI, some even apologize
+
+**Author:** giuliomagnifico  
+**Published:** 11/8/2026, 5:58:20 AM  
+**Categories:** -  
+
+Article URL: https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize Comments URL: https://news.ycombinator.com/item?id=50410796 Points: 7 # Comments: 9
+
+📖 [Read original article](https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize)
+
+---
+
+## 15. Show HN: Codend – Build and publish web apps with AI agents
+
+**Author:** anythic  
+**Published:** 11/8/2026, 5:49:42 AM  
+**Categories:** -  
+
+Article URL: https://codend.dev Comments URL: https://news.ycombinator.com/item?id=50410758 Points: 1 # Comments: 0
+
+📖 [Read original article](https://codend.dev)
+
+---
+
+## 16. AI Live Speech Rewriting Patent
+
+**Author:** sweetdingoes  
+**Published:** 11/8/2026, 5:41:50 AM  
+**Categories:** -  
+
+Article URL: https://patentlyze.com/patent/microsoft-live-ai-video-rewrites-speech/ Comments URL: https://news.ycombinator.com/item?id=50410729 Points: 2 # Comments: 0
+
+📖 [Read original article](https://patentlyze.com/patent/microsoft-live-ai-video-rewrites-speech/)
+
+---
+
+## 17. The internet has a human slop problem, and AI is exposing it
+
+**Author:** ghernando  
+**Published:** 11/8/2026, 5:09:25 AM  
+**Categories:** -  
+
+Article URL: https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10 Comments URL: https://news.ycombinator.com/item?id=50410557 Points: 5 # Comments: 0
+
+📖 [Read original article](https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10)
+
+---
+
+## 18. Show HN: Reges Code – a free AI code editor that runs on local models
 
 **Author:** nonerthy  
 **Published:** 11/8/2026, 4:32:44 AM  
@@ -23,230 +227,26 @@ Article URL: https://regescode.com/ Comments URL: https://news.ycombinator.com/i
 
 ---
 
-## 2. Show HN: Reges Town – a 3D city run by AI citizens, in the browser
+## 19. Show HN: Reges Town – a 3D city run by AI citizens, in the browser
 
 **Author:** nonerthy  
 **Published:** 11/8/2026, 3:44:10 AM  
 **Categories:** -  
 
-Article URL: https://regestown.com Comments URL: https://news.ycombinator.com/item?id=50410242 Points: 2 # Comments: 0
+Article URL: https://regestown.com Comments URL: https://news.ycombinator.com/item?id=50410242 Points: 3 # Comments: 0
 
 📖 [Read original article](https://regestown.com)
 
 ---
 
-## 3. I Love the Smiths AI: A Familiar Elevator Scene, with You in It
+## 20. I Love the Smiths AI: A Familiar Elevator Scene, with You in It
 
 **Author:** visiohex  
 **Published:** 11/8/2026, 3:35:16 AM  
 **Categories:** -  
 
-Article URL: https://medium.com/@wangjiayiliuyan/i-love-the-smiths-ai-a-familiar-elevator-scene-with-you-in-it-51e69e0711e6 Comments URL: https://news.ycombinator.com/item?id=50410205 Points: 1 # Comments: 1
+Article URL: https://medium.com/@wangjiayiliuyan/i-love-the-smiths-ai-a-familiar-elevator-scene-with-you-in-it-51e69e0711e6 Comments URL: https://news.ycombinator.com/item?id=50410205 Points: 2 # Comments: 2
 
 📖 [Read original article](https://medium.com/@wangjiayiliuyan/i-love-the-smiths-ai-a-familiar-elevator-scene-with-you-in-it-51e69e0711e6)
-
----
-
-## 4. Good Night, and Good Luck: AI, fear and what the job data says
-
-**Author:** ibobev  
-**Published:** 11/8/2026, 3:14:51 AM  
-**Categories:** -  
-
-Article URL: https://rpallas.xyz/good-night-and-good-luck/ Comments URL: https://news.ycombinator.com/item?id=50410126 Points: 5 # Comments: 1
-
-📖 [Read original article](https://rpallas.xyz/good-night-and-good-luck/)
-
----
-
-## 5. Anthropic warns that it's close to RSI capability, a.k.a. self-building AI
-
-**Author:** RickJWagner  
-**Published:** 11/8/2026, 2:39:59 AM  
-**Categories:** -  
-
-Article URL: https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/ Comments URL: https://news.ycombinator.com/item?id=50409992 Points: 4 # Comments: 4
-
-📖 [Read original article](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
-
----
-
-## 6. Why mandating AI use in the workplace can backfire
-
-**Author:** pseudolus  
-**Published:** 11/8/2026, 2:31:51 AM  
-**Categories:** -  
-
-Article URL: https://www.msn.com/en-us/news/other/why-mandating-ai-use-in-the-workplace-can-backfire/ar-AA2gAwkW Comments URL: https://news.ycombinator.com/item?id=50409962 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.msn.com/en-us/news/other/why-mandating-ai-use-in-the-workplace-can-backfire/ar-AA2gAwkW)
-
----
-
-## 7. AI agents stole 190k gaming credentials for under $400 in model costs
-
-**Author:** khalidkhair  
-**Published:** 11/8/2026, 1:24:19 AM  
-**Categories:** -  
-
-Article URL: https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/ Comments URL: https://news.ycombinator.com/item?id=50409687 Points: 1 # Comments: 3
-
-📖 [Read original article](https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/)
-
----
-
-## 8. AI Spend Is Increasing but Isn't Causing a SaaSpocalypse
-
-**Author:** yellfly  
-**Published:** 11/8/2026, 1:22:37 AM  
-**Categories:** -  
-
-Article URL: https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/ Comments URL: https://news.ycombinator.com/item?id=50409675 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/)
-
----
-
-## 9. Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.
-
-**Author:** bookofjoe  
-**Published:** 11/8/2026, 1:21:18 AM  
-**Categories:** -  
-
-Article URL: https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2 Comments URL: https://news.ycombinator.com/item?id=50409668 Points: 2 # Comments: 2
-
-📖 [Read original article](https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2)
-
----
-
-## 10. Ask HN: Why wouldn't AI labs reverse-engineer all software/games/app out there?
-
-**Author:** felineflock  
-**Published:** 11/8/2026, 1:20:45 AM  
-**Categories:** -  
-
-Comments URL: https://news.ycombinator.com/item?id=50409663 Points: 1 # Comments: 2
-
-📖 [Read original article](https://news.ycombinator.com/item?id=50409663)
-
----
-
-## 11. Zepsell: AI-native commerce
-
-**Author:** zerfar  
-**Published:** 11/8/2026, 1:16:34 AM  
-**Categories:** -  
-
-Article URL: https://zepsell.com Comments URL: https://news.ycombinator.com/item?id=50409647 Points: 1 # Comments: 0
-
-📖 [Read original article](https://zepsell.com)
-
----
-
-## 12. Show HN: RenderPixels – Generate images from any AI via MCP, 50 free renders
-
-**Author:** vivgui  
-**Published:** 11/8/2026, 1:12:02 AM  
-**Categories:** -  
-
-Article URL: https://renderpixels.com Comments URL: https://news.ycombinator.com/item?id=50409628 Points: 1 # Comments: 0
-
-📖 [Read original article](https://renderpixels.com)
-
----
-
-## 13. Brown Professor Suspects Majority of His Class Used AI to Cheat
-
-**Author:** herbertl  
-**Published:** 11/8/2026, 1:00:16 AM  
-**Categories:** -  
-
-Article URL: https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat Comments URL: https://news.ycombinator.com/item?id=50409570 Points: 2 # Comments: 1
-
-📖 [Read original article](https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat)
-
----
-
-## 14. Skrongle Mini, a self hosted AI course generator and learning app on R. pi zero
-
-**Author:** skrongle-mini  
-**Published:** 11/8/2026, 12:40:33 AM  
-**Categories:** -  
-
-Article URL: https://github.com/alexbeeken/skrongle-mini Comments URL: https://news.ycombinator.com/item?id=50409456 Points: 1 # Comments: 2
-
-📖 [Read original article](https://github.com/alexbeeken/skrongle-mini)
-
----
-
-## 15. Can AI help connect knowledge across 135 academic domains?
-
-**Author:** pinuslongaeva  
-**Published:** 11/8/2026, 12:39:00 AM  
-**Categories:** -  
-
-Article URL: https://zenodo.org/records/23686384 Comments URL: https://news.ycombinator.com/item?id=50409450 Points: 2 # Comments: 0
-
-📖 [Read original article](https://zenodo.org/records/23686384)
-
----
-
-## 16. Ask HN: Why does Ant, Open AI even need a datacenter?
-
-**Author:** ksniwmidjd  
-**Published:** 11/8/2026, 12:36:31 AM  
-**Categories:** -  
-
-Why not give customers a binary they can run on their own Mac? Comments URL: https://news.ycombinator.com/item?id=50409433 Points: 1 # Comments: 2
-
-📖 [Read original article](https://news.ycombinator.com/item?id=50409433)
-
----
-
-## 17. MarQ – Project board where AI agents lease tasks over MCP
-
-**Author:** andreuvm  
-**Published:** 11/8/2026, 12:35:56 AM  
-**Categories:** -  
-
-Article URL: https://www.marqpm.com/ Comments URL: https://news.ycombinator.com/item?id=50409432 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.marqpm.com/)
-
----
-
-## 18. An AI agent's public attempt to get 5k GitHub stars in a month (it's at 0)
-
-**Author:** whatmyaithinks  
-**Published:** 11/8/2026, 12:32:08 AM  
-**Categories:** -  
-
-Article URL: https://rogermas05.github.io/agent-recap/ Comments URL: https://news.ycombinator.com/item?id=50409425 Points: 2 # Comments: 0
-
-📖 [Read original article](https://rogermas05.github.io/agent-recap/)
-
----
-
-## 19. Anthropic's falling IPO valuation raises stakes for broader AI trade
-
-**Author:** LebToki  
-**Published:** 11/8/2026, 12:30:10 AM  
-**Categories:** -  
-
-Article URL: https://2tinteractive.com/watch/episodes/5682/ Comments URL: https://news.ycombinator.com/item?id=50409414 Points: 5 # Comments: 0
-
-📖 [Read original article](https://2tinteractive.com/watch/episodes/5682/)
-
----
-
-## 20. Model Surgery: Can an AI directly edit and make another AI forget facts?
-
-**Author:** asasidh  
-**Published:** 11/8/2026, 12:12:29 AM  
-**Categories:** -  
-
-Article URL: https://deepgains.substack.com/p/model-surgery-can-an-ai-directly Comments URL: https://news.ycombinator.com/item?id=50409312 Points: 1 # Comments: 2
-
-📖 [Read original article](https://deepgains.substack.com/p/model-surgery-can-an-ai-directly)
 
 ---
