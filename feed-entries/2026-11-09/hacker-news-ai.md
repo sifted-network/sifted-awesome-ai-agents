@@ -2,239 +2,251 @@
 title: "Hacker News AI - 2026-11-09"
 date: "2026-11-09"
 source: "Hacker News AI"
-count: 19
+count: 20
 ---
 
 # Hacker News AI - 2026-11-09
 
-19 items collected.
+20 items collected.
 
 ---
 
-## 1. The Collision: What AI Does to Us
+## 1. AI Is Causing Signal Collapse Everywhere All at Once
 
-**Author:** ilamont  
-**Published:** 11/9/2026, 4:54:59 AM  
+**Author:** jphorism  
+**Published:** 11/9/2026, 2:48:06 PM  
 **Categories:** -  
 
-Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/collision-what-ai-does-to-us Comments URL: https://news.ycombinator.com/item?id=50421223 Points: 1 # Comments: 0
+Article URL: https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere Comments URL: https://news.ycombinator.com/item?id=50426392 Points: 3 # Comments: 0
 
-📖 [Read original article](https://mitsloan.mit.edu/ideas-made-to-matter/collision-what-ai-does-to-us)
+📖 [Read original article](https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere)
 
 ---
 
-## 2. I Resist Generative \"AI\"
+## 2. Show HN: Kiosk, a first-class AI assistants' intefrace to online services
 
-**Author:** isolay  
-**Published:** 11/9/2026, 4:11:56 AM  
+**Author:** pirj  
+**Published:** 11/9/2026, 2:42:01 PM  
 **Categories:** -  
 
-Article URL: https://estherweidauer.com/articles/why-resist-generative-ai.html Comments URL: https://news.ycombinator.com/item?id=50420983 Points: 3 # Comments: 1
+Hey, hackers!After failing to effectively order groceries at a local store with my Hermes assistant, I got an idea of making an all-inclusive interface to access online services.It's a sidecar to an online service backend, a bit more compared to "just exposing the API".Out of the box: discovery, reg...
 
-📖 [Read original article](https://estherweidauer.com/articles/why-resist-generative-ai.html)
+📖 [Read original article](https://kiosk.tech/)
 
 ---
 
-## 3. Official Wanting Data Centers on Public Lands Has >10M Invested in AI Industry
+## 3. Testing How AI Remasters Games by Remastering Eets (2006)
 
-**Author:** Jimmc414  
-**Published:** 11/9/2026, 3:31:35 AM  
+**Author:** popcar2  
+**Published:** 11/9/2026, 2:41:12 PM  
 **Categories:** -  
 
-Article URL: https://www.propublica.org/article/burgum-public-land-data-centers-investments Comments URL: https://news.ycombinator.com/item?id=50420710 Points: 2 # Comments: 0
+Article URL: https://popcar.bearblog.dev/testing-ai-by-remastering-eets/ Comments URL: https://news.ycombinator.com/item?id=50426298 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.propublica.org/article/burgum-public-land-data-centers-investments)
+📖 [Read original article](https://popcar.bearblog.dev/testing-ai-by-remastering-eets/)
 
 ---
 
-## 4. Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de
+## 4. AI stocks climb after trillions wiped from market values
 
-**Author:** Gseries00  
-**Published:** 11/9/2026, 3:30:04 AM  
+**Author:** levicanskij  
+**Published:** 11/9/2026, 2:35:01 PM  
 **Categories:** -  
 
-Hi HN Family, I am Chandan, and have built an AI intrviewer tool that assess the candidate based on real skills of engineering, like working on large codebase to fix, build, and enhance and many deployment type works too with the help of built in AI agent. Google had also introduced the same round f...
+Article URL: https://www.bbc.com/news/articles/c35ynnpzdq51o Comments URL: https://news.ycombinator.com/item?id=50426217 Points: 2 # Comments: 0
 
-📖 [Read original article](https://company.mindfries.com/login)
+📖 [Read original article](https://www.bbc.com/news/articles/c35ynnpzdq51o)
 
 ---
 
-## 5. Type in Any Task. Get the Best AI Model for It
+## 5. Show HN: TraderWAI – MCP server for AI agents to backtest/trade on your broker
 
-**Author:** robmay  
-**Published:** 11/9/2026, 3:20:39 AM  
+**Author:** leo_lmv  
+**Published:** 11/9/2026, 2:29:38 PM  
 **Categories:** -  
 
-Article URL: https://taskrouter.com/tasks Comments URL: https://news.ycombinator.com/item?id=50420635 Points: 2 # Comments: 0
+Article URL: https://github.com/leonardo-mazzitelli/traderwai-agent-recipes Comments URL: https://news.ycombinator.com/item?id=50426141 Points: 1 # Comments: 0
 
-📖 [Read original article](https://taskrouter.com/tasks)
+📖 [Read original article](https://github.com/leonardo-mazzitelli/traderwai-agent-recipes)
 
 ---
 
-## 6. Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code
+## 6. Ask HN: How do you evaluate the skills your AI agents use?
 
-**Author:** majorchord  
-**Published:** 11/9/2026, 3:06:55 AM  
+**Author:** enesalatas  
+**Published:** 11/9/2026, 2:24:22 PM  
 **Categories:** -  
 
-Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 10 # Comments: 7
+Do you systematically evaluate agent skills, either before or while using them? If so, what tools or methods do you use? Or do you mostly rely on reading the SKILL.md and trying things out? Comments URL: https://news.ycombinator.com/item?id=50426070 Points: 3 # Comments: 0
 
-📖 [Read original article](https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50426070)
 
 ---
 
-## 7. New Research Tests Whether AI Models Know Their Own Thoughts
+## 7. Aaronson-Ambainis Conjecture proved (By AI, of course)
 
-**Author:** brandonb  
-**Published:** 11/9/2026, 2:39:19 AM  
+**Author:** shortlived  
+**Published:** 11/9/2026, 2:14:51 PM  
 **Categories:** -  
 
-Article URL: https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/ Comments URL: https://news.ycombinator.com/item?id=50420330 Points: 2 # Comments: 0
+Article URL: https://scottaaronson.blog/?p=10295 Comments URL: https://news.ycombinator.com/item?id=50425945 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/)
+📖 [Read original article](https://scottaaronson.blog/?p=10295)
 
 ---
 
-## 8. AI-first browser test automation at $0.01 per step
+## 8. The Race to Build a \"Find My\" for AI Chips
 
-**Author:** gaurav_mah  
-**Published:** 11/9/2026, 1:59:19 AM  
+**Author:** oldnetguy  
+**Published:** 11/9/2026, 2:09:02 PM  
 **Categories:** -  
 
-Article URL: https://www.yourAItester.com Comments URL: https://news.ycombinator.com/item?id=50420040 Points: 1 # Comments: 0
+Article URL: https://spectrum.ieee.org/find-my-ai-chip Comments URL: https://news.ycombinator.com/item?id=50425847 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.yourAItester.com)
+📖 [Read original article](https://spectrum.ieee.org/find-my-ai-chip)
 
 ---
 
-## 9. Revolut Cut AI Costs 90% and Started Shipping Faster
+## 9. How to talk about \"AI\" without adding to the anthropomorphization
 
-**Author:** reval  
-**Published:** 11/9/2026, 1:56:17 AM  
+**Author:** ColinWright  
+**Published:** 11/9/2026, 1:47:28 PM  
 **Categories:** -  
 
-Article URL: https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models Comments URL: https://news.ycombinator.com/item?id=50420025 Points: 2 # Comments: 0
+Article URL: https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/ Comments URL: https://news.ycombinator.com/item?id=50425545 Points: 2 # Comments: 0
 
-📖 [Read original article](https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models)
+📖 [Read original article](https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/)
 
 ---
 
-## 10. Microsoft Workers Call for Accountable AI
+## 10. Show HN: Askaboard – A canvas your AI agent can draw on
 
-**Author:** pcvarmint  
-**Published:** 11/9/2026, 1:31:38 AM  
+**Author:** Mup_TIpekpaceH  
+**Published:** 11/9/2026, 1:43:21 PM  
 **Categories:** -  
 
-Article URL: https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS Comments URL: https://news.ycombinator.com/item?id=50419843 Points: 2 # Comments: 0
+Article URL: https://askaboard.com Comments URL: https://news.ycombinator.com/item?id=50425494 Points: 1 # Comments: 4
 
-📖 [Read original article](https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS)
+📖 [Read original article](https://askaboard.com)
 
 ---
 
-## 11. Staff at the US center for AI safety are reporting to the White House
+## 11. Human feedback guides AI approach that automates about 84% of decisions
 
-**Author:** sshah03  
-**Published:** 11/9/2026, 1:19:28 AM  
+**Author:** speckx  
+**Published:** 11/9/2026, 1:33:06 PM  
 **Categories:** -  
 
-Article URL: https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13 Comments URL: https://news.ycombinator.com/item?id=50419747 Points: 3 # Comments: 0
+Article URL: https://techxplore.com/news/2026-10-human-loop-feedback-ai-approach.html Comments URL: https://news.ycombinator.com/item?id=50425368 Points: 1 # Comments: 0
 
-📖 [Read original article](https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13)
+📖 [Read original article](https://techxplore.com/news/2026-10-human-loop-feedback-ai-approach.html)
 
 ---
 
-## 12. Show HN: Airlock – Policy-as-code for fleets of AI coding agents
+## 12. AI 'slop' is a social judgement
 
-**Author:** lovetocode  
-**Published:** 11/9/2026, 12:59:27 AM  
+**Author:** porteclefs  
+**Published:** 11/9/2026, 1:20:33 PM  
 **Categories:** -  
 
-My name is Matt and I am building Airlock. Airlock is going to be an open standard on managing autonomous fleets of engineering agents. I am seeking constructive feedback on the direction of this project and also asking what are your major pain points with managing AI use at larger businesses. Right...
+Article URL: https://www.nature.com/articles/s41562-026-02639-6 Comments URL: https://news.ycombinator.com/item?id=50425222 Points: 3 # Comments: 1
 
-📖 [Read original article](https://airlock.lunareng.com/docs)
+📖 [Read original article](https://www.nature.com/articles/s41562-026-02639-6)
 
 ---
 
-## 13. Learning Abstractions: The Next Frontier for AI
+## 13. LLM APIs ranked for teams building AI agents
 
-**Author:** jmugan  
-**Published:** 11/9/2026, 12:51:19 AM  
+**Author:** rcleffke  
+**Published:** 11/9/2026, 1:11:03 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/jmugan/status/2119593410268999700 Comments URL: https://news.ycombinator.com/item?id=50419555 Points: 1 # Comments: 0
+Article URL: https://rankings.leffke.com/categories/llm-apis Comments URL: https://news.ycombinator.com/item?id=50425116 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/jmugan/status/2119593410268999700)
+📖 [Read original article](https://rankings.leffke.com/categories/llm-apis)
 
 ---
 
-## 14. Show HN: Midgarth Quest. Browser-Playable Mmorpg Written by AI
+## 14. AI, Californians, 'translators': Vancouver council went off the rails this week
 
-**Author:** anacrolix  
-**Published:** 11/9/2026, 12:50:13 AM  
+**Author:** MelonArmiger  
+**Published:** 11/9/2026, 12:44:55 PM  
 **Categories:** -  
 
-Tolkien-flavoured MMORPG in the style of Tibia. Deep mechanics and lore. Quests, sprites, spells, multiple races. Written entirely by AI. Playable in the browser. Comments URL: https://news.ycombinator.com/item?id=50419542 Points: 3 # Comments: 0
+Article URL: https://vancouversun.com/opinion/columnists/ai-slop-californians-and-fivancouver-council-really-goes-off-the-rails Comments URL: https://news.ycombinator.com/item?id=50424827 Points: 2 # Comments: 0
 
-📖 [Read original article](https://midgarth.quest/)
+📖 [Read original article](https://vancouversun.com/opinion/columnists/ai-slop-californians-and-fivancouver-council-really-goes-off-the-rails)
 
 ---
 
-## 15. Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]
+## 15. Datacenters, Elon Musk, and AI are all on chopping block once Congress changes
 
-**Author:** prollings  
-**Published:** 11/9/2026, 12:43:39 AM  
+**Author:** Bender  
+**Published:** 11/9/2026, 12:32:21 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=4NExTWq_wvk Comments URL: https://news.ycombinator.com/item?id=50419487 Points: 2 # Comments: 0
+Article URL: https://www.theregister.com/legal/2026/11/09/datacenters-elon-musk-and-ai-are-all-on-the-chopping-block-once-congress-changes-hands-in-2027/5308250 Comments URL: https://news.ycombinator.com/item?id=50424720 Points: 6 # Comments: 3
 
-📖 [Read original article](https://www.youtube.com/watch?v=4NExTWq_wvk)
+📖 [Read original article](https://www.theregister.com/legal/2026/11/09/datacenters-elon-musk-and-ai-are-all-on-the-chopping-block-once-congress-changes-hands-in-2027/5308250)
 
 ---
 
-## 16. The Commanding Heights: Where AI will create wealth [pdf]
+## 16. AI Slop FM radio experiment puts machines on trial, one dodgy tune at a time
 
-**Author:** CharlesW  
-**Published:** 11/9/2026, 12:41:06 AM  
+**Author:** Bender  
+**Published:** 11/9/2026, 12:31:47 PM  
 **Categories:** -  
 
-Article URL: https://commanding-heights.com/commanding-heights.pdf Comments URL: https://news.ycombinator.com/item?id=50419463 Points: 2 # Comments: 0
+Article URL: https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161 Comments URL: https://news.ycombinator.com/item?id=50424714 Points: 1 # Comments: 0
 
-📖 [Read original article](https://commanding-heights.com/commanding-heights.pdf)
+📖 [Read original article](https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161)
 
 ---
 
-## 17. Open Source AI Research Collaboration Platform
+## 17. Linus Torvalds sees signs AI-prompted patch flood has peaked
 
-**Author:** stationhouse  
-**Published:** 11/9/2026, 12:24:27 AM  
+**Author:** Bender  
+**Published:** 11/9/2026, 12:31:06 PM  
 **Categories:** -  
 
-Article URL: https://station-house.net/ Comments URL: https://news.ycombinator.com/item?id=50419343 Points: 1 # Comments: 1
+Article URL: https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345 Comments URL: https://news.ycombinator.com/item?id=50424707 Points: 1 # Comments: 0
 
-📖 [Read original article](https://station-house.net/)
+📖 [Read original article](https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345)
 
 ---
 
-## 18. I am building Threadz. Human first AI writing app
+## 18. Consider the Agent: Pity, persuasion and selection in an emerging AI ecology
 
-**Author:** shoebilyas_hanz  
-**Published:** 11/9/2026, 12:20:12 AM  
+**Author:** gHeadphone  
+**Published:** 11/9/2026, 12:25:34 PM  
 **Categories:** -  
 
-https://threadz.appI am building Threadz. This is for the bloggers, students and anyone who writes.Your thoughts and learnings go in first and the AI reviews your notes for any factual errors and misleading statements. This is what Threadz is in a nutshell.Source code will be open sourced very soon ...
+Article URL: https://institute.deepmind.com/essays/consider-the-agent/ Comments URL: https://news.ycombinator.com/item?id=50424649 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50419308)
+📖 [Read original article](https://institute.deepmind.com/essays/consider-the-agent/)
 
 ---
 
-## 19. Ask HN: What do you use to get the latest technical AI news?
+## 19. Ernie Evolve: automated research system for improving AI training and inference
 
-**Author:** tini-giang  
-**Published:** 11/9/2026, 12:15:18 AM  
+**Author:** pretext  
+**Published:** 11/9/2026, 12:24:15 PM  
 **Categories:** -  
 
-It can be newsletters, channels, news articles, etc. I've been watching AI Search on YouTube which posts weekly updates, but I'm curious about others. Comments URL: https://news.ycombinator.com/item?id=50419260 Points: 1 # Comments: 1
+Article URL: https://ernie.baidu.com/research/posts/ernie-evolve/ Comments URL: https://news.ycombinator.com/item?id=50424638 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50419260)
+📖 [Read original article](https://ernie.baidu.com/research/posts/ernie-evolve/)
+
+---
+
+## 20. AI Shodo Arena
+
+**Author:** numpad0  
+**Published:** 11/9/2026, 12:10:44 PM  
+**Categories:** -  
+
+Article URL: https://aishodo.enpitsu.org/works/shinra-bansho--deepseek-v4-1-flash?lang=en Comments URL: https://news.ycombinator.com/item?id=50424516 Points: 1 # Comments: 1
+
+📖 [Read original article](https://aishodo.enpitsu.org/works/shinra-bansho--deepseek-v4-1-flash?lang=en)
 
 ---
