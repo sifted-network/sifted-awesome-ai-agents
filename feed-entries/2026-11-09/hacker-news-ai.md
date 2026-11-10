@@ -2,251 +2,203 @@
 title: "Hacker News AI - 2026-11-09"
 date: "2026-11-09"
 source: "Hacker News AI"
-count: 20
+count: 16
 ---
 
 # Hacker News AI - 2026-11-09
 
-20 items collected.
+16 items collected.
 
 ---
 
-## 1. AI Is Causing Signal Collapse Everywhere All at Once
+## 1. The New York Times Doesn't Understand AI's Role in Suppressing Wages
 
-**Author:** jphorism  
-**Published:** 11/9/2026, 2:48:06 PM  
+**Author:** NordStreamYacht  
+**Published:** 11/9/2026, 11:44:04 PM  
 **Categories:** -  
 
-Article URL: https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere Comments URL: https://news.ycombinator.com/item?id=50426392 Points: 3 # Comments: 0
+Article URL: https://gizmodo.com/the-new-york-times-doesnt-understand-ais-role-in-suppressing-wages-2000836392 Comments URL: https://news.ycombinator.com/item?id=50434011 Points: 3 # Comments: 2
 
-📖 [Read original article](https://thelastsoftwareengineer.substack.com/p/ai-is-causing-signal-collapse-everywhere)
+📖 [Read original article](https://gizmodo.com/the-new-york-times-doesnt-understand-ais-role-in-suppressing-wages-2000836392)
 
 ---
 
-## 2. Show HN: Kiosk, a first-class AI assistants' intefrace to online services
+## 2. A teen used her school Chromebook and Google AI Mode to plan her suicide
 
-**Author:** pirj  
-**Published:** 11/9/2026, 2:42:01 PM  
+**Author:** Topfi  
+**Published:** 11/9/2026, 11:40:49 PM  
 **Categories:** -  
 
-Hey, hackers!After failing to effectively order groceries at a local store with my Hermes assistant, I got an idea of making an all-inclusive interface to access online services.It's a sidecar to an online service backend, a bit more compared to "just exposing the API".Out of the box: discovery, reg...
+Article URL: https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide Comments URL: https://news.ycombinator.com/item?id=50433977 Points: 3 # Comments: 0
 
-📖 [Read original article](https://kiosk.tech/)
+📖 [Read original article](https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide)
 
 ---
 
-## 3. Testing How AI Remasters Games by Remastering Eets (2006)
+## 3. JoesProxy – The free network workbench for your AI agent
 
-**Author:** popcar2  
-**Published:** 11/9/2026, 2:41:12 PM  
+**Author:** SerialForBreakf  
+**Published:** 11/9/2026, 11:39:03 PM  
 **Categories:** -  
 
-Article URL: https://popcar.bearblog.dev/testing-ai-by-remastering-eets/ Comments URL: https://news.ycombinator.com/item?id=50426298 Points: 2 # Comments: 0
+Article URL: https://www.joesproxy.com/ Comments URL: https://news.ycombinator.com/item?id=50433956 Points: 2 # Comments: 0
 
-📖 [Read original article](https://popcar.bearblog.dev/testing-ai-by-remastering-eets/)
+📖 [Read original article](https://www.joesproxy.com/)
 
 ---
 
-## 4. AI stocks climb after trillions wiped from market values
+## 4. Why Is AI Slop So Frustrating to Read?
 
-**Author:** levicanskij  
-**Published:** 11/9/2026, 2:35:01 PM  
+**Author:** joegibbs  
+**Published:** 11/9/2026, 11:21:45 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/c35ynnpzdq51o Comments URL: https://news.ycombinator.com/item?id=50426217 Points: 2 # Comments: 0
+Article URL: https://zonderlabs.com/slop Comments URL: https://news.ycombinator.com/item?id=50433799 Points: 10 # Comments: 3
 
-📖 [Read original article](https://www.bbc.com/news/articles/c35ynnpzdq51o)
+📖 [Read original article](https://zonderlabs.com/slop)
 
 ---
 
-## 5. Show HN: TraderWAI – MCP server for AI agents to backtest/trade on your broker
+## 5. Building a full ASIC chip (no AI)
 
-**Author:** leo_lmv  
-**Published:** 11/9/2026, 2:29:38 PM  
+**Author:** random__duck  
+**Published:** 11/9/2026, 11:10:44 PM  
 **Categories:** -  
 
-Article URL: https://github.com/leonardo-mazzitelli/traderwai-agent-recipes Comments URL: https://news.ycombinator.com/item?id=50426141 Points: 1 # Comments: 0
+Article URL: https://essenceia.github.io/projects/expresso/ Comments URL: https://news.ycombinator.com/item?id=50433682 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/leonardo-mazzitelli/traderwai-agent-recipes)
+📖 [Read original article](https://essenceia.github.io/projects/expresso/)
 
 ---
 
-## 6. Ask HN: How do you evaluate the skills your AI agents use?
+## 6. Show HN: Live counts of AI assistants reading a diaspora business directory
 
-**Author:** enesalatas  
-**Published:** 11/9/2026, 2:24:22 PM  
+**Author:** NiBiashara  
+**Published:** 11/9/2026, 11:10:11 PM  
 **Categories:** -  
 
-Do you systematically evaluate agent skills, either before or while using them? If so, what tools or methods do you use? Or do you mostly rely on reading the SKILL.md and trying things out? Comments URL: https://news.ycombinator.com/item?id=50426070 Points: 3 # Comments: 0
+Article URL: https://nibiashara.com/agent-index Comments URL: https://news.ycombinator.com/item?id=50433678 Points: 3 # Comments: 1
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50426070)
+📖 [Read original article](https://nibiashara.com/agent-index)
 
 ---
 
-## 7. Aaronson-Ambainis Conjecture proved (By AI, of course)
+## 7. AI Bubble Tracker
 
-**Author:** shortlived  
-**Published:** 11/9/2026, 2:14:51 PM  
+**Author:** janoelze  
+**Published:** 11/9/2026, 11:09:15 PM  
 **Categories:** -  
 
-Article URL: https://scottaaronson.blog/?p=10295 Comments URL: https://news.ycombinator.com/item?id=50425945 Points: 1 # Comments: 0
+Article URL: https://endtime-instruments.org/ai-bubble-tracker/ Comments URL: https://news.ycombinator.com/item?id=50433669 Points: 2 # Comments: 0
 
-📖 [Read original article](https://scottaaronson.blog/?p=10295)
+📖 [Read original article](https://endtime-instruments.org/ai-bubble-tracker/)
 
 ---
 
-## 8. The Race to Build a \"Find My\" for AI Chips
+## 8. Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity
 
-**Author:** oldnetguy  
-**Published:** 11/9/2026, 2:09:02 PM  
+**Author:** JumpCrisscross  
+**Published:** 11/9/2026, 11:03:43 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/find-my-ai-chip Comments URL: https://news.ycombinator.com/item?id=50425847 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity Comments URL: https://news.ycombinator.com/item?id=50433601 Points: 1 # Comments: 0
 
-📖 [Read original article](https://spectrum.ieee.org/find-my-ai-chip)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity)
 
 ---
 
-## 9. How to talk about \"AI\" without adding to the anthropomorphization
+## 9. A year after the 100% AI mandate nobody understands our code
 
-**Author:** ColinWright  
-**Published:** 11/9/2026, 1:47:28 PM  
+**Author:** thelifeline  
+**Published:** 11/9/2026, 10:19:12 PM  
 **Categories:** -  
 
-Article URL: https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/ Comments URL: https://news.ycombinator.com/item?id=50425545 Points: 2 # Comments: 0
+https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 98 # Comments: 109
 
-📖 [Read original article](https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/)
+📖 [Read original article](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
 
 ---
 
-## 10. Show HN: Askaboard – A canvas your AI agent can draw on
+## 10. AI labs raise prices without raising prices
 
-**Author:** Mup_TIpekpaceH  
-**Published:** 11/9/2026, 1:43:21 PM  
+**Author:** ianberdin  
+**Published:** 11/9/2026, 10:15:58 PM  
 **Categories:** -  
 
-Article URL: https://askaboard.com Comments URL: https://news.ycombinator.com/item?id=50425494 Points: 1 # Comments: 4
+Article URL: https://playcode.io/blog/ai-labs-raise-prices-without-raising-prices Comments URL: https://news.ycombinator.com/item?id=50433048 Points: 2 # Comments: 3
 
-📖 [Read original article](https://askaboard.com)
+📖 [Read original article](https://playcode.io/blog/ai-labs-raise-prices-without-raising-prices)
 
 ---
 
-## 11. Human feedback guides AI approach that automates about 84% of decisions
+## 11. I use 11.35B AI tokens a month. How many do you use?
 
-**Author:** speckx  
-**Published:** 11/9/2026, 1:33:06 PM  
+**Author:** agusdiazcano  
+**Published:** 11/9/2026, 10:12:23 PM  
 **Categories:** -  
 
-Article URL: https://techxplore.com/news/2026-10-human-loop-feedback-ai-approach.html Comments URL: https://news.ycombinator.com/item?id=50425368 Points: 1 # Comments: 0
+Article URL: https://jellyfish.co/blog/is-tokenmaxxing-cost-effective-new-data-from-jellyfish-explains/ Comments URL: https://news.ycombinator.com/item?id=50433002 Points: 3 # Comments: 0
 
-📖 [Read original article](https://techxplore.com/news/2026-10-human-loop-feedback-ai-approach.html)
+📖 [Read original article](https://jellyfish.co/blog/is-tokenmaxxing-cost-effective-new-data-from-jellyfish-explains/)
 
 ---
 
-## 12. AI 'slop' is a social judgement
+## 12. USB: A trust layer for AI skills and MCP servers
 
-**Author:** porteclefs  
-**Published:** 11/9/2026, 1:20:33 PM  
+**Author:** peepsick  
+**Published:** 11/9/2026, 9:42:46 PM  
 **Categories:** -  
 
-Article URL: https://www.nature.com/articles/s41562-026-02639-6 Comments URL: https://news.ycombinator.com/item?id=50425222 Points: 3 # Comments: 1
+Article URL: https://github.com/PeepSick/usbplus Comments URL: https://news.ycombinator.com/item?id=50432661 Points: 4 # Comments: 1
 
-📖 [Read original article](https://www.nature.com/articles/s41562-026-02639-6)
+📖 [Read original article](https://github.com/PeepSick/usbplus)
 
 ---
 
-## 13. LLM APIs ranked for teams building AI agents
+## 13. Show HN: Emma, a real-time AI video persona from Nuance Labs
 
-**Author:** rcleffke  
-**Published:** 11/9/2026, 1:11:03 PM  
+**Author:** cvanea  
+**Published:** 11/9/2026, 9:38:00 PM  
 **Categories:** -  
 
-Article URL: https://rankings.leffke.com/categories/llm-apis Comments URL: https://news.ycombinator.com/item?id=50425116 Points: 1 # Comments: 0
+Hi HN! I'm Claudia, first employee and founding researcher at Nuance Labs. We're a research startup based in Seattle and have just released what we've been working on for the past 18 months.Emma, a conversational audio-visual AI that you can have a video call with in real time. It might be a little ...
 
-📖 [Read original article](https://rankings.leffke.com/categories/llm-apis)
+📖 [Read original article](https://app.nuancelabs.ai/try)
 
 ---
 
-## 14. AI, Californians, 'translators': Vancouver council went off the rails this week
+## 14. Indie Game Development with AI
 
-**Author:** MelonArmiger  
-**Published:** 11/9/2026, 12:44:55 PM  
+**Author:** sandromaglione  
+**Published:** 11/9/2026, 9:33:55 PM  
 **Categories:** -  
 
-Article URL: https://vancouversun.com/opinion/columnists/ai-slop-californians-and-fivancouver-council-really-goes-off-the-rails Comments URL: https://news.ycombinator.com/item?id=50424827 Points: 2 # Comments: 0
+Article URL: https://www.sandromaglione.com/articles/indie-game-development-with-ai Comments URL: https://news.ycombinator.com/item?id=50432523 Points: 9 # Comments: 1
 
-📖 [Read original article](https://vancouversun.com/opinion/columnists/ai-slop-californians-and-fivancouver-council-really-goes-off-the-rails)
+📖 [Read original article](https://www.sandromaglione.com/articles/indie-game-development-with-ai)
 
 ---
 
-## 15. Datacenters, Elon Musk, and AI are all on chopping block once Congress changes
+## 15. AI chip financing hits a wall
 
-**Author:** Bender  
-**Published:** 11/9/2026, 12:32:21 PM  
+**Author:** nobody9999  
+**Published:** 11/9/2026, 9:33:45 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/legal/2026/11/09/datacenters-elon-musk-and-ai-are-all-on-the-chopping-block-once-congress-changes-hands-in-2027/5308250 Comments URL: https://news.ycombinator.com/item?id=50424720 Points: 6 # Comments: 3
+Article URL: https://www.semafor.com/article/11/09/2026/ai-chip-financing-hits-a-wall Comments URL: https://news.ycombinator.com/item?id=50432517 Points: 6 # Comments: 1
 
-📖 [Read original article](https://www.theregister.com/legal/2026/11/09/datacenters-elon-musk-and-ai-are-all-on-the-chopping-block-once-congress-changes-hands-in-2027/5308250)
+📖 [Read original article](https://www.semafor.com/article/11/09/2026/ai-chip-financing-hits-a-wall)
 
 ---
 
-## 16. AI Slop FM radio experiment puts machines on trial, one dodgy tune at a time
+## 16. Fireworks AI Hacked
 
-**Author:** Bender  
-**Published:** 11/9/2026, 12:31:47 PM  
+**Author:** aeetes  
+**Published:** 11/9/2026, 9:26:09 PM  
 **Categories:** -  
 
-Article URL: https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161 Comments URL: https://news.ycombinator.com/item?id=50424714 Points: 1 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-11-09/nvidia-backed-fireworks-ai-notifies-customers-of-its-second-hack-in-weeks Comments URL: https://news.ycombinator.com/item?id=50432415 Points: 9 # Comments: 2
 
-📖 [Read original article](https://www.theregister.com/offbeat/2026/11/09/ai-slop-fm-radio-experiment-puts-machines-on-trial-one-dodgy-tune-at-a-time/5308161)
-
----
-
-## 17. Linus Torvalds sees signs AI-prompted patch flood has peaked
-
-**Author:** Bender  
-**Published:** 11/9/2026, 12:31:06 PM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345 Comments URL: https://news.ycombinator.com/item?id=50424707 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345)
-
----
-
-## 18. Consider the Agent: Pity, persuasion and selection in an emerging AI ecology
-
-**Author:** gHeadphone  
-**Published:** 11/9/2026, 12:25:34 PM  
-**Categories:** -  
-
-Article URL: https://institute.deepmind.com/essays/consider-the-agent/ Comments URL: https://news.ycombinator.com/item?id=50424649 Points: 2 # Comments: 0
-
-📖 [Read original article](https://institute.deepmind.com/essays/consider-the-agent/)
-
----
-
-## 19. Ernie Evolve: automated research system for improving AI training and inference
-
-**Author:** pretext  
-**Published:** 11/9/2026, 12:24:15 PM  
-**Categories:** -  
-
-Article URL: https://ernie.baidu.com/research/posts/ernie-evolve/ Comments URL: https://news.ycombinator.com/item?id=50424638 Points: 1 # Comments: 0
-
-📖 [Read original article](https://ernie.baidu.com/research/posts/ernie-evolve/)
-
----
-
-## 20. AI Shodo Arena
-
-**Author:** numpad0  
-**Published:** 11/9/2026, 12:10:44 PM  
-**Categories:** -  
-
-Article URL: https://aishodo.enpitsu.org/works/shinra-bansho--deepseek-v4-1-flash?lang=en Comments URL: https://news.ycombinator.com/item?id=50424516 Points: 1 # Comments: 1
-
-📖 [Read original article](https://aishodo.enpitsu.org/works/shinra-bansho--deepseek-v4-1-flash?lang=en)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-11-09/nvidia-backed-fireworks-ai-notifies-customers-of-its-second-hack-in-weeks)
 
 ---
