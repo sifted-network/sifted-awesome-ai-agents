@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Designing human and generative AI collaboration
+## 1. Show HN: SketchUp compatible modeler with AI capabilities
 
-**Author:** geox  
-**Published:** 11/10/2026, 2:28:06 PM  
+**Author:** steve918  
+**Published:** 11/10/2026, 10:09:53 PM  
 **Categories:** -  
 
-Article URL: https://academic.oup.com/pnasnexus/article/5/11/pgag353/9025436 Comments URL: https://news.ycombinator.com/item?id=50440883 Points: 1 # Comments: 0
+Try framing out a house, generating kitchen cabinets, or even populating an entire kitchen. Comments URL: https://news.ycombinator.com/item?id=50446986 Points: 2 # Comments: 0
 
-📖 [Read original article](https://academic.oup.com/pnasnexus/article/5/11/pgag353/9025436)
+📖 [Read original article](https://pushform.io/)
 
 ---
 
-## 2. Perplexity launches its own take on AI agents for work
+## 2. The humans are coming for AI's jobs
 
-**Author:** DGAP  
-**Published:** 11/10/2026, 2:14:30 PM  
+**Author:** aditya1rathore  
+**Published:** 11/10/2026, 10:02:53 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work Comments URL: https://news.ycombinator.com/item?id=50440684 Points: 1 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=EMSQtqUIlXY Comments URL: https://news.ycombinator.com/item?id=50446919 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)
+📖 [Read original article](https://www.youtube.com/watch?v=EMSQtqUIlXY)
 
 ---
 
-## 3. Wake me up when AI can...
+## 3. UK government AI strategy not tied to US models that currently dominate
 
-**Author:** signa11  
-**Published:** 11/10/2026, 2:11:54 PM  
+**Author:** latein  
+**Published:** 11/10/2026, 9:38:41 PM  
 **Categories:** -  
 
-Article URL: https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html Comments URL: https://news.ycombinator.com/item?id=50440657 Points: 3 # Comments: 0
+Article URL: https://www.computerweekly.com/news/366654593/UK-government-AI-strategy-not-tied-to-US-models-that-currently-dominate Comments URL: https://news.ycombinator.com/item?id=50446671 Points: 2 # Comments: 0
 
-📖 [Read original article](https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html)
+📖 [Read original article](https://www.computerweekly.com/news/366654593/UK-government-AI-strategy-not-tied-to-US-models-that-currently-dominate)
 
 ---
 
-## 4. We checked 312 AI-built apps: how ready are they to launch?
+## 4. AgentGuard – Transaction guardrails for AI agents that hold wallets
 
-**Author:** mantasn  
-**Published:** 11/10/2026, 2:06:06 PM  
+**Author:** motwanir  
+**Published:** 11/10/2026, 9:37:21 PM  
 **Categories:** -  
 
-Article URL: https://launchpal.app/guides/vibe-coded-app-statistics Comments URL: https://news.ycombinator.com/item?id=50440586 Points: 2 # Comments: 0
+Article URL: https://github.com/Radmo3/agentguard Comments URL: https://news.ycombinator.com/item?id=50446660 Points: 1 # Comments: 0
 
-📖 [Read original article](https://launchpal.app/guides/vibe-coded-app-statistics)
+📖 [Read original article](https://github.com/Radmo3/agentguard)
 
 ---
 
-## 5. Show HN: ChatCairn, a local, searchable library of your AI chats
+## 5. Show HN: CodeLens AI-Augmented Code Review Tool
 
-**Author:** lgday  
-**Published:** 11/10/2026, 2:05:42 PM  
+**Author:** brianlong0923  
+**Published:** 11/10/2026, 9:36:32 PM  
 **Categories:** -  
 
-Article URL: https://lgdventures.github.io/chatcairn/ Comments URL: https://news.ycombinator.com/item?id=50440581 Points: 1 # Comments: 0
+As AI writes more code, the bottleneck has become human-driven code reviews. Code Lens serves to aid that task by augmenting the review outside of line-level AI feedback. Check it out and let me know what you think. Thanks.Try it on a public PR: npx @blong8334/codelens pr https://github.com/expressj...
 
-📖 [Read original article](https://lgdventures.github.io/chatcairn/)
+📖 [Read original article](https://github.com/blong8334/codeLens)
 
 ---
 
-## 6. Show HN: Padwan AI, an LLM Client for Python with HTTP/2 and HTTP/3
+## 6. Show HN: AI agents that barter your stuff for things you want
 
-**Author:** Orelus  
-**Published:** 11/10/2026, 2:05:12 PM  
+**Author:** Llex44  
+**Published:** 11/10/2026, 9:36:17 PM  
 **Categories:** -  
 
-Article URL: https://polarsen-io.github.io/padwan-ai/ Comments URL: https://news.ycombinator.com/item?id=50440576 Points: 2 # Comments: 0
+Article URL: https://barterpilot.com/ Comments URL: https://news.ycombinator.com/item?id=50446649 Points: 2 # Comments: 0
 
-📖 [Read original article](https://polarsen-io.github.io/padwan-ai/)
+📖 [Read original article](https://barterpilot.com/)
 
 ---
 
-## 7. Almanzor – Ask AI and an MCP server for your docs, with cited answers
+## 7. The US is winning the AI race. Jensen Huang could have blown it
 
-**Author:** victorelexpe  
-**Published:** 11/10/2026, 2:02:44 PM  
+**Author:** cdrnsf  
+**Published:** 11/10/2026, 9:31:30 PM  
 **Categories:** -  
 
-Article URL: https://almanzor.cloud Comments URL: https://news.ycombinator.com/item?id=50440536 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy Comments URL: https://news.ycombinator.com/item?id=50446591 Points: 3 # Comments: 0
 
-📖 [Read original article](https://almanzor.cloud)
+📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy)
 
 ---
 
-## 8. Is AI code rotting open source? 450 repos, 12 months
+## 8. Show HN: Notebook AI – local-first meeting notes for Mac
 
-**Author:** coderot_ai  
-**Published:** 11/10/2026, 1:56:43 PM  
+**Author:** sridharchaildn  
+**Published:** 11/10/2026, 9:31:17 PM  
 **Categories:** -  
 
-Article URL: https://coderot.ai/blog/ai-code-rot-in-open-source Comments URL: https://news.ycombinator.com/item?id=50440431 Points: 1 # Comments: 0
+Article URL: https://github.com/sridharchaildn/notebook-ai Comments URL: https://news.ycombinator.com/item?id=50446588 Points: 1 # Comments: 0
 
-📖 [Read original article](https://coderot.ai/blog/ai-code-rot-in-open-source)
+📖 [Read original article](https://github.com/sridharchaildn/notebook-ai)
 
 ---
 
-## 9. Open-Source 2026 AI Cloud GPU and Scraping Proxy Pool Cost Calculator
+## 9. Apple has new Mac app coming to make running local AI models easy
 
-**Author:** Alekseev0405198  
-**Published:** 11/10/2026, 1:54:24 PM  
+**Author:** linolevan  
+**Published:** 11/10/2026, 9:25:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/alekseev04051988-blip/ai-cost-calculator Comments URL: https://news.ycombinator.com/item?id=50440395 Points: 1 # Comments: 0
+Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 49 # Comments: 15
 
-📖 [Read original article](https://github.com/alekseev04051988-blip/ai-cost-calculator)
+📖 [Read original article](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
 
 ---
 
-## 10. Sydney researchers uncover a hidden limit to AI predictability
+## 10. JetBrains back to square one on no-AI IDE installs
 
-**Author:** wjSgoWPm5bWAhXB  
-**Published:** 11/10/2026, 1:34:54 PM  
+**Author:** rabidheuristics  
+**Published:** 11/10/2026, 9:22:39 PM  
 **Categories:** -  
 
-Article URL: https://www.sydney.edu.au/news-opinion/news/2026/11/06/sydney-researchers-uncover-a-hidden-limit-to-ai-predictability.html Comments URL: https://news.ycombinator.com/item?id=50440108 Points: 3 # Comments: 0
+Article URL: https://youtrack.jetbrains.com/issue/IJAI-3469 Comments URL: https://news.ycombinator.com/item?id=50446487 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.sydney.edu.au/news-opinion/news/2026/11/06/sydney-researchers-uncover-a-hidden-limit-to-ai-predictability.html)
+📖 [Read original article](https://youtrack.jetbrains.com/issue/IJAI-3469)
 
 ---
 
-## 11. Show HN: pvewarden – let an AI agent patch Proxmox VMs without giving it a shell
+## 11. Show HN: Aisync, advisory file claims so two AI agents don't edit one repo
 
-**Author:** mattyhunter  
-**Published:** 11/10/2026, 1:33:23 PM  
+**Author:** MaxTigerYoung  
+**Published:** 11/10/2026, 9:13:03 PM  
 **Categories:** -  
 
-Article URL: https://github.com/matousfiser/pvewarden Comments URL: https://news.ycombinator.com/item?id=50440083 Points: 1 # Comments: 0
+Article URL: https://github.com/MaxonT/aisync Comments URL: https://news.ycombinator.com/item?id=50446378 Points: 3 # Comments: 0
 
-📖 [Read original article](https://github.com/matousfiser/pvewarden)
+📖 [Read original article](https://github.com/MaxonT/aisync)
 
 ---
 
-## 12. Show HN: TeamOnly, free hosting for AI-built apps behind your company login
+## 12. My AI Agents Found an Unmapped Maya Site
 
-**Author:** xoail  
-**Published:** 11/10/2026, 1:32:11 PM  
+**Author:** pvitz  
+**Published:** 11/10/2026, 9:04:58 PM  
 **Categories:** -  
 
-Article URL: https://teamonly.dev/ Comments URL: https://news.ycombinator.com/item?id=50440055 Points: 2 # Comments: 1
+Article URL: https://pietromiotti.com/latest/maya-site/ Comments URL: https://news.ycombinator.com/item?id=50446316 Points: 3 # Comments: 0
 
-📖 [Read original article](https://teamonly.dev/)
+📖 [Read original article](https://pietromiotti.com/latest/maya-site/)
 
 ---
 
-## 13. Memory and RAG tools for AI agents, scored
+## 13. An AI agent said the code was verified. The evidence said otherwise
 
-**Author:** rcleffke  
-**Published:** 11/10/2026, 1:08:18 PM  
+**Author:** BrianWoods  
+**Published:** 11/10/2026, 9:04:47 PM  
 **Categories:** -  
 
-Article URL: https://rankings.leffke.com/categories/memory-rag Comments URL: https://news.ycombinator.com/item?id=50439788 Points: 1 # Comments: 0
+Article URL: https://brian.biz/blog/ai-agents-verify/ Comments URL: https://news.ycombinator.com/item?id=50446314 Points: 1 # Comments: 2
 
-📖 [Read original article](https://rankings.leffke.com/categories/memory-rag)
+📖 [Read original article](https://brian.biz/blog/ai-agents-verify/)
 
 ---
 
-## 14. A Read-Only AI Reviewer for Forgejo Pull Requests
+## 14. Ask HN: How do you care about a project that is predominately generated by AI?
 
-**Author:** meysamazad  
-**Published:** 11/10/2026, 12:58:11 PM  
+**Author:** zkxjzmswkwl1  
+**Published:** 11/10/2026, 9:04:13 PM  
 **Categories:** -  
 
-Article URL: https://blog.hofstede.it/a-read-only-ai-reviewer-for-forgejo-pull-requests/ Comments URL: https://news.ycombinator.com/item?id=50439697 Points: 1 # Comments: 0
+Title. Comments URL: https://news.ycombinator.com/item?id=50446309 Points: 1 # Comments: 2
 
-📖 [Read original article](https://blog.hofstede.it/a-read-only-ai-reviewer-for-forgejo-pull-requests/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50446309)
 
 ---
 
-## 15. AI Users have workdays up to 90 min longer than non-users
+## 15. In open-weight AI, America is the one playing catch-up
 
-**Author:** gosen  
-**Published:** 11/10/2026, 12:57:24 PM  
+**Author:** kevin_hu  
+**Published:** 11/10/2026, 8:53:09 PM  
 **Categories:** -  
 
-Article URL: https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/ Comments URL: https://news.ycombinator.com/item?id=50439686 Points: 2 # Comments: 1
+Article URL: https://village.dev/blog/in-open-weight-ai-america-is-the-one-playing-catch-up/ Comments URL: https://news.ycombinator.com/item?id=50446179 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/)
+📖 [Read original article](https://village.dev/blog/in-open-weight-ai-america-is-the-one-playing-catch-up/)
 
 ---
 
-## 16. AI Is Looking More and More Like a Normal Technology
+## 16. Tim O'Reilly – The New Knowledge Artifacts of the AI Economy
 
-**Author:** lordleft  
-**Published:** 11/10/2026, 12:52:51 PM  
+**Author:** rmason  
+**Published:** 11/10/2026, 8:52:23 PM  
 **Categories:** -  
 
-Article URL: https://www.richardhanania.com/p/ai-is-looking-more-and-more-like Comments URL: https://news.ycombinator.com/item?id=50439638 Points: 4 # Comments: 3
+Article URL: https://oreillyradar.substack.com/p/the-new-knowledge-artifacts-of-the Comments URL: https://news.ycombinator.com/item?id=50446163 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.richardhanania.com/p/ai-is-looking-more-and-more-like)
+📖 [Read original article](https://oreillyradar.substack.com/p/the-new-knowledge-artifacts-of-the)
 
 ---
 
-## 17. Quantinuum and Riken Expand Quantum-AI Supercomputing Partnership
+## 17. ZCode review: Z.ai's GLM-5.3 coding agent on a real project
 
-**Author:** rbanffy  
-**Published:** 11/10/2026, 12:47:01 PM  
+**Author:** gmays  
+**Published:** 11/10/2026, 8:22:57 PM  
 **Categories:** -  
 
-Article URL: https://www.hpcwire.com/off-the-wire/quantinuum-and-riken-expand-quantum-ai-supercomputing-partnership/ Comments URL: https://news.ycombinator.com/item?id=50439593 Points: 1 # Comments: 0
+Article URL: https://flaviocopes.com/zcode/ Comments URL: https://news.ycombinator.com/item?id=50445787 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.hpcwire.com/off-the-wire/quantinuum-and-riken-expand-quantum-ai-supercomputing-partnership/)
+📖 [Read original article](https://flaviocopes.com/zcode/)
 
 ---
 
-## 18. Show HN: AI Vision Index, private tests of how well 36 AI models see
+## 18. Show HN: Zeus – Claude Code for AI voice agents
 
-**Author:** LLD  
-**Published:** 11/10/2026, 12:46:55 PM  
+**Author:** kolchinski  
+**Published:** 11/10/2026, 8:20:03 PM  
 **Categories:** -  
 
-I wanted to know for my work which model is best at vision tasks (using both llms like claude and smaller models like YOLO - smaller specialist models are still not finished testing). I found that none of the public benchmarks were reliable: datasets were available (so they could have been used for ...
+Article URL: https://thunderphone.com/blog/introducing-zeus Comments URL: https://news.ycombinator.com/item?id=50445758 Points: 2 # Comments: 0
 
-📖 [Read original article](https://aivisionindex.com/)
+📖 [Read original article](https://thunderphone.com/blog/introducing-zeus)
 
 ---
 
-## 19. Behind AI's Flywheel Powering Materials Discovery at Sandia Labs
+## 19. Ring's new AI drone camera for your home
 
-**Author:** rbanffy  
-**Published:** 11/10/2026, 12:42:33 PM  
+**Author:** atlasunshrugged  
+**Published:** 11/10/2026, 8:00:42 PM  
 **Categories:** -  
 
-Article URL: https://www.hpcwire.com/2026/11/09/behind-radical-ais-flywheel-powering-materials-discovery-at-sandia-labs/ Comments URL: https://news.ycombinator.com/item?id=50439538 Points: 1 # Comments: 0
+Article URL: https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot Comments URL: https://news.ycombinator.com/item?id=50445509 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.hpcwire.com/2026/11/09/behind-radical-ais-flywheel-powering-materials-discovery-at-sandia-labs/)
+📖 [Read original article](https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot)
 
 ---
 
-## 20. Ask HN: How do you keep secrets out of your AI agents' context?
+## 20. Anthropic says a key AI safety alarm has been triggered, days before its IPO
 
-**Author:** timbowhite  
-**Published:** 11/10/2026, 12:30:10 PM  
+**Author:** toomanyrichies  
+**Published:** 11/10/2026, 7:58:26 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=50439393 Points: 1 # Comments: 3
+Article URL: https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html Comments URL: https://news.ycombinator.com/item?id=50445483 Points: 5 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50439393)
+📖 [Read original article](https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html)
 
 ---
