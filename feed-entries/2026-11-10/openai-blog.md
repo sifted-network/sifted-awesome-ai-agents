@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-11-10"
 date: "2026-11-10"
 source: "OpenAI Blog"
-count: 4
+count: 6
 ---
 
 # OpenAI Blog - 2026-11-10
 
-4 items collected.
+6 items collected.
 
 ---
 
@@ -47,7 +47,19 @@ New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships 
 
 ---
 
-## 4. Work at the Frontier: AI’s effect on freelance work
+## 4. Singapore Airlines elevates travel & work with OpenAI technology
+
+**Author:** -  
+**Published:** 11/10/2026, 8:00:00 AM  
+**Categories:** -  
+
+Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.
+
+📖 [Read original article](https://openai.com/index/singapore-airlines-travel-work)
+
+---
+
+## 5. Work at the Frontier: AI’s effect on freelance work
 
 **Author:** -  
 **Published:** 11/10/2026, 7:00:00 AM  
@@ -56,5 +68,17 @@ New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships 
 New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
 
 📖 [Read original article](https://openai.com/index/ai-effect-on-freelance-work)
+
+---
+
+## 6. Cogent and OpenAI build cyber defense factories for enterprises
+
+**Author:** -  
+**Published:** 11/10/2026, 12:00:00 AM  
+**Categories:** Startup  
+
+Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.
+
+📖 [Read original article](https://openai.com/index/cogent-security)
 
 ---
