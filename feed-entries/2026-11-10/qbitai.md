@@ -2,12 +2,12 @@
 title: "qbitai - 2026-11-10"
 date: "2026-11-10"
 source: "qbitai"
-count: 3
+count: 6
 ---
 
 # qbitai - 2026-11-10
 
-3 items collected.
+6 items collected.
 
 ---
 
@@ -44,5 +44,41 @@ count: 3
 11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch
 
 📖 [Read original article](https://www.qbitai.com/2026/11/508996.html)
+
+---
+
+## 4. Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架
+
+**Author:** 思邈  
+**Published:** 11/10/2026, 7:56:29 AM  
+**Categories:** 资讯, openJiuwen  
+
+让每一次任务，都成为下一次进步的起点
+
+📖 [Read original article](https://www.qbitai.com/2026/11/508998.html)
+
+---
+
+## 5. 成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线
+
+**Author:** 量子位的朋友们  
+**Published:** 11/10/2026, 7:50:26 AM  
+**Categories:** 资讯, 物原科技  
+
+TensorWorld物原科技在一个月内已拿到过亿美元融资
+
+📖 [Read original article](https://www.qbitai.com/2026/11/508991.html)
+
+---
+
+## 6. 达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动
+
+**Author:** 量子位的朋友们  
+**Published:** 11/10/2026, 7:33:19 AM  
+**Categories:** 资讯, 智算中心, 达卯科技  
+
+加速东部城市型智算中心向E-AIDC演进
+
+📖 [Read original article](https://www.qbitai.com/2026/11/508985.html)
 
 ---
