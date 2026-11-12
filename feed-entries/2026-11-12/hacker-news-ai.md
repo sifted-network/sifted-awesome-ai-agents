@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Advanced AI models could infer the activity of the brain
+## 1. Expect an AI Crash
 
-**Author:** geox  
-**Published:** 11/12/2026, 2:41:13 PM  
+**Author:** toomuchtodo  
+**Published:** 11/12/2026, 11:08:31 PM  
 **Categories:** -  
 
-Article URL: https://english.elpais.com/science-tech/2026-11-09/karl-deisseroth-nobel-prize-in-physiology-or-medicine-advanced-ai-models-could-infer-the-activity-of-the-brain.html Comments URL: https://news.ycombinator.com/item?id=50468070 Points: 1 # Comments: 0
+Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash Comments URL: https://news.ycombinator.com/item?id=50475735 Points: 1 # Comments: 0
 
-📖 [Read original article](https://english.elpais.com/science-tech/2026-11-09/karl-deisseroth-nobel-prize-in-physiology-or-medicine-advanced-ai-models-could-infer-the-activity-of-the-brain.html)
+📖 [Read original article](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)
 
 ---
 
-## 2. AI Security Issues Are Social Engineering Issues
+## 2. Edge0-145B: Frontier AI Capabilities on Your Own Computer
 
-**Author:** dannyobrien  
-**Published:** 11/12/2026, 2:40:40 PM  
+**Author:** sroussey  
+**Published:** 11/12/2026, 11:06:17 PM  
 **Categories:** -  
 
-Article URL: https://www.oblomovka.com/wp/2026/11/11/ai-security-issues-are-social-engineering-issues/ Comments URL: https://news.ycombinator.com/item?id=50468058 Points: 1 # Comments: 0
+Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.oblomovka.com/wp/2026/11/11/ai-security-issues-are-social-engineering-issues/)
+📖 [Read original article](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
 
 ---
 
-## 3. Smarter AI Product Design Centers the User's Real Needs
+## 3. Show HN: Bugsy – AI automation which runs my company
 
-**Author:** rbanffy  
-**Published:** 11/12/2026, 2:36:06 PM  
+**Author:** skavish  
+**Published:** 11/12/2026, 10:47:41 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/human-centered-ai-product-design Comments URL: https://news.ycombinator.com/item?id=50467968 Points: 1 # Comments: 0
+It started as a simple sentry ai triager and grew into a system which powers a lot of day-to-day operations in our company (~20 people). We use it for reporting and fixing bugs, code review, metrics, answer all kinds of questions and it is available from slack and our forum and channels. It is now s...
 
-📖 [Read original article](https://spectrum.ieee.org/human-centered-ai-product-design)
+📖 [Read original article](https://skavish.github.io/bugsy-map/)
 
 ---
 
-## 4. Danucore AI Infrastructure Engineers
+## 4. AI Can Help You Appeal Health Insurance Denials
 
-**Author:** bryanmoyer  
-**Published:** 11/12/2026, 2:34:40 PM  
+**Author:** holdenk  
+**Published:** 11/12/2026, 10:45:01 PM  
 **Categories:** -  
 
-Article URL: https://www.danucore.com/join-us/ai-infrastructure-engineer Comments URL: https://news.ycombinator.com/item?id=50467937 Points: 2 # Comments: 0
+Article URL: https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/ Comments URL: https://news.ycombinator.com/item?id=50475482 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.danucore.com/join-us/ai-infrastructure-engineer)
+📖 [Read original article](https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/)
 
 ---
 
-## 5. Show HN: AI Red Lines – write down what would make you act on AI
+## 5. What end-to-end AI systems mean for the future of automated driving
 
-**Author:** ap11071  
-**Published:** 11/12/2026, 2:31:21 PM  
+**Author:** ohjeez  
+**Published:** 11/12/2026, 10:16:25 PM  
 **Categories:** -  
 
-Article URL: https://yourairedlines.com Comments URL: https://news.ycombinator.com/item?id=50467880 Points: 3 # Comments: 1
+Article URL: https://www.aptiv.com/en/insights/article/q-a-from-modular-software-to-end-to-end-ai Comments URL: https://news.ycombinator.com/item?id=50475128 Points: 1 # Comments: 0
 
-📖 [Read original article](https://yourairedlines.com)
+📖 [Read original article](https://www.aptiv.com/en/insights/article/q-a-from-modular-software-to-end-to-end-ai)
 
 ---
 
-## 6. Don't build your own harness: lessons from building Paywalls AI Editor
+## 6. Inception.ai winding down their Mercury API service
 
-**Author:** azvaliev  
-**Published:** 11/12/2026, 2:23:54 PM  
+**Author:** UncleOxidant  
+**Published:** 11/12/2026, 10:10:51 PM  
 **Categories:** -  
 
-Article URL: https://www.revenuecat.com/blog/engineering/lessons-paywalls-ai-editor Comments URL: https://news.ycombinator.com/item?id=50467731 Points: 3 # Comments: 1
+I got the following email from Inception.ai today:Update - ACTION NEEDED by December 28 ­ ­Hi ,We want to share an important update regarding the Mercury API. After careful consideration, we’ve made the decision to wind down the service. The Mercury API will remain fully available through December 2...
 
-📖 [Read original article](https://www.revenuecat.com/blog/engineering/lessons-paywalls-ai-editor)
+📖 [Read original article](https://news.ycombinator.com/item?id=50475057)
 
 ---
 
-## 7. Writing with AI – Tales and Tips
+## 7. Chinese frontier AI models carry the fingerprint of export-controlled GPUs
 
-**Author:** juopitz  
-**Published:** 11/12/2026, 2:21:09 PM  
+**Author:** firloop  
+**Published:** 11/12/2026, 9:56:11 PM  
 **Categories:** -  
 
-Article URL: https://www.juriopitz.com/2026/11/12/ai-assissted-writing-tales-and-tips.html Comments URL: https://news.ycombinator.com/item?id=50467674 Points: 2 # Comments: 0
+Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 53 # Comments: 11
 
-📖 [Read original article](https://www.juriopitz.com/2026/11/12/ai-assissted-writing-tales-and-tips.html)
+📖 [Read original article](https://unemploymentlabs.com/checkpoint-forensics)
 
 ---
 
-## 8. Kazakhstan-linked hackers used AI agent to spy on Central Asian governments
+## 8. Nvidia Faced Pressure to Boost Its AI Backstop Before Huang Exit
 
-**Author:** waximabbax  
-**Published:** 11/12/2026, 2:20:29 PM  
+**Author:** mfiguiere  
+**Published:** 11/12/2026, 9:53:21 PM  
 **Categories:** -  
 
-Article URL: https://therecord.media/kazakhstan-hackers-central-asia Comments URL: https://news.ycombinator.com/item?id=50467657 Points: 2 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit Comments URL: https://news.ycombinator.com/item?id=50474852 Points: 5 # Comments: 0
 
-📖 [Read original article](https://therecord.media/kazakhstan-hackers-central-asia)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit)
 
 ---
 
-## 9. Show HN: Datatomcp – AI agents propose business definitions, a person approves
+## 9. Top Chinese AI labs built their newest models on Nvidia's Blackwell chips
 
-**Author:** Killian1603  
-**Published:** 11/12/2026, 2:16:53 PM  
+**Author:** leroy_masochist  
+**Published:** 11/12/2026, 9:49:52 PM  
 **Categories:** -  
 
-Article URL: https://datatomcp.com/ Comments URL: https://news.ycombinator.com/item?id=50467571 Points: 3 # Comments: 0
+Article URL: https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50474813 Points: 10 # Comments: 3
 
-📖 [Read original article](https://datatomcp.com/)
+📖 [Read original article](https://twitter.com/willdepue/status/2120992457630326841)
 
 ---
 
-## 10. Show HN: Indie Signals – 24h/7d momentum of new AI repos and models
+## 10. Show HN: Buildout, Harmonies-based game to build AI Lab
 
-**Author:** simonkk  
-**Published:** 11/12/2026, 1:40:09 PM  
+**Author:** eamag  
+**Published:** 11/12/2026, 9:34:32 PM  
 **Categories:** -  
 
-Article URL: https://indiesignals.net/ Comments URL: https://news.ycombinator.com/item?id=50466926 Points: 1 # Comments: 0
+Article URL: https://buildout.eamag.me/ Comments URL: https://news.ycombinator.com/item?id=50474623 Points: 1 # Comments: 0
 
-📖 [Read original article](https://indiesignals.net/)
+📖 [Read original article](https://buildout.eamag.me/)
 
 ---
 
-## 11. Conscientious Objector: When an AI Says No [video]
+## 11. Can AI chair a multilateral negotiation?
 
-**Author:** friendsofagents  
-**Published:** 11/12/2026, 1:37:39 PM  
+**Author:** valkrieco  
+**Published:** 11/12/2026, 9:33:32 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=338X8fYgAQA Comments URL: https://news.ycombinator.com/item?id=50466894 Points: 1 # Comments: 0
+Article URL: https://www.karlsnotes.com/can-ai-chair-a-multilateral-negotiation-i-gave-eleven-models-the-job/ Comments URL: https://news.ycombinator.com/item?id=50474614 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=338X8fYgAQA)
+📖 [Read original article](https://www.karlsnotes.com/can-ai-chair-a-multilateral-negotiation-i-gave-eleven-models-the-job/)
 
 ---
 
-## 12. The Country Building AI Is the Least Excited About It
+## 12. AI is turning Apple's app review process into a nightmare for synth developers
 
-**Author:** tech-pulse  
-**Published:** 11/12/2026, 1:36:35 PM  
+**Author:** anigbrowl  
+**Published:** 11/12/2026, 9:09:49 PM  
 **Categories:** -  
 
-Article URL: https://keithbrown.com/ai-excitement-by-country Comments URL: https://news.ycombinator.com/item?id=50466878 Points: 4 # Comments: 0
+Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 32 # Comments: 22
 
-📖 [Read original article](https://keithbrown.com/ai-excitement-by-country)
+📖 [Read original article](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html)
 
 ---
 
-## 13. Vercel Data Shows AI Models Have Six-Week Half-Life in Production
+## 13. Dougan Leak Exposes Concerted Effort to Infect AI
 
-**Author:** arbuge  
-**Published:** 11/12/2026, 1:33:15 PM  
+**Author:** miohtama  
+**Published:** 11/12/2026, 8:58:48 PM  
 **Categories:** -  
 
-Article URL: https://epyhia.com/vercel-data-shows-ai-models-have-six-week-half-life-in-production Comments URL: https://news.ycombinator.com/item?id=50466847 Points: 1 # Comments: 0
+Article URL: https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort Comments URL: https://news.ycombinator.com/item?id=50474186 Points: 4 # Comments: 1
 
-📖 [Read original article](https://epyhia.com/vercel-data-shows-ai-models-have-six-week-half-life-in-production)
+📖 [Read original article](https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort)
 
 ---
 
-## 14. Show HN: MudGym's WebAssembly browser playground for AI agents in MUD2
+## 14. Ask HN: Has AI coding changed who builds your internal tools?
 
-**Author:** kingrolo  
-**Published:** 11/12/2026, 1:29:34 PM  
+**Author:** utemissov  
+**Published:** 11/12/2026, 8:40:04 PM  
 **Categories:** -  
 
-Article URL: https://mudgym.kingrolo.com Comments URL: https://news.ycombinator.com/item?id=50466804 Points: 2 # Comments: 1
+In a large company, a dedicated team might build an internal tool that dozens of other teams use. If your team needs a feature for its own workflow, you have to explain the use case, agree on how it fits into the shared tool, and wait for it to get prioritised.With AI coding tools, it might now be f...
 
-📖 [Read original article](https://mudgym.kingrolo.com)
+📖 [Read original article](https://news.ycombinator.com/item?id=50473926)
 
 ---
 
-## 15. Show HN: Closed,Mechanical Mould Design AI Agent
+## 15. Ask HN: What % of HN is now AI-generated?
 
-**Author:** malviyamukul  
-**Published:** 11/12/2026, 1:17:42 PM  
+**Author:** simonebrunozzi  
+**Published:** 11/12/2026, 8:31:53 PM  
 **Categories:** -  
 
-Article URL: https://closed.sh Comments URL: https://news.ycombinator.com/item?id=50466670 Points: 1 # Comments: 0
+I promise you that the title was not AI-generated. And also, I promise you (but most of you won't believe me) that all the comments and submissions I did so far have been typed by hand. But besides this, the question remains: I have a sense that the % is non-zero, and perhaps it is higher than 50%. ...
 
-📖 [Read original article](https://closed.sh)
+📖 [Read original article](https://news.ycombinator.com/item?id=50473788)
 
 ---
 
-## 16. Show HN: A free course from engineer to AI engineer, one Git tag per episode
+## 16. Keenable 1.0: Search at the Speed of AI
 
-**Author:** joelstevick  
-**Published:** 11/12/2026, 1:15:53 PM  
+**Author:** phoenix120  
+**Published:** 11/12/2026, 8:21:36 PM  
 **Categories:** -  
 
-Article URL: https://github.com/AiFirstDevelopment/engineer-to-ai-engineer Comments URL: https://news.ycombinator.com/item?id=50466649 Points: 1 # Comments: 0
+Article URL: https://keenable.ai/blog/keenable-1.0 Comments URL: https://news.ycombinator.com/item?id=50473619 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/AiFirstDevelopment/engineer-to-ai-engineer)
+📖 [Read original article](https://keenable.ai/blog/keenable-1.0)
 
 ---
 
-## 17. Bringing Agentic AI to COBOL and the Mainframe with Rich Larin
+## 17. United to block customers from using AI agents, citing cyber threats
 
-**Author:** mooreds  
-**Published:** 11/12/2026, 1:09:00 PM  
+**Author:** speckx  
+**Published:** 11/12/2026, 8:07:26 PM  
 **Categories:** -  
 
-Article URL: https://redmonk.com/videos/rich-larin/ Comments URL: https://news.ycombinator.com/item?id=50466586 Points: 1 # Comments: 0
+Article URL: https://therecord.media/united-airlines-to-block-customers-using-ai-agents Comments URL: https://news.ycombinator.com/item?id=50473416 Points: 2 # Comments: 1
 
-📖 [Read original article](https://redmonk.com/videos/rich-larin/)
+📖 [Read original article](https://therecord.media/united-airlines-to-block-customers-using-ai-agents)
 
 ---
 
-## 18. Show HN: Vibetime – see what you ship when coding with AI agents
+## 18. SF company designs and assembles PCBs with AI in weeks instead of months
 
-**Author:** iamnotstatic  
-**Published:** 11/12/2026, 1:07:34 PM  
+**Author:** Samanthajeanneb  
+**Published:** 11/12/2026, 8:05:36 PM  
 **Categories:** -  
 
-Article URL: https://github.com/iamnotstatic/vibetime Comments URL: https://news.ycombinator.com/item?id=50466570 Points: 1 # Comments: 0
+Article URL: https://solderable.dev Comments URL: https://news.ycombinator.com/item?id=50473398 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/iamnotstatic/vibetime)
+📖 [Read original article](https://solderable.dev)
 
 ---
 
-## 19. Do the top thousand sites charge AI crawlers, block them, or let AI agents buy?
+## 19. American Inequality and the Future of AI
 
-**Author:** Lumyo  
-**Published:** 11/12/2026, 1:02:27 PM  
+**Author:** ersinesen  
+**Published:** 11/12/2026, 7:55:26 PM  
 **Categories:** -  
 
-Article URL: https://claude.ai/artifact/6GhQxH4Z8pWyCMVdhVwTGG Comments URL: https://news.ycombinator.com/item?id=50466516 Points: 1 # Comments: 0
+Article URL: https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm Comments URL: https://news.ycombinator.com/item?id=50473253 Points: 4 # Comments: 0
 
-📖 [Read original article](https://claude.ai/artifact/6GhQxH4Z8pWyCMVdhVwTGG)
+📖 [Read original article](https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm)
 
 ---
 
-## 20. Show HN: Website tells you when you'll lose your job to AI
+## 20. We tracked AI key theft over 35 days. Here's what we learned
 
-**Author:** thibaultjbeyer  
-**Published:** 11/12/2026, 12:55:12 PM  
+**Author:** whitef0x  
+**Published:** 11/12/2026, 7:52:01 PM  
 **Categories:** -  
 
-(╯'□')╯︵ ┻━┻ Comments URL: https://news.ycombinator.com/item?id=50466446 Points: 1 # Comments: 0
+Article URL: https://infertrail.com/blog/llm-api-key-honeypot/ Comments URL: https://news.ycombinator.com/item?id=50473197 Points: 2 # Comments: 0
 
-📖 [Read original article](https://deprecation.org)
+📖 [Read original article](https://infertrail.com/blog/llm-api-key-honeypot/)
 
 ---
