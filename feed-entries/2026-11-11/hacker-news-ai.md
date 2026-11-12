@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Embrace Paper Exams to Combat AI Cheating, Warns UK Universities Regulator
+## 1. Show HN: I built a AI acne coach that helps find root cause of your acne
 
-**Author:** karakoram  
-**Published:** 11/11/2026, 1:38:25 PM  
+**Author:** trinh312  
+**Published:** 11/11/2026, 11:49:11 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/2ada6998-26d2-4aab-89ad-11a50f0eb65a Comments URL: https://news.ycombinator.com/item?id=50453276 Points: 1 # Comments: 1
+I’ve had acne for 10 years and I'm so exhausted of dont know what happened. So, I'm building AcneAlly to learn you overtime to figure out what's causing your acne, and to give personalized support. Instead of tracking your skin or logging daily habits, you can just talk or interact with it like a co...
 
-📖 [Read original article](https://www.ft.com/content/2ada6998-26d2-4aab-89ad-11a50f0eb65a)
+📖 [Read original article](https://acneally.vercel.app)
 
 ---
 
-## 2. Glue work is still harmful in the age of AI
+## 2. Agentic AI for Military Cyberoperations (West Point Press) [pdf]
 
-**Author:** tux404  
-**Published:** 11/11/2026, 1:36:22 PM  
+**Author:** Alien1Being  
+**Published:** 11/11/2026, 11:36:07 PM  
 **Categories:** -  
 
-Article URL: https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50453254 Points: 1 # Comments: 0
+Article URL: https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf Comments URL: https://news.ycombinator.com/item?id=50460559 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/)
+📖 [Read original article](https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf)
 
 ---
 
-## 3. Oxford Mathematics in Conversation on AI – Ben Green and James Maynard [video]
+## 3. Composing data pipelines in an AI-native workflow
 
-**Author:** nill0  
-**Published:** 11/11/2026, 1:17:26 PM  
+**Author:** emrah  
+**Published:** 11/11/2026, 11:29:56 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=2GsuvsEg28o Comments URL: https://news.ycombinator.com/item?id=50453056 Points: 1 # Comments: 0
+Article URL: https://www.fivetran.com/blog/composing-data-pipelines-in-an-ai-native-workflow Comments URL: https://news.ycombinator.com/item?id=50460483 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=2GsuvsEg28o)
+📖 [Read original article](https://www.fivetran.com/blog/composing-data-pipelines-in-an-ai-native-workflow)
 
 ---
 
-## 4. Show HN: Editmamei – Giving AI agents access to desktop Photoshop and GIMP
+## 4. Who gets cheaper security from AI?
 
-**Author:** belcairn  
-**Published:** 11/11/2026, 1:14:56 PM  
+**Author:** ffwang2  
+**Published:** 11/11/2026, 10:49:50 PM  
 **Categories:** -  
 
-Hi HN!I built Editmamei, a local MCP server for Adobe Photoshop and GIMP.I built it because I wanted to connect Claude to a powerful photo editor, since Claude can't generate images itself. Apparently I wasn't the only one, Adobe previewed their own local Photoshop MCP yesterday, announcing at Adobe...
+Article URL: https://franklyspeaking.substack.com/p/who-actually-gets-cheaper-security Comments URL: https://news.ycombinator.com/item?id=50459974 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/editmamei/editmamei)
+📖 [Read original article](https://franklyspeaking.substack.com/p/who-actually-gets-cheaper-security)
 
 ---
 
-## 5. Show HN: Episteme AI – Self-healing roadmaps with paywall and dead-link checks
+## 5. HuggingFace/Kernels: 200 WebGPU Kernels for Local AI
 
-**Author:** SreeNaresh1  
-**Published:** 11/11/2026, 1:14:51 PM  
+**Author:** gmays  
+**Published:** 11/11/2026, 10:12:54 PM  
 **Categories:** -  
 
-Article URL: https://github.com/SreeNaresh1/episteme-ai Comments URL: https://news.ycombinator.com/item?id=50453033 Points: 1 # Comments: 0
+Article URL: https://huggingface.co/blog/webgpu-kernels Comments URL: https://news.ycombinator.com/item?id=50459445 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/SreeNaresh1/episteme-ai)
+📖 [Read original article](https://huggingface.co/blog/webgpu-kernels)
 
 ---
 
-## 6. Show HN: I checked 10 AI-written patches to real C++ projects – 6 didn't hold up
+## 6. An AI-driven proof of the Aaronson-Ambainis conjecture was announced
 
-**Author:** u-pump  
-**Published:** 11/11/2026, 1:14:12 PM  
+**Author:** addaon  
+**Published:** 11/11/2026, 10:09:10 PM  
 **Categories:** -  
 
-Article URL: https://unfix.dev/ Comments URL: https://news.ycombinator.com/item?id=50453025 Points: 1 # Comments: 0
+Article URL: https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/ Comments URL: https://news.ycombinator.com/item?id=50459389 Points: 2 # Comments: 0
 
-📖 [Read original article](https://unfix.dev/)
+📖 [Read original article](https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/)
 
 ---
 
-## 7. Ask HN: \"No AI\" apps/companies/resources?
+## 7. Show HN: Zumungo – AI-driven home automation
 
-**Author:** BrunoBernardino  
-**Published:** 11/11/2026, 1:11:11 PM  
+**Author:** hristov  
+**Published:** 11/11/2026, 9:58:28 PM  
 **Categories:** -  
 
-I know some people might think this is not the best community to ask for this, but I hope I can be pleasantly surprised.Is there any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly "anti", but at least explicitly avoid it) that y...
+Just released Zumungo AI driven Home Automation zumungo.com. Zumungo uses the power and flexibility of well established open source projects such as HomeAssitant, Frigate, Whisper, go2rtc, Piper, Open AI, Ollama, etc. It wraps everything in easy to use user interface for non professional users. In a...
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50452986)
+📖 [Read original article](https://zumungo.com/get-started.html)
 
 ---
 
-## 8. Deployment and observability tools for AI agents, scored
+## 8. An AI-assisted RP2040 audio board that worked on first spin in 5 days
 
-**Author:** rcleffke  
-**Published:** 11/11/2026, 1:08:45 PM  
+**Author:** Samanthajeanneb  
+**Published:** 11/11/2026, 9:43:47 PM  
 **Categories:** -  
 
-Article URL: https://rankings.leffke.com/categories/deploy-observability Comments URL: https://news.ycombinator.com/item?id=50452969 Points: 1 # Comments: 0
+Article URL: https://solderable.dev/blog/fluid Comments URL: https://news.ycombinator.com/item?id=50459119 Points: 1 # Comments: 0
 
-📖 [Read original article](https://rankings.leffke.com/categories/deploy-observability)
+📖 [Read original article](https://solderable.dev/blog/fluid)
 
 ---
 
-## 9. Show HN: Komrad – an AI agent that does not work for you
+## 9. Pundit Claims – Open-Source Register of AI Claims by Gary Marcus and Ed Zitron
 
-**Author:** harelj6  
-**Published:** 11/11/2026, 1:04:14 PM  
+**Author:** davegoldblatt  
+**Published:** 11/11/2026, 9:39:36 PM  
 **Categories:** -  
 
-Article URL: https://komr.ad/ Comments URL: https://news.ycombinator.com/item?id=50452926 Points: 3 # Comments: 3
+Article URL: https://punditclaims.ai/ Comments URL: https://news.ycombinator.com/item?id=50459075 Points: 3 # Comments: 3
 
-📖 [Read original article](https://komr.ad/)
+📖 [Read original article](https://punditclaims.ai/)
 
 ---
 
-## 10. Modernizing NetHack's C engine with .NET MAUI, Avalonia and a 31-tool AI advisor
+## 10. Some IGF Jurors released a statement about AI usage
 
-**Author:** TommiGustafsson  
-**Published:** 11/11/2026, 1:00:47 PM  
+**Author:** speckx  
+**Published:** 11/11/2026, 9:34:05 PM  
 **Categories:** -  
 
-Article URL: https://wiki.gnollhack.com/Guides/GnollHack,_Gnoll_Overseer,_and_GnollBench_for_Software_Engineers Comments URL: https://news.ycombinator.com/item?id=50452884 Points: 1 # Comments: 0
+Article URL: https://blog.lauramichet.com/some-igf-jurors-released-a-statement-about-ai-usage/ Comments URL: https://news.ycombinator.com/item?id=50459020 Points: 2 # Comments: 0
 
-📖 [Read original article](https://wiki.gnollhack.com/Guides/GnollHack,_Gnoll_Overseer,_and_GnollBench_for_Software_Engineers)
+📖 [Read original article](https://blog.lauramichet.com/some-igf-jurors-released-a-statement-about-ai-usage/)
 
 ---
 
-## 11. Show HN: Outlier, AI without the data center, private and offline on your Mac
+## 11. Is the AI Singularity Coming?
 
-**Author:** ur_dad_matt  
-**Published:** 11/11/2026, 12:54:09 PM  
+**Author:** ricciardo  
+**Published:** 11/11/2026, 9:28:57 PM  
 **Categories:** -  
 
-Article URL: https://outlier.host/ Comments URL: https://news.ycombinator.com/item?id=50452829 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=IlgvRtTwaUs Comments URL: https://news.ycombinator.com/item?id=50458955 Points: 3 # Comments: 1
 
-📖 [Read original article](https://outlier.host/)
+📖 [Read original article](https://www.youtube.com/watch?v=IlgvRtTwaUs)
 
 ---
 
-## 12. TSMC Approves $1B AI Investment
+## 12. United Airlines bans AI agents from booking flights on behalf of travelers
 
-**Author:** tosh  
-**Published:** 11/11/2026, 12:44:22 PM  
+**Author:** herpderperator  
+**Published:** 11/11/2026, 9:24:35 PM  
 **Categories:** -  
 
-Article URL: https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/ Comments URL: https://news.ycombinator.com/item?id=50452744 Points: 1 # Comments: 0
+Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 281 # Comments: 260
 
-📖 [Read original article](https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/)
+📖 [Read original article](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
 
 ---
 
-## 13. Show HN: Kodelyth ECC – 71 AI agents and MCP and 55% token cuts for Claude Code
+## 13. Apple II Agent: An AI Coding Environment for the Apple II
 
-**Author:** sifxprime  
-**Published:** 11/11/2026, 12:39:50 PM  
+**Author:** andrewstuart  
+**Published:** 11/11/2026, 9:20:03 PM  
 **Categories:** -  
 
-Article URL: https://ecc.kodelyth.com Comments URL: https://news.ycombinator.com/item?id=50452711 Points: 3 # Comments: 0
+Article URL: https://www.vintagecomputing.com/index.php/archives/3746/apple-ii-agent-an-ai-coding-environment-for-the-apple-ii Comments URL: https://news.ycombinator.com/item?id=50458850 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ecc.kodelyth.com)
+📖 [Read original article](https://www.vintagecomputing.com/index.php/archives/3746/apple-ii-agent-an-ai-coding-environment-for-the-apple-ii)
 
 ---
 
-## 14. Australia considers criminal penalties for rogue AI in wake of OpenAI hack
+## 14. Show HN: Version History for Your Synced Notes (AI Agent Safety)
 
-**Author:** rwmj  
-**Published:** 11/11/2026, 12:35:05 PM  
+**Author:** gb2d_hn  
+**Published:** 11/11/2026, 9:19:24 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.co.uk/news/articles/cmp3g37l566po Comments URL: https://news.ycombinator.com/item?id=50452677 Points: 3 # Comments: 2
+In addition to real-time multiplayer collaboration, your markdown notes in a synced graph in EtherPK - https://app.etherpk.com now keep a version history for every page and journal entry. It also keeps the pages, journal entries and files you delete, so you can restore them if needed.Versioning is a...
 
-📖 [Read original article](https://www.bbc.co.uk/news/articles/cmp3g37l566po)
+📖 [Read original article](https://blog.etherpk.com/version-history-for-your-synced-notes-additional-safety-for-working-alongside-ai-agents)
 
 ---
 
-## 15. We need more science in the judgment of AI
+## 15. The role of natural scientists and hardware engineers in AI safety
 
-**Author:** samuell  
-**Published:** 11/11/2026, 12:06:31 PM  
+**Author:** danrecht  
+**Published:** 11/11/2026, 9:17:52 PM  
 **Categories:** -  
 
-Article URL: https://livingsystems.substack.com/p/we-need-more-science-in-the-judgment Comments URL: https://news.ycombinator.com/item?id=50452466 Points: 2 # Comments: 0
+Article URL: https://www.reinvent.science/p/the-role-of-natural-scientists-and Comments URL: https://news.ycombinator.com/item?id=50458814 Points: 1 # Comments: 0
 
-📖 [Read original article](https://livingsystems.substack.com/p/we-need-more-science-in-the-judgment)
+📖 [Read original article](https://www.reinvent.science/p/the-role-of-natural-scientists-and)
 
 ---
 
-## 16. Show HN: Agent Buddies – Swappable animated characters for AI agents
+## 16. SFT for professionals in software, AI, systems, science and others
 
-**Author:** izr8809  
-**Published:** 11/11/2026, 12:05:38 PM  
+**Author:** elsadek  
+**Published:** 11/11/2026, 9:14:58 PM  
 **Categories:** -  
 
-Article URL: https://izr8809.github.io/agent-buddies/ Comments URL: https://news.ycombinator.com/item?id=50452457 Points: 2 # Comments: 0
+Article URL: https://app.outlier.ai/en/expert/referrals/link/3FKWhSGJnWvE8htqBdLKT9ZdU-w Comments URL: https://news.ycombinator.com/item?id=50458761 Points: 1 # Comments: 0
 
-📖 [Read original article](https://izr8809.github.io/agent-buddies/)
+📖 [Read original article](https://app.outlier.ai/en/expert/referrals/link/3FKWhSGJnWvE8htqBdLKT9ZdU-w)
 
 ---
 
-## 17. Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h
+## 17. Reprogramming Dormant Neurons to Backdoor AI Agents
 
-**Author:** eyvindn  
-**Published:** 11/11/2026, 12:05:22 PM  
+**Author:** dsr12  
+**Published:** 11/11/2026, 9:06:05 PM  
 **Categories:** -  
 
-Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 177 # Comments: 70
+Article URL: https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo Comments URL: https://news.ycombinator.com/item?id=50458653 Points: 6 # Comments: 1
 
-📖 [Read original article](https://pietromiotti.com/latest/maya-site/?maya)
+📖 [Read original article](https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo)
 
 ---
 
-## 18. Model Desk – A local-first multi-provider AI workspaceShared via URL-sharer
+## 18. AI has made it 'close to impossible' to assess university coursework
 
-**Author:** misterthp  
-**Published:** 11/11/2026, 12:04:22 PM  
+**Author:** chrisjj  
+**Published:** 11/11/2026, 8:52:44 PM  
 **Categories:** -  
 
-Article URL: https://mrthp.github.io/model-desk/ Comments URL: https://news.ycombinator.com/item?id=50452440 Points: 2 # Comments: 0
+Article URL: https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator Comments URL: https://news.ycombinator.com/item?id=50458512 Points: 7 # Comments: 2
 
-📖 [Read original article](https://mrthp.github.io/model-desk/)
+📖 [Read original article](https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator)
 
 ---
 
-## 19. Ring cameras go mobile as Amazon debuts AI-powered security drone and robot
+## 19. I made an AI harness / orchestrator that *actually* gives you decent limits
 
-**Author:** rbanffy  
-**Published:** 11/11/2026, 11:59:38 AM  
+**Author:** gentra  
+**Published:** 11/11/2026, 8:50:17 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/ Comments URL: https://news.ycombinator.com/item?id=50452395 Points: 5 # Comments: 2
+Article URL: https://scoutcode.dev Comments URL: https://news.ycombinator.com/item?id=50458487 Points: 5 # Comments: 1
 
-📖 [Read original article](https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/)
+📖 [Read original article](https://scoutcode.dev)
 
 ---
 
-## 20. Show HN: Allow individuals to sell traces to AI labs
+## 20. Type 0.73: Earth on the Kardashev scale, and why AI is short of wire
 
-**Author:** adammajcher  
-**Published:** 11/11/2026, 11:56:46 AM  
+**Author:** pnr-consulting  
+**Published:** 11/11/2026, 8:39:36 PM  
 **Categories:** -  
 
-npx velen-sh Comments URL: https://news.ycombinator.com/item?id=50452362 Points: 2 # Comments: 0
+Article URL: https://oliverdb.ai/blog/type-0-73.html Comments URL: https://news.ycombinator.com/item?id=50458361 Points: 3 # Comments: 0
 
-📖 [Read original article](https://velen.sh)
+📖 [Read original article](https://oliverdb.ai/blog/type-0-73.html)
 
 ---
