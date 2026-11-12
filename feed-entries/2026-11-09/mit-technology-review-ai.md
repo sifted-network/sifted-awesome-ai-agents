@@ -2,12 +2,12 @@
 title: "MIT Technology Review AI - 2026-11-09"
 date: "2026-11-09"
 source: "MIT Technology Review AI"
-count: 3
+count: 2
 ---
 
 # MIT Technology Review AI - 2026-11-09
 
-3 items collected.
+2 items collected.
 
 ---
 
@@ -32,17 +32,5 @@ This story originally appeared in The Algorithm, our weekly newsletter on AI. To
 As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with ...
 
 📖 [Read original article](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/)
-
----
-
-## 3. Innovating with AI in the special chemicals industry
-
-**Author:** MIT Technology Review Insights  
-**Published:** 11/9/2026, 1:00:00 PM  
-**Categories:** Artificial intelligence, sponsored  
-
-As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur...
-
-📖 [Read original article](https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/)
 
 ---
