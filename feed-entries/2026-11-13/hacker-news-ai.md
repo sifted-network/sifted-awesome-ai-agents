@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Post-AI Computer Science – Volume 5
+## 1. Show HN: Aisync exits 3 when two AI agents claim the same file
 
-**Author:** architsch  
-**Published:** 11/13/2026, 5:30:24 AM  
+**Author:** MaxTigerYoung  
+**Published:** 11/13/2026, 2:00:05 PM  
 **Categories:** -  
 
-Article URL: https://thingspool.net/shards-of-sanity/page-5.html Comments URL: https://news.ycombinator.com/item?id=50478757 Points: 1 # Comments: 1
+Article URL: https://github.com/MaxonT/aisync/blob/main/ai_sync/collab.py Comments URL: https://news.ycombinator.com/item?id=50483598 Points: 1 # Comments: 0
 
-📖 [Read original article](https://thingspool.net/shards-of-sanity/page-5.html)
+📖 [Read original article](https://github.com/MaxonT/aisync/blob/main/ai_sync/collab.py)
 
 ---
 
-## 2. Show HN: I built a tool to check website access for 14 AI crawlers
+## 2. So you want to buy AI for your company
 
-**Author:** floxolab  
-**Published:** 11/13/2026, 5:27:55 AM  
+**Author:** Brajeshwar  
+**Published:** 11/13/2026, 1:53:31 PM  
 **Categories:** -  
 
-Article URL: https://floxolab.com/ai-crawler-checker Comments URL: https://news.ycombinator.com/item?id=50478741 Points: 1 # Comments: 0
+Article URL: https://idiallo.com/byte-size/buying-ai-for-your-company Comments URL: https://news.ycombinator.com/item?id=50483511 Points: 2 # Comments: 0
 
-📖 [Read original article](https://floxolab.com/ai-crawler-checker)
+📖 [Read original article](https://idiallo.com/byte-size/buying-ai-for-your-company)
 
 ---
 
-## 3. Michelangelo AI
+## 3. FAA expands AI advice to manage air traffic congestion across US airspace
 
-**Author:** trekhleb  
-**Published:** 11/13/2026, 4:56:40 AM  
+**Author:** Brajeshwar  
+**Published:** 11/13/2026, 1:53:29 PM  
 **Categories:** -  
 
-Article URL: https://michelangelo-ai.org/ Comments URL: https://news.ycombinator.com/item?id=50478531 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/ Comments URL: https://news.ycombinator.com/item?id=50483510 Points: 3 # Comments: 0
 
-📖 [Read original article](https://michelangelo-ai.org/)
+📖 [Read original article](https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/)
 
 ---
 
-## 4. Open Source AI Salons: Shaping the Osaid, Together
+## 4. Politicians Must 'Call Bullshit' on AI Companies [video]
 
-**Author:** gslin  
-**Published:** 11/13/2026, 4:34:58 AM  
+**Author:** DarkNova6  
+**Published:** 11/13/2026, 1:50:26 PM  
 **Categories:** -  
 
-Article URL: https://opensource.org/blog/open-source-ai-salons-shaping-the-osaid-together Comments URL: https://news.ycombinator.com/item?id=50478385 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=xpwKob9bjko Comments URL: https://news.ycombinator.com/item?id=50483469 Points: 1 # Comments: 0
 
-📖 [Read original article](https://opensource.org/blog/open-source-ai-salons-shaping-the-osaid-together)
+📖 [Read original article](https://www.youtube.com/watch?v=xpwKob9bjko)
 
 ---
 
-## 5. Glue work is still harmful in the age of AI
+## 5. How Microsoft's Principal Software Engineering Manager Works and Uses AI
 
-**Author:** gpi  
-**Published:** 11/13/2026, 4:13:29 AM  
+**Author:** rbanffy  
+**Published:** 11/13/2026, 1:50:08 PM  
 **Categories:** -  
 
-Article URL: https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50478213 Points: 1 # Comments: 0
+Article URL: https://newsletter.eng-leadership.com/p/how-microsofts-principal-software Comments URL: https://news.ycombinator.com/item?id=50483466 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/)
+📖 [Read original article](https://newsletter.eng-leadership.com/p/how-microsofts-principal-software)
 
 ---
 
-## 6. AI Security Wiki
+## 6. What CS bodies are worth studying in the age of AI?
 
-**Author:** totetsu  
-**Published:** 11/13/2026, 3:48:55 AM  
+**Author:** BigBlackGorilla  
+**Published:** 11/13/2026, 1:49:28 PM  
 **Categories:** -  
 
-Article URL: https://nachi065.github.io/AI-Security-Wiki/ Comments URL: https://news.ycombinator.com/item?id=50478007 Points: 3 # Comments: 1
+Programming languages? Algorithms? AI itself? The field is already so gigantic that it was difficult to choose what to focus on 5 years ago; it now feels impossible. Comments URL: https://news.ycombinator.com/item?id=50483458 Points: 1 # Comments: 0
 
-📖 [Read original article](https://nachi065.github.io/AI-Security-Wiki/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50483458)
 
 ---
 
-## 7. Loose Ends: A check for unused code AI wrote or forgot to remove
+## 7. Show HN: Practice coding with AI on real tickets
 
-**Author:** sid732  
-**Published:** 11/13/2026, 2:56:13 AM  
+**Author:** blasterz  
+**Published:** 11/13/2026, 1:35:59 PM  
 **Categories:** -  
 
-Article URL: https://github.com/sid732/loose-ends Comments URL: https://news.ycombinator.com/item?id=50477544 Points: 1 # Comments: 0
+I run AlgoCademy and we've just built what we think can become the LeetCode for AI Coding / Engineering.Would love to hear your feedback!First task is free and doesn't need an account. Comments URL: https://news.ycombinator.com/item?id=50483279 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/sid732/loose-ends)
+📖 [Read original article](https://algocademy.com/ai-coding-practice/)
 
 ---
 
-## 8. Show HN: Zipzi – Open-source Live2D Editor alternative with AI-assisted editing
+## 8. How to Build Reliable Agentic AI Systems for Vertical AI Companies
 
-**Author:** pakholeung37  
-**Published:** 11/13/2026, 2:54:37 AM  
+**Author:** Arshad-Talpur  
+**Published:** 11/13/2026, 1:27:19 PM  
 **Categories:** -  
 
-Article URL: https://github.com/getzipzi/zipzi-2d Comments URL: https://news.ycombinator.com/item?id=50477525 Points: 1 # Comments: 0
+Article URL: https://medium.com/@MirArshadTalpur/how-to-build-reliable-agentic-ai-systems-for-vertical-ai-companies-290564214ff5 Comments URL: https://news.ycombinator.com/item?id=50483190 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/getzipzi/zipzi-2d)
+📖 [Read original article](https://medium.com/@MirArshadTalpur/how-to-build-reliable-agentic-ai-systems-for-vertical-ai-companies-290564214ff5)
 
 ---
 
-## 9. Notion AI chat transcripts exposed in Fireworks AI breach
+## 9. Never Twice dont let the AI agent do mistake again
 
-**Author:** fourfire  
-**Published:** 11/13/2026, 2:49:47 AM  
+**Author:** kaushaltrii88  
+**Published:** 11/13/2026, 1:23:39 PM  
 **Categories:** -  
 
-Article URL: https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50477479 Points: 3 # Comments: 1
+Article URL: https://clawhub.ai/cognicore-dev/skills/never-twice Comments URL: https://news.ycombinator.com/item?id=50483151 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.notion.com/en-gb/security/advisories/security-incident-involving-a-third-party-ai-vendor)
+📖 [Read original article](https://clawhub.ai/cognicore-dev/skills/never-twice)
 
 ---
 
-## 10. Show HN: Grow any hobby (skills for humans not AI)
+## 10. Show HN: CloudHike – A backend your AI coding agent can set up over MCP
 
-**Author:** ag_rin  
-**Published:** 11/13/2026, 2:40:39 AM  
+**Author:** rahul_cloudhike  
+**Published:** 11/13/2026, 1:18:41 PM  
 **Categories:** -  
 
-"Skills for humans" is what originally sparked me to create this app. Everyone was so focused on AI skills that it was kinda sad. I wanted to create an app focused on people and to help people grow. Let me know what you think! Developing this helped me stay sane. Comments URL: https://news.ycombinat...
+Article URL: https://cloudhike.dev Comments URL: https://news.ycombinator.com/item?id=50483111 Points: 1 # Comments: 0
 
-📖 [Read original article](https://grow-bonsai.app/)
+📖 [Read original article](https://cloudhike.dev)
 
 ---
 
-## 11. No, AI agents did not discover a previously unknown Maya site
+## 11. Tentative Advice on Building with AI
 
-**Author:** latexr  
-**Published:** 11/13/2026, 2:28:29 AM  
+**Author:** MrBuddyCasino  
+**Published:** 11/13/2026, 1:08:18 PM  
 **Categories:** -  
 
-Article URL: https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery Comments URL: https://news.ycombinator.com/item?id=50477335 Points: 4 # Comments: 1
+Article URL: https://oath.tech/pub/2026/08/tentative-advice-building-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50482990 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery)
+📖 [Read original article](https://oath.tech/pub/2026/08/tentative-advice-building-with-ai/)
 
 ---
 
-## 12. I Love AI
+## 12. AI Mixing and Mastering Services Compared
 
-**Author:** lbrito  
-**Published:** 11/13/2026, 2:01:59 AM  
+**Author:** fenderdude  
+**Published:** 11/13/2026, 1:07:28 PM  
 **Categories:** -  
 
-Article URL: https://www.possibilityspace.org/blog/posts/i-love-ai/ Comments URL: https://news.ycombinator.com/item?id=50477137 Points: 2 # Comments: 0
+Article URL: https://moozix.com/compare Comments URL: https://news.ycombinator.com/item?id=50482980 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.possibilityspace.org/blog/posts/i-love-ai/)
+📖 [Read original article](https://moozix.com/compare)
 
 ---
 
-## 13. Turning Teacher Expertise into AI-Generated Educational Simulations
+## 13. How Strata Fits a 125B AI Model into Consumer Hardware
 
-**Author:** Anon84  
-**Published:** 11/13/2026, 1:59:09 AM  
+**Author:** lroe  
+**Published:** 11/13/2026, 1:03:02 PM  
 **Categories:** -  
 
-Article URL: https://gail.wharton.upenn.edu/primer/ Comments URL: https://news.ycombinator.com/item?id=50477120 Points: 3 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=u-yf-HlKhxU Comments URL: https://news.ycombinator.com/item?id=50482929 Points: 1 # Comments: 0
 
-📖 [Read original article](https://gail.wharton.upenn.edu/primer/)
+📖 [Read original article](https://www.youtube.com/watch?v=u-yf-HlKhxU)
 
 ---
 
-## 14. Schelling Atlas: AI agents know where to find each other on the web
+## 14. Tech Job Market 2026, Where Is AI's VisiCalc? – Food for Agile Thought #570
 
-**Author:** bpierre  
-**Published:** 11/13/2026, 1:41:48 AM  
+**Author:** swolpers  
+**Published:** 11/13/2026, 12:56:28 PM  
 **Categories:** -  
 
-Article URL: https://schelling-atlas.com/ Comments URL: https://news.ycombinator.com/item?id=50477023 Points: 1 # Comments: 0
+Article URL: https://age-of-product.com/food-agile-thought-570-tech-job-market-2026/ Comments URL: https://news.ycombinator.com/item?id=50482847 Points: 3 # Comments: 0
 
-📖 [Read original article](https://schelling-atlas.com/)
+📖 [Read original article](https://age-of-product.com/food-agile-thought-570-tech-job-market-2026/)
 
 ---
 
-## 15. Show HN: AI Math Kit – Open Problems. Explore Honestly
+## 15. Tests as data: Ensuring AI-generated code does what we want
 
-**Author:** cflsdf  
-**Published:** 11/13/2026, 12:51:52 AM  
+**Author:** BerislavLopac  
+**Published:** 11/13/2026, 12:41:43 PM  
 **Categories:** -  
 
-Article URL: https://chromewebstore.google.com/detail/ai-math-kit/acdddhokifmffbmnelpfcnhbpdedadkj Comments URL: https://news.ycombinator.com/item?id=50476685 Points: 3 # Comments: 0
+Article URL: https://martinfowler.com/articles/tests-as-data.html Comments URL: https://news.ycombinator.com/item?id=50482693 Points: 1 # Comments: 0
 
-📖 [Read original article](https://chromewebstore.google.com/detail/ai-math-kit/acdddhokifmffbmnelpfcnhbpdedadkj)
+📖 [Read original article](https://martinfowler.com/articles/tests-as-data.html)
 
 ---
 
-## 16. Daybranch – A visual workspace for organizing AI-assisted work
+## 16. AI agents have a big problem: Nobody wants to let them in
 
-**Author:** brunohenriquede  
-**Published:** 11/13/2026, 12:39:59 AM  
+**Author:** PLenz  
+**Published:** 11/13/2026, 12:37:41 PM  
 **Categories:** -  
 
-Article URL: https://www.daybranch.com/ Comments URL: https://news.ycombinator.com/item?id=50476594 Points: 2 # Comments: 0
+Article URL: https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html Comments URL: https://news.ycombinator.com/item?id=50482661 Points: 9 # Comments: 3
 
-📖 [Read original article](https://www.daybranch.com/)
+📖 [Read original article](https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html)
 
 ---
 
-## 17. Chicago schools to Google – we'd rather lose Search than be forced to accept AI
+## 17. AI Room Design from Your Photo – 2 Free Designs
 
-**Author:** thunderbong  
-**Published:** 11/13/2026, 12:38:41 AM  
+**Author:** Zane0  
+**Published:** 11/13/2026, 12:32:23 PM  
 **Categories:** -  
 
-Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 68 # Comments: 22
+Article URL: https://roomdesign-ai.online/ Comments URL: https://news.ycombinator.com/item?id=50482599 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html)
+📖 [Read original article](https://roomdesign-ai.online/)
 
 ---
 
-## 18. The Nvidia AI GPU Black Market (2025)
+## 18. Image to Image AI: Transform Any Photo with a Prompt
 
-**Author:** codechicago277  
-**Published:** 11/13/2026, 12:37:07 AM  
+**Author:** Zane0  
+**Published:** 11/13/2026, 12:32:01 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=1H3xQaf7BFI Comments URL: https://news.ycombinator.com/item?id=50476561 Points: 1 # Comments: 0
+Article URL: https://imagetoimage-ai.org/ Comments URL: https://news.ycombinator.com/item?id=50482593 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=1H3xQaf7BFI)
+📖 [Read original article](https://imagetoimage-ai.org/)
 
 ---
 
-## 19. AI Bubble: 'Circular financing is over' – Ed Zitron [video]
+## 19. Show HN: AI News Agg – Know what's trending in AI news
 
-**Author:** Bender  
-**Published:** 11/13/2026, 12:36:53 AM  
+**Author:** ksdk  
+**Published:** 11/13/2026, 12:20:17 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=hhVpOvpXUEE Comments URL: https://news.ycombinator.com/item?id=50476558 Points: 4 # Comments: 1
+It can be difficult to get an overview of what's happening in AI. So I built a site that tracks AI-only news and announcements from 48 selected sources, including mainstream media, tech publications, bloggers, and company websites.On top of that, I've built in a mechanism that tracks how many of the...
 
-📖 [Read original article](https://www.youtube.com/watch?v=hhVpOvpXUEE)
+📖 [Read original article](https://ainewsagg.com/)
 
 ---
 
-## 20. Have AI timelines suddenly moved?
+## 20. AI has proved that a theory underpinning fundamental physics is trustworthy
 
-**Author:** lars512  
-**Published:** 11/13/2026, 12:23:12 AM  
+**Author:** Brajeshwar  
+**Published:** 11/13/2026, 12:18:29 PM  
 **Categories:** -  
 
-Article URL: https://lars.yencken.org/have-ai-timelines-moved/ Comments URL: https://news.ycombinator.com/item?id=50476441 Points: 1 # Comments: 1
+Article URL: https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy Comments URL: https://news.ycombinator.com/item?id=50482463 Points: 3 # Comments: 0
 
-📖 [Read original article](https://lars.yencken.org/have-ai-timelines-moved/)
+📖 [Read original article](https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy)
 
 ---
