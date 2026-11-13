@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Aisync exits 3 when two AI agents claim the same file
+## 1. FAA tees up $875M AI tool to help manage air traffic congestion
 
-**Author:** MaxTigerYoung  
-**Published:** 11/13/2026, 2:00:05 PM  
+**Author:** brandonb  
+**Published:** 11/13/2026, 11:02:44 PM  
 **Categories:** -  
 
-Article URL: https://github.com/MaxonT/aisync/blob/main/ai_sync/collab.py Comments URL: https://news.ycombinator.com/item?id=50483598 Points: 1 # Comments: 0
+Article URL: https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/ Comments URL: https://news.ycombinator.com/item?id=50491384 Points: 4 # Comments: 2
 
-📖 [Read original article](https://github.com/MaxonT/aisync/blob/main/ai_sync/collab.py)
+📖 [Read original article](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/)
 
 ---
 
-## 2. So you want to buy AI for your company
+## 2. QuAIA: An open-source team of AI agents that handles the whole test process
 
-**Author:** Brajeshwar  
-**Published:** 11/13/2026, 1:53:31 PM  
+**Author:** partarstu  
+**Published:** 11/13/2026, 10:53:09 PM  
 **Categories:** -  
 
-Article URL: https://idiallo.com/byte-size/buying-ai-for-your-company Comments URL: https://news.ycombinator.com/item?id=50483511 Points: 2 # Comments: 0
+Article URL: https://quaia.dev/ Comments URL: https://news.ycombinator.com/item?id=50491277 Points: 1 # Comments: 0
 
-📖 [Read original article](https://idiallo.com/byte-size/buying-ai-for-your-company)
+📖 [Read original article](https://quaia.dev/)
 
 ---
 
-## 3. FAA expands AI advice to manage air traffic congestion across US airspace
+## 3. Adapting to AI penetration testing orchestrators: The Modern Security Model
 
-**Author:** Brajeshwar  
-**Published:** 11/13/2026, 1:53:29 PM  
+**Author:** waximabbax  
+**Published:** 11/13/2026, 10:38:07 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/ Comments URL: https://news.ycombinator.com/item?id=50483510 Points: 3 # Comments: 0
+Article URL: https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/ Comments URL: https://news.ycombinator.com/item?id=50491077 Points: 1 # Comments: 0
+
+📖 [Read original article](https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/)
+
+---
+
+## 4. FAA expands AI advice to manage air traffic congestion across US airspace
+
+**Author:** samizdis  
+**Published:** 11/13/2026, 10:37:24 PM  
+**Categories:** -  
+
+Article URL: https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/ Comments URL: https://news.ycombinator.com/item?id=50491067 Points: 7 # Comments: 2
+
+📖 [Read original article](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/)
+
+---
+
+## 5. FAA expands AI advice to manage air traffic congestion across US airspace
+
+**Author:** u1hcw9nx  
+**Published:** 11/13/2026, 10:20:18 PM  
+**Categories:** -  
+
+Article URL: https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/ Comments URL: https://news.ycombinator.com/item?id=50490834 Points: 2 # Comments: 5
 
 📖 [Read original article](https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/)
 
 ---
 
-## 4. Politicians Must 'Call Bullshit' on AI Companies [video]
+## 6. My first two months with AI agents: some confident assertions
 
-**Author:** DarkNova6  
-**Published:** 11/13/2026, 1:50:26 PM  
+**Author:** EvgeniyZh  
+**Published:** 11/13/2026, 10:18:33 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=xpwKob9bjko Comments URL: https://news.ycombinator.com/item?id=50483469 Points: 1 # Comments: 0
+Article URL: https://www.mikehermele.com/blog/first-two-months/ Comments URL: https://news.ycombinator.com/item?id=50490810 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=xpwKob9bjko)
+📖 [Read original article](https://www.mikehermele.com/blog/first-two-months/)
 
 ---
 
-## 5. How Microsoft's Principal Software Engineering Manager Works and Uses AI
+## 7. DSPy vs. LangGraph: AI Agent Frameworks Explained – Stanford CS329Z [video]
 
-**Author:** rbanffy  
-**Published:** 11/13/2026, 1:50:08 PM  
+**Author:** matt_d  
+**Published:** 11/13/2026, 10:03:34 PM  
 **Categories:** -  
 
-Article URL: https://newsletter.eng-leadership.com/p/how-microsofts-principal-software Comments URL: https://news.ycombinator.com/item?id=50483466 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=q0Q-Hy8TTps Comments URL: https://news.ycombinator.com/item?id=50490582 Points: 2 # Comments: 0
 
-📖 [Read original article](https://newsletter.eng-leadership.com/p/how-microsofts-principal-software)
+📖 [Read original article](https://www.youtube.com/watch?v=q0Q-Hy8TTps)
 
 ---
 
-## 6. What CS bodies are worth studying in the age of AI?
+## 8. Warning of interruptions as AI models by Anthropic, OpenAI and others evolve
 
-**Author:** BigBlackGorilla  
-**Published:** 11/13/2026, 1:49:28 PM  
+**Author:** nothrowaways  
+**Published:** 11/13/2026, 9:44:15 PM  
 **Categories:** -  
 
-Programming languages? Algorithms? AI itself? The field is already so gigantic that it was difficult to choose what to focus on 5 years ago; it now feels impossible. Comments URL: https://news.ycombinator.com/item?id=50483458 Points: 1 # Comments: 0
+Article URL: https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944 Comments URL: https://news.ycombinator.com/item?id=50490281 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50483458)
+📖 [Read original article](https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944)
 
 ---
 
-## 7. Show HN: Practice coding with AI on real tickets
+## 9. Skills that stop AI coding agents from touching production
 
-**Author:** blasterz  
-**Published:** 11/13/2026, 1:35:59 PM  
+**Author:** simbaTmotsi  
+**Published:** 11/13/2026, 9:37:07 PM  
 **Categories:** -  
 
-I run AlgoCademy and we've just built what we think can become the LeetCode for AI Coding / Engineering.Would love to hear your feedback!First task is free and doesn't need an account. Comments URL: https://news.ycombinator.com/item?id=50483279 Points: 1 # Comments: 0
+Article URL: https://github.com/simbaTmotsi/simba-skills Comments URL: https://news.ycombinator.com/item?id=50490160 Points: 2 # Comments: 0
 
-📖 [Read original article](https://algocademy.com/ai-coding-practice/)
+📖 [Read original article](https://github.com/simbaTmotsi/simba-skills)
 
 ---
 
-## 8. How to Build Reliable Agentic AI Systems for Vertical AI Companies
+## 10. FAA Rolls Out AI Air Traffic Tool (2026-11-12)
 
-**Author:** Arshad-Talpur  
-**Published:** 11/13/2026, 1:27:19 PM  
+**Author:** GurnBlandston  
+**Published:** 11/13/2026, 9:35:12 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@MirArshadTalpur/how-to-build-reliable-agentic-ai-systems-for-vertical-ai-companies-290564214ff5 Comments URL: https://news.ycombinator.com/item?id=50483190 Points: 1 # Comments: 0
+Article URL: https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347 Comments URL: https://news.ycombinator.com/item?id=50490135 Points: 4 # Comments: 2
 
-📖 [Read original article](https://medium.com/@MirArshadTalpur/how-to-build-reliable-agentic-ai-systems-for-vertical-ai-companies-290564214ff5)
+📖 [Read original article](https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347)
 
 ---
 
-## 9. Never Twice dont let the AI agent do mistake again
+## 11. Evidence Chinese AI labs built their newest models on Nvidia's Blackwell chips
 
-**Author:** kaushaltrii88  
-**Published:** 11/13/2026, 1:23:39 PM  
+**Author:** riccardomc  
+**Published:** 11/13/2026, 9:05:19 PM  
 **Categories:** -  
 
-Article URL: https://clawhub.ai/cognicore-dev/skills/never-twice Comments URL: https://news.ycombinator.com/item?id=50483151 Points: 1 # Comments: 0
+Article URL: https://twitter.com/willdepue/status/2120992457630326841 Comments URL: https://news.ycombinator.com/item?id=50489631 Points: 5 # Comments: 0
 
-📖 [Read original article](https://clawhub.ai/cognicore-dev/skills/never-twice)
+📖 [Read original article](https://twitter.com/willdepue/status/2120992457630326841)
 
 ---
 
-## 10. Show HN: CloudHike – A backend your AI coding agent can set up over MCP
+## 12. Rainshare: Mutual aid for AI coding plans and usage limits
 
-**Author:** rahul_cloudhike  
-**Published:** 11/13/2026, 1:18:41 PM  
+**Author:** icy  
+**Published:** 11/13/2026, 8:54:38 PM  
 **Categories:** -  
 
-Article URL: https://cloudhike.dev Comments URL: https://news.ycombinator.com/item?id=50483111 Points: 1 # Comments: 0
+Article URL: https://rainshare.dev/ Comments URL: https://news.ycombinator.com/item?id=50489510 Points: 1 # Comments: 0
 
-📖 [Read original article](https://cloudhike.dev)
+📖 [Read original article](https://rainshare.dev/)
 
 ---
 
-## 11. Tentative Advice on Building with AI
+## 13. Show HN: Free AI Image Gallery
 
-**Author:** MrBuddyCasino  
-**Published:** 11/13/2026, 1:08:18 PM  
+**Author:** Kuldeep045  
+**Published:** 11/13/2026, 8:51:08 PM  
 **Categories:** -  
 
-Article URL: https://oath.tech/pub/2026/08/tentative-advice-building-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50482990 Points: 1 # Comments: 0
+Article URL: https://images.skynettstudio.com/ Comments URL: https://news.ycombinator.com/item?id=50489463 Points: 1 # Comments: 0
 
-📖 [Read original article](https://oath.tech/pub/2026/08/tentative-advice-building-with-ai/)
+📖 [Read original article](https://images.skynettstudio.com/)
 
 ---
 
-## 12. AI Mixing and Mastering Services Compared
+## 14. The Chinese city powering the country's AI ambitions with data farms
 
-**Author:** fenderdude  
-**Published:** 11/13/2026, 1:07:28 PM  
+**Author:** ivewonyoung  
+**Published:** 11/13/2026, 8:33:22 PM  
 **Categories:** -  
 
-Article URL: https://moozix.com/compare Comments URL: https://news.ycombinator.com/item?id=50482980 Points: 1 # Comments: 0
+Article URL: https://www.nbcnews.com/world/asia/china-ai-data-center-construction-inner-mongolia-rcna608934 Comments URL: https://news.ycombinator.com/item?id=50489248 Points: 1 # Comments: 0
 
-📖 [Read original article](https://moozix.com/compare)
+📖 [Read original article](https://www.nbcnews.com/world/asia/china-ai-data-center-construction-inner-mongolia-rcna608934)
 
 ---
 
-## 13. How Strata Fits a 125B AI Model into Consumer Hardware
+## 15. AI Company Employees Should Unionize
 
-**Author:** lroe  
-**Published:** 11/13/2026, 1:03:02 PM  
+**Author:** LalAkash  
+**Published:** 11/13/2026, 8:29:19 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=u-yf-HlKhxU Comments URL: https://news.ycombinator.com/item?id=50482929 Points: 1 # Comments: 0
+Article URL: https://www.astralcodexten.com/p/ai-company-employees-should-unionize Comments URL: https://news.ycombinator.com/item?id=50489197 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=u-yf-HlKhxU)
+📖 [Read original article](https://www.astralcodexten.com/p/ai-company-employees-should-unionize)
 
 ---
 
-## 14. Tech Job Market 2026, Where Is AI's VisiCalc? – Food for Agile Thought #570
+## 16. DeepMind opens the datasets behind its AI weather models
 
-**Author:** swolpers  
-**Published:** 11/13/2026, 12:56:28 PM  
+**Author:** ersinesen  
+**Published:** 11/13/2026, 8:28:58 PM  
 **Categories:** -  
 
-Article URL: https://age-of-product.com/food-agile-thought-570-tech-job-market-2026/ Comments URL: https://news.ycombinator.com/item?id=50482847 Points: 3 # Comments: 0
+Article URL: https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/ Comments URL: https://news.ycombinator.com/item?id=50489192 Points: 3 # Comments: 0
 
-📖 [Read original article](https://age-of-product.com/food-agile-thought-570-tech-job-market-2026/)
+📖 [Read original article](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/)
 
 ---
 
-## 15. Tests as data: Ensuring AI-generated code does what we want
+## 17. A board game where you play an AI lab CEO racing to AGI [video]
 
-**Author:** BerislavLopac  
-**Published:** 11/13/2026, 12:41:43 PM  
+**Author:** pricepinner  
+**Published:** 11/13/2026, 8:25:11 PM  
 **Categories:** -  
 
-Article URL: https://martinfowler.com/articles/tests-as-data.html Comments URL: https://news.ycombinator.com/item?id=50482693 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=SXnxZuntM0w Comments URL: https://news.ycombinator.com/item?id=50489143 Points: 1 # Comments: 0
 
-📖 [Read original article](https://martinfowler.com/articles/tests-as-data.html)
+📖 [Read original article](https://www.youtube.com/watch?v=SXnxZuntM0w)
 
 ---
 
-## 16. AI agents have a big problem: Nobody wants to let them in
+## 18. How the U.S.'s biggest news union is fighting an AI onslaught
 
-**Author:** PLenz  
-**Published:** 11/13/2026, 12:37:41 PM  
+**Author:** postalex  
+**Published:** 11/13/2026, 8:23:36 PM  
 **Categories:** -  
 
-Article URL: https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html Comments URL: https://news.ycombinator.com/item?id=50482661 Points: 9 # Comments: 3
+Article URL: https://www.fastcompany.com/91637688/newsguild-jon-schleuss-ai-human-journalists Comments URL: https://news.ycombinator.com/item?id=50489128 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html)
+📖 [Read original article](https://www.fastcompany.com/91637688/newsguild-jon-schleuss-ai-human-journalists)
 
 ---
 
-## 17. AI Room Design from Your Photo – 2 Free Designs
+## 19. What the 'AI Torture Chamber' Debate Got Wrong About the Research
 
-**Author:** Zane0  
-**Published:** 11/13/2026, 12:32:23 PM  
+**Author:** postalex  
+**Published:** 11/13/2026, 8:22:26 PM  
 **Categories:** -  
 
-Article URL: https://roomdesign-ai.online/ Comments URL: https://news.ycombinator.com/item?id=50482599 Points: 1 # Comments: 0
+Article URL: https://www.techpolicy.press/what-the-ai-torture-chamber-debate-got-wrong-about-the-research/ Comments URL: https://news.ycombinator.com/item?id=50489113 Points: 2 # Comments: 0
 
-📖 [Read original article](https://roomdesign-ai.online/)
+📖 [Read original article](https://www.techpolicy.press/what-the-ai-torture-chamber-debate-got-wrong-about-the-research/)
 
 ---
 
-## 18. Image to Image AI: Transform Any Photo with a Prompt
+## 20. AI escapes from containers faster than me – so what?
 
-**Author:** Zane0  
-**Published:** 11/13/2026, 12:32:01 PM  
+**Author:** speckx  
+**Published:** 11/13/2026, 8:13:30 PM  
 **Categories:** -  
 
-Article URL: https://imagetoimage-ai.org/ Comments URL: https://news.ycombinator.com/item?id=50482593 Points: 1 # Comments: 0
+Article URL: https://some-natalie.dev/blog/escapes-ai/ Comments URL: https://news.ycombinator.com/item?id=50489013 Points: 1 # Comments: 0
 
-📖 [Read original article](https://imagetoimage-ai.org/)
-
----
-
-## 19. Show HN: AI News Agg – Know what's trending in AI news
-
-**Author:** ksdk  
-**Published:** 11/13/2026, 12:20:17 PM  
-**Categories:** -  
-
-It can be difficult to get an overview of what's happening in AI. So I built a site that tracks AI-only news and announcements from 48 selected sources, including mainstream media, tech publications, bloggers, and company websites.On top of that, I've built in a mechanism that tracks how many of the...
-
-📖 [Read original article](https://ainewsagg.com/)
-
----
-
-## 20. AI has proved that a theory underpinning fundamental physics is trustworthy
-
-**Author:** Brajeshwar  
-**Published:** 11/13/2026, 12:18:29 PM  
-**Categories:** -  
-
-Article URL: https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy Comments URL: https://news.ycombinator.com/item?id=50482463 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy)
+📖 [Read original article](https://some-natalie.dev/blog/escapes-ai/)
 
 ---
