@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-11-10"
 date: "2026-11-10"
 source: "OpenAI Blog"
-count: 6
+count: 5
 ---
 
 # OpenAI Blog - 2026-11-10
 
-6 items collected.
+5 items collected.
 
 ---
 
@@ -68,17 +68,5 @@ Discover how Singapore Airlines uses OpenAI models and API to enhance customer s
 New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
 
 📖 [Read original article](https://openai.com/index/ai-effect-on-freelance-work)
-
----
-
-## 6. Cogent and OpenAI build cyber defense factories for enterprises
-
-**Author:** -  
-**Published:** 11/10/2026, 12:00:00 AM  
-**Categories:** Startup  
-
-Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.
-
-📖 [Read original article](https://openai.com/index/cogent-security)
 
 ---
