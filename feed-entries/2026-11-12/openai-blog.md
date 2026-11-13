@@ -19,7 +19,7 @@ count: 5
 
 Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.
 
-📖 [Read original article](https://openai.com/index/amplitude)
+📖 [Read original article](https://openai.com/business/customer-stories/amplitude)
 
 ---
 
