@@ -2,191 +2,251 @@
 title: "Hacker News AI - 2026-11-14"
 date: "2026-11-14"
 source: "Hacker News AI"
-count: 15
+count: 20
 ---
 
 # Hacker News AI - 2026-11-14
 
-15 items collected.
+20 items collected.
 
 ---
 
-## 1. Transforming Ripgrep's Documentation with AI Automation and MkDocs
+## 1. Show HN: Shotoku – Local-first action governance and budget caps for AI agents
+
+**Author:** IssaPrvj  
+**Published:** 11/14/2026, 1:02:53 PM  
+**Categories:** -  
+
+Article URL: https://www.shotoku.dev/ Comments URL: https://news.ycombinator.com/item?id=50496705 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.shotoku.dev/)
+
+---
+
+## 2. Show HN: Timon, an open-source AI workstation for coordinating agents
+
+**Author:** Saucisse_dev  
+**Published:** 11/14/2026, 12:52:01 PM  
+**Categories:** -  
+
+Article URL: https://github.com/ai-timon/timon Comments URL: https://news.ycombinator.com/item?id=50496631 Points: 3 # Comments: 0
+
+📖 [Read original article](https://github.com/ai-timon/timon)
+
+---
+
+## 3. Open-source AI without Jensen
+
+**Author:** pr337h4m  
+**Published:** 11/14/2026, 12:44:01 PM  
+**Categories:** -  
+
+Article URL: https://www.interconnects.ai/p/open-source-ai-without-jensen Comments URL: https://news.ycombinator.com/item?id=50496590 Points: 3 # Comments: 0
+
+📖 [Read original article](https://www.interconnects.ai/p/open-source-ai-without-jensen)
+
+---
+
+## 4. Why platform teams fail (and AI makes it worse)
+
+**Author:** Groady  
+**Published:** 11/14/2026, 12:32:36 PM  
+**Categories:** -  
+
+Article URL: https://willdady.com/why-platform-teams-fail Comments URL: https://news.ycombinator.com/item?id=50496525 Points: 3 # Comments: 0
+
+📖 [Read original article](https://willdady.com/why-platform-teams-fail)
+
+---
+
+## 5. Build Your Own AI Coding Agent Harness
 
 **Author:** ankitg12  
-**Published:** 11/14/2026, 5:19:51 AM  
+**Published:** 11/14/2026, 12:09:46 PM  
 **Categories:** -  
 
-Article URL: https://entropicdrift.com/blog/mkdocs-drift-automation/ Comments URL: https://news.ycombinator.com/item?id=50494244 Points: 2 # Comments: 0
+Article URL: https://vercel.com/academy/build-ai-agent-harness Comments URL: https://news.ycombinator.com/item?id=50496396 Points: 1 # Comments: 0
 
-📖 [Read original article](https://entropicdrift.com/blog/mkdocs-drift-automation/)
+📖 [Read original article](https://vercel.com/academy/build-ai-agent-harness)
 
 ---
 
-## 2. Show HN: EDNA – 100% on-device human sensing so AI can perceive the user
+## 6. Amazon's plan to own the product data and fight AI shopping agents
 
-**Author:** sebklaey  
-**Published:** 11/14/2026, 5:04:37 AM  
+**Author:** martey  
+**Published:** 11/14/2026, 12:09:29 PM  
 **Categories:** -  
 
-Article URL: https://openos.space Comments URL: https://news.ycombinator.com/item?id=50494144 Points: 3 # Comments: 0
+Article URL: https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/ Comments URL: https://news.ycombinator.com/item?id=50496391 Points: 2 # Comments: 0
 
-📖 [Read original article](https://openos.space)
+📖 [Read original article](https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/)
 
 ---
 
-## 3. Sick of Herding AI Cats?
+## 7. App like GitHub for your conversations with AI
 
-**Author:** cat_herder_1  
-**Published:** 11/14/2026, 4:13:42 AM  
+**Author:** charlesamumdemo  
+**Published:** 11/14/2026, 12:09:08 PM  
 **Categories:** -  
 
-I'm 54 and I've been a developer for 40 odd years, but the last couple of years have been the strangest yet. I've gone from hand crafting and taking pride in every line of code, module, system design, architecture, etc. to basically trying to wrangle the best out of AI. I have to admit, it's knowled...
+Article URL: http://ainiconva.com Comments URL: https://news.ycombinator.com/item?id=50496385 Points: 3 # Comments: 1
 
-📖 [Read original article](https://clowder.sh)
+📖 [Read original article](http://ainiconva.com)
 
 ---
 
-## 4. MathHelm: A Place to discuss AI-generated papers
+## 8. So Far, AI Pessimism Is Observationally Equivalent to AI Optimism
 
-**Author:** iLuddite  
-**Published:** 11/14/2026, 3:49:58 AM  
+**Author:** JulianPaul  
+**Published:** 11/14/2026, 11:53:42 AM  
 **Categories:** -  
 
-Article URL: https://mathhelm.org/ Comments URL: https://news.ycombinator.com/item?id=50493668 Points: 3 # Comments: 0
+Article URL: https://www.betonit.ai/p/so-far-ai-pessimism-is-observationally Comments URL: https://news.ycombinator.com/item?id=50496289 Points: 2 # Comments: 0
 
-📖 [Read original article](https://mathhelm.org/)
+📖 [Read original article](https://www.betonit.ai/p/so-far-ai-pessimism-is-observationally)
 
 ---
 
-## 5. Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)
+## 9. Real: Reported Engagement with AI Level Framework
 
-**Author:** Omodaka9375  
-**Published:** 11/14/2026, 3:22:22 AM  
+**Author:** jalev  
+**Published:** 11/14/2026, 11:28:33 AM  
 **Categories:** -  
 
-Article URL: https://browserr.dev Comments URL: https://news.ycombinator.com/item?id=50493464 Points: 1 # Comments: 0
+Article URL: https://www.realgoodai.org/real-rating Comments URL: https://news.ycombinator.com/item?id=50496147 Points: 1 # Comments: 0
 
-📖 [Read original article](https://browserr.dev)
+📖 [Read original article](https://www.realgoodai.org/real-rating)
 
 ---
 
-## 6. MathHelm: A Place to discuss AI-generated papers
+## 10. Ask HN: My product makes money, AI does the coding, and I feel useless
 
-**Author:** smilelamp  
-**Published:** 11/14/2026, 3:20:33 AM  
+**Author:** hellohiki  
+**Published:** 11/14/2026, 10:58:14 AM  
 **Categories:** -  
 
-Article URL: https://terrytao.wordpress.com/2026/11/13/introducing-mathhelm-a-place-to-discuss-ai-generated-papers/ Comments URL: https://news.ycombinator.com/item?id=50493444 Points: 2 # Comments: 0
+I solo founded a SaaS in 2019, on nights and weekends, while i was also working as a developer in another company in parallel.Today i don't have a 9 to 5 job anymore, the platform works. Real customers pay for it every week and easily pay my old salary.But I miss the days when I was debugging: Somet...
 
-📖 [Read original article](https://terrytao.wordpress.com/2026/11/13/introducing-mathhelm-a-place-to-discuss-ai-generated-papers/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50495982)
 
 ---
 
-## 7. Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs
+## 11. Anti-Turing for AI: Presumption as a Form of Thought
 
-**Author:** speckx  
-**Published:** 11/14/2026, 2:52:59 AM  
+**Author:** Aldus551  
+**Published:** 11/14/2026, 10:57:41 AM  
 **Categories:** -  
 
-Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 172 # Comments: 100
+Article URL: https://medium.com/@smoking2man/anti-turing-for-ai-presumption-as-a-form-of-thought-9eb8ae8edc9f Comments URL: https://news.ycombinator.com/item?id=50495977 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+📖 [Read original article](https://medium.com/@smoking2man/anti-turing-for-ai-presumption-as-a-form-of-thought-9eb8ae8edc9f)
 
 ---
 
-## 8. Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?
+## 12. The FAA Rolled Out AI Air Traffic Tool a Few Days Ago?
 
-**Author:** Exorust  
-**Published:** 11/14/2026, 2:46:12 AM  
+**Author:** nephihaha  
+**Published:** 11/14/2026, 10:47:46 AM  
 **Categories:** -  
 
-Article URL: https://opencyclone.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50493213 Points: 3 # Comments: 0
+Article URL: https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347 Comments URL: https://news.ycombinator.com/item?id=50495925 Points: 2 # Comments: 0
 
-📖 [Read original article](https://opencyclone.vercel.app/)
+📖 [Read original article](https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347)
 
 ---
 
-## 9. Of Course Americans Blamed the Ground Stop on AI
+## 13. Show HN: Orty – AI lead qualification for freelancers
 
-**Author:** paulpauper  
-**Published:** 11/14/2026, 2:02:02 AM  
+**Author:** Rayene  
+**Published:** 11/14/2026, 10:40:41 AM  
 **Categories:** -  
 
-Article URL: https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/ Comments URL: https://news.ycombinator.com/item?id=50492852 Points: 4 # Comments: 1
+Orty is an AI lead qualification that does 2 things: writes the email for you when you find a client , and helps you to find that client without a database or scraping the web .Honestly i built it because of a problem i had when i started working in the freelance industry , the problem wasn't findin...
 
-📖 [Read original article](https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/)
+📖 [Read original article](https://getorty.work)
 
 ---
 
-## 10. AI has become a utility bill for Gen Z
+## 14. Show HN: Autoeditor – AI for retention video editing
 
-**Author:** geox  
-**Published:** 11/14/2026, 1:23:14 AM  
+**Author:** Quise2003  
+**Published:** 11/14/2026, 10:10:13 AM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/ Comments URL: https://news.ycombinator.com/item?id=50492544 Points: 8 # Comments: 0
+Article URL: https://www.autoeditor.app/ Comments URL: https://news.ycombinator.com/item?id=50495701 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/)
+📖 [Read original article](https://www.autoeditor.app/)
 
 ---
 
-## 11. Every Way to Get 192GB for Local AI (Without a $9,500 Mac) [video]
+## 15. Backdooring LLMs – Do you trust your AI provider?
 
-**Author:** peter_d_sherman  
-**Published:** 11/14/2026, 12:59:29 AM  
+**Author:** me2too  
+**Published:** 11/14/2026, 9:20:54 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=_e2dk4Pothw Comments URL: https://news.ycombinator.com/item?id=50492369 Points: 5 # Comments: 1
+Article URL: https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/ Comments URL: https://news.ycombinator.com/item?id=50495440 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.youtube.com/watch?v=_e2dk4Pothw)
+📖 [Read original article](https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/)
 
 ---
 
-## 12. ChipAgents – The agentic foundation for semiconductor design (AI for IC design)
+## 16. Show HN: Gamma PDF – AI-native PDF reader, self-hosted
 
-**Author:** peter_d_sherman  
-**Published:** 11/14/2026, 12:42:10 AM  
+**Author:** tim4431  
+**Published:** 11/14/2026, 8:08:11 AM  
 **Categories:** -  
 
-Article URL: https://chipagents.ai/ Comments URL: https://news.ycombinator.com/item?id=50492245 Points: 2 # Comments: 0
+Author here.I have been reading papers and taking notes for years, using Zotero for the PDFs, Obsidian for the notes, and, recently, an AI chat tab for my questions. Gamma PDF is my attempt to make that one place.In Gamma, you open a paper by simply pasting an arXiv (or DOI) link. Highlight a senten...
 
-📖 [Read original article](https://chipagents.ai/)
+📖 [Read original article](https://gammapdf.com/)
 
 ---
 
-## 13. Show HN: Portal2Bench – Can AI agents solve Portal 2?
+## 17. WhatsTask – An AI project manager for teams of people and agents
 
-**Author:** kingsotn  
-**Published:** 11/14/2026, 12:40:55 AM  
+**Author:** hajara_sabnam  
+**Published:** 11/14/2026, 7:57:04 AM  
 **Categories:** -  
 
-Article URL: https://kingstonyip.com/portal2bench Comments URL: https://news.ycombinator.com/item?id=50492238 Points: 4 # Comments: 0
+Article URL: https://www.whatstask.com Comments URL: https://news.ycombinator.com/item?id=50495004 Points: 1 # Comments: 0
 
-📖 [Read original article](https://kingstonyip.com/portal2bench)
+📖 [Read original article](https://www.whatstask.com)
 
 ---
 
-## 14. Anthropic upgrades Claude Code Projects to run parallel AI workers
+## 18. Ask HN: What are the most useful, concrete AI skills to independently learn?
 
-**Author:** toppa33  
-**Published:** 11/14/2026, 12:28:11 AM  
+**Author:** shnock  
+**Published:** 11/14/2026, 6:56:42 AM  
 **Categories:** -  
 
-Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 72 # Comments: 68
+Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities?What is accessible to learn just from the internet and experimentation, without a degree program, assuming a pree...
 
-📖 [Read original article](https://claude.com/resources/articles/projects-redesigned)
+📖 [Read original article](https://news.ycombinator.com/item?id=50494696)
 
 ---
 
-## 15. Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass
+## 19. AI Productivity Gains Mainly Benefit People at the Top
 
-**Author:** Alienhead_dev  
-**Published:** 11/14/2026, 12:14:50 AM  
+**Author:** nelsonfigueroa  
+**Published:** 11/14/2026, 6:19:36 AM  
 **Categories:** -  
 
-Article URL: https://dev-head.com/ Comments URL: https://news.ycombinator.com/item?id=50492050 Points: 2 # Comments: 0
+Article URL: https://nelson.cloud/ai-productivity-gains-mainly-benefit-people-at-the-top/ Comments URL: https://news.ycombinator.com/item?id=50494531 Points: 1 # Comments: 0
 
-📖 [Read original article](https://dev-head.com/)
+📖 [Read original article](https://nelson.cloud/ai-productivity-gains-mainly-benefit-people-at-the-top/)
+
+---
+
+## 20. Every Flight Is Grounded on Day Trump Admin Installed AI Controls
+
+**Author:** madihaa  
+**Published:** 11/14/2026, 6:19:17 AM  
+**Categories:** -  
+
+Article URL: https://www.thedailybeast.com/faa-abruptly-grounds-all-flights-for-first-time-since-911 Comments URL: https://news.ycombinator.com/item?id=50494529 Points: 4 # Comments: 1
+
+📖 [Read original article](https://www.thedailybeast.com/faa-abruptly-grounds-all-flights-for-first-time-since-911)
 
 ---
