@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: OpenButterfly – Tracking the environmental impact of the AI ecosystem
+## 1. Is it OK to write blog posts with AI yet?
 
-**Author:** ravipatib  
-**Published:** 11/16/2026, 5:06:56 AM  
+**Author:** rmoff  
+**Published:** 11/16/2026, 3:02:25 PM  
 **Categories:** -  
 
-I built OpenButterfly to help people understand the environmental impact of the AI ecosystem.Openbutterfly tracks major AI companies (AI labs, cloud providers, chip makers and data center operators) and maps data center sites with their local grid carbon and water stress. Every disclosed figure link...
+Article URL: https://rmoff.net/2026/11/13/is-it-ok-to-write-blog-posts-with-ai-yet/ Comments URL: https://news.ycombinator.com/item?id=50518330 Points: 1 # Comments: 0
 
-📖 [Read original article](https://openbutterfly.com)
+📖 [Read original article](https://rmoff.net/2026/11/13/is-it-ok-to-write-blog-posts-with-ai-yet/)
 
 ---
 
-## 2. Google AI Ultra Subscription Not Worth It
+## 2. Memro: Shared memory and file claim for AI coding tool(Claude Code,Codex,Gemini)
 
-**Author:** behnamoh  
-**Published:** 11/16/2026, 4:59:22 AM  
+**Author:** subalyo  
+**Published:** 11/16/2026, 2:59:57 PM  
 **Categories:** -  
 
-Article URL: https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/ Comments URL: https://news.ycombinator.com/item?id=50514224 Points: 3 # Comments: 0
+Article URL: https://github.com/memrohq/memro Comments URL: https://news.ycombinator.com/item?id=50518304 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/)
+📖 [Read original article](https://github.com/memrohq/memro)
 
 ---
 
-## 3. Show HN: A benchmark that diffs the whole database after an AI agent's task
+## 3. A Layman Thinks about AI
 
-**Author:** shubhamjoshipro  
-**Published:** 11/16/2026, 4:49:45 AM  
+**Author:** RickJWagner  
+**Published:** 11/16/2026, 2:55:33 PM  
 **Categories:** -  
 
-Article URL: https://github.com/shubhamjoshipromail-svg/software-world-model Comments URL: https://news.ycombinator.com/item?id=50514157 Points: 1 # Comments: 0
+Article URL: https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai Comments URL: https://news.ycombinator.com/item?id=50518244 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/shubhamjoshipromail-svg/software-world-model)
+📖 [Read original article](https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai)
 
 ---
 
-## 4. Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered
+## 4. Cute faces like Muse Charm are a Trojan horse for exploitative AI tech
 
-**Author:** mfiguiere  
-**Published:** 11/16/2026, 4:03:51 AM  
+**Author:** 1vuio0pswjnm7  
+**Published:** 11/16/2026, 2:54:41 PM  
 **Categories:** -  
 
-Article URL: https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388 Comments URL: https://news.ycombinator.com/item?id=50513876 Points: 6 # Comments: 0
+Article URL: https://www.latimes.com/opinion/story/2026-11-10/muse-charm-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50518229 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388)
+📖 [Read original article](https://www.latimes.com/opinion/story/2026-11-10/muse-charm-artificial-intelligence)
 
 ---
 
-## 5. Show HN: Free AI Background Remover with Local Browser Privacy Mode (No Sign-Up)
+## 5. W3C and the State of the Web in the AI Era
 
-**Author:** trandigkhan  
-**Published:** 11/16/2026, 4:01:19 AM  
+**Author:** ThibWeb  
+**Published:** 11/16/2026, 2:53:45 PM  
 **Categories:** -  
 
-Article URL: https://toolifyhub.tools/tools/background-remover Comments URL: https://news.ycombinator.com/item?id=50513860 Points: 1 # Comments: 0
+Article URL: https://www.w3.org/2026/10/w3c-and-state-of-web-in-ai-era.html Comments URL: https://news.ycombinator.com/item?id=50518218 Points: 1 # Comments: 0
 
-📖 [Read original article](https://toolifyhub.tools/tools/background-remover)
+📖 [Read original article](https://www.w3.org/2026/10/w3c-and-state-of-web-in-ai-era.html)
 
 ---
 
-## 6. Reports of AI-related child sexual abuse material rise 8,400% in two years
+## 6. Caption.me AI Arena – How Funny Are LLMs?
 
-**Author:** madihaa  
-**Published:** 11/16/2026, 3:34:55 AM  
+**Author:** cbeach  
+**Published:** 11/16/2026, 2:46:02 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes Comments URL: https://news.ycombinator.com/item?id=50513713 Points: 5 # Comments: 0
+Article URL: https://www.caption.me/ai-arena Comments URL: https://news.ycombinator.com/item?id=50518139 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes)
+📖 [Read original article](https://www.caption.me/ai-arena)
 
 ---
 
-## 7. Show HN: Memeo – Turn static photos into lip-synced AI meme videos in seconds
+## 7. Cartoons on an AI PMs' shifting choices in a low-attention post-AGI era
 
-**Author:** shuangge  
-**Published:** 11/16/2026, 3:18:30 AM  
+**Author:** bosky101  
+**Published:** 11/16/2026, 2:38:13 PM  
 **Categories:** -  
 
-Article URL: https://memeo.app/ Comments URL: https://news.ycombinator.com/item?id=50513619 Points: 1 # Comments: 0
+Article URL: https://boskykode.com/blog/low-attention-post-agi-world-contrarian-product-perspectives Comments URL: https://news.ycombinator.com/item?id=50518061 Points: 1 # Comments: 0
 
-📖 [Read original article](https://memeo.app/)
+📖 [Read original article](https://boskykode.com/blog/low-attention-post-agi-world-contrarian-product-perspectives)
 
 ---
 
-## 8. Mapping cyber risk in the era of AI: Which industries are most exposed?
+## 8. Where Are Our 10× Engineers? The Math of AI-Assisted Coding [video]
 
-**Author:** gmays  
-**Published:** 11/16/2026, 3:04:42 AM  
+**Author:** navaro1  
+**Published:** 11/16/2026, 2:35:56 PM  
 **Categories:** -  
 
-Article URL: https://www.moodys.com/web/en/us/insights/data-stories/moodys-2026-cyber-risk-exposure-heat-map-ranks-21-sectors.html Comments URL: https://news.ycombinator.com/item?id=50513532 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=go_Fjw_51W4 Comments URL: https://news.ycombinator.com/item?id=50518040 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.moodys.com/web/en/us/insights/data-stories/moodys-2026-cyber-risk-exposure-heat-map-ranks-21-sectors.html)
+📖 [Read original article](https://www.youtube.com/watch?v=go_Fjw_51W4)
 
 ---
 
-## 9. AI and the City
+## 9. Plzdontkillus – experimental creator bootcamp about AI doom
 
-**Author:** gmays  
-**Published:** 11/16/2026, 2:23:03 AM  
+**Author:** chippy  
+**Published:** 11/16/2026, 2:34:34 PM  
 **Categories:** -  
 
-Article URL: https://www.stripeeconomics.com/p/ai-and-the-city Comments URL: https://news.ycombinator.com/item?id=50513264 Points: 1 # Comments: 0
+Article URL: https://plzdontkillus.com/ Comments URL: https://news.ycombinator.com/item?id=50518020 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.stripeeconomics.com/p/ai-and-the-city)
+📖 [Read original article](https://plzdontkillus.com/)
 
 ---
 
-## 10. Show HN: AquarIum – pick your favorite (AI-generated) fish tank
+## 10. AI Video to Text – Free Online Video to Text and Audio to Text Converter
 
-**Author:** yenniejun111  
-**Published:** 11/16/2026, 1:56:34 AM  
+**Author:** wsm123456  
+**Published:** 11/16/2026, 2:27:45 PM  
 **Categories:** -  
 
-I asked 12 different AI models to build the HTML to fill its own tank at an aquarium — then displayed them for you to see and vote on your favorite one! I did this for several other "gallery" themes, such as fungi, fairy cards, bonsai trees, and constellations.Maybe not surprising, but it was intere...
+Article URL: https://www.aivideototext.org/ Comments URL: https://news.ycombinator.com/item?id=50517951 Points: 1 # Comments: 0
 
-📖 [Read original article](https://galleries.artfish.ai/aquarium/)
+📖 [Read original article](https://www.aivideototext.org/)
 
 ---
 
-## 11. Will the AI boom continue? Forecasting the trajectory of the AI industry
+## 11. Build or Buy Manufacturing ERP in the Age of AI
 
-**Author:** gmays  
-**Published:** 11/16/2026, 1:54:34 AM  
+**Author:** robeym  
+**Published:** 11/16/2026, 2:26:59 PM  
 **Categories:** -  
 
-Article URL: https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting Comments URL: https://news.ycombinator.com/item?id=50513087 Points: 4 # Comments: 0
+Article URL: https://www.paxerp.com/blog/build-or-buy-manufacturing-erp-ai Comments URL: https://news.ycombinator.com/item?id=50517938 Points: 1 # Comments: 1
 
-📖 [Read original article](https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting)
+📖 [Read original article](https://www.paxerp.com/blog/build-or-buy-manufacturing-erp-ai)
 
 ---
 
-## 12. A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang
+## 12. A human-steered, AI-built freeware hybrid of Ableton, Bitwig, and Renoise
 
-**Author:** jdkee  
-**Published:** 11/16/2026, 1:53:01 AM  
+**Author:** conner_bw  
+**Published:** 11/16/2026, 2:26:27 PM  
 **Categories:** -  
 
-Article URL: https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/ Comments URL: https://news.ycombinator.com/item?id=50513079 Points: 4 # Comments: 0
+Article URL: https://edu.morningdewmedia.com/product/morningdaw Comments URL: https://news.ycombinator.com/item?id=50517934 Points: 2 # Comments: 0
 
-📖 [Read original article](https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/)
+📖 [Read original article](https://edu.morningdewmedia.com/product/morningdaw)
 
 ---
 
-## 13. Apple launches research study to explore the use of AI for health
+## 13. Guilty Until Proven Human: How AI Suspicion Broke Book Publishing
 
-**Author:** johnbehnke  
-**Published:** 11/16/2026, 1:43:47 AM  
+**Author:** dxs  
+**Published:** 11/16/2026, 2:23:32 PM  
 **Categories:** -  
 
-Article URL: https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/ Comments URL: https://news.ycombinator.com/item?id=50513026 Points: 2 # Comments: 0
+Article URL: https://smarterarticles.co.uk/guilty-until-proven-human-how-ai-suspicion-broke-book-publishing Comments URL: https://news.ycombinator.com/item?id=50517896 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/)
+📖 [Read original article](https://smarterarticles.co.uk/guilty-until-proven-human-how-ai-suspicion-broke-book-publishing)
 
 ---
 
-## 14. \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs
+## 14. Nvidia ordered to explain $12B supply of AI chips to China
 
-**Author:** myth_drannon  
-**Published:** 11/16/2026, 1:31:30 AM  
+**Author:** ronny683  
+**Published:** 11/16/2026, 2:20:50 PM  
 **Categories:** -  
 
-Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 78 # Comments: 67
+Article URL: https://www.thetimes.com/business/companies-markets/article/nvidia-jensen-huang-us-treasury-ai-chips-china-ckwd9037f Comments URL: https://news.ycombinator.com/item?id=50517866 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.hntrends.com/2026/november.html)
+📖 [Read original article](https://www.thetimes.com/business/companies-markets/article/nvidia-jensen-huang-us-treasury-ai-chips-china-ckwd9037f)
 
 ---
 
-## 15. Agentic AI Designs an Analog Synthesizer
+## 15. Google: AI agent turned a security patch into a exploit with no human help
 
-**Author:** oidar  
-**Published:** 11/16/2026, 1:28:10 AM  
+**Author:** sshah03  
+**Published:** 11/16/2026, 2:14:09 PM  
 **Categories:** -  
 
-Article URL: https://cpldcpu.github.io/2026/11/14/touchsynth/ Comments URL: https://news.ycombinator.com/item?id=50512933 Points: 11 # Comments: 1
+Article URL: https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926 Comments URL: https://news.ycombinator.com/item?id=50517797 Points: 5 # Comments: 2
 
-📖 [Read original article](https://cpldcpu.github.io/2026/11/14/touchsynth/)
+📖 [Read original article](https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926)
 
 ---
 
-## 16. Everything Made by an AI Is in the Public Domain
+## 16. The Icarus Files: AI labs are aggressively diversifying away from Nvidia
 
-**Author:** signa11  
-**Published:** 11/16/2026, 1:24:15 AM  
+**Author:** Betelbuddy  
+**Published:** 11/16/2026, 2:12:10 PM  
 **Categories:** -  
 
-Article URL: https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/ Comments URL: https://news.ycombinator.com/item?id=50512907 Points: 5 # Comments: 3
+Article URL: https://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/eye-on-the-market/the-icarus-files-whats-next-for-nvidia-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50517780 Points: 2 # Comments: 0
 
-📖 [Read original article](https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/)
+📖 [Read original article](https://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/eye-on-the-market/the-icarus-files-whats-next-for-nvidia-and-ai/)
 
 ---
 
-## 17. I Sustained 500K Words of Human–AI Dialogue Through Continuous Correction
+## 17. Challenges for human oversight in detecting AI-assisted diagnostic malfunctions
 
-**Author:** pinuslongaeva  
-**Published:** 11/16/2026, 1:17:32 AM  
+**Author:** amirmc  
+**Published:** 11/16/2026, 2:10:51 PM  
 **Categories:** -  
 
-Article URL: https://uka-135-map.pplx.app Comments URL: https://news.ycombinator.com/item?id=50512849 Points: 1 # Comments: 0
+Article URL: https://www.nature.com/articles/s41746-026-03410-x Comments URL: https://news.ycombinator.com/item?id=50517765 Points: 1 # Comments: 0
 
-📖 [Read original article](https://uka-135-map.pplx.app)
+📖 [Read original article](https://www.nature.com/articles/s41746-026-03410-x)
 
 ---
 
-## 18. 'It's like the Wild West': how AI has rocked the literary world
+## 18. AI-driven scientific progress threatened by an obsession
 
-**Author:** Archelaos  
-**Published:** 11/16/2026, 12:52:00 AM  
+**Author:** 50kIters  
+**Published:** 11/16/2026, 2:00:06 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world Comments URL: https://news.ycombinator.com/item?id=50512682 Points: 7 # Comments: 3
+Article URL: https://www.unite.ai/ai-driven-scientific-progress-threatened-by-a-strange-obsession/ Comments URL: https://news.ycombinator.com/item?id=50517667 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world)
+📖 [Read original article](https://www.unite.ai/ai-driven-scientific-progress-threatened-by-a-strange-obsession/)
 
 ---
 
-## 19. Amazon MadPot: Honeypot for AI Agents
+## 19. Apple Seeks 200k People for AI Health Study
 
-**Author:** dnw  
-**Published:** 11/16/2026, 12:50:59 AM  
+**Author:** mgh2  
+**Published:** 11/16/2026, 1:51:09 PM  
 **Categories:** -  
 
-Article URL: https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50512675 Points: 5 # Comments: 1
+Article URL: https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/ Comments URL: https://news.ycombinator.com/item?id=50517597 Points: 2 # Comments: 0
 
-📖 [Read original article](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/)
+📖 [Read original article](https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/)
 
 ---
 
-## 20. CrowdGPT – AI Owned by Everyone
+## 20. US Moves to Limit Remote Access to Advanced AI Chips
 
-**Author:** Retro_Dev  
-**Published:** 11/16/2026, 12:13:30 AM  
+**Author:** helsinkiandrew  
+**Published:** 11/16/2026, 1:46:55 PM  
 **Categories:** -  
 
-Article URL: https://www.crowdgpt.net/#home Comments URL: https://news.ycombinator.com/item?id=50512383 Points: 3 # Comments: 0
+Article URL: https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips Comments URL: https://news.ycombinator.com/item?id=50517567 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.crowdgpt.net/#home)
+📖 [Read original article](https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips)
 
 ---
