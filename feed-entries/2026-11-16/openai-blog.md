@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-11-16"
 date: "2026-11-16"
 source: "OpenAI Blog"
-count: 9
+count: 10
 ---
 
 # OpenAI Blog - 2026-11-16
 
-9 items collected.
+10 items collected.
 
 ---
 
@@ -47,7 +47,19 @@ Explore how more than 1,800 scientists use ChatGPT in research. See findings on 
 
 ---
 
-## 4. LVMH’s Media Division announces strategic partnership with OpenAI
+## 4. How Revolut raises ambition without lowering the bar
+
+**Author:** -  
+**Published:** 11/16/2026, 9:30:00 AM  
+**Categories:** -  
+
+Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.
+
+📖 [Read original article](https://openai.com/business/customer-stories/revolut)
+
+---
+
+## 5. LVMH’s Media Division announces strategic partnership with OpenAI
 
 **Author:** -  
 **Published:** 11/16/2026, 9:00:00 AM  
@@ -59,7 +71,7 @@ LVMH’s Media Division and OpenAI announce a partnership to support journalism 
 
 ---
 
-## 5. Our first phase of embedded assessments
+## 6. Our first phase of embedded assessments
 
 **Author:** -  
 **Published:** 11/16/2026, 8:00:00 AM  
@@ -68,18 +80,6 @@ LVMH’s Media Division and OpenAI announce a partnership to support journalism 
 OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.
 
 📖 [Read original article](https://openai.com/index/our-first-phase-of-embedded-assessments)
-
----
-
-## 6. Advancing computer-use agents for healthcare teams
-
-**Author:** -  
-**Published:** 11/16/2026, 6:00:00 AM  
-**Categories:** Product  
-
-
-
-📖 [Read original article](https://openai.com/index/advancing-computer-use-for-healthcare-teams)
 
 ---
 
@@ -95,7 +95,19 @@ Introducing computer-use agents, improved clinical answers, and new healthcare p
 
 ---
 
-## 8. The King’s Trust and OpenAI launch £1m partnership
+## 8. Advancing computer-use agents for healthcare teams
+
+**Author:** -  
+**Published:** 11/16/2026, 6:00:00 AM  
+**Categories:** Product  
+
+
+
+📖 [Read original article](https://openai.com/index/advancing-computer-use-for-healthcare-teams)
+
+---
+
+## 9. The King’s Trust and OpenAI launch £1m partnership
 
 **Author:** -  
 **Published:** 11/16/2026, 12:00:00 AM  
@@ -107,7 +119,7 @@ The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 you
 
 ---
 
-## 9. At Holiday Extras, dots get to work before anyone asks
+## 10. At Holiday Extras, dots get to work before anyone asks
 
 **Author:** -  
 **Published:** 11/16/2026, 12:00:00 AM  
