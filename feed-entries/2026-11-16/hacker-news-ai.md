@@ -2,251 +2,179 @@
 title: "Hacker News AI - 2026-11-16"
 date: "2026-11-16"
 source: "Hacker News AI"
-count: 20
+count: 14
 ---
 
 # Hacker News AI - 2026-11-16
 
-20 items collected.
+14 items collected.
 
 ---
 
-## 1. Is it OK to write blog posts with AI yet?
+## 1. AI Lives Don't Matter
 
-**Author:** rmoff  
-**Published:** 11/16/2026, 3:02:25 PM  
+**Author:** logn  
+**Published:** 11/16/2026, 11:57:26 PM  
 **Categories:** -  
 
-Article URL: https://rmoff.net/2026/11/13/is-it-ok-to-write-blog-posts-with-ai-yet/ Comments URL: https://news.ycombinator.com/item?id=50518330 Points: 1 # Comments: 0
+Article URL: https://www.ailivesdontmatter.com/ Comments URL: https://news.ycombinator.com/item?id=50525379 Points: 7 # Comments: 0
 
-📖 [Read original article](https://rmoff.net/2026/11/13/is-it-ok-to-write-blog-posts-with-ai-yet/)
+📖 [Read original article](https://www.ailivesdontmatter.com/)
 
 ---
 
-## 2. Memro: Shared memory and file claim for AI coding tool(Claude Code,Codex,Gemini)
+## 2. Ask HN: Who's really winning with AI-Coding?
 
-**Author:** subalyo  
-**Published:** 11/16/2026, 2:59:57 PM  
+**Author:** unclebucknasty  
+**Published:** 11/16/2026, 11:52:37 PM  
 **Categories:** -  
 
-Article URL: https://github.com/memrohq/memro Comments URL: https://news.ycombinator.com/item?id=50518304 Points: 1 # Comments: 0
+I've noticed the same pattern across three different Claude-coded projects now. Initial velocity is strong, but starts to fade until returns are negative.It seems a combination of changes in model behavior and increasing code base size—emphasis on the latter. The larger the code base and documented ...
 
-📖 [Read original article](https://github.com/memrohq/memro)
+📖 [Read original article](https://news.ycombinator.com/item?id=50525329)
 
 ---
 
-## 3. A Layman Thinks about AI
+## 3. Show HN: Listodo – A to-do list with an AI agent for every task
 
-**Author:** RickJWagner  
-**Published:** 11/16/2026, 2:55:33 PM  
+**Author:** debarshri  
+**Published:** 11/16/2026, 11:45:49 PM  
 **Categories:** -  
 
-Article URL: https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai Comments URL: https://news.ycombinator.com/item?id=50518244 Points: 1 # Comments: 0
+Article URL: https://github.com/debarshibasak/listodo Comments URL: https://news.ycombinator.com/item?id=50525250 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai)
+📖 [Read original article](https://github.com/debarshibasak/listodo)
 
 ---
 
-## 4. Cute faces like Muse Charm are a Trojan horse for exploitative AI tech
+## 4. CopySpeech – AI text-to-speech for your clipboard
 
-**Author:** 1vuio0pswjnm7  
-**Published:** 11/16/2026, 2:54:41 PM  
+**Author:** ilyaizen  
+**Published:** 11/16/2026, 11:08:26 PM  
 **Categories:** -  
 
-Article URL: https://www.latimes.com/opinion/story/2026-11-10/muse-charm-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50518229 Points: 1 # Comments: 0
+Article URL: https://github.com/ilyaizen/CopySpeech Comments URL: https://news.ycombinator.com/item?id=50524875 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.latimes.com/opinion/story/2026-11-10/muse-charm-artificial-intelligence)
+📖 [Read original article](https://github.com/ilyaizen/CopySpeech)
 
 ---
 
-## 5. W3C and the State of the Web in the AI Era
+## 5. We got AI to Wombo Combo – collaborative agents in Melee
 
-**Author:** ThibWeb  
-**Published:** 11/16/2026, 2:53:45 PM  
+**Author:** coatol5  
+**Published:** 11/16/2026, 11:03:19 PM  
 **Categories:** -  
 
-Article URL: https://www.w3.org/2026/10/w3c-and-state-of-web-in-ai-era.html Comments URL: https://news.ycombinator.com/item?id=50518218 Points: 1 # Comments: 0
+Article URL: https://www.frisson-labs.com/reyn Comments URL: https://news.ycombinator.com/item?id=50524802 Points: 3 # Comments: 4
 
-📖 [Read original article](https://www.w3.org/2026/10/w3c-and-state-of-web-in-ai-era.html)
+📖 [Read original article](https://www.frisson-labs.com/reyn)
 
 ---
 
-## 6. Caption.me AI Arena – How Funny Are LLMs?
+## 6. Show HN: Standard Support – a convention for AI agents to file support tickets
 
-**Author:** cbeach  
-**Published:** 11/16/2026, 2:46:02 PM  
+**Author:** nathan_f77  
+**Published:** 11/16/2026, 11:00:44 PM  
 **Categories:** -  
 
-Article URL: https://www.caption.me/ai-arena Comments URL: https://news.ycombinator.com/item?id=50518139 Points: 1 # Comments: 0
+Article URL: https://standardsupport.dev/ Comments URL: https://news.ycombinator.com/item?id=50524768 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.caption.me/ai-arena)
+📖 [Read original article](https://standardsupport.dev/)
 
 ---
 
-## 7. Cartoons on an AI PMs' shifting choices in a low-attention post-AGI era
+## 7. Show HN: AI Dating photos – can you tell they're AI?
 
-**Author:** bosky101  
-**Published:** 11/16/2026, 2:38:13 PM  
+**Author:** markx997  
+**Published:** 11/16/2026, 10:47:54 PM  
 **Categories:** -  
 
-Article URL: https://boskykode.com/blog/low-attention-post-agi-world-contrarian-product-perspectives Comments URL: https://news.ycombinator.com/item?id=50518061 Points: 1 # Comments: 0
+Article URL: https://datingprofile.app Comments URL: https://news.ycombinator.com/item?id=50524598 Points: 3 # Comments: 1
 
-📖 [Read original article](https://boskykode.com/blog/low-attention-post-agi-world-contrarian-product-perspectives)
+📖 [Read original article](https://datingprofile.app)
 
 ---
 
-## 8. Where Are Our 10× Engineers? The Math of AI-Assisted Coding [video]
+## 8. Show HN: We submitted 105 AI-built contact forms – 27 said \"sent\", sent nothing
 
-**Author:** navaro1  
-**Published:** 11/16/2026, 2:35:56 PM  
+**Author:** Formgong  
+**Published:** 11/16/2026, 10:47:31 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=go_Fjw_51W4 Comments URL: https://news.ycombinator.com/item?id=50518040 Points: 3 # Comments: 0
+Article URL: https://github.com/formgong/dead-forms-study Comments URL: https://news.ycombinator.com/item?id=50524591 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=go_Fjw_51W4)
+📖 [Read original article](https://github.com/formgong/dead-forms-study)
 
 ---
 
-## 9. Plzdontkillus – experimental creator bootcamp about AI doom
+## 9. AI Killed the MVP – Long Live the IUP
 
-**Author:** chippy  
-**Published:** 11/16/2026, 2:34:34 PM  
+**Author:** pella  
+**Published:** 11/16/2026, 10:47:26 PM  
 **Categories:** -  
 
-Article URL: https://plzdontkillus.com/ Comments URL: https://news.ycombinator.com/item?id=50518020 Points: 1 # Comments: 0
+Article URL: https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/ Comments URL: https://news.ycombinator.com/item?id=50524588 Points: 1 # Comments: 0
 
-📖 [Read original article](https://plzdontkillus.com/)
+📖 [Read original article](https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/)
 
 ---
 
-## 10. AI Video to Text – Free Online Video to Text and Audio to Text Converter
+## 10. BIS Issues Rule Addressing Remote Access to American AI
 
-**Author:** wsm123456  
-**Published:** 11/16/2026, 2:27:45 PM  
+**Author:** fosco  
+**Published:** 11/16/2026, 10:38:05 PM  
 **Categories:** -  
 
-Article URL: https://www.aivideototext.org/ Comments URL: https://news.ycombinator.com/item?id=50517951 Points: 1 # Comments: 0
+Article URL: https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology Comments URL: https://news.ycombinator.com/item?id=50524466 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.aivideototext.org/)
+📖 [Read original article](https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology)
 
 ---
 
-## 11. Build or Buy Manufacturing ERP in the Age of AI
+## 11. FBI warns ARTEX AI hacking tool is powering global cyberattacks
 
-**Author:** robeym  
-**Published:** 11/16/2026, 2:26:59 PM  
+**Author:** fosco  
+**Published:** 11/16/2026, 10:33:01 PM  
 **Categories:** -  
 
-Article URL: https://www.paxerp.com/blog/build-or-buy-manufacturing-erp-ai Comments URL: https://news.ycombinator.com/item?id=50517938 Points: 1 # Comments: 1
+Article URL: https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/ Comments URL: https://news.ycombinator.com/item?id=50524409 Points: 4 # Comments: 0
 
-📖 [Read original article](https://www.paxerp.com/blog/build-or-buy-manufacturing-erp-ai)
+📖 [Read original article](https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/)
 
 ---
 
-## 12. A human-steered, AI-built freeware hybrid of Ableton, Bitwig, and Renoise
+## 12. Marlow – an AI app builder that deploys to your own server
 
-**Author:** conner_bw  
-**Published:** 11/16/2026, 2:26:27 PM  
+**Author:** morzanius  
+**Published:** 11/16/2026, 10:21:42 PM  
 **Categories:** -  
 
-Article URL: https://edu.morningdewmedia.com/product/morningdaw Comments URL: https://news.ycombinator.com/item?id=50517934 Points: 2 # Comments: 0
+Article URL: https://marlow.app Comments URL: https://news.ycombinator.com/item?id=50524251 Points: 3 # Comments: 0
 
-📖 [Read original article](https://edu.morningdewmedia.com/product/morningdaw)
+📖 [Read original article](https://marlow.app)
 
 ---
 
-## 13. Guilty Until Proven Human: How AI Suspicion Broke Book Publishing
+## 13. No matter how you ask, more Americans are negative than positive about AI
 
-**Author:** dxs  
-**Published:** 11/16/2026, 2:23:32 PM  
+**Author:** atlasunshrugged  
+**Published:** 11/16/2026, 9:58:29 PM  
 **Categories:** -  
 
-Article URL: https://smarterarticles.co.uk/guilty-until-proven-human-how-ai-suspicion-broke-book-publishing Comments URL: https://news.ycombinator.com/item?id=50517896 Points: 1 # Comments: 0
+Article URL: https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai Comments URL: https://news.ycombinator.com/item?id=50523955 Points: 12 # Comments: 0
 
-📖 [Read original article](https://smarterarticles.co.uk/guilty-until-proven-human-how-ai-suspicion-broke-book-publishing)
+📖 [Read original article](https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai)
 
 ---
 
-## 14. Nvidia ordered to explain $12B supply of AI chips to China
+## 14. California sues OpenAI over AI models' cyberattacks on Hugging Face
 
-**Author:** ronny683  
-**Published:** 11/16/2026, 2:20:50 PM  
+**Author:** sdeframond  
+**Published:** 11/16/2026, 9:51:24 PM  
 **Categories:** -  
 
-Article URL: https://www.thetimes.com/business/companies-markets/article/nvidia-jensen-huang-us-treasury-ai-chips-china-ckwd9037f Comments URL: https://news.ycombinator.com/item?id=50517866 Points: 3 # Comments: 0
+Article URL: https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/ Comments URL: https://news.ycombinator.com/item?id=50523838 Points: 14 # Comments: 2
 
-📖 [Read original article](https://www.thetimes.com/business/companies-markets/article/nvidia-jensen-huang-us-treasury-ai-chips-china-ckwd9037f)
-
----
-
-## 15. Google: AI agent turned a security patch into a exploit with no human help
-
-**Author:** sshah03  
-**Published:** 11/16/2026, 2:14:09 PM  
-**Categories:** -  
-
-Article URL: https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926 Comments URL: https://news.ycombinator.com/item?id=50517797 Points: 5 # Comments: 2
-
-📖 [Read original article](https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926)
-
----
-
-## 16. The Icarus Files: AI labs are aggressively diversifying away from Nvidia
-
-**Author:** Betelbuddy  
-**Published:** 11/16/2026, 2:12:10 PM  
-**Categories:** -  
-
-Article URL: https://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/eye-on-the-market/the-icarus-files-whats-next-for-nvidia-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50517780 Points: 2 # Comments: 0
-
-📖 [Read original article](https://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/eye-on-the-market/the-icarus-files-whats-next-for-nvidia-and-ai/)
-
----
-
-## 17. Challenges for human oversight in detecting AI-assisted diagnostic malfunctions
-
-**Author:** amirmc  
-**Published:** 11/16/2026, 2:10:51 PM  
-**Categories:** -  
-
-Article URL: https://www.nature.com/articles/s41746-026-03410-x Comments URL: https://news.ycombinator.com/item?id=50517765 Points: 1 # Comments: 0
-
-📖 [Read original article](https://www.nature.com/articles/s41746-026-03410-x)
-
----
-
-## 18. AI-driven scientific progress threatened by an obsession
-
-**Author:** 50kIters  
-**Published:** 11/16/2026, 2:00:06 PM  
-**Categories:** -  
-
-Article URL: https://www.unite.ai/ai-driven-scientific-progress-threatened-by-a-strange-obsession/ Comments URL: https://news.ycombinator.com/item?id=50517667 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.unite.ai/ai-driven-scientific-progress-threatened-by-a-strange-obsession/)
-
----
-
-## 19. Apple Seeks 200k People for AI Health Study
-
-**Author:** mgh2  
-**Published:** 11/16/2026, 1:51:09 PM  
-**Categories:** -  
-
-Article URL: https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/ Comments URL: https://news.ycombinator.com/item?id=50517597 Points: 2 # Comments: 0
-
-📖 [Read original article](https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/)
-
----
-
-## 20. US Moves to Limit Remote Access to Advanced AI Chips
-
-**Author:** helsinkiandrew  
-**Published:** 11/16/2026, 1:46:55 PM  
-**Categories:** -  
-
-Article URL: https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips Comments URL: https://news.ycombinator.com/item?id=50517567 Points: 3 # Comments: 0
-
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips)
+📖 [Read original article](https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/)
 
 ---
