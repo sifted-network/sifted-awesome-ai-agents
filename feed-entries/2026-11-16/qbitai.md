@@ -2,12 +2,12 @@
 title: "qbitai - 2026-11-16"
 date: "2026-11-16"
 source: "qbitai"
-count: 5
+count: 4
 ---
 
 # qbitai - 2026-11-16
 
-5 items collected.
+4 items collected.
 
 ---
 
@@ -56,17 +56,5 @@ count: 5
 2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。
 
 📖 [Read original article](https://www.qbitai.com/2026/11/510493.html)
-
----
-
-## 5. 阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景
-
-**Author:** 量子位的朋友们  
-**Published:** 11/16/2026, 7:51:57 AM  
-**Categories:** 资讯, 阿里巴巴  
-
-11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max
-
-📖 [Read original article](https://www.qbitai.com/2026/11/510486.html)
 
 ---
