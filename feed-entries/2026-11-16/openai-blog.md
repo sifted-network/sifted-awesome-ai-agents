@@ -83,19 +83,7 @@ OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, an
 
 ---
 
-## 7. More ways to move care forward with ChatGPT for Healthcare
-
-**Author:** -  
-**Published:** 11/16/2026, 6:00:00 AM  
-**Categories:** Product  
-
-Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
-
-📖 [Read original article](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare)
-
----
-
-## 8. Advancing computer-use agents for healthcare teams
+## 7. Advancing computer-use agents for healthcare teams
 
 **Author:** -  
 **Published:** 11/16/2026, 6:00:00 AM  
@@ -104,6 +92,18 @@ Introducing computer-use agents, improved clinical answers, and new healthcare p
 
 
 📖 [Read original article](https://openai.com/index/advancing-computer-use-for-healthcare-teams)
+
+---
+
+## 8. More ways to move care forward with ChatGPT for Healthcare
+
+**Author:** -  
+**Published:** 11/16/2026, 6:00:00 AM  
+**Categories:** Product  
+
+Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
+
+📖 [Read original article](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare)
 
 ---
 
