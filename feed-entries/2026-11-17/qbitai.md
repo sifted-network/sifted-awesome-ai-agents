@@ -2,12 +2,12 @@
 title: "qbitai - 2026-11-17"
 date: "2026-11-17"
 source: "qbitai"
-count: 6
+count: 2
 ---
 
 # qbitai - 2026-11-17
 
-6 items collected.
+2 items collected.
 
 ---
 
@@ -32,53 +32,5 @@ count: 6
 瞄准「产业级世界模型」
 
 📖 [Read original article](https://www.qbitai.com/2026/11/510688.html)
-
----
-
-## 3. 材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率
-
-**Author:** 思邈  
-**Published:** 11/17/2026, 6:09:40 AM  
-**Categories:** 资讯, MatOS, 材料科学  
-
-筛材料、找配方、开发新模型…拿下多项科研任务
-
-📖 [Read original article](https://www.qbitai.com/2026/11/510652.html)
-
----
-
-## 4. 真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！
-
-**Author:** 十三  
-**Published:** 11/17/2026, 4:35:03 AM  
-**Categories:** 资讯, 首页轮播, 具身大模型挑战赛, 具身智能, 蚂蚁灵波  
-
-斩获80000元奖金
-
-📖 [Read original article](https://www.qbitai.com/2026/11/510610.html)
-
----
-
-## 5. 奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…
-
-**Author:** 梦瑶  
-**Published:** 11/17/2026, 2:33:13 AM  
-**Categories:** 资讯, 奥特曼  
-
-奥特曼首谈黄仁勋离职
-
-📖 [Read original article](https://www.qbitai.com/2026/11/510592.html)
-
----
-
-## 6. 物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs
-
-**Author:** 林, 方舟  
-**Published:** 11/17/2026, 2:03:22 AM  
-**Categories:** 资讯, 仿真, 机器人  
-
-
-
-📖 [Read original article](https://www.qbitai.com/2026/11/510561.html)
 
 ---
