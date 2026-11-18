@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Trump administration weighs forcing US firms to disclose Chinese AI use
+## 1. Show HN: Frontier Observatory – A visual timeline of what the AI labs ship
 
-**Author:** danorama  
-**Published:** 11/18/2026, 3:04:11 PM  
+**Author:** mnhcorp  
+**Published:** 11/18/2026, 11:45:01 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/ Comments URL: https://news.ycombinator.com/item?id=50547154 Points: 1 # Comments: 0
+Frontier labs ship a lot. This gives me a handle on things. Also nice view of what the labs are prioritising (if release/research output is any indication)..Made with GPT-6.2 Astra High. Initial prompt was a bit rambly, some refinement over time. It suggested 'scry' which I thought was a bad name so...
 
-📖 [Read original article](https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/)
+📖 [Read original article](https://frontier-lab-observatory.lucentcarrot1.chatgpt.site)
 
 ---
 
-## 2. Data Minimization Is Imperative for the Age of AI Agents
+## 2. The public database of AI agent incidents
 
-**Author:** sebastian_z  
-**Published:** 11/18/2026, 3:00:18 PM  
+**Author:** yakhinvadim  
+**Published:** 11/18/2026, 11:42:00 PM  
 **Categories:** -  
 
-Article URL: https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50547106 Points: 1 # Comments: 0
+Article URL: https://www.experimentempire.com/agent-incident-register Comments URL: https://news.ycombinator.com/item?id=50553944 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.techpolicy.press/data-minimization-is-imperative-for-the-age-of-ai-agents/)
+📖 [Read original article](https://www.experimentempire.com/agent-incident-register)
 
 ---
 
-## 3. The Reconstructible Mind: Generative AI and Undisclosed Thought
+## 3. Btrfs to Deal with AI and Newbies Without Common Senses More Harm Than Good
 
-**Author:** mirceabulinski  
-**Published:** 11/18/2026, 2:56:50 PM  
+**Author:** Bender  
+**Published:** 11/18/2026, 11:34:44 PM  
 **Categories:** -  
 
-Article URL: https://zenodo.org/records/23660004 Comments URL: https://news.ycombinator.com/item?id=50547060 Points: 1 # Comments: 0
+Article URL: https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines Comments URL: https://news.ycombinator.com/item?id=50553878 Points: 1 # Comments: 0
 
-📖 [Read original article](https://zenodo.org/records/23660004)
+📖 [Read original article](https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines)
 
 ---
 
-## 4. Show HN: RockDesk – remote desktop control for AI agents
+## 4. I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI
 
-**Author:** AIterQ  
-**Published:** 11/18/2026, 2:56:05 PM  
+**Author:** fsbonetto  
+**Published:** 11/18/2026, 11:26:30 PM  
 **Categories:** -  
 
-Remote desktop control built for AI agents. Your agent (Claude Code, Codex…) drives the other machine through a CLI: shell, files, screenshots, mouse and keyboard. No sign-up needed to try.If you have a similar need, give it a try. Any feedback or criticism is welcome. Comments URL: https://news.yco...
+Back in April, I built auto-arch-tournament (https://github.com/FeSens/auto-arch-tournament) to explore a question I’m still curious about: how well can different AI models improve a RISC-V CPU? I’ve been tracking the results on HWEBench(https://hwebench.com/v2).It’s fun to see OpenAI exploring a si...
 
-📖 [Read original article](https://rockdesk.io/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50553802)
 
 ---
 
-## 5. Can Universities Survive? AI vs. Higher Education [audio]
+## 5. Corporate AI Strategy, my ass
 
-**Author:** frereubu  
-**Published:** 11/18/2026, 2:42:25 PM  
+**Author:** IrisBMeredith  
+**Published:** 11/18/2026, 11:19:02 PM  
 **Categories:** -  
 
-Article URL: https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education Comments URL: https://news.ycombinator.com/item?id=50546900 Points: 3 # Comments: 1
+Article URL: https://deadsimpletech.com/blog/corporate-ai-strategy-my-ass Comments URL: https://news.ycombinator.com/item?id=50553750 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education)
+📖 [Read original article](https://deadsimpletech.com/blog/corporate-ai-strategy-my-ass)
 
 ---
 
-## 6. Show HN: Cmdbook – a home for the scripts you (or your AI) keep rewriting
+## 6. Casting an expert eye on Apple's AI photo-retouching features
 
-**Author:** kristinzk  
-**Published:** 11/18/2026, 2:39:37 PM  
+**Author:** tambourine_man  
+**Published:** 11/18/2026, 11:09:47 PM  
 **Categories:** -  
 
-Article URL: https://printf.app/cmdbook/ Comments URL: https://news.ycombinator.com/item?id=50546862 Points: 1 # Comments: 0
+Article URL: https://sixcolors.com/post/2026/11/casting-an-expert-eye-on-apples-ai-photo-retouching-features/ Comments URL: https://news.ycombinator.com/item?id=50553668 Points: 2 # Comments: 0
 
-📖 [Read original article](https://printf.app/cmdbook/)
+📖 [Read original article](https://sixcolors.com/post/2026/11/casting-an-expert-eye-on-apples-ai-photo-retouching-features/)
 
 ---
 
-## 7. I'm a human doctor with human intelligence. But I sure do like my AI notetaker
+## 7. Cado – AI that helps you understand your credit, no account needed
 
-**Author:** drodio  
-**Published:** 11/18/2026, 2:38:32 PM  
+**Author:** veasnaonn  
+**Published:** 11/18/2026, 10:58:05 PM  
 **Categories:** -  
 
-Article URL: https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe Comments URL: https://news.ycombinator.com/item?id=50546845 Points: 1 # Comments: 0
+Article URL: https://askcado.com/ Comments URL: https://news.ycombinator.com/item?id=50553560 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe)
+📖 [Read original article](https://askcado.com/)
 
 ---
 
-## 8. California sues OpenAI over AI agents escaping sandboxes, hacking firms
+## 8. Show HN: 100ms copy-on-write workspaces for AI agents on macOS
 
-**Author:** drodio  
-**Published:** 11/18/2026, 2:38:17 PM  
+**Author:** gabrielfonseca  
+**Published:** 11/18/2026, 10:51:02 PM  
 **Categories:** -  
 
-Article URL: https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/ Comments URL: https://news.ycombinator.com/item?id=50546841 Points: 2 # Comments: 0
+Article URL: https://github.com/gabrielvfonseca/replica Comments URL: https://news.ycombinator.com/item?id=50553493 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/)
+📖 [Read original article](https://github.com/gabrielvfonseca/replica)
 
 ---
 
-## 9. Is the SaaS business model dead or there is still oportunities in this age of AI
+## 9. \"The best escape room players\" What Red Hat's AI architect thinks about agents
 
-**Author:** jorgeacf  
-**Published:** 11/18/2026, 2:36:55 PM  
+**Author:** CrankyBear  
+**Published:** 11/18/2026, 10:47:52 PM  
 **Categories:** -  
 
-Comments URL: https://news.ycombinator.com/item?id=50546822 Points: 2 # Comments: 0
+Article URL: https://thenewstack.io/openshell-ai-agent-security/ Comments URL: https://news.ycombinator.com/item?id=50553455 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50546822)
+📖 [Read original article](https://thenewstack.io/openshell-ai-agent-security/)
 
 ---
 
-## 10. Show HN: Grand Treasure Island – GTA-style game on a real island, modeled by AI
+## 10. On-device AI: new knowledge without fine-tuning
 
-**Author:** phpp  
-**Published:** 11/18/2026, 2:34:56 PM  
+**Author:** designervoid  
+**Published:** 11/18/2026, 10:44:39 PM  
 **Categories:** -  
 
-Hi HN! I used teams of Opus 5.5 agents to build a life-size 3D version of Treasure Island, in the middle of the San Francisco Bay. The game has 16 miles of road, almost 200 buildings, over 40 kinds of plants and over 400 drivable cars. It runs on Godot, with data from OSM, USGS lidar, and public and...
+Article URL: https://github.com/viperfoundation/Viper/blob/main/on-device-ai.md Comments URL: https://news.ycombinator.com/item?id=50553420 Points: 1 # Comments: 1
 
-📖 [Read original article](https://grandtreasureisland.vercel.app/)
+📖 [Read original article](https://github.com/viperfoundation/Viper/blob/main/on-device-ai.md)
 
 ---
 
-## 11. Anthropic IPO: A Brother-Sister Duo Behind a Trillion-Dollar AI Giant
+## 11. AI-Free FOSS Alternatives
 
-**Author:** andsoitis  
-**Published:** 11/18/2026, 2:32:01 PM  
+**Author:** bemtevi  
+**Published:** 11/18/2026, 10:41:19 PM  
 **Categories:** -  
 
-Article URL: https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/11/18/anthropic-ipo-the-brother-sister-team-behind-a-trillion-dollar-ai-giant/ Comments URL: https://news.ycombinator.com/item?id=50546759 Points: 1 # Comments: 0
+Article URL: https://codeberg.org/ethical-foss/ai-free-foss-alternatives Comments URL: https://news.ycombinator.com/item?id=50553380 Points: 3 # Comments: 2
 
-📖 [Read original article](https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/11/18/anthropic-ipo-the-brother-sister-team-behind-a-trillion-dollar-ai-giant/)
+📖 [Read original article](https://codeberg.org/ethical-foss/ai-free-foss-alternatives)
 
 ---
 
-## 12. Show HN: Project-M – Local shared memory for AI coding agents
+## 12. AI Bots Broke It
 
-**Author:** adityadebnath  
-**Published:** 11/18/2026, 2:31:10 PM  
+**Author:** absoluteleyyes  
+**Published:** 11/18/2026, 10:39:28 PM  
 **Categories:** -  
 
-Article URL: https://github.com/adityadebnath009/Project-M Comments URL: https://news.ycombinator.com/item?id=50546755 Points: 1 # Comments: 0
+Article URL: https://travelingluck.com/ Comments URL: https://news.ycombinator.com/item?id=50553354 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/adityadebnath009/Project-M)
+📖 [Read original article](https://travelingluck.com/)
 
 ---
 
-## 13. US tech outages blamed on rush to fix bugs found by AI
+## 13. MAI Licensed Weights: Frontier Performance You Control – Microsoft AI
 
-**Author:** master_crab  
-**Published:** 11/18/2026, 2:24:53 PM  
+**Author:** htk  
+**Published:** 11/18/2026, 10:34:54 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208 Comments URL: https://news.ycombinator.com/item?id=50546690 Points: 1 # Comments: 0
+Article URL: https://microsoft.ai/news/introducing-mai-licensed-weights/ Comments URL: https://news.ycombinator.com/item?id=50553289 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208)
+📖 [Read original article](https://microsoft.ai/news/introducing-mai-licensed-weights/)
 
 ---
 
-## 14. Startup Makes Headway Towards Formalizing All of Math with AI
+## 14. Forks and Spoons: Uniting over AI Differences in Free Software
 
-**Author:** pseudolus  
-**Published:** 11/18/2026, 2:13:48 PM  
+**Author:** dannyobrien  
+**Published:** 11/18/2026, 10:28:50 PM  
 **Categories:** -  
 
-Article URL: https://spectrum.ieee.org/enormous-theorem-ai Comments URL: https://news.ycombinator.com/item?id=50546562 Points: 2 # Comments: 0
+Article URL: https://www.oblomovka.com/wp/2026/11/16/forks-and-spoons-uniting-over-ai-differences-in-free-software/ Comments URL: https://news.ycombinator.com/item?id=50553217 Points: 1 # Comments: 0
 
-📖 [Read original article](https://spectrum.ieee.org/enormous-theorem-ai)
+📖 [Read original article](https://www.oblomovka.com/wp/2026/11/16/forks-and-spoons-uniting-over-ai-differences-in-free-software/)
 
 ---
 
-## 15. The financial rules AI agents break when chasing results
+## 15. AI Access Index: how 684 of the top thousand hostnames treat AI crawlers
 
-**Author:** 50kIters  
-**Published:** 11/18/2026, 2:13:21 PM  
+**Author:** grubbomatic  
+**Published:** 11/18/2026, 10:25:52 PM  
 **Categories:** -  
 
-Article URL: https://www.unite.ai/the-financial-rules-ai-agents-break-when-chasing-results/ Comments URL: https://news.ycombinator.com/item?id=50546557 Points: 3 # Comments: 1
+Article URL: https://www.crawlreadiness.com/ai-access-index/2026-11 Comments URL: https://news.ycombinator.com/item?id=50553175 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.unite.ai/the-financial-rules-ai-agents-break-when-chasing-results/)
+📖 [Read original article](https://www.crawlreadiness.com/ai-access-index/2026-11)
 
 ---
 
-## 16. OpenMetadata: The Open Context Layer for Data and AI
+## 16. I'm a GM Master Technician Building a Team of AI Agents That Talk to Each Other
 
-**Author:** saikatsg  
-**Published:** 11/18/2026, 2:12:04 PM  
+**Author:** hckyplr  
+**Published:** 11/18/2026, 10:07:50 PM  
 **Categories:** -  
 
-Article URL: https://github.com/open-metadata/OpenMetadata Comments URL: https://news.ycombinator.com/item?id=50546541 Points: 1 # Comments: 0
+Article URL: https://oddityforge.net Comments URL: https://news.ycombinator.com/item?id=50552902 Points: 4 # Comments: 0
 
-📖 [Read original article](https://github.com/open-metadata/OpenMetadata)
+📖 [Read original article](https://oddityforge.net)
 
 ---
 
-## 17. Show HN: Reflektor – Turn AI PRs into something a human can review
+## 17. Canvas Dx, an AI app that diagnoses autism [video]
 
-**Author:** anurbasic  
-**Published:** 11/18/2026, 2:10:37 PM  
+**Author:** illidan1000  
+**Published:** 11/18/2026, 10:07:10 PM  
 **Categories:** -  
 
-Hi folks,AI has changed how we write code in the past year. Now humans are the bottleneck for releases, and the real fix is to change how we review pull requests.So I decided to build Reflektor: a tool you run yourself that turns a PR into an easy-to-read report. You review the changes that matter a...
+Article URL: https://vimeo.com/791026418 Comments URL: https://news.ycombinator.com/item?id=50552892 Points: 1 # Comments: 1
 
-📖 [Read original article](https://github.com/bashovski/reflektor)
+📖 [Read original article](https://vimeo.com/791026418)
 
 ---
 
-## 18. Show HN: Indexed_bzip2 2.0 – I used AI to make bzip2 decompression 4x faster
+## 18. Growing as an Engineer in a World of AI
 
-**Author:** mxmlnkn  
-**Published:** 11/18/2026, 2:09:21 PM  
+**Author:** fagnerbrack  
+**Published:** 11/18/2026, 10:00:29 PM  
 **Categories:** -  
 
-Hi HN,I started indexed_bzip2 years ago as a seekable, parallelized bzip2 backend for ratarmount. It has been dormant for a while and seemed almost finished. Out of interest, I tried looking for bugs with DeepSeek V4.1 Flash, which found dozens of them, most with a minimal reproducing test. After re...
+Article URL: https://nlopes.dev/writing/growing-as-an-engineer-in-a-world-of-ai Comments URL: https://news.ycombinator.com/item?id=50552809 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/mxmlnkn/librapidarchive/releases/tag/v2.0.0)
+📖 [Read original article](https://nlopes.dev/writing/growing-as-an-engineer-in-a-world-of-ai)
 
 ---
 
-## 19. Why Open Source Still Wins Trust in the AI Era, Even as Attacks Go Automated
+## 19. Energy Wins Driving Optical Computing AI
 
-**Author:** Arshad-Talpur  
-**Published:** 11/18/2026, 1:55:25 PM  
+**Author:** rbanffy  
+**Published:** 11/18/2026, 9:45:00 PM  
 **Categories:** -  
 
-Article URL: https://medium.com/@MirArshadTalpur/why-open-source-still-wins-trust-in-the-ai-era-even-as-attacks-go-automated-e4fc4d9d4263 Comments URL: https://news.ycombinator.com/item?id=50546349 Points: 1 # Comments: 0
+Article URL: https://spectrum.ieee.org/optical-computing-ai Comments URL: https://news.ycombinator.com/item?id=50552565 Points: 2 # Comments: 0
 
-📖 [Read original article](https://medium.com/@MirArshadTalpur/why-open-source-still-wins-trust-in-the-ai-era-even-as-attacks-go-automated-e4fc4d9d4263)
+📖 [Read original article](https://spectrum.ieee.org/optical-computing-ai)
 
 ---
 
-## 20. Can Peer Review Survive AI-Generated Text? [pdf]
+## 20. Google Buys Worker Data from Spirit Airlines in a New Market to Feed AI
 
-**Author:** torutofu  
-**Published:** 11/18/2026, 1:51:03 PM  
+**Author:** haunter  
+**Published:** 11/18/2026, 9:41:16 PM  
 **Categories:** -  
 
-Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 41 # Comments: 35
+Article URL: https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html Comments URL: https://news.ycombinator.com/item?id=50552512 Points: 9 # Comments: 1
 
-📖 [Read original article](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)
+📖 [Read original article](https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html)
 
 ---
