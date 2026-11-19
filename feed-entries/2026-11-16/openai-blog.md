@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-11-16"
 date: "2026-11-16"
 source: "OpenAI Blog"
-count: 10
+count: 6
 ---
 
 # OpenAI Blog - 2026-11-16
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ LVMH’s Media Division and OpenAI announce a partnership to support journalism 
 OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.
 
 📖 [Read original article](https://openai.com/index/our-first-phase-of-embedded-assessments)
-
----
-
-## 7. More ways to move care forward with ChatGPT for Healthcare
-
-**Author:** -  
-**Published:** 11/16/2026, 6:00:00 AM  
-**Categories:** Product  
-
-Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
-
-📖 [Read original article](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare)
-
----
-
-## 8. Advancing computer-use agents for healthcare teams
-
-**Author:** -  
-**Published:** 11/16/2026, 6:00:00 AM  
-**Categories:** Product  
-
-
-
-📖 [Read original article](https://openai.com/index/advancing-computer-use-for-healthcare-teams)
-
----
-
-## 9. The King’s Trust and OpenAI launch £1m partnership
-
-**Author:** -  
-**Published:** 11/16/2026, 12:00:00 AM  
-**Categories:** Global Affairs  
-
-The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.
-
-📖 [Read original article](https://openai.com/index/the-kings-trust-and-openai)
-
----
-
-## 10. At Holiday Extras, dots get to work before anyone asks
-
-**Author:** -  
-**Published:** 11/16/2026, 12:00:00 AM  
-**Categories:** -  
-
-Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.
-
-📖 [Read original article](https://openai.com/business/customer-stories/holiday-extras-dots)
 
 ---
