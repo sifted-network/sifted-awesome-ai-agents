@@ -47,19 +47,7 @@ How OpenAI is working with NATO and allied cyber agencies to help trusted defend
 
 ---
 
-## 4. Astra for Law leads in legal intelligence
-
-**Author:** -  
-**Published:** 11/17/2026, 12:00:00 AM  
-**Categories:** Company  
-
-Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.
-
-📖 [Read original article](https://openai.com/index/astra-law-6-2)
-
----
-
-## 5. Introducing OpenAI for Chile
+## 4. Introducing OpenAI for Chile
 
 **Author:** -  
 **Published:** 11/17/2026, 12:00:00 AM  
@@ -68,5 +56,17 @@ Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Ever
 OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
 
 📖 [Read original article](https://openai.com/index/introducing-openai-for-chile)
+
+---
+
+## 5. Astra for Law leads in legal intelligence
+
+**Author:** -  
+**Published:** 11/17/2026, 12:00:00 AM  
+**Categories:** Company  
+
+Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.
+
+📖 [Read original article](https://openai.com/index/astra-law-6-2)
 
 ---
