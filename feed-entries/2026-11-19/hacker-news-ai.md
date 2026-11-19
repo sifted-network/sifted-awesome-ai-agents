@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. Show HN: Cyravo SecureBuild AI
+## 1. An AI agent that pays for every thought and dies when the money runs out
 
-**Author:** abhijithkrishna  
-**Published:** 11/19/2026, 6:53:11 AM  
+**Author:** housec84  
+**Published:** 11/19/2026, 7:57:58 PM  
 **Categories:** -  
 
-Article URL: https://cyravo-securebuild-a-9jtc.bolt.host/ Comments URL: https://news.ycombinator.com/item?id=50556811 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=MySG62ItZKU Comments URL: https://news.ycombinator.com/item?id=50565431 Points: 1 # Comments: 0
 
-📖 [Read original article](https://cyravo-securebuild-a-9jtc.bolt.host/)
+📖 [Read original article](https://www.youtube.com/watch?v=MySG62ItZKU)
 
 ---
 
-## 2. Vals AI – Compare AI models across real-world benchmarks
+## 2. Ask HN: Why no AI-led memory vulns in Python?
 
-**Author:** cobychapple  
-**Published:** 11/19/2026, 5:28:34 AM  
+**Author:** uticus  
+**Published:** 11/19/2026, 7:54:37 PM  
 **Categories:** -  
 
-Article URL: https://www.vals.ai/comparison Comments URL: https://news.ycombinator.com/item?id=50556391 Points: 1 # Comments: 0
+Python usually means CPython, which means C. Most AI-led vulnerabilities lately have been memory mismanagement - what is keeping Python isolated if it is written in C? Comments URL: https://news.ycombinator.com/item?id=50565386 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.vals.ai/comparison)
+📖 [Read original article](https://news.ycombinator.com/item?id=50565386)
 
 ---
 
-## 3. Will Wright's next simulation will use AI to mine content from your memories
+## 3. Ask HN: Safety Bully Anthropic right steward of our enterprise AI
 
-**Author:** vok  
-**Published:** 11/19/2026, 5:17:36 AM  
+**Author:** djinn  
+**Published:** 11/19/2026, 7:43:45 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/ Comments URL: https://news.ycombinator.com/item?id=50556339 Points: 9 # Comments: 1
+Chinese Models are arguably more friendly - https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50565222 Points: 1 # Comments: 0
 
-📖 [Read original article](https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50565222)
 
 ---
 
-## 4. Readycode.ai – Multi AI Platform
+## 4. AI Memorized the Internet. That's Not Intelligence. – Yann LeCun [video]
 
-**Author:** readycodeai  
-**Published:** 11/19/2026, 5:10:35 AM  
+**Author:** hrmon  
+**Published:** 11/19/2026, 7:42:32 PM  
 **Categories:** -  
 
-Article URL: https://readycode.ai/ Comments URL: https://news.ycombinator.com/item?id=50556293 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=HjKRaty1dU4 Comments URL: https://news.ycombinator.com/item?id=50565207 Points: 2 # Comments: 0
 
-📖 [Read original article](https://readycode.ai/)
+📖 [Read original article](https://www.youtube.com/watch?v=HjKRaty1dU4)
 
 ---
 
-## 5. Anthropic IPO raises record $81.3B on strong AI demand
+## 5. Show HN: Company docs didn't help our AI agent. Four shortnotes doubled accuracy
 
-**Author:** madihaa  
-**Published:** 11/19/2026, 4:52:30 AM  
+**Author:** depthfirst  
+**Published:** 11/19/2026, 7:14:24 PM  
 **Categories:** -  
 
-Article URL: https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price Comments URL: https://news.ycombinator.com/item?id=50556197 Points: 3 # Comments: 0
+Article URL: https://contextflo.com/benchmarks/dabstep-haiku Comments URL: https://news.ycombinator.com/item?id=50564793 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price)
+📖 [Read original article](https://contextflo.com/benchmarks/dabstep-haiku)
 
 ---
 
-## 6. Steve Yegge on AI Agents and the Future of Software Engineering
+## 6. Google Quantum AI shows contextuality powers quantum algorithms at scale
 
-**Author:** duck  
-**Published:** 11/19/2026, 4:44:22 AM  
+**Author:** acossta  
+**Published:** 11/19/2026, 7:12:37 PM  
 **Categories:** -  
 
-Article URL: https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the Comments URL: https://news.ycombinator.com/item?id=50556168 Points: 5 # Comments: 0
+Article URL: https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/ Comments URL: https://news.ycombinator.com/item?id=50564760 Points: 1 # Comments: 0
 
-📖 [Read original article](https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the)
+📖 [Read original article](https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/)
 
 ---
 
-## 7. Madras School System and AI Learning Share Similarity
+## 7. Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy–Itself
 
-**Author:** tesnorindian  
-**Published:** 11/19/2026, 4:39:05 AM  
+**Author:** saikatsg  
+**Published:** 11/19/2026, 7:12:33 PM  
 **Categories:** -  
 
-Madras School education system (https://en.wikipedia.org/wiki/Madras_School) that was the bedrock of mass public structured education in the late 18-19th century has several similarities on how AI is trained today.They both ensures that knowledge dissemination is free.The similarities they share are...
+Article URL: https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/ Comments URL: https://news.ycombinator.com/item?id=50564757 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50556148)
+📖 [Read original article](https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/)
 
 ---
 
-## 8. Ask HN: What positive impact has AI had in the past 5 years?
+## 8. With AI Gateway, coding agents perform bulk tasks 8x faster and 20x cheaper
 
-**Author:** meredithbloom  
-**Published:** 11/19/2026, 4:33:47 AM  
+**Author:** Lorenzo45  
+**Published:** 11/19/2026, 7:03:21 PM  
 **Categories:** -  
 
-I asked myself this question this morning and I swear I couldn't find one single thing.We still have all the problems we had before AI. AI did not solve the climate collapse, did not cure cancer, did not figure society-altering new technologies, did not make politics not suck anymore, did not solve ...
+Article URL: https://ploy.ai/blog/ploy-ai-gateway Comments URL: https://news.ycombinator.com/item?id=50564625 Points: 7 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50556120)
+📖 [Read original article](https://ploy.ai/blog/ploy-ai-gateway)
 
 ---
 
-## 9. Stickers on Buttons: Why South Korea's Suneung AI cheating patch won't hold
+## 9. Show HN: Relic – An AI that only answers from what you've saved
 
-**Author:** siwoo  
-**Published:** 11/19/2026, 4:26:44 AM  
+**Author:** Cenga387  
+**Published:** 11/19/2026, 6:53:31 PM  
 **Categories:** -  
 
-Article URL: https://siwoo.lol/note/stickers-on-buttons/ Comments URL: https://news.ycombinator.com/item?id=50556079 Points: 1 # Comments: 0
+Hi HN, I’m Imran, one of 3 founders building Relic AIWe started building Relic because we constantly experienced the problem of saving a lot of resources online such as websites, PDFs, Youtube videos and podcasts, but when we actually needed any of them, we couldn’t find them because they were burri...
 
-📖 [Read original article](https://siwoo.lol/note/stickers-on-buttons/)
+📖 [Read original article](https://relic-app.com)
 
 ---
 
-## 10. Turning one photo into a Goodbye GTA 5 AI video
+## 10. Frontier models need only one text to unmask its human or AI author
 
-**Author:** visiohex  
-**Published:** 11/19/2026, 4:13:24 AM  
+**Author:** silentnovas  
+**Published:** 11/19/2026, 6:51:09 PM  
 **Categories:** -  
 
-Article URL: https://gta5goodbyeai.com/ Comments URL: https://news.ycombinator.com/item?id=50555998 Points: 1 # Comments: 0
+Article URL: https://twitter.com/atreydesai/status/2123473074230292737 Comments URL: https://news.ycombinator.com/item?id=50564427 Points: 2 # Comments: 1
 
-📖 [Read original article](https://gta5goodbyeai.com/)
+📖 [Read original article](https://twitter.com/atreydesai/status/2123473074230292737)
 
 ---
 
-## 11. As Meta bets big on Muse AI agent, early safety mishaps surface
+## 11. Show HN: Lintsure – Free local code check with rules from OWASP, EU AI Act
 
-**Author:** spenvo  
-**Published:** 11/19/2026, 4:06:49 AM  
+**Author:** DrMax  
+**Published:** 11/19/2026, 6:50:47 PM  
 **Categories:** -  
 
-Article URL: https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/ Comments URL: https://news.ycombinator.com/item?id=50555960 Points: 2 # Comments: 0
+Hi all,Built this because it seemed cool, let me know what you think, anyone that can help me improve it, please reach out here in the comments or via the email placed on the website. It is open-source, its created with help of claude code ofcourse, mapped the rules with what was available publicly ...
 
-📖 [Read original article](https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/)
+📖 [Read original article](https://github.com/lintsure/lintsure)
 
 ---
 
-## 12. Verifiable Identity for AI Agents · Agent Name Service
+## 12. Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]
 
-**Author:** qainsights  
-**Published:** 11/19/2026, 3:41:09 AM  
+**Author:** sandslash  
+**Published:** 11/19/2026, 6:47:16 PM  
 **Categories:** -  
 
-Article URL: https://ansinfo.ai/ Comments URL: https://news.ycombinator.com/item?id=50555799 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 15 # Comments: 16
 
-📖 [Read original article](https://ansinfo.ai/)
+📖 [Read original article](https://www.youtube.com/watch?v=lwfewYL7X0o)
 
 ---
 
-## 13. AI asked better questions than KPMG accountants in audit
+## 13. No Bailout for the AI Bubble, Anthropic IPO Protesters Say
 
-**Author:** Alien1Being  
-**Published:** 11/19/2026, 3:35:47 AM  
+**Author:** cdrnsf  
+**Published:** 11/19/2026, 6:42:13 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05 Comments URL: https://news.ycombinator.com/item?id=50555767 Points: 1 # Comments: 1
+Article URL: https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/ Comments URL: https://news.ycombinator.com/item?id=50564282 Points: 11 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05)
+📖 [Read original article](https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/)
 
 ---
 
-## 14. KPMG pressed its auditor to pass on AI cost savings
+## 14. We asked 29 people building US data centers when AI capacity will arrive
 
-**Author:** Alien1Being  
-**Published:** 11/19/2026, 3:34:56 AM  
+**Author:** tnch  
+**Published:** 11/19/2026, 6:36:35 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d Comments URL: https://news.ycombinator.com/item?id=50555762 Points: 1 # Comments: 0
+Article URL: https://www.latolabs.io/studies/ear-to-the-ground/ Comments URL: https://news.ycombinator.com/item?id=50564186 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d)
+📖 [Read original article](https://www.latolabs.io/studies/ear-to-the-ground/)
 
 ---
 
-## 15. Show HN: Disposable – Share small AI-made tools so others can rebuild them
+## 15. Thomas Nagel on AI Consciousness
 
-**Author:** khw1031  
-**Published:** 11/19/2026, 3:02:34 AM  
+**Author:** slibhb  
+**Published:** 11/19/2026, 6:33:03 PM  
 **Categories:** -  
 
-I made a site for sharing small tools made with AI.With agents, it is now quick to build a tool that fits your own task. But those tools usually get thrown away after use, and the next person who may needs something similar start again from zero. So I thought maybe if result or process could shared ...
+Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/ Comments URL: https://news.ycombinator.com/item?id=50564120 Points: 8 # Comments: 1
 
-📖 [Read original article](https://disposable.xify.kr/en/)
+📖 [Read original article](https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/)
 
 ---
 
-## 16. Itsfree.ai – Every model you can use for free
+## 16. Anatomy of an AI-driven attack: Bitrise security incident report
 
-**Author:** peter_d_sherman  
-**Published:** 11/19/2026, 2:58:29 AM  
+**Author:** jampa  
+**Published:** 11/19/2026, 6:31:55 PM  
 **Categories:** -  
 
-Article URL: https://itsfree.ai/models/ Comments URL: https://news.ycombinator.com/item?id=50555507 Points: 1 # Comments: 1
+Article URL: https://bitrise.io/artex-incident-report Comments URL: https://news.ycombinator.com/item?id=50564098 Points: 1 # Comments: 0
 
-📖 [Read original article](https://itsfree.ai/models/)
+📖 [Read original article](https://bitrise.io/artex-incident-report)
 
 ---
 
-## 17. Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun
+## 17. Ask AI the same question twice and 64% of answers name different brands
 
-**Author:** ivewonyoung  
-**Published:** 11/19/2026, 2:32:01 AM  
+**Author:** avatar99  
+**Published:** 11/19/2026, 6:29:21 PM  
 **Categories:** -  
 
-Article URL: https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html Comments URL: https://news.ycombinator.com/item?id=50555337 Points: 2 # Comments: 1
+Article URL: https://supercite.ai/blog/why-ai-recommends-different-brands Comments URL: https://news.ycombinator.com/item?id=50564056 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html)
+📖 [Read original article](https://supercite.ai/blog/why-ai-recommends-different-brands)
 
 ---
 
-## 18. Four Maryland high school students sue after AI mistakes Doritos bag for gun
+## 18. RDMA over USB4 on Windows: run larger local AI models across PCs
 
-**Author:** abeppu  
-**Published:** 11/19/2026, 2:06:29 AM  
+**Author:** akshayt  
+**Published:** 11/19/2026, 6:27:18 PM  
 **Categories:** -  
 
-Article URL: https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit Comments URL: https://news.ycombinator.com/item?id=50555181 Points: 3 # Comments: 4
+Article URL: https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602 Comments URL: https://news.ycombinator.com/item?id=50564019 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit)
+📖 [Read original article](https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602)
 
 ---
 
-## 19. AI will not make you rich (2025)
+## 19. A linked history of the AI stack
 
-**Author:** madars  
-**Published:** 11/19/2026, 1:51:28 AM  
+**Author:** arbayi  
+**Published:** 11/19/2026, 6:22:30 PM  
 **Categories:** -  
 
-Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 91 # Comments: 53
+Article URL: https://foundationindex.ustunozgur.com/ Comments URL: https://news.ycombinator.com/item?id=50563924 Points: 1 # Comments: 0
 
-📖 [Read original article](https://colossus.com/article/ai-will-not-make-you-rich/)
+📖 [Read original article](https://foundationindex.ustunozgur.com/)
 
 ---
 
-## 20. AI in the Courtroom
+## 20. The Sanders-Casar AI Ban Would Turn a Forecast into a Felony
 
-**Author:** bhartzer  
-**Published:** 11/19/2026, 1:22:24 AM  
+**Author:** delschlangen  
+**Published:** 11/19/2026, 6:12:59 PM  
 **Categories:** -  
 
-Article URL: https://www.theexpertrecord.com/ai-in-court/ Comments URL: https://news.ycombinator.com/item?id=50554858 Points: 2 # Comments: 0
+Article URL: https://reason.com/2026/11/19/bernie-sanders-superintelligence-ban-would-criminalize-todays-ai-for-what-tomorrows-ai-might-do/ Comments URL: https://news.ycombinator.com/item?id=50563744 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.theexpertrecord.com/ai-in-court/)
+📖 [Read original article](https://reason.com/2026/11/19/bernie-sanders-superintelligence-ban-would-criminalize-todays-ai-for-what-tomorrows-ai-might-do/)
 
 ---
