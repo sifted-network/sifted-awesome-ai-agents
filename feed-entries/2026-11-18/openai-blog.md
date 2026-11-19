@@ -23,19 +23,7 @@ Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI cou
 
 ---
 
-## 2. Research acceleration: The jagged frontier
-
-**Author:** -  
-**Published:** 11/18/2026, 8:00:00 AM  
-**Categories:** Research  
-
-OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.
-
-📖 [Read original article](https://openai.com/index/research-acceleration-jagged-frontier)
-
----
-
-## 3. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise
+## 2. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise
 
 **Author:** -  
 **Published:** 11/18/2026, 8:00:00 AM  
@@ -44,6 +32,18 @@ OpenAI measures how coding agents are accelerating AI research, where their perf
 Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
 
 📖 [Read original article](https://openai.com/business/customer-stories/sumitomo-life)
+
+---
+
+## 3. Research acceleration: The jagged frontier
+
+**Author:** -  
+**Published:** 11/18/2026, 8:00:00 AM  
+**Categories:** Research  
+
+OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.
+
+📖 [Read original article](https://openai.com/index/research-acceleration-jagged-frontier)
 
 ---
 
