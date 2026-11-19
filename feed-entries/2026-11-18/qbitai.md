@@ -2,12 +2,12 @@
 title: "qbitai - 2026-11-18"
 date: "2026-11-18"
 source: "qbitai"
-count: 8
+count: 6
 ---
 
 # qbitai - 2026-11-18
 
-8 items collected.
+6 items collected.
 
 ---
 
@@ -80,29 +80,5 @@ OpenAI也终于活成了2022年谷歌的样子
 小红书校招沙龙，一群技术高手认真对待年轻人的野心
 
 📖 [Read original article](https://www.qbitai.com/2026/11/510737.html)
-
----
-
-## 7. 黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑
-
-**Author:** 一水  
-**Published:** 11/18/2026, 1:03:42 AM  
-**Categories:** 资讯, 黄仁勋  
-
-英伟达公布了老黄离职后的首份财报
-
-📖 [Read original article](https://www.qbitai.com/2026/11/510726.html)
-
----
-
-## 8. GPT-6.2 Astra和Sol王炸双发！3D又危了
-
-**Author:** 梦瑶  
-**Published:** 11/18/2026, 12:49:14 AM  
-**Categories:** 资讯, ChatGPT  
-
-Sol逼近旗舰性能
-
-📖 [Read original article](https://www.qbitai.com/2026/11/510707.html)
 
 ---
