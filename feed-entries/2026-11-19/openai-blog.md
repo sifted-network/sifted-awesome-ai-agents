@@ -23,7 +23,19 @@ Learn how OpenAI built the Performance Factory, a system of Codex-powered workfl
 
 ---
 
-## 2. Deploying Daybreak Red
+## 2. Explore the Codex Security Plugin
+
+**Author:** -  
+**Published:** 11/19/2026, 12:00:00 AM  
+**Categories:** Demos  
+
+Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.
+
+📖 [Read original article](https://openai.com/business/learn/codex-security-plugin-demo)
+
+---
+
+## 3. Deploying Daybreak Red
 
 **Author:** -  
 **Published:** 11/19/2026, 12:00:00 AM  
@@ -35,7 +47,7 @@ Explore a reference architecture for supervised security investigations with Day
 
 ---
 
-## 3. See PR scans in action
+## 4. See PR scans in action
 
 **Author:** -  
 **Published:** 11/19/2026, 12:00:00 AM  
@@ -44,18 +56,6 @@ Explore a reference architecture for supervised security investigations with Day
 Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.
 
 📖 [Read original article](https://openai.com/business/learn/pr-scans-demo)
-
----
-
-## 4. Explore the Codex Security Plugin
-
-**Author:** -  
-**Published:** 11/19/2026, 12:00:00 AM  
-**Categories:** Demos  
-
-Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.
-
-📖 [Read original article](https://openai.com/business/learn/codex-security-plugin-demo)
 
 ---
 
