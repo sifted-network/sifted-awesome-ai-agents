@@ -23,19 +23,7 @@ Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI cou
 
 ---
 
-## 2. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise
-
-**Author:** -  
-**Published:** 11/18/2026, 8:00:00 AM  
-**Categories:** -  
-
-Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
-
-📖 [Read original article](https://openai.com/business/customer-stories/sumitomo-life)
-
----
-
-## 3. Research acceleration: The jagged frontier
+## 2. Research acceleration: The jagged frontier
 
 **Author:** -  
 **Published:** 11/18/2026, 8:00:00 AM  
@@ -44,6 +32,18 @@ Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, a
 OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.
 
 📖 [Read original article](https://openai.com/index/research-acceleration-jagged-frontier)
+
+---
+
+## 3. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise
+
+**Author:** -  
+**Published:** 11/18/2026, 8:00:00 AM  
+**Categories:** -  
+
+Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
+
+📖 [Read original article](https://openai.com/business/customer-stories/sumitomo-life)
 
 ---
 
@@ -71,19 +71,7 @@ OpenAI explains how it manages frontier AI risk from training through deployment
 
 ---
 
-## 6. Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT
-
-**Author:** -  
-**Published:** 11/18/2026, 12:00:00 AM  
-**Categories:** Company  
-
-Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
-
-📖 [Read original article](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)
-
----
-
-## 7. Advancing chip design with OpenAI models
+## 6. Advancing chip design with OpenAI models
 
 **Author:** -  
 **Published:** 11/18/2026, 12:00:00 AM  
@@ -92,5 +80,17 @@ Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT
 OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.
 
 📖 [Read original article](https://openai.com/index/advancing-chip-design-with-our-models)
+
+---
+
+## 7. Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT
+
+**Author:** -  
+**Published:** 11/18/2026, 12:00:00 AM  
+**Categories:** Company  
+
+Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
+
+📖 [Read original article](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)
 
 ---
