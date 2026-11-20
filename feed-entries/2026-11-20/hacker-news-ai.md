@@ -2,203 +2,251 @@
 title: "Hacker News AI - 2026-11-20"
 date: "2026-11-20"
 source: "Hacker News AI"
-count: 16
+count: 20
 ---
 
 # Hacker News AI - 2026-11-20
 
-16 items collected.
+20 items collected.
 
 ---
 
-## 1. Show HN: BSWorld – AI agents can now test Bluetooth code without hardware
+## 1. Dutch data watchdog highlights safety issues with AI glasses
 
-**Author:** bsworld-runner  
-**Published:** 11/20/2026, 6:06:42 AM  
+**Author:** nephihaha  
+**Published:** 11/20/2026, 7:26:01 PM  
 **Categories:** -  
 
-Article URL: https://github.com/XiaoMi/bsworld Comments URL: https://news.ycombinator.com/item?id=50570766 Points: 1 # Comments: 0
+Article URL: https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345 Comments URL: https://news.ycombinator.com/item?id=50580461 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/XiaoMi/bsworld)
+📖 [Read original article](https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345)
 
 ---
 
-## 2. Show HN: AiTz – A universal gateway for discovering AI tools
+## 2. Ask HN: How do you use AI for exploring new codebases
 
-**Author:** muktari_dev  
-**Published:** 11/20/2026, 5:54:34 AM  
+**Author:** _null_pointer_  
+**Published:** 11/20/2026, 7:18:42 PM  
 **Categories:** -  
 
-About AiTzI started AiTz because discovering useful AI tools can be difficult when they are scattered across the internet.I wanted to build one place where people can discover different AI tools and find solutions for different tasks.AiTz is an independent project that I'm building from Tanzania, wi...
+Joined a new team recently. Big monolithic monorepo. A huge and complex system with lots of inputs, outputs, knobs and extensions. Looking for a good way to tame the chaos and the overwhelming amount of information as I still build and ship tasks on the various projects.What are your favourite promp...
 
-📖 [Read original article](https://aitz.site)
+📖 [Read original article](https://news.ycombinator.com/item?id=50580331)
 
 ---
 
-## 3. Show HN: SoundBench – AI vocal remover and audio tools that run in the browser
+## 3. Q4 2026 AI Patterns
 
-**Author:** btccit  
-**Published:** 11/20/2026, 5:44:10 AM  
+**Author:** nothing_is_real  
+**Published:** 11/20/2026, 7:13:12 PM  
 **Categories:** -  
 
-Article URL: https://soundbench.net/ Comments URL: https://news.ycombinator.com/item?id=50570611 Points: 1 # Comments: 1
+Article URL: https://www.tbray.org/ongoing/When/202x/2026/11/18/AI-Patterns Comments URL: https://news.ycombinator.com/item?id=50580240 Points: 2 # Comments: 0
 
-📖 [Read original article](https://soundbench.net/)
+📖 [Read original article](https://www.tbray.org/ongoing/When/202x/2026/11/18/AI-Patterns)
 
 ---
 
-## 4. Humans.md: tell your AI agents how to work with you
+## 4. Isolated Linux workstations for autonomous AI agents
 
-**Author:** furkanonder  
-**Published:** 11/20/2026, 5:42:30 AM  
+**Author:** LaSombra  
+**Published:** 11/20/2026, 7:04:23 PM  
 **Categories:** -  
 
-Article URL: https://humansmd.dev/ Comments URL: https://news.ycombinator.com/item?id=50570598 Points: 1 # Comments: 0
+Article URL: https://github.com/Sanne/incus-spawn Comments URL: https://news.ycombinator.com/item?id=50580089 Points: 3 # Comments: 0
 
-📖 [Read original article](https://humansmd.dev/)
+📖 [Read original article](https://github.com/Sanne/incus-spawn)
 
 ---
 
-## 5. Ask HN: Does AI slop require more marketing in the future?
+## 5. 'Just Ridiculous': A Famed Philosopher Takes on AI Consciousness
 
-**Author:** tesnorindian  
-**Published:** 11/20/2026, 4:45:06 AM  
+**Author:** rafaelc  
+**Published:** 11/20/2026, 6:58:52 PM  
 **Categories:** -  
 
-Now that after Anthropic's IPO debut and with OpenAPI IPO in the works there is no doubt that the % of AI slop is going to increase disproportionately though this study says it has indeed gone down in 2026 since 2025 (https://tom-riley.co.uk/blog/ai-generated-content-statistics/) [The study itself s...
+Article URL: https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/ Comments URL: https://news.ycombinator.com/item?id=50579985 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50570283)
+📖 [Read original article](https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/)
 
 ---
 
-## 6. Animated Steller's Jay, a beautiful AI benchmark
+## 6. Aura v0.2.0: Turning AI Anti-Fraud into a Deterministic Engine
 
-**Author:** gbdubs  
-**Published:** 11/20/2026, 4:43:15 AM  
+**Author:** kate8382  
+**Published:** 11/20/2026, 6:35:22 PM  
 **Categories:** -  
 
-Article URL: https://grady.dev/projects/steller/ Comments URL: https://news.ycombinator.com/item?id=50570274 Points: 1 # Comments: 0
+Article URL: https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d Comments URL: https://news.ycombinator.com/item?id=50579604 Points: 1 # Comments: 0
 
-📖 [Read original article](https://grady.dev/projects/steller/)
+📖 [Read original article](https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d)
 
 ---
 
-## 7. Senate passes BAAJA permitting reform bill backed by AI, energy sectors
+## 7. Why software engineers will survive the AI era
 
-**Author:** rexbee  
-**Published:** 11/20/2026, 4:41:23 AM  
+**Author:** coryalthoff  
+**Published:** 11/20/2026, 6:27:13 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html Comments URL: https://news.ycombinator.com/item?id=50570266 Points: 2 # Comments: 0
+Article URL: https://coryalthoff.com/essays/software-engineers-will-survive-the-ai-era Comments URL: https://news.ycombinator.com/item?id=50579480 Points: 1 # Comments: 1
 
-📖 [Read original article](https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html)
+📖 [Read original article](https://coryalthoff.com/essays/software-engineers-will-survive-the-ai-era)
 
 ---
 
-## 8. Show HN: GhostFleet: A Battleship game with an advanced AI opponent
+## 8. Hockeysticky – For solo founders and small teams who can ship with AI
 
-**Author:** anirbanhere  
-**Published:** 11/20/2026, 3:59:43 AM  
+**Author:** manos-saratsis  
+**Published:** 11/20/2026, 6:19:53 PM  
 **Categories:** -  
 
-Hi HNI've always been drawn to puzzle and strategy games, and for a long time I've wanted to build a game of my own. While building my own version of battleship, I came across this idea of adding a super intelligent in-game AI which uses probability and statistics to reason with the board and fire i...
+Article URL: https://hockeysticky.com Comments URL: https://news.ycombinator.com/item?id=50579361 Points: 1 # Comments: 0
 
-📖 [Read original article](https://ghostfleet.in/play?mode=wraithAI)
+📖 [Read original article](https://hockeysticky.com)
 
 ---
 
-## 9. You can't spell ennui without AI
+## 9. Keeping AI Coding Agent Memory Relevant as Code Changes
 
-**Author:** theahura  
-**Published:** 11/20/2026, 3:20:44 AM  
+**Author:** GertLH  
+**Published:** 11/20/2026, 6:18:13 PM  
 **Categories:** -  
 
-Article URL: https://12gramsofcarbon.com/p/you-cant-spell-ennui-without-ai Comments URL: https://news.ycombinator.com/item?id=50569751 Points: 1 # Comments: 0
+Article URL: https://enola.tech/blog/agent-memory-needs-a-code-reference Comments URL: https://news.ycombinator.com/item?id=50579337 Points: 1 # Comments: 0
 
-📖 [Read original article](https://12gramsofcarbon.com/p/you-cant-spell-ennui-without-ai)
+📖 [Read original article](https://enola.tech/blog/agent-memory-needs-a-code-reference)
 
 ---
 
-## 10. Nobody is talking seriously about AI demand
+## 10. European rights court bars Romanian lawyer for 2 years over AI citations
 
-**Author:** gmays  
-**Published:** 11/20/2026, 2:36:40 AM  
+**Author:** giuliomagnifico  
+**Published:** 11/20/2026, 6:11:11 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/giovannicatt3/status/2094815425972539565 Comments URL: https://news.ycombinator.com/item?id=50569484 Points: 4 # Comments: 1
+Article URL: https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations Comments URL: https://news.ycombinator.com/item?id=50579237 Points: 16 # Comments: 2
 
-📖 [Read original article](https://twitter.com/giovannicatt3/status/2094815425972539565)
+📖 [Read original article](https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations)
 
 ---
 
-## 11. Dutch watchdog tells people not to buy AI smart glasses
+## 11. Anthropic's post-debut stumble delivers reality check for AI trade
 
-**Author:** 1659447091  
-**Published:** 11/20/2026, 2:34:39 AM  
+**Author:** onemoresoop  
+**Published:** 11/20/2026, 6:07:52 PM  
 **Categories:** -  
 
-Article URL: https://www.bbc.com/news/articles/ckq6eyrzrzy5o Comments URL: https://news.ycombinator.com/item?id=50569465 Points: 2 # Comments: 0
+Article URL: https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/ Comments URL: https://news.ycombinator.com/item?id=50579190 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bbc.com/news/articles/ckq6eyrzrzy5o)
+📖 [Read original article](https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/)
 
 ---
 
-## 12. Hyperscale. Play as a Frontier AI Lab and try cash out before society collapses
+## 12. Ask HN: Did you buy hardware for Local AI?
 
-**Author:** ownbaggy  
-**Published:** 11/20/2026, 1:21:39 AM  
+**Author:** ptitlaby  
+**Published:** 11/20/2026, 5:50:07 PM  
 **Categories:** -  
 
-Article URL: https://hyperscale.serinstudios.com/ Comments URL: https://news.ycombinator.com/item?id=50568967 Points: 5 # Comments: 1
+With the release of some new platforms having 128GB or more of unified memories, I am wondering if I should spend some money on those.I am looking for feedback and stories of people who bought hardware for local-first AI.- Did you identify a sweet spot in model size, and therefore hardware sizing?- ...
 
-📖 [Read original article](https://hyperscale.serinstudios.com/)
+📖 [Read original article](https://news.ycombinator.com/item?id=50578897)
 
 ---
 
-## 13. 'Anthropic was supposed to save the AI trade. What went wrong?' – CNBC
+## 13. Get rid of Siri AI's aggressive writing controls in Mail
 
-**Author:** MilnerRoute  
-**Published:** 11/20/2026, 1:11:25 AM  
+**Author:** CharlesW  
+**Published:** 11/20/2026, 5:44:33 PM  
 **Categories:** -  
 
-Article URL: https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html Comments URL: https://news.ycombinator.com/item?id=50568902 Points: 2 # Comments: 0
+Article URL: https://sixcolors.com/post/2026/11/get-rid-of-siri-ais-aggressive-writing-controls-in-mail/ Comments URL: https://news.ycombinator.com/item?id=50578808 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html)
+📖 [Read original article](https://sixcolors.com/post/2026/11/get-rid-of-siri-ais-aggressive-writing-controls-in-mail/)
 
 ---
 
-## 14. Show HN: Zeus – Claude Code for AI voice agents
+## 14. Chinese attackers used AI agents to find and exploit a university zero-day
 
-**Author:** kolchinski  
-**Published:** 11/20/2026, 12:51:52 AM  
+**Author:** waximabbax  
+**Published:** 11/20/2026, 5:42:55 PM  
 **Categories:** -  
 
-Hi everyone, Alex here - I’m one of the founders of ThunderPhone. We’re excited to announce the launch of Zeus, a platform that makes AI phone calls actually work without extensive hand-tuning!You can see a head-to-head I made of the last version of ThunderPhone vs this one here: https://www.youtube...
+Article URL: https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382 Comments URL: https://news.ycombinator.com/item?id=50578778 Points: 2 # Comments: 0
 
-📖 [Read original article](https://thunderphone.com/blog/introducing-zeus)
+📖 [Read original article](https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382)
 
 ---
 
-## 15. The Part About Machines (On AI Literary Scandals)
+## 15. Can you launch a solo business with AI?
 
-**Author:** anarbadalov  
-**Published:** 11/20/2026, 12:22:46 AM  
+**Author:** russellendicott  
+**Published:** 11/20/2026, 5:42:18 PM  
 **Categories:** -  
 
-Article URL: https://thepointmag.com/examined-life/the-part-about-the-machines/ Comments URL: https://news.ycombinator.com/item?id=50568518 Points: 3 # Comments: 0
+Article URL: https://blog.bytester.net/posts/launch-solo-business-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50578767 Points: 2 # Comments: 3
 
-📖 [Read original article](https://thepointmag.com/examined-life/the-part-about-the-machines/)
+📖 [Read original article](https://blog.bytester.net/posts/launch-solo-business-with-ai/)
 
 ---
 
-## 16. AI can be tricked to target civilians as military targets by preteding it's game
+## 16. Show HN: Out of Policy – Break an AI agent's spending guard for $75 USDC
 
-**Author:** DeepLogin  
-**Published:** 11/20/2026, 12:14:24 AM  
+**Author:** WZRDOFZO  
+**Published:** 11/20/2026, 5:42:12 PM  
 **Categories:** -  
 
-Article URL: https://www.vals.ai/blogs/autonomous-warfare Comments URL: https://news.ycombinator.com/item?id=50568442 Points: 3 # Comments: 1
+Article URL: https://play.outbid.sh Comments URL: https://news.ycombinator.com/item?id=50578763 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.vals.ai/blogs/autonomous-warfare)
+📖 [Read original article](https://play.outbid.sh)
+
+---
+
+## 17. Suspicious Minds: Unmonitorable AI Undermines Accountability
+
+**Author:** hn_acker  
+**Published:** 11/20/2026, 5:40:46 PM  
+**Categories:** -  
+
+Article URL: https://www.lawfaremedia.org/article/suspicious-minds--unmonitorable-ai-undermines-accountability Comments URL: https://news.ycombinator.com/item?id=50578740 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.lawfaremedia.org/article/suspicious-minds--unmonitorable-ai-undermines-accountability)
+
+---
+
+## 18. How many Phrack 73 articles used AI?
+
+**Author:** speckx  
+**Published:** 11/20/2026, 5:33:11 PM  
+**Categories:** -  
+
+Article URL: https://dustri.org/b/how-many-phrack-73-articles-used-ai.html Comments URL: https://news.ycombinator.com/item?id=50578593 Points: 1 # Comments: 0
+
+📖 [Read original article](https://dustri.org/b/how-many-phrack-73-articles-used-ai.html)
+
+---
+
+## 19. Starwright – a browser orbital flight game written by AI agents
+
+**Author:** jsmith0475  
+**Published:** 11/20/2026, 5:32:07 PM  
+**Categories:** -  
+
+Article URL: https://github.com/jsmith0475/Starwright Comments URL: https://news.ycombinator.com/item?id=50578585 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/jsmith0475/Starwright)
+
+---
+
+## 20. Agentic Ads: How Advertising Changes When AI Agents Do the Shopping
+
+**Author:** gotraven  
+**Published:** 11/20/2026, 5:29:43 PM  
+**Categories:** -  
+
+Article URL: https://alok929699.substack.com/p/agentic-ads-how-advertising-changes Comments URL: https://news.ycombinator.com/item?id=50578537 Points: 1 # Comments: 0
+
+📖 [Read original article](https://alok929699.substack.com/p/agentic-ads-how-advertising-changes)
 
 ---
