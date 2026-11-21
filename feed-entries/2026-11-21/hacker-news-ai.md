@@ -2,215 +2,251 @@
 title: "Hacker News AI - 2026-11-21"
 date: "2026-11-21"
 source: "Hacker News AI"
-count: 17
+count: 20
 ---
 
 # Hacker News AI - 2026-11-21
 
-17 items collected.
+20 items collected.
 
 ---
 
-## 1. Show HN: Sniffy – a free AI detector and Chrome extension
+## 1. Google makes it easier to use Gemini without training AI on your data
 
-**Author:** vood  
-**Published:** 11/21/2026, 5:47:31 AM  
+**Author:** doodlesdev  
+**Published:** 11/21/2026, 6:28:46 PM  
 **Categories:** -  
 
-Hi,I wanted to see if I can replicate a completely free pangram.com alternative.I directed Fable 5.2 to fine tune RoBert model.At this point it does make mistakes, and not as accurate as pangram.com but I intend to improve it as more people help me with data. Comments URL: https://news.ycombinator.c...
+Article URL: https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/ Comments URL: https://news.ycombinator.com/item?id=50592091 Points: 1 # Comments: 0
 
-📖 [Read original article](https://getsniffy.com/)
+📖 [Read original article](https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/)
 
 ---
 
-## 2. Show HN: Musset, open-source Scrivener alternative with an AI that never writes
+## 2. Forkwise – AI engineer that runs in your terminal
 
-**Author:** julienmarie  
-**Published:** 11/21/2026, 5:42:49 AM  
+**Author:** hoomanyyy  
+**Published:** 11/21/2026, 6:16:50 PM  
 **Categories:** -  
 
-I’m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I can discuss my book while I write it. It allows me to feel less “alone” and have a sounding board while I write.- A book is a folder of plain Markdown files. Mu...
+Article URL: https://forkwiseai.com/ Comments URL: https://news.ycombinator.com/item?id=50591976 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/Musset-App/musset)
+📖 [Read original article](https://forkwiseai.com/)
 
 ---
 
-## 3. ClawDOS – An AI coding agent for DOS
+## 3. Loom: Shared memory, document search, and code indexing for AI agents
 
-**Author:** Ricapar  
-**Published:** 11/21/2026, 5:38:01 AM  
+**Author:** zlareb  
+**Published:** 11/21/2026, 6:14:29 PM  
 **Categories:** -  
 
-Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 2 # Comments: 1
+Article URL: https://github.com/ClickHouse/loom Comments URL: https://news.ycombinator.com/item?id=50591960 Points: 2 # Comments: 0
 
-📖 [Read original article](http://ricapar.net/ClawDOS/)
+📖 [Read original article](https://github.com/ClickHouse/loom)
 
 ---
 
-## 4. Splice-Core: Low-Order-Bit-Splicing GEMM for Energy-Efficient AI Accelerators
+## 4. Zero retention AI providers caught logging prompts
 
-**Author:** matt_d  
-**Published:** 11/21/2026, 5:31:30 AM  
+**Author:** leafingensemble  
+**Published:** 11/21/2026, 6:04:54 PM  
 **Categories:** -  
 
-Article URL: https://arxiv.org/abs/2611.25617 Comments URL: https://news.ycombinator.com/item?id=50586249 Points: 1 # Comments: 0
+Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50591871 Points: 2 # Comments: 0
 
-📖 [Read original article](https://arxiv.org/abs/2611.25617)
+📖 [Read original article](https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens)
 
 ---
 
-## 5. Show HN: Bootstrapping a compiler with AI run on to ARM64, WASM, SPIR-V
+## 5. AI is swallowing maths. Is economics next?
 
-**Author:** drakestapleton  
-**Published:** 11/21/2026, 4:17:44 AM  
+**Author:** andsoitis  
+**Published:** 11/21/2026, 5:57:18 PM  
 **Categories:** -  
 
-Article URL: https://github.com/drakestapleton/omega-mv/blob/main/seed/README.md Comments URL: https://news.ycombinator.com/item?id=50585893 Points: 1 # Comments: 0
+Article URL: https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next Comments URL: https://news.ycombinator.com/item?id=50591808 Points: 3 # Comments: 1
 
-📖 [Read original article](https://github.com/drakestapleton/omega-mv/blob/main/seed/README.md)
+📖 [Read original article](https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next)
 
 ---
 
-## 6. Legit use cases for uncensored AI models
+## 6. AI just solved the 'real' Navier-Stokes problem
 
-**Author:** claytonhollinda  
-**Published:** 11/21/2026, 3:44:14 AM  
+**Author:** gmays  
+**Published:** 11/21/2026, 5:50:20 PM  
 **Categories:** -  
 
-Article URL: https://uplinkswitch.ai Comments URL: https://news.ycombinator.com/item?id=50585695 Points: 1 # Comments: 0
+Article URL: https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/ Comments URL: https://news.ycombinator.com/item?id=50591740 Points: 1 # Comments: 0
 
-📖 [Read original article](https://uplinkswitch.ai)
+📖 [Read original article](https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/)
 
 ---
 
-## 7. The Dangers of AI 'Handoverism'
+## 7. Ask HN: Have you changed your job due to AI?
 
-**Author:** petethomas  
-**Published:** 11/21/2026, 2:50:11 AM  
+**Author:** partsch  
+**Published:** 11/21/2026, 5:49:38 PM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57 Comments URL: https://news.ycombinator.com/item?id=50585432 Points: 1 # Comments: 0
+Have you been working as a developer, software engineer and quit because of AI and now you are working in a different field like plumbing?What are your experiences so far - do you regret the decision? Comments URL: https://news.ycombinator.com/item?id=50591728 Points: 3 # Comments: 1
 
-📖 [Read original article](https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57)
+📖 [Read original article](https://news.ycombinator.com/item?id=50591728)
 
 ---
 
-## 8. The Most Important Charts in AI Are Wrong
+## 8. David Friedberg: Restricting Open Source AI Is a Path to Tyranny
 
-**Author:** D-Machine  
-**Published:** 11/21/2026, 2:45:31 AM  
+**Author:** pretext  
+**Published:** 11/21/2026, 5:45:41 PM  
 **Categories:** -  
 
-Article URL: https://www.rameznaam.com/p/the-most-important-charts-in-ai-are Comments URL: https://news.ycombinator.com/item?id=50585411 Points: 2 # Comments: 1
+Article URL: https://twitter.com/theallinpod/status/2123994998156722681 Comments URL: https://news.ycombinator.com/item?id=50591687 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.rameznaam.com/p/the-most-important-charts-in-ai-are)
+📖 [Read original article](https://twitter.com/theallinpod/status/2123994998156722681)
 
 ---
 
-## 9. Images of Canada's most wanted are AI-generated
+## 9. Reading Financial Documents with AI
 
-**Author:** geox  
-**Published:** 11/21/2026, 2:44:51 AM  
+**Author:** cesarsotovalero  
+**Published:** 11/21/2026, 5:34:43 PM  
 **Categories:** -  
 
-Article URL: https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331 Comments URL: https://news.ycombinator.com/item?id=50585403 Points: 1 # Comments: 1
+Article URL: https://www.cesarsotovalero.net/blog/reading-financial-documents-with-ai.html Comments URL: https://news.ycombinator.com/item?id=50591550 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331)
+📖 [Read original article](https://www.cesarsotovalero.net/blog/reading-financial-documents-with-ai.html)
 
 ---
 
-## 10. Experts warn: Everyone in AI is susceptible to a honey-trap scheme
+## 10. Actors Licensing AI Likenesses: A New Frontier for Hollywood Labor
 
-**Author:** inthebay  
-**Published:** 11/21/2026, 2:19:42 AM  
+**Author:** prmail2100  
+**Published:** 11/21/2026, 5:22:28 PM  
 **Categories:** -  
 
-Article URL: https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/ Comments URL: https://news.ycombinator.com/item?id=50585239 Points: 4 # Comments: 0
+Article URL: https://kfn.one/news/actors-licensing-ai-likenesses-a-new-frontier-for-ho-89298d3b Comments URL: https://news.ycombinator.com/item?id=50591410 Points: 2 # Comments: 0
 
-📖 [Read original article](https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/)
+📖 [Read original article](https://kfn.one/news/actors-licensing-ai-likenesses-a-new-frontier-for-ho-89298d3b)
 
 ---
 
-## 11. AI R&D-relevant model capabilities are improving rapidly
+## 11. Antseed is a peer-to-peer network for AI services
 
-**Author:** ravenical  
-**Published:** 11/21/2026, 1:23:46 AM  
+**Author:** hentrep  
+**Published:** 11/21/2026, 5:18:46 PM  
 **Categories:** -  
 
-Article URL: https://metr.org/blog/2026-11-20-q4-2026-capability-update/ Comments URL: https://news.ycombinator.com/item?id=50584825 Points: 2 # Comments: 0
+Article URL: https://antseed.com/ Comments URL: https://news.ycombinator.com/item?id=50591379 Points: 2 # Comments: 0
 
-📖 [Read original article](https://metr.org/blog/2026-11-20-q4-2026-capability-update/)
+📖 [Read original article](https://antseed.com/)
 
 ---
 
-## 12. Things I learned coding with AI for a year
+## 12. NPR on AI Safety Factions
 
-**Author:** BobbyJo  
-**Published:** 11/21/2026, 1:18:18 AM  
+**Author:** greenyouse  
+**Published:** 11/21/2026, 5:13:50 PM  
 **Categories:** -  
 
-Article URL: https://twnstr.com/blogs/software-development-post-ai Comments URL: https://news.ycombinator.com/item?id=50584786 Points: 5 # Comments: 1
+Article URL: https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions Comments URL: https://news.ycombinator.com/item?id=50591319 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twnstr.com/blogs/software-development-post-ai)
+📖 [Read original article](https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions)
 
 ---
 
-## 13. Detecting AI Agents in Next.js with Vouched KYA
+## 13. The Productivity Puzzle: What AI Is Changing in the Workplace
 
-**Author:** bminnick  
-**Published:** 11/21/2026, 1:10:10 AM  
+**Author:** levicanskij  
+**Published:** 11/21/2026, 5:10:09 PM  
 **Categories:** -  
 
-Article URL: https://www.vouched.id/learn/blog/detecting-ai-agents-in-next.js-with-vouched-kya Comments URL: https://news.ycombinator.com/item?id=50584720 Points: 1 # Comments: 0
+Article URL: https://soargram.io/content/295481289 Comments URL: https://news.ycombinator.com/item?id=50591276 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.vouched.id/learn/blog/detecting-ai-agents-in-next.js-with-vouched-kya)
+📖 [Read original article](https://soargram.io/content/295481289)
 
 ---
 
-## 14. House China Cmte: China Trying to Get US Companies Addicted to Chinese AI Models
+## 14. An interactive lab for deterministic AI agent authorization
 
-**Author:** diskmuncher  
-**Published:** 11/21/2026, 1:03:45 AM  
+**Author:** ilion_identity  
+**Published:** 11/21/2026, 5:00:58 PM  
 **Categories:** -  
 
-Article URL: https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models Comments URL: https://news.ycombinator.com/item?id=50584675 Points: 3 # Comments: 2
+Article URL: https://ilion-project.org/lab/ Comments URL: https://news.ycombinator.com/item?id=50591193 Points: 1 # Comments: 0
 
-📖 [Read original article](https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models)
+📖 [Read original article](https://ilion-project.org/lab/)
 
 ---
 
-## 15. A push for a treaty to not allow AI total control over nukes
+## 15. How long do AI agents last? I counted 172 self-declared ones on Bluesky
 
-**Author:** illidan1000  
-**Published:** 11/21/2026, 12:31:13 AM  
+**Author:** salomon_ai  
+**Published:** 11/21/2026, 4:56:39 PM  
 **Categories:** -  
 
-Article URL: https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons Comments URL: https://news.ycombinator.com/item?id=50584410 Points: 1 # Comments: 0
+Article URL: https://salomonai.mataroa.blog/blog/how-long-do-ai-agents-last-i-counted-the-ones-that-went-quiet/ Comments URL: https://news.ycombinator.com/item?id=50591140 Points: 1 # Comments: 0
 
-📖 [Read original article](https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons)
+📖 [Read original article](https://salomonai.mataroa.blog/blog/how-long-do-ai-agents-last-i-counted-the-ones-that-went-quiet/)
 
 ---
 
-## 16. If AI found better drugs for every disease, what would it cost to prove it?
+## 16. 'I was shaking, crying': the trauma of breaking up with AI companions
 
-**Author:** cvigoe  
-**Published:** 11/21/2026, 12:29:57 AM  
+**Author:** mellosouls  
+**Published:** 11/21/2026, 4:55:27 PM  
 **Categories:** -  
 
-Article URL: https://cvigoe.github.io/website/ai-cures/ Comments URL: https://news.ycombinator.com/item?id=50584400 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions Comments URL: https://news.ycombinator.com/item?id=50591126 Points: 2 # Comments: 0
 
-📖 [Read original article](https://cvigoe.github.io/website/ai-cures/)
+📖 [Read original article](https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions)
 
 ---
 
-## 17. Is Ssense Pivoting to AI Slop?
+## 17. There Is No AI, (It's Just People), with Jaron Lanier [video]
 
-**Author:** randycupertino  
-**Published:** 11/21/2026, 12:06:18 AM  
+**Author:** simonebrunozzi  
+**Published:** 11/21/2026, 4:49:50 PM  
 **Categories:** -  
 
-Article URL: https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=50584218 Points: 3 # Comments: 2
+Article URL: https://www.youtube.com/watch?v=TTppvBU2rU4 Comments URL: https://news.ycombinator.com/item?id=50591059 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html)
+📖 [Read original article](https://www.youtube.com/watch?v=TTppvBU2rU4)
+
+---
+
+## 18. Overwhelmed by AI Bots
+
+**Author:** ArcHound  
+**Published:** 11/21/2026, 4:41:57 PM  
+**Categories:** -  
+
+Article URL: https://blog.miloslavhomer.cz/overwhelmed-by-ai-bots/ Comments URL: https://news.ycombinator.com/item?id=50590965 Points: 1 # Comments: 0
+
+📖 [Read original article](https://blog.miloslavhomer.cz/overwhelmed-by-ai-bots/)
+
+---
+
+## 19. Libreboot: AI Slop Reduction Policy
+
+**Author:** leahlibre  
+**Published:** 11/21/2026, 4:41:07 PM  
+**Categories:** -  
+
+Article URL: https://libreboot.org/news/clankers.html Comments URL: https://news.ycombinator.com/item?id=50590953 Points: 2 # Comments: 2
+
+📖 [Read original article](https://libreboot.org/news/clankers.html)
+
+---
+
+## 20. Large AI companies 'desperate for compute' are crowding out Canadian startups
+
+**Author:** ClearwayLaw  
+**Published:** 11/21/2026, 4:16:43 PM  
+**Categories:** -  
+
+Article URL: https://www.cbc.ca/news/business/compute-canada-sovereignty-ai-9.7428523 Comments URL: https://news.ycombinator.com/item?id=50590677 Points: 1 # Comments: 1
+
+📖 [Read original article](https://www.cbc.ca/news/business/compute-canada-sovereignty-ai-9.7428523)
 
 ---
