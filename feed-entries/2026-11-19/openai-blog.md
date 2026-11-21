@@ -35,19 +35,7 @@ Watch a demo of the Codex Security Plugin and see the workflow in action, from g
 
 ---
 
-## 3. Deploying Daybreak Red
-
-**Author:** -  
-**Published:** 11/19/2026, 12:00:00 AM  
-**Categories:** Guides  
-
-Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
-
-📖 [Read original article](https://openai.com/business/learn/deploying-daybreak-red)
-
----
-
-## 4. See PR scans in action
+## 3. See PR scans in action
 
 **Author:** -  
 **Published:** 11/19/2026, 12:00:00 AM  
@@ -59,7 +47,7 @@ Watch a walkthrough of PR scans and see how the presenter reviews scan results i
 
 ---
 
-## 5. Get started with Daybreak Blue
+## 4. Get started with Daybreak Blue
 
 **Author:** -  
 **Published:** 11/19/2026, 12:00:00 AM  
@@ -68,5 +56,17 @@ Watch a walkthrough of PR scans and see how the presenter reviews scan results i
 Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.
 
 📖 [Read original article](https://openai.com/business/learn/daybreak-blue-onboarding-demo)
+
+---
+
+## 5. Deploying Daybreak Red
+
+**Author:** -  
+**Published:** 11/19/2026, 12:00:00 AM  
+**Categories:** Guides  
+
+Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
+
+📖 [Read original article](https://openai.com/business/learn/deploying-daybreak-red)
 
 ---
