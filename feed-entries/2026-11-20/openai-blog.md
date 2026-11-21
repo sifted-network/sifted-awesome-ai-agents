@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-11-20"
 date: "2026-11-20"
 source: "OpenAI Blog"
-count: 2
+count: 3
 ---
 
 # OpenAI Blog - 2026-11-20
 
-2 items collected.
+3 items collected.
 
 ---
 
@@ -23,7 +23,19 @@ OpenAI’s layered approach to adversarial distillation combines model training,
 
 ---
 
-## 2. Can AI help scientists identify promising drug candidates?
+## 2. Hebbia sees improvements in financial research with GPT-6 Astra
+
+**Author:** -  
+**Published:** 11/20/2026, 12:00:00 AM  
+**Categories:** -  
+
+Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.
+
+📖 [Read original article](https://openai.com/business/customer-stories/hebbia)
+
+---
+
+## 3. Can AI help scientists identify promising drug candidates?
 
 **Author:** -  
 **Published:** 11/20/2026, 12:00:00 AM  
