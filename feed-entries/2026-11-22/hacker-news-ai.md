@@ -2,203 +2,251 @@
 title: "Hacker News AI - 2026-11-22"
 date: "2026-11-22"
 source: "Hacker News AI"
-count: 16
+count: 20
 ---
 
 # Hacker News AI - 2026-11-22
 
-16 items collected.
+20 items collected.
 
 ---
 
-## 1. AI as a Lifestyle Choice
+## 1. How Hong Kong is using AI alerts and a tank to cut flood risks during storms
 
-**Author:** Karrot_Kream  
-**Published:** 11/22/2026, 5:28:59 AM  
+**Author:** LebToki  
+**Published:** 11/22/2026, 1:59:05 PM  
 **Categories:** -  
 
-Article URL: https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/ Comments URL: https://news.ycombinator.com/item?id=50596598 Points: 1 # Comments: 0
+Article URL: https://2tinteractive.com/watch/episodes/5739/ Comments URL: https://news.ycombinator.com/item?id=50599782 Points: 1 # Comments: 0
 
-📖 [Read original article](https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/)
+📖 [Read original article](https://2tinteractive.com/watch/episodes/5739/)
 
 ---
 
-## 2. Ask HN: What made you pivot your interest to the field of AI?
+## 2. Show HN: ReallySimpleDocs – Modern, AI-ready documentation site with Astro
 
-**Author:** learner_yearner  
-**Published:** 11/22/2026, 5:20:06 AM  
+**Author:** hunvreus  
+**Published:** 11/22/2026, 1:58:23 PM  
 **Categories:** -  
 
-If you work in the field of AI, machine learning what made you do so? What sparked your interest and which skills and resources helped you along the way? Comments URL: https://news.ycombinator.com/item?id=50596564 Points: 2 # Comments: 0
+Article URL: https://github.com/hunvreus/reallysimpledocs Comments URL: https://news.ycombinator.com/item?id=50599773 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50596564)
+📖 [Read original article](https://github.com/hunvreus/reallysimpledocs)
 
 ---
 
-## 3. AI Supply Chain Security: What Canary Tokens Found
+## 3. Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run
 
-**Author:** kristianp  
-**Published:** 11/22/2026, 5:11:43 AM  
+**Author:** RiccardoSottini  
+**Published:** 11/22/2026, 1:41:29 PM  
 **Categories:** -  
 
-Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 2 # Comments: 0
+Article URL: https://github.com/RiccardoSottini/AffrescoUI Comments URL: https://news.ycombinator.com/item?id=50599626 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens)
+📖 [Read original article](https://github.com/RiccardoSottini/AffrescoUI)
 
 ---
 
-## 4. AiDotNet – Comprehensive AI/ML Framework for .NET
+## 4. AI Explorables: Big Ideas in Machine Learning (People and AI Research (Pair))
 
-**Author:** olvy0  
-**Published:** 11/22/2026, 5:07:05 AM  
+**Author:** vismit2000  
+**Published:** 11/22/2026, 12:34:42 PM  
 **Categories:** -  
 
-Article URL: https://github.com/ooples/AiDotNet Comments URL: https://news.ycombinator.com/item?id=50596472 Points: 2 # Comments: 0
+Article URL: https://pair.withgoogle.com/explorables/ Comments URL: https://news.ycombinator.com/item?id=50599071 Points: 1 # Comments: 0
 
-📖 [Read original article](https://github.com/ooples/AiDotNet)
+📖 [Read original article](https://pair.withgoogle.com/explorables/)
 
 ---
 
-## 5. Show HN: Vouch – See what AI assistants say about your brand mid-conversation
+## 5. I won't leave mathematics, despite AI solving centuries-old problems
 
-**Author:** samratkar  
-**Published:** 11/22/2026, 4:24:22 AM  
+**Author:** artninja1988  
+**Published:** 11/22/2026, 12:29:57 PM  
 **Categories:** -  
 
-Article URL: https://vouchgeo.com Comments URL: https://news.ycombinator.com/item?id=50596218 Points: 1 # Comments: 0
+Article URL: https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems Comments URL: https://news.ycombinator.com/item?id=50599029 Points: 2 # Comments: 0
 
-📖 [Read original article](https://vouchgeo.com)
+📖 [Read original article](https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems)
 
 ---
 
-## 6. Ask HN: Are you prepared to rent intelligence from AI providers?
+## 6. I know who's popping the AI bubble now [video]
 
-**Author:** piratesAndSons  
-**Published:** 11/22/2026, 3:48:46 AM  
+**Author:** Bender  
+**Published:** 11/22/2026, 12:18:34 PM  
 **Categories:** -  
 
-Say the year 2035 arrives, and for the last ten years you have relied on an AI machine to do your thinking for you because you convinced yourself it made you more productive. As a consequence, your native intelligence has atrophied, and you now depend on this synthetic pseudo-brain the way a diabeti...
+Article URL: https://www.youtube.com/watch?v=YNTpOLbvKTs Comments URL: https://news.ycombinator.com/item?id=50598952 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50596041)
+📖 [Read original article](https://www.youtube.com/watch?v=YNTpOLbvKTs)
 
 ---
 
-## 7. Ask HN: Printing documents in the age of AI cyberattacks
+## 7. 16-year-old awarded $500k by Y Combinator for AI-guided-missile startup
 
-**Author:** andsoitis  
-**Published:** 11/22/2026, 3:41:48 AM  
+**Author:** bookofjoe  
+**Published:** 11/22/2026, 12:06:55 PM  
 **Categories:** -  
 
-Do you make hard copies of important documents like investment account statements? Comments URL: https://news.ycombinator.com/item?id=50596012 Points: 2 # Comments: 1
+Article URL: https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/ Comments URL: https://news.ycombinator.com/item?id=50598875 Points: 5 # Comments: 3
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50596012)
+📖 [Read original article](https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/)
 
 ---
 
-## 8. Can AI Make Its Own Manufacturing Decisions?
+## 8. Show HN: Codeint – Measure duplication and complexity drift in AI-written code
 
-**Author:** gmays  
-**Published:** 11/22/2026, 3:29:53 AM  
+**Author:** avidianity  
+**Published:** 11/22/2026, 11:58:04 AM  
 **Categories:** -  
 
-Article URL: https://semiengineering.com/can-ai-make-its-own-manufacturing-decisions/ Comments URL: https://news.ycombinator.com/item?id=50595945 Points: 2 # Comments: 0
+Article URL: https://github.com/avidianity/codeint Comments URL: https://news.ycombinator.com/item?id=50598813 Points: 1 # Comments: 0
 
-📖 [Read original article](https://semiengineering.com/can-ai-make-its-own-manufacturing-decisions/)
+📖 [Read original article](https://github.com/avidianity/codeint)
 
 ---
 
-## 9. Current Efforts Aren't Enough to Slow the AI Cyber Virus
+## 9. Taxi Driver scriptwriter Paul Schrader on unleashing AI at 80
 
-**Author:** DenisM  
-**Published:** 11/22/2026, 3:28:48 AM  
+**Author:** Michelangelo11  
+**Published:** 11/22/2026, 11:44:02 AM  
 **Categories:** -  
 
-Article URL: https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus Comments URL: https://news.ycombinator.com/item?id=50595940 Points: 2 # Comments: 3
+Article URL: https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese Comments URL: https://news.ycombinator.com/item?id=50598733 Points: 3 # Comments: 4
 
-📖 [Read original article](https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus)
+📖 [Read original article](https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese)
 
 ---
 
-## 10. Together.ai: Prompt Leakage for Requests
+## 10. Banks Have Had It Up to Here With Your AI Agent
 
-**Author:** Fe2O3  
-**Published:** 11/22/2026, 3:07:27 AM  
+**Author:** Brajeshwar  
+**Published:** 11/22/2026, 11:37:55 AM  
 **Categories:** -  
 
-Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 Comments URL: https://news.ycombinator.com/item?id=50595816 Points: 9 # Comments: 4
+Article URL: https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50598692 Points: 2 # Comments: 1
 
-📖 [Read original article](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026)
+📖 [Read original article](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/)
 
 ---
 
-## 11. Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"
+## 11. Zero Trust for AI Agents
 
-**Author:** droidjj  
-**Published:** 11/22/2026, 3:06:35 AM  
+**Author:** 7777777phil  
+**Published:** 11/22/2026, 11:12:52 AM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=zqzk43bSdDI Comments URL: https://news.ycombinator.com/item?id=50595812 Points: 24 # Comments: 4
+Article URL: https://claude.com/resources/articles/zero-trust-for-ai-agents Comments URL: https://news.ycombinator.com/item?id=50598527 Points: 5 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=zqzk43bSdDI)
+📖 [Read original article](https://claude.com/resources/articles/zero-trust-for-ai-agents)
 
 ---
 
-## 12. Wall Street Asks What Can Save AI Trade After Anthropic Wipeout
+## 12. Confident predictions and verdicts about AI, and what happened next [video]
 
-**Author:** madihaa  
-**Published:** 11/22/2026, 2:27:39 AM  
+**Author:** iamanatom  
+**Published:** 11/22/2026, 10:54:00 AM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout Comments URL: https://news.ycombinator.com/item?id=50595628 Points: 7 # Comments: 1
+Article URL: https://www.youtube.com/watch?v=_Zzv15cwG1A Comments URL: https://news.ycombinator.com/item?id=50598406 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout)
+📖 [Read original article](https://www.youtube.com/watch?v=_Zzv15cwG1A)
 
 ---
 
-## 13. The Mythology of Conscious AI
+## 13. AI People Are Extremely Rich
 
-**Author:** Anon84  
-**Published:** 11/22/2026, 2:10:02 AM  
+**Author:** A_D_E_P_T  
+**Published:** 11/22/2026, 10:35:49 AM  
 **Categories:** -  
 
-Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 18 # Comments: 45
+Article URL: https://www.noahpinion.blog/p/ai-people-are-very-very-very-very Comments URL: https://news.ycombinator.com/item?id=50598277 Points: 8 # Comments: 2
 
-📖 [Read original article](https://www.noemamag.com/the-mythology-of-conscious-ai/)
+📖 [Read original article](https://www.noahpinion.blog/p/ai-people-are-very-very-very-very)
 
 ---
 
-## 14. The AI cyber threat is here
+## 14. Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator
 
-**Author:** fallinditch  
-**Published:** 11/22/2026, 1:39:20 AM  
+**Author:** joshcsimmons  
+**Published:** 11/22/2026, 9:57:01 AM  
 **Categories:** -  
 
-Article URL: https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b Comments URL: https://news.ycombinator.com/item?id=50595391 Points: 1 # Comments: 0
+Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 15 # Comments: 0
 
-📖 [Read original article](https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b)
+📖 [Read original article](https://simonwillison.net/2026/Nov/21/muru/)
 
 ---
 
-## 15. Apple's iPhone camera chief, an opponent of AI-altered photos, has retired
+## 15. AI Slop as a Service: Why Microsoft Won But the Soviets Lost
 
-**Author:** DASD  
-**Published:** 11/22/2026, 1:29:23 AM  
+**Author:** Brajeshwar  
+**Published:** 11/22/2026, 9:38:44 AM  
 **Categories:** -  
 
-Article URL: https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/ Comments URL: https://news.ycombinator.com/item?id=50595334 Points: 2 # Comments: 0
+Article URL: https://www.flyingpenguin.com/ai-slop-as-a-service-why-microsoft-won-but-the-soviets-lost/ Comments URL: https://news.ycombinator.com/item?id=50597839 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/)
+📖 [Read original article](https://www.flyingpenguin.com/ai-slop-as-a-service-why-microsoft-won-but-the-soviets-lost/)
 
 ---
 
-## 16. The No AI Slop Manifesto
+## 16. TI Embedded AI
 
-**Author:** ohjeez  
-**Published:** 11/22/2026, 1:18:06 AM  
+**Author:** teleforce  
+**Published:** 11/22/2026, 9:09:15 AM  
 **Categories:** -  
 
-Article URL: https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948 Comments URL: https://news.ycombinator.com/item?id=50595283 Points: 7 # Comments: 2
+Article URL: https://www.ti.com/en-us/technologies/edge-ai Comments URL: https://news.ycombinator.com/item?id=50597682 Points: 1 # Comments: 1
 
-📖 [Read original article](https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948)
+📖 [Read original article](https://www.ti.com/en-us/technologies/edge-ai)
+
+---
+
+## 17. Is AI plagiarizing human research?
+
+**Author:** doener  
+**Published:** 11/22/2026, 8:57:25 AM  
+**Categories:** -  
+
+Article URL: https://twitter.com/Robert_E_Grant_/status/2124338413662847228 Comments URL: https://news.ycombinator.com/item?id=50597611 Points: 3 # Comments: 0
+
+📖 [Read original article](https://twitter.com/Robert_E_Grant_/status/2124338413662847228)
+
+---
+
+## 18. The day the Riemann hypothesis fell to AI, I took my son for a walk
+
+**Author:** porsager  
+**Published:** 11/22/2026, 8:50:56 AM  
+**Categories:** -  
+
+Article URL: https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis Comments URL: https://news.ycombinator.com/item?id=50597573 Points: 3 # Comments: 1
+
+📖 [Read original article](https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis)
+
+---
+
+## 19. AI Riemann hypothesis proof is true, independent mathematicians confirm
+
+**Author:** cybermango  
+**Published:** 11/22/2026, 8:22:17 AM  
+**Categories:** -  
+
+Article URL: https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/ Comments URL: https://news.ycombinator.com/item?id=50597440 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/)
+
+---
+
+## 20. Show HN: Prompt Upgrader – a no-signup tool that scores and rewrites AI prompts
+
+**Author:** MadGPT  
+**Published:** 11/22/2026, 6:41:12 AM  
+**Categories:** -  
+
+Article URL: https://madgpt1.github.io/prompt-upgrader/ Comments URL: https://news.ycombinator.com/item?id=50596909 Points: 2 # Comments: 0
+
+📖 [Read original article](https://madgpt1.github.io/prompt-upgrader/)
 
 ---
