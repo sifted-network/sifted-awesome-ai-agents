@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-11-24"
 date: "2026-11-24"
 source: "OpenAI Blog"
-count: 4
+count: 5
 ---
 
 # OpenAI Blog - 2026-11-24
 
-4 items collected.
+5 items collected.
 
 ---
 
@@ -56,5 +56,17 @@ Marina Petrova’s dot Aria helps research websites and build proposals, while p
 
 
 📖 [Read original article](https://openai.com/business/customer-stories/ifood)
+
+---
+
+## 5. Clay helps sales teams win with Codex and ChatGPT
+
+**Author:** -  
+**Published:** 11/24/2026, 12:00:00 AM  
+**Categories:** -  
+
+ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.
+
+📖 [Read original article](https://openai.com/business/customer-stories/clay-plugins-openai)
 
 ---
