@@ -2,12 +2,12 @@
 title: "qbitai - 2026-11-25"
 date: "2026-11-25"
 source: "qbitai"
-count: 10
+count: 6
 ---
 
 # qbitai - 2026-11-25
 
-10 items collected.
+6 items collected.
 
 ---
 
@@ -80,53 +80,5 @@ count: 10
 揭秘General Looped Model
 
 📖 [Read original article](https://www.qbitai.com/2026/11/512565.html)
-
----
-
-## 7. Anthropic还藏着2个最强模型…
-
-**Author:** 程浅  
-**Published:** 11/25/2026, 8:23:24 AM  
-**Categories:** 资讯, Claude, Fable5.2  
-
-Fable5.2已经很旧了。
-
-📖 [Read original article](https://www.qbitai.com/2026/11/512538.html)
-
----
-
-## 8. 完整议程！第二十一届中国IDC产业年度大典（IDCC2026）
-
-**Author:** 量子位的朋友们  
-**Published:** 11/25/2026, 8:18:54 AM  
-**Categories:** 资讯, IDC圈  
-
-第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办
-
-📖 [Read original article](https://www.qbitai.com/2026/11/512532.html)
-
----
-
-## 9. A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆
-
-**Author:** 一水  
-**Published:** 11/25/2026, 7:46:52 AM  
-**Categories:** 资讯, 跳槽  
-
-OpenAI这下要有俩Tibo了
-
-📖 [Read original article](https://www.qbitai.com/2026/11/512515.html)
-
----
-
-## 10. 华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI
-
-**Author:** 衡宇  
-**Published:** 11/25/2026, 6:49:27 AM  
-**Categories:** 资讯, 首页轮播, Envision AI, 权龙, 空间与物理AI  
-
-复杂场景三维建模成本降至10美元以内
-
-📖 [Read original article](https://www.qbitai.com/2026/11/512498.html)
 
 ---
