@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. AI Keeps Asking If It's Conscious [video]
+## 1. Banks look to dump AI debt
 
-**Author:** DarenWatson  
-**Published:** 11/26/2026, 6:49:31 AM  
+**Author:** PLenz  
+**Published:** 11/26/2026, 8:49:01 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=ghxoAM5io18 Comments URL: https://news.ycombinator.com/item?id=50652280 Points: 1 # Comments: 1
+Article URL: https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt Comments URL: https://news.ycombinator.com/item?id=50659634 Points: 3 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=ghxoAM5io18)
+📖 [Read original article](https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt)
 
 ---
 
-## 2. Audi integrates new app with AI assistant with Cerence AI and Microsoft
+## 2. Signs of AI Writing, Backed by Data
 
-**Author:** taubek  
-**Published:** 11/26/2026, 6:34:31 AM  
+**Author:** paulpauper  
+**Published:** 11/26/2026, 8:27:12 PM  
 **Categories:** -  
 
-Article URL: https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450 Comments URL: https://news.ycombinator.com/item?id=50652195 Points: 1 # Comments: 0
+Article URL: https://www.pangram.com/fr/signs-of-ai-writing Comments URL: https://news.ycombinator.com/item?id=50659381 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450)
+📖 [Read original article](https://www.pangram.com/fr/signs-of-ai-writing)
 
 ---
 
-## 3. AI Is Supercharging Your Top Students and Probably Harming the Rest
+## 3. AI #196: The Return
 
-**Author:** RRWagner  
-**Published:** 11/26/2026, 5:58:37 AM  
+**Author:** paulpauper  
+**Published:** 11/26/2026, 8:24:22 PM  
 **Categories:** -  
 
-Article URL: https://www.edutopia.org/article/does-ai-help-students-learn/ Comments URL: https://news.ycombinator.com/item?id=50651977 Points: 2 # Comments: 1
+Article URL: https://thezvi.substack.com/p/ai-196-the-return Comments URL: https://news.ycombinator.com/item?id=50659344 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.edutopia.org/article/does-ai-help-students-learn/)
+📖 [Read original article](https://thezvi.substack.com/p/ai-196-the-return)
 
 ---
 
-## 4. How can people make money as AI replaces intellectual jobs?
+## 4. ShareMyTokens – Share AI API access on a token budget, without exposing your key
 
-**Author:** fairetjrs  
-**Published:** 11/26/2026, 5:46:33 AM  
+**Author:** ibrahimpelumi61  
+**Published:** 11/26/2026, 8:10:57 PM  
 **Categories:** -  
 
-As AI automates more knowledge work, what practical ways are there to earn a living through this transition? Comments URL: https://news.ycombinator.com/item?id=50651911 Points: 12 # Comments: 5
+Article URL: https://sharemytokens.com Comments URL: https://news.ycombinator.com/item?id=50659172 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50651911)
+📖 [Read original article](https://sharemytokens.com)
 
 ---
 
-## 5. Precisely.ai Catalog – AI Studio Catalog of App, Agent, Skill and Server
+## 5. A Warning About AI to My Loved Ones
 
-**Author:** peter_d_sherman  
-**Published:** 11/26/2026, 5:09:51 AM  
+**Author:** rossant  
+**Published:** 11/26/2026, 7:54:56 PM  
 **Categories:** -  
 
-Article URL: https://precisely.ai/explore Comments URL: https://news.ycombinator.com/item?id=50651693 Points: 1 # Comments: 0
+Article URL: https://twitter.com/nikolaj2030/status/2125996744718565514 Comments URL: https://news.ycombinator.com/item?id=50659016 Points: 6 # Comments: 2
 
-📖 [Read original article](https://precisely.ai/explore)
+📖 [Read original article](https://twitter.com/nikolaj2030/status/2125996744718565514)
 
 ---
 
-## 6. I Learned to Stop Worrying and Love the AI
+## 6. Top-cited AI scientists at four US companies compared
 
-**Author:** ghastmaster  
-**Published:** 11/26/2026, 5:01:25 AM  
+**Author:** kkk4seis  
+**Published:** 11/26/2026, 7:44:31 PM  
 **Categories:** -  
 
-A few years ago talking heads and AM radio personalities went cookoo over AI. The warnings were replete with assertations of total destruction. I blew them off as doomsdayesque viewer/listener headline/listener bastards that saw dollar signs in words.Assuredly, they completely misunderstood the tech...
+Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 2 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50651635)
+📖 [Read original article](https://topcitedscientists.com/figures/ai-at-four-us-companies/)
 
 ---
 
-## 7. Amazon says hackers' AI agents found and exploited 0-day with little human input
+## 7. Xmas gift ideas for kids – Hands-on and AI toys
 
-**Author:** gmays  
-**Published:** 11/26/2026, 4:46:50 AM  
+**Author:** quantum_state  
+**Published:** 11/26/2026, 7:38:35 PM  
 **Categories:** -  
 
-Article URL: https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/ Comments URL: https://news.ycombinator.com/item?id=50651535 Points: 2 # Comments: 0
+Article URL: https://saras3d.ai/wonderlabs Comments URL: https://news.ycombinator.com/item?id=50658854 Points: 2 # Comments: 4
 
-📖 [Read original article](https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/)
+📖 [Read original article](https://saras3d.ai/wonderlabs)
 
 ---
 
-## 8. Show HN: Hush, the fastest computer use for AI agents
+## 8. TrustedRouter Gives Companies Greater Privacy with AI
 
-**Author:** Ogi28  
-**Published:** 11/26/2026, 4:45:29 AM  
+**Author:** ljlolel  
+**Published:** 11/26/2026, 7:15:22 PM  
 **Categories:** -  
 
-Article URL: https://github.com/OgnjenAdzic28/hush Comments URL: https://news.ycombinator.com/item?id=50651523 Points: 3 # Comments: 0
+Article URL: https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai Comments URL: https://news.ycombinator.com/item?id=50658613 Points: 2 # Comments: 0
 
-📖 [Read original article](https://github.com/OgnjenAdzic28/hush)
+📖 [Read original article](https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai)
 
 ---
 
-## 9. Game Autoresearch Bench: Can AI agents train strong game bots on a budget?
+## 9. AI Killed Agile [video]
 
-**Author:** luu  
-**Published:** 11/26/2026, 4:42:59 AM  
+**Author:** adefwebserver  
+**Published:** 11/26/2026, 6:58:09 PM  
 **Categories:** -  
 
-Article URL: https://gameautoresearch.github.io/ Comments URL: https://news.ycombinator.com/item?id=50651501 Points: 2 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=t94DyXLh_u8 Comments URL: https://news.ycombinator.com/item?id=50658403 Points: 1 # Comments: 3
 
-📖 [Read original article](https://gameautoresearch.github.io/)
+📖 [Read original article](https://www.youtube.com/watch?v=t94DyXLh_u8)
 
 ---
 
-## 10. Show HN: Talira – Search engine for software, built for AI agents
+## 10. SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports
 
-**Author:** nathan_f77  
-**Published:** 11/26/2026, 4:37:30 AM  
+**Author:** frank_clover  
+**Published:** 11/26/2026, 6:46:18 PM  
 **Categories:** -  
 
-Hi HN, I'm Nathan. I wanted to share a project that I've been working on this month.A few weeks ago, my Rust target folders had grown to about 70 GB across many git worktrees, and I asked Claude to figure out how to stop that from happening. It couldn't find much online, so we started to build our o...
+Article URL: https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/ Comments URL: https://news.ycombinator.com/item?id=50658287 Points: 5 # Comments: 3
 
-📖 [Read original article](https://talira.ai/)
+📖 [Read original article](https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/)
 
 ---
 
-## 11. Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In
+## 11. Beating AI detectors: It's harder than you'd think but I tried anyways
 
-**Author:** petethomas  
-**Published:** 11/26/2026, 3:13:51 AM  
+**Author:** dopamine_daddy  
+**Published:** 11/26/2026, 6:11:11 PM  
 **Categories:** -  
 
-Article URL: https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in Comments URL: https://news.ycombinator.com/item?id=50650979 Points: 6 # Comments: 0
+Article URL: https://unslop.run/blog/beating-ai-detectors Comments URL: https://news.ycombinator.com/item?id=50657902 Points: 5 # Comments: 5
 
-📖 [Read original article](https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in)
+📖 [Read original article](https://unslop.run/blog/beating-ai-detectors)
 
 ---
 
-## 12. HeyOrbo – AI Powered Notch on Desktop
+## 12. Andrew Bailey says unreleased AI models have raised encryption concerns
 
-**Author:** pyonic  
-**Published:** 11/26/2026, 2:28:45 AM  
+**Author:** mlfia  
+**Published:** 11/26/2026, 6:10:56 PM  
 **Categories:** -  
 
-Article URL: https://heyorbo.com Comments URL: https://news.ycombinator.com/item?id=50650673 Points: 1 # Comments: 0
+Article URL: https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae Comments URL: https://news.ycombinator.com/item?id=50657900 Points: 4 # Comments: 0
 
-📖 [Read original article](https://heyorbo.com)
+📖 [Read original article](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae)
 
 ---
 
-## 13. Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents
+## 13. Italy and Switzerland warn of autonomous AI-driven cyberattacks
 
-**Author:** GloVin  
-**Published:** 11/26/2026, 2:28:06 AM  
+**Author:** N19PEDL2  
+**Published:** 11/26/2026, 6:02:46 PM  
 **Categories:** -  
 
-Article URL: https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars Comments URL: https://news.ycombinator.com/item?id=50650667 Points: 3 # Comments: 1
+Article URL: https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/ Comments URL: https://news.ycombinator.com/item?id=50657814 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars)
+📖 [Read original article](https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/)
 
 ---
 
-## 14. Exhibit A with AI: Don't Skip or Write \"None.\"
+## 14. Tool-calling AI agents (not chatbots) predict slower firm hiring growth
 
-**Author:** mooreds  
-**Published:** 11/26/2026, 2:25:23 AM  
+**Author:** datascientist  
+**Published:** 11/26/2026, 5:55:26 PM  
 **Categories:** -  
 
-Article URL: https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write Comments URL: https://news.ycombinator.com/item?id=50650653 Points: 1 # Comments: 0
+Article URL: https://arxiv.org/abs/2611.27210 Comments URL: https://news.ycombinator.com/item?id=50657727 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write)
+📖 [Read original article](https://arxiv.org/abs/2611.27210)
 
 ---
 
-## 15. The State of Agentic AI: Shit with Good Formatting
+## 15. Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch
 
-**Author:** kbr-  
-**Published:** 11/26/2026, 1:44:39 AM  
+**Author:** flessio  
+**Published:** 11/26/2026, 5:55:10 PM  
 **Categories:** -  
 
-Article URL: https://github.com/kbr-/shit-with-good-formatting Comments URL: https://news.ycombinator.com/item?id=50650338 Points: 1 # Comments: 2
+Article URL: https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/ Comments URL: https://news.ycombinator.com/item?id=50657724 Points: 16 # Comments: 1
 
-📖 [Read original article](https://github.com/kbr-/shit-with-good-formatting)
+📖 [Read original article](https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/)
 
 ---
 
-## 16. Show HN: A daily word puzzle where an AI gives the clue and you guess
+## 16. Physicist Uses AI to Tackle Quantum Gravity
 
-**Author:** hardicecream  
-**Published:** 11/26/2026, 1:42:07 AM  
+**Author:** a_tartaruga  
+**Published:** 11/26/2026, 5:50:06 PM  
 **Categories:** -  
 
-Each day, an AI writes one clue for several words on a 5x5 board, and you pick which ones it meant. Afterwards, you see how Claude Haiku and GPT Luna would've done on the same board. Free, no sign-up to play. Comments URL: https://news.ycombinator.com/item?id=50650316 Points: 1 # Comments: 1
+Article URL: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/ Comments URL: https://news.ycombinator.com/item?id=50657658 Points: 1 # Comments: 0
 
-📖 [Read original article](https://wordspies.com/daily)
+📖 [Read original article](https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/)
 
 ---
 
-## 17. M Science – AI-Ready Market Intelligence
+## 17. What a rule-based checker found in 561 public projects, mostly AI-built
 
-**Author:** vismit2000  
-**Published:** 11/26/2026, 1:22:28 AM  
+**Author:** DrMax  
+**Published:** 11/26/2026, 5:38:58 PM  
 **Categories:** -  
 
-Article URL: https://mscience.com/ Comments URL: https://news.ycombinator.com/item?id=50650180 Points: 2 # Comments: 0
+Article URL: https://lintsure.com/research/561-projects Comments URL: https://news.ycombinator.com/item?id=50657555 Points: 1 # Comments: 1
 
-📖 [Read original article](https://mscience.com/)
+📖 [Read original article](https://lintsure.com/research/561-projects)
 
 ---
 
-## 18. Can AI break public key cryptography before Quantum Computers?
+## 18. The Trap of Understanding: Why AI Cannot Be Regulated Like Oil
 
-**Author:** EGreg  
-**Published:** 11/26/2026, 1:12:13 AM  
+**Author:** Aldus551  
+**Published:** 11/26/2026, 5:34:07 PM  
 **Categories:** -  
 
-Article URL: https://www.youtube.com/watch?v=ENhHv_VCDL0 Comments URL: https://news.ycombinator.com/item?id=50650086 Points: 2 # Comments: 0
+Article URL: https://medium.com/@smoking2man/the-trap-of-understanding-why-ai-cannot-be-regulated-like-oil-and-how-to-get-out-of-it-e6f790b382e2 Comments URL: https://news.ycombinator.com/item?id=50657491 Points: 2 # Comments: 0
 
-📖 [Read original article](https://www.youtube.com/watch?v=ENhHv_VCDL0)
+📖 [Read original article](https://medium.com/@smoking2man/the-trap-of-understanding-why-ai-cannot-be-regulated-like-oil-and-how-to-get-out-of-it-e6f790b382e2)
 
 ---
 
-## 19. New research suggests AI bubble bursting and to expect major market collapse
+## 19. Sara – A financial workspace with persistent context across AI models
 
-**Author:** madihaa  
-**Published:** 11/26/2026, 12:38:30 AM  
+**Author:** dodriozola  
+**Published:** 11/26/2026, 5:33:49 PM  
 **Categories:** -  
 
-Article URL: https://www.london.edu/think/ai-bubble-about-to-burst Comments URL: https://news.ycombinator.com/item?id=50649822 Points: 4 # Comments: 2
+Article URL: https://www.usesara.ai Comments URL: https://news.ycombinator.com/item?id=50657490 Points: 1 # Comments: 2
 
-📖 [Read original article](https://www.london.edu/think/ai-bubble-about-to-burst)
+📖 [Read original article](https://www.usesara.ai)
 
 ---
 
-## 20. Ask HN: Did Aaron Swartz make modern AI possible?
+## 20. 'AI' might be the end of our careers
 
-**Author:** amichail  
-**Published:** 11/26/2026, 12:27:30 AM  
+**Author:** tosbourn  
+**Published:** 11/26/2026, 5:29:28 PM  
 **Categories:** -  
 
-Did the backlash against Aaron Swartz's prosecution following his death reduce the appetite for criminal prosecution in cases involving unauthorized copying of digital information?If so, did this make AI companies more willing to take the legal risk of acquiring copyrighted material without permissi...
+Article URL: https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/ Comments URL: https://news.ycombinator.com/item?id=50657452 Points: 22 # Comments: 28
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50649707)
+📖 [Read original article](https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/)
 
 ---
