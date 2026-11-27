@@ -2,12 +2,12 @@
 title: "OpenAI Blog - 2026-11-24"
 date: "2026-11-24"
 source: "OpenAI Blog"
-count: 5
+count: 2
 ---
 
 # OpenAI Blog - 2026-11-24
 
-5 items collected.
+2 items collected.
 
 ---
 
@@ -32,41 +32,5 @@ GPT-6 models design protein structures and sequences using reasoning and code. L
 See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.
 
 📖 [Read original article](https://openai.com/index/searching-for-distant-planets-with-astra)
-
----
-
-## 3. How Intentful uses dots to make more time for growth
-
-**Author:** -  
-**Published:** 11/24/2026, 12:00:00 AM  
-**Categories:** -  
-
-Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.
-
-📖 [Read original article](https://openai.com/business/customer-stories/intentful-dots)
-
----
-
-## 4. How iFood scales coding agents across 15,000 repositories
-
-**Author:** -  
-**Published:** 11/24/2026, 12:00:00 AM  
-**Categories:** -  
-
-
-
-📖 [Read original article](https://openai.com/business/customer-stories/ifood)
-
----
-
-## 5. Clay helps sales teams win with Codex and ChatGPT
-
-**Author:** -  
-**Published:** 11/24/2026, 12:00:00 AM  
-**Categories:** -  
-
-ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.
-
-📖 [Read original article](https://openai.com/business/customer-stories/clay-plugins-openai)
 
 ---
