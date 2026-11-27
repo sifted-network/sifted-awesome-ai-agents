@@ -11,242 +11,242 @@ count: 20
 
 ---
 
-## 1. $140k in debt to Google cloud due to AI token usage. any ideas?
+## 1. AMD and Intel's AI Compute Extensions Integrated into GCC
 
-**Author:** ro-han_solo  
-**Published:** 11/27/2026, 7:04:28 AM  
+**Author:** walterbell  
+**Published:** 11/27/2026, 8:33:34 PM  
 **Categories:** -  
 
-I've racked up a bill of roughly $140k credits during the development of my startup over the past year. about 3% of that is from product usage, the rest all came from software development.don't know what to do. any ideas? Comments URL: https://news.ycombinator.com/item?id=50663736 Points: 1 # Commen...
+Article URL: https://cryptobriefing.com/amd-intel-ai-compute-extensions-gcc/ Comments URL: https://news.ycombinator.com/item?id=50671375 Points: 1 # Comments: 0
 
-📖 [Read original article](https://news.ycombinator.com/item?id=50663736)
+📖 [Read original article](https://cryptobriefing.com/amd-intel-ai-compute-extensions-gcc/)
 
 ---
 
-## 2. Who gets to decide if something is written by AI?
+## 2. German sofware giant SAP weighs at least 10k job cuts amid AI shift
 
-**Author:** Jasonsf737  
-**Published:** 11/27/2026, 7:02:54 AM  
+**Author:** rustoo  
+**Published:** 11/27/2026, 8:26:15 PM  
 **Categories:** -  
 
-Article URL: https://www.seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/ Comments URL: https://news.ycombinator.com/item?id=50663720 Points: 1 # Comments: 0
+Article URL: https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say Comments URL: https://news.ycombinator.com/item?id=50671308 Points: 1 # Comments: 0
 
-📖 [Read original article](https://www.seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/)
+📖 [Read original article](https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say)
 
 ---
 
-## 3. Mark to Swap: How the Market Is Mispricing the AI Boom
+## 3. Prospero: Bloat-free, native AI coding harness with ImGui
 
-**Author:** mudil  
-**Published:** 11/27/2026, 6:54:16 AM  
+**Author:** ingve  
+**Published:** 11/27/2026, 8:23:14 PM  
 **Categories:** -  
 
-Article URL: https://www.groundbrkr.com/p/mark-to-swap-how-the-market-is-mispricing Comments URL: https://news.ycombinator.com/item?id=50663669 Points: 1 # Comments: 0
+Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 1 # Comments: 0
+
+📖 [Read original article](https://github.com/skeeto/prospero)
+
+---
+
+## 4. The Physics Wall Facing Orbital AI Data Centers
+
+**Author:** g-b-r  
+**Published:** 11/27/2026, 8:22:23 PM  
+**Categories:** -  
+
+Article URL: https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers Comments URL: https://news.ycombinator.com/item?id=50671269 Points: 1 # Comments: 0
+
+📖 [Read original article](https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers)
+
+---
+
+## 5. Pan Cooke ( pancooke): \"A comic I wrote about AI art and what we risk to lose.\"
+
+**Author:** teddyh  
+**Published:** 11/27/2026, 8:01:33 PM  
+**Categories:** -  
+
+Article URL: https://substack.com/@pancooke/note/c-395539528 Comments URL: https://news.ycombinator.com/item?id=50671028 Points: 2 # Comments: 0
+
+📖 [Read original article](https://substack.com/@pancooke/note/c-395539528)
+
+---
+
+## 6. Show HN: I gave my AI Agents Production backed Memory
+
+**Author:** SubomiG  
+**Published:** 11/27/2026, 7:58:45 PM  
+**Categories:** -  
+
+Hi HN, I’m building Codela to help coding agents learn from what happens after their code ships. I realized that my AI agent writes a change, the tests pass, and it gets deployed. Then in production a problem happens, I fix it, but what it did wrong and why never reaches the agent, so futures sessio...
+
+📖 [Read original article](https://usecodela.com/)
+
+---
+
+## 7. Show HN: Machine-load – see which AI coding session is slowing your Mac
+
+**Author:** michaelraygrant  
+**Published:** 11/27/2026, 7:24:30 PM  
+**Categories:** -  
+
+Article URL: https://github.com/Stak-Technologies/machine-load Comments URL: https://news.ycombinator.com/item?id=50670688 Points: 2 # Comments: 0
+
+📖 [Read original article](https://github.com/Stak-Technologies/machine-load)
+
+---
+
+## 8. AI Guardrail Demo No Successes Yet
+
+**Author:** clockwerkconten  
+**Published:** 11/27/2026, 7:18:59 PM  
+**Categories:** -  
+
+Article URL: https://guardrail-api-core-production.up.railway.app/ Comments URL: https://news.ycombinator.com/item?id=50670639 Points: 1 # Comments: 0
+
+📖 [Read original article](https://guardrail-api-core-production.up.railway.app/)
+
+---
+
+## 9. REE: A Scientific Research Entrance Exam for AI Agents
+
+**Author:** Betelbuddy  
+**Published:** 11/27/2026, 7:13:20 PM  
+**Categories:** -  
+
+Article URL: https://arxiv.org/abs/2611.34646 Comments URL: https://news.ycombinator.com/item?id=50670584 Points: 1 # Comments: 1
+
+📖 [Read original article](https://arxiv.org/abs/2611.34646)
+
+---
+
+## 10. AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil
+
+**Author:** gmays  
+**Published:** 11/27/2026, 7:07:22 PM  
+**Categories:** -  
+
+Article URL: https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil Comments URL: https://news.ycombinator.com/item?id=50670531 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil)
+
+---
+
+## 11. US Stocks rise in abbreviated Black Friday trading as AI concerns ease
+
+**Author:** nephihaha  
+**Published:** 11/27/2026, 7:03:46 PM  
+**Categories:** -  
+
+Article URL: https://www.upi.com/Top_News/US/2026/11/27/stocks-AI-thanksgiving/3631795799509/ Comments URL: https://news.ycombinator.com/item?id=50670486 Points: 2 # Comments: 0
+
+📖 [Read original article](https://www.upi.com/Top_News/US/2026/11/27/stocks-AI-thanksgiving/3631795799509/)
+
+---
+
+## 12. Show HN: A local-first AI memory for your video footage
+
+**Author:** iliashad  
+**Published:** 11/27/2026, 7:02:01 PM  
+**Categories:** -  
+
+I'm Ilias, the creator behind Orcah Studio (a local-first knowledge system that will transcribe, perform speaker diarization, analyse frames, and create multi-modal embeddings) using open-weight modelsDemo video: https://youtu.be/9uUZrayDEgsI built a Docker-first solution, fully open source here: ht...
+
+📖 [Read original article](https://news.ycombinator.com/item?id=50670468)
+
+---
+
+## 13. Sandboxed AI models talk via GPU rounding errors on shared vLLM servers
+
+**Author:** mpartel  
+**Published:** 11/27/2026, 6:40:22 PM  
+**Categories:** -  
+
+Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through Comments URL: https://news.ycombinator.com/item?id=5067...
+
+📖 [Read original article](https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through)
+
+---
+
+## 14. Mark to Swap: How the Market Is Mispricing the AI Boom
+
+**Author:** 7777777phil  
+**Published:** 11/27/2026, 6:40:15 PM  
+**Categories:** -  
+
+Article URL: https://www.groundbrkr.com/p/mark-to-swap-how-the-market-is-mispricing Comments URL: https://news.ycombinator.com/item?id=50670225 Points: 2 # Comments: 0
 
 📖 [Read original article](https://www.groundbrkr.com/p/mark-to-swap-how-the-market-is-mispricing)
 
 ---
 
-## 4. The group chat where your AI talks behind your back
+## 15. Mozilla is now an AI company (2025)
 
-**Author:** utiiiD  
-**Published:** 11/27/2026, 6:44:34 AM  
+**Author:** ErenayDev  
+**Published:** 11/27/2026, 6:29:14 PM  
 **Categories:** -  
 
-Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 14 # Comments: 3
+Article URL: https://alextheward.com/blog/mozilla_is_now_an_ai_company Comments URL: https://news.ycombinator.com/item?id=50670101 Points: 5 # Comments: 0
 
-📖 [Read original article](https://construct22.com/)
+📖 [Read original article](https://alextheward.com/blog/mozilla_is_now_an_ai_company)
 
 ---
 
-## 5. Beattape.ai – Lofi Psychedelic Nostalgia
+## 16. AI
 
-**Author:** pj4533  
-**Published:** 11/27/2026, 6:22:40 AM  
+**Author:** drfoxiis  
+**Published:** 11/27/2026, 6:12:11 PM  
 **Categories:** -  
 
-Article URL: https://beattape.ai/ Comments URL: https://news.ycombinator.com/item?id=50663447 Points: 3 # Comments: 1
+Article URL: https://github.com/aifleyind/fleyaiwindowsexe Comments URL: https://news.ycombinator.com/item?id=50669895 Points: 1 # Comments: 0
 
-📖 [Read original article](https://beattape.ai/)
+📖 [Read original article](https://github.com/aifleyind/fleyaiwindowsexe)
 
 ---
 
-## 6. We trained time-series AI models on AWS Trainium2, 2x cheaper than H200s
+## 17. I'm Scared of AI
 
-**Author:** masquare  
-**Published:** 11/27/2026, 6:15:08 AM  
+**Author:** mgirkins  
+**Published:** 11/27/2026, 5:45:31 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/martinmaritsch/status/2126195898795573437 Comments URL: https://news.ycombinator.com/item?id=50663399 Points: 1 # Comments: 0
+Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 189 # Comments: 211
 
-📖 [Read original article](https://twitter.com/martinmaritsch/status/2126195898795573437)
+📖 [Read original article](https://thesoapbox.email/archive/3)
 
 ---
 
-## 7. The AI labs are rumored to have results relevant to crypto
+## 18. German government wants AI providers to pay up
 
-**Author:** justusw  
-**Published:** 11/27/2026, 5:59:26 AM  
+**Author:** giuliomagnifico  
+**Published:** 11/27/2026, 5:38:36 PM  
 **Categories:** -  
 
-Article URL: https://twitter.com/secparam/status/2126079107817787693 Comments URL: https://news.ycombinator.com/item?id=50663304 Points: 1 # Comments: 1
+Article URL: https://www.deutschland.de/en/news/german-government-wants-ai-providers-to-pay-up Comments URL: https://news.ycombinator.com/item?id=50669491 Points: 1 # Comments: 0
 
-📖 [Read original article](https://twitter.com/secparam/status/2126079107817787693)
+📖 [Read original article](https://www.deutschland.de/en/news/german-government-wants-ai-providers-to-pay-up)
 
 ---
 
-## 8. Show HN: Telegram image bot – 3 free AI images a day, 1 USDT = 10
+## 19. The Jevons Paradox of AI Code
 
-**Author:** alexchen-dev  
-**Published:** 11/27/2026, 5:27:33 AM  
+**Author:** bexxmodd  
+**Published:** 11/27/2026, 5:23:56 PM  
 **Categories:** -  
 
-Article URL: https://alexchen-imgbot-sales.containers.snapdeploy.app/ Comments URL: https://news.ycombinator.com/item?id=50663124 Points: 4 # Comments: 0
+Article URL: https://bexx.io/post/the-jevons-paradox-of-automated-code/ Comments URL: https://news.ycombinator.com/item?id=50669307 Points: 1 # Comments: 0
 
-📖 [Read original article](https://alexchen-imgbot-sales.containers.snapdeploy.app/)
+📖 [Read original article](https://bexx.io/post/the-jevons-paradox-of-automated-code/)
 
 ---
 
-## 9. The simplest way to let your users bring their own AI sub to power your AI app
+## 20. Tech Stocks Jump as Investors Take a Break from AI Jitters
 
-**Author:** _mad_eye_  
-**Published:** 11/27/2026, 5:14:46 AM  
+**Author:** doener  
+**Published:** 11/27/2026, 5:17:43 PM  
 **Categories:** -  
 
-Article URL: https://byoa.rippling.computer/ Comments URL: https://news.ycombinator.com/item?id=50663034 Points: 2 # Comments: 0
+Article URL: https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846 Comments URL: https://news.ycombinator.com/item?id=50669230 Points: 2 # Comments: 0
 
-📖 [Read original article](https://byoa.rippling.computer/)
-
----
-
-## 10. Show HN: AshuTeacher – Free AI tutor, voice blackboard and thesis studio
-
-**Author:** sanzayageminite  
-**Published:** 11/27/2026, 4:10:12 AM  
-**Categories:** -  
-
-Article URL: https://ashuteacher.vercel.app Comments URL: https://news.ycombinator.com/item?id=50662700 Points: 1 # Comments: 0
-
-📖 [Read original article](https://ashuteacher.vercel.app)
-
----
-
-## 11. Doctors, beware: AI threatens to weaken your relationships with patients
-
-**Author:** madihaa  
-**Published:** 11/27/2026, 3:59:38 AM  
-**Categories:** -  
-
-Article URL: https://www.aamc.org/news/doctors-beware-ai-threatens-weaken-your-relationships-patients Comments URL: https://news.ycombinator.com/item?id=50662629 Points: 3 # Comments: 1
-
-📖 [Read original article](https://www.aamc.org/news/doctors-beware-ai-threatens-weaken-your-relationships-patients)
-
----
-
-## 12. Beating Stockfish 18 in Zero- Dependency Rust with AI [pdf]
-
-**Author:** iamronaldo  
-**Published:** 11/27/2026, 3:54:49 AM  
-**Categories:** -  
-
-Article URL: https://github.com/deedy/chess-chatarunga/blob/main/docs/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50662601 Points: 1 # Comments: 1
-
-📖 [Read original article](https://github.com/deedy/chess-chatarunga/blob/main/docs/paper.pdf)
-
----
-
-## 13. Ask HN: Why can AI prove Riemann but not solve cust svc problems?
-
-**Author:** louiereederson  
-**Published:** 11/27/2026, 3:24:06 AM  
-**Categories:** -  
-
-I’m genuinely curious on perspectives here. My hunch is some of the answers might imply the existential risk to humanity is not quite what it seems.My hypothesis is that you need both verifiability and a domain-native semantic model/self-contained symbolic universe. Those conditions don’t hold for a...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=50662399)
-
----
-
-## 14. Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"
-
-**Author:** droidjj  
-**Published:** 11/27/2026, 2:46:19 AM  
-**Categories:** -  
-
-Article URL: https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big Comments URL: https://news.ycombinator.com/item?id=50662164 Points: 18 # Comments: 0
-
-📖 [Read original article](https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big)
-
----
-
-## 15. New AI research suggests AI bubble bursting and to expect major market collapse
-
-**Author:** nreece  
-**Published:** 11/27/2026, 2:44:12 AM  
-**Categories:** -  
-
-Article URL: https://www.london.edu/think/ai-bubble-about-to-burst Comments URL: https://news.ycombinator.com/item?id=50662153 Points: 32 # Comments: 16
-
-📖 [Read original article](https://www.london.edu/think/ai-bubble-about-to-burst)
-
----
-
-## 16. Ask HN: What do you think of AI powered universal mind control?
-
-**Author:** analog8374  
-**Published:** 11/27/2026, 2:33:02 AM  
-**Categories:** -  
-
-It's common to consult an AI via your cell phone for just about everything. Every little question.A little authority that lives in your pocket and answers all your questions and tells you what's right and wrong and what's true and false.That makes an excellent form of mind control. And when everybod...
-
-📖 [Read original article](https://news.ycombinator.com/item?id=50662093)
-
----
-
-## 17. Omarchy 4.6 Released with More Local AI Integration, Its Own File Manager
-
-**Author:** mikece  
-**Published:** 11/27/2026, 1:37:30 AM  
-**Categories:** -  
-
-Article URL: https://www.phoronix.com/news/Omarchy-4.6-Released Comments URL: https://news.ycombinator.com/item?id=50661805 Points: 9 # Comments: 0
-
-📖 [Read original article](https://www.phoronix.com/news/Omarchy-4.6-Released)
-
----
-
-## 18. Musk pledges two SpaceX shares for every US child in $18B AI charm offensive
-
-**Author:** JumpCrisscross  
-**Published:** 11/27/2026, 12:59:08 AM  
-**Categories:** -  
-
-Article URL: https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26/ Comments URL: https://news.ycombinator.com/item?id=50661559 Points: 3 # Comments: 2
-
-📖 [Read original article](https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26/)
-
----
-
-## 19. Show HN: Scolast – AI tutor for autodidacts inspired by Bloom's 2 sigma problem
-
-**Author:** PavleMiha  
-**Published:** 11/27/2026, 12:43:12 AM  
-**Categories:** -  
-
-I was using Claude to learn physics and I was getting a bit frustrated with the interface (I kept interrupting the conversation to get a quick explainer on something, and there was no good interface for Claude to ask me questions) so I built Scolast!It's an AI tutor that follows Bloom's findings (ht...
-
-📖 [Read original article](https://scolast.com)
-
----
-
-## 20. Left to Solve: 57,410 open math problems, attacked by AI agents
-
-**Author:** frozenseven  
-**Published:** 11/27/2026, 12:07:25 AM  
-**Categories:** -  
-
-Article URL: https://lefttosolve.com/ Comments URL: https://news.ycombinator.com/item?id=50661242 Points: 3 # Comments: 0
-
-📖 [Read original article](https://lefttosolve.com/)
+📖 [Read original article](https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846)
 
 ---
